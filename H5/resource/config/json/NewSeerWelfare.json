@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "newSeer7Sign",
+            "type": 1,
+            "sorting": 1,
+            "Go": 142,
+            "beginning": "",
+            "ending": "",
+            "statLog": "",
+            "redPointID": 1
+        }
+    ]
+}

@@ -64,7 +64,7 @@ class AutoUpdater_H5:
             if response.status_code == 200:
                 break
         if response.status_code != 200:
-            print(f"{baseName}不存在")
+            print(f"{baseName}doesn't exists")
             return
         
         if not savePath or os.path.splitext(savePath)[-1] == ".json":

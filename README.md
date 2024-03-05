@@ -1,2 +1,2 @@
 # SeerDatabase
-自动更新赛尔号游戏相关数据，包括H5端的json配置文件、解密后js文件以及Flash端部分解密后SWF。（不定期更新SWF逆向得到的ActionScript文件，急需请自行使用JPEXS Free Flash Decompiler自行逆向）
+自动更新赛尔号游戏相关数据，包括H5端的json配置文件、解密后js文件以及Flash端部分解密后SWF。（不定期更新SWF逆向得到的ActionScript文件，急需请使用JPEXS Free Flash Decompiler自行逆向）

@@ -1,0 +1,2069 @@
+{
+    "root": {
+        "steps": [
+            {
+                "substep": [
+                    {
+                        "type": 1,
+                        "sound": "xinshou_1.mp3",
+                        "swfName": "xinshoumanhua1",
+                        "width": 1408,
+                        "height": 640,
+                        "stat": "完成过场动画1"
+                    },
+                    {
+                        "type": 6,
+                        "bossId": 1136,
+                        "stat": "进入对战教学1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "205,523,173,94",
+                        "startEvent": "new_round",
+                        "endEvent": "fightResult",
+                        "align": "center",
+                        "event": "useSkill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 10825,
+                        "tipPos": "415,177",
+                        "tip": "点击技能【雷神天明闪】，向混沌魔君索伦森发起攻击",
+                        "tipTitle": "使用攻击技能",
+                        "stat": "点击技能雷神天明闪F1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "fight_alarmClick"
+                    }
+                ],
+                "step": 1
+            },
+            {
+                "substep": [
+                    {
+                        "type": 1,
+                        "sound": "xinshou_2.mp3",
+                        "swfName": "xinshoumanhua2",
+                        "width": 1408,
+                        "height": 640,
+                        "stat": "完成过场动画2"
+                    },
+                    {
+                        "type": 14,
+                        "mapId": 2001,
+                        "stat": "切换新手场景"
+                    },
+                    {
+                        "type": 8,
+                        "npcs": "2,3,4",
+                        "stat": "首次打开训练营面板"
+                    },
+                    {
+                        "type": 3,
+                        "talkGroupId": 25
+                    },
+                    {
+                        "type": 1,
+                        "sound": "xinshou_3.mp3",
+                        "swfName": "xinshoumanhua3",
+                        "width": 1408,
+                        "height": 640,
+                        "stat": "完成过场动画3"
+                    },
+                    {
+                        "type": 8,
+                        "npcs": "2,3,4,5,6,7,8",
+                        "stat": "训练营面板更新1"
+                    },
+                    {
+                        "type": 3,
+                        "talkGroupId": 26
+                    },
+                    {
+                        "type": 4,
+                        "param": "41392:1:2",
+                        "outputPanel": 128,
+                        "stat": "打开输出01面板"
+                    }
+                ],
+                "step": 2,
+                "npcs": "2,3,4,5,6,7,8"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 27
+                    },
+                    {
+                        "type": 7,
+                        "bossId": 18061,
+                        "stat": "进入对战教学2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "113,522,171,95",
+                        "startEvent": "new_round",
+                        "align": "center",
+                        "event": "useSkill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 17709,
+                        "tipPos": "415,177",
+                        "tip": "长按【梦·超级吸取】，可查看其详细效果；点击技能【梦·超级吸取】，向冰拳莫特发起攻击",
+                        "tipTitle": "使用攻击技能",
+                        "stat": "点击技能梦超级吸取F2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "999.93,524,106,106",
+                        "handOffSet": "-55,5",
+                        "handRotation": 0,
+                        "rotation": 45,
+                        "startEvent": "new_round",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": -0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPet",
+                        "tipPos": "415,177",
+                        "tip": "对方是冰属性精灵，能对草系精灵造成额外伤害；战局对我们不利，【切换】克制他的精灵出战吧！",
+                        "tipTitle": "切换精灵",
+                        "stat": "切换精灵对战冰拳墨特F2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "196,519,176,107",
+                        "event": "select_pet",
+                        "align": "left",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2845,
+                        "tipPos": "415,177",
+                        "tip": "【萌火猴】是火属性精灵，能对冰系精灵造成额外伤害，选他出战！",
+                        "tipTitle": "属性克制",
+                        "stat": "点击萌火猴F2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "193,408,181,205",
+                        "handType": 4,
+                        "align": "left",
+                        "event": "change_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2845,
+                        "tipPos": "415,177",
+                        "tip": "上滑【萌火猴】，使其出战，注意：切换精灵出场的回合就无法再行动了！",
+                        "tipTitle": "上滑确认出战",
+                        "stat": "上滑确认出战F2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "113,522,171,95",
+                        "startEvent": "new_round",
+                        "endEvent": "fightResult",
+                        "align": "center",
+                        "event": "useSkill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 17779,
+                        "tipPos": "415,177",
+                        "tip": "长按【炽·魔焰裂空击】，可查看其详细效果；点击技能【炽·魔焰裂空击】；向冰拳莫特发起攻击！",
+                        "tipTitle": "使用高威力技能",
+                        "stat": "点击技能炽魔焰裂空击F2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "fight_alarmClick"
+                    }
+                ],
+                "step": 3,
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2826,2858,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 28
+                    },
+                    {
+                        "type": 4,
+                        "param": "41392:1:4",
+                        "stat": "打开输出02面板"
+                    }
+                ],
+                "step": 4,
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2826,2858,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 29
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "193,98,88,109",
+                        "align": "left",
+                        "startEvent": "pet_bag_init_completed",
+                        "event": "select_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2845,
+                        "tipPos": "380,151",
+                        "tip": "点击萌火猴的【头像】，选中萌火猴",
+                        "tipTitle": "提升精灵等级",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "710,569,40",
+                        "align": "center",
+                        "rectType": 2,
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnDetail",
+                        "tipPos": "380,151",
+                        "tip": "点击【养成】按钮，对萌火猴进行养成",
+                        "tipTitle": "提升精灵等级",
+                        "stat": "查看萌火猴详情属性T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "681,565,127,40",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnLv100",
+                        "tipPos": "168,148",
+                        "tip": "点击【升至满级】按钮，将萌火猴升至100级",
+                        "tipTitle": "提升精灵等级",
+                        "stat": "点击升至满级T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "603,362,127,40",
+                        "align": "center",
+                        "handOffSet": "35,12",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认提升"
+                    },
+                    {
+                        "type": 12
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "168,148",
+                        "tip": "点击【<】按钮，关闭详情页面，返回背包主界面",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵详细面板"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "align": "left",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "415,177",
+                        "tip": "点击【<】按钮，关闭精灵背包",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵背包T1"
+                    }
+                ],
+                "step": 5,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2826,2858,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 30
+                    },
+                    {
+                        "type": 7,
+                        "bossId": 18062,
+                        "teach": 1,
+                        "stat": "进入对战教学3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "113,522,171,95",
+                        "startEvent": "new_round",
+                        "align": "center",
+                        "event": "useSkill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 17709,
+                        "tipPos": "415,177",
+                        "tip": "点击技能【梦·超级吸取】，向攻击型TOH发起攻击！",
+                        "tipTitle": "使用攻击技能",
+                        "stat": "点击技能梦超级吸取F3.1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "944,484,52,52",
+                        "align": "right",
+                        "rotation": 45,
+                        "startEvent": "new_round",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnItem",
+                        "tipPos": "415,177",
+                        "tip": "对手的攻击很高，这样下去萌布布种子很快会被击败。我们需要使用药剂补充HP，请点击【道具】",
+                        "tipTitle": "使用药剂",
+                        "stat": "点击道具F3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "14,527,78,78",
+                        "align": "left",
+                        "event": "select_pet_item",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 300742,
+                        "tipPos": "415,177",
+                        "tip": "【长效体力药剂】能够持续恢复精灵的体力，点击选中它，上滑给萌布布种子使用吧！",
+                        "tipTitle": "使用药剂",
+                        "stat": "点击长效体力药剂F3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "14,410,82,178",
+                        "handType": 4,
+                        "align": "left",
+                        "event": "usePetItem",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 300742,
+                        "tipPos": "415,177",
+                        "tip": "【长效体力药剂】能够持续恢复精灵的体力，点击选中它，上滑给萌布布种子使用吧！",
+                        "tipTitle": "使用药剂",
+                        "stat": "使用长效体力药剂F3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "113,522,171,95",
+                        "startEvent": "new_round",
+                        "endEvent": "fightResult",
+                        "align": "center",
+                        "event": "useSkill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 17709,
+                        "tipPos": "415,177",
+                        "tip": "刚才的药剂使萌布布种子获得了持续回血的效果，现在放心的进攻吧！",
+                        "tipTitle": "使用攻击技能",
+                        "stat": "点击技能梦超级吸取F3.2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "fight_alarmClick"
+                    }
+                ],
+                "step": 6,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2826,2858,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 31
+                    },
+                    {
+                        "type": 4,
+                        "param": "41392:1:7",
+                        "stat": "打开输出03面板"
+                    }
+                ],
+                "step": 7,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2826,2858,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 32
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "193,98,88,109",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "left",
+                        "event": "select_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2845,
+                        "tipPos": "380,151",
+                        "tip": "点击萌火猴的【头像】，选中萌火猴",
+                        "tipTitle": "分配学习力",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "710,569,40",
+                        "rectType": 2,
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnDetail",
+                        "tipPos": "380,151",
+                        "tip": "点击【养成】按钮，对萌火猴进行养成",
+                        "tipTitle": "分配学习力",
+                        "stat": "点击萌火猴T2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1091,252,35",
+                        "rectType": 2,
+                        "align": "right",
+                        "handOffSet": "-19,23",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnStudy",
+                        "tipPos": "168,148",
+                        "tip": "选择【学习力】页签，对萌火猴进行学习力分配",
+                        "tipTitle": "分配学习力",
+                        "stat": "点击提升学习力T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "779,377,39,23",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnMax1",
+                        "tipPos": "168,148",
+                        "tip": "点击【MAX】，将攻击和速度的学习力分配全部分配至255",
+                        "tipTitle": "分配学习力",
+                        "stat": "点击快速提升T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "779,477,39,23",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnMax5",
+                        "tipPos": "168,148",
+                        "tip": "点击【MAX】，将攻击和速度的学习力分配全部分配至255",
+                        "tipTitle": "分配学习力",
+                        "stat": "点击快速提升T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "861,565,128,42",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnOk",
+                        "tipPos": "168,148",
+                        "tip": "点击【确认分配】按钮，完成学习力分配",
+                        "tipTitle": "分配学习力",
+                        "stat": "点击快速提升T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "603,362,127,40",
+                        "align": "center",
+                        "handOffSet": "35,12",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认分配T2"
+                    },
+                    {
+                        "type": 12
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "168,148",
+                        "tip": "点击【<】按钮，关闭养成页面，返回精灵背包主界面",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵详细面板"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "415,177",
+                        "tip": "点击【<】按钮，关闭精灵背包",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵背包T1"
+                    }
+                ],
+                "step": 8,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2826,2858,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 33
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包S1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "98,98,88,109",
+                        "align": "left",
+                        "event": "select_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2858,
+                        "tipPos": "380,151",
+                        "tip": "首先需要选中你需要设为首发的精灵，点击【萌伊优】",
+                        "tipTitle": "设置首发精灵",
+                        "stat": "点击萌伊优S1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "5,98,181,109",
+                        "handType": 5,
+                        "handOffSet": "17,-12",
+                        "align": "left",
+                        "event": "set_default",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2858,
+                        "tipPos": "380,151",
+                        "tip": "拖动【萌伊优】到【萌布布种子】位置，然后松手",
+                        "tipTitle": "设置首发精灵",
+                        "stat": "将萌伊优拖动至首发位置"
+                    }
+                ],
+                "step": 9,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2826,2858,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPet"
+                    },
+                    {
+                        "type": 9,
+                        "condition": "1,10,0",
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 3,
+                        "talkGroupId": 34
+                    },
+                    {
+                        "type": 5,
+                        "rect": "710,569,40",
+                        "rectType": 2,
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnDetail",
+                        "tipPos": "380,151",
+                        "tip": "点击【养成】按钮，对萌伊优进行养成",
+                        "tipTitle": "更换精灵技能",
+                        "stat": "点击萌伊优详细"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1091,459,35",
+                        "rectType": 2,
+                        "align": "right",
+                        "handOffSet": "-19,23",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnSkill",
+                        "tipPos": "168,148",
+                        "tip": "选择【技能】页签，打开萌伊优的技能库",
+                        "tipTitle": "更换精灵技能",
+                        "stat": "点击技能页签"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "811,237,29,29",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnChangeSkill",
+                        "tipPos": "168,148",
+                        "tip": "点击【更换技能】按钮，开始更换技能",
+                        "tipTitle": "更换精灵技能",
+                        "stat": "点击更换技能"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "695,278,203,79",
+                        "align": "center",
+                        "event": "select_pet_skill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 17835,
+                        "tipPos": "414,145",
+                        "tip": "将【涛·高压水枪】替换为【涛·剑舞】，首先点击【涛·剑舞】",
+                        "tipTitle": "更换精灵技能",
+                        "stat": "将【涛·高压水枪】替换为【涛·剑舞】，首先点击【涛·剑舞】"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "697,404,92,26",
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnChange",
+                        "tipPos": "414,145",
+                        "tip": "点击【替换】按钮，完成技能替换",
+                        "tipTitle": "更换精灵技能",
+                        "stat": "点击替换"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "646,208,227,94",
+                        "align": "right",
+                        "event": "change_skill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 17835,
+                        "tipPos": "414,145",
+                        "tip": "选择待替换的目标技能：【涛·高压水枪】，完成技能替换",
+                        "tipTitle": "更换精灵技能",
+                        "stat": "点击技能"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "petBag.PetInfoUpdate"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "align": "left",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "168,148",
+                        "tip": "点击【<】按钮，关闭技能页面，返回背包主界面",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵详细面板"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "align": "left",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "380,151",
+                        "tip": "点击【<】按钮，关闭精灵背包",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵背包T1"
+                    }
+                ],
+                "step": 10,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 35,
+                        "stat": "完成对话框68"
+                    },
+                    {
+                        "type": 7,
+                        "bossId": 18063,
+                        "teach": 1,
+                        "stat": "进入对战教学4"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "113,522,171,95",
+                        "startEvent": "new_round",
+                        "align": "center",
+                        "event": "useSkill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 17839,
+                        "tipPos": "415,177",
+                        "tip": "点击技能【涛·湍流龙击打】，向芒克发起攻击！",
+                        "tipTitle": "使用攻击技能",
+                        "stat": "点击技能涛湍流龙击打F4"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "483,522,171,95",
+                        "startEvent": "new_round",
+                        "endEvent": "fightResult",
+                        "align": "center",
+                        "event": "useSkill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 17835,
+                        "tipPos": "415,177",
+                        "tip": "对手的速度更快，每回合会先出手，所以我们需要用先制技能抢先出手击败他。点击技能【涛·剑舞】",
+                        "tipTitle": "使用攻击技能",
+                        "stat": "点击技能涛剑舞F4"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "fight_alarmClick"
+                    }
+                ],
+                "step": 11,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 36
+                    },
+                    {
+                        "type": 4,
+                        "param": "41392:1:12",
+                        "stat": "打开输出04面板"
+                    }
+                ],
+                "step": 12,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 37
+                    },
+                    {
+                        "type": 7,
+                        "bossId": 18064,
+                        "stat": "进入对战教学5"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "296,523,172,92",
+                        "startEvent": "new_round",
+                        "align": "center",
+                        "event": "useSkill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 24306,
+                        "tipPos": "415,177",
+                        "tip": "对手的等级比较高，我们后发制人。点击技能【涛·水天一色】，强化自己",
+                        "tipTitle": "使用属性技能",
+                        "stat": "点击技能涛水天一色F5"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "113,522,171,95",
+                        "startEvent": "new_round",
+                        "endEvent": "fightResult",
+                        "align": "center",
+                        "event": "useSkill",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 17839,
+                        "tipPos": "415,177",
+                        "tip": "强化后，萌伊优的攻击和速度已经高于对手了。点击技能【涛·湍流龙击打】，击败对手吧！",
+                        "tipTitle": "使用攻击技能",
+                        "stat": "点击技能涛湍流龙击打F5"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "fight_alarmClick"
+                    }
+                ],
+                "step": 13,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 38
+                    },
+                    {
+                        "type": 4,
+                        "param": "41392:1:14",
+                        "stat": "打开输出05面板"
+                    }
+                ],
+                "step": 14,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 39
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "DISABLE_DRAG"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "193,98,88,109",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "left",
+                        "event": "select_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2845,
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "710,569,40",
+                        "rectType": 2,
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnDetail",
+                        "tipPos": "380,151",
+                        "tip": "点击【养成】按钮，对萌火猴进行养成",
+                        "tipTitle": "提升精灵天赋",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1091,183,35",
+                        "rectType": 2,
+                        "align": "right",
+                        "handOffSet": "-19,23",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnGenius",
+                        "tipPos": "168,148",
+                        "tip": "选择【性格天赋】页签，对萌火猴进行天赋调整",
+                        "tipTitle": "提升精灵天赋",
+                        "stat": "点击提升学习力T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "645,311,70,70",
+                        "handOffSet": "24,10",
+                        "align": "right",
+                        "event": "click_item",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 300791,
+                        "tipPos": "146,138",
+                        "tip": "点击选中道具：【至强天赋药剂】",
+                        "tipTitle": "使用天赋养成道具",
+                        "stat": "点击至强天赋药剂T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "705,358,90,24",
+                        "await": 200,
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnUse",
+                        "tipPos": "168,148",
+                        "tip": "点击【使用】按钮",
+                        "tipTitle": "使用天赋养成道具",
+                        "stat": "点击使用"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "603,362,127,40",
+                        "align": "center",
+                        "handOffSet": "35,12",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认使用T2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "event_use_item_successful"
+                    }
+                ],
+                "step": 15,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 40
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "193,98,88,109",
+                        "handOffSet": "-19,23",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "left",
+                        "event": "select_pet",
+                        "condition": "2,isContinueEffect",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2845,
+                        "tipPos": "380,151",
+                        "tip": "点击萌火猴的【头像】，选中萌火猴",
+                        "tipTitle": "调整精灵性格",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "710,569,40",
+                        "rectType": 2,
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnDetail",
+                        "condition": "2,isContinueEffect",
+                        "tipPos": "380,151",
+                        "tip": "点击【养成】按钮，对萌火猴进行养成",
+                        "tipTitle": "调整精灵性格",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "2,isContinueEffect"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1091,183,35",
+                        "rectType": 2,
+                        "align": "right",
+                        "handOffSet": "-19,23",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnGenius",
+                        "condition": "2,isContinueEffect",
+                        "tipPos": "168,148",
+                        "tip": "点击【性格养成】按钮",
+                        "tipTitle": "调整精灵性格",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "737,270,100,34",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnEffect",
+                        "tipPos": "168,148",
+                        "tip": "选择【性格养成】页签，对萌火猴进行性格调整",
+                        "tipTitle": "调整精灵性格",
+                        "stat": "点击调整性格T4"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "645,311,70,70",
+                        "align": "right",
+                        "event": "click_item",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 300082,
+                        "tipPos": "168,148",
+                        "tip": "点击选中道具：【性格转化剂：开朗】",
+                        "tipTitle": "使用性格养成道具",
+                        "stat": "点击性格转化剂开朗T4"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "705,358,90,24",
+                        "handOffSet": "24,10",
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnUse",
+                        "tipPos": "168,148",
+                        "tip": "点击【使用】按钮",
+                        "tipTitle": "使用性格养成道具",
+                        "stat": "点击使用"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "603,362,127,40",
+                        "align": "center",
+                        "handOffSet": "35,12",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认T2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "event_use_item_successful"
+                    }
+                ],
+                "step": 16,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 41
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "193,98,88,109",
+                        "handOffSet": "-19,23",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "left",
+                        "event": "select_pet",
+                        "condition": "2,isContinueSEffect",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2845,
+                        "tipPos": "380,151",
+                        "tip": "点击萌火猴的【头像】，选中萌火猴",
+                        "tipTitle": "开启精灵特性",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "710,569,40",
+                        "rectType": 2,
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnDetail",
+                        "condition": "2,isContinueSEffect",
+                        "tipPos": "380,151",
+                        "tip": "点击【养成】按钮，对萌火猴进行养成",
+                        "tipTitle": "开启精灵特性",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "2,isContinueSEffect"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1091,321,35",
+                        "rectType": 2,
+                        "align": "right",
+                        "handOffSet": "-19,23",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnSEffect",
+                        "tipPos": "168,148",
+                        "tip": "选择【特性】页签，为萌火猴开启特性",
+                        "tipTitle": "开启精灵特性",
+                        "stat": "点击特性详情T5"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "645,221,70,70",
+                        "align": "right",
+                        "event": "click_item",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 300063,
+                        "tipPos": "168,148",
+                        "tip": "点击选中道具：【特性开启晶片Ω】",
+                        "tipTitle": "使用特性开启道具",
+                        "stat": "点击开启特性T5"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "705,445,90,24",
+                        "handOffSet": "24,10",
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnUse",
+                        "tipPos": "144,138",
+                        "tip": "点击【使用】按钮",
+                        "tipTitle": "使用特性开启道具",
+                        "stat": "点击使用"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "603,362,127,40",
+                        "align": "center",
+                        "handOffSet": "35,12",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认T2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "event_use_item_successful"
+                    }
+                ],
+                "step": 17,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 42
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "193,98,88,109",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "left",
+                        "event": "select_pet",
+                        "condition": "2,isContinueHealth",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2845,
+                        "tipPos": "380,151",
+                        "tip": "点击萌火猴的【头像】，选中萌火猴",
+                        "tipTitle": "提升体力上限",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "710,569,40",
+                        "rectType": 2,
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnDetail",
+                        "condition": "2,isContinueHealth",
+                        "tipPos": "380,151",
+                        "tip": "点击【养成】按钮，对萌火猴进行养成",
+                        "tipTitle": "提升体力上限",
+                        "stat": "点击萌火猴详情T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "2,isContinueHealth"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1091,113,35",
+                        "rectType": 2,
+                        "align": "right",
+                        "handOffSet": "-19,23",
+                        "event": "click_button",
+                        "condition": "2,isRestartHealth",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnUpLevel",
+                        "tipPos": "168,148",
+                        "tip": "点击【升级】按钮，为萌火猴提升体力上限",
+                        "tipTitle": "提升体力上限",
+                        "stat": "点击提升体力上限T6"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "847,272,92,31",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnHealth",
+                        "tipPos": "168,148",
+                        "tip": "选择【体力养成】页签，为萌火猴提升体力上限",
+                        "tipTitle": "提升体力上限",
+                        "stat": "点击提升体力上限T6"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "645,312,70,70",
+                        "align": "right",
+                        "event": "click_item",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 300021,
+                        "tipPos": "168,148",
+                        "tip": "点击选中道具：【初级体力上限提升药剂Ω】",
+                        "tipTitle": "使用体力上限养成道具",
+                        "stat": "点击初级体力上限提升药剂T4"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "705,358,90,24",
+                        "handOffSet": "24,10",
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnUse",
+                        "tipPos": "168,148",
+                        "tip": "点击【使用】按钮",
+                        "tipTitle": "使用体力上限养成道具",
+                        "stat": "点击使用"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "603,362,127,40",
+                        "align": "center",
+                        "handOffSet": "35,12",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认使用T2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "event_use_item_successful"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "align": "left",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "168,148",
+                        "tip": "点击【<】按钮，关闭详情页面，返回背包主界面",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵详细面板"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "align": "left",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "415,177",
+                        "tip": "点击【<】按钮，关闭精灵背包",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵背包T1"
+                    }
+                ],
+                "step": 18,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 43
+                    },
+                    {
+                        "type": 8,
+                        "npcs": "2,3,4,5,9,10,11,12",
+                        "stat": "训练营面板更新2"
+                    },
+                    {
+                        "type": 3,
+                        "talkGroupId": 44
+                    },
+                    {
+                        "type": 7,
+                        "bossId": 18065,
+                        "mustWin": 1,
+                        "failDialogID": 54,
+                        "stat": "进入真实对战"
+                    }
+                ],
+                "step": 19,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 45
+                    },
+                    {
+                        "type": 4,
+                        "param": "41392:1:20",
+                        "outputPanel": 129,
+                        "stat": "打开输出06面板"
+                    }
+                ],
+                "step": 20,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11,12",
+                "pets": "2858,2826,2845"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 46
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "5,214,88,109",
+                        "handOffSet": "19,23",
+                        "align": "left",
+                        "startEvent": "pet_bag_init_completed",
+                        "event": "select_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 3582,
+                        "tipPos": "380,151",
+                        "tip": "先需要选中你要装备刻印的精灵，请点击【几米】",
+                        "tipTitle": "刻印养成",
+                        "stat": "点击几米T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "710,569,40",
+                        "rectType": 2,
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnDetail",
+                        "tipPos": "380,151",
+                        "tip": "点击【养成】按钮，对几米进行养成",
+                        "tipTitle": "刻印养成",
+                        "stat": "点击详细"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1091,390,35",
+                        "rectType": 2,
+                        "align": "right",
+                        "handOffSet": "-19,23",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnMark",
+                        "tipPos": "168,148",
+                        "tip": "选择【刻印】页签，为几米进行刻印养成",
+                        "tipTitle": "刻印养成",
+                        "stat": "点击详细"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "933,73,98,31",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btn2",
+                        "tipPos": "168,148",
+                        "tip": "选择【二角刻印】，查看你拥有的两属性增幅刻印",
+                        "tipTitle": "刻印养成",
+                        "stat": "点击详细"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "714,161,74,70",
+                        "align": "right",
+                        "event": "click_mark",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 40916,
+                        "tipPos": "168,148",
+                        "tip": "点击选中刻印：【衡·巨刃】，它可以大幅增加几米的攻击和体力",
+                        "tipTitle": "升级刻印",
+                        "stat": "选中目标刻印T7"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "651,410,133,23",
+                        "align": "center",
+                        "endEvent": "mark_max_level",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnLevelUp",
+                        "tipPos": "168,81",
+                        "tip": "点击【刻印升级】按钮，将刻印升至满级5级",
+                        "tipTitle": "升级刻印",
+                        "stat": "点击（反复）升级刻印"
+                    },
+                    {
+                        "type": 11
+                    }
+                ],
+                "step": 21,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11,12",
+                "pets": "2858,2826,2845,3582"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 47
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "5,214,88,109",
+                        "align": "left",
+                        "startEvent": "pet_bag_init_completed",
+                        "event": "select_pet",
+                        "condition": "2,isContinueMark",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 3582,
+                        "tipPos": "380,151",
+                        "tip": "先需要选中你要装备刻印的精灵，点击【几米】",
+                        "tipTitle": "装备刻印",
+                        "stat": "点击吉米T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "710,569,40",
+                        "rectType": 2,
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnDetail",
+                        "condition": "2,isContinueMark",
+                        "tipPos": "380,151",
+                        "tip": "点击【养成】按钮，查看几米的详细属性",
+                        "tipTitle": "装备刻印",
+                        "stat": "点击详细"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "2,isContinueMark"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1091,390,35",
+                        "rectType": 2,
+                        "handOffSet": "-19,23",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnMark",
+                        "condition": "2,isContinueMark",
+                        "tipPos": "168,148",
+                        "tip": "选择【刻印】页签，对几米进行刻印养成",
+                        "tipTitle": "升级刻印",
+                        "stat": "点击详细"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "933,73,98,31",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btn2",
+                        "condition": "2,isContinueMark",
+                        "tipPos": "168,148",
+                        "tip": "选择【二角刻印】，查看你拥有的两属性增幅刻印",
+                        "tipTitle": "升级刻印",
+                        "stat": "点击详细"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "714,161,74,70",
+                        "await": 600,
+                        "align": "right",
+                        "event": "click_mark",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 40916,
+                        "tipPos": "168,148",
+                        "tip": "点击选中刻印：【衡·巨刃】",
+                        "tipTitle": "装备刻印",
+                        "stat": "点击刻印中心T7"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "352,410,90,23",
+                        "align": "center",
+                        "handOffSet": "20,5",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPutOn",
+                        "tipPos": "168,81",
+                        "tip": "点击【装备】，将刻印装备到几米身上",
+                        "tipTitle": "装备刻印",
+                        "stat": "点击升级刻印"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "603,362,127,40",
+                        "align": "center",
+                        "condition": "2,isSkipBind",
+                        "handOffSet": "35,12",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnOk",
+                        "tipPos": "168,81",
+                        "tip": "点击【确定】，将刻印装备到几米身上",
+                        "tipTitle": "装备刻印",
+                        "stat": "点击确认分配T2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "equipOn"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "handOffSet": "22,14",
+                        "align": "left",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "282,524",
+                        "tip": "点击【<】按钮，关闭刻印养成页面，返回背包主界面",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵详细面板"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "handOffSet": "22,14",
+                        "align": "left",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "168,148",
+                        "tip": "点击【<】按钮，关闭精灵背包",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵背包T1"
+                    }
+                ],
+                "step": 22,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11,12",
+                "pets": "2858,2826,2845,3582"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 48
+                    },
+                    {
+                        "type": 4,
+                        "param": "41392:1:23",
+                        "outputPanel": 130,
+                        "stat": "打开输出07面板"
+                    }
+                ],
+                "step": 23,
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,9,10,11,12",
+                "pets": "2858,2826,2845,3582"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 49
+                    },
+                    {
+                        "type": 5,
+                        "rect": "490,586,90,35",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnInfo",
+                        "stat": "点击个人按钮S4"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1042,520,45",
+                        "rectType": 2,
+                        "handOffSet": "-18,-105",
+                        "useMobileOffSet": "true",
+                        "align": "right",
+                        "handType": 2,
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnSuit",
+                        "tipPos": "615,134",
+                        "tip": "点击【编辑装扮】按钮，进入外观装备界面",
+                        "tipTitle": "选择装备穿戴",
+                        "stat": "点击编辑装扮"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "742,563,124,36",
+                        "await": 1300,
+                        "handOffSet": "35,12",
+                        "align": "center",
+                        "rectType": 1,
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnAllDressUp",
+                        "tipPos": "615,134",
+                        "tip": "点击【一键穿戴】按钮，套装选择界面",
+                        "tipTitle": "选择装备穿戴",
+                        "stat": "点击一键穿戴"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "650,470,124,36",
+                        "handOffSet": "35,12",
+                        "align": "center",
+                        "rectType": 1,
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnSuit",
+                        "tipPos": "259,470",
+                        "tip": "点击【装备】按钮，穿戴杰出新兵套装",
+                        "tipTitle": "选择装备穿戴",
+                        "stat": "点击装备"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "handOffSet": "22,14",
+                        "align": "left",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "615,134",
+                        "tip": "点击【<】按钮，关闭个人信息面板",
+                        "tipTitle": "返回",
+                        "stat": "关闭个人信息面板"
+                    }
+                ],
+                "step": 24,
+                "toolbar": "btnPet,btnInfo",
+                "npcs": "2,3,4,5,9,10,11,12",
+                "pets": "2858,2826,2845,3582"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 50
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "PAUSE_SHOW_ACHIEVE_NOTICE"
+                    },
+                    {
+                        "type": 4,
+                        "param": "41392:1:25",
+                        "outputPanel": 131,
+                        "stat": "打开输出08面板"
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "RESUME_SHOW_ACHIEVE_NOTICE"
+                    }
+                ],
+                "step": 25,
+                "toolbar": "btnPet,btnInfo",
+                "npcs": "2,3,4,5,9,10,11,12",
+                "pets": "2858,2826,2845,3582"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 51
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "PAUSE_SHOW_ACHIEVE_NOTICE"
+                    },
+                    {
+                        "type": 4,
+                        "param": "41392:1:26",
+                        "outputPanel": 132,
+                        "stat": "打开输出09面板"
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "RESUME_SHOW_ACHIEVE_NOTICE"
+                    }
+                ],
+                "step": 26,
+                "toolbar": "btnPet,btnInfo",
+                "npcs": "2,3,4,5,9,10,11,12",
+                "pets": "2858,2826,2845,3582,70,261,798,875,1633"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 52
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,586,96,36",
+                        "handOffSet": "0,-94",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "540,569,40",
+                        "rectType": 2,
+                        "align": "center",
+                        "startEvent": "pet_bag_init_completed",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnWarehouse",
+                        "tipPos": "380,151",
+                        "tip": "点击【仓库】按钮，打开精灵仓库",
+                        "tipTitle": "从仓库取精灵",
+                        "stat": "点击精灵仓库"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "424,130,106,126",
+                        "getRect": 3891,
+                        "align": "left",
+                        "androidOffSetX": 0,
+                        "event": "select_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 3891,
+                        "tipPos": "264,521",
+                        "tip": "选中需要放入背包的目标精灵：【未来·伊优】",
+                        "tipTitle": "从仓库取精灵",
+                        "stat": "选中未来伊优"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "707,539,85,33",
+                        "align": "right",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnInBag",
+                        "tipPos": "264,521",
+                        "tip": "点击【加入背包】按钮",
+                        "tipTitle": "从仓库取精灵",
+                        "stat": "点击放入背包，将未来·伊优从仓库中取出"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "232,160,98,119",
+                        "align": "center",
+                        "rectType": 1,
+                        "event": "replace_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 2858,
+                        "tipPos": "264,521",
+                        "tip": "选择待替换的目标：【萌伊优】",
+                        "tipTitle": "从仓库取精灵",
+                        "stat": "替换萌伊优"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "603,362,127,40",
+                        "align": "center",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnOk",
+                        "tipPos": "264,521",
+                        "tip": "点击【确定】按钮，完成精灵替换",
+                        "tipTitle": "从仓库取精灵",
+                        "stat": "点击确认分配T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "align": "left",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "264,521",
+                        "tip": "点击【<】按钮，关闭精灵仓库",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵仓库面板"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "close_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,203,49",
+                        "align": "left",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "380,151",
+                        "tip": "点击【<】按钮，关闭精灵背包",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵背包T1"
+                    },
+                    {
+                        "type": 3,
+                        "talkGroupId": 53
+                    }
+                ],
+                "step": 27,
+                "toolbar": "btnPet,btnInfo",
+                "npcs": "2,3,4,5,13",
+                "pets": "2858,2826,2845,3582,70,261,798,875,1633"
+            }
+        ]
+    }
+}

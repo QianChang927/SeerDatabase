@@ -1,0 +1,301 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "moduleId": 59,
+            "actionName": "星愿漂流瓶",
+            "controller": "AutoOpenAttributeController",
+            "state": 0,
+            "param1": "12462",
+            "param2": "!0",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 2,
+            "moduleId": 58,
+            "actionName": "谱尼挑战",
+            "controller": "AutoOpenAttributeController",
+            "state": 0,
+            "param1": "12462",
+            "param2": "1",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 3,
+            "moduleId": 68,
+            "actionName": "艾欧丽娅艾娅",
+            "controller": "AutoOpenBitsetController",
+            "state": 0,
+            "param1": "12462",
+            "param2": "0",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 4,
+            "moduleId": 68,
+            "actionName": "艾欧丽娅艾娅",
+            "controller": "AutoOpenBitsetController",
+            "state": 0,
+            "param1": "12462",
+            "param2": "1",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 5,
+            "moduleId": 59,
+            "actionName": "星愿漂流瓶",
+            "controller": "AutoOpenDailyController",
+            "state": 0,
+            "param1": "wish_bottle",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 6,
+            "moduleId": 59,
+            "actionName": "星愿漂流瓶",
+            "controller": "AutoOpenWeeklyController",
+            "state": 0,
+            "param1": "wish_bottle",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 7,
+            "moduleId": 59,
+            "actionName": "星愿漂流瓶 特殊控制",
+            "controller": "AutoOpenWishBottleController",
+            "state": 0,
+            "param1": "",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 8,
+            "moduleId": 142,
+            "actionName": "新手七日礼",
+            "controller": "AutoOpenNewSeerSignController",
+            "state": 1,
+            "param1": "120200,120204,120208",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 9,
+            "moduleId": 143,
+            "actionName": "2022清明签到",
+            "controller": "AutoOpenDailyController",
+            "state": 0,
+            "param1": "qingMingSign2022",
+            "param2": "",
+            "startTime": "2022,3,1,00,00,00",
+            "endTime": "2022,3,7,00,00,00"
+        },
+        {
+            "id": 10,
+            "moduleId": 145,
+            "actionName": "五一签到",
+            "controller": "AutoOpenByValue",
+            "state": 1,
+            "param1": "201551",
+            "param2": "",
+            "startTime": "2023/4/28",
+            "endTime": "2023/5/12"
+        },
+        {
+            "id": 11,
+            "moduleId": 147,
+            "actionName": "2022端午签到",
+            "controller": "AutoOpenDailySignDragonBoat2022",
+            "state": 0,
+            "param1": "121311",
+            "param2": "",
+            "startTime": "2022/6/2",
+            "endTime": "2022/6/6"
+        },
+        {
+            "id": 12,
+            "moduleId": 152,
+            "actionName": "主线强弹面板",
+            "controller": "AutoOpenMainLinePopController",
+            "state": 0,
+            "param1": "",
+            "param2": "",
+            "startTime": "2022/8/19",
+            "endTime": "2022/9/19"
+        },
+        {
+            "id": 13,
+            "moduleId": 161,
+            "actionName": "2022中秋签到",
+            "controller": "AutoOpenDailySignDragonBoat2022",
+            "state": 0,
+            "param1": "121535",
+            "param2": "",
+            "startTime": "2022/9/9",
+            "endTime": "2022/9/13"
+        },
+        {
+            "id": 14,
+            "moduleId": 165,
+            "actionName": "2022国庆签到",
+            "controller": "AutoOpenDailySignNationalDay2022",
+            "state": 0,
+            "param1": "121111",
+            "param2": "",
+            "startTime": "2022/9/30",
+            "endTime": "2022/10/8"
+        },
+        {
+            "id": 15,
+            "moduleId": 186,
+            "actionName": "2023淘乐节签到",
+            "controller": "AutoOpenByValue",
+            "state": 1,
+            "param1": "201511",
+            "param2": "121538_7",
+            "startTime": "2023/11/23",
+            "endTime": "2023/12/8"
+        },
+        {
+            "id": 16,
+            "moduleId": 196,
+            "actionName": "元旦签到",
+            "controller": "AutoOpenNewYearSignPanelController",
+            "state": 1,
+            "param1": "121553,121552",
+            "param2": "",
+            "startTime": "2023/12/30",
+            "endTime": "2024/1/2"
+        },
+        {
+            "id": 17,
+            "moduleId": 0,
+            "actionName": "微信红包推广",
+            "controller": "AutoOpenWechatRedPacketController",
+            "state": 0,
+            "param1": "",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 18,
+            "moduleId": 134,
+            "actionName": "寒假签到",
+            "controller": "AutoOpenHoliday",
+            "state": 1,
+            "param1": "201347,121161",
+            "param2": "",
+            "startTime": "2024/1/26",
+            "endTime": "2024/2/29"
+        },
+        {
+            "id": 19,
+            "moduleId": 189,
+            "actionName": "回流",
+            "controller": "AutoOpenBackflowPopController",
+            "state": 1,
+            "param1": "",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 20,
+            "moduleId": 215,
+            "actionName": "植树节签到",
+            "controller": "AutoOpenDailyController",
+            "state": 1,
+            "param1": "tree",
+            "param2": "121557_5",
+            "startTime": "2023/3/10",
+            "endTime": "2023/3/17"
+        },
+        {
+            "id": 21,
+            "moduleId": 235,
+            "actionName": "23周年庆签到",
+            "controller": "AutoOpenByValue",
+            "state": 1,
+            "param1": "201580",
+            "param2": "121580_28",
+            "startTime": "2023/6/2",
+            "endTime": "2023/7/7"
+        },
+        {
+            "id": 22,
+            "moduleId": 250,
+            "actionName": "暑假签到",
+            "controller": "AutoOpenSummerSignController",
+            "state": 1,
+            "param1": "201441,121531",
+            "param2": "",
+            "startTime": "2023/7/21",
+            "endTime": "2023/8/25"
+        },
+        {
+            "id": 23,
+            "moduleId": 252,
+            "actionName": "七夕签到",
+            "controller": "AutoOpenDailyController",
+            "state": 1,
+            "param1": "qixigiftsign",
+            "param2": "",
+            "startTime": "2023/8/18",
+            "endTime": "2023/8/23"
+        },
+        {
+            "id": 24,
+            "moduleId": 100,
+            "actionName": "勇者征程",
+            "controller": "AutoOpenWarriorJourneyController",
+            "state": 1,
+            "param1": "",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 25,
+            "moduleId": 254,
+            "actionName": "开学签到",
+            "controller": "AutoOpenDailySignInController",
+            "state": 1,
+            "param1": "121586",
+            "param2": "",
+            "startTime": "2023/9/1",
+            "endTime": "2023/9/4"
+        },
+        {
+            "id": 26,
+            "moduleId": 261,
+            "actionName": "2023国庆签到",
+            "controller": "AutoOpenDailySignNationalDay2023",
+            "state": 1,
+            "param1": "1000625",
+            "param2": "",
+            "startTime": "2023/9/28",
+            "endTime": "2023/10/6"
+        },
+        {
+            "id": 27,
+            "moduleId": 270,
+            "actionName": "新春签到",
+            "controller": "AutoOpenDailySignSpringFestival",
+            "state": 1,
+            "param1": "121593,201589",
+            "param2": "",
+            "startTime": "2024/2/10",
+            "endTime": "2024/2/23"
+        }
+    ]
+}

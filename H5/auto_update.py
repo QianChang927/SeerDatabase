@@ -64,12 +64,13 @@ class AutoUpdater_H5:
             if response.status_code == 200:
                 break
         if response.status_code != 200:
-            print(f"{baseName}doesn't exists")
+            print(f"{baseName} doesn't exists")
             return
         
-        if not savePath or os.path.splitext(savePath)[-1] == ".json":
+        fileExt: str = os.path.splitext(savePath)[-1]
+        if not savePath or fileExt == '.json':
             content: dict = response.json()
-        else:
+        elif fileExt == '.js':
             content: str = response.text
 
         if savePath:
@@ -77,12 +78,12 @@ class AutoUpdater_H5:
             if not os.path.exists(saveDir):
                 os.makedirs(saveDir)
 
-            if os.path.splitext(savePath)[-1] == ".json":
-                with open(savePath, "w", encoding = "utf-8") as f:
+            if fileExt == '.json':
+                with open(savePath, 'w', encoding = 'utf-8') as f:
                     f.write(json.dumps(content, indent = 4, ensure_ascii = False))
-            else:
+            elif fileExt == '.js':
                 content: str = self.decoder(content)
-                with open(savePath, "w", encoding = "utf-8") as f:
+                with open(savePath, 'w', encoding = 'utf-8') as f:
                     f.write(content)
         
         return content

@@ -1470,6 +1470,11 @@ AbstractEffectInfo = function() {
         i = 0; 6 > i; i++) 0 != t[i] && (r = t[i] > 0 ? "+": "", e = this.propDict[i] + r + t[i] + "，", o += e);
         return n = o.slice(0, o.length - 1)
     },
+    t.prototype.getPropertyStr_Loss = function(t) {
+        for (var e, n, r, o = "",
+        i = 0; 6 > i; i++) 0 != t[i] && (r = t[i] > 0 ? "-": "", e = this.propDict[i] + r + t[i] + "，", o += e);
+        return n = o.slice(0, o.length - 1)
+    },
     t
 } ();
 __reflect(AbstractEffectInfo.prototype, "AbstractEffectInfo");
@@ -2168,6 +2173,11 @@ EffectInfo = function(t) {
                             break;
                         case "22":
                             e[_] = SkillXMLInfo.petTypeNameCN(t[Number(_)]);
+                            break;
+                        case "24":
+                            var u = t.slice(_, Number(_) + 7);
+                            l = this.getPropertyStr_Loss(u),
+                            e[_] = l;
                             break;
                         default:
                             l = this.getCommParamStr(Number(a), t[Number(_)]),

@@ -18,7 +18,7 @@ function(t) {
     var e = function(e) {
         function i(i) {
             var n = e.call(this) || this;
-            if (n.isOutTime = !1, n.getInfo(10), i) {
+            if (n.isOutTime = !1, n.getInfo(11), i) {
                 if (n.isOutTime || ~~i != ~~t.DataConst.CurrentPetID) return Alarm.show("不在活动时间范围内",
                 function() {
                     n.onClose(),
@@ -124,8 +124,8 @@ function(t) {
             i.curProgess = 0,
             i.curTimes = 0,
             i.AnimTEST = !1,
-            i.iconNames = ["振风庇护", "雷鸣脉冲", "驰骋毁灭", "独断执念"],
-            i.iconNameColor = 5791135,
+            i.iconNames = ["暗夜呢喃", "幽冥象征", "梦呓袭染", "侵神魅影"],
+            i.iconNameColor = 8277664,
             i.skinName = "oracleAdvance.BattlepanelSkin",
             i.sumProgress = t.DataConst.TaskInfo.AllProgress,
             i
@@ -389,9 +389,9 @@ function(t) {
             ImageButtonUtil.add(this.btnGet,
             function() {
                 StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击主界面-【前往获取精灵】按钮"),
-                ModuleManager.showModuleByID(144, {
-                    panelName: "MALL",
-                    mallMenu: 3
+                ModuleManager.showModuleByID(15, {
+                    type: "7",
+                    petId: 3156
                 })
             },
             this),
@@ -482,7 +482,7 @@ function(t) {
             this.icon.source = ClientConfig.getItemIcon(1724858),
             this.skillData = PetAdvanceXMLInfo.getAdvanceSkill(t.DataConst.CurrentPetID);
             var e = PetAdvanceXMLInfo.getAdvanceFifthSkill(t.DataConst.CurrentPetID);
-            e.length > 0 && (A = this.skillData).push.apply(A, e);
+            e.length > 0 && (T = this.skillData).push.apply(T, e);
             var i = t.DataConst.FreeTime.startTime.toString(),
             n = t.DataConst.FreeTime.endTime.toString(),
             a = i.slice(0, 4) + "/" + i.slice(4, 6) + "/" + i.slice(6, 8) + " 00:00:00",
@@ -544,7 +544,7 @@ function(t) {
                 }
             }
             this.update();
-            var A
+            var T
         }, i.prototype.update = function() {
             var e = this;
             SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 7],
@@ -825,7 +825,7 @@ generateEUI.paths["resource/eui_skins/BattlepanelSkin.exml"] = window.oracleAdva
     },
     i._Image1_i = function() {
         var t = new eui.Image;
-        return t.horizontalCenter = 0,
+        return t.horizontalCenter = -20,
         t.source = "oa_battlepanel_imgpet_png",
         t.verticalCenter = 0,
         t
@@ -851,7 +851,7 @@ generateEUI.paths["resource/eui_skins/BattlepanelSkin.exml"] = window.oracleAdva
     i._Image3_i = function() {
         var t = new eui.Image;
         return t.horizontalCenter = 0,
-        t.source = "oa_battlepanel_icon1_png",
+        t.source = "oa_battlepanel_icon4_png",
         t.verticalCenter = -5,
         t.visible = !0,
         t
@@ -870,6 +870,7 @@ generateEUI.paths["resource/eui_skins/BattlepanelSkin.exml"] = window.oracleAdva
         return t.horizontalCenter = 0,
         t.source = "oa_battlepanel_iconName_png",
         t.verticalCenter = 45,
+        t.visible = !0,
         t
     },
     i.txtIcon1_i = function() {
@@ -883,6 +884,7 @@ generateEUI.paths["resource/eui_skins/BattlepanelSkin.exml"] = window.oracleAdva
         t.text = "          ",
         t.textColor = 16777215,
         t.verticalCenter = 45,
+        t.visible = !0,
         t
     },
     i.item2_i = function() {
@@ -942,10 +944,10 @@ generateEUI.paths["resource/eui_skins/BattlepanelSkin.exml"] = window.oracleAdva
         var t = new eui.Group;
         return this.item3 = t,
         t.height = 0,
-        t.horizontalCenter = 6.5,
+        t.horizontalCenter = 10,
         t.visible = !0,
         t.width = 0,
-        t.y = 453,
+        t.y = 465,
         t.elementsContent = [this._Image8_i(), this._Image9_i(), this.unlock3_i(), this._Image10_i(), this.txtIcon3_i()],
         t
     },
@@ -1013,7 +1015,7 @@ generateEUI.paths["resource/eui_skins/BattlepanelSkin.exml"] = window.oracleAdva
     i._Image12_i = function() {
         var t = new eui.Image;
         return t.horizontalCenter = 0,
-        t.source = "oa_battlepanel_icon4_png",
+        t.source = "oa_battlepanel_icon1_png",
         t.verticalCenter = -5,
         t
     },
@@ -1119,15 +1121,16 @@ generateEUI.paths["resource/eui_skins/BattlepanelSkin.exml"] = window.oracleAdva
     i.grp_notDone_i = function() {
         var t = new eui.Group;
         return this.grp_notDone = t,
-        t.horizontalCenter = 50.5,
+        t.horizontalCenter = -12.5,
         t.visible = !0,
-        t.y = 500,
+        t.width = 407,
+        t.y = 520,
         t.elementsContent = [this._Group1_i(), this.btnUnlock_i(), this.btnyijian_i()],
         t
     },
     i._Group1_i = function() {
         var t = new eui.Group;
-        return t.x = 82,
+        return t.horizontalCenter = 0,
         t.y = 0,
         t.elementsContent = [this._Image17_i(), this.txt_needNum_i(), this.icon3_i()],
         t
@@ -1163,16 +1166,16 @@ generateEUI.paths["resource/eui_skins/BattlepanelSkin.exml"] = window.oracleAdva
     i.btnUnlock_i = function() {
         var t = new eui.Image;
         return this.btnUnlock = t,
+        t.horizontalCenter = 95.5,
         t.source = "oa_battlepanel_btnunlock_png",
-        t.x = 149,
         t.y = 50,
         t
     },
     i.btnyijian_i = function() {
         var t = new eui.Image;
         return this.btnyijian = t,
+        t.horizontalCenter = -56.5,
         t.source = "oa_battlepanel_btnyijian_png",
-        t.x = 0,
         t.y = 50,
         t
     },
@@ -1524,19 +1527,21 @@ generateEUI.paths["resource/eui_skins/Infopop1Skin.exml"] = window.oracleAdvance
     },
     i._Group1_i = function() {
         var t = new eui.Group;
-        return t.x = 33,
-        t.y = 88,
+        return t.height = 330,
+        t.width = 210,
+        t.x = 20,
+        t.y = 66,
         t.elementsContent = [this.pet_i(), this._Image3_i()],
         t
     },
     i.pet_i = function() {
         var t = new eui.Image;
         return this.pet = t,
-        t.height = 276,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
         t.source = "oa_infopop_petImg1_png",
-        t.width = 175,
-        t.x = 4,
-        t.y = 4,
+        t.top = 0,
         t
     },
     i._Image3_i = function() {
@@ -1544,6 +1549,7 @@ generateEUI.paths["resource/eui_skins/Infopop1Skin.exml"] = window.oracleAdvance
         return t.height = 283,
         t.scale9Grid = new egret.Rectangle(6, 7, 6, 5),
         t.source = "oa_infopop1_kuang_png",
+        t.visible = !1,
         t.width = 184,
         t.x = 0,
         t.y = 0,
@@ -2122,20 +2128,22 @@ generateEUI.paths["resource/eui_skins/Infopop2Skin.exml"] = window.oracleAdvance
     },
     i._Group1_i = function() {
         var t = new eui.Group;
-        return t.x = 33,
-        t.y = 88,
+        return t.height = 330,
+        t.width = 210,
+        t.x = 20,
+        t.y = 60,
         t.elementsContent = [this.pet_i(), this._Image3_i()],
         t
     },
     i.pet_i = function() {
         var t = new eui.Image;
         return this.pet = t,
-        t.height = 276,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
         t.scaleX = 1,
         t.source = "oa_infopop_petImg1_png",
-        t.width = 175,
-        t.x = 4,
-        t.y = 4,
+        t.top = 0,
         t
     },
     i._Image3_i = function() {
@@ -2143,6 +2151,7 @@ generateEUI.paths["resource/eui_skins/Infopop2Skin.exml"] = window.oracleAdvance
         return t.height = 283,
         t.scale9Grid = new egret.Rectangle(6, 7, 6, 5),
         t.source = "oa_infopop1_kuang_png",
+        t.visible = !1,
         t.width = 184,
         t.x = 0,
         t.y = 0,
@@ -2265,9 +2274,9 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
     i.imgPet_i = function() {
         var t = new eui.Image;
         return this.imgPet = t,
+        t.horizontalCenter = -375,
         t.source = "oa_mainpanel_imgpet_png",
         t.visible = !0,
-        t.x = -140,
         t
     },
     i.btnGet_i = function() {
@@ -2282,8 +2291,9 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
     i._Group3_i = function() {
         var t = new eui.Group;
         return t.cacheAsBitmap = !0,
-        t.right = 27,
+        t.right = 18,
         t.visible = !0,
+        t.width = 519,
         t.y = 37,
         t.elementsContent = [this.btnGo_i(), this.btnFastAdvanced_i(), this.btnExchange_i(), this.hasDone_i(), this.skill_i(), this.zhongzu_i(), this.texing_i()],
         t
@@ -2409,7 +2419,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
         t.size = 17,
         t.text = " 20",
         t.textColor = 12841983,
-        t.x = 158,
+        t.x = 152.072,
         t.y = 40,
         t
     },
@@ -2475,7 +2485,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
         t.size = 17,
         t.text = "PP：20",
         t.textColor = 12841983,
-        t.x = 158,
+        t.x = 152.072,
         t.y = 40,
         t
     },
@@ -2542,7 +2552,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
         t.size = 17,
         t.text = "PP：20",
         t.textColor = 12841983,
-        t.x = 158,
+        t.x = 152.072,
         t.y = 40,
         t
     },
@@ -2608,7 +2618,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
         t.size = 17,
         t.text = "PP：20",
         t.textColor = 12841983,
-        t.x = 158,
+        t.x = 152.072,
         t.y = 40,
         t
     },
@@ -2632,6 +2642,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
         var t = new eui.Image;
         return t.scale9Grid = new egret.Rectangle(79, 48, 79, 15),
         t.source = "oa_mainpanel_contenbg_2_png",
+        t.visible = !0,
         t.width = 264,
         t.x = 0,
         t.y = 0,
@@ -2707,7 +2718,8 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
     },
     i._Image11_i = function() {
         var t = new eui.Image;
-        return t.source = "oa_mainpanel_contenbg_1_png",
+        return t.source = "oa_mainpanel_contenbg_2_png",
+        t.visible = !0,
         t.x = 0,
         t.y = 0,
         t
@@ -2716,6 +2728,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
         var t = new eui.Group;
         return this.groupTag = t,
         t.height = 26.345,
+        t.visible = !0,
         t.x = 27,
         t.y = 54,
         t.layout = this._HorizontalLayout1_i(),
@@ -2760,7 +2773,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
     i._Image12_i = function() {
         var t = new eui.Image;
         return t.source = "oa_mainpanel_txjh_png",
-        t.visible = !1,
+        t.visible = !0,
         t.x = 14,
         t.y = 12,
         t
@@ -2768,9 +2781,9 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
     i._Image13_i = function() {
         var t = new eui.Image;
         return t.source = "oa_mainpanel_tuoyuan_1_png",
-        t.visible = !1,
+        t.visible = !0,
         t.x = 190,
-        t.y = 1,
+        t.y = 6,
         t
     },
     i.txt_i = function() {
@@ -2815,7 +2828,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
     i._Group4_i = function() {
         var t = new eui.Group;
         return t.right = 30,
-        t.y = 192,
+        t.y = 185,
         t.elementsContent = [this._Image14_i(), this.txt_tid1_i(), this.txt_tid1_info_i(), this.txt_tid2_i(), this._Label2_i()],
         t
     },
@@ -2880,19 +2893,19 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
     },
     i._Image15_i = function() {
         var t = new eui.Image;
-        return t.right = 0,
+        return t.right = 41,
         t.source = "oa_mainpanel_title1_png",
         t.visible = !0,
-        t.y = 0,
+        t.y = 18.242,
         t
     },
     i.btnHelp_i = function() {
         var t = new eui.Image;
         return this.btnHelp = t,
-        t.right = 135,
+        t.right = 74,
         t.source = "common_help_icon_1_png",
         t.visible = !0,
-        t.y = 80,
+        t.y = 113.182,
         t
     },
     e

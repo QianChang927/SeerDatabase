@@ -2,7 +2,7 @@ import os, json, requests
 import time, datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-os.chdir('./H5')
+os.chdir(os.path.abspath(os.path.dirname(__file__)))
 
 class AutoUpdater_H5:
     # Script Settings
@@ -67,7 +67,7 @@ class AutoUpdater_H5:
             print(f"{baseName} doesn't exists")
             return
         
-        fileExt: str = os.path.splitext(savePath)[-1]
+        fileExt: str = os.path.splitext(baseName)[-1]
         if not savePath or fileExt == '.json':
             content: dict = response.json()
         elif fileExt == '.js':

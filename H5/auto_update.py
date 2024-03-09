@@ -117,4 +117,3 @@ class AutoUpdater_H5:
 if __name__ == '__main__':
     updater = AutoUpdater_H5()
     updater.update()
-    updater.driver.quit()

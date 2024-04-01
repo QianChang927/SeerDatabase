@@ -614,7 +614,8 @@ function(t) {
         n.prototype.childrenCreated = function() {
             e.prototype.childrenCreated.call(this),
             this.addEvent(),
-            this.init()
+            this.init(),
+            this.adaptBgByScale(this.imgBg)
         },
         n.prototype.addEvent = function() {
             var e = this;
@@ -1015,14 +1016,17 @@ function(t) {
             this),
             ImageButtonUtil.add(this.goBtn,
             function() {
-                if (StatLogger.log("运营活动2024", "神谕进阶返场增加两件套购买", "提示弹窗-点击免费【前往获得】"), t.moduleStr) if ("yinzi" == t.moduleStr) ModuleManager.showModuleByID(15, {
-                    type: "7",
-                    petId: "" + t.petId
-                });
-                else {
-                    var e = 0;
-                    e = Number(t.moduleStr),
-                    ModuleManager.showModuleByID(e)
+                if (StatLogger.log("运营活动2024", "神谕进阶返场增加两件套购买", "提示弹窗-点击免费【前往获得】"), t.moduleStr) {
+                    if ("yinzi" == t.moduleStr) ModuleManager.showModuleByID(15, {
+                        type: "7",
+                        petId: "" + t.petId
+                    });
+                    else {
+                        var e = 0;
+                        e = Number(t.moduleStr),
+                        ModuleManager.showModuleByID(e)
+                    }
+                    t.hide()
                 } else Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得")
             },
             this),
@@ -1114,6 +1118,24 @@ function(t) {
                 })
             })
         },
+        n.prototype.init_3514 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3514 = function() {},
+        n.prototype.buyEff_3514 = function() {},
+        n.prototype.init_3507 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3507 = function() {},
+        n.prototype.buyEff_3507 = function() {},
+        n.prototype.init_3954 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3954 = function() {},
+        n.prototype.buyEff_3954 = function() {},
         n
     } (PopView);
     t.NecessaryPop = e,
@@ -1311,6 +1333,7 @@ function(t) {
         n.prototype.setData = function(e, n, i) {
             this.imgCompBg.source = ClientConfig.getPetAdvBackPath(e) + ("compBg_" + e + ".png"),
             this.imgComp.source = ClientConfig.getPetAdvBackPath(e) + ("comp_" + e + "_" + n + ".png"),
+            this.grpUnlock.source = ClientConfig.getPetAdvBackPath(e) + ("grpUnlock_" + e + ".png"),
             this.grpUnlock.visible = !i,
             this.txtCompName.text = t.AdvancedPetBackStore.petAdvCompName.getValue(e)[n - 1],
             this.txtCompID.text = n + "/" + t.AdvancedPetBackStore.petAdvCompName.getValue(e).length
@@ -1816,6 +1839,7 @@ generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreDetailPanelCompSkin.ex
         t.scale9Grid = new egret.Rectangle(3, 3, 48, 49),
         t.source = "compBg_4_png",
         t.verticalCenter = 0,
+        t.visible = !0,
         t.width = 105,
         t.x = 41,
         t.y = 17,
@@ -1832,7 +1856,8 @@ generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreDetailPanelCompSkin.ex
         var t = new eui.Image;
         return this.grpUnlock = t,
         t.horizontalCenter = 0,
-        t.source = "advanced_pet_back_store_detial_panel_grpUnlock_png",
+        t.rotation = 315,
+        t.source = "grpUnlock_1_png",
         t.verticalCenter = 0,
         t.visible = !0,
         t
@@ -1887,7 +1912,7 @@ generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreDetailPanelSkin.exml"]
         t.call(this),
         this.skinParts = ["imgBg", "grpComps", "btnToBuy", "grpBuyComp", "btnStartAdv", "btnPetInfo", "btnStore", "grpAnim", "btnPetBag", "btnGet"],
         this.height = 640,
-        this.width = 1472,
+        this.width = 1290,
         this.elementsContent = [this.imgBg_i(), this.grpComps_i(), this.grpBuyComp_i(), this.btnStartAdv_i(), this.btnPetInfo_i(), this.btnStore_i(), this.grpAnim_i(), this.btnPetBag_i(), this.btnGet_i()]
     }
     __extends(e, t);
@@ -1898,7 +1923,7 @@ generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreDetailPanelSkin.exml"]
         t.height = 640,
         t.horizontalCenter = 0,
         t.verticalCenter = 0,
-        t.width = 1472,
+        t.width = 1290,
         t
     },
     n.grpComps_i = function() {
@@ -2185,7 +2210,7 @@ generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreEnterPanelSkin.exml"] 
         t.right = 45,
         t.source = "advanced_pet_back_store_detial_panel_btnStore_png",
         t.width = 72,
-        t.y = 31,
+        t.y = 17,
         t
     },
     n._src_i = function() {

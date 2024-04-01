@@ -1130,7 +1130,7 @@ function(e) {
         t.prototype.updateView = function() {
             if (this.levelIcon.source = ClientConfig.GetPeakjihadMiniLevelPath(this.info.type + 1), this.level.text = PeakJihadController.RATINGS_NAME[this.info.type], this.currentState = 1 == this.info.group ? "level": "season", 1 == ~~this.info.group) this.setStatus();
             else {
-                var e = ItemManager.parseItem(this.info.reward);
+                var e = ItemManager.parseItem(this.info.rewardshow);
                 this._list.dataProvider = new eui.ArrayCollection(e)
             }
         },
@@ -1139,7 +1139,7 @@ function(e) {
             this.get.visible = 1 == e,
             this.go.visible = 0 == e,
             this.got.visible = 2 == e;
-            var t = ItemManager.parseItem(this.info.reward);
+            var t = ItemManager.parseItem(this.info.rewardshow);
             t = t.map(function(t) {
                 return t.state = e,
                 t

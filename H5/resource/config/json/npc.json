@@ -1284,6 +1284,21 @@
             "id": 4611,
             "npcDes": "渊枭",
             "npcName": ""
+        },
+        {
+            "id": 4612,
+            "npcDes": "魂弦",
+            "npcName": ""
+        },
+        {
+            "id": 4613,
+            "npcDes": "艾克特希",
+            "npcName": ""
+        },
+        {
+            "id": 4617,
+            "npcDes": "猛虎之刃·泰伯",
+            "npcName": ""
         }
     ]
 }

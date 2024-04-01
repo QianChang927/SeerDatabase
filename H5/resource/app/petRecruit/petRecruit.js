@@ -510,7 +510,8 @@ function(t) {
         i.prototype.initPetInfos = function() {
             var t = config.xml.getRes("Monsterpool").Root;
             i.commonPool = t.Pool[0].item,
-            i.limitPool = t.Pool[1].item.concat(t.Pool[0].item)
+            i.limitPool = t.Pool[1].item.concat(t.Pool[0].item);
+            for (var e = 0; e < i.commonPool.length; e++) 1 == i.commonPool[e].kind ? i.petKindCount[0]++:2 == i.commonPool[e].kind ? i.petKindCount[1]++:3 == i.commonPool[e].kind ? i.petKindCount[2]++:4 == i.commonPool[e].kind && i.petKindCount[3]++
         },
         i.prototype.destroy = function() {
             e.prototype.destroy.call(this),
@@ -518,6 +519,7 @@ function(t) {
                 SoundManager.playMusic()
             })
         },
+        i.petKindCount = [0, 0, 0, 0],
         i
     } (BasicMultPanelModule);
     t.PetRecruit = e,
@@ -857,7 +859,6 @@ function(t) {
             EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.setIndex, this)
         },
         i.prototype.init = function() {
-            var e = this;
             this.resize(0),
             this.listPool.itemRenderer = t.DetailItem,
             this.dataProvider = new eui.ArrayCollection,
@@ -865,28 +866,26 @@ function(t) {
             this.arrRate = [],
             this.listRecord.itemRenderer = t.RecordItem,
             this.updateRecord(),
-            RES.getResByUrl("resource/assets/petRecruit/text.json").then(function(t) {
-                e.txt1.textFlow = (new egret.HtmlTextParser).parse("星际招募奖池（永久开放）：" + t.text + "，招募需要道具【星际密令】，【星际密令】<font  color= 0x40E3FB>永久保留</font>；")
-            });
-            var i = "1）SS/S级精灵招募概率是<font  color= 0x40E3FB>逐渐递增</font>的。\n";
-            i += "基础招募概率为0.5%（<font  color= 0x40E3FB>不含任何保底</font>），之后每连续抽取20次，<font  color= 0x40E3FB>招募概率都会随之上升</font>，直到招募出SS/S级精灵，概率会重置为0.5% ，具体如下：\n",
-            i += "1≤招募次数≤59时，<font  color= 0x40E3FB>SS/S级精灵平均产出概率为1.7%</font>\n",
-            i += "招募次数=60时，SS/S级精灵产出<font  color= 0x40E3FB>概率为100%</font>\n",
-            i += "抽到SS/S时，招募次数会重置为0\n",
-            i += "SS/S精灵奖池中：SS级精灵占40%，S级精灵占60%\n",
-            i += "2）A级精灵：\n",
-            i += "A级精灵招募概率固定为23.5% \n",
-            i += "3）B级精灵：\n",
-            i += "B级精灵基础概率为76%，随着招募次数的上升，获得B级精灵的概率会随之下降。\n",
-            i += "*除去限定SS级精灵，每个级别所有精灵均分招募概率",
-            this.txt2.textFlow = (new egret.HtmlTextParser).parse(i),
-            i = "1）十连抽保底获得一只A或A级以上精灵\n",
-            i += "2）每个奖池60抽必得SS/S级精灵，两种奖池分开独立计数\n",
-            i += "3）星际招募SS/S概率<font  color= 0x40E3FB>每月1号重置为基础概率</font>；",
-            this.txt3.textFlow = (new egret.HtmlTextParser).parse(i),
-            i = "星际招募的精灵可以返还道具【星河长明】（<font  color= 0x40E3FB>永久保留</font>）\n",
-            i += "道具可以在商店中兑换绝版精灵、培养道具等。\n",
-            this.txt4.textFlow = (new egret.HtmlTextParser).parse(i)
+            this.txt1.textFlow = (new egret.HtmlTextParser).parse("星际招募奖池（永久开放）：包含" + t.PetRecruit.petKindCount[0] + "个SS级精灵，" + t.PetRecruit.petKindCount[1] + "个S级精灵，" + t.PetRecruit.petKindCount[2] + "个A级精灵，" + t.PetRecruit.petKindCount[3] + "个B级精灵，招募需要道具【星际密令】，【星际密令】<font  color= 0x40E3FB>永久保留</font>；");
+            var e = "1）SS/S级精灵招募概率是<font  color= 0x40E3FB>逐渐递增</font>的。\n";
+            e += "基础招募概率为0.5%（<font  color= 0x40E3FB>不含任何保底</font>），之后每连续抽取20次，<font  color= 0x40E3FB>招募概率都会随之上升</font>，直到招募出SS/S级精灵，概率会重置为0.5% ，具体如下：\n",
+            e += "1≤招募次数≤59时，<font  color= 0x40E3FB>SS/S级精灵平均产出概率为1.7%</font>\n",
+            e += "招募次数=60时，SS/S级精灵产出<font  color= 0x40E3FB>概率为100%</font>\n",
+            e += "抽到SS/S时，招募次数会重置为0\n",
+            e += "SS/S精灵奖池中：SS级精灵占40%，S级精灵占60%\n",
+            e += "2）A级精灵：\n",
+            e += "A级精灵招募概率固定为23.5% \n",
+            e += "3）B级精灵：\n",
+            e += "B级精灵基础概率为76%，随着招募次数的上升，获得B级精灵的概率会随之下降。\n",
+            e += "*除去限定SS级精灵，每个级别所有精灵均分招募概率",
+            this.txt2.textFlow = (new egret.HtmlTextParser).parse(e),
+            e = "1）十连抽保底获得一只A或A级以上精灵\n",
+            e += "2）每个奖池60抽必得SS/S级精灵，两种奖池分开独立计数\n",
+            e += "3）星际招募SS/S概率<font  color= 0x40E3FB>每月1号重置为基础概率</font>；",
+            this.txt3.textFlow = (new egret.HtmlTextParser).parse(e),
+            e = "星际招募的精灵可以返还道具【星河长明】（<font  color= 0x40E3FB>永久保留</font>）\n",
+            e += "道具可以在商店中兑换绝版精灵、培养道具等。\n",
+            this.txt4.textFlow = (new egret.HtmlTextParser).parse(e)
         },
         i.prototype.addEvent = function() {
             var t = this;

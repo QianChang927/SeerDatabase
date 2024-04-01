@@ -154,17 +154,17 @@ function(t) {
             this);
             var o = ("resource/assets/activityCenterRbButton/" + a.name, '<?xml version="1.0" encoding="utf-8" ?>\n            <e:Skin states="up,down,disabled" height="80" id="rb_x' + (i + 1) + '" xmlns:e="http://ns.egret.com/eui" >\n            <e:Image x="-6" verticalCenter="0" source="activity_center_main_panel2_dot_png"/>\n            <e:Image includeIn="down" x="-31" verticalCenter="0"  source="activity_center_main_panel2_selected_png"/>\n            <e:Label x="19" y="4" size="22" height="70" verticalAlign="middle" fontFamily="MFShangHei" text="' + a.labelName + '"\n                textColor="0xa5c6ff" textColor.down="0xFFFFFF"/>\n            </e:Skin>');
             if (this.rb_x.skinName = o, this.name = a.name, this.rb_x.groupName = "ActivityCenter_group", this._scr.height = 0, this.rb_x.value = "" + (i + 1), "" != a.pageChildrenName.trim()) {
-                for (var s = a.pageChildrenName.split("#"), l = s[1], c = s[0].split("_"), u = 0, h = !1, p = function(e) {
+                for (var s = a.pageChildrenName.split("#"), l = s[1], c = s[0].split("_"), h = 0, u = !1, d = function(e) {
                     var n = c[e].split("&"),
                     o = '<?xml version="1.0" encoding="utf-8" ?>\n                    <e:Skin states="up,down,disabled" id="rb_x' + (i + 1) + '" xmlns:e="http://ns.egret.com/eui" >\n                    <e:Label text="' + n[0] + '" fontFamily="MFShangHei" textColor.up="0x859fd3"\n                                     textColor.down="0x3fe3fa" size="18" strokeColor.down="0x3FE3FA" stroke.down="0.1"\n                                     x="0" y="0" width="125" height="40" textAlign="center" verticalAlign="middle" />\n                    </e:Skin>',
                     s = new eui.RadioButton;
                     if (s.skinName = o, s.groupName = l, s.value = n[1], n.length >= 3) {
-                        var p = n[2];
-                        if (!t.DisplayCondition[p]()) return u++,
+                        var d = n[2];
+                        if (!t.DisplayCondition[d]()) return h++,
                         "continue"
                     }
-                    d.childGroup.addChild(s),
-                    0 == h && (d.radioGroup = s.group, d.radioGroup.selectedValue = s.value, d.radioGroup.addEventListener(egret.Event.CHANGE, d.onChangeTab, d), h = !0);
+                    p.childGroup.addChild(s),
+                    0 == u && (p.radioGroup = s.group, p.radioGroup.selectedValue = s.value, p.radioGroup.addEventListener(egret.Event.CHANGE, p.onChangeTab, p), u = !0);
                     var _ = t.RedDotRules.redDotIdxArr[a.id + .1 * parseFloat(n[1])];
                     if (_) {
                         var v = new eui.Image("dot_png");
@@ -176,18 +176,21 @@ function(t) {
                             v.visible = !!t,
                             0 == !!t && (r.curHotCnt--, r.imgRedDot.visible = r.curHotCnt > 0)
                         },
-                        d), HotRedManager.getInstance().getHotRedState(_) ? (v.visible = !0, d.curHotCnt++, d.imgRedDot.visible = d.imgRedDot.visible || !0) : (v.visible = !1, d.imgRedDot.visible = d.imgRedDot.visible || !1))
+                        p), HotRedManager.getInstance().getHotRedState(_) ? (v.visible = !0, p.curHotCnt++, p.imgRedDot.visible = p.imgRedDot.visible || !0) : (v.visible = !1, p.imgRedDot.visible = p.imgRedDot.visible || !1))
                     }
                 },
-                d = this, _ = 0; _ < c.length; _++) p(_);
+                p = this, _ = 0; _ < c.length; _++) d(_);
                 if (EventManager.addEventListener("ActivityCenterButton_intCurTab",
                 function(t) {
-                    var e = t.data,
-                    i = r.childGroup.getChildAt(e - 1);
-                    i && (r.radioGroup = i.group, r.radioGroup.selectedValue = i.value, r.onChangeTab())
+                    if (t.data.name == r.name) {
+                        var e = 1;
+                        t.data.childTab && t.data.childTab.childIndex ? e = t.data.childTab.childIndex: t.data.childTab && (e = t.data.childTab);
+                        var i = r.childGroup.getChildAt(e - 1);
+                        i && (r.radioGroup = i.group, r.radioGroup.selectedValue = i.value, r.onChangeTab())
+                    }
                 },
-                this), u == c.length) return ! 1;
-                c.length - u && (n ? (this.childGroup.getChildAt(n - 1).selected = !0, this.radioGroup.selectedValue = n) : this.childGroup.getChildAt(0).selected = !0)
+                this), h == c.length) return ! 1;
+                c.length - h && (n ? (this.childGroup.getChildAt(n - 1).selected = !0, this.radioGroup.selectedValue = n) : this.childGroup.getChildAt(0).selected = !0)
             }
             var v = t.RedDotRules.redDotIdxArr[a.id];
             return v && (this.imgRedDot.visible = !!HotRedManager.getInstance().getHotRedState(v), HotRedManager.getInstance().registerHotEvent(v,
@@ -396,7 +399,7 @@ function(t) {
             });
             else {
                 this.grpContainer.removeChildren();
-                for (var a = 0; a < this.panelNames.length; a++) this.panelNames[a].name == r.name && (this.grpContainer.addChild(this.panelNames[a]), this.curPanel = this.panelNames[a], this.curPanel.setData(e), this.curPanel.reShow(), this.curPanel.visible = !0, this.curPanel.update && this.curPanel.update())
+                for (var a = 0; a < this.panelNames.length; a++) this.panelNames[a].name == r.name && (this.grpContainer.addChild(this.panelNames[a]), this.curPanel = this.panelNames[a], this.curPanel.setData(e), this.curPanel.reShow(), this.curPanel.visible = !0, this.curPanel.update && this.curPanel.update(), this.curPanel.openRBPanel && e && ("wishFloatingBottle" == this.curPanel.name ? this.curPanel.openRBPanel(e.childIndex) : this.curPanel.openRBPanel(e)))
             }
         },
         i.prototype.onChangeTab = function() {
@@ -432,6 +435,10 @@ function(t) {
                     t.curTab = t.rbGroup.selectedValue = r + 1,
                     EventManager.dispatchEventWith("ActivityCenterButton_getCurTab", !1, t.curTab),
                     "" != a.pageChildrenName.trim() ? EventManager.dispatchEventWith("ActivityCenterButton_openAni_" + n) : EventManager.dispatchEventWith("ActivityCenterButton_closeAni"),
+                    EventManager.dispatchEventWith("ActivityCenterButton_intCurTab", !1, {
+                        name: a.name,
+                        childTab: e.data.pamram
+                    }),
                     t.openPanel(r, e.data.pamram)
                 }
             },
@@ -445,7 +452,7 @@ function(t) {
             this)
         },
         i.prototype.onChangeChildrenTab = function(t) {
-            this.curPanel && this.curPanel.openRBPanel(~~t.data),
+            this.curPanel && this.curPanel.openRBPanel && this.curPanel.openRBPanel(~~t.data),
             this.try2ClickHotRed(this.curActivityId, ~~t.data)
         },
         i.prototype.destroy = function() {

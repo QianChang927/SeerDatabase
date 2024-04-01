@@ -29,7 +29,7 @@ function(t) {
         },
         i.prototype.dataChanged = function() {
             return e.prototype.dataChanged.call(this),
-            this.data ? (this.info = this.data, this.isPet = 4 == this.data.type, this.hadCoinNum = this.data.hadCoinNum, void this.initData()) : (this.width = 145, this.height = 169, this.items.visible = !1, void(this.pets.visible = !1))
+            this.data ? (this._maxExchangeNum = null, this.info = this.data, this.isPet = 4 == this.data.type, this.hadCoinNum = this.data.hadCoinNum, void this.initData()) : (this.width = 145, this.height = 169, this.items.visible = !1, void(this.pets.visible = !1))
         },
         i.prototype.initData = function() {
             if (this.isPet) this.width = 178,
@@ -155,14 +155,14 @@ function(t, e) {
 __awaiter = this && this.__awaiter ||
 function(t, e, i, n) {
     return new(i || (i = Promise))(function(s, o) {
-        function r(t) {
+        function a(t) {
             try {
                 h(n.next(t))
             } catch(e) {
                 o(e)
             }
         }
-        function a(t) {
+        function r(t) {
             try {
                 h(n["throw"](t))
             } catch(e) {
@@ -172,7 +172,7 @@ function(t, e, i, n) {
         function h(t) {
             t.done ? s(t.value) : new i(function(e) {
                 e(t.value)
-            }).then(r, a)
+            }).then(a, r)
         }
         h((n = n.apply(t, e || [])).next())
     })
@@ -187,11 +187,11 @@ function(t, e) {
     function n(i) {
         if (s) throw new TypeError("Generator is already executing.");
         for (; h;) try {
-            if (s = 1, o && (r = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(r = r.call(o, i[1])).done) return r;
-            switch (o = 0, r && (i = [0, r.value]), i[0]) {
+            if (s = 1, o && (a = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(o, i[1])).done) return a;
+            switch (o = 0, a && (i = [0, a.value]), i[0]) {
             case 0:
             case 1:
-                r = i;
+                a = i;
                 break;
             case 4:
                 return h.label++,
@@ -209,25 +209,25 @@ function(t, e) {
                 h.trys.pop();
                 continue;
             default:
-                if (r = h.trys, !(r = r.length > 0 && r[r.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (a = h.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     h = 0;
                     continue
                 }
-                if (3 === i[0] && (!r || i[1] > r[0] && i[1] < r[3])) {
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
                     h.label = i[1];
                     break
                 }
-                if (6 === i[0] && h.label < r[1]) {
-                    h.label = r[1],
-                    r = i;
+                if (6 === i[0] && h.label < a[1]) {
+                    h.label = a[1],
+                    a = i;
                     break
                 }
-                if (r && h.label < r[2]) {
-                    h.label = r[2],
+                if (a && h.label < a[2]) {
+                    h.label = a[2],
                     h.ops.push(i);
                     break
                 }
-                r[2] && h.ops.pop(),
+                a[2] && h.ops.pop(),
                 h.trys.pop();
                 continue
             }
@@ -236,7 +236,7 @@ function(t, e) {
             i = [6, n],
             o = 0
         } finally {
-            s = r = 0
+            s = a = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -244,24 +244,24 @@ function(t, e) {
             done: !0
         }
     }
-    var s, o, r, a, h = {
+    var s, o, a, r, h = {
         label: 0,
         sent: function() {
-            if (1 & r[0]) throw r[1];
-            return r[1]
+            if (1 & a[0]) throw a[1];
+            return a[1]
         },
         trys: [],
         ops: []
     };
-    return a = {
+    return r = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (r[Symbol.iterator] = function() {
         return this
     }),
-    a
+    r
 },
 wishFloatingBottle; !
 function(t) {
@@ -742,8 +742,8 @@ function(t) {
                 return t.wishtype == e.curIndex
             }),
             o = s[0],
-            r = this.getData(o);
-            this.items.dataProvider = new eui.ArrayCollection(r)
+            a = this.getData(o);
+            this.items.dataProvider = new eui.ArrayCollection(a)
         },
         i.prototype.update = function() {
             var t = this;
@@ -898,7 +898,8 @@ function(t) {
             for (var i in t) t[i].hadCoinNum = ~~ItemManager.getNumByID(1720852);
             var n = 6 - t.length;
             if (n > 0) for (var i = 0; n > i; i++) t.push(null);
-            this._list.dataProvider = new eui.ArrayCollection(t)
+            this._list.dataProvider = new eui.ArrayCollection(t),
+            this._list.validateNow()
         },
         i.prototype.update = function() {
             this.txtCoin2.text = ItemManager.getNumByID(1720852) + "",
@@ -1008,14 +1009,14 @@ function(t) {
             case 6:
                 e = new Date(i - 1 * s)
             }
-            var r = new Date(e.getTime() + 6 * s),
-            a = r.getFullYear(),
-            h = r.getMonth(),
-            u = r.getDate(),
+            var a = new Date(e.getTime() + 6 * s),
+            r = a.getFullYear(),
+            h = a.getMonth(),
+            u = a.getDate(),
             _ = e.getFullYear(),
             l = e.getMonth(),
             c = e.getDate();
-            t = _ + "." + (l + 1) + "." + c + "——" + a + "." + (h + 1) + "." + u,
+            t = _ + "." + (l + 1) + "." + c + "——" + r + "." + (h + 1) + "." + u,
             this.loginTime.text = t
         },
         i.prototype.update = function() {
@@ -1026,8 +1027,8 @@ function(t) {
                 s = this.service.getValue(t.AttrConst.weekly_login_times);
                 this.manageDay7(n, s);
                 for (var o = 6; o >= 1; o--) {
-                    var r = 1 == n;
-                    r ? o >= s + 1 ? i.push([e[0], !1]) : i.push([e[2], !1]) : o > s + 1 ? i.push([e[0], !1]) : o == s + 1 ? i.push([e[1], !0]) : i.push([e[2], !1])
+                    var a = 1 == n;
+                    a ? o >= s + 1 ? i.push([e[0], !1]) : i.push([e[2], !1]) : o > s + 1 ? i.push([e[0], !1]) : o == s + 1 ? i.push([e[1], !0]) : i.push([e[2], !1])
                 }
                 this.list.dataProvider = new eui.ArrayCollection(i.reverse()),
                 this.list.validateNow()
@@ -1887,7 +1888,6 @@ generateEUI.paths["resource/eui_skins/WishListSkin.exml"] = window.wishFloatingB
     i.btnWish_i = function() {
         var t = new eui.Image;
         return this.btnWish = t,
-        t.fillMode = "scale",
         t.horizontalCenter = 395,
         t.scaleX = 1,
         t.scaleY = 1,

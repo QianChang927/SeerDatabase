@@ -9467,6 +9467,33 @@
             "rewardid": "1400352",
             "rewardcnt": "10000",
             "achievementnum": 1
+        },
+        {
+            "id": 1054,
+            "Branch": 160,
+            "Rule": 9,
+            "rewardtype": 1,
+            "rewardid": "1",
+            "rewardcnt": "10000",
+            "achievementnum": 1
+        },
+        {
+            "id": 1055,
+            "Branch": 161,
+            "Rule": 2,
+            "rewardtype": 1,
+            "rewardid": "3",
+            "rewardcnt": "10000",
+            "achievementnum": 1
+        },
+        {
+            "id": 1056,
+            "Branch": 161,
+            "Rule": 3,
+            "rewardtype": 1,
+            "rewardid": "1400352",
+            "rewardcnt": "10000",
+            "achievementnum": 1
         }
     ]
 }

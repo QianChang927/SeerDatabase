@@ -2370,14 +2370,14 @@ UseSkillController = function(t) {
             if (0 != this.attackValue.changeValue && !this.changePlayed) return void this._playerMode.petWin.change(this.attackValue.changeValue,
             function() {
                 n.changePlayed = !0,
-                n.onMovieOver(t, n.defenceMC)
+                n.onMovieOver(t, n._playerMode.petWin.petMC)
             });
             if (0 != this.attackValue.changeValue2 && !this.changePlayed2) return void this._playerMode.enemyMode.petWin.change(this.attackValue.changeValue2,
             function() {
                 n.changePlayed2 = !0,
-                n.onMovieOver(t, n.defenceMC)
+                n.onMovieOver(t, n._playerMode.enemyMode.petWin.petMC)
             });
-            if (null == i ? this.defenceMC.playStandAnim() : (this.defenceMC = this._playerMode.enemyMode.petWin.petMC, this.defenceMC.stopAnimateAtActionFrame("attack", null, null)), this.attackValue.isCrit) {
+            if (null == i ? this.defenceMC.playStandAnim() : (i.playDefendAnim(), i.playStandAnim()), this.attackValue.isCrit) {
                 this.hpCritMc || (this.hpCritMc = BitmapFontController.getFont("crits_attack_hp_num"), this.hpCritMc.letterSpacing = -11),
                 this.hpCritMc.textAlign = "center",
                 this.showCrisHp(this.hpCritMc, this.attackValue.lostHP);

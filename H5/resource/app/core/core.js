@@ -65548,6 +65548,117 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
+__awaiter = this && this.__awaiter ||
+function(t, e, n, r) {
+    return new(n || (n = Promise))(function(o, i) {
+        function s(t) {
+            try {
+                _(r.next(t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(r["throw"](t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function _(t) {
+            t.done ? o(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((r = r.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return r([t, e])
+        }
+    }
+    function r(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (o = 1, i && (s = i[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(i, n[1])).done) return s;
+            switch (i = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                i = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    _.label = n[1];
+                    break
+                }
+                if (6 === n[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(n);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            n = e.call(t, _)
+        } catch(r) {
+            n = [6, r],
+            i = 0
+        } finally {
+            o = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, i, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
 PetAdvanceXMLInfo = function() {
     function t() {}
     return t.setup = function() {
@@ -65637,14 +65748,34 @@ PetAdvanceXMLInfo = function() {
         return []
     },
     t.showAdvancePanel = function(e) {
-        ModuleManager.destroyAllModule(),
-        e ? t.checkIsBackAdv(e) ? ModuleManager.showModuleByID(110, {
-            moduleID: 264
-        }) : ModuleManager.showModuleByID(110, {
-            moduleID: 187,
-            pamram: e
-        }) : ModuleManager.showModuleByID(110, {
-            moduleID: 264
+        return __awaiter(this, void 0, void 0,
+        function() {
+            var n, r, o, i, s;
+            return __generator(this,
+            function(a) {
+                switch (a.label) {
+                case 0:
+                    return ModuleManager.destroyAllModule(),
+                    this._petArr[this._petArr.length - 1] != e ? [3, 2] : [4, config.xml.load("ActivityCenter")];
+                case 1:
+                    if (a.sent(), n = config.ActivityCenter.getItem(7), r = new Date(n.beginning.replace(/_/g, "/")).getTime(), o = new Date(n.ending.replace(/_/g, "/")).getTime(), i = SystemTimerManager.sysBJDate.getTime(), s = i >= r && o >= i) return ModuleManager.showModuleByID(110, {
+                        moduleID: 187,
+                        pamram: e
+                    }),
+                    [2];
+                    a.label = 2;
+                case 2:
+                    return e ? t.checkIsBackAdv(e) ? ModuleManager.showModuleByID(110, {
+                        moduleID: 264
+                    }) : ModuleManager.showModuleByID(110, {
+                        moduleID: 187,
+                        pamram: e
+                    }) : ModuleManager.showModuleByID(110, {
+                        moduleID: 264
+                    }),
+                    [2]
+                }
+            })
         })
     },
     t._petArr = [],

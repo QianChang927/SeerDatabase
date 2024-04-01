@@ -1579,6 +1579,8 @@ function(e) {
                 return t.canReleaseArr.indexOf(e) >= 0
             })),
             this.ary.replaceAll(e),
+            this.scroll.stopAnimation(),
+            this.scroll.viewport.scrollV = 0,
             this.noneTxt.visible = !(e.length > 0)
         },
         i.prototype.destroy = function() {
@@ -2575,10 +2577,10 @@ generateEUI.paths["resource/eui_skins/render/WareHouseSkinItemSkin.exml"] = wind
 generateEUI.paths["resource/eui_skins/WarehouseReleaseListSkin.exml"] = window.WarehouseReleaseListSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["closeBtn", "avaTxt", "tagTxt", "noneTxt", "content", "availableToggle", "radio1", "radio2"],
+        this.skinParts = ["closeBtn", "avaTxt", "tagTxt", "noneTxt", "content", "scroll", "availableToggle", "radio1", "radio2"],
         this.height = 431,
         this.width = 753,
-        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.closeBtn_i(), this.avaTxt_i(), this.tagTxt_i(), this.noneTxt_i(), this._Scroller1_i(), this.availableToggle_i(), this.radio1_i(), this.radio2_i()]
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.closeBtn_i(), this.avaTxt_i(), this.tagTxt_i(), this.noneTxt_i(), this.scroll_i(), this.availableToggle_i(), this.radio1_i(), this.radio2_i()]
     }
     __extends(t, e);
     var i = function(e) {
@@ -2743,9 +2745,10 @@ generateEUI.paths["resource/eui_skins/WarehouseReleaseListSkin.exml"] = window.W
         e.x = 325,
         e
     },
-    s._Scroller1_i = function() {
+    s.scroll_i = function() {
         var e = new eui.Scroller;
-        return e.height = 300,
+        return this.scroll = e,
+        e.height = 300,
         e.width = 570,
         e.x = 178,
         e.y = 80,

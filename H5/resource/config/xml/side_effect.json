@@ -9423,6 +9423,46 @@
                 "ID": 2116,
                 "SideEffectArg": "2 70",
                 "SideEffectArgcount": 2
+            },
+            {
+                "ID": 2117,
+                "SideEffectArg": "1 2",
+                "SideEffectArgcount": 2
+            },
+            {
+                "ID": 2118,
+                "SideEffectArg": "2 3",
+                "SideEffectArgcount": 2
+            },
+            {
+                "ID": 2119,
+                "SideEffectArg": "2 100",
+                "SideEffectArgcount": 2
+            },
+            {
+                "ID": 2120,
+                "SideEffectArg": "2 50",
+                "SideEffectArgcount": 2
+            },
+            {
+                "ID": 2121,
+                "SideEffectArg": 30,
+                "SideEffectArgcount": 1
+            },
+            {
+                "ID": 2122,
+                "SideEffectArg": "300 2",
+                "SideEffectArgcount": 2
+            },
+            {
+                "ID": 2123,
+                "SideEffectArg": 3,
+                "SideEffectArgcount": 1
+            },
+            {
+                "ID": 2124,
+                "SideEffectArg": 50,
+                "SideEffectArgcount": 1
             }
         ]
     }

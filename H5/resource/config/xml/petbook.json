@@ -1179,33 +1179,29 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4611,
-                        "ImageID": 4611,
+                        "ID": 4617,
+                        "ImageID": 4617,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1665;app/SpetYuanXiaoMainPanel"
+                        "Go": "1668;app/SpetTaiBoMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 599,
-                        "MonID": 3425,
-                        "ImageID": 1400599,
+                        "ID": 603,
+                        "MonID": 4514,
+                        "ImageID": 1400603,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "11897;app/PrincessDayPartyMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 600,
-                        "MonID": 3627,
-                        "ImageID": 1400600,
+                        "ID": 604,
+                        "MonID": 3156,
+                        "ImageID": 1400604,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/DimensionKingNewSkinSalesMainPanel"
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42474
+                        "Go": "103;app/LuchfieldSkinSalesMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -15555,7 +15551,10 @@
                 "Weight": 240,
                 "Foundin": "--",
                 "Food": "未知",
-                "Features": "鱼龙王是鱼龙中的霸者！潜能的爆发使他上天入海，无所不能！"
+                "Features": "鱼龙王的暗金形态，它的身体散发着只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
+                "Redirect": "map|module",
+                "Go": "1;app/StarWishdDriftBottleMainPanel",
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1201,
@@ -15565,7 +15564,10 @@
                 "Weight": 250,
                 "Foundin": "--",
                 "Food": "未知",
-                "Features": "难以想象上古炎兽和赫尔托克合体会是什么样,然而它们却真的合体了，火焰至尊炎魔由此诞生了！"
+                "Features": "炎魔的暗金形态，它的身体散发着只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
+                "Redirect": "map|module",
+                "Go": "1;app/StarWishdDriftBottleMainPanel",
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1202,
@@ -15575,7 +15577,10 @@
                 "Weight": 250,
                 "Foundin": "--",
                 "Food": "未知",
-                "Features": "灵光兽的进化形态，拥有着强大的惊人能力，然而却从不轻易显露，视乎任何功名利禄在它眼中都已是过眼云烟！"
+                "Features": "始祖灵兽的暗金形态，它的身体散发着只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
+                "Redirect": "map|module",
+                "Go": "1;app/StarWishdDriftBottleMainPanel",
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1203,
@@ -37196,7 +37201,7 @@
                 "Type": "飞行",
                 "Height": 180,
                 "Weight": 80,
-                "Features": "风暴之身的完全体形态，借助风暴和混沌的力量，速度和能力都更上一层！",
+                "Features": "风暴之神的完全体形态，借助风暴和混沌的力量，速度和能力都更上一层！",
                 "mapID": 1246,
                 "jumptarget": 120
             },
@@ -48388,6 +48393,69 @@
                 "Redirect": "map|module",
                 "Go": "1665;app/SpetYuanXiaoMainPanel",
                 "jumptarget": "151/196"
+            },
+            {
+                "ID": 4612,
+                "DefName": "魂弦",
+                "Type": "圣灵 光",
+                "Height": 210,
+                "Weight": 40,
+                "Features": "光明之神至序圣华使用灵力召唤出的奇特生物，它们能够使用弦乐之声寻找灵魂归处并创造幻象，目标是汲取分解世界上的所有意识。",
+                "Redirect": "map|module",
+                "Go": "1666;app/SpetHunXianMainPanel",
+                "jumptarget": "151/197"
+            },
+            {
+                "ID": 4613,
+                "DefName": "艾克特希",
+                "Type": "地面 龙",
+                "Height": 171,
+                "Weight": 57,
+                "Features": "路过罗萨村的游者，身上似乎流淌着龙族的血脉。她的行踪神秘而诡异，时刻提防着周围的人。",
+                "Redirect": "map|module",
+                "Go": "1667;app/SpetAiKeTeXiMainPanel",
+                "jumptarget": "151/198"
+            },
+            {
+                "ID": 4614,
+                "DefName": "罗萨",
+                "Type": "草",
+                "Height": 60,
+                "Weight": 40,
+                "Features": "罗萨村的村民，头上的花苞会在小时候就显现出不同的颜色。只要确保摄入纯净的水源和均衡的营养，罗萨们就可以茁壮成长。",
+                "Redirect": "map",
+                "Go": 1667
+            },
+            {
+                "ID": 4615,
+                "DefName": "罗萨尔",
+                "Type": "远古 草",
+                "Height": 70,
+                "Weight": 55,
+                "Features": "罗萨村的村民，当罗萨成长到一定年纪后，身上的绿叶会慢慢蜕变成粉色的花苞，变为罗萨尔。此时她们会享受一生中最美丽，也是最后的一段时光。",
+                "Redirect": "map|module",
+                "Go": "1667;app/QiLianXiXiGoToMapPanel"
+            },
+            {
+                "ID": 4616,
+                "DefName": "佩斯莉",
+                "Type": "冰 龙",
+                "Height": 181,
+                "Weight": 75,
+                "Features": "卡德玛斯特曾经的好友，因为使用禁卡而被卡牌协会除名。据说她从过去穿越而来，但没人知晓她此行的目的。",
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel"
+            },
+            {
+                "ID": 4617,
+                "DefName": "猛虎之刃·泰伯",
+                "Type": "火 电",
+                "Height": 280,
+                "Weight": 235,
+                "Features": "活动在流岩岭的泰伯一族，她们骑乘猛虎并掌控着火焰和雷电之力。在灵格星系危难之际，她们是十分可靠的伙伴。",
+                "Redirect": "map|module",
+                "Go": "1668;app/SpetTaiBoMainPanel",
+                "jumptarget": "151/199"
             }
         ]
     }

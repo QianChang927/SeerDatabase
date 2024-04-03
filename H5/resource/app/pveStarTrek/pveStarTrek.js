@@ -2047,7 +2047,7 @@ function(t) {
                                     case 1:
                                         return e = i.sent(),
                                         this.imgEff.width = t ? e ? 28 : 26 : 0,
-                                        this.imgEff.source = e ? "pve_star_trek_prepare_panel_pet_pop_shenyu_png": "pve_star_trek_prepare_panel_pet_pop_zstx_png",
+                                        this.imgEff.source = e ? PetAdvanceXMLInfo.getAdvSignSource(this.petInfo.id) : "pve_star_trek_prepare_panel_pet_pop_zstx_png",
                                         [2]
                                     }
                                 })

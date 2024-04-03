@@ -1179,29 +1179,36 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4617,
-                        "ImageID": 4617,
+                        "ID": 4618,
+                        "ImageID": 4618,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1668;app/SpetTaiBoMainPanel"
+                        "Go": "1669;app/SpetPeiLuoSeSiMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4619,
+                        "ImageID": 4619,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1652;app/MonthlyPetInApril2024Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4620,
+                        "ImageID": 4620,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/GetGuDuDengShiMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 603,
-                        "MonID": 4514,
-                        "ImageID": 1400603,
+                        "ID": 605,
+                        "MonID": 3816,
+                        "ImageID": 1400605,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/PrincessDayPartyMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 604,
-                        "MonID": 3156,
-                        "ImageID": 1400604,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/LuchfieldSkinSalesMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -31713,7 +31720,7 @@
             },
             {
                 "ID": 2817,
-                "DefName": "大地之神卡修斯",
+                "DefName": "大地之神·卡修斯",
                 "Type": "地面 暗影",
                 "Height": 175,
                 "Weight": 108,
@@ -37137,7 +37144,7 @@
                 "Height": 178,
                 "Weight": 87,
                 "Features": "迈尔斯的完全体形态，响应谱尼的召唤而成为完全体，圣灵的力量极大的增强！",
-                "mapID": 1
+                "mapID": 1244
             },
             {
                 "ID": 3422,
@@ -48456,6 +48463,37 @@
                 "Redirect": "map|module",
                 "Go": "1668;app/SpetTaiBoMainPanel",
                 "jumptarget": "151/199"
+            },
+            {
+                "ID": 4618,
+                "DefName": "佩洛瑟斯",
+                "Type": "邪灵 龙",
+                "Height": 181,
+                "Weight": 75,
+                "Features": "自称“百目巫祖”的神秘男子，他能施展出龙族之宗所揭示的强大力量，但其背后的真实身份和目的不为人知。",
+                "Redirect": "map|module",
+                "Go": "1669;app/SpetPeiLuoSeSiMainPanel",
+                "jumptarget": "151/200"
+            },
+            {
+                "ID": 4619,
+                "DefName": "贝利弗",
+                "Type": "混沌 龙",
+                "Height": 280,
+                "Weight": 235,
+                "Features": "2024年包月精灵，十二诗灵之四月的信徒，虚伪的庇佑和指引我不需要，抛弃信仰就自然不会被牵制。",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInApril2024Panel"
+            },
+            {
+                "ID": 4620,
+                "DefName": "孤烛灯使",
+                "Type": "自然",
+                "Height": 200,
+                "Weight": 90,
+                "Features": "塞纳留斯的超进化形态，即使被圣灵所拒绝，魔力的乱流仍让他获得了新生的力量。",
+                "Redirect": "map|module",
+                "Go": "103;app/GetGuDuDengShiMainPanel"
             }
         ]
     }

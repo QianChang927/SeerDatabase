@@ -110,7 +110,7 @@ function(t) {
             this);
             var n = PetSkinXMLInfo.getSkinInfosByPetId(e);
             this.btnSkin.visible = n.length > 0,
-            this.btnAdvance.visible = PetAdvanceXMLInfo.getIncludeAdvance(e),
+            PetAdvanceXMLInfo.getIncludeAdvance(e) ? (this.btnAdvance.visible = !0, this.btnAdvance.source = 1 == PetAdvanceXMLInfo.getAdvType(e) ? "btnJX_png": "btnAdvpet_png") : this.btnAdvance.visible = !1,
             GameInfo.isChecking && (this.imgBtn_get.visible = this.btnAdvance.visible = !1),
             IS_RELEASE || (this.btnAddPet.visible = !0, ImageButtonUtil.add(this.btnAddPet,
             function() {
@@ -1292,7 +1292,7 @@ function(t) {
                 this.btnDetail.visible = !0;
                 var u = _.kind;
                 if (this.grpType.removeChildren(), null != u) for (var l = u.toString().split(" ").map(Number), h = 0; h < l.length; h++) {
-                    var p = new eui.Image("tag" + (l[h] + 1) + "_png");
+                    var p = new eui.Image("pet_bag_tag" + (l[h] + 1) + "_png");
                     this.grpType.addChild(p),
                     p.x = 53 * h
                 }

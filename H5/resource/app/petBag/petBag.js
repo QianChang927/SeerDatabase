@@ -1778,13 +1778,13 @@ function(e) {
             if (this.petModel.visible = t, this.groupMiddleTop.visible = t, this.curPetInfo) {
                 var i = this.curPetInfo.id;
                 if (this.curPetInfo.skinId > 0 && (i = PetSkinXMLInfo.getSkinInfo(this.curPetInfo.skinId).skinPetId), this.oldPetAniId == i) return;
-                this.hidePetModel && (this.hidePetModel = !1, this.petModel.visible = !1, egret.setTimeout(function() {
+                if (this.hidePetModel && (this.hidePetModel = !1, this.petModel.visible = !1, egret.setTimeout(function() {
                     e.petModel.visible = !0
                 },
-                this, 200)),
-                this.petModel.SetPetData(i),
-                this.oldPetAniId = i,
-                this.btnAdvance.visible = PetAdvanceXMLInfo.getIncludeAdvance(this.curPetInfo.id),
+                this, 200)), this.petModel.SetPetData(i), this.oldPetAniId = i, this.btnAdvance.visible = PetAdvanceXMLInfo.getIncludeAdvance(this.curPetInfo.id), this.btnAdvance.visible) {
+                    var n = PetAdvanceXMLInfo.getAdvType(this.curPetInfo.id);
+                    1 == n ? this.btnAdvance.source = "btnJX_png": this.btnAdvance.source = "btnAdv_png"
+                }
                 this.btnTopSkin.visible || (this.btnAdvance.visible = !1)
             } else this.btnAdvance.visible = !1
         },
@@ -1810,7 +1810,7 @@ function(e) {
                             case 1:
                                 return e = i.sent(),
                                 this.imgEffect.width = t ? e ? 28 : 26 : 0,
-                                this.imgEffect.source = e ? "pet_bag_special_img_yu_png": "pet_bag_main_panel_imgeffect_png",
+                                this.imgEffect.source = e ? PetAdvanceXMLInfo.getAdvSignSource(this.curPetInfo.id) : "pet_bag_main_panel_imgeffect_png",
                                 [2]
                             }
                         })
@@ -8609,21 +8609,13 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e
     },
     m.btnAdvance_i = function() {
-        var e = new eui.Group;
-        return this.btnAdvance = e,
-        e.visible = !0,
-        e.x = 327,
-        e.y = 115,
-        e.elementsContent = [this._Image10_i()],
-        e
-    },
-    m._Image10_i = function() {
         var e = new eui.Image;
-        return e.height = 63,
+        return this.btnAdvance = e,
+        e.height = 63,
         e.source = "btnAdv_png",
         e.width = 53,
-        e.x = 0,
-        e.y = 0,
+        e.x = 327,
+        e.y = 115,
         e
     },
     m.groupDevelopBase_i = function() {
@@ -8661,7 +8653,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.right = 0,
         e.visible = !0,
         e.y = 47,
-        e.elementsContent = [this.imgDown_i(), this.imgUp_i(), this._Scroller1_i(), this._Image11_i(), this._Image12_i(), this._Image13_i(), this.groupView_i()],
+        e.elementsContent = [this.imgDown_i(), this.imgUp_i(), this._Scroller1_i(), this._Image10_i(), this._Image11_i(), this._Image12_i(), this.groupView_i()],
         e
     },
     m.imgDown_i = function() {
@@ -8799,18 +8791,18 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.skinName = l,
         e
     },
-    m._Image11_i = function() {
+    m._Image10_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_develop_view_imgDevelopBG1_png",
         e
     },
-    m._Image12_i = function() {
+    m._Image11_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_develop_view_imgDevelopBG2_png",
         e.visible = !0,
         e
     },
-    m._Image13_i = function() {
+    m._Image12_i = function() {
         var e = new eui.Image;
         return e.height = 487,
         e.source = "pet_bag_develop_view_imgDevelopBG3_png",
@@ -8836,10 +8828,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.visible = !1,
         e.x = 0,
         e.y = 59,
-        e.elementsContent = [this._Image14_i(), this._Image15_i(), this._Image16_i(), this.btnBag1_i(), this.btnBag2_i(), this.btnBag3_i(), this.btnBag4_i(), this.groupPet1_i(), this.groupPet2_i()],
+        e.elementsContent = [this._Image13_i(), this._Image14_i(), this._Image15_i(), this.btnBag1_i(), this.btnBag2_i(), this.btnBag3_i(), this.btnBag4_i(), this.groupPet1_i(), this.groupPet2_i()],
         e
     },
-    m._Image14_i = function() {
+    m._Image13_i = function() {
         var e = new eui.Image;
         return e.height = 518,
         e.source = "pet_bag_main_panel_imgleftbg_png",
@@ -8849,14 +8841,14 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 0,
         e
     },
-    m._Image15_i = function() {
+    m._Image14_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_czjl_png",
         e.x = 1,
         e.y = 0,
         e
     },
-    m._Image16_i = function() {
+    m._Image15_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_dmjl_png",
         e.x = 1,
@@ -8954,23 +8946,23 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.visible = !0,
         e.x = 0,
         e.y = 1,
-        e.elementsContent = [this._Image17_i(), this._Image18_i(), this._Image19_i(), this._Image20_i(), this._Image21_i(), this._Image22_i(), this._Image23_i(), this._Image24_i(), this._Image25_i(), this._Image26_i(), this._Image27_i(), this._Image28_i(), this._Image29_i(), this._Label6_i(), this._Label7_i(), this._Label8_i(), this._Label9_i(), this._Label10_i(), this._Label11_i(), this._Label12_i(), this._Label13_i(), this._Label14_i(), this._Label15_i(), this._Label16_i(), this._Label17_i(), this._Label18_i(), this._Label19_i(), this._Label20_i(), this._Label21_i()],
+        e.elementsContent = [this._Image16_i(), this._Image17_i(), this._Image18_i(), this._Image19_i(), this._Image20_i(), this._Image21_i(), this._Image22_i(), this._Image23_i(), this._Image24_i(), this._Image25_i(), this._Image26_i(), this._Image27_i(), this._Image28_i(), this._Label6_i(), this._Label7_i(), this._Label8_i(), this._Label9_i(), this._Label10_i(), this._Label11_i(), this._Label12_i(), this._Label13_i(), this._Label14_i(), this._Label15_i(), this._Label16_i(), this._Label17_i(), this._Label18_i(), this._Label19_i(), this._Label20_i(), this._Label21_i()],
         e
     },
-    m._Image17_i = function() {
+    m._Image16_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_develop_view_imgDevelopBG1_png",
         e.visible = !0,
         e
     },
-    m._Image18_i = function() {
+    m._Image17_i = function() {
         var e = new eui.Image;
         return e.height = 211,
         e.source = "pet_bag_develop_view_imgDevelopBG2_png",
         e.visible = !0,
         e
     },
-    m._Image19_i = function() {
+    m._Image18_i = function() {
         var e = new eui.Image;
         return e.height = 592,
         e.source = "pet_bag_develop_view_imgDevelopBG3_png",
@@ -8979,21 +8971,21 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 11,
         e
     },
-    m._Image20_i = function() {
+    m._Image19_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_imgtitlebg_png",
         e.x = 9,
         e.y = 23,
         e
     },
-    m._Image21_i = function() {
+    m._Image20_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_imgtitlebg_png",
         e.x = 8,
         e.y = 260,
         e
     },
-    m._Image22_i = function() {
+    m._Image21_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_imgtitlebg_png",
         e.visible = !0,
@@ -9001,49 +8993,49 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 401,
         e
     },
-    m._Image23_i = function() {
+    m._Image22_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_imgtitlebg_png",
         e.x = 9,
         e.y = 143,
         e
     },
-    m._Image24_i = function() {
+    m._Image23_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_f_png",
         e.x = 26,
         e.y = 58,
         e
     },
-    m._Image25_i = function() {
+    m._Image24_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_a_png",
         e.x = 24,
         e.y = 85,
         e
     },
-    m._Image26_i = function() {
+    m._Image25_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_d_png",
         e.x = 25,
         e.y = 111,
         e
     },
-    m._Image27_i = function() {
+    m._Image26_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_c_png",
         e.x = 195,
         e.y = 86,
         e
     },
-    m._Image28_i = function() {
+    m._Image27_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_b_png",
         e.x = 194,
         e.y = 110,
         e
     },
-    m._Image29_i = function() {
+    m._Image28_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_attr_e_png",
         e.x = 193,
@@ -9404,45 +9396,45 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.groupStar = e,
         e.x = 33,
         e.y = 124,
-        e.elementsContent = [this._Image30_i(), this._Image31_i(), this._Image32_i(), this._Image33_i(), this._Image34_i(), this._Image35_i()],
+        e.elementsContent = [this._Image29_i(), this._Image30_i(), this._Image31_i(), this._Image32_i(), this._Image33_i(), this._Image34_i()],
+        e
+    },
+    m._Image29_i = function() {
+        var e = new eui.Image;
+        return e.source = "pet_bag_main_panel_imgstar_png",
+        e.x = 189,
+        e.y = 0,
         e
     },
     m._Image30_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_imgstar_png",
         e.x = 189,
-        e.y = 0,
+        e.y = 26,
         e
     },
     m._Image31_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_imgstar_png",
         e.x = 189,
-        e.y = 26,
-        e
-    },
-    m._Image32_i = function() {
-        var e = new eui.Image;
-        return e.source = "pet_bag_main_panel_imgstar_png",
-        e.x = 189,
         e.y = 50,
         e
     },
-    m._Image33_i = function() {
+    m._Image32_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_imgstar_png",
         e.x = 0,
         e.y = 0,
         e
     },
-    m._Image34_i = function() {
+    m._Image33_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_imgstar_png",
         e.x = 0,
         e.y = 50,
         e
     },
-    m._Image35_i = function() {
+    m._Image34_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_imgstar_png",
         e.x = 0,
@@ -9455,10 +9447,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.visible = !0,
         e.x = 57,
         e.y = 299,
-        e.elementsContent = [this._Image36_i(), this.imgStone1BG_i(), this.imgMark1_i(), this.imgStone1_i(), this.txtMark1Level_i(), this.txtMark1Name_i()],
+        e.elementsContent = [this._Image35_i(), this.imgStone1BG_i(), this.imgMark1_i(), this.imgStone1_i(), this.txtMark1Level_i(), this.txtMark1Name_i()],
         e
     },
-    m._Image36_i = function() {
+    m._Image35_i = function() {
         var e = new eui.Image;
         return e.source = "common_item_bg_style_73_73_png",
         e.x = 0,
@@ -9520,10 +9512,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.groupMark2 = e,
         e.x = 157,
         e.y = 299,
-        e.elementsContent = [this._Image37_i(), this.imgStone2BG_i(), this.imgMark2_i(), this.imgStone2_i(), this.txtMark2Level_i(), this.txtMark2Name_i()],
+        e.elementsContent = [this._Image36_i(), this.imgStone2BG_i(), this.imgMark2_i(), this.imgStone2_i(), this.txtMark2Level_i(), this.txtMark2Name_i()],
         e
     },
-    m._Image37_i = function() {
+    m._Image36_i = function() {
         var e = new eui.Image;
         return e.source = "common_item_bg_style_73_73_png",
         e.x = 0,
@@ -9585,10 +9577,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.groupMark3 = e,
         e.x = 257,
         e.y = 299,
-        e.elementsContent = [this._Image38_i(), this.imgStone3BG_i(), this.imgMark3_i(), this.imgStone3_i(), this.imgMark3Lock_i(), this.txtMark3Level_i(), this.txtMark3Name_i()],
+        e.elementsContent = [this._Image37_i(), this.imgStone3BG_i(), this.imgMark3_i(), this.imgStone3_i(), this.imgMark3Lock_i(), this.txtMark3Level_i(), this.txtMark3Name_i()],
         e
     },
-    m._Image38_i = function() {
+    m._Image37_i = function() {
         var e = new eui.Image;
         return e.source = "common_item_bg_style_73_73_png",
         e.x = 0,
@@ -9660,10 +9652,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.groupSkill1 = e,
         e.x = 24,
         e.y = 438,
-        e.elementsContent = [this._Image39_i(), this.imgSkillIcon1_i(), this.txtSkillPP1_i(), this.txtSkillPower1_i(), this.txtSkillName1_i()],
+        e.elementsContent = [this._Image38_i(), this.imgSkillIcon1_i(), this.txtSkillPP1_i(), this.txtSkillPower1_i(), this.txtSkillName1_i()],
         e
     },
-    m._Image39_i = function() {
+    m._Image38_i = function() {
         var e = new eui.Image;
         return e.height = 73,
         e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
@@ -9718,10 +9710,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.groupSkill2 = e,
         e.x = 192,
         e.y = 438,
-        e.elementsContent = [this._Image40_i(), this.imgSkillIcon2_i(), this.txtSkillPP2_i(), this.txtSkillPower2_i(), this.txtSkillName2_i()],
+        e.elementsContent = [this._Image39_i(), this.imgSkillIcon2_i(), this.txtSkillPP2_i(), this.txtSkillPower2_i(), this.txtSkillName2_i()],
         e
     },
-    m._Image40_i = function() {
+    m._Image39_i = function() {
         var e = new eui.Image;
         return e.height = 73,
         e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
@@ -9778,10 +9770,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.groupSkill3 = e,
         e.x = 24,
         e.y = 517,
-        e.elementsContent = [this._Image41_i(), this.imgSkillIcon3_i(), this.txtSkillPP3_i(), this.txtSkillPower3_i(), this.txtSkillName3_i()],
+        e.elementsContent = [this._Image40_i(), this.imgSkillIcon3_i(), this.txtSkillPP3_i(), this.txtSkillPower3_i(), this.txtSkillName3_i()],
         e
     },
-    m._Image41_i = function() {
+    m._Image40_i = function() {
         var e = new eui.Image;
         return e.height = 73,
         e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
@@ -9836,10 +9828,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.visible = !0,
         e.x = 192,
         e.y = 517,
-        e.elementsContent = [this._Image42_i(), this.imgSkillIcon4_i(), this.txtSkillPP4_i(), this.txtSkillPower4_i(), this.txtSkillName4_i()],
+        e.elementsContent = [this._Image41_i(), this.imgSkillIcon4_i(), this.txtSkillPP4_i(), this.txtSkillPower4_i(), this.txtSkillName4_i()],
         e
     },
-    m._Image42_i = function() {
+    m._Image41_i = function() {
         var e = new eui.Image;
         return e.height = 73,
         e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
@@ -9933,10 +9925,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.btnAttr = e,
         e.x = 305,
         e.y = 144,
-        e.elementsContent = [this._Image43_i(), this.txtBtnAttr_i()],
+        e.elementsContent = [this._Image42_i(), this.txtBtnAttr_i()],
         e
     },
-    m._Image43_i = function() {
+    m._Image42_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_btnattr_png",
         e.x = 0,
@@ -9976,10 +9968,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.width = 256,
         e.x = 482,
         e.y = 162,
-        e.elementsContent = [this._Image44_i(), this.txtBallTipName_i(), this.txtBallTipTimes_i(), this.txtBallTipInDes_i()],
+        e.elementsContent = [this._Image43_i(), this.txtBallTipName_i(), this.txtBallTipTimes_i(), this.txtBallTipInDes_i()],
         e
     },
-    m._Image44_i = function() {
+    m._Image43_i = function() {
         var e = new eui.Image;
         return e.height = 137,
         e.scale9Grid = new egret.Rectangle(7, 7, 6, 6),
@@ -10035,10 +10027,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.groupMark4 = e,
         e.x = 0,
         e.y = 0,
-        e.elementsContent = [this._Image45_i(), this.imgSelected4_i(), this.imgStone4BG_i(), this.imgMark4_i(), this.imgStone4_i(), this.txtMark4Level_i(), this.txtMark4Name_i()],
+        e.elementsContent = [this._Image44_i(), this.imgSelected4_i(), this.imgStone4BG_i(), this.imgMark4_i(), this.imgStone4_i(), this.txtMark4Level_i(), this.txtMark4Name_i()],
         e
     },
-    m._Image45_i = function() {
+    m._Image44_i = function() {
         var e = new eui.Image;
         return e.source = "common_item_bg_style_73_73_png",
         e.x = 0,
@@ -10112,10 +10104,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.groupMark5 = e,
         e.x = 130,
         e.y = 0,
-        e.elementsContent = [this._Image46_i(), this.imgSelected5_i(), this.imgStone5BG_i(), this.imgMark5_i(), this.imgStone5_i(), this.txtMark5Level_i(), this.txtMark5Name_i()],
+        e.elementsContent = [this._Image45_i(), this.imgSelected5_i(), this.imgStone5BG_i(), this.imgMark5_i(), this.imgStone5_i(), this.txtMark5Level_i(), this.txtMark5Name_i()],
         e
     },
-    m._Image46_i = function() {
+    m._Image45_i = function() {
         var e = new eui.Image;
         return e.source = "common_item_bg_style_73_73_png",
         e.x = 0,
@@ -10192,10 +10184,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.visible = !0,
         e.x = 260,
         e.y = 0,
-        e.elementsContent = [this._Image47_i(), this.imgSelected6_i(), this.imgStone6BG_i(), this.imgMark6_i(), this.imgStone6_i(), this.imgMark6Lock_i(), this.txtMark6Level_i(), this.txtMark6Name_i()],
+        e.elementsContent = [this._Image46_i(), this.imgSelected6_i(), this.imgStone6BG_i(), this.imgMark6_i(), this.imgStone6_i(), this.imgMark6Lock_i(), this.txtMark6Level_i(), this.txtMark6Name_i()],
         e
     },
-    m._Image47_i = function() {
+    m._Image46_i = function() {
         var e = new eui.Image;
         return e.source = "common_item_bg_style_73_73_png",
         e.x = 0,
@@ -10277,10 +10269,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.btnMarkCenter = e,
         e.x = 201,
         e.y = 108,
-        e.elementsContent = [this._Image48_i(), this._Label22_i()],
+        e.elementsContent = [this._Image47_i(), this._Label22_i()],
         e
     },
-    m._Image48_i = function() {
+    m._Image47_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_btnyellow_png",
         e.x = 0,
@@ -10303,10 +10295,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.btnMarkRecommend = e,
         e.x = 1,
         e.y = 108,
-        e.elementsContent = [this._Image49_i(), this._Label23_i()],
+        e.elementsContent = [this._Image48_i(), this._Label23_i()],
         e
     },
-    m._Image49_i = function() {
+    m._Image48_i = function() {
         var e = new eui.Image;
         return e.source = "pet_bag_main_panel_btnblue_png",
         e.x = 0,
@@ -10331,10 +10323,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.right = 32,
         e.visible = !0,
         e.y = 10,
-        e.elementsContent = [this._Image50_i(), this.txtItem_i(), this.imgItem_i()],
+        e.elementsContent = [this._Image49_i(), this.txtItem_i(), this.imgItem_i()],
         e
     },
-    m._Image50_i = function() {
+    m._Image49_i = function() {
         var e = new eui.Image;
         return e.height = 21,
         e.source = "itemWarehouse_img_di2_png",
@@ -10381,10 +10373,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.left = 2,
         e.visible = !0,
         e.y = 0,
-        e.elementsContent = [this._Image51_i(), this._Group5_i(), this._Group6_i(), this._Group7_i(), this._Image56_i(), this.evLine0_i(), this.evLine1_i(), this.evLine2_i(), this.evLine3_i(), this.evLine4_i(), this.evLine5_i(), this._Group8_i(), this.grpType_i()],
+        e.elementsContent = [this._Image50_i(), this._Group5_i(), this._Group6_i(), this._Group7_i(), this._Image55_i(), this.evLine0_i(), this.evLine1_i(), this.evLine2_i(), this.evLine3_i(), this.evLine4_i(), this.evLine5_i(), this._Group8_i(), this.grpType_i()],
         e
     },
-    m._Image51_i = function() {
+    m._Image50_i = function() {
         var e = new eui.Image;
         return e.alpha = .8,
         e.height = 444.424,
@@ -10400,10 +10392,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return e.visible = !0,
         e.x = 0,
         e.y = 0,
-        e.elementsContent = [this._Image52_i(), this._Label24_i()],
+        e.elementsContent = [this._Image51_i(), this._Label24_i()],
         e
     },
-    m._Image52_i = function() {
+    m._Image51_i = function() {
         var e = new eui.Image;
         return e.height = 32.939,
         e.source = "pet_bag_main_panel_attr_imgtitlebg_png",
@@ -10428,10 +10420,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         var e = new eui.Group;
         return e.x = 14,
         e.y = 36.93,
-        e.elementsContent = [this._Image53_i(), this._Label25_i()],
+        e.elementsContent = [this._Image52_i(), this._Label25_i()],
         e
     },
-    m._Image53_i = function() {
+    m._Image52_i = function() {
         var e = new eui.Image;
         return e.alpha = .2,
         e.height = 25.205,
@@ -10458,10 +10450,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return e.horizontalCenter = 0,
         e.visible = !0,
         e.y = 72.28,
-        e.elementsContent = [this._Image54_i(), this._Image55_i(), this.txtOldRace_i(), this.txtAdvRace_i()],
+        e.elementsContent = [this._Image53_i(), this._Image54_i(), this.txtOldRace_i(), this.txtAdvRace_i()],
         e
     },
-    m._Image54_i = function() {
+    m._Image53_i = function() {
         var e = new eui.Image;
         return e.source = "advpet_zebraline_png",
         e.verticalCenter = 0,
@@ -10469,7 +10461,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.x = 0,
         e
     },
-    m._Image55_i = function() {
+    m._Image54_i = function() {
         var e = new eui.Image;
         return e.source = "advpet_signright_png",
         e.verticalCenter = .5,
@@ -10503,7 +10495,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 0,
         e
     },
-    m._Image56_i = function() {
+    m._Image55_i = function() {
         var e = new eui.Image;
         return e.horizontalCenter = 0,
         e.scale9Grid = new egret.Rectangle(1, 0, 8, 1),
@@ -10518,7 +10510,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.evLine0 = e,
         e.x = 39,
         e.y = 136.43,
-        e.elementsContent = [this.signUp0_i(), this._Label26_i(), this.txtDelta0_i(), this.txtValue0_i(), this.txtV0_i(), this._Image59_i()],
+        e.elementsContent = [this.signUp0_i(), this._Label26_i(), this.txtDelta0_i(), this.txtValue0_i(), this.txtV0_i(), this._Image58_i()],
         e
     },
     m.signUp0_i = function() {
@@ -10526,10 +10518,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.signUp0 = e,
         e.x = 114.34,
         e.y = 5,
-        e.elementsContent = [this._Image57_i(), this._Image58_i()],
+        e.elementsContent = [this._Image56_i(), this._Image57_i()],
         e
     },
-    m._Image57_i = function() {
+    m._Image56_i = function() {
         var e = new eui.Image;
         return e.source = "advpet_signup_png",
         e.visible = !0,
@@ -10537,7 +10529,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 1,
         e
     },
-    m._Image58_i = function() {
+    m._Image57_i = function() {
         var e = new eui.Image;
         return e.source = "advArrow_png",
         e.x = -5.271,
@@ -10587,7 +10579,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 3,
         e
     },
-    m._Image59_i = function() {
+    m._Image58_i = function() {
         var e = new eui.Image;
         return e.source = "common_atk_png",
         e.visible = !0,
@@ -10600,7 +10592,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.evLine1 = e,
         e.x = 39,
         e.y = 170.39,
-        e.elementsContent = [this.signUp1_i(), this._Label27_i(), this.txtDelta1_i(), this.txtValue1_i(), this.txtV1_i(), this._Image62_i()],
+        e.elementsContent = [this.signUp1_i(), this._Label27_i(), this.txtDelta1_i(), this.txtValue1_i(), this.txtV1_i(), this._Image61_i()],
         e
     },
     m.signUp1_i = function() {
@@ -10608,10 +10600,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.signUp1 = e,
         e.x = 114.34,
         e.y = 5,
-        e.elementsContent = [this._Image60_i(), this._Image61_i()],
+        e.elementsContent = [this._Image59_i(), this._Image60_i()],
         e
     },
-    m._Image60_i = function() {
+    m._Image59_i = function() {
         var e = new eui.Image;
         return e.source = "advpet_signup_png",
         e.visible = !0,
@@ -10619,7 +10611,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 1,
         e
     },
-    m._Image61_i = function() {
+    m._Image60_i = function() {
         var e = new eui.Image;
         return e.source = "advArrow_png",
         e.x = -5.271,
@@ -10669,7 +10661,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 3,
         e
     },
-    m._Image62_i = function() {
+    m._Image61_i = function() {
         var e = new eui.Image;
         return e.source = "common_satk_png",
         e.x = -13.414,
@@ -10681,7 +10673,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.evLine2 = e,
         e.x = 39,
         e.y = 208.03,
-        e.elementsContent = [this.signUp2_i(), this._Label28_i(), this.txtDelta2_i(), this.txtValue2_i(), this.txtV2_i(), this._Image65_i()],
+        e.elementsContent = [this.signUp2_i(), this._Label28_i(), this.txtDelta2_i(), this.txtValue2_i(), this.txtV2_i(), this._Image64_i()],
         e
     },
     m.signUp2_i = function() {
@@ -10690,10 +10682,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.visible = !0,
         e.x = 114.34,
         e.y = 5,
-        e.elementsContent = [this._Image63_i(), this._Image64_i()],
+        e.elementsContent = [this._Image62_i(), this._Image63_i()],
         e
     },
-    m._Image63_i = function() {
+    m._Image62_i = function() {
         var e = new eui.Image;
         return e.source = "advpet_signup_png",
         e.visible = !0,
@@ -10701,7 +10693,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 1,
         e
     },
-    m._Image64_i = function() {
+    m._Image63_i = function() {
         var e = new eui.Image;
         return e.source = "advArrow_png",
         e.x = -5.271,
@@ -10751,7 +10743,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 3,
         e
     },
-    m._Image65_i = function() {
+    m._Image64_i = function() {
         var e = new eui.Image;
         return e.source = "common_speed_png",
         e.x = -13.414,
@@ -10763,7 +10755,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.evLine3 = e,
         e.x = 39,
         e.y = 242.49,
-        e.elementsContent = [this.signUp3_i(), this._Label29_i(), this.txtDelta3_i(), this.txtValue3_i(), this.txtV3_i(), this._Image68_i()],
+        e.elementsContent = [this.signUp3_i(), this._Label29_i(), this.txtDelta3_i(), this.txtValue3_i(), this.txtV3_i(), this._Image67_i()],
         e
     },
     m.signUp3_i = function() {
@@ -10771,10 +10763,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.signUp3 = e,
         e.x = 114.34,
         e.y = 5,
-        e.elementsContent = [this._Image66_i(), this._Image67_i()],
+        e.elementsContent = [this._Image65_i(), this._Image66_i()],
         e
     },
-    m._Image66_i = function() {
+    m._Image65_i = function() {
         var e = new eui.Image;
         return e.source = "advpet_signup_png",
         e.visible = !0,
@@ -10782,7 +10774,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 1,
         e
     },
-    m._Image67_i = function() {
+    m._Image66_i = function() {
         var e = new eui.Image;
         return e.source = "advArrow_png",
         e.x = -5.271,
@@ -10832,7 +10824,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 3,
         e
     },
-    m._Image68_i = function() {
+    m._Image67_i = function() {
         var e = new eui.Image;
         return e.source = "common_def_png",
         e.x = -13.414,
@@ -10844,7 +10836,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.evLine4 = e,
         e.x = 39,
         e.y = 276.07,
-        e.elementsContent = [this.signUp4_i(), this._Label30_i(), this.txtDelta4_i(), this.txtValue4_i(), this.txtV4_i(), this._Image71_i()],
+        e.elementsContent = [this.signUp4_i(), this._Label30_i(), this.txtDelta4_i(), this.txtValue4_i(), this.txtV4_i(), this._Image70_i()],
         e
     },
     m.signUp4_i = function() {
@@ -10852,10 +10844,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.signUp4 = e,
         e.x = 114.34,
         e.y = 5,
-        e.elementsContent = [this._Image69_i(), this._Image70_i()],
+        e.elementsContent = [this._Image68_i(), this._Image69_i()],
         e
     },
-    m._Image69_i = function() {
+    m._Image68_i = function() {
         var e = new eui.Image;
         return e.source = "advpet_signup_png",
         e.visible = !0,
@@ -10863,7 +10855,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 1,
         e
     },
-    m._Image70_i = function() {
+    m._Image69_i = function() {
         var e = new eui.Image;
         return e.source = "advArrow_png",
         e.x = -5.271,
@@ -10913,7 +10905,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 3,
         e
     },
-    m._Image71_i = function() {
+    m._Image70_i = function() {
         var e = new eui.Image;
         return e.source = "common_sdef_png",
         e.x = -13.414,
@@ -10925,7 +10917,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.evLine5 = e,
         e.x = 39,
         e.y = 310.03,
-        e.elementsContent = [this.signUp5_i(), this._Label31_i(), this.txtDelta5_i(), this.txtValue5_i(), this.txtV5_i(), this._Image74_i()],
+        e.elementsContent = [this.signUp5_i(), this._Label31_i(), this.txtDelta5_i(), this.txtValue5_i(), this.txtV5_i(), this._Image73_i()],
         e
     },
     m.signUp5_i = function() {
@@ -10933,10 +10925,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.signUp5 = e,
         e.x = 114.34,
         e.y = 5,
-        e.elementsContent = [this._Image72_i(), this._Image73_i()],
+        e.elementsContent = [this._Image71_i(), this._Image72_i()],
         e
     },
-    m._Image72_i = function() {
+    m._Image71_i = function() {
         var e = new eui.Image;
         return e.source = "advpet_signup_png",
         e.visible = !0,
@@ -10944,7 +10936,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 1,
         e
     },
-    m._Image73_i = function() {
+    m._Image72_i = function() {
         var e = new eui.Image;
         return e.source = "advArrow_png",
         e.x = -5.271,
@@ -10994,7 +10986,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 3,
         e
     },
-    m._Image74_i = function() {
+    m._Image73_i = function() {
         var e = new eui.Image;
         return e.source = "common_hp_png",
         e.x = -13.413,
@@ -11006,10 +10998,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return e.visible = !0,
         e.x = 0,
         e.y = 358.54,
-        e.elementsContent = [this._Image75_i(), this._Label32_i(), this.btnDetail_i()],
+        e.elementsContent = [this._Image74_i(), this._Label32_i(), this.btnDetail_i()],
         e
     },
-    m._Image75_i = function() {
+    m._Image74_i = function() {
         var e = new eui.Image;
         return e.height = 32.939,
         e.source = "pet_bag_main_panel_attr_imgtitlebg_png",
@@ -11037,7 +11029,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.verticalCenter = 0,
         e.visible = !0,
         e.x = 190.178,
-        e.elementsContent = [this._Label33_i(), this._Image76_i()],
+        e.elementsContent = [this._Label33_i(), this._Image75_i()],
         e
     },
     m._Label33_i = function() {
@@ -11050,7 +11042,7 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.y = 0,
         e
     },
-    m._Image76_i = function() {
+    m._Image75_i = function() {
         var e = new eui.Image;
         return e.source = "advpet_excham_png",
         e.x = 73.67,
@@ -11079,10 +11071,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         e.right = 30,
         e.visible = !0,
         e.y = 0,
-        e.elementsContent = [this._Image77_i(), this._Group9_i(), this.btn2Get_i(), this._Scroller2_i()],
+        e.elementsContent = [this._Image76_i(), this._Group9_i(), this.btn2Get_i(), this._Scroller2_i()],
         e
     },
-    m._Image77_i = function() {
+    m._Image76_i = function() {
         var e = new eui.Image;
         return e.alpha = .8,
         e.height = 400.057,
@@ -11099,10 +11091,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return e.horizontalCenter = 0,
         e.visible = !0,
         e.y = 0,
-        e.elementsContent = [this._Image78_i(), this._Label34_i()],
+        e.elementsContent = [this._Image77_i(), this._Label34_i()],
         e
     },
-    m._Image78_i = function() {
+    m._Image77_i = function() {
         var e = new eui.Image;
         return e.height = 32.939,
         e.source = "pet_bag_main_panel_attr_imgtitlebg_png",
@@ -11126,10 +11118,10 @@ generateEUI.paths["resource/eui_skins/panel/PetBagMainPanelSkin.exml"] = window.
         return this.btn2Get = e,
         e.x = 95,
         e.y = 419.74,
-        e.elementsContent = [this._Image79_i(), this._Label35_i()],
+        e.elementsContent = [this._Image78_i(), this._Label35_i()],
         e
     },
-    m._Image79_i = function() {
+    m._Image78_i = function() {
         var e = new eui.Image;
         return e.height = 40,
         e.source = "pet_bag_main_panel_btnyellow_png",

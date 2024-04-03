@@ -1236,7 +1236,7 @@ function(t) {
                         case 1:
                             return t = n.sent(),
                             this.effectImg.width = i ? t ? 28 : 26 : 0,
-                            this.effectImg.source = t ? "battle_test_machine_train_fight_info_effectyu_png": "battle_test_machine_train_fight_info_effectImg_png",
+                            this.effectImg.source = t ? PetAdvanceXMLInfo.getAdvSignSource(e.id) : "battle_test_machine_train_fight_info_effectImg_png",
                             [2]
                         }
                     })
@@ -1289,24 +1289,24 @@ function(t) {
                         var a = SkillXMLInfo.getTypeID(i.id);
                         n = ClientConfig.getpettypeticon(a + "")
                     }
-                    u["imgSkillIcon" + t].source = n,
-                    u["txtSkillPP" + t].text = "PP：" + i.maxPP + "/" + i.maxPP,
-                    u["txtSkillPower" + t].text = "威力：" + i.damage,
-                    u["txtSkillName" + t].text = i.name,
-                    ImageButtonUtil.add(u["skillBtn_" + t],
+                    c["imgSkillIcon" + t].source = n,
+                    c["txtSkillPP" + t].text = "PP：" + i.maxPP + "/" + i.maxPP,
+                    c["txtSkillPower" + t].text = "威力：" + i.damage,
+                    c["txtSkillName" + t].text = i.name,
+                    ImageButtonUtil.add(c["skillBtn_" + t],
                     function() {
                         tipsPop.TipsPop.openSkillPop({
                             id: i.id,
                             petInfo: e
                         })
                     },
-                    u, !1, !1)
-                } else u["imgSkillIcon" + t].source = "",
-                u["txtSkillPP" + t].text = "",
-                u["txtSkillPower" + t].text = "",
-                u["txtSkillName" + t].text = ""
+                    c, !1, !1)
+                } else c["imgSkillIcon" + t].source = "",
+                c["txtSkillPP" + t].text = "",
+                c["txtSkillPower" + t].text = "",
+                c["txtSkillName" + t].text = ""
             },
-            u = this, c = 1; 4 >= c; c++) _(c);
+            c = this, u = 1; 4 >= u; u++) _(u);
             e.hideSKill ? (this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_1_png", this.txtSkill5.text = StringUtil.parseStrLimitLen(e.hideSKill.name, 6)) : (this.txtSkill5.text = "", SkillXMLInfo.hideMovesMap[e.id] ? this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_3_png": this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_2_png"),
             e && e.hideSKill && ImageButtonUtil.add(this.skillBtn_5,
             function() {
@@ -1334,7 +1334,7 @@ function(t) {
             function() {
                 ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], [i], "", AppDoStyle.NULL)
             },
-            this), this.effectImg.width = 26, this.effectImg.source = EffectIconControl.checkIncludeAdvEffect(i.effectId) ? "battle_test_machine_train_fight_info_effectyu_png": "battle_test_machine_train_fight_info_effectImg_png") : this.effectImg.visible = !1,
+            this), this.effectImg.width = 26, this.effectImg.source = EffectIconControl.checkIncludeAdvEffect(i.effectId) ? PetAdvanceXMLInfo.getAdvSignSource(t.monsterId) : "battle_test_machine_train_fight_info_effectImg_png") : this.effectImg.visible = !1,
             this.txtLevel.text = "" + t.monsterLv,
             this.txtNature.text = "" + t.monsterTalent,
             this.txtEffect.text = NatureXMLInfo.getName(t.monsterNature),
@@ -1380,12 +1380,12 @@ function(t) {
                 count: 5,
                 name: "auto"
             }), this.petCounter1.addChild(_));
-            for (var u, c = t.monsterMove.split("_").map(parseFloat), p = 0, g = SkillXMLInfo.getAllHideSkills(t.monsterId), f = function(t, e) {
-                if (e < c.length && g.indexOf(c[e]) >= 0) return p = c[e],
-                u = t,
+            for (var c, u = t.monsterMove.split("_").map(parseFloat), p = 0, g = SkillXMLInfo.getAllHideSkills(t.monsterId), f = function(t, e) {
+                if (e < u.length && g.indexOf(u[e]) >= 0) return p = u[e],
+                c = t,
                 "continue";
-                if (e < c.length) {
-                    var i = c[t - 1],
+                if (e < u.length) {
+                    var i = u[t - 1],
                     n = SkillXMLInfo.getSkillObj(i),
                     a = void 0;
                     if (4 == SkillXMLInfo.getCategory(i)) a = ClientConfig.getpettypeticon("prop");
@@ -1407,10 +1407,10 @@ function(t) {
                     m, !1, !1)
                 } else m["imgSkillIcon" + t] && (m["imgSkillIcon" + t].source = "", m["txtSkillPP" + t].text = "", m["txtSkillPower" + t].text = "", m["txtSkillName" + t].text = "");
                 t++,
-                u = t
+                c = t
             },
             m = this, d = 1, x = 0; 4 >= x; x++) f(d, x),
-            d = u;
+            d = c;
             p > 0 ? (this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_1_png", this.txtSkill5.text = StringUtil.parseStrLimitLen(SkillXMLInfo.getSkillObj(p).Name, 6)) : (this.txtSkill5.text = "", SkillXMLInfo.hideMovesMap[t.monsterId] ? this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_3_png": this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_2_png"),
             ImageButtonUtil.remove(this.skillBtn_5),
             p > 0 && ImageButtonUtil.add(this.skillBtn_5,
@@ -1485,19 +1485,19 @@ function(t) {
             function() {
                 ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], [s], "", AppDoStyle.NULL)
             },
-            this), this.effectImg3.width = 26, this.effectImg3.source = EffectIconControl.checkIncludeAdvEffect(s.effectId) ? "battle_test_machine_train_fight_info_effectyu_png": "battle_test_machine_train_fight_info_effectImg_png") : this.effectImg3.visible = !1,
+            this), this.effectImg3.width = 26, this.effectImg3.source = EffectIconControl.checkIncludeAdvEffect(s.effectId) ? PetAdvanceXMLInfo.getAdvSignSource(a.monsterId) : "battle_test_machine_train_fight_info_effectImg_png") : this.effectImg3.visible = !1,
             this.enemyName.text = PetXMLInfo.getName(a.monsterId),
             this.txtStudy3.text = PetXMLInfo.getTypeCN(a.monsterId);
             var o = a.extraData.split("_").map(parseFloat),
             h = a.mintmarkData.split("_").map(parseFloat),
             l = a.baseData.split("_").map(parseFloat);
             if (this.txtAttack3.text = "" + (l[0] + h[0] + o[0]), this.txtSAttack3.text = "" + (l[1] + h[1] + o[1]), this.txtSpeed3.text = "" + (l[2] + h[2] + o[2]), this.txtDefence3.text = "" + (l[3] + h[3] + o[3]), this.txtSDefence3.text = "" + (l[4] + h[4] + o[4]), this.txtHealth3.text = "" + (l[5] + h[5] + o[5]), "" != a.monsterMove) {
-                for (var _, u = a.monsterMove.split("_").map(parseFloat), c = 0, p = SkillXMLInfo.getAllHideSkills(a.monsterId), g = function(t, e) {
-                    if (e < u.length && p.indexOf(u[e]) >= 0) return c = u[e],
+                for (var _, c = a.monsterMove.split("_").map(parseFloat), u = 0, p = SkillXMLInfo.getAllHideSkills(a.monsterId), g = function(t, e) {
+                    if (e < c.length && p.indexOf(c[e]) >= 0) return u = c[e],
                     _ = t,
                     "continue";
-                    if (ImageButtonUtil.remove(f["skillBtn_" + t]), e < u.length) {
-                        var i = u[t - 1],
+                    if (ImageButtonUtil.remove(f["skillBtn_" + t]), e < c.length) {
+                        var i = c[t - 1],
                         n = SkillXMLInfo.getSkillObj(i),
                         a = void 0;
                         if (4 == SkillXMLInfo.getCategory(i)) a = ClientConfig.getpettypeticon("prop");
@@ -1523,12 +1523,12 @@ function(t) {
                 },
                 f = this, e = 1, m = 0; 4 >= m; m++) g(e, m),
                 e = _;
-                c > 0 ? (this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_1_png", this.txtSkill5.text = StringUtil.parseStrLimitLen(SkillXMLInfo.getSkillObj(c).Name, 6)) : (this.txtSkill5.text = "", SkillXMLInfo.hideMovesMap[a.monsterId] ? this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_3_png": this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_2_png"),
+                u > 0 ? (this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_1_png", this.txtSkill5.text = StringUtil.parseStrLimitLen(SkillXMLInfo.getSkillObj(u).Name, 6)) : (this.txtSkill5.text = "", SkillXMLInfo.hideMovesMap[a.monsterId] ? this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_3_png": this.fifthSign.source = "battle_test_machine_train_fight_info_fifthSign_2_png"),
                 ImageButtonUtil.remove(this.skillBtn_5),
-                c > 0 && ImageButtonUtil.add(this.skillBtn_5,
+                u > 0 && ImageButtonUtil.add(this.skillBtn_5,
                 function() {
                     tipsPop.TipsPop.openSkillPop({
-                        id: c
+                        id: u
                     })
                 },
                 this, !1, !1)
@@ -1723,15 +1723,30 @@ function(t) {
                 n = PetStorage2015InfoManager.getInfoByType(i - 1, 0);
                 n.sort(function(t, e) {
                     return e.level - t.level == 0 ? e.id - t.id: e.level - t.level
-                }),
-                n = PetManager.infos.concat(PetManager.secondInfos).concat(n),
+                });
+                for (var a = [], r = 0, s = PetManager.infos; r < s.length; r++) {
+                    var o = s[r],
+                    h = new PetStorage2015PetInfo;
+                    h.id = o.id,
+                    h.catchTime = o.catchTime,
+                    a.push(h)
+                }
+                for (var l = 0,
+                _ = PetManager.secondInfos; l < _.length; l++) {
+                    var o = _[l],
+                    h = new PetStorage2015PetInfo;
+                    h.id = o.id,
+                    h.catchTime = o.catchTime,
+                    a.push(h)
+                }
+                n = a.concat(n),
                 this.leftList_mypetArr = [];
-                for (var a = 0,
-                r = n; a < r.length; a++) {
-                    var s = r[a];
+                for (var c = 0,
+                u = n; c < u.length; c++) {
+                    var p = u[c];
                     this.leftList_mypetArr.push({
                         type: "pet",
-                        id: s.id,
+                        id: p.id,
                         count: !1,
                         name: {
                             value: "auto",
@@ -1753,18 +1768,18 @@ function(t) {
                                 grid: [22, 22, 2, 2]
                             }]
                         },
-                        ct: s.catchTime,
+                        ct: p.catchTime,
                         cigId: null
                     })
                 }
             }
             if ("TrialSelect" == this.selectType || "Both" == this.selectType) {
                 this.leftList_trialArr = [];
-                for (var o = 0; o < this.allTrialIdArr.length; o++) {
-                    var h = config.FightTestMonsterConfig.getItem(this.allTrialIdArr[o]);
+                for (var g = 0; g < this.allTrialIdArr.length; g++) {
+                    var f = config.FightTestMonsterConfig.getItem(this.allTrialIdArr[g]);
                     this.leftList_trialArr.push({
                         type: "pet",
-                        id: h.monsterId,
+                        id: f.monsterId,
                         count: !1,
                         name: {
                             value: "auto",
@@ -1787,39 +1802,39 @@ function(t) {
                             }]
                         },
                         ct: null,
-                        cigId: h.id
+                        cigId: f.id
                     })
                 }
             }
             "NoSelect" == this.selectType ? (this.select_grp.visible = !1, this.noSelect_sign.visible = !0) : (this.select_grp.visible = !0, this.noSelect_sign.visible = !1, this.selectGrp = this.rb_mine.group, this.selectGrp.selectedValue = "TrialSelect" == this.selectType ? 2 : 1, this.initSelectTab("TrialSelect" == this.selectType ? 2 : 1)),
             this.rightList_playerSideArr = [];
-            for (var l = 0; 6 > l; l++)"NoSelect" != this.selectType ? this.rightList_playerSideArr.push({
+            for (var m = 0; 6 > m; m++)"NoSelect" != this.selectType ? this.rightList_playerSideArr.push({
                 id: 0,
                 ct: 0,
-                isLocked: l >= this.stageCig.NeedMonNum,
+                isLocked: m >= this.stageCig.NeedMonNum,
                 cigId: null
-            }) : l >= this.allTrialIdArr.length ? this.rightList_playerSideArr.push({
+            }) : m >= this.allTrialIdArr.length ? this.rightList_playerSideArr.push({
                 id: 0,
                 ct: 0,
                 isLocked: !0,
                 cigId: null,
                 selectId: null
             }) : this.rightList_playerSideArr.push({
-                id: config.FightTestMonsterConfig.getItem(this.allTrialIdArr[l]).monsterId,
+                id: config.FightTestMonsterConfig.getItem(this.allTrialIdArr[m]).monsterId,
                 ct: null,
-                isLocked: l >= this.stageCig.NeedMonNum,
-                cigId: this.allTrialIdArr[l],
+                isLocked: m >= this.stageCig.NeedMonNum,
+                cigId: this.allTrialIdArr[m],
                 selectId: null
             });
             this.rightList_enemySideArr = [];
-            for (var _ = 0; _ < this.allEnemyIdArr.length; _++) {
-                var u = config.FightTestBossConfig.getItem(this.allEnemyIdArr[_]);
+            for (var d = 0; d < this.allEnemyIdArr.length; d++) {
+                var x = config.FightTestBossConfig.getItem(this.allEnemyIdArr[d]);
                 this.rightList_enemySideArr.push({
-                    id: u.monsterId,
+                    id: x.monsterId,
                     ct: null,
                     isLocked: !1,
-                    cigId: u.id,
-                    cigIdx: _
+                    cigId: x.id,
+                    cigIdx: d
                 })
             }
             this.list_1.selectedIndex = 0,
@@ -1995,8 +2010,8 @@ function(t) {
             }
             if (this.leftList_trialArr) for (var l = 0,
             _ = this.leftList_trialArr; l < _.length; l++) {
-                var u = _[l];
-                u.ui.decorationSource[0].hide = !0
+                var c = _[l];
+                c.ui.decorationSource[0].hide = !0
             }
             this.left_arrcol.replaceAll(this.left_arrcol.source),
             this.list_1.selectedIndex = 0,
@@ -2025,9 +2040,9 @@ function(t) {
                     l.id == i ? l.ui.decorationSource[0].hide = !0 : l.id == n && (l.ui.decorationSource[0].hide = !1)
                 }
                 for (var _ = 0,
-                u = this.left_arrcol.source; _ < u.length; _++) {
-                    var c = u[_];
-                    c.id == i ? c.ui.decorationSource[0].hide = !0 : c.id == n && (c.ui.decorationSource[0].hide = !1)
+                c = this.left_arrcol.source; _ < c.length; _++) {
+                    var u = c[_];
+                    u.id == i ? u.ui.decorationSource[0].hide = !0 : u.id == n && (u.ui.decorationSource[0].hide = !1)
                 }
                 this.left_arrcol.replaceAll(this.left_arrcol.source),
                 this.rightList_playerSideArr[this.list_1.selectedIndex] = {

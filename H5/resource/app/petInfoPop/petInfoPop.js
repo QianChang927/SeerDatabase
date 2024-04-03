@@ -260,20 +260,20 @@ function(t) {
         i.prototype.init = function() {
             return __awaiter(this, void 0, void 0,
             function() {
-                var e, i, n, o, r, a, l, s, p, h, u, _, f, g, c, I, a, m, x = this;
+                var e, i, n, o, r, a, l, s, h, p, u, _, f, g, c, I, a, m, d = this;
                 return __generator(this,
-                function(d) {
-                    switch (d.label) {
+                function(x) {
+                    switch (x.label) {
                     case 0:
                         return this.petInfo instanceof PetStorage2015PetInfo ? (e = this, [4, PetManager.UpdateBagPetInfoAsynce(this.petInfo.catchTime)]) : [3, 2];
                     case 1:
-                        e.petInfo = d.sent(),
-                        d.label = 2;
+                        e.petInfo = x.sent(),
+                        x.label = 2;
                     case 2:
                         for (this.txtLV.text = this.petInfo.level + "", this.txtTalent.text = this.petInfo.dv + "", this.txtNature.text = NatureXMLInfo.getName(this.petInfo.nature), i = PetManager.getPetEffect(this.petInfo), this.txtSNature.text = i ? PetEffectXMLInfo.getEffect(i.effectID, i.args) : "无", this.txtAttack1.text = this.petInfo.attack + "", this.txtSpeed1.text = this.petInfo.speed + "", this.txtDefence1.text = this.petInfo.defence + "", this.txtSAttack1.text = this.petInfo.s_a + "", this.txtHealth1.text = this.petInfo.maxHp + "", this.txtSDefence1.text = this.petInfo.s_d + "", this.txtAttack2.text = this.petInfo.ev_attack + "", this.txtSpeed2.text = this.petInfo.ev_sp + "", this.txtDefence2.text = this.petInfo.ev_defence + "", this.txtSAttack2.text = this.petInfo.ev_sa + "", this.txtHealth2.text = this.petInfo.ev_hp + "", this.txtSDefence2.text = this.petInfo.ev_sd + "", this.arrMarkId = [], n = [void 0, this.petInfo.abilityMark, this.petInfo.skillMark, this.petInfo.commonMark], this.arrMarkId[1] = CountermarkXMLInfo.getMarkId(this.petInfo.abilityMark), this.arrMarkId[2] = CountermarkXMLInfo.getMarkId(this.petInfo.skillMark), this.arrMarkId[3] = CountermarkXMLInfo.getMarkId(this.petInfo.commonMark), this.imgMark1.source = this.arrMarkId[1] ? CountermarkXMLInfo.getIconURL(this.arrMarkId[1]) : "pet_info_pop_pet_pop_imgadd1_png", this.imgMark2.source = this.arrMarkId[2] ? CountermarkXMLInfo.getIconURL(this.arrMarkId[2]) : "pet_info_pop_pet_pop_imgadd1_png", this.imgMark3.source = this.arrMarkId[3] ? CountermarkXMLInfo.getIconURL(this.arrMarkId[3]) : this.petInfo.commonMarkActived ? "pet_info_pop_pet_pop_imgadd1_png": "pet_info_pop_pet_pop_imglock_png", this.arrMarkId[3] || this.petInfo.commonMarkActived || (this.imgMark3.width = 34, this.imgMark3.height = 39), o = function(t) {
                             ImageButtonUtil.add(r["imgMark" + t],
                             function() {
-                                x.arrMarkId[t] && tipsPop.TipsPop.openCounterMarkPop({
+                                d.arrMarkId[t] && tipsPop.TipsPop.openCounterMarkPop({
                                     ins: CountermarkController.getInfoTemp(n[t])
                                 })
                             },
@@ -283,20 +283,20 @@ function(t) {
                         for (this.groupFifthSkill.visible = !!this.petInfo.hideSKill, this.petInfo.hideSKill && (l = void 0, 4 == SkillXMLInfo.getCategory(this.petInfo.hideSKill.id) ? l = ClientConfig.getpettypeticon("prop") : (s = SkillXMLInfo.getTypeID(this.petInfo.hideSKill.id), l = ClientConfig.getpettypeticon(s + "")), this.imgFifthSkillIcon.source = l, this.txtFifthSkillName.text = this.petInfo.hideSKill.name, this.txtFifthSkill.text = "威力:" + this.petInfo.hideSKill.damage + "    PP:" + this.petInfo.hideSKill.pp + "/" + this.petInfo.hideSKill.maxPP, ImageButtonUtil.add(this.groupFifthSkill,
                         function() {
                             tipsPop.TipsPop.openSkillPop({
-                                id: x.petInfo.hideSKill.id
+                                id: d.petInfo.hideSKill.id
                             })
                         },
-                        this, !1, !1), ImageButtonUtil.add(this.btnChange, this.showGroupFifthSkill, this)), this.btnChange.visible = !1, p = PetXMLInfo.getAdditionFifthSkill(this.petInfo.id), p.length > 0 && this.petInfo.hideSKill && this.data.canChangeSkill && (this.btnChange.visible = !0), h = 0, u = this.petInfo.skillArray; h < u.length; h++) _ = u[h],
+                        this, !1, !1), ImageButtonUtil.add(this.btnChange, this.showGroupFifthSkill, this)), this.btnChange.visible = !1, h = PetXMLInfo.getAdditionFifthSkill(this.petInfo.id), h.length > 0 && this.petInfo.hideSKill && this.data.canChangeSkill && (this.btnChange.visible = !0), p = 0, u = this.petInfo.skillArray; p < u.length; p++) _ = u[p],
                         _.petInfo = this.petInfo,
                         this.groupSkillItem.addChild(new t.SkillItem(_, this.data.canChangeSkill));
                         if (EventManager.addEventListener(t.EventConst.START_CHANGE_SKILL, this.showGroupSkill, this), UICjsUtil.init(), UICjsUtil.start(), UICjsUtil.setContainer(this.groupPetAni), f = this.petInfo.id, this.petInfo.skinId > 0 && (f = PetSkinXMLInfo.getSkinInfo(this.petInfo.skinId).skinPetId), UICjsUtil.GetShowPetMovieClip(f).then(function(t) {
                             UICjsUtil.showAnimate(t);
-                            var e = PetXMLInfo.getPetOffset(x.petInfo.id);
+                            var e = PetXMLInfo.getPetOffset(d.petInfo.id);
                             t && (t.regX = e.x, t.regY = e.y),
-                            x.touchEnabled = !1
+                            d.touchEnabled = !1
                         }), this.imgAttri.source = ClientConfig.getpettypeticon(PetXMLInfo.getType(this.petInfo.id)), this.txtName.text = this.petInfo.name, this.imgEff.width = PetManager.checkShowEffectIcon(this.petInfo.id) ? 26 : 0, PetManager.checkPetInfoEffect(this.petInfo,
                         function(t) {
-                            return __awaiter(x, void 0, void 0,
+                            return __awaiter(d, void 0, void 0,
                             function() {
                                 var e;
                                 return __generator(this,
@@ -307,7 +307,7 @@ function(t) {
                                     case 1:
                                         return e = i.sent(),
                                         this.imgEff.width = t ? e ? 28 : 26 : 0,
-                                        this.imgEff.source = e ? "pet_info_pop_pet_pop_shenyu_png": "pet_info_pop_pet_pop_zstx_png",
+                                        this.imgEff.source = e ? PetAdvanceXMLInfo.getAdvSignSource(this.petInfo.id) : "pet_info_pop_pet_pop_zstx_png",
                                         [2]
                                     }
                                 })
@@ -315,7 +315,7 @@ function(t) {
                         },
                         this), ImageButtonUtil.add(this.imgEff,
                         function() {
-                            ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], x.petInfo, "", AppDoStyle.NULL)
+                            ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], d.petInfo, "", AppDoStyle.NULL)
                         },
                         this), g = EffectIconControl.getAllEffctByPetId(this.petInfo.id), g && (c = g[0].kind, null != c)) for (I = c.toString().split(" ").map(Number), a = 0; a < I.length; a++) m = new eui.Image("pet_bag_tag" + (I[a] + 1) + "_png"),
                         this.groupTag.addChild(m);
@@ -354,15 +354,15 @@ function(t) {
                     var a = r[o],
                     l = a.skillId,
                     s = SkillXMLInfo.getSkillObj(l),
-                    p = {};
-                    p.id = s.ID,
-                    p.name = s.Name,
-                    p.damage = s.Power || 0,
-                    p.pp = s.MaxPP,
-                    p.maxPP = s.MaxPP,
-                    p.petInfo = i.petInfo,
-                    a.info.Rec && (a.info.Tag ? p.tag = 2 + a.info.Tag: p.tag = 2),
-                    i.groupAllSkill.addChild(new t.SkillItem(p, !1, {
+                    h = {};
+                    h.id = s.ID,
+                    h.name = s.Name,
+                    h.damage = s.Power || 0,
+                    h.pp = s.MaxPP,
+                    h.maxPP = s.MaxPP,
+                    h.petInfo = i.petInfo,
+                    a.info.Rec && (a.info.Tag ? h.tag = 2 + a.info.Tag: h.tag = 2),
+                    i.groupAllSkill.addChild(new t.SkillItem(h, !1, {
                         oldSkillId: e.data,
                         catchTime: i.petInfo.catchTime
                     }))

@@ -9722,10 +9722,10 @@ SignBuffView = function(t) {
     },
     e.prototype.onchangePet = function(t) {
         var e = t.dataObj;
-        e.userID == this.useId && this.setSignIcon(e.fightSigns)
+        e.userID == this.useId && (this._fightPetInfo.petID = e.petID, this.setSignIcon(e.fightSigns))
     },
     e.prototype.setSignIcon = function(t) {
-        var e = t.getKeys(); - 1 != e.indexOf(String(this._index)) ? (this.fightSignInfo = t.getValue(this._index), this.showIcon(!0)) : this.showIcon(!1)
+        var e = t.getKeys(); - 1 != e.indexOf(String(this._index)) ? (this.fightSignInfo = t.getValue(this._index), this.showIcon(!0)) : this.signInfo.showmonster == this._fightPetInfo.petID && this._fightPetInfo.userID == MainManager.actorID ? this.showIcon(!0) : this.showIcon(!1)
     },
     e.prototype.showIcon = function(t) {
         if (this.fightSignInfo && (this.lvNum = this.fightSignInfo.lvNum), t) {

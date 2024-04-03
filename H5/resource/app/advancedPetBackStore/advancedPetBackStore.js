@@ -235,20 +235,21 @@ function(t) {
         n.prototype.getInfo = function() {
             return __awaiter(this, void 0, void 0,
             function() {
-                var t, e, i, a, o, r;
+                var t, e, i, a, o, r, s;
                 return __generator(this,
-                function(s) {
-                    switch (s.label) {
+                function(c) {
+                    switch (c.label) {
                     case 0:
                         for (t = PetAdvanceXMLInfo.getAllBackInfo(), n.lastDate = new Date(t[0].desc.split("|")[1]), e = 0; e < t.length; e++) n.taskId2petId.add(t[e].TaskId, t[e].MonsterId);
-                        for (i = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("advancedPetPanelConfig")).root.Task, a = 0; a < i.length; a++) o = i[a].Compone.Name,
-                        r = o.split("|"),
-                        n.petAdvCompName.add(Number(i[a].ID), r),
-                        n.petAdvH5Jump2Get.add(Number(i[a].ID), i[a].JumpH5),
-                        n.petAdvFlashJump2Get.add(Number(i[a].ID), i[a].Jump);
+                        for (i = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("advancedPetPanelConfig")).root.Task, a = 0; a < t.length; a++) o = t[a].ID - 1,
+                        r = i[o].Compone.Name,
+                        s = r.split("|"),
+                        n.petAdvCompName.add(Number(i[o].ID), s),
+                        n.petAdvH5Jump2Get.add(Number(i[o].ID), i[o].JumpH5),
+                        n.petAdvFlashJump2Get.add(Number(i[o].ID), i[o].Jump);
                         return [4, this.updateAdvInfos()];
                     case 1:
-                        return s.sent(),
+                        return c.sent(),
                         [2]
                     }
                 })

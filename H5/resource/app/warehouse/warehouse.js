@@ -472,10 +472,10 @@ function(e) {
                         return this.img_yu.visible = !0,
                         this.empty.visible = !1,
                         s = PetManager.getPetInfo(this._selectPetData.catchTime),
-                        [4, KTool.checkHasAdvanced(s, this._selectPetData.id, this._selectPetData.catchTime)];
+                        [4, KTool.checkHasAdvanced(s)];
                     case 1:
                         return a = h.sent(),
-                        this.img_yu.source = a ? "warehousenew_special_img_yu_png": "warehouse_imgeffect_png",
+                        this.img_yu.source = a ? PetAdvanceXMLInfo.getAdvSignSource(this._selectPetData.id) : "warehouse_imgeffect_png",
                         e.length > 0 && (o = EffectDesManager.transferDesc(a ? e[e.length - 1] : e[e.length - 2 >= 0 ? e.length - 2 : 0]), _ = o[0], u = o[1], l = (new egret.HtmlTextParser).parse(_), this.desc.textFlow = l, this.scro1.height = u.length <= 0 ? 230 : 102, this.scro2.visible = u.length > 0, this.titleDesc.textFlow = (new egret.HtmlTextParser).parse(EffectDesManager.transferDesArr(u))),
                         [3, 3];
                     case 2:

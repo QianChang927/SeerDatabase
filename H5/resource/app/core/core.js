@@ -12344,10 +12344,7 @@ EffectIconControl = function() {
     t.getAdvanceEffectByPetId = function(t) {
         for (var e = this._hashMapByPetId.getValue(t), n = 0, r = e; n < r.length; n++) {
             var o = r[n];
-            if (o.hasOwnProperty("come")) {
-                var i = o.come;
-                return i.match(/神谕进阶/g) ? o: null
-            }
+            if (o.hasOwnProperty("isAdv")) return o.isAdv > 0 ? o: null
         }
         return null
     },
@@ -65755,8 +65752,7 @@ PetAdvanceXMLInfo = function() {
             function(a) {
                 switch (a.label) {
                 case 0:
-                    return ModuleManager.destroyAllModule(),
-                    this._petArr[this._petArr.length - 1] != e ? [3, 2] : [4, config.xml.load("ActivityCenter")];
+                    return 1 == this.getAdvType(e) ? (Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得"), [2]) : (ModuleManager.destroyAllModule(), this._petArr[this._petArr.length - 1] != e ? [3, 2] : [4, config.xml.load("ActivityCenter")]);
                 case 1:
                     if (a.sent(), n = config.ActivityCenter.getItem(7), r = new Date(n.beginning.replace(/_/g, "/")).getTime(), o = new Date(n.ending.replace(/_/g, "/")).getTime(), i = SystemTimerManager.sysBJDate.getTime(), s = i >= r && o >= i) return ModuleManager.showModuleByID(110, {
                         moduleID: 187,
@@ -65777,6 +65773,18 @@ PetAdvanceXMLInfo = function() {
                 }
             })
         })
+    },
+    t.getAdvType = function(t) {
+        return this._petAdvanceInfos.getValue(t).AdvType
+    },
+    t.getAdvSignSource = function(t) {
+        var e = this._petAdvanceInfos.getValue(t).AdvType;
+        switch (e) {
+        case 1:
+            return "eff_juexin_png";
+        default:
+            return "eff_shenyu_png"
+        }
     },
     t._petArr = [],
     t._petAdvanceInfos = new HashMap,

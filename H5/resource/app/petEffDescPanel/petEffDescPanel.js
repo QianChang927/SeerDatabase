@@ -306,11 +306,10 @@ function(t) {
             this),
             ImageButtonUtil.add(this.btnCome,
             function() {
-                null != EffectIconControl.getAdvanceEffectByPetId(t.arrEff[0].petId) ? PetAdvanceXMLInfo.showAdvancePanel(t.arrEff[0].petId) : (StatLogger.log("20221111版本系统功能", "契约召唤搬迁", "从精灵特性进入伙伴效果界面"), ModuleManager.showModuleByID(110, {
+                PetAdvanceXMLInfo.getIncludeAdvance(t.arrEff[0].petId) ? PetAdvanceXMLInfo.showAdvancePanel(t.arrEff[0].petId) : (StatLogger.log("20221111版本系统功能", "契约召唤搬迁", "从精灵特性进入伙伴效果界面"), ModuleManager.showModuleByID(110, {
                     moduleID: 164,
                     pamram: 1
-                })),
-                EventManager.dispatchEventWith("closePetbag"),
+                }), EventManager.dispatchEventWith("closePetbag")),
                 t.dispatchEventWith("event_close_panel")
             },
             this)

@@ -2125,9 +2125,11 @@ function(t) {
             this.icon_gold.source = ClientConfig.getItemIcon(5)
         },
         n.prototype.addEvent = function() {
+            var e = this;
             ImageButtonUtil.add(this.imge_add,
             function() {
-                PayManager.rechargeDiamond()
+                PayManager.rechargeDiamond(),
+                e.hide()
             },
             this),
             ImageButtonUtil.add(this.getItemBtn, this.exchangeItemPop, this),

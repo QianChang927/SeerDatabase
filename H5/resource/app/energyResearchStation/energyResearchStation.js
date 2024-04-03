@@ -441,6 +441,7 @@ function(e) {
             });
             this._list.dataProvider = new eui.ArrayCollection(r),
             this.updateView(),
+            this.endText.visible = !1,
             StatLogger.log("能源研究中心", "20221223H5新道具回收系统第四期（搬迁）", "打开【本期兑换道具】面板")
         },
         i.prototype.updateView = function() {

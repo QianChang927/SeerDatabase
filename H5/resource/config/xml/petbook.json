@@ -48479,8 +48479,8 @@
                 "ID": 4619,
                 "DefName": "贝利弗",
                 "Type": "混沌 龙",
-                "Height": 280,
-                "Weight": 235,
+                "Height": 168,
+                "Weight": 45,
                 "Features": "2024年包月精灵，十二诗灵之四月的信徒，虚伪的庇佑和指引我不需要，抛弃信仰就自然不会被牵制。",
                 "Redirect": "map|module",
                 "Go": "1652;app/MonthlyPetInApril2024Panel"

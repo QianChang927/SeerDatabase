@@ -14186,7 +14186,7 @@
                     "End": 20240301,
                     "Map": 5,
                     "Name": "精灵图鉴追溯",
-                    "Title": "精灵图鉴点亮计划",
+                    "Title": "精灵图鉴点亮计划第一期",
                     "Redirect": "map|module",
                     "Go": "5;app/LightBookMainPanel"
                 },
@@ -14482,7 +14482,7 @@
                     "End": 20240412,
                     "Map": 5,
                     "Name": "精灵图鉴追溯",
-                    "Title": "精灵图鉴点亮计划",
+                    "Title": "精灵图鉴点亮计划第二期",
                     "Redirect": "map|module",
                     "Go": "5;app/LightBookMainPanel"
                 },

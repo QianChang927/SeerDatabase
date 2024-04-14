@@ -803,7 +803,7 @@ function(e) {
                 })
             },
             this, !1, !1), this.addEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onBegin, this), this.addEventListener(egret.TouchEvent.TOUCH_END, this.onEnd, this)),
-            n.waitChange && (this.width = 226, this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this), n.tag ? (this.imgTag.visible = !0, this.imgTag.source = "common_petSkill_tag" + n.tag + "_png") : this.imgTag.visible = !1),
+            n.waitChange && (this.width = 226, this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this), n.tag ? (this.imgTag.visible = !0, this.imgTag.source = "common_petSkill_tag" + n.tag + "_png", this.imgTag.width = 40) : n.hasGot ? this.imgTag.visible = !1 : (this.imgTag.visible = !0, this.imgTag.source = "pet_bag_fifth_skill_notGot_png", this.imgTag.width = 50)),
             n.isBindByMark && (this.imgBind.visible = !0, this.touchEnabled = this.touchChildren = !1),
             GuideManager.isCompleted() || 17838 == this.data.id && (this.btnChange.name = "btnChangeSkill")
         },
@@ -1783,7 +1783,7 @@ function(e) {
                 },
                 this, 200)), this.petModel.SetPetData(i), this.oldPetAniId = i, this.btnAdvance.visible = PetAdvanceXMLInfo.getIncludeAdvance(this.curPetInfo.id), this.btnAdvance.visible) {
                     var n = PetAdvanceXMLInfo.getAdvType(this.curPetInfo.id);
-                    1 == n ? this.btnAdvance.source = "btnJX_png": this.btnAdvance.source = "btnAdv_png"
+                    1 == n ? this.btnAdvance.source = "petBag_btnJX_png": this.btnAdvance.source = "btnAdv_png"
                 }
                 this.btnTopSkin.visible || (this.btnAdvance.visible = !1)
             } else this.btnAdvance.visible = !1
@@ -2705,7 +2705,9 @@ function(e) {
     var t = function(t) {
         function i(e) {
             var i = t.call(this) || this;
-            return i.skinName = "PetBagChangeFifthSkillPopSkin",
+            return i.hasUnlockItem = !1,
+            i.unlockSkillArr = [],
+            i.skinName = "PetBagChangeFifthSkillPopSkin",
             i.petInfo = e,
             i
         }
@@ -2723,7 +2725,8 @@ function(e) {
             this.itemList.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.onClickItem, this);
             var i = PetXMLInfo.getAllSkill(this.petInfo.id, [1, 3, 4]);
             PetManager.getAllSkillCanUse(this.petInfo, [1, 3, 4]).then(function(n) {
-                t.arrFifth = [];
+                t.arrFifth = [],
+                t.unlockSkillArr = [];
                 for (var r = 0,
                 a = i; r < a.length; r++) {
                     var o = a[r],
@@ -2743,6 +2746,7 @@ function(e) {
                     }
                     u.hasGot = !!l,
                     u.hasEquip = !!l && l.hasUse,
+                    u.hasGot || t.unlockSkillArr.push(u.id),
                     t.arrFifth.push(u)
                 }
                 t.arrayCollection.source = t.arrFifth;
@@ -2751,7 +2755,7 @@ function(e) {
                 }), f = 0, d = m; f < d.length; f++) {
                     var v = d[f],
                     I = SkillXMLInfo.getSPHideMovesInfo(v.skillId);
-                    if (I) {
+                    if (I && I.item > 0) {
                         var x = {};
                         x.type = "item",
                         x.id = I.item,
@@ -2760,6 +2764,9 @@ function(e) {
                     }
                 }
                 p.sort(e.SmallItem.compareRarity),
+                t.hasUnlockItem = p.length > 0,
+                t.itemGroup.visible = t.hasUnlockItem && t.unlockSkillArr.length > 0,
+                t.skillScroller.height = t.hasUnlockItem && t.unlockSkillArr.length > 0 ? 235 : 350,
                 t.itemArrayCollection.source = p
             })
         },
@@ -2772,10 +2779,10 @@ function(e) {
                 var _ = SkillXMLInfo.getSPHideMovesInfo(u);
                 _ && (i = _.item, n = _.itemnumber, r = _.itemname + "*" + n)
             }
-            var l = !1;
+            var l, h = !1;
             if (PetAdvanceXMLInfo.getIncludeAdvance(this.petInfo.id)) {
-                var h = PetAdvanceXMLInfo.getAdvanceFifthSkill(this.petInfo.id);
-                h.indexOf(u) >= 0 && (l = !0)
+                var g = PetAdvanceXMLInfo.getAdvanceFifthSkill(this.petInfo.id);
+                g.indexOf(u) >= 0 && (h = !0, l = PetAdvanceXMLInfo.getAdvType(this.petInfo.id) > 0 ? "元素觉醒": "神谕进阶")
             }
             tipsPop.TipsPop.openSkillPop({
                 id: t.item.id,
@@ -2790,14 +2797,14 @@ function(e) {
                             BubblerManager.getInstance().showText("恭喜你！成功获得技能：" + SkillXMLInfo.getName(t))
                         });
                         else {
-                            if (l) return void BubblerManager.getInstance().showText("完成神谕进阶后才可习得该技能哦！");
+                            if (h) return void BubblerManager.getInstance().showText("完成" + l + "后才可习得该技能哦！");
                             BubblerManager.getInstance().showText("你的道具数量不足，无法学习该技能！")
                         }
                     }
                 },
-                ensureWord: o ? "已携带": s ? "替换": "学习技能",
-                additionDescWord: s ? null: l ? [{
-                    text: "完成神谕进阶后获得",
+                ensureWord: o ? "已携带": s ? "替换": h ? " ": "学习技能",
+                additionDescWord: s ? null: h ? [{
+                    text: "完成" + l + "后获得",
                     style: {
                         textColor: 16766720
                     }
@@ -2833,10 +2840,15 @@ function(e) {
             PetManager.checkPetLearnFifthSkill(this.petInfo.catchTime,
             function(t) {
                 for (var i = 0; i < e.arrFifth.length; i++) t.indexOf(e.arrFifth[i].id) >= 0 && (e.arrFifth[i].hasGot = !0);
-                e.arrayCollection.source = e.arrFifth
+                e.arrayCollection.source = e.arrFifth,
+                e.unlockSkillArr = e.unlockSkillArr.filter(function(e) {
+                    return t.indexOf(e) < 0
+                }),
+                e.itemGroup.visible = e.hasUnlockItem && e.unlockSkillArr.length > 0,
+                e.skillScroller.height = e.hasUnlockItem && e.unlockSkillArr.length > 0 ? 235 : 350,
+                e.itemArrayCollection.refresh()
             },
-            this),
-            this.itemArrayCollection.refresh()
+            this)
         },
         i
     } (PopView);
@@ -3146,7 +3158,9 @@ function(e) {
     var t = function(t) {
         function i(e) {
             var i = t.call(this) || this;
-            return i.skinName = "PetBagChangeSkillPopSkin",
+            return i.hasUnlockItem = !1,
+            i.unlockSkillArr = [],
+            i.skinName = "PetBagChangeSkillPopSkin",
             i.petInfo = e,
             i
         }
@@ -3158,38 +3172,166 @@ function(e) {
             this.arrayCollection = new eui.ArrayCollection,
             this.list.dataProvider = this.arrayCollection,
             this.list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.onClickSkill, this),
-            PetManager.getAllSkillCanUse(this.petInfo, [2, 5, 6]).then(function(e) {
-                e = e.filter(function(e) {
+            this.itemList.itemRenderer = e.SmallItem,
+            this.itemArrayCollection = new eui.ArrayCollection,
+            this.itemList.dataProvider = this.itemArrayCollection,
+            this.itemList.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.onClickItem, this);
+            var i = SkillXMLInfo.getSPHideMoves(this.petInfo.id);
+            PetManager.getAllSkillCanUse(this.petInfo, [2, 5, 6]).then(function(n) {
+                n = n.filter(function(e) {
                     return ! e.hasUse
-                });
-                for (var i = [], n = 0, r = e; n < r.length; n++) {
-                    var a = r[n],
-                    o = a.skillId,
-                    s = SkillXMLInfo.getSkillObj(o),
-                    u = {};
-                    u.id = s.ID,
-                    u.name = s.Name,
-                    u.damage = s.Power || 0,
-                    u.maxPP = s.MaxPP,
-                    u.waitChange = !0,
-                    (a.info.Rec || a.info.Tag) && (a.info.Tag ? u.tag = 2 + a.info.Tag: u.tag = 2),
-                    i.push(u)
+                }),
+                i = i.filter(function(e) {
+                    for (var i = t.petInfo.skillArray,
+                    r = !1,
+                    a = 0,
+                    o = i; a < o.length; a++) {
+                        var s = o[a];
+                        if (s.id == e) {
+                            r = !0;
+                            break
+                        }
+                    }
+                    for (var u = 0,
+                    _ = n; u < _.length; u++) {
+                        var l = _[u];
+                        if (l.skillId == e) {
+                            r = !0;
+                            break
+                        }
+                    }
+                    return ! r
+                }),
+                t._arr = [];
+                for (var r = 0,
+                a = n; r < a.length; r++) {
+                    var o = a[r],
+                    s = o.skillId,
+                    u = SkillXMLInfo.getSkillObj(s),
+                    _ = {};
+                    _.id = u.ID,
+                    _.name = u.Name,
+                    _.damage = u.Power || 0,
+                    _.maxPP = u.MaxPP,
+                    _.waitChange = !0,
+                    (o.info.Rec || o.info.Tag) && (o.info.Tag ? _.tag = 2 + o.info.Tag: _.tag = 2);
+                    for (var l = null,
+                    h = 0,
+                    g = n; h < g.length; h++) {
+                        var c = g[h];
+                        s == c.skillId && (l = c)
+                    }
+                    _.hasGot = !!l,
+                    _.hasEquip = !!l && l.hasUse,
+                    t._arr.push(_)
                 }
-                t.arrayCollection.source = i
+                var p = [];
+                t.unlockSkillArr = [];
+                for (var m = 0,
+                f = i; m < f.length; m++) {
+                    var d = f[m],
+                    v = SkillXMLInfo.getSPHideMovesInfo(d);
+                    if (v && 1 != v.movetype) {
+                        if (v.item > 0) {
+                            var I = {};
+                            I.type = "item",
+                            I.id = v.item,
+                            I.rarity = ItemXMLInfo.getItemRarity(v.item),
+                            p.push(I)
+                        }
+                        var x = {},
+                        b = SkillXMLInfo.getSkillObj(d);
+                        x.id = b.ID,
+                        x.name = b.Name,
+                        x.damage = b.Power || 0,
+                        x.maxPP = b.MaxPP,
+                        x.waitChange = !0;
+                        for (var y = null,
+                        w = 0,
+                        S = n; w < S.length; w++) {
+                            var C = S[w];
+                            d == C.skillId && (y = C)
+                        }
+                        x.hasGot = !!y,
+                        x.hasEquip = !!y && y.hasUse,
+                        x.hasGot || t.unlockSkillArr.push(x.id),
+                        t._arr.push(x)
+                    }
+                }
+                t.arrayCollection.source = t._arr,
+                p.sort(e.SmallItem.compareRarity),
+                t.hasUnlockItem = p.length > 0,
+                t.itemGroup.visible = t.hasUnlockItem && t.unlockSkillArr.length > 0,
+                t.skillScroller.height = t.hasUnlockItem && t.unlockSkillArr.length > 0 ? 235 : 350,
+                t.itemArrayCollection.source = p
             })
         },
         i.prototype.onClickSkill = function(t) {
-            var i = this;
+            var i, n, r, a = this,
+            o = t.item.hasEquip,
+            s = t.item.hasGot,
+            u = t.item.id;
+            if (!s) {
+                var _ = SkillXMLInfo.getSPHideMovesInfo(u);
+                _ && (i = _.item, n = _.itemnumber, r = _.itemname + "*" + n)
+            }
+            var l, h = !1;
+            if (PetAdvanceXMLInfo.getIncludeAdvance(this.petInfo.id)) {
+                var g = PetAdvanceXMLInfo.getAdvanceSkill(this.petInfo.id);
+                g.indexOf(u) >= 0 && (h = !0, l = PetAdvanceXMLInfo.getAdvType(this.petInfo.id) > 0 ? "元素觉醒": "神谕进阶")
+            }
             tipsPop.TipsPop.openSkillPop({
                 id: t.item.id,
                 petInfo: this.petInfo,
-                onChangeFun: function(t, n) {
-                    EventManager.dispatchEventWith(e.EventConst.SKILL_VIEW_CONFIRM_CHANGE_SKILL, !1, t),
-                    i.hide(),
-                    GuideManager.isCompleted() || 17835 != t || EventManager.dispatchEventWith("change_skill", !1, 17835)
-                }
+                onChangeFun: o ? null: function(t, r) {
+                    if (s) EventManager.dispatchEventWith(e.EventConst.SKILL_VIEW_CONFIRM_CHANGE_SKILL, !1, t),
+                    a.hide(),
+                    GuideManager.isCompleted() || 17835 != t || EventManager.dispatchEventWith("change_skill", !1, 17835);
+                    else {
+                        var o = ItemManager.getNumByID(Number(i));
+                        if (o >= n) SocketConnection.sendWithPromise(41833, [a.petInfo.catchTime, t]).then(function(e) {
+                            a.updateView(t),
+                            BubblerManager.getInstance().showText("恭喜你！成功获得技能：" + SkillXMLInfo.getName(t))
+                        });
+                        else {
+                            if (h) return void BubblerManager.getInstance().showText("完成" + l + "后才可习得该技能哦！");
+                            BubblerManager.getInstance().showText("你的道具数量不足，无法学习该技能！")
+                        }
+                    }
+                },
+                ensureWord: o ? "已携带": s ? "替换": h ? " ": "学习技能",
+                additionDescWord: s ? null: h ? [{
+                    text: "完成" + l + "后获得",
+                    style: {
+                        textColor: 16766720
+                    }
+                }] : [{
+                    text: "可通过消耗",
+                    style: {
+                        textColor: 16766720
+                    }
+                },
+                {
+                    text: r,
+                    style: {
+                        textColor: 14811135
+                    }
+                },
+                {
+                    text: "获得",
+                    style: {
+                        textColor: 16766720
+                    }
+                }],
+                caller: this
             }),
             GuideManager.isCompleted() || 17835 != t.item.id || EventManager.dispatchEventWith("select_pet_skill", !1, 17835)
+        },
+        i.prototype.onClickItem = function(e) {
+            tipsPop.TipsPop.openItemPop({
+                type: 1,
+                id: e.item.id
+            })
         },
         i.prototype.destroy = function() {
             ImageButtonUtil.removeAll(this),
@@ -3197,6 +3339,21 @@ function(e) {
         },
         i.prototype.addAdvancedSkill = function(e, t) {
             t(e)
+        },
+        i.prototype.updateView = function(e) {
+            for (var t = this,
+            i = 0; i < this._arr.length; i++) e == this._arr[i].id && (this._arr[i].hasGot = !0);
+            this.unlockSkillArr = this.unlockSkillArr.filter(function(t) {
+                return t != e
+            }),
+            this.itemGroup.visible = this.hasUnlockItem && this.unlockSkillArr.length > 0,
+            this.skillScroller.height = this.hasUnlockItem && this.unlockSkillArr.length > 0 ? 235 : 350,
+            this.arrayCollection.source = this._arr,
+            TimeDelayUtils.setTimeout(function() {
+                t.itemArrayCollection.refresh(),
+                t.skillScroller.viewport.scrollV = t.skillScroller.viewport.contentHeight - t.skillScroller.height
+            },
+            200, this)
         },
         i
     } (PopView);
@@ -6223,6 +6380,7 @@ function(e) {
             for (var i = 0,
             n = e.skillArray; i < n.length; i++) {
                 var r = n[i];
+                r.hasGot = !0,
                 r.canChange = !0,
                 r.petInfo = e
             }
@@ -11884,10 +12042,10 @@ generateEUI.paths["resource/eui_skins/pop/PetBagBindSkillPopSkin.exml"] = window
 generateEUI.paths["resource/eui_skins/pop/PetBagChangeFifthSkillPopSkin.exml"] = window.PetBagChangeFifthSkillPopSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["btnClose", "itemList", "itemGroup", "list"],
+        this.skinParts = ["btnClose", "itemList", "itemGroup", "list", "skillScroller"],
         this.height = 431,
         this.width = 753,
-        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnClose_i(), this._Image3_i(), this._Image4_i(), this.itemGroup_i(), this._Scroller2_i()]
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnClose_i(), this._Image3_i(), this._Image4_i(), this.itemGroup_i(), this.skillScroller_i()]
     }
     __extends(t, e);
     var i = t.prototype;
@@ -12007,9 +12165,10 @@ generateEUI.paths["resource/eui_skins/pop/PetBagChangeFifthSkillPopSkin.exml"] =
         var e = new eui.HorizontalLayout;
         return e
     },
-    i._Scroller2_i = function() {
+    i.skillScroller_i = function() {
         var e = new eui.Scroller;
-        return e.height = 235,
+        return this.skillScroller = e,
+        e.height = 235,
         e.width = 700,
         e.x = 27,
         e.y = 54,
@@ -12241,10 +12400,10 @@ generateEUI.paths["resource/eui_skins/pop/PetBagChangePetPopSkin.exml"] = window
 generateEUI.paths["resource/eui_skins/pop/PetBagChangeSkillPopSkin.exml"] = window.PetBagChangeSkillPopSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["btnClose", "list"],
+        this.skinParts = ["btnClose", "itemList", "itemGroup", "list", "skillScroller"],
         this.height = 431,
         this.width = 753,
-        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnClose_i(), this._Image3_i(), this._Image4_i(), this._Scroller1_i()]
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnClose_i(), this._Image3_i(), this._Image4_i(), this.itemGroup_i(), this.skillScroller_i()]
     }
     __extends(t, e);
     var i = t.prototype;
@@ -12289,9 +12448,85 @@ generateEUI.paths["resource/eui_skins/pop/PetBagChangeSkillPopSkin.exml"] = wind
         e.y = 44,
         e
     },
+    i.itemGroup_i = function() {
+        var e = new eui.Group;
+        return this.itemGroup = e,
+        e.left = 17,
+        e.right = 17,
+        e.y = 298,
+        e.elementsContent = [this._Image5_i(), this._Group1_i(), this._Scroller1_i()],
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.height = 118,
+        e.left = 0,
+        e.right = 0,
+        e.source = "pet_bag_change_fifth_skill_pop_bg_png",
+        e.y = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.visible = !0,
+        e.x = 0,
+        e.y = 1,
+        e.elementsContent = [this._Image6_i(), this._Image7_i(), this._Label1_i()],
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "pet_bag_develop_mark_view_imgline_png",
+        e.width = 706.948,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "pet_bag_skill_view_img1_png",
+        e.verticalCenter = 0,
+        e.visible = !0,
+        e.x = 10,
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "技能开启道具",
+        e.textColor = 12834813,
+        e.verticalCenter = 0,
+        e.x = 33.603,
+        e
+    },
     i._Scroller1_i = function() {
         var e = new eui.Scroller;
-        return e.height = 350,
+        return e.height = 70,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.width = 700,
+        e.x = 10,
+        e.y = 42,
+        e.viewport = this.itemList_i(),
+        e
+    },
+    i.itemList_i = function() {
+        var e = new eui.List;
+        return this.itemList = e,
+        e.height = 218,
+        e.y = .869,
+        e.layout = this._HorizontalLayout1_i(),
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e
+    },
+    i.skillScroller_i = function() {
+        var e = new eui.Scroller;
+        return this.skillScroller = e,
+        e.height = 235,
         e.width = 700,
         e.x = 27,
         e.y = 54,

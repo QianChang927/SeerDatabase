@@ -692,7 +692,7 @@ function(e) {
             this.data && (this.info = this.data, this.updateView())
         },
         t.prototype.updateView = function() {
-            var e = 1 == KTool.getBit(PeakJihadController.achieveValue, this.info.id),
+            var e = 1 == KTool.getBit(this.info.id < 5 ? PeakJihadController.achieveValue: PeakJihadController.achieveValue2, this.info.id),
             t = !1,
             i = 0;
             switch (this.info.foreverType) {
@@ -705,13 +705,14 @@ function(e) {
             case 3:
                 i = PeakJihadController.wins
             }
-            t = i >= this.info.value,
-            this.currentState = e ? "got": t ? "get": "go",
-            this.achieveId = ItemManager.parseItem(this.info.rewardinfo)[0].type,
-            this.icon.source = ClientConfig.getAchieveIcon(this.achieveId);
-            var n = 1 == this.info.foreverType ? ~~t: i,
-            r = 1 == this.info.foreverType ? 1 : this.info.value;
-            this.title.text = this.info.title + (" (" + Math.min(n, r) + "/" + r + ")"),
+            if (t = i >= this.info.value, this.currentState = e ? "got": t ? "get": "go", this.achieveId = ItemManager.parseItem(this.info.rewardinfo)[0].type, this.icon.source = ClientConfig.getAchieveIcon(this.achieveId), 1 == this.info.foreverType) {
+                var n = "go" == this.currentState ? 0 : 1;
+                this.title.text = this.info.title + "(" + n + "/1)"
+            } else {
+                var r = 1 == this.info.foreverType ? ~~t: i,
+                a = 1 == this.info.foreverType ? 1 : this.info.value;
+                this.title.text = this.info.title + (" (" + Math.min(r, a) + "/" + a + ")")
+            }
             this.desc.text = this.info.describe
         },
         t
@@ -881,7 +882,7 @@ function(e) {
         },
         i.prototype.updateView = function() {
             for (var e = config.Pvp_achieve.getItems(), t = [], i = [], n = [], r = 0; r < e.length; r++) {
-                var a = 1 == KTool.getBit(PeakJihadController.achieveValue, e[r].id),
+                var a = 1 == KTool.getBit(e[r].id < 5 ? PeakJihadController.achieveValue: PeakJihadController.achieveValue2, e[r].id),
                 o = 0;
                 switch (e[r].foreverType) {
                 case 1:
@@ -1533,17 +1534,7 @@ function(e) {
                 PopViewManager.getInstance().openView(new e.PeakJihadLadderAchieveReward)
             },
             this),
-            KTool.getMultiValue([124799],
-            function(e) {
-                i.update();
-                var t = e[0];
-                if (0 == t) {
-                    var n = config.Pvp_reward.getItems().filter(function(e) {
-                        return 2 == e.group && e.type == PeakJihadController.curLevel
-                    })[0];
-                    SocketConnection.sendByQueue(41903, [n.id, 0], i.update)
-                }
-            })
+            this.update()
         },
         i.prototype.reShow = function() {
             this.update()
@@ -1551,51 +1542,65 @@ function(e) {
         i.prototype.update = function() {
             var e = this;
             PeakJihadController.updateCurLevel().then(function() {
-                var t = config.Pass_reward.getItem(Math.min(PeakJihadOrderManager.orderLevel, PeakJihadOrderManager.maxLevel));
-                e.bar.maximum = Math.max(t.exp, 1),
-                e.level.text = PeakJihadController.getTitleByLevelScore(),
-                e.icon.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.curLevel + 1),
-                e.curLevel.text = "" + PeakJihadOrderManager.orderLevel,
-                e.curExp.text = t.exp > 0 ? PeakJihadOrderManager.orderExp + "/" + t.exp: "已满级",
-                e.bar.value = t.exp > 0 ? PeakJihadOrderManager.orderExp: 1;
-                var i = PeakJihadController.isInAcTime(!1);
-                e.btnMatch.visible = i,
-                e.cant.visible = !i,
-                e.updateDot();
-                var n = PetManager.getBagMap(),
-                r = [0, 0, 0, 0, 0, 0].map(function(e, t) {
-                    return n[t] ? e[t] = n[t].id: 0
-                });
-                n = PetManager.getSecondBagMap();
-                var a = [0, 0, 0, 0, 0, 0].map(function(e, t) {
-                    return n[t] ? e[t] = n[t].id: 0
-                }),
-                o = r.concat(a),
-                s = config.Pvp_ban.getItems(),
-                u = s[0].name.split(";").map(Number),
-                h = s[1].name.split(";").map(Number),
-                l = [];
-                if (o.map(function(e) {
-                    var t = 0;
-                    return u.indexOf(e) > -1 ? t = s[0].quantity: h.indexOf(e) > -1 && (t = s[1].quantity),
-                    l.push({
-                        id: e,
-                        quality: t
+                return __awaiter(e, void 0, void 0,
+                function() {
+                    var e, t, i, n, r, a, o, s, u, h, l, c, _, d, p, g, f = this;
+                    return __generator(this,
+                    function(m) {
+                        switch (m.label) {
+                        case 0:
+                            return e = config.Pass_reward.getItem(Math.min(PeakJihadOrderManager.orderLevel, PeakJihadOrderManager.maxLevel)),
+                            this.bar.maximum = Math.max(e.exp, 1),
+                            this.level.text = PeakJihadController.getTitleByLevelScore(),
+                            this.icon.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.curLevel + 1),
+                            this.curLevel.text = "" + PeakJihadOrderManager.orderLevel,
+                            this.curExp.text = e.exp > 0 ? PeakJihadOrderManager.orderExp + "/" + e.exp: "已满级",
+                            this.bar.value = e.exp > 0 ? PeakJihadOrderManager.orderExp: 1,
+                            t = PeakJihadController.isInAcTime(!1),
+                            this.btnMatch.visible = t,
+                            this.cant.visible = !t,
+                            this.updateDot(),
+                            i = PetManager.getBagMap(),
+                            n = [0, 0, 0, 0, 0, 0].map(function(e, t) {
+                                return i[t] ? e[t] = i[t].id: 0
+                            }),
+                            i = PetManager.getSecondBagMap(),
+                            r = [0, 0, 0, 0, 0, 0].map(function(e, t) {
+                                return i[t] ? e[t] = i[t].id: 0
+                            }),
+                            a = n.concat(r),
+                            o = config.Pvp_ban.getItems(),
+                            s = o[0].name.split(";").map(Number),
+                            u = o[1].name.split(";").map(Number),
+                            h = [],
+                            a.map(function(e) {
+                                var t = 0;
+                                return s.indexOf(e) > -1 ? t = o[0].quantity: u.indexOf(e) > -1 && (t = o[1].quantity),
+                                h.push({
+                                    id: e,
+                                    quality: t
+                                })
+                            }),
+                            this._list.dataProvider = new eui.ArrayCollection(h),
+                            t || (l = SystemTimerManager.sysBJDate.getTime(), c = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3), _ = Math.floor((SystemTimerManager.sysBJDate.setHours(18, 0, 0) - l) / 1e3), d = c > 0 ? c: _, 0 > _ && 0 > c && (d = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3 + 86400)), this.time.text = TimeUtil.countDownFormat(d, "hh:mm:ss"), TimeDelayUtils.setInterval(function() {
+                                d--,
+                                f.time.text = TimeUtil.countDownFormat(d, "hh:mm:ss"),
+                                0 >= d && (TimeDelayUtils.clearAllTimeByThisObj(f), f.update())
+                            },
+                            1e3, this)),
+                            [4, KTool.getMultiValueAsync([124799])];
+                        case 1:
+                            return p = m.sent(),
+                            0 == p[0] && (g = config.Pvp_reward.getItems().filter(function(e) {
+                                return 2 == e.group && e.type == PeakJihadController.curLevel
+                            })[0], SocketConnection.sendByQueue(41903, [g.id, 0],
+                            function() {
+                                f.update()
+                            })),
+                            [2]
+                        }
                     })
-                }), e._list.dataProvider = new eui.ArrayCollection(l), !i) {
-                    var c = SystemTimerManager.sysBJDate.getTime(),
-                    _ = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - c) / 1e3),
-                    d = Math.floor((SystemTimerManager.sysBJDate.setHours(18, 0, 0) - c) / 1e3),
-                    p = _ > 0 ? _: d;
-                    0 > d && 0 > _ && (p = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - c) / 1e3 + 86400)),
-                    e.time.text = TimeUtil.countDownFormat(p, "hh:mm:ss"),
-                    TimeDelayUtils.setInterval(function() {
-                        p--,
-                        e.time.text = TimeUtil.countDownFormat(p, "hh:mm:ss"),
-                        0 >= p && (TimeDelayUtils.clearAllTimeByThisObj(e), e.update())
-                    },
-                    1e3, e)
-                }
+                })
             })
         },
         i.prototype.startMatch = function() {
@@ -1691,7 +1696,7 @@ function(e) {
                     case 0:
                         return [4, PeakJihadController.getLadderRewardState()];
                     case 1:
-                        for (u.sent(), e = config.Pvp_achieve.getItems(), t = !1, i = 0; i < e.length; i++) if (1 != KTool.getBit(PeakJihadController.achieveValue, e[i].id)) {
+                        for (u.sent(), e = config.Pvp_achieve.getItems(), t = !1, i = 0; i < e.length; i++) if (1 != KTool.getBit(e[i].id < 5 ? PeakJihadController.achieveValue: PeakJihadController.achieveValue2, e[i].id)) {
                             switch (n = 0, e[i].foreverType) {
                             case 1:
                                 n = PeakJihadController.curMaxLevel;
@@ -1974,7 +1979,7 @@ function(e) {
         i.prototype.updateTab = function() {
             var e = this,
             t = ~~this.menu.selectedValue,
-            i = config.Pvp_StageConfig.filter(function(e) {
+            i = config.Pvp_StageConfig.getItems().filter(function(e) {
                 return e.index == t
             });
             if (i.length > 0) {
@@ -2158,7 +2163,7 @@ generateEUI.skins = {},
 generateEUI.paths["resource/eui_skins/PeakjihadfirstpageSkin.exml"] = window.PeakjihadfirstpageSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["static_bg", "group_ani", "bg", "bg2", "noticeTxt", "group_guanggao", "freeBtn", "btn0", "btn1", "rankBtn", "awardBtn", "btnJingjichi", "icon0", "num0", "icon1", "num1"],
+        this.skinParts = ["static_bg", "group_ani", "bg", "bg2", "noticeTxt", "group_guanggao", "imgTitle", "freeBtn", "btn0", "btn1", "rankBtn", "awardBtn", "btnJingjichi", "icon0", "num0", "icon1", "num1"],
         this.height = 640,
         this.width = 1136,
         this.elementsContent = [this.static_bg_i(), this.group_ani_i(), this.group_guanggao_i(), this._Group1_i(), this._Group4_i()]
@@ -2228,7 +2233,15 @@ generateEUI.paths["resource/eui_skins/PeakjihadfirstpageSkin.exml"] = window.Pea
         e.left = 0,
         e.right = 0,
         e.y = 300,
-        e.elementsContent = [this._Image1_i(), this.freeBtn_i(), this.btn0_i(), this.btn1_i(), this.rankBtn_i(), this.awardBtn_i(), this.btnJingjichi_i()],
+        e.elementsContent = [this.imgTitle_i(), this._Image1_i(), this.freeBtn_i(), this.btn0_i(), this.btn1_i(), this.rankBtn_i(), this.awardBtn_i(), this.btnJingjichi_i()],
+        e
+    },
+    i.imgTitle_i = function() {
+        var e = new eui.Image;
+        return this.imgTitle = e,
+        e.source = "peakjihadfirstpage_imgtitle_png",
+        e.x = 53,
+        e.y = 94,
         e
     },
     i._Image1_i = function() {

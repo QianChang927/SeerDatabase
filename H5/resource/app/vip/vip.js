@@ -2906,8 +2906,8 @@ generateEUI.paths["resource/eui_skins/view/VipRightViewSkin.exml"] = window.VipR
     n._Image9_i = function() {
         var t = new eui.Image;
         return t.source = "vip1_4_png",
-        t.x = 25,
-        t.y = 32,
+        t.x = 16,
+        t.y = 11,
         t
     },
     n._Label7_i = function() {

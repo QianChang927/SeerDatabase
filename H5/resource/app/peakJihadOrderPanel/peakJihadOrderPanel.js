@@ -615,7 +615,7 @@ function(e) {
             ImageButtonUtil.add(this.grp_jj_0,
             function() {
                 PopViewManager.getInstance().hideAll(),
-                PetManager.showPetManualInfo(588, 2)
+                PetManager.showPetManualInfo(PeakJihadController.curOutputSkinId, 2)
             },
             this),
             ImageButtonUtil.add(this.grp_jj_1,
@@ -643,7 +643,7 @@ function(e) {
             this),
             ImageButtonUtil.add(this.grp_zz_1,
             function() {
-                BubblerManager.getInstance().showText("S1赛季纪念名片")
+                BubblerManager.getInstance().showText("S" + PeakJihadController.curSeason + "赛季纪念名片")
             },
             this),
             ImageButtonUtil.add(this.grp_zz_2,
@@ -1868,11 +1868,13 @@ generateEUI.paths["resource/eui_skins/PeakJihadOrderMainPanelSkin.exml"] = windo
         var e = new eui.Image;
         return this.more = e,
         e.alpha = 0,
-        e.height = 70,
-        e.horizontalCenter = -523,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 107,
+        e.horizontalCenter = -536.5,
         e.source = "peak_jihad_order_main_reward_panel_ty_4_kb_png",
-        e.verticalCenter = 75.5,
-        e.width = 70,
+        e.verticalCenter = 80.5,
+        e.width = 115,
         e
     },
     r.taskGroup_i = function() {

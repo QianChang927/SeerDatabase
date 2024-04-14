@@ -2507,13 +2507,13 @@ function(t) {
                     this.achieveAllNum.text = AchieveManager.totalAchieveNum + "",
                     this.achieveHasNum.text = this._info.achieveHasNumber + "",
                     this._info.isFriend ? (this.btnAdd.visible = !1, this.btnDelete.visible = !0) : (this.btnAdd.visible = !0, this.btnDelete.visible = !1),
-                    KTool.getOnlineUsersForeverOrDailyVal([this._info.userID, PeakJihadController.levelForever],
+                    KTool.getOnlineUsersForeverOrDailyVal([this._info.userID, 124801],
                     function(t) {
                         h.curLevel = t & Math.pow(2, 16) - 1,
                         h.curScore = t >> 16 & Math.pow(2, 16) - 1,
                         h.imgCurrPeakLevel.source = ClientConfig.GetPeakjihadMiniLevelPath(h.curLevel + 1),
                         h.txtCurLevelName.text = PeakJihadController.getRatingsNameByScore(t),
-                        KTool.getOnlineUsersForeverOrDailyVal([h._info.userID, 124800],
+                        KTool.getOnlineUsersForeverOrDailyVal([h._info.userID, 124802],
                         function(e) {
                             e > 0 ? (h.curMaxLevel = e & Math.pow(2, 16) - 1, h.curMaxScore = e >> 16 & Math.pow(2, 16) - 1, h.imgMaxPeakLevel.source = ClientConfig.GetPeakjihadMiniLevelPath(h.curMaxLevel + 1), h.txtMaxLevelName.text = PeakJihadController.getRatingsNameByScore(e)) : (h.imgMaxPeakLevel.source = ClientConfig.GetPeakjihadMiniLevelPath(h.curLevel + 1), h.txtMaxLevelName.text = PeakJihadController.getRatingsNameByScore(t))
                         }),

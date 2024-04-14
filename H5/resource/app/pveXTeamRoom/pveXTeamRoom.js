@@ -1635,7 +1635,7 @@ function(e) {
             this.progress_item.maximum = r,
             this.progress_item.value = r - o,
             DisplayUtil.setEnabled(this.imgBtn_battle, r - o > 20, !(r - o > 20)),
-            this.t_desc.text = this._arr[i.indexType - 1] + "指数小于等于60%，即可削弱X·神级的" + this._arr[i.indexType - 1] + "能力\n" + this._arr[i.indexType - 1] + "指数最低可以降至20%",
+            this.t_desc.text = this._arr[i.indexType - 1] + "指数小于等于60%，即可削弱X·神迹的" + this._arr[i.indexType - 1] + "能力\n" + this._arr[i.indexType - 1] + "指数最低可以降至20%",
             this.txt_round.text = "" + e.DataManger.getInstance().GetCurrentRoundNum(),
             Promise.resolve()
         },

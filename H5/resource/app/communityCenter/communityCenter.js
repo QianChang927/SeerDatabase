@@ -807,6 +807,7 @@ generateEUI.paths["resource/eui_skins/CommunityActivitySkin.exml"] = window.Comm
     i._Image2_i = function() {
         var e = new eui.Image;
         return e.source = "subscribe_btnbg_png",
+        e.visible = !1,
         e.x = -2,
         e.y = 7.41,
         e

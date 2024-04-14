@@ -1179,36 +1179,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4618,
-                        "ImageID": 4618,
+                        "ID": 4621,
+                        "ImageID": 4621,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1669;app/SpetPeiLuoSeSiMainPanel"
+                        "Go": "1670;app/SpetHuanShiYouGuangMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4619,
-                        "ImageID": 4619,
+                        "ID": 4622,
+                        "ImageID": 4622,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInApril2024Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4620,
-                        "ImageID": 4620,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/GetGuDuDengShiMainPanel"
+                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
                     },
                     {
                         "type": 1,
-                        "ID": 605,
-                        "MonID": 3816,
-                        "ImageID": 1400605,
+                        "ID": 606,
+                        "MonID": 4622,
+                        "ImageID": 1400606,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 607,
+                        "MonID": 3514,
+                        "ImageID": 1400607,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48168,9 +48169,7 @@
                 "Type": "草 超能",
                 "Height": 157,
                 "Weight": 42,
-                "Features": "巅峰S1赛季【起源】开启！天真烂漫的茵茵作为特邀嘉宾，希望给大家带来自由的芬芳！",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                "Features": "巅峰S1赛季【起源】开启！天真烂漫的茵茵作为特邀嘉宾，希望给大家带来自由的芬芳！"
             },
             {
                 "ID": 4589,
@@ -48494,6 +48493,27 @@
                 "Features": "塞纳留斯的超进化形态，即使被圣灵所拒绝，魔力的乱流仍让他获得了新生的力量。",
                 "Redirect": "map|module",
                 "Go": "103;app/GetGuDuDengShiMainPanel"
+            },
+            {
+                "ID": 4621,
+                "DefName": "雾灯徘徊者",
+                "Type": "远古 邪灵",
+                "Height": 151,
+                "Weight": 35,
+                "Features": "这是一群在迷雾的森林之中游荡的家伙，要时刻小心它们手中的幽光雾灯，一不留神，它就会露出獠牙将你粉碎。",
+                "Redirect": "map|module",
+                "Go": "1670;app/SpetHuanShiYouGuangMainPanel",
+                "jumptarget": "151/201"
+            },
+            {
+                "ID": 4622,
+                "DefName": "希拓",
+                "Type": "神秘 火",
+                "Height": 166,
+                "Weight": 45,
+                "Features": "巅峰S2赛季【星光】开启！希望之火，破除黑暗，开拓光明！",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihad2023WarOrdePanel"
             }
         ]
     }

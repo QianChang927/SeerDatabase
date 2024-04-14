@@ -4362,6 +4362,11 @@ SkillXMLInfo = function() {
                 var A = T[v];
                 0 != A.id && t.spHideMovesMap.add(A.moves, A)
             }
+            for (var P = 0,
+            C = m; P < C.length; P++) {
+                var M = C[P];
+                0 != M.id && t.spHideMovesMap.add(M.moves, M)
+            }
             t.categoryNames[1] = "物理攻击",
             t.categoryNames[2] = "特殊攻击",
             t.categoryNames[4] = "属性攻击",
@@ -4672,6 +4677,10 @@ SkillXMLInfo = function() {
     t.getMaxType = function() {},
     t.getSPHideMovesInfo = function(t) {
         return this.spHideMovesMap.getValue(t)
+    },
+    t.getSPHideMoves = function(t) {
+        for (var e = [], n = this.spHideMovesMap.getValues(), r = 0; r < n.length; r++) n[r].monster == t && e.push(n[r].moves);
+        return e
     },
     t.hideMovesMap = new Object,
     t.typeMap = new Object,
@@ -14589,7 +14598,7 @@ ItemManager = function() {
         return new Promise(function(n, r) {
             if (t.initPetItem) n(null);
             else {
-                for (var o = 300011; 1600100 > o; o++) if ((300250 >= o || o >= 1600001 || o >= 300601 && 300999 >= o) && 300658 != o) {
+                for (var o = 300011; 1600100 > o; o++) if ((300250 >= o || o >= 1600001 || o >= 300601 && 301200 >= o) && 300658 != o) {
                     var i = t.getInfo(o);
                     null != i && -1 == e.excludeArr.indexOf(i.itemID) && t._petItemMap.add(i.itemID, i)
                 }
@@ -20949,7 +20958,7 @@ PeakJihadController = function() {
             function(e) {
                 switch (e.label) {
                 case 0:
-                    return [4, KTool.getMultiValueAsync([this.levelForever, 124800, 124950, 124821, 124808, 124807])];
+                    return [4, KTool.getMultiValueAsync([this.levelForever, 124800, 124950, 124821, 124808, 124807, 124820])];
                 case 1:
                     return t = e.sent(),
                     this.curLevel = t[0] & Math.pow(2, 16) - 1,
@@ -20957,7 +20966,8 @@ PeakJihadController = function() {
                     this.curMaxLevel = t[1] & Math.pow(2, 16) - 1,
                     this.curMaxScore = t[1] >> 16 & Math.pow(2, 16) - 1,
                     this.isBird = t[2] <= 0,
-                    this.achieveValue = t[3],
+                    this.achieveValue = t[6],
+                    this.achieveValue2 = t[3],
                     this.battleTimes = t[4],
                     this.wins = t[5],
                     [2]
@@ -21122,8 +21132,11 @@ PeakJihadController = function() {
     t.curBirdValue = 0,
     t.curBirdTimes = 0,
     t.achieveValue = 0,
+    t.achieveValue2 = 0,
     t.battleTimes = 0,
     t.wins = 0,
+    t.curSeason = 2,
+    t.curOutputSkinId = 607,
     t._openTime = "11:00-15:00和18:00-22:00",
     t.cron1 = [new CronTimeVo("*", "11-14", "*", "*", "*", "*"), new CronTimeVo("*", "18-21", "*", "*", "*", "*")],
     t
@@ -21497,7 +21510,7 @@ PeakJihadOrderManager = function() {
     t.payForeverArr = new HashMap,
     t.freeState = [],
     t.payState = [],
-    t.endTime = "2024_4_12",
+    t.endTime = "2024_7_12",
     t.taskRed = !1,
     t.rewardRed = !1,
     t
@@ -31696,8 +31709,7 @@ TaomeeSDKManager = function() {
         })
     },
     t.customer = function() {
-        GameInfo.isApp ? (BubblerManager.getInstance().showText("customer"), TaomeeSDKPlugin.customer(function() {},
-        function() {})) : this.webSDK.customer()
+        URLNavigationManager.NavigateTo(URLNavigationEnum.Custom, "https://seer61.soboten.com/chat/h5/v6/index.html?sysnum=b392d3478d2b49519bb7f5001f98af84&channelid=2")
     },
     t.personal = function() {
         GameInfo.isApp ? TaomeeSDKPlugin.personal(function() {},

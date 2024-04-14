@@ -1828,7 +1828,7 @@ function(t) {
                 i.hide()
             },
             this) : this.caller || (this.height -= 30),
-            this.ensureWord && (this.txtEnsure.text = this.ensureWord),
+            this.ensureWord && (this.txtEnsure.text = this.ensureWord, " " == this.ensureWord && (this.btnChange.visible = !1)),
             this.additionDescWord && (this.txtAdditonDesc.textFlow = this.additionDescWord)
         },
         i.prototype.destroy = function() {

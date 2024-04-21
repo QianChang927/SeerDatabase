@@ -94,9 +94,7 @@ function(t) {
         function t() {}
         return t.redDotIdxArr = {
             1 : 1006,
-            12.1 : 2015,
-            12.2 : 2016,
-            12.3 : 2017,
+            5 : 2017,
             6 : 1004
         },
         t
@@ -336,7 +334,8 @@ function(t) {
             } else egret.setTimeout(function() {
                 t.openPanel(0)
             },
-            this, 50)
+            this, 50);
+            this.try2ClickHotRed(this.items[this.curTab - 1].id)
         },
         i.prototype.reshow = function() {
             this.grpContainer.numChildren > 0 && (this.grpContainer.getChildAt(0).visible = !0, this.grpContainer.getChildAt(0).reShow())

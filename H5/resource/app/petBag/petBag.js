@@ -1249,7 +1249,7 @@ function(e) {
             PetManager.addEventListener(PetEvent.CURE_COMPLETE, this.onCure, this),
             ImageButtonUtil.add(this.btnCure,
             function() {
-                PetManager.cureAll()
+                ModuleManager.showModule("vipRecovery", ["vip_recovery"], null, null, AppDoStyle.NULL)
             },
             this),
             ImageButtonUtil.add(this.btnIntoStorage,

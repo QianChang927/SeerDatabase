@@ -541,7 +541,9 @@ function(e) {
             switch (e.target) {
             case this.btn1:
                 StatLogger.log("1023版本系统功能", "巅峰圣战", "点击【6V6模式】按钮"),
-                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN);
+                PeakJihad2016Controller.getIsTimeOutNum(function() {
+                    ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN)
+                });
                 break;
             case this.freeBtn:
                 if (StatLogger.log("1023版本系统功能", "巅峰圣战", "点击【自由模式】按钮"), this._roomId > 0) return ModuleManager.hideModule(this, !0),
@@ -549,7 +551,9 @@ function(e) {
                 ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadFreeMode", AppDoStyle.HIDEN);
                 break;
             case this.btn0:
-                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadLeisureMode", AppDoStyle.HIDEN);
+                PeakJihad2016Controller.getIsTimeOutNum(function() {
+                    ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadLeisureMode", AppDoStyle.HIDEN)
+                });
                 break;
             case this.rankBtn:
                 ModuleManager.showModule("peakJihadRankPanel", ["peak_jihad_rank_panel"]);

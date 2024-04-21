@@ -167,6 +167,7 @@ function(e) {
             this),
             ImageButtonUtil.add(this.btnJJ,
             function() {
+                i.onClose(),
                 ModuleManager.showModuleByID(212)
             },
             this),
@@ -614,8 +615,8 @@ function(e) {
             ImageButtonUtil.add(this.close, this.onClose, this),
             ImageButtonUtil.add(this.grp_jj_0,
             function() {
-                PopViewManager.getInstance().hideAll(),
-                PetManager.showPetManualInfo(PeakJihadController.curOutputSkinId, 2)
+                PetManager.showPetManualInfo(PeakJihadController.curOutputSkinId, 2),
+                PopViewManager.getInstance().hideAll()
             },
             this),
             ImageButtonUtil.add(this.grp_jj_1,

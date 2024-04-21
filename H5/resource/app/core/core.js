@@ -14608,7 +14608,7 @@ ItemManager = function() {
     },
     t.isPetItem = function(t) {
         var e = !1;
-        return (300250 >= t || t >= 1600001 || t >= 300601 && 300999 >= t) && 300658 != t && (e = !0),
+        return (300250 >= t || t >= 1600001 || t >= 300601 && 301200 >= t) && 300658 != t && (e = !0),
         e
     },
     t.containsPetItem = function(e) {
@@ -22494,13 +22494,14 @@ PetManager = function() {
         n = t.getPetInfo(e),
         n && (t.defaultTime = e, n.isDefault = !0, t.dispatchEvent(new PetEvent(PetEvent.SET_DEFAULT, t.defaultTime)))
     },
-    t.cureAll = function(e, n) {
-        if (void 0 === e && (e = !0), void 0 === n && (n = !0), MainManager.actorInfo.superNono) t._cureAll(e, n);
+    t.cureAll = function(e, n, r) {
+        if (void 0 === e && (e = !0), void 0 === n && (n = !0), void 0 === r && (r = !1), r) return void t._cureAll(e, n, !0);
+        if (MainManager.actorInfo.superNono) t._cureAll(e, n);
         else if (1 == ColorfulPrivilegeWishController.bonusType) t._cureAll(e, n);
         else {
-            var r = "恢复精灵体力需要花费50赛尔豆，成为超No用户即可享受永久免费恢复特权！";
-            GameInfo.isChecking && (r = "恢复精灵体力需要花费50赛尔豆！"),
-            Alert.show(r,
+            var o = "恢复精灵体力需要花费50赛尔豆，成为超No用户即可享受永久免费恢复特权！";
+            GameInfo.isChecking && (o = "恢复精灵体力需要花费50赛尔豆！"),
+            Alert.show(o,
             function() {
                 t._cureAll(e, n)
             })
@@ -22509,29 +22510,32 @@ PetManager = function() {
     t.noAlarmCureAll = function() {
         t._cureAll(!1, !1)
     },
-    t._cureAll = function(e, n) {
+    t._cureAll = function(e, n, r) {
         void 0 === e && (e = !0),
         void 0 === n && (n = !0),
+        void 0 === r && (r = !1),
         t.addEventListener(PetEvent.UPDATE_INFO,
         function() {
             this.removeEventListener(PetEvent.UPDATE_INFO, arguments.callee, this);
-            var r = !1;
+            var o = !1;
             if (0 == this._bagMap.length) return void BubblerManager.getInstance().showText("您的出战背包没有精灵");
             if (this._bagMap.eachValue(function(t) {
-                if (t.hp != t.maxHp) return void(r = !0);
+                if (t.hp != t.maxHp) return void(o = !0);
                 for (var e = 0; e < t.skillNum; e++) {
                     var n = t.skillArray[e];
-                    if (n.pp != SkillXMLInfo.getPP(n.id)) return void(r = !0)
+                    if (n.pp != SkillXMLInfo.getPP(n.id)) return void(o = !0)
                 }
-                t.hideSKill && t.hideSKill.pp != SkillXMLInfo.getPP(t.hideSKill.id) && (r = !0)
+                t.hideSKill && t.hideSKill.pp != SkillXMLInfo.getPP(t.hideSKill.id) && (o = !0)
             }), this._secondBagMap.eachValue(function(t) {
-                if (t.hp != t.maxHp) return void(r = !0);
+                if (t.hp != t.maxHp) return void(o = !0);
                 for (var e = 0; e < t.skillNum; e++) {
                     var n = t.skillArray[e];
-                    if (n.pp != SkillXMLInfo.getPP(n.id)) return void(r = !0)
+                    if (n.pp != SkillXMLInfo.getPP(n.id)) return void(o = !0)
                 }
-                t.hideSKill && t.hideSKill.pp != SkillXMLInfo.getPP(t.hideSKill.id) && (r = !0)
-            }), 0 != r) SocketConnection.addCmdListener(CommandID.PET_CURE,
+                t.hideSKill && t.hideSKill.pp != SkillXMLInfo.getPP(t.hideSKill.id) && (o = !0)
+            }), 0 == o) return void(n && BubblerManager.getInstance().showText("背包内的精灵状态已满，无法重复恢复！"));
+            var i = r ? CommandID.PET_CURE_FREE: CommandID.PET_CURE;
+            SocketConnection.addCmdListener(i,
             function(n) {
                 SocketConnection.removeCmdListener(CommandID.PET_CURE, arguments.callee, this),
                 t._bagMap.eachValue(function(t) {
@@ -22542,16 +22546,11 @@ PetManager = function() {
                     }
                 }),
                 t.dispatchEvent(new PetEvent(PetEvent.CURE_COMPLETE, 0)),
-                0 == MainManager.actorInfo.isVip && (MainManager.actorInfo.coins -= 50),
-                e && Alarm.show("恢复成功！你的精灵已经重新充满活力了！")
+                0 != MainManager.actorInfo.isVip || r || (MainManager.actorInfo.coins -= 50),
+                e && BubblerManager.getInstance().showText("恭喜你，背包内的精灵状态已全部恢复！")
             },
             this),
-            SocketConnection.send(CommandID.PET_CURE);
-            else if (n) {
-                var o = "你的精灵们状态已满，不需要恢复体力！超No用户拥有免费恢复精灵活力的特权哟！";
-                GameInfo.isChecking && (o = "你的精灵们状态已满，不需要恢复体力！"),
-                Alarm.show(o)
-            }
+            SocketConnection.send(i)
         },
         t),
         t.updateBagInfo()
@@ -35247,7 +35246,6 @@ NewSeerRedDotController = function(t) {
                     KTool.getMultiValue([120204, 120205, 120206, 120208],
                     function(e) {
                         for (var n = 1; n <= e[3]; n++) if (0 == KTool.getBit(e[0], n)) return void t(!0);
-                        for (var r = [60, 160, 300], n = 1; 3 >= n; n++) if (0 == KTool.getBit(e[1], n) && e[2] >= r[n - 1]) return void t(!0);
                         t(!1)
                     })
                 })]

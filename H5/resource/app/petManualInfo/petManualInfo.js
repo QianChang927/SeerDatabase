@@ -377,6 +377,7 @@ function(t) {
             EventManager.removeEventListener("closeToSkin", this.closeToSkin, this),
             EventManager.removeEventListener("showPetInfo", this.showPetInfo, this),
             this.petModel.removeEventListener(core.component.pet.PetModel.EVENT_LOAD_COMPLETE, this._onLoadedComplete, this),
+            this.petModel.destroy(),
             EventManager.removeEventListener("enterAnim", this.otherEnterAnim, this),
             ImageButtonUtil.removeAll(this)
         },
@@ -822,7 +823,8 @@ function(t) {
         e.prototype.destroy = function() {
             t.prototype.destroy.call(this),
             EventManager.removeEventListener("pet_manual_change_pet", this.changePet, this),
-            this.petModel.removeEventListener(core.component.pet.PetModel.EVENT_LOAD_COMPLETE, this._onLoadedComplete, this)
+            this.petModel.removeEventListener(core.component.pet.PetModel.EVENT_LOAD_COMPLETE, this._onLoadedComplete, this),
+            this.petModel.destroy()
         },
         e
     } (BaseModule);

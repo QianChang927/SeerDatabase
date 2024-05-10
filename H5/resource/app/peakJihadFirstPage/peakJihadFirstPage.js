@@ -1467,16 +1467,16 @@ function(e) {
             },
             this);
             var n = egret.lifecycle.stage.stageWidth / 1136;
-            this.bgGroup0.scaleX = this.bgGroup0.scaleY = .6 * n,
+            this.bgGroup0.scaleX = this.bgGroup0.scaleY = 1 * n,
             this.icon0.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId1),
             this.icon1.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId2),
             this.adaptBgByScale(this.bg),
             this.leftGroup.left = Math.max(DeviceInfoManager.adapterOffSetX, 11),
             this.rightGroup.right = DeviceInfoManager.adapterOffSetX,
-            this.spine = SpineUtil.createAnimate("2023_zjcx_spine"),
-            SpineUtil.play(this.spine, "2023ani_cangxing", this.bgGroup, null, this, 0),
-            this.spine1 = SpineUtil.createAnimate("2023_zjcx_spinebg"),
-            SpineUtil.play(this.spine1, "2023ani_cangxing", this.bgGroup0, null, this, 0),
+            this.spine = SpineUtil.createAnimate("2024dianfeng"),
+            SpineUtil.play(this.spine, "standby", this.bgGroup, null, this, 0),
+            this.spine1 = SpineUtil.createAnimate("2024dianfengbg"),
+            SpineUtil.play(this.spine1, "standby", this.bgGroup0, null, this, 0),
             EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateItemNums, this),
             EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breaklineSynchronizedData, this),
             EventManager.addEventListener(PeakJihadController.PeakJihadController_GET_LADDER_REWARD, this.updateDot, this),
@@ -3167,8 +3167,8 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         var e = new eui.Group;
         return this.bgGroup0 = e,
         e.horizontalCenter = 0,
-        e.scaleX = .6,
-        e.scaleY = .6,
+        e.scaleX = 1,
+        e.scaleY = 1,
         e.touchEnabled = !1,
         e.verticalCenter = 0,
         e
@@ -3188,8 +3188,8 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         var e = new eui.Group;
         return this.bgGroup = e,
         e.horizontalCenter = -150,
-        e.scaleX = .5,
-        e.scaleY = .5,
+        e.scaleX = 1,
+        e.scaleY = 1,
         e.touchEnabled = !1,
         e.verticalCenter = 50,
         e

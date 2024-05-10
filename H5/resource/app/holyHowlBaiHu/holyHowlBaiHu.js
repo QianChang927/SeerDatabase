@@ -2232,7 +2232,7 @@ generateEUI.paths["resource/eui_skins/HolyHowlBaiHuSkin.exml"] = window.HolyHowl
         var t = new eui.Image;
         return this.title = t,
         t.height = 325,
-        t.horizontalCenter = 312.5,
+        t.right = 16,
         t.source = "holy_howl_bai_hu_title_png",
         t.width = 599,
         t.y = 29,
@@ -2261,7 +2261,7 @@ generateEUI.paths["resource/eui_skins/HolyHowlBaiHuSkin.exml"] = window.HolyHowl
         var t = new eui.Image;
         return this.getBtn = t,
         t.height = 103,
-        t.horizontalCenter = 317.5,
+        t.right = 165,
         t.source = "holy_howl_bai_hu_getBtn_png",
         t.visible = !0,
         t.width = 291,
@@ -2271,8 +2271,8 @@ generateEUI.paths["resource/eui_skins/HolyHowlBaiHuSkin.exml"] = window.HolyHowl
     i.btnEvolveNeed_i = function() {
         var t = new eui.Image;
         return this.btnEvolveNeed = t,
+        t.right = 178,
         t.source = "holy_howl_bai_hu_btnevolveneed_png",
-        t.x = 738,
         t.y = 346,
         t
     },

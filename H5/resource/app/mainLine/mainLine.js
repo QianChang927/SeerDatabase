@@ -15,25 +15,25 @@ function(t, e) {
 },
 __awaiter = this && this.__awaiter ||
 function(t, e, i, n) {
-    return new(i || (i = Promise))(function(r, o) {
-        function a(t) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(t) {
             try {
                 h(n.next(t))
             } catch(e) {
-                o(e)
+                a(e)
             }
         }
         function s(t) {
             try {
                 h(n["throw"](t))
             } catch(e) {
-                o(e)
+                a(e)
             }
         }
         function h(t) {
             t.done ? r(t.value) : new i(function(e) {
                 e(t.value)
-            }).then(a, s)
+            }).then(o, s)
         }
         h((n = n.apply(t, e || [])).next())
     })
@@ -48,11 +48,11 @@ function(t, e) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; h;) try {
-            if (r = 1, o && (a = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(o, i[1])).done) return a;
-            switch (o = 0, a && (i = [0, a.value]), i[0]) {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
             case 0:
             case 1:
-                a = i;
+                o = i;
                 break;
             case 4:
                 return h.label++,
@@ -62,7 +62,7 @@ function(t, e) {
                 };
             case 5:
                 h.label++,
-                o = i[1],
+                a = i[1],
                 i = [0];
                 continue;
             case 7:
@@ -70,34 +70,34 @@ function(t, e) {
                 h.trys.pop();
                 continue;
             default:
-                if (a = h.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (o = h.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     h = 0;
                     continue
                 }
-                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
                     h.label = i[1];
                     break
                 }
-                if (6 === i[0] && h.label < a[1]) {
-                    h.label = a[1],
-                    a = i;
+                if (6 === i[0] && h.label < o[1]) {
+                    h.label = o[1],
+                    o = i;
                     break
                 }
-                if (a && h.label < a[2]) {
-                    h.label = a[2],
+                if (o && h.label < o[2]) {
+                    h.label = o[2],
                     h.ops.push(i);
                     break
                 }
-                a[2] && h.ops.pop(),
+                o[2] && h.ops.pop(),
                 h.trys.pop();
                 continue
             }
             i = e.call(t, h)
         } catch(n) {
             i = [6, n],
-            o = 0
+            a = 0
         } finally {
-            r = a = 0
+            r = o = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -105,11 +105,11 @@ function(t, e) {
             done: !0
         }
     }
-    var r, o, a, s, h = {
+    var r, a, o, s, h = {
         label: 0,
         sent: function() {
-            if (1 & a[0]) throw a[1];
-            return a[1]
+            if (1 & o[0]) throw o[1];
+            return o[1]
         },
         trys: [],
         ops: []
@@ -129,16 +129,67 @@ function(t) {
     var e = function(e) {
         function i() {
             var t = e.call(this) || this;
-            return t.skinName = "AllChaptersPanelSkin",
+            return t.isVersionControl = !0,
+            t.startTime = "2024/04/30 00:00:00",
+            t.endTime = "2024/05/02 23:59:59",
+            t.skinName = "AllChaptersPanelSkin",
             t
         }
         return __extends(i, e),
         i.prototype.childrenCreated = function() {
             this.initBtnClose("all_chapters_panel_title_png", this, this.service.closeModule, this.service),
+            this.groupName = "AllChapterPanel",
             this.addEvent(),
             this.initList(),
             StatLogger.log("剧情任务2022", "20221125主线H5", "打开剧情任务合集面板"),
             GameInfo.isChecking && (this.btnYongYe.visible = this.groupChapterProgress.visible = !1)
+        },
+        i.prototype.createMenu = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, e, i, n, r, a, o, s, h, u, l, c;
+                return __generator(this,
+                function(p) {
+                    switch (p.label) {
+                    case 0:
+                        return this.tabData = {},
+                        t = new MenuData,
+                        this.isVersionControl ? (i = SystemTimerManager.sysBJDate.getTime(), n = new Date(this.startTime).getTime(), r = new Date(this.endTime).getTime(), i > n && r > i ? [4, RES.getResByUrl("resource/assets/mainLine/ChapterCtrl_H5_temp.json")] : [3, 2]) : [3, 5];
+                    case 1:
+                        return e = p.sent(),
+                        [3, 4];
+                    case 2:
+                        return [4, RES.getResByUrl("resource/assets/mainLine/ChapterCtrl_H5.json")];
+                    case 3:
+                        e = p.sent(),
+                        p.label = 4;
+                    case 4:
+                        return [3, 7];
+                    case 5:
+                        return [4, RES.getResByUrl("resource/assets/mainLine/ChapterCtrl_H5.json")];
+                    case 6:
+                        e = p.sent(),
+                        p.label = 7;
+                    case 7:
+                        for (a = Object.keys(e), t.groupName = this.groupName, t.root = [], t.data = {},
+                        o = 0; o < a.length; o++) if (s = a[o], t.root.push(s), t.data[s] = {
+                            title: s
+                        },
+                        h = Object.keys(e[s]), !(e[s] instanceof Array) && h.length > 0) {
+                            for (u = e[s], l = 0; l < h.length; l++) c = h[l],
+                            t.data[c] = {
+                                title: c,
+                                parent: s
+                            },
+                            this.tabData[c] = u[c];
+                            t.data[s].child = h
+                        } else this.tabData[s] = e[s];
+                        return t["default"] = t.root[0],
+                        this.menu = Menu.createMenu(t, this, 48),
+                        [2]
+                    }
+                })
+            })
         },
         i.prototype.destroy = function() {
             e.prototype.destroy.call(this);
@@ -146,9 +197,11 @@ function(t) {
                 var i = this.listChapter.getChildAt(t);
                 i.destroy()
             }
+            this.menu && this.menu.destroy()
         },
         i.prototype.addEvent = function() {
             var e = this;
+            EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.onChangeTab, this),
             ImageButtonUtil.add(this.btnStart,
             function() {
                 e.listChapter.selectedItem.redID > 0 && HotRedManager.getInstance().clickIcon(e.listChapter.selectedItem.redID),
@@ -174,6 +227,16 @@ function(t) {
                 e.onSelect()
             },
             this)
+        },
+        i.prototype.onChangeTab = function() {
+            for (var t = this.menu.selectedValue,
+            e = [], i = 0; i < this.configData.length; i++) {
+                var n = this.tabData[t].indexOf(this.configData[i].ID);
+                n > -1 && (e[n] = this.configData[i])
+            }
+            this.listData.replaceAll(e),
+            this.listChapter.validateNow(),
+            this.onSelect(e[0])
         },
         i.prototype.onAni = function(t) {
             var e = t.data;
@@ -206,7 +269,12 @@ function(t) {
                         i.sort(function(t, e) {
                             return (t.Sort || 0) - (e.Sort || 0)
                         }),
-                        this.listChapter.dataProvider = new eui.ArrayCollection(i),
+                        this.configData = i,
+                        this.listData = new eui.ArrayCollection,
+                        this.listChapter.dataProvider = this.listData,
+                        [4, this.createMenu()];
+                    case 2:
+                        return r.sent(),
                         egret.setTimeout(function() {
                             for (var t = 0; t < i.length; t++) {
                                 var r = n.listChapter.getChildAt(t);
@@ -227,39 +295,39 @@ function(t) {
                 })
             })
         },
-        i.prototype.onSelect = function() {
+        i.prototype.onSelect = function(t) {
             return __awaiter(this, void 0, void 0,
             function() {
-                var t, e, i, n = this;
+                var e, i, n, r, a = this;
                 return __generator(this,
-                function(r) {
-                    switch (r.label) {
+                function(o) {
+                    switch (o.label) {
                     case 0:
-                        return t = this.listChapter.selectedItem,
-                        this.txtChapterName.text = t.Title,
-                        this.txtChapterDescribe.text = t.Des,
+                        return void 0 == t ? e = this.listChapter.selectedItem: (e = t, this.listChapter.selectedItem = e, i = this.listChapter.getChildAt(e.itemIndex), i.addChild(this.aniSelect)),
+                        this.txtChapterName.text = e.Title,
+                        this.txtChapterDescribe.text = e.Des,
                         LoadingManager.instance.showloading("正在加载资源，请稍候！"),
-                        e = this.imgBG,
-                        [4, RES.getResByUrl("resource/assets/mainLine/BG/" + t.ID + ".jpg")];
+                        n = this.imgBG,
+                        [4, RES.getResByUrl("resource/assets/mainLine/BG/" + e.ID + ".jpg")];
                     case 1:
-                        return e.source = r.sent(),
-                        i = this.imgPet,
-                        [4, RES.getResByUrl("resource/assets/mainLine/Pet/" + t.ID + ".png")];
+                        return n.source = o.sent(),
+                        r = this.imgPet,
+                        [4, RES.getResByUrl("resource/assets/mainLine/Pet/" + e.ID + ".png")];
                     case 2:
-                        return i.source = r.sent(),
+                        return r.source = o.sent(),
                         LoadingManager.instance.hideloading(),
-                        KTool.getMultiValue([t.StoryRewardFlagID, t.ChapterRewardFlagID],
-                        function(e) {
+                        KTool.getMultiValue([e.StoryRewardFlagID, e.ChapterRewardFlagID],
+                        function(t) {
                             for (var i = 0,
-                            r = 1; 32 >= r; r++) KTool.getBit(e[0], r) && i++;
-                            var o = !1;
-                            Array.isArray(t.ChapterRewardInfo.PassChapterReward) || (t.ChapterRewardInfo.PassChapterReward = [t.ChapterRewardInfo.PassChapterReward]);
-                            for (var a = t.ChapterRewardInfo.PassChapterReward.length,
-                            r = 1; a >= r; r++) if (!KTool.getBit(e[1], r) && i >= t.ChapterRewardInfo.PassChapterReward[r - 1].NeedPassStoryNum) {
-                                o = !0;
+                            n = 1; 32 >= n; n++) KTool.getBit(t[0], n) && i++;
+                            var r = !1;
+                            Array.isArray(e.ChapterRewardInfo.PassChapterReward) || (e.ChapterRewardInfo.PassChapterReward = [e.ChapterRewardInfo.PassChapterReward]);
+                            for (var o = e.ChapterRewardInfo.PassChapterReward.length,
+                            n = 1; o >= n; n++) if (!KTool.getBit(t[1], n) && i >= e.ChapterRewardInfo.PassChapterReward[n - 1].NeedPassStoryNum) {
+                                r = !0;
                                 break
                             }
-                            n.imgRedDot.visible = o
+                            a.imgRedDot.visible = r
                         }),
                         [2]
                     }
@@ -294,6 +362,7 @@ function(t) {
         return t.SelectChapter = "mainLine.selectChapter",
         t.SelectChoice = "mainLine.selectChoice",
         t.EnterDialog = "mainLine.enterDialog",
+        t.GetReward = "mainLine.getReward",
         t
     } ();
     t.EventConst = i,
@@ -328,7 +397,7 @@ function(t) {
             this.aniNew.play("new"),
             this.addChild(this.aniNew),
             this.aniNew.x = 362,
-            this.aniNew.y = 14
+            this.aniNew.y = 17
         },
         i.prototype.dataChanged = function() {
             var t = this;
@@ -392,10 +461,11 @@ function(t) {
             ImageButtonUtil.add(this.group, this.getAward, this, !1, !1)
         },
         i.prototype.getAward = function() {
-            var t = this; ! this.data.hasGet && this.progress.value >= 100 && SocketConnection.sendByQueue(41430, [this.data.chapter, this.data.ID],
-            function(e) {
-                var i = e.data;
-                1 == i.readUnsignedInt() ? console.error("领取奖励失败") : (t.data.hasGet = !0, t.imgHas.visible = !0, t.imgCan.visible = !1)
+            var e = this; ! this.data.hasGet && this.progress.value >= 100 && SocketConnection.sendByQueue(41430, [this.data.chapter, this.data.ID],
+            function(i) {
+                var n = i.data;
+                1 == n.readUnsignedInt() ? console.error("领取奖励失败") : (e.data.hasGet = !0, e.imgHas.visible = !0, e.imgCan.visible = !1),
+                EventManager.dispatchEventWith(t.EventConst.GetReward)
             })
         },
         i.prototype.dataChanged = function() {
@@ -579,16 +649,16 @@ function(t) {
                     config.xml.load("AdventureChapter").then(function() {
                         var i = config.xml.getRes("AdventureChapter").AdventureChapter.Chapter;
                         Array.isArray(i) || (i = [i]);
-                        for (var o, a = 0,
-                        s = i; a < s.length; a++) {
-                            var h = s[a];
+                        for (var a, o = 0,
+                        s = i; o < s.length; o++) {
+                            var h = s[o];
                             if (h.ID == n) {
-                                o = h;
+                                a = h;
                                 break
                             }
                         }
                         e.service.openPanel(t.PanelConst.StoryOverviewPanel, {
-                            chapter: o,
+                            chapter: a,
                             story: r
                         })
                     })
@@ -628,25 +698,25 @@ function(t, e) {
 },
 __awaiter = this && this.__awaiter ||
 function(t, e, i, n) {
-    return new(i || (i = Promise))(function(r, o) {
-        function a(t) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(t) {
             try {
                 h(n.next(t))
             } catch(e) {
-                o(e)
+                a(e)
             }
         }
         function s(t) {
             try {
                 h(n["throw"](t))
             } catch(e) {
-                o(e)
+                a(e)
             }
         }
         function h(t) {
             t.done ? r(t.value) : new i(function(e) {
                 e(t.value)
-            }).then(a, s)
+            }).then(o, s)
         }
         h((n = n.apply(t, e || [])).next())
     })
@@ -661,11 +731,11 @@ function(t, e) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; h;) try {
-            if (r = 1, o && (a = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(o, i[1])).done) return a;
-            switch (o = 0, a && (i = [0, a.value]), i[0]) {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
             case 0:
             case 1:
-                a = i;
+                o = i;
                 break;
             case 4:
                 return h.label++,
@@ -675,7 +745,7 @@ function(t, e) {
                 };
             case 5:
                 h.label++,
-                o = i[1],
+                a = i[1],
                 i = [0];
                 continue;
             case 7:
@@ -683,34 +753,34 @@ function(t, e) {
                 h.trys.pop();
                 continue;
             default:
-                if (a = h.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (o = h.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     h = 0;
                     continue
                 }
-                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
                     h.label = i[1];
                     break
                 }
-                if (6 === i[0] && h.label < a[1]) {
-                    h.label = a[1],
-                    a = i;
+                if (6 === i[0] && h.label < o[1]) {
+                    h.label = o[1],
+                    o = i;
                     break
                 }
-                if (a && h.label < a[2]) {
-                    h.label = a[2],
+                if (o && h.label < o[2]) {
+                    h.label = o[2],
                     h.ops.push(i);
                     break
                 }
-                a[2] && h.ops.pop(),
+                o[2] && h.ops.pop(),
                 h.trys.pop();
                 continue
             }
             i = e.call(t, h)
         } catch(n) {
             i = [6, n],
-            o = 0
+            a = 0
         } finally {
-            r = a = 0
+            r = o = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -718,11 +788,11 @@ function(t, e) {
             done: !0
         }
     }
-    var r, o, a, s, h = {
+    var r, a, o, s, h = {
         label: 0,
         sent: function() {
-            if (1 & a[0]) throw a[1];
-            return a[1]
+            if (1 & o[0]) throw o[1];
+            return o[1]
         },
         trys: [],
         ops: []
@@ -847,8 +917,8 @@ function(t) {
                     t || (i.visible = !1)
                 })
             },
-            o = 0, a = n; o < a.length; o++) {
-                var s = a[o];
+            a = 0, o = n; a < o.length; a++) {
+                var s = o[a];
                 r(s)
             }
             if (!this.group1.visible && this.group2.visible) for (var h = this.groupAsset.numChildren,
@@ -893,29 +963,29 @@ function(t) {
             egret.setTimeout(function() {
                 return __awaiter(e, void 0, void 0,
                 function() {
-                    var t, e, n, r, o, a, s, h, u, l, c, r, p, _, e, n, r;
+                    var t, e, n, r, a, o, s, h, u, l, c, r, p, g, e, n, r;
                     return __generator(this,
-                    function(g) {
-                        switch (g.label) {
+                    function(_) {
+                        switch (_.label) {
                         case 0:
                             if (egret.lifecycle.stage.touchChildren = !0, "漫画" == i.npcName ? (this.group1.visible = !1, this.group2.visible = !1, this.btnReview3.visible = !0, this.showTxt(3, i.dialogArr), !this.history.length || "旁白" != this.history[this.history.length - 1].npcName && "漫画" != this.history[this.history.length - 1].npcName ? (this.history.push(i), i.history = i.dialogArr) : this.history[this.history.length - 1].history += "\n\n" + i.dialogArr) : "旁白" == i.npcName ? (this.group1.visible = !0, this.group2.visible = !1, this.btnReview3.visible = !1, this.showTxt(1, i.dialogArr), !this.history.length || "旁白" != this.history[this.history.length - 1].npcName && "漫画" != this.history[this.history.length - 1].npcName ? (this.history.push(i), i.history = i.dialogArr) : this.history[this.history.length - 1].history += "\n\n" + i.dialogArr) : (this.group1.visible = !1, this.group2.visible = !0, this.btnReview3.visible = !1, this.txtName.text = i.npcName, this.showTxt(2, i.dialogArr), this.history.push(i)), i.questionArr ? (this.arrAnswer = (i.questionArr + "").split("|"), this.arrJump = (i.jumpTo + "").split("|"), this.hasQuestion = !0) : i.jumpTo && (this.curIndex = +i.jumpTo - 1), !i.param) return [3, 6];
                             for (t = this.groupAsset.numChildren, e = t - 1; e >= 0; e--) n = this.groupAsset.getChildAt(e),
                             n instanceof eui.Image ? (this.poolImage.push(n), this.groupAsset.removeChild(n)) : n instanceof eui.Group && (r = n.getChildAt(0), this.poolSpineAnimate[n.name] || (this.poolSpineAnimate[n.name] = []), this.poolSpineAnimate[n.name].push(r), r.flagRemove = !0);
-                            o = i.param.split("|"),
-                            a = 0,
-                            s = o,
-                            g.label = 1;
+                            a = i.param.split("|"),
+                            o = 0,
+                            s = a,
+                            _.label = 1;
                         case 1:
-                            return a < s.length ? (h = s[a], u = h.split(","), l = u[0], c = void 0, "amh" != l.substring(0, 3) ? [3, 3] : (c = new eui.Group, [4, this.createSpineAnimate(l)])) : [3, 6];
+                            return o < s.length ? (h = s[o], u = h.split(","), l = u[0], c = void 0, "amh" != l.substring(0, 3) ? [3, 3] : (c = new eui.Group, [4, this.createSpineAnimate(l)])) : [3, 6];
                         case 2:
-                            return r = g.sent(),
+                            return r = _.sent(),
                             r.flagRemove = !1,
                             c.addChild(r),
                             [3, 4];
                         case 3:
                             p = "map" == l.split("_")[0].substring(0, 3),
                             c = this.getImage("resource/assets/mainLine/Dialog/" + l + "." + (p ? "jpg": "png")),
-                            g.label = 4;
+                            _.label = 4;
                         case 4:
                             c.name = l + "",
                             this.groupAsset.addChild(c),
@@ -931,14 +1001,14 @@ function(t) {
                             400, egret.Ease.cubicOut).call(function() {
                                 egret.lifecycle.stage.touchChildren = !0
                             })) : 6 == +u[4] ? this.playAni_upAndDown(c) : 7 == +u[4] && this.playAni_shake(c)),
-                            g.label = 5;
+                            _.label = 5;
                         case 5:
-                            return a++,
+                            return o++,
                             [3, 1];
                         case 6:
                             for (i.changeBGM && SoundManager.loadSound("resource/assets/map/sound/" + i.changeBGM + ".mp3").then(function() {
                                 SoundManager.playMusic()
-                            }), _ = this.groupAsset.numChildren, e = _ - 1; e >= 0; e--) n = this.groupAsset.getChildAt(e),
+                            }), g = this.groupAsset.numChildren, e = g - 1; e >= 0; e--) n = this.groupAsset.getChildAt(e),
                             n instanceof eui.Group && (0 == n.numChildren ? this.groupAsset.removeChild(n) : (r = n.getChildAt(0), r.flagRemove && this.groupAsset.removeChild(n)));
                             return [2]
                         }
@@ -1093,7 +1163,7 @@ function(t) {
         i.prototype.createSpineAnimate = function(t) {
             return __awaiter(this, void 0, void 0,
             function() {
-                var e, i, n, r, o, a, s, h, u, l, c;
+                var e, i, n, r, a, o, s, h, u, l, c;
                 return __generator(this,
                 function(p) {
                     switch (p.label) {
@@ -1107,17 +1177,17 @@ function(t) {
                         [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + t.split(".")[0] + "/" + t + ".atlas", null, null, RES.ResourceItem.TYPE_TEXT)];
                     case 2:
                         r.atlas = p.sent(),
-                        o = new spine.TextureAtlas(i.atlas),
-                        a = 0,
-                        s = o.pages,
+                        a = new spine.TextureAtlas(i.atlas),
+                        o = 0,
+                        s = a.pages,
                         p.label = 3;
                     case 3:
-                        return a < s.length ? (h = s[a], u = i.png, l = h.name, [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + t.split(".")[0] + "/" + h.name)]) : [3, 6];
+                        return o < s.length ? (h = s[o], u = i.png, l = h.name, [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + t.split(".")[0] + "/" + h.name)]) : [3, 6];
                     case 4:
                         u[l] = p.sent(),
                         p.label = 5;
                     case 5:
-                        return a++,
+                        return o++,
                         [3, 3];
                     case 6:
                         return c = this._createAnimate(i),
@@ -1136,8 +1206,8 @@ function(t) {
             if (e) {
                 var i = t.atlas;
                 if (i) {
-                    for (var n = new spine.TextureAtlas(i), r = new spine.AtlasAttachmentLoader(n), o = 0, a = n.pages; o < a.length; o++) {
-                        var s = a[o],
+                    for (var n = new spine.TextureAtlas(i), r = new spine.AtlasAttachmentLoader(n), a = 0, o = n.pages; a < o.length; a++) {
+                        var s = o[a],
                         h = t.png[s.name];
                         s.setTexture(new spine.EgretTexture(h))
                     }
@@ -1169,25 +1239,25 @@ function(t, e) {
 },
 __awaiter = this && this.__awaiter ||
 function(t, e, i, n) {
-    return new(i || (i = Promise))(function(r, o) {
-        function a(t) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(t) {
             try {
                 h(n.next(t))
             } catch(e) {
-                o(e)
+                a(e)
             }
         }
         function s(t) {
             try {
                 h(n["throw"](t))
             } catch(e) {
-                o(e)
+                a(e)
             }
         }
         function h(t) {
             t.done ? r(t.value) : new i(function(e) {
                 e(t.value)
-            }).then(a, s)
+            }).then(o, s)
         }
         h((n = n.apply(t, e || [])).next())
     })
@@ -1202,11 +1272,11 @@ function(t, e) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; h;) try {
-            if (r = 1, o && (a = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(o, i[1])).done) return a;
-            switch (o = 0, a && (i = [0, a.value]), i[0]) {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
             case 0:
             case 1:
-                a = i;
+                o = i;
                 break;
             case 4:
                 return h.label++,
@@ -1216,7 +1286,7 @@ function(t, e) {
                 };
             case 5:
                 h.label++,
-                o = i[1],
+                a = i[1],
                 i = [0];
                 continue;
             case 7:
@@ -1224,34 +1294,34 @@ function(t, e) {
                 h.trys.pop();
                 continue;
             default:
-                if (a = h.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (o = h.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     h = 0;
                     continue
                 }
-                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
                     h.label = i[1];
                     break
                 }
-                if (6 === i[0] && h.label < a[1]) {
-                    h.label = a[1],
-                    a = i;
+                if (6 === i[0] && h.label < o[1]) {
+                    h.label = o[1],
+                    o = i;
                     break
                 }
-                if (a && h.label < a[2]) {
-                    h.label = a[2],
+                if (o && h.label < o[2]) {
+                    h.label = o[2],
                     h.ops.push(i);
                     break
                 }
-                a[2] && h.ops.pop(),
+                o[2] && h.ops.pop(),
                 h.trys.pop();
                 continue
             }
             i = e.call(t, h)
         } catch(n) {
             i = [6, n],
-            o = 0
+            a = 0
         } finally {
-            r = a = 0
+            r = o = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -1259,11 +1329,11 @@ function(t, e) {
             done: !0
         }
     }
-    var r, o, a, s, h = {
+    var r, a, o, s, h = {
         label: 0,
         sent: function() {
-            if (1 & a[0]) throw a[1];
-            return a[1]
+            if (1 & o[0]) throw o[1];
+            return o[1]
         },
         trys: [],
         ops: []
@@ -1302,6 +1372,7 @@ function(t) {
             },
             this),
             EventManager.addEventListener(t.EventConst.EnterDialog, this.playAni, this),
+            EventManager.addEventListener(t.EventConst.GetReward, this.update, this),
             GameInfo.isChecking && (this.groupChapterProgress.visible = !1)
         },
         i.prototype.removed = function() {
@@ -1344,6 +1415,21 @@ function(t) {
                 })
             })
         },
+        i.prototype.update = function() {
+            var t = this;
+            KTool.getMultiValue([this.chapterData.StoryRewardFlagID, this.chapterData.ChapterRewardFlagID],
+            function(e) {
+                for (var i = 0,
+                n = [!0], r = 1; 32 >= r; r++) KTool.getBit(e[0], r) && (i++, n[r] = !0);
+                for (var a = !1,
+                o = t.chapterData.ChapterRewardInfo.PassChapterReward.length,
+                r = 1; o >= r; r++) if (!KTool.getBit(e[1], r) && i >= t.chapterData.ChapterRewardInfo.PassChapterReward[r - 1].NeedPassStoryNum) {
+                    a = !0;
+                    break
+                }
+                t.imgRedDot.visible = a
+            })
+        },
         i.prototype.initStory = function() {
             return __awaiter(this, void 0, void 0,
             function() {
@@ -1356,25 +1442,25 @@ function(t) {
                             Array.isArray(e.chapterData.StoryRewardInfo.PassStoryReward) || (e.chapterData.StoryRewardInfo.PassStoryReward = [e.chapterData.StoryRewardInfo.PassStoryReward]);
                             for (var r in e.allStoryData) e.allStoryData[r].hasGet = KTool.getBit(n[0], +r + 1),
                             e.allStoryData[r].storyReward = e.chapterData.StoryRewardInfo.PassStoryReward[r];
-                            for (var o = 0,
-                            a = [!0], s = 1; 32 >= s; s++) KTool.getBit(n[0], s) && (o++, a[s] = !0);
+                            for (var a = 0,
+                            o = [!0], s = 1; 32 >= s; s++) KTool.getBit(n[0], s) && (a++, o[s] = !0);
                             if (e.chapterData.lineInfo) for (var h = e.chapterData.lineInfo.split("|"), u = 0, l = h; u < l.length; u++) {
                                 var c = l[u],
                                 p = c.split(","),
-                                _ = !0;
-                                _ = -1 != e.getIdByBranchId(p[5]) ? !a[e.getIdByBranchId(p[5])] : !a[p[5]];
-                                var g = new eui.Image;
-                                e.groupStory.addChild(g),
-                                g.horizontalCenter = p[0],
-                                g.verticalCenter = p[1],
-                                g.width = +p[2],
-                                g.rotation = +p[3],
-                                "1" == p[4] ? (g.fillMode = egret.BitmapFillMode.CLIP, g.source = "story_overview_panel_imgdottedline_png") : (g.source = "story_overview_panel_imgline_png", g.scale9Grid = new egret.Rectangle(7, 7, 1, 1))
+                                g = !0;
+                                g = -1 != e.getIdByBranchId(p[5]) ? !o[e.getIdByBranchId(p[5])] : !o[p[5]];
+                                var _ = new eui.Image;
+                                e.groupStory.addChild(_),
+                                _.horizontalCenter = p[0],
+                                _.verticalCenter = p[1],
+                                _.width = +p[2],
+                                _.rotation = +p[3],
+                                "1" == p[4] ? (_.fillMode = egret.BitmapFillMode.CLIP, _.source = "story_overview_panel_imgdottedline_png") : (_.source = "story_overview_panel_imgline_png", _.scale9Grid = new egret.Rectangle(7, 7, 1, 1))
                             }
                             var m = Number.MAX_VALUE,
                             f = -Number.MAX_VALUE,
-                            y = Number.MAX_VALUE,
-                            d = -Number.MAX_VALUE,
+                            d = Number.MAX_VALUE,
+                            y = -Number.MAX_VALUE,
                             v = function(t) {
                                 var i = e.allStoryData[t],
                                 n = e.chapterData.positionInfo.split("|")[t].split(","),
@@ -1384,7 +1470,7 @@ function(t) {
                                 r.verticalCenter = n[3],
                                 m = Math.min(m, +n[2] - r.width / 2),
                                 f = Math.max(f, +n[2] + r.width / 2),
-                                a[i.storyReward.PreUnlockStoryID] && (y = Math.min(m, +n[2] - r.width / 2), d = Math.max(f, +n[2] + r.width / 2), i.ID <= 20 && !a[i.ID] && e.once(egret.Event.RENDER,
+                                o[i.storyReward.PreUnlockStoryID] && (d = Math.min(m, +n[2] - r.width / 2), y = Math.max(f, +n[2] + r.width / 2), i.ID <= 20 && !o[i.ID] && e.once(egret.Event.RENDER,
                                 function() {
                                     e.aniPoint = SpineUtil.createAnimate("juqingwancheng"),
                                     e.groupStory.addChild(e.aniPoint),
@@ -1395,22 +1481,22 @@ function(t) {
                                 e))
                             };
                             for (var r in e.allStoryData) v(r);
-                            m = y,
-                            f = d;
+                            m = d,
+                            f = y;
                             for (var r in e.allStoryData) {
                                 var w = e.allStoryData[r],
                                 x = e.chapterData.positionInfo.split("|")[r].split(","),
-                                I = !1;
-                                a[w.storyReward.PreUnlockStoryID] ? (delete w.canNotOpen, I = !0) : w.canNotOpen = !0;
-                                var C = new t.StoryItem(w, e.service);
-                                e.groupStory.addChild(C),
-                                C.horizontalCenter = x[0],
-                                C.verticalCenter = x[1],
-                                m = Math.min(m, +x[0] - C.width / 2),
-                                f = Math.max(f, +x[0] + C.width / 2),
-                                I && (y = Math.min(m, +x[0] - C.width / 2), d = Math.max(f, +x[0] + C.width / 2))
+                                C = !1;
+                                o[w.storyReward.PreUnlockStoryID] ? (delete w.canNotOpen, C = !0) : w.canNotOpen = !0;
+                                var I = new t.StoryItem(w, e.service);
+                                e.groupStory.addChild(I),
+                                I.horizontalCenter = x[0],
+                                I.verticalCenter = x[1],
+                                m = Math.min(m, +x[0] - I.width / 2),
+                                f = Math.max(f, +x[0] + I.width / 2),
+                                C && (d = Math.min(m, +x[0] - I.width / 2), y = Math.max(f, +x[0] + I.width / 2))
                             }
-                            var b = d - y;
+                            var b = y - d;
                             e.groupStory.width = f - m,
                             e.groupStory.x = ( - m - f) / 2 + 30;
                             var S = e.groupStory.parent;
@@ -1425,7 +1511,7 @@ function(t) {
                             Array.isArray(e.chapterData.ChapterRewardInfo.PassChapterReward) || (e.chapterData.ChapterRewardInfo.PassChapterReward = [e.chapterData.ChapterRewardInfo.PassChapterReward]);
                             for (var P = !1,
                             A = e.chapterData.ChapterRewardInfo.PassChapterReward.length,
-                            s = 1; A >= s; s++) if (!KTool.getBit(n[1], s) && o >= e.chapterData.ChapterRewardInfo.PassChapterReward[s - 1].NeedPassStoryNum) {
+                            s = 1; A >= s; s++) if (!KTool.getBit(n[1], s) && a >= e.chapterData.ChapterRewardInfo.PassChapterReward[s - 1].NeedPassStoryNum) {
                                 P = !0;
                                 break
                             }
@@ -1499,11 +1585,11 @@ function(t) {
                 n = 1; 32 >= n; n++) KTool.getBit(t[1], n) && i++;
                 var r = e.chapterData.ChapterRewardInfo.PassChapterReward;
                 Array.isArray(r) || (r = [r]);
-                for (var o in r) {
-                    var a = r[o];
-                    a.hasGet = KTool.getBit(t[0], +o + 1),
-                    a.curProgress = i,
-                    a.chapter = e.chapterData.ID
+                for (var a in r) {
+                    var o = r[a];
+                    o.hasGet = KTool.getBit(t[0], +a + 1),
+                    o.curProgress = i,
+                    o.chapter = e.chapterData.ID
                 }
                 e.list.dataProvider = new eui.ArrayCollection(r),
                 StatLogger.log("剧情任务2022", e.chapterData.statlogId + "主线H5", "打开了章节" + e.chapterData.ID + "章节奖励弹窗")
@@ -1596,9 +1682,9 @@ function(t) {
             var e = this,
             i = function(i) {
                 var r = n.arrAnswer[i],
-                o = new t.ChoiceItem(r);
-                n.group.addChild(o),
-                ImageButtonUtil.add(o,
+                a = new t.ChoiceItem(r);
+                n.group.addChild(a),
+                ImageButtonUtil.add(a,
                 function() {
                     EventManager.dispatchEventWith(t.EventConst.SelectChoice, !1, +i),
                     PopViewManager.getInstance().hideView(e)
@@ -1634,25 +1720,25 @@ function(t, e) {
 },
 __awaiter = this && this.__awaiter ||
 function(t, e, i, n) {
-    return new(i || (i = Promise))(function(r, o) {
-        function a(t) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(t) {
             try {
                 h(n.next(t))
             } catch(e) {
-                o(e)
+                a(e)
             }
         }
         function s(t) {
             try {
                 h(n["throw"](t))
             } catch(e) {
-                o(e)
+                a(e)
             }
         }
         function h(t) {
             t.done ? r(t.value) : new i(function(e) {
                 e(t.value)
-            }).then(a, s)
+            }).then(o, s)
         }
         h((n = n.apply(t, e || [])).next())
     })
@@ -1667,11 +1753,11 @@ function(t, e) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; h;) try {
-            if (r = 1, o && (a = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(o, i[1])).done) return a;
-            switch (o = 0, a && (i = [0, a.value]), i[0]) {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
             case 0:
             case 1:
-                a = i;
+                o = i;
                 break;
             case 4:
                 return h.label++,
@@ -1681,7 +1767,7 @@ function(t, e) {
                 };
             case 5:
                 h.label++,
-                o = i[1],
+                a = i[1],
                 i = [0];
                 continue;
             case 7:
@@ -1689,34 +1775,34 @@ function(t, e) {
                 h.trys.pop();
                 continue;
             default:
-                if (a = h.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (o = h.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     h = 0;
                     continue
                 }
-                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
                     h.label = i[1];
                     break
                 }
-                if (6 === i[0] && h.label < a[1]) {
-                    h.label = a[1],
-                    a = i;
+                if (6 === i[0] && h.label < o[1]) {
+                    h.label = o[1],
+                    o = i;
                     break
                 }
-                if (a && h.label < a[2]) {
-                    h.label = a[2],
+                if (o && h.label < o[2]) {
+                    h.label = o[2],
                     h.ops.push(i);
                     break
                 }
-                a[2] && h.ops.pop(),
+                o[2] && h.ops.pop(),
                 h.trys.pop();
                 continue
             }
             i = e.call(t, h)
         } catch(n) {
             i = [6, n],
-            o = 0
+            a = 0
         } finally {
-            r = a = 0
+            r = o = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -1724,11 +1810,11 @@ function(t, e) {
             done: !0
         }
     }
-    var r, o, a, s, h = {
+    var r, a, o, s, h = {
         label: 0,
         sent: function() {
-            if (1 & a[0]) throw a[1];
-            return a[1]
+            if (1 & o[0]) throw o[1];
+            return o[1]
         },
         trys: [],
         ops: []
@@ -1764,23 +1850,23 @@ function(t) {
             n = i.rewardinfo.split(";");
             StatLogger.log("剧情任务2022", i.statlogId + "主线H5", "打开" + this.storyData.chapterID + "-" + this.storyData.ID + "剧情概览弹窗");
             var r = n.shift(),
-            o = r.split("_")[1];
-            this.imgItem1.source = ClientConfig.getItemIcon(o),
+            a = r.split("_")[1];
+            this.imgItem1.source = ClientConfig.getItemIcon(a),
             ImageButtonUtil.add(this.imgItem1,
             function() {
                 t.MainLine.openPrizeInfo(r.split("_").map(parseFloat))
             },
             this),
             this.txtItem1.text = core.gameUtil.ConvertItemNumView(r.split("_")[2], 0);
-            var a = n.shift(),
-            s = a.split("_")[1];
+            var o = n.shift(),
+            s = o.split("_")[1];
             this.imgItem2.source = ClientConfig.getItemIcon(s),
             ImageButtonUtil.add(this.imgItem2,
             function() {
-                t.MainLine.openPrizeInfo(a.split("_").map(parseFloat))
+                t.MainLine.openPrizeInfo(o.split("_").map(parseFloat))
             },
             this),
-            this.txtItem2.text = core.gameUtil.ConvertItemNumView(a.split("_")[2], 0);
+            this.txtItem2.text = core.gameUtil.ConvertItemNumView(o.split("_")[2], 0);
             var h = n.shift(),
             u = h.split("_")[1];
             this.imgItem3.source = ClientConfig.getItemIcon(u),
@@ -1796,48 +1882,48 @@ function(t) {
             function() {
                 return __awaiter(e, void 0, void 0,
                 function() {
-                    var e, n, r, o, a, s, h, u, l, c, p, _, g, m, f;
+                    var e, n, r, a, o, s, h, u, l, c, p, g, _, m, f;
                     return __generator(this,
-                    function(y) {
-                        switch (y.label) {
+                    function(d) {
+                        switch (d.label) {
                         case 0:
                             LoadingManager.instance.showloading("正在加载资源，请稍候！"),
                             e = 0,
                             n = this.storyData.dialog,
-                            y.label = 1;
+                            d.label = 1;
                         case 1:
                             if (! (e < n.length)) return [3, 13];
                             if (r = n[e], !r.param) return [3, 12];
-                            o = r.param.split("|"),
-                            a = 0,
-                            s = o,
-                            y.label = 2;
+                            a = r.param.split("|"),
+                            o = 0,
+                            s = a,
+                            d.label = 2;
                         case 2:
-                            return a < s.length ? (h = s[a], u = h.split(",")[0], "amh" != u.substring(0, 3) ? [3, 9] : [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + u.split(".")[0] + "/" + u + ".atlas",
+                            return o < s.length ? (h = s[o], u = h.split(",")[0], "amh" != u.substring(0, 3) ? [3, 9] : [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + u.split(".")[0] + "/" + u + ".atlas",
                             function(e, i) {
                                 t.StoryOverviewPanel.arrAssets[i] = 1
                             },
                             this, RES.ResourceItem.TYPE_TEXT)]) : [3, 12];
                         case 3:
-                            return l = y.sent(),
+                            return l = d.sent(),
                             [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + u.split(".")[0] + "/" + u + ".json",
                             function(e, i) {
                                 t.StoryOverviewPanel.arrAssets[i] = 1
                             })];
                         case 4:
-                            y.sent(),
+                            d.sent(),
                             c = new spine.TextureAtlas(l),
                             p = 0,
-                            _ = c.pages,
-                            y.label = 5;
+                            g = c.pages,
+                            d.label = 5;
                         case 5:
-                            return p < _.length ? (g = _[p], m = g.name, [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + u.split(".")[0] + "/" + m,
+                            return p < g.length ? (_ = g[p], m = _.name, [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + u.split(".")[0] + "/" + m,
                             function(e, i) {
                                 t.StoryOverviewPanel.arrAssets[i] = 1
                             })]) : [3, 8];
                         case 6:
-                            y.sent(),
-                            y.label = 7;
+                            d.sent(),
+                            d.label = 7;
                         case 7:
                             return p++,
                             [3, 5];
@@ -1850,10 +1936,10 @@ function(t) {
                                 t.StoryOverviewPanel.arrAssets[i] = 1
                             })];
                         case 10:
-                            y.sent(),
-                            y.label = 11;
+                            d.sent(),
+                            d.label = 11;
                         case 11:
-                            return a++,
+                            return o++,
                             [3, 2];
                         case 12:
                             return e++,
@@ -2260,10 +2346,10 @@ generateEUI.paths["resource/eui_skins/item/StoryItemSkin.exml"] = window.StoryIt
 generateEUI.paths["resource/eui_skins/panel/AllChaptersPanelSkin.exml"] = window.AllChaptersPanelSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["imgBG", "imgPet", "txtChapterName", "txtChapterDescribe", "imgRedDot", "groupChapterProgress", "btnStart", "groupAni", "listChapter", "btnYongYe"],
+        this.skinParts = ["imgBG", "listChapter", "imgPet", "txtChapterName", "txtChapterDescribe", "imgRedDot", "groupChapterProgress", "btnStart", "groupAni", "btnYongYe"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this.imgBG_i(), this._Image1_i(), this._Image2_i(), this._Image3_i(), this._Image4_i(), this._Group1_i(), this._Group2_i(), this.groupAni_i(), this._Scroller1_i(), this.btnYongYe_i(), this._Image8_i()]
+        this.elementsContent = [this.imgBG_i(), this._Image1_i(), this._Image2_i(), this._Group1_i(), this._Group2_i(), this._Group3_i(), this.groupAni_i(), this.btnYongYe_i(), this._Image8_i()]
     }
     __extends(e, t);
     var i = e.prototype;
@@ -2298,26 +2384,57 @@ generateEUI.paths["resource/eui_skins/panel/AllChaptersPanelSkin.exml"] = window
         t.y = 0,
         t
     },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 0,
+        t.horizontalCenter = -235,
+        t.verticalCenter = 0,
+        t.width = 0,
+        t.elementsContent = [this._Image3_i(), this._Image4_i(), this._Scroller1_i()],
+        t
+    },
     i._Image3_i = function() {
         var t = new eui.Image;
-        return t.source = "all_chapters_panel_img3_png",
-        t.x = 51,
-        t.y = 49,
+        return t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "all_chapters_panel_img3_png",
+        t.x = -162,
+        t.y = -258.00000000000006,
         t
     },
     i._Image4_i = function() {
         var t = new eui.Image;
-        return t.source = "all_chapters_panel_img2_png",
-        t.x = 73,
-        t.y = 49,
+        return t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "all_chapters_panel_img2_png",
+        t.x = -139.9999999999999,
+        t.y = -258.00000000000006,
         t
     },
-    i._Group1_i = function() {
+    i._Scroller1_i = function() {
+        var t = new eui.Scroller;
+        return t.height = 730,
+        t.scaleX = .75,
+        t.scaleY = .75,
+        t.width = 400,
+        t.x = -135,
+        t.y = -245.00000000000006,
+        t.viewport = this.listChapter_i(),
+        t
+    },
+    i.listChapter_i = function() {
+        var t = new eui.List;
+        return this.listChapter = t,
+        t.useVirtualLayout = !1,
+        t
+    },
+    i._Group2_i = function() {
         var t = new eui.Group;
         return t.bottom = 0,
         t.left = 508,
         t.right = 0,
         t.top = 0,
+        t.touchEnabled = !1,
         t.visible = !0,
         t.elementsContent = [this.imgPet_i()],
         t
@@ -2329,7 +2446,7 @@ generateEUI.paths["resource/eui_skins/panel/AllChaptersPanelSkin.exml"] = window
         t.verticalCenter = 0,
         t
     },
-    i._Group2_i = function() {
+    i._Group3_i = function() {
         var t = new eui.Group;
         return t.right = 0,
         t.y = 438,
@@ -2420,21 +2537,6 @@ generateEUI.paths["resource/eui_skins/panel/AllChaptersPanelSkin.exml"] = window
     i.groupAni_i = function() {
         var t = new eui.Group;
         return this.groupAni = t,
-        t
-    },
-    i._Scroller1_i = function() {
-        var t = new eui.Scroller;
-        return t.height = 540,
-        t.width = 400,
-        t.x = 72,
-        t.y = 64,
-        t.viewport = this.listChapter_i(),
-        t
-    },
-    i.listChapter_i = function() {
-        var t = new eui.List;
-        return this.listChapter = t,
-        t.useVirtualLayout = !1,
         t
     },
     i.btnYongYe_i = function() {

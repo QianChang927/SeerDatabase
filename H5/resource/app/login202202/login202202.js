@@ -993,25 +993,17 @@ function(e) {
     var t = function() {
         function e() {}
         return e.init = function(e) {
-            var t = SpineUtil.createAnimate("2023_zjcx_loadingbg");
+            var t = SpineUtil.createAnimate("2024nianfeidaiji");
             t.touchChildren = !1,
             t.touchEnabled = !1,
-            t.play("2023ani_cangxing");
-            var n = egret.lifecycle.stage.stageWidth / 1136;
-            t.scaleX = t.scaleY = .5 * n,
-            e.grpMovie.addChild(t);
-            var i = SpineUtil.createAnimate("2023_zjcx_loading");
-            i.touchChildren = !1,
-            i.touchEnabled = !1,
-            i.play("2023ani_cangxing"),
-            i.scaleX = i.scaleY = .5,
-            e.grpMovie.addChild(i),
+            t.play("standby"),
+            e.grpMovie.addChild(t),
             EngineHookManager.repairCanvasRenderDrawMesh();
-            var r = SpineUtil.createAnimate("denglutexiao");
-            r.touchChildren = !1,
-            r.touchEnabled = !1,
-            r.play("denglutexiao"),
-            e.grpLoginMovie.addChild(r)
+            var n = SpineUtil.createAnimate("denglutexiao");
+            n.touchChildren = !1,
+            n.touchEnabled = !1,
+            n.play("denglutexiao"),
+            e.grpLoginMovie.addChild(n)
         },
         e.destroy = function() {},
         e
@@ -1429,9 +1421,12 @@ generateEUI.paths["resource/eui_skins/MainPanelSkin.exml"] = window.login202202.
     return i.bg_i = function() {
         var e = new eui.Image;
         return this.bg = e,
-        e.horizontalCenter = 0,
+        e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.source = "2024nianfeidaijiBg_png",
+        e.top = 0,
         e.visible = !0,
-        e.y = 0,
         e
     },
     i.grpMovie_i = function() {

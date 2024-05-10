@@ -4876,7 +4876,7 @@ SignBuffInfosView = function(t) {
         this.setIcon(e, i, n);
         var o = t.iconObj.tipsStr,
         r = t.iconObj.fightSignInfo;
-        this.tx_buffName.text = n.dec,
+        this.tx_buffName.text = String(n.dec),
         this.tx_lvNum.text = "";
         var s = n.NumDes ? n.NumDes: "",
         a = n.isShowNum ? i.toString() : "",
@@ -8630,7 +8630,7 @@ SignBuffView_1000 = function(t) {
     e.prototype.initView = function() {
         t.prototype.initView.call(this),
         this.update(),
-        this.tipsStr = this.signInfo.tips
+        this.tipsStr = String(this.signInfo.tips)
     },
     e.prototype.update = function() {
         var t = this._fighterModel;
@@ -9676,7 +9676,7 @@ SignBuffView = function(t) {
         t.prototype.initView.call(this),
         this.addEvent(),
         this.update(),
-        "" != this.signInfo.sptips && void 0 != this.signInfo.sptips && (this.tipsStr = this.signInfo.tips)
+        "" != this.signInfo.sptips && void 0 != this.signInfo.sptips && (this.tipsStr = String(this.signInfo.tips))
     },
     e.prototype.update = function() {
         var t = this._fighterModel;
@@ -9725,14 +9725,14 @@ SignBuffView = function(t) {
         e.userID == this.useId && (this._fightPetInfo.petID = e.petID, this.setSignIcon(e.fightSigns))
     },
     e.prototype.setSignIcon = function(t) {
-        var e = t.getKeys(); - 1 != e.indexOf(String(this._index)) ? (this.fightSignInfo = t.getValue(this._index), this.showIcon(!0)) : this.signInfo.showmonster == this._fightPetInfo.petID && this._fightPetInfo.userID == MainManager.actorID ? this.showIcon(!0) : this.showIcon(!1)
+        var e = t.getKeys(); - 1 != e.indexOf(String(this._index)) ? (this.fightSignInfo = t.getValue(this._index), this.showIcon(!0)) : this.signInfo.showmonster == this._fightPetInfo.petID ? this.showIcon(!0) : this.showIcon(!1)
     },
     e.prototype.showIcon = function(t) {
         if (this.fightSignInfo && (this.lvNum = this.fightSignInfo.lvNum), t) {
             if (this.isShow = !0, 28 == this.index) this.tipsStr = SkillXMLInfo.getName(this.fightSignInfo.spValue);
             else {
                 var e = SignIconXmlInfo.getSptipsByidAndLvNum(this.index, this.lvNum);
-                this.tipsStr = null != e ? e: this.signInfo.tips
+                this.tipsStr = null != e ? e: String(this.signInfo.tips)
             }
             ToolTipManager.add(this.icon, this.tipsStr),
             this.icon.numTxt.visible = this.signInfo.isShowNum > 0 ? !0 : !1,

@@ -286,6 +286,7 @@ function(t) {
         e.prototype.destroy = function() {
             egret.lifecycle.stage.removeEventListener(egret.Event.RESIZE, this.setPetPosition, this),
             egret.lifecycle.stage.removeEventListener(egret.TouchEvent.TOUCH_END, this.onEnd, this),
+            egret.Tween.removeAllTweens(),
             this.moveArea.removeEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onBegin, this),
             i.prototype.destroy.call(this)
         },
@@ -293,11 +294,11 @@ function(t) {
             this.service.registerItemUpdateForText(t.ItemConst.jieShengSignet, this.txtSignet, this)
         },
         e.prototype.addEvent = function() {
-            var t = this;
+            var i = this;
             egret.lifecycle.stage.addEventListener(egret.Event.RESIZE, this.setPetPosition, this),
             ImageButtonUtil.add(this.btnPet,
             function() {
-                t.service.showPetBag()
+                i.service.showPetBag()
             },
             this),
             ImageButtonUtil.add(this.btnCure,
@@ -307,22 +308,40 @@ function(t) {
             this),
             ImageButtonUtil.add(this.btnFastBeat,
             function() {
-                t.noOpen()
+                BuyProductManager.buyProductBySocket(257111,
+                function() {
+                    SocketConnection.sendByQueue(t.CMDConst.CMD, [33, i.curBossIndex],
+                    function() {
+                        i.service.updateValues().then(function() {
+                            i.updateValues()
+                        })
+                    })
+                },
+                i)
             },
             this),
             ImageButtonUtil.add(this.btnAddFightTime,
             function() {
-                t.noOpen()
+                BuyProductManager.buyProductBySocket(257110,
+                function() {
+                    SocketConnection.sendByQueue(t.CMDConst.CMD, [33, 0],
+                    function() {
+                        i.service.updateValues().then(function() {
+                            i.updateValues()
+                        })
+                    })
+                },
+                i)
             },
             this),
             ImageButtonUtil.add(this.btnFight,
             function() {
-                if (0 == t.numFightTime) BubblerManager.getInstance().showText("很抱歉，今日剩余挑战次数不足！");
+                if (0 == i.numFightTime) BubblerManager.getInstance().showText("很抱歉，今日剩余挑战次数不足！");
                 else {
-                    if (!t.service) return;
-                    var i = t.service.getValue(11411 + Math.floor(t.curBossIndex / 2 - .1)) >> (t.curBossIndex % 2 == 0 ? 16 : 0) & 65535;
-                    t.oldWinTime = 15 & i,
-                    FightManager.fightNoMapBoss("", 17415 + 7 * t.numDiff + t.curBossIndex)
+                    if (!i.service) return;
+                    var t = i.service.getValue(11411 + Math.floor(i.curBossIndex / 2 - .1)) >> (i.curBossIndex % 2 == 0 ? 16 : 0) & 65535;
+                    i.oldWinTime = 15 & t,
+                    FightManager.fightNoMapBoss("", 17415 + 7 * i.numDiff + i.curBossIndex)
                 }
             },
             this),
@@ -373,7 +392,8 @@ function(t) {
                 }
                 if (e) return void this.service.backToMainPanel();
                 this.numFightTime = 24 - (this.service.getValue(t.AttrConst.daily_state) >> 8 & 255),
-                this.txtFightTime.text = this.numFightTime + "";
+                this.txtFightTime.text = this.numFightTime + "",
+                DisplayUtil.setEnabled(this.btnAddFightTime, this.numFightTime <= 0, !0);
                 var o = this.service.getValue(t.AttrConst.daily_state);
                 this.numDiff = 255 & o,
                 this.initBtnClose("six_realms_god_king_hall_challenge_panel_txttitle" + this.numDiff + "_png", this,

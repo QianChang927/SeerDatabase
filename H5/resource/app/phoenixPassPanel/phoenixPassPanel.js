@@ -1911,9 +1911,9 @@ generateEUI.paths["resource/eui_skins/PhoenixPassPanelSkin.exml"] = window.Phoen
     },
     n._Image1_i = function() {
         var e = new eui.Image;
-        return e.source = "phoenix_pass_panel_pet1_png",
+        return e.right = -60,
+        e.source = "phoenix_pass_panel_pet1_png",
         e.visible = !0,
-        e.x = 344,
         e.y = 0,
         e
     },
@@ -1937,8 +1937,8 @@ generateEUI.paths["resource/eui_skins/PhoenixPassPanelSkin.exml"] = window.Phoen
     n.imaTitle_i = function() {
         var e = new eui.Image;
         return this.imaTitle = e,
+        e.right = 1,
         e.source = "phoenix_pass_panel_imatitle_png",
-        e.x = 970,
         e.y = 95,
         e
     },

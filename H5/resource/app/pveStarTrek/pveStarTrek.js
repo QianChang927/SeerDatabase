@@ -20,6 +20,7 @@ function(t) {
             var t = e.call(this) || this;
             return t.arrItem = [1400153, 1400152],
             t.skinName = "StarTrekMainPanelSkin",
+            t.grpStatic.cacheAsBitmap = !0,
             t
         }
         return __extends(i, e),
@@ -113,7 +114,11 @@ function(t) {
             this)
         },
         i.prototype.destroy = function() {
-            this.service.unregisterItems(this),
+            this.service.unregisterItems(this);
+            for (var t = 0; t < this.groupAward.numChildren; t++) {
+                var i = this.groupAward.getChildAt(t);
+                i.destroy()
+            }
             e.prototype.destroy.call(this)
         },
         i.prototype.update = function() {
@@ -121,7 +126,11 @@ function(t) {
             this.txtTimes.text = 2 - this.service.getValue(20340) + "",
             this.btnReset.visible = this.btnContinue.visible = this.service.getValue(20341) > 0,
             this.btnStart.visible = 0 == this.service.getValue(20341) && this.service.getValue(20340) < 2,
-            this.imgFinish.visible = 0 == this.service.getValue(20341) && 2 == this.service.getValue(20340)
+            this.imgFinish.visible = 0 == this.service.getValue(20341) && 2 == this.service.getValue(20340);
+            for (var t = 0; t < this.groupAward.numChildren; t++) {
+                var e = this.groupAward.getChildAt(t);
+                e.resetButton()
+            }
         },
         i
     } (BasicPanel);
@@ -198,6 +207,7 @@ function(t) {
         function i() {
             var t = e.call(this) || this;
             return t.skinName = "PveStarTrekAwardItemSkin",
+            t.cacheAsBitmap = !0,
             t
         }
         return __extends(i, e),
@@ -211,12 +221,17 @@ function(t) {
             e.maskShapeStyle.maskAlpha = .8,
             PopViewManager.getInstance().openView(new t.BuffPop(this.info), e)
         },
-        i.prototype.destroy = function() {},
+        i.prototype.destroy = function() {
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onClick, this),
+            e.prototype.destroy.call(this)
+        },
         i.prototype.setRank = function(t) {
             1 == t ? (this.txtRank.text = "高级", this.txtRank.textColor = this.txtName.textColor = 7331839, this.imgRank.source = "pve_star_trek_award_pop_imglevel1bg_png") : 2 == t ? (this.txtRank.text = "稀有", this.txtRank.textColor = this.txtName.textColor = 16735194, this.imgRank.source = "pve_star_trek_award_pop_imglevel2bg_png") : 3 == t && (this.txtRank.text = "传奇", this.txtRank.textColor = this.txtName.textColor = 16765733, this.imgRank.source = "pve_star_trek_award_pop_imglevel3bg_png")
         },
         i.prototype.setInfo = function(t, e) {
             this.info = t,
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onClick, this),
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onClick, this),
             this.txtName.text = t.BuffName,
             this.imgIcon.source = "resource/assets/starTrek/buff/" + t.BuffId + ".png",
             this.setRank(t.BuffPondID);
@@ -228,7 +243,7 @@ function(t) {
             this.txtDes.text = i
         },
         i
-    } (eui.Component);
+    } (BaseItemRenderer);
     t.AwardPopAwardBagItem = e,
     __reflect(e.prototype, "pveStarTrek.AwardPopAwardBagItem")
 } (pveStarTrek || (pveStarTrek = {}));
@@ -253,6 +268,7 @@ function(t) {
         function i() {
             var t = e.call(this) || this;
             return t.skinName = "PveStarTrekAwardItemSkin",
+            t.cacheAsBitmap = !0,
             t
         }
         return __extends(i, e),
@@ -261,7 +277,8 @@ function(t) {
             this.btnSelect.visible = t
         },
         i.prototype.destroy = function() {
-            ImageButtonUtil.removeAll(this)
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTap, this),
+            e.prototype.destroy.call(this)
         },
         i.prototype.setRank = function(t) {
             1 == t ? (this.txtRank.text = "高级", this.txtRank.textColor = this.txtName.textColor = 7331839, this.imgRank.source = "pve_star_trek_award_pop_imglevel1bg_png") : 2 == t ? (this.txtRank.text = "稀有", this.txtRank.textColor = this.txtName.textColor = 16735194, this.imgRank.source = "pve_star_trek_award_pop_imglevel2bg_png") : 3 == t && (this.txtRank.text = "传奇", this.txtRank.textColor = this.txtName.textColor = 16765733, this.imgRank.source = "pve_star_trek_award_pop_imglevel3bg_png")
@@ -270,11 +287,7 @@ function(t) {
             void 0 === i && (i = !1),
             this.buffId = e.BuffId,
             this.setSelected(i),
-            this.addEventListener(egret.TouchEvent.TOUCH_TAP,
-            function() {
-                EventManager.dispatchEventWith(t.EventConst.SELECT_BUFF, !1, e.BuffId)
-            },
-            this),
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTap, this),
             ImageButtonUtil.add(this.btnSelect,
             function() {
                 EventManager.dispatchEventWith(t.EventConst.AFTER_SELECT_BUFF, !1, e.BuffId)
@@ -290,8 +303,11 @@ function(t) {
             }
             this.txtDes.text = n
         },
+        i.prototype.onTap = function() {
+            EventManager.dispatchEventWith(t.EventConst.SELECT_BUFF, !1, this.buffId)
+        },
         i
-    } (eui.Component);
+    } (BaseItemRenderer);
     t.AwardPopAwardItem = e,
     __reflect(e.prototype, "pveStarTrek.AwardPopAwardItem")
 } (pveStarTrek || (pveStarTrek = {}));
@@ -320,31 +336,23 @@ function(t) {
         }
         return __extends(i, e),
         i.prototype.childrenCreated = function() {
-            var e = this;
-            this.cacheAsBitmap = !0,
-            this.addEventListener(egret.Event.ADDED_TO_STAGE,
-            function() {
-                ImageButtonUtil.add(e.imgBlock,
-                function() {
-                    EventManager.dispatchEventWith(t.EventConst.CLICK_BLOCK, !1, e.index)
-                },
-                e, !1, !1)
-            },
-            this),
-            this.addEventListener(egret.Event.REMOVED_FROM_STAGE,
-            function() {
-                ImageButtonUtil.removeAll(e)
-            },
-            this)
+            this.cacheAsBitmap = !0
         },
-        i.prototype.setBlockInfo = function(t, e, i, n, r) {
-            this.index = t,
-            this.state = i,
-            this.isVisible = e,
-            e ? 1 == i ? (this.imgIcon.visible = n, this.imgBlock.source = "pve_star_trek_block_item_imgblock2_png", n && (this.imgIcon.source = "pve_star_trek_block_item_xjgk_png")) : (this.imgIcon.visible = !0, this.imgBlock.source = "pve_star_trek_block_item_imgblock3_png", 2 == i ? this.imgIcon.source = "pve_star_trek_block_item_hfjn_png": i >= 21 && 25 >= i ? this.imgIcon.source = "pve_star_trek_block_item_xjgk_png": i > 100 && (this.imgIcon.source = "pve_star_trek_block_item_" + ["pt", "jy", "lz"][r] + "hd_png")) : (this.imgIcon.visible = !1, this.imgBlock.source = "pve_star_trek_block_item_imgblock1_png")
+        i.prototype.setBlockInfo = function(e, i, n, r, o) {
+            var a = this;
+            this.index = e,
+            this.state = n,
+            this.isVisible = i,
+            i ? 1 == n ? (this.imgIcon.visible = r, this.imgBlock.source = "pve_star_trek_block_item_imgblock2_png", r && (this.imgIcon.source = "pve_star_trek_block_item_xjgk_png")) : (this.imgIcon.visible = !0, this.imgBlock.source = "pve_star_trek_block_item_imgblock3_png", 2 == n ? this.imgIcon.source = "pve_star_trek_block_item_hfjn_png": n >= 21 && 25 >= n ? this.imgIcon.source = "pve_star_trek_block_item_xjgk_png": n > 100 && (this.imgIcon.source = "pve_star_trek_block_item_" + ["pt", "jy", "lz"][o] + "hd_png")) : (this.imgIcon.visible = !1, this.imgBlock.source = "pve_star_trek_block_item_imgblock1_png"),
+            ImageButtonUtil.remove(this.imgBlock),
+            ImageButtonUtil.add(this.imgBlock,
+            function() {
+                EventManager.dispatchEventWith(t.EventConst.CLICK_BLOCK, !1, a.index)
+            },
+            this, !1, !1)
         },
         i
-    } (eui.Component);
+    } (BaseItemRenderer);
     t.ChallengePanelBlockItem = e,
     __reflect(e.prototype, "pveStarTrek.ChallengePanelBlockItem")
 } (pveStarTrek || (pveStarTrek = {}));
@@ -405,35 +413,31 @@ function(t) {
         function e() {
             var e = t.call(this) || this;
             return e.skinName = "PveStarTrekMainPanelAwardItemSkin",
+            e.cacheAsBitmap = !0,
             e
         }
         return __extends(e, t),
         e.prototype.childrenCreated = function() {
-            var t = this;
-            this.addEventListener(egret.Event.ADDED_TO_STAGE,
-            function() {
-                ImageButtonUtil.add(t.imgIcon,
-                function() {
-                    tipsPop.TipsPop.openItemPop({
-                        id: t.id
-                    })
-                },
-                t)
-            },
-            this),
-            this.addEventListener(egret.Event.REMOVED_FROM_STAGE,
-            function() {
-                ImageButtonUtil.removeAll(t)
-            },
-            this)
+            t.prototype.childrenCreated.call(this)
         },
         e.prototype.setItemInfo = function(t, e) {
             this.id = t,
             this.imgIcon.source = ClientConfig.getItemIcon(t),
             this.txtNum.text = e + ""
         },
+        e.prototype.resetButton = function() {
+            var t = this;
+            ImageButtonUtil.remove(this.imgIcon),
+            ImageButtonUtil.add(this.imgIcon,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: t.id
+                })
+            },
+            this)
+        },
         e
-    } (eui.Component);
+    } (BaseItemRenderer);
     t.MainPanelAwardItem = e,
     __reflect(e.prototype, "pveStarTrek.MainPanelAwardItem")
 } (pveStarTrek || (pveStarTrek = {}));
@@ -458,6 +462,7 @@ function(t) {
         function i() {
             var t = e.call(this) || this;
             return t.skinName = "PveStarTrekMallItemSkin",
+            t.cacheAsBitmap = !0,
             t
         }
         return __extends(i, e),
@@ -471,15 +476,16 @@ function(t) {
             this.txtCoin.text = t.GoodsPrice + "",
             this.txtNum.text = "",
             this.imgLook.visible = 2 == t.GoodsType,
-            1 == t.GoodsType ? this.imgIcon.source = "pve_star_trek_award_pop_imglevel" + t.GoodsBuffType + "_png": 2 == t.GoodsType ? this.imgIcon.source = ClientConfig.getPetHeadPath( + t.PetID) : 3 == t.GoodsType ? (this.imgIcon.source = ClientConfig.getItemIcon(t.rewardinfo.split("_")[1]), this.txtNum.text = t.rewardinfo.split("_")[2]) : 4 == t.GoodsType && (this.imgIcon.source = "pve_star_trek_mall_pop_imgcure_png")
+            1 == t.GoodsType ? this.imgIcon.source = "pve_star_trek_award_pop_imglevel" + t.GoodsBuffType + "_png": 2 == t.GoodsType ? this.imgIcon.source = ClientConfig.getPetHeadPath( + t.PetID) : 3 == t.GoodsType ? (this.imgIcon.source = ClientConfig.getItemIcon(t.rewardinfo.split("_")[1]), this.txtNum.text = t.rewardinfo.split("_")[2]) : 4 == t.GoodsType && (this.imgIcon.source = "pve_star_trek_mall_pop_imgcure_png"),
+            this.manageEvents()
         },
         i.prototype.childrenCreated = function() {
+            this.manageEvents()
+        },
+        i.prototype.manageEvents = function() {
             var e = this;
-            this.addEventListener(egret.Event.REMOVED_FROM_STAGE,
-            function() {
-                ImageButtonUtil.removeAll(e)
-            },
-            this),
+            ImageButtonUtil.remove(this.btnBuy),
+            ImageButtonUtil.remove(this.imgIcon),
             ImageButtonUtil.add(this.btnBuy,
             function() {
                 e.curCoin < e.info.GoodsPrice ? BubblerManager.getInstance().showText("道具数量不足") : SocketConnection.sendByQueue(42395, [114, 14, e.index, 0],
@@ -499,7 +505,7 @@ function(t) {
             this, !1, !1)
         },
         i
-    } (eui.Component);
+    } (BaseItemRenderer);
     t.MallItem = e,
     __reflect(e.prototype, "pveStarTrek.MallItem")
 } (pveStarTrek || (pveStarTrek = {}));
@@ -524,6 +530,7 @@ function(t) {
         function i() {
             var t = e.call(this) || this;
             return t.skinName = "PveStarTrekPetItemSkin",
+            t.cacheAsBitmap = !0,
             t
         }
         return __extends(i, e),
@@ -539,20 +546,7 @@ function(t) {
             configurable: !0
         }),
         i.prototype.childrenCreated = function() {
-            var e = this;
-            this.canClick = !0,
-            this.addEventListener(egret.TouchEvent.TOUCH_TAP,
-            function() {
-                if (e.petInfo && e.canClick) if (e.type <= 2) {
-                    var i = PopViewManager.createDefaultStyleObject();
-                    i.maskShapeStyle.maskAlpha = .75,
-                    PopViewManager.getInstance().openView(new t.PetPop(e.petInfo, e.type, e), i)
-                } else e.type >= 3 && EventManager.dispatchEventWith(t.EventConst.SELECT_PET, !1, {
-                    index: e.index,
-                    type: e.type
-                })
-            },
-            this)
+            this.canClick = !0
         },
         i.prototype.setPetInfo = function(t, e, i) {
             if (void 0 === i && (i = !1), this.isFirst = i, this.imgFirst.visible = i && !!e, this.imgSelect.visible = !1, this.type = t, 2 == t ? (this.height = this.imgBG.height = 136, this.txtName.visible = !0) : (this.height = this.imgBG.height = 111, this.txtName.visible = !1, 1 != t && (this.scaleX = this.scaleY = .8)), "number" == typeof e) if (0 == e) this.imgHead.source = "",
@@ -574,10 +568,26 @@ function(t) {
             } else this.petInfo = e,
             this.txtLv.text = "LV." + e.level,
             this.txtName.text = PetXMLInfo.getName(e.id),
-            this.imgHead.source = ClientConfig.getPetHeadPath(e.id, e.catchTime, e.skinId)
+            this.imgHead.source = ClientConfig.getPetHeadPath(e.id, e.catchTime, e.skinId);
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTap, this),
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTap, this)
+        },
+        i.prototype.onTap = function() {
+            if (this.petInfo && this.canClick) if (this.type <= 2) {
+                var e = PopViewManager.createDefaultStyleObject();
+                e.maskShapeStyle.maskAlpha = .75,
+                PopViewManager.getInstance().openView(new t.PetPop(this.petInfo, this.type, this), e)
+            } else this.type >= 3 && EventManager.dispatchEventWith(t.EventConst.SELECT_PET, !1, {
+                index: this.index,
+                type: this.type
+            })
+        },
+        i.prototype.destroy = function() {
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTap, this),
+            e.prototype.destroy.call(this)
         },
         i
-    } (eui.Component);
+    } (BaseItemRenderer);
     t.PveStarTrekPetItem = e,
     __reflect(e.prototype, "pveStarTrek.PveStarTrekPetItem")
 } (pveStarTrek || (pveStarTrek = {}));
@@ -613,8 +623,7 @@ function(t) {
         return __extends(i, e),
         i.prototype.childrenCreated = function() {
             var e = this;
-            this.cacheAsBitmap = !0,
-            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this);
+            this.cacheAsBitmap = !0;
             var i;
             if (4 == SkillXMLInfo.getCategory(this.skillInfo.id)) i = ClientConfig.getpettypeticon("prop");
             else {
@@ -651,12 +660,8 @@ function(t) {
             },
             this)
         },
-        i.prototype.destroy = function() {
-            EventManager.removeAll(this),
-            ImageButtonUtil.removeAll(this)
-        },
         i
-    } (eui.Component);
+    } (BaseItemRenderer);
     t.SkillItem = e,
     __reflect(e.prototype, "pveStarTrek.SkillItem")
 } (pveStarTrek || (pveStarTrek = {}));
@@ -806,7 +811,8 @@ function(t) {
             this.addEvent()
         },
         i.prototype.destroy = function() {
-            i.hasInit = !1,
+            i.hasInit = !1;
+            for (var t = 1; 24 >= t; ++t) this["block" + t].destroy();
             e.prototype.destroy.call(this)
         },
         i.prototype.addEvent = function() {
@@ -1117,6 +1123,9 @@ function(t) {
         },
         i.prototype.destroy = function() {
             this.menu && this.menu.destroy(),
+            this.txtSearch.removeEventListener(egret.Event.CHANGE, this.onSearchChange, this),
+            this.rb1.group.removeEventListener(egret.Event.CHANGE, this.onRb1Change, this),
+            this.rb_id_sort_down.group.removeEventListener(egret.Event.CHANGE, this.onRbgChange, this),
             e.prototype.destroy.call(this)
         },
         i.prototype.childrenCreated = function() {
@@ -1153,7 +1162,6 @@ function(t) {
             EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + i, this.onChangeTab, this)
         },
         i.prototype.addEvent = function() {
-            var e = this;
             ImageButtonUtil.add(this.btnStart, this.start, this),
             ImageButtonUtil.add(this.btnOneKeyUp, this.oneKeyUp, this),
             ImageButtonUtil.add(this.btnOneKeyDown, this.oneKeyDown, this),
@@ -1162,26 +1170,22 @@ function(t) {
             ImageButtonUtil.add(this.sortMask, this.hideSort, this),
             EventManager.addEventListener(t.EventConst.CHOOSE_PET_UP, this.onPetUp, this),
             EventManager.addEventListener(t.EventConst.CHOOSE_PET_DOWN, this.onPetDown, this),
-            this.txtSearch.addEventListener(egret.Event.CHANGE,
-            function() {
-                e.updateList(e.menu.selectedValue)
-            },
-            this),
-            this.rb1.group.addEventListener(egret.Event.CHANGE,
-            function() {
-                var t = e.rb1.group.selectedValue;
-                e.setPetBagIndex(t)
-            },
-            this);
-            var i = this.rb_id_sort_down.group;
-            i.addEventListener(egret.Event.CHANGE,
-            function() {
-                egret.localStorage.setItem("warehouse_sortId_order_" + MainManager.actorID, i.selectedValue),
-                e.hideSort(),
-                e.updateSort(),
-                e.updateList(e.menu.selectedValue)
-            },
-            this)
+            this.txtSearch.addEventListener(egret.Event.CHANGE, this.onSearchChange, this),
+            this.rb1.group.addEventListener(egret.Event.CHANGE, this.onRb1Change, this),
+            this.rb_id_sort_down.group.addEventListener(egret.Event.CHANGE, this.onRbgChange, this)
+        },
+        i.prototype.onRbgChange = function() {
+            egret.localStorage.setItem("warehouse_sortId_order_" + MainManager.actorID, this.rb_id_sort_down.group.selectedValue),
+            this.hideSort(),
+            this.updateSort(),
+            this.updateList(this.menu.selectedValue)
+        },
+        i.prototype.onRb1Change = function() {
+            var t = this.rb1.group.selectedValue;
+            this.setPetBagIndex(t)
+        },
+        i.prototype.onSearchChange = function() {
+            this.updateList(this.menu.selectedValue)
         },
         i.prototype.showAttr = function() {
             var t = this,
@@ -1239,18 +1243,18 @@ function(t) {
             this.upItemMap = [],
             this.bagItemMap = [];
             for (var e = 1; 6 >= e; e++) {
-                var p = new t.PveStarTrekPetItem;
-                this.upItemMap[e] = p,
-                this.groupUp.addChild(p),
-                p.setPetInfo(2, 0),
-                p = new t.PveStarTrekPetItem,
-                this.bagItemMap[e] = p,
-                this.groupBag1.addChild(p),
-                p.setPetInfo(1, 0),
-                p = new t.PveStarTrekPetItem,
-                this.bagItemMap[e + 6] = p,
-                this.groupBag2.addChild(p),
-                p.setPetInfo(1, 0)
+                var h = new t.PveStarTrekPetItem;
+                this.upItemMap[e] = h,
+                this.groupUp.addChild(h),
+                h.setPetInfo(2, 0),
+                h = new t.PveStarTrekPetItem,
+                this.bagItemMap[e] = h,
+                this.groupBag1.addChild(h),
+                h.setPetInfo(1, 0),
+                h = new t.PveStarTrekPetItem,
+                this.bagItemMap[e + 6] = h,
+                this.groupBag2.addChild(h),
+                h.setPetInfo(1, 0)
             }
         },
         i.prototype.setPetBagIndex = function(t) {
@@ -1592,6 +1596,7 @@ function(t) {
             void 0 === o && (o = !1);
             var a = e.call(this) || this;
             return a.skinName = "PveStarTrekChallengePopSkin",
+            a.cacheAsBitmap = !0,
             a.to = r,
             a.level = t,
             a.arrBoss = i,
@@ -1619,7 +1624,8 @@ function(t) {
                 var s = a[o],
                 r = new t.MainPanelAwardItem;
                 this.groupAward.addChild(r),
-                r.setItemInfo(s[1], s[2])
+                r.setItemInfo(s[1], s[2]),
+                r.resetButton()
             }
             this.txt.text = ["普通", "精英", "领主"][this.level] + "海盗",
             this.btnChallenge.visible = !this.isLookOver
@@ -1999,7 +2005,7 @@ function(t) {
         i.prototype.init = function() {
             return __awaiter(this, void 0, void 0,
             function() {
-                var e, i, n, r, o, a, s, _, u, l, p, h, c, g, f, o, m, v = this;
+                var e, i, n, r, o, a, s, _, u, l, h, p, c, g, f, o, m, v = this;
                 return __generator(this,
                 function(d) {
                     switch (d.label) {
@@ -2026,10 +2032,10 @@ function(t) {
                                 id: v.petInfo.hideSKill.id
                             })
                         },
-                        this, !1, !1), ImageButtonUtil.add(this.btnChange, this.showGroupFifthSkill, this)), this.btnChange.visible = !1, _ = PetXMLInfo.getAdditionFifthSkill(this.petInfo.id), _.length > 0 && this.petInfo.hideSKill && (this.btnChange.visible = !0), u = 0, l = this.petInfo.skillArray; u < l.length; u++) p = l[u],
-                        p.petInfo = this.petInfo,
-                        this.groupSkillItem.addChild(new t.SkillItem(p, !0));
-                        if (EventManager.addEventListener(t.EventConst.START_CHANGE_SKILL, this.showGroupSkill, this), UICjsUtil.init(), UICjsUtil.start(), UICjsUtil.setContainer(this.groupPetAni), h = this.petInfo.id, this.petInfo.skinId > 0 && (h = PetSkinXMLInfo.getSkinInfo(this.petInfo.skinId).skinPetId), UICjsUtil.GetShowPetMovieClip(h).then(function(t) {
+                        this, !1, !1), ImageButtonUtil.add(this.btnChange, this.showGroupFifthSkill, this)), this.btnChange.visible = !1, _ = PetXMLInfo.getAdditionFifthSkill(this.petInfo.id), _.length > 0 && this.petInfo.hideSKill && (this.btnChange.visible = !0), u = 0, l = this.petInfo.skillArray; u < l.length; u++) h = l[u],
+                        h.petInfo = this.petInfo,
+                        this.groupSkillItem.addChild(new t.SkillItem(h, !0));
+                        if (EventManager.addEventListener(t.EventConst.START_CHANGE_SKILL, this.showGroupSkill, this), UICjsUtil.init(), UICjsUtil.start(), UICjsUtil.setContainer(this.groupPetAni), p = this.petInfo.id, this.petInfo.skinId > 0 && (p = PetSkinXMLInfo.getSkinInfo(this.petInfo.skinId).skinPetId), UICjsUtil.GetShowPetMovieClip(p).then(function(t) {
                             UICjsUtil.showAnimate(t);
                             var e = PetXMLInfo.getPetOffset(v.petInfo.id);
                             t && (t.regX = e.x, t.regY = e.y),
@@ -2173,6 +2179,9 @@ function(t) {
         function i(t) {
             var i = e.call(this) || this;
             return i.skinName = "PveStarTrekPreparePopSkin",
+            i.groupRight.cacheAsBitmap = !0,
+            i.grpStatic.cacheAsBitmap = !0,
+            i.group1.cacheAsBitmap = !0,
             i.to = t,
             i
         }
@@ -2216,9 +2225,9 @@ function(t) {
                     },
                     e, 0) : e.autoPetUp(n))
                 },
-                l = 0, p = o; l < p.length; l++) {
-                    var h = p[l];
-                    u(h)
+                l = 0, h = o; l < h.length; l++) {
+                    var p = h[l];
+                    u(p)
                 }
             });
             for (var i = 0; 6 > i; i++) {
@@ -2278,25 +2287,25 @@ function(t) {
                     s.imgSelect.visible = !1
                 }
             }
-            var p = i.petInfo,
-            h = (2147483647 & p.catchTime) <= 1e3;
+            var h = i.petInfo,
+            p = (2147483647 & h.catchTime) <= 1e3;
             this.curPetItem = i,
-            this.imgHead.source = ClientConfig.getPetHeadPath(p.id, p.catchTime, p.skinId),
-            this.txtLVName.text = "LV." + p.level + " " + (p.name + (h ? "（援）": "")),
-            this.txtHP.text = "HP:" + p.hp + "/" + p.maxHp,
-            this.progressHP.value = p.hp / p.maxHp * 100,
-            this.imgLook.visible = h,
-            this.txtAttack.text = p.attack + "",
-            this.txtSpeed.text = p.speed + "",
-            this.txtDefence.text = p.defence + "",
-            this.txtSAttack.text = p.s_a + "",
-            this.txtHp.text = p.maxHp + "",
-            this.txtSDefence.text = p.s_d + "",
+            this.imgHead.source = ClientConfig.getPetHeadPath(h.id, h.catchTime, h.skinId),
+            this.txtLVName.text = "LV." + h.level + " " + (h.name + (p ? "（援）": "")),
+            this.txtHP.text = "HP:" + h.hp + "/" + h.maxHp,
+            this.progressHP.value = h.hp / h.maxHp * 100,
+            this.imgLook.visible = p,
+            this.txtAttack.text = h.attack + "",
+            this.txtSpeed.text = h.speed + "",
+            this.txtDefence.text = h.defence + "",
+            this.txtSAttack.text = h.s_a + "",
+            this.txtHp.text = h.maxHp + "",
+            this.txtSDefence.text = h.s_d + "",
             this.groupSkillItem.removeChildren();
             for (var c = 0,
-            g = p.skillArray; c < g.length; c++) {
+            g = h.skillArray; c < g.length; c++) {
                 var f = g[c];
-                f.petInfo = p;
+                f.petInfo = h;
                 var s = new t.SkillItem(f);
                 this.groupSkillItem.addChild(s),
                 s.group.height = 55,
@@ -2305,20 +2314,20 @@ function(t) {
                 s.txtName.y = 5,
                 s.txt.y = 33
             }
-            if (this.groupFifthSkill.visible = !!p.hideSKill, p.hideSKill) {
+            if (this.groupFifthSkill.visible = !!h.hideSKill, h.hideSKill) {
                 var m = void 0;
-                if (4 == SkillXMLInfo.getCategory(p.hideSKill.id)) m = ClientConfig.getpettypeticon("prop");
+                if (4 == SkillXMLInfo.getCategory(h.hideSKill.id)) m = ClientConfig.getpettypeticon("prop");
                 else {
-                    var v = SkillXMLInfo.getTypeID(p.hideSKill.id);
+                    var v = SkillXMLInfo.getTypeID(h.hideSKill.id);
                     m = ClientConfig.getpettypeticon(v + "")
                 }
                 this.imgFifthProp.source = m,
-                this.txtFifthSkillName.text = p.hideSKill.name,
-                this.txtFifthSkill.text = "威力:" + p.hideSKill.damage + "    PP:" + p.hideSKill.pp + "/" + p.hideSKill.maxPP,
+                this.txtFifthSkillName.text = h.hideSKill.name,
+                this.txtFifthSkill.text = "威力:" + h.hideSKill.damage + "    PP:" + h.hideSKill.pp + "/" + h.hideSKill.maxPP,
                 ImageButtonUtil.add(this.groupFifthSkill,
                 function() {
                     tipsPop.TipsPop.openSkillPop({
-                        id: p.hideSKill.id
+                        id: h.hideSKill.id
                     })
                 },
                 this, !1, !1)
@@ -2388,7 +2397,7 @@ function(t) {
             }
         },
         i.prototype.onPetFirst = function() {
-            if (this.curPetItem && void 0 != this.curPetItem.index && this.curPetItem.parent == this.group1) {
+            if (this.curPetItem && !this.curPetItem.isFirst && void 0 != this.curPetItem.index && this.curPetItem.parent == this.group1) {
                 var t = this.group1.getChildAt(0),
                 e = [t.petInfo, t.index],
                 i = e[0],
@@ -3339,10 +3348,10 @@ generateEUI.paths["resource/eui_skins/panel/PveStarTrekChallengePanelSkin.exml"]
 generateEUI.paths["resource/eui_skins/panel/StarTrekMainPanelSkin.exml"] = window.StarTrekMainPanelSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["imgToggle1Off", "imgToggle1On", "imgItem1", "imgItem3", "txtItem1", "txtItem3", "imgToggle2Off", "imgToggle2On", "imgItem2", "txtItem2", "btnStart", "btnContinue", "btnReset", "imgFinish", "txtTimes", "groupAward"],
+        this.skinParts = ["imgToggle1Off", "imgToggle1On", "imgItem1", "imgItem3", "txtItem1", "txtItem3", "imgToggle2Off", "imgToggle2On", "imgItem2", "txtItem2", "btnStart", "btnContinue", "btnReset", "imgFinish", "txtTimes", "groupAward", "grpStatic"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this._Image1_i(), this._Group1_i(), this._Group2_i(), this._Image5_i(), this._Group3_i(), this._Group4_i(), this.groupAward_i()]
+        this.elementsContent = [this._Image1_i(), this.grpStatic_i()]
     }
     __extends(e, t);
     var i = e.prototype;
@@ -3355,11 +3364,24 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekMainPanelSkin.exml"] = windo
         t.top = 0,
         t
     },
+    i.grpStatic_i = function() {
+        var t = new eui.Group;
+        return this.grpStatic = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.top = 0,
+        t.elementsContent = [this._Group1_i(), this._Group2_i(), this._Image5_i(), this._Group3_i(), this._Group4_i(), this.groupAward_i()],
+        t
+    },
     i._Group1_i = function() {
         var t = new eui.Group;
         return t.right = -26,
+        t.scaleX = 1,
+        t.scaleY = 1,
         t.visible = !0,
-        t.y = 12,
+        t.x = 996,
+        t.y = 11.999999999999986,
         t.elementsContent = [this._Image2_i(), this._Image3_i(), this.imgToggle1Off_i(), this.imgToggle1On_i(), this.imgItem1_i(), this.imgItem3_i(), this.txtItem1_i(), this.txtItem3_i()],
         t
     },
@@ -3438,8 +3460,11 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekMainPanelSkin.exml"] = windo
     i._Group2_i = function() {
         var t = new eui.Group;
         return t.right = 334,
+        t.scaleX = 1,
+        t.scaleY = 1,
         t.visible = !1,
-        t.y = 12,
+        t.x = 637,
+        t.y = 11.999999999999986,
         t.elementsContent = [this._Image4_i(), this.imgToggle2Off_i(), this.imgToggle2On_i(), this.imgItem2_i(), this.txtItem2_i()],
         t
     },
@@ -3488,16 +3513,21 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekMainPanelSkin.exml"] = windo
     },
     i._Image5_i = function() {
         var t = new eui.Image;
-        return t.source = "star_trek_main_panel_imgaward_png",
+        return t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "star_trek_main_panel_imgaward_png",
         t.x = 1,
-        t.y = 510,
+        t.y = 509.99999999999994,
         t
     },
     i._Group3_i = function() {
         var t = new eui.Group;
         return t.horizontalCenter = 0,
+        t.scaleX = 1,
+        t.scaleY = 1,
         t.width = 323,
-        t.y = 239,
+        t.x = 407,
+        t.y = 239.00000000000006,
         t.elementsContent = [this.btnStart_i(), this.btnContinue_i(), this.btnReset_i(), this.imgFinish_i()],
         t
     },
@@ -3540,6 +3570,9 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekMainPanelSkin.exml"] = windo
     i._Group4_i = function() {
         var t = new eui.Group;
         return t.right = 41,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.x = 905,
         t.y = 591,
         t.elementsContent = [this._Label1_i(), this.txtTimes_i()],
         t
@@ -3569,6 +3602,8 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekMainPanelSkin.exml"] = windo
     i.groupAward_i = function() {
         var t = new eui.Group;
         return this.groupAward = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
         t.x = 36,
         t.y = 550,
         t.layout = this._HorizontalLayout1_i(),
@@ -3753,7 +3788,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         },
         e
     } (eui.Skin),
-    p = function(t) {
+    h = function(t) {
         function e() {
             t.call(this),
             this.skinParts = [],
@@ -3769,8 +3804,8 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         },
         e
     } (eui.Skin),
-    h = e.prototype;
-    return h._Image1_i = function() {
+    p = e.prototype;
+    return p._Image1_i = function() {
         var t = new eui.Image;
         return t.bottom = 0,
         t.left = 0,
@@ -3780,21 +3815,21 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.visible = !0,
         t
     },
-    h.groupMenu_i = function() {
+    p.groupMenu_i = function() {
         var t = new eui.Group;
         return this.groupMenu = t,
         t.y = 48,
         t
     },
-    h._Group4_i = function() {
+    p._Group4_i = function() {
         var t = new eui.Group;
         return t.height = 640,
-        t.left = 172,
+        t.left = 212,
         t.right = 29,
         t.elementsContent = [this._Group3_i()],
         t
     },
-    h._Group3_i = function() {
+    p._Group3_i = function() {
         var t = new eui.Group;
         return t.horizontalCenter = 0,
         t.scaleX = 1,
@@ -3804,21 +3839,21 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.elementsContent = [this._Image2_i(), this._Image3_i(), this.btnStart_i(), this.btnOneKeyUp_i(), this.btnOneKeyDown_i(), this._Label1_i(), this.groupUp_i(), this.groupBag_i(), this.groupWarehouse_i()],
         t
     },
-    h._Image2_i = function() {
+    p._Image2_i = function() {
         var t = new eui.Image;
         return t.source = "star_trek_prepare_panel_img1_png",
         t.x = 352,
         t.y = 172,
         t
     },
-    h._Image3_i = function() {
+    p._Image3_i = function() {
         var t = new eui.Image;
         return t.source = "star_trek_prepare_panel_img2_png",
         t.x = 506,
         t.y = 13,
         t
     },
-    h.btnStart_i = function() {
+    p.btnStart_i = function() {
         var t = new eui.Image;
         return this.btnStart = t,
         t.source = "star_trek_prepare_panel_btnstart_png",
@@ -3826,7 +3861,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 481,
         t
     },
-    h.btnOneKeyUp_i = function() {
+    p.btnOneKeyUp_i = function() {
         var t = new eui.Image;
         return this.btnOneKeyUp = t,
         t.source = "star_trek_prepare_panel_btnonekeyup_png",
@@ -3835,7 +3870,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 16,
         t
     },
-    h.btnOneKeyDown_i = function() {
+    p.btnOneKeyDown_i = function() {
         var t = new eui.Image;
         return this.btnOneKeyDown = t,
         t.source = "star_trek_prepare_panel_btnonekeydown_png",
@@ -3844,7 +3879,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 16,
         t
     },
-    h._Label1_i = function() {
+    p._Label1_i = function() {
         var t = new eui.Label;
         return t.fontFamily = "MFShangHei",
         t.size = 16,
@@ -3854,7 +3889,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 23,
         t
     },
-    h.groupUp_i = function() {
+    p.groupUp_i = function() {
         var t = new eui.Group;
         return this.groupUp = t,
         t.x = 545,
@@ -3862,14 +3897,14 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.layout = this._TileLayout1_i(),
         t
     },
-    h._TileLayout1_i = function() {
+    p._TileLayout1_i = function() {
         var t = new eui.TileLayout;
         return t.horizontalGap = 20,
         t.requestedColumnCount = 3,
         t.verticalGap = 40,
         t
     },
-    h.groupBag_i = function() {
+    p.groupBag_i = function() {
         var t = new eui.Group;
         return this.groupBag = t,
         t.visible = !0,
@@ -3878,14 +3913,14 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.elementsContent = [this._Image4_i(), this._Group1_i(), this.groupBag1_i(), this.groupBag2_i()],
         t
     },
-    h._Image4_i = function() {
+    p._Image4_i = function() {
         var t = new eui.Image;
         return t.source = "star_trek_prepare_panel_imgleftbg_png",
         t.x = 0,
         t.y = 0,
         t
     },
-    h._Group1_i = function() {
+    p._Group1_i = function() {
         var t = new eui.Group;
         return t.width = 219,
         t.x = 96,
@@ -3894,13 +3929,13 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.elementsContent = [this.rb1_i(), this.rb2_i(), this.rb3_i(), this.rb4_i()],
         t
     },
-    h._HorizontalLayout1_i = function() {
+    p._HorizontalLayout1_i = function() {
         var t = new eui.HorizontalLayout;
         return t.gap = 25,
         t.horizontalAlign = "center",
         t
     },
-    h.rb1_i = function() {
+    p.rb1_i = function() {
         var t = new eui.RadioButton;
         return this.rb1 = t,
         t.label = "1",
@@ -3911,7 +3946,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.skinName = i,
         t
     },
-    h.rb2_i = function() {
+    p.rb2_i = function() {
         var t = new eui.RadioButton;
         return this.rb2 = t,
         t.label = "2",
@@ -3922,7 +3957,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.skinName = n,
         t
     },
-    h.rb3_i = function() {
+    p.rb3_i = function() {
         var t = new eui.RadioButton;
         return this.rb3 = t,
         t.label = "3",
@@ -3933,7 +3968,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.skinName = r,
         t
     },
-    h.rb4_i = function() {
+    p.rb4_i = function() {
         var t = new eui.RadioButton;
         return this.rb4 = t,
         t.label = "4",
@@ -3944,7 +3979,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.skinName = o,
         t
     },
-    h.groupBag1_i = function() {
+    p.groupBag1_i = function() {
         var t = new eui.Group;
         return this.groupBag1 = t,
         t.x = 40,
@@ -3952,14 +3987,14 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.layout = this._TileLayout2_i(),
         t
     },
-    h._TileLayout2_i = function() {
+    p._TileLayout2_i = function() {
         var t = new eui.TileLayout;
         return t.horizontalGap = 15,
         t.requestedColumnCount = 3,
         t.verticalGap = 10,
         t
     },
-    h.groupBag2_i = function() {
+    p.groupBag2_i = function() {
         var t = new eui.Group;
         return this.groupBag2 = t,
         t.x = 40,
@@ -3967,28 +4002,28 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.layout = this._TileLayout3_i(),
         t
     },
-    h._TileLayout3_i = function() {
+    p._TileLayout3_i = function() {
         var t = new eui.TileLayout;
         return t.horizontalGap = 15,
         t.requestedColumnCount = 3,
         t.verticalGap = 10,
         t
     },
-    h.groupWarehouse_i = function() {
+    p.groupWarehouse_i = function() {
         var t = new eui.Group;
         return this.groupWarehouse = t,
         t.visible = !0,
         t.elementsContent = [this._Group2_i(), this.btnSort_i(), this.btnAttr_i(), this._Scroller1_i(), this.groupSort_i()],
         t
     },
-    h._Group2_i = function() {
+    p._Group2_i = function() {
         var t = new eui.Group;
         return t.visible = !0,
         t.x = 257,
         t.elementsContent = [this._Image5_i(), this.txtSearch_i(), this._Image6_i()],
         t
     },
-    h._Image5_i = function() {
+    p._Image5_i = function() {
         var t = new eui.Image;
         return t.height = 29,
         t.source = "common_search_bg_png",
@@ -3997,7 +4032,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 0,
         t
     },
-    h.txtSearch_i = function() {
+    p.txtSearch_i = function() {
         var t = new eui.EditableText;
         return this.txtSearch = t,
         t.fontFamily = "MFShangHei",
@@ -4010,14 +4045,14 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 7,
         t
     },
-    h._Image6_i = function() {
+    p._Image6_i = function() {
         var t = new eui.Image;
         return t.source = "title_pop_2022_btnsearch_png",
         t.x = 131,
         t.y = 0,
         t
     },
-    h.btnSort_i = function() {
+    p.btnSort_i = function() {
         var t = new eui.Group;
         return this.btnSort = t,
         t.x = 0,
@@ -4025,14 +4060,14 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.elementsContent = [this._Image7_i(), this.imgSort_i(), this.txtSort_i()],
         t
     },
-    h._Image7_i = function() {
+    p._Image7_i = function() {
         var t = new eui.Image;
         return t.source = "pve_star_trekNew_petfactor_cbg_png",
         t.x = 0,
         t.y = 0,
         t
     },
-    h.imgSort_i = function() {
+    p.imgSort_i = function() {
         var t = new eui.Image;
         return this.imgSort = t,
         t.source = "pve_star_trek_img_down_png",
@@ -4041,7 +4076,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 9,
         t
     },
-    h.txtSort_i = function() {
+    p.txtSort_i = function() {
         var t = new eui.Label;
         return this.txtSort = t,
         t.fontFamily = "MFShangHei",
@@ -4052,7 +4087,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 7,
         t
     },
-    h.btnAttr_i = function() {
+    p.btnAttr_i = function() {
         var t = new eui.Image;
         return this.btnAttr = t,
         t.source = "pve_star_treknew_btnattr_png",
@@ -4061,7 +4096,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 0,
         t
     },
-    h._Scroller1_i = function() {
+    p._Scroller1_i = function() {
         var t = new eui.Scroller;
         return t.height = 481,
         t.width = 375,
@@ -4070,20 +4105,20 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.viewport = this.list_i(),
         t
     },
-    h.list_i = function() {
+    p.list_i = function() {
         var t = new eui.List;
         return this.list = t,
         t.layout = this._TileLayout4_i(),
         t
     },
-    h._TileLayout4_i = function() {
+    p._TileLayout4_i = function() {
         var t = new eui.TileLayout;
         return t.horizontalGap = 20,
         t.requestedColumnCount = 3,
         t.verticalGap = 12,
         t
     },
-    h.groupSort_i = function() {
+    p.groupSort_i = function() {
         var t = new eui.Group;
         return this.groupSort = t,
         t.anchorOffsetX = 295,
@@ -4098,7 +4133,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.elementsContent = [this.sortMask_i(), this._Image8_i(), this.rb_id_sort_down_i(), this.rb_id_sort_up_i(), this.rb_lvl_sort_down_i(), this.rb_lvl_sort_up_i(), this.rb_tm_sort_down_i(), this.rb_tm_sort_up_i()],
         t
     },
-    h.sortMask_i = function() {
+    p.sortMask_i = function() {
         var t = new eui.Group;
         return this.sortMask = t,
         t.height = 2e3,
@@ -4108,7 +4143,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = -1e3,
         t
     },
-    h._Image8_i = function() {
+    p._Image8_i = function() {
         var t = new eui.Image;
         return t.height = 150,
         t.scale9Grid = new egret.Rectangle(2, 2, 16, 16),
@@ -4118,7 +4153,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.y = 0,
         t
     },
-    h.rb_id_sort_down_i = function() {
+    p.rb_id_sort_down_i = function() {
         var t = new eui.RadioButton;
         return this.rb_id_sort_down = t,
         t.groupName = "pveStarTrek_sortRbg",
@@ -4129,7 +4164,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.skinName = a,
         t
     },
-    h.rb_id_sort_up_i = function() {
+    p.rb_id_sort_up_i = function() {
         var t = new eui.RadioButton;
         return this.rb_id_sort_up = t,
         t.groupName = "pveStarTrek_sortRbg",
@@ -4139,7 +4174,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.skinName = s,
         t
     },
-    h.rb_lvl_sort_down_i = function() {
+    p.rb_lvl_sort_down_i = function() {
         var t = new eui.RadioButton;
         return this.rb_lvl_sort_down = t,
         t.groupName = "pveStarTrek_sortRbg",
@@ -4149,7 +4184,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.skinName = _,
         t
     },
-    h.rb_lvl_sort_up_i = function() {
+    p.rb_lvl_sort_up_i = function() {
         var t = new eui.RadioButton;
         return this.rb_lvl_sort_up = t,
         t.groupName = "pveStarTrek_sortRbg",
@@ -4159,7 +4194,7 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.skinName = u,
         t
     },
-    h.rb_tm_sort_down_i = function() {
+    p.rb_tm_sort_down_i = function() {
         var t = new eui.RadioButton;
         return this.rb_tm_sort_down = t,
         t.groupName = "pveStarTrek_sortRbg",
@@ -4169,14 +4204,14 @@ generateEUI.paths["resource/eui_skins/panel/StarTrekPreparePanelSkin.exml"] = wi
         t.skinName = l,
         t
     },
-    h.rb_tm_sort_up_i = function() {
+    p.rb_tm_sort_up_i = function() {
         var t = new eui.RadioButton;
         return this.rb_tm_sort_up = t,
         t.groupName = "pveStarTrek_sortRbg",
         t.value = "tm_up",
         t.x = 331,
         t.y = 83,
-        t.skinName = p,
+        t.skinName = h,
         t
     },
     e
@@ -5517,10 +5552,10 @@ generateEUI.paths["resource/eui_skins/pop/PveStarTrekPreparePanelPetPopSkin.exml
 generateEUI.paths["resource/eui_skins/pop/PveStarTrekPreparePopSkin.exml"] = window.PveStarTrekPreparePopSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["btnClose", "btnFight", "txtAttack", "txtSpeed", "txtDefence", "txtSAttack", "txtHp", "txtSDefence", "imgFifthProp", "txtFifthSkillName", "txtFifthSkill", "groupFifthSkill", "groupSkillItem", "btnFirst", "btnDown", "btnUp", "imgHead", "imgLook", "progressHP", "txtHP", "txtLVName", "groupRight", "group1", "group2"],
+        this.skinParts = ["txtAttack", "txtSpeed", "txtDefence", "txtSAttack", "txtHp", "txtSDefence", "imgFifthProp", "txtFifthSkillName", "txtFifthSkill", "groupFifthSkill", "groupSkillItem", "btnFirst", "btnDown", "btnUp", "imgHead", "imgLook", "progressHP", "txtHP", "txtLVName", "groupRight", "btnClose", "btnFight", "grpStatic", "group1", "group2"],
         this.height = 550,
         this.width = 1005,
-        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.btnClose_i(), this.btnFight_i(), this.groupRight_i(), this._Image8_i(), this.group1_i(), this._Scroller1_i()]
+        this.elementsContent = [this._Image1_i(), this.groupRight_i(), this.grpStatic_i(), this.group1_i(), this._Scroller1_i()]
     }
     __extends(e, t);
     var i = function(t) {
@@ -5551,44 +5586,13 @@ generateEUI.paths["resource/eui_skins/pop/PveStarTrekPreparePopSkin.exml"] = win
         t.top = 0,
         t
     },
-    n._Image2_i = function() {
-        var t = new eui.Image;
-        return t.left = 0,
-        t.right = 5,
-        t.scale9Grid = new egret.Rectangle(478, 11, 21, 12),
-        t.source = "pve_star_trek_challenge_pop_imgtitlebg_png",
-        t.y = 0,
-        t
-    },
-    n._Image3_i = function() {
-        var t = new eui.Image;
-        return t.source = "pve_star_trek_prepare_pop_imgtitle_png",
-        t.x = 41,
-        t.y = 5,
-        t
-    },
-    n.btnClose_i = function() {
-        var t = new eui.Image;
-        return this.btnClose = t,
-        t.source = "pve_star_trek_challenge_pop_btnclose_png",
-        t.x = 961,
-        t
-    },
-    n.btnFight_i = function() {
-        var t = new eui.Image;
-        return this.btnFight = t,
-        t.source = "pve_star_trek_prepare_pop_btnfight_png",
-        t.x = 436,
-        t.y = 481,
-        t
-    },
     n.groupRight_i = function() {
         var t = new eui.Group;
         return this.groupRight = t,
         t.visible = !0,
         t.x = 573,
         t.y = 82,
-        t.elementsContent = [this._Group1_i(), this.groupFifthSkill_i(), this.groupSkillItem_i(), this.btnFirst_i(), this.btnDown_i(), this.btnUp_i(), this._Image6_i(), this._Image7_i(), this.imgHead_i(), this.imgLook_i(), this.progressHP_i(), this.txtHP_i(), this.txtLVName_i()],
+        t.elementsContent = [this._Group1_i(), this.groupFifthSkill_i(), this.groupSkillItem_i(), this.btnFirst_i(), this.btnDown_i(), this.btnUp_i(), this._Image4_i(), this._Image5_i(), this.imgHead_i(), this.imgLook_i(), this.progressHP_i(), this.txtHP_i(), this.txtLVName_i()],
         t
     },
     n._Group1_i = function() {
@@ -5734,17 +5738,17 @@ generateEUI.paths["resource/eui_skins/pop/PveStarTrekPreparePopSkin.exml"] = win
         t.visible = !0,
         t.x = 10,
         t.y = 285,
-        t.elementsContent = [this._Image4_i(), this._Image5_i(), this.imgFifthProp_i(), this.txtFifthSkillName_i(), this.txtFifthSkill_i()],
+        t.elementsContent = [this._Image2_i(), this._Image3_i(), this.imgFifthProp_i(), this.txtFifthSkillName_i(), this.txtFifthSkill_i()],
         t
     },
-    n._Image4_i = function() {
+    n._Image2_i = function() {
         var t = new eui.Image;
         return t.source = "pve_star_trek_prepare_panel_pet_pop_imgskillrect_png",
         t.x = 0,
         t.y = 0,
         t
     },
-    n._Image5_i = function() {
+    n._Image3_i = function() {
         var t = new eui.Image;
         return t.source = "pve_star_trek_prepare_panel_pet_pop_juxing_910_png",
         t.x = 64,
@@ -5825,14 +5829,14 @@ generateEUI.paths["resource/eui_skins/pop/PveStarTrekPreparePopSkin.exml"] = win
         t.y = 355,
         t
     },
-    n._Image6_i = function() {
+    n._Image4_i = function() {
         var t = new eui.Image;
         return t.source = "pve_star_trek_prepare_pop_imgprogressbg_png",
         t.x = 73.744,
         t.y = 49,
         t
     },
-    n._Image7_i = function() {
+    n._Image5_i = function() {
         var t = new eui.Image;
         return t.height = 70,
         t.scale9Grid = new egret.Rectangle(37, 105, 37, 25),
@@ -5893,9 +5897,62 @@ generateEUI.paths["resource/eui_skins/pop/PveStarTrekPreparePopSkin.exml"] = win
         t.y = 1,
         t
     },
+    n.grpStatic_i = function() {
+        var t = new eui.Group;
+        return this.grpStatic = t,
+        t.height = 0,
+        t.width = 0,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image6_i(), this._Image7_i(), this.btnClose_i(), this.btnFight_i(), this._Image8_i()],
+        t
+    },
+    n._Image6_i = function() {
+        var t = new eui.Image;
+        return t.left = 0,
+        t.right = 5,
+        t.scale9Grid = new egret.Rectangle(478, 11, 21, 12),
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_star_trek_challenge_pop_imgtitlebg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Image7_i = function() {
+        var t = new eui.Image;
+        return t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_star_trek_prepare_pop_imgtitle_png",
+        t.x = 41,
+        t.y = 5,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_star_trek_challenge_pop_btnclose_png",
+        t.x = 960.9999999999998,
+        t.y = 0,
+        t
+    },
+    n.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_star_trek_prepare_pop_btnfight_png",
+        t.x = 435.99999999999994,
+        t.y = 481,
+        t
+    },
     n._Image8_i = function() {
         var t = new eui.Image;
-        return t.source = "pve_star_trek_prepare_pop_leftbg_png",
+        return t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_star_trek_prepare_pop_leftbg_png",
         t.x = 41,
         t.y = 52,
         t

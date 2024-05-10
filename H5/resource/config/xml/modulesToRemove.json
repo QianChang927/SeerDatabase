@@ -6101,11 +6101,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20220401】年费套装回归",
-                "moduleName": "app/AnnualFeePackageSalesMainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20220408】终末大天使",
                 "moduleName": "app/DaantiaoHunDunDaTianShiMainPanel",
                 "tip": "活动已结束"
@@ -7281,11 +7276,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20230512】母亲节的七彩花",
-                "moduleName": "app/MothersDayThemeMainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20230512】狄更斯雷",
                 "moduleName": "app/S33DickensThunderMainPanel",
                 "tip": "活动已结束"
@@ -7598,11 +7588,6 @@
             {
                 "name": "【20230714】环之起源",
                 "moduleName": "app/NewFormOfRingZeroMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20230714】河岸边的种植园",
-                "moduleName": "app/FireworkSF_NewMainPanel",
                 "tip": "活动已结束"
             },
             {
@@ -8126,11 +8111,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20231124】刻印回溯",
-                "moduleName": "app/MarkRecallEnterPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20231124】幕间戏剧主题皮肤",
                 "moduleName": "app/RabbitGirlSeriesSkinSalesMainPanel",
                 "tip": "活动已结束"
@@ -8651,36 +8631,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20240301】罗开的折扣商店",
-                "moduleName": "app/LuoKaiShop20220722MainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20240301】序外执行者售卖",
-                "moduleName": "app/GetSBLDAndSFKTMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20240301】能力套装特惠售卖",
-                "moduleName": "app/SuitDiscountedSalesMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20240301】十年系列刻印售卖",
-                "moduleName": "app/TenYearEngravingSalesMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20240301】元宵主题精灵输出＆集合面板",
-                "moduleName": "app/LanternFestivalThemeSpiritMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20240301】一键极品限时折扣",
-                "moduleName": "app/AkeyPriceLimitDiscount20178mPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20240301】巅峰精灵集结售卖",
                 "moduleName": "app/PeakAssemblySaleNO2MainPanel",
                 "tip": "活动已结束"
@@ -8816,6 +8766,71 @@
                 "tip": "活动已结束"
             },
             {
+                "name": "【20240426】经典刻印限时回归",
+                "moduleName": "app/MarkLimitedReturnMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240426】阿尔法熊特训",
+                "moduleName": "app/AlphaBearLimitedTimeUpMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240426】精灵王萌皮限时返场",
+                "moduleName": "app/ElvenWangMengSkinLimitedReturnMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240426】繁春絮语时",
+                "moduleName": "app/SpringTourWelfareMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240503】草系精灵王元素觉醒",
+                "moduleName": "app/AdvancedPetMainPanel_3613",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240510】英雄圣殿套装集合售卖",
+                "moduleName": "app/AnnualFeePackageSalesMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240510】圣火女神 限时降临",
+                "moduleName": "app/GetHeSiTiYaPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240510】空元行者传说皮肤",
+                "moduleName": "app/LegendOfSkywalkerSkinSalesMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240510】全新漫游者系列目镜",
+                "moduleName": "app/AbilityGlassesSellingMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240510】刻印回溯 限时开启",
+                "moduleName": "app/MarkRecallEnterPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240510】莱达神祇冠名刻印",
+                "moduleName": "app/LaiDaAnnualFeeEngravingMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240510】一键极品 限时优惠",
+                "moduleName": "app/AkeyPriceLimitDiscount20178mPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240510】罗开的折扣商店",
+                "moduleName": "app/LuoKaiShop20220722MainPanel",
+                "tip": "活动已结束"
+            },
+            {
                 "name": "赛尔竞技场",
                 "moduleName": "app/SeerPVPArenaMainPanel",
                 "tip": "活动已结束"
@@ -8916,6 +8931,9 @@
                 "tip": "活动已结束"
             }
         ],
-        "_text": " -->\r\n\t"
+        "_text": [
+            " -->\r\n\t",
+            "-->\r\n\t"
+        ]
     }
 }

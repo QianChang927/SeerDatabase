@@ -4358,7 +4358,7 @@ SkillXMLInfo = function() {
                 t.moveStoneMap[I.ID] = I
             }
             t.skillStoneXMLList = d;
-            for (var y = RES.getRes("sp_hide_moves_json"), m = [].concat(y.config.SpMoves), v = 0, T = m; v < T.length; v++) {
+            for (var y = RES.getRes("sp_hide_moves_json"), m = [].concat(y.config.SpMoves).concat(y.config.ShowMoves), v = 0, T = m; v < T.length; v++) {
                 var A = T[v];
                 0 != A.id && t.spHideMovesMap.add(A.moves, A)
             }
@@ -21135,8 +21135,6 @@ PeakJihadController = function() {
     t.achieveValue2 = 0,
     t.battleTimes = 0,
     t.wins = 0,
-    t.curSeason = 2,
-    t.curOutputSkinId = 607,
     t._openTime = "11:00-15:00和18:00-22:00",
     t.cron1 = [new CronTimeVo("*", "11-14", "*", "*", "*", "*"), new CronTimeVo("*", "18-21", "*", "*", "*", "*")],
     t
@@ -21510,9 +21508,11 @@ PeakJihadOrderManager = function() {
     t.payForeverArr = new HashMap,
     t.freeState = [],
     t.payState = [],
-    t.endTime = "2024_7_12",
     t.taskRed = !1,
     t.rewardRed = !1,
+    t.curSeason = 2,
+    t.endTime = "2024_7_12",
+    t.curOutputSkinId = 607,
     t
 } ();
 __reflect(PeakJihadOrderManager.prototype, "PeakJihadOrderManager");

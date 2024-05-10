@@ -3356,8 +3356,8 @@ generateEUI.paths["resource/eui_skins/panel/QingLongMainPanelSkin.exml"] = windo
     },
     i._Image5_i = function() {
         var e = new eui.Image;
-        return e.source = "qing_long_main_panel_imgtitle2_png",
-        e.x = 882,
+        return e.right = 65,
+        e.source = "qing_long_main_panel_imgtitle2_png",
         e.y = 115,
         e
     },

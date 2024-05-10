@@ -163,6 +163,9 @@ function(t) {
             i.MainPanelIcon = [1707511, 300874, 2300048],
             i.ease = egret.Ease.quadOut,
             i.skinName = t.MainSkin,
+            i.grp_left.cacheAsBitmap = !0,
+            i.grp_right.cacheAsBitmap = !0,
+            i.grp_top.cacheAsBitmap = !0,
             i
         }
         return __extends(i, e),
@@ -371,6 +374,7 @@ function(t) {
             EventManager.removeEventListener("AttackYinzi", this.updatePanel, this),
             EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.fightOver, this),
             EventManager.removeEventListener("showBtnStart", this.showStat, this),
+            egret.lifecycle.stage.removeEventListener(egret.Event.RESIZE, this.adaptWidth, this),
             e.prototype.destroy.call(this)
         },
         i
@@ -532,6 +536,7 @@ function(t) {
         i.prototype.destroy = function() {
             e.prototype.destroy.call(this),
             this.isEnterResult || this.mainPanel.animPlay("inSide"),
+            egret.lifecycle.stage.removeEventListener(egret.Event.RESIZE, this.adaptWidth, this),
             ImageButtonUtil.removeAll(this);
             for (var t = 0; 3 > t; t++) this.signs[t].removeEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onHeadTouchBegin, this)
         },
@@ -613,6 +618,7 @@ function(t) {
             var i = e.call(this) || this;
             return i.showPetsId = [2747, 2759, 2885, 2753, 3369],
             i.skinName = PveNinjutsuClubJieYinPopSkin,
+            i.cacheAsBitmap = !0,
             i.MainPanel = t,
             i
         }
@@ -942,6 +948,7 @@ function(t) {
         function i() {
             var t = e.call(this) || this;
             return t.skinName = NinjusuKaoHeItemSkin,
+            t.cacheAsBitmap = !0,
             t
         }
         return __extends(i, e),
@@ -2222,10 +2229,10 @@ generateEUI.paths["resource/eui_skins/pop/PveninjutsuclubPoptipsSkin.exml"] = wi
 generateEUI.paths["resource/eui_skins/PveNinjutsuClubMainSkin.exml"] = window.pveNinjutsuClub.MainSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "grpBg", "leftDi", "icon_1", "iconName_1", "iconNum_1", "icon_2", "iconName_2", "iconNum_2", "icon_3", "iconName_3", "iconNum_3", "icon_4", "iconName_4", "iconNum_4", "icons", "grp_left", "img", "rightDi", "btnKaohe", "btnSaodang", "btnStart", "btnContinue", "group_rightAni", "grp_right", "txtSignetNum", "imgItem1", "item1", "txtSignetNum3", "imgItem3", "item3", "txtTime", "item2"],
+        this.skinParts = ["bg", "grpBg", "leftDi", "icon_1", "iconName_1", "iconNum_1", "icon_2", "iconName_2", "iconNum_2", "icon_3", "iconName_3", "iconNum_3", "icon_4", "iconName_4", "iconNum_4", "icons", "grp_left", "img", "rightDi", "btnKaohe", "btnSaodang", "btnStart", "btnContinue", "group_rightAni", "grp_right", "txtSignetNum", "imgItem1", "item1", "txtSignetNum3", "imgItem3", "item3", "txtTime", "item2", "grp_top"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this.grpBg_i(), this.grp_left_i(), this.grp_right_i(), this._Group5_i()]
+        this.elementsContent = [this.grpBg_i(), this.grp_left_i(), this.grp_right_i(), this.grp_top_i()]
     }
     __extends(e, t);
     var i = e.prototype;
@@ -2552,9 +2559,10 @@ generateEUI.paths["resource/eui_skins/PveNinjutsuClubMainSkin.exml"] = window.pv
         t.y = 34,
         t
     },
-    i._Group5_i = function() {
+    i.grp_top_i = function() {
         var t = new eui.Group;
-        return t.visible = !0,
+        return this.grp_top = t,
+        t.visible = !0,
         t.x = 698,
         t.y = 11,
         t.elementsContent = [this.item1_i(), this.item3_i(), this.item2_i()],

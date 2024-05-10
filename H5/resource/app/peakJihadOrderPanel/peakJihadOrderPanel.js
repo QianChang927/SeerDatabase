@@ -615,7 +615,7 @@ function(e) {
             ImageButtonUtil.add(this.close, this.onClose, this),
             ImageButtonUtil.add(this.grp_jj_0,
             function() {
-                PetManager.showPetManualInfo(PeakJihadController.curOutputSkinId, 2),
+                PetManager.showPetManualInfo(PeakJihadOrderManager.curOutputSkinId, 2),
                 PopViewManager.getInstance().hideAll()
             },
             this),
@@ -644,7 +644,7 @@ function(e) {
             this),
             ImageButtonUtil.add(this.grp_zz_1,
             function() {
-                BubblerManager.getInstance().showText("S" + PeakJihadController.curSeason + "赛季纪念名片")
+                BubblerManager.getInstance().showText("S" + PeakJihadOrderManager.curSeason + "赛季纪念名片")
             },
             this),
             ImageButtonUtil.add(this.grp_zz_2,

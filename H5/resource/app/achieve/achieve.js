@@ -1069,49 +1069,47 @@ function(e) {
                         if (d = d ? d: {},
                         d.IsSingle) {
                             for (var y = null,
-                            x = void 0,
-                            I = 0,
-                            w = f.Rule; I < w.length; I++) {
-                                var c = w[I];
+                            x = 0,
+                            I = f.Rule; x < I.length; x++) {
+                                var c = I[x];
                                 if (!c.hide) {
                                     c.branchId = f.ID,
                                     c.branchDesc = f.Desc,
                                     c.IsSingle = f.IsSingle,
                                     c.isShowPro = f.isShowPro;
-                                    var b = AchieveManager.awardMask[c.branchId - 1],
-                                    A = !!KTool.getBit(b.award_mask, c.ID),
-                                    S = !!KTool.getBit(b.rule_mask, c.ID);
-                                    if (1 == this.filter && (!S || A)) continue;
-                                    if (2 == this.filter && (S || A)) continue;
-                                    if (3 == this.filter && !A) continue;
+                                    var w = AchieveManager.awardMask[c.branchId - 1],
+                                    b = !!KTool.getBit(w.award_mask, c.ID),
+                                    A = !!KTool.getBit(w.rule_mask, c.ID);
+                                    if (1 == this.filter && (!A || b)) continue;
+                                    if (2 == this.filter && (A || b)) continue;
+                                    if (3 == this.filter && !b) continue;
                                     if (3 == this.filter) r.push(c);
                                     else {
-                                        if (A && r.push(c), S && !A) {
+                                        if (b && r.push(c), A && !b) {
                                             o = !0,
                                             y = c;
                                             break
                                         }
-                                        y || S || (y = c)
+                                        y || A || (y = c)
                                     }
-                                    x = c
                                 }
                             }
-                            3 != this.filter && (y ? (y.isSingle = !0, r.push(y)) : x && (x.isSingle = !0, r.push(x)))
-                        } else for (var k = 0,
-                        C = f.Rule; k < C.length; k++) {
-                            var c = C[k];
+                            3 != this.filter && y && (y.isSingle = !0, r.push(y))
+                        } else for (var S = 0,
+                        k = f.Rule; S < k.length; S++) {
+                            var c = k[S];
                             if (!c.hide) {
                                 c.branchId = f.ID,
                                 c.branchDesc = f.Desc,
                                 c.IsSingle = !1,
                                 c.isShowPro = f.isShowPro;
-                                var b = AchieveManager.awardMask[c.branchId - 1],
-                                A = !!KTool.getBit(b.award_mask, c.ID),
-                                S = !!KTool.getBit(b.rule_mask, c.ID);
-                                if (1 == this.filter && (!S || A)) continue;
-                                if (2 == this.filter && (S || A)) continue;
-                                if (3 == this.filter && !A) continue;
-                                S && !A && (o = !0),
+                                var w = AchieveManager.awardMask[c.branchId - 1],
+                                b = !!KTool.getBit(w.award_mask, c.ID),
+                                A = !!KTool.getBit(w.rule_mask, c.ID);
+                                if (1 == this.filter && (!A || b)) continue;
+                                if (2 == this.filter && (A || b)) continue;
+                                if (3 == this.filter && !b) continue;
+                                A && !b && (o = !0),
                                 c.isSingle = !1,
                                 r.push(c)
                             }

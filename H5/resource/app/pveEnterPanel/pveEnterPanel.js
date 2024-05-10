@@ -5259,6 +5259,8 @@ generateEUI.paths["resource/eui_skins/panel/PveResourceTaskSkin.exml"] = window.
     function e() {
         t.call(this),
         this.skinParts = ["taskBg", "txtTitleToday", "dailyList", "btnDailyGo", "btnDailyGet", "dailyHasGot", "txtDailyTaskInfoContent", "txtDailyTaskPgs", "txtTaskInfo", "txtTaskReward", "txtTaskPgsTitle", "daily", "taskBg_2", "txtTitleWeekly", "weeklyList", "btnWeeklyGo", "btnWeeklyGet", "weeklyHasGot", "txtWeeklyTaskInfoContent", "txtWeeklyTaskPgs", "txtTaskInfo_2", "txtTaskReward_2", "txtTaskPgsTitle_2", "weekly", "content", "imgDi2", "imgDi2_2", "txtMedalNum", "txtCoinNum", "medal", "coin", "topMid"],
+        this.height = 571,
+        this.width = 1097,
         this.elementsContent = [this.content_i(), this.topMid_i()]
     }
     __extends(e, t);
@@ -5266,7 +5268,8 @@ generateEUI.paths["resource/eui_skins/panel/PveResourceTaskSkin.exml"] = window.
     return i.content_i = function() {
         var t = new eui.Group;
         return this.content = t,
-        t.x = 272,
+        t.horizontalCenter = 101.5,
+        t.width = 756,
         t.y = 94,
         t.elementsContent = [this.daily_i(), this.weekly_i()],
         t
@@ -5528,8 +5531,8 @@ generateEUI.paths["resource/eui_skins/panel/PveResourceTaskSkin.exml"] = window.
     i.topMid_i = function() {
         var t = new eui.Group;
         return this.topMid = t,
+        t.right = 0,
         t.width = 324,
-        t.x = 773,
         t.y = 11,
         t.elementsContent = [this.imgDi2_i(), this.imgDi2_2_i(), this.txtMedalNum_i(), this.txtCoinNum_i(), this.medal_i(), this.coin_i()],
         t

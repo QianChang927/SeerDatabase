@@ -1,1 +1,513 @@
-eval(function(){function Z(Z){for(N=s=0;N<Z;)t<2&&(t=64,c=92<(c="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;BL=kP<=osV[lS:A_:WlR:;M:HXn;UU^;[>`t^F=G?MUG[:@spWQbo=`VsKJoMgw=EDvHUyokPH>bDwB;UH:yqak;;F<cY=:;kn>:jC=v:<>SJDQ?sR`uJokgFDi^>eBeOQJ]BsXA]>::=CZLX[p`ZP>k_>Z=_]^<FYGMX<`[:lTjhsHZa@;;ac:HUnC^e:;mB<ya::K:;SUuz:?:j:ZZ[Z]?J:NVBP]fsLcM_VuR:<FicB:@g;`eE^DYa;zc=ZT=kQ:_:;`FogQQuZ;ybjcW<GRNtrF@_K]VNLr=k:a>iiH=rHbbkLA]w;R:@?sEssI>NTlm^kl<GRuWske_mbor;Fz?I<:aUOcvOm<;s];pHZ:=DBW<df[SImGync:=]ZjN=YLnWUu::LbZyM[ivqsjrocHKleltRCmqqk:[IavanHl`kS_N:;@YIA?<ZL>B>^kgJyov=VAZvJ_Of`WgO=c[:>_bmr<Z;_YQWo=MC:H:BNwCLyToU<ZV:?LOD;p>WC:c:DW:N:`:;eKhn^k]NoCRI_WQfR<u`:jlfneW:RaWLgvLUXCsZ:NK;?ZHrjHBrpo:Ns:_M^`rBOF::_za?BWqDcwZ:<ga:yWJeH^YwI[:I_s?rC[o?H?Z:?N<]JO^s^IHdnkZd^_CkHLi@gipNn@F]gpNwB^aiXFTCnYBoNKV:B<kPc;>kJ_[;F:os::S^s::aTDEATRkE;RM:j;R;:trBXOvJBQVH:s>pm<ox;:Hy:[ebBMD_?]F;i>lAZL_=A`:fpJBLJSFRqnYY?Ja^CC_gH;;i;RVZN=Br::=t<M>F:G<oAKKAlJl^>C<lgCJYJCN:SoO:=]tJ:MTo:Fn_CMuzRi^ed>H?<zRH::A`@wTyOk@uwEkznB;:M:w?PgkwCRRkH=FV[nkDgpsbqHdG@oUZJ@^HTcVPtTJ>gKxGjyk@>mbGwP=?H:yh<NB_KkGDi>mj`gdzCObOH@p]e>geIZesJefk@fyBTx?K@TkRCApLt@`yQfcmR>kn:tXUcTPyBOcGWUNUZEU:=uYJ;Q;o:Rkh::_E>vTJ<p;F;k?aqUe^aVLtcLZkZ:pLQBJ[s?JNvN=@iBbdkTUp]R<PW@yqPwBGTFE]xru^Q[[Ui<`aQ:tKb<?R`J::Vo:;hG::f^J:?RDpsPIR^RljW]uGRgCJ_=L[KKpbxnIYinj[Zw`tT:vkqEBwq]O::h?J:E[COfPniuC>_=pZrTjerFsLDPTnStUoC@_PJ<AlTTyfsDv<KiquMFXtuH?Xxvc>kC::U?xq;b]TCla@aic>w@JtAlRKUgCGrotIgzCwj]jov=yyCsjyCusOozrsBA@j^ugBMcbV:fe>kDBVBwx?tnKQ^Z?uUpK;BZyCZF:Hw[fV:yGUXB:;LUuToLJnQNFRM;yCh^]A`jcM;@p;<`a`]JvFQoYfD:BIcCZcKx[H[ZcZZDk;F;L`wIfS:;NufoB:IKsEq::DZ_YgB[x<mANFcQeXPY;oBdbJIcR:;G<R;MtFwOs>:SLNZ:<Dy;:IgI_lZCJAkJ<:D_u:CMU>>HMWNadVUC:cDs_NiFy=_ra@VEuj^m:hbJCx?LB`iEwCl`dHTnRHCVKscoI]WOWmm=Z>RdZ>LC<v^yFuW]N:dMgP?:SD:XMqngOM::?LZ;CDLF_c:>QL?s]oV_ZMZ]odN_:ttOCmLyCLI[VKrTc:nE>=Cr:yLxF@XiBNJ<RmXN<:dCLR<HRUmk@IWBYMrRkKJ;ZEF::pPgM:s=v?ncLPD[VmKd:cCgwZJcJ`k=qQZOsr;MbSrVjVRg<mq_iNuXXAmXSe^VFZ>??Byl@kg<s<FR:[:w=b[JCZD>;dx[BZiHgutZnm=UGcIgktlmw==Q]`?LTCK@lJ;;cORwVo;Ue=y<kI:@`;vO=_aLo@`Em=JhXHcGc>Z<==BsGLIScNy<PkwYKJBm[eTyAU;kI_FLlcmis;DQHgNce>Z:@lbF:;CHZ:TVo:GwyZ;xjo:I`DZ;YZCp;D?P@h:;[aPTk:bJu:@z?J:dyT:@[rJ:RQBPjOdTZ:hB:=[h::sac:Dfx::iXduk:g_e:::ck:T>T:=ZOJ:=W>LZFCD^gFetOJMtBetOeeGPlKpJT_pSfrQPfs;DXpnerOekxSuk:^V@:=vsk:`_u:?jcnpZ;sjM=Y@t?:OuLXg]^?WcuNmRNlJZsYD[NuT`LY;@TFeNtcFQJI>KNyBKZ>ANAXIk>cu=lfs>_TWFKFQEgYBexW;l<Bl:GAeMBcexJl?]aXaB?uSpKKjOZ<N>cHsQJ<`:iu=obTfrQ_<]:bpoS]rlWk>OrdRSziCcek:::lJYkZJAXnGs=Ed:DZNwc]::uaAoFg?>KFhW@uKUumQLiZxwT?Cs[s;DU=F@Gqul@ZRi:Z_C=]QJ;wC:`MF[Z^:=;OR@[k:kPs>kBxuJSqbh]=>::R`;LRTOJ]VEZB??BO]SrsK:>=VMP;sH:p<:HBLonp=gd[Q<]s]DtBnjosSeXla>P>^_oZE[dEXONhH=Li`=DzEFeVsSn`rEFOwc?WWC>ih_dw@vbqfDHOYk>@dfwNW=FaTxrSZIG>MNKswnT_wYaGFU;<rJLS:ZrEyuyQ[FNRXQBPc^AlCu[wwKSubC?QcQPC`edxqGaOwqc@YMPkBEUNuwbDZ>fnf?=ekZagVIgr:IxMZs<XgCYgCf]P^UCSDyp`esxntMkRO:Y@dDvmG@<PRiRA;cNArT<wGsV:a;e:;@:>:GZXnN`c@]O:W>G;uWACSq?wDcK[PIVH=voDfIYRG:MHSVR?bqPR_<CmvLgnzFSLU??cfxZ]gBiDlGofSOjb`PadOSnFpTfpNTopKT<pag:;Me;TYN;g=R:P^`:=ywc:<`VQP:;kMJ:KEttcMT>dGPHR>DflmexO[IVo_zGXPkh>dDY]ufQPyh=IaVgw::LybIqrx=jRlDAygGGu^:ILd`jULRKVdZs@EhFLflVe]pdElP[uarDsF>RYFXQSWmw;e`[Q^SK^hyULfwKehRGbacP;ooT^d<Z?tu`hEuPy:wstsSrbC[VePAtyR:P?tB]bRhcf:E>V;OKOpbsWEIvh;a>C::@`DWgzsFcV?AKTW>ABogJ:V_<BmfGijwIJ><<F?W[=D;ytcj>;CUI<SjAh]JBLJ;ASHqyYK?qfgNpizWz`Hn@Ng?Xl<`sbrfGYca^ZPucNvFkNNlJUtALibOAXNPKsBk=uGAa=RXAY`l:]RpnSVZw:YZZ]mXqQ]EkueFTV^_;SC]LLMLLmLG]DMDJxDG]UB_<k>RdrtG:V:q;Fe?^nEq=;BH=B>q:p[pZg^iL[=V<dBkKLZV=l;N[u;Zf_;YZq]KSDZe[H]D:K<k<B<fuu:YBrt?fkMY]=fDZRJo@m[oA@vw>J^ld>>wA<?w@F?B:F:RC<@q^L>RMZD:DevJ<g>o:R<]fk?[sT@fut=ES?:<;<:p<L<zkD;D:X:Bnc]@:a=a;r=P<;<H=H<H?i:k:X=dJy=xZ;;i?J:[=[:[[S<C=T?QCp<;?[Zt<F<@@w;XsGLO<:eG^dMrsh:okW=bJx:;Mx:Hv<:^;^:>;M<n=n<E=E<f=_]v:v;U:A:XMZtI=c>p@<:L=Qvu^bUj;w<L@D@tJmAJ[hSzcQ:x?l@bZUkQ=^mp[B=aLg[o=g^Vl=<RdiZPZ=BBMo?z[HZFmiZ=;w=eLTMTLuMuKhsaKlBV@=[w:fD];_>N>c;KCU?Ncs:V<M;b@N@A^z^@BjDlKec<:AT[E_<?uQn[<<<Bdym[=MA[AS<u<P;ymVAl]MsksiMSZbA:TG>R@rtaEJ`TMO]F[^@NLG]Mu[sN:m;J=s^UvYUz^H[J=M^gM`DtBJAd;s_>_TRQeMtY?V=s^>JjdBu`vc:OtOsptpusnaJY>Z<F`?u^tp;oec;?Ko_^=;s:=gmZ]uWse@r:RNNdkZl>t:Td>cyZ=KesJ_aD@cZB?keRWsmsIR@NPNCNvCs_hR<:zsuNYC=CrlwJfqIZJBV:YkXN^s@_R<IqcHXFl;TL=FEs<JUsUsKuZ[]lB[F[=Fn;O:U;h:[l]Cr;<[Llc[McRSj;bK@>=Fs[w[sSL[>BV[vKmSF[D[kZqg_:kCkKhJH[GsN:aJ>K;[GiFKCJVKOJHCWJLKMJDKUJTKB<YJ`JqKiK>kokKqlKe;dKK:@kPk?KXk[k>CvNWKbmxZWkMKvNEKRJyk_kywhlWFzyaRv>;_zsa:at<JqtP_itgJytzs=:><j]mLXt;tY@i:LJStUsxtzs^tH:_KGtEthq?t=t^JGZD:LJk:JyKBhtttV:`tgl:kLJrtWtYtvtu>MtO]w:;PrBe@c]`qX:sXUc;:c]h;AKNP_SMsTlcooJU@^]KtPt_kTSN[@S:>C?UcMyDqdJ[[Jk<KX;@CEBV_dc:kQ@u::o>cZsSecdCcSeGCwJ^]V_H:V:Vs<sa:gN::fAQBqCiY>EZBTBdPwRq>uGwFi:J<TQq<RDLdgOd:TI]NmfdiZ;STx`:DSQ:E?=SQCDCNtRq;CMSPRD>;PKO:oPPSNCV<iYRBrjUdNCJISXSNR<VN];L:lZjjSV?XU;B=CQCOZ>dRLHJ::Cled@ZwduacTL^h?BJ]?cJRKcK<L_M_Kr<:tYRaTzU_;eNTN@]DOLb_<>]DNSOr;K<R;Wf_:::gFN>Z^yjqOytO_OoKemVyJkVO@_P_<OTqqdJNWkmOwseO::AAOUmfPA:@QdZHJDhRdQVChLZ::CevQvOOO@UYSpNGQ>k@[L`pOWPDQ_;KJeQ_<ItLaP=jCqNnNHQsbFQt[zclQnte=lQM?CPmNfPR:jPAOtNQ;kJD??Ow>`PeZkJqLQZONNMpQs]GPxQTQ_;WPxOr<IulJ@]xOvOL_YQc=jBiO^PG_MNh?RQ_=h[WCH[nNwnd<]QR;r;W=VJLS]]gmIvLZLUH^HKw^]LmPRor@us:;XjRhReRmsgy@pX:oh?k;cepWk@aYkWsYBeN>ce@r>UsaG@a=qrS@OSm]`yHWkGp[cjO=pNGYOP`KG<`gND`vmv`hG:DxGgOTZnGtsfGRGpCB:yCqRz:>ZIGu:YGAk:h_cNckhchshX:aGNweh<`@pm;CcTh[p@WV:dhvJ;cNNjOzOfpWC>c;cDejOlhaJXWa:thTODebOa:TeXpTe[GZpa:EOqOAOOG:ZK;^Gd?oRItUtAtw@>ce?gGa?OqH?F?y?LS>S@>d?t:t?L:`?ltwJqt;?KS<xM?zKU?ZlsZb?slI?Ucz?Z``sSeFugN?xCupxu:NNSeED?Dkmhxya=xsy=xMahxEXH:Se`_E:rxSeeGWcB`_DSeTscsSeamfxuouJmpw`fWjquJGh;c;Wq`uJi`YL:`[`msl`uJuGfSSaFJyaf`<pl=;=<;`BS=pJb`r`cCHBT[xBVtJOolTZy=zpZDoO_p^GcGMX^R`sQGiOu?VGQZAk[XN:NxuGNNN:w_uZ`O>ZQOWOJpbpAcK=csYpNO:NJGNpTZyaUGCyx>e^@s:^ck>Gw`m`HO[CCa?^GhepeprWyGTWUWUpa:ep:pLxD:a=;`Lsr>i=GssOC=GstDCc`DA`m^TZrpPl>Ov=rhkGt:I=BOZ^yd;O<GG_NPmGMcP>FJuGuZS>aG<^nhkpic^xkMkmu^spZGQ=<y`DDyUsX^dDJM`Dl^V=P:jOm`t:Nd;WphqGlFNdnO^WTeXG^y]`@h>ZAD]XrD?uN:ya>O``QponSMWG?M=G<yi^RGRoWq@cBDGsXmUs;J^BnGGZanFn=Rv^X`r>Q^[hI^lZYq^`t=fyu:ln[=WxcMIWsMHnLkX:yn@ni_NM@^kD`MTZvnXnhR;nanWMlNfRa:UWvm`x<nQhLnIhMGEG_BZW?:`xl^>WNWFWJhBhvL]WmWCsHp?^KpV:dplEDhThBn^u_cZ:sTT:=eqjLsmrLkmpQM>GfQHAfJUUODmsi?;Ho@e`?ERuMPsnUUor^OpJTBcsTBNqcDCb<sm^>xco]zvL]vkzVtU@AOOEq?]oZBEQAU]qKI]sWRLsTFTphPLsWKLsT?LuQNmommmtfWQYmhqJDoDzpOoydMoovYBoDirMDtXgwtvJek]v>rvJAPeq]n>??;]xeznUevAYAQ]lEPTmZ>LmauLuTnm`TyfRuqmnfQfUf]hMmnQTuuhVDluldPDsrSDwvMPuwqxjx[iIDwzdkwgncuHANuJuH>ouRpZBdRQTpThQ^LZ:Z?ZAWQORPzCUb;WN=fOVvW`QV;ZzdWZpVrAa::>rN>:o<;iyJCjb:<wpxNtgqz<BezrYt]Z@:CqnX>t^qm`O<yhXJHfKRmHpZ;HrXpDwdKWMt_gCFyIetOxQyo@mqtck<onYX?Xq>XIgRsyGwB@TWayDKYFSjYIJlWwDKQV=BBVvdCFtNenA:D<nwzyoNv[mZ:KkwwXk=Tqs]mKz[xwyZH<pELfQENZ>HC<qvVTCf[Klkm;qqyJDgl@titffXt=U?IRtHpZCMO^SusT:irusilswixspZGVqAjSUVtSYVxzMirzOduqXh?xPdpluXxGOgX<q[N_z=J[B^U`H_t[?inZG_v_srODzunHfdx>m@oeylAHe>gS[l^>;;k@xzVCzCJTA^U@Fd>yc:FblZ:dccem:<kDc::yXaG>QURGWjOdGPO=WPUeWRQiUjErS@QjOPQBfrM[cWU=^epaO@Ox^^ynWNNoGxUHbbAJACvbbr=IpZQnQG_l^tbyO`bjkpbTMu>ecYxxb@GpU^Qn^zfXvKbvQCbgpeEBd_DjQgGmMObeMe>Br@MgrHMV^`^<D?^QONNNdfplG]`HOvmN=T^fQ`AIA]EzA<M@mNmrUafyMvWjOBnjlYWOMUc;kJ::".charCodeAt(u++))?c-59:c-58),s|=(0<(c&(t/=2))?1:0)<<N,++N}for(var J,s,N,k,c,O=[],B=1,C=3,R=1,G=[],t=0,u=0;;){if(Z(R+1),2==s)return G.join("");-2&(k=s)||(Z(8*s+8),O[k=C++]=String.fromCharCode(s),--B||(B=2<<R++)),G.push(k=O[k]||J+J[0]),J&&(O[C++]=J+k[0],--B||(B=2<<R++)),J=k}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+memoryArchivesPanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            void 0 === t && (t = null);
+            var i = e.call(this) || this;
+            return i.groupName = "MemoryArchivesPanel_groupName",
+            i.type = 1,
+            i.skinName = MemoryArchivesPanelSkin,
+            i.type = ~~t || 1,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this.petGroup),
+            this.adaptRightContent(this.petGroup),
+            this.adaptBgByScale(this.bg),
+            this._list.itemRenderer = t.MemoryArchivesPanelItem,
+            this.initBtnClose("memory_archives_panel_title" + this.type + "_png", this),
+            this.init(),
+            this.txtSearch.addEventListener(egret.Event.CHANGE, this.jump, this),
+            ImageButtonUtil.add(this.btnSearch, this.onSearchChanged, this)
+        },
+        i.prototype.init = function() {
+            var t = this,
+            e = 0,
+            i = [1e3, 2e3],
+            r = [],
+            n = config.ArchivesBook.getItems().filter(function(e) {
+                return t.type == e.chapterid
+            }),
+            s = [];
+            if (n.length > 0) {
+                r.push({
+                    id: i[0],
+                    title: "关于此书"
+                });
+                for (var o = 0; o < n.length; o++) {
+                    var a = i[0] + n[o].bookid;
+                    s.push(a),
+                    r.push({
+                        id: a,
+                        title: n[o].chaptername
+                    })
+                }
+            }
+            var h = config.ArchivesStory.getItems().filter(function(e) {
+                return t.type == e.storyid
+            }),
+            u = [];
+            r.push({
+                id: i[1],
+                title: "精灵档案"
+            });
+            var c = h.filter(function(t) {
+                return 1 == t.isrec
+            });
+            c.length > 0 && (u.push(i[1] + 1), e = i[1] + 1, r.push({
+                id: i[1] + 1,
+                title: "最新推荐"
+            })),
+            u.push(i[1] + 2),
+            2001 != e && (e = i[1] + 2),
+            r.push({
+                id: i[1] + 2,
+                title: "全部精灵"
+            });
+            for (var l = h.filter(function(t) {
+                return~~t.classid > 0
+            }), o = 0; o < l.length; o++) {
+                var _ = l[o];
+                u.indexOf(i[1] + _.classid) < 0 && (u.push(i[1] + _.classid), r.push({
+                    id: i[1] + _.classid,
+                    title: _.classname
+                }))
+            }
+            for (var p = {},
+            o = 0; o < r.length; o++) {
+                var m = r[o];
+                if (m.id % i[0] == 0) p[m.id] = {
+                    title: m.title,
+                    child: m.id == i[0] ? s: u
+                };
+                else {
+                    var v = Math.floor(m.id / i[0]) * i[0];
+                    p[m.id] = {
+                        title: m.title,
+                        parent: v
+                    }
+                }
+            }
+            var g = new MenuData;
+            g["default"] = e,
+            g.groupName = this.groupName,
+            g.root = i,
+            g.data = p,
+            EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.changeTab, this),
+            this.menu = Menu.createMenu(g, this.menuGroup)
+        },
+        i.prototype.jump = function() {
+            var t = ~~this.menu.selectedValue;
+            2002 != t && this.menu.updateView(2002)
+        },
+        i.prototype.changeTab = function() {
+            var t = this;
+            this.none.visible = !1;
+            var e = ~~this.menu.selectedValue;
+            if (2e3 > e) {
+                this._bookScr.stopAnimation(),
+                this._bookScr.viewport.scrollV = 0,
+                1 == this.type ? StatLogger.log("20230602版本系统功能", "精灵档案馆", "点击查看了精灵档案馆-永夜纪年-前言或后记") : StatLogger.log("20230602版本系统功能", "精灵档案馆", "点击查看了精灵档案馆-莱达物语-序言");
+                var i = e - 1e3,
+                r = config.ArchivesBook.getItem(i),
+                n = r.txtdivide.split("|"),
+                s = r.txt.split("|");
+                this.txt1.text = this.txt2.text = this.txt3.text = "";
+                for (var o = 0; o < n.length; o++) {
+                    var a = n[o];
+                    if (1 == ~~a) {
+                        var h = ("　　" + s[o]).replace(/\\\\n/g, "|"),
+                        u = h.split("|").join("\n　　"),
+                        c = (new egret.HtmlTextParser).parse(u);
+                        this.txt1.textFlow = c
+                    } else this["txt" + a].text = s[o]
+                }
+                this.petGroup.visible = !1,
+                this.txtGroup.visible = !0
+            } else {
+                this._scr.stopAnimation(),
+                this._scr.viewport.scrollV = 0;
+                var c = [],
+                l = config.ArchivesStory.getItems().filter(function(e) {
+                    return t.type == e.storyid
+                });
+                if (l.sort(function(t, e) {
+                    return e.id - t.id
+                }), 2001 == e) c = l.filter(function(t) {
+                    return 1 == ~~t.isrec
+                });
+                else if (2002 == e) c = l;
+                else {
+                    var _ = e - 2e3;
+                    c = l.filter(function(t) {
+                        return t.classid == _
+                    })
+                }
+                this._list.dataProvider = new eui.ArrayCollection(c),
+                this.petGroup.visible = !0,
+                this.txtGroup.visible = !1
+            }
+        },
+        i.prototype.onSearchChanged = function(t) {
+            var e = this;
+            1 == this.type ? StatLogger.log("20230602版本系统功能", "精灵档案馆", "在精灵档案馆-永夜纪年中使用了搜索功能") : StatLogger.log("20230602版本系统功能", "精灵档案馆", "在精灵档案馆-莱达物语中使用了搜素功能");
+            var i = this.txtSearch.text.trim(),
+            r = config.ArchivesStory.getItems().filter(function(t) {
+                return e.type == t.storyid
+            });
+            if (r.sort(function(t, e) {
+                return e.id - t.id
+            }), i.length > 0) {
+                this._scr.stopAnimation(),
+                this._scr.viewport.scrollV = 0;
+                var n = r.filter(function(t) {
+                    var e = ~~t.monid,
+                    r = PetXMLInfo.getName(e);
+                    return SearchUtil.isMatch(i, r) ? !0 : void 0
+                });
+                this._list.dataProvider = new eui.ArrayCollection(n),
+                this.none.visible = n.length <= 0
+            } else this.changeTab()
+        },
+        i.prototype.destroy = function() {
+            this.txtSearch.removeEventListener(egret.Event.CHANGE, this.jump, this),
+            this.menu && this.menu.destroy(),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    t.MemoryArchivesPanel = e,
+    __reflect(e.prototype, "memoryArchivesPanel.MemoryArchivesPanel")
+} (memoryArchivesPanel || (memoryArchivesPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+memoryArchivesPanel; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = MemoryArchivesPanelItemSkin,
+            ImageButtonUtil.add(e.pet,
+            function() {
+                ModuleManager.showModuleByID(226, e.data.monid)
+            },
+            e, !1),
+            e
+        }
+        return __extends(e, t),
+        e.prototype.dataChanged = function() {
+            if (t.prototype.dataChanged.call(this), this.data) {
+                this.la_id.visible = !IS_RELEASE,
+                this.la_id.text = this.data.monid + "";
+                var e = PetXMLInfo.getName(this.data.monid);
+                this.nick.text = e.length > 7 ? e.slice(0, 7) + "...": e,
+                this.pet.source = ClientConfig.getPetHalfIcon(this.data.monid),
+                this.cacheAsBitmap = !0
+            }
+        },
+        e
+    } (BaseItemRenderer);
+    t.MemoryArchivesPanelItem = e,
+    __reflect(e.prototype, "memoryArchivesPanel.MemoryArchivesPanelItem")
+} (memoryArchivesPanel || (memoryArchivesPanel = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/MemoryArchivesPanelItemSkin.exml"] = window.MemoryArchivesPanelItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["pet", "nick", "la_id"],
+        this.height = 252,
+        this.width = 156,
+        this.elementsContent = [this._Image1_i(), this.pet_i(), this._Image2_i(), this.nick_i(), this.la_id_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 250.961,
+        t.source = "memory_archives_panel_pet_png",
+        t.visible = !0,
+        t.width = 157.059,
+        t.x = -1.43,
+        t.y = 0,
+        t
+    },
+    i.pet_i = function() {
+        var t = new eui.Image;
+        return this.pet = t,
+        t.height = 280,
+        t.scaleX = .85,
+        t.scaleY = .85,
+        t.visible = !0,
+        t.width = 170,
+        t.x = 5.32,
+        t.y = 7,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 32,
+        t.source = "memory_archives_panel_searchbg_png",
+        t.width = 146,
+        t.x = 4,
+        t.y = 214.877,
+        t
+    },
+    i.nick_i = function() {
+        var t = new eui.Label;
+        return this.nick = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 18,
+        t.textAlign = "center",
+        t.textColor = 9025023,
+        t.width = 140,
+        t.x = 3.456,
+        t.y = 222,
+        t
+    },
+    i.la_id_i = function() {
+        var t = new eui.Label;
+        return this.la_id = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.stroke = 1,
+        t.strokeColor = 134432,
+        t.text = "1234",
+        t.textColor = 9025023,
+        t.x = 6.864,
+        t.y = 7.619,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MemoryArchivesPanelSkin.exml"] = window.MemoryArchivesPanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "txt2", "txt1", "txt3", "_bookScr", "txtGroup", "_list", "_scr", "txtSearch", "btnSearch", "search", "none", "petGroup", "menuGroup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.txtGroup_i(), this.petGroup_i(), this.menuGroup_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.source = "common_ui_bg_3_jpg",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txtGroup_i = function() {
+        var t = new eui.Group;
+        return this.txtGroup = t,
+        t.height = 521,
+        t.visible = !1,
+        t.width = 889,
+        t.x = 204,
+        t.y = 83,
+        t.elementsContent = [this._Image1_i(), this._bookScr_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "memory_archives_panel_txtbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._bookScr_i = function() {
+        var t = new eui.Scroller;
+        return this._bookScr = t,
+        t.height = 452.713,
+        t.width = 757,
+        t.x = 66,
+        t.y = 58,
+        t.viewport = this._Group1_i(),
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.layout = this._VerticalLayout1_i(),
+        t.elementsContent = [this.txt2_i(), this.txt1_i(), this.txt3_i()],
+        t
+    },
+    i._VerticalLayout1_i = function() {
+        var t = new eui.VerticalLayout;
+        return t.gap = 4,
+        t
+    },
+    i.txt2_i = function() {
+        var t = new eui.Label;
+        return this.txt2 = t,
+        t.fontFamily = "MFShangHei",
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.size = 18,
+        t.text = "文字文字文字文字字文",
+        t.textAlign = "center",
+        t.textColor = 6388143,
+        t.width = 756,
+        t.x = 10,
+        t.y = 10,
+        t
+    },
+    i.txt1_i = function() {
+        var t = new eui.Label;
+        return this.txt1 = t,
+        t.fontFamily = "MFShangHei",
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.size = 18,
+        t.text = "文字文字文字文字字文",
+        t.textColor = 6388143,
+        t.width = 756,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt3_i = function() {
+        var t = new eui.Label;
+        return this.txt3 = t,
+        t.fontFamily = "MFShangHei",
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.size = 18,
+        t.textAlign = "right",
+        t.textColor = 6388143,
+        t.width = 756,
+        t.x = 10,
+        t.y = 10,
+        t
+    },
+    i.petGroup_i = function() {
+        var t = new eui.Group;
+        return this.petGroup = t,
+        t.height = 534.086,
+        t.left = 170,
+        t.right = 20,
+        t.visible = !0,
+        t.y = 61,
+        t.elementsContent = [this._scr_i(), this.search_i(), this.none_i()],
+        t
+    },
+    i._scr_i = function() {
+        var t = new eui.Scroller;
+        return this._scr = t,
+        t.height = 480.181,
+        t.left = 0,
+        t.right = 0,
+        t.y = 52,
+        t.viewport = this._list_i(),
+        t
+    },
+    i._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.itemRendererSkinName = MemoryArchivesPanelItemSkin,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    i._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t.horizontalGap = 2,
+        t
+    },
+    i.search_i = function() {
+        var t = new eui.Group;
+        return this.search = t,
+        t.height = 29,
+        t.right = 7,
+        t.width = 161,
+        t.y = 0,
+        t.elementsContent = [this._Image2_i(), this.txtSearch_i(), this.btnSearch_i()],
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "memory_archives_panel_searchbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txtSearch_i = function() {
+        var t = new eui.EditableText;
+        return this.txtSearch = t,
+        t.height = 16,
+        t.prompt = "输入精灵名称",
+        t.promptColor = 4149623,
+        t.size = 16,
+        t.textColor = 4149623,
+        t.width = 110,
+        t.x = 8.999,
+        t.y = 6.332,
+        t
+    },
+    i.btnSearch_i = function() {
+        var t = new eui.Image;
+        return this.btnSearch = t,
+        t.source = "memory_archives_panel_btnsearch_png",
+        t.x = 132,
+        t.y = 0,
+        t
+    },
+    i.none_i = function() {
+        var t = new eui.Image;
+        return this.none = t,
+        t.source = "memory_archives_panel_none_png",
+        t.visible = !1,
+        t.x = 372,
+        t.y = 251,
+        t
+    },
+    i.menuGroup_i = function() {
+        var t = new eui.Group;
+        return this.menuGroup = t,
+        t.x = 0,
+        t.y = 48,
+        t
+    },
+    e
+} (eui.Skin);

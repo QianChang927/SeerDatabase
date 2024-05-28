@@ -1,1 +1,3910 @@
-eval(function(){function Z(Z){for(k=B=0;k<Z;)P<2&&(P=64,i=92<(i="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B?_fyrQKmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNqkGoq>:U`NpHYJHJHlpRxIUYZ_^ouivM;Rs<VfkZ?hk:@g:WKksH;BIR:J^D;Lsj=>jJZP=;[N[dORtN@pO>oDk>[wL<JH[LkZRhMqwAJM=:ZrB;<yX;R:=_JHwsCZ:EEYIs:d::>MZu;:X<J:>`Riw:FdN`Z<MkZO=z:<<;::Jb[oCwpC[ZJ:@:L[Ra_zeK@ClKBu<n<<Or>u;MnsC=lX:g:=<w?wVA]a=[>D[s;[mNBXpi`ohofthf]^fZnj]_iliFBdjtbk:tb;tNlo<VP:;O:dBVZZXEl@GpI;XVQib]Xm<FoL[Ir_T`CRUlQkZHjl:KsGJ>TUnVZ:?JvQSvwp=A?RgM:EE:QqvT_[sOedhet@wV?s<XCt::cg:sgF:>eUd`^:;eastN::Rbil_mcFEXnD:HDUZMdXEqCcVTmjqIn]vrLoaltXpK[RCGQMEO?zJ:utm<:_:JC:F<QL^A>?lzHdsDNJhm@:JZw::BlJGOGLQCZp<:i;^nk?teboCVwBBJ^]H;:;@IxnJX<KmFcu]Q^WC?kQEG>jNSCWsGU:KaPdSOjZ:@OHVWf::=LSHMyKREdm<MW:aM]C[;MZWttPgY_<nZYR:?SFAHHLs;rC:`<QO;LMhW;[KtPCF::BZM=ZUPwjJ:;RUH@HmADVxBQE:GmIHWAmG=:GJN><tnQGrHDjHwc]a=ZUmFIBS:J:MQ=wDBgLrqU<`IEZ:;LO^pKgZ:a:fo;]D:PAd<KR[]M;vOA?[loyDWOINnLH@ov_iJBL><iEEZDOAF;N>SXo_;ckUygoj:LdomWdpwUJEBsZGRIYKctag:Mwb[@dobZWsH;r>=ZnhTcyA^Rf_pMWFgntVZAeXi:SP^;Wtp<QZa?NJnr^rJosAZF;xZ_YTqN;H@j=:XBRVND[>;J=:WAz<pf^sUn[hyYt:QBO@eTJ=@qalcOjH><@DUKd:@@sWauVkTh[AqT>wSc=:YOLCW[RCy[@>>y?]]>FKb@_PJA>NI:I:oEJW;<Rkn:g:Cf`Otl:bVOJLlwIl^VGsB=A<YNg_LFPL:`e;F_GABSSi]?]^>FhD`KSm@]T?cMbTH;HauT?yad@?[@@NR<>a@RtZPCRO^PH:WaqMSx_HNvAa@M^:bpcjf]X?sr^sAbqK;L<EC>m;RO`]>L^xecDoeVsgMJj><KLB`iOpLcDJKj<OdAx;^l:C;VdackC;`GFk<qld<fTXm>TZMKGzaBMxVQdcOy@?Zq_yC:cAYElr^N=ZaD>e:DYrdX^zB>yk=I`lMab]yk;:<RQ=k:m:Zd[u[g?wIs:ymwZujpIhzImu:AvY<ZAZGg<xbvJEY[zX;]<dlJ::BtF@b_eUwT==sRGZXYTBoc_CC`Z@ZKaY;tv_>ZLzM;rwe@ZOcJNB;t[L?JCRDjG[`<c^NHJgZwT^<y>jrPiwCN?xuAQpj_eJcH<j[InBJBsRF]t>PazfTIy:<XAeIsTjUK<=g>NqJTZt[u=GA_=FO:<lL<<?>CgFRuKZ<t>VCcQ:H[aFqlFCRW:[lr]lAVIgHssCb]>@[GcWLEcilC>qBoTjCgYCf=BD?Bsj:<:>>NrFB>qlew<CDZB_k;:]<yLeFLTcT_Ldi;@?>@cC<ZBuJF^o<^=ZwJa:c;Y_m@NzBTKJ@a=D@_astC<:B<mT_XZGM[<TLod:ULs:WCd`obdV:QsV_r:yY_V`[a^I@YFtdnk``WOPNmWSjMc>V[`AiAs;ml`mPHRgtS?mfaUHZVD::>aFTR^m^_pHpBIF_o;QR@amGkI::[MKtlZbRH<AtEfQPK:ARaQ?>NQLzD[Jgdd[J=Q]<mMeLRk=qBsAaY?f:<n<ABEZHBr;BC]>dJ_B`QpLQCK:GRC_a[]nO?<DnBJ>GtLm@EGmd:u;d]EFiWo`:mFTTg`tcBLPh:]T`ng@MTipGTUg[San;OvBiTTeJAnY`ZgjMDh?fNSquJEQLnfZB;Ps[C=Dn_:cJJuh=]T@oEc:kihX>@nV:cDqZTc:XAGi:sGJJc:[:yIek>hWat?:v_rEqk_zTf^>F<__cDNR=D@LFdtI_^QmidCDotyNC=UGqYgZhsm]pldn?mA_YBmq:ZfXJPtxm:OmQfOH=aAUYsM?UNZWhImzbWhvSMW_t;[JsAaFH]h>FtQLcqNYQ@W<KSy>EjbYZtF@pfC`SwnKifiRGgGJq_p:gx[<krOECqTJD<qhmBarZ=eK;HdZ<upPveGSXipfu_kzef=PoVC@oqc<EUy@:m@aG>KkNHkU<_Tp^vsIiqYTapxfW>ryni[J>g?oJth:u?oF:IJjMKo@AA>Rskd]n@ABgTkmlO[>APCgUHik=^cfHGiy?GkiG`qXDwFBOV@oCckzQW>DD[BB^xbsSGMZVNE^vfuANcE[[J@AFwOoU>CLNadFgt_=UvMZA]DDT_PdOGu`Jt<kJ?_nJvehDxNFMdRZJKYYCk_o>LRBe==THoRRBmDUl:OD:L?:@R@?@cT_V:zct`J<ts@E;:AHasGtEsV;f=NZ:?vP`R?BHWM:jZB<Jgoj:EFJh[YX;n<ENQb]lVw:`aNLQI]l?Ly`nEE:Vi>CR<Vwf>hDgN]lA:SLRhD:=RB>GZ:adZVZ`_DjGYvKGuXkrKi[RPrMJUmrdinRDiiGJTr:@tbn<x@oH>=jj>QH_IUtrpKAY]<WZgzQpjg^^BaUuTRi=pUnBxxBwpLniRU[:DgGRC=pbHDcgmvSHkn^v:H@Aabyd^ZKjh@VVsFB<dsxtoALQo=@Tl`CiPUvVGp:orREMTdPB[SVXh@kMZJgNnFcc<P[:nHea[NiHd_wTBM=tYSr^WRVWwJa:M^oZHDeyZB;FCNocnjNyBPBAk;:s:J>gbcGDFNFcpKwbt:D;N]cCbkRJabp[LdFQD[MjQFZ=WmtgBhN_DpCpJ:aAMDJCac=uuZDuhJR?wdE_ekSvm::fT_QkJ=XMq:KCoQkx]DyOo?GQNOoe=NmcmUm]O_dtNhwOJrf]MXFPRcmAMLsIVqtGkJCT=ixqsHWymOrPGrWPwxp:Ur<SYYdAxppAmPPw<[z=tAwFoYRwJ::FkCvkobxmPjgcnonwQljdYMV?tB`burKj]?qyPebmlGY:Kpz]:rvIB;awysD[r[_I_S:g?vlAeIFYS=DuTaIicoORdMtmfIxBCXpyqznyU^NDyVx^VGxDxhwQVY;uwIV<C^xPxMxag:xExfxywJ;;xvwB;PBbxI:CwNwYCrwqwD:jxVx?wzxLCIxtxjwmwDwhw_>Wxntk=xwIWN;c<w<uZnxNw><kxJZHVLlZ=OdpdWkhc>:WdCdWCj[COV:ng@Ws[EgD:qc>?Hc@KTOFZyc;c[dj[KcGBhBWCdcC=jZnCd<LVPVeJp;gBCSGFQK`w`k<BdJjZ]<PCDW]wt[;dU=<wL=Ao;hYwPCQ<LWDhyoI=<xv<UN;gHO@FzVs<ic:;eUmDBOZA:UfYDWN:PIJA<;:KksRIk]rLkuktk]kkBtfUBcjQBk;QkgeMkyUBc^URBhf>:NfTNCZDBI:C<YDLbMNCd@JTkMV;BIJK`=xAk^UWBh]NBNp>uYb;A>n>QRLT>VQ:Z:s;:UZR>Nkgb?oRbLZFkvMEkwZDkp:@kzcZBhkjBzcxNTxEoE:TgIRJiGc^chn==KPFUIBmc]JOZmBuB`ZPBlcjZ;ByVJcxsWJGcb<KsvmRfAfQ_CcjZR:=Z?;<:N]NoH:WVU_<XYg;_NVIkUc]J?BfZGB_c`knskZIZO]CeWN=swBFR:]JIPZK?JJtsH^OH>Bz^WOUmJZFRFbYDNJALEcZALn@>@pORwBYL;_QyVePSMN>gJJ[FN_>::NiSKVP_]JVuMwDuUcnuCF?F=vMFUF:@BmB@>@AiPF:eJ@SuTo>FVgV@L@OJYeKKSsJTSWBnFRdOPx?OMAE]=OYWUOJ>IAXB>xBpVxIhQaYaFpL:PpXx?qTZDPW=O?XPWxCP@JOpKkAxMpEPApJkJ=YPT=DG;M?Fw=VGLq:GDGP=XqWqJFapTnKBNFuMAqK>OGA=NJJHMKScOcFH<HN^DH:RPHXH@^SHX^GHS^O^ERW:ARQHTNwsGOI^BVwiBMPGUoaiN>?x<MRswRaMU=HMJA=>BEPFSMTR^_xMOR^B`R[RQkJcM:N]<_FN:n?od:Goa@FnVNW:EGBXIFan>oIbEAKnInSnVFOnHV^nYiEn=?QnJoZEOn?VZZYJqswELETEXfXEGwlESEOfGE=EUEQE?ZYENVBf>fR>s<wvTfF<ifGNm<toCf@<pVH<^fEfG<`ZIfEsnU?:>UCvJvCU?:UUHUP]ef=UX]`US]lUDU@UC]evCDVvHv;vFvLfR<uvLfPvUvJL^]iaOvEuSNruGNvvA<:]W:?ZE_Dy@yCQ:eLy=ZKKCQGoxA=uGvHLnv;LzFCL`LlwU_QUU_YLx<KNxvXLzuKLfZfZIZUcmR_pPgFAWMLJeAJVGJPATABVFbKAJTSANJyRGAF@Kw^?X<K<S<Dsp?@scVi<SgXDw<J<^<`;DBNU<LUDebVZrDeeNjXbQJpoVLDeQmtb:ZObBeb_Hg@eck_EX^IVfZHe`gKcSoHTJQUbQb;omoMbBQ=wgQFPIRLQTQUp@pNj;QO:pQWQOzXDQmYmWoZ:[YARpTwZbZlr@ZjY:z:rEr>zNBk;:IRIDzFI@z:YHzCQ<:XIXTnQKTxI?D=TkZxTiYUI;YVjXrDZujF:hr=rXJ?jSZrFFBwzUmUjK:qzBYNYHutIGz@YB@ZZc:Zstuc:nunYUTru]:ljBzJ@q:sunjUmWZjjL@p:lz@@mYKTr:`@xYS@hupYJZh@_:uZn@yZljD:r@cuxsX:d<<@mucYW:wav:uYQD;@gZ`un>bBz:gPp@mZ^@qjHZjTeJCZj@faZacanZrvUZlarZ^TQAEZ>NsJ`AJuAJeVIJpeWeXJveCJoDpJ_TGL=J]TEJyk>qfsFqiayKWLqy<JWBp]NDE_rVjXWqy;UBdeIqlx?ekHxBSLpL[K=Lvq]Pmk]mi>xBleOU<Hkc>EJk^g>kzqiBVkzzMBfRzBrRicG>dkqam]]ijRwcuWOum]mcnatSCsaBiBxslBtBpBsiZeMRvR]PZimiji_i_<`]qijixRn<]crshETcr_PcychstcjZOcn`Lsh_usbctvTaARkRZPRRdwoRzAWmoLNTbCHR[RjHeJegrHwbYi]ZAifit]zBksmMNsws`X[BRTmkBBrs[s_@i:Si`spi^sgcvs[ixjIymBk>of>>g>]>e>]kP>sRCQW:;>i:C>[`:AO>niZsv>ZZQ>z>k_aDmoALGosT^mk_VyryBL;ZY?ERamfZSsS>>X;B>m::KOm`mas<<aAqAmTZ::t@>PdwMk^aWsZc[n:NM<cu_h;EEVVMFyNFWdLd@_gS@UDl^i^DAPeP;F:Pd>uRvIT`Wg]xAS@AvL=gxZv_UhlWlPNLNsC<;a`o;dJfA;cYZ`Kh:ewjZbVPTEsH;LV>RhAWN]@ndRujUL@^vDlKfGAe@u;TAogxTP;@@[CaAsZq@HAOliAX@;@^;W@UOgeCAFA`A<:V:pDWDsu?@xuFNDL]aLbWE@JGAVueAxm[vcuTasu^@cu_uFLnVv<:=hETabuy;b@K=]N>Rv@<:A@b@WkQ@rANhJ=tTrWs[YAoui;:b]MLLF;mMcgeL>R`[yfLSuM>saL`vPMi]GnfuQJXLP:a:yMlLN;;Ly;[LWclLCMpKyNy:pamMrkDLs;ha@GONWomS`bmE^biJpu_fK:nbku:v<[Ebfbz@QaAbxTbbyLvbCLZa>OSM_OuaD:xMG_=LrcSD`LYcMEzdVPhMVO^Ls:cSm:RRsR>Z>R>RfLCnQLMFVSUMZnvMdLbMaPVlMnnnaSPSMoXPjLdp:KEozLkNHQEN_FAoLVvLF:Ln<WrNU^Iocnjp`:snjNWR_mkFZpgmFnj:BpxPUS[FvnARfOSPFZBO]nIRkmROmn_KDnem<Fun]GBtmGam[[eG>tTFNsWb@GosPGFsqGXmVtHFKmxbpOjmn[;GDs^NlFkntFutYR?nNKCGFKdthLZDpm;tgpmJxGTKHxMmapXJ;J[KEmCJY;dKZR?J`JOJE<UnJNnPSdUFdLNfYnzF>h>fdGInYKcrRBHrQn:hitVNOwivvE^EOLbDnDQEzhpuIEM^gV@lNfufyJHJzDRWykZe:e>VO=kedlNW^c=D`kOkpkGk[bm:=k^lMlnkfkUkvkAlbkhD_NjloVDb:BofH?n=C@NesejrBkKroBmBDCbJ[Vye`@XCJIiW[ffCqfm;kd:KBdlwGWRU?eWWrMZckvFBec>IAC;TdxAewcF<QxvegceT`lS<Hcid?=XcDfufdctchUSTpdWT;<[<xdK=^TuHPkpr?AYqQrtL:V`lVPAg<Q=ESE]PdqVkmQJRwKDQeQTQsS>RaQKQHKiKLqqPsFdPhoiPIAyp]rpHyJRRILnou:[QOIlP^^zMtPg:EPZnwST;?QjR]VIod:pPrNGQp:zo>mzO_mQ:JFonzHJokp=PgnomMQlnOH>rLm_q:WopNK@ry[NMpsWkk:hs`VojWsabpKECEBZdGJC:[>IULa`?vsDSF:@dViZdDW<iD?IsXKntx?ztk__[DiwiPdTjrss?M[O>f?^:qjiAVLViwiZc[ieitg;i::qFUjEZ:W[au<Z>R@s:>sSjECGJqjECDWGiadzN]ib?V?Lxyj[jEC[wpjKjGiCiMjdjGjtjGi`iMjOiqjCiGj[jCjhirjWjxR]jR`Y?s;z?^jVjCinjbiEirifiZXUirjSixiujYj=?v:Dj[j`i;AHiItsYs_H;^;[w<MPCDVVYpKPBni<YPBZdzNA>yaGE`>i;O>_XZYNYv?c`uix?;o>YPirjOiC:A>=jI@N?:YECSjQjVjSiIj[XPcqjSiJY[jSikY[XBX;XcY[XvjdXAj[Y`jmXaXXY:=]?yXy@[YEByAKX=YlY[iy@dYViyASX=YtXyA?X=Y`XEYOX=YpYxRJ_K>jqz?@SyY`jxY`i^Y`iMYVj`jnYEC`imYQXaYsXPiuYJzHY@YS>R`rXY?l>iZRz`jtiC:L`o:m_D`IZe`miNY[xKiSMLqF_`J^Cg`V`TX@dozNX`pTkZ`G?pphIzbXGiQOI__M?o:MI[PnH^OEHUphH<mNGhHbH]ZQIBmORIHINjIsnhPxSWQJG^QJonSJicFZiVnURsFrSg[[ytPWyUQvNgFDnqsfuwFZtTnJsrQ@mIPRsjP>s_tYbHmFsgtJqHFsNgW;m:QyrA[Rr[GsqdmsaPE[[aIuHhMyt=MD^aktDP;myvkFm?:>T]gKSiMNQ[bvqMDk=s;jhC:LZDTZ;x_mKkRgBmAPs?V^myaBhZq`bMn:EmRcYP?Pp`<phSBecYzHA:tEGgcNFDBJ>coARHZiqS=Ry[JmsAsg[q:?J=g?ZbTLVjgFvMPetQ<UX[Qu:iCB<QpQUfg<ZqvJDjtPQ:[Nxq>s<DfH?o<sG<P=`>`^a@VcWFP:DRUwDVl;Mx:RRG^NS^d;d=QFMBTvD=G?;[[u>::ICR:B>fJ`:g=XB;:;;^Z;j]PZ=Z=naw]::=XN:<bKc:>[nJ:<?ir_VB^=ANE^K[<mmOkTLAV?L?B]Z:;pG::wsa:;RHN:=GgR:>;z`aAcAw@;<N:]k<_AHb<@::v=o::`oR:>=Bk:BeDZ:BqG::ChT:;iCN::Hmc:AJOJ:I^zyNUcZ:@`XkA:YmA;:s<UZ_ym>Yk;C?yuJtDV_^=EaI@sZZWRZNw@Y=G;dKocX:rKBSbRGCMl;v@jZLSfi?VU]>I@Q^PjD>Iql`Cf:ieOa<wBF>?KMqFCVx`Frr<AZMkSsLwGX?j=rZbkEsVL:CnYTV=YqbvAlGqpi[O_`@Yv@>S`JD[f=<;VAO>Lh?lCRVOqER=JHa<Js_sr;JcKbFnaCAvtpJ@;DJC_EC@fRF;yyLbE;qsvkVGs^_A<<KpJtSJt:JGL^aR[ctuo_:K@;eDl=ptwFy@mrYJ<?=ZusVpZyAKTZJ@tAhKXKINY_RDFaunWpKMNO]CS:kcy<d]HB]sBJIGcBBj:ewSNTh`p@ocH:A_F:GL:M=jKZHj>QeZDZzsRdBHPku=hoOIcNVETpAFoNmBRungheEAYZ_]pq^VZ^Ts[C_UlkDZa^o:zBC^`xMu[w?GccRsJisCE;bR]KK_FqfvMZts]i:kZLM>i:l>L:WBqkn[`BbBKWW[>c]HCHG<F:g[V:[N:NWo:tn>^uPNJ::IKwG[:A@J>GWLEAd:Llk[VgTi>f?qBrXhRrlC^k`T@;o:::Ibb?;J::O>mHd=jZcZK:ENJV;ncm??KoLI_Mt>::DTToF:;Rzul>v@gKKTt^Ns:FnoRP=]uyZA<=mBI?a^jBCsowXe>jAQ]=V?^JXhrKNcI]=]nc[>JCq@f<VGLydCnHPA>t>gOLxP@M`aq:c`]bZILC:H>=<:a_TPJcH`iy@Nup[Mm`:hJCdphLhwgVvYYM[JEbM>L;PXeQjiSqemy_fH_f;nhDoB=BRtPczPpePJbvHdrHFSMndf<pR:R?ymzJE]U;Z:[Vk>RQ=YZs?nC?`>Fv>mpgqnAuRRNqCz:H??:ju>SumC@F^Ao>xSNRAyjf=gZ@mvE;gXmYSVG^i]zthwYy^BIzd?kt^KVtRk:lGZum>ZkZoqgt=GfCpQCo;<J@tLZALBJ>OW_;e:ykg?EC?J:g;sNr:UcpB@?hnw[>u]Jn<l^N=nFkkHZMPoO<F<@qf:[LVT=gmKhFJJZbZO;O[@]tvCntIw`qomfjgncoB[Di;IL;i]eBMc[eJ]^T`=OS;^BC_=C:dZDJok<F?LIUOL>uJ]CFFSkMxZc;tNd<SlWBCKoheA^Do>LNHZdbn>g:<KxJKcI@BP^To_lfAOFMdAM>hlVaoNp]IK<oavL>luGRFLaHq[[]sllB^FTLHnA_^ZD`APFRXD]DC=zJ[:t]USoe^pOk_VNTy>B?ABJ:HJDPO]A:@Amf^xZrc[;H>_I@e:WB?sG<SGb=<_S[:_K::ELC<cN[hW>hc?laQMwS]Jh@OG;LmsnjB>:LaVBPyKEKW[_KIJ:nEq^N[NknhI^Zt_lSYZPdHEL<Q]qZ`xNBROET@=[DNuFg<CO>yR@`DS[@Kayf>bM_HJc_URNdVgy[H`Gc_FLuRBfK]TTaR_;_vH[SE]NYoWLMxcmTgQxAIl>`:SSCXfVE]jkZl@gbSw_ZzcdI?]?_ISe_ggar>obbwTmH_uzjdBZ:NRPmrfKzbunyT;himv@Yg[@mtUqMBSzzNMB:IVaLSBBc:nmX:Is@J<:dzVT:Wd=a=_J:wzLIVDFDZ:z;j_asVS?:<fJ=BtBvT:h]XJUJ`gPo]m<h]kHg?ZcISv:rJC<BVk>K>:uw@NIa=bEpkCRSkVHBIItnV=zmrv:AHJrvZ`LTdbU<eV]H>s>Kxeh:YVgPGr_oxUgusNV@c?pEUnIV;w`Z<I<`Zi[KlI_Lm>=LOlp_>;WscVUJ=T:lMM@?:Uv>Frh?KJ>gX_DtbzBc<VttJD`GT?vOaUFpTwvsShHY;HLvs<Zu:?:FfOe;iN<aksbi[FHaJn;?_YOREIjHYarRVe[<oH<zD]=[>iJuk[qgVDHnO?lkRk;::Z@?=V[`BDBxyP`pR^_:L?UwtyOkccONE<;G<d<@m^cOe:@?M<`[XZ=RPY<sLuo;:@Z@g=L:C:bOCFGO<y]iGsZi:XVQ^qAmMWk]MNSVRBdP^<DKadDIFIJcK]FEa?f<wB_ZFasm^X?S<qv?E]oNs:_XRYW[QkjB<iEV:A]cD<;IUR:ExBY:]Cf@o:OF;cSIBPgFYGEaWs`kgLhJFgZg;@;jBQn>:=oavtU:Ti:FLROZ<F<NsjiLZ_:AnAJCO_`JWnUmB:;dnJ:I^aZ:GNp::;^UXKkZ^yVdVZdPMXK::Gwe::LON::GoR:?OxSdUZrB:FZfanBYL:p]ZcKEFFuJNSNk>Y:`mp:ZL[n=zHy><muZR:VyNzDLTfEWkV_JZ?_:K[bgsL?vXoGw`@KIgAKnc?[QPLwDaZ^[B]qlfgg@^vE@ZXWN^FD]OkKDEqwc@NFD>r;J:aJas@_;a=j=^CGkxcQg?:=HNQD:OB^Q]]YHLOQERZ>B`oST=Tb=OVlLsHSWYGc<rndsiNQVQN@qNYnUgOWR`Kkgz`poD:UNatTAAO;oJ_]d<o`OzBdQXEmOt:P`KkhR[oJFC>AMRQ:=dOh;@cgZf:::=wlOPwbXNkmOkrnsZcs[ZAG_F=xM;cZolL<GCL@T?kly_OtXZ;F]sWhR;kAm>Baw^R]GyAZJJiD]HQCgBPIVmNKB?kuDeUB=e`_Nc?n@r;NkQ:;ZFIaWOXWokXZCeF<:qaXeP:zD:k?BmhP_RUOACXpVmBV[He?FiACJHhBxQd[jOjenTQc?R[;fNpQ:Gt_iAP]G:Qtg:r<Jmn=^mcXPvVgh_S:D]?e>>hqX<AK^k[sMBSsgt[=?>tMxKgJ`we?FgjtlVeumjhNOLYOaEXJMOSekBBPDx<@;PBYcC::HHbNuFxZgMX[Z_ojbCGNaOEWCZUpR^MV^:crIQj_kkkf;:VvJDyY;<C=e;LiytJsbdH[:`ELNMcXB;a:>JvJhF@_HMAk<L;@;n:PIJs]:Ab>V:xZA:VBi>Jv]H;M]N:M`K`oSmIfkknupxJaAYP=KrcN@jbb;fn:jeaBL@`o;yhJreDjB@@[=W[iJqYecGcFb_GY>k;>TgGUur=L[c`UiE@lH:SgSFGBlJUHegJLwJLOnZqJV:C:Hc>CHs=KdJZdxHc<Z=:]s:I;qcixOu<R<R;EBXFwMQ>:M<s:y:YujR>k>:r:UJGkZJMQy]iUR[>S^IBhOkdEOLnmpdtXPM=:`;pfIt^TiRFqcK]hfePFc=hWR<vOLlsJJ?Y`AmjstRd;HuxOXQnCGm]<WLsZy<PeNJa^gA`S]xNcx;r=_gZHxoESXihlS=GWOvmstVF?HQbDTJ`mpeJDe?OZ:v`;NHSKlC@NMDJhjHM<SwiE==ctNOTsW>fFrK_MALXb=U>pgPJxxOHygbocUFAvDmxy_ZFqWHOsaegdy:_aY_CdwsuglC]zDLS;_QvinfPbg]fLdHs`DhpCR:ZHVzaoaihksgaZmQYmF`h_byS_`z]@mg`cemsCN_i=SFV_]RXPE_vq@tH_nSn<Z`S<:P?inR?mOFIVa:W?FJ?lLo;ZHxuM?E<_s<w;F:fg@oJhmP:aihcyAR`GUaOf;okuEiR`pvafUytgDCKgICBn:lltGeeXPQ@u]_kCROnWs:d]dqSp@eAR;MAd`I_Llsk=BNsVu<J;QJO?WJpbLu:TDl;HWYa[nIIGs>TG;;o>[XJ;onT^gzVMRVKQS?mKUJgZPuQ]ac:Oo=nSWwJQyK[OuEgZTgs?Q<cpaTkdS]D<?UfEp[prGSSooPYQM[Qy[X:p:BKEs[n>hq:CfWnkQqh[K]msOtZMiui]IN;<iu:xHRG]^KPWqgNiDt:CeDGqRfiuO?JqFIYvf^pNNs:qqCe=lLMrs:IWDXlIWsLhpSus:Q<h]abcnptuTuPx;H`wPMrd?Rx;Xf[WLfe<]Nw]>`:o_CNrdB:KDY?:U<ri=;hurW;XnjYh^>c<OPxhXuECWD?rxe;OcLcAC>pOoTSbZvM<ZGW]m;Ev@xLNDhPjiE_oL^B^Zvs^Qj=q^piaXcwvGQgfqSvlxPydjR:^CQz]`kCmEYYILj_AvAozrEd_jZLOWvx]tyxYPfgJ=juzwpOOb@MAAPfS:ZKD^R]O:H_r<WeMQSjBg]Z=bn:wTZ@:_i<YpUNR=EiH:kZjI[IvN?jqWs:Ub:<_dc=VnQYGZRJI;s_BCkCZIZS:N`ZQt;oqWdzBHbrMsa;h>uLxEHaIcJd<KW[P:APAe_>k;m[@==:n:<eEkUJQgC_=Hmw@^KzNMDQ]<Y@P>c=ghM:n:hSssA>=;iO]?:@JHcAoZu;oZx:jBHT@>=X;rJlnJBG>@Rc@;gZspnFHbBx==KJTDH;]`o@]k=;qv>kX_?BN]xnASFXkYRvV[MdI:GuQ:IdABMKs[:cJmBU:;]@C=N[aJy>VkAmAkLOtCJm?`trgu;WpZUTT>Ba;i`eZ`BfHgRKIS_tCNPlEuFNW_OBGiJe=W;dBms;kkaBPP=GIf>ueE:<DvkY;M]PB?xebmnm`GH<qQayZBh^`>kOBHQpCJB?a`ORW>YA[RDH:H<sWEoT:cc^UKjL>nAWZmo]AbZd@Pcrq?A:Q<b<jRFR;a=HOJ:AkokWsLk>SCl:lZnk:miFXF?rRVBZ<:rGB@E;Y;A^lJWB?kAiGr@b^mPj=<S`pNvAj[aPzRp[C[]x[e]?vY_Eq>I;Q@SJGl_xbVUCnL@F^sPcm[BGFcnL]k[;hnhwTlIj<mVPdN_rSOlHKUdq;C^RdopyIcEpuDuyCc_oD:Uff:v=EWOklsUwG;@y=BxX<lNNE@G[j>:`WnGdMz:=[@<_NlgPgEREXJi<otHNkll]=eM>lhsrcpTSXp@MrK?_ph=SIvM=Jaun[[_ntISGVLf>JNnqp>=ua@@uudQ<kotGdFXMaMY_r]PhGk^[M:[aBxpI?Hv=CMxDXRnuVPImb`^]dpRuwGXAIApMflokQYNuT_axMA:H[emRWI@bbMrCgop_r?tYWZnZ[jongHe<;bdMuxUosBTPFf@w?NShsLwT_uTan;qddQ>aR;lqappFe^FpmWGHwaVn`dnouE^UH@aft^d`CdaXvGiaEMAdd_oDSAZ[bKMcAYowPYq>RFmngt]gq@TfIDaTnedb>lCldHM@uMAlhn`vPbFqb;nuSdopqYLRxbrMXSaNrHVtN<fKl:StVzaS]HOaBnpSrnMiYPGpbC;[t[ZmgDQan`M]Ru][DTfMEZA[ZYIFAK>RJ?etPkTS>DYRM[kxZhq@ZnM==?Knu<=DgPoKNFT[GAEp=iy;PcgnwTGFOaFRzs?gMWBdtVErkq[JKUqGADPM?vRN@FAh<^<W_;sXo@F;d;^CBOdtfotJ>KpZJFskxSIRoAa=_hcLTtrooyVQGv<dMDtaVkNTDFj=_m`PHINQdH;e:SEygTzXw?jrAuomP`ijOrOi;h?tJ<RAcvjJFeAAt?]]tKXcfNOFPr`oCkslXkI=<[yJ::EO;Az@P:EKj:@oXIRqcrx>CjSVlRHHBF^^EJA:;XnHFQAj_N:XNCi>Y<=CU^>kyDl^>>:ZaP<yRQRytTHPAAgfClsR>`ViIQ@gfllb:A<XSpmWStyxBDzR;<hpF[HGePK<k?nrVDQ=r<oe`>;ujc@D?T;jevsdk;sn]l;PAlLZ`k<MvafSOb:E`RbbE>dEX`tfF:hzq[SU=HO?KMm<M;gDCRbKuKRnjqj=RNKopxTZtSmKHPN:E`[scOV[IKQghVOwerqAHHQAfq:O]Z?k>PiQBWkx`qDstWJ;DDvfe][upfeXj?PRf@sKTs`RygdQZODZkDr=RL<ce`@jpqezxYTh:<nyPpsZxkgFlG^IZNJ<JhL=RQFTK`pBAJcGRuGbQ`B:gIZIsA;jDKtl>g>awd:R;vPjcm_LTnTaHigrKgu;wTtqDT^aLZUGp_@wtY;jlTZRKOktM=U[Ckrj[vptDs<fy>pQsfqGk@li@;iZriUT]xEO=ROgjQ`UisOPtVTKiTqb@TGzDtcE]<OAJwLRQ`NpRlLRrsf`lMy[ERNOLqkUSpqPniA`hSULfhOy@qfTyjPqV:qhx<GWSxjurvf:Wi:>ARwilPnUdl[@p:<hjcbNUURHqwWXuFpTFU?Kuk`x;br?;Ke`aF<xPBZi_uv:UegpOMeN<F[o<=N;ixVknZuGx:PDapBrVS<^tPveqDbKrR<NP:B=IwIy>^jzmO=nnASmwmuXnHFBTizSsLHd`DGHJtEswJgvI<QIDPlWT`yK]wBJj;>HRrKfK_M@JMou``deCB]a:B^`JW;VP_uSc]JZfK]n;KuJn>?Lkt=::WgT:;FOF:=roXO_eA?]XJQK^TrSSioBd^vWFNyoC;PhE`KeV:<:yZSYrsrU=e=mZ;?RkWvSpWfD]LkQhY_N;Z]VNKRFmZE=T]y:Qiyf@:kjpIAMWbPOsak>sK:p=EJ`oQHd^FjKSeco`uF?DPA?UqCMftcMfNE<AeQwpqyav>RrkXQvTTo^vISNQcX_NaAG<Ce<<KTE;?OuRiozXSUPjuQ[Z[`smlzf_X?uAuIlM`GSWggvpV@iCWieGTJ[Quixu=bzSZvCBRHAxq=dDEZsUr=p]]C`qyZRO[qVdCTZahc]JzVZ>dGfI^mXdm`LlDHM_nlK[z>QXCEoPlTZMKwBsjjM:sWKXRlrXGmVDIqgSi`ywkxlECI`uvKMc`cxprNlWAj=]NGcusXpHVJY=qNkBtYHvr[Ayxf@:ck`:@HdA=MvIUBs@VaH<bw?;[xp`f@eILbu^]sdNsmXVIgxMMyoKByAopv^AxXizPRyg:PHyNjajSl:slgg;?fxOgirIdsH;If:^]wtp_u<V??TAwWIlygPBXZIkbODUZ;JvAqEvKbC?K[vPENWEoGAVnpVlIPbKEISEknv[rdUeY`btERdcgodT=FRDu[R^qLrozLCYpwxF^gXddVlYmHdu[MwSwNtNYzImbuMs?kgtFWZi=EQyazW_JlYxugQY^bCV>KqXglxb:l^?Fwz:<jHIuGemcTbLV:Wqy=y@Ym?nks;q]owcM`tqJsZ;Nw[BUFwB[S>;`ot=:r_X:GfNv@YN>ZbRyknetFHNBa?SCTyFIb=l_IT?:c]`;>t>:`aOEGd_OrWR?>LiiQd=Z`;::hYjZ:[Vfkc:ezzdonuSB^KVIHIO;D:nQ^moS_f^Z;Y:C[zuNGr?i<EVcaBe:UZIRMs;gKcn_=mmyRtgibHo?P:GOzR>cDTi<NXfbuim;EXXFWeqwvsgTxGV>dnQtDNn;>xo:qiNLgOt;ZoWM<qisKgUoKY@ttKCi;Nz:P@VI[X@dDERocUmDR<vV=aurRUx`@oJMXwdorL^EdtOH>[X^oZv^tlmZyVX]NbAC`]P?ZxrVojxxlvjzU_^kWvSGxA^bYOnPiR=Giv^uDbQAAbpV:AbLyYlw?FjgJ@^nQlfRfwUkVhFJaLi:=lZy^emGJIRxSJxRXCIzj?xADc=kRnZ<JX=rSZ]=z;wAeaZevSw@inTb:GbRaBR>?:Hkpnm^S[lSRwNl:]DMAkuiPjNj>RAO<CB^fali:<LEY_IaDIFyD^m_[czO^A>IQLl<ZZRxFX[lWJrssmcBwgXLIliF^vDVswO^HyA];IjlvmMHCm<kb^<cKsM:c:qI?:V^xm?AAVXiywYHK?fm>yFY_CRbtsAK=bQQNGrolzUDjctPzi;K[^UllYWSkzi]MYveGr>>:weNanV:E>pjj:zp@zIk>d`M;twz;X>I:Qs=o?z<zHIJjD=KEomukyZATv_wj=r>@_zDC>XIu_E?_=F^YfM:XkBvWu>HBGJqUSlQMOICmzYsTByayFilw>ImXll]begOZZ>xeYVwZ@KarOtR=?YSy_pIMrCsFyNYllZ]P^xpxkK<Xn:OuDTq>DlGwdylV:I@tJ<m<tX<ZyQwk:GyDz@;LjtQf:COzO=OYo:hQvEmk<qyGY[jH>YMtI:awWXClaj@UtsrcznXFDKQlBEWzr_VYljQAmUpc[XyeYSjwJIfs^G>xEYuNUEpqtT:DHzAp`?B?^quJ?lDZ]^nAc^r:<qzYZFYqbp^vbWmTQqFDc`[F;MbahiqFM=ltsB^uoxU@gRxh[o:YUa^XYpcVAxxrzaTSlX_IDA^zP[yt:wz]<tIiArNDlFnvw`dQoyh[yb]sYAo_uu>AHCTwl@qjKbp[AOodvQeTX?FS@IHiOnmzSIYr[vk=uXyaBaXujiy<c]px`YrPYJ:wbg;R:X<xjrr]MTddk;qzWGduhNF<A@@M<VkH_QDXkCR;qEMJCLs>?vsa?M<zYxLT?BAvluaZ_Z[lF:>c?Ttu:J:TkCB@EXR`RxK:qOIJ=Avs<`tDKar[fzR;q;IUQTwJJjr>@Dy`zL^CKmypyde[u:<:GRJiAyZs<glbBRCZtQP>`boh>R<aI`emm?:l]izeLSg>qdJMHURqUThnUz:wryJjGEVRbsH_bjgKRYg>:>t]U]=kIJVjYj<TFkIfNcfYGzKiEUzJ:HyccczsyGVp>tl:TjR@oyjFNjxRlkMC=:ocj@pZGO:MkZLn:hC:NgyLMOEkzWHYYK[DtanB:IGl^@FEqYoluBQkrxmMU>??xi]VfoS;=]H::jxJM?zqvweWPzlR:zJ<vok=sZOzlgdrzLq;dK=zTc=zx<MMspSxYI@:DSV:CN:GeRRjCEoMFB:nk^Z<YFT]my;TEEQ@J=fYPYMJ<F:tz<jxQs@znD`w:[zpaBbzJZHB=VVNZF[;vU<]lP;YzENr]wP:p=kMFP:PKZo=Z:tblc<jTCy_s=iUF;r<lgPG;pCJHOIWpCJX?Kx<uh=fXYJChdsGJ?@:Di<upA:;aNeka::JDyKoZVBTkCLWC[GJ>?CyNLoPs;K:DB>d>HU?dM[`cLOHqw<zIIkFzo[x@D><=tZ>BCdJCZQ_=w:hKA^M<=K:SkG@:x:Ot^s;y^RkF[Wi^Eqp[g>ZeyOlSXk@cCUR<?KkGgG<Z_dMQwFrKHnQWWh<cI:WWgKlog=;uVcC<p[eILP<o;HS>MzFchBPLLoaZjMqKxh^Bqm]hcUNqp=gOULelLhefW>o;G@MIHra=uYTfP:cu<V>oP<Q`SunUORMX>lOh>MS>oq=:fJ>odFwJDZF`:g:kKA>=cCIR:vZxKBsHvwrzRF:zw>]Pg:H<y:=_AgRq];<L?`C=F:>`JrBHV=khU@TEK^hjUPukGgC:>sIJ;<EKPlmoOUUmnwhjfHc@TGPfNDnhgz>RR=K<FJ`RBxgpZ^HnLgFf@_>^hVfFDo?_>hCHqGhZvOHpP=nUWRCKFoM?@pehufO?L?JKNO::TpTk=_AKp?_?fL`ZqhRi:updoFNEzZ?oJO_xByy<x<R`;hMW@@oboMUPVt`POn]zKdy@qP>`>mNLLW`lC>=>PpQS;qP^JhySh_p<?CQqQhSzSSRbklZs:vJUCJtVHQjsnhTHPYsZqOzaio;mHvPM_zy::<ZbCHa;Xo_o;;mn`hhAHPw_BaEDP`o`FIvQQB:WDDQ;ppJNDPk?X@QEbJ>ZW<AQMo<L:_aEtoki<p]_V;Lm@atJVLyoe<WF?KPIB<TNw[kOEmKW:D_ytWb=lpqqFeN`oVr?XJKOmBENbgKzxM:@FOPIVT>RgtW<KKgOd?IcCI`;kaoJM:V:E:?A=M?Y<ob<f?LKOROiuCZ@g:RVUloqN=VA_:B[KgBwCY`>`BoKMtY@Pv@O>Ek:NP?l@_SNMS`::=^p::UmmX`NwQm[@ZTk=iRemMB<vNqZEGQsR]yJraAl;]CX_Y=jBJ::J@J:?otJ:>dGJ:@yYJ:AJ`J:>J@MwCg:YktNQz<k:IJ>aswiAr^:^YkaB=S_y[G<Hz<O_J]CO?gBj>^Gt?iBb_@CWjKTQT[FXMyKj<vksk:c]qSJ:AdYJ:>EcbdN::yyF::@COB]FBjwIwZ:BqraAk@cCe>as<B]<CXt[Bw]Fk]lBe]B?tpJLU]<ZZcPU`_^FZGaN:;<TkZ;::NYp::EwN?BjJ:c]gBjJ:_]dBaLIaJBBsN@?;MBwmHN]gpOLIN^GBvLDB^jBJ:ADz>]BUwmBgmDN];KU<Dg^pJTLIc^MwKupr;BbO:<ZBaWQ?Jk;wuR>:VgNnTX:wZqZEu=M>[JD;OEWWwCbLZ;>[A;NRgumTFPRdfEPrPxpvWBrNBcqgFSmulS>C<<gCmDBIM_Z_BCQAD]BDQrMvp^B;F<=oaSF<=T]eAArNWoicumpu^ig;F:@^Tg<eE]lHcoeCu]J@SL?h>ggCZ<lt;cyrOa]j]NTEu<[xSf@ggKxQjMa^;xVv=u]Cc]@o_cj]>uDOk^cmf@yKlckl[vpMgS]`i]T>DuHq^ng?eB>JncoYLyBIcpuHL=ngKTE:[`c]T:X]uM:@DP]OccIMq^JxOU>elcRf]aRdYcyIPPkXfWuGT^_R[]`[^agLuBl^qD<uDs;Mc`IPakbciuGl^NRauGC]]RaU@ataDJ@BM;ZRbILl^:>HaBS^]xU][:Rxc[KqA_w:Nu`Ulacx@DqWNgK[pH]<Q<]bxoVRkPHw[[RdQ??]lc`uFnW@FDPGC^SR[TB[]Cc;KreBZR`TE?]]kAA=:NAJOnmBdv=Ld<Jc_??;LgFVLGwrA[d:Eq[QJN:GRpG;ZJKw<uZAT;e[:Zo:FN:M:DhN;KNdj_J>?b;i]DQlAKYOW_JddRZCm?Jg:eW<r[kmVIqDJ:p:@V@a`i:WIbc[BsxJK^]sZHHBM^tZCHCKsYnNo@W]@JOqFB;rRfR`h>fbMkms;PB;SKI`zI?Z=A`BkUllx]P:EHHbVOvGHH^^ZeMHIx^>som:E:]XLUbn]CPWp:]lf:GtQX;N@;yp>N<:FXI`:::DL]OLlVFKC`eZHlMs;h@RN=A][JLXGcNSs[N:Q^bJRJ_Q^D:f:AP_w:>Z;R;tlM:=sRL:Ce<TZfsfTJp;S_BX`I<Gb:xnI`=kwNb]^QFHyQJ:`:Jaa]K:cBHD;dJsv:^z]:>[I]:LMO:J@k[Fc;L:M;U@KppLlwL?:NCtPBSU_::CCmeOsBk:AqzJ:Am`J:?y:zD@wZy[J:@_tJ:=hsj@N::H@o::`:luO::<Az::GwO::QoO::LAz]>k:@rsk:?G?P[CuO::U^`::@OW::BrLWR^XpK<RLHBkLGDBL>BzgOWAZki_o^T_:J?oVT=p@wAnX:@>Fr`XBm?;l=TKDLGIv?BrC?`>d@JNF_DNfOyx;==KF_LW>lBn:;S>qJrn<QsaB?FLRd?KFRt=tBFN<FqHCuO<FA>^FBJ?ZDIv;RF:^BuNX`FcvFOX`ndYlFi`r>d<]T[I>oCBsFJ^EZn<Fc_ggB`SqZYGkpVhQXBAEWU[J>=mMDr@ml@Np:>pns:L`ECFEVV_kdEdZT_qj>J:YURR;fW`pPWn]prQF[qs:J:;?pEGkPAhoJL@r=dDKZPrOgpTMXr;WrvV?@FWrH>V:LWnU]>i=LqL]gJGDGzZp?MZmF[gcpMbt:Tktf;S[hdNcoe<tsx]ld;p:V:<OkQf:NLPMJs=DEPLX^PNF;:h_pb@uFPRYJ>PMNcetENO_@@@:qLHR;tDFBb_ga>L>HVUSF:K:_kZpSlLsri_o<]kR?IX;mZcRn?wnb=SQI_^kmDpH=`ZnmlOgROYEMl=`k;o<zRsM:];^Fxn=Nr^FuZTHZU]qARL>`JiNHWqa?eN^@MR:t_ac:qBWkjVGZ<RNGsNpp_v>erS=DJn_BnhUZbumHWTfB`EZ_LNeRnCM:CAVGpF:V<kMcli_=:?cOA[XOC=[Ng=Ek;[_NfyG`NwOXOQ?GzsxINhtCiSU[]`X@PU_asZ>ZpFo^W=Bb]T[SiI[[@?[AGdnucJ=V<p<ZGNnyBB[jsz?KbkrOHDOmsgpIpFA^TnPFrfGLNy_rF>Wk`grQctNiR:OM[aNKPOMRopOH:LrNZwCV:hNk>;pMKlYOBGtGBnFChMpK<pGnM_;>pGhM`i;pIQdU;P`ET_RRHX@n=ox<U_=M`vG?<WMcnJJ;MMnZGGCKMhN[DGpLYNv:L<Z:yOQ:AL:yBGG?L^;NGB`LukEkodMskqYNQS>EOXrn=LB=iEM^FEBN>ISwsq<JbMznWso:hSonsFwdJVVe`E=s;YGBrRoEGWECkgELD]IReMR`E^FdocCCT[XdBxFQMMoy_JjLcsexDfwGoqxDrMCZq_rFd;j<K>=]n>@irWMoonpCvLYswNlB:s>wOruLCQ?;ClswXM;HkMw>c[ECZm>m[GsMi`C[ERMH>f[FZ^::Fy^::NRG_BsKEukl>[bpPGH_Jx<qJW_KiPvKDqE:[eZ:F_GGrLx@B]JIMK:<;DO:BFfhBnLtONVQZnIBX;DJn_>oDGJno>f;GkM<>s[Ckne>i[IkmP>x[EC[i>m<F::lON:;ojNcmK>`dkYGGFH^BIKOoEt?yKz_Ph:aJgdG^HW:HF[xFbLuM?d_AJSNxX_`xpNo;IRngzPR]fMAvU_=rpb;=_AIhX=:CBw?PB>Z?wnK?;kLV?MBBEDQMc_sJ=<mYzAiNe>Z[Wy;>Wk[TBQ]?::Lph::E:W::Y=G::=Zhw[RcMD?PROUoe:YFcN?cOcgsm?]nZg]uNLnEd=_`LmS:WEBDGNgEEE]?T>cfCDnL[?a=HBTFsnEkOuFgnEgKHo;t<gnkBus:JhIFfe]dogpExLFB>EYSHTlYGVWFbRiFlgoAJcow?bVnQNfi?gnRZFJ?IdBgql`en:g[fIwL>]FEIO:BgufGdLEgyfI]msEYGDTm>]?fI;B:[GEC<>u[MfG]>s[IEGun<[YfIDmWYLfHs:ngykQwmRg`kKXnF;WvHLmwq<:?TnZ[=EIyns[AfHDmJVgfF@n[lRUHOGKgutA@mv_LUFHJC_Dg[amUF`=^=^y:;UBTZ`g^g;PmRNxUIjLlNlxEdFxgR:n?pOgwEAaB@eKtHTkCJ=sr;Mi:eKptnrZ;;`pgNcd:@PLFcntDm]v_ZN;[M]>k?B?mz_tf<rMbBPDDFCNNx>EH=RfQEO[OU^WD_?NaeTDZu=rUTN;rxTNV:;oZZpLk`SMtZ>Z@uZvVi>aTJrB;rD^cbVhJ;WnUVg:AhnKgV`In:Ds``Gr<XkARZtWEJEZ?Gm<NlAnamjBDOLZmjNjhGm[y=:glR:f>fKGfMKq=hDMnionGGvMgofeCS]OcmPFp^uRvPFy_aBwT;Y`PBgBQR]BBpwIY=ABkDB:^eBs<Ec^UBbLDZ]sBd<GJ]zB_LHVMbBr<FAMQaUjFw^YBfwDAnDBk<Cc]JBwDDK`Ek`]Fm;Uk[jBY<Xwb]Is][BkYFN^KBcDFg^ZXTmBw^o:GaQ_^WwZDIrnqwpmBo]hB]YGInjBYLHF^PwezH<]^woDCg^kBbjIg]QwsYBImhKJQ^V]vwfzFw]YBrcOznSw_DE<^JZ;]EkkWV^g>ZFv=YOlG^IVBk^r;nt<qHYls<ZDag;v:C:dm^nsII]Jcwcr:c;d=eKQrAZgwwV<_MbJ@KHLFo_gxHFM@BjP]NMn>]Zj>MG>uZdgLx>ilIcEt>uCFNLz=?KF]xzWNjIO]duNu]OkDws@G>MDHS]Hj=Owh]BrnIBtjHuNIk]zDV^zwhNN`sWp>zES_RB[<CJ]B<]mEsSpKGmEsRx<_[I:DG<hjDc^h<sY?oDR<]wHR]i?XjIj<HBvm<rni`JLHFEbBrWQO?pJSUa;tE<wzHbmxwjzIUnh<t:Lp?E<dzCF]U<pzDnOh<kBi<EvwhaKzm>]]BfgEpKTBgg[E<g:hwDh<ZBe<EJBdkipnN<[:ir`w<]hlWk]<]cfN;o<bJkwGI:U:jB;L<ucjmM<<lNreDc:NZjVGF<a^DcEK=UZhcEx>iKBFB?>_lILFa<qF@:cqdJilLcFORWJgL`YYvkNx@yFYrLKF_<ja>FeyLrrqnevU>JMmgjIVJJJaiIYNI>O]wX@Ox:Y@;=sxW>;kkFJPiRJ?eZQiLB_v?tBt]NF;jY<Iqt;zYJJ:bpOjWUoctn]yxnx?q<_VNXwG]cAqNwA]wXqTt:>Xk;XDr]vm:yEpJVI=pwY]rrnyEu_JJ=?gGTDPankKnYB^k;aCUK]iD`skrrPEeIHseuwJYQb^;wEIIZAT:DLm>eGxcLq_iutuLel:DO>_>dOSDU]srl[EMIOvltDaLnqKcn;L^_ittKLcMmhGxZ?Z;B;ZJKIpSD<Vk>Aw:vRcx?QZCg`^Fdmv:GaPZMuVlbH<<ZNkQF:JjpAbQX:qWYbN;;f:=BGnwL:?Nc[DpLb><CmhLsR;pDdgjNcuO=Lut]nOGJCbJkBCV]of<?g^@ogtpvLpImB;ZJ:ZAmGSM?ocpDI_ES?CnWLkB=S`kFxXExEDVJFhGDGVwocDFkm^bMhECL?Ik>oDhYAHEh<VonHCnhL`FexDomz^HvtFmxsAxE^LcFd[LJm]R>EEV^=BID<Rwfx`edn:`cjeDNwdim;gSViQByM__xSHBhnsIDBD^?MBeG=ZpqFa?BEm[OtG`nr_wKHS<j_qVduD?mu_<QDqZQ^]@<kCFQQwotL<RFsmdZt_Ca<WLYIDz]mJZrDy?nUE?BDo[NqII?C@J^SL?`iNn>GXg>fD_EOh;Nz>H?MsfUwiADscdwjKM=Vn?Emprmo<hGnZ=<rF?=>r>NCK[InNt>`=HPOPLOmLoCNnUJ`Jon`p_xWGNIGJUHHoG@plFVUMVtChTqNpSzoRoIh_CCCY]W_EJaLKReOh;==h<YSUNIAsIh<c?ItbPOoDjt=h:JFx=MhApbUCeLC^>ipECFGZnWUCV]P=<DsOHPXpot@Ea^<Qo:Li^ZtogLAn`:dGFFLNmtHt>f`etPiQqJloTRAUKh]pvF[oBdIFI;pmkp:JusNWVZKtR]C=AKc?itSAER>HkxYkKJ<WNXPCpdmSRZrsuVIIEkxfZUTLd?h>xuOd>ZWL_Ln>B^;DeVfmZ_QJe`Xkro?Q_FesW]M<pM;nDqnu=@JP:hMzXJKZhD:SDg[lO;=JNv]WqTxEzLx;EQIz_d`YL>]VLOGEaBOSIB[PsOD?Xm<>Olkq`BgOl?=VHb<A:oUqwOU:h`MBOy?IeicO;eiEP@edkeKQ@euZ?wJMt<UCYGt>;?YedFN?ehVFgNk:TlKPedViKN`hsv@Pr;hG?UKOoOx?JlKQ=xedtQQ<^enVH_Nv?JQ`=mHe`yQ@g_XRY;v?ieCNAp^S^BqHJEv[X:mVFnRrl>kEXFa?p=Fh];NpEJjnX]qgR[emDEKLMUIVf;fA[B@ZAOuOS@g@ZCkm@mP<MUMtMZ;j`?PpyOz`J?P;OJOYtM_ZBOD?MYDsOMzNKNic:e=T`oUBCOTel`OxI<OxBDCK::R`KSJFkPTiCJS:N`GCNJ:F`VO>bVr:p>EmOyiIZ<DNVKNdJ<]D`=dMu>H[SdLOepTxdMS_H[:SL@Nmh>CJ]OC`So@aNz^<Z=aNTsw]<^nRBCRcuh]esVl<LJlFCCiLxdOCFYJeeeJbMmR^BRf]frZQKG@EX<ZlChKjTkJcFdArHc;lNRFvpFCNvjL`NFW]<ElKaewAQ@i?NCIS`NuewAEufY]IrWRbMek:A`JHW?]cfJsNKONed[:xZLDh`xcetwQr>GehwN:;tuo::eHMu>auk::[n>wOR[WBrr:etO>hTcUe`JAuOUey[UihvedB=IrDx`O:TQ_[pOF:?@_lcEOQV[eCPhCF[dZ>GPp[psqrrhxO:Srpk:rY;zlq:;V=VLX:[:RydJ_DLt]KSEoZHnPwGsg;YqI:bZiydvw^BNhQvwFD^mhQf[z:hJHNQt;nLX[CzFxJfZSzWnNwoXp>J?fNzug`LBKDB@_=<?Bb?ycaktZU>@I;eGVcFEe[pLie;`YJ@XmLRKn>oqrO=XIWMHtwLShIYJcsM:?N:EpDyLxVqePxJ><npWN_kp>GN^QXZL`:fr^w]JXVPaB<:Wrq[:gz@g:a[hsXBpW;TZy=OcoVGU@:RppGK<r>TP@_^QcpIp<T;^Sa@s^Mcpd@tKhdK>Lg@OO;t@xKe_TwG<O_V;DUS:=Rpi:?Kii;iG:>EOL=gxM><:L:QFLZ:@:KgcZmGyPyCg[co>Z?l>qz=jlFo>>FnMrwmp:Yp`_@]fPJO`CVcApFoVK<YlUOdzOnM:T?zAhLuMpg^cH@=nmraQ@<YhJkNqmUmnN^w`p^H>G@ScD^@iG]gTbVClemuqtJZfmhLp[lNZJcdfZpaJjwis;LTwajGhDTZ?L;NJOF?QdfBOT?QZfaTzgDLNqTt?NheYGJO?TT[Jx<dbKeCSfQSS`STNIqS]oMmiuo]Dy]QvsmDunZx_XDpUJW<WDdp]o_ZtGoIDwCDpg]_fnhPLfx<fh;Lg=<_t:V_V_xZDQ:L:k[LTAqGbJMV:n;yJM:@XU?a<R=XUz@PB>yUyJ;Z@f:y:CFAXTZPftdHMV:CB:[U:PdHq[TA@A::xZkPy?ecS>Pz_@eZmBdBAtWkPxtJyUcPZh]L:oPZ`e[TgPt?cB;N`WOoEWlS<cc>KHlJYqp_^BLwbB;cZWs;AJhZQthXTaP]CgjCsAPM<Z[GtBVM?;cJx:@zOYB>xqBM>TR[@BL`dEe@BLzgR[FJwk:nI@m[HaTOgUls>MOinknYGOfEcamvD@gC]>ZlobV<cYs;qZ`kbK`k]<cAuhCsTRxB>nMK`VOeOpWkQP>V=agS;>]V=Pfpi:cXuQpfX]lDQphZE]O@e@zOsapJ;MlNgDaZq:J@u`]_OEavm<Z;vDDwMC[hTR[HG]?TP:NJFSwUJmRCMJ<GdbKiJKGiMTrgOGiwZb[CPjyf<q[Gdx=?RyOcS:tPpzImZZcNvaAlSi<[lfU]qihi^U^PhGgcBFqt:cOdrwK:qgCwqlC;fTTcOE>BtwcPGhX:qpPhhF`NgNhey[mqxGjUtH]rTanU<HIGg;c<qiGg^UiqdWeMTNqs[FfUo>zWjbUsqcxd_fjB;hfOUU<dca;t;XU[[]Liq]O;vT^PfRaBMpqjVcOcWqzpfrTCqZxdbJdqdT`pktqcA@jTIqsxdQT_kGWcATGqbT]nTg_W=`rTYVLxeZv=qa=hjTsHkjMIUs]M=cQTUqzp`LlvqdhemDbqxNL<[GK>WrQ]JHlWhjTXuAxgJuzqhr=Jv:H^=hq;M:NB=R?PqEseNeiBQG]AZoS>xqJKMbJhdhep:RMfNkIPwE=skto@oLmloLTXAh;WkSnKB?Ni:c<l:pHgDbT:<iI`KxU=:Qad:udHaMg@;IwOB^dkFqTh^`;VdXhaR>SfGlJesZcDgFCgL;Du;B>bPrV:B;QPkTAWUAo?Gc=UrTNj@<va<e^ZS:kidqe]vCNdZE^cRiwGG_R>i^r@kKqsQdb]xZq]k=tNwHrJqFvDu[mK:vvDVngtC:ighiguEEWnemvH;@Odg;lH_nejUcRGv@DuJikeZNus:Lpek;[K=cnNGFqjuald`TWbluRC:Augf=xRAD^ltxRDu>o]eipJAjTuizEdVpO:?eHA_ZJL?_Aet<Mj=skiZJT:j;uJWC;wZaJ<w?bJT>IqEDlxRKMd<gOHgwbNvxH^cnTgDiGnfY?::JPO::?no::Wg::E^o::i=rUJfcENMakStPd:RFwiyWaId<qcffPvdohe^TuHin:=O?xRAug?slin:=yfCin:AO>SiwGF<xtioAf<O<idfg[uOPqdbDuEPlVDk:x?UfgM>qHyj@nT]XyEhld[iqTrVOriSAhCsoXsNMHt:XlEit:VX_Rn;vwXfu@TuyY=>AHvqigbdKurHskkBDhqfC@Lw;idnfwNPX]J;md_;WbfGtFX`EdusJXjbflu@ia`ZCuXtBH`H:LXgQehThKLbjKdeXzY@nUGX[;:Su?XxlQMt_XuIQSvJWJngUkxPrbdhFIDVAcGv_Vxq^pTMXqAjGuO?AfeATrV@rcxuFiyrdyebXtQdoRLkjvfWvH;YpipvjXzbfpuBXkre^df<>bfT;EikT?NuUiZwbpZhHsg<EuxH_jg@vz<MAcFVjXi>KxvMHlSL?uAI@v=nu`HevhovlkDjhkZWaVjiivDy_ZKmdpX]J=yv;i@XPjBgCLw`G;oPk`cdU=cD`geLjeMgMdU]Pl`ihBgRO`jSUHPbtjQ>XP^YhFklJ:OhMRU]UCdK?KPv`k`U=EAOjdd^VHOdx?@qga<OTmR:piOTyqmOdq]UxFpeQ;LXepi_^Lx;rdVuAP]Z@wv;cQnjKBrP_k=_vrZSEhLB>ipIg]Vuyxi;=T<GYEobTMW@GjYTLqoxjvTjeJWi`v[qaY@ghwqy^fpv@Ho^dITmqZ^fs:x?B^iZv>qw^fC[AqjZ?UTX@=hfcAgHlGiRvV;nYAk@T]ySbfkKqn^ft^ZHgZU:uSql[<kAIqbEdRuw;d=iwS<HRZUrUL;f=eETVH]ZS_AOmdcb?>O;s^jN@zaHxcYuAqthhlCbqxN?YTH;hJTsAryrxhuvuw:=fATZHmkT^UkH`T_Zux;v:Tc@X;`T=sAGq[PbJs`;^=hoAu;uJSk@Dqk^i<AH;nxgR@vq_kYwDSXP^iV@LHZkXsAjBPkY=vuw=^gV@iHrgOsv<dY^fpwLdRfh>vIya:UMu@y^IhN@nHmAgFhqyZjcTsiy^MhEuyybMiEu=HuffZAm[oQ>UuxXucXnvw<DnfslgdHnffSe]SY>SvbHypiKuIHbjh:@QP]:Ywuc;ofhQU_iuPaBJ>iiUfLva=S:VluViyjiuAD[wsExu[s?bMDuyFDuoeuiXaffEsCHZQeM:Pyoi^PATV@Aj?uiioIeduv;pa_IltX]sS@urHwUdmNdi^I^tOG[qsUpv`iyG>[vvqwfiqvo:QUh_KHW:veHvH>NvjUJEitMgEu;yvjdB?P^SioXu`<Um?XvIibvjSvVkfbe<Li[]R_H@?HRsW_ubTcIj?vsX]RUwN_XyIhKvKyxAi;@NygWgd@xDlUjpv;Xkbhnu?HzIcl@@[hcXTA?ZYjgTAUiujj@@yOC:U;@e[tjde@MrKe;?@Hyn>S`@XygjhTA;ytAdAuq]`ngtvtHLGf?:Syg`glTRP`?idT<rSYhQulJ:ZAQvDpJnafNKJFN=STcZ=`h`fiPztcFss?=DPoRUOJOhIvweywd?U>TlR:`UhtXzcqvAyy_[E:UyvzjL;YynfhUUUPdbdVu:;iRY:@keKRSNFG[ckRLuDKvpgUkW[_;qW;kq[^f:uRqoJWN@Q;]JYV@J[sxd^Aj;hOiG^R?Nh`gewqmklmAB[o=dGpoHPWe_@Pla:^LAPH^gWWAilwyLT[lqrBUsuMJ:MeD@HLOJAI`XKkxGxv;KzcUCMLY?sUGvolxsVhvCli;Pb@=VMFC^vFlobZ;vE[coYTASicgYQ@KeJhc[AOivVWdJ^;a>YKCsKzUiw[=isvf:[NKwvh?AHy]NSNOvirWQp[bixviyvqoPkcXuV]nNPj@fcMb^tNDKdNTH@hlzrhwF@KepeSA:;p_VChqqhAgALGXggYJaTKn<SH@n@QVW?vRXc]VI@aTTQgv@e_MrcxkEltncdvsycNQSv<XDfgbu?qwoYlUBPeoVdUUK^OkWAukSoWNsihNt<rujKbYhx@DpTLWW@jDu_@IuDmKV`w__CVzg^AlPskAC[xBDMiBLvGGWgdOmqiydzUEt;:Ngb_J@DKgbvsDSnL@fCgdDVbUCcDAgbLOSFRc;NliAjmsFlmRRA]<cAFUwvw`NsSP@h[qSNFb?`;EhneRdlHi=Tw[jiJDA?pRFSIubNFziE>EyeFRHwZd`:@WUVltQKmakdy=cLuwHqVR]axIFGiF;o;q<bB[[l_=cU]VwmZWQUOVtCqwZPRHgRQTkHjti;RalpJ>Ta[J@T@Ta_kKmS;CqdrgPVAidkZ?iRQJPWisv>dbAPLbB:HVP`C][mZ<<vAlbcWN@gyf<XPAsHb<YCvHX^chZFdlfJpWKmBXQfhUXCyIda@vlxTUXlmdw]VTvDCi_SClvDNH^rA=d]rgRby;wZpHa>=Op;ubEdmwXiaUlnnfsalSXGg>aZloDcw`IhMLX?TxIEDUoa<jCV@<a?[wQmmFmqoeYXaRdeeUua;lqeUN;udjQc@a^BBTVoAqdheRubCd_rKuaLSpJUCbrZ<aYXbPdmbA@bHdyGeaa<:@TUVAtd[VTOW<[pTSQAvdwDTXa;KysV[uViZuSKu^deQhyb@iYuTVGt:<uYRaz?U]SiaoXiuUDbx[e_Wpvhdq_Rguxdi::ybTCwQdsSjdvuZObt>>wUHaY@DR@;bC[o@SmdUd]@Tbv;Cxc?LaGCcOcmaBlr;PmbNSlpfmaYH_DTDaUN=TV]VWS]eW=UDlueXf@MWHeV_@@dzF<TbDSdCktbTSq<bda_toaSMb;dtWhSa:Nodknbyl`kWH>XSwe=tbtlzBVQ@[ScV^Pax[nTXdAbdmPUYAdSnuW`bESiP^ybUS[:mIlOS_z@SAr?=PU;aeyvEhlaatzPRkbPtrTUXaAdaPRha@CeqVrUaCy;MvbvSd<^Ob[ttqSvvkS]Yg[anKu_@=xpClpZKbYSd@WoaLjQDTFZJt^@U=b^SrEg^aCtxejlaTdc]_Ma<SdaSSaj;eaVp:LthyWLlgtnyUnbmSZiRXaqSZ?BabLtvaWtatduiTLbTtlWPQ@XtOJ>UblSbTTcaAt[XU`akyd]TObWwD:ZAaR<BXTKsV`?qTpbW[]XYJQ=S_ffbajcNqR_:YClXXHag=Y;YIZc<B@TrbL?uRRcQxtxqTIajp>yVw_ntgFYPGFdmyYjauZW@UnAFSseVEoVS[uUlbRtZaSV@Itkhezak?`eTEaztaaXZPuSgBOubp?_;XSbG?_TRZQztyHTnbddmiUZPXHZPWb?;HkB:UaGdu[SXa^Si[YqaHtt[Y`aOth[TOc]?xh<iam?rXUAbH;DHWVPStn;RwPMSv;TvaxmpXY;eLE=XVWbpSbXWWay?ZLR>PgXS;XKmCcG;Yeu=ShlT;kKZNrek;pBb>UNFfsKu<JccRIGiAkx=?:rUJ?Z?T@aRbScYd<Qq[]T@hfcdmXWbpCH`NUYAi`_yQDvm?^_VPsei]T?]bX`Zfhu@;`qXSAZy?VfiKcL?jrZStliZ]Ti[pBzP@_Q<ddRX]QmdmHX?:AuvhLEe??fuAeQctmZ;YAAt^<[Y@=`rgJaQKS_TWpayKnVV]PVo>dW[vVi<dRyA_<[CUHanCx=iBQI:xJ:KZP`x:@ifhtxdYLQkZICTHPN@ucOmvlSy?TLTk:RfgRQL`n:>o]^d`:?mJNXbCJQ<fPx_TG@wiNjitkUsKR?@kMCZGdb_CcT`XaQyKrOJXAz@]AJvbgOg`VXV>XnFVhssyAD__]oXo`TttHNC>`Plyk?:;T^f:C>[iQA`esnt:s:<OT`PQ`^VS:ulOyOX?QNkW?Ye:SsWsAf^pcC=JjlzxG>X:bFKtqGO;yO]JAnvWkEK[wZtZ<RA`?CKvMib[MObKZ;vROdtU[_`OdwUi@s:MOSwbdBiCXI@ilp]VUki?zpY^uHqxbcusrOe:@iQIOfTUUNQlnOW[Ajll>WzA_K_vjTvatV<RSsrlJ:=Bx@BOZbQw]f]:^TBcuUtQ:K[vd`Pv`iGXUbsHVN_[@oktGUqvNpjwSKAFpivfTFDiAGRCA::<k^::E_x::Ny]y[J:<YWJ:=:`J:@IBkhTmE]pyYDCtPX[bBt@BCq`RPQb?@hTbbePIcYaPjexNRtQwuf`XVvO`pbcqQYCvSX=ak;oHUqQrOcD?DaNO_tYiPNu`K>n=E`vSKNKdOo[KNKvpxxSdsE`xeegbfpbRXQPwHzxR]PYOciKwahi;b[wPMdriXOb:O^:gAbJOnY?TQN`u?UKvX@@OWjQe[KuRDP?qstXe?YOn?YSPiXRVIGP:RH]RSsfcJOWDZQZ<`SkUlGT;ddPrOiyfQPy`_=eSQBXiyd`a]GlaCmNqRbCKyeXOb[Rt@L;Gc[?PCROOROQNkXxV:qCGxOYJ;gG[UgEUSGmORpP]tEk@pQWOhxJGQV_BpVp@@iSpWBrEOkjfZVpQFBQhQjT?cTWPl[xINXPQpkyKRqS`pJUr:wkMZ>bSaOinUFMmismcCd:ped:wrqoN:;blvtWhA@vX?hmjIlcNSWRwrr=;`VEUbGosJs:rGmAi]rYTI^@wrJTQnUbEEt:EY?FYBWmWSvJSjXY<qACPnTga?GrAhRqxXyEWVrCHWnUDqjGsPdwqz`eVYwrLyrEXwZm_yIdJLkh`iNvkk:NfWgaE`wPXer>hqfXLrbC[fWSeFhtfSIAPhvqbTqdbG_W<]Xh[gIIkJ::UYj[ZGb=XdRKhdEUYAch_D=Lr@huUUkQShvEUTqZhvm?MUsyzE]Ha]hrfYIkw@=CT[a;?qYjCUfKlYddUvKqdUQv]qVNG_aIKvYdx@xyjoUU`zhk>AtTjSoySxbK?t<PKbclgVWukmRTzfCZbxKOeCG]=R[DcGQ=CZ;zT<g>pju<<WhJ@;e]WxQPBLLJwbVy;DJPFWFM?Pk<mCqRRIYMdr=tBbTfNYqjRCPduL::ESx`PfbpOUY^QbXo=yYSs<Cq?xGOiy=@ZWASc=::s?bOTsifq]lG;WbJE]:dWswmOlKWfB??qlDEmUe:YCwdYwbpSkDUKanpyRS_P:ibVRLuM_;EgFg>ij:oiQf:urVwWzxNeUYpLdebWtt>;dD>SrfaKrUN:epQrU?q:xfB:=qZqt:RPa>FBeJVPV`_MgZFAGz_RkQQdm:l`bxWdXXvbA]zy<oF_=KdSEZkOmsK;bNGsMVlufWqEXxQaO_t;`aWpB<UoqDyv>R=Pz`lkprkfWyrhp@TxtnMl`V;AU;BQriDgBO@lH_jWaPMtS`We@GKycWUrqZTwScGdJQ:HKpCx[Dou[DttAKUqgKhjYAuyOHrS:raOdzK`avsejWAr`xqNSRPG=:l<oFw=E[VPsrHm^Y@PiX[rYvr`KkYWO@NZgH?rPHYSAfyeDphhhIPUtwxUjbEpvAScFRdZf>muiXjzUVGUxhhNrPc`wZ;:ItG=iYPtBCqeqbqukk:RGs[GqwVzrwd]xRtkFWaD<:INCv:vLsk=]]YXQr?igAkIhxb>RMotTeaGsrV?uqRcFb=T:tLQr?@^hYrqXbjVs?J[PZoBHPto=Yqq<gSISkQY`d]RUqtmk:usPN=nPRtA?trjYIV>>UZzB:B=lISkW[kcRT`;u;Xnf@AAHtSV:Ay@=I`AajH_rRDbB;iKUYQOWR@hkHk``lXqqX=Z^W[unNiCTPehs;sJGlvXbD^l_FXkjXjqS^JqE^ry`yzUY@xgR@esq@XAucBSN=cfSqQ^=wHVNQE`j=dzPA`fbj<Qf=]PWsI_V^?YBquxuQfeEcuVkx=Pp`bK`VfDGm[UXk[htBsMq_iJzWrku]m@j`uVe:Q[sbW[prY_IVfS`SC<RKj_<J:JR?kCDNL;AmRtvxpjlQlBx=j`RVE]Ci:wLIrWrkt:uP^ePYWrq^v><uIQ:wZ=oIa`rV?HvQ[Z_aYq[il=Y;QBOdAZEqo=fkxjVxxDRsArmBBYTxq[JIYQDv[[[ZJVuL;J`Tk;ly_?UAvo=qyUGrEpc=VE@P<d<_iPZ_atWsKlthv<qr?GojU:rFOnNNmIfSichZ>:g`ksJqvPt[SmcExbK_lvS<?lI_I>pe>XAmpCfUezAapeu=MQzl[F>:b@?spY?ADyr^XnQBCZ_XPsuMi_ubQDBaWVvmvh`Aglvz^oswDQ]=q[T[uz=;XSyQEXkCVn@VXVBwk:wS>oVs>frDVY_I?=_Zu`Hs?@svNHVdNRTR?GHzwLsb<^`nfXIjx^sv_QEBRgTwGLdqGW]Iep_ozfP_:XBt<kQlzxV^aQlzNvGHOimU]GInMqUaWHOij[^WI:JRpBWI:J;e:gIN?ymbhHGxw>x[ukpmczMr_>B_ryP>MmwVg[QDoSTG@TiO<VGIt=wcttHZ_bWYLIlXanWMqeS_[SnI<UHpGsQgisoz?agMlhYlH>Kk_xUPFpgvf:bHpfNQB;ZyNDHes]XFra?>LkhwQg]jBl_uk]_XP^h??flbD[Wud=ppU<QMMggzGH_pmgtz@TnZ<YUQuntiogZanoYBVDViC:QJLTMre@w[[JEmId_hnd_u_]qnj[]AIwOZOUftlnwoxDIJMw>TbH]tChTfH_Ks_xCH_Y;gyQHlKWIa;tCiLUZBS`i<YRC@SJAgsIHyncwvyeMntrf^sfcJr`qAfMn_sMPvn]gtqu<MdwvUPunpwuQHOnZr^Gsx?HFvas=nbmA`:ZEeqabQJEkVxYqS[mf[ZjnMcFyLImnhBvQZ_ElwuCINEfGUYHOnjQbN^v?IQaav]EjGrh:]Ej_K:jJcswxIILGjvhhLeElovZjePH]uA[_iK]xbIopyVvJjVK[vjB:<LHFw_^pK:XD<EwEvm>E<PurgyN^yn_LyKvOXoVw_j:JOowlH>Ey]sYI?EtwsQIoEhLzF@ViIrZVESiIwv?>xE[eAO:PuzVxsi[EZVz:jkplIcNoEnp;SY@IMamtPvdn[LtUP`E__uVjOElgzMtQH[e=sScxMNQO:^dhwQMp=Es<yFjLE_DwChcE^_UDiLnwoyxICnqDzjHSn[DwViOEw<VatpEufbF@_;Jr[xtLGhwNgZ<fkDuDj[Eg<xIIjElWYFAEEd:=xHRf[hUgjufugwLiQn`DtTjn;r[_mSJyKU^^uYdCe=uj;EZTy<j[f]^XEPiK_cV=qSMiSVZIfgGxmsqqXg_yfrxxgNvoH`xvNUwatKlndyfri:kuzrMWrSXE>HWsgXtqY^SsAZ@yWqd`yFZUcQYJ;JUZ=UtOTYMS:^u`Ksh?tUrG^bYDuAhpI?tTPktriXj=^j:y`qqYTLtgIBX`nqyF>Y=iUlCfle=TkGPXBavlii?xux?Iy@Mb^=<Nys@v^dBUsFvY@uXbNqdwHtcpBuGD=r^TscT=cJvcIPXMat:x:Uf[Xk>=K`>w_^]yI`PLwqUgctcPc:]@ytinSr<U^sRRZPuqke=]auIrzs;Ps`iRnmRYFj<Cape_IffaJtV:sZY@sNHnfdJvscgZ<jUDiKZV_vAqe=vJs>qwL:OUVvB^zFXYw]:jyfyIzff>n;j:jNHwiQ_j<Hw]VQIEqbxIbZkHuEOFMZtPSPCW_QenHfPlUaj@jUyFsuQQXHMW?PtOmMYJ;dOlByNr?OyJzEjOGhFINrfaMMYpPZwMJ:D:>:Tk:n:hINpYUJ^GnmArCMGipYUKs::[:z:QJEhMfiUT;MQpZ;vqX?VkxkNKlNCNM]nT`@gJSpUl_=lb@xZwu:qqvMHg=r@vc<SSgau[HOteat=iUUqasQQ<URI^@Iq=pVSSi?WaqxMI`UlgrN=hzAawpjyUjatpi[UcwYfq=>FPsLxGtsqzOaEvf]XCPdiqr_lucviyzSjt`];yoRQvxyycdWUkPsIjR=NPvR=zvs?UhTZAkaoo]x=o;ujjL=ZkDOlGv[yzzx<Al_=ZXmRl;szj_AmasFKRvc[z>HI=kalft]Cmr`fupKqqx`HXMZlne@lKxqsbq>=geKbrJvXYSJ;hFACNXj]y`XzyAkfp_zsRtUfNAsPOZBLRKUZP^vU>bTPbvVW@dC^a@U=:WyLX;qQaoAStRxAhLT[r[?aARDTsW]KWLO=ETmmpragFJiBMRl=qfgamRSnEz[?Wga;VXj=JQY`<CZ:QTR@Twfc@gaZbiJxfnmqo>dZ@f<F:@BLcb`k?]CrZ:]?^AsLdbXKqGxJW:Wd;WfCuRA>LpgVFA_SK>f`UlLNCvjTLbwhgFg_R[lw:JVRudzX;bczeI?rg<bxeFCoLxltNc]CPFWSkdWuh]qB<B=Z<]:dWoQBx]]WvdzTXBouk<wXbC[B@FsQylj;AG;W]kN<YgcArHSqs_hSxDYoMuRfTX>labbEThbdKIETzgTiFPO;W[iFOTf^utZCqtkv>;prI`l_Uwa`kHpeGqZtnuuFIzU[yS=rWcZr?]IbtuuFVXpRgtTM;EMoPe[WnsVgX]HjcCovyH@=MxWwF>;CKW]:elgJSGpc>s;R]T[d^FsiYWxDtuOekb`lIKD_[zJTP:IywvAgXmRIkbmZGJB`wwAu?s[FdYNrIZlAAUqkmmVXDQn>]dXaQ[^iL@LQiBzdXHQl`tdYIqblvqXYq[IQmZwSGxitY]QlPC?Xz=R[F@XP;uhi`Y>qiOxDYJx<Ou`Xm;b`x`YUsHFOwYNW`hiOYhQaOyQTdHwhcSXorMaV^TkH^FjKYNtymbGMobattAJwQ^zjwXgbmkRoQWbxSuYvEbxsAmZPc:dsCYmgS`so@k[xBTmIi]wyOoGx=NGtOYJ[w;UUAY;bT^eDWeQgUt^LtbOxFPMSuZTtXMQq`vFPmROFYm[m`cOyIUPQhPHcAX@YGzfAgro`wekqQePEWjxx]BU=X=;hOsJut;jVfeEHr_ZYUXLQnhv?XNRnOzEYUqcWwGX`QgWsc@pQbSw^YcMvcfvY`;ZWxpXUd?bUMUlQjZ>`Ydr^hvpYQAbSwOY?iAWxtYvDPU`_AX;yJWfku]dfaB@FryGsEY>rfu=IYqQszLdXhQihxGX_qutRcv=Pk:?r?J:<o:q[GBM::UDNB:AdN:::El]>LBsxwO]RpwoshX;QhGmnYIriJhfmWbtNPBL^lJ:=YMWwFZ]P>zjHZz_I[ZX<Xfkz`xYYNrWxswAc[_^vVYjBLpwczalr=jgdvNtGwjXe^vceTtykWdQuDZ[`WtnXPIi^wJy@IeBXIUsbaCzIXY;h^uuD`>gMz::XInGvsyo`JW;HIlI`xsEkrra=w:Q`IbrWk;faSCxRyXr^^yoyR;rMuLYtIyxszY>qyCxFzxIkMzBy_IlMt;E^Ig^zNz;Qc^ycyn]tnvMUIkWE<k]eHuLIO;_;MMsDYNbr?vL@YInI@>yf;^nx<y:rfJWlCQHsEuVyzsGCyUYUfaNTTC=XREujWFbwT;VzmcM`y<ywHwhBFz^R^skdZvrcftMTtr]VXJEmjvsAeQ`r[GxZuNqfhsjXxmyfub;SldfsYXPjghgVbtrnWfeDA>:Z>ezrIjfxQUAC_hxFAHqtfuRymq`mV@zNrvceo:OGWT<p]V_Bz=@z?IbEjmrllvhyG^[jdbZB;ijr^vazkrghfqzdjrWOazXjyUxQTxjwTomz;swUzizsH[yODz_<iceSoRrzhzHy=;_VpaYxjxfwHz?rjWw:gzjivsizOq_fvgzQI[nzyyLQzszmybe;Au[y=;Ztz`XpIZfscyCdilSfb;S`DW[aJlxDW[qWCzqSKaN;jqx_QBQ_eWyXR^`yXNP:?vm=NQ_t^?tnYKdsiWoQaYc;TFQqYsTYkvh?m;XhY<Sc]bEbR?l[Ata<YeIX?aN?xpTKP`UcdSFI_xpmfpjqIdKGI<]iM[R:Y[tg;tir]nmkt]HcAm:vDaDxjJvOzdIoqCDX]i:CR@I[te^RMHfc<NzsaQhtKt[bVU>buoaSWIqU?TftsrUXXEp`:VUabt[byJ`QtmlYYb]SbHVSb^?vyUdX]txaXtyBzk;RFP@SaYp^yVrwhjMa_z`?ugPDtgKxgQkxxq>^q`lqQyKm:nv@Yji`YqbwEoOYa[ujYi]owBds=?dZuvPSAgDypae?lQytHt?[[YiXfPycxnIJY^QtDXA>PrtBPhK>gFWyqMtvVIb`AnqXCyodfrvnhsWzLYmXpmebwFIF=eH[yYeZ?:UuEbpwIxnzBzi;UoPgtpIy^zozzbvQD>zsQwnalYulREzCYy;VPb>?tTVVQfZGTUQA^YlIXr`hxkJuziNUmNLMH_TDfYlrq_[qlib:ZIyIzlBHd;Mri::CyaJrlPyK[?uDJJ>`ikllbyKcrRHEjnbylwq^qcD;U:yLljHQCpLHCjlMTmXmli?jlJDPXq;Pq[pPHm@m[PcdrT@ER=gXInr?aQ=ry]VFKcaGpnrqqcoou`aniin:IWPtPlpu`PlB;fKrXa?XmEsiynsXZZIfyujmJcHp>`iZNp@iv;lR;Cv^>Db=rhiVdko;TgOsXB>ofusdpIH:j:Hie:]eu[:Igcptkeq^aqbad:FMqVKrDux:IJ:ulnGualqBqXDkXHgIJ?H]:HPyL]NaHnXqlVb[r<:uZCWXPZIwHwmoLNPd<PPZJESTPzlzqPd[qmWxo]VA^k<XZGrhq@MnzZ=h=;iPJG]Htfkq@CMmYP_M`Y]dNm_uVEkjaTZ>D;YfJuXp>`xqfHAZ@IiPE@zfkgHER;L;>WrR;qZCtHfJHYi>xnca_?kNoE;k_:pIrGqOukLuYUm[itLK@;OYqtH@Wmk:Xjr=Hp:F:_MKN`iIj<R;tZCq_yfnqXl=qfytz=QXYCpCi_@pcHL:DNLgvpUyUkoBai=kNoNTka;DJFOil:I:HAJBL;Yw;CiIJHnHZzlCP:kG];:Yr];GYrhHoNQ;yxar@;?ZEXkG?ni;K;ng;?KlwaVkDc;qKoP;<EqP;;lnrakJIP;yvmq;IYqi_@kFwqykI_;`jm_:zkEFLdkImHx>lCPOkD;;NEpK;sBCtHXANasDGoH;Hp:yFWvnJq_r:jHuZExqiQl<Xdpr<;tpkm;QSQ@Z]dpguWlooH<BB`u=I<@;blpIXbdkairlqQm`JHVD>Mm;XV:@]i_M`_y;;mO;lbkLXXbm`;wMo;;veqgiF:Fd;dvnriPr@l;D;KjXwCkkXaRoAL@:Ca@fbMP;VAlPu<jp;;LrOgiCjqiPbsr]i[CkI:as=b]zB?Ri^B==HUsZ:yXPK:yRAquN_Apw]zOm<]=rLqsuppIH_j=Kub][b_ER?JyBMmYPGOqai_;qM;OsMW;VBqJir_>x;rcGx;;Knoie[OI>_>PI:Y=:Byp[J^;Zc[EPB>MFiL>qEPD>ka;aRC]qTRGY@wmlU;ePrpZx`kTiE?kvPnWavPqtmwDZ_KXsVKPvHsRCqi_RDZDF^k^P]ulXshcHRytBB_;Uq=sRFglWioBDFyb^rOeR:C@iq=pSHJZHO;LsF[umcHMq;kH?iKkDJc[sGdi[BGoi]uo[H]REZZTcCgyKsEY@pboLXlsLl;JzmyyasBa:ClqY;Q<p@HGqqxiVsEAHLRITZPcEU;nDqLyjsHiRqRCMPVpoTiiaps;lYP?>OCkUHZsEnVm_@NZTCLFi_RI]@iKQSu:kDK;oW;m;XcEoR=h:QaCRJr;L]KB[hXLsPEhneHvynpshcEm;ABIHHNgrGXYBINHDdr@@n=lh;ABkGsKop?;?A=mXizqfm[Mo]uqcI<Jrzqvy?BC>[=B=zyAVpk>lcHeHc_Cr;iWl[PnRITZsL?hig`oMq`AA<JV>Gn;yRCx;FZBF;hXoQHH^;B>Us_::R=e::HE_ac;rNvsc:;MolJ>XZ?=sv_HPsZ:@PzJ:=utf[=OK;eBHfZDgpZTX?NkV_WWhaGgrle?=ChaEO`tfs<fYjdxthdWhc>jAo=fcTGNU`JoJcXNxUU[?<OL?;=mb^?<Ka]Wg?r]Ix>cU[;qh[aNQfiog=f`eCOYehgLhZy<c:DN<kZXl<oki]GnBVtdMi@^pKKGeVjf`>W^ShuVJzeioSJLRWM=ZzFmZW>g]XID=LX?wx:>>^?ScYNw<R_JxoZTNF@beW?aZXuheffC=`kOx;`iGjgN;<d<OjeGwk:YX=<UDAk@kNB<Via?=AJL_VWcY;pFnjrxMsj]K=cV:<<:BpwWYZNWZ``hk@kY]KaJYEwAJWR=sx]JxCcOq<SZJNWmUfL=T]_W=MjiT=bHbY?Z`_QkyZR;<_JM`oK:XbpppZMVqt]aoyzboVh``y<Z:VJNRRNDWC[]OWlifX=>nfnW@cLaof:TB<U:P<<vcRQcYODMVaJLx=]<ix=T:M><vPZKGli[BV^Kbx=Wj]y=t`fhwxvb^=tZWxw@JKIxLRL>g@c@c<ObFp[tcPl=dHZzgoRdx>K``]htkRigfx_]==E=^>PcNf<:^]XsVRaf<Yn^EVr[hf==RTM>xRKVWOcTM>pRR:OqXg;<_JNndfcR=<z=ep<hpeoxmicwWpROgVTyZC=ZBSw<F=hw<Atfw=U`iTVCcS;NN:We<Vi]<=QRP<VgRPPpfB>d<BRXX=scYNOsGf==pSeW=dzdW<CnfKWbJKwgXkJ[<ykSS<nZPyC::FylZ:AAsk::OLc:;iOrw[vJAk[]>kG@T@nP;FNKuDw[k[Lwc:@XeWqkDTgEzHvIJuFxNHcoTkH^cK>_?[_;nA[p>^Q;=I@x[z>E?[oUqe;wk?UyFj@BanprG[TZ=e;]gHh[hO=skrgHAkYJDG;ZkE];idqRDPwC^i[;`uXQkAuXNJ=yi<R@@XPl:q[g[<r[_>HlHv_<FBK_DRiVtmLiMOovPyCAB:q?lsRxjAN]u_Jk[I_<f[WVBU[a:@=soRDQP[G^tF:_EP;Al]j[GwBb[]XqJKr:Kj[GBGM[NFDNL@<Bx]e<GVHBLkNXER;?mK[:[LT<CBHS<Bv:>DPkKZ:CD[jloBFMH]j[IkrOHn=kGyEJBT;qwFCuIiLs[mdnm_^bPx[>`me[TwGu[vnp<aGYprNRGkg>oWq:czp>G:o]H`LTJEry<sEEToEnp;RFDCsbxlw;i<DJc^k_<@aVHAaLjQoHcwD`L_noZXqoFCuS]G?wY@@c[X]HgKCxkJqsrNpHVRBY;w]BL:OgF[uv]GW:Y@A@ufCnkak_F_Kp`pzPFnmmJoVCMTicFgKUNFlPatrl[=<FOcBt`UysllFK=sF;yRLEB[Uw`<K]g`Ci<:E][i]Gl;ikE[;AoEbPQPqh;d]BaXhkE^[aYP;[sTLPXThn]K?sFJFS]G;iK<B=[m>mJKMJHsKUsp[Hg>GNHzBBoHedlX;KDnu;>rPI[QkGI[=woO;s_BCX;dmf]NbM;i=VJq[HQP]i@]FX[H^@oKXLBUyX<IxX;]HC[ugmKH_Ha<[=sHYL`<IMHgErtHWjlKuvLprN?Tm>;@SpHKn;ZX[M<lB>IpK?HQ>qFK]BDo[IlkKXNprU;@RClHaBHv;gplJihSmJ[gZHp@aOrv;QTrNiJc]qsT<L<D_DGsiI_AdH=CoDiX>Gf;CLDk;L<CE:CnlI_b]HuKHDD_uTgILPZVIXHrpo_KZoF<L>IoiPaIl]qD]Dd[SULq[GoDri?DHrq@mEMqD;KuKrNOH;;mBi;c>GtHfRD]KwmryH?mCBPUmCLKLBGdK:FGd[^DkE[C;m`KbwBViCVHVikc[[K[I=[KT@LS;f`MY>DDCDypRFU[@DEEP<a[KHggH=mpjJmKPZJU]UDGS[MLIf]yR=:;kLrsR;pnAHH:CbJZ_nXqB_kQu@^qyqX:AdTMckp_hv^_arcmtTBHmNaAF>a_tU<Iut^r[a`^qoas]kdy>fK]@nzK<y@SK<ygRaVXXBFPX?MMaXGs]mNtfK]KVRDXX`srM@zjm=[>mFa[NcFhcgmGyHKJDAeV[qL;S]GP@iTFmu?RmKXVVqIyeP<t>nznIyK?AhPD]rfX`FmPyEi=;ehIJM:KFElyKYrjB[IrYyy:H^ZwjkXK_]Erif]Ia;BuG`uScEqKkwkI@>eFs>cBrn[hOm][AsnlHvcC;Km`n;KANBIq]pnoiKBlZaTDB<[ZNBU;MRD;uGI<a;V_HkaAVkBa]IQTPKBDauy=rPeV]?yKN>EfK]eGv;cDEF[Pcp:aDeFvH;Bkz>?saiq_sF?>[I;?>isEyuSgHSi>nrlKo=nFKTgFpHKI=oHZLHGa>VDT[]mZ;HlKrcPdmE;[d@mc;euBfsoW:n[@uCVuJcHpaf>IT;bBByPvNI:l[ZDsN=RC?;CwICKdlJDKxTFH<XBI^iQo^pXi_E`KICp>l^J@:llVG:ldVBk[J`krHTc]by<YNA[QIMOXEuGMiXBIBH`mHX[>:FyKeZ?hu<uFCDjsaGuQ]rSKaGKe;_YPUK_hmliktrSux>pG@UeGXq`cnNXc_mQuay;QuP^o_a:TGNaOw];qBTDFXRTEdZenJ;qS^oQyrgp=@O^rCyjjroafwPDXN;;qXHKoG]Zimn]dHoGPyErLFTnkSqzfqFao=KLXeTHrPXPGFoA_osN@UL]aCw^iXXioXXuJ@XX?IOEKSDIu[?TCP[ui`xqrinD@jumBNVNnsN<QL@P?on=qx]k>uoTBe:B]q]lwTG]lZVl:@j@DTl`:?mgRoHTlD]GUKT:qMyEIm^yzTFzXZuGeyojM;eP[bBZqroKygAn<@]fprNOQlzatvPp>BjnEa?zrPl[Uo?ykIo_y`aHQ[P[[uayqIKyCvlza]fpfXOAkaywAMnXN<lty^zpaanzrly<<qbKbV?bKkw<Z:VqCm[h:>pPfJKvuMZCV;bQMV;HlnnqULpBlWIkhK_oHguMaHbuqxP@lDB<]lVTCxy`zN_PdDCpHY@CCkoHIdysNoPlJs]IyxRn:ufInXl[qCzaJuEi>GJGqlyq;uy`boYXjqFbXL:`HlP]r<@dZrylDqGty;qFny>brU@cGNtl<;apy<bo`l:jrETbqD?lzHC?l<K>ilF<lgPkHFbKKc<PasHEEyFXm[lh:@`KuFE>;UT[aHTRQ[lC:_KlFLCKlMZEqHj`kllw]oolNgrB;Gk?llAgkzyWZ@DudD<B;OLI>;BSkXXrZGMkOLldshLrI_xLn^XHXmJq>DrnqekCb_dD@NHOY<uK>JDWqXDrH@U<G<Hd[NMltHEu[AnrqPwcC;X]oam[GDBD;RGrFH_Wpx]zgJgHziDvynDCcPRFG=sejnNF^[plPqYAQKmIQVHDCmp[nCQWPGFIGlWFFl[x?lwax[pK<QZBVH_sLVHJDpyucLpCJlJHTHEap@qXND[@;NDHqNqoqKiNKe;KsMK@aDkp[tNFiq]qo:@zrO?HXC?sqkwF]qsJ:Ql?XDQl<PnqqARBD;[NB=kSMKrlsd=rlgIJIlZPpmZI_=ZlWfMC@cwp?[@NI?:LXI=LOXCRlvgFb[s<_G]?XlXKaRn<HyaGa@oqFEl_kD@[LR?=[ZCrvlQlnWloLEca?aGYlMqBJFGKo`iRpr^umLEyuvJrflkBIBlTmHCPPhrZXeX`pi_FDqKx]BG]VWnmHfIM<iRtpCJoW<n]laG]uPVPrqSsFhusXDJczkA^]m<:[y:JBR<ySlNluX[@K>dqMl`lllXSJkZCygIMlllpuKh:]OHBkk>KbZI?unlpXHRmEEK`HIWPoEpfKrmC[XnuIdKpyEFCG;ExPy;Hz;qmCNCimFiKKI<GKDCmi;<yB;KsaIrKARB;KFaCIKIwEIKA@HvuT>BA;X`ppKN<BvmdTpU[c;EJaJeFZHYq@rqDVF?H`mI?Kozr?HOQKBFwNnMl_;qrPoJFtPC<phsyKnj]fClDiy@H]PkLBkca@kKZwqIY@<<:VJskDcCMvrgCaDrPsCRJvlIYPx[cXBtKzmk;aV@mvlB]D<;P;GeCdmr_HRlGgH;[Ib[QKH>KS@qnH?kF:[p@ka:h@mdP=@nLuc;HRqmWoT:nDosqUDrb[HWqWut;HEPBakEisamEiVapEih[G`PseoiChhmfiu:>pPhWlpPBF<oq[G:mlI:G_;nenolms;h>OelFqherFqjYNQiOapO:k]GgCYuE_HfwBIK^KH]JZKHRiVaIaCYzM`anOnoicxOu>bWQAeoKIUT:j@sRYJDU;HKCulXKFMqiWQDuglBH[>yBFCUbJi@Oo?b;yXI>KkkEkuNmC<kRlIiPa;CTCLR;PK]KERlvKHiifhrLy>@DclGJCE:mi^cljgGs[:ankabmIxlfCGhi_lH=laWnaCv@BdHrYN`XbXo:@`j=<il]EkZG@nT:W@lSPOlIvlxDnEHDWksqYxO;[TmCcuX[k>q@_JDqTIPFKcapM:eq@I::ZHEi[dIxlEdC;CL:=WChhoxC^eqxCVaopP<R=@@?tpCJYPIqklCCBHsSHCKf=nWaaLqNXAeEVlQeBwlDo<wljeGyqcMPgo_THd:bcq=KizL<l:TDnCEEL^K>PH[qKHHxy?wkMKVPDF@DMrMKRMkKs@TGq;OPFBq:^<EKnbNpCpwlFCFqH=ys_B]uosZgC:aD`;H_FiP@aEryXiCURUzoGlxVl?a:XC`KUmkd;RFDjqDuCe;zr>SZdspUyASFJCWoprKGoEo[weFIKJDHIK<CGIKR@COCUXo_]_jOKCLDFC@o>lC@yeHSHgKH@C?FEKHvN?^>j[IM;y_GYCXfr[CrwBPiOtCy_NJ@B>oKFGKsdFVuYDqJl`Tmtu;_FKDvtEyKbtB_[t=oICHRDz[wpmVimdIWiuX[KC=Srl@qtlJLMN=l_HOo`XJN:Z:_C@PsXZ>_]k?GbPKoqoHYrQkX@aDllmBCE:DKGolc`p=s_Tn^Cfjrq:J::".charCodeAt(F++))?i-59:i-58),B|=(0<(i&(P/=2))?1:0)<<k,++k}for(var J,B,k,H,i,N=[],R=1,C=3,K=1,s=[],P=0,F=0;;){if(Z(K+1),2==B)return s.join("");-2&(H=B)||(Z(8*B+8),N[H=C++]=String.fromCharCode(B),--R||(R=2<<K++)),s.push(H=N[H]||J+J[0]),J&&(N[C++]=J+H[0],--R||(R=2<<K++)),J=H}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = MarkWheelDetailItemSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                var e = {};
+                e.ins = t.data.id,
+                tipsPop.TipsPop.openCounterMarkPop(e)
+            },
+            this),
+            this.once(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.data ? (this.visible = !0, this.updateView()) : this.visible = !1
+        },
+        t.prototype.updateView = function() {
+            var e = this.data.id,
+            t = MintmarkLotteryXMLInfo.getMenuItemById(e);
+            5 == t.Level ? this.currentState = "gold": 4 == t.Level ? this.currentState = "purple": this.currentState = "blue",
+            this.flag.visible = this.data.state % 10 == 2,
+            this.txt_name.text = CountermarkXMLInfo.getDes(e),
+            this.icon.source = ClientConfig.getMarkPath(e)
+        },
+        t.prototype.destroy = function() {
+            this.removeChildren(),
+            ImageButtonUtil.removeAll(this)
+        },
+        t
+    } (eui.ItemRenderer);
+    e.MarkWheelRecordItem = t,
+    __reflect(t.prototype, "markWheel.MarkWheelRecordItem")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var i = t.call(this) || this;
+            return i.service.setValues([e.AttrConst.forever_user_option, e.AttrConst.normal_decomposition_mark, e.AttrConst.normal_total_draw_times].concat(e.AttrConst.normal_got_mark_id, e.AttrConst.normal_got_mark_quality, e.AttrConst.normal_exchange_record, [e.AttrConst.normal_exchange_times], e.AttrConst.normal_exchange_info, [e.AttrConst.limit_decomposition_mark, e.AttrConst.limit_total_draw_times], e.AttrConst.limit_got_mark_id, e.AttrConst.limit_got_mark_quality, e.AttrConst.limit_exchange_record, [e.AttrConst.limit_exchange_times, e.AttrConst.limit_exchange_info]), [e.AttrConst.daily_item_gift_mark], [e.AttrConst.bitbuf_mail_mark]),
+            i.init([{
+                panelName: e.ModuleConst.MAIN_PANEL,
+                isMain: !0
+            },
+            {
+                panelName: e.ModuleConst.DETAIL_PANEL
+            },
+            {
+                panelName: e.ModuleConst.DARW_PANEL
+            },
+            {
+                panelName: e.ModuleConst.SHOP_PANEL
+            }]),
+            i
+        }
+        return __extends(i, t),
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            SoundManager.loadSound().then(function() {
+                SoundManager.playMusic()
+            })
+        },
+        i
+    } (BasicMultPanelModule);
+    e.MarkWheel = t,
+    __reflect(t.prototype, "markWheel.MarkWheel")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+markWheel; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.MAIN_PANEL = "markWheel.MainPanel",
+        e.DETAIL_PANEL = "markWheel.DetailPanel",
+        e.DARW_PANEL = "markWheel.DrawPanel",
+        e.SHOP_PANEL = "markWheel.ShopPanel",
+        e
+    } ();
+    e.ModuleConst = t,
+    __reflect(t.prototype, "markWheel.ModuleConst")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t._opened = !1,
+            t.skinName = MarkWheelCardSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this._anim = SpineUtil.createAnimate("keyinzhilun_choukfanpai"),
+            this._animWheel = SpineUtil.createAnimate("keyinzhuanpan"),
+            this._anim.scaleX = this._anim.scaleY = .5,
+            this._animWheel.scaleX = this._animWheel.scaleY = .5,
+            this.grp_anim.addChild(this._anim),
+            this.grp_anim0.addChild(this._animWheel),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                var e = {};
+                e.ins = t._markId,
+                tipsPop.TipsPop.openCounterMarkPop(e)
+            },
+            this)
+        },
+        t.prototype.initCard = function(e, t, i) {
+            this._opened = !1,
+            this._quality = e,
+            this._markId = t,
+            this._isSkip = i,
+            this.initView()
+        },
+        t.prototype.initView = function() {
+            var e = this;
+            switch (this._quality) {
+            case 5:
+                this.currentState = "gold",
+                this.flag_quality.visible = !1,
+                this.flag_quality.source = "mark_wheel_card_flag_ss_png",
+                this.animName = "jinka";
+                break;
+            case 4:
+                this.currentState = "purple",
+                this.flag_quality.visible = !1,
+                this.flag_quality.source = "mark_wheel_card_flag_s_png",
+                this.animName = "zika";
+                break;
+            case 3:
+                this.currentState = "blue",
+                this.flag_quality.visible = !0,
+                this.flag_quality.source = "mark_wheel_card_flag_a_png",
+                this.animName = "lanka";
+                break;
+            case 2:
+                this.currentState = "blue",
+                this.flag_quality.visible = !0,
+                this.flag_quality.source = "mark_wheel_card_flag_b_png",
+                this.animName = "lanka";
+                break;
+            case 1:
+                this.currentState = "blue",
+                this.flag_quality.visible = !0,
+                this.flag_quality.source = "mark_wheel_card_flag_c_png",
+                this.animName = "lanka"
+            }
+            this.icon.source = ClientConfig.getMarkPath(this._markId),
+            this.txt_name.text = CountermarkXMLInfo.getDes(this._markId),
+            this._isSkip ? (this._opened = !0, this.back.visible = !1, this.front.visible = !0, this._anim.visible = !0, this._animWheel.visible = !1, this._anim.play(this.animName + "xunhuan", 0)) : (this.front.visible = !1, this.back.visible = !0, this._anim.visible = !1, this._animWheel.visible = !0, this._animWheel.play("kapaichuxian", 1, 0, {
+                playEnd: function() {
+                    e._animWheel.visible = !1
+                }
+            }))
+        },
+        t.prototype.openCard = function() {
+            var e = this;
+            if (!this._opened) {
+                this._opened = !0,
+                this.back.visible = !1,
+                this._anim.visible = !0;
+                var t = {};
+                t.playEnd = function() {
+                    e._anim.play(e.animName + "xunhuan", 0)
+                },
+                this._anim.play(this.animName + "fanpai", 1, void 0, t),
+                egret.setTimeout(function() {
+                    e.front.visible = !0
+                },
+                this, 1200)
+            }
+        },
+        Object.defineProperty(t.prototype, "isOpen", {
+            get: function() {
+                return this._opened
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            this.removeChildren()
+        },
+        t
+    } (eui.Component);
+    e.MarkWheelCard = t,
+    __reflect(t.prototype, "markWheel.MarkWheelCard")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t._opened = !1,
+            t._operation = 0,
+            t.skinName = MarkWheelCardItemSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this._anim = SpineUtil.createAnimate("keyinzhilun_choukfanpai"),
+            this._animWheel = SpineUtil.createAnimate("keyinzhuanpan"),
+            this._anim.scaleX = this._anim.scaleY = .5,
+            this._animWheel.scaleX = this._animWheel.scaleY = .5,
+            this.grp_anim.addChild(this._anim),
+            this.grp_anim0.addChild(this._animWheel),
+            ImageButtonUtil.add(this.btnDecompose, this.decomposeCard, this),
+            ImageButtonUtil.add(this.btnGet, this.getCard, this),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                var e = {};
+                e.ins = t._markId,
+                tipsPop.TipsPop.openCounterMarkPop(e)
+            },
+            this)
+        },
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this._idx = this.data.idx,
+            this._quality = this.data.quality,
+            this._markId = this.data.markId,
+            this._isSkip = this.data.isSkip,
+            this._operation = this.data.state,
+            this.initView()
+        },
+        t.prototype.initView = function() {
+            var e = this;
+            switch (this._quality) {
+            case 5:
+                this.currentState = "gold",
+                this.flag_quality.visible = !1,
+                this.flag_quality.source = "mark_wheel_card_flag_ss_png",
+                this.animName = "jinka";
+                break;
+            case 4:
+                this.currentState = "purple",
+                this.flag_quality.visible = !1,
+                this.flag_quality.source = "mark_wheel_card_flag_s_png",
+                this.animName = "zika";
+                break;
+            case 3:
+                this.currentState = "blue",
+                this.flag_quality.visible = !0,
+                this.flag_quality.source = "mark_wheel_card_flag_a_png",
+                this.animName = "lanka";
+                break;
+            case 2:
+                this.currentState = "blue",
+                this.flag_quality.visible = !0,
+                this.flag_quality.source = "mark_wheel_card_flag_b_png",
+                this.animName = "lanka";
+                break;
+            case 1:
+                this.currentState = "blue",
+                this.flag_quality.visible = !0,
+                this.flag_quality.source = "mark_wheel_card_flag_c_png",
+                this.animName = "lanka"
+            }
+            this.icon.source = ClientConfig.getMarkPath(this._markId),
+            this.txt_name.text = CountermarkXMLInfo.getDes(this._markId),
+            this.flag_decompose.visible = 1 == this._operation,
+            this.flag_got.visible = 2 == this._operation,
+            this.btnDecompose.visible = this.btnGet.visible = 0 == this._operation,
+            this._isSkip ? (this._opened = !0, this.back.visible = !1, this.front.visible = !0, this._anim.visible = !0, this._animWheel.visible = !1, this._anim.play(this.animName + "xunhuan", 0)) : (this.front.visible = !1, this.back.visible = !0, this._anim.visible = !1, this._animWheel.visible = !0, this._animWheel.play("kapaichuxian", 1, 0, {
+                playEnd: function() {
+                    e._animWheel.visible = !1
+                }
+            }))
+        },
+        t.prototype.openCard = function() {
+            var e = this;
+            if (!this._opened) {
+                this._opened = !0,
+                this.back.visible = !1,
+                this._anim.visible = !0;
+                var t = {};
+                t.playEnd = function() {
+                    e._anim.play(e.animName + "xunhuan", 0)
+                },
+                this._anim.play(this.animName + "fanpai", 1, void 0, t),
+                egret.setTimeout(function() {
+                    e.front.visible = !0
+                },
+                this, 1200)
+            }
+        },
+        t.prototype.getCard = function() {
+            var e = this;
+            this._operation || SocketConnection.sendByQueue(43328, [2, 20 + this._idx],
+            function() {
+                e.finishGetCard()
+            })
+        },
+        t.prototype.finishGetCard = function() {
+            this._operation = 2,
+            this.btnDecompose.visible = this.btnGet.visible = !1,
+            this.flag_got.visible = !0,
+            EventManager.dispatchEventWith("mark_wheel_card_do_operation")
+        },
+        t.prototype.decomposeCard = function() {
+            var e = this;
+            this._operation || SocketConnection.sendByQueue(43328, [2, this._idx],
+            function() {
+                e.finishDecompose()
+            })
+        },
+        t.prototype.finishDecompose = function() {
+            this._operation = 1,
+            this.btnDecompose.visible = this.btnGet.visible = !1,
+            this.flag_decompose.visible = !0,
+            EventManager.dispatchEventWith("mark_wheel_card_do_operation")
+        },
+        Object.defineProperty(t.prototype, "isOpen", {
+            get: function() {
+                return this._opened
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "operation", {
+            get: function() {
+                return this._operation
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t.prototype.destroy = function() {
+            this.removeChildren(),
+            ImageButtonUtil.removeAll(this)
+        },
+        t
+    } (eui.ItemRenderer);
+    e.MarkWheelCardItem = t,
+    __reflect(t.prototype, "markWheel.MarkWheelCardItem")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = MarkWheelDetailItemSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.flag.visible = !1,
+            ImageButtonUtil.add(this.icon,
+            function() {
+                var e = {};
+                e.ins = t.data.ID,
+                tipsPop.TipsPop.openCounterMarkPop(e)
+            },
+            this),
+            this.once(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.updateView()
+        },
+        t.prototype.updateView = function() {
+            5 == this.data.Level ? this.currentState = "gold": 4 == this.data.Level ? this.currentState = "purple": this.currentState = "blue",
+            this.txt_name.text = this.data.Des,
+            this.icon.source = ClientConfig.getMarkPath(this.data.ID)
+        },
+        t.prototype.destroy = function() {
+            this.removeChildren(),
+            ImageButtonUtil.removeAll(this)
+        },
+        t
+    } (eui.ItemRenderer);
+    e.MarkWheelDetailItem = t,
+    __reflect(t.prototype, "markWheel.MarkWheelDetailItem")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+markWheel; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.forever_user_option = 105540,
+        e.normal_decomposition_mark = 105541,
+        e.normal_total_draw_times = 105542,
+        e.normal_got_mark_id = [105543, 105544, 105545, 105546, 105547, 105548, 105549, 105550, 105551, 105552],
+        e.normal_got_mark_quality = [105553, 105554, 105555, 105556, 105557, 105558, 105559, 105560, 105561, 105562],
+        e.normal_exchange_record = [105563, 105564, 105565, 105566, 105567],
+        e.normal_exchange_times = 105598,
+        e.normal_exchange_info = [30011, 30013, 30014],
+        e.limit_decomposition_mark = 105568,
+        e.limit_total_draw_times = 105569,
+        e.limit_got_mark_id = [105570, 105571, 105572, 105573, 105574, 105575, 105576, 105577, 105578, 105579],
+        e.limit_got_mark_quality = [105580, 105581, 105582, 105583, 105584, 105585, 105586, 105587, 105588, 105589],
+        e.limit_exchange_record = [105590, 105591, 105592, 105593, 105594],
+        e.limit_exchange_times = 105599,
+        e.limit_exchange_info = 105597,
+        e.bitbuf_mail_mark = 9834,
+        e.daily_item_gift_mark = 10978,
+        e
+    } ();
+    e.AttrConst = t,
+    __reflect(t.prototype, "markWheel.AttrConst")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e._itemId_0 = 1723291,
+            e._itemId_1 = 1723292,
+            e._price = 500,
+            e.skinName = MarkWheelShopItemSkin,
+            e.cacheAsBitmap = !0,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                var t = {};
+                t.ins = e.data.ID,
+                tipsPop.TipsPop.openCounterMarkPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnBuy,
+            function() {
+                return ItemManager.getNumByID(e._curItemId) < e._price ? void Alarm.show("你拥有的" + ItemXMLInfo.getName(e._curItemId) + "数量不足！") : void Alert.show("确认要兑换此刻印吗？",
+                function() {
+                    KTool.doExchange(e.data.exchangeId, 1,
+                    function() {
+                        e.service.updateValues().then(function() {
+                            EventManager.dispatchEventWith("mark_wheel_shop_buy")
+                        })
+                    })
+                })
+            },
+            this),
+            this.once(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        i.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this.service = this.data.service,
+            1 == this.data.puton ? this._curItemId = this._itemId_0: this._curItemId = this._itemId_1,
+            5 == this.data.Level ? (this.currentState = "ss", this.txt_limit.textColor = 10180889) : 4 == this.data.Level && (this.currentState = "s", this.txt_limit.textColor = 16777215),
+            this._price = this.data.price,
+            this.txt_cost.text = this._price.toString(),
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            if (this.txt_name.text = this.data.Des, this.icon.source = ClientConfig.getMarkPath(this.data.ID), this.costIcon.source = ClientConfig.getItemIcon(this._curItemId), 1 == this.data.puton) var t = this.service.getValue(e.AttrConst.normal_exchange_info[Math.floor(this.itemIndex / 8)]);
+            else var t = this.service.getValue(e.AttrConst.limit_exchange_info);
+            var i = t >> 4 * this.data.index & 15;
+            i ? (this.txt_limit.text = "限兑：1/1", this.flag_got.visible = !0, this.btnBuy.visible = !1) : (this.txt_limit.text = "限兑：0/1", this.flag_got.visible = !1, this.btnBuy.visible = !0)
+        },
+        i.prototype.destroy = function() {
+            this.removeChildren(),
+            ImageButtonUtil.removeAll(this),
+            this.service = null
+        },
+        i
+    } (eui.ItemRenderer);
+    e.MarkWheelShopItem = t,
+    __reflect(t.prototype, "markWheel.MarkWheelShopItem")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t._itemId_0 = 1723291,
+            t._itemId_1 = 1723292,
+            t.skinName = MarkWheelShopRecordItemSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        t.prototype.dataChanged = function() {
+            this.updateView()
+        },
+        t.prototype.updateView = function() {
+            var e = MintmarkLotteryXMLInfo.getShopItemById(this.data.id);
+            this.txt_name.text = e.Des,
+            2 == e.puton ? this.costIcon.source = ClientConfig.getItemIcon(this._itemId_1) : this.costIcon.source = ClientConfig.getItemIcon(this._itemId_0),
+            this.txt_cost.text = "x" + e.price;
+            var t = this.data.timeStamp,
+            i = new Date(1e3 * t);
+            this.txt_time.text = i.getFullYear() + "-" + (i.getMonth() + 1) + "-" + i.getDate() + " " + i.getHours() + ":" + i.getMinutes()
+        },
+        t.prototype.destroy = function() {
+            this.removeChildren()
+        },
+        t
+    } (eui.ItemRenderer);
+    e.MarkWheelShopRecordItem = t,
+    __reflect(t.prototype, "markWheel.MarkWheelShopRecordItem")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.groupName = "MARK_WHEEL_DETAIL",
+            e.skinName = MarkWheelDetailPanelSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.beforeAdd = function(e) {
+            this._type = e
+        },
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.rbg_section = this.section_0.group,
+            this.rbg_section.selectedValue = "5",
+            this.sector_0.visible = !0,
+            this.sector_1.visible = !1,
+            this.addEvent(),
+            this.createMenu(),
+            this.initBtnClose("mark_wheel_detail_panel_title_png", this,
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            this.sector_0.x = this.sector_0.x + DeviceInfoManager.adapterOffSetX,
+            this.sector_1.x = this.sector_1.x + DeviceInfoManager.adapterOffSetX,
+            egret.lifecycle.stage.stageWidth > 1136 + 2 * DeviceInfoManager.adapterOffSetX + 176 && (this.sector_0.width = 1094, this.sector_1.width = 1094)
+        },
+        i.prototype.createMenu = function() {
+            var e = new MenuData;
+            e.groupName = this.groupName,
+            e["default"] = 1,
+            e.root = [1, 2],
+            e.data = {
+                1 : {
+                    title: "本期奖池"
+                },
+                2 : {
+                    title: "召唤记录"
+                }
+            },
+            this.menu = Menu.createMenu(e, this.menuGroup)
+        },
+        i.prototype.addEvent = function() {
+            this.rbg_section.addEventListener(egret.Event.CHANGE, this.updateSector0, this),
+            EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.update, this)
+        },
+        i.prototype.update = function() {
+            1 == this.menu.selectedValue ? (this.sector_0.visible = !0, this.sector_1.visible = !1, this.updateSector0()) : (this.sector_0.visible = !1, this.sector_1.visible = !0, this.updateSector1())
+        },
+        i.prototype.updateSector0 = function() {
+            var t = ~~this.rbg_section.selectedValue || 5,
+            i = MintmarkLotteryXMLInfo.getMenuListByLevel(t);
+            i = "normal" == this._type ? i.filter(function(e) {
+                return 4 == e.Level || 5 == e.Level ? 1 == e.puton || 3 == e.puton: 2 != e.puton
+            }) : i.filter(function(e) {
+                return 4 == e.Level || 5 == e.Level ? 2 == e.puton || 3 == e.puton: 1 != e.puton
+            }),
+            this.list_0.itemRenderer = e.MarkWheelDetailItem,
+            this.list_0.dataProvider = new eui.ArrayCollection(i)
+        },
+        i.prototype.updateSector1 = function() {
+            var t = this;
+            if ("normal" == this._type) var i = 1;
+            else var i = 2;
+            SocketConnection.sendByQueue(45816, [4, 80],
+            function(n) {
+                var r = n.data;
+                r.position = 0;
+                for (var a = r.readUnsignedInt(), s = [], o = 0; a > o; o++) {
+                    var _ = {};
+                    _.userId = r.readUnsignedInt(),
+                    _.id = r.readUnsignedInt(),
+                    _.state = r.readUnsignedInt(),
+                    _.timeStamp = r.readUnsignedInt();
+                    var h = Math.floor(_.state / 100);
+                    i == h && s.push(_)
+                }
+                if (s.length < 5) for (var u = 5 - s.length,
+                o = 0; u > o; o++) s.push(null);
+                t.list_1.itemRenderer = e.MarkWheelRecordItem,
+                t.list_1.dataProvider = new eui.ArrayCollection(s)
+            })
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeAll(this),
+            this.rbg_section.removeEventListener(egret.Event.CHANGE, this.updateSector0, this),
+            this.menu && this.menu.destroy()
+        },
+        i
+    } (BasicPanel);
+    e.DetailPanel = t,
+    __reflect(t.prototype, "markWheel.DetailPanel")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e._itemId_0 = 1723291,
+            e._itemId_1 = 1723292,
+            e._isPlay = !1,
+            e._drawing = !1,
+            e.skinName = MarkWheelDrawPanelSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.beforeAdd = function(e) {
+            this._type = e.type,
+            this._num = e.num,
+            this._isSkip = e.skip,
+            this._Immediately = e.showImmediately
+        },
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this.grpLeft),
+            this.addEvent(),
+            this._animWheel = SpineUtil.createAnimate("keyinzhuanpan"),
+            this._animShine = SpineUtil.copy(this._animWheel),
+            this._animShine1 = SpineUtil.copy(this._animWheel),
+            this._animWheel.scaleX = this._animWheel.scaleY = .24,
+            this._animShine.scaleX = this._animShine.scaleY = .25,
+            this._animShine1.scaleX = this._animShine1.scaleY = .25,
+            this._animWheel.visible = this._animShine.visible = this._animShine1.visible = !1,
+            this.grp_anim.addChild(this._animWheel),
+            this.grp_anim.addChild(this._animShine),
+            this.grp_anim0.addChild(this._animShine1)
+        },
+        i.prototype.update = function() {
+            var e = this;
+            this.grp_one.visible = this.grp_ten.visible = this.grpDetail.visible = this.grpItemNum.visible = this._animWheel.visible = this._animShine.visible = this._animShine1.visible = this.grp_anim0.visible = !1,
+            this.pan.visible = this.xian.visible = this._rect.visible = this.grp_anim.visible = this.grpLeft.visible = !this._isSkip,
+            "normal" == this._type ? (this.bg.source = "mark_wheel_draw_panel_bg_jpg", this.xian.source = "mark_wheel_draw_panel_xian_png", this.img_arr.source = "mark_wheel_draw_panel_jiantou_png", this.icon_0.source = this.icon_1.source = ClientConfig.getItemIcon(this._itemId_0), this.service.registerItemUpdateForText(this._itemId_0, this.txtCoin, this)) : (this.bg.source = "mark_wheel_draw_panel_bg_1_jpg", this.xian.source = "mark_wheel_draw_panel_xian_1_png", this.img_arr.source = "mark_wheel_draw_panel_jiantou_1_png", this.icon_0.source = this.icon_1.source = ClientConfig.getItemIcon(this._itemId_1), this.service.registerItemUpdateForText(this._itemId_1, this.txtCoin, this)),
+            this._Immediately ? this.showCard() : this._isSkip ? this.openPackage() : egret.setTimeout(function() {
+                e.onResize(),
+                e.startAnim()
+            },
+            this, 500)
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.grpClose,
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            this.singleCard.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onOpenOne, this),
+            ImageButtonUtil.add(this.img_clickOne, this.onOpenOne, this),
+            this.cardList.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.onOpenTen, this),
+            ImageButtonUtil.add(this.img_clickTen, this.openAllTen, this),
+            ImageButtonUtil.add(this.btnGetOne,
+            function() {
+                SocketConnection.sendByQueue(43328, [2, 12],
+                function() {
+                    e.service.updateValues().then(function() {
+                        e.service.backToMainPanel()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnDecomposeOne,
+            function() {
+                SocketConnection.sendByQueue(43328, [2, 11],
+                function() {
+                    SocketConnection.sendByQueue(43328, [2, 12],
+                    function() {
+                        e.service.updateValues().then(function() {
+                            e.service.backToMainPanel()
+                        })
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetTen,
+            function() {
+                SocketConnection.sendByQueue(43328, [2, 12],
+                function() {
+                    e.service.updateValues().then(function() {
+                        e.service.backToMainPanel()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnDecomposeTen,
+            function() {
+                SocketConnection.sendByQueue(43328, [2, 11],
+                function() {
+                    SocketConnection.sendByQueue(43328, [2, 12],
+                    function() {
+                        e.service.updateValues().then(function() {
+                            e.service.backToMainPanel()
+                        })
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.img_close,
+            function() {
+                SocketConnection.sendByQueue(43328, [2, 12],
+                function() {
+                    e.service.updateValues().then(function() {
+                        e.service.backToMainPanel()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.icon_1,
+            function() {
+                var t = {};
+                "normal" == e._type ? t.id = e._itemId_0: t.id = e._itemId_1,
+                tipsPop.TipsPop.openItemPop(t)
+            },
+            this),
+            EventManager.addEventListener("mark_wheel_card_do_operation", this.checkCardState, this),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT,
+            function() {
+                e._drawing && (e._animShine.stopAll(), e.service.updateValues().then(function() {
+                    e.showCard()
+                }), e._animShine1.stopAll(), e.grp_anim0.visible = e._animShine1.visible = !1, e.playBgm())
+            },
+            this),
+            egret.lifecycle.stage.addEventListener(egret.Event.RESIZE, this.onResize, this),
+            this._rect.addEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onTouchRect, this),
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTap, this)
+        },
+        i.prototype.onResize = function() {
+            this._minX = this.xian.x,
+            this._maxX = this.xian.x + this.xian.width - this.shou.width
+        },
+        i.prototype.onTouchRect = function(e) {
+            this.stopAnim(),
+            this.grp_arr.x = e.stageX,
+            this._startX = e.stageX,
+            this.shou.visible = !1,
+            egret.lifecycle.stage.addEventListener(egret.TouchEvent.TOUCH_MOVE, this.onTouchMove, this),
+            egret.lifecycle.stage.addEventListener(egret.TouchEvent.TOUCH_END, this.onTouchEnd, this)
+        },
+        i.prototype.onTouchMove = function(e) {
+            this.grp_arr.x = Math.max(this._minX, Math.min(this._maxX, e.stageX)),
+            (e.stageX > this._maxX || e.stageX - this._startX >= this.xian.width / 2) && (egret.lifecycle.stage.removeEventListener(egret.TouchEvent.TOUCH_MOVE, this.onTouchMove, this), egret.lifecycle.stage.removeEventListener(egret.TouchEvent.TOUCH_END, this.onTouchEnd, this), this.openPackage())
+        },
+        i.prototype.onTouchEnd = function() {
+            egret.lifecycle.stage.removeEventListener(egret.TouchEvent.TOUCH_MOVE, this.onTouchMove, this),
+            egret.lifecycle.stage.removeEventListener(egret.TouchEvent.TOUCH_END, this.onTouchEnd, this),
+            this.startAnim()
+        },
+        i.prototype.openPackage = function() {
+            var e, t = this;
+            return "normal" == this._type ? 1 == this._num ? e = 1 : 10 == this._num && (e = 2) : 1 == this._num ? e = 3 : 10 == this._num && (e = 4),
+            e ? (this._drawing = !0, void SocketConnection.sendByQueue(43328, [1, e],
+            function() {
+                t._isSkip ? t.service.updateValues().then(function() {
+                    t.showCard()
+                }) : t.playWheelAnimation(t._isSkip)
+            })) : (BubblerManager.getInstance().showText("数据错误"), void this.startAnim())
+        },
+        i.prototype.playWheelAnimation = function(e) {
+            var t = this;
+            e ? (this.xian.visible = this.grp_arr.visible = this._rect.visible = this.grpLeft.visible = !1, this._animShine.visible = !0, this.playStartSound(5), SpineUtil.play(this._animShine, "keyinzhuanchang", this.grp_anim,
+            function() {
+                t._animShine.stopAll(),
+                t.service.updateValues().then(function() {
+                    t.showCard()
+                }),
+                t.grp_anim0.visible = t._animShine1.visible = !0,
+                t._animShine1.play("keyinzhuanchang2", 1, 0, {
+                    playEnd: function() {
+                        t._animShine1.stopAll(),
+                        t.grp_anim0.visible = t._animShine1.visible = !1,
+                        t.playBgm()
+                    }
+                })
+            },
+            this, 1)) : (this.xian.visible = this.grp_arr.visible = this._rect.visible = this.pan.visible = this.grpLeft.visible = !1, this._animWheel.visible = !0, this._isPlay = !0, this.playStartSound(), this._animWheel.play("zhuanpanxunhuan", 0, 0, {
+                loopEnd: function() {
+                    t._isPlay = !1,
+                    t._animShine.visible = !0,
+                    t._animShine.play("keyinzhuanchang", 1, 0, {
+                        playEnd: function() {
+                            t._animWheel.stopAll(),
+                            t._animShine.stopAll(),
+                            t.service.updateValues().then(function() {
+                                t.showCard()
+                            }),
+                            t.grp_anim0.visible = t._animShine1.visible = !0,
+                            t._animShine1.play("keyinzhuanchang2", 1, 0, {
+                                playEnd: function() {
+                                    t._animShine1.stopAll(),
+                                    t.grp_anim0.visible = t._animShine1.visible = !1,
+                                    t.playBgm()
+                                }
+                            })
+                        }
+                    })
+                }
+            }))
+        },
+        i.prototype.onTouchTap = function() {
+            var e = this;
+            this._isPlay && (this._isPlay = !1, this._animShine.visible = !0, this.playStartSound(5), this._animShine.play("keyinzhuanchang", 1, 0, {
+                playEnd: function() {
+                    e._animWheel.stopAll(),
+                    e._animShine.stopAll(),
+                    e.service.updateValues().then(function() {
+                        e.showCard()
+                    }),
+                    e.grp_anim0.visible = e._animShine1.visible = !0,
+                    e._animShine1.play("keyinzhuanchang2", 1, 0, {
+                        playEnd: function() {
+                            e._animShine1.stopAll(),
+                            e.grp_anim0.visible = e._animShine1.visible = !1,
+                            e.playBgm()
+                        }
+                    })
+                }
+            }))
+        },
+        i.prototype.playStartSound = function(e) {
+            void 0 === e && (e = 0),
+            console.log("playStartSound position:" + e);
+            var t = e,
+            i = "resource/sound/mark_wheel/mark_wheel_effect.mp3";
+            SoundManager.loadSound(i).then(function() {
+                console.log("playStartSound loaded position:" + e + "  " + t),
+                t > 0 ? SoundManager.seekTo(t) : SoundManager.playMusic(1, t, !1)
+            })
+        },
+        i.prototype.playBgm = function() {
+            var e = this,
+            t = "resource/sound/mark_wheel/mark_wheel_bgm.mp3";
+            SoundManager.loadSound(t).then(function() {
+                egret.setTimeout(function() {
+                    SoundManager.playMusic()
+                },
+                e, 1e3)
+            })["catch"](function() {
+                SoundManager.playMusic()
+            })
+        },
+        i.prototype.showCard = function() {
+            if (this.pan.visible = this.xian.visible = this.grp_arr.visible = this._rect.visible = this.grp_anim.visible = this.grpLeft.visible = !1, this.grpDetail.visible = this.grpItemNum.visible = !0, 1 == this._num) this.grp_one.visible = !0,
+            this._isSkip ? (this.img_clickOne.visible = !1, this.btnDecomposeOne.visible = this.btnGetOne.visible = !0) : (this.img_clickOne.visible = !0, this.btnDecomposeOne.visible = this.btnGetOne.visible = !1),
+            "normal" == this._type ? (this._singleQuality = this.service.getValue(e.AttrConst.normal_got_mark_quality[0]), this._singleId = this.service.getValue(e.AttrConst.normal_got_mark_id[0]), this.showOne()) : (this._singleQuality = this.service.getValue(e.AttrConst.limit_got_mark_quality[0]), this._singleId = this.service.getValue(e.AttrConst.limit_got_mark_id[0]), this.showOne());
+            else if (this.grp_ten.visible = !0, this.img_close.visible = !1, this._isSkip ? (this.img_clickTen.visible = !1, this.btnDecomposeTen.visible = this.btnGetTen.visible = !0) : (this.img_clickTen.visible = !0, this.btnDecomposeTen.visible = this.btnGetTen.visible = !1), "normal" == this._type) {
+                this._tenQualities = [],
+                this._tenIds = [];
+                for (var t = 0; 10 > t; t++) this._tenQualities.push(this.service.getValue(e.AttrConst.normal_got_mark_quality[t])),
+                this._tenIds.push(this.service.getValue(e.AttrConst.normal_got_mark_id[t]));
+                this.showTen()
+            } else {
+                this._tenQualities = [],
+                this._tenIds = [];
+                for (var t = 0; 10 > t; t++) this._tenQualities.push(this.service.getValue(e.AttrConst.limit_got_mark_quality[t])),
+                this._tenIds.push(this.service.getValue(e.AttrConst.limit_got_mark_id[t]));
+                this.showTen()
+            }
+        },
+        i.prototype.showOne = function() {
+            this.singleCard.initCard(this._singleQuality, this._singleId, this._isSkip),
+            this._drawing = !1
+        },
+        i.prototype.onOpenOne = function() {
+            this.singleCard.openCard(),
+            this.img_clickOne.visible = !1,
+            this.btnDecomposeOne.visible = this.btnGetOne.visible = !0
+        },
+        i.prototype.showTen = function() {
+            var t = [];
+            if ("normal" == this._type) var i = this.service.getValue(e.AttrConst.normal_decomposition_mark);
+            else var i = this.service.getValue(e.AttrConst.limit_decomposition_mark);
+            for (var n = 0; n < this._tenIds.length; n++) {
+                var r = !!KTool.getBit(i, n + 1),
+                a = !!KTool.getBit(i, n + 11),
+                s = 0;
+                r ? s = 1 : a && (s = 2);
+                var o = {
+                    idx: n + 1,
+                    quality: this._tenQualities[n],
+                    markId: this._tenIds[n],
+                    isSkip: this._isSkip,
+                    state: s
+                };
+                t.push(o)
+            }
+            this.cardList.itemRenderer = e.MarkWheelCardItem,
+            this.cardList.dataProvider = new eui.ArrayCollection(t),
+            this._drawing = !1
+        },
+        i.prototype.onOpenTen = function(e) {
+            e.itemRenderer.openCard();
+            for (var t = 0; t < this.cardList.numChildren; t++) if (!this.cardList.getChildAt(t).isOpen) return;
+            this.img_clickTen.visible = !1,
+            this.btnDecomposeTen.visible = this.btnGetTen.visible = !0
+        },
+        i.prototype.openAllTen = function() {
+            for (var e = 0; e < this.cardList.numChildren; e++) this.cardList.getChildAt(e).openCard();
+            this.img_clickTen.visible = !1,
+            this.btnDecomposeTen.visible = this.btnGetTen.visible = !0
+        },
+        i.prototype.checkCardState = function() {
+            for (var e = 0; e < this.cardList.numChildren; e++) if (!this.cardList.getChildAt(e).operation) return;
+            this.btnDecomposeTen.visible = this.btnGetTen.visible = !1,
+            this.img_close.visible = !0
+        },
+        i.prototype.startAnim = function() {
+            this.grp_arr.visible = !0,
+            this.grp_arr.x = this._minX,
+            this.grp_arr.alpha = 1,
+            this.shou.visible = !0,
+            egret.Tween.get(this.grp_arr, {
+                loop: !0
+            }).to({
+                x: this._maxX
+            },
+            2e3),
+            egret.Tween.get(this.grp_arr, {
+                loop: !0
+            }).wait(1500).to({
+                alpha: 0
+            },
+            500)
+        },
+        i.prototype.stopAnim = function() {
+            egret.Tween.removeTweens(this),
+            this.grp_arr.alpha = 1
+        },
+        i.prototype.removed = function() {
+            this.stopAnim(),
+            this.grp_arr.visible = !1
+        },
+        i.prototype.destroy = function() {
+            for (t.prototype.destroy.call(this), ImageButtonUtil.removeAll(this), this.singleCard.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onOpenOne, this), this.singleCard.destroy(), this.cardList.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this.onOpenTen, this); this.cardList.numChildren;) {
+                var e = this.cardList.getChildAt(0);
+                e.destroy(),
+                DisplayUtil.removeForParent(e)
+            }
+            EventManager.removeAll(this),
+            egret.lifecycle.stage.removeEventListener(egret.Event.RESIZE, this.onResize, this),
+            this._rect.removeEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onTouchRect, this),
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTap, this)
+        },
+        i
+    } (BasicPanel);
+    e.DrawPanel = t,
+    __reflect(t.prototype, "markWheel.DrawPanel")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e._itemId_0_0 = 1723255,
+            e._itemId_0_1 = 2500004,
+            e._itemId_1 = 1723256,
+            e.isSkipAnim = !1,
+            e.skinName = "MarkWheelMainSkin",
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            this.groupAll.left = DeviceInfoManager.adapterOffSetX,
+            this.groupAll.right = DeviceInfoManager.adapterOffSetX,
+            this.buyPop.visible = !1,
+            this.rbg_tab = this.tab_0.group,
+            this.txt_info_0.textFlow = [{
+                text: "常驻召唤：",
+                style: {
+                    textColor: 12834813
+                }
+            },
+            {
+                text: "【九天系列】",
+                style: {
+                    textColor: 65490
+                }
+            },
+            {
+                text: "刻印",
+                style: {
+                    textColor: 12834813
+                }
+            }],
+            this.txt_info_1.textFlow = [{
+                text: "累计召唤达到",
+                style: {
+                    textColor: 8631026
+                }
+            },
+            {
+                text: "60",
+                style: {
+                    textColor: 15706447
+                }
+            },
+            {
+                text: "次 必出",
+                style: {
+                    textColor: 8631026
+                }
+            },
+            {
+                text: "SS",
+                style: {
+                    textColor: 15706447
+                }
+            },
+            {
+                text: "级刻印",
+                style: {
+                    textColor: 8631026
+                }
+            }],
+            this.addEvent(),
+            this.cb_skip.selected = !!egret.localStorage.getItem("mark_wheel_skip_" + MainManager.actorID),
+            this._animBg = SpineUtil.createAnimate("keyinzhumianban"),
+            this._animLanse = SpineUtil.copy(this._animBg),
+            this._animHongse = SpineUtil.copy(this._animBg),
+            this._animHuangse = SpineUtil.copy(this._animBg),
+            this._animXingzuo = SpineUtil.copy(this._animBg),
+            this.grp_animBg.addChild(this._animBg),
+            this.grp_animHongse.addChild(this._animHongse),
+            this.grp_animHuangse.addChild(this._animHuangse),
+            this.grp_animLanse.addChild(this._animLanse),
+            this.grp_animXingzuo.addChild(this._animXingzuo),
+            this._animBg.scaleX = this._animBg.scaleY = this._animLanse.scaleX = this._animLanse.scaleY = this._animHongse.scaleX = this._animHongse.scaleY = this._animHuangse.scaleX = this._animHuangse.scaleY = .6,
+            this._animXingzuo.scaleX = this._animXingzuo.scaleY = .5,
+            this._animBg.play("beijing"),
+            this._animLanse.play("huangsekeyin"),
+            this._animHongse.play("huangsekeyin"),
+            this._animHuangse.play("huangsekeyin"),
+            this._animXingzuo.play("xingzuo"),
+            this.initBtnClose("mark_wheel_main_title_png", this,
+            function() {
+                e.service.closeModule()
+            },
+            this),
+            !GameInfo.isChecking && this.initBtnHelp(function() {
+                "normal" == e.currentState ? tipsPop.TipsPop.openHelpPopById(97) : tipsPop.TipsPop.openHelpPopById(98)
+            },
+            this),
+            GameInfo.isChecking && (this.icon1Group.visible = !1, this.btnAdd.visible = !1, this.initBtnHelp(function() {
+                tipsPop.TipsPop.openHelpPopById(136)
+            },
+            this));
+            var t, i = SystemTimerManager.sysBJDate.getMonth() + 1,
+            n = SystemTimerManager.sysBJDate.getDate();
+            t = 2 == i && n >= 8 && 22 >= n ? !0 : !1,
+            this.tab_1.visible = t,
+            this.rbg_tab.selectedValue = t ? "limit": "normal",
+            this.currentState = t ? "limit": "normal",
+            t ? (StatLogger.log("20230119版本系统功能", "刻印之轮-永恒召唤（凶兽）", "进入永恒召唤主界面"), this.service.registerItemUpdateForText(this._itemId_1, this.txtCoin_0, this)) : (this.service.registerItemUpdateForText(this._itemId_0_0, this.txtCoin_0, this), this.service.registerItemUpdateForText(this._itemId_0_1, this.txtCoin_1, this)),
+            this.icon_0.source = ClientConfig.getItemIcon(this._itemId_0_0),
+            this.icon_1.source = ClientConfig.getItemIcon(this._itemId_0_1),
+            this.icon_2.source = ClientConfig.getItemIcon(this._itemId_1);
+            var r = "resource/sound/mark_wheel/mark_wheel_bgm.mp3",
+            a = "resource/sound/mark_wheel/mark_wheel_effect.mp3";
+            SoundManager.loadSound(a).then(function() {
+                SoundManager.loadSound(r).then(function() {
+                    SoundManager.playMusic()
+                })["catch"](function() {})
+            }),
+            egret.localStorage.getItem("markWheelIsSkipAnim") ? this.isSkipAnim = JSON.parse(egret.localStorage.getItem("markWheelIsSkipAnim")) : egret.localStorage.setItem("markWheelIsSkipAnim", "" + this.isSkipAnim),
+            this.imgSkipCheck.visible = this.isSkipAnim
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            this.rbg_tab.addEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            ImageButtonUtil.add(this.btnAdd,
+            function() {
+                PayManager.doPayFunc(function() {
+                    t.buyPop.visible = !0
+                },
+                t)
+            },
+            this),
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouch, this),
+            ImageButtonUtil.add(this.btnBuyOne,
+            function() {
+                BuyProductManager.buyProduct("normal" == t.rbg_tab.selectedValue ? "258469_13276": "258471_13278",
+                function() {
+                    t.updateValues()
+                },
+                t, "normal" == t.rbg_tab.selectedValue ? 1723255 : 1723256)
+            },
+            this),
+            ImageButtonUtil.add(this.btnBuyTen,
+            function() {
+                BuyProductManager.buyProduct("normal" == t.rbg_tab.selectedValue ? "258470_13277": "258472_13279",
+                function() {
+                    ItemManager.updateItems([1723255, 1723256],
+                    function() {
+                        t.updateValues()
+                    })
+                },
+                t, "normal" == t.rbg_tab.selectedValue ? 1724925 : 1724926)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_0,
+            function() {
+                var e = {};
+                e.id = t._itemId_0_0,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_1,
+            function() {
+                var e = {};
+                e.id = t._itemId_0_1,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_2,
+            function() {
+                var e = {};
+                e.id = t._itemId_1,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                "limit" == t.rbg_tab.selectedValue && StatLogger.log("20230119版本系统功能", "刻印之轮-永恒召唤（凶兽）", "进入【详情】界面"),
+                t.service.openPanel(e.ModuleConst.DETAIL_PANEL, t.currentState)
+            },
+            this),
+            ImageButtonUtil.add(this.btnShop,
+            function() {
+                "limit" == t.rbg_tab.selectedValue && StatLogger.log("20230119版本系统功能", "刻印之轮-永恒召唤（凶兽）", "进入【商店】界面"),
+                t.service.openPanel(e.ModuleConst.SHOP_PANEL, t.currentState)
+            },
+            this),
+            ImageButtonUtil.add(this.btnDrawOne,
+            function() {
+                if ("normal" == t.currentState) {
+                    if (ItemManager.getNumByID(t._itemId_0_0) < 1 && ItemManager.getNumByID(t._itemId_0_1) < 1) return void Alarm.show("你拥有的浩瀚星核数量不足！")
+                } else if (ItemManager.getNumByID(t._itemId_1) < 1) return void Alarm.show("你拥有的永恒星核数量不足！");
+                t.service.openPanel(e.ModuleConst.DARW_PANEL, {
+                    type: t.currentState,
+                    num: 1,
+                    skip: t.isSkipAnim
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnDrawTen,
+            function() {
+                if ("normal" == t.currentState) {
+                    if (ItemManager.getNumByID(t._itemId_0_0) < 10 && ItemManager.getNumByID(t._itemId_0_1) < 10) return void Alarm.show("你拥有的浩瀚星核数量不足！")
+                } else if (ItemManager.getNumByID(t._itemId_1) < 10) return void Alarm.show("你拥有的永恒星核数量不足！");
+                t.service.openPanel(e.ModuleConst.DARW_PANEL, {
+                    type: t.currentState,
+                    num: 10,
+                    skip: t.isSkipAnim
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.grpSkip,
+            function() {
+                t.isSkipAnim = !t.isSkipAnim,
+                t.imgSkipCheck.visible = t.isSkipAnim,
+                egret.localStorage.setItem("markWheelIsSkipAnim", "" + t.isSkipAnim)
+            },
+            this),
+            this.cb_skip.addEventListener(egret.Event.CHANGE, this.onChangeSkip, this)
+        },
+        i.prototype.onTouch = function(e) {
+            e.target != this.buyPop && e.target.parent != this.buyPop && e.target != this.btnAdd && (this.buyPop.visible = !1)
+        },
+        i.prototype.onChangeTab = function() {
+            this.currentState = this.rbg_tab.selectedValue,
+            this.service.unregisterItems(this),
+            "normal" == this.rbg_tab.selectedValue ? (this._animXingzuo.play("xingzuo"), this.txt_info_0.textFlow = [{
+                text: "常驻召唤：",
+                style: {
+                    textColor: 12834813
+                }
+            },
+            {
+                text: "【九天系列】",
+                style: {
+                    textColor: 65490
+                }
+            },
+            {
+                text: "刻印",
+                style: {
+                    textColor: 12834813
+                }
+            }], this.txt_info_1.textFlow = [{
+                text: "累计召唤达到",
+                style: {
+                    textColor: 8631026
+                }
+            },
+            {
+                text: "60",
+                style: {
+                    textColor: 15706447
+                }
+            },
+            {
+                text: "次 必出",
+                style: {
+                    textColor: 8631026
+                }
+            },
+            {
+                text: "SS",
+                style: {
+                    textColor: 15706447
+                }
+            },
+            {
+                text: "级刻印",
+                style: {
+                    textColor: 8631026
+                }
+            }], this.cb_skip.bg.source = "mark_wheel_main_skipRbg_png", this.cb_skip.yes.source = "mark_wheel_main_skip_yes_png", this.service.registerItemUpdateForText(this._itemId_0_0, this.txtCoin_0, this), this.service.registerItemUpdateForText(this._itemId_0_1, this.txtCoin_1, this)) : (this._animXingzuo.play("jinsexingzuo"), this.txt_info_0.textFlow = [{
+                text: "常驻召唤：",
+                style: {
+                    textColor: 16773581
+                }
+            },
+            {
+                text: "【九天系列】",
+                style: {
+                    textColor: 8776448
+                }
+            },
+            {
+                text: "刻印",
+                style: {
+                    textColor: 16773581
+                }
+            }], this.txt_info_1.textFlow = [{
+                text: "累计召唤达到",
+                style: {
+                    textColor: 16770963
+                }
+            },
+            {
+                text: "60",
+                style: {
+                    textColor: 16777215
+                }
+            },
+            {
+                text: "次 必出",
+                style: {
+                    textColor: 16770963
+                }
+            },
+            {
+                text: "SS",
+                style: {
+                    textColor: 16777215
+                }
+            },
+            {
+                text: "级刻印",
+                style: {
+                    textColor: 16770963
+                }
+            }], this.cb_skip.bg.source = "mark_wheel_main_skipRbg_1_png", this.cb_skip.yes.source = "mark_wheel_main_skip_yes_1_png", this.service.registerItemUpdateForText(this._itemId_1, this.txtCoin_0, this)),
+            this.update()
+        },
+        i.prototype.update = function() {
+            var t = this.service.getValue(e.AttrConst.daily_item_gift_mark);
+            if ("normal" == this.currentState) {
+                this.txt_drawNum.text = this.service.getValue(e.AttrConst.normal_total_draw_times) % 60 + "/60";
+                var i = KTool.getBit(t, 1)
+            } else {
+                this.txt_drawNum.text = this.service.getValue(e.AttrConst.limit_total_draw_times) % 60 + "/60";
+                var i = KTool.getBit(t, 2)
+            }
+            this.flag_send.visible = !i;
+            var n = this.service.getValue(e.AttrConst.normal_got_mark_id[0]),
+            r = this.service.getValue(e.AttrConst.normal_got_mark_id[1]),
+            a = this.service.getValue(e.AttrConst.limit_got_mark_id[0]),
+            s = this.service.getValue(e.AttrConst.limit_got_mark_id[1]);
+            n && !r ? this.service.openPanel(e.ModuleConst.DARW_PANEL, {
+                type: "normal",
+                num: 1,
+                skip: this.isSkipAnim,
+                showImmediately: !0
+            }) : n && r ? this.service.openPanel(e.ModuleConst.DARW_PANEL, {
+                type: "normal",
+                num: 10,
+                skip: this.isSkipAnim,
+                showImmediately: !0
+            }) : a && !s ? this.service.openPanel(e.ModuleConst.DARW_PANEL, {
+                type: "limit",
+                num: 1,
+                skip: this.isSkipAnim,
+                showImmediately: !0
+            }) : a && s && this.service.openPanel(e.ModuleConst.DARW_PANEL, {
+                type: "limit",
+                num: 10,
+                skip: this.isSkipAnim,
+                showImmediately: !0
+            })
+        },
+        i.prototype.onChangeSkip = function() {
+            this.cb_skip.selected ? egret.localStorage.setItem("mark_wheel_skip_" + MainManager.actorID, "yes") : egret.localStorage.removeItem("mark_wheel_skip_" + MainManager.actorID)
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this),
+            this.rbg_tab.removeEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouch, this),
+            this.cb_skip.removeEventListener(egret.Event.CHANGE, this.onChangeSkip, this)
+        },
+        i
+    } (BasicPanel);
+    e.MainPanel = t,
+    __reflect(t.prototype, "markWheel.MainPanel")
+} (markWheel || (markWheel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markWheel; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.groupName = "MARK_WHEEL_SHOP",
+            e._itemId_0 = 1723291,
+            e._itemId_1 = 1723292,
+            e.skinName = MarkWheelShopPanelSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.beforeAdd = function(e) {
+            this._type = e,
+            "normal" == this._type ? this._curItemId = this._itemId_0: this._curItemId = this._itemId_1
+        },
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                var t = {};
+                t.id = e._curItemId,
+                tipsPop.TipsPop.openItemPop(t)
+            },
+            this),
+            this.createMenu(),
+            this.sector_0.x = this.sector_0.x + DeviceInfoManager.adapterOffSetX,
+            this.sector_1.x = this.sector_1.x + DeviceInfoManager.adapterOffSetX,
+            this.txt_limit.x = this.txt_limit.x + DeviceInfoManager.adapterOffSetX,
+            egret.lifecycle.stage.stageWidth > 1136 + 2 * DeviceInfoManager.adapterOffSetX + 170 && (this.sector_0.width = 1038),
+            this.initBtnClose("mark_wheel_shop_panel_title_png", this,
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            EventManager.addEventListener("mark_wheel_shop_buy", this.updateSector0, this),
+            EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.update, this)
+        },
+        i.prototype.createMenu = function() {
+            var e = new MenuData;
+            e.groupName = this.groupName,
+            e["default"] = 1,
+            e.root = [1, 2],
+            e.data = {
+                1 : {
+                    title: "刻印兑换"
+                },
+                2 : {
+                    title: "兑换记录"
+                }
+            },
+            this.menu = Menu.createMenu(e, this.menuGroup)
+        },
+        i.prototype.update = function() {
+            this.icon.source = ClientConfig.getItemIcon(this._curItemId),
+            this.service.registerItemUpdateForText(this._curItemId, this.txtCoin, this),
+            1 == this.menu.selectedValue ? (this.sector_0.visible = !0, this.sector_1.visible = !1, this.updateSector0()) : (this.sector_0.visible = !1, this.sector_1.visible = !0, this.updateSector1())
+        },
+        i.prototype.updateSector0 = function() {
+            var t;
+            "normal" == this._type ? (this.txt_limit.text = "每个刻印每月限兑1次", t = 1) : (this.txt_limit.text = "每个刻印限兑1次", t = 2);
+            for (var i = MintmarkLotteryXMLInfo.getShopItemsByPuton(t), n = 0; n < i.length; n++) i[n].index = n,
+            i[n].service = this.service;
+            var r = this.list_0.scrollV;
+            this.list_0.itemRenderer = e.MarkWheelShopItem,
+            this.list_0.dataProvider = new eui.ArrayCollection(i),
+            this.list_0.validateNow(),
+            this.list_0.scrollV = r
+        },
+        i.prototype.updateSector1 = function() {
+            var t = this;
+            SocketConnection.sendByQueue(45816, [3, 20],
+            function(i) {
+                var n = i.data;
+                n.position = 0;
+                for (var r = n.readUnsignedInt(), a = [], s = 0; r > s; s++) {
+                    var o = {};
+                    o.userId = n.readUnsignedInt(),
+                    o.id = n.readUnsignedInt(),
+                    o.type = n.readUnsignedInt(),
+                    o.timeStamp = n.readUnsignedInt();
+                    var _ = Math.floor(o.type / 100); ("normal" == t._type && 1 == _ || "limit" == t._type && 2 == _) && a.push(o)
+                }
+                t.list_1.itemRenderer = e.MarkWheelShopRecordItem,
+                t.list_1.dataProvider = new eui.ArrayCollection(a)
+            })
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeEventListener("mark_wheel_shop_buy", this.updateSector0, this),
+            this.menu && this.menu.destroy(),
+            EventManager.removeEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.update, this)
+        },
+        i
+    } (BasicPanel);
+    e.ShopPanel = t,
+    __reflect(t.prototype, "markWheel.ShopPanel")
+} (markWheel || (markWheel = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/MarkWheelCardItemSkin.exml"] = window.MarkWheelCardItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["grp_anim", "flag_quality", "txt_name", "icon", "btnDecompose", "btnGet", "flag_got", "flag_decompose", "front", "back", "grp_anim0"],
+        this.height = 265,
+        this.width = 146,
+        this.elementsContent = [this.grp_anim_i(), this.front_i(), this.back_i(), this.grp_anim0_i()],
+        this.states = [new eui.State("blue", [new eui.SetProperty("_Image1", "source", "mark_wheel_card_item_blue_bg_png"), new eui.SetProperty("_Image1", "y", 28), new eui.SetProperty("txt_name", "textColor", 453375), new eui.SetProperty("back", "source", "mark_wheel_card_blue_back_png")]), new eui.State("purple", [new eui.SetProperty("_Image1", "source", "mark_wheel_card_item_purple_bg_png"), new eui.SetProperty("_Image1", "y", 19), new eui.SetProperty("txt_name", "textColor", 16370431), new eui.SetProperty("back", "source", "mark_wheel_card_purple_back_png")]), new eui.State("gold", [new eui.SetProperty("_Image1", "source", "mark_wheel_card_item_gold_bg_png"), new eui.SetProperty("_Image1", "y", 0), new eui.SetProperty("txt_name", "textColor", 16774213), new eui.SetProperty("back", "source", "mark_wheel_card_gold_back_png")])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.grp_anim_i = function() {
+        var e = new eui.Group;
+        return this.grp_anim = e,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e
+    },
+    i.front_i = function() {
+        var e = new eui.Group;
+        return this.front = e,
+        e.cacheAsBitmap = !0,
+        e.width = 146,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.flag_quality_i(), this.txt_name_i(), this.icon_i(), this.btnDecompose_i(), this.btnGet_i(), this.flag_got_i(), this.flag_decompose_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return this._Image1 = e,
+        e.visible = !1,
+        e.x = 0,
+        e
+    },
+    i.flag_quality_i = function() {
+        var e = new eui.Image;
+        return this.flag_quality = e,
+        e.height = 18,
+        e.source = "mark_wheel_card_flag_a_png",
+        e.visible = !1,
+        e.width = 56,
+        e.x = 11,
+        e.y = 47,
+        e
+    },
+    i.txt_name_i = function() {
+        var e = new eui.Label;
+        return this.txt_name = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 16,
+        e.text = "十年·磨砺",
+        e.y = 155,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 67,
+        e.width = 70,
+        e.x = 38,
+        e.y = 77,
+        e
+    },
+    i.btnDecompose_i = function() {
+        var e = new eui.Image;
+        return this.btnDecompose = e,
+        e.height = 36,
+        e.source = "mark_wheel_card_item_btnDecompose_png",
+        e.width = 61,
+        e.x = 14,
+        e.y = 183,
+        e
+    },
+    i.btnGet_i = function() {
+        var e = new eui.Image;
+        return this.btnGet = e,
+        e.height = 36,
+        e.source = "mark_wheel_card_item_btnGet_png",
+        e.width = 61,
+        e.x = 72,
+        e.y = 183,
+        e
+    },
+    i.flag_got_i = function() {
+        var e = new eui.Image;
+        return this.flag_got = e,
+        e.height = 15,
+        e.source = "mark_wheel_card_item_flag_got_png",
+        e.width = 97,
+        e.x = 24,
+        e.y = 191,
+        e
+    },
+    i.flag_decompose_i = function() {
+        var e = new eui.Image;
+        return this.flag_decompose = e,
+        e.height = 15,
+        e.source = "mark_wheel_card_item_flag_decompose_png",
+        e.width = 97,
+        e.x = 24,
+        e.y = 191,
+        e
+    },
+    i.back_i = function() {
+        var e = new eui.Image;
+        return this.back = e,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e.visible = !1,
+        e
+    },
+    i.grp_anim0_i = function() {
+        var e = new eui.Group;
+        return this.grp_anim0 = e,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e.x = 83,
+        e.y = 143,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkWheelCardSkin.exml"] = window.MarkWheelCardSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["grp_anim", "flag_quality", "txt_name", "icon", "front", "back", "grp_anim0"],
+        this.height = 265,
+        this.width = 146,
+        this.elementsContent = [this.grp_anim_i(), this.front_i(), this.back_i(), this.grp_anim0_i()],
+        this.states = [new eui.State("blue", [new eui.SetProperty("_Image1", "source", "mark_wheel_card_blueBg_png"), new eui.SetProperty("_Image1", "y", 36), new eui.SetProperty("txt_name", "textColor", 453375), new eui.SetProperty("back", "source", "mark_wheel_card_blue_back_png")]), new eui.State("purple", [new eui.SetProperty("_Image1", "source", "mark_wheel_card_purpleBg_png"), new eui.SetProperty("_Image1", "y", 19), new eui.SetProperty("txt_name", "textColor", 16370431), new eui.SetProperty("back", "source", "mark_wheel_card_purple_back_png")]), new eui.State("gold", [new eui.SetProperty("_Image1", "source", "mark_wheel_card_goldBg_png"), new eui.SetProperty("_Image1", "y", 0), new eui.SetProperty("txt_name", "textColor", 16774213), new eui.SetProperty("back", "source", "mark_wheel_card_gold_back_png")])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.grp_anim_i = function() {
+        var e = new eui.Group;
+        return this.grp_anim = e,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e
+    },
+    i.front_i = function() {
+        var e = new eui.Group;
+        return this.front = e,
+        e.cacheAsBitmap = !0,
+        e.width = 146,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.flag_quality_i(), this.txt_name_i(), this.icon_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return this._Image1 = e,
+        e.visible = !1,
+        e.x = 0,
+        e
+    },
+    i.flag_quality_i = function() {
+        var e = new eui.Image;
+        return this.flag_quality = e,
+        e.height = 18,
+        e.source = "mark_wheel_card_flag_a_png",
+        e.visible = !1,
+        e.width = 56,
+        e.x = 11,
+        e.y = 47,
+        e
+    },
+    i.txt_name_i = function() {
+        var e = new eui.Label;
+        return this.txt_name = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 16,
+        e.text = "十年·磨砺",
+        e.y = 155,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 67,
+        e.width = 70,
+        e.x = 38,
+        e.y = 77,
+        e
+    },
+    i.back_i = function() {
+        var e = new eui.Image;
+        return this.back = e,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e.visible = !0,
+        e
+    },
+    i.grp_anim0_i = function() {
+        var e = new eui.Group;
+        return this.grp_anim0 = e,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e.x = 83,
+        e.y = 143,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkWheelDetailItemSkin.exml"] = window.MarkWheelDetailItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "txt_name", "icon", "flag"],
+        this.height = 145,
+        this.width = 145,
+        this.elementsContent = [this.bg_i(), this.txt_name_i(), this.icon_i(), this.flag_i()],
+        this.states = [new eui.State("blue", []), new eui.State("purple", [new eui.SetProperty("bg", "source", "mark_wheel_detail_item_bg_1_png")]), new eui.State("gold", [new eui.SetProperty("bg", "source", "mark_wheel_detail_item_bg_2_png")])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.height = 145,
+        e.source = "mark_wheel_detail_item_bg_0_png",
+        e.width = 145,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txt_name_i = function() {
+        var e = new eui.Label;
+        return this.txt_name = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 16,
+        e.text = "十年·磨砺",
+        e.textColor = 16777215,
+        e.y = 9,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 67,
+        e.width = 70,
+        e.x = 37,
+        e.y = 49,
+        e
+    },
+    i.flag_i = function() {
+        var e = new eui.Image;
+        return this.flag = e,
+        e.height = 37,
+        e.source = "mark_wheel_detail_decompose_flag_png",
+        e.width = 36,
+        e.x = 101,
+        e.y = 101,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkWheelDetailPanelSkin.exml"] = window.MarkWheelDetailPanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["menuGroup", "list_1", "sector_1", "list_0", "section_0", "section_1", "section_2", "section_3", "section_4", "sector_0"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.menuGroup_i(), this.sector_1_i(), this.sector_0_i()]
+    }
+    __extends(t, e);
+    var i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [],
+            this._Image1_i(),
+            this._Image2_i(),
+            this.states = [new eui.State("up", [new eui.AddItems("_Image1", "", 0, "")]), new eui.State("down", [new eui.AddItems("_Image2", "", 1, "")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_ss_up_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        i._Image2_i = function() {
+            var e = new eui.Image;
+            return this._Image2 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_ss_down_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    n = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [],
+            this._Image1_i(),
+            this._Image2_i(),
+            this.states = [new eui.State("up", [new eui.AddItems("_Image1", "", 0, "")]), new eui.State("down", [new eui.AddItems("_Image2", "", 1, "")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_s_up_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        i._Image2_i = function() {
+            var e = new eui.Image;
+            return this._Image2 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_s_down_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    r = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [],
+            this._Image1_i(),
+            this._Image2_i(),
+            this.states = [new eui.State("up", [new eui.AddItems("_Image1", "", 0, "")]), new eui.State("down", [new eui.AddItems("_Image2", "", 1, "")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_a_up_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        i._Image2_i = function() {
+            var e = new eui.Image;
+            return this._Image2 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_a_down_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    a = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [],
+            this._Image1_i(),
+            this._Image2_i(),
+            this.states = [new eui.State("up", [new eui.AddItems("_Image1", "", 0, "")]), new eui.State("down", [new eui.AddItems("_Image2", "", 1, "")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_b_up_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        i._Image2_i = function() {
+            var e = new eui.Image;
+            return this._Image2 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_b_down_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    s = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [],
+            this._Image1_i(),
+            this._Image2_i(),
+            this.states = [new eui.State("up", [new eui.AddItems("_Image1", "", 0, "")]), new eui.State("down", [new eui.AddItems("_Image2", "", 1, "")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_c_up_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        i._Image2_i = function() {
+            var e = new eui.Image;
+            return this._Image2 = e,
+            e.height = 33,
+            e.source = "mark_wheel_detail_panel_c_down_png",
+            e.width = 101,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    o = t.prototype;
+    return o._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 640,
+        e.source = "common_ui_bg_3_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    o.menuGroup_i = function() {
+        var e = new eui.Group;
+        return this.menuGroup = e,
+        e.x = 0,
+        e.y = 48,
+        e
+    },
+    o.sector_1_i = function() {
+        var e = new eui.Group;
+        return this.sector_1 = e,
+        e.visible = !0,
+        e.width = 918,
+        e.x = 170,
+        e.y = 64,
+        e.elementsContent = [this._Image2_i(), this._Scroller1_i(), this._Image3_i(), this._Label1_i(), this._Label2_i()],
+        e
+    },
+    o._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 550,
+        e.source = "mark_wheel_detail_panel_sector_1_bg_png",
+        e.visible = !0,
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    o._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 473,
+        e.left = 31,
+        e.right = 38,
+        e.y = 54,
+        e.viewport = this.list_1_i(),
+        e
+    },
+    o.list_1_i = function() {
+        var e = new eui.List;
+        return this.list_1 = e,
+        e.height = 473,
+        e.visible = !0,
+        e.width = 849,
+        e.x = 31,
+        e.y = 54,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    o._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.columnAlign = "left",
+        e.horizontalGap = 31,
+        e.orientation = "rows",
+        e.verticalGap = 25,
+        e
+    },
+    o._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 26,
+        e.source = "mark_wheel_detail_decompose_flag_png",
+        e.width = 26,
+        e.x = 75,
+        e.y = 12,
+        e
+    },
+    o._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "带有",
+        e.textColor = 12834813,
+        e.x = 31,
+        e.y = 16,
+        e
+    },
+    o._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "表示该刻印已分解",
+        e.textColor = 12834813,
+        e.x = 110,
+        e.y = 16,
+        e
+    },
+    o.sector_0_i = function() {
+        var e = new eui.Group;
+        return this.sector_0 = e,
+        e.visible = !0,
+        e.width = 918,
+        e.x = 170,
+        e.y = 64,
+        e.elementsContent = [this._Image4_i(), this._Scroller2_i(), this.section_0_i(), this.section_1_i(), this.section_2_i(), this.section_3_i(), this.section_4_i()],
+        e
+    },
+    o._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 518,
+        e.source = "mark_wheel_detail_panel_sector_1_bg_png",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 32,
+        e
+    },
+    o._Scroller2_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 473,
+        e.left = 31,
+        e.right = 38,
+        e.y = 54,
+        e.viewport = this.list_0_i(),
+        e
+    },
+    o.list_0_i = function() {
+        var e = new eui.List;
+        return this.list_0 = e,
+        e.height = 473,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.width = 849,
+        e.x = 0,
+        e.y = 0,
+        e.layout = this._TileLayout2_i(),
+        e
+    },
+    o._TileLayout2_i = function() {
+        var e = new eui.TileLayout;
+        return e.columnAlign = "left",
+        e.horizontalGap = 31,
+        e.orientation = "rows",
+        e.verticalGap = 25,
+        e
+    },
+    o.section_0_i = function() {
+        var e = new eui.RadioButton;
+        return this.section_0 = e,
+        e.groupName = "mark_wheel_detail_section",
+        e.value = "5",
+        e.x = 1,
+        e.y = 0,
+        e.skinName = i,
+        e
+    },
+    o.section_1_i = function() {
+        var e = new eui.RadioButton;
+        return this.section_1 = e,
+        e.groupName = "mark_wheel_detail_section",
+        e.value = "4",
+        e.x = 101,
+        e.y = 0,
+        e.skinName = n,
+        e
+    },
+    o.section_2_i = function() {
+        var e = new eui.RadioButton;
+        return this.section_2 = e,
+        e.groupName = "mark_wheel_detail_section",
+        e.value = "3",
+        e.x = 202,
+        e.y = 0,
+        e.skinName = r,
+        e
+    },
+    o.section_3_i = function() {
+        var e = new eui.RadioButton;
+        return this.section_3 = e,
+        e.groupName = "mark_wheel_detail_section",
+        e.value = "2",
+        e.x = 302,
+        e.y = 0,
+        e.skinName = a,
+        e
+    },
+    o.section_4_i = function() {
+        var e = new eui.RadioButton;
+        return this.section_4 = e,
+        e.groupName = "mark_wheel_detail_section",
+        e.value = "1",
+        e.x = 403,
+        e.y = 0,
+        e.skinName = s,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkWheelDrawPanelSkin.exml"] = window.MarkWheelDrawPanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "pan", "grp_anim", "xian", "img_arr", "jiantou", "shou", "grp_arr", "grpClose", "grpLeft", "_rect", "_mask", "txtCoin", "icon_1", "grpItemNum", "icon_0", "grpDetail", "singleCard", "img_clickOne", "btnDecomposeOne", "btnGetOne", "grp_one", "cardList", "img_clickTen", "btnDecomposeTen", "btnGetTen", "img_close", "grp_ten", "grp_anim0"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.pan_i(), this.grp_anim_i(), this.xian_i(), this.grp_arr_i(), this.grpLeft_i(), this._rect_i(), this._mask_i(), this.grpItemNum_i(), this.grpDetail_i(), this.grp_one_i(), this.grp_ten_i(), this.grp_anim0_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.height = 640,
+        e.source = "mark_wheel_draw_panel_bg_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.pan_i = function() {
+        var e = new eui.Image;
+        return this.pan = e,
+        e.height = 581,
+        e.horizontalCenter = 0,
+        e.source = "mark_wheel_draw_panel_pan_png",
+        e.verticalCenter = -29.5,
+        e.width = 616,
+        e
+    },
+    i.grp_anim_i = function() {
+        var e = new eui.Group;
+        return this.grp_anim = e,
+        e.horizontalCenter = 5,
+        e.touchChildren = !1,
+        e.touchEnabled = !1,
+        e.verticalCenter = -43,
+        e
+    },
+    i.xian_i = function() {
+        var e = new eui.Image;
+        return this.xian = e,
+        e.height = 22,
+        e.horizontalCenter = 0,
+        e.source = "mark_wheel_draw_panel_xian_png",
+        e.width = 486,
+        e.y = 548,
+        e
+    },
+    i.grp_arr_i = function() {
+        var e = new eui.Group;
+        return this.grp_arr = e,
+        e.visible = !1,
+        e.x = 381,
+        e.y = 533,
+        e.elementsContent = [this.jiantou_i(), this.shou_i()],
+        e
+    },
+    i.jiantou_i = function() {
+        var e = new eui.Group;
+        return this.jiantou = e,
+        e.height = 50,
+        e.touchChildren = !1,
+        e.width = 58,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.img_arr_i()],
+        e
+    },
+    i.img_arr_i = function() {
+        var e = new eui.Image;
+        return this.img_arr = e,
+        e.height = 20,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "mark_wheel_draw_panel_jiantou_png",
+        e.width = 42,
+        e.x = 3,
+        e.y = 16,
+        e
+    },
+    i.shou_i = function() {
+        var e = new eui.Image;
+        return this.shou = e,
+        e.height = 63,
+        e.source = "mark_wheel_draw_panel_shou_png",
+        e.width = 58,
+        e.x = 0,
+        e.y = 33,
+        e
+    },
+    i.grpLeft_i = function() {
+        var e = new eui.Group;
+        return this.grpLeft = e,
+        e.cacheAsBitmap = !0,
+        e.visible = !0,
+        e.width = 287,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.grpClose_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 76,
+        e.source = "adapt_up_bg_png",
+        e.x = -77,
+        e.y = 0,
+        e
+    },
+    i.grpClose_i = function() {
+        var e = new eui.Group;
+        return this.grpClose = e,
+        e.height = 48,
+        e.width = 200,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image2_i(), this._Image3_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 38,
+        e.source = "mark_wheel_main_btnClose_png",
+        e.width = 28,
+        e.x = 22,
+        e.y = 5,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "mark_wheel_main_title_png",
+        e.x = 57,
+        e.y = 10,
+        e
+    },
+    i._rect_i = function() {
+        var e = new eui.Rect;
+        return this._rect = e,
+        e.fillAlpha = 0,
+        e.height = 183,
+        e.width = 207,
+        e.x = 335,
+        e.y = 450,
+        e
+    },
+    i._mask_i = function() {
+        var e = new eui.Rect;
+        return this._mask = e,
+        e.fillAlpha = .7,
+        e.percentHeight = 100,
+        e.visible = !1,
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.grpItemNum_i = function() {
+        var e = new eui.Group;
+        return this.grpItemNum = e,
+        e.cacheAsBitmap = !0,
+        e.right = 43,
+        e.visible = !0,
+        e.y = 14,
+        e.elementsContent = [this._Image4_i(), this.txtCoin_i(), this.icon_1_i()],
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 21,
+        e.source = "mark_wheel_main_itemNumBg_png",
+        e.width = 133,
+        e.x = 6,
+        e.y = 2,
+        e
+    },
+    i.txtCoin_i = function() {
+        var e = new eui.Label;
+        return this.txtCoin = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 1,
+        e.size = 18,
+        e.text = "99999",
+        e.textColor = 12834813,
+        e.y = 3,
+        e
+    },
+    i.icon_1_i = function() {
+        var e = new eui.Image;
+        return this.icon_1 = e,
+        e.height = 30,
+        e.source = "",
+        e.width = 30,
+        e.x = 0,
+        e.y = -3,
+        e
+    },
+    i.grpDetail_i = function() {
+        var e = new eui.Group;
+        return this.grpDetail = e,
+        e.cacheAsBitmap = !0,
+        e.visible = !1,
+        e.x = 12,
+        e.y = 14,
+        e.elementsContent = [this._Image5_i(), this.icon_0_i(), this._Label1_i(), this._Label2_i(), this._Label3_i(), this._Label4_i(), this._Label5_i(), this._Label6_i(), this._Label7_i(), this._Label8_i(), this._Label9_i(), this._Label10_i()],
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.height = 26,
+        e.source = "mark_wheel_draw_img_detail_png",
+        e.width = 152,
+        e.x = 0,
+        e.y = 1,
+        e
+    },
+    i.icon_0_i = function() {
+        var e = new eui.Image;
+        return this.icon_0 = e,
+        e.height = 25,
+        e.source = "",
+        e.width = 25,
+        e.x = 78,
+        e.y = 0,
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 15.9302411383184,
+        e.text = "SS级",
+        e.textColor = 10213885,
+        e.x = 24,
+        e.y = 35,
+        e
+    },
+    i._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 15.965435051719,
+        e.text = "S级 ",
+        e.textColor = 10213885,
+        e.x = 31,
+        e.y = 58,
+        e
+    },
+    i._Label3_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 15.8997636620095,
+        e.text = "A级",
+        e.textColor = 10213885,
+        e.x = 29,
+        e.y = 81,
+        e
+    },
+    i._Label4_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 15.9658833652547,
+        e.text = "B级",
+        e.textColor = 10213885,
+        e.x = 30,
+        e.y = 105,
+        e
+    },
+    i._Label5_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 15.9680641768047,
+        e.text = "C级",
+        e.textColor = 10213885,
+        e.x = 31,
+        e.y = 127,
+        e
+    },
+    i._Label6_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 16.0052317713696,
+        e.text = "250个",
+        e.textColor = 10213885,
+        e.x = 72,
+        e.y = 35,
+        e
+    },
+    i._Label7_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 16.0405913579589,
+        e.text = "100个 ",
+        e.textColor = 10213885,
+        e.x = 74,
+        e.y = 58,
+        e
+    },
+    i._Label8_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 15.9746108242103,
+        e.text = "25个",
+        e.textColor = 10213885,
+        e.x = 81,
+        e.y = 81,
+        e
+    },
+    i._Label9_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 16.0410417819031,
+        e.text = "5个",
+        e.textColor = 10213885,
+        e.x = 89,
+        e.y = 104,
+        e
+    },
+    i._Label10_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 16.0432328594897,
+        e.text = "2个",
+        e.textColor = 10213885,
+        e.x = 88,
+        e.y = 127,
+        e
+    },
+    i.grp_one_i = function() {
+        var e = new eui.Group;
+        return this.grp_one = e,
+        e.height = 414,
+        e.horizontalCenter = -7,
+        e.verticalCenter = 40,
+        e.visible = !0,
+        e.width = 610,
+        e.elementsContent = [this.singleCard_i(), this.img_clickOne_i(), this.btnDecomposeOne_i(), this.btnGetOne_i()],
+        e
+    },
+    i.singleCard_i = function() {
+        var e = new markWheel.MarkWheelCard;
+        return this.singleCard = e,
+        e.skinName = "MarkWheelCardSkin",
+        e.x = 240,
+        e.y = 0,
+        e
+    },
+    i.img_clickOne_i = function() {
+        var e = new eui.Image;
+        return this.img_clickOne = e,
+        e.height = 125,
+        e.source = "mark_wheel_draw_img_clickOne_png",
+        e.width = 610,
+        e.x = 0,
+        e.y = 289,
+        e
+    },
+    i.btnDecomposeOne_i = function() {
+        var e = new eui.Image;
+        return this.btnDecomposeOne = e,
+        e.height = 69,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "mark_wheel_draw_btnDecomposeOne_png",
+        e.width = 172,
+        e.x = 86,
+        e.y = 314,
+        e
+    },
+    i.btnGetOne_i = function() {
+        var e = new eui.Image;
+        return this.btnGetOne = e,
+        e.height = 69,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "mark_wheel_draw_btnGetOne_png",
+        e.width = 172,
+        e.x = 365,
+        e.y = 314,
+        e
+    },
+    i.grp_ten_i = function() {
+        var e = new eui.Group;
+        return this.grp_ten = e,
+        e.height = 581,
+        e.horizontalCenter = 1,
+        e.visible = !0,
+        e.width = 812,
+        e.y = 56,
+        e.elementsContent = [this.cardList_i(), this.img_clickTen_i(), this.btnDecomposeTen_i(), this.btnGetTen_i(), this.img_close_i()],
+        e
+    },
+    i.cardList_i = function() {
+        var e = new eui.List;
+        return this.cardList = e,
+        e.height = 485,
+        e.width = 812,
+        e.x = 0,
+        e.y = 0,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    i._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.columnAlign = "justifyUsingGap",
+        e.orientation = "rows",
+        e.requestedColumnCount = 5,
+        e.requestedRowCount = 2,
+        e.verticalGap = -45,
+        e
+    },
+    i.img_clickTen_i = function() {
+        var e = new eui.Image;
+        return this.img_clickTen = e,
+        e.height = 125,
+        e.source = "mark_wheel_draw_img_clickTen_png",
+        e.width = 610,
+        e.x = 93,
+        e.y = 456,
+        e
+    },
+    i.btnDecomposeTen_i = function() {
+        var e = new eui.Image;
+        return this.btnDecomposeTen = e,
+        e.height = 69,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "mark_wheel_draw_btnDecomposeTen_png",
+        e.width = 193,
+        e.x = 138,
+        e.y = 486,
+        e
+    },
+    i.btnGetTen_i = function() {
+        var e = new eui.Image;
+        return this.btnGetTen = e,
+        e.height = 69,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "mark_wheel_draw_btnGetTen_png",
+        e.width = 193,
+        e.x = 477,
+        e.y = 486,
+        e
+    },
+    i.img_close_i = function() {
+        var e = new eui.Image;
+        return this.img_close = e,
+        e.height = 69,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "mark_wheel_draw_img_close_png",
+        e.width = 577,
+        e.x = 109,
+        e.y = 484,
+        e
+    },
+    i.grp_anim0_i = function() {
+        var e = new eui.Group;
+        return this.grp_anim0 = e,
+        e.horizontalCenter = 5,
+        e.touchChildren = !1,
+        e.touchEnabled = !1,
+        e.verticalCenter = -46,
+        e.x = 583,
+        e.y = 284,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkWheelMainSkin.exml"] = window.MarkWheelMainSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["grp_animBg", "grp_animXingzuo", "costIcon_1", "btnDrawTen", "costIcon_0", "btnDrawOne", "txt_info_0", "txt_info_1", "drawNum_bar", "drawNum_thumb", "txt_drawNum", "grpDrawInfo", "btnInfo", "timebg", "txt_time", "tab_0", "tab_1", "grp_animLanse", "grp_animHongse", "grp_animHuangse", "cb_skip", "skip0", "btnShop", "txtSkip", "imgcheckbox", "imgSkipCheck", "grpSkip", "btnBuyTen", "sendItem", "flag_send", "btnBuyOne", "buyPop", "icon_2", "icon_0", "txtCoin_0", "icon_1", "txtCoin_1", "icon1Group", "btnAdd", "itemNum", "groupAll"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.grp_animBg_i(), this._Image2_i(), this.grp_animXingzuo_i(), this._Image3_i(), this.groupAll_i()],
+        this._Image6_i(),
+        this.icon_2_i(),
+        this.icon_0_i(),
+        this.states = [new eui.State("normal", [new eui.AddItems("icon_0", "itemNum", 2, "txtCoin_0"), new eui.SetProperty("grp_animBg", "visible", !0), new eui.SetProperty("_Image2", "visible", !0), new eui.SetProperty("grp_animXingzuo", "visible", !0), new eui.SetProperty("_Image3", "visible", !0), new eui.SetProperty("costIcon_1", "scaleX", -1), new eui.SetProperty("costIcon_1", "x", 48), new eui.SetProperty("costIcon_0", "scaleX", -1), new eui.SetProperty("costIcon_0", "x", 48), new eui.SetProperty("_Group1", "visible", !1)]), new eui.State("limit", [new eui.AddItems("_Image6", "groupAll", 2, "grpDrawInfo"), new eui.AddItems("icon_2", "itemNum", 2, "txtCoin_0"), new eui.SetProperty("_Image1", "source", "mark_wheel_main_bg_1_jpg"), new eui.SetProperty("_Image2", "source", "mark_wheel_main_wheel_1_png"), new eui.SetProperty("_Image2", "y", 0), new eui.SetProperty("_Image2", "height", 640), new eui.SetProperty("grp_animXingzuo", "y", 320), new eui.SetProperty("grp_animXingzuo", "horizontalCenter", 0), new eui.SetProperty("costIcon_1", "source", "mark_wheel_main_costIcon_1_png"), new eui.SetProperty("costIcon_1", "scaleX", -1), new eui.SetProperty("costIcon_1", "x", 48), new eui.SetProperty("costIcon_0", "source", "mark_wheel_main_costIcon_1_png"), new eui.SetProperty("costIcon_0", "scaleX", -1), new eui.SetProperty("costIcon_0", "x", 48), new eui.SetProperty("_Image7", "source", "mark_wheel_main_drawBg_1_png"), new eui.SetProperty("_Image7", "visible", !1), new eui.SetProperty("_Label1", "text", "凝聚永恒之力 召唤稀有刻印"), new eui.SetProperty("_Label1", "visible", !1), new eui.SetProperty("txt_info_0", "text", "限时召唤：【凶兽系列】刻印"), new eui.SetProperty("txt_info_0", "visible", !1), new eui.SetProperty("txt_info_1", "visible", !1), new eui.SetProperty("_Image8", "source", "mark_wheel_main_drawTitle_1_png"), new eui.SetProperty("_Image8", "visible", !1), new eui.SetProperty("drawNum_bar", "source", "mark_wheel_main_drawNum_bar_1_png"), new eui.SetProperty("drawNum_bar", "visible", !1), new eui.SetProperty("drawNum_thumb", "source", "mark_wheel_main_drawNum_thumb_1_png"), new eui.SetProperty("drawNum_thumb", "visible", !1), new eui.SetProperty("txt_drawNum", "visible", !0), new eui.SetProperty("txt_drawNum", "strokeColor", 16726072), new eui.SetProperty("txt_drawNum", "stroke", 1), new eui.SetProperty("txt_drawNum", "y", 146), new eui.SetProperty("txt_drawNum", "horizontalCenter", 181), new eui.SetProperty("grpDrawInfo", "visible", !0), new eui.SetProperty("_Image9", "source", "mark_wheel_imgmark1_png"), new eui.SetProperty("_Image10", "source", "mark_wheel_imgmark3_png"), new eui.SetProperty("_Image11", "source", "mark_wheel_imgmark2_png"), new eui.SetProperty("_Image12", "source", "mark_wheel_main_limit_s1_png"), new eui.SetProperty("_Image12", "height", 165), new eui.SetProperty("_Image13", "source", "mark_wheel_main_shenglingzuifa_1_png"), new eui.SetProperty("_Image14", "source", "mark_wheel_main_limit_s2_png"), new eui.SetProperty("_Image14", "height", 165), new eui.SetProperty("_Image14", "width", 186), new eui.SetProperty("_Image15", "source", "mark_wheel_main_skipbg_1_png"), new eui.SetProperty("sendItem", "source", "mark_wheel_main_costIcon_1_png"), new eui.SetProperty("_Image19", "visible", !1), new eui.SetProperty("icon_1", "visible", !1), new eui.SetProperty("txtCoin_1", "visible", !1)])]
+    }
+    __extends(t, e);
+    var i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [],
+            this._Image1_i(),
+            this._Image2_i(),
+            this.states = [new eui.State("up", [new eui.AddItems("_Image2", "", 1, "")]), new eui.State("down", [new eui.AddItems("_Image1", "", 0, "")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 62,
+            e.source = "mark_wheel_main_tab_normal_down_png",
+            e.width = 186,
+            e.x = 4,
+            e.y = 0,
+            e
+        },
+        i._Image2_i = function() {
+            var e = new eui.Image;
+            return this._Image2 = e,
+            e.height = 57,
+            e.source = "mark_wheel_main_tab_normal_up_png",
+            e.width = 154,
+            e.x = 0,
+            e.y = 3,
+            e
+        },
+        t
+    } (eui.Skin),
+    n = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [],
+            this._Image1_i(),
+            this._Image2_i(),
+            this.states = [new eui.State("up", [new eui.AddItems("_Image2", "", 1, "")]), new eui.State("down", [new eui.AddItems("_Image1", "", 0, "")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 62,
+            e.source = "mark_wheel_main_tab_limit_down_png",
+            e.width = 186,
+            e.x = 4,
+            e.y = 0,
+            e
+        },
+        i._Image2_i = function() {
+            var e = new eui.Image;
+            return this._Image2 = e,
+            e.height = 57,
+            e.source = "mark_wheel_main_tab_limit_up_png",
+            e.width = 154,
+            e.x = 0,
+            e.y = 3,
+            e
+        },
+        t
+    } (eui.Skin),
+    r = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["bg", "yes"],
+            this.elementsContent = [this.bg_i()],
+            this.yes_i(),
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.AddItems("yes", "", 1, "")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i.bg_i = function() {
+            var e = new eui.Image;
+            return this.bg = e,
+            e.height = 23,
+            e.source = "mark_wheel_main_skipRbg_png",
+            e.width = 22,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        i.yes_i = function() {
+            var e = new eui.Image;
+            return this.yes = e,
+            e.height = 13,
+            e.source = "mark_wheel_main_skip_yes_png",
+            e.width = 17,
+            e.x = 3,
+            e.y = 6,
+            e
+        },
+        t
+    } (eui.Skin),
+    a = t.prototype;
+    return a._Image1_i = function() {
+        var e = new eui.Image;
+        return this._Image1 = e,
+        e.height = 640,
+        e.source = "mark_wheel_main_bg_jpg",
+        e.visible = !0,
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.grp_animBg_i = function() {
+        var e = new eui.Group;
+        return this.grp_animBg = e,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e
+    },
+    a._Image2_i = function() {
+        var e = new eui.Image;
+        return this._Image2 = e,
+        e.height = 534,
+        e.horizontalCenter = 0,
+        e.source = "mark_wheel_main_wheel_png",
+        e.width = 1136,
+        e.y = 106,
+        e
+    },
+    a.grp_animXingzuo_i = function() {
+        var e = new eui.Group;
+        return this.grp_animXingzuo = e,
+        e.horizontalCenter = -35,
+        e.x = 578,
+        e.y = 329,
+        e
+    },
+    a._Image3_i = function() {
+        var e = new eui.Image;
+        return this._Image3 = e,
+        e.percentHeight = 100,
+        e.left = 0,
+        e.right = 0,
+        e.source = "mark_wheel_main_mask_png",
+        e.visible = !0,
+        e.y = 0,
+        e
+    },
+    a.groupAll_i = function() {
+        var e = new eui.Group;
+        return this.groupAll = e,
+        e.visible = !0,
+        e.elementsContent = [this.btnDrawTen_i(), this.btnDrawOne_i(), this.grpDrawInfo_i(), this.btnInfo_i(), this._Group1_i(), this.tab_0_i(), this.tab_1_i(), this._Group2_i(), this.skip0_i(), this.btnShop_i(), this.grpSkip_i(), this.buyPop_i(), this.itemNum_i()],
+        e
+    },
+    a.btnDrawTen_i = function() {
+        var e = new eui.Group;
+        return this.btnDrawTen = e,
+        e.right = 39,
+        e.y = 542,
+        e.elementsContent = [this._Image4_i(), this.costIcon_1_i()],
+        e
+    },
+    a._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 86,
+        e.source = "mark_wheel_main_btnBg_1_png",
+        e.width = 190,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.costIcon_1_i = function() {
+        var e = new eui.Image;
+        return this.costIcon_1 = e,
+        e.height = 18,
+        e.source = "mark_wheel_main_costIcon_0_png",
+        e.width = 18,
+        e.x = 37,
+        e.y = 52,
+        e
+    },
+    a.btnDrawOne_i = function() {
+        var e = new eui.Group;
+        return this.btnDrawOne = e,
+        e.right = 257,
+        e.y = 542,
+        e.elementsContent = [this._Image5_i(), this.costIcon_0_i()],
+        e
+    },
+    a._Image5_i = function() {
+        var e = new eui.Image;
+        return e.height = 86,
+        e.source = "mark_wheel_main_btnBg_0_png",
+        e.width = 190,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.costIcon_0_i = function() {
+        var e = new eui.Image;
+        return this.costIcon_0 = e,
+        e.height = 18,
+        e.source = "mark_wheel_main_costIcon_0_png",
+        e.width = 18,
+        e.x = 37,
+        e.y = 52,
+        e
+    },
+    a._Image6_i = function() {
+        var e = new eui.Image;
+        return this._Image6 = e,
+        e.source = "mark_wheel_img1_png",
+        e.y = 368,
+        e
+    },
+    a.grpDrawInfo_i = function() {
+        var e = new eui.Group;
+        return this.grpDrawInfo = e,
+        e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 368,
+        e.elementsContent = [this._Image7_i(), this._Label1_i(), this.txt_info_0_i(), this.txt_info_1_i(), this._Image8_i(), this.drawNum_bar_i(), this.drawNum_thumb_i(), this.txt_drawNum_i()],
+        e
+    },
+    a._Image7_i = function() {
+        var e = new eui.Image;
+        return this._Image7 = e,
+        e.height = 151,
+        e.source = "mark_wheel_main_drawBg_png",
+        e.width = 497,
+        e.x = 0,
+        e.y = 46,
+        e
+    },
+    a._Label1_i = function() {
+        var e = new eui.Label;
+        return this._Label1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 26,
+        e.text = "凝聚浩瀚之力 召唤稀有刻印",
+        e.textColor = 16514895,
+        e.x = 73,
+        e.y = 94,
+        e
+    },
+    a.txt_info_0_i = function() {
+        var e = new eui.Label;
+        return this.txt_info_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 22,
+        e.text = "常驻召唤：【V8系列】刻印",
+        e.textColor = 12834813,
+        e.x = 75,
+        e.y = 129,
+        e
+    },
+    a.txt_info_1_i = function() {
+        var e = new eui.Label;
+        return this.txt_info_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "累计召唤达到60次 必出SS级刻印",
+        e.textColor = 8631026,
+        e.x = 75,
+        e.y = 160,
+        e
+    },
+    a._Image8_i = function() {
+        var e = new eui.Image;
+        return this._Image8 = e,
+        e.height = 81,
+        e.source = "mark_wheel_main_drawTitle_png",
+        e.width = 289,
+        e.x = 43,
+        e.y = 0,
+        e
+    },
+    a.drawNum_bar_i = function() {
+        var e = new eui.Image;
+        return this.drawNum_bar = e,
+        e.height = 68,
+        e.source = "mark_wheel_main_drawNum_bar_png",
+        e.width = 68,
+        e.x = 396,
+        e.y = 121,
+        e
+    },
+    a.drawNum_thumb_i = function() {
+        var e = new eui.Image;
+        return this.drawNum_thumb = e,
+        e.height = 18,
+        e.source = "mark_wheel_main_drawNum_thumb_png",
+        e.width = 35,
+        e.x = 412,
+        e.y = 165,
+        e
+    },
+    a.txt_drawNum_i = function() {
+        var e = new eui.Label;
+        return this.txt_drawNum = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 181,
+        e.size = 18,
+        e.text = "XX/60",
+        e.textColor = 16777215,
+        e.y = 142,
+        e
+    },
+    a.btnInfo_i = function() {
+        var e = new eui.Image;
+        return this.btnInfo = e,
+        e.height = 34,
+        e.source = "mark_wheel_main_btnInfo_png",
+        e.width = 81,
+        e.x = 51,
+        e.y = 580,
+        e
+    },
+    a._Group1_i = function() {
+        var e = new eui.Group;
+        return this._Group1 = e,
+        e.cacheAsBitmap = !0,
+        e.x = 146,
+        e.y = 583,
+        e.elementsContent = [this.timebg_i(), this.txt_time_i()],
+        e
+    },
+    a.timebg_i = function() {
+        var e = new eui.Image;
+        return this.timebg = e,
+        e.height = 29,
+        e.source = "mark_wheel_main_timebg_png",
+        e.width = 282,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.txt_time_i = function() {
+        var e = new eui.Label;
+        return this.txt_time = e,
+        e.fontFamily = "REEJI",
+        e.horizontalCenter = 0,
+        e.size = 20,
+        e.text = "将于2月22日23:59:59结束",
+        e.textColor = 16772178,
+        e.y = 5,
+        e
+    },
+    a.tab_0_i = function() {
+        var e = new eui.RadioButton;
+        return this.tab_0 = e,
+        e.groupName = "mark_wheel_main_tab",
+        e.value = "normal",
+        e.x = 8,
+        e.y = 83,
+        e.skinName = i,
+        e
+    },
+    a.tab_1_i = function() {
+        var e = new eui.RadioButton;
+        return this.tab_1 = e,
+        e.groupName = "mark_wheel_main_tab",
+        e.value = "limit",
+        e.visible = !0,
+        e.x = 8,
+        e.y = 152,
+        e.skinName = n,
+        e
+    },
+    a._Group2_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = 53,
+        e.y = 88,
+        e.elementsContent = [this._Image9_i(), this._Image10_i(), this._Image11_i(), this._Image12_i(), this._Image13_i(), this._Image14_i(), this.grp_animLanse_i(), this.grp_animHongse_i(), this.grp_animHuangse_i()],
+        e
+    },
+    a._Image9_i = function() {
+        var e = new eui.Image;
+        return this._Image9 = e,
+        e.height = 223,
+        e.source = "mark_wheel_main_ss1_png",
+        e.width = 221,
+        e.x = 595,
+        e.y = 0,
+        e
+    },
+    a._Image10_i = function() {
+        var e = new eui.Image;
+        return this._Image10 = e,
+        e.height = 220,
+        e.source = "mark_wheel_main_ss3_png",
+        e.width = 221,
+        e.x = 515,
+        e.y = 208,
+        e
+    },
+    a._Image11_i = function() {
+        var e = new eui.Image;
+        return this._Image11 = e,
+        e.height = 225,
+        e.source = "mark_wheel_main_ss2_png",
+        e.width = 221,
+        e.x = 349,
+        e.y = 35,
+        e
+    },
+    a._Image12_i = function() {
+        var e = new eui.Image;
+        return this._Image12 = e,
+        e.height = 164,
+        e.source = "mark_wheel_main_s2_png",
+        e.width = 185,
+        e.x = 196,
+        e.y = 169,
+        e
+    },
+    a._Image13_i = function() {
+        var e = new eui.Image;
+        return this._Image13 = e,
+        e.height = 168,
+        e.source = "mark_wheel_main_s3_png",
+        e.visible = !0,
+        e.width = 170,
+        e.x = 158,
+        e.y = 8,
+        e
+    },
+    a._Image14_i = function() {
+        var e = new eui.Image;
+        return this._Image14 = e,
+        e.height = 164,
+        e.source = "mark_wheel_main_s1_png",
+        e.width = 185,
+        e.x = 0,
+        e.y = 106,
+        e
+    },
+    a.grp_animLanse_i = function() {
+        var e = new eui.Group;
+        return this.grp_animLanse = e,
+        e.x = 460,
+        e.y = 148,
+        e
+    },
+    a.grp_animHongse_i = function() {
+        var e = new eui.Group;
+        return this.grp_animHongse = e,
+        e.x = 626,
+        e.y = 318,
+        e
+    },
+    a.grp_animHuangse_i = function() {
+        var e = new eui.Group;
+        return this.grp_animHuangse = e,
+        e.x = 706,
+        e.y = 112,
+        e
+    },
+    a.skip0_i = function() {
+        var e = new eui.Group;
+        return this.skip0 = e,
+        e.right = 46,
+        e.visible = !1,
+        e.y = 512,
+        e.elementsContent = [this._Image15_i(), this._Label2_i(), this.cb_skip_i()],
+        e
+    },
+    a._Image15_i = function() {
+        var e = new eui.Image;
+        return this._Image15 = e,
+        e.height = 25,
+        e.source = "mark_wheel_main_skipbg_png",
+        e.width = 121,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "跳过动画",
+        e.textColor = 16777215,
+        e.x = 8,
+        e.y = 3,
+        e
+    },
+    a.cb_skip_i = function() {
+        var e = new eui.CheckBox;
+        return this.cb_skip = e,
+        e.x = 95,
+        e.y = 1,
+        e.skinName = r,
+        e
+    },
+    a.btnShop_i = function() {
+        var e = new eui.Image;
+        return this.btnShop = e,
+        e.height = 88,
+        e.right = 46,
+        e.source = "mark_wheel_main_btnShop_png",
+        e.width = 74,
+        e.y = 440,
+        e
+    },
+    a.grpSkip_i = function() {
+        var e = new eui.Group;
+        return this.grpSkip = e,
+        e.right = 39,
+        e.y = 51,
+        e.elementsContent = [this.txtSkip_i(), this.imgcheckbox_i(), this.imgSkipCheck_i()],
+        e
+    },
+    a.txtSkip_i = function() {
+        var e = new eui.Label;
+        return this.txtSkip = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20.8333358764648,
+        e.text = "跳过动画",
+        e.textColor = 9351416,
+        e.x = 28,
+        e.y = 5,
+        e
+    },
+    a.imgcheckbox_i = function() {
+        var e = new eui.Image;
+        return this.imgcheckbox = e,
+        e.source = "mark_wheel_main_imgcheckbox_png",
+        e.x = 0,
+        e.y = 4,
+        e
+    },
+    a.imgSkipCheck_i = function() {
+        var e = new eui.Image;
+        return this.imgSkipCheck = e,
+        e.source = "mark_wheel_main_imgskipcheck_png",
+        e.visible = !1,
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    a.buyPop_i = function() {
+        var e = new eui.Group;
+        return this.buyPop = e,
+        e.cacheAsBitmap = !0,
+        e.right = 27,
+        e.visible = !0,
+        e.y = 44,
+        e.elementsContent = [this._Image16_i(), this.btnBuyTen_i(), this.flag_send_i(), this.btnBuyOne_i()],
+        e
+    },
+    a._Image16_i = function() {
+        var e = new eui.Image;
+        return e.height = 131,
+        e.source = "mark_wheel_main_buyBg_png",
+        e.width = 161,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.btnBuyTen_i = function() {
+        var e = new eui.Image;
+        return this.btnBuyTen = e,
+        e.source = "mark_wheel_main_btnBuyTen_png",
+        e.x = 12,
+        e.y = 73,
+        e
+    },
+    a.flag_send_i = function() {
+        var e = new eui.Group;
+        return this.flag_send = e,
+        e.x = 13,
+        e.y = 67,
+        e.elementsContent = [this._Image17_i(), this.sendItem_i()],
+        e
+    },
+    a._Image17_i = function() {
+        var e = new eui.Image;
+        return e.height = 19,
+        e.source = "mark_wheel_main_flag_send_png",
+        e.width = 50,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.sendItem_i = function() {
+        var e = new eui.Image;
+        return this.sendItem = e,
+        e.height = 13,
+        e.source = "mark_wheel_main_costIcon_0_png",
+        e.width = 13,
+        e.x = 20,
+        e.y = 4,
+        e
+    },
+    a.btnBuyOne_i = function() {
+        var e = new eui.Image;
+        return this.btnBuyOne = e,
+        e.source = "mark_wheel_main_btnBuyOne_png",
+        e.x = 12,
+        e.y = 9,
+        e
+    },
+    a.itemNum_i = function() {
+        var e = new eui.Group;
+        return this.itemNum = e,
+        e.cacheAsBitmap = !0,
+        e.right = 39,
+        e.y = 11,
+        e.elementsContent = [this._Image18_i(), this.txtCoin_0_i(), this.icon1Group_i(), this.btnAdd_i()],
+        e
+    },
+    a._Image18_i = function() {
+        var e = new eui.Image;
+        return e.height = 21,
+        e.source = "mark_wheel_main_itemNumBg_png",
+        e.width = 133,
+        e.x = 172,
+        e.y = 5,
+        e
+    },
+    a.icon_2_i = function() {
+        var e = new eui.Image;
+        return this.icon_2 = e,
+        e.height = 30,
+        e.width = 30,
+        e.x = 161,
+        e.y = 0,
+        e
+    },
+    a.icon_0_i = function() {
+        var e = new eui.Image;
+        return this.icon_0 = e,
+        e.height = 30,
+        e.width = 30,
+        e.x = 161,
+        e.y = 0,
+        e
+    },
+    a.txtCoin_0_i = function() {
+        var e = new eui.Label;
+        return this.txtCoin_0 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 82,
+        e.size = 18.0101510119682,
+        e.text = "99999",
+        e.textColor = 12834813,
+        e.y = 6,
+        e
+    },
+    a.icon1Group_i = function() {
+        var e = new eui.Group;
+        return this.icon1Group = e,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image19_i(), this.icon_1_i(), this.txtCoin_1_i()],
+        e
+    },
+    a._Image19_i = function() {
+        var e = new eui.Image;
+        return this._Image19 = e,
+        e.height = 21,
+        e.source = "mark_wheel_main_itemNumBg_png",
+        e.width = 133,
+        e.x = 7,
+        e.y = 5,
+        e
+    },
+    a.icon_1_i = function() {
+        var e = new eui.Image;
+        return this.icon_1 = e,
+        e.height = 30,
+        e.width = 30,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.txtCoin_1_i = function() {
+        var e = new eui.Label;
+        return this.txtCoin_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "99999",
+        e.textColor = 12834813,
+        e.x = 56,
+        e.y = 6,
+        e
+    },
+    a.btnAdd_i = function() {
+        var e = new eui.Image;
+        return this.btnAdd = e,
+        e.height = 21,
+        e.source = "mark_wheel_main_btnAdd_png",
+        e.width = 21,
+        e.x = 288,
+        e.y = 5,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkWheelShopItemSkin.exml"] = window.MarkWheelShopItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["txt_name", "icon", "txt_limit", "txt_cost", "costIcon", "btnBuy", "flag_got"],
+        this.height = 173,
+        this.width = 145,
+        this.elementsContent = [this._Image1_i(), this.txt_name_i(), this.icon_i(), this.txt_limit_i(), this.btnBuy_i(), this.flag_got_i()],
+        this.states = [new eui.State("ss", []), new eui.State("s", [new eui.SetProperty("_Image1", "source", "mark_wheel_shop_item_bg2_png")])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return this._Image1 = e,
+        e.height = 173,
+        e.source = "mark_wheel_shop_item_bg_png",
+        e.width = 145,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txt_name_i = function() {
+        var e = new eui.Label;
+        return this.txt_name = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 16,
+        e.text = "十年·磨砺",
+        e.textColor = 16777215,
+        e.y = 9,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 70,
+        e.width = 70,
+        e.x = 37,
+        e.y = 46,
+        e
+    },
+    i.txt_limit_i = function() {
+        var e = new eui.Label;
+        return this.txt_limit = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 14,
+        e.text = "限兑：1/1",
+        e.textColor = 10180889,
+        e.y = 118,
+        e
+    },
+    i.btnBuy_i = function() {
+        var e = new eui.Group;
+        return this.btnBuy = e,
+        e.x = 2,
+        e.y = 137,
+        e.elementsContent = [this._Image2_i(), this._Group1_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 31,
+        e.source = "mark_wheel_shop_item_btnbg_png",
+        e.width = 140,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = -1.5,
+        e.y = 8,
+        e.elementsContent = [this.txt_cost_i(), this.costIcon_i()],
+        e
+    },
+    i.txt_cost_i = function() {
+        var e = new eui.Label;
+        return this.txt_cost = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.textColor = 10171674,
+        e.x = 24,
+        e.y = 1,
+        e
+    },
+    i.costIcon_i = function() {
+        var e = new eui.Image;
+        return this.costIcon = e,
+        e.height = 20,
+        e.width = 20,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.flag_got_i = function() {
+        var e = new eui.Image;
+        return this.flag_got = e,
+        e.height = 31,
+        e.source = "mark_wheel_shop_item_flag_got_png",
+        e.width = 140,
+        e.x = 2,
+        e.y = 137,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkWheelShopPanelSkin.exml"] = window.MarkWheelShopPanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["tab_1", "tab_0", "btnClose", "btnHelp", "grpLeft", "txtCoin", "icon", "grpItemNum", "list_0", "txt_limit", "sector_0", "list_1", "sector_1", "menuGroup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.grpLeft_i(), this.grpItemNum_i(), this.sector_0_i(), this.sector_1_i(), this.menuGroup_i()]
+    }
+    __extends(t, e);
+    var i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Rect1_i(), this._Image1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "mark_wheel_shop_panel_up1_png"), new eui.SetProperty("_Image1", "x", 16), new eui.SetProperty("_Image1", "y", 15)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "mark_wheel_shop_panel_down1_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.alpha = 0,
+            e.percentHeight = 100,
+            e.percentWidth = 100,
+            e
+        },
+        i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e
+        },
+        t
+    } (eui.Skin),
+    n = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Rect1_i(), this._Image1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "mark_wheel_shop_panel_up_png"), new eui.SetProperty("_Image1", "x", 17), new eui.SetProperty("_Image1", "y", 16)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "mark_wheel_shop_panel_down_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.alpha = 0,
+            e.percentHeight = 100,
+            e.percentWidth = 100,
+            e
+        },
+        i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e
+        },
+        t
+    } (eui.Skin),
+    r = t.prototype;
+    return r._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 640,
+        e.source = "common_ui_bg_3_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    r.grpLeft_i = function() {
+        var e = new eui.Group;
+        return this.grpLeft = e,
+        e.visible = !1,
+        e.width = 287,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image2_i(), this._Image3_i(), this.tab_1_i(), this.tab_0_i(), this.btnClose_i(), this.btnHelp_i()],
+        e
+    },
+    r._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 592,
+        e.source = "adapt_leftbg_png",
+        e.x = -76,
+        e.y = 48,
+        e
+    },
+    r._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 76,
+        e.right = 0,
+        e.source = "adapt_up_bg_png",
+        e.y = 0,
+        e
+    },
+    r.tab_1_i = function() {
+        var e = new eui.RadioButton;
+        return this.tab_1 = e,
+        e.groupName = "mark_wheel_shop_tab",
+        e.height = 60,
+        e.value = "2",
+        e.width = 155,
+        e.x = 0,
+        e.y = 121,
+        e.skinName = i,
+        e
+    },
+    r.tab_0_i = function() {
+        var e = new eui.RadioButton;
+        return this.tab_0 = e,
+        e.groupName = "mark_wheel_shop_tab",
+        e.height = 60,
+        e.value = "1",
+        e.width = 155,
+        e.x = 0,
+        e.y = 64,
+        e.skinName = n,
+        e
+    },
+    r.btnClose_i = function() {
+        var e = new eui.Group;
+        return this.btnClose = e,
+        e.height = 50,
+        e.width = 200,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image4_i(), this._Image5_i()],
+        e
+    },
+    r._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 31,
+        e.source = "mark_wheel_shop_panel_title_png",
+        e.width = 104,
+        e.x = 50,
+        e.y = 10,
+        e
+    },
+    r._Image5_i = function() {
+        var e = new eui.Image;
+        return e.height = 38,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "mark_wheel_main_btnClose_png",
+        e.width = 28,
+        e.x = 14,
+        e.y = 5,
+        e
+    },
+    r.btnHelp_i = function() {
+        var e = new eui.Image;
+        return this.btnHelp = e,
+        e.height = 28,
+        e.source = "common_help_icon_1_png",
+        e.visible = !1,
+        e.width = 24,
+        e.x = 259,
+        e.y = 13,
+        e
+    },
+    r.grpItemNum_i = function() {
+        var e = new eui.Group;
+        return this.grpItemNum = e,
+        e.cacheAsBitmap = !0,
+        e.right = 43,
+        e.y = 14,
+        e.elementsContent = [this._Image6_i(), this.txtCoin_i(), this.icon_i()],
+        e
+    },
+    r._Image6_i = function() {
+        var e = new eui.Image;
+        return e.height = 21,
+        e.source = "mark_wheel_main_itemNumBg_png",
+        e.width = 133,
+        e.x = 6,
+        e.y = 2,
+        e
+    },
+    r.txtCoin_i = function() {
+        var e = new eui.Label;
+        return this.txtCoin = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 1,
+        e.size = 18,
+        e.text = "99999",
+        e.textColor = 12834813,
+        e.y = 3,
+        e
+    },
+    r.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 25,
+        e.source = "",
+        e.width = 30,
+        e.x = 0,
+        e.y = -3,
+        e
+    },
+    r.sector_0_i = function() {
+        var e = new eui.Group;
+        return this.sector_0 = e,
+        e.visible = !0,
+        e.width = 868,
+        e.x = 223,
+        e.y = 85,
+        e.elementsContent = [this._Image7_i(), this._Scroller1_i(), this.txt_limit_i()],
+        e
+    },
+    r._Image7_i = function() {
+        var e = new eui.Image;
+        return e.height = 504,
+        e.left = 0,
+        e.right = 0,
+        e.source = "mark_wheel_detail_panel_sector_1_bg_png",
+        e.visible = !0,
+        e.y = 0,
+        e
+    },
+    r._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 446,
+        e.left = 27,
+        e.right = 27,
+        e.y = 35,
+        e.viewport = this.list_0_i(),
+        e
+    },
+    r.list_0_i = function() {
+        var e = new eui.List;
+        return this.list_0 = e,
+        e.height = 446,
+        e.width = 812,
+        e.x = 250,
+        e.y = 120,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    r._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.columnAlign = "left",
+        e.horizontalGap = 20,
+        e.orientation = "rows",
+        e.verticalGap = 27,
+        e
+    },
+    r.txt_limit_i = function() {
+        var e = new eui.Label;
+        return this.txt_limit = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 23,
+        e.size = 16,
+        e.text = "每个刻印每月限兑1次",
+        e.textColor = 13757439,
+        e.y = 9,
+        e
+    },
+    r.sector_1_i = function() {
+        var e = new eui.Group;
+        return this.sector_1 = e,
+        e.left = 223,
+        e.right = 46,
+        e.visible = !1,
+        e.y = 75,
+        e.elementsContent = [this._Image8_i(), this._Scroller2_i()],
+        e
+    },
+    r._Image8_i = function() {
+        var e = new eui.Image;
+        return e.height = 514,
+        e.horizontalCenter = 0,
+        e.source = "mark_wheel_shop_contentbg_png",
+        e.visible = !0,
+        e.width = 867,
+        e.y = 0,
+        e
+    },
+    r._Scroller2_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 427,
+        e.horizontalCenter = -1.5,
+        e.width = 844,
+        e.y = 61,
+        e.viewport = this.list_1_i(),
+        e
+    },
+    r.list_1_i = function() {
+        var e = new eui.List;
+        return this.list_1 = e,
+        e.height = 427,
+        e.width = 844,
+        e.x = 10,
+        e.y = 61,
+        e.layout = this._VerticalLayout1_i(),
+        e
+    },
+    r._VerticalLayout1_i = function() {
+        var e = new eui.VerticalLayout;
+        return e.gap = 8,
+        e
+    },
+    r.menuGroup_i = function() {
+        var e = new eui.Group;
+        return this.menuGroup = e,
+        e.x = 0,
+        e.y = 48,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkWheelShopRecordItemSkin.exml"] = window.MarkWheelShopRecordItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["txt_name", "txt_cost", "txt_time", "costIcon"],
+        this.height = 48,
+        this.width = 844,
+        this.elementsContent = [this._Image1_i(), this.txt_name_i(), this.txt_cost_i(), this.txt_time_i(), this.costIcon_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 48,
+        e.source = "mark_wheel_shop_record_item_bg_png",
+        e.width = 844,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txt_name_i = function() {
+        var e = new eui.Label;
+        return this.txt_name = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = -316,
+        e.size = 16,
+        e.text = "十年·磨砺",
+        e.textColor = 12834813,
+        e.visible = !0,
+        e.y = 16,
+        e
+    },
+    i.txt_cost_i = function() {
+        var e = new eui.Label;
+        return this.txt_cost = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.text = "x500",
+        e.textColor = 12834813,
+        e.visible = !0,
+        e.x = 389,
+        e.y = 16,
+        e
+    },
+    i.txt_time_i = function() {
+        var e = new eui.Label;
+        return this.txt_time = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 253,
+        e.size = 16,
+        e.text = "2022-03-14  09:31",
+        e.textColor = 12834813,
+        e.visible = !0,
+        e.y = 16,
+        e
+    },
+    i.costIcon_i = function() {
+        var e = new eui.Image;
+        return this.costIcon = e,
+        e.height = 25,
+        e.width = 25,
+        e.x = 359,
+        e.y = 12,
+        e
+    },
+    t
+} (eui.Skin);

@@ -1,1 +1,282 @@
-eval(function(){function Z(Z){for(k=c=0;k<Z;)u<2&&(u=64,C=92<(C="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;BL=kP<?poV[lS:A_:WlR:;M:HHn:UU^;[>`s^F?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwB;UH:yquk;;F<cY=:XknH=cYR:J^D;Lsj=>jL@a;[[Q[dORtN@Y[Dk:sXA]>::=CZLX[p`ZP>k_>Z=c^=;BYGLW<`[:lTjhsHZa@;;edwSZ:<k:K]?:@R[HJ<:;f:R:HK:Qok:?`jfw:N<w<<<@=o:;`@Ng<QlQkZKLeRrc>=fIblM::InhtdGk]>cNtrF@_K]VNLHZgEd@xpHZNwy<JwQZE::kj;YA;UL]sJ^k>^qQVf]@GXABn@sAAsdsJ>nT]u:CBY>::VnZ:<>aH[M]k:Dc?C=_>=lXEF]^L=Z>RfdE[Kd;xZX>:IdD;BJZ^I<l=s:CKxVAZvMk:_bowTvVv:?>JLlo::S@Wl?XwC]eNjnZ:eB=Nyv]BpEGxrLeZGvyFns]TDR`p`fA[k`UOa:t:^dPr::>J:>m>^;ce>Z:UBL:<gZ:LMc:GHT:GwyZ=vYc:yNe:Ew;N?w?;Z;xIc:fZu:FRPZ:L?c:RS__O;Z:NudKZ:>wc:=W@:CnuZ=dQc:hAD:CoHZ=Y]c:RQD:FuDZ:e:SKZ<Jlc:WL`JJ@t=wZu>[nhw:^_>kTZPb::;eX<jGNsJ`bk^uA_eB:g?PDsvj>dbAeXElZGkLcVI>OCkHS`aZXJGv^>qNR:;CJ>esk:<CG_Xiv;Qwic:GBU[JJs^jq<N>;H?<TWdX_@VBKaQ:wBTSQ@qPMF]@Dk^kmTJA:mL>:Ba;X<k<;sCPt=eg<xZ:Uwt=OiZpvY:JpM_FpL<l>tjsu@Bvcw_Ft:z<kzCHBdwL[<u[^c>R[EaHoJc_ecH=c;wL;w<ka;JR:::nbLKLJg::pDcu:lIghLN:Je;ZV:yaM@cUJ^@xwnN^da<>e`frjSDdleAw<oO[OpKw>_WMk@cF]cA:r::IJ:=dRmk@HOeKiHQYCY;Z>cErlIRe=_E>FJ:@B^eOr:j@wV<Odmt:;RWL:rd_FnZIqene:EuGdQc?GNnMaLR:JymB[ka<e:J<eeZh;SGAZAl=LZE<OfZnrd:JA;YHJbo>AZ:;@D<R;k:;wBFjQRu=m]UhGRDcwqPOwcF?HZD<L[krCcw=XoJvwyCD?;N?u?;Qkz@:p[JH:@dT`:MgiAHD;JYWRVCz]hpJPbig_RvsB;oAGQ=jd[tK`knPhUpHc;NP<<`cprSpI]hBdeTLgezGyDL]^VvJO:w`nYXr<m_kAkPmi;lqsLtDU^Ht:P]:VkVCx`Ih<n>;kCXUOZ@:B=PEQpDoD]B=<E`:][GkGTm;tfbiJV>ZejAzm:[pqfZccO<B;J;ZAJyOZkr?BbAGNrxGLZ^E[zD;DWRAcA_bE?F[ZCdk=>EyBRpKK<B]k:mBgL:Hug^cHmTTPCCJ@[W^OX;<WqckGzbpXVyc;[rkcW:D:aJYL=N>CZxLJSAZLAQ`@FRihsl`QmD]@cuKps_;X_OPBCO=B<Bn=V=LP`]dYN_S]Q;EoV;tZE>U<ia:etI`f_p?eIOkKGoFYnQ:r:AJNqW>SXy^xynxNQFiOVUxm;oDzcZd[b^?RK?ZB:qZr:^[eEg;:pNx=c?T[pAsiC:LYsu_wYCXy_=sa;Cp:kUZqMNaFCpCZNJepiuJ<x?_KBhONZjLeMkrBtONM?<kVo]cOJS>xZT>o?cdlq[k>uGoK>zJgM<;@@F:ZNlS^n>PFgORuks<v;q?g:sNL<cr:iBBkB?[J?<HXDwWsylCZ=A];kLRp^ACl`r>qNga:M_CAHSV`VpnU_F=DQkTgOnRZrGEFEQ:LJj_jCyUVztH:V[o:yN<_yBDzaG@g<ZCBiCwK>_yPX@?V;Y`NB@>_D?uEQ`zENEsV?KZcEk@FR<H:@F=ts<ZGDA?@Gz>FFLX<Mlf<P=_@]>WD<qkA`bBiNm[CL<qN@[oQ=M;uBd>O=w@BJ[lRPLZrdUFV:u:_]_cFKqA`cF=>hJHdZ::v:vWBCns]s:GNT]ZV:N;Y>I:J<lPJg:a>bHPDmJcc<WHpRRxppKM<[:TW_Ioa=NAx<qW>i:ACkJX_eCJ?ppRrQcITSOI;DRTdvldXJPGsTH>L;k@oI:::jEZ`c_;K]Y<iR@imDQ;p^]_dHJft=dkpY><q`R]uO[B[B>>Lkw<F`ERXVhBG;_L]UXugOo^_rOJHTnJyaTBpV[ajcklM[W_ugfAekpDuwq?gI>PIhRoDqWdQ:NQhSUq]=jB<Tgp@u[rcAjiax`EdcN>f;JJN`tE:uNidSXH`;c<<FdLVmd;vEHOK@tUmotMn;PtI;HmgWVBCQRC`XBJgwflmDcGInCRTecDymneKLaUp@CojXclCqdAkJoFRfqYgK@hnBGB_UEsPf?quek:D:N:;HN@`uV:@hJe[N@Ofj[I^hNPdwl[u_:A?t]TO?GusJjfzPy^sKNmccTG`q=bO@pJN;dH;nNAC[GNe_qB`MRVxGXbGCTSa^ai:fA;J<b?;BA^Y@;FL<]:XwZp[IG<ShTeypsabNN<ZCayGwFQesUZICo@l@k=KT_nChJF?sjd@cp?^pEp@IdSxKRVBHbJi^ca`OYXNvxsncfGPTnZkC;Ode^PnyWU:`dr;?:?hUTHqaoBCUTq_CnoXYIWtZ:AE`]N_Q<iChkTSofuUSoVB]tb@ehlK[UeEUioxa::<oF>;JkQB@twi`Dne?FTnzSfu:FtynZ@uhJlWW`WiIPhzhvJGh<`JcGjUBqWIzQ@wSmUDUdiAppHx=Z?wk;OT@CHYumvUIqW?=hwZA@HFkOqLtln:dW_XSZjexA>[jHcKltppsIo`]pFcCShJRPQK=doyMyGV@MIzUMRYVbsHC<yS>k?kw>bS?Nr_yRTbTxXW@WoVOgnovO;A[:AIC:sHCSjP[wGBhWF?Ks<JGte<LcuTu^>SP:DWaHhjLEA:::@dZBN`U@Kk::CdawfJPaeJd[gL=WiYGca:_D]_@sGcN^aNYs^GP^^AbbjH=fmqMlEmQ[Wkp?k=pJEIgq?];A:Is;:TlnZf@cM:jPOpqUQOZ@<L><ViWXzh^ne?xPvHwqD<jUIfNVv>pncEWJJgOUZCAwEuKosSVvlK`PYIIglhUtAybYrCpFujDrpbclVxucEw^bGDqWo`jPlxaf`iHILYt@axaSV`kR:gdP?:r:[KBMs=vgz<>nwVYpOMZvpU^jCpHybCqUPUjhfioXbh^rxpUWIwtzrj@CyHHRXQXByFXsy@T_yVqIX;<HXxaF>ZqtuiTR:;TeqmyMqba[iD:di<H?iKiGii;[urTCu@;PqyqSgrPGNqXzydeZ;puB;jXQkIqBi>uCP>;_ioigiF;G<<iQJ[smiAkeiuiaiqi;yXiX:APm;e;LyXutTey_cxia:V>imUgSoZ:@>T:;apc:CLTZ:N=cWRisZtisVUkLcMkKHSXSD@HU_=<^:>L[dUFAKug?]t`RMtPKV>x^CLETOcYfrupeIuFCbSL<XAhS;vuckMausuUTvRXtzt[tSRHA^dMRJAluKcEe@n@lX>L:Plb<b:Y<R=vTfdue]^wSrSWSPlN?xSwR>vguqeVuHfpBV?PeNslS:s:kc;Z<Nvwt[tJ<G?B;ot?SH@lv_<x?MvS>G^@mXSwAc:<?<?bJ]>uv]>@uDADAHvLlJL::YUeCCKIcS_Dv^hBL:DF[DDB^_AeA[D?:DoL=ioYoKGi:XSc=g=e=eFM_KFM;?l^JOXdNXJOxFM`ZINbKh?ZE`H=H:_NaBFXkMHHsVrbKZf^BGRBAAwSH=dCzcmCEj<YPFoN<V]VJNP@]J]MVUxbVXEiJG]Jx_ZA]YP?IjW`z_ZAwGHCPDW?;@FU_Kqes[XDc:yjg>::".charCodeAt(w++))?C-59:C-58),c|=(0<(C&(u/=2))?1:0)<<k,++k}for(var J,c,k,B,C,A=[],H=1,N=3,L=1,e=[],u=0,w=0;;){if(Z(L+1),2==c)return e.join("");-2&(B=c)||(Z(8*c+8),A[B=N++]=String.fromCharCode(c),--H||(H=2<<L++)),e.push(B=A[B]||J+J[0]),J&&(A[N++]=J+B[0],--H||(H=2<<L++)),J=B}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var r in t) t.hasOwnProperty(r) && (e[r] = t[r]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+memoryArchivesPet; !
+function(e) {
+    var t = function(e) {
+        function t(t) {
+            void 0 === t && (t = null);
+            var i = e.call(this) || this;
+            return i.id = 4113,
+            i.skinName = MemoryArchivesPetSkin,
+            i.data = t,
+            i.data && (i.id = ~~i.data),
+            i
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.close, this.onClose, this),
+            this._list.itemRenderer = i,
+            this._list.addEventListener(eui.ItemTapEvent.ITEM_TAP,
+            function(e) {
+                StatLogger.log("20230605版本系统功能", "精灵档案馆", "在精灵传记弹窗中点击了关联精灵按钮"),
+                t.id = ~~e.item,
+                t.updateView()
+            },
+            this),
+            EventManager.addEventListener(ModuleManager.TOUCH_MODULE_MASK, this.onClose, this),
+            this.updateView()
+        },
+        t.prototype.updateView = function() {
+            var e = this,
+            t = config.ArchivesStory.getItems().filter(function(t) {
+                return t.monid == e.id
+            }),
+            i = t[0],
+            r = 1 == i.html,
+            n = "　　",
+            s = n + i.txt;
+            this._scr.viewport.scrollV = 0,
+            this._scr.stopAnimation(),
+            s = s.replace(/\\n/g, "\n　　"),
+            r ? this.desc.textFlow = (new egret.HtmlTextParser).parse(s) : this.desc.text = s;
+            var o = i.samemonid.trim().length;
+            this.some.visible = o > 0,
+            this.petName.text = i.monname,
+            this.title.source = 0 == i.storyid ? "": "memory_archives_pet_title" + i.storyid + "_png",
+            this.pet.source = ClientConfig.getPetHalfIcon(this.id);
+            var a = i.samemonid.split("_").map(Number);
+            o > 0 && (this._list.dataProvider = new eui.ArrayCollection(a))
+        },
+        t
+    } (BaseModule);
+    e.MemoryArchivesPet = t,
+    __reflect(t.prototype, "memoryArchivesPet.MemoryArchivesPet");
+    var i = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = MemoryArchivesPetItemSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.dataChanged = function() {
+            this.data && this.updateView()
+        },
+        t.prototype.updateView = function() {
+            this.head.source = ClientConfig.getPetHeadPath(~~this.data)
+        },
+        t
+    } (BaseItemRenderer);
+    e.MemoryArchivesPetItem = i,
+    __reflect(i.prototype, "memoryArchivesPet.MemoryArchivesPetItem")
+} (memoryArchivesPet || (memoryArchivesPet = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var r in t) t.hasOwnProperty(r) && (e[r] = t[r]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/MemoryArchivesPetItemSkin.exml"] = window.MemoryArchivesPetItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["head"],
+        this.height = 70,
+        this.width = 70,
+        this.elementsContent = [this._Image1_i(), this.head_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.horizontalCenter = 0,
+        e.source = "memory_archives_pet_headbg_png",
+        e.verticalCenter = 0,
+        e
+    },
+    i.head_i = function() {
+        var e = new eui.Image;
+        return this.head = e,
+        e.height = 70,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e.width = 70,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MemoryArchivesPetSkin.exml"] = window.MemoryArchivesPetSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["title", "desc", "_scr", "pet", "petName", "close", "_list", "some"],
+        this.height = 449,
+        this.width = 755,
+        this.elementsContent = [this._Group3_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group3_i = function() {
+        var e = new eui.Group;
+        return e.height = 443,
+        e.width = 755,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.title_i(), this._scr_i(), this._Group2_i(), this.close_i(), this.some_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "memory_archives_pet_bg_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 8,
+        e
+    },
+    i.title_i = function() {
+        var e = new eui.Image;
+        return this.title = e,
+        e.horizontalCenter = -242.5,
+        e.source = "memory_archives_pet_title1_png",
+        e.verticalCenter = -158.5,
+        e
+    },
+    i._scr_i = function() {
+        var e = new eui.Scroller;
+        return this._scr = e,
+        e.height = 342.992,
+        e.width = 434,
+        e.x = 274,
+        e.y = 54,
+        e.viewport = this._Group1_i(),
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.elementsContent = [this.desc_i()],
+        e
+    },
+    i.desc_i = function() {
+        var e = new eui.Label;
+        return this.desc = e,
+        e.fontFamily = "MFShangHei",
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.size = 18,
+        e.textColor = 6388143,
+        e.width = 434,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.height = 264,
+        e.width = 155,
+        e.x = 57,
+        e.y = 137,
+        e.elementsContent = [this._Image2_i(), this.pet_i(), this.petName_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 262,
+        e.horizontalCenter = .5,
+        e.scale9Grid = new egret.Rectangle(16, 14, 123, 197),
+        e.source = "memory_archives_pet_petbg_png",
+        e.verticalCenter = -26,
+        e.width = 164,
+        e
+    },
+    i.pet_i = function() {
+        var e = new eui.Image;
+        return this.pet = e,
+        e.height = 280,
+        e.horizontalCenter = 0,
+        e.scaleX = .9,
+        e.scaleY = .9,
+        e.verticalCenter = -25,
+        e.visible = !0,
+        e.width = 170,
+        e
+    },
+    i.petName_i = function() {
+        var e = new eui.Label;
+        return this.petName = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = .5,
+        e.size = 20,
+        e.text = "战武天尊",
+        e.textColor = 9025023,
+        e.y = 243.414,
+        e
+    },
+    i.close_i = function() {
+        var e = new eui.Image;
+        return this.close = e,
+        e.source = "memory_archives_pet_close_png",
+        e.x = 721,
+        e.y = -2.636,
+        e
+    },
+    i.some_i = function() {
+        var e = new eui.Group;
+        return this.some = e,
+        e.bottom = 5,
+        e.height = 355,
+        e.visible = !0,
+        e.x = 754,
+        e.elementsContent = [this._Label1_i(), this._Scroller1_i()],
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.bottom = 0,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "相关精灵",
+        e.textColor = 10406399,
+        e.x = 0,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.bottom = 29,
+        e.width = 70,
+        e.x = 5,
+        e.viewport = this._list_i(),
+        e
+    },
+    i._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.layout = this._VerticalLayout1_i(),
+        e
+    },
+    i._VerticalLayout1_i = function() {
+        var e = new eui.VerticalLayout;
+        return e.verticalAlign = "bottom",
+        e
+    },
+    t
+} (eui.Skin);

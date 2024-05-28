@@ -1,1 +1,1677 @@
-eval(function(){function Z(Z){for(k=B=0;k<Z;)a<2&&(a=64,R=92<(R="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B?_fyrQKmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNqkGoq>:U`NpHYJHJHlpRxIUYZ_^ouivM;Rs<VfkqB;UGKJ:<MZtynM>=IC::CZ:=:;@:;gXk:[@N<`lX@CX[:gB^<]^LelmcGeeBoOZC=s_>ZW<`[:lTbhsHZa@;;iJw<ki_wa@L;HJ<:;f?_:HK:AnZa::Db:jfxz[lv:;CMsJa>:SMtE:>cMd=Iu_K]VNLHZgk]tWlHZQBwOwB::keFP:;nH=lM<Rt?]PuQFoPx=PqoHyDX>;_]a>BqpVqPhS[``ggGX_:<WCFGKXi::GMkEqekbX?riSeMDYMEqWiDKI?Ks:ZBdd;:aXAJe@ogcyB:W:<>aHZM]k:Dc?C=_X:Y=^:H=;idsEkf;FNTFVV];FJy:[k<<JjKKeYV^ZFp:]Z;>bqyV<ZH@`JMNkEZL<Z_usEai_DZ]i[N=NxjrY@UfUZATvQ=vI:;l:XCsbAS_dns?pmoCLgKLb;:w=hV[lN`H:zZ;:Z:?_J;SVZAQJXNCJBTdm>Jd;R^:U[cHlMO@Lf;Wf_kFNCPI=<H;k`ZYn:Mk@LOTxT::MMZV;Ja>BlkOFIRgBsXBHMZM^iHtA:H:a@LtCJU[xngW::?>>:J::KXlN<;>?ImFULsAJD;>:JD;s[FhwfmJYWn:_RVP>TYtSQ]I[xoz:;;GJp>F^Z`Kg?;mAtAg:;`Rin@V<Aq::^X:J;tIS`pQN>GrLHwP@rQV=mI?;MrIXKEl;PwdkYHlJPYD?QrYHpIqzWhHqvJ=ZG:w<<eZoggJfL:g?>NBxa@I:bJ:Iqa]JtqSIm<^N:[dba?<w;PhTpABXRs[OB<_@qbK>heOEogmvDB::S^mqVhnfXCV@LXui;@H:_CkE;cQ;CDBEXZZWn:IWF<hC:FlRW:fLsK=_BBb<k;tB?V@sPTcpSXVdeGWfYouZ=yrB><kFrEZ;jmBURC@n;Sja^A?e>M;K;S:ZGr@tUOjPoOGctbTxdRTAP>c[@_YaUZKAXL`J^=Al@nZJD<=UXgPnNM:sQ;AFMJX<KAFTHSf;EVbQQ>QGMPiVpv<T=[f:=BFnjXNCi=UPJs<B^s:<NxQyYtxZ_O<qBepr?<cK:N:kAJMTpznLjJ]enHj?wNGReOFGWzWgloCHRwkiHkLT[ZFvJx^:KV`x@U>zRoP=aZF;XpBkmfoIu>RJU_PDBJrN_TKS:VKJw:w=Jh;HZl^=F<k:aiAjb><WlO<bAkz<b]YZZFVBWLmKCTtBXjUGpUCV[Ucc;=>T=DZCTP@]T?cMbTH;HauG?y[SW?[@@NR<>a@RtZPCRO^PH:WaqCgYR[kIKFP@CfJBRwB?FPXDwFB:[Ft?pP]QCewBTCk@@i]:qXBMcs_Gjo@<TCekqrC@WT_DKTMPLp:lHVLJ^=iJQ<:?DeS:lFAgFR;[jB;K<[?AvSHFd_>Z[Y:WGNhwuET[rij>]TdW;w>Dh:ikb[w;BA]I:YauOR[H[cdZkkGCk@ZFNRqB<e]s[PZoRu>[stJkKnG<mXgUSo=wmJ;k?V`^T[KoniOM<n`ecdNVL`>:e:XLGK[@y=wLOJntKRIRllYk_;e@cZY:_>OY<lJsAT;oI?b?q]o[<N>cCBJ?H[B:<LW::otc:Utx:=vYc:YDO:<z:SyYVZ;]WN:IrPZ;AcF:<GdZ:^hN:=JaZ;;yBTR:SLG:::yc:;:S:<n]R:Y?W:=LVc:Azx:<B=?n?TZ:^WF:IvaTV;=Vqq[hETuoySlENGhGgp[YEV>[H<::vDWL_YoJBZ=NHZGgWc^`D`C@HFFDNvLKBcF<JkLcp:g^ZGpMkt^:fKCUE>EL[LnnXFjBgLVD;p`[[yJ:VMa>aJac>UM@I:^wftWJYbe;_GRELInbCki_A:MwsBwQFZy>wdZlmhm:qDe=V@VJcRkmJj[TmfhSKMas::O[dO:V@^KBMF_y;v;BQgUuCoE[ONNM=BLiny]DkZu:;NLc`?Dlmw;SOwDnZBlODN;NejfeDk]bkhQioxbedkVfzRdoy=Vo<leLERlU;pYwjR<S>r:bs`Z[_k:Z:aAxEZJTJoKDzCur@reZOyjXRs^gpZkog@MO@b@Ysieyhuca`ZZOJDdcENhTtaTwRye:[]sauJ:qmZleaihQJcquOAC=KLaLeohjSU?WOVKz^V=W[k?DdkiqJrBBSPNZNgC^AtBSD:OcY];QtF]rL[_mRsBkNnVZE:a:Y:QC_M:Q[s=sKsN<u@E;KmE?WjmQWKRC^y=^?V_FY;KrcAUYwMhfUo:xiwgwD];fqEjdseDQLP?d]lOo`:Asi_rS^<Z=qTR[`:cZTZDaPNi_:=eN;d[Ehof?Iu;SY;dZnD@guYo<d?P;]DF@>FHPg]tJKQ`zD[QKdz?az@`T>rtNZhcoJvFhaECtfhHkE;QUALSj>IJ:elBLqYJ;uNJAm<>W]B?F_[`EMOA<IBZl>[`I>XEElc[hVCfd;rQiqBFK=ph:_ATNx;GnqQghKD@xAkvrV;v<iF:^THE:]Nj>I:Jci=l:fdPE:<>iQmVk^[I<^AI^ifB_;L]]Mw@oLcYK<JSkPEmfaBdp:Y>;BR@>eCVL__tAb<HCHPa^_c[^:J?dD:TV::wsB`;ckiCOjJsBxZg<N@@W:FKS]OYrSS`Z:;eYV>;:<ogR:;n`xlu<O;kBCp`nrI=lGmINKm:<DU<qAV::<k<jHJ:=a[AkBk_By=QQF=K>cTCWA[ax@OpJuOsZx]w_[SswJupy;xZi:UR:[gPTk@G]UFrxl]Mq@]WcklIE;K>zu:ZrlunpYPKkM:ZNk=;ihbVvslDWqV`ZK:=APIi;SE]ATQ:k[x^naOg`^WKxDRJ;R>w?s`KiiFNXHZNU?r<dMNk@:>ktZH<<uX@COO?fQRIS:EF>VNpzZgxXA:CZe[]VZ@gG=F_h:gJV;dYPSnivNNv[q^EFwwh?Uc@OefQu_PYGVJvUEBCIkJ<^]h:mGKu;d^PPeC@WBzPIV:vrFGf:>r:;Iic:Wi=:=dyc]zDWE_pwfXg:JZX:Ncc?O^UrEStAYHvZDvnAvEIVzUsBSJZrkpW:dQAdE]DYAMyeMJmjZVCoyyYhtbb_MiQWiznpvebYo:rCc=EEFrLgv`Pvyhu?D[i_lvRAuU[PkyOSenycqR>=d^PTU_MRgqKFrQREE:LBnX^YWFCRNZG[W=n=cmu>_VEm>UYq@tNt^swQmCCSiqBVKuBHV]]msuqrL_whZ=wLGl?SZ:_:SUAugErs=nT===^vS^v;W;NK>]R;WUc<GSxRJ@bvrsc=q]s:ML^T^RuDpmFEFDJ>><<t`T>tDue;ikZLV=gRg=guZ;R@R;s<JuO^h::=_^PLZNJAkL:>:`u;:[Ja:yssesB>qVJQZzaxcc[bR<:::h>W[G_c::Ak::uzJ>:q[H[i[X[^PV:wqec>:^JK@LJysLRY:wJe_Tcza;:M<D:wJ>qY;L:Q_XZ;sQou:TZXZ::x=sOtHJA:ATALIN;w=sWJKG[cOcQcM>McJRQc=^;:BxFx@BX<H<::DJMSb]YM;tbBS>MTT@l??>a?:kZmA[FDV@^Ss<^TV?J;CZ[EGJY]?A?>lAFdNUaZq@]A^uOAO@pAP?M:G?[DhJy?K>h>l@GU[?@>g]e@VAgtVBg<<^<^wt^tFB><MsvK>lRceEE=S[s;pRR>dKf?ccvKaSU>aBg<eANeFtcsA?A?@sItb@;Ky=NcaRN=;fyRV=f@R=n^;?@tzMj@V=fAfTGmHZbtgEYA_=F?gEz?o@YAA@YfWexdzew=;APM_<jf_:EdEcfdEuy[k=@cKD[;TTUu@Csb@evsNnB?cnd::`kbr>fZZbl;Z`k=_BN=^vFb_@LLj?p::AisdDl<]Av]^Uc=g?x=>@oBCRNMxfcEjtdUx=Z>dMFMc;]JLMa=h=oCw;csT_Z:VCv<p^p]G]sCQMf^h<?MdKB<yMV[Bty=vZGS@[cvTS=TBvZkq`qb_<osiRdMXlw:uaevRs[KB;ssV[B;mDgtya_v_:s>Nss:xsZ=i`rCotvv?<REFu>tg@wtHZ<u^mH_Zn<u^kZ:]sg;]vafef]dlZmuCuucDtO^Dv_;y_TuGlRZZ=bJ]LQMHkJ<tLaa=Z]JP_BvP_cvq`I=hT;vHbBuq`dnl_CDXbXayaRteu>k;`;_>t[`nb>d_us>l`@[laovcBFsInObdaEMwsN>t_][tba:?`a<]v<cPeZ^Pcucmfqdrs>=@eZ[afd;eeG;rb``n<ObmtN@pbp_V<TssEG`v;dLh`SMharLB>x<O[C;a_xaPa^aibfCB;=_OR^bxb^`@[F:VBK:c?v;J<GSp;K`s?J:>@RBen_?J<a;P_i`TK>=fBs=NnMJvL^`v^V<zLJ[@]c<gOB;@<oOw:Y<R:vJ:;PA:EB^?TVXkM:uZaZqZ>aXZH:Y:a?[[e:IdBNXcXZAkFaCSQtxthewijg]<<eM<povt?:btu:rt`c?SViddfHp;WSet=SPimBM:ES@NN?Ds>:XqXZ>?r`Oo:eXZTBWcJt<:VkRuD?:tXk=dkt>ZFOH?Y:QStdm?q?WdIduHet<tiHmkkScSfksSutoSgS_t]SPBmS^HeSfH[tYHWcZisq=PcqPStZdtrlCtQyq:rHId[SlSAt?eaeItgiOS:?Dif`k?^SmBnSKC@y<]>ZQ:mT?CKgMXWiAuDN=DB;;XuyqaXRSgQ:lTmpF>JBpZ]aw:myR:=clXZP<JHpCC<pca@FKp;BepL_PZe_;XraWpwpioZTkT>knpRZu_w_]avpT_g_w_Kmgc[_dmtmoB]Nipdg]]Hg`gygj@y]XpmG?gXgU]pmlXndSX;FJsBsV:::Rao><Hv^]h>^L^wimCm@@ELN<VMTHDy^y`_Iq_>L>K]O]VifdE]Ljj]Nk`@cnU<OwY^]@UVVnKD<MPVPc^hJv>v<iF=LZExgyMbDQBB:rEJHAIGKsh`ZB[fNp:ujkgQ>B_p=CQWc=QZb]?P:L;eADOP:vExbf[wBG]=AZ;>E:<A=fL:d^YkBXDSWb<Z^<GTivSLibGA>Z_UM<Ib?AUA<AW<@Q?MeDW:GvWQ?ZEN?j;yXbRrIj<`ar<BFU=:?rAB:cBBArBV:dNIBR;JRj@s:cIQN>?:;sAIEsIs?R>j?:<>DjCBbe>_?bP_?SQrQjFr:QJn]Y?N=NH_?HEf?Y@o;oE;Jz:FFzDzHF?F=EhzA^eg>JHgCgB:fg:VIWXO^d`:^dZXXw>ARURbPZ__digZMDMUPPH]Ije?jTeLDJdLDmJJCJjLIKFFIFRgUk`YPUYA>pGh<Bie;zajIrJT;ZgT=d_cgRacaR]CCchUXuIvNZmc]ZyRju;zORel`uhadlfa^Pcsa=<sgNH_IZBt;>ebP?dmfY]:x[E[BOE?gKDK<zhDQYUDQzYDOpMzjkf`j`g:LC@:<eTOcRId:ZEJIAjn?kCU:H:KDd_Z=BlZ>VdxVMHuKY=tF?hmXhiZFS:JDZ@EDeQx=B<DcZEBa@;QgRuRrZHW[Yi_CRk=bT?xDWIWRRzRwxOOOUMBvJFRsd_oF<:JEBq:IRm]>xiRyo@Rt<HRFg>tT]VF=w;U_ZHD:Gi:CtgBHc?_qH<gIgE:S_DMVsZ=KBkZpZm^Qf;ZpspNpUE^VyaPb@_MMETHDcpRjUGkGhAXafLknAW<Gh>AEbMfK^N^JAYAVAXUTAXfRbWh@b:v;FxYOFx<AAQosbVbL?d:GfMQBIWjGJAbPIYM[QKr<QMB@QRs;QYrGQUcFIAQXI:rRs>rMIIN@kHrNwwjI:^:x_Cj>IQN?ws_IbNVwY:YDYGIKJEISYDo=YAY>ZSPBzBF<z<FHjSzAhBgGjQz::iZ=gF:gYTFtACZqFlYJZZUT:vb=<EYJQSZ[]EkozRN<zOLyzR@CzL@GzUzWJdG>xKEOmB:nk_BsTjRFTgeZe>pC:oomJnpGcvwNaHaflexKq[hWR?nHZ<Z@F@:FEHA:h?^Hw;ualiPj@fajx@eElbgKerM?GFmGD^ObOji>lVBFpdZ]D>n@sPpdez>@nCgdn;uvn<CZEC=IwFEFW;Ze>GX<iBnjWeuzKPHUTyOWHP:>TFnc?>Rb:DH::;dRLlMXRItinmKaGLGHG@^h;^Lo^_;zCk;:Gh[V<T;=a`j`iOg>:UBvBvL<SUCwlDgc=AKlinNqHtHFc:m`ANSgeJnbekkItFUBZgUDbJF^ru]<=kGsiX]PZq]<pTCCBWkzOl[EjqZPB>G_TlZK]vqQsrAd;lZ>UC[>SiSNsTmBGuSrfPoaiAiEJPjOTpULOqhQ?K]Y;:G;uZkv[yhZ:h]BldgShok>M@HcnMJIhRn_SFfxigeoU=gFUPJ;iy=T=Nan[aj;SEuWuJnw_A]J^v]dr:F@qDRY<bQZ:w^gpIjK:jhcVMZRWjg@GaUYhk<xSKCW:CQ^SMTnSu=vZ[tZtzLQ]xi?LCv<AOtH;?s`t>f`vPLuKOuHAZKLhe=dd;g[hk<FuSpgXRlx_FNqgM_XavdX`lgFmCjs=Chk;:XSg>MSiTKRi`SRjlH?ItLYgwEYie:?=DjNHjL?Kh>ZkoUgcBWknPJaVS]^[fJg]>MwcetCi^^<]Jl[XJkoewbgesX]@ZZ>W@SmgYe_Whhk<NVg^IhpTe:pgwBOgvfCMGTFXvfFXgYcYgWePVWZswWwXnR<WevmHJ`Ct]Yw=sq`vP=LXOsH>pt[]DYDYS^Lm;DnvauPtelQiOIRpPkpIfjnYPkviLne]HnHmikI`uexF_gj`De;lTr=G[nnjQ=uqzu_gCnIa<idmKpfIEHfGvYxFUHdrUFTX>=Sr=rvHo<:hC_<=hn?pL;bFxmQGOq=krHpq^njHIIrIGqhrX;jHkwH:xpXqS=xozIUlcy^qv_`<MpbknoQnG;JiErrlkgfp=;BjjkUpYnz:zkvpvpU;Rh:CArnNbrypbryp>iEHQXcBBZogIoogbkzUeXFiqlYpo:oZYsVhg[Vg:He[:GwhBDjain<De[>Hlf]hOf[lxvpumhQqDSqZV=Cc]BtnZYLxTWw:iholePbL[ZHrwGdpRwni@ZOG^GLuUhy]EXBFUhsbsGFi>GvjXZyupWAgN:bh[Zrg_SS]nWiyKw@TfiFs]Z?s]BPVZYPJ]CYPoVPjgWRk@F?L][akyVA[X:Y<XKj^PKJ=n>pMr[<_SUQ;GNhLYZ_nXXkWyW=hFFIs?tHtB:B=mHbCvSk:<e^UnLRWxRl:]CYh:vqdVM<ZFHR=Cye^bdDFc:wMFnX[g:L<^<^Z]CayTXELHWg_l;J:DjYjc;D<wXGYv^wVxWLV>kOumX=YOcN:uwddkZqFnoMWmlnsPs^snXixTnalWR<rQ^:Lk:?pFOizjHqHhmOcilCNK`HGbg;FdvW`XbkBShxlHvrOnidhJK@:qaRgFN;>cXSZQ:iss<mPDnHZFJHkAIVlcDWLiFWrXtpkVuu:di=^k;vH;LuBISJ@=lZB[:Ks=<MiZwrhJ<<sXgw;AZj<KsYGXuMj:X]_>ytzGdqHJJtbxplsZgduY@:b`t>[UQkLXgEIcHMoKSjkIsaxPbi]prfzlxuMIJybvNCTbVv:AIJ`aaNjdIVUuYIL`]EoYd<xQuOF>_C:I?uLxATtjXadEPt=mxXPprVm]fl?SewlPA@<OhfnfkddXFDh;LFrZzKZp_[NG@@d<AHMbBy:L`Dr^bnw[eNx:;JyV@dNofksGkqYXV=^^p:mR^suj;ZjeqoR;dLTyQWWAj];cJoN:cG?LH=Jo[^ZfBUuR>>k>==XREBJkqw;^<Z:hZWoZRGmA_E^:`<BHpJyaB>;ssuKkVhjD;cvQyR_KSqp]WWcipxtXxDalktWZoqL[zJskkYH^^@@ITP[Mq[RDIdXrzvtZnqgJPxcS^Z^@Say`@QncHnck^g<BQYJFErrtKSxQPGDIr;IlVtMwBc:HXo><`[JfZ>KIT=sIP?][l:iap_OIilkB[:GWyBYYYbk<Hl@Z::oeD:s=:NAwP>=_:N@SEV:^:aQA]<<Hg^_ps:`uTcGW]LLrSDk[ZL_WLHNUPKnVHZVl^lNiDB<zgG_>z`InvZQxiHOz?f^YoCeOdvyVb@j;B;YsGtlR]QMz_I[zsEtpRUkgqH:GH?ixk;`kouBfNqtk=dNHrDNX>CLZPON;KrSZUfOIe;pb;mn>qjmrqvH^Ui<nXvfZIB@N<zKp:wiDxrc>Rwa;Ih=:ExoefzV]uv:sAiQLsAmOkXj:itgBFbZL<PucZptiBCn@L=NXiw=XEglnfL<>lfV<XecIlvZh<XwxT?_jMCtIkDX[Zube]ndsRgE;qE?biYOg>r;^u^Zs`]JIuRNgGo=EGzELke;e<fTkkOU]mk`sNBIweZKA@PlDtphwDeZHV>>D>:[=i>LlCoTTa?UD[c[FTCcMa^:]e::oIRGJ;oBdZg]`>T:A_<:QM:CBWuCpKMGRKHe_pVJ?OBq>SZilR;JJ:eBv:Da[=QJxLWR;gGc;r?ol?kcZRoisNk<ZZ;:e>g<K;DZa;Nqmj`QD<D@:_RMkCoBIUH;JiZyOOkho>NGWAJaZM]CKqNB>yBORmstB@^Tk:h]Ply;;:j@JNMLHR`n;PC=mWQ>mk<K;B=J?qQ^;lCt=ERi:eqFgHhZL;URWgRs:vFW`Hl@;MgV:A_L`^>:agHkDNTj@epL@g]XNaZs>ClKmSZoFaGdJ:HEDZ:Vfx::<>UOCp__BS]IYMYeyhDB:AA_>jna<TsMCu:GvAZ<>C^<FRKmRP?GAqnZZ;NXqX@bg>wbz;jCj_mT[y[Sd_otZAkDoCzlH]FMxXl_dM;wE`[eRGFw;XcXEAU^[:K:^JjO`XE?^_::oj_qJGlBMvw_o_@L=xG_`mMZ[w_[L@>@N]eKpB@_EL=d=obuMyK[_smTS=F_:=BVc:=oWJ:CtHZ:VZGvCZ:Myp::DxSnCO_umUd]KZGuaMM<@zN]An=VlN?YKoWPSjF>L[OLkZNvTJPE:TAP<k;tkfW]ilo`wSTanojo?THiAvgycMpJIj@:^u?LEqOoflbAk;fY=B:pR?BH[Fg[EL@_Z:U]O::=gcGC::=tu:;rtMVZ@GrHNNDYji=a`<_gP=vJB:cQ]U^SvCuQY_VRAr<:::WF:<;_R:=:WJ:IYDx_dTR:;<rLSEF_:;xoR:=hzJ:?lmZ:GFn::]wcGCuSnFymPnEaa::EKOeMBn::Age:;cHJTKRmygaoOn]R=rs_nsajX<[ccq=LG:HicbOIDtI?BBLniYkcjb;rwsWwH@AkIj[HqskCtHieXH>C<?MfFtBHqbFVbTJFUf^TqSQQN]qFZ=h:igR:KfBO=Bcs;TJ`?Ts_w<F;Z:dBh^TmHdax=V:H:DOQRbO[Gb>nfZkZQ]VDBXMp[yBYZVvC<=qkQChCH<>c<To[;k[hZ__=i>lmbuokui:XH:HMEgaYZC:MADBCZ@i[vRls?@>Mgb[W`WRfT;XKMBJ@FZB:J:xBvTe<::<VKqLt<J:bbtLqK;JWy<CZ<S[l?tmwjZG<A:b<;CKDcjfbYl_sT]kBPcllAXBeaeV@BMVZxElkd`^kXtYVh<TYIusIxewOwyeMYIj@ins<]:d:EtKGTZZ`LagrHYbBYnat]tMBm>@QI;=J[DtXyTiObEfaqWWZlgKySS[U``<qtAVfiWi]euxnytZwfVFIE>telNu[Z;DYyrBvCMzC=yBDL?BhC[LmH]FLDXQC]bkomgVBH>AZ;B:<EaJ;:HhDRMC;v;IttwZU^zIw<r^vlDkRG]:hQ=WmeiXF_I<zGNOvdL?AwmMeeBA=e^AyV]zyJr[scJtvtCfCwW`rf:c:wi`f?xfRng=ynG:yUXpicBc:sD@;ekyfji;Y`[ZrtS<jsSJhAadoWLO]lO^RhmveceHOfV<AvFr?`WOLlwoaSBfoObmpK?wclQa`j_nOvtz]hKNzBoPWmzc:LrKJMQLN@EF`g]vCJ:dsc@FMVQzDUfzqG@ILnJW^LoEskSnu`RCr:@BKPZA;dMlk`_:eBMGq=_RnSWZCVHqQQ<p;[`NsNSYwCD]XCcN:]AlGX@fsg:ucV:Cw<y<@ChJElGNo[_zrBEvZK`kd?;SLKy>rsnd?NTEHkltKlRi@]PA[asBzlpxAZ]j;MI`B:C:>[Bs^LKiR@_R@Jt@NsK[Jz`NUeF[CP^YkCt@w[XSx@mJrcTd@L?TJWBF^Xl^b:a>uKUB;_;m>t<e^QZ?[KZKlaRAF:;Jy:VHFD;?@g;KJRcwNCxF`=BaJNfciNPSTVjaQbEm:mK?]amfHOa;rcHKM:=x<L[nDi:<mmqPrm;@BW[[]FS@D[naZuh]@gJfQfmctP^lBSP<Cp]n;d^ih@qqmBMAn=cN;hKRiZPMBmdk_NLUccODaR`PkfKhxHAkJnj@rKnKWnHuULnhS@gt^[A@XU;nfvDVNCEG:@RvJBO@Dv<[LiaZI?DDdR=]fPyZBZEi<hWQlVBimBJeF?nFulVIV_`;EhOHTSAD[`vDgOXVcY@:LY[KU<J@@hz;U^Jp:TwGQPkUS<Saqim>M=`o=RFfgk`Nqdghqhe=^:;eGDoSOCh>fZhiw:rU]JHGJb]CJT:iFOlFk?X]ll]W@tS[:bP;]klto[v[JHtu_=LsG:nScvnE>m<Iijn=B:Xif@AkO;y<N?isdtDG^]XhwBHNnbo?foeXDEEX^gKv@FwylfLg;CZG:?b;A;XkHg:_?N^VczoK@QL=q?`<R:ZGzKN=YwA:qJT@:RoIZ:u=:ql:BGgcQCfZ<L<cUsGu@m=O[dk<D=_Gi@sGI[gkqG:TOv<R:CCQ]:J;Ycd@[=KKhO;C:LGYTF^Q::kq>TM`w:Bji>POmOwPGI[Swev;>L;>Q<U_T=Y`l:o]UMloB>KEsq;TQf[XIZgQgy`gTe[DTu:H[BPd^QHFD:qKWl`ZAHJ<czcrDn:<SfyZ<KFp;:CYim[AZY_VRMsDXh;rj;MpM:cJIRQ:nrQrSteUEX]Dc<Z;HUUkphBn@GQB:slzG:^JnOx:gqaUGyUJI:::<x?@ZRDoHmb`mzK>efm;XT]^tlN?_at:=q;Z;QmTKMgiJrBUkimq;[nHa:<vGOdJ<<JuhRwLqYHfDZfDEkE_PwCw:yL=?@yRwKnCH=LoSTJtRwVnSShj^v]<cBP^OLDA<qKTdX^gtb>HCNZ:sNh_FRUQyok:D?m:wPv_Dw[MUGT@hV:CfYOg[Dow[hL:WEOhdqrlUHan`>K>T>Rr_UiG`_Q^Yqrsps;;GnFRMV@EB>JGOJsazZdCdZomTzhEs:ALm>Non^wJAVKVOVBoogZhGHa[eVs[Q:GCE@D:;:HZ:loZ;R:HK;RP@;]pR:xgpoR<X_A@o<cTCRRTnXm`gqDGvG@gemg?dVrpkVR=NObRtd^MQKUkpJOO=^=qmwuTNeHe[_EhOJjBzCDzSnQnjfZLuNdR:=bWmFwoD=jGG<hbaFm]qO;D:EHoEMwIaoldGWaz=u>Sgk<_unhC^@fU`c;lHZ<hBKRfXjnh<TKYcpoVfOMfs:gS>egAGfLX:uqOJihimhJIF@ItqZx`RqeTFx;FooLC:jVfEXJAp[SUHpJPaG;nhppJnemn`;URvLGq<ffc:ePITpi^[XCO`;Daw:Ae=qqRp:cXuIQrE[d^lxRFN]kBbdlZwv=:gqxIUPNnoHxIWEDUrNQgurOJmx`Xj:AL]gURuext:QiJN^fqR:rW_qkEJEdaoCwkhM`=jJUfXPEDi]mm]e@ghEpGJrkJXsYLAfVSYKlxd<[XJjHbqnvHpBi`VBjfXbEv?VeybwCffnLNFOksbUjOK_rpcJyxYiZYQjg=qOvd:cizfWQjHL?CdxxPlIQEjwbHUNxORWjNOpJ<LvzZ[iZOLUii]tukxMo?]aMcjrOumWoyw<JGdBm;v?Zl;D:HgP`p@Ztx`:DZrYdkJHh>=t:WRaZWdqJluWYfL@:tcc<Rvf@JixmCqfsG^vPxLyjQLjhN<lJa>ps?zLsnlpRv]JRwEcC=?Cd<ZZBygYV?[?CdD[YJYkI:>Jj;^I:z_ZL?_H?NobvTTh[qwrTw`HohU_h;>cv@I<;kTs?u_>cv>W^E`KuiOsXr:t<AkFMuN<oy[IYiDZ:k@OyDXhjX?f<HcApxlHjiOZR_=aTw=RwQiXQIwIul]=>ZKI<w=BGXED=llKQMJVMrf>B^R[hIX?hRIfvq=qainWkTSq_NwWlyamHtgUrv^Q@HK;ZtoFMvF@d=QdC:EBWsHGA;OJstJyZ?NFR^:mc[EJncSQlu@==:DRkuZ?FG<ePh;qcvKRVTrfA[<LP[kosVm:iAqZU[^kuMikIIK_^pXqIYAhTID`X:hSKvL[jRpFUQhysWvVO>yrYTjBjqvoWX=>rK;ZWPkNAKF<QOEFJl<a^kL<lNrYM>WFkV:Gdid_YB@_p`OH?A?PEf?>M?eY=jt;FRc@k:aCqofXJTMRbtWTQYm:@Z^JM:@_syWRbhbKIec;N`Cd[HgQdIyJNNllL_zx_ekGC=xVXXSTLRL>GCTo@FE_vmYr;aR;M^]Rh?mVzR@sqMyaicA>SBazJkkta[;Lvegoc:UGhKf:INYe_[vHWO`XZzeRb=LaIZul:Jrx?FDl:u>NKvo;<^>BPJc^p_RkP]mo[>bzCCCzVF>gdLaEsq>[_h_uSdsibm]>yRs^LYw[XbIkZ<ke^PLDs;aillDRFomRTJKaYMoS[vQ@UYPq_VRm[VFwvHxH:Dl`Gdc^E_ZWGyb]tnddRIi=WGLv_nXSmFnlMMGr@FnCZfL?LW=Hpa^SyS[gsuYxnlbPn^CssgmVxGpbNnIS]gkaTMozZVnktngzPX><?amnhdkRP@Rq;`banJSugzw=lFdacnRtkFtPVrFDuHnBwfgvuVYqlbXnaShgoU]AFvbinTtmwmqTnFlddnWtyVqXS^F`g`nP_TuDPYIIybAn@tt:zEirF^bWn=twVzqS=G@sknFt_wrHVUFQbBE]SkVwXXfkBPxnYStwpHUJgBcYM<tzwv[mo^FbOn[?xVkXX:ikAVEdtl<k;XJiAaIMUtq]yPYrFCbfnNyT]l[RZigQugeR<vTL<_IP:Wku:Qwzt>j<ZKM=OBhJCy?sPRQFne@Y]s@>>j<QKEq_BaDRRfUzZIZF`xwltewoA<pWZsnQMXEpIk@thYdnjXmlfM[NOh]PxUWu<io^U:^bygccQhxovvZxZlFLac?TZ=U?E^`fUV>V<q@anEn;mcpbjJHlU?MRwOUV`hLo;QDBn`wvXL_qqCQRxDdm>@eR_=OAH=PJUNqnd^MNAyWmXgQUEgchLvLfQHbw<rd`pOPAJZicotJ@]FDvDf?:JwoOWgU`QzZ[K`Rh;TbmhPuZv?hJ:DZ@i>lc_Sdlemzp@i<aiZcpmVku<HnabT=wpvSSoViQ`@EETy]DkeYEafAE=PlakpgTxpiQhxCXwj^S:=r[CexXXh<KB<iIEQqWTpohKhYzHPQog_O_<S_RqGk:fWyPdCbUhc<`TlkoB<zPeRA`vRT=rpekrhVqIav^fPya??pcqcC;A<jPmuvtVLFy@uh_BIUUrDQbaAxRpoN>E_HPjGPs=_KggppU:;c@s^cBQTt^SkFPUn=jVgt@VaboivUfAQABqo=mFLtIZRitTrnR`;IQ<>s[zwynJ@GzF[UB`BVNLa>gN@yEDOd:FdVv;?Q`f]hZc:CUOn<QmUSK[:y?cpiQTOUBdWYKQdbqhAtxrH_PpsIpiUQbxgKsrU?hCrtuVhXParYxUKEquZUzY<zSsUs;vRoC]wm@lUdJ=Jr^hh[`mogdzriPnfsyG@k:TijXA@UoBN>BsRBGXAxRqJz:ord^JGQJfyiyql?S=ipUf=GP]HljhvolqihH_@Y]XAKh>EXt_>uYT<@i^_;GCo;eauNYjp]rInnOaasvTk=QJo]dl`]aQFtid@<Ue>e><JXtj_@dTll:PtqjAlr?u]c[vimxVzI[PAXwxcr;zg^ETrHk<hzmwUSujer^v;xamhUTRF@rnvJ`ng@ZUGi_mZfyqb>vfYQiqr<EOGmPmzS:hvqs^KGxDp^Uqlgrex;LIUYf:[:=mg^d;balJRlHEqJ^w=hXskXuI[TCU]qem[]Urhmr=vxVAsASY]j@qpU]Xz;qhgBVQqrvD=[zSyWBWlPGhmh]ykzSAkhqEUIxxopYWJXNqVMrx[]rzRAhxnuUBk:[zJyiqCQLS;qQUVrWMgnqCZiKi;ye`IiCvUmA=u[wtQJV;<;e<^v;lYRcHoIvEL`]ysct<GuImAWxmywZuuHeITmC^y[wUTRVek=gf=cTrbRdjzahvO`h_ZHSZhvqPUA[m:kjDwFtPhMI;jt^^;@iMQA>tCdTnbSz=[IwvWh[o@ZREoBr]xQPwYBdnqnlrJ_c;kqLXWAkQ@Z^f=g_zxKNVxrbDv^zyiJnyc[cYAWPjUH_YY__r:]@dibV>tpFfQQk^Oe:EoXj=NA;=BKb@Coz]XjPhfQX^unIeTYCIcvdpd@zsZSLXQuvC;ngz_uMjIKg[nGdDzWVMoxH_:`=mlqNxfBvHo=clwRycW>CilWBi_::?DmZ]?gOzKk`Vmpq@W^vw`fSU@_acLrbVkTLJVUeWZLMgKqD;xyrr<:;SCN::;yc:?u^J:@jDK<tkw;JQckZV[tmF;rtTOi]Hbbh;cTr>xVXUr^]rxf?vNw[=iAavsBGHwos`<hH@WWKgen]SejnbPAcKeamri@Xxqjv=hbIXsYB:EmZQtaqDUAd^q?IcAgxrarLRJX;U;edM^XqczOMYrfD:eUKqRuIhDr^UWE[`sUTphaIaQHEtmiesFWaISQif[[tevrharbvfCcrCDszisi^Vrxwpoa?eWARm?WpaYNITDVC=EQt`hlr]skWp:QyY=kORW[AhMqGbtmBatYh]`hq]QRwBCpLzmhpPs:tmNTrvb=e^QiM=DXKh>s@Vld>r?^xTpTsnq^Ie>_WvzVX?zoXP:o<f;SkbRlg;AE^n`dXlmUr:XiX^o[zcnuy`A[oxvCnhJtFYr:QIfbhnttxKInrjHKJbGc:Mwz[Yh:mtznkyN<vlbbu^gq[Y^[`bqGMiuhoBC?m]yfpvRmQaWe;tqfMW<War;WlCyquIYmGzQ@;jUN_WlhpIB=N;zVMGRs:bi>bV:Uywyvrj?qkvrpwipFxEWOrY>^]HVApgMggrcdSq];mVRXgjbQrBnkixjY^WARjrwGuSs^Xe^dI;nPMlc^PwUgZrExL<p[uvKVkMPPQtMvplcxb:aaj]JsdcrrIwIYi=fSWxRmV;OZJAgfEM^ZqosDgzZ?teUqeBpUFnMPCMc>MGtUWsxkYInUpZKjyzTonIecfhFnG[xIqR:@b;veUJCvBxIunr`A]V?H<jXlUQQ=GgszmzfYv][IiUtuzawHXhjjvSaEhscpHXxjd^i[^uAVy>VHQoQvJTYAhiqHvAOrFJQtsN_WXvjFfoyxioyt>zl;CI;U[=lsxxWKX=IB>wWpvdEt`w:oN:Ba<dwDMZIMWpl[q:xhO;IUA^EqmwG[fXrq:Ihp;=skJ<yI^e=ibkQslCc;ILTZMMccO[D?OtJvkMmaZ_DdiSRBvoZwlSAWMC@QyK]II<;d@DU>hhVKMBr;`CLV]P>uT@z=tBweTlhyAmW?:@GpkU^V@b^]YMpO=gsuh=X`npdlVwPYhGbSkhlTOq<K?hEAY>MO;nw;WZ<^jbaErtzV<LWBixrmEU?dUp]YvTNaNbzXxSS[uGmJZVSV:;eIQWojDuvd;`yVYWPFho@=jFQqg[Nw@:Y_e=Xxfomgs?YHjRxHrjDm>ypq?QyIUaqewndDiGPCjkcNTzGyg;nP?x^OeAqCvCwzZxbXUnppCwEYjPs^HGwkwQWyjir?V[PfqzT>o[[ikrFBIZ=^X=icX:IwbgAok_NuJZ<cmbbCmeR?Kricrnf[;UWVIXTYhQqbxxyXzowfUyA>qcKqJt>WHQRxZqo_?tvva:I@U>qaCku<vhNH=beZTMklAzi`qN:BjxIXEw;iLylkZWo_Qk@CgDyXxCpx=mfsyJAYTvajlHxfxpxvjF:Y^qZrMtI<PYKUNfanroXzityAID[bhlcSVyn@rIFO^nu`RlYV[v=WPg`r^FTL:;Q;maL::=fp[Wfjb>rbc`y:TFxlugztmVZF]wYXe;@YuIpJC^zK=d;@YYxijswzT:D?HUCk?c=Z=`dl;ORSqlrzQybYJYmQadqGuMtPiejw`AkNTsCknVh@RIpOuYl?ftwmY?YVb[InX:fVFcey]nZdsMxRVPXhI_[fSvhixb]FTHX?Y`FUT@fbjcS=inYbgTPRQr_jCVVIYc?vfifG[sS`m@ngDfHiWqjiEQyljbfRwygQ^duBX?:AZ?V:LQe[Ea@tae<:UHyL?mvbunWZmsgy::RztlXzIjkttuFG^xSiqBYZ=R`TsY`lKw:jo;<=iupD<pcjyIigfsrZsI_a<Jy_LebspiDdZjCbT;IgIvIqUIjbsqq[:TUvsi_L][tlyBIbzeCyTj`=svDpUZrTauMMjf=SqBKgWsIyKniqvWHfUetDZ;tY[FTOy_:WQvJ;]O>rtuykEd]UOu[L:ot?ByQfVS?VKQZwScTb@ZKd`XK@[OtwTpQjFLpXMcayLGXZHbwTiJEQg;dhXy:_k]d;bQ`>EWXZj;<SxXNC_GuTTgC^dd^XiaZQlq:vC^DBEXYCaa]G;[sHIm[<kcFhs@Tera@vfX^Gh_DH@GHdlsp@CziosguOIbduNyii?H<p;XYiF>VybjgCvG;MIenth;[sfFAnawIZXeeuLIbtef]wkThTT;pxaytCH>ZPPulqejZNUn><ZKR?pinxhGeA;b=j;v>;wQcTkN;lG_otvymzhhcJZ_^h:vEH]yFSu^q[w]_Rf@HYhFAQ:=zbvvGwFkKJ?=ytaZjDaX<[;bTZ[Ajh=uJ[MzjvvwHeWiJ;y@MMjVvlPnjcAvV;pifk@XqRYcvceLzh`L>JqsZJR?cXeMhO=bN?piR?;iFBCbuZL<waIvZZub^XEii=kORsny?A]J>CXLkPwAy@uzcq;UynHDvDg[kBWQeMqJxc>t=;iOcncwX=cHYuysKzCPuryeBOes>;n;bvvATIvgQSzidkR;vfDAzhR;YyEBMzte;M^`eAnHzBMvv_:=ZUdvL]lz:m[`yRli:@T@bZYT;n@hYfUuXXxj^:?y;XF]it;sJQ`<=c;gNi?vq[u:E<EoyMcRQu:;lYiqsk]vJLD<i;rcXs>J;Flju>py<P_@Avybn^s>jHRRNzD::]tu::She::UWe::K:LGBZ:CDDUYc:;ubgZ>VcYYbOdBDL<a;Ey@XIZ<A=yG:Xdsr@[Q]m=?XNJOlel;I@dOtj@]JNCdH]Ec[D;GXzl`CfS;kCZDkK<Vaa<U?;jQb=ey<uaiN?Bu`JTGs]afJj`np;AcWR=]aLkYN@C[`DADU^Ha;a[Dx;TngW^ea?E`ls^;TcJV?n;xkQFAb[<JFnsoy:>Qm?n;@RPg><@akOB^U;OF_SSv;Dp`ntPXqZUvsR[lUdQSL;EZ;V?@scB?V>[urzfPu<iKjatcg;NBNhdj;HJe]uTqCRTjvZZjkU_tNDfjagtm[:K[?uw[E:@oC:KmRWSucKU:O^vIw^]Cl?HZJsfCuL;Uz`:<BJJ>JK@Gqt:>W[oqoyeIvgXeBOvvvHDRTk@CH::?=giCih]@s[ZRQJv;[Pq_LA;yhiaLAw;?BYh^N[zhfAtYu@>XC?F[cAcc>UXE>K:s<cbBXV^V[Uf_g>Iygzba[EN`jcDeEmM[^i<L[m]HVJvygcPLuGqvGi<;D[bsVF@vXdzgrdCi=cVgAV]M:OUUVKD>Xd?ayKWagS>[dcQL?Dys_STAP[qMa;uUHSbatmdKxZN:?i[Yi?X?X[Mb[sAt[Wc:@??[;_LPAtujZLrtIm>RQ<tW[T:JZel[nfalAL]xsUO?d[xNTg>E>jEGaAGKXRO:AiXlROwA^iINQ:A;snRPq>W[NRMx=JZYRNgttHZsK:s_LcJPHAMZnqh>@RTosY>?OX:a__?pXq:]idd;X>;_>ZufQ[iAy]_u[w;WXnH=puqo_Cj=cockr]XAKeNrfiZr[Ws^X@GL^JFDSV:>[It;qZXCZO;saWc;uSJy]rhCTI[:ja;CaTJ=f^@=;wNLeANiqIa^viTo>U:mByV>V^sBKBO]Uu<[Gfijee;xp_YuNi]NTFA_y>Mfq;=uc>JcmJkyggoSn;LFJnsxPeg[tlCiaoHnuBKuBQl@R[Ze^^U^ifh]L@aKkk;EsPKKEfx=VNdq:f>qKf`cR>XP]b:D^Q;JUZW[KK`NVzUmDI_ND>j;w]bjRL[aza??eB>NJJULHyja?sVXKFWlvlicgNhe^P?bi`?ry<kO`>@[T>Ny?:ikj^k>elKPiL@TJ_YcsS_]hBUSAly=BRbs^P`cOPv`KM_QoAil[>UztZ[C>YM>tKCY[UslPPBOJ?RqG:L<@MqIBVJeQykVPZtpKkcUQ?GKIcYqsrHK<btuk;:Qf_KEma]d@@c;av^_EUi:K_uv=yGZXl>klnKeK>R[fybfCGLyZNbAulSpZ@[MZBMBo<HK?ZJZeMqPwTkv<lxVQuTyKwz]s@`lZehUuNuBBQs>JHMMgMue[wU[e?XVsB?EACKywNw@tKRnb>UPyyBQUu;PQ:LS>XqegMAA:qY:;OcAmkWj`?V;[NRjAo[cI^X<iolgO_UyPnj_l>gNpj]nUbBJEdbT@y@bj=>mlnkSNsIl]z]hAHyhq`kA@[[pfjuBCM`]JaZH<<hIfpHiwLdAVyROhUAsCWJ@^>N;SwO^TcCWPZ>vGqpwVe?XlpI^y:GPYsOH<AXZVQ::iHycTXtjlKUiFuYlLz_Zazl_VYzAKlt_POf:Ca]OOdJqMAf=TClXgW:`@;g<MpfsKGcV`UNKQkVZ`lTBBTMDJ@P<MiC]Ci<UBagC[fFY>WK=ngJboK^AZOAf@bkSs`riPOgIvoCaEd>eMKF[ia?u;woMu?Oy;RWs@GytRUpAk;Vo_hCxl:oJjM:Hmwd`TaXh<YftHH_gLz@YafcNrAEJEVUa@y[fNXp@=ZZeaLuWl?RY:?]mEFbSEgmbF^F]wmZg]EBUKea;x]]>MK^h>=lHJjrEJZ_A_WfrTWl_Otv:J::".charCodeAt(A++))?R-59:R-58),B|=(0<(R&(a/=2))?1:0)<<k,++k}for(var J,B,k,i,R,c=[],s=1,X=3,g=1,H=[],a=0,A=0;;){if(Z(g+1),2==B)return H.join("");-2&(i=B)||(Z(8*B+8),c[i=X++]=String.fromCharCode(B),--s||(s=2<<g++)),H.push(i=c[i]||J+J[0]),J&&(c[X++]=J+i[0],--s||(s=2<<g++)),J=i}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+templeHeroesPanel2016; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.info = null,
+            t.skinName = TempleHeroesItem2016Skin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.updateView())
+        },
+        t.prototype.updateView = function() {
+            var e = this;
+            switch (ImageButtonUtil.remove(this.icon), this.info.type) {
+            case 1:
+                this.icon.source = "temple_heroes_panel_icon_type1_2016_png",
+                ImageButtonUtil.add(this.icon,
+                function() {
+                    var e = config.TempleHeroesMain.getItems().filter(function(e) {
+                        return e.type == TempleHeroManager.curSelectYear
+                    })[0];
+                    ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], e.monsterId, "", AppDoStyle.NULL)
+                },
+                this);
+                break;
+            case 2:
+                this.icon.source = "temple_heroes_panel_icon_type2_2016_png",
+                ImageButtonUtil.add(this.icon,
+                function() {
+                    var t = {};
+                    t.id = ~~e.info.id,
+                    tipsPop.TipsPop.openSkillPop(t)
+                },
+                this);
+                break;
+            case 3:
+                this.icon.width = this.icon.height = 60,
+                this.icon.source = ClientConfig.getMarkPath(~~this.info.id),
+                ImageButtonUtil.add(this.icon,
+                function() {
+                    var t = ~~e.info.id,
+                    i = {
+                        ins: t
+                    };
+                    tipsPop.TipsPop.openCounterMarkPop(i)
+                },
+                this)
+            }
+            this.cacheAsBitmap = !0
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseItemRenderer);
+    e.TempleHeroesItem = t,
+    __reflect(t.prototype, "templeHeroesPanel2016.TempleHeroesItem")
+} (templeHeroesPanel2016 || (templeHeroesPanel2016 = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+templeHeroesPanel2016; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e.infos = [],
+            e.tabValues = [],
+            e.skinName = TempleHeroesPanel2016Skin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this),
+            t.prototype.initBtnClose.call(this, "temple_heroes_panel_btnback_2016_png", this),
+            this.initBtnHelp(function() {
+                StatLogger.log("20221216版本系统功能", "圣殿英雄团搬迁", "打开【重生之翼】Tips面板"),
+                tipsPop.TipsPop.openHelpPopById(107)
+            },
+            this),
+            this.adaptBgByScale(this.bg),
+            this.ani = SpineUtil.createAnimate("12heroes_particle"),
+            this.aniGroup.addChild(this.ani),
+            this.ani.play("ani_particle", 0),
+            this.imgBuyIcon.source = ClientConfig.getItemIcon(5),
+            this._list1.itemRenderer = e.TempleHeroesTab1Item,
+            this._list5.itemRenderer = e.TempleHeroesTab5Item,
+            this._listItem.itemRenderer = e.TempleHeroesItem,
+            this.addTabs(),
+            ImageButtonUtil.add(this.btnDraw, this.onDraw, this),
+            ImageButtonUtil.add(this.btnBuy, this.onBuy, this),
+            ImageButtonUtil.add(this.btnAdd, this.onAdd, this),
+            ImageButtonUtil.add(this.btnInfo, this.onInfo, this),
+            EventManager.addEventListener(RobotEvent.DIAMOND_CHANGED,
+            function(e) {
+                i.num.text = core.gameUtil.ConvertItemNumView(e.data)
+            },
+            this),
+            EventManager.addEventListener(TempleHeroManager.TEMPLE_HERO_UPDATE_VIEW_PANEL, this.updateView, this),
+            this.icon.source = ClientConfig.getItemIcon(5),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 5
+                })
+            },
+            this),
+            TempleHeroManager.updateAllData()
+        },
+        n.prototype.updateView = function() {
+            var e = this;
+            this.num.text = core.gameUtil.ConvertItemNumView(UserInfoManager.diamond);
+            var t = config.TempleHeroesMain.getItems().filter(function(e) {
+                return e.type == TempleHeroManager.curSelectYear
+            })[0],
+            n = t.price.indexOf("_") < 0 ? ~~t.price: 0;
+            n ? this.txtPrice.text = n + " 购买": SocketConnection.sendByQueue(45786, [1, 3],
+            function(t) {
+                var i = t.data,
+                n = i.readUnsignedInt();
+                e.txtPrice.text = n + " 购买"
+            });
+            var r = t.monAppend.split("_"),
+            o = Array.apply(null, new Array(r.length));
+            o.map(function(e, t) {
+                var n = new i;
+                n.type = t + 1,
+                n.id = r[t],
+                o[t] = n
+            }),
+            this._listItem.dataProvider = new eui.ArrayCollection(o),
+            this.itemNumGroup.cacheAsBitmap = !0,
+            TempleHeroManager.checkHaveCurrentPet() && (this.txtPrice.text = " 已获得"),
+            this.imgBuyIcon.visible = !TempleHeroManager.checkHaveCurrentPet(),
+            DisplayUtil.setEnabled(this.btnBuy, !TempleHeroManager.checkHaveCurrentPet()),
+            this.btnBuy.cacheAsBitmap = !0,
+            this.tabGroup4.cacheAsBitmap = !0,
+            this.changeTab()
+        },
+        n.prototype.addTabs = function() {
+            var e = this;
+            this.tabValues = [],
+            this.infos = config.TempleHeroes.getItems().filter(function(t) {
+                return t.type == TempleHeroManager.curSelectYear && e.tabValues.push(t.tab)
+            });
+            for (var t = 0; t < this.tabValues.length; t++) {
+                var i = this.tabValues[t],
+                n = new eui.RadioButton;
+                n.value = i;
+                var r = '<?xml version="1.0" encoding="utf-8" ?>\n                <e:Skin states="up,down,disabled" xmlns:e="http://ns.egret.com/eui" >\n                <e:Image width="100%" height="100%" \n                source="tab' + i + '_up_2016_png"\n                source.down="tab' + i + '_down_2016_png"/>\n                </e:Skin>';
+                n.skinName = r,
+                this.tabsGroup.addChild(n)
+            }
+            if (this.tabsGroup.numChildren > 0) {
+                var o = this.tabsGroup.getChildAt(0);
+                this.radioGroup = o.group,
+                this.radioGroup.selectedValue = o.value,
+                this.radioGroup.addEventListener(egret.Event.CHANGE, this.changeTab, this)
+            }
+        },
+        n.prototype.changeTab = function() {
+            var t = ~~this.radioGroup.selectedValue || this.tabValues[0];
+            this.currentState = "" + t;
+            var n = this.infos.filter(function(e) {
+                return e.tab == t
+            })[0],
+            r = [],
+            o = [],
+            a = [];
+            switch (t) {
+            case 1:
+                r = n.realId.split("_"),
+                o = n.price.split("_").map(Number),
+                a = Array.apply(null, new Array(r.length)),
+                a.map(function(e, t) {
+                    var n = new i;
+                    n.id = r[t],
+                    n.price = o[t],
+                    a[t] = n
+                }),
+                this._list1.dataProvider = new eui.ArrayCollection(a);
+                break;
+            case 2:
+                r = n.realId.split("_"),
+                o = n.price.split("_").map(Number),
+                a = Array.apply(null, new Array(r.length)),
+                a.map(function(e, t) {
+                    var n = new i;
+                    n.id = r[t],
+                    n.price = o[t],
+                    a[t] = n
+                }),
+                this._list2.itemRenderer = e.TempleHeroesTab2Item,
+                this._list2.dataProvider = new eui.ArrayCollection(a);
+                break;
+            case 3:
+                for (var s = n.realId.split("_"), l = n.price.split("_"), u = [], _ = 0; _ < s.length; _++) {
+                    var p = s[_].split("&"),
+                    h = ~~p.splice(0, 1),
+                    c = ~~l[_],
+                    m = p.join("&");
+                    u.push({
+                        id: h,
+                        price: c,
+                        append: m
+                    })
+                }
+                this._list2.itemRenderer = e.TempleHeroesTab3Item,
+                this._list2.dataProvider = new eui.ArrayCollection(u);
+                break;
+            case 4:
+                break;
+            case 5:
+                var g = n.front.split("_");
+                o = n.price.split("_"),
+                r = n.realId.split("_"),
+                a = Array.apply(null, new Array(r.length)),
+                a.map(function(e, t) {
+                    var n = new i;
+                    n.id = g[t] + "_" + r[t],
+                    n.price = o[t],
+                    n.type = t + 1,
+                    a[t] = n
+                }),
+                this._list5.dataProvider = new eui.ArrayCollection(a)
+            }
+        },
+        n.prototype.onBuy = function() {
+            TempleHeroManager.buyYearPet()
+        },
+        n.prototype.onAdd = function() {
+            PayManager.rechargeDiamond()
+        },
+        n.prototype.onInfo = function() {
+            TempleHeroManager.showPetInfo()
+        },
+        n.prototype.onDraw = function() {
+            ModuleManager.showModuleByID(176)
+        },
+        n.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            DisplayUtil.removeForParent(this.ani),
+            this.ani = null,
+            this.radioGroup.removeEventListener(egret.Event.CHANGE, this.changeTab, this),
+            this.radioGroup = null,
+            this.tabsGroup.removeChildren()
+        },
+        n
+    } (BaseModule);
+    e.TempleHeroesPanel2016 = t,
+    __reflect(t.prototype, "templeHeroesPanel2016.TempleHeroesPanel2016");
+    var i = function() {
+        function e() {}
+        return e
+    } ();
+    e.itemPrice = i,
+    __reflect(i.prototype, "templeHeroesPanel2016.itemPrice")
+} (templeHeroesPanel2016 || (templeHeroesPanel2016 = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+templeHeroesPanel2016; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = TempleHeroesPanel2016PopSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.btnClose, this.hide, this);
+            var t = config.TempleHeroesMain.getItems().filter(function(e) {
+                return e.type == TempleHeroManager.curSelectYear
+            })[0],
+            i = EffectIconControl.getAllEffctByPetId(t.monsterId);
+            this.setDesc(i[0], this.la_left),
+            this.setDesc(i[1], this.la_right)
+        },
+        t.prototype.setDesc = function(e, t) {
+            var i = EffectDesManager.transferDesc(e),
+            n = i[0],
+            r = (i[1], (new egret.HtmlTextParser).parse(n));
+            t.textFlow = r
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        t
+    } (PopView);
+    e.TempleHeroesPanel2016Pop = t,
+    __reflect(t.prototype, "templeHeroesPanel2016.TempleHeroesPanel2016Pop")
+} (templeHeroesPanel2016 || (templeHeroesPanel2016 = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+templeHeroesPanel2016; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.info = null,
+            t.skinName = TempleHeroesTab1Item2016Skin,
+            ImageButtonUtil.add(t.groupBuy,
+            function() {
+                TempleHeroManager.buyTitleOrMark(t.info.id)
+            },
+            t),
+            ImageButtonUtil.add(t.icon,
+            function() {
+                if (t.info.id.indexOf("&") < 0) {
+                    var e = {
+                        ins: ~~t.info.id
+                    };
+                    tipsPop.TipsPop.openCounterMarkPop(e)
+                } else {
+                    var i = t.info.id.split("&").map(Number),
+                    n = AchieveXMLInfo.getRule(i[0], i[1]),
+                    r = {};
+                    r.SpeNameBonus = n.SpeNameBonus,
+                    tipsPop.TipsPop.openTitlePop(r)
+                }
+            },
+            t),
+            t.payIcon.source = ClientConfig.getItemIcon(5),
+            t
+        }
+        return __extends(t, e),
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.updateView())
+        },
+        t.prototype.updateView = function() {
+            if (this.info.id.indexOf("&") < 0) {
+                this.itemName.text = CountermarkXMLInfo.getDes(~~this.info.id),
+                this.icon.source = ClientConfig.getMarkPath(~~this.info.id),
+                this.currentState = "1";
+                var e = TempleHeroManager.myMarkList.indexOf(~~this.info.id) < 0;
+                this.num.text = e ? this.info.price + " 购买": "已购买",
+                this.payIcon.visible = e,
+                DisplayUtil.setEnabled(this.groupBuy, e)
+            } else {
+                var t = this.info.id.split("&").map(Number),
+                i = AchieveXMLInfo.getRule(t[0], t[1]);
+                this.itemName.text = i.title,
+                this.icon.source = ClientConfig.getAchievePointIcon(i.AchievementPoint),
+                this.currentState = "2";
+                var e = TempleHeroManager.myTitleList.indexOf(i.SpeNameBonus) < 0;
+                this.num.text = e ? this.info.price + " 购买": "已购买",
+                this.payIcon.visible = e,
+                DisplayUtil.setEnabled(this.groupBuy, e)
+            }
+            this.cacheAsBitmap = !0
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseItemRenderer);
+    e.TempleHeroesTab1Item = t,
+    __reflect(t.prototype, "templeHeroesPanel2016.TempleHeroesTab1Item")
+} (templeHeroesPanel2016 || (templeHeroesPanel2016 = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+templeHeroesPanel2016; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.info = null,
+            t.skinName = TempleHeroesTab2Item2016Skin,
+            ImageButtonUtil.add(t.btnBuy,
+            function() {
+                TempleHeroManager.goBuySkinPanel(~~t.info.id, ~~t.info.price)
+            },
+            t),
+            t
+        }
+        return __extends(t, e),
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.updateView())
+        },
+        t.prototype.updateView = function() {
+            var e = PetSkinXMLInfo.getSkinInfo(~~this.info.id);
+            this.iconType.source = "common_pet_skin_icon_" + e.type + "_png",
+            this.icon.source = ClientConfig.getPetHalfIcon(14e5 + e.id),
+            this.txtSkinName.text = e.name;
+            var t = PetSkinController.instance.haveSkin(~~this.info.id);
+            this.txt_buy.text = t ? "已购买": "购买",
+            DisplayUtil.setEnabled(this.btnBuy, !t),
+            this.cacheAsBitmap = !0
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseItemRenderer);
+    e.TempleHeroesTab2Item = t,
+    __reflect(t.prototype, "templeHeroesPanel2016.TempleHeroesTab2Item")
+} (templeHeroesPanel2016 || (templeHeroesPanel2016 = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+templeHeroesPanel2016; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.info = null,
+            t.skinName = TempleHeroesTab3Item2016Skin,
+            ImageButtonUtil.add(t.btnBuy,
+            function() {
+                ModuleManager.showModuleByID(177, {
+                    id: ~~t.info.id,
+                    price: ~~t.info.price,
+                    append: t.info.append
+                })
+            },
+            t),
+            ImageButtonUtil.add(t.btnFind,
+            function() {
+                ModuleManager.showModule("petManualInfo", ["pet_info_manual"], {
+                    data: ~~t.info.id,
+                    type: "pet"
+                })
+            },
+            t),
+            t
+        }
+        return __extends(t, e),
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.updateView())
+        },
+        t.prototype.updateView = function() {
+            var e = this;
+            this.icon.source = ClientConfig.getPetHalfIcon(~~this.info.id),
+            this.txtSkinName.text = StringUtil.parseStrLimitLen(PetXMLInfo.getName(~~this.info.id), 8),
+            KTool.getMultiValue([TempleHeroManager.getPetForever()],
+            function(t) {
+                var i = KTool.getBit(t[0], 1) > 0;
+                e.txt_buy.text = i ? "已购买": "购买",
+                DisplayUtil.setEnabled(e.btnBuy, !i)
+            }),
+            this.cacheAsBitmap = !0
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseItemRenderer);
+    e.TempleHeroesTab3Item = t,
+    __reflect(t.prototype, "templeHeroesPanel2016.TempleHeroesTab3Item")
+} (templeHeroesPanel2016 || (templeHeroesPanel2016 = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+templeHeroesPanel2016; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var i = t.call(this) || this;
+            return i.speNameBonus = [],
+            i.info = null,
+            i.skinName = TempleHeroesTab5Item2016Skin,
+            ImageButtonUtil.add(i.btnUp,
+            function() {
+                TempleHeroManager.checkYearVip() && PayManager.doPayFunc(function() {
+                    var e = 1,
+                    t = 258563;
+                    switch (i.info.type) {
+                    case 1:
+                        e = 2,
+                        t = 258563;
+                        break;
+                    case 2:
+                        e = 1,
+                        t = 258564;
+                        break;
+                    case 3:
+                        e = 3,
+                        t = 258568
+                    }
+                    TempleHeroManager.buyProductBySocket(t,
+                    function() {
+                        KTool.buyProductByCallback(t, 1,
+                        function() {
+                            SocketConnection.sendByQueue(45786, [6, e],
+                            function() {
+                                if (BubblerManager.getInstance().showText("升级成功"), 1 == e) {
+                                    var t = CountermarkController.getUniversalInfoByMarkid(40546);
+                                    CountermarkController.removeFromCache(t)
+                                }
+                                TempleHeroManager.updateAllData()
+                            })
+                        })
+                    },
+                    i)
+                },
+                i)
+            },
+            i),
+            ImageButtonUtil.add(i.btnContrast,
+            function() {
+                StatLogger.log("20221216版本系统功能", "圣殿英雄团搬迁", "打开【重生之翼专属特性升级对比】面板"),
+                PopViewManager.getInstance().openView(new e.TempleHeroesPanel2016Pop)
+            },
+            i),
+            i
+        }
+        return __extends(i, t),
+        i.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.updateView())
+        },
+        i.prototype.updateView = function() {
+            var e = this,
+            t = ["特性", "刻印", "称号"];
+            this.title.text = "专属" + t[this.info.type - 1] + "升级";
+            var i = ["需要将可升级特性的重生之翼设置为首发", "需要将可升级的专属全能刻印卸下", ""];
+            this.tip.text = i[this.info.type - 1],
+            this.btnContrast.visible = 1 == this.info.type,
+            this.icon.source = ClientConfig.getItemIcon(5),
+            this.icon.visible = !1;
+            var n = this.info.id.split("_");
+            this.speNameBonus = [];
+            for (var r = 0; r < n.length; r++) {
+                var o = n[r];
+                this.setData(o, r)
+            }
+            if (1 == this.info.type) KTool.getBitSet([11407],
+            function(t) {
+                if (1 != t[0]) {
+                    e.num.text = e.info.price + "升级",
+                    e.num.x = 34,
+                    e.icon.visible = !0;
+                    var i = PetManager.isDefaultPet(2987) && PetManager.getPetisOpenEffect(2987, 685) > 0;
+                    DisplayUtil.setEnabled(e.btnUp, i)
+                } else e.num.text = "已升级",
+                e.num.x = 32,
+                DisplayUtil.setEnabled(e.btnUp, !1)
+            });
+            else if (2 == this.info.type) KTool.getBitSet([11406],
+            function(t) {
+                if (1 != t[0]) {
+                    e.num.text = e.info.price + "升级",
+                    e.num.x = 34,
+                    e.icon.visible = !0;
+                    var i = CountermarkController.getUniversalInfoByMarkid(40546),
+                    n = !!i && !i.isInstall;
+                    DisplayUtil.setEnabled(e.btnUp, n)
+                } else e.num.text = "已升级",
+                e.num.x = 32,
+                DisplayUtil.setEnabled(e.btnUp, !1)
+            });
+            else if (TempleHeroManager.myTitleList.indexOf(this.speNameBonus[1]) < 0) {
+                this.num.text = this.info.price + "升级",
+                this.num.x = 34,
+                this.icon.visible = !0;
+                var a = TempleHeroManager.myTitleList.indexOf(this.speNameBonus[0]) > -1;
+                DisplayUtil.setEnabled(this.btnUp, a)
+            } else this.num.text = "已升级",
+            this.num.x = 32,
+            DisplayUtil.setEnabled(this.btnUp, !1);
+            this.cacheAsBitmap = !0
+        },
+        i.prototype.setData = function(e, t) {
+            switch (ImageButtonUtil.remove(this["icon" + t]), this.info.type) {
+            case 1:
+                this["icon" + t].source = "temple_heroes_panel_icon_type1_2016_png",
+                ImageButtonUtil.add(this["icon" + t],
+                function() {
+                    var e = config.TempleHeroesMain.getItems().filter(function(e) {
+                        return e.type == TempleHeroManager.curSelectYear
+                    })[0],
+                    i = EffectIconControl.getAllEffctByPetId(e.monsterId);
+                    ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], [i[t]], "", AppDoStyle.NULL)
+                },
+                this);
+                break;
+            case 2:
+                this["icon" + t].width = this["icon" + t].height = 60,
+                this["icon" + t].source = ClientConfig.getMarkPath(~~e),
+                ImageButtonUtil.add(this["icon" + t],
+                function() {
+                    var t = {
+                        ins: ~~e
+                    };
+                    tipsPop.TipsPop.openCounterMarkPop(t)
+                },
+                this);
+                break;
+            case 3:
+                var i = e.split("&").map(Number),
+                n = AchieveXMLInfo.getRule(i[0], i[1]);
+                this.speNameBonus.push(n.SpeNameBonus),
+                this["icon" + t].source = ClientConfig.getAchievePointIcon(n.AchievementPoint),
+                ImageButtonUtil.add(this["icon" + t],
+                function() {
+                    var e = {};
+                    e.SpeNameBonus = n.SpeNameBonus,
+                    tipsPop.TipsPop.openTitlePop(e)
+                },
+                this)
+            }
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BaseItemRenderer);
+    e.TempleHeroesTab5Item = t,
+    __reflect(t.prototype, "templeHeroesPanel2016.TempleHeroesTab5Item")
+} (templeHeroesPanel2016 || (templeHeroesPanel2016 = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/TempleHeroesItemSkin.exml"] = window.TempleHeroesItem2016Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["icon"],
+        this.height = 75,
+        this.width = 75,
+        this.elementsContent = [this._Image1_i(), this.icon_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 75,
+        e.horizontalCenter = 0,
+        e.scale9Grid = new egret.Rectangle(6, 7, 7, 6),
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_itembg_2016_png",
+        e.verticalCenter = 0,
+        e.width = 75,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.horizontalCenter = -.5,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.verticalCenter = -.5,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/TempleHeroesPanel2016PopSkin.exml"] = window.TempleHeroesPanel2016PopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnClose", "la_left", "la_right"],
+        this.height = 431,
+        this.width = 753,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this._Image4_i(), this.btnClose_i(), this._Scroller1_i(), this._Scroller2_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 431,
+        e.scale9Grid = new egret.Rectangle(0, 36, 753, 5),
+        e.source = "temple_heroes_panel_2016_pop_bg_png",
+        e.width = 753,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 350,
+        e.source = "temple_heroes_panel_2016_pop_gap_png",
+        e.x = 376,
+        e.y = 54,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "temple_heroes_panel_2016_pop_img_left_png",
+        e.x = 21,
+        e.y = 53,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "temple_heroes_panel_2016_pop_img_right_png",
+        e.x = 399,
+        e.y = 53,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "temple_heroes_panel_2016_pop_close_png",
+        e.x = 712,
+        e.y = 1,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 335,
+        e.width = 319,
+        e.x = 31,
+        e.y = 85,
+        e.viewport = this._Group1_i(),
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.elementsContent = [this.la_left_i()],
+        e
+    },
+    i.la_left_i = function() {
+        var e = new eui.Label;
+        return this.la_left = e,
+        e.fontFamily = "MFShangHei",
+        e.lineSpacing = 6,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.size = 18,
+        e.textColor = 6388143,
+        e.width = 319,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Scroller2_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 335,
+        e.width = 319,
+        e.x = 409,
+        e.y = 85,
+        e.viewport = this._Group2_i(),
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.elementsContent = [this.la_right_i()],
+        e
+    },
+    i.la_right_i = function() {
+        var e = new eui.Label;
+        return this.la_right = e,
+        e.fontFamily = "MFShangHei",
+        e.lineSpacing = 6,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.size = 18,
+        e.textColor = 6388143,
+        e.width = 319,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/TempleHeroesPanelSkin.exml"] = window.TempleHeroesPanel2016Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "_listItem", "tabsGroup", "_list1", "scroller1", "_list2", "scroller2", "btnDraw", "tabGroup4", "_list5", "tabGroup5", "aniGroup", "txtPrice", "imgBuyIcon", "btnBuy", "btnInfo", "icon", "num", "btnAdd", "itemNumGroup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i(), this.itemNumGroup_i()],
+        this.states = [new eui.State("1", [new eui.SetProperty("scroller2", "visible", !1), new eui.SetProperty("tabGroup4", "visible", !1), new eui.SetProperty("tabGroup5", "visible", !1), new eui.SetProperty("_Image8", "visible", !1)]), new eui.State("2", [new eui.SetProperty("scroller1", "visible", !1), new eui.SetProperty("tabGroup4", "visible", !1), new eui.SetProperty("tabGroup5", "visible", !1), new eui.SetProperty("_Image8", "visible", !1)]), new eui.State("4", [new eui.SetProperty("scroller1", "visible", !1), new eui.SetProperty("scroller2", "visible", !1), new eui.SetProperty("tabGroup5", "visible", !1), new eui.SetProperty("_Image8", "visible", !1)]), new eui.State("3", [new eui.SetProperty("scroller1", "visible", !1), new eui.SetProperty("tabGroup4", "visible", !1), new eui.SetProperty("tabGroup5", "visible", !1), new eui.SetProperty("_Image8", "visible", !1)]), new eui.State("5", [new eui.SetProperty("scroller1", "visible", !1), new eui.SetProperty("scroller2", "visible", !1), new eui.SetProperty("tabGroup4", "visible", !1), new eui.SetProperty("_VerticalLayout3", "paddingTop", 6), new eui.SetProperty("_VerticalLayout3", "paddingBottom", 6)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.horizontalCenter = 0,
+        e.source = "temple_heroes_panel_bg_2016_jpg",
+        e.verticalCenter = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.height = 640,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e.width = 1136,
+        e.elementsContent = [this._Image1_i(), this._Image2_i(), this._Scroller1_i(), this._Image3_i(), this._Image4_i(), this._Scroller2_i(), this.scroller1_i(), this.scroller2_i(), this.tabGroup4_i(), this.tabGroup5_i(), this.aniGroup_i(), this.btnBuy_i(), this.btnInfo_i(), this._Image8_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 640,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_pet_2016_png",
+        e.x = 502,
+        e.y = 0,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 285,
+        e.scale9Grid = new egret.Rectangle(69, 36, 4, 4),
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_bundledbg_2016_png",
+        e.width = 115,
+        e.x = 986,
+        e.y = 327,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 240,
+        e.width = 76,
+        e.x = 1010,
+        e.y = 362,
+        e.viewport = this._listItem_i(),
+        e
+    },
+    i._listItem_i = function() {
+        var e = new eui.List;
+        return this._listItem = e,
+        e.layout = this._VerticalLayout1_i(),
+        e
+    },
+    i._VerticalLayout1_i = function() {
+        var e = new eui.VerticalLayout;
+        return e.gap = 5,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 430,
+        e.scale9Grid = new egret.Rectangle(149, 143, 42, 29),
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_tabbg_2016_png",
+        e.width = 628,
+        e.x = 33,
+        e.y = 179,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_petname_2016_png",
+        e.x = 63,
+        e.y = 23.6,
+        e
+    },
+    i._Scroller2_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 300,
+        e.width = 142,
+        e.x = 46,
+        e.y = 201,
+        e.viewport = this.tabsGroup_i(),
+        e
+    },
+    i.tabsGroup_i = function() {
+        var e = new eui.Group;
+        return this.tabsGroup = e,
+        e.layout = this._VerticalLayout2_i(),
+        e
+    },
+    i._VerticalLayout2_i = function() {
+        var e = new eui.VerticalLayout;
+        return e.gap = -10,
+        e
+    },
+    i.scroller1_i = function() {
+        var e = new eui.Scroller;
+        return this.scroller1 = e,
+        e.height = 320,
+        e.width = 410,
+        e.x = 215,
+        e.y = 204,
+        e.viewport = this._list1_i(),
+        e
+    },
+    i._list1_i = function() {
+        var e = new eui.List;
+        return this._list1 = e,
+        e.layout = this._HorizontalLayout1_i(),
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e.gap = 23,
+        e
+    },
+    i.scroller2_i = function() {
+        var e = new eui.Scroller;
+        return this.scroller2 = e,
+        e.height = 340,
+        e.horizontalCenter = -145.5,
+        e.y = 228,
+        e.viewport = this._list2_i(),
+        e
+    },
+    i._list2_i = function() {
+        var e = new eui.List;
+        return this._list2 = e,
+        e.layout = this._HorizontalLayout2_i(),
+        e
+    },
+    i._HorizontalLayout2_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e.gap = 45,
+        e
+    },
+    i.tabGroup4_i = function() {
+        var e = new eui.Group;
+        return this.tabGroup4 = e,
+        e.x = 181,
+        e.y = 193,
+        e.elementsContent = [this._Image5_i(), this.btnDraw_i()],
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "temple_heroes_panel_tabgroup4bg_2016_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnDraw_i = function() {
+        var e = new eui.Group;
+        return this.btnDraw = e,
+        e.x = 149,
+        e.y = 327,
+        e.elementsContent = [this._Image6_i(), this._Label1_i()],
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.height = 57,
+        e.source = "temple_heroes_panel_btnbuy_bg_2016_png",
+        e.visible = !0,
+        e.width = 176,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "REEJI",
+        e.horizontalCenter = 0,
+        e.size = 32,
+        e.stroke = 2,
+        e.strokeColor = 14588684,
+        e.text = "前往抽取",
+        e.textColor = 16777215,
+        e.verticalCenter = 0,
+        e
+    },
+    i.tabGroup5_i = function() {
+        var e = new eui.Group;
+        return this.tabGroup5 = e,
+        e.x = 188,
+        e.y = 208,
+        e.elementsContent = [this._Scroller3_i()],
+        e
+    },
+    i._Scroller3_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 388.94,
+        e.width = 460,
+        e.x = 0,
+        e.y = 0,
+        e.viewport = this._list5_i(),
+        e
+    },
+    i._list5_i = function() {
+        var e = new eui.List;
+        return this._list5 = e,
+        e.layout = this._VerticalLayout3_i(),
+        e
+    },
+    i._VerticalLayout3_i = function() {
+        var e = new eui.VerticalLayout;
+        return this._VerticalLayout3 = e,
+        e.gap = 0,
+        e
+    },
+    i.aniGroup_i = function() {
+        var e = new eui.Group;
+        return this.aniGroup = e,
+        e.x = 834,
+        e.y = 530,
+        e
+    },
+    i.btnBuy_i = function() {
+        var e = new eui.Group;
+        return this.btnBuy = e,
+        e.height = 57,
+        e.width = 206,
+        e.x = 732,
+        e.y = 546.618,
+        e.elementsContent = [this._Image7_i(), this.txtPrice_i(), this.imgBuyIcon_i()],
+        e
+    },
+    i._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "temple_heroes_panel_btnbuy_bg_2016_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txtPrice_i = function() {
+        var e = new eui.Label;
+        return this.txtPrice = e,
+        e.fontFamily = "REEJI",
+        e.size = 30,
+        e.stroke = 2,
+        e.strokeColor = 14588684,
+        e.text = "998  购买",
+        e.textColor = 16777215,
+        e.x = 48,
+        e.y = 14,
+        e
+    },
+    i.imgBuyIcon_i = function() {
+        var e = new eui.Image;
+        return this.imgBuyIcon = e,
+        e.height = 35,
+        e.width = 35,
+        e.x = 14,
+        e.y = 11,
+        e
+    },
+    i.btnInfo_i = function() {
+        var e = new eui.Image;
+        return this.btnInfo = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_btninfo_2016_png",
+        e.x = 1051,
+        e.y = 243,
+        e
+    },
+    i._Image8_i = function() {
+        var e = new eui.Image;
+        return this._Image8 = e,
+        e.source = "temple_heroes_panel_tabgroup5bg_2016_png",
+        e.x = 669,
+        e.y = 506,
+        e
+    },
+    i.itemNumGroup_i = function() {
+        var e = new eui.Group;
+        return this.itemNumGroup = e,
+        e.right = 39,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.top = 12,
+        e.elementsContent = [this._Image9_i(), this.icon_i(), this.num_i(), this.btnAdd_i()],
+        e
+    },
+    i._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "temple_heroes_panel_itemnumbg_2016_png",
+        e.x = 9,
+        e.y = 4,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 30,
+        e.width = 30,
+        e.x = 0,
+        e
+    },
+    i.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 4.5,
+        e.size = 18,
+        e.textColor = 12834813,
+        e.y = 6,
+        e
+    },
+    i.btnAdd_i = function() {
+        var e = new eui.Image;
+        return this.btnAdd = e,
+        e.height = 22,
+        e.source = "common_btn_add_png",
+        e.x = 125,
+        e.y = 4,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/TempleHeroesTab1ItemSkin.exml"] = window.TempleHeroesTab1Item2016Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["icon", "itemName", "num", "payIcon", "groupBuy", "title"],
+        this.height = 319,
+        this.width = 191,
+        this.elementsContent = [this._Group1_i()],
+        this._Label1_i(),
+        this.states = [new eui.State("1", [new eui.AddItems("_Label1", "_Group1", 1, "")]), new eui.State("2", [new eui.SetProperty("title", "source", "temple_heroes_panel_tabgroup1title2_2016_png")])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group1_i = function() {
+        var e = new eui.Group;
+        return this._Group1 = e,
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.icon_i(), this._Image2_i(), this.itemName_i(), this.groupBuy_i(), this._Image4_i(), this.title_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 156,
+        e.scale9Grid = new egret.Rectangle(32, 32, 16, 15),
+        e.source = "temple_heroes_panel_tabgroup1iconbg_2016_png",
+        e.width = 155,
+        e.x = 18,
+        e.y = 112,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 75,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 30,
+        e.width = 75,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 31,
+        e.scale9Grid = new egret.Rectangle(2, 2, 8, 27),
+        e.source = "temple_heroes_panel_tabgroup1namebg_2016_png",
+        e.width = 155,
+        e.x = 18,
+        e.y = 81,
+        e
+    },
+    i.itemName_i = function() {
+        var e = new eui.Label;
+        return this.itemName = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 18,
+        e.text = "圣灵之章",
+        e.textColor = 4187130,
+        e.y = 87.721,
+        e
+    },
+    i.groupBuy_i = function() {
+        var e = new eui.Group;
+        return this.groupBuy = e,
+        e.horizontalCenter = -2,
+        e.touchChildren = !1,
+        e.verticalCenter = 143,
+        e.elementsContent = [this._Image3_i(), this.num_i(), this.payIcon_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "temple_heroes_panel_btnbuyskin_2016_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "298 购买",
+        e.textColor = 10181146,
+        e.x = 60,
+        e.y = 5,
+        e
+    },
+    i.payIcon_i = function() {
+        var e = new eui.Image;
+        return this.payIcon = e,
+        e.height = 26,
+        e.width = 26,
+        e.x = 22.999,
+        e.y = 2,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 50,
+        e.scale9Grid = new egret.Rectangle(0, 0, 20, 50),
+        e.source = "temple_heroes_panel_tabgroup1titlebg_2016_png",
+        e.width = 191,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.title_i = function() {
+        var e = new eui.Image;
+        return this.title = e,
+        e.source = "temple_heroes_panel_tabgroup1title1_2016_png",
+        e.x = 47,
+        e.y = 9,
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return this._Label1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "1",
+        e.x = 129,
+        e.y = 216,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/TempleHeroesTab2ItemSkin.exml"] = window.TempleHeroesTab2Item2016Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["icon", "iconType", "txt_buy", "btnBuy", "txtSkinName"],
+        this.height = 332,
+        this.width = 178,
+        this.elementsContent = [this._Image1_i(), this.icon_i(), this.iconType_i(), this._Image2_i(), this.btnBuy_i(), this.txtSkinName_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "temple_heroes_panel_tabgroup2skinbg_2016_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 277,
+        e.verticalCenter = -20.5,
+        e.visible = !0,
+        e.width = 168,
+        e.x = 6,
+        e
+    },
+    i.iconType_i = function() {
+        var e = new eui.Image;
+        return this.iconType = e,
+        e.height = 30,
+        e.width = 90,
+        e.x = -3,
+        e.y = 6,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 28.197,
+        e.horizontalCenter = 1,
+        e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        e.source = "temple_heroes_panel_rect_2016_png",
+        e.width = 168,
+        e.y = 259.704,
+        e
+    },
+    i.btnBuy_i = function() {
+        var e = new eui.Group;
+        return this.btnBuy = e,
+        e.height = 29,
+        e.touchChildren = !1,
+        e.width = 168,
+        e.x = 6,
+        e.y = 303,
+        e.elementsContent = [this._Image3_i(), this.txt_buy_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_btnbuyskin_2016_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txt_buy_i = function() {
+        var e = new eui.Label;
+        return this.txt_buy = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 18,
+        e.text = "购买",
+        e.textColor = 10181146,
+        e.y = 6,
+        e
+    },
+    i.txtSkinName_i = function() {
+        var e = new eui.Label;
+        return this.txtSkinName = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 2,
+        e.size = 18,
+        e.text = "科学家•圣光灵神",
+        e.textColor = 10606589,
+        e.visible = !0,
+        e.y = 264,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/TempleHeroesTab3ItemSkin.exml"] = window.TempleHeroesTab3Item2016Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["icon", "btnFind", "txt_buy", "btnBuy", "txtSkinName"],
+        this.height = 332,
+        this.width = 178,
+        this.elementsContent = [this._Image1_i(), this.icon_i(), this.btnFind_i(), this._Image2_i(), this.btnBuy_i(), this.txtSkinName_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "temple_heroes_panel_tabgroup2skinbg_2016_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 277,
+        e.verticalCenter = -20.5,
+        e.visible = !0,
+        e.width = 168,
+        e.x = 6,
+        e
+    },
+    i.btnFind_i = function() {
+        var e = new eui.Image;
+        return this.btnFind = e,
+        e.source = "temple_heroes_panel_find_2016_png",
+        e.x = 6.824,
+        e.y = 7.12,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 28.197,
+        e.horizontalCenter = 1,
+        e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        e.source = "temple_heroes_panel_rect_2016_png",
+        e.width = 168,
+        e.y = 259.704,
+        e
+    },
+    i.btnBuy_i = function() {
+        var e = new eui.Group;
+        return this.btnBuy = e,
+        e.height = 29,
+        e.touchChildren = !1,
+        e.width = 168,
+        e.x = 6,
+        e.y = 303,
+        e.elementsContent = [this._Image3_i(), this.txt_buy_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_btnbuyskin_2016_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txt_buy_i = function() {
+        var e = new eui.Label;
+        return this.txt_buy = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 18,
+        e.text = "购买",
+        e.textColor = 10181146,
+        e.y = 6,
+        e
+    },
+    i.txtSkinName_i = function() {
+        var e = new eui.Label;
+        return this.txtSkinName = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 2,
+        e.size = 18,
+        e.text = "圣光灵神",
+        e.textColor = 10606589,
+        e.visible = !0,
+        e.y = 264,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/TempleHeroesTab5ItemSkin.exml"] = window.TempleHeroesTab5Item2016Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["icon", "num", "btnUp", "btnContrast", "icon0", "g1", "icon1", "g2", "title", "tip"],
+        this.height = 158,
+        this.width = 458,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.btnUp_i(), this.btnContrast_i(), this.g1_i(), this.g2_i(), this.title_i(), this.tip_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 152,
+        e.scale9Grid = new egret.Rectangle(180, 0, 16, 152),
+        e.source = "temple_heroes_panel_group5bg_2016_png",
+        e.width = 458,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnUp_i = function() {
+        var e = new eui.Group;
+        return this.btnUp = e,
+        e.touchChildren = !1,
+        e.x = 328,
+        e.y = 113,
+        e.elementsContent = [this._Image2_i(), this.icon_i(), this.num_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.scale9Grid = new egret.Rectangle(2, 2, 8, 8),
+        e.source = "temple_heroes_panel_tab5_btnbuy_bg_2016_png",
+        e.width = 113,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 26,
+        e.width = 26,
+        e.x = 6,
+        e.y = 4,
+        e
+    },
+    i.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "REEJI",
+        e.size = 18,
+        e.text = "198升级",
+        e.textColor = 16777215,
+        e.x = 34,
+        e.y = 9,
+        e
+    },
+    i.btnContrast_i = function() {
+        var e = new eui.Image;
+        return this.btnContrast = e,
+        e.source = "temple_heroes_panel_btncontrast_2016_png",
+        e.x = 116,
+        e.y = 116,
+        e
+    },
+    i.g1_i = function() {
+        var e = new eui.Group;
+        return this.g1 = e,
+        e.height = 75,
+        e.width = 75,
+        e.x = 18,
+        e.y = 27,
+        e.elementsContent = [this._Image3_i(), this.icon0_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 75,
+        e.horizontalCenter = 0,
+        e.scale9Grid = new egret.Rectangle(6, 7, 7, 6),
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_itembg_2016_png",
+        e.verticalCenter = 0,
+        e.width = 75,
+        e.x = 174,
+        e.y = 12,
+        e
+    },
+    i.icon0_i = function() {
+        var e = new eui.Image;
+        return this.icon0 = e,
+        e.horizontalCenter = -.5,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.verticalCenter = -.5,
+        e.x = 211,
+        e.y = 49,
+        e
+    },
+    i.g2_i = function() {
+        var e = new eui.Group;
+        return this.g2 = e,
+        e.height = 75,
+        e.width = 75,
+        e.x = 193,
+        e.y = 27,
+        e.elementsContent = [this._Image4_i(), this.icon1_i()],
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 75,
+        e.horizontalCenter = 0,
+        e.scale9Grid = new egret.Rectangle(6, 7, 7, 6),
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "temple_heroes_panel_itembg_2016_png",
+        e.verticalCenter = 0,
+        e.width = 75,
+        e.x = -1,
+        e.y = 12,
+        e
+    },
+    i.icon1_i = function() {
+        var e = new eui.Image;
+        return this.icon1 = e,
+        e.horizontalCenter = -.5,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.verticalCenter = -.5,
+        e.x = 36,
+        e.y = 49,
+        e
+    },
+    i.title_i = function() {
+        var e = new eui.Label;
+        return this.title = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "专属特性升级",
+        e.textColor = 4187130,
+        e.x = 11,
+        e.y = 1,
+        e
+    },
+    i.tip_i = function() {
+        var e = new eui.Label;
+        return this.tip = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 8,
+        e.size = 18,
+        e.text = "需要将可升级特性的重生之翼设置为首发",
+        e.textAlign = "right",
+        e.textColor = 16773461,
+        e.y = 1,
+        e
+    },
+    t
+} (eui.Skin);

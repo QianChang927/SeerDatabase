@@ -1,1 +1,2912 @@
-eval(function(){function Z(Z){for(O=N=0;O<Z;)F<2&&(F=64,t=92<(t="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<Vfkhd;dH:;;XG:qH;v:<>SJDQ?sR`u>AHcFDi^>gBeOK>c][E:iI]JL?sDP>=?e;kJmrB[=@MAJ:;Nw:;UVt:Z<FY;Rt::tb;o:;C?[WU^oyb<BK]I;>ta_w`Nq_F:;yNfkJFkFc_:;?Y<::FBG<Ked[ZX:gW=MW_VdQ<X=cAQxUsmF=Nw^T=ZMUZ:B_:gAD:<bO:GmqZ:e`J;jdc:QpF:kF@:?vO:D@DMfs]CsRaSQ=OL:s;=ZpMs:??ZA?o:;S>:g>;gg=_XD>WLyO:sGFSZ=eX?kniyv@:GSgTcnV=:VRMV<Wk`<:dRXk:mi[Y::S=ZgzI_XFgzkesVT`]GV[=rlkHX<Cq:INx:DZlZ@rsk;gTJ;qdo:TaOecQLtQgJ:V];TLXbJ:C:<gsTWZ=atJ;xIc;Q;o:b_u:HJ@iu:DTDZ<Rwc:EID:;DaZ:ttc:Feu:>UdrT[A:L<C[:pt^[HUSMiHgsQdemv=f>utw?iXtAeXtvnZKptkAX=vIayd@:CoHZ=Y]huZ<oVc:kze:DsSZ;yr];rcBWqXla[Tu?>S[_vMb[p@E[Bh>_PK;vAaXt;nieG?>QKxtkByfvjcCQcBR:>Iy:;TDZ:Q<R:_IzW_mCBg=Pr=@DBCUI>Zx?kIcO@TYCt<ShwABr`:onY=XDR^_B;=SbZE=u><::FsJiMaD>XOtubsUt:;<rkN[LBsdg?cQ[T>ilFe>R`ZIo_JlA>]MVAZ:Z<cVOlbDmKfV[ka<Kj<sZSQCLsNfB:=PQCWCZ[fcEwzmcA:::TaR^aGA=hSLBrEY<XlW@:IMZCNMDR?sw=_GLHSth[<o^Zi<;s<mqRgCHUDVjCHTnWNeo:>cHGkVSs;apqrTh:;L:t^=X:Fn_uB;zDxV=lCGokdNZ>IWgBt;nDVt;=JJkpw<:a=lQgB::=nF]Z=qs>MCsbgBkfEFRB;aHJleRBcJdI:nS[v::Kj:B==T>NCWNWkmbUa_uQK=xqIKp^LkyxMpYJJIpBAxycJw=cIZpkGqJtw;LGfR>dk:iMJV>ZeIpGmZFpb:pCv?pDrkHaR<ChNPrW?<yH>mMDr_mmi;f><raQ[B]FqFU==;zpI`EZ:Rj:V=@zgB=NwBA<VmLwMmacoNn>^t=[wUnIlFc@XFpbHWyL:FPBqtt:Cr:LVogFAEl:kgallB^YGvLa=`vguNTTA[VZ;AEYxtnXlJioBV>NQEY_AOlVb>HR:lMH:dC:P;<eqxwOw::EFB^s:ELb^jXxCcYY::@kboutwbdYX;jUYY::;kIl::;F:=FyZQk:>t:?:I=>sSsflpnV:B:DCZa:;kq>TAURqR;vfbKr_ZfDJGpmfPGivPcCB<;__d;ICZ::yD:X<PvC^bftUNicFmMKSbJkTupHf_@af=HcaSGKh^Ui>?exkqfk:A=Z;orOP=`<^D]ITP:<L>FM@:Kggpm;FANI>OV::p>:L:a=YMKfZHBr:Xcp>E:sFqGZsTx_>T>UZPOS<jon>kC:;c_TwI]<sjJXkC;^=:Cw?:Q<:LD:]E:K:D:F<u=i<VFsd>I[Y<<Tcjl:LYZkk;>[UZwM:`dGa[rECeLSfb?>EqYRNBe=[GcF_JZC;<A`Cc;ZQBN]kK?:>BDIeF;d<m>V<>`J[kh:u=oBR>kt[U^P><GoekN:n^i=N?sGZj[z;^EVF>Jkvlz>CCmR<>>MLsMc>[Ah@>HnkJB]HYoIkRZDfgb>aFUa::fPZt]UfI?aIFGgLly;H`c[tVFcZbfu?FTBLeE:bKH`S`RHPhtWCfA;Wd=m>pqLQPPeh=mHBD:FEp:TBoCc;JkhQ;tVBVJa<obwWn?:VN=tnGp^e>:dEIBCOvAk@txmF<IC]b:?t<lra_NNeiAtYm:O:eW=zXDzwyJzoIc:<LW::otc:Utx:=vYc:YDO:<z:Nu:`E:]Oh[dPL[DY;DPrPdULw`=DC=yN<_OFDBtF;HbmR_sRXVuscQ=;BADXN<faj<`Tapanm:HIJHZ?:f`APr?GN?GNaR`LR>IjL=ywNzur=O>y?FTc:=LN:koKe^M@`wcmBNuMv]<mkW^x]gDkBBHd>Lz==<HFBaspfpbSFDMANH@LjP?EmYPZdgGF=?H>DNjTtUDap;eX_:W=M@<bGsDo`>_nH`m:N>c=ka[h=k]@TR<k_nd_D:rXFa:AZt_y=wGitSN:J^[;e`_KBOMN]pDZC_HeHKlrt?qNpNcdnD^OA>H_HS^Ka]h?bdoMqXpyZlP[FBRRcl]?M:tPwakmlO[>APCgURalx[<C]R><spUoIq?i?[[stlB?j=sDqq@kBXdvG_S:JtMvkJ`>^HyzS_:^==>lG]PcXBu:>];SNCXNKd;T=kHa=_gKeJ>m>CsANEmqKm=>vFbNlg_ZAnNGw;mpBDJdZA;LM:=ClHjms;tCBlZbL:ALnJ:HCe:<FOJ:kTfj_:EtuZ;LlN:BRlZ;:zQYB:Fch:=DDc:Pc^:=EtiyJ:fYDU_:DESZ;AYLW;RGJXaP:XJpI@WcAwYs:AR>irpj^YGJHFRdkffL_qpIfY=yfZB@d::t[clQ=H`c`Nbs:mSEO^W[QKH?R]eks:ZJ[Eba]eh:PxhOgZGLTiCj=UNmls<JI>INTcyTlA]CBa^F]cK@:C?PpeZKI=s?@yGmUVGI<uERv]IZ:;lQLLE<;e[k@ZNf=pcQd@tiZQFwKsZzrBBq:ZX;TQTYt:BTCyAvBp]mfW^g]ShhR`KTpupB:c=Vrmk@d@NmTkc<ZHc;uMeNZKZbNDHoUROA=>[uZRT?BH=qeKga<gydo@M]E:J>gu:mk_zJGPPgMdvJMAf:UCgESxKh[ABZW:L?E;vTPnPykIro;zSR>y?<uZgcq=U_=rU[:y;wanUNOAgqIoRQAGCQ<hPXPl?B^i?L`>apTMlUdYLM>bKgN:;[@Z;ooo:CQHZ;OakJeYJ:<:m:=jNk:vwe:>J@J:_FT:=eNd<HEo^Jr]EMq[uJTJg]OAZXwQ;s[qZs=ePTa;YfzKpc=CukavRV^aWk?wZXD<KRp=?Kv;:>xZ<MsJmEYxsyCzH<bxPTXPLfNnxLUIsCuJCY?Kz?wQwIRvMK:MIRE;]TOvaJSeVVJ:ss<AqbPcKbo:l=Uw<_wmkMnw]Sf>@BOuLK^xoZJARYI<=nwQrFowezpxq^GgG>qtgq^Uw]x?qzR:YAd;hTd[;uZqN:?N<[B>wCh`M@_OVSoUJHB@kCZPt@DL:fgYIHcRINv>UXB>AVZGz@_P:`:^hJ:qo>s?cVgQFP`TUAMJ[O:v:[IFg;:xUHBWvJzHc>ZwZDBFMRZn:pMVZ@kKZpzSZa_CvJZOv?:TZkyF?WB:ZLfHR?_Tf:ZSJJ[O:AN=?P]DpPqT_@wB`JyCoJ;JJ]ZRJu_SfHJDv<ZTJl[YNHJdo;JdJu_GwAg:USUBQRIPb@UTK=xD>Vs:_=_NuG_EDV_>s?ZAz>UVZRIS:avHvXBK_:?XUSkRX:]U@NT=[?FI^NR;uRR?tMl=:RoHoWJOPIkCoD:>LPfLBd?@BggAFG_Sa>M?BmbWBtoEBzRVHFbU<XB=ZVHHHDK>lGAL^<:W>RdBYVZFsDpThCBx:D:Bg@I;BVFNNKVUhLERoYJ=jEjAjIZQc`cM_CNJkRkAyFkVBS_O^Gg>C=RbU;lQAHktdSRI@FJSGYAVqVZUaCZ@kKB[ReQGNAUAARTUZ>gOqH:HHXF;SI:?Rge>:?QXkgJ:V=ZQAW_;VSsTK=A;BDQ::KQoQoNv[A[=MMQ=Ms@F;mIelPaG=l^QnZ;Y:g:;P@ANNoO]@M<hA:?h<SqW>:AUZk:WIp::kiOI?M]W>:<ctJ:S=`::xAKr>:@_tJ:JX^klwLp>G?Z<Xl[LU>y:I>j>T]Wtl>C[lLN:dW^KXJaJE<x;k[qFy:Q=ndr<zNi;j<zwz=<>:^ZwYsz^=]l;e]ndCls:<]k:qJcw[]_<E<pLGLr<I<WMYxY=vhz=UgOl?ZMLsJ[J]KpVgB<kSChWhB`CxVDBpCk^YBj`MW@CrkfVvWAWsBQVJC:;OuF:;uAArYr:N?^XM?i:ZV[M:IIU^R:=ZI:XB<:WkvaP`G;<ov<=I?u:>WuCb<_MBSoJ:LmO:;GXN:>K^LrJ:Jah::ANlW>:@URk:@Az:;ruF:=ZnJ:L_p:;RlOr>:;_BfFk:JAyKCJ^<GbNcWqOtZx[d[tZh>zcSL@m<kamtRPmoSQ_P:^mQZ@dALxhbLs:hMI=WLIL_<=MUgjwP;slVVzM^`:Nf`Hh[Zg=pGGG`:c_u=bhX<uJ=tmnDncJF<VgP<o]ltbKc=[<H;kl@KyJ=;i:ZnGVSkknOkBnmCOC]EBN@B=BPCPBUVAVbWbW:;^mF:>;Nk:>Ux::riKnGga@@]AslXm>l>lAmGpw`mBsNGAU:MAJ<ElR@y@NAZefCfEfF`HUqUEX^K^UBvDWASDtHtDAF:Ab>gVwVk:BXO::sHLnF:Aj`J:Nv_TM:;`;F:AW?UgYJY<mL=QU<NFsLewVFpVIQF]kr@Fnm_rD]wrGoOw?]^]qmXLl<bF@_TR@JP=YFg:DM?fYwaKJ>s>eLfZF>td<>yBT>q>dFPfK>xG?>h>b@C?M>y_I>`cZ_kNs__Nrh;wkZ:NCw`whobkzNuvPv@kI:L:bF?D^xU^><pMF<]_HL]gegsRTDfJiDeCYJdDiJYegJ;DyTZZTaQgCmZ]hmfQ=m[LEmrQSLDF]]jGIL;Fa]i]`F`rJ::=`::uOCResc?>]jGI?`eIeEA_TER@TGOoRoe=<Fm^RMDi]G]FDBLEa=uGDELFV_mC>`HBsAHFiHiG;hiHU:XFy<XC`<yFecOoPh>>ahNp]fJiPh>HLc;MLijkmdR<mgD;mfmfZ=[FDc<`=PKGKCqfek;cTolEz]eeydlc?DCDMAeh?Eo>ThZQOGVHYGWDwIWBucc:ZmO<s>>:;Md_qd=HqjwhqdBiwcHjBdSf^D<gMGciMBRg:;^hJ:;<F=lvey:ZKCd`E<:`K>:J:Q?FO=oPUoNa>gOXpK;`TVB]DWTxeGlBnhTpU<C:eMfeDbK:;S_o:;pt:wAoJ:@R=:;JSN:=MFk:KXNQK:;uFo:=irJ:V:hYkGmxc^:bKCn::kAPC]uAp:Z<w?]ok::AB:;];:;:XDCiyDTiw[NwLTK?=[Cu??PfOqzNS[>oKwRa::X^EjJABN:=tMJ:HE_>uNv:;SXN:=hzCoNLB<zcLDo_aoHoTNjfY_dKEAEX[oLT;lMX@lTqowpUVvS[Me?F;iqZUZFytuZg@DEcYYXDEayk`>U^I:>ZXDXN;y^;Xm?yskGydXPy^:=NOZW:>ZYymVSy[FR;daY:XBH::VSG>UC:<<fqxmcHbQYqrmuFjuxPm]oHsDpwNqZw<DwTx<B>gao>qZDalFL>ak@>qaZe`acedaoeeBxadNHyWyoobak_cNuXYHepJ:XUx:;lyF::GtJ:@v`::Jho:<e`J:UDOLui;o:DubwTvuv@vavPvqu>O?c_OivWCsL<ByubU^JAsKulvm?::brQBYr?QDgg:?_`J::Io>v:;Mwo:@[r:w@<WVjRDoGt:yloKeQXnAOyRRCbByjFTc@lQhYJWX`:KRRCtoJ::AM:;:mF:?H^J:LAGqM:C::R`N:;djJ:?E`:::cmON:?_^DmZw::AKR=Mg:=BOJ:TTx:;iCMVSdF:Alzj_`cqNi:SLdbQdyNdNQ_UGVJJBYJCo;EVFXkM_XB<Sjmk[wZVlZXiCZ`RPtegPpemPxenomjT_LITIT_PIU@ZcWJ:Z:wxJE@I:Ft]t`:yk?Z?j<tvZNJLgk;NNhNqbSLakxFYN>VJZEBGgXyx_HHPuA:W:PbM[>VUs=uMFGGCT?GU@_?`_F?aqZZTg?ZSJ@@wsduSlOlI:AKIKCFSacHoL[f>[?jSGH:@kY[rSUu[U;;oyA]j^IKY]i:?j:CuoV_vXdo@_y__wI:KwO_^_vVA_vdvaaejaqCsNzJ<OcNpNr>JKEvGeDTz@hZw^?xNBZ_HaCZt<fZu<hvAOW:>YBJ_JwVVJoyY_AO[C?Z[ZiYRk_MFzW:GYRJCaDB@Zd<upfZhZip[Jlptpda@kWpiZp<q=Co=<dZE<f@l_?mHD`F;BYtTetFGJD<bZZpy_NBQgIR?<KFNcJ=IcM:X_BYRaUYMJvJZZ@Y@aHppZQwsTNwMRUZ`vGG`z<ZHZ[Zi:FJx_DVRNG:@kEsLzVuYhh_TgXBQ:RXsoepkC?ZhZjyROWpZBvwah[ha<vY:Bveret_YOjZcZ^ZrOqo>GtoFvUa=XU<f@aGgXHGiSz>dG^pmWjOpGfWxGalKOkU?UBKqB:szopcdk`BJV@[_>nDy[fZTat[zDolrm=[r[s`lSo`^>r[[E@`w><^MOkgONEG]MKDcaaMGJIaXBUw`v?_SsXBE_VtIjQTYGv=i:T@I=quJ^s^tFY@Jh_a<sNhoJwJea@aH:BnTha[[_daMWwsJawV?fRa>:G=qPyPdWhvJMuMCBS^op^h[TsRFJxJD:?ZNsHPtsLMjZuM`fXNLCyMwJnv<IVMnMz^ZaXN?ZIZDIFcgXGwlFV?z:`:C:w=PJ=MkJXDOaLnrydsRNjZE?jzA?lqz?rKH>e=ZT<J@=wZV`_ML`kGf[d?Qp:f;iKHKE`:PE[=bZ?>RR;Y=DaDX_EcnBM:Es_;pXCc=XSFC`j]kMG`_MBf[;nvAEpMdiXBNkZffYRfgkKwRX[SwEpav[`TVL^NKcTLvs>Kw^[;cL_`x>kiGgBUrEaLtJX_OECikyJy=yYJAy=y;EX_@WjyG=lftsH@OfnYW:Ws]KSm>vtRhylwVFKc@kF`VJMB@EGcYJ?Z=GjZKvaB<SvfZ[rfmEkUmL_UjZHv[v_vtvg:DRqyCEMjX_?w=G]k;D[MHfn@vEaBD:?:;:N[P_Gff:?wNy=@nf_?;`EzCKSTSLduHoct[BMuyk]^OAyUlv>vkuGcCMrLGw[V?qM_>MNkqwloISXOdeqlXlKlO:;pC:RhIEIpTAGm>CNWLhCOqh>^:>LQZfBf?hM:nSWhAEMSUh>dFUffTZ<hDxRW<ZHQldOQRcGd@W@JHWCk;WIdSWJSBkGWNSDSAWCkBxBBD:IWUk;SMrlkNxNCHxUBRrhBNrvf<x;xWOi^GxDc@cExMNQx>sYxUTF^hcZRN=?nm=@RHRM`P=?RT?ARS=QR:s;Qls:QU=JJ<J?xlsJ^FBR^=QkdF^<WC=Zt=xq^>tPU;^Oct^PQ>A=^E^OXb^GMaoQKGi:hnjGUs;QMUbc`PMHo<vH?>p@i?ZBf>f@DGfU^VxXxIfIJLkkQ?^GUFUHB<UL^eUWjaK<jvvRULZ`ZNzpVHIO^Yjxpvt^FFI:j;mW:=LWzicLEVZ::>^p=BFk:Gs=ZFZoE=yBCZ@_Sx`RNafrSU<BKGjgsNqRLormohHc:>Qqng[gTP=OPcgpkRyN=VjrEiFAPBSatxTZ:U^_@DvMJ:@jDjs<qforuUL`;aoiRSf=kytb:CaNnHR_T=aSzlRXhwWtcyKJAT`haXdQSdpM?kLsV;E`RFhvM:s;O]Bah:H^plB@uoL@`:[][vZhebGnawkDt^VroAQ`lVL:WJ;Vr`CB??VunNPdeOJ?LoC;?:M:Kk@leKGkae]TwaEkNAHdVcyNJe<?:hJ<[Iatx<b?M[dkzFuVGRAJ>u<JRz:@kUHOg@:<tmRxXVMd>JTyQg>Y`C;VVPJ?G>qMl;gTWFDqim?KSqo>:=hOlCG<w?EFS<UhKRfqasms<YTH=IqcJFHeyoJut:o]?AK^enpNuaWAH^y>cRBNGuQE;oFu@EeeGmu`WHzAQJUfGoPuUW>w;rNFSWpqJIW?q^NIvfio[ucxGKdIKbdCp_u]xFOjwKtdvoBakMTC]YOJl>[dHs[F?<nN]tPZ_:SU>ZFF>B:xkCZMVRTDT<AuCFmLDMSRNh?PAc;p[JWSShgDW<qFPD`_=]iHKVTiG::QIe::oSQABiZFaZ:P`^::=bBA[pmqGMGg[matgoOcyKHB_NKiEC>`JeKVc`=LeC^l`DWK;c_oJ;MyVE]Ol<_LEaKdR[A]r:W@jOq<Bh?LTzv<ac;qS<FGVeBAO[`NBZs`OA[orM>egKk?zhmT`GB=iDCddopq@=GC>d;r]sVCFLhw=EZsO>SH[C[u^TRXo?a>uFauX^CRJRq;>GS^@hBDcK<Ee>v<U@h^>qZe_:=Qyc:Ak>ZwI<FgdiGI@I^YVAsqQc^<NacMTe[^aNJQ<cavBRy`DoyljhyTenSNhRCTdq<WaaJlkUW`CA:pgT=JqJRKLe>><hTeZ_XHcFu>PtPBO:pFgv_:<D]c:<G^AL[UQX@nxeJlUXD@GJJeDN_atIPPFH>jE;GqmFJSoGdK?TuN=D>tJ::Xaxi?gXiJF<KN[KDcoNV;lRTT]ZuFcgE]JF]uR_IsKcdTfnM`TS]o[UOVJUaEe:::jVK:x@j?F:S;csOm]fLTAs<P[?RsZOPG[Ml_kuU>XgLv_:<nbc:AbMJ:=kDZ:Fy^::ckTXswuO@Cs<w:Z:L;`c?nJh[Vptu=^bc?tGLbVn]<wxsJ:j>P`aG>?c<A;WJMY;j<YAc:dBPpGwUprE>e<jlliFZTWOf>:MbVZ>D<M;EvKkLhmnFMe;Vlz^v`=mlt=<Om<kbwoVCGtRwj[CcEv;NycKV^@B<Bbd<VlxFKbDO]l:hsg]DyCpijale[>QaVnLC[dDJ:TKNL?Z@Sgh?XsiB_:ulQQdoLE=h:bJuwS?iZ?IZb;p:BlW@:kJhRAlaJR:GZjL=w`q[mw`RGcDGZICC:eos:=F;c;]buZsd@DA<C]AlnvSsk_HU>=]aiSu=EaOBJkSVqjEfwagwkIf<gAPBP?oJmiUqAg>I^_CKHeV@a?N;::P>oFrq@D=P:oZQwIocyGNPQ]MnptmTigSj<NKnnM>dyQwWp[`]l<WMCcheMicuIS<qc]dU@=RJRJgRa[xXtkPTSgba_fJbche>?d^lk=ELQKakxTYg@@=ylV:t<XD@g<omDBMC@_G@>i[k<y?p:TKP=;L<T^uw?gEGAiFQ=`]E:OsA:GXHOnv<zOXizolXFj>Q]`Wps=oX^_Onh;Qli:;wRy?ppI=dRNSGwXy;^ItUBmBar:Wy?z>Y:J:auyZVaNrQ=;WJlKDFh@Jz;yuon<SHF[aQPkC`jlIsrwLaY?:dblKkkgw?aZj@lu:mgXqQ>@POkK`UkBSC:cPMlJL=:nJS_g]BCZ;Y^vk^sfFtyHnHj[rkGSegdFFMDt_wniSsRX;AN?r]>nuSXFgqW^Cp`PmhSKFnaTMIz]ZCJ>sRC:I;DZM:?adie=qK:@ZJV:;JH:QqW:[IKw:PJkVs:_k:?=e:>>L<>MDZbuSRBV>esT[FuHEM[s<:bkvsSZAN=_B:ivBY;I;bN=>lQdMoJiXuoTs?:Z]HIM:IbDn;eFW:CwX_By>::JteX=fbJBAsZ:NxFbsr:O:Dh?sMu[@tnfOiTXAv_Nw[L^sEiV^Zc<OnDmxBD:A:lltbVCZCZMviZ:aTaNED``PvfR?;tIVbw_ITA^z?[vjWpt>nJ:EDDZ:M`]D@kIIXStAQbZw^thwX_?@ZLnkwDtTIDiRnoDu`n][=Vuc@j`A_bZztQzLXNu;v`bsawHE:;NrBY[hmMko<x_CrDbbEocJcaQHNZh?bilfHBUHnim=^STcsRQd?Z:PI]DPpeJY:T_ACEnRJ:>:wDQBRN`qafJlZcq=uCw=RUZ]nd:x:N:kPq`FDO[<ol[U=AROjKXur<xqbk@alkNlFABJY;m?EcMsDRoy=_@b@::bZ?JNcDBFR:t:P;sZ@]aN:Z;oOVl<>^QVqI>?>QSW<iy]ZhDRfKuJCE?GVxKURe>DIMOJL]eYFPlzZJNAdu=Ua>r`EmptINsHNu=?<DlJ;U_M:DB;j<Z:jZzswN;A>^_a_aLhCpXFnfsgo_]Rc:[wEMbL>S:SD_:P_zEhupVQcFhC^qGZ]yA][sN<`z]ajHQbH;Zsc:cLpY^=]a`B;z?]L`_=IEG_dDg`TLyxhykoCxDvRqLrCWdZIZ?D]`f;>h]Fid;J:D`a:IyAb`BtJZq<JBcl]<Kn;Vtk:F`IsFhD@ZgZza^JNuPhCsQe`;whN^_Ag?NPGL]J<]ZdKd:wPs;syKyWLPNemObtO??yFnZ`Apte[S`u=FmUcfs=Vk>>C_t[PQF<:D_pJ:cOXY[J[P<DOc[:CwCPKJRdDImeo^?:IMs<kfLBB_OXJBQ;QcGBOPmqB<m=T<kSROmZ:TKf<XZnFnZ;JAI>u@fLXL=:hDljDh:SP;:aOsBKPMH@t]xdxX>T;KMR@XNs;`:Iw>w=R@FOM?aqyyWtO]>HQTMi:rm`pjNeMlHZj:pBDbZ^bS=ELd_XRNw>e>Y;WDX`KaO`LefOOFl:`=Ln:;F;cEAty]vL^m?TjxRpn`ddDo>LRnlOqh@ia]FPaucjlFwbJZ:J<o`@Z:EAzMkbed?Th;O;]oYc[]VPY=Fr^ux[clDf>?uia=M;>pQKSGP=I`OHe>VDbEtXud=QSecpCsRTA^B?^Sgs:]>`B>SbTOTMLpImkSXxbps=[F:Gx;:EJ<QmaktZWVtsMqck;Lta>aDf[PVg_QM:>>lZ:VHDchRaEoZR[;IHc>HQckvRA:WF;JPItK[xXaR<THJ:inl;<Jmk@mYD>n=YNssa:MFAajtPh_BT@K<:Gq;HZZ;p:r:Nkhn=U:oEywXo=_;bn^^YOEN[@Paac<YEHZSa>HIFBTiuNfsssl]_XS_NKnWEot?:?WXcbQQk>^yr:>V=q?<<>CNlvgD>;L;Z>AwMlvvK:Q;BC<f]u@sCWNSDDr@EFWlXcb[bkAZvxOPyM@Sk>LO>tr<PgLFb=hKkBtkkuHr>hcZCgcusW?kGA>MYeAW[SwrHsmvndSpkOlOw?=bB[VtkiDrSg[^JPpI_BwtI:y:marnbRc_<zEDwaVlH?wEZ<slImd<c@j>Q@Q;kFtPVqnQHpinvROcuLpnWSiy?yVn]WVr?ZN:CT[VPGDoTEbUALsVU^lC[HYiZAevow_[>ZCb[qEh]a>UicdFBFElXm]w_R>jJb=EnEK[Cu_wj@j[i<OueC<h^eAgC__UukkhX@mJdEfm?O`BLhKjBW@Ane;axAohIDW@RZuJqxi_xj=JIo[QMHwK_zjEW:>@IJyxt_nhCS?vo=vUwJybPaxFAoL=awyhFYEjbAozKu?>y<lHzHZ::mzeyZ@YBR<FA@;JSVyF@H=BQmJmVVNFdYVfS[`Z@sSR;jgyjdOeqLDLjqQNbUWBavu[>PFHqYjj];zSYo?yaPQLFs?Lu?StZuzLnac?YtmUacvPVL<hje]GJxyfNcU>YkqlbwsRQNswXOhPmB?<W=zIjil`BqOx[VoXOPGXHCqNUcJOuXOOoMKsnGMgHRE>CI]gNl:OtTwmv_u>:=ywc::dQQXYWkY`Zx=tUwjyI?^z[bnEi@m_>P<FPTi^E@WweQYc>YaAm`imPB;Az>I]Du_ckimrB:;q:k:CzTZ:TLGCWywaB>zE`oDuItG@Z=bKfeZT^H?M@vNVOOr>^lxlj=Jy>TFsozNC:I@ojcCi_r<TCKWOG=hn:M:>:iJm=;Z[KmctKv<HNiHe]aGedd]PdSYH:LAb<>_vzhm:qkVKBm>_D:V<h@FM>G]TmLU;EdVjTdIgpBgkP;JqsLF=KQCZ][PRVyfUQheHpD[s]eWQNB;B`]TCSR^wJlDHcXJTlZ:L:M::`oRZJUVVWJsXbPnetolG;W<RPIJoSOofKwkqoLfe>OevXi@ikXeTGqAu[x[jJssLjJulfoe@ZMSC[LP^AVp@;tx:Sa:DwK=GXJpLalBoFboTpxeoyxcVlE=c[NQkmyurES?Wo]^rWM=MVOvhuvFTtKlBtaEkplBlTXo;>^SaQdNaQ]L?lx?kSriJUCZIx^xRC]kBOC;Lnly;]wXyNfou[exrG@;h[AoBz;ZVW;ljJJVRIqT`J_:z>UCGdrYSNllXlkanhS@;VwPcPc`i?dOsc;_iMVXAU?pi;>^yi<[sR=r;NGNhYCKc`>AM:NqJ=nHmI;AhddR:<@J:>kSnNRTgHYR:]fXwnXqhgFHfgV<XdIW>@yeOLo=@[yAQppF:Q?r=<JTBBifJsnGlVoF=OQQ`O]dtfRP<mT;>Y[]y:W:nBXAO`:Mp]UwRmk;<XqnG=_:bku:T_>Z=A?iCQ]R:SuX:=W^FZvT;:O:Ig>SkLni`RDJB;k:J:J:J:mZXbbUQv`FwJ:Ff=bOznJ=Enskew_:;annp_v_@Iu=Z@el^@M@E>VkFONzpLAo@l;@uctia@XAxw[XT>sw[Er[oQGSXvPiy`Yp]MSRahgFMJlVrOvTwqoW:HfUVTvJxclGVjNI^X_Guo:hh[lLrhH__<nd[hJZKW@GeWv=CpoFqfrgs>PonBfR;uKS@vqIMETByxuGsmH]KIS:j^nuJAVoavtL?=hYu=cICD:kQTkFOqvIh;_P=txsF]@ER>xdEtsuFFdlasGQoyppwp_^lZ>FrkhvYOeFx[E>sN@;q]GJWkHW^;=gB=rvlBuPKYf=eJaWKp:wkX_>^grt=wgWmgAAVpAnr_vUyxzVz]nj_Jzh@MJi@zfiipGUS`^kZpRmKDjAa@exCnNZqaH>IvwuWvNZcEc^k;Fvdg:DJ_r;IsPkkjOf<]lKkhHQRfC?KZAok<<xPqdE?JSqcSfjK:AljRl@JY;k@C]QMCw`F=ZEI_UOHZVids=Ft_LzO[RTtbA=ZHi]nFtaMkXSe:<::J<?aaXQl>gsuinFl;Vndecg=PRrm?VyKCSoy=D@EFP;Nsa]yglR;R:@DdJYSjZ?qTq<TDyni[;OXPVfGhb<njmzCOaR^lYtIC?Sj^iqcS<cTmCTIVlRseSs^aQ?gwylLw>IH?W@LILZRpPVqJQahwB:NyFXYY<ZdhwFnDBvHRo<WhUOzNaBkr^]HfJ>^i];:>ja^GU=KxB[he?FVgM?u=MkkT<sgXdraaX==;y:;gVsGmtR>HlsLLw:`vBMtMKl^st>^ZhlCuhmjY<ycAd:r@E^:BKfJq]XGuwqhK?jNxN]uqL;aE@Cl=jpjTKL:[hwuJ>kvk@J[;JMfjMW;vr;IJbxoYj<LmgbfseaNMsY=UOAlUsjduFXqr>zC<MvAUMhTYR=BF;CFJSCZHYOt;LYioBR>h^qbRD[bnpjT=yAqZz`xfSFoQScbCqbhmR;qWwZWXq_AN[TTe]bmqNH^E??a`GwLiZVdxJ=z>OG[:hyTCvAYpbdH@a<WCzMU;uSTCJZPEtUH<teXGFdQYE[>wwPgYJAPbsk]RPovQjPTJPOgnd[bPuXSoh>JNu[HcHySzGk;InnOjeW>UO]=MowvBB<oZ;:gtt[xkSoYShFk=SAQZiKnhZNTDF`A>RSK]cuwPs:xeypVm:WW]oP`RZKpbBwWP;YH_BFi]qNasL:NTHjanZfKo=@Sc[mB:PXvSBgpapJ[k:Xya:RXgR;eT];MsGMNB;xUc;a;[uEB:uCllDuS:Gpe?GuBp;;JQMxfKtnyYoLzQUJ_szHov]FVN<<kxcPK_=Kqk_=MQ]^aJHTocZPhilt=heHcGG@PggcT^xKbxFXqTIq;nfAKmuxPW];Z;UfjKfmH_>TuFqqkEGnBBEf@GhSvuH?]RA[Ysbn:Ys[?]dFKYnq_QqMe]<]nz@cjoQTExlbvLpf[NlJu]p[`PlFAOgHZUqbTCPloMTpDP?ErPqDwdRhueQRyrN[IddTHodxT?X`nIeLTFj_a`Z;YVmoQpdIPQQhC?t_ktWSGv;hU<JQPqm@X=yCRZDREzABe=gTrqcRWpVCARt:F;]_RViBCeZ^hKqsdi:CBDAYMhk;>vPWb::y[MitrkvyWnHm=kV<R;Be;wNikbRfgQR_ZCWhHqQREhNs]vKaTf;pXAeZTc:JOZZFIQ[pfwEgj@Bcq?bhNurGUS?pK>ITK[Buid?@X^InMu[aaaemLqiH:AJ<@RbJz]xwGlpllNQLBHQCYBYYhSqlMvyxsTIETIgbsi:pxgyxLAjiQqzsvsRyrF[Yi_J?<AxdoCYSNBrrHJVmIykzT:XQrnVUxfZHUZNEasMHQRMyzglZXjqnnKrB`Hy<fnj[tqItA^eK?QRxOcwkDN]FdpNveWtT]=[beJy_ebqBw`IPIHZxin;tMv[dXvIYVEkO_P:xxfk=?:B<_IoXrHRqEJtR:y_XVdSaPb:?;SR;`ivfUPmHm=`wZzsvwJ[<[=hZSZ<:dg=F<R:GBg[?tIzLZ>yJQ`lxrP<[IKxcsNBzkhAu;EyqRsFV]S=s`^mj<C[Y<qIoZF=llkQbZXiWtTE^icBJvNtYwIAy^qdIh^a=eCMAVYRKqUHo]@RJGM:GJEK@W;lUeJYx^R=_X]YE[XfhqomkzWIj]CpspshKfcbSlFrkkdwIy>:Za`KHRbTM_mog>mYjZU:sRJyI?Aj[F[_b?MZoH_yeVaITbxMqyGNiTVMPNb:sLdrbn]V]SvvqMhor_yKZC<]bCwjIAoy[:=H[bWq[yxzY@XtIxJyMuSrk;z]rktbtMpCqoueX[gjvQMcy=ovv:hH=bfhstxRzY;fICb;MhgINtbRQIybfMutmFvh[:HubKwKduwsPYjIqbGniqHUbsv[ZWnSNYSv>sYia>aBlZQR@gKOHu;E:PyqmtQr?HWRp:bLckEeWxaZUaRRh=?qVain[ny:pYGgEGAp=]slA;UCifVAiVUHdbAHWcCFe]I;DcGNjJf==_uPrCp:rLr=;Luf<O`V:hEp`qkNaPDgc:i^lXXBU_KsiNbMtB`s[C@;h:Cb^Eltyo?I]ngC:EOx`t=_tY[DBw_@t=Nu]XljCQsant`skNOT@HSQiEzSs>xQODivAtxv:EV?X^SHlZ=WXnbG>RB^;KAf_jpkmyA;FiaUa:RdvY@flDtm:N^_OqDw^MlJZ>hkKKvLAp:eHp@T^p>]H]YB[IhANfgPbz>wWeCFA;xchzazHZqIzAvGqymk<FVih<osaVhqm;<XmjB:P:YSseyskL;Zr`fgGumxpWGExQej@AC?_uNajUZbI<pu@uqBLj@rMtJhn]vLhmiHr[EfhmetmVIH>[YfZWlkA;l=jdXD>KXR:vGNMjnQaB=Oy@y^XzESrTZLyrcxUXBMtQR@pWoIkBo`j[cxBGpxqxOYfHJr?vzhlpUpVv`k`>kPtIB:J=Vlg`CvwnPXxvVniCrqtaxncv?eOiArvUmttqxYYfipQYvfWk;u<P=jZIBvrYEL@Zxaj?ZNv]xsY<jXBX@rTZV;vPvhWEiqrMvwZ<H;dJcKbQpUZ;pk>zW_jm:RxUBWL;@lg>bJaRHH@B_DENjMQIUuWmmxi:jRaWa:AyHHojln;fw;U;MpY[jlOpsgLP?E=Y;Lq?VbJ>:NnqSzFyaiSWOWYQN``aXbiDItvfWxKsJyGghqLA_lolytfdQPI^fxK?lsEm^Hjrzfa`umx_wQiEPAw=yHJ;cyiYRDhkPGoAI^XfV_r>Z?GwcxNYu[pAqUgPZsufXawbmhwBhtYWnYc>arV:;E>PsRw`Ypo_fdwf`vJygYFI=ytOq?vkwDY:I[AZpwKus;^i_`FA[nr;z_wbTtrRhJfsiuwzEiFIEvtfxysrYeiqjHf^fvistY=irBKviyqKwbXHXfQdwCQBeqDyXYM[rb`WyWAwxp;]jJQpfpTzkxqfHjerkxu;z:yJXUAsvzfomg@zPiKjto<fyGuHyMXrb;Eovqiuixxjqj;AtUziutWfXAwi_MUv;v_yKcxjsaDfsWs>UAYEbvAfxNZ=Hw=@`wRhz^sCzj:]XfNsbmMkx@_zoiYravuvkdxejDYOIol^Mz_fNwV;fwsIM:AdyLmdSUZBTwnrnyYNwy=tpbeAfSzR?jYDIMbdAl?[>kEi@j=fcCyc;lxYrEj:Ug?_@udznXfQJN`nwioGRlj[Q]Qqs@kNI]vI_rD:OGpjRmxR:gryQgP[z=EWI_Z>KQxxkivnXuH>`XQjVnltR<izurkrhJ@OzhyzXoYzrZ?s=vS=HjgIjv^vnWwpNJy]IoIiSEpztY]zhjcIzrw[zH[HzZzbvWAk=uTz]KSjHAaIq=xizlyij]YfZBPxXz_Yrj<IrUrKyEVphSYxfeUo=xYYd;bv`r^Qv[tdyEYkYXv[Ikxv:xJ:BINAajphtExHARj>mljqOu<aczVzcYz?kQwul?zcz<IqIsojEzrX_:ursDuKsbzkyeINjrAyzVQw:NwzRYnAtluvYVX`wYwBEsMy>xB;KIdIg_KMzQzNzozWcHbmduozeXtkFnuFyHbbY]Vy;bcEtUsCbjnuaX`b_EtrsGb^=lQilzdEuGy<[D[uhy:IftuDyWzZ?tYHDj]?uNyVrfrt[ikeI`klXijemsCXYfgUuAkDQ_j=ayuQ[auSXGjhpeuHWUiunnyCQiumzq=jaEJvV`Q^PuOipJ=OtYXUBAm:QyVqFjsDiorcQtKyrzj;vxySYcIsOy[veHuTHKzZGuUyVzfcshia:PAufySmIB@TyIz^ise;izjjsEmaZQQv[Xdzfk>ty`zhBAIivY^GuWyvvZBMwXBIcc?giWrZXtvy^reIvIXVI`cAziHZYk>hynAcysbX>Yg=sxyNz^s>vyYZYjuiepZKEtPinb[bsFX@:S>AcX:I^YvRyi:OvtEsAZUV=IylIaCsLXAzeBsmXVJWc>uiYzZnvTXab^evTXvIi:AVyKb`:>k;Sbb:>Hua^BZ?qXeY[xsS;naitvqH_ZVTBgXwj_uu?;CBIRs>;ZUe?up;?vbz=CRoQ^fs@gO:JUso;<UjJ?dXTU`UtSXhjiW<jmY:LV@tXq^e:tb;sZPGvTH=A[V?yyhQjkAS;>r`F?hyFJO[tX;JrZ_Aa;LJXcA;;GZJhtI;tkKFAYNiJJR@m;TzgR>_;rZSIvpyWZXyvpXyZLjuJ[lE[J<ZHrYgJAl;SZLhtC;:JPIsjXYQfQtd;uYg<>r;cBToMZ[DBLs?m;QkWitEXjkO=te;CAb:::[CBOgJS;]fIV>N[Ozj]vt;HIjV?IyT^>Cv`;vz`CvO;K:VQtp;jz_dvzyEJR:AG;EIanuTFvJRSspmo:Wo@x;@OFEvAmRjgL?dyABTYvHH=ZOB?j;yYe]>GeFhHsvI:aBOD>Qik:Jm@s[MBQjsJRWKFw<UXhA[B<OD=MaZ?iH;:@tkw[MZXAu:ZgkVSnP[M[CD>Uy?v_:ZFy^cS=u@iYcJ@>MybcMFcjZCjcrvXHl=iu>a[_kO>@QHq:M^uS[j^^T@X;mkOisPg^q;J@U;wQhg>GH<P>Us`_qfZk?DH;kVkAPy:MZfsV;xaZikoFKU^ZvfgS^eB>;yq:YXvB[DMZP@l;PBWDA]iSj]q@PyURNV?g;z:Mxtr;L=]pl>cKU`Q]=[RJLV>zXVjiw>[[PA^]Al[FHEV[K:<m`:==J_Aga>nyXjZkMliAXHJ=tDQBPi@a>ZRPTAQyAAZN>WydtjoLAVusTCZ>ykcNMujyCIdNA][X:DTuDXtkADAe[EsFIKFJbJWe?Z;]P?nte[=;IL<CR=RQD>qitz^a?Z[^Q[T>xLIjZg?eyEsG@vN;t>UV:F>bXHJ;lcQcSxtRiQtHyvj[XRXT>o[TzdBBx[ylDP?M[oRLy=f;LZQAuF[sLZ>LQqSAdNdBXzRQZugKOBMB>VKTBKZCWNi=^a<q[NRXP>jZhwBC>z;McTCADK:sMQuLKVzhZ?u;HJMtsDy_Y]tCeyIM^nt_>X;CdfN>DPbS>NZH:>>vBggzhIuN;GRWBtEDwLZqAKcgsKUvdiAH<k@sab=cBAx>@IDEC`iyJOq@L<Z^hi>SyA=ci<mKt_MF>z[WJF`?C:zAjX>G[fEjgAn[BNXqASXCkNAtiyz:Wbuf[=I;?>NHasYgnNH<JAq?oHxqA??t]ZKGkA>Ko`GOsv[sZNAvv[v>Kw>nXH_LXAJyyn:FKs:d^^QsRKPr:q@bywzhbvxK>BJdADilsNItvy>XHG@MKKBJkLkK`LcrstVQNT`AvHzBUF>AKf=j^u`;k>Lztjys>XMsL[xJNdvKct:I?;;LgIDxAoZJ<EY=lR_:OZ;HZJ<IxAzKPcXnuRKAw>UcYkHrGKAoyoUakJYkyoQo?tVKoK^tY[:cY=@piJcYe:][c>KN?_yEBCzsm[J:O?sjKEoLy=jKboWx?BKOe:=@:lIoV=@UVRFK=>L:G>VnskljcJVnq_]FJG@A[fZTstglOIGG]X;ej`Z;yK>ZGJA<lx;;Ile[FsKbuFHJK;n?EKZoRQuL<x=_?ufKeZQjsmlSA[[>y[=>TYsmld_Tw?gKwgOn@DlUNNTJelVRPh>JsnNY><TlLm]D]nKT:ThUbKVgWL>Dlb>JQ[HllXDK?<lPkMt?]l@>Y@tBX^Q??A@kEgL_sbK@NMXR[l>w>;>RlB>MW>slXFW;>?ggFKM?HZnW>=@TFa_Kz<vHHnd=AlDoFLPMTy@Y`:<lKRVPc:KlJoPN?RlRcQW@JKhIcx@dlucR:;MV`rBx_zSFHKKeGFYo>]yL:S=@jmxRMfA?l]f:>JCKy>SL@>KmoYSe<HtgJIuuKUL^B:g:hgJI@nKYwIK>>cW]I]tBu:cAQRSqABBQRDeQWfQZxqoMbrTGqZxg;uBuBxh>;^qPk=ATuqIqdcU[PwxbxdEqrNb`Uc>JObGSUqCZ>u:q:H:;H=wHOXiy=TeKnGL<_HrKhktVuVKEnfl>B<PqAwHlx>:bF@vsH>TLTz=dRRM:z=csS[Rvf@WZoilicSvd:p:J`[lDvf:OA;KPJFO>ATHe[k=nDbj`U;NCMNLk=Aon<Jk]g[=<POsI;vf@ZbJkn<SZbFC^[cH@[:LE`QmciV?_eunBW<P:b`lt::P>::NEF@ZCW<N?sy:SR=w:>:PN=P<bJFVbX>v;yNRk@h[KNRi@SysZWV?k:ANX_=zl>s@k_`PA<LB>xKV:DH?aKoJVU?J[y<R@v@uzUd];k:J<B>uO_XEd^U_:Qo;Z<?>D:Em<FZLUhfsMLJ_RofDCLwRFMMZYW_vv[P>H<m<>[DYjfsyKd<YKA]lLQcsbulYr[y@ilU]NR>XCTj_Ue`yaej>_Bswk?:=eBTLK=]rJAcUX@ylBfZ`[fVzVJqAflsaGRaTHswUmAmKUgRd@g>:<TLtOCqz]C?pCYLUU>ngXNRrs;>OXfBa@;`cNd?rwW]Wv@yK>mOTZpCeLJ>LwPbR@Ku]liLNn@eXovBrtnBM<JF`;[>sSA@QCT^jlteCSqGw<TCq]PycXKckYr@WC=>Whm;KM:VRag;d]Q:<yyFGhoUaCkZXZLGVo<Mnfykx]TOt`lb<Y_AWKCVYHvECK>V?u;iAXIBv=K`wLdnrCycCodQ[KmWg>jZmPC=>I[WEd_>l:RDWVb?CsVV^@bKpDPZ=cldrIA?ZK]VYW?Wgnk:H:`Ze:;j=DX=VN:ARdObZZ>zkboN:]WsZwO__]iTRTmsRKNeR?ETiSBQ::j;KLRU>`C_YiNasw<PDmvA:jZBN=DXHeWgay;<Hb]`h[[DWX?>[pvhtAhCu>Mg>WCVFYoMJdItE<amC`VLU?XyXe`CJkCgDLmaRl<VONApl=oND_zKOeHEfW;>TS@`KdF:KUcquaVOQKHuzwIr?CXILJAsBd]oQm>FdPAhQ>;d>>O;?oyLrD@`HZjs<P_zZdTY@_B;NIEY<@uli[g>Ig_FWIkFKhTLQ?BdUeOa`OlOoTD@rKiFSmbClMRL@e::egezZ`idUZOdvJ:F?u[peRn@R:x:R?D@XBwUW]gChDXe`=CdLTgba@lxEIAD;i_QNarBALdTaSCHoVn?EDG_WEAzRn;a]`Ml_Zik`Udk_Mi_eVXuMZ:B:mwYU>FKV^_[tVC`uVF_hXZgTDsDXI]Qsbfkoq;^St@BLVHBgZsLXD^UHGw=z=Scg@M]Zy;GLJcLGC`W`::udT@J_cpyp:N?Cmdmbj@uzC@Yfk_qlmuQCAH;ruRJ[>SamN:ZtDJ<@aA@ddfhJ@oS_FUh@R:<PDaba@:]LKaMlt@SBDRChuSFbrdOgQ>SZgELOtAMdIMcQ?mHDQZi_g:J]OlaiCHIZsRoizAef@ewWLTIA=Z]kEf:]SNoSZ:LSrLWP_GiV:Cj>=H?q=j>hqxWjjAhq[wJs=WqjWjrU=omoH?RDapwO><rl>xgASMqFher<mawd]z>hwb`h]UEq>ZDjR]oj]jb<E:qx^Fm_H<LZPUzq<LhPT_H<wb?`Gau::jDCSzxZjDEazxeRsdSHQDRsSSePTRvSSePRPttSFJBPu?SHQ=Rv`Su:=RtOSFJ:supS=^Zpbc:=^]O_tV<L[p_OSsoMPUzqG^]O`fa`?eZvvFutgku^SuZC:sMSrx_G`:HJqQnD_JyDMn^zqN::XRVDr=ZsffSDqW=<?B`]iy<r]Q:<m:I]J<QRacCwkEZa>BPeS@^w<_^hg>tCt<RRa?KO<LRadCcM]B`aqmEbgZzLTEj[]LC@ZANbmSyRKS@n;sOecaY:nmTwa?@vmQca;lYmNRbISZDYIvaC`]TUk^[sDNPtESt]Kr[RtSNXZJASxs_k<qC[mT>uHCn]JU@_SkRSeazdQ]YyauBj]Ysb:SHK_>`ZSRLNa;wZY:?>_AkFLR[bLCQ:HG@uBssF_apCDbIscSC=@QW`_CouJy>?CQuPibWijuSNalCHmUn`EleLJoaWDKv;c?PdDRLJbYCXLYF_`lTHR=`R;kHSw>DtRgWJ>bmi@Nq?g>DPA=`ISaU[KbgZt]Uvt=[QtjoM@tKgM^snFJQjAfT_caDmtKKYf`S?R:PzimtkFeLSSEvFOZNL>XL^>N<_K;tHWl`mt@DPftolhHLZ<:S:LL;aWgEHJx=[CvwIPAjkVn_f`GD>XYDTQ[M:BNL]STU=T_mHAwATaktDDL[umtOHMLvKcr]QM`St^HKGUFth:DnbV:Gw>IbemleVhv`t`?[>fb[z:cOt>dP@UP@@SouXD]tCZNd?sQCURUBarCrFS`>E[HNVduLtFm]YERd?<RV@Bt<DQauhd]DOy>ZdhLI_>Jdb:Y_AVCGyOy@r;_DM><lSVDM=RCSnuJk_tVmPKz`aTuPWz`OKPPVD:KKiPYzbVX;PN:Pjtu:FOaZ?IyMp`Ye>NSObJ?FG^O_J?jsYOac?Sa_p_R?Qj]pbR?rAipbk?ONOp__?F;RPtha>NJGb_?b:QOvaCEyJRsMSfNNiAYXt]U^`F?EB@GbaC`NTOviyWNOkPMSPHLkO:da>O^bQtCNXB?rthLEcuIt_[NsaF?XnBBNL?IFXiUL?sX;G_Xy=]Lq`Y[SHPe_NtveO<>tdvDR@btd^oVDb@XZ:Gmaf>?r?BKkFY?:tlPr@jAtlwUeb@Li?yKabodPIdAv@?qFTRP<d;U;ROJ;Z:>ldZ:BQuh[M^nq?^[Pl_bCLmgXa_dVzj_@Cty[Tlu@?KZUsPplITN@bslZKNPay]Z:@Ou>KLDb^d=[Ox>l?E[Yt@GH]KOy@edBYbL_OlvTQB>S?rTNb>?dJKUx?zZ`[NNQk;CKW>QH?]yQU_FKU[RqsItUTWsOfinKKmbS?mVRP`dlYsF>QW?YJWSu`?M[U>NvH[VJ_Nu?PIaGuX?=KXFQSdbTMQ>h?jTPoO?dZ:Ffm_TaHaoiYKPgPay=>N?EmHEsXZ=jtRlUYuKlbPOWSydUDQsOtd:KUFQe[HeR[@K?IVUeAKi=;IkCbChEcwQByUyOPUYtilPluG?vgOvtYtQlWW>a?jlV@at?TVKo_ESW[L<P]yRCNgeWs`KW<QoXFJAzaj?rsOj_=@YyP]OWdNlPRN[dHCY?;:`lKR>PZ`_FN`ZG[klXLOdSVCOLNclzCWPUo`KlRmOz?vKOT]s`OlKH`>`HrG]_glODYmON?biSabv?GCUzaxScdUa`plMCW]Qe[mm`VNjmVLddAFy@>KD_w`^eX:P<`^DU:PY?gVTmbc`IlUeNL`KTR<Nm`jVRFA]lrCMf@=lMlO:Nq`vlM>;J?qdK]Ni`PCYwN[eodWr>u[[CYr?mHgoQuNk`WdLeNB`TKXibtSPdJuQydRSO_Ou`_SVSu@`FSQY^@`mm]zExl?dUuPHdSPKk`d`LCLF_tVGST@QH`XSTuNg`UCMoNV`VSWH_J``dNeNc?ZSKeNxSBdWaQY?aKToQa?UdJosX`bCMqN>SFmfmN=@u;RHNXdLtYTPQKVVNuQ^`ClSHQh`FtWqQ]ljSOPOD`P;LiQB`TtLHNU`^dJmQy?>SSDPMFotVPQ^dbdQeAZ`CCVXOI?i;PXNG`^PXiNL:_lUXNt?;SO:Ai`MtOqOxlouMuNnD=lRu_>?rtKaPz``tYyPA?HdTqOr`NtQ]Q:`gSK;Q]lwdTLPkOjPY;Ns?PSOXNt`ESKHQF`;dKqOE?CSU=l``SdJPmO`o?ONOD`S;Y<O^[XlPwO=`nlLKQBOatMXPR`J?YXO?`yCOQL``ddS=A@u_CM;Qx`[?TeOX?Q?TiPG`j?JCscOiSKKQu`BT]COROh?LTQ``ouVUfEtAIcu_o?v?Ls`BludNdNl:d`VqQU`olTVOdlq`XmQ]Oy`XE?LO]SRs`B[t`Sn?htZU]YE@dGLUs==JlDMtAyONiJq?_`JDMgNVO`HPiss[syJjBIuCRGCZ[tg:@BtJ:FXRXaoiluOev_:<P=b@glutbcOp?DuPK`mt@[RBOwXcyX=ZCONm;T=CO=ZD`PdOPoO`OEVwUZrvGtU;YCO`Oj`Pb_H[;A^NbBFnuQIa[O=?S<NjZsvFe`xKFOLga`tRyUt_MtLOXW:>:MOX`PSOdfZAAAdpAiJ:bmwuUdZMS[LLONNtgpKOO^Sz@XA_EO]OYOQEOepTtBQ[iaPpNG[nTVe_EKFpX]`QSROMnaoCLwSM^GVBOLDuYOiNYVNjKdHKvsB`gpMd@pOLpL`QdOeOXhQCdluWK_vOfwcOO<?rOU?PKlJqLy=bOSXSWOpOON:pNfOgGX`NhO@pR>QliFRTMb?OLzjNNRpJoKxQxOhr^N_>:JOYxO;mZGVduf;=gSpQ];[pMMP`OWGQBAlOXGW=PGOlGQWQkpISJaNFKiOY`PKOwzg_OAOmXSAv<pRO[Qa]pKGQWOkpgmWENnDqpUhP_thKYnQAOvpUyaYO:vgnO=OUGVdt^OQGMf@MORZNs`XOLXJdb:yShRnQOCDiO::s:Db<GN:phhJebSOdHW?QXOQiQ?PH[NGWWNkpPhPhNup<dMH_tD;hKbt=S]hVUQDpcRWG_spwpPfPEONWPENlpWpTMQtlM@MEPbygqTr_SpZ[LN?nOGOLEOtpahLCbGOgmLQOupv@YG_OpaGScOSphWMbOQO;GMWQ]pBaNQNx`EWPkLNpIGNs`v[UpOI@JpXGKfSEl_hPtPDto?Sd@_topTANTdUhMLsEtWc:;_FtZLT;bxtyXWfE=tlwGOPEmXGPX?J:oySX>AdsiMt>ayMVMh@fVICWCb]RyHNWa>tuGSjaf`AxJyC;XHoSgQFOebgY_E[]HUcuw?W;PEM<cmHLBP`lQsLi>k?eqPkcVD>NNpkM:`]aZovSB]eZo_t>xKx>WpJoTfQn:uhYQPrOBaRjOAdZWJC?CpmeM:rcp>GVJrHSyGTofKp^WUAPuSzwEH_`_mGQhN;yHUhMPH;hGRkoKpWWYrOgGzK>rPuSV^jAPIRh=LFNBGK?TdQwORdR;Oxd^JJeAxifJYo@kSyOX=AKiBTc:=V;];DZLZ::j@Z:HEDytM[OMdsgKTnyKY=MXSfSgo>KQVXm=J@ROsd?PHQA?x`Ndt]lNSTmNX`CFPhkhp@>TtP;LJVPXRRGi=QPPPOttJWnbaA<fSQXGXdQsr@XoSTCPOdJMKz:[Gmbhr]O?^eUXTvSoMM?Qd`=GbXTCGctOiQCG:KT_pJ;M`SqNiO=?JovVGkwXC]ECW]RJqf`vMSq<UCzKOxPueXmUWZAC]RGUOxGdmYt?@SCaM>taSeWjASvl;wSrTqSlwYSbblMaTESBucx[U;rl_xbfTtRTnK?UySQCey[WwkPKzAfq>PMz>PevBGkuVqnGf:uS>fPOWUkqvSHy;QPCqSq;bSb_a>udtP:FUcfa?:<JaLtuJD:o:d?@J=_];vqNdTYSs]YbdzSfqJ]NzpttT=avtMXVq?;KCyKq@feDHWpfOaSU_ZNFCrMLFpsG_f]S>UtdiNG?IC@]Oc`Jti]T?vNtGqLE>LtgKT]oZh<HMBQw;mHPPt@ttNKPvaCV[VV?gZEyPv`Bt==TUN>CRgUNSWtyxMb_L:XXK;`gt_LJf[Vt<@KUOXp]LRE_>:DLXdbdCphYWb[OxlMEa]hFxOWbEpefWxQ<txLLEaTHaiUeputJGMFcYdKiJ]r_hhBXU`hCvGVQA]lGiQd_@CVsSJaHtuJC;eVCeDVLo=RniNTowS?:=vbwXYiLV:;thk>Aaud[:MesyCjf[vN<SsyOu_i>EBBjOltAuL@rZpRfQtPZl@XYM`:S;xUb`ApwfJvC?tY:<QanpjWSQbOtGsUfvFyq@Jrb_d;iVe`@pJ^JENJpOqS[AKi_fSbbLhMHRYP[ClxRI`AkovPYNpp?xRqpQpGxUI`>[p:ThmeXHoNT_FKLyStPWGNBNkoOtwxK`Pqler>r?g>CwZvQwGcrfip`CjuRHq`hrXKPqmhOUX>abpByQHqpO]vNhmrpphPirFSavMFd:BAuU]rcp:sDZ<=eLM=^tk`amM[`pdVQcmoIp`DOuq^pXyMKsj:Vdcg=UsN:GZAQtCEJfudpjUKMaBhKZTmo;hjsQ<OFqvSB`?I?tAOnTp`CMYPNBOzKEVrh_LMXDNdhWHPaq`h::CeD[FlXoQgyaTGhkPthRSLaLiyEJ]PZWsAPq<JWQuh;qBWG^TiqBWHoV[okWM[a[ph:@OdJ=R;o[U[qfeIUTT><pKAVes_WcNTspkqGpb<`it^QHSrk:`AX^P`GSbWWTqW>RQlQQ`e^RCQ=hwoEloyCIAV:>HOH`XH`olTr:nALdJVZotLKzq;ooKhtOPp?OujMU_`ah:nXd`=GoZBV`ypJVaFqgSa>KFr=XlaUc<aSFNHS`nGtW`SbC@GaLpRblX:@Y@VHkxAb==qFNCgr^qxwOtbHPWe<jnpWuBDz?jcdnT?aYl?qGzAUqixb:sgZ_oIktR<mqMjTXT_UCGqmSHJjdfwHS<am;rHsRXy=hDJrLmetw@OWksiegIeYUyexsHW;UWDqXxCAW]egNUJTdxgqdSDdxdTfrq^Q=hq_XWrP^k;e[rNxpHdDbIYUhDmedxpnD<meZaUWrxjWoaLfec=rIW;rPm=QpN<LdnYqQrW;ckxjrWzTPeJ=_=rcFfeg^pZxZTi^rjWqLehoaLme_:tQWcmZMoaLz=[L;_GR^hktHGxnY>pKGgoIh`r]bxXy=cTTu_TdAqXRB=ptZWrQa;vWoJFXmYqdyIzUCTd=hktOmXrOzEnmwvWGpnm=qIksa<QnQZazd>^cJ^RSX?JcuISzfTSqH<zLVRvvF_oFkb^WQEQ[pcGb<Wdq@xeuZw@BiAqPBbYS>]O=fRi[UOX`TxJQZg<Niu:GLuRd]AM]>hDc_OfaSCG^Lvp<iI_Tdrut=>XtuuxsUJvqKhjzHArmB_RJc@TiekNHqH[rjLHvvFlfhfahC<mStcKxoxOAra@srN?t;tAoNbpnlDYPhs;>Mo=Q`iXewPzQ=[KjWzNihNBSLojCpEMc_YCBXLb@kWAmSK>YKrLOD_aWp<Pg`XTZ]QGpt<n<Rhps?dCZ@>FCvL_PtzpQxQV@wx=o?KphGNrWXrfdMZhrQGDvQWmurR?DfF`_dxhK?qnWXaaIrKW]aMde^x[LInAbpSYRXsH@OzU=:qlb=O[?AxPYJtc?>wKHjrqT>zOjprxugYaDHTe:;=rLG[zTa?DdsaFT@KxFQQN:kHYzMjpfXfcKsshhpRRj_Fhs:ksqnx=YX`>o`vL_?sqG=;CE@yKiLJIoaCTrWfpw?AELUqW[DzSDSyDzLW:Fsyt:x;onKvALHr`hFfV>bIhCxMHoehmYJZHAit:xUOODnEOqqHpZ^JSoapFxOvo<=Xz`>=Q]hmDfbUKl`Nqb@KG:xZGyXTv[[@J`mmjU_TxZzW=eSDcm]BP>xwmh]q@=[Ljod?idZp;u[hW:oRInD>Zva@>W^YLF_q=OOYeoHhXZl]rm?tZtTc]?DIO]<ie:Jl^qAWBJx^oa=XIKWqo=JDQnN>WuWNXAw=RLeX?KDFLb>eRSmZora_TDb>sF>KfhSAAy=amWf>uKzzJ^]UWuQJavCdz_Xla;=v_EhoiGSAJxqg[AZwcpiWe?KdOIKEoMbA@udMhK_MOiLL@f`FZ:E:eZ::yXZ:F;mMCB:=eq`RpX`=;DjQr?nsVaN=>sIVoFG=beLxoJxEJk;NXW;TOD_[esT[@f<ca?XmNZl[w<ds`H=TTXqO=LdVPdAhxbJlqQPCrOgGeOt?MiO:;XkwSuzklktqPb=AoLPrMdgIBx^lJvtQfOBXgIScut=>wY_Hs=NJl<FspSGVQp]=xZtRH^DVJtBGdKaZtA>q=?oRj`b=;iP]rzCUEYBNe?MOdhra=hJuuf_^cJl=pN^qIXRIZ^?sQRFCtrzLNHm=>Le_IExuJvU?S=yz;xrYxZUPLG?=RXNoe`=`e[NI?=:VWNF?GMJsmFlG]`Q>pcwFcn]Hh=S?QSQt`[FW@]dRCMh_rNXLTPbA==skpFFn=ftLPMlpvHMVFU=fBP]IH=eKJwHiG`ckgegWT^UgG?d;koVFm`ar@VGVG`koxNKGWBqgFraCrVeIU=sSN;NY=N:KPf<cAckr`z=gKR<IIKBBwUtZ^gBvDHtxF:lRIYWwBlPP?lmRlwe^DyAX]IM;aBn<Gt^wmczvwX;:zT__=ujMsF<hDeNPuPeCBnXRm^MRzhq;efRtnfJxpZmaHit^]Ydoq^oBoEOC=fLahuKDoLdmIlDrBo]Gr:QRyYoZt:INDHrxUBqDFfhBbONIr?GJseI:xgIZPF=^?`YDFz`nehiH_XtRtspOGUAN;NT^rJxeGx=Xcye>@^>kxFGZOgdJq`a^]krmQE=vRk@Gh^[rTXHiWS?K:;e^YlX@HzKUcpMEI^bcyVIo;VkpVITlpALWqv^XJziIN`O`W^pz^DcpsoQ^FlL;GPc_RxwFoOZQM@H`HVRlGNC^_CQ;I]R=Bs[GJ^;sNkFx^PRk<IBWiRksHq=nfMZHf`GZxQOXhXBnwbO^YfUPHg?UBImq_^WLXcPG=lsum?]MukmgHq=ONUVGLM@Rx;cJdkfYJOn^]JuQpg^Rsq_HM^iaMmG<BDbIqGBMI`YHH]M]srHq]^tJuiFBWusx;PU^Ksu^qky[_nKGt;WcyCFHMdA`lF[^T?SXIIKacnoFu^zJoP_I^KcwyFj`KCYFIJOvsnXRH^M_sFaVOD>keIx>FNouFv=^oM[G[e_TiuFJM=XO;Fy^MTQuImMrstqISDDNu@IRMKTQ[IK^NTFKIxld>w<I_Mn>yWqTHgNo@>bOkmiZnsx=>v[OFM^YjIp_hv>yXQnx:=Mg>eXXkMPGZGvEXW<D?w[RZoXTE:@Mr]GyWLCb;hWj^kORtP[NZpNxT=ShbHGMBqOs[pEhUKGlOXxKkG^h`UKHrOh<P>auWCOokf^phFZw_GfXyDSof=pbmY;o:pAJLApX=>xOINUpeuLfQ=^sLeZ=Q]psc_=ElK`W`pbdwoyMprOT_nLN;><oukpEMgYXSGg^:K;fPdO=pRatIOhYN<bfp[owSIeMquTNFRnZxYoLEpmtgaa?lnpRvPjOYonpQ[p@_sxHAidFkQNNGOYQ_fxlXVNqbgSwza=Od^:FonF^^EFl@nZ>HR>XojxwUeYtaDD=UhGm^<NsXGiG`]eOIXMmVLFAyGp?V[AI`LP>hlqhmbjANNMAsnhGoWxFs]PlG]gwUFen@`XfGdG^tK_rTnqrD`[IpACUuIvKLzJkFlOKbTRfinkos`^licoxsFMMw[KB>FCnIVefN=PEO^ba=<hM>Iny_Br?H<pXvR=FksnotcujM`RrdHgZ<jiAGgMlRuiO[nXRCg_vHW>LF@O^fzTa?e[VO:b]TWN:>y<p;vA^R=OnQRSDtpnNsJrGGng]TrGL[vVyL<KyEBHwaJnoBUc[PZGA?T[KKdfb<>^n;A?T^<Xxq<Z;HcibV>vxMXVp<?`np=Pe@_=ZDVH:gZfRtnqOXrIM>IUnp>kbGhMS>inr=Ma>Wkp;lXwr=GDObIVGHGdo?Yh>Anhwr>rVxkotbGV;EBkxI<nXzZj]rBH:;nFYCPgYt>Qhc[VYHhMuDMzI[Dtc=FSOt<xN:huCAoY@uKO^Q;cFs;JSL^IURu]LrpjChEUV:WxwtSNe`HZVu<r[sVm;?ACTFNUcNl=_PImFXlQ:EorihWgS=A^p;yRu`NExkyUHFWmP`UGj=bYPb>SlR?Wb@tlqDK[@u=kGWNORywVo@@`G@>yXIH^^VNP_x_t`<qBk;]lOfIZOgkng@hGWYQdrEn@<oG>WxRgLjbKiawtGGL?T=TEpPE>jQ:kqE=qGJhRymDVeab;fwoRAJEdsXX?lDd^aIujMxfOEANWp]pkgA^^AU=[;>Y<nsrj=KTQG:lEVoDY<lEVoFTG>`YMR?CKMojQcuWJKNzoK;EbN;>jt`P_L`]?ENTIz:a`eb]@dUmaS?SMQmhwjUGTECcx@^Adtcs>iO_pcoSHY[r<tWUYmXLw;IKEgLz>ilELLzb?UOAuKsQoWALzBg<OSNqoQ_:[LkSuRKmmggd`Elb`aL::nce::hub^_Z:DGmLeB::UV^YEvZZmk<HYMLRqcIax;]tAvGx_HPrpuyAYVNugiG^OE>>^wHTKq<MMhVk`mxgVvBNg^AYO@[E^nFrzGksM]RZgI[NQiD[ZE:K;whiE@zUW[mxJQcJhe[]QQn`bRdZjjsLn@YPCaKMpXG@ZHpXQOj?aSXk>::".charCodeAt(s++))?t-59:t-58),N|=(0<(t&(F/=2))?1:0)<<O,++O}for(var J,N,O,R,t,a=[],X=1,K=3,B=1,A=[],F=0,s=0;;){if(Z(B+1),2==N)return A.join("");-2&(R=N)||(Z(8*N+8),a[R=K++]=String.fromCharCode(N),--X||(X=2<<B++)),A.push(R=a[R]||J+J[0]),J&&(a[K++]=J+R[0],--X||(X=2<<B++)),J=R}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+oracleAdvance; !
+function(t) {
+    var e = function(e) {
+        function i(i) {
+            var n = e.call(this) || this;
+            if (n.isOutTime = !1, n.getInfo(11), i) {
+                if (n.isOutTime || ~~i != ~~t.DataConst.CurrentPetID) return Alarm.show("不在活动时间范围内",
+                function() {
+                    n.onClose(),
+                    EventManager.dispatchEventWith("ActivityCenterClose")
+                }),
+                n;
+                StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "从精灵特性进入伙伴效果界面")
+            } else StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击活动中心页签进入活动界面");
+            return StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "进入活动界面（全部）"),
+            n.init([{
+                panelName: t.DataConst.MAIN_PANEL,
+                isMain: !0
+            },
+            {
+                panelName: t.DataConst.BATTLE_PANEL
+            }]),
+            n
+        }
+        return __extends(i, e),
+        i.prototype.getInfo = function(e) {
+            t.DataConst.TaskInfo = PetAdvanceXMLInfo.getTaskInfo(e);
+            for (var i, n = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("advancedPetPanelConfig")).root.Task, a = 0; a < n.length; a++) if (n[a].ID == e) {
+                i = n[a];
+                break
+            }
+            var o = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("activityTimeControl")).config.item;
+            o = o.reverse();
+            for (var a = 0; a < o.length && (!t.DataConst.PayTime || !t.DataConst.FreeTime); a++) o[a].id != i.MainPanel.PayTime.Id ? o[a].id != i.MainPanel.FreeTime.Id || (t.DataConst.FreeTime = o[a]) : t.DataConst.PayTime = o[a];
+            var r = t.DataConst.PayTime.endTime.toString(),
+            s = r.slice(0, 4) + "-" + r.slice(4, 6) + "-" + r.slice(6, 8) + " 23:59:59",
+            _ = new Date(s),
+            u = SystemTimerManager.sysBJDate.getTime();
+            this.isOutTime = u > _.getTime(),
+            t.DataConst.CurrentPetID = t.DataConst.TaskInfo.Advances.MonsterId
+        },
+        i.prototype.reShow = function() {
+            var t = this;
+            this.service.updateValues().then(function() {
+                t.destroyed
+            })
+        },
+        i
+    } (BasicMultPanelModule);
+    t.OracleAdvance = e,
+    __reflect(e.prototype, "oracleAdvance.OracleAdvance")
+} (oracleAdvance || (oracleAdvance = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+oracleAdvance; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return Object.defineProperty(t, "StateName", {
+            get: function() {
+                return "" == t._stateName && (t._stateName = PetXMLInfo.getName(this.CurrentPetID)),
+                t._stateName
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t, "StateDate", {
+            get: function() {
+                return "20231124版本系统功能"
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t.MAIN_PANEL = "oracleAdvance.MainPanel",
+        t.BATTLE_PANEL = "oracleAdvance.Battlepanel",
+        t.MAIN_CMD = 41803,
+        t.CHECK_CMD = 41805,
+        t._stateName = "",
+        t
+    } ();
+    t.DataConst = e,
+    __reflect(e.prototype, "oracleAdvance.DataConst")
+} (oracleAdvance || (oracleAdvance = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+oracleAdvance; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.exclusiveItem = 0,
+            i.curProgess = 0,
+            i.curTimes = 0,
+            i.AnimTEST = !1,
+            i.iconNames = ["暗夜呢喃", "幽冥象征", "梦呓袭染", "侵神魅影"],
+            i.iconNameColor = 8277664,
+            i.skinName = "oracleAdvance.BattlepanelSkin",
+            i.sumProgress = t.DataConst.TaskInfo.AllProgress,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            GameInfo.isChecking && (this.btnadd2.visible = !1),
+            e.prototype.initBtnClose.call(this, "oa_battlepanel_title_png", this,
+            function() {
+                i.service.backToMainPanel(),
+                EventManager.dispatchEventWith("showActivityCenterLeft")
+            },
+            this),
+            e.prototype.initBtnHelpById.call(this, 115, this,
+            function() {
+                StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击战斗玩法界面-【问号】按钮")
+            }),
+            this.addEvent(),
+            this.imgDiamond.source = ClientConfig.getItemIcon(5),
+            this.iconCoin2.source = this.icon3.source = ClientConfig.getItemIcon(1724858);
+            for (var n = 0; n < this.iconNames.length; n++) this["txtIcon" + (n + 1)].text = this.iconNames[n],
+            this["txtIcon" + (n + 1)].strokeColor = this.iconNameColor;
+            this.oracleAnim = SpineUtil.createAnimate("shenyujinjie"),
+            this.addChild(this.oracleAnim),
+            this.oracleAnim.touchEnabled = !1,
+            this.oracleAnim.touchChildren = !1,
+            this.oracleAnim.x = 0,
+            this.oracleAnim.y = 0,
+            this.oracleAnim.visible = !1,
+            4 == this.sumProgress ? this.currentState = "itemNum4": 5 == this.sumProgress && (this.currentState = "itemNum5")
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnadd1,
+            function() {
+                var i = t.DataConst.TaskInfo.Exchange.ProductID.split("_");
+                t.DataConst.TaskInfo.Exchange.ItemID.split("_");
+                PayManager.doPayFunc(function() {
+                    var n = {};
+                    n.type = "product_diamond",
+                    n.ins = {
+                        iconID: 1724858,
+                        productID: i[2]
+                    },
+                    n.caller = e,
+                    n.callBack = function(n, a) {
+                        KTool.buyProductByCallback(parseFloat(i[2]), a,
+                        function() {
+                            SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, a + 1e5],
+                            function() {
+                                e.update(),
+                                Alarm.show("获得了" + a + "个专属神谕之证",
+                                function() {
+                                    e.update()
+                                })
+                            })
+                        })
+                    },
+                    ModuleManager.showModuleByID(1, n)
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnadd2,
+            function() {
+                PayManager.rechargeDiamond()
+            },
+            this),
+            ImageButtonUtil.add(this.btnStart,
+            function() {
+                if (StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击战斗玩法界面-【进入试炼】按钮"), e.curTimes >= 5) return void BubblerManager.getInstance().showText("剩余挑战次数不足，请明天再进行试炼！");
+                var i = new t.BattlePop;
+                PopViewManager.getInstance().openView(i)
+            },
+            this),
+            ImageButtonUtil.add(this.btnUnlock,
+            function() {
+                return e.AnimTEST ? (e.oracleAnim.visible = !0, void e.oracleAnim.play("jiesuo", 1, 1)) : (StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击战斗玩法界面-【解锁组件】按钮"), e.exclusiveItem < t.DataConst.TaskInfo.PerCostCoinA ? void BubblerManager.getInstance().showText("专属神谕之证数量不足，参与试炼可以获得道具") : (StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "在H5解锁组件"), void e.animPlay(e.curProgess,
+                function() {
+                    SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 1],
+                    function() {
+                        e.update()
+                    })
+                })))
+            },
+            this),
+            ImageButtonUtil.add(this.btnyijian,
+            function() {
+                return e.AnimTEST ? void e.animPlay(e.curProgess,
+                function() {
+                    e.curProgess++
+                }) : (StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击战斗玩法界面-【一键解锁】按钮"), void PayManager.doPayFunc(function() {
+                    var i = t.DataConst.TaskInfo.Exchange.ProductID.split("_");
+                    KTool.buyProductByCallback(~~i[1], 1,
+                    function() {
+                        e.animPlay(e.curProgess,
+                        function() {
+                            SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 3],
+                            function() {
+                                e.update()
+                            })
+                        })
+                    })
+                },
+                e))
+            },
+            this),
+            ImageButtonUtil.add(this.hasDone,
+            function() {
+                if (StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击战斗玩法界面-【完成进阶】按钮"), !PetManager.isDefaultPet(t.DataConst.CurrentPetID)) {
+                    StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "操作进阶时背包首发不是目标精灵");
+                    var i = "请将<font color='#ff0000'>" + PetXMLInfo.getName(t.DataConst.CurrentPetID) + "</font>放于背包首发位置";
+                    return void Alarm.show(i,
+                    function() {
+                        e.service.showPetBag()
+                    })
+                }
+                PetManager.checkPetInfoEffect(PetManager.infos[0],
+                function(i) {
+                    return i && 0 != PetManager.infos[0].effectCount && PetManager.infos[0].hideSKill ? (StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "在H5完成进阶"), void SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 6],
+                    function() {
+                        e.update();
+                        var i = "经过你们的努力<font color='#ff0000'>" + PetXMLInfo.getName(t.DataConst.CurrentPetID) + "</font>已完成进阶！可以前往背包查看进阶效果！";
+                        Alert.show(i,
+                        function() {
+                            e.service.showPetBag()
+                        })
+                    })) : void Alert.show("需要拥有专属特性和第五技能才可以进阶\n是否立刻前往获得？",
+                    function() {
+                        ModuleManager.showModuleByID(15, {
+                            type: "7",
+                            petId: "" + t.DataConst.CurrentPetID
+                        })
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.imgDiamond,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 5
+                })
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK,
+            function() {
+                FightManager.isWin ? KTool.getMultiValue([t.DataConst.TaskInfo.OutItemKey],
+                function(t) {
+                    var i = t[0] - e.exclusiveItem;
+                    Alarm.show("获得了" + i + "个专属神谕之证",
+                    function() {
+                        e.update()
+                    })
+                }) : e.update()
+            },
+            this)
+        },
+        i.prototype.animPlay = function(t, e) {
+            var i = this;
+            if (this.oracleAnim.visible = !0, t < this.sumProgress - 1) this.oracleAnim.x = this["item" + (t + 1)].x,
+            this.oracleAnim.y = this["item" + (t + 1)].y,
+            this.oracleAnim.play("jiesuo", 1, 1, {
+                playEnd: function() {
+                    e(),
+                    i.oracleAnim.visible = !1
+                }
+            });
+            else {
+                for (var n = 1; n <= this.sumProgress; n++) this["unlock" + n].visible = !1;
+                this.oracleAnim.x = egret.lifecycle.stage.stageWidth / 2,
+                this.oracleAnim.y = 320,
+                this.btnUnlock.visible = this.btnyijian.visible = !1,
+                this.oracleAnim.play("hebing", 1, 1, {
+                    playEnd: function() {
+                        e(),
+                        i.oracleAnim.visible = !1
+                    }
+                })
+            }
+        },
+        i.prototype.update = function() {
+            var e = this;
+            SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 7],
+            function(t) {
+                var i = t.data;
+                e.curProgess = i.readUnsignedInt();
+                for (var n = i.readUnsignedInt(), a = 1; a <= e.sumProgress; a++) e["unlock" + a].visible = e.curProgess < a;
+                e.hasDone.visible = e.curProgess == e.sumProgress,
+                e.grp_notDone.visible = e.curProgess != e.sumProgress,
+                e.imghasDone.visible = 0 != n,
+                DisplayUtil.setEnabled(e.hasDone, 0 == n, 0 != n)
+            }),
+            KTool.getMultiValue([t.DataConst.TaskInfo.OutItemKey, t.DataConst.TaskInfo.Battle.FreeBattleKey],
+            function(i) {
+                e.txtCoin1.text = i[0].toString(),
+                e.exclusiveItem = i[0],
+                e.txt_needNum.text = i[0] + "/" + t.DataConst.TaskInfo.PerCostCoinA;
+                var n = i[0] < t.DataConst.TaskInfo.PerCostCoinA ? 16400448 : 2871323;
+                e.txt_needNum.textFlow = [{
+                    text: i[0] + "",
+                    style: {
+                        textColor: n
+                    }
+                },
+                {
+                    text: "/" + t.DataConst.TaskInfo.PerCostCoinA,
+                    style: {
+                        textColor: 16777215
+                    }
+                }],
+                e.curTimes = i[1],
+                e.txt_leftTime.text = 5 - i[1] + ""
+            }),
+            UserInfoManager.getDiamond(function(t) {
+                e.txtCoin2.text = core.gameUtil.ConvertItemNumView(t)
+            },
+            this)
+        },
+        i
+    } (BasicPanel);
+    t.Battlepanel = e,
+    __reflect(e.prototype, "oracleAdvance.Battlepanel")
+} (oracleAdvance || (oracleAdvance = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+oracleAdvance; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.normalId = 1724859,
+            i.itemNum = 0,
+            i.skinName = t.MainpanelSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.initData(),
+            this.icon.$renderNode.drawData
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击主界面-【前往获取精灵】按钮"),
+                ModuleManager.showModuleByID(15, {
+                    type: "7",
+                    petId: 3156
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnHelp,
+            function() {
+                StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击主界面-【问号】按钮"),
+                tipsPop.TipsPop.openHelpPopById(115)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGo,
+            function() {
+                e.service.openPanel(t.DataConst.BATTLE_PANEL),
+                EventManager.dispatchEventWith("hideActivityCenterLeft")
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastAdvanced,
+            function() {
+                if (!PetManager.isDefaultPet(t.DataConst.CurrentPetID)) return StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "操作进阶时背包首发不是目标精灵"),
+                void Alarm.show("请将<font color='#ff0000'>" + PetXMLInfo.getName(t.DataConst.CurrentPetID) + "</font>放于背包首发位置",
+                function() {
+                    e.service.showPetBag()
+                });
+                if (e.curProgress == t.DataConst.TaskInfo.AllProgress && e.isFreeweek) return void Alarm.show(PetXMLInfo.getName(t.DataConst.CurrentPetID) + "已解锁全部组件，可以前往强化，不需要购买进阶！",
+                function() {});
+                var i = t.DataConst.TaskInfo.Exchange.ProductID.split("_");
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(~~i[0], 1,
+                    function() {
+                        SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 2],
+                        function() {
+                            SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 6],
+                            function() {
+                                var i = "<font color='#ff0000'>" + PetXMLInfo.getName(t.DataConst.CurrentPetID) + "</font>已成功快速进阶，可以前往背包查看进阶效果！";
+                                Alarm.show(i,
+                                function() {
+                                    e.service.showPetBag()
+                                }),
+                                e.update()
+                            })
+                        })
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnExchange,
+            function() {
+                return StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击主界面-【兑换神谕之证】按钮"),
+                e.itemNum <= 0 ? void BubblerManager.getInstance().showText("专属神谕之证数量不足，无法兑换！") : void SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 8],
+                function() {
+                    e.update()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.zhongzu,
+            function() {
+                StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击主界面-【种族值详情】");
+                var e = new t.InfoPop1;
+                PopViewManager.getInstance().openView(e)
+            },
+            this),
+            ImageButtonUtil.add(this.texing,
+            function() {
+                StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击主界面-【特性详情】");
+                var e = new t.InfoPop2;
+                PopViewManager.getInstance().openView(e)
+            },
+            this);
+            for (var i = function(t) {
+                ImageButtonUtil.add(n["skillItem_" + (t + 1)],
+                function() {
+                    var i = {
+                        id: e.skillData[t],
+                        petInfo: null
+                    },
+                    n = {};
+                    n.dir = "right-top",
+                    n.rx = -10,
+                    n.ry = 10,
+                    n.srcWorldPos = e.parent.parent.parent.localToGlobal(),
+                    tipsPop.TipsPop.openSkillPop(i, n)
+                },
+                n)
+            },
+            n = this, a = 0; 4 > a; a++) i(a)
+        },
+        i.prototype.initData = function() {
+            this.icon.source = ClientConfig.getItemIcon(1724858),
+            this.skillData = PetAdvanceXMLInfo.getAdvanceSkill(t.DataConst.CurrentPetID);
+            var e = PetAdvanceXMLInfo.getAdvanceFifthSkill(t.DataConst.CurrentPetID);
+            e.length > 0 && (T = this.skillData).push.apply(T, e);
+            var i = t.DataConst.FreeTime.startTime.toString(),
+            n = t.DataConst.FreeTime.endTime.toString(),
+            a = i.slice(0, 4) + "/" + i.slice(4, 6) + "/" + i.slice(6, 8) + " 00:00:00",
+            o = n.slice(0, 4) + "/" + n.slice(4, 6) + "/" + n.slice(6, 8) + " 00:00:00",
+            r = t.DataConst.PayTime.startTime.toString(),
+            s = t.DataConst.PayTime.endTime.toString(),
+            _ = r.slice(0, 4) + "/" + r.slice(4, 6) + "/" + r.slice(6, 8) + " 00:00:00",
+            u = s.slice(0, 4) + "/" + s.slice(4, 6) + "/" + s.slice(6, 8) + " 23:59:59",
+            l = new Date(a),
+            c = new Date(o),
+            h = new Date(_),
+            g = new Date(u),
+            p = SystemTimerManager.sysBJDate.getTime();
+            this.isFreeweek = p > l.getTime() && p < h.getTime(),
+            this.txt_tid1.text = l.getMonth() + 1 + "月" + l.getDate() + "日-" + (c.getMonth() + 1) + "月" + c.getDate() + "日",
+            this.txt_tid1_info.textFlow = [{
+                text: "参与试炼可以",
+                style: {
+                    textColor: 16777215
+                }
+            },
+            {
+                text: "免费进阶",
+                style: {
+                    textColor: 16761417
+                }
+            }],
+            this.txt_tid2.text = h.getMonth() + 1 + "月" + h.getDate() + "日-" + (g.getMonth() + 1) + "月" + g.getDate() + "日";
+            var m = p > g.getTime();
+            DisplayUtil.setEnabled(this.btnExchange, !m, m);
+            for (var f = PetAdvanceXMLInfo.getOldRace(t.DataConst.CurrentPetID), x = PetAdvanceXMLInfo.getAdvanceRace(t.DataConst.CurrentPetID), d = 0, v = 0, I = 0; I < f.length; I++) v += ~~x[I],
+            d += ~~f[I];
+            this.txt_oldRace.text = d + "",
+            this.txt_newRace.text = v + "",
+            this.skillData.length <= 2 ? (this.skillbg.source = "oa_mainpanel_juxing_530_png", this.skillItem_3.visible = this.skillItem_4.visible = !1, this.skillItem_1.y = this.skillItem_2.y = 50) : (this.skillbg.source = "oa_mainpanel_skillbg_png", this.skillItem_3.visible = this.skillItem_4.visible = !0, this.skillItem_1.y = this.skillItem_2.y = 35);
+            for (var y = PetXMLInfo.getCanLearnAdvSkillTagList(t.DataConst.CurrentPetID), I = 0; 4 > I; I++) if (I < this.skillData.length) {
+                this["skillItem_" + (I + 1)].visible = !0;
+                var C = this.skillData[I],
+                b = SkillXMLInfo.getTypeID(C),
+                w = (SkillXMLInfo.isHideSkillId(t.DataConst.CurrentPetID, C), "");
+                w = 4 == SkillXMLInfo.getCategory(C) ? ClientConfig.getpettypeticon("prop") : ClientConfig.getpettypeticon(String(b));
+                var D = I < y.length ? 2 + y[I] : 1;
+                this["skillTag_" + (I + 1)].source = "common_petSkill_tag" + D + "_png",
+                this["prop_" + (I + 1)].source = w,
+                this["txt_skillName_" + (I + 1)].text = SkillXMLInfo.getName(C),
+                this["txt_damage_" + (I + 1)].text = "威力：" + SkillXMLInfo.getDamage(C).toString();
+                var k = SkillXMLInfo.getPP(C).toString();
+                this["txt_pp_" + (I + 1)].text = "PP：" + k + "/" + k
+            } else this["skillItem_" + (I + 1)].visible = !1;
+            var S = EffectIconControl.getAllEffctByPetId(t.DataConst.CurrentPetID),
+            P = S[S.length - 1];
+            this.groupTag.removeChildren();
+            var M = P.kind;
+            if (null != M) {
+                var F = M.toString().split(" ").map(Number);
+                for (var I in F) {
+                    var L = new eui.Image("pet_bag_tag" + (F[I] + 1) + "_png");
+                    this.groupTag.addChild(L)
+                }
+            }
+            this.update();
+            var T
+        }, i.prototype.update = function() {
+            var e = this;
+            SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 7],
+            function(t) {
+                var i = t.data;
+                e.curProgress = i.readUnsignedInt();
+                var n = i.readUnsignedInt();
+                e.hasDone.visible = 0 != n,
+                DisplayUtil.setEnabled(e.btnFastAdvanced, 0 == n, 0 != n)
+            }),
+            this.txt.visible = !this.isFreeweek,
+            this.btnExchange.visible = !this.isFreeweek,
+            this.btnGo.visible = this.isFreeweek,
+            KTool.getMultiValue([t.DataConst.TaskInfo.OutItemKey],
+            function(t) {
+                e.itemNum = t[0],
+                e.txtLeft.text = e.itemNum + ""
+            })
+        },
+        i
+    } (BasicPanel);
+    t.MainPanel = e,
+    __reflect(e.prototype, "oracleAdvance.MainPanel")
+} (oracleAdvance || (oracleAdvance = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+oracleAdvance; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.BattlepopSkin,
+            i.addEvent(),
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.initialized = function() {
+            var e = this;
+            this.txt_petChanllenge.textFlow = [{
+                text: "使用",
+                style: {
+                    textColor: 4173823
+                }
+            },
+            {
+                text: PetXMLInfo.getName(t.DataConst.CurrentPetID),
+                style: {
+                    textColor: 16769343
+                }
+            },
+            {
+                text: "战胜对手",
+                style: {
+                    textColor: 4173823
+                }
+            }],
+            SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 4],
+            function(t) {
+                var i = t.data;
+                i.readUnsignedByte();
+                e.bossIndex = i.readUnsignedByte(),
+                e.update()
+            })
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                e.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                if (e.hide(), !PetManager.isDefaultPet(t.DataConst.CurrentPetID)) {
+                    StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "选择进入战斗时背包首发不是目标精灵");
+                    var i = "请将<font color='#ff0000'>" + PetXMLInfo.getName(t.DataConst.CurrentPetID) + "</font>放于背包首发位置";
+                    return void Alert.show(i,
+                    function() {
+                        ModuleManager.showModuleByID(10)
+                    })
+                }
+                StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "在H5进入战斗"),
+                SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 5],
+                function(t) {})
+            },
+            this),
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                e.hide(),
+                ModuleManager.showModuleByID(10)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnDraw,
+            function() {},
+            this)
+        },
+        i.prototype.update = function() {
+            var e = this;
+            KTool.getMultiValue([t.DataConst.TaskInfo.Battle.FreeBattleKey, t.DataConst.TaskInfo.Battle.FreeBattleKey - 10],
+            function(i) {
+                if (e.hasDraw = 0 != i[1], e.btnDraw.visible = !e.hasDraw, e.btnFight.visible = e.hasDraw, e.bossIndex) {
+                    var n = t.DataConst.TaskInfo.Battle.Task[e.bossIndex - 1];
+                    e.petHead.source = ClientConfig.getPetHeadPath(n.BattleBoss);
+                    var a = (new egret.HtmlTextParser).parse(n.Desc);
+                    "string" == typeof a ? e.txtDec.text = a: e.txtDec.textFlow = a
+                }
+            })
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (PopView);
+    t.BattlePop = e,
+    __reflect(e.prototype, "oracleAdvance.BattlePop")
+} (oracleAdvance || (oracleAdvance = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+oracleAdvance; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.Infopop1Skin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.hide()
+            },
+            this)
+        },
+        i.prototype.initialized = function() {
+            for (var e = PetAdvanceXMLInfo.getOldRace(t.DataConst.CurrentPetID), i = PetAdvanceXMLInfo.getAdvanceRace(t.DataConst.CurrentPetID), n = 0, a = 0, o = 0; o < e.length; o++) this["txt" + o + "_be"].text = e[o],
+            this["txt" + o + "_af"].text = i[o],
+            this["txt" + o + "_dif"].text = ~~i[o] - ~~e[o],
+            a += ~~i[o],
+            n += ~~e[o],
+            ~~i[o] == ~~e[o] && (this["txt" + o + "_dif"].visible = !1, this["imgUp" + o].visible = !1);
+            this.txt_oldRace.text = n + "",
+            this.txt_newRace.text = a + "",
+            this.txt_advanceRace.text = a - n + "",
+            "" == this.pet.source && (this.pet.source = ClientConfig.getPetHalfIcon(t.DataConst.CurrentPetID))
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (PopView);
+    t.InfoPop1 = e,
+    __reflect(e.prototype, "oracleAdvance.InfoPop1")
+} (oracleAdvance || (oracleAdvance = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+oracleAdvance; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.Infopop2Skin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.hide()
+            },
+            this)
+        },
+        i.prototype.initialized = function() {
+            "" == this.pet.source && (this.pet.source = ClientConfig.getPetHalfIcon(t.DataConst.CurrentPetID));
+            var e = (new egret.HtmlTextParser).parse(EffectIconControl.getAllEffctByPetId(t.DataConst.CurrentPetID)[0].tips);
+            if ("string" == typeof e) this.txt_beforeTe.text = e;
+            else {
+                var i = /[\{-\}-\|]/g,
+                n = e[0].text.replace(i, "");
+                e[0].text = n,
+                this.txt_beforeTe.textFlow = e
+            }
+            var a = (new egret.HtmlTextParser).parse(t.DataConst.TaskInfo.Advances.AdvEffect.Des);
+            "string" == typeof a ? this.txt_afterTe.text = a: this.txt_afterTe.textFlow = a
+        },
+        i
+    } (PopView);
+    t.InfoPop2 = e,
+    __reflect(e.prototype, "oracleAdvance.InfoPop2")
+} (oracleAdvance || (oracleAdvance = {})),
+window.oracleAdvance = window.oracleAdvance || {};
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/BattlepanelSkin.exml"] = window.oracleAdvance.BattlepanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "unlock1", "txtIcon1", "item1", "unlock2", "txtIcon2", "item2", "unlock3", "txtIcon3", "item3", "unlock4", "txtIcon4", "item4", "unlock5", "txtIcon5", "item5", "hasDone", "imghasDone", "txt_needNum", "icon3", "btnUnlock", "btnyijian", "grp_notDone", "txtCoin2", "txtCoin1", "imgDiamond", "btnadd1", "btnadd2", "iconCoin2", "coins", "txt_leftTime", "btnStart"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Image1_i(), this.item1_i(), this.item2_i(), this.item3_i(), this.item4_i(), this.item5_i(), this.hasDone_i(), this.imghasDone_i(), this.grp_notDone_i(), this._Group2_i()],
+        this.states = [new eui.State("itemNum4", [new eui.SetProperty("item1", "horizontalCenter", -398), new eui.SetProperty("item1", "y", 406), new eui.SetProperty("item2", "y", 460), new eui.SetProperty("item2", "horizontalCenter", -215), new eui.SetProperty("item3", "horizontalCenter", 265), new eui.SetProperty("item3", "y", 460), new eui.SetProperty("item4", "horizontalCenter", 432), new eui.SetProperty("item4", "y", 406), new eui.SetProperty("item5", "visible", !1)]), new eui.State("itemNum5", [])]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.percentHeight = 100,
+        t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_bg_jpg",
+        t.percentWidth = 100,
+        t.y = 0,
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = -20,
+        t.source = "oa_battlepanel_imgpet_png",
+        t.verticalCenter = 0,
+        t
+    },
+    i.item1_i = function() {
+        var t = new eui.Group;
+        return this.item1 = t,
+        t.anchorOffsetX = 0,
+        t.height = 0,
+        t.horizontalCenter = -363.5,
+        t.width = 0,
+        t.y = 409,
+        t.elementsContent = [this._Image2_i(), this._Image3_i(), this.unlock1_i(), this._Image4_i(), this.txtIcon1_i()],
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconbg_png",
+        t.verticalCenter = 0,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_icon4_png",
+        t.verticalCenter = -5,
+        t.visible = !0,
+        t
+    },
+    i.unlock1_i = function() {
+        var t = new eui.Image;
+        return this.unlock1 = t,
+        t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_wjs_fb_4_png",
+        t.verticalCenter = 0,
+        t.visible = !0,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconName_png",
+        t.verticalCenter = 45,
+        t.visible = !0,
+        t
+    },
+    i.txtIcon1_i = function() {
+        var t = new eui.Label;
+        return this.txtIcon1 = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 22,
+        t.stroke = 1,
+        t.strokeColor = 8277664,
+        t.text = "          ",
+        t.textColor = 16777215,
+        t.verticalCenter = 45,
+        t.visible = !0,
+        t
+    },
+    i.item2_i = function() {
+        var t = new eui.Group;
+        return this.item2 = t,
+        t.height = 0,
+        t.horizontalCenter = -188.5,
+        t.visible = !0,
+        t.width = 0,
+        t.y = 449,
+        t.elementsContent = [this._Image5_i(), this._Image6_i(), this.unlock2_i(), this._Image7_i(), this.txtIcon2_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconbg_png",
+        t.verticalCenter = 0,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_icon2_png",
+        t.verticalCenter = -5,
+        t
+    },
+    i.unlock2_i = function() {
+        var t = new eui.Image;
+        return this.unlock2 = t,
+        t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_wjs_fb_4_png",
+        t.verticalCenter = 0,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconName_png",
+        t.verticalCenter = 45,
+        t
+    },
+    i.txtIcon2_i = function() {
+        var t = new eui.Label;
+        return this.txtIcon2 = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 22,
+        t.stroke = 1,
+        t.strokeColor = 8277664,
+        t.text = "          ",
+        t.textColor = 16777215,
+        t.verticalCenter = 45,
+        t
+    },
+    i.item3_i = function() {
+        var t = new eui.Group;
+        return this.item3 = t,
+        t.height = 0,
+        t.horizontalCenter = 10,
+        t.visible = !0,
+        t.width = 0,
+        t.y = 465,
+        t.elementsContent = [this._Image8_i(), this._Image9_i(), this.unlock3_i(), this._Image10_i(), this.txtIcon3_i()],
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconbg_png",
+        t.verticalCenter = 0,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_icon3_png",
+        t.verticalCenter = -5,
+        t
+    },
+    i.unlock3_i = function() {
+        var t = new eui.Image;
+        return this.unlock3 = t,
+        t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_wjs_fb_4_png",
+        t.verticalCenter = 0,
+        t.visible = !0,
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconName_png",
+        t.verticalCenter = 45,
+        t
+    },
+    i.txtIcon3_i = function() {
+        var t = new eui.Label;
+        return this.txtIcon3 = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 22,
+        t.stroke = 1,
+        t.strokeColor = 8277664,
+        t.text = "         ",
+        t.textColor = 16777215,
+        t.verticalCenter = 45,
+        t
+    },
+    i.item4_i = function() {
+        var t = new eui.Group;
+        return this.item4 = t,
+        t.height = 0,
+        t.horizontalCenter = 201.5,
+        t.visible = !0,
+        t.width = 0,
+        t.y = 449,
+        t.elementsContent = [this._Image11_i(), this._Image12_i(), this.unlock4_i(), this._Image13_i(), this.txtIcon4_i()],
+        t
+    },
+    i._Image11_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconbg_png",
+        t.verticalCenter = 0,
+        t
+    },
+    i._Image12_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_icon1_png",
+        t.verticalCenter = -5,
+        t
+    },
+    i.unlock4_i = function() {
+        var t = new eui.Image;
+        return this.unlock4 = t,
+        t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_wjs_fb_4_png",
+        t.verticalCenter = 0,
+        t
+    },
+    i._Image13_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconName_png",
+        t.verticalCenter = 45,
+        t
+    },
+    i.txtIcon4_i = function() {
+        var t = new eui.Label;
+        return this.txtIcon4 = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 22,
+        t.stroke = 1,
+        t.strokeColor = 8277664,
+        t.text = "          ",
+        t.textColor = 16777215,
+        t.verticalCenter = 45,
+        t.visible = !0,
+        t
+    },
+    i.item5_i = function() {
+        var t = new eui.Group;
+        return this.item5 = t,
+        t.height = 0,
+        t.horizontalCenter = 376.5,
+        t.visible = !0,
+        t.width = 0,
+        t.y = 409,
+        t.elementsContent = [this._Image14_i(), this._Image15_i(), this.unlock5_i(), this._Image16_i(), this.txtIcon5_i()],
+        t
+    },
+    i._Image14_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconbg_png",
+        t.verticalCenter = 0,
+        t
+    },
+    i._Image15_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.verticalCenter = -5,
+        t
+    },
+    i.unlock5_i = function() {
+        var t = new eui.Image;
+        return this.unlock5 = t,
+        t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_wjs_fb_4_png",
+        t.verticalCenter = 0,
+        t
+    },
+    i._Image16_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "oa_battlepanel_iconName_png",
+        t.verticalCenter = 45,
+        t
+    },
+    i.txtIcon5_i = function() {
+        var t = new eui.Label;
+        return this.txtIcon5 = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 22,
+        t.stroke = 1,
+        t.strokeColor = 8277664,
+        t.text = "          ",
+        t.textColor = 16777215,
+        t.verticalCenter = 45,
+        t
+    },
+    i.hasDone_i = function() {
+        var t = new eui.Image;
+        return this.hasDone = t,
+        t.horizontalCenter = 1,
+        t.source = "oa_battlepanel_hasdone_png",
+        t.visible = !0,
+        t.y = 540,
+        t
+    },
+    i.imghasDone_i = function() {
+        var t = new eui.Image;
+        return this.imghasDone = t,
+        t.horizontalCenter = 92,
+        t.source = "oa_battlepanel_imghasDone_png",
+        t.visible = !0,
+        t.y = 546,
+        t
+    },
+    i.grp_notDone_i = function() {
+        var t = new eui.Group;
+        return this.grp_notDone = t,
+        t.horizontalCenter = -12.5,
+        t.visible = !0,
+        t.width = 407,
+        t.y = 520,
+        t.elementsContent = [this._Group1_i(), this.btnUnlock_i(), this.btnyijian_i()],
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image17_i(), this.txt_needNum_i(), this.icon3_i()],
+        t
+    },
+    i._Image17_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_battlepanel_jx_2_kb_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 17.1,
+        t
+    },
+    i.txt_needNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_needNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 22,
+        t.text = "5/5",
+        t.textColor = 8277664,
+        t.x = 127,
+        t.y = 22,
+        t
+    },
+    i.icon3_i = function() {
+        var t = new eui.Image;
+        return this.icon3 = t,
+        t.height = 55,
+        t.width = 55,
+        t.x = 72.3,
+        t.y = 0,
+        t
+    },
+    i.btnUnlock_i = function() {
+        var t = new eui.Image;
+        return this.btnUnlock = t,
+        t.horizontalCenter = 95.5,
+        t.source = "oa_battlepanel_btnunlock_png",
+        t.y = 50,
+        t
+    },
+    i.btnyijian_i = function() {
+        var t = new eui.Image;
+        return this.btnyijian = t,
+        t.horizontalCenter = -56.5,
+        t.source = "oa_battlepanel_btnyijian_png",
+        t.y = 50,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.right = 60,
+        t.touchEnabled = !1,
+        t.touchThrough = !0,
+        t.visible = !0,
+        t.width = 330,
+        t.y = 18,
+        t.elementsContent = [this.coins_i(), this.txt_leftTime_i(), this._Label1_i(), this.btnStart_i()],
+        t
+    },
+    i.coins_i = function() {
+        var t = new eui.Group;
+        return this.coins = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image18_i(), this._Image19_i(), this.txtCoin2_i(), this.txtCoin1_i(), this.imgDiamond_i(), this.btnadd1_i(), this.btnadd2_i(), this.iconCoin2_i()],
+        t
+    },
+    i._Image18_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_battlepanel_img_di2_png",
+        t.x = 187,
+        t.y = 5,
+        t
+    },
+    i._Image19_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_battlepanel_img_di2_png",
+        t.x = 22,
+        t.y = 5,
+        t
+    },
+    i.txtCoin2_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0101510119682,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.x = 225,
+        t.y = 8,
+        t
+    },
+    i.txtCoin1_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0101510119682,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.x = 71,
+        t.y = 8,
+        t
+    },
+    i.imgDiamond_i = function() {
+        var t = new eui.Image;
+        return this.imgDiamond = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 174,
+        t.y = 0,
+        t
+    },
+    i.btnadd1_i = function() {
+        var t = new eui.Image;
+        return this.btnadd1 = t,
+        t.source = "oa_battlepanel_btnadd_png",
+        t.x = 140,
+        t.y = 5,
+        t
+    },
+    i.btnadd2_i = function() {
+        var t = new eui.Image;
+        return this.btnadd2 = t,
+        t.source = "oa_battlepanel_btnadd_png",
+        t.x = 302,
+        t.y = 5,
+        t
+    },
+    i.iconCoin2_i = function() {
+        var t = new eui.Image;
+        return this.iconCoin2 = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 10,
+        t.y = 0,
+        t
+    },
+    i.txt_leftTime_i = function() {
+        var t = new eui.Label;
+        return this.txt_leftTime = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 5686526,
+        t.x = 305,
+        t.y = 510,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "今日剩余挑战次数：",
+        t.textColor = 16777215,
+        t.x = 147,
+        t.y = 510,
+        t
+    },
+    i.btnStart_i = function() {
+        var t = new eui.Image;
+        return this.btnStart = t,
+        t.source = "oa_battlepanel_slan_png",
+        t.x = 147,
+        t.y = 533,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BattlepopSkin.exml"] = window.oracleAdvance.BattlepopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["yhgg", "btnClose", "commom", "txtDec", "txt_petChanllenge", "content", "btnBag", "btnCure", "petHead", "btnDraw", "btnFight"],
+        this.height = 434,
+        this.width = 753,
+        this.elementsContent = [this.commom_i(), this.content_i(), this.btnBag_i(), this.btnCure_i(), this._Image5_i(), this.petHead_i(), this.btnDraw_i(), this.btnFight_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.commom_i = function() {
+        var t = new eui.Group;
+        return this.commom = t,
+        t.cacheAsBitmap = !0,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.yhgg_i(), this.btnClose_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 430,
+        t.scale9Grid = new egret.Rectangle(11, 9, 10, 8),
+        t.source = "common_dialog_s9_pop_bg4_png",
+        t.width = 753,
+        t.x = 0,
+        t.y = 4,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "common_pop_up_bg_big_png",
+        t.visible = !0,
+        t.width = 748,
+        t.x = 1,
+        t.y = 3,
+        t
+    },
+    i.yhgg_i = function() {
+        var t = new eui.Image;
+        return this.yhgg = t,
+        t.source = "oa_battlepop_yhgg_png",
+        t.x = 32,
+        t.y = 0,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 712,
+        t.y = 3,
+        t
+    },
+    i.content_i = function() {
+        var t = new eui.Group;
+        return this.content = t,
+        t.cacheAsBitmap = !0,
+        t.visible = !0,
+        t.x = 148,
+        t.y = 71,
+        t.elementsContent = [this._Image3_i(), this.txtDec_i(), this._Image4_i(), this.txt_petChanllenge_i(), this._Label1_i(), this._Label2_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 176,
+        t.source = "oa_battlepop_contentbg_kb_png",
+        t.width = 576,
+        t.x = 0,
+        t.y = 100,
+        t
+    },
+    i.txtDec_i = function() {
+        var t = new eui.Label;
+        return this.txtDec = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 2,
+        t.size = 16,
+        t.textColor = 12969727,
+        t.width = 540,
+        t.x = 17,
+        t.y = 120,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 570,
+        t.rotation = 270,
+        t.source = "oa_battlepop_contentbg_kb_png",
+        t.visible = !0,
+        t.width = 74,
+        t.x = 0,
+        t.y = 74,
+        t
+    },
+    i.txt_petChanllenge_i = function() {
+        var t = new eui.Label;
+        return this.txt_petChanllenge = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "使用                                             战胜对手",
+        t.textColor = 4173823,
+        t.x = 10,
+        t.y = 43,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "精灵精灵精灵精灵精灵",
+        t.textColor = 16769343,
+        t.visible = !1,
+        t.x = 59,
+        t.y = 43,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "单精灵对战",
+        t.textColor = 16777215,
+        t.visible = !0,
+        t.x = 9,
+        t.y = 14,
+        t
+    },
+    i.btnBag_i = function() {
+        var t = new eui.Image;
+        return this.btnBag = t,
+        t.source = "oa_battlepop_jlbb_png",
+        t.x = 21,
+        t.y = 360,
+        t
+    },
+    i.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "oa_battlepop_jlhf_png",
+        t.x = 102,
+        t.y = 360,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 100,
+        t.scale9Grid = new egret.Rectangle(24, 24, 25, 25),
+        t.source = "common_item_bg_style_70_70_png",
+        t.width = 100,
+        t.x = 20,
+        t.y = 71,
+        t
+    },
+    i.petHead_i = function() {
+        var t = new eui.Image;
+        return this.petHead = t,
+        t.height = 94.954,
+        t.source = "",
+        t.width = 95,
+        t.x = 22,
+        t.y = 73,
+        t
+    },
+    i.btnDraw_i = function() {
+        var t = new eui.Image;
+        return this.btnDraw = t,
+        t.source = "oa_battlepop_btnfight_png",
+        t.visible = !0,
+        t.x = 605,
+        t.y = 369,
+        t
+    },
+    i.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.source = "oa_battlepop_btnStartfight_png",
+        t.x = 605,
+        t.y = 369,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Infopop1Skin.exml"] = window.oracleAdvance.Infopop1Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["pet", "txt0_be", "txt0_af", "txt1_be", "txt1_af", "txt1_dif", "txt2_be", "txt2_af", "txt2_dif", "txt3_be", "txt3_af", "txt4_be", "txt4_af", "txt5_be", "txt5_af", "txt5_dif", "txt0_dif", "txt3_dif", "txt4_dif", "imgUp1", "imgUp2", "imgUp5", "imgUp3", "imgUp4", "imgUp0", "content", "txt_oldRace", "txt_newRace", "txt_advanceRace", "zhongzu", "btnClose", "pop"],
+        this.height = 431,
+        this.width = 753,
+        this.elementsContent = [this.pop_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.pop_i = function() {
+        var t = new eui.Group;
+        return this.pop = t,
+        t.cacheAsBitmap = !0,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this._Group1_i(), this._Image4_i(), this.content_i(), this._Image17_i(), this._Image18_i(), this.zhongzu_i(), this.btnClose_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 430,
+        t.scale9Grid = new egret.Rectangle(11, 9, 10, 8),
+        t.source = "common_dialog_s9_pop_bg4_png",
+        t.width = 753,
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "common_pop_up_bg_big_png",
+        t.visible = !0,
+        t.width = 748,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 330,
+        t.width = 210,
+        t.x = 20,
+        t.y = 66,
+        t.elementsContent = [this.pet_i(), this._Image3_i()],
+        t
+    },
+    i.pet_i = function() {
+        var t = new eui.Image;
+        return this.pet = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.source = "oa_infopop_petImg1_png",
+        t.top = 0,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 283,
+        t.scale9Grid = new egret.Rectangle(6, 7, 6, 5),
+        t.source = "oa_infopop1_kuang_png",
+        t.visible = !1,
+        t.width = 184,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 180,
+        t.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        t.source = "oa_infopop1_jx_316_kb_png",
+        t.width = 469,
+        t.x = 243,
+        t.y = 188,
+        t
+    },
+    i.content_i = function() {
+        var t = new eui.Group;
+        return this.content = t,
+        t.x = 253,
+        t.y = 216,
+        t.elementsContent = [this._Label1_i(), this._Label2_i(), this._Label3_i(), this._Label4_i(), this._Label5_i(), this._Label6_i(), this.txt0_be_i(), this.txt0_af_i(), this.txt1_be_i(), this.txt1_af_i(), this.txt1_dif_i(), this.txt2_be_i(), this.txt2_af_i(), this.txt2_dif_i(), this.txt3_be_i(), this.txt3_af_i(), this.txt4_be_i(), this.txt4_af_i(), this.txt5_be_i(), this.txt5_af_i(), this.txt5_dif_i(), this.txt0_dif_i(), this.txt3_dif_i(), this.txt4_dif_i(), this._Image5_i(), this._Image6_i(), this.imgUp1_i(), this._Image7_i(), this._Image8_i(), this.imgUp2_i(), this._Image9_i(), this._Image10_i(), this.imgUp5_i(), this._Image11_i(), this._Image12_i(), this._Image13_i(), this._Image14_i(), this._Image15_i(), this._Image16_i(), this.imgUp3_i(), this.imgUp4_i(), this.imgUp0_i()],
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "攻击：",
+        t.textColor = 10868733,
+        t.x = 30,
+        t.y = 8,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "防御：",
+        t.textColor = 10868733,
+        t.x = 31,
+        t.y = 57,
+        t
+    },
+    i._Label3_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "速度：",
+        t.textColor = 10868733,
+        t.x = 30,
+        t.y = 106,
+        t
+    },
+    i._Label4_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "特攻：",
+        t.textColor = 10868733,
+        t.x = 266,
+        t.y = 8,
+        t
+    },
+    i._Label5_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "特防：",
+        t.textColor = 10868733,
+        t.x = 265,
+        t.y = 57,
+        t
+    },
+    i._Label6_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "体力：",
+        t.textColor = 10868733,
+        t.x = 265,
+        t.y = 106,
+        t
+    },
+    i.txt0_be_i = function() {
+        var t = new eui.Label;
+        return this.txt0_be = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "705",
+        t.textColor = 16777215,
+        t.x = 312,
+        t.y = 106,
+        t
+    },
+    i.txt0_af_i = function() {
+        var t = new eui.Label;
+        return this.txt0_af = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "740",
+        t.textColor = 16777215,
+        t.x = 372,
+        t.y = 106,
+        t
+    },
+    i.txt1_be_i = function() {
+        var t = new eui.Label;
+        return this.txt1_be = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "705",
+        t.textColor = 16777215,
+        t.x = 77,
+        t.y = 8,
+        t
+    },
+    i.txt1_af_i = function() {
+        var t = new eui.Label;
+        return this.txt1_af = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "740",
+        t.textColor = 16777215,
+        t.x = 136,
+        t.y = 8,
+        t
+    },
+    i.txt1_dif_i = function() {
+        var t = new eui.Label;
+        return this.txt1_dif = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "35",
+        t.textColor = 6153561,
+        t.x = 197,
+        t.y = 8,
+        t
+    },
+    i.txt2_be_i = function() {
+        var t = new eui.Label;
+        return this.txt2_be = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "705",
+        t.textColor = 16777215,
+        t.x = 77,
+        t.y = 57,
+        t
+    },
+    i.txt2_af_i = function() {
+        var t = new eui.Label;
+        return this.txt2_af = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "740",
+        t.textColor = 16777215,
+        t.x = 136,
+        t.y = 57,
+        t
+    },
+    i.txt2_dif_i = function() {
+        var t = new eui.Label;
+        return this.txt2_dif = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "35",
+        t.textColor = 6153561,
+        t.x = 197,
+        t.y = 57,
+        t
+    },
+    i.txt3_be_i = function() {
+        var t = new eui.Label;
+        return this.txt3_be = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "705",
+        t.textColor = 16777215,
+        t.x = 312,
+        t.y = 8,
+        t
+    },
+    i.txt3_af_i = function() {
+        var t = new eui.Label;
+        return this.txt3_af = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "740",
+        t.textColor = 16777215,
+        t.x = 371,
+        t.y = 8,
+        t
+    },
+    i.txt4_be_i = function() {
+        var t = new eui.Label;
+        return this.txt4_be = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "705",
+        t.textColor = 16777215,
+        t.x = 312,
+        t.y = 57,
+        t
+    },
+    i.txt4_af_i = function() {
+        var t = new eui.Label;
+        return this.txt4_af = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "740",
+        t.textColor = 16777215,
+        t.x = 372,
+        t.y = 57,
+        t
+    },
+    i.txt5_be_i = function() {
+        var t = new eui.Label;
+        return this.txt5_be = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "705",
+        t.textColor = 16777215,
+        t.x = 77,
+        t.y = 106,
+        t
+    },
+    i.txt5_af_i = function() {
+        var t = new eui.Label;
+        return this.txt5_af = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "740",
+        t.textColor = 16777215,
+        t.x = 136,
+        t.y = 106,
+        t
+    },
+    i.txt5_dif_i = function() {
+        var t = new eui.Label;
+        return this.txt5_dif = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "35",
+        t.textColor = 6153561,
+        t.x = 197,
+        t.y = 106,
+        t
+    },
+    i.txt0_dif_i = function() {
+        var t = new eui.Label;
+        return this.txt0_dif = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "35",
+        t.textColor = 6153561,
+        t.x = 432,
+        t.y = 106,
+        t
+    },
+    i.txt3_dif_i = function() {
+        var t = new eui.Label;
+        return this.txt3_dif = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "35",
+        t.textColor = 6153561,
+        t.x = 433,
+        t.y = 8,
+        t
+    },
+    i.txt4_dif_i = function() {
+        var t = new eui.Label;
+        return this.txt4_dif = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "35",
+        t.textColor = 6153561,
+        t.x = 432,
+        t.y = 57,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "common_atk_png",
+        t.width = 21,
+        t.x = 0,
+        t.y = 6,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_turnpagesright_right_1_png",
+        t.x = 101,
+        t.y = -2.786,
+        t
+    },
+    i.imgUp1_i = function() {
+        var t = new eui.Image;
+        return this.imgUp1 = t,
+        t.source = "oa_infopop1_turnpagesright_right_2_png",
+        t.x = 160,
+        t.y = -5,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "common_def_png",
+        t.width = 21,
+        t.x = 2,
+        t.y = 52,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_turnpagesright_right_1_png",
+        t.x = 101,
+        t.y = 45.214,
+        t
+    },
+    i.imgUp2_i = function() {
+        var t = new eui.Image;
+        return this.imgUp2 = t,
+        t.source = "oa_infopop1_turnpagesright_right_2_png",
+        t.x = 160,
+        t.y = 43,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "common_speed_png",
+        t.width = 21,
+        t.x = 0,
+        t.y = 101,
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_turnpagesright_right_1_png",
+        t.x = 101,
+        t.y = 94.214,
+        t
+    },
+    i.imgUp5_i = function() {
+        var t = new eui.Image;
+        return this.imgUp5 = t,
+        t.source = "oa_infopop1_turnpagesright_right_2_png",
+        t.x = 160,
+        t.y = 92,
+        t
+    },
+    i._Image11_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "common_satk_png",
+        t.width = 21,
+        t.x = 237,
+        t.y = 5,
+        t
+    },
+    i._Image12_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_turnpagesright_right_1_png",
+        t.x = 336,
+        t.y = -2.786,
+        t
+    },
+    i._Image13_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_turnpagesright_right_1_png",
+        t.x = 336,
+        t.y = 45.214,
+        t
+    },
+    i._Image14_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "common_sdef_png",
+        t.width = 21,
+        t.x = 237,
+        t.y = 52,
+        t
+    },
+    i._Image15_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "common_hp_png",
+        t.width = 21,
+        t.x = 237,
+        t.y = 101,
+        t
+    },
+    i._Image16_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_turnpagesright_right_1_png",
+        t.x = 336,
+        t.y = 94.214,
+        t
+    },
+    i.imgUp3_i = function() {
+        var t = new eui.Image;
+        return this.imgUp3 = t,
+        t.source = "oa_infopop1_turnpagesright_right_2_png",
+        t.x = 395,
+        t.y = -5,
+        t
+    },
+    i.imgUp4_i = function() {
+        var t = new eui.Image;
+        return this.imgUp4 = t,
+        t.source = "oa_infopop1_turnpagesright_right_2_png",
+        t.x = 395,
+        t.y = 43,
+        t
+    },
+    i.imgUp0_i = function() {
+        var t = new eui.Image;
+        return this.imgUp0 = t,
+        t.source = "oa_infopop1_turnpagesright_right_2_png",
+        t.x = 395,
+        t.y = 92,
+        t
+    },
+    i._Image17_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_down_1_png",
+        t.x = 434,
+        t.y = 156,
+        t
+    },
+    i._Image18_i = function() {
+        var t = new eui.Image;
+        return t.height = 69,
+        t.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        t.source = "oa_infopop1_jx_316_kb_png",
+        t.width = 468,
+        t.x = 244,
+        t.y = 89,
+        t
+    },
+    i.zhongzu_i = function() {
+        var t = new eui.Group;
+        return this.zhongzu = t,
+        t.x = 257,
+        t.y = 102,
+        t.elementsContent = [this._Image19_i(), this._Image20_i(), this._Image21_i(), this._Label7_i(), this.txt_oldRace_i(), this.txt_newRace_i(), this.txt_advanceRace_i()],
+        t
+    },
+    i._Image19_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_turnpagesright_right_1_png",
+        t.x = 217,
+        t.y = 5.214,
+        t
+    },
+    i._Image20_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_turnpagesright_right_1_png",
+        t.x = 239,
+        t.y = 5.214,
+        t
+    },
+    i._Image21_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_turnpagesright_right_2_png",
+        t.x = 366,
+        t.y = 2.214,
+        t
+    },
+    i._Label7_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 22,
+        t.stroke = 0,
+        t.strokeColor = 12578815,
+        t.text = "总种族值提升",
+        t.textColor = 16777215,
+        t.visible = !0,
+        t.x = -1,
+        t.y = 14,
+        t
+    },
+    i.txt_oldRace_i = function() {
+        var t = new eui.Label;
+        return this.txt_oldRace = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 30,
+        t.text = "705",
+        t.textColor = 16514895,
+        t.x = 161,
+        t.y = 10,
+        t
+    },
+    i.txt_newRace_i = function() {
+        var t = new eui.Label;
+        return this.txt_newRace = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 30,
+        t.text = "740",
+        t.textColor = 16514895,
+        t.x = 285,
+        t.y = 10,
+        t
+    },
+    i.txt_advanceRace_i = function() {
+        var t = new eui.Label;
+        return this.txt_advanceRace = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 30,
+        t.text = "35",
+        t.textColor = 6153561,
+        t.x = 409,
+        t.y = 10,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 712,
+        t.y = 1,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Infopop2Skin.exml"] = window.oracleAdvance.Infopop2Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["pet", "txt_afterTe", "_af", "txt_beforeTe", "_be", "btnClose", "pop"],
+        this.height = 431,
+        this.width = 753,
+        this.elementsContent = [this.pop_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.pop_i = function() {
+        var t = new eui.Group;
+        return this.pop = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Group2_i(), this._af_i(), this._be_i(), this.btnClose_i()],
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.cacheAsBitmap = !0,
+        t.height = 431,
+        t.width = 753,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this._Group1_i(), this._Image4_i(), this._Image5_i(), this._Image6_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 430,
+        t.scale9Grid = new egret.Rectangle(11, 9, 10, 8),
+        t.source = "common_dialog_s9_pop_bg4_png",
+        t.width = 753,
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "common_pop_up_bg_big_png",
+        t.width = 748,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 330,
+        t.width = 210,
+        t.x = 20,
+        t.y = 60,
+        t.elementsContent = [this.pet_i(), this._Image3_i()],
+        t
+    },
+    i.pet_i = function() {
+        var t = new eui.Image;
+        return this.pet = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.scaleX = 1,
+        t.source = "oa_infopop_petImg1_png",
+        t.top = 0,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 283,
+        t.scale9Grid = new egret.Rectangle(6, 7, 6, 5),
+        t.source = "oa_infopop1_kuang_png",
+        t.visible = !1,
+        t.width = 184,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 125,
+        t.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        t.source = "oa_infopop1_jx_316_kb_png",
+        t.width = 442,
+        t.x = 270,
+        t.y = 243,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_infopop1_down_1_png",
+        t.x = 448,
+        t.y = 212,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 125,
+        t.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        t.source = "oa_infopop1_jx_316_kb_png",
+        t.width = 442,
+        t.x = 270,
+        t.y = 90,
+        t
+    },
+    i._af_i = function() {
+        var t = new eui.Scroller;
+        return this._af = t,
+        t.height = 100,
+        t.visible = !0,
+        t.width = 400,
+        t.x = 295,
+        t.y = 255,
+        t.viewport = this._Group3_i(),
+        t
+    },
+    i._Group3_i = function() {
+        var t = new eui.Group;
+        return t.elementsContent = [this.txt_afterTe_i()],
+        t
+    },
+    i.txt_afterTe_i = function() {
+        var t = new eui.Label;
+        return this.txt_afterTe = t,
+        t.fontFamily = "MFShangHei",
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.size = 16,
+        t.textColor = 4187130,
+        t.width = 400,
+        t
+    },
+    i._be_i = function() {
+        var t = new eui.Scroller;
+        return this._be = t,
+        t.height = 100,
+        t.visible = !0,
+        t.width = 400,
+        t.x = 295,
+        t.y = 100,
+        t.viewport = this._Group4_i(),
+        t
+    },
+    i._Group4_i = function() {
+        var t = new eui.Group;
+        return t.elementsContent = [this.txt_beforeTe_i()],
+        t
+    },
+    i.txt_beforeTe_i = function() {
+        var t = new eui.Label;
+        return this.txt_beforeTe = t,
+        t.fontFamily = "MFShangHei",
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.size = 16,
+        t.textColor = 12834813,
+        t.width = 400,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 712,
+        t.y = 1,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvance.MainpanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "imgPet", "btnGet", "btnGo", "btnFastAdvanced", "btnExchange", "hasDone", "skillbg", "prop_1", "txt_skillName_1", "txt_damage_1", "txt_pp_1", "skillTag_1", "skillItem_1", "prop_2", "txt_skillName_2", "txt_damage_2", "txt_pp_2", "skillTag_2", "skillItem_2", "prop_3", "txt_skillName_3", "txt_damage_3", "txt_pp_3", "skillTag_3", "skillItem_3", "prop_4", "txt_skillName_4", "txt_damage_4", "txt_pp_4", "skillTag_4", "skillItem_4", "skill", "btnTurnpagesright", "txt_oldRace", "txt_newRace", "zhongzu", "groupTag", "tag3", "tag2", "tag1", "texing", "icon", "txtLeft", "txt", "txt_tid1", "txt_tid1_info", "txt_tid2", "btnHelp"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.imgPet_i(), this.btnGet_i(), this._Group3_i(), this.txt_i(), this._Group4_i(), this._Group5_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.percentHeight = 100,
+        t.source = "oa_mainpanel_bg_png",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.imgPet_i = function() {
+        var t = new eui.Image;
+        return this.imgPet = t,
+        t.horizontalCenter = -375,
+        t.source = "oa_mainpanel_imgpet_png",
+        t.visible = !0,
+        t
+    },
+    i.btnGet_i = function() {
+        var t = new eui.Image;
+        return this.btnGet = t,
+        t.left = 195,
+        t.source = "oa_mainpanel_btnget_png",
+        t.visible = !0,
+        t.y = 539,
+        t
+    },
+    i._Group3_i = function() {
+        var t = new eui.Group;
+        return t.cacheAsBitmap = !0,
+        t.right = 18,
+        t.visible = !0,
+        t.width = 519,
+        t.y = 37,
+        t.elementsContent = [this.btnGo_i(), this.btnFastAdvanced_i(), this.btnExchange_i(), this.hasDone_i(), this.skill_i(), this.zhongzu_i(), this.texing_i()],
+        t
+    },
+    i.btnGo_i = function() {
+        var t = new eui.Image;
+        return this.btnGo = t,
+        t.source = "oa_mainpanel_btngo_png",
+        t.x = 376,
+        t.y = 520,
+        t
+    },
+    i.btnFastAdvanced_i = function() {
+        var t = new eui.Image;
+        return this.btnFastAdvanced = t,
+        t.source = "oa_mainpanel_btnFastAdvanced_png",
+        t.x = 227,
+        t.y = 520,
+        t
+    },
+    i.btnExchange_i = function() {
+        var t = new eui.Image;
+        return this.btnExchange = t,
+        t.source = "oa_mainpanel_btnExchancge_png",
+        t.x = 376,
+        t.y = 520,
+        t
+    },
+    i.hasDone_i = function() {
+        var t = new eui.Image;
+        return this.hasDone = t,
+        t.source = "oa_mainpanel_hasdone_png",
+        t.visible = !0,
+        t.x = 231,
+        t.y = 524,
+        t
+    },
+    i.skill_i = function() {
+        var t = new eui.Group;
+        return this.skill = t,
+        t.visible = !0,
+        t.x = 4,
+        t.y = 333,
+        t.elementsContent = [this.skillbg_i(), this._Image1_i(), this._Group1_i()],
+        t
+    },
+    i.skillbg_i = function() {
+        var t = new eui.Image;
+        return this.skillbg = t,
+        t.height = 187,
+        t.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        t.source = "oa_mainpanel_skillbg_png",
+        t.width = 503,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_xzjn_png",
+        t.x = 8,
+        t.y = 4,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 12,
+        t.y = 35,
+        t.elementsContent = [this.skillItem_1_i(), this.skillItem_2_i(), this.skillItem_3_i(), this.skillItem_4_i()],
+        t
+    },
+    i.skillItem_1_i = function() {
+        var t = new eui.Group;
+        return this.skillItem_1 = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image2_i(), this.prop_1_i(), this.txt_skillName_1_i(), this.txt_damage_1_i(), this.txt_pp_1_i(), this.skillTag_1_i()],
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_juxing_530_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.prop_1_i = function() {
+        var t = new eui.Image;
+        return this.prop_1 = t,
+        t.height = 40,
+        t.source = "oa_mainpanel_prop_png",
+        t.width = 40,
+        t.x = 10,
+        t.y = 13,
+        t
+    },
+    i.txt_skillName_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_skillName_1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0186439894523,
+        t.text = "技能名称七个字",
+        t.textColor = 16777215,
+        t.x = 56,
+        t.y = 11,
+        t
+    },
+    i.txt_damage_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_damage_1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "威力：200",
+        t.textColor = 12842239,
+        t.x = 58,
+        t.y = 40,
+        t
+    },
+    i.txt_pp_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_pp_1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = " 20",
+        t.textColor = 12841983,
+        t.x = 152.072,
+        t.y = 40,
+        t
+    },
+    i.skillTag_1_i = function() {
+        var t = new eui.Image;
+        return this.skillTag_1 = t,
+        t.source = "",
+        t.x = 195,
+        t.y = 0,
+        t
+    },
+    i.skillItem_2_i = function() {
+        var t = new eui.Group;
+        return this.skillItem_2 = t,
+        t.x = 242,
+        t.y = 0,
+        t.elementsContent = [this._Image3_i(), this.prop_2_i(), this.txt_skillName_2_i(), this.txt_damage_2_i(), this.txt_pp_2_i(), this.skillTag_2_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_juxing_530_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.prop_2_i = function() {
+        var t = new eui.Image;
+        return this.prop_2 = t,
+        t.height = 40,
+        t.source = "oa_mainpanel_prop_png",
+        t.width = 40,
+        t.x = 10,
+        t.y = 13,
+        t
+    },
+    i.txt_skillName_2_i = function() {
+        var t = new eui.Label;
+        return this.txt_skillName_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0186439894523,
+        t.text = "技能名称七个字",
+        t.textColor = 16777215,
+        t.x = 56,
+        t.y = 11,
+        t
+    },
+    i.txt_damage_2_i = function() {
+        var t = new eui.Label;
+        return this.txt_damage_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "威力：200",
+        t.textColor = 12842239,
+        t.x = 58,
+        t.y = 40,
+        t
+    },
+    i.txt_pp_2_i = function() {
+        var t = new eui.Label;
+        return this.txt_pp_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "PP：20",
+        t.textColor = 12841983,
+        t.x = 152.072,
+        t.y = 40,
+        t
+    },
+    i.skillTag_2_i = function() {
+        var t = new eui.Image;
+        return this.skillTag_2 = t,
+        t.source = "",
+        t.x = 195,
+        t.y = 0,
+        t
+    },
+    i.skillItem_3_i = function() {
+        var t = new eui.Group;
+        return this.skillItem_3 = t,
+        t.visible = !0,
+        t.x = 0,
+        t.y = 73,
+        t.elementsContent = [this._Image4_i(), this.prop_3_i(), this.txt_skillName_3_i(), this.txt_damage_3_i(), this.txt_pp_3_i(), this.skillTag_3_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_juxing_530_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.prop_3_i = function() {
+        var t = new eui.Image;
+        return this.prop_3 = t,
+        t.height = 40,
+        t.source = "oa_mainpanel_prop_png",
+        t.width = 40,
+        t.x = 10,
+        t.y = 13,
+        t
+    },
+    i.txt_skillName_3_i = function() {
+        var t = new eui.Label;
+        return this.txt_skillName_3 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0186439894523,
+        t.text = "技能名称七个字",
+        t.textColor = 16777215,
+        t.x = 56,
+        t.y = 11,
+        t
+    },
+    i.txt_damage_3_i = function() {
+        var t = new eui.Label;
+        return this.txt_damage_3 = t,
+        t.fontFamily = " MFShangHei",
+        t.size = 17,
+        t.text = "威力：200",
+        t.textColor = 12842239,
+        t.x = 58,
+        t.y = 40,
+        t
+    },
+    i.txt_pp_3_i = function() {
+        var t = new eui.Label;
+        return this.txt_pp_3 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "PP：20",
+        t.textColor = 12841983,
+        t.x = 152.072,
+        t.y = 40,
+        t
+    },
+    i.skillTag_3_i = function() {
+        var t = new eui.Image;
+        return this.skillTag_3 = t,
+        t.source = "",
+        t.x = 195,
+        t.y = 0,
+        t
+    },
+    i.skillItem_4_i = function() {
+        var t = new eui.Group;
+        return this.skillItem_4 = t,
+        t.x = 242,
+        t.y = 73,
+        t.elementsContent = [this._Image5_i(), this.prop_4_i(), this.txt_skillName_4_i(), this.txt_damage_4_i(), this.txt_pp_4_i(), this.skillTag_4_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_juxing_530_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.prop_4_i = function() {
+        var t = new eui.Image;
+        return this.prop_4 = t,
+        t.height = 40,
+        t.source = "oa_mainpanel_prop_png",
+        t.width = 40,
+        t.x = 10,
+        t.y = 13,
+        t
+    },
+    i.txt_skillName_4_i = function() {
+        var t = new eui.Label;
+        return this.txt_skillName_4 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0186439894523,
+        t.text = "技能名称七个字",
+        t.textColor = 16777215,
+        t.x = 56,
+        t.y = 11,
+        t
+    },
+    i.txt_damage_4_i = function() {
+        var t = new eui.Label;
+        return this.txt_damage_4 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "威力：200",
+        t.textColor = 12842239,
+        t.x = 58,
+        t.y = 40,
+        t
+    },
+    i.txt_pp_4_i = function() {
+        var t = new eui.Label;
+        return this.txt_pp_4 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "PP：20",
+        t.textColor = 12841983,
+        t.x = 152.072,
+        t.y = 40,
+        t
+    },
+    i.skillTag_4_i = function() {
+        var t = new eui.Image;
+        return this.skillTag_4 = t,
+        t.source = "",
+        t.x = 195,
+        t.y = 0,
+        t
+    },
+    i.zhongzu_i = function() {
+        var t = new eui.Group;
+        return this.zhongzu = t,
+        t.x = 0,
+        t.y = 229,
+        t.elementsContent = [this._Image6_i(), this._Image7_i(), this.btnTurnpagesright_i(), this._Image8_i(), this._Image9_i(), this._Image10_i(), this.txt_oldRace_i(), this.txt_newRace_i()],
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.scale9Grid = new egret.Rectangle(79, 48, 79, 15),
+        t.source = "oa_mainpanel_contenbg_2_png",
+        t.visible = !0,
+        t.width = 264,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_czzds_png",
+        t.x = 13,
+        t.y = 12,
+        t
+    },
+    i.btnTurnpagesright_i = function() {
+        var t = new eui.Image;
+        return this.btnTurnpagesright = t,
+        t.source = "oa_mainpanel_btnturnpagesright_png",
+        t.x = 109,
+        t.y = 49,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_turnpagesright_right_1_png",
+        t.visible = !1,
+        t.x = 105,
+        t.y = 43,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_turnpagesright_right_1_png",
+        t.visible = !1,
+        t.x = 126,
+        t.y = 43,
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_tuoyuan_1_png",
+        t.x = 220,
+        t.y = 5,
+        t
+    },
+    i.txt_oldRace_i = function() {
+        var t = new eui.Label;
+        return this.txt_oldRace = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 45,
+        t.text = "705",
+        t.textColor = 16771648,
+        t.x = 26,
+        t.y = 40,
+        t
+    },
+    i.txt_newRace_i = function() {
+        var t = new eui.Label;
+        return this.txt_newRace = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 45,
+        t.text = "740",
+        t.textColor = 16771648,
+        t.x = 167,
+        t.y = 40,
+        t
+    },
+    i.texing_i = function() {
+        var t = new eui.Group;
+        return this.texing = t,
+        t.x = 270,
+        t.y = 229,
+        t.elementsContent = [this._Image11_i(), this.groupTag_i(), this._Group2_i(), this._Image12_i(), this._Image13_i()],
+        t
+    },
+    i._Image11_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_contenbg_2_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.groupTag_i = function() {
+        var t = new eui.Group;
+        return this.groupTag = t,
+        t.height = 26.345,
+        t.visible = !0,
+        t.x = 27,
+        t.y = 54,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = 12,
+        t.horizontalAlign = "left",
+        t.verticalAlign = "middle",
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.visible = !0,
+        t.x = 27,
+        t.y = 54,
+        t.elementsContent = [this.tag3_i(), this.tag2_i(), this.tag1_i()],
+        t
+    },
+    i.tag3_i = function() {
+        var t = new eui.Image;
+        return this.tag3 = t,
+        t.x = 129,
+        t.y = 0,
+        t
+    },
+    i.tag2_i = function() {
+        var t = new eui.Image;
+        return this.tag2 = t,
+        t.x = 59,
+        t.y = 1,
+        t
+    },
+    i.tag1_i = function() {
+        var t = new eui.Image;
+        return this.tag1 = t,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image12_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_txjh_png",
+        t.visible = !0,
+        t.x = 14,
+        t.y = 12,
+        t
+    },
+    i._Image13_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_tuoyuan_1_png",
+        t.visible = !0,
+        t.x = 190,
+        t.y = 6,
+        t
+    },
+    i.txt_i = function() {
+        var t = new eui.Group;
+        return this.txt = t,
+        t.cacheAsBitmap = !0,
+        t.right = 71,
+        t.y = 598,
+        t.elementsContent = [this.icon_i(), this.txtLeft_i(), this._Label1_i()],
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 92,
+        t.y = 2,
+        t
+    },
+    i.txtLeft_i = function() {
+        var t = new eui.Label;
+        return this.txtLeft = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 5686526,
+        t.x = 135,
+        t.y = 10,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "剩余可兑换       ：",
+        t.textColor = 16777215,
+        t.x = 0,
+        t.y = 10,
+        t
+    },
+    i._Group4_i = function() {
+        var t = new eui.Group;
+        return t.right = 30,
+        t.y = 185,
+        t.elementsContent = [this._Image14_i(), this.txt_tid1_i(), this.txt_tid1_info_i(), this.txt_tid2_i(), this._Label2_i()],
+        t
+    },
+    i._Image14_i = function() {
+        var t = new eui.Image;
+        return t.source = "oa_mainpanel_jx_532_fb_2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_tid1_i = function() {
+        var t = new eui.Label;
+        return this.txt_tid1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "XXXX-XXXX",
+        t.textColor = 16777215,
+        t.x = 33,
+        t.y = 11,
+        t
+    },
+    i.txt_tid1_info_i = function() {
+        var t = new eui.Label;
+        return this.txt_tid1_info = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16.6666641235352,
+        t.text = "参与试炼可以免费进阶",
+        t.textColor = 16777215,
+        t.x = 181,
+        t.y = 11,
+        t
+    },
+    i.txt_tid2_i = function() {
+        var t = new eui.Label;
+        return this.txt_tid2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "XXXX-XXXX",
+        t.textColor = 16777215,
+        t.x = 31,
+        t.y = 40,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16.6666641235352,
+        t.text = "试炼关闭，仅能付费进阶",
+        t.textColor = 16777215,
+        t.x = 164,
+        t.y = 40,
+        t
+    },
+    i._Group5_i = function() {
+        var t = new eui.Group;
+        return t.cacheAsBitmap = !0,
+        t.right = -30,
+        t.visible = !0,
+        t.y = 0,
+        t.elementsContent = [this._Image15_i(), this.btnHelp_i()],
+        t
+    },
+    i._Image15_i = function() {
+        var t = new eui.Image;
+        return t.right = 41,
+        t.source = "oa_mainpanel_title1_png",
+        t.visible = !0,
+        t.y = 18.242,
+        t
+    },
+    i.btnHelp_i = function() {
+        var t = new eui.Image;
+        return this.btnHelp = t,
+        t.right = 74,
+        t.source = "common_help_icon_1_png",
+        t.visible = !0,
+        t.y = 113.182,
+        t
+    },
+    e
+} (eui.Skin);

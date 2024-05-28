@@ -1,1 +1,108 @@
-eval(function(){function Z(Z){for(k=B=0;k<Z;)w<2&&(w=64,c=92<(c="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKwP:LZ=XVL`?KBJ;:^@l<:z<rB:ACZKnWokZ?khF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@AoP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBA^>m:_wi:bJkCZkHF<WJ[?UiN>Zw<=kP<?poV[lS:A_:WlR:;M:HHn:UU^l[>`s^I?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwEOS:Z;lC^lsi::JNasA]yk:[@N<`lX@BX_GF?=<f=LelmcFzA=k:]C=s_>ZW<`[:kTjhsHZa@:FXJ<:;f:R:HK::?gsCZ:>JnEuzYt:_?ZXB:SQdEAS:`<tFdZo]FM]]Ko?a>:_i=o<bbkLA]w;R:@?sEssI?>P^cOOK:;CS_Z:=aV::J_loDVP:;O:dBVZZXElJ_N:;@u;RrnZZ[et<sHeJX?JhH=cTCsK@xpHTc^NS^VXGyPKPFZUCe:Ztw:BA>de=Z:AdN::fXJZ?[sDql<jplg@]gjLSkF;J>=wyCJIoVDBWpvWrjxkY=w]pgP@MgJH;zV^YXSFGMv::mV@:V<J:?`unUiyKMadhviIOvs^eGMuKAkQXTWUPrQZIJpkC^AwzQyuTL@HdVHZB:=Gqr:I_yEs>@yAdB;kQcibZZBG_qV:D_]FDtdNa;JQyvv_ETu;BL[UTl=c;me?>a=_::f::OA:pf_iJNRB@Zp^L;Bbuq^LB@qZ:ujwi;<HJpZoJlM>gPlA?VQllvmUT::LV;sGTH<<;Bk<>AZYccCZsB:Bm]JJXCk::@gwGCaJ:a^K:;gIvJU;GBs;k_m_P[>?Decps:DDv]ku<UcJPMZXmQ^FacD<lI>ReRMkCLeI:nBVEiZEsZ?VM;T?VMWZJr:KKkNNlRTvCDb[FAzZo<nV;OjtOJKDOdN<yD_QO?^[few>>H[Lfv[kwKF<Z[sgFXR=_?T:lV]wAtiSFFk[dt;dpYgbKZGoqCsCZIB:eGsr_I:zT<];gKw>_::FymoJ:Y:Jyk>::pBxq>ZCZWdsFKzt>KxY[sHW;kQSZa:Z<JZcV=@Z?V<wuB:J_WfP::]_kLvcN;nCPZ_tc:<E_=FZD<cDN=Y>yqGyO:ZB<R<:;DqGw>R:;FtqIRSXm[D>k]CZamfCcw>Z:Zown]J`WQ]<eDRrHJ:iG;kp]X<:yDyZJLe:cuA=^ARE=vUT>o=CxWPCe>r;qfBV:=NGD:A;BQCmEhYDZccO<B<Z@:uHEYGwHmbmqrw:E:e<XIVfvxg<iOKjXnwkYykD==V;AWjKoTcZVkVwBm`_]MCBJC;[ibVctBkCfBgNRZCSNch[`sE<<wodlhA:AKWI<YJ=>FkZ^@F;;MEFwmEFgenfA:ikv?g`AiyVLSQB>bPwyV<t[Ig_k=I>va>Q`R:@btMuR>j<LfvTEkUv>PzaZkmWw:YrTUoyu]y=ZLLQoYV:bvYi:?yY^zQyTYAP<ZLM:;kYs>:EcQrQ`z@_Bc_ZYn:VY@ybkrt@ASFPNgR;mkO]QAZD:WB;Z>:f=ULHjC>v<Z@HJTBnB_=gaqEj?X_l:syoBVW>NPSoJc^Ed]FPXB<Jp<O@@U;gkjlC>JJ:EmR?:JmRdqJ;]=<@L[:[oZs?NidE::;aXmMFklEr]EZM::;H::A<:gFXss<g]<ZJB<JOgf@==<BgKN:w:WM=?BiFx]uea?<AbUB<cs<dqlBRLXecU[_[=?DLct;U@@QgVkoochsKgZQ;ZwZ`d^n;Bd?LBRuJB`H>u]PFgUBjSY<ZGTRH>tJKJ:]O:GJE;fK]Z_GK>;>[lBGI<DcSlBRc_]qkj>ps]t`nCGhD_oCM^:mS`i=L?;tRHJKmDLNjgSLd?>NeWNqdt;eEqNFfKMes_@UqPTXDQZmt]>]Aq>::".charCodeAt(F++))?c-59:c-58),B|=(0<(c&(w/=2))?1:0)<<k,++k}for(var J,B,k,s,c,C=[],_=1,o=3,A=1,V=[],w=0,F=0;;){if(Z(A+1),2==B)return V.join("");-2&(s=B)||(Z(8*B+8),C[s=o++]=String.fromCharCode(B),--_||(_=2<<A++)),V.push(s=C[s]||J+J[0]),J&&(C[o++]=J+s[0],--_||(_=2<<A++)),J=s}}());
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+passGuideAward; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = "PassGuideAwardSkin",
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            ImageButtonUtil.add(this.btnGet, this.onClickGet, this)
+        },
+        t.prototype.onClickGet = function() {
+            var e = this,
+            t = "resource/cjs_animate/animate/newer_award_box/newer_award_box.js",
+            n = new eui.Group;
+            LevelManager.topLevel.addChild(n),
+            UICjsUtil.start(),
+            UICjsUtil.setContainer(n),
+            UICjsUtil.loadUiAnimate(t,
+            function() {
+                var n = UICjsUtil.getUiAnimate(t);
+                n.x = .5 * egret.lifecycle.stage.stageWidth,
+                n.y = .5 * egret.lifecycle.stage.stageHeight,
+                e.visible = !1,
+                n.scaleX = n.scaleY = .6,
+                UICjsUtil.showAnimate(n),
+                n.addEventListener("completed",
+                function(t) {
+                    n.removeAllEventListeners("completed"),
+                    UICjsUtil.stop(),
+                    UICjsUtil.removeAllAni(),
+                    e.onClose(),
+                    ModuleManager.mainPanel.showPetAnimate();
+                    for (var i = GuideManager.rewardState,
+                    s = 0; 5 > s; s++) {
+                        var a = BitUtil.getBit(i, s);
+                        0 == a && SocketConnection.sendByQueue(CommandID.PASS_GUIDE_AWARD, [2, s + 1])
+                    }
+                })
+            },
+            this)
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            AutoOpenManager.init()
+        },
+        t
+    } (BaseModule);
+    e.PassGuideAward = t,
+    __reflect(t.prototype, "passGuideAward.PassGuideAward")
+} (passGuideAward || (passGuideAward = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/PassGuideAwardSkin.exml"] = window.PassGuideAwardSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["zu_1", "btnGet"],
+        this.height = 362,
+        this.width = 980,
+        this.elementsContent = [this.zu_1_i(), this.btnGet_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.zu_1_i = function() {
+        var e = new eui.Image;
+        return this.zu_1 = e,
+        e.source = "pass_guide_award_zu_1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btnGet_i = function() {
+        var e = new eui.Image;
+        return this.btnGet = e,
+        e.source = "pass_guide_award_btnget_png",
+        e.x = 615,
+        e.y = 260,
+        e
+    },
+    t
+} (eui.Skin);

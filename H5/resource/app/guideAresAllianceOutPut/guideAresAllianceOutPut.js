@@ -1,1 +1,70 @@
-eval(function(){function Z(Z){for(c=w=0;c<Z;)H<2&&(H=64,J=92<(J="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKwP:LZ=XVL`?KBJ;:^@l<:z<rB:ACZKnWokZ?khF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@AoP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBA^>m:_wi:bJkCZkHF<WJ[?UiN>Zw<=kP<?poV[lS:A_:WlR:;M:HHn:UU^l[>`s^I?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwB;nC^lsi:;;X:>ItBC;s>;gH=^C^c@UJzR:J^D;Lsj=>IL@a<K[OKdORtN@Y^Ks:l>[wBCoDP>=;eyrZu<RR:Ct:B:@g;Z:t>::PnZa::shxYZ=v::SNAZp<Ju@kx::SMSE:>cMd=F@_K]VNLHZgkZ>`kXZNwy<JwQZE::kj;YA;sd]wV]eeCoUmTZCFEDp:Fs:;O:dBMlPqCz?[sEbPvZ:B[kM:sjk:QaFPHDP;@=]Fcd[m:;P:;NGQB_lyi=pp_niYnH=ZX:yH>>AexjfkzfNFagqe^FY^]XM>R>DMsPCKRZ_BA]wJ:cg:siZKRJgb:kEkIbMm::O=^GA<MuWfwUXwo:<LZevyFkgt<steJA:BhppqtRu::gi<J;w?yKKlHdszSkosZir;If@M:c<yE;j[yetvcXN;IiF::]rc]iHV?zED:=LtuQhXhsui>fc:Bn<:KyebBTjkGIFdT=cuWlQ;Kx]G;kp]X<:tBpIXIvIeyvtZHJwL>@cj]c?ir>:HdsEZr;zCFs=Y^itc]iFgecQws`z::LZ[N:BJ:_bwm`w`lovZS;zAk?mA;MZyFtnZ;]v:Y>c?k@SY@vjiKvkN[D?cS[YRN=[Gv?CL;@[Gk:;<g]iL;D:A;B:czIwZE:ga_dJ^<oDD?J]:c;ZH[_Rwz:K`wLQ<_<BCZ[<@NmiJ]O<]``NL`DaQcDasP`Jpx]dOOuQLh<==VCpmQWNppQxOZc][FB;nciePLCF_[:_IawqT^_^=qh]lK]EK`MVGNuKX<kOAGDVUKk;oQMcbo:l=FBBl^:JNmnIF]nEDgulkEgHlU:VKkFMV?nrHKGnb]=KQIDwvnvBP<JVCFt=j]wR=PiHrduSZVIl:^LFHP^@FF?GY=Bki;GuXcjZs>_dHcv>uFNwCi:UVMhI_wmGZc>_k:V=w>:::k_z^xFRwm<dCDnkhk:n`IFoR>T:[iR<LZ:xA:rlJDm:k><fxN^JJRexLpFfmZFt=K?mL:KhgqHsrftP@wpGQJeU[]oM]Xq>iBU>VSL:Pp?fgnZHZLK@HR?SO^PP::@k:>k:CnykPKRsCZwWSjncKfW_qdk@a[P;ELV=ocmJn[XfX=_Dv;l::".charCodeAt(C++))?J-59:J-58),w|=(0<(J&(H/=2))?1:0)<<c,++c}for(var k,w,c,F,J,i=[],n=1,s=3,B=1,K=[],H=0,C=0;;){if(Z(B+1),2==w)return K.join("");-2&(F=w)||(Z(8*w+8),i[F=s++]=String.fromCharCode(w),--n||(n=2<<B++)),K.push(F=i[F]||k+k[0]),k&&(i[s++]=k+F[0],--n||(n=2<<B++)),k=F}}());
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+guideAresAllianceOutPut; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = GuideAresLlianceOutPutSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var e = this,
+            t = SpineUtil.createAnimate("huodezhanlian");
+            t.x = .5 * this.width,
+            t.y = .5 * this.height,
+            SpineUtil.play(t, "huodezhanlian", this,
+            function() {
+                e.addEventListener(egret.TouchEvent.TOUCH_TAP, e.onClose, e),
+                EventManager.addEventListener(ModuleManager.TOUCH_MODULE_MASK, e.onClose, e)
+            },
+            this, 1)
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            EventManager.dispatchEventWith(AwardEvent.CLOSE_AWARD_DIALOG),
+            EventManager.removeEventListener(ModuleManager.TOUCH_MODULE_MASK, this.onClose, this)
+        },
+        t
+    } (BaseModule);
+    e.GuideAresAllianceOutPut = t,
+    __reflect(t.prototype, "guideAresAllianceOutPut.GuideAresAllianceOutPut")
+} (guideAresAllianceOutPut || (guideAresAllianceOutPut = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/GuideAresLlianceOutPutSkin.exml"] = window.GuideAresLlianceOutPutSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = [],
+        this.height = 629,
+        this.width = 950
+    }
+    __extends(t, e);
+    t.prototype;
+    return t
+} (eui.Skin);

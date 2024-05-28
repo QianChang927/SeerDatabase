@@ -1,1 +1,2926 @@
-eval(function(){function Z(Z){for(B=K=0;B<Z;)C<2&&(C=64,S=92<(S="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B?_fyrQKmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNqkGoq>:U`NpHYJHJHlpRxIUYZ_^ouivM;Rs<VfkZ>Vw>;R:SO@P:=aXk:[@N<`lX@CX[:g@=<^clA<D`NcX:BA;n^s_>ZW<`[:lTbhsHZa@;y[B<:;fI:g:;mB::h[]:>J:KLyjry:B:Fb;ZA:_:;@TUY:NzT_gS_PNE>obxLBlHDCU[s:M<BJQXu;MnsC=lX:g:=<w?wVA]a<KI?K_:l[Get;:wQ]:??yLkzHfvMLwHZlbfdjm:>EcBpB=Z>H=V:=g:<R;<_yFnIhwc?djZ<c<[yNDc@dKNZc?>:?t?yKeJ?LmrOVM_<GZR;sO:L:;@B?J`B:D[k:EBZ@_]tsssM[PeXxCFGJ:=PL?@UBV=sRBZjBNQ^?A]A<aozhVtR<v_FSQTveizrLtQFve@urlzBX:S:B:>fB:HcotWK:=N`zBptR_s:Pbh<WCpjXw:J:OMNJwcZ:bwzo:s<dn:[wcB:S[QH=vJJc=lqJfpNEN::PM=sFrYxVBc>=k_HLthPUK:q^Z:;;CoEORVcfO>OosbJQgP;::>s=:;obKsxpiNBEC[HsTRsAJ::lI::KkW;lH@S^iPRZ:`Ugc>GU_:>`=J:TOjOhqkNiR@LN`M;?A@^GKHUOAKWGpRJsw>iH[E;<NF[`;EZJFaAJ>sP:ZZc_?>yCVOb>G=M=<Fy<f@dTq>[garB<nHlvIgSbnTcKnlI[zF<sEJes<Dw<]pnRdI>GAk?GK_gwy?Nff=DDKkMW@eJGKdbaTFRqARxpODcMmf<eeTeWHegj]o`y;LoJtEsvt:d>p;?iRv?<h@_e:ca_Ddg]uDthrOTPjmGfK@@=f@munWOg=JLxhA:umiHmfMhebVJn@SsMEZTkfgsuhZigPRHA]?cpc>cLKHUC[BUa@@F>=TkYZsWhtHs@F:?R:=S;K^G=JTwuggSlx;=LsStHEL[BFWSCZs?Szl=Pv::KPaP>TV[HTtjZ^>?::HIZRrFSTvjL[vm:bXCMLld_:=NJ<JOa<@sBkC@RoDk?tzaibZY_k;VPKDKyW;MOqV[V=]U[dULygtXmfhXrv:f[qx_VKjXwTZeywDYhajuP:NqKo>=H;YACauBT[h@sRqfE_VMq@FTdm`VRCsaRoCiHBM>EItGtyajFSyCaWSxaC>?kr[_?sPlUsJbIq@?Za:SJm>a]DQPeEqvbVuyPp>OqC`UZGPGYgUQWYp[jm@Gj`[Fn?X[MYQtfW]PrvSsCq?WGTc;<mhhDLg^ZUHNpM<dxhN]gBFU=g=]fZyegukxRyCUGN^hvmPZXQ>>ucp[jl?HLFNUJp[hkS_iW;KcK^?:>aNRoCcNfB:ugFgQTSNI[ILyNxpTTnbiJIPMK?uDqehRD:<;fvc=z_mQXH:ARAnA_YHyiZAs>AqFUAcTC=;O^Z@B:H_pjfjpe]kBknCMmEaSCyH:zWfe=l`iZAiwKc]Jb<<gMK`sy:Z>kBDIRK>:;wa:J;v;:CyMwkZeZZAqFBcHooIvd?r=zJJmo::Fa;n]WmjbSX[V:`=;PUFq?:R:k>BrB>C?KYGfSg>^FBPgrNCZW_m=:k:NrD:?IMJ:`_e:>ptJ:]FT::k^J:[GT::WMJ:gAD:@URk:ZIzFboGkJNQ]HtWpNW>CJOhY=VZs:<<CRR:JkC^HsaFZd;L=C^B:<LW::otc:Utx:=vYc:YDO:<z:ODS_Z;[SN:FwKmn:::yc:TVp<a:?ttJ:qVsfF:Bp;hLx:l_TXJAlELc[hHrdovdk`m<xIuRFsScnCanFPVgxSPnW_?FHR:PBG:::LaVh<`nfaxpiXox:=mX`WGXNF_SFSlbMIaNglFjn>kvIqJVk:IGa::@ogtK>BQGD[LJ@?VDb_jGZPwt?eDj_RhPKgv?zn=a:;lGJ:XcupEsDswCMmT?qOdE`GJSsR?L_?BMB]cgoEhmiPLhKNK[;ynlBtHsn`f]boghSOlv??AXMKEt?BXlvMrKkTkj;eh<@nlp]J[X=K[^EpGiUD_FEt>CErcv=;pdD^b=GKBDCoxTtqfBJudXM?bQPpWWjJKK^r>A:J<eFJHpk:F_LSi@;Z;U:o:=aeZ:=XN:At@Z:@CQPR:YAW:=OVR:@Az:=bYc:Pvx:=JVc::=`:=H]c:>EW<a:ABO@d[ViCRCAavQDbh;mrnq=ku>E;x@@CFLkIRE;EA<AJCBw<StS@UAB:q:ZX:J_Ra;BD:J]v<BfhF@ikZauN<R;rT>:N>RB;wjP[>kZawL:df:@afJ@UaL::^xJ:^NT:>`f<hZ;GyF:?YDZ:ybo:DsHSM:=oSiguhGU:=YqjanhhMJZ^Oc`eMOE:H;^=gHHtTnvQpCCZR:BEG:;Ntdgk:YDROg:=TaZ;ruF:I^aZ;JzKeL[dm=kDMmKiQeg@lJYP@>CF:=ZX;sZJ>wRohRP:Wrv=ASZ:Sv^W>z_[Re_puJ?IK=>m_YW_>p<mC:>XxWdvhqvfZ:<R_t:HkM=ZA>VZw:@JVAt@S]nYFueLH_QBUMikE=@Y_eSwn`ac`HT_YH@KbsWFXcsGkNJNJx=RQBdH>VL[r?u;R::D`vEZ;onRhTp@Vs?pnkP^qkP]piRJ:;uOEH;oiSUkc[WB<?`O^Zc<deBMZIFaYgtSunhas;hVVp`ZEXsZjidTptvf_MVTxSVkJPKvevS[R]p?efVP>jCUDlOzn>qdjtVcbN><CPOgZ:mrG><PrYklXOSsWPHC`ds:op;=UluGpUjIUCuvnB`o=WomXlvkCSIo=c<e=MmuwjrYoyXkNDfAtefcder;@BfiChGUECgGKo^yh@yZBG_Stu[d]X@_qewcqPl^VBHGLa@hWpVYsn:K>:Csrlj^GB?;NX;ihYsN[;gkoNDJ?JkOjxzvDhjHZ@B?IztqomICwbh=z@YaS?DEa[:p:m@gBs]FT_;CUd]dzCokiaLr[wWfi:::XM:gbjjVHu=tAwMItBRxSzTbAMfOtSZ?BDMXUfpL@:FVRn:X:=[nh>?C[da:MCWZs??DCZRYJu<>IgQfs?bk>>rfBj:AqAhbdRAkHQ;:?VZ<OuW?QncpVc:pydjfZI_xw@;Hb]MbKnWwBbOvbrX:tqlsY@Q`IBHWo^hft:=r_vjXyugQZKGkBPxI`Y=LCIvXhrBwSyle?DcDziIqFq>o`CJ^fspHep^Oas:qYtHTSTu`yN]JuzmWL_`@[l;_ehOlu_L?TOojdBmd`nCbkjfspLcoTD[@s<x=We:;k;KxZC;XKgl[Kwl?:e;>:N:F:W:PG:[>l_lHKolm;J=bW:<_:_Gi:_<z[ok@;g<HKV=:KF;K;_GCFoJc<T:F;EkL;vKD<R=Yg;>;;cwTkR;d;S:A;?:w:I:G:h:>J=;^:n:E::[f[H=b;:[r;O:j:q;Y;z:f;K=ZZ=;kZ?Jg[>ZT<@VuZO<`JV[@:F?iGL[:?D[F?o[d=@[a[P[qZs:Twk;X>yZ;ZRKtoK[lZdZcR?Z`ZOZpZs:W[h[G[x[NFGOA[[Zhw>=UZcWA[b[QZkZy:V<iJJJ;>YNICxN>J==xN^<XGFJEgudwJu;<KSJmKD[[stROVFVhSUNqW?sAVnRc_rO[=m]kpD]psk=QVRpT]vV^RBpAWpsRkT]gWqWvVH]nRbV_:RkztadX]D];^@];JoCTKa`RZ@JHkN[hBH;P;s[P^gWq]wW;^psoBrO=FJoy^G]Oth^glW]Rosll^u^C][]n^MJmSE^y]h]d]_:oCa^MKp^=^AOf]yJN;W]t^WwI]C]b]<VrOn:m]q^[[HWiWCWzskLsM[SsMkLG]Z^?W[BXsi[b]RlGsU`rGO;jJz:^;K:wl;luJaJx:C:F=?tilaC=CTJc;d[aCTKbKiJ[:<:IRP:x;jhkZ]MwlLLs;mMm;DLkpiKbJOSaM;KuM@MaMiM]L;JyL;L[LVVKLlMiK>>@LaMiJSMXM@KyLDMwl?t`MaLoCCLGLhLLLWL?MxLkoBCdZMMdMVLSKtBtKc:c;F[h<?xW:[:Ywzx@lika:_;o:F=ikc>N;Z=m;qKjZ]<:KB=R;c=T:s=Z^f[>=<<iKkmNnokg<R]w<zggn]=L=`Nx[cKu=T;p<u=Rme=@<x=a<K;P<d:S:t:?;;;i==[G;h;W:;<M;n;l<?=A;imr:R:I;d<Y:z:ymZZc:JZI[on:Js]x<>^HFDS>K==s`L<w^mJ;SiReWwRclwR]CdKeZxZutiR@sRne:@<>mk^y:_kdm:KpmXRAOFnfnw=Vncnwnm=B;]ne=T[T=oZInDm_^]ZP=b;q<@nA:amX=Pny==;Hn[=t=ynXmK<sE;nj;S=KmA:Cnc^fmSnzmtn`dEKoKelALLKw]C;PK=C@Lc:Y[Al@L:;lD:::ENY>F]Z::>pbKx?Rl;_oCWmC;PEuE@DDDeETKeEqD;`LSSFXEbJyDaEDDTDDDBBaEdZmETJKE;_]B:;HIVgFkmXRswkJQwwwh=HkSFmFpFvLrY;i;w_mvFZZemjFgZkg]Zwg[ZogbwdmqZQBDgdggJB<ygnZg<`gjZxge<cJp<[JNDe:C<aJ_V[<gVx<twf<f^A<vp?Bn]Y<gJJ]to]JT_q_iov_M:Dwqmawx_^:eN>:oNwNrDzDtwp:xXV:kVNep:wepNmeZet:k>@evF@F>esJkov_RoxNt_eeuw^euRve]J@o`euee<FTbzFFlNlc>wiFq:cB]wsmheawyTx:LmxTdwuw_Zymcghmnw`BUw]ZQw^mzwugvmmJR<jmtJ:Dhg_BJJfgaDgJpuZVeJt<uDq<qDdJ^<ke[D]aJKYrJpXVauI<tV^Ds]rwIgEbT[@>d_YKTOG<=L]J;cucaGYKWlJaEVwLrARs`pJbNoE@b@qFRJ[ccR`r@_Gp>afVv]z@tpBRvcn@_SNaZiG@vsneoRqaeFVP=adsasjRqaoPI@]abRhp<tOaz@NP<s[ancoshpV?DPoPXagPoshsqBRPxaiP_suRqRviXRlRkZSRpRsPjabPlcrsbsYs[_PahLj@vITkG>`Z=>dav>e?E@ZaMLZwZsrL]BBujk?TkmmwueicaCUTeFrTkezTZgkuow_gfw^JmJXH^:<uf^DuqgqulgyuxJ<<cDtua<`kAgdkWu]DnueDiJcii<x<fJvB?mgupolNUBGHc@hN?DfmGBqu>k[pVk_sLkukqk]:Yc@_;ksRNR:ZLR@RHRGkukSRORBZWRMRAkrR:sX:usVsKFcmoBsHds?sGsYuxTk@y>R@]rDg>cI<`>>@ao=BrTNV:_RpOVx>;oF:F:AINRdBBk?ue_@_I_zD]FxTh:sR^:wN<YTNKyqitNONMozkvYO:QNYNHBRo@HPB:zSDu>PoRpXoOmWLRyEo?ZAoIoXB:FBDXDKDLF?;RwGTpFE_M>rFYFD:A:Bg;_O:QF<gUhTgG^U;?gFyWqID=:huOOMY<wbY;:X:EJS]?yhyj:GJCBQ<vj@>LrKA:GTr?b;scslafcoRxr<WDF>lKjSjWBV:OyukWyckSIU:BlBlB]CE?N:<FABZJNY@LARHuDWLF@kX<rImSy>KGy@TRjHDNFVF:;CBxeCKfOADRefqM[CyMuOyKlQuSl;eCeW[oCf[xG<RQeYeJT?;VAE[=uBuHC_HYlyeBoKT?C`TXLRzMkUTQTQCaCZd_uFKNHKCaRXLVdrhBcdCSuOuHdzC`yKdjlwuYuJ@R@Vds;D;=:Dd];WHW@M@U@UHIkH;@FQVtT>i@aHaPZJcLiTiGaMAPwlXCi>P=LmPWdkcwpVX:[@XEP=pC[YXSD^dnDYhLCcWAqIqQdylJdddsdyTVHLHTHPHSTVSdHDShH>;PShSqbIHDFVdhSgiMSfZUSuk?aQS^aBwgGJt`?IZDFHOKf;KF@OC_X@A>cucHqPtfp>CcX@AQ;wCxzOlPyS=QqTCjdblyCtdZCfyYQFSo?]StH<CTSg?jkP;BaX;K;S;G<Y@W;<`[t]J@ALXR`d>nsa@m[X@jlP>att[XtoX<ty`yyYT=tZSdl:CplVd_MCd=zH[YyJCCZRCNCDdeCAiKcUsCg>`hxSCOCS_MCQCJdNdLdC^IJXdN`UiD?Ht=dEdX?IdP`C?=tG?UtM??`S_A?:dJ:JCn::fyF:<zck::eO:;uonHJiPwJOOTNdM=XdJKN^YXKKNyQKKyQ^VMV::[nJ:VoW::fhF:>mZg?JGat>Gq?Rh_L@`NLwh[`DhiGjtJdJ:DA_or::szo:?stR`WhsG_`Vs@[:LC::T=WEmMhe`Ahohjhy`LhqGt`RWZdQtYJBhltMW]GvWuGl`ThZx[hk:Y=G::[UEHQl`bVOLN@YRQSdAO[QSx>DAQXvXXLrUdNjVAYrWSNDLIUo;IY=VKQvWrTSLlJMYyQjV:@^bJ::xG::U[o:=DEFtJa?xpdQ=^xdWvxhWe=_hwxc=]haGy=ahzt<=o^gxa=bWe^uxg=ZdJ:TmG:;=RF:;Ogk:T?Ln_ckwHcZpZ;I<HjrkkYqi:zrMq:ImHcrDHfq[rPHuIv`zrXqDH;qxq>I>r::VbF::>Bk:Sop_IT`pKRPGa@RBkaR_PTsxbutoQiS[R[_gPVP<qc[WZuaiwU=cKy>F>TnxQK?;aC?QgAlAl;Fs;CxMbWlrvZVhoq`tbLsnHDsEHesfHNQ=mvmVVFQSGgQmwbSNWSQw?tPp@j];Ti^JMpPvadPhPq>MsOVU__o@Qx:wGoaR?eG::CKJDN:;q:k:Uzx::jlKUM:mRooK@bAOe=_l^=q?oWFQFMbKgMgPwRVLDT@SRAYjDTwvs;@vHXNYKpNWxf=NWiWhWeuIWgOQO=oP@<FT_S_Sq:HAoLwK:<N@SN::=xJ:Fxp:;myN:>vMJ:K;O:;itN:=<t@dVtHv[vxSKvk:SyNIiYjzjaJx;aK::rIPBo:@[rJ:JV^:;lyIPLvLTxWYeuzm>SVRRaQ]zbVTs]InjLXPkYVZjq_[gCjpcMjoo[o^oZFaF^F[r=YlpOcKltZXp?InG<Cyf;Cz[]XKtzIm_]jqdz_`jrVbjkSuYqSxYqpNjaGRV`ls<HsROzGUtvbEh;Kn<YmuhLiXBM=jNYlkh^DxCRpVeuhqqtb`hqKBhd;DClFK^<YK_;YPTyS;nJEPEMPKZoUOUJvLvOmv<TXUsT]Uj]tzJokqkopx>>lsBqS;BrBmcncoRmJlOyrpesxj]DvfCm=VOLV:wwAek:FNazJ;GJFVB:;m<nF@]vIJl>N?ApirU]bnfwTOClDR^_TAyX@=omylylTWVOfyrQvs<T]xvvIKrMs>=k<Ma_?ncPT?k@o`G<AuXlJZ;:v:Qtk<Qx]>=@cdQyyk?l]:rt<]ryQx];]Amd@QVJ:?BkNM>SzvJtz^z?z`zlz[ypzbzMyWyxyrzOzAy^zGyqz<JHYmk=F[wRGzFtEIk:>bwZ;yzQW:KAQu:=MJizH:Vl_rcmgENgHG;e=NC;=stcze@YAN@c;]FV:>^RlizOkUDRCVefK@hMbk?[GaVGjBf_en[cwsEPMBRb>R`?[>:<RyFXfAN=bvutKV?zXoAfZKdk;dVgiXQBfaOnmJ<wyqBj>hktU]=WVp:rb>m<Gkas`wt_>FCrm^^BFs;HZwHEJ_F?[klybq<Yj@`AKps>VTMKZV@]Gv?V<TMGGrHhloSMcSoYiT>Ac^k<PGf@mkHleg>VRCc:qMk>Z<C`gLIpyFZa<:DSlR=`khaLQASg@`gsSWvHKZ:SAk??[sg?mJwIEdZE`UPdL]n:hPZD@ScqlmitEY?dLokAohxZZcR>@>BQe^sJiT]Jx<jk]Aw<GFwXKICy?QLzwwqB:DYbWpHdp;Fy]eHXe>Ah<EglHevJcGv_gRl[i;^^Pw=FHQU]VjBC]B]DFDQ]Yhp[VkfZ>U]^;eSDyJQCw=AA]<mCd[Xks^cN<IJ>:O]R:Cg>GKM;d[:Jh=PNZPA:^G[?kM<KoDE?RR:ZXNcyJAGVDBsU<v[IsGvAB??ZUskZjyPJBq:kC[`:@QO<:bdJ=c@OOXTpDF]GL:UtZBuQBDHihK^dj_QLDWBpBJ;qAbOW<`pEmdbOwfSpamiWJD_xPZf[NLuIpLJjN:ff[NTu^WOJ__>Md`_rLnWP_XbQIe@?EuxcNk_o?[[h:HZpZik]IL@;H>CuE[TXgCAVEnp?uPk;WEsOQfc<GuepUXefpreK?Cm:GN>EHLjcDFnu]tOBdYQJRroVJWxABZzLWEJoEipZJF@@AU=@:QercfaEs=oLYp[<rcnX:@H>EYouJHdIyhXN:ScKZ@>cNe`=Q`:<^rLN=Wr@jMg:u[ec<=Bo<T;JRlxbKqjPY@_rZ::[KXR:FmZm<ZZQF?BUJ?C=>AeJVNlD[z?KIFQZA?Jg@R_WmCJBc=s`<@l=RFB>k^=K[WmcrOehJrM=I?^Lbke:::<g@JZiJ>SDqe@VFyoI=:WI`;XSFgw@IcQg@c=qZKxVlyCBwMAmOAcZW>]KF@<N<_kK?oJM:OJGKMa:M[Oula?RacASEKK=Jw=HX[e@x@y^tabSCsHhrB:M;;Fi:M:H:I:`FCT>F>bv<R_?:_:oBC]W:>c@P:QZLRiu?ZHJ@g=uCKRyFMwFF]^:qGo:ZJzJHZ<q>_;Lya>j<Np[KMslkC;>t;<KF?;_LW::>B]Fe]]kaCi;=^WlH[Ic_QZ>>@`I<TlDBbgMHC?>oPElHcbuBNC=^Er;[Dk`GR]Be<?]Yc[^=RhLCt>ila=]cbBMuV=^H]PdCZ`cKcP>_k]VKEo`VMA@j>wmOD`kbsMhCi_^]YdE?]looJX]KwPn?N:;kR>L;@VXwCiCoG;kN:V<;DQE;:^xZB:DtA@EH>JJ<:M:WP?D=kaiJzlyRvZER`oJQZwC_>yBEZ@DklZ:BwNkeVOE^=lL<CX>y<QS;D``LKZV:P[<OEm`e:w:NJ:N<?ncMq;lFwTT>>_=wbI^m:ZNuVPwBn;[L?l^fKR@iIq;p:;B]GFsXo_P=dMYlzsjCbN<Tk?LcCH:;eQN:eavLskWJ@eNpCTa`LuZWNpLDpEe=hMHdL:UeL_ZPfYRADvtVoNyB<bIkZdAB>DKGCqE[L;Jfd;BEGEq;J:>d]ow<:Q_iAZMFdzswV[>Am_JLWd=No@JWGTaZmMd`ox:F^GHbpLskcFquOpCx<ILydEo]:Ho<@_YM:cQopsMJoaboGkB]<@DUN]C;ZmPJVXPJFu<]:DsaBZcOTM=Hm`Z;pJB_ETR^DDaAL:BB_O@Q@;>ZRnadiF]PM^DibLnp:ANkaMpDXbxLoJA:GuYtC@aYLldhFjuJiI:Zy[Ww^F]gIg:s<gnwes>PgUnH[`HZgdXcUZ;kAO;PmKSNgZ<?UD``w:fSggguOvFO`RmskOgZaYWDCaxLbgdFuF[MEp`Nm=SgsiaK?CG`W^ZSGt;TPnBY<p]RkYFlqYyB;=eZUmAgd@TOCjBymUmzgyPMXNlahLUmRV[uSAHXbJZa:HgsTTGH<b^LtlzoZg=sa;`F;fSSk^g=>?nbl:bSFNCZHeAvb?mlS=NziOECB_?lyt`VdPJ;Av_pmRkbsG<ECbvbpmBt@goaMZ?Uae;iJyq:NAgADkSnweVz>XPIHs:s;pJtPTXSOB:^`SttaJwfFjH=_jmZtCNnwHzGf;s:]k@B:SDMDJ;AmstJ_TaLk;y`Wn^S=sVXh>@tbk;ZSNNLyPVI^mVm_?V:AHJvGAbz]_:ucDD>zI?`KJYSNNMyJpD]^fmy:NNQXXfCCbJ[UTgVxiWxFv`Cm:Ss><VF=EMKcEkBhqQ;UYBS=eZool<[ePa[x`dcD?dNhGGJfMKoE]SezInfsnH^dt`cU@TC;FBsMKsTBH]VW:R]@JX=SoO]Ik?cbMvTZp>S[=Z:KH`Zuwoaf:LgWPGf@OSAsCwW:Uy?u`n;f:tqPycBpI>L;mXj>>gMZHGKDEPPrnQV:`<<TbGNVBYJW:D:>RiEJ`]rFHC_q]O[GQPaM:TFXD^:wLaPLLft_hoG;`G`ceoDd`hAZ:vJ[kXLyUdwo@S[lEcJYGCeuquSxCraGLZpZ_rSSTsO;ZEU`g<pCuBky`o<BOgM:JKBBWC`_xVU_H`SOWEN`nB[:erBLkpcLG:uUCu[RMThq>ULqC[ofSR`FjsWgf`d:buP<x;`lmsSNgk;ABBGCNmau=FfpvnDUNn:e>]erN?fDmP@mh[:mqRBVMKDPwvSJorwu@gLabFi;ia@<UO<nPqVZrBsmhRqh[BWfHYBun]Jig__nRkOhy^zMgd::obCfC::VKu:;lCoeJOdNHZ:OSh::]ce::^RnxU;sH:cX>vD<et<K[f`iuQWBogCR?<<iKJkr[<JhdSZfTGhK[;Uo[PnEs_=QTdMge;PWDLa:FH:>=;;]xEn`_n:STb<OOKktapFL?]M@RafFsiunXBY<nk`C<NiDJh?a_D?ZS<mRCnW`QE:XP?WWi^l:aZvkeAawDiBee`ewoSSuhq`NejSMwqo^q:qaMgAlCZf==k;z>;iY@A<erK[BOOxf@C>ur]MdGoOF<;hB:=hsk:>Q@Z:B`xL_Z:Ij^<oyFBdB:?_^J:IYDZ:Nv`::gsa::@oqnP::n`MxRvJhKvjThWag:kEC::vV@:;ozMJ]::eHKlQse<O?TJ:ARXZ:>i]PpPTk:HZeZ:YAzU`ZwHBJ_BKU@f_PdexEjn:lTv`fOafB`hmgxQXfCOm]uOMwqGRXC:qyiTGUTn^OBfR_nf;CDulMNXhg_yLRdHNaeKbCtp[el?gidgtaeppuJfq_FaVttwys:Dzdfuj<Pu<zam=BtMFptSICyPIEMHAeepNlZGDieuaA<rFtD[_[rupWRr=zN?k:GNDe?=_EiP]f]PPmuCgspOtSK@B?Lh]BYbV[OF:`>_NQgwA?uDKTXNjXbcz]SsjtPXujCQfsdn>L:XXe=<`ZElM^<wDXf@uz;EosqwKdXI@tz<nqVKgx?XAISQbsddUgwvBJLm:CLBB=hxGiS@bWTuee@t<w;kkL<W]:^^OK[:VYWxB:?=R`A]F]DMSf::QHT::gXJfMSf::^Ce:;LPDeL:;KiJvPWfwRYTr?RLg=tUfF;t@t=<Y@gpB;UGR<nj?X^Z<O;sVqamy?_hVK]:w;ZXRRG`AYktUT>XPlGH<^xJF<O@M:[pVUnG^HfRZmeOVeMGsn@Uv;XnKkQmdqEupTlKh:Z<UJL=e[loHGY@HDmB<eZY;`^LO>J;@r]gy:ZojX]:KqCSDMNlayRA><mQV:<:?XQWDB>B:?sO]D_PgSmO_nQBil]PWU^UK^;u:[[U:zl??b`Mahz>lsFRFq>Q?KRy:FH>N:T>=EtZx:bmqBHKdI[?TWGGw>T==aRZB;RZR:OlIxdh@?TpG=B>fUdegBFgoh@Pj@CV[;rSUtZiPjURa`jLbDvk<X@_FB>YcHTCZF<<SCag:<PTR::J^HSG?gevUe=XrgIZG>BplST_WiH[<Nj[TqOTv;pP[kUmhD>j>Xh[hCR]gN@pi=ShxH<UJgDFMMUSWwqbPQ]DMAn;OheHWUMF>@^UUCyXqZZ:WeR;AUt]bCQ<MUN?:QTnhSgavV`A>>ITl;em`vPxcypYUk:j>=:b=iSqlTWpkHlAQLr;qR=BWoHqAWbkKrex_We_=c@^eJ=Qcw;?PwIXY@g]KvW:tHprj[bYMNuFpxHlbUHdvJaUPWwP^bQ:PlrVup:ieIbRbiDowvWGv]WY@ZH>RksxG<^Q:Y=`gPWJmhr:;IXrf`^hUUX]f;cZpg>K_vIKzJ=bK::dokBaoZ:JqO<_=H]hB:@jxUvc:=<Fk:@jDR@K=@_fLTlEWlwLnoChmX=y__:m@BnRvfXPDLTVhZ_XAriXQEEQ`v:qGBfgCZw<uVz:iq>Eb>A<<=G^qzQCBItpQvXxJi^fLEgtc<e=Tiy@I?JI:FFZE_jZdzMGfdlnUzybRgqOzj?nJ@GtFi=IGBCnmm=OV<Zgo>cHuOHvK;TZ[zScFQlatIHTBIKQg=J`I;I;O]DwQc[EsaBn>?]DlETD?>xvFcYXtPis^z_qFP:`>cnN@C=?@;HCk[gAA`_k:>:z;G^>:B>BVSHGL==BNGNl>dlP=t@c?AZphlhk`=HTol=PcB^_nuE;JU;uUgRgFTLGf:awBk=d`it;sJwRXXL;A^w;J;W>Uy]FMLAgHa:W[BTfaP@eunzlE>KaiYicY=N]sJ;u;]Bw>TS<L=g=PX@JQb^_@?t<=RV:GLf`N?eA:^@[zy<RaRaeAR^>TjZRQqw>Mc=?Nr=Zs]A_Uh:g@G[s<Xq?wGi=soE::r<C;wK^m=J^;bpGfC>[KBltXgHXbg:B<JMo:V=HT@BXh]y@l:IZTx:`]hazw_dDNhDOs]h_SmxZDy@HCL=q;nAoh`ilRlRFnaJJO^a;GRunBR;b<vSnBVslbFiIZJ[tPpPsneNiIQnb^HiS_@wVk=f@WLTkDqW>Yh=qht]yhADOImbv<;C;myOYEgW_=dUfh[lpIFVXLadLn^rl]srJ<iGW]U^TCisl]RXI=nr^V:OskLSlFu`>kQlbsom=yGcA:Mv@R>pr?;Hvd[c_CnRx<UqFJ:oBXZ;>m=aPFcbgM`Cc_r]Tnbn>Vt[Cysky>XIwboMbl__kDYCHmbPSpCZ>y_<;HvsJMJkiFGBS`lJbh^FCux>K<tFfxXMelo_omA?F:[gtNdr>sIBOIPaDMfFyNowWGGk:`MRiP_mZRS=eaCR>g<>xeWSHubqMyFJoogUsPb@fMElcNk<@P`Ha;Mzd_:=gYSH>lZnKlaqT[==G]bBn_FwFomAQnpA^@W[bM@gAuH`ls@@FI_^:`=Gwa>_jzLYgPSd]`bf:tSx;KnGmIk;XSpS`FkYnfG^mmnHd<gw?lUGRDVtASl>ox^CAK`ZJrS[goqYSa@vPnV:WgoInq<StATX;yJXfas;Z:y::BAUVH@UaDG;WpjRQQUp?qj?eT^jBlFglYrsk^GskxK;IE[A<Toc@]uBAnrj>q<>ksuMjHynnFttZlolgkC[BJ>jZqZwJSV=PSAtp;kBB?g:I>>I:pbilZs[w=;Y]:RJ>EhsMwKH>AvcQO=Gm>sQN<:`y^DJCZD:n]MKkxb@nYSdDOd[AFWskVqK^^BB>Codl<:f]@_:<AkEq[>hmPoA?sRTG>QHmt?uVpKUsNoQxyLyIJ:KpzIP;znB:Mg_;YL=JQJEs?ngs[TZjBQJEw?pLqjlJhcQHn_?mC@yIEoa<VEd?w`FoHgI@G@^l?r<wKe>jt^XnMBYgtd`eLc<@EAhC]vJ]eTgQT>v?n]y_@sikpXEhsJ]m;Cfs=A[EM`u]utRZhw;rpa@mn`yhKTsUUmkgG<>mV?=Gxq@vtjcAC_[B[]Ww^c<<An@N^I;sZIV=o<>IYTqBjnwTWAQZDB]G=B[cyoaN_?N;Pxx=hPdkKcpHE]vWwYPZUY>AO<H;SWK:UUXo=_IkA`WqgjmPfdPrhPkaqinUKk;qpw:=WKi_rUj]hoPux:A[urM:Uo;Uavhzw:k=zdN@p;QhvqpN@vdyqXufg;Xc[GaGEo;vkZ>HeAVC?=oq^O:dX`IWAix^AgxO@@lE`[dGNsT=auJxDlE>mh<?gytK]JHIA]_a[sZlO^W:<=DgOQxmX:Z^gpTBfx:Z_FTl?W>aKNrf_pvfFd:g_:;vTc:;SGXhMmaEqpPz<]T>M^^XWEsqEpKHyGVMTMOrfrPUTvGR::yrJ:GoCETJ:=kPZ:;PoaFvHZM=?:Sg[=;[AZJDxO<Xlu:DhB:?reabWtSuVpEu]hGK_::HgSxo::MYc:>uALPmC`N;M@tESZTlAX:oikPOEctmYb]MhhkQlE@cCLv;UoiHrWoeZM<wSUg[k<=mgXi:Ahhhg:ZNE=hi]yvSWhTQjUoWwHu;TxhKrYUK`v<zdWTjXtbuySbkqR@QFsAVwvwYI@_S]^YQW;AIR>GhfmRfb_^[WpBkJSEhAfBGgV<izGiA:g;w<eZKf@g:hjwPJCbW`n_XZ]gHQDENOoLn?WNjS^@gQ;EHnbagi<P[vXcKmt@@]ioPyysYCwueVxGWkyX:?@gczNas;B<hLZLrRAasDPvfhZcErBYVTMAqx:dxdJGWgtGAqMvQ]UZZTTVSX_>KzyS>MvNM>R??e?SE>Tl[l@d_zv;BsV=SKqct_xeftNaUyQfeT>:uEWRy[bKwcV>aKs?O_KqK<e`pHKOWFVd?PADOoC<][DB[:qsGN]_ut=t;l<AoBQp^<?:PNUrJO?P>flkxJRBsQAeMpQ<PcqX[sJQdX>`uyc`XbsiGA;p[<KclwO>Q]fP^gDhcqwKM>`@H^ekdRvlTuEl=rp<:KBNYNzK^@zoqJptStaD;M?ZFWAt=^ohaEVOkGwl;cC;eT=>rO=Lla=CwxRvp<qH]lScGKp_M:^sGYJzcBFDJm<UV;BE]RIIKkqFrL:ZakS@@<Z:LOtGXlU_Q]<XDYIswaB[IOS]dq_teVtH@bT^gg_:=DKdg_:=VVc:;`QJ:>UdTYEMVlcNVrKI@BLbpJXfxNKDm@Py_XC>s^=KIzLRejWR<gTYZTP:uC?TnTgm^GDtwQJEjTE=NetDXbc@jdohqhcE;eDJTtD_<p:JefsGLVYdFDlKM^ERkT`FCkLphNyvPWSaZAPDfXRLfXbRLdU_gw=EEHDPhDy`Ki>SQZfu_>mp`M<omYJVmqMA;Me;qS<:;SKN:<VgPjeIRpWWXlnluuVt]qUElOFn``g_dTSJKPbVgCTkO=pD=[?s>p:Thm;:oBi<`RVJ;amiLfoVSH^AR=ddr^T:;hyF:<a]c:;djShF<EPrRSy@@EZN:TLTcL_VQXE[UZLtTTc^IbcUECs;lmWkVPHnBP`rLw::lV_q]SWTuPQuEkN`TLOCGNpLNdQ?tVxaYQI<QHlJOpqq?XmWRHnAKM[DzdX:;BHO`YvvtQ@qlOthNTce`yeufid`KirlGusVx:f[`fpoGctHfbPx@jC?V>Xsj>^n`kpA>^m<;uEBrUpnYeujqxMXKHHM;OibK[k?bk_Ptzjm@?[lUbeo?YafTB=:Zc@LEhJ<jkJAlsVrjzJho[UAnb[YyE:HG@jr^mlqJVWUhLqAY^lCrAgWUiFGQWkFdAw=@tbOq:Ms:]Rewx?bhkQT][?ruvLr:OsAbMk^jpJsvhVwQSbXuiwquX@F>R]oMYsjvLBzF@@LFWZDFK?Bc;kZOTes^=r[BumgyOC?kH:u<=tH_hMzBL^:DGpK_T;Knew?Aeq=`u`mE<e`p<AD?NijmG??e?[Kf`N=ncLRCDINeocvi^>aRYxoqAx[ONOkspAfU?ZY=bNRBvp>v:z<kagKx]GG@gRrdo^n<fBwLfmHrn=cq=mcvK<qZjAUcrB^csd:L[xAzxDFhGQn:ZGCJd^r@muNZwPHn?aeOlkPEgY?^`cM^fKk_tkSju[lz^_[aHIBT?@>k<VxsOkcQ>g:xJSRG[aciFovvy@jM:wKuXLWiEwLhRaIZ:VmZHEEwGRyRjPGG<G]k:DT]JEPFQ]_OmDF`BL`CKRfHZHlhRnb_yXeYGu=GXkYCQNdTTKD_cknhQ[>p=tv^sQjE]Ek>pLNlYoaaLvCbkFpYsj_jCMBdY:ADT`DOOtL`]ENqmxCYZOIn;dSepKm^HcsIMVfvNgeyv[`;MilOM;d;SeehbcmoO[FjqVcjnaLgE`JUoPNVsvxlp[[CNEHVugh?zg;dxetTRAEt]o@ZOdptZrWYs>>dTtKDk@wR<Ea[J_UvYiORMYr`keuSTDdaz<>rIRT=nrLLwyoN@DM?O]^muTyAfWkJFQUy_pv;Z;DJZnvZ>K>`LLcQjimzdmy<R<YYQPB=U>AxxJK>KwRRHKfm=uPsdBBYQMHJJZADqMIdbVrzWJhs<TrHIjMgTB@<g;=FfZYR@atzC=;ybG]YMDj@HMvaWSjtBDIcbp>;CyJDoB=IjAm<h_:DfGPU:yd<SmyW_WmQwb>=Z[rPJnv::VAD:::vo:<em^wE_<oi<_Z:WGFoyHIets]s<U<cQougNtZEy@[lQ[Y=AAtlLvmWlgaoNje`s:=RolQkJ@OxeyiYPj_dbEZlyG[zLU]YbvJ]vp<y[Qrn]xaEwdYOhEYZ:;vO::YP`qyAYujcMPscklRRsZFYLYJbpBkNRTF=@JUgCxn@ozkOpAqoUlaGK?X]W[:EaBZ;::XzOc>neSwB<N<p^<Uyh=@BS<t^y;fjHHPvkCO_eIYYIkZ@?O@fSgBfEpKGuxWnUKQigeOZ::AM::ZS@HFXpumU?Xm`pihVip?LJ:I]TET>dB:Ab>k:E@DZ:NrFeOYfXDw=VLjPW_fsG]pOjB>:_U;s<pilSmjpsED==Ml=@]ujPQCOO:Ae[fbc=vyleHUOulGT]gr=reUQB:;ZHig]::YW@::QAD::TSa::]wdZRHz`Lu::F[?vy`M_ySg<HxaB<agN;aXdYy[GZul=yzzaukh]=u`unIejf@V^FP>L@kE<cKsaD[R@_eI^:ccV]:rciFUfjVlR;sZdZ=V:vC>lcP>ZngMceko^@ykeqkZCYfKiJ;jrdEDlriBDV<OtfkCjuZZdzfDaiYEzdR@Lvbqvfa]Zdf^Yktpik@fD?;eU]_mry[pRvVYfdFKIy^P_B<H@BUa^[i@NXBUtuDkUgsRq;sUbk<Vyd[cs?oecUfR@<:I>_SenaJF<jmOiu`hPtZyDzHb]`igZ<_]ti]KeiUe;Dv_nvc:ArZPvKsFJMQTMiWWZHshFhnhMuOsurBivtqmvhHsC;DIg<;=<h]=isy_:;IisyoQAcH::HSt>AMR]tveaLp;:c?Xu:ZlB`@LriVW>ysIiGBh;ujiU;HytV>a=hyv;NjvjZtjNYvaQJw]K=bmCzNt=bo>S]Rch;soXAWA;uFHIWIDCBXw^Hku^oTchkuT]aAbILX>r[FBvsXKccoA:HlAaV;LH`ccYJNXJG>`KmHX?;u;NX>Z?]=eH^wCcu@T^xAW;gX]N[ltVZYxjF:wXNcHZ;d]:b_rMDZZZ<RSQ;qcDCviHm=EnkqD?:GNtjJJQbqD;D_bjKuQZRQjGvHyIn??v?:uJ?k=>[]QextGH>@`rlJTvQehvfHJmi<lBTV<HYtcT<n>=TC<BG_`SkyqtEiJS<sgCicNgXreT=YTAija;XHk:]_<QPuc;B;_[S==em<B]I[MtSiX:Im=;_nkAnsNg;zdm?AyDE=m>v_=bG<m<[@seDf;uAp]RDY;zZ;WSjTTOit^<[gJDDAiZ@;;D@_g[:GDA<>VcN>vgBlNH?vGXSWbS:agQ];B;bu=yiXfxyIzcItzyhu]It>;bf>ycygfubNZL:yq[[^@uH:EPCLVzjidl]iCfcakaqmbAvs]ydjcAvay]ABNZaqPT]ET::X]u::PQBwcxcLl=jPFH[T@S>_cPu>q[he<a@ATuRYFLrq_gHe:N;:eEJ^N;B:DD]EZseFBKW[TRKaAo;Zc@dKrqHG;lBm[t:CuA^]meCKeiDk^Di?R<?E?_c<;EkEZ>CeDDZ_^s:T]Ii@NumjI<@TcW=@::KZg`dSvd:VzAUBoaIt:^TITWgZ_UB@qV]y?bNUsYhTR@sBRdT@ueRShTqoW;@y?M[c>PjmfJ_Wcx[XZk>Wq>;X<:eh;GiQqI;>UPIRJ<M:Pm`]Pt:K@>N[@DPFWjjncKB>S[>FZKZbcEWwi>RHBBKosVhse[TcOk=:kl>Q[@_K;>Vc>V;s>JORbX:i?D?jTIs?:;j[pcRiDrZGpaD?p;Q>WU<]e^cUxe=Zc_NAdG[ieCCAlLUp]AeoBBs=z[v[X:<w:c]mqjF=p;wS?X?@NnJLZJZ[G?^z^I_bJOm=W;^`C;tE;_A^Jt?:UWIJu><IBaRMU;]cfg>cXb=gsKMo@AheDb;J^b[u@]?tBKvQ;;AbV?v:_>Z_<UZcq@leaZncICLR:oNWX;lKk_:`AmN=:DJMUaRj;`@@JuZEs:s:LJ>C=lKgJB`AtKXREZ:u>qNLOAdKSNYCLpZGZ<Z;C:syfC]pKfxIOAtKFR__:pKiNSp>?KONSB[]F^k_q=?Rz_ea:LZ;:FO[:[uR>LvC]GBHJ=K:=BCZKU:DNU?>nKZBAGAVX>cHZAho[J=<=[H`cXx<ac>cGxfc:Ax@VCbZxgdW@EZH<^W?m:T<Ba=J];:>K=EB?oIC;jK<oI:<YKzPAB=QK>qAW>MR^oTQ]EZfoNx@>JpoTCSrKc`g=@]PRFQp]iBIoSKABFIoUDfmeIoTptjDmmEHTUk_FJHR_uE:G=AslawE=A>lGBI=>D;em^xA>[IoS_nFZtZIT<Rma:?DZ@P;ocdCcJ;VIT:<ZiyEl:>:jF?_;R:C?aWJ;k>d<]<rZN:DyCY]cgJHDT>_gKH<BBDBDR:::ND>=aHgBPLDhTu:hcvwXeZ?::]l_NgrcRZn<gz=TlaO?`<b:CkEUKsoD:?=f@sk[@:<wuoR]G>gZAV^Jk;JGBGrCJ:nR;a<E]TZ><E<>Ck@c;qlO[;e:LlK`eE@@ls<bE?e:dgW=MWJ=gNP;V:pg>Z<@Zj>FC<R:W^BM=_:n>[B;glvmIVLiLXGGn?FZvcAn?ClZL_EA;;OoS?BmlRWaX:DlhVVxA@_RgJZCbZK>=Q?juvoXZ:WlKZj`tk:IVQJJ;k=VSr>tRLs:I>hFxVXI>;FSsFr@pl>qHr>hl[>Sd^LlVbcK==lTzH[;MlkJO;:ElVwYu@eJPwRrRo[jZBY@vZTFV=<AlXgVz<nlBwLk<Rl=ycY>slvsBz?_l[FLz>[;GB=Y>Gisy<k<vlwZKzefDAVOqLHJnoKA>s[pxFU@;JgVRF;ElOoVpZNZngLwEJDU<fOLXlrkci=KLU=;B=cP>Z>p^=Bqh:KDRgBVVvR:Z_wWtkNgncd:`<Jo<M<<kChoY:apZ]<PduzLR;@Z_IZWjiUEylq<WdTsCkVTtD_kocIARnl;gX:bQ]O<Q::oCfVRi=ZcGkBka_ZnkgkbI>oNjMEgCo]PiE<>H<KX<>keGDtEbyl<QQ@ZlB]WZBJC]qarBalYkQJ`m:CDEB_I<w]Lv@gD[gek`kD:BAUvhlMF[c_wC?sA^J>Ls`Bt;WlK]KJas[s]SB_hFeo:kaqCMkjR_om]VeZ_E]isAR=Wlv]WkaHqXGBlEoo[<OiL<CdWeNnBDt<Rst;Cd]SMENC?]J>lxlsLNkailFLNsboFis<OveCj<Vgn<>;>eZ]@R^_?Y@;J<gSAA;C^x:Z`qCL<M:eNobgOc:[JQk;k=pCUhfka>kNRG<kL:f>^F`yCcwP:b@CR]RN_JD>]LN_`FV<MR_OC=]ONbHsbgUi;qya<Ok`TCT`=FaiLBf?__zFS<OoafC:V<>bMlx<Wg`xC]]RF`lCBR;kb^CMP?@:f<gmWC[uC<mUx>>:nVUVaj:igjV_UCpmWBb`CEmSNa[LgLMN_YCT]N__QZImMb@uCLk`Vbnl:LY__aCRDPR`JC_DYI>kd_LYo_cCpLK?DAC[]L]bYCjmTtC>JyV?Va]PLmR>`sdvoag_ICqwPc:GBnmTLajC<DVbBIZ@b`Za@<j<OiLmof>fw_ZCTwM]at<`<QVbaCH^ZZCJJ?mEm_DCVDLkbvCn]VD_bCa]Np^LoT`HJ<]kylBJbkBKeYFblqawQ_`md;LY]`?CumNe`Elu><LbedimY<_NdA<_D`e:smQe_kL_n_T_ada:H`UEZ[F;VMLdaa:j@ZdvDK<aHdOU^j>idNLVZaHCPeLc_:ZHeJpLydyF@dMEZ:]Qw`>Jv]BTaSCy]Ls]oBgeUNuqdoTRebwXRVEe[ed]TJF_<d:Ffi;g<QmRdB>C?_bnL:dmFLYAPdtTPmbZdOTVuJpdMW`Z;pdSDVa_tZvmLvLKk=><Y>odJTU;CzCHtEs_TZSwLFlNBjTKskOd:uRLaldFeii_CdsuQgaMd]DK[^I:qV?J^ndT`@dMcd;>hD]coULJA:Zdc]NU>DdiuYluxCYDKe`DCbgUB:B:?gBiBSZwuSFsLdLG?]_[ZxwYs[`dPuYq_>dlLQi_zF_@Yz<AdzDKu_?ZisDt;g<;J>m<hdBm=EKGCR@Yc`IlE:<masdDmQT_Vd_DVK_wdMgU<`idaeLXa<dE]V]Al:fTM_c_JsfD;aQq[eL[fgosTMoBoZbLLybZDFTWP`El:aRM>cSruPwaddguLZlgSPTXJ<QqtmRJ`>JPVMdCwSwW[CbIdmmTy_NScaNHb]SIwMBaoSQuYK_zdn]QC`aZ<aTE=ad;VVo`kyt:GXaTSC<KCaKdkaWo_BSl@WRaaSfeW>bidDTNl`PSf@YHbU_[ePdMTC;@NK:TLLaY:[QC`FPwfJS;eE;bAmdw_Z<Vdvy[lefD=<Oo=iZ>V:m<NByOGq:DJNSBp;s:=O;i[:D[>iJ=iBBmBslpSVsRM=sSk:aE^FZv]HsZGNB:fM;[ey]BM<>kPw]Z^aoX<Xs[eS;@ODa[loVNCauSNVNSRoCmLOATwCr]Qkb?ljFYn>OlZwVz;zljVPJmQl:VI^<blLMAp;:COmXo`<JvaWGaXSAuQB`aSzaKa=ilo<ZiCVDrgTq`ESDuW_b>[LPQKsdS`@J[bGHJM?CbaSxqJV_[ZvMjrAnd_e:KaWdcVQhaYSIeAdaOdvuPU>KCYaNabAdm]K?E?ZdRDq_eo;@YVL:daME=aq]wHMibkSRaL`tGJ:HUW_PSduNk[ASwuL][VSRTJB:zsig^lu?mYNQ:=`K:oNO?=KxZFv?^Kns[G>oZNoKh>wZQKIG?sLLoLhACKGBD`@]teB[EavKfkRW@S>loL^]bKs:HWA@:xoNi=RlfXEW?utd<WBa@tUVLUaEZHr^fa>kSiQB;KZpiJJ<]kIoTh=Nl]oBUah<q<eva[VdFXVDHZwFQA][VjiV?kQ<?iQv`eBkXRAaHZOiX=?IZcQCAbcD?kfU`KtUiJbbNPXFSd[>laa?v_vl[iO;;[taaEAa]PmXWKaitIwXbbTSlXJM>;tAwLk<tt>aYbajl[XKDSB<rz;^A>@PFRa:`dW_=xAjoLFLHacluuVg[IwMXP?mHayiGM?_FhFNp=olhs>n>glhsAbAkBbFX_:fSdVPhbiZZ[=yMul]wPWMKlDwXE@MSJ<TfAE;FBKR:TlRNR>:oCigSj`KdCHJu`QSIk[O;Plk[=U?R:XG:v@pujaYPaWmJHQ>_ylYgSpbuKUqSJ:vt[HYD_NSoVQG_^:UJB:dClugDbAiZuVQRk_JuDYIbiBDaVh_c:CVXW@ftZgOB`zKvwPJaGlyiJxAs?[]Oj`OltiLJOm:[FCJN>:NR=JN:]S;OOvmJ;qM_bxl^;TWbRDiqWY?V?ZN?h_USZNIhbg?:VGJPF?BXSkO<?nwAJNL?ZN:kP>?oXPc[Ylz;NC;eNvwRp:yte[Yv_w?J_<F]e?JXKcP[tP[JiTvtdU[VB]?V[Pv`a?Uy[kN_ki[Ru;L?t[T?nq?ewVjAjlDeTsOe:][Nub>Jv[RBOm?N>CRNUlTZ>sQYl;FVRO@S;FXj>K;;FSsOOiUaTcNzlj[VsPptwKJMA;?<:dzl:<izBRQkBE;N[_sS^;Kr_Al;KL@=joE;WqbWllKLk=bl@uUQ@=tF:eT<Al<PJz@DlMDNJO^lauV`b_S<HTMa@SOU`g_YtKuJ?b=>U<Ls_RCIeSs`GRLqMD]h?KiJX:Z?quQ;artjKXJNAZ`HT^`=?^FfCarKslQATwCcqQw_soFlVB_W?QqOoNrt@PNr?f?=TSpJ^?WjjHB]djeY:]rdoa<t_@CO]YFQYS;aY_Ls?EoOVQ_dSJfVQNd=lKFOwCI]NVNN?ClQ=_]SZuWwPPC;:Fyl^de@J<PPS?;L]aydfqX<ON?AlPVPE??lPoPsV]CWC`W>ZCO]Oc`BCJ=ustNHLJ`bZN[WYas`O@PoN<V[CXS`FoCCUJNv?<qKX=LoRqOLOj?xiW]Q>txCOt`h?cgAwOilXNCv>CCACOx^v>rmR:QyC_CNMbJ`]HU<N;FRLVmONtFaSL_[ZNdYMbdCoa>Pa:dYVJDQD`IKTeOtX]o@DOctkHPk<EJfTRo`zCELLW`=lCdSW`BtHmSeQ>`<s_Z:oZRHLD`GRYPR@bDSndWkPD`c;WoOE?oGF^aYt>uSgNKLYkj>=XllmJpKGRleT;bM?y]KkQbSfDM]Qqd>;W@P=?=@Q@PXdclQB:C`mSVBLd`A>d=aw`A;RBOo`XSMobQSDHWVQB`x=:aOC`fTNpbhdc`<@P;JB[JqNzSOqJPOB`klL]O``?kdk_d`nFWa_>S:mDwO]?NqMaP<`^SVDQm?q<`TNU?BlTX@V?wuNp`KZt:;n?n`v];[;A`aSJA<o`AaPy`a`Tt<HO>`GlJiBW`:B;PPwCT`@[=ao[<RF[x`J_:kP=`QlUXNX`ulNPOg`<SYVNbCMP?FvqSoaG^Jn?UiMdbE`ddS@NkCgKSvaU`k?Vs_v`NtKs_dC`SSZ;j`[ePXQwCCtRXPj?A;LcO[`<lTiQ=`Z?TqO^`vSKVDW`XtS_DH`xhE;NQ<qSPK_f`JtVgOhiv?P[NY<PlKHQe?SCM[PMC=dUc`MHg?ScNNOblM<QBOkJPv_ySbuLqQz?W?NlaROodSRDsOcTXsZ_OiHWa`uOttVz:u?F`UaQVONSMKPeOlSJP;I`EtT]a^Ty`R:OlsX[TSOVOztUJal?JXYlPg`stOc;u?B`Kr]dCa:GiKc?DGGlMwScQIPOQ`yaQCNXO<`S?QXOQdTa_TO:OQrmsOqtDXQhdDGFi;b`^uVSP_SGeUCNe`:?QKaX`=tYKPHZ^?V<P]O?sDE;_oE?NtQ[twJ:HQKO>SQ]QXtnOR`Q`OJPUwDa?a`XzmwCWOO`PLOK@V?kltfdWXOBOVOPqsltQOPqQeOcQ?[QnSTORGPlZ[`KCNtOd?LE?E`b?R[Qt```U@PXlh`YpPfwj<OYnI?DGBpNWO`tKWaMOvOPcQl:MCJFP^`p`S?DeCJ`RxNbO;z@WQhSH]Vo_^O>OPcZrO<?PuQa`FpN=OnOT`LPNdOpOR?PsOtpXhQzOapMFOJJ;OQq`aOv`VebVd_GTxPVDreT`NMwgdSZ:]oi`WPOzCNREdQLcDGW;:MOFOVOQMONFM^N^?uTW[PV`:SM_d^Sf?TGNSthGPpNF`@XNnQTdyGU=Nm`i?PdJ>kMaPZOn[i`U`PPdr[TtOvOzGY@_T`J?JCOFSEGVhP>pq`Xs^skqVQxO;dqt>Taw`c``?PrOWGMXNFp[>:]QIOxtYGN``@hTDacdDGBXPst[hTE=@p[><pOapYGPiQy?ZhTa_HpjeNKBA`cOO@;SlF?WnOJJkGUhPZpw`PASKpzhXfQ<pieL<QQd[s>K<[pPVKLQVp>aP^NkS@GU?OK?iFX>`RZV:GH=SloReQQFNa:;QQDOFSWTPPSE@OxO;OBh<@bhdy<XJ;eSAhOQ_vO[OJQQopKWRC_`pug@QNppuDJJ;OpRxMUNg`^TOwEgCMWJMN=OP]RUNNFYmTM:E`fwY;NlpWpYnQTSkxLZ=`psxSIPppnSYQO=?uHLPQ;SnWPEOE<C?VwQfpg?Mz>VOYWPtP?psKSj;DOhRDQPAp`WLIQOpCxQXNnpT@PxQFSx^hYPMCv]ESbdPc@Jm_A`HVYl_C?jGXVPvp<KYjP^p:=VYQ^p;pJrPmS<xLEOTOj<M_eAZ`xjePkGhWJZo>lQhL=NvpTtUQ`cGIxKL<RGoxPOP;S`xQZodpGOTaQ>kLaNJbodH_iJpTSIwWANjp]hUJp<Gx=OIPFGYxSBqbp[SWM`;Sv=KabuPRhPyQSljG??bwGw=YARS?m:fKJDpgWSUPB<xKWzmCpCSRC?s:W`QDQI?`xhyNEaPxLBo@GWWQBpT`:Fby_:SJ@YuQ>pUtPGb[OeuK;ahtnKQyOjpQLhcASSDhUKNQpu@L@<RSh<G[`y`s?O^MGS?mUsrSCf]>Zp<`SHKrkBLsMTdPKGQgL@:hd]xT=^kp>HNibj`s@VhnLFwZIcooGaMMwnjod^O>riZOMOxO>pvRaNqw`E]<HbdGO?MlOWGlwTHbFGehLspGGzuRo;mSfMU[Q]gLqVi_OGpKMoraOVWPi`mekFC=OtGis>l>Qds=KX=QdnlYXblSo:]zml:<nLYBFJuPS<`p?KnK]<mCiPRd<FZ[PVm=?SdPVpBOSZ<[];]kGPQObkyhPRp`CGoKgm;Qwhz:A@S:rPJeDLczPTZNcofGLhPpO>WV_oAGPPR`_pG?@TVpbm?nJ:bbuGnNbAtS=nNwpVZSPTwpOSAnUOapSrnVFZKSYnTpbhSbPL<q[sREQp_=StMMxQv??mOcqulyyV]rgds;NqQc`;@NQ>R?eqXQ?ft`VSJ:]lY;S?svSo[WcPC?KZZM_h?K`R?<Qq<nXtOHG]]WzboFMqKsoCG@CVPa;H>RFer;GXQaJnwOufWeOg:HqX=bhdhSLE@app=XUOMOefUUOJpG`NkkgFk@YeOstY^Lk;mhJMJINhFaM@goq`hHVbQM`=HPG`Ft>BUk==LUHM`@`KbHJp@OKIHVm==KW]JE`s:JiQn=MK<RghfUK<oOEbolFiM?>M:TSBOKZHZs=ltDt[[@w>Y;eiMqEetbgBg:QKQVVvbYKvXL@<S@AoPqpO?zXLIb]<EXT>phtFdad=naz]BU_KqRvSdRMhbhZI_l:pl`qpEXiyGW?I[Bd^x>jHdI^r_=GLFUJ^EBYhc^@CZYhimK^tJM;I`xJNyRn?mmNXfI`VPHoin@Et?:Fj`R?JfMZNUtl`RY>Ah>dXkQ:?]gRYa<XugYzf<T?yTDqjhbEVZogXtgJz`wCnyQk`jtNXb^L:GOHTTpGdjyLVa;lkVRt=jhAgL;r=LrEJ[_RWsuEBbllo;Xu<k?TVXo=VLCxQb@c?yhWfJIhSVY:Q<hxLgkPO?ldODr]?XwLk:Wh?KXlrnG^;NoOJS`KQ_Og?hKM>=?@zwHz>KqsbSdTLWbhcRNl?a[:A=]h?:FiqEhiKNu;qm[[MDpD?V::>OY[Bd]kOfhJ_@yqdqdTYDq:deo:TpyhTdYC<;hNuUePXGLqJM<hCQfLlqyh?hPA;`CHMKHbfGBHQTQndLqJZ[ghJAKo_PW?hRup:GolCv@<sNJHw=UGrmQpb[h?MSlo[WNpK_T;eZnP?ogGEl=TO]Fn;V;`khWuQM[nGuuV`oSSmnYDeJpwseXaUG?wV;_^B;@TGcdGaPYfZbGTPK``wWm@O]ptSxnOn[?SCPY]ojGoRawrOSCEYO_zG?EUEMzGpEV<ol:cEXo=Zh^ENG`sOLMQXac?bWNtrSCZbLOp>dz^JHoIuGbTX_lGW_A>qsSZmAgqc?<ETCrt?ZtT]rbG<@X>R^hAQXMMRhrQJKDIGYQXa:>hZrNLqqSBrPLqzG>rOLriBlP<FZohFrQLpnW=ES<qEW>PO`P@pqWX@_LWPAUopZpAha;ROW_QM>:M:m`dFq=Os`SyOFtC<L[TxpuGTzPPWkJNMrcx<sbIlRxg?_hPHprmKaO>OurPATuPPrPiPuP`IYJnNx]W^^qpOXIW;QFxA;YRo_xc^WKP`OknNUCVxFJ?ONVGVGSF_Fd_HURrIpBjRsqmGctSOoKLjmdlMiBgQVn>F;RqJ]reWLITZLhWuEKuRoSAG?po?SIQPxrIGtPOxrjGIrOwoGSsrWGqZ<puWXaZxun=pbnW_EMcbYCyjXMO@d=uOuoEh=BAbPW?dIPtqEXTbOqEvWSfRWqeJlrQ`qZSBYSYbIkhfWjQqhypXEqoO@jJ=CnwrgQMqd`VIcfoDhJ_?JpSxIhPEorS>jTVLXlPjVgke?k@NM;wh[jQdr@xGrPpqnhBd^`bIWpjTxpshArJGoNZJrVLrHxRrNp_:x?z@p_WSUjUGqxS>ERG_eGnlJXPMH?MJSpg?fbL`ohFazSnpahqYeMsbW<<:K`dx[``yCdGljM[ppGivW_qsOleLK;_pmMK[=]pk[EKrR?uyVE@L?SKWoqO?`zWN=:CoHWzr@xDfPfpHhldBNrn:N:HyOj`fTMiM_:u^Qwbm`pBYcBxdqzTOoc=rYH^qJ=reVq_ndm=E[bwGdYQwaQqhaNJ`WdCbXZIUWlZ]^d=GXYYYetZN:wqa`dYbMsp_=;IN:Q[l<nWYpaljENZGjx:fLj`IhbzYCrIkg[UY>YSfAXKQgWVfJ:HqGjtTpPZWGYLdQ]`AgRxas=PfWHNuhKdSDpN=jqQerQGW:pz_L`NuT=asSOfURr_OXZwcGbp=@Ybo?ZmseiEihiHKNoyh]Zl_pxG[qNA@XWH=PTr;hxdUkqgL>ULnbKh>cHn`lhQHRao>:jHW@Odh@ULEbShdl?_cwX]oO>=EK;UPhA?hwiQd?e:?UWbnDtpp>W?ph^H;faGhqiQx_KZ[iL[?O=w_>ioxx]vMHoXaZFSZFclQUWKLe[V:HeA:kPvSr`KtKIOHpZPSvX_;Flsf@M=QhRggn>kOQFRBHIhxAVypYx]fLkPL=hVKkPK?LwL[AjlF>UCqG?xJyAov=MJsRPDWcZkBNzx:nLkQh=^>Ke?`?CbQBO>xobP;RAtTgLYbzhPgRzMdx]km:HlO@QQQoKWTZ?:FFZEqPrquhLbanppG?JsRIY=x:rwHs=BHKTqXGkf<sI`xs[WRIi`iYTdQn]N:k_bISk@T?QhSFlKgHY=SIPARcK`IO:Ij`DGEnqFLvTYgQ[dPksLIKxOU^;@_^reM:G>Jvk@ursG;a?FpJOMEQ`P;JkjYbOKx=fP:I[WPQW<GJ:pZ>P<c:PXEfo=SRqWFbhxDbSrqaxWrUgFPxsT?UqshvrR<<YWczWxpixyO?GohSRIMvpMCD<@d`>pu`?lbqoMaYpaD^F;]ppbGrYNoGxxacnUp=xHcmIo:DycwTHZ<KcpzcEx_eGF`VNlFE[OP^VtXyPq^bfXwGbScBu]HpxNBokF;_NJ:J:[Sb^OjEhp@WURqSx=^UNrl^DZwX_R^reMuQI:V:mXO^SCzV<I`?VRq=QxGe:y`o]^aQNPItGouXFo>=KMSIlv?l:zk_stkBlVHW=M>Ki_c^hRm@=x^QJkKBy=JlVqHvZORjm:qROklqHP^rRsJax^?:rS:p^LnYj>G^wAMwG]^M:kNog=bBuWP]LMEMqHGWeIVMq<^cjMlNQ^nBp:;?Z]J;F;?ZpZGR:FZNJAe;K:@RHw::ZT]:<;B:<:>ZZ:Z_cr:mHFJ>pDFm^]spFrtWnFXXFiq>YTVO<^vOKASr^dRHmHE]`BHZ::Z=soZ=j:]sZP<JMj<QDGzCnPKd?KheZ=@rhKXNWnbK=mUQnadhsoWp?Sh[OBXsd=yUTh@mtuoRRvlXl^^L<OheKGPqFXlJqFD`=PiW`Zg:KEiQbzKBRD]E`tnJyCFv>tXV=@vZZn^x@diR:EVszKz<bp^SibUVqR>:MiOqool=FVFFQhP:?Xo;PGvVF[A`oknn?<=VkmBG;Wq[SY?YhDklmo:=IvW<@SRnkptlbtpkB;rP?@sozMrt`gS;qB:EyYU@Hl_BwRGe=GLV[rztJVR:O[lNgWkHnSMSRKqCllALb@_W@VQ?atl`_mXQu`ghHzr<=BfTgIU=`KNLsd?RKJ>mc]DKPgFpMYoeBQslVbMwm=HE;PdHrHE;O;=b=w_HSpGMpUbpGm=LBtXHKxpslSOc^eZkxboFWbJ_rFO[VURo<^coufov^F<c[o?Zvk>k;K:rodRokLxOUcaGWisCOIo^HzJpGZ>CfLRHbdUmSsoso=bMLH<GvKVHGlpgtieFfMoNpGIeOgZ=hGMCISMw_OGhNwWFR=w_tpMbMFNqToyOpoxXastu`BzN>:Bok[G^MMoz^@edKZtGIU`boqlaFd^dWiKzM^NsxIMO[ongJZnvooq_[Z_odsotDAtSiMFxgtchIkn;^O>NaSNNu^FROuFlqG;OomTJqB=ZDPpF:np:sFt>nGdML:R_f:qNpbxis;pGFWXFmasMZTUhSqM^WqKWGahDNZg;KB`Bx;NnGjBpurWMjFzcI[JrZm^Hn]TomqH;pBCMC^pWagx__uM?KOEGS;jNrEF@nvk_UFn^w_=GGDGilKX;anAMM=GxMGgv>Pm:udJvFDncFx=Pm:fgx<o>Gq>cnrGCQ?<W_VhZtMkIJoY:zGFL:lNzSH`M<bNgHLhJormHl^HgnRGmGKgteq:^z:w<HL=jgoTrzSwgp:;HngBo>na=SYTKHgtRJv@ppKwUKO@?KG>maqKCVJslH]tfJNZ<gMTJxEaS=CUXhMxnXJnTB?=GR>NFiDCoJqq]MYP:SGxRYVOrb=tq_wntfngt]_ZzKRI^xAS;M:HQavnUJzC;:kIoTYHCtgZHYGxRncEnszKHjZ?<R>QUTvsoBPo:@MxhhRjqq^t^d[zHxhOFRSI^tQUQMA@M?:=IbtdVySSFEthsDbF<l=_k?HYhQ:z:hY]kwTR:XMZc`A]<BEklXMyMOyXsIBxTtF?HQkcNvU@jt_NsqHepMgr?F;l:;UAFBEwVu`GZWuNn:OSMw;PKpB?k[CKpKZyhNOFn=WAM:jdnnwIOF`FZolBGq`fALpHKVJbUY@rHDL<_NmE`KP=sxMu::cjxMIJ_k<DEJF<kNTED]tYHLEKZ^YF>:GKUYArnug<kQInvjZ@LA=ebXOUn>@bORjGWjAUgIv=x]mgI<?lqVGH;MMFsUHDn:FaAH>MydVZHhFpgvZiEGyFm@:;nb]yYNq`j]ps`n`[QTQH]EtVoL@P`OVmFoh^WLLEFRdSzNEoXES<n:cTXx=<PIlGUgrEpTC;cLJHj?>]s?Ga<>Bv_iWmyLqTrAGcPOa`KSwI[NrLEPzV>iRphgnpEwOxLmMH_yu:Gb=RtNmO?bRnHWS>>WErhNcFr^yFL_ZLG@=WBo:Gq=RvIXEVxLd<[niQNXHW^eDMdCKSNe;NrDE]Lvi;ZyjLz^Pbd>k@chGE`Fm[fK^InIjGOErLmVhOnYLoopKBJmqnIrxBmsuO_p?=RViWE[fPqujZEV^RbYpF^KIPEEP=KGGXEkVqgj^ooLvualZiBlTaPnCwtFhqhpYSsFg:;I^NijMG=<wgh^UmoNj[nLxOkpLpcRw<GTEKmm@;:kdmnTQjEPmynHEd?mOvM^E;:CLjzEKBzs>sfcDkggc:zxS<gC^Uoq^GSsamvEq]p[=Ugg_=]uR<buEJslmgF^IIZRiofNuMA:@ElzYOq;xZDVRhY<ODrL;h:=wweibd@@EfvsMb^Ub:TfA:vi;aEfwo>hMEAZmHFg:pelvu@fSfY>;=sEwlvuhdyTYfOosA:paNtEiDvHEsf[YVyOW`wIZZHA?C:vVghXgYUjZIEBMKSsdEgxLqHCxcN@Cr:S_elVarEWSJ@jEE@RF@jLx:BFQr>p_PO@gOGarQbHRfZbYArxEeTwbqXGBmGmO`fy]Vdo:^mcouGax]Toxpi^ZzWeIb<xjQeHHxbnTLoixNzJTIFZAjYpuy^ZRt=ocBzjV?PB=PTk]rqEprLeGpGvQR^LWWWnJIqxWWjRLp=fjrTHiNhFzYuGWSsIRjoEWwGSlJO^h^SQqt^qYNqP;fubaVgKLFAKO:[hq`ODZ;dp^Vi:VLPLrAI;E<VqiKCnRCLbFwEAzYki;JTKKDppnfAXBHmhMN@sgtnV:FBoexXRyGH<fnFleoT=lVwbFu=g@vej>[:guRGk^<MTNqiLpfPBHtfNDwyiXlPbc_=RtAfTsHBU`Tkug;hLTw:qvZzZzMa;=q_cBaKhMVuMdv:J::".charCodeAt(N++))?S-59:S-58),K|=(0<(S&(C/=2))?1:0)<<B,++B}for(var J,K,B,R,S,O=[],P=1,a=3,o=1,l=[],C=0,N=0;;){if(Z(o+1),2==K)return l.join("");-2&(R=K)||(Z(8*K+8),O[R=a++]=String.fromCharCode(K),--P||(P=2<<o++)),l.push(R=O[R]||J+J[0]),J&&(O[a++]=J+R[0],--P||(P=2<<o++)),J=R}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+qianShang; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = "QianShangLevel1PanelSkin",
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            this.addEvent(),
+            this.initOldPveBtnClose(72, this, "qian_shang_level1_panel_xzzs_png",
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            this.upX = this.btnBoss1.x,
+            this.downX = this.btnBoss2.x,
+            this.btnBoss1.x = this.downX,
+            this.imgHasWin1.x += this.downX - this.upX,
+            this.imgUp2.x -= this.downX - this.upX,
+            this.imgUp3.x -= this.downX - this.upX,
+            this.imgUp4.x -= this.downX - this.upX
+        },
+        i.prototype.beforeAdd = function() {
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this)
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            ImageButtonUtil.add(this.btnHelp,
+            function() {
+                t.service.showHelpPop(72)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                t.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnOneKey,
+            function() {
+                BuyProductManager.buyProductBySocket(256123,
+                function() {
+                    SocketConnection.sendByQueue(e.CMDConst.CMD, [18, 2],
+                    function() {
+                        t.service.updateSomeValues([e.AttrConst.forever_taskState]).then(function() {
+                            t.service.backToMainPanel()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastBeat,
+            function() {
+                BuyProductManager.buyProductBySocket(256126,
+                function() {
+                    SocketConnection.sendByQueue(e.CMDConst.CMD, [18, 6 + t.numIndex],
+                    function() {
+                        t.service.updateSomeValues([e.AttrConst.forever_level1WinState]).then(function() {
+                            t.update(),
+                            t.backFromFight()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddFightTime,
+            function() {
+                BuyProductManager.buyProduct("256132_12733",
+                function() {
+                    t.service.updateSomeValues([e.AttrConst.daily_fightTime]).then(function() {
+                        t.update()
+                    })
+                },
+                t)
+            },
+            this);
+            for (var i = function(e) {
+                ImageButtonUtil.add(n["btnBoss" + e],
+                function() {
+                    t.setIndex(e)
+                },
+                n)
+            },
+            n = this, a = 1; 4 >= a; a++) i(a);
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                0 == t.numFightTime ? BubblerManager.getInstance().showText("今日剩余挑战次数不足！") : (1 == t.numIndex ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战伽玛千花") : 2 == t.numIndex ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战伽玛悍刀") : 3 == t.numIndex ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战伽玛鬼雀") : 4 == t.numIndex && StatLogger.log("20211022版本系统功能", "千裳", "开始挑战伽玛夜煞"), FightManager.fightNoMapBoss("", 16483 + t.numIndex))
+            },
+            this)
+        },
+        i.prototype.backFromFight = function() {
+            var t = this;
+            this.service.updateSomeValues([e.AttrConst.forever_taskState]).then(function() {
+                var i = t.service.getValue(e.AttrConst.forever_taskState) > 0;
+                if (i) {
+                    Alarm.show("恭喜你找到千裳真身，继续下一关的挑战吧！",
+                    function() {
+                        t.service.backToMainPanel()
+                    });
+                    for (var n = 1; 4 >= n; n++) t["imgBoss" + n].visible = !1,
+                    t["imgUp" + n].visible = !1
+                } else FightManager.isWin && Alarm.show("很抱歉，这只精灵不是千裳，继续寻找吧！")
+            })
+        },
+        i.prototype.noOpen = function() {
+            Alarm.show("暂未开放，敬请期待！")
+        },
+        i.prototype.setIndex = function(e, t) {
+            var i = this;
+            void 0 === t && (t = !1);
+            var n = 200,
+            a = this.numIndex;
+            this.numIndex && (this["imgUp" + a].visible = !1, egret.Tween.removeTweens(this["btnBoss" + a]), egret.Tween.get(this["btnBoss" + a]).to({
+                x: this.downX
+            },
+            t ? 0 : n * Math.abs(this["btnBoss" + a].x - this.downX) / Math.abs(this.upX - this.downX))),
+            this.numIndex = e,
+            egret.Tween.removeTweens(this["btnBoss" + e]),
+            egret.Tween.get(this["btnBoss" + e]).to({
+                x: this.upX
+            },
+            t ? 0 : n * Math.abs(this["btnBoss" + e].x - this.upX) / Math.abs(this.upX - this.downX)).call(function() {
+                i["imgUp" + e].visible = !0,
+                i["imgBoss" + e].visible = !0,
+                t || (i["imgBoss" + a].visible = !1)
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            if (this.service) {
+                this.service.getValue(e.AttrConst.forever_taskState) > 0;
+                this.numFightTime = 4 - (255 & this.service.getValue(e.AttrConst.daily_fightTime)),
+                this.txtFightTime.text = this.numFightTime + "",
+                DisplayUtil.setEnabled(this.btnAddFightTime, this.numFightTime <= 0, !0);
+                for (var t = this.service.getValue(e.AttrConst.forever_level1WinState), i = 1; 4 >= i; i++) {
+                    var n = 1 == KTool.getBit(t, i);
+                    this["imgHasWin" + i].visible = n,
+                    DisplayUtil.setEnabled(this["btnBoss" + i], !n, !1)
+                }
+                for (var i = 1; 4 >= i; i++) this["imgBoss" + i].visible = !1;
+                for (var i = 1; 4 >= i; i++) if (!this["imgHasWin" + i].visible) {
+                    this.setIndex(i, !0);
+                    break
+                }
+            }
+        },
+        i.prototype.removed = function() {
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this)
+        },
+        i
+    } (BasicPanel);
+    e.Level1Panel = t,
+    __reflect(t.prototype, "qianShang.Level1Panel")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+qianShang; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var i = t.call(this) || this;
+            return i.service.setValues([e.AttrConst.forever_getState, e.AttrConst.forever_level1WinState, e.AttrConst.forever_level2State, e.AttrConst.forever_level2Tip, e.AttrConst.forever_level3NumItemThisRound, e.AttrConst.forever_level3State1, e.AttrConst.forever_level3State2, e.AttrConst.forever_level3State3, e.AttrConst.forever_level3WinState, e.AttrConst.forever_levle3SumItem, e.AttrConst.forever_taskState], [e.AttrConst.daily_fightTime], [], [], [], [], [e.AttrConst.playerInfo_level2WinIndex]),
+            i.init([{
+                panelName: e.PanelConst.MAIN_PANEL,
+                isMain: !0
+            },
+            {
+                panelName: e.PanelConst.LEVEL1_PANEL
+            },
+            {
+                panelName: e.PanelConst.LEVEL2_PANEL
+            },
+            {
+                panelName: e.PanelConst.LEVEL3_PANEL
+            },
+            {
+                panelName: e.PanelConst.UP_PANEL
+            }]),
+            i
+        }
+        return __extends(i, t),
+        i
+    } (BasicMultPanelModule);
+    e.QianShang = t,
+    __reflect(t.prototype, "qianShang.QianShang")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+qianShang; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.CMD = 45754,
+        e
+    } ();
+    e.CMDConst = t,
+    __reflect(t.prototype, "qianShang.CMDConst")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+qianShang; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.QIAN_SHANG_ZHI_YE = 1720234,
+        e.YE_ZHI_SHANG = 1720230,
+        e.YE_ZHI_SHANG_SUI_PIAN = 1720249,
+        e
+    } ();
+    e.ItemConst = t,
+    __reflect(t.prototype, "qianShang.ItemConst")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+qianShang; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.MAIN_PANEL = "qianShang.MainPanel",
+        e.LEVEL1_PANEL = "qianShang.Level1Panel",
+        e.LEVEL2_PANEL = "qianShang.Level2Panel",
+        e.LEVEL3_PANEL = "qianShang.Level3Panel",
+        e.UP_PANEL = "qianShang.UpPanel",
+        e
+    } ();
+    e.PanelConst = t,
+    __reflect(t.prototype, "qianShang.PanelConst")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+qianShang; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.daily_fightTime = 14839,
+        e.forever_getState = 106570,
+        e.forever_taskState = 106572,
+        e.forever_level1WinState = 106574,
+        e.forever_level2State = 106576,
+        e.forever_level2Tip = 106578,
+        e.forever_level3State1 = 106580,
+        e.forever_level3State2 = 106582,
+        e.forever_level3State3 = 106584,
+        e.forever_level3WinState = 106586,
+        e.forever_level3NumItemThisRound = 106588,
+        e.forever_levle3SumItem = 106590,
+        e.playerInfo_level2WinIndex = 1025,
+        e
+    } ();
+    e.AttrConst = t,
+    __reflect(t.prototype, "qianShang.AttrConst")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+qianShang; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.arrayTips = [],
+            e.skinName = "QianShangLevel2PanelSkin",
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            this.addEvent(),
+            this.initOldPveBtnClose(73, this, "qian_shang_level2_panel_hzmc_png",
+            function() {
+                e.service.backToMainPanel()
+            },
+            this)
+        },
+        i.prototype.refreshArrayTips = function() {
+            for (var t = this.service.getValue(e.AttrConst.forever_level2Tip), i = 1; 7 >= i; i++) this.arrayTips[i] = t >> 4 * (i - 1) & 15
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            ImageButtonUtil.add(this.btnHelp,
+            function() {
+                t.service.showHelpPop(73)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                t.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnOneKey,
+            function() {
+                BuyProductManager.buyProductBySocket(256124,
+                function() {
+                    SocketConnection.sendByQueue(e.CMDConst.CMD, [19, 2],
+                    function() {
+                        t.service.updateValues().then(function() {
+                            t.service.backToMainPanel()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastBeat,
+            function() {
+                BuyProductManager.buyProductBySocket(256127,
+                function() {
+                    SocketConnection.sendByQueue(e.CMDConst.CMD, [22, 7 + t.numIndex],
+                    function() {
+                        t.service.updateValues().then(function() {
+                            t.update(),
+                            t.backFromFight()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddFightTime,
+            function() {
+                BuyProductManager.buyProduct("256132_12735",
+                function() {
+                    t.service.updateSomeValues([e.AttrConst.daily_fightTime]).then(function() {
+                        t.update()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                0 == t.numFightTime ? BubblerManager.getInstance().showText("今日剩余挑战次数不足！") : (1 == t.numIndex ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战鲁迪诺加斯") : 2 == t.numIndex ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战月照雪芙") : 3 == t.numIndex ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战伊诺美丽") : 4 == t.numIndex ? 4 == t.finalPosition ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战千裳") : StatLogger.log("20211022版本系统功能", "千裳", "开始挑战月照星魂") : 5 == t.numIndex ? 5 == t.finalPosition ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战千裳") : StatLogger.log("20211022版本系统功能", "千裳", "开始挑战魂王无烬梦") : 6 == t.numIndex ? 6 == t.finalPosition ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战千裳") : StatLogger.log("20211022版本系统功能", "千裳", "开始挑战扫荡魔锋") : 7 == t.numIndex && (7 == t.finalPosition ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战千裳") : StatLogger.log("20211022版本系统功能", "千裳", "开始挑战鲜血女王")), SocketConnection.sendByQueue(e.CMDConst.CMD, [21, 7 + t.numIndex]))
+            },
+            this);
+            for (var i = function(i) {
+                ImageButtonUtil.add(n["imgHide" + i],
+                function() {
+                    t.btnTips.visible ? SocketConnection.sendByQueue(e.CMDConst.CMD, [20, 7 + i],
+                    function() {
+                        t.service.updateSomeValues([e.AttrConst.forever_level2State]).then(function() {
+                            t.update(),
+                            t.setIndex(i)
+                        })
+                    }) : Alarm.show("请先战胜翻出的精灵！")
+                },
+                n)
+            },
+            n = this, a = 2; 7 >= a; a++) i(a);
+            ImageButtonUtil.add(this.btnTips,
+            function() {
+                var i, n = t.service.getValue(e.AttrConst.playerInfo_level2WinIndex),
+                a = t.arrayTips[n];
+                i = 1 == a ? "千裳往左侧方向去了！": 2 == a ? "千裳往右侧方向去了！": "并未看见过千裳！",
+                Alarm.show(i)
+            },
+            this)
+        },
+        i.prototype.beforeAdd = function() {
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this)
+        },
+        i.prototype.removed = function() {
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this)
+        },
+        i.prototype.backFromFight = function() {
+            var t = this;
+            this.service.updateSomeValues([e.AttrConst.forever_taskState]).then(function() {
+                t.service.getValue(e.AttrConst.forever_taskState) >= 2 && Alarm.show("恭喜你找到千裳，继续下一关的挑战吧！",
+                function() {
+                    t.service.backToMainPanel()
+                })
+            })
+        },
+        i.prototype.noOpen = function() {
+            Alarm.show("暂未开放，敬请期待！")
+        },
+        i.prototype.setIndex = function(e) {
+            this.numIndex = e;
+            for (var t = 1; 7 >= t; t++) this["imgBoss" + t].visible = e == t,
+            this["imgUp" + t].visible = e == t;
+            this.btnFastBeat.visible = !0,
+            this.btnFight.visible = !0,
+            this.btnTips.visible = !1,
+            1 == e ? (this.txtTruthRate.visible = !0, this.imgTruthRateBG.visible = !0, this.txtTruthRate.text = "100%") : 3 >= e ? (this.txtTruthRate.visible = !0, this.imgTruthRateBG.visible = !0, this.txtTruthRate.text = "50%") : (this.txtTruthRate.visible = !1, this.imgTruthRateBG.visible = !1)
+        },
+        i.prototype.update = function() {
+            var t = this;
+            if (this.service) {
+                this.refreshArrayTips(),
+                this.numFightTime = 4 - (this.service.getValue(e.AttrConst.daily_fightTime) >> 8 & 255),
+                this.txtFightTime.text = this.numFightTime + "",
+                DisplayUtil.setEnabled(this.btnAddFightTime, this.numFightTime <= 0, !0),
+                this.btnFastBeat.visible = !1,
+                this.btnFight.visible = !1,
+                this.btnTips.visible = !0;
+                for (var i = this.service.getValue(e.AttrConst.forever_level2State), n = 1; 7 >= n; n++) {
+                    var a = i >> 4 * (n - 1) & 15;
+                    if (1 == n && 0 == a) return void SocketConnection.sendByQueue(e.CMDConst.CMD, [20, 8],
+                    function() {
+                        t.service.updateSomeValues([e.AttrConst.forever_level2State]).then(function() {
+                            t.update()
+                        })
+                    });
+                    1 != n && (this["imgHide" + n].visible = 0 == a),
+                    this["imgHasWin" + n].visible = 2 == a,
+                    1 == a && this.setIndex(n)
+                }
+                this.finalPosition = i >> 28 & 15,
+                this.finalPosition >= 4 && this.finalPosition <= 7 && (this["imgHead" + this.finalPosition].source = "qian_shang_level2_panel_imgbosshead8_png"),
+                this["imgBoss" + this.finalPosition] = this.imgBoss8
+            }
+        },
+        i
+    } (BasicPanel);
+    e.Level2Panel = t,
+    __reflect(t.prototype, "qianShang.Level2Panel")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+qianShang; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.arrayBlock = [],
+            e.arrayData = [],
+            e.arrayWin = [],
+            e.skinName = "QianShangLevel3PanelSkin",
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            this.service.registerItemUpdateForText(1720230, this.txtItem1, this),
+            this.addEvent(),
+            this.initOldPveBtnClose(74, this, "qian_shang_level3_panel_jmtx_png",
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            this.initMap()
+        },
+        i.prototype.initMap = function() {
+            for (var e = this,
+            t = function(t) {
+                var n = new eui.Group;
+                i.groupMain.addChild(n),
+                i.arrayBlock[t] = n,
+                n.width = 50,
+                n.height = 50,
+                t >= 1 && 3 >= t ? (n.x = 121, n.y = 185 + 117 * (t - 1)) : t >= 4 && 7 >= t ? (n.x = 225, n.y = 127 + 117 * (t - 4)) : t >= 8 && 10 >= t ? (n.x = 329, n.y = 185 + 117 * (t - 8)) : t >= 11 && 14 >= t ? (n.x = 433, n.y = 127 + 117 * (t - 11)) : t >= 15 && 17 >= t ? (n.x = 537, n.y = 185 + 117 * (t - 15)) : (n.x = 641, n.y = 127 + 117 * (t - 18));
+                var a = new eui.Image("qian_shang_level3_panel_img1_png");
+                a.name = "imgUsual",
+                n.addChild(a),
+                a.x = n.width / 2 - a.width / 2,
+                a.y = n.height / 2 - a.height / 2,
+                a.pixelHitTest = !0;
+                var s = new eui.Image("qian_shang_level3_panel_start_png");
+                s.name = "imgStart",
+                n.addChild(s),
+                s.x = n.width / 2 - s.width / 2,
+                s.y = n.height / 2 - s.height / 2,
+                s.pixelHitTest = !0;
+                var _ = new eui.Image("qian_shang_level3_panel_end_png");
+                _.name = "imgEnd",
+                n.addChild(_),
+                _.x = n.width / 2 - _.width / 2,
+                _.y = n.height / 2 - _.height / 2,
+                _.pixelHitTest = !0;
+                var r = new eui.Image("qian_shang_level3_panel_img2_png");
+                r.name = "imgHasExplore1",
+                n.addChild(r),
+                r.x = n.width / 2 - r.width / 2,
+                r.y = n.height / 2 - r.height / 2,
+                r.pixelHitTest = !0;
+                var o = new eui.Image("qian_shang_level3_panel_imgitem2_png");
+                o.name = "imgItem1",
+                n.addChild(o),
+                o.x = n.width / 2 - o.width / 2,
+                o.y = n.height / 2 - o.height / 2,
+                o.pixelHitTest = !0;
+                var g = new eui.Image("qian_shang_level3_panel_imgitem1_png");
+                g.name = "imgItem2",
+                n.addChild(g),
+                g.x = n.width / 2 - g.width / 2,
+                g.y = n.height / 2 - g.height / 2,
+                g.pixelHitTest = !0;
+                var u = new eui.Image("qian_shang_level3_panel_num_png");
+                u.name = "imgTxt",
+                n.addChild(u),
+                u.x = n.width / 2 - u.width / 2 + 16,
+                u.y = n.height / 2 - u.height / 2 + 30,
+                u.pixelHitTest = !0;
+                var h = new eui.Label;
+                h.name = "txt",
+                n.addChild(h),
+                h.x = n.width / 2 - h.width / 2 + 20,
+                h.y = n.height / 2 - h.height / 2 + 20,
+                h.size = 20;
+                var l = new eui.Image("qian_shang_level3_panel_imghasexplore_png");
+                l.name = "imgHasExplore2",
+                n.addChild(l),
+                l.x = n.width / 2 - l.width / 2,
+                l.y = n.height / 2 - l.height / 2,
+                l.pixelHitTest = !0;
+                var m = new eui.Image("qian_shang_level3_panel_imgup_png");
+                m.name = "imgUp",
+                n.addChild(m),
+                m.x = n.width / 2 - m.width / 2,
+                m.y = n.height / 2 - m.height / 2,
+                m.pixelHitTest = !0,
+                ImageButtonUtil.add(n,
+                function() {
+                    e.setIndex(t)
+                },
+                i)
+            },
+            i = this, n = 1; 21 >= n; n++) t(n)
+        },
+        i.prototype.destroy = function() {
+            this.service.unregisterItems(this),
+            t.prototype.destroy.call(this)
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            ImageButtonUtil.add(this.btnHelp,
+            function() {
+                t.service.showHelpPop(74)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                t.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddFightTime,
+            function() {
+                BuyProductManager.buyProduct("256132_12737",
+                function() {
+                    t.service.updateSomeValues([e.AttrConst.daily_fightTime]).then(function() {
+                        t.update()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddItem1,
+            function() {
+                BuyProductManager.buyProduct("256128_12743",
+                function() {
+                    t.service.updateSomeValues([e.AttrConst.daily_fightTime]).then(function() {
+                        t.update()
+                    })
+                },
+                t, 1720230)
+            },
+            this),
+            ImageButtonUtil.add(this.btnExchange,
+            function() {
+                t.numItem2 < 15 ? BubblerManager.getInstance().showText("很抱歉，夜之裳碎片不足，无法兑换！") : KTool.doExchange(12741, 1,
+                function() {
+                    t.service.updateSomeValues([e.AttrConst.forever_levle3SumItem]).then(function() {
+                        t.update()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnOneKey,
+            function() {
+                BuyProductManager.buyProductBySocket(256125,
+                function() {
+                    SocketConnection.sendByQueue(e.CMDConst.CMD, [23, 2],
+                    function() {
+                        t.service.updateSomeValues([e.AttrConst.forever_taskState]).then(function() {
+                            t.update()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnReset,
+            function() {
+                t.numExploreTime < 5 ? BubblerManager.getInstance().showText("一轮探索次数达到5次才可以重新探索哦！") : Alert.show("重新探索只能获得3个夜之裳碎片，确认重新探索吗？",
+                function() {
+                    SocketConnection.sendByQueue(e.CMDConst.CMD, [24, 2],
+                    function() {
+                        t.updateValues()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                0 == t.numFightTime ? BubblerManager.getInstance().showText("今日剩余挑战次数不足！") : SocketConnection.sendByQueue(e.CMDConst.CMD, [25, 21 + t.numIndex])
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastBeat,
+            function() {
+                BuyProductManager.buyProductBySocket(256129,
+                function() {
+                    SocketConnection.sendByQueue(e.CMDConst.CMD, [26, 21 + t.numIndex],
+                    function() {
+                        t.updateValues()
+                    })
+                },
+                t)
+            },
+            this)
+        },
+        i.prototype.beforeAdd = function() {
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this)
+        },
+        i.prototype.removed = function() {
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this)
+        },
+        i.prototype.backFromFight = function() {
+            var t = this;
+            this.service.updateValues().then(function() {
+                if (t.willFail) Alarm.show("超过10次探索机会，探索失败！仅能获得5个夜之裳碎片！",
+                function() {
+                    t.updateValues()
+                }),
+                t.willFail = !1;
+                else if (t.backFromPopFight) {
+                    if (1 == t.backFromPopFight) {
+                        if (3 == t.service.getValue(e.AttrConst.forever_taskState)) return;
+                        var i = t.service.getValue(e.AttrConst.forever_level3NumItemThisRound),
+                        n = 65535 & i,
+                        a = i >> 16 & 65535,
+                        s = new e.Level3Pop;
+                        t.service.openPop(s, !1, {
+                            isEnoughItem: !0,
+                            numItem1: n,
+                            numItem2: a,
+                            fightTime: t.numFightTime,
+                            thisObj: t,
+                            updateParentPanel: function() {
+                                t.updateValues(),
+                                t.backFromFight()
+                            },
+                            updateAfterFight: function(e) {
+                                t.backFromPopFight = e
+                            }
+                        })
+                    } else if (2 == t.backFromPopFight) {
+                        if (FightManager.isWin) return Alarm.show("本轮探险成功！",
+                        function() {
+                            t.updateValues()
+                        }),
+                        void(t.backFromPopFight = 0);
+                        var i = t.service.getValue(e.AttrConst.forever_level3NumItemThisRound),
+                        n = 65535 & i,
+                        a = i >> 16 & 65535,
+                        s = new e.Level3Pop;
+                        t.service.openPop(s, !1, {
+                            isEnoughItem: !1,
+                            numItem1: n,
+                            numItem2: a,
+                            fightTime: t.numFightTime,
+                            thisObj: t,
+                            updateParentPanel: function() {
+                                t.updateValues(),
+                                t.backFromFight()
+                            },
+                            updateAfterFight: function(e) {
+                                t.backFromPopFight = e
+                            }
+                        })
+                    } else if (3 == t.backFromPopFight) return Alarm.show("本轮探险成功！",
+                    function() {
+                        t.updateValues()
+                    }),
+                    void(t.backFromPopFight = 0);
+                    t.backFromPopFight = 0
+                }
+            })
+        },
+        i.prototype.update = function() {
+            var t = this;
+            if (this.service) {
+                if (3 == this.service.getValue(e.AttrConst.forever_taskState)) return void Alarm.show("关卡挑战成功，快去领取精灵吧！",
+                function() {
+                    t.service.backToMainPanel(),
+                    t.service = null
+                });
+                this.numFightTime = 11 - (this.service.getValue(e.AttrConst.daily_fightTime) >> 16 & 255),
+                this.txtFightTime.text = this.numFightTime + "";
+                var i = this.service.getValue(e.AttrConst.forever_levle3SumItem);
+                this.numItem2 = i >> 16 & 65535,
+                this.txtItem2.text = this.numItem2 + "",
+                DisplayUtil.setEnabled(this.btnAddFightTime, this.numFightTime <= 0, !0);
+                for (var n = 1; 3 >= n; n++) for (var a = 1; 7 >= a; a++) {
+                    var s = this.service.getValue(106580 + 2 * (n - 1));
+                    this.arrayData[7 * (n - 1) + a] = s >> 4 * (a - 1) & 15
+                }
+                this.numExploreTime = 0;
+                for (var _ = this.service.getValue(e.AttrConst.forever_level3WinState), a = 1; 21 >= a; a++) this.arrayWin[a] = 1 == KTool.getBit(_, a),
+                this.arrayWin[a] && this.numExploreTime++;
+                this.txtExploreTime.text = this.numExploreTime + "",
+                DisplayUtil.setEnabled(this.btnReset, this.numExploreTime >= 5, this.numExploreTime < 5);
+                for (var a = 1; 21 >= a; a++) {
+                    for (var r = this.arrayBlock[a], n = 0; n < r.numChildren; n++) {
+                        var o = r.getChildAt(n);
+                        switch (this.arrayData[a]) {
+                        case 0:
+                            o.visible = "imgUsual" == o.name;
+                            break;
+                        case 1:
+                            o.visible = "imgUsual" == o.name || "imgItem1" == o.name || "imgTxt" == o.name || "txt" == o.name,
+                            "txt" == o.name && (o.text = this.getItemNum(a, 1, 1) + "");
+                            break;
+                        case 2:
+                            o.visible = "imgUsual" == o.name || "imgItem1" == o.name || "imgTxt" == o.name || "txt" == o.name,
+                            "txt" == o.name && (o.text = this.getItemNum(a, 1, 2) + "");
+                            break;
+                        case 3:
+                            o.visible = "imgUsual" == o.name || "imgItem2" == o.name || "imgTxt" == o.name || "txt" == o.name,
+                            "txt" == o.name && (o.text = this.getItemNum(a, 2, 1) + "");
+                            break;
+                        case 4:
+                            o.visible = "imgUsual" == o.name || "imgItem2" == o.name || "imgTxt" == o.name || "txt" == o.name,
+                            "txt" == o.name && (o.text = this.getItemNum(a, 2, 2) + "");
+                            break;
+                        case 5:
+                            o.visible = "imgUsual" == o.name || "imgStart" == o.name;
+                            break;
+                        case 6:
+                            o.visible = "imgUsual" == o.name || "imgEnd" == o.name
+                        }
+                    }
+                    this.arrayWin[a] && (r.getChildByName("imgUsual").visible = !1, r.getChildByName("imgHasExplore1").visible = !0, r.getChildByName("imgHasExplore2").visible = !0);
+                    var g = !r.getChildByName("imgHasExplore1").visible;
+                    DisplayUtil.setEnabled(r, g, !1)
+                }
+                var u = this.service.getValue(e.AttrConst.forever_level3WinState) >> 24 & 255;
+                this.setIndex(u)
+            }
+        },
+        i.prototype.setIndex = function(t) {
+            var i = this,
+            n = !1;
+            5 == this.arrayData[t] ? (this.imgWord1.visible = !0, this.imgWord2.visible = !1, this.imgWord3.visible = !1, this.groupFight.visible = !1, this.numIndex && (this.arrayBlock[this.numIndex].getChildByName("imgUp").visible = !1), this.numIndex = t, FightManager.isFighting || (this.willFail = !1), this.arrayBlock[t].getChildByName("imgUp").visible = !0) : 6 == this.arrayData[t] ? (this.imgWord1.visible = !1, this.imgWord2.visible = !1, this.imgWord3.visible = !0, this.groupFight.visible = !1, this.numIndex && (this.arrayBlock[this.numIndex].getChildByName("imgUp").visible = !1), this.numIndex = t, FightManager.isFighting || (this.willFail = !1), this.arrayBlock[t].getChildByName("imgUp").visible = !0, SocketConnection.sendByQueue(e.CMDConst.CMD, [31, 21 + t],
+            function(t) {
+                var n, a = t.data.readUnsignedInt();
+                if (5 == a) n = !0;
+                else if (4 != a) return;
+                var s = i.service.getValue(e.AttrConst.forever_level3NumItemThisRound),
+                _ = 65535 & s,
+                r = s >> 16 & 65535,
+                o = new e.Level3Pop;
+                i.service.openPop(o, !1, {
+                    isEnoughItem: n,
+                    numItem1: _,
+                    numItem2: r,
+                    fightTime: i.numFightTime,
+                    thisObj: i,
+                    updateParentPanel: function() {
+                        i.updateValues(),
+                        i.backFromFight()
+                    },
+                    updateAfterFight: function(e) {
+                        i.backFromPopFight = e
+                    }
+                })
+            })) : SocketConnection.sendByQueue(e.CMDConst.CMD, [31, 21 + t],
+            function(e) {
+                var a = e.data.readUnsignedInt();
+                if (6 == a) return BubblerManager.getInstance().showText("不能回头哦！"),
+                void(n = !0);
+                if (7 == a) return BubblerManager.getInstance().showText("只能探索相邻的格子！"),
+                void(n = !0);
+                if (2 == a ? i.willFail = !0 : 3 == a && Alarm.show("本轮探索次数不足，请走向终点！"), 0 == i.arrayData[t]) i.imgWord1.visible = !1,
+                i.imgWord2.visible = !0,
+                i.imgWord3.visible = !1,
+                i.groupFight.visible = !1;
+                else {
+                    i.imgWord1.visible = !1,
+                    i.imgWord2.visible = !1,
+                    i.imgWord3.visible = !1,
+                    i.groupFight.visible = !0;
+                    var s = i.arrayWin[t];
+                    DisplayUtil.setEnabled(i.btnFight, !s, s),
+                    DisplayUtil.setEnabled(i.btnFastBeat, !s, s)
+                }
+                n || (i.numIndex && (i.arrayBlock[i.numIndex].getChildByName("imgUp").visible = !1), i.numIndex = t, i.arrayBlock[t].getChildByName("imgUp").visible = !0)
+            })
+        },
+        i.prototype.getItemNum = function(e, t, i) {
+            return 7 >= e ? 1 == t ? 1 : 1 == i ? 1 : 2 : 14 >= e ? 1 == t ? 1 : 1 == i ? 2 : 3 : 1 == t ? 1 : 1 == i ? 4 : 5
+        },
+        i
+    } (BasicPanel);
+    e.Level3Panel = t,
+    __reflect(t.prototype, "qianShang.Level3Panel")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+qianShang; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = "QianShangMainPanelSkin",
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "",
+            function() {
+                e.service.closeModule()
+            },
+            this),
+            this.addEvent()
+        },
+        i.prototype.beforeAdd = function() {
+            StatLogger.log("20211022版本系统功能", "千裳", "打开主界面")
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.service.closeModule()
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                t.service.showPetInfo(3894)
+            },
+            this),
+            ImageButtonUtil.add(this.btnSuperGet,
+            function() {
+                BuyProductManager.buyProduct("256122_12729",
+                function() {
+                    t.service.updateValues().then(function() {
+                        t.update()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetPet,
+            function() {
+                KTool.doExchange(12731, 1,
+                function() {
+                    StatLogger.log("20211022版本系统功能", "千裳", "免费领取千裳"),
+                    t.service.updateValues().then(function() {
+                        t.update()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnUp,
+            function() {
+                t.service.openPanel(e.PanelConst.UP_PANEL)
+            },
+            this),
+            ImageButtonUtil.add(this.btnLevel1,
+            function() {
+                StatLogger.log("20211022版本系统功能", "千裳", "进入第一关"),
+                t.service.openPanel(e.PanelConst.LEVEL1_PANEL)
+            },
+            this),
+            ImageButtonUtil.add(this.btnLevel2,
+            function() {
+                StatLogger.log("20211022版本系统功能", "千裳", "进入第二关"),
+                t.service.openPanel(e.PanelConst.LEVEL2_PANEL)
+            },
+            this),
+            ImageButtonUtil.add(this.btnLevel3,
+            function() {
+                StatLogger.log("20211022版本系统功能", "千裳", "进入第三关"),
+                t.service.openPanel(e.PanelConst.LEVEL3_PANEL)
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            if (this.service) {
+                var t = this.service.getValue(e.AttrConst.forever_getState),
+                i = 1 == KTool.getBit(t, 1),
+                n = this.service.getValue(e.AttrConst.forever_taskState),
+                a = 3 == n;
+                this.btnSuperGet.visible = !a,
+                this.btnGetPet.visible = a && !i,
+                this.btnUp.visible = this.imgHasPet.visible = i,
+                this.imgHas1.visible = n > 0,
+                this.imgHas2.visible = n > 1,
+                this.imgHas3.visible = n > 2,
+                DisplayUtil.setEnabled(this.btnLevel1, 0 == n, !1),
+                DisplayUtil.setEnabled(this.btnLevel2, 1 == n, 0 == n),
+                DisplayUtil.setEnabled(this.btnLevel3, 2 == n, 2 > n)
+            }
+        },
+        i
+    } (BasicPanel);
+    e.MainPanel = t,
+    __reflect(t.prototype, "qianShang.MainPanel")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+qianShang; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = "QianShangUpPanelSkin",
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            this.addEvent(),
+            this.initOldPveBtnClose(75, this, "qian_shang_up_panel_nlds_png",
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            this.initItem()
+        },
+        i.prototype.initItem = function() {
+            this.service.registerItemUpdateForText(e.ItemConst.QIAN_SHANG_ZHI_YE, this.txtItem, this)
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            ImageButtonUtil.add(this.btnHelp,
+            function() {
+                t.service.showHelpPop(75)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                t.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddFightTime,
+            function() {
+                BuyProductManager.buyProduct("256132_12739",
+                function() {
+                    t.service.updateSomeValues([e.AttrConst.daily_fightTime]).then(function() {
+                        t.update()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddItem,
+            function() {
+                BuyProductManager.buyProduct("256131_12745",
+                function() {
+                    t.service.updateSomeValues([e.AttrConst.daily_fightTime]).then(function() {
+                        t.update()
+                    })
+                },
+                t, e.ItemConst.QIAN_SHANG_ZHI_YE)
+            },
+            this),
+            ImageButtonUtil.add(this.btnKe,
+            function() {
+                t.service.showMarkInfo(41616)
+            },
+            this),
+            ImageButtonUtil.add(this.btnWu,
+            function() {
+                t.service.showSkillInfo(33451)
+            },
+            this),
+            ImageButtonUtil.add(this.btnTe,
+            function() {
+                t.service.showPetEff(3894)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetKe,
+            function() {
+                t.exchange(1)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetWu,
+            function() {
+                t.exchange(2)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetTe,
+            function() {
+                t.exchange(3)
+            },
+            this),
+            ImageButtonUtil.add(this.btnEasy,
+            function() {
+                t.fight(1),
+                StatLogger.log("20211022版本系统功能", "千裳", "千裳关卡与简单boss进入战斗")
+            },
+            this),
+            ImageButtonUtil.add(this.btnNormal,
+            function() {
+                t.fight(2),
+                StatLogger.log("20211022版本系统功能", "千裳", "千裳关与进阶boss进入战斗")
+            },
+            this),
+            ImageButtonUtil.add(this.btnDifficult,
+            function() {
+                t.fight(3),
+                StatLogger.log("20211022版本系统功能", "千裳", "千裳关与困难boss进入战斗")
+            },
+            this)
+        },
+        i.prototype.noOpen = function() {
+            Alarm.show("暂未开放，敬请期待！")
+        },
+        i.prototype.exchange = function(t) {
+            var i = this;
+            PetManager.isDefaultPet(3894) ? ItemManager.getNumByID(e.ItemConst.QIAN_SHANG_ZHI_YE) < 15 ? BubblerManager.getInstance().showText("兑换需要15个千裳之夜，请先获得足够的数量再来兑换！") : SocketConnection.sendByQueue(e.CMDConst.CMD, [30, t],
+            function() {
+                i.service.updateSomeValues([e.AttrConst.forever_getState]).then(function() {
+                    i.update()
+                })
+            }) : BubblerManager.getInstance().showText("请先将千裳设为首发精灵再来进行兑换！")
+        },
+        i.prototype.fight = function(e) {
+            0 == this.numFightTime ? BubblerManager.getInstance().showText("今日剩余挑战次数不足！") : FightManager.fightNoMapBoss("", 16522 + e)
+        },
+        i.prototype.update = function() {
+            this.numFightTime = (MainManager.actorInfo.isVip ? 5 : 3) - (this.service.getValue(e.AttrConst.daily_fightTime) >> 24 & 255),
+            this.txtFightTime.text = this.numFightTime + "",
+            DisplayUtil.setEnabled(this.btnAddFightTime, this.numFightTime <= 0, !0);
+            var t = this.service.getValue(e.AttrConst.forever_getState),
+            i = 1 == KTool.getBit(t, 2),
+            n = 1 == KTool.getBit(t, 3),
+            a = 1 == KTool.getBit(t, 4);
+            this.imgHasKe.visible = i,
+            this.imgHasWu.visible = n,
+            this.imgHasTe.visible = a,
+            DisplayUtil.setEnabled(this.btnGetKe, !i, i),
+            DisplayUtil.setEnabled(this.btnGetWu, !n, n),
+            DisplayUtil.setEnabled(this.btnGetTe, !a, a)
+        },
+        i
+    } (BasicPanel);
+    e.UpPanel = t,
+    __reflect(t.prototype, "qianShang.UpPanel")
+} (qianShang || (qianShang = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+qianShang; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = "QianShangLevel3PopSkin",
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            this.addEvent()
+        },
+        t.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose, this.onClose, this),
+            ImageButtonUtil.add(this.btnFastBeat,
+            function() {
+                BuyProductManager.buyProductBySocket(256130,
+                function() {
+                    SocketConnection.sendByQueue(45754, [28, 2],
+                    function() {
+                        e.updateParentPanel.call(e.thisObj),
+                        e.onClose()
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGiveMoney,
+            function() {
+                SocketConnection.sendByQueue(45754, [27, 2],
+                function() {
+                    e.updateAfterFight.call(e.thisObj, [3]),
+                    e.updateParentPanel.call(e.thisObj),
+                    e.onClose()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                0 == e.numFightTime ? BubblerManager.getInstance().showText("今日剩余挑战次数不足！") : (e.isEnoughItem ? StatLogger.log("20211022版本系统功能", "千裳", "开始挑战终点千裳") : StatLogger.log("20211022版本系统功能", "千裳", "开始挑战终点索格瑞亚"), e.updateAfterFight.call(e.thisObj, [e.isEnoughItem ? 1 : 2]), FightManager.fightNoMapBoss("", e.isEnoughItem ? 16519 : 16517), e.onClose())
+            },
+            this)
+        },
+        t.prototype.onClose = function() {
+            PopViewManager.getInstance().hideView(this)
+        },
+        t.prototype._parseData = function() {
+            this.txtItem1.text = this._data.numItem1 + "",
+            this.txtItem2.text = this._data.numItem2 + "",
+            this.isEnoughItem = this._data.isEnoughItem,
+            this.imgPet1.visible = this.isEnoughItem,
+            this.imgPet2.visible = !this.isEnoughItem,
+            this.imgWord1.visible = this.isEnoughItem,
+            this.imgWord2.visible = !this.isEnoughItem,
+            this.btnFastBeat.visible = this.isEnoughItem,
+            this.btnGiveMoney.visible = !this.isEnoughItem,
+            this.numFightTime = this._data.fightTime,
+            this.thisObj = this._data.thisObj,
+            this.updateParentPanel = this._data.updateParentPanel,
+            this.updateAfterFight = this._data.updateAfterFight
+        },
+        t
+    } (PopView);
+    e.Level3Pop = t,
+    __reflect(t.prototype, "qianShang.Level3Pop")
+} (qianShang || (qianShang = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/QianShangLevel1PanelSkin.exml"] = window.QianShangLevel1PanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imgBoss1", "imgBoss2", "imgBoss3", "imgBoss4", "btnPet", "btnCure", "btnBoss1", "btnBoss2", "btnBoss3", "btnBoss4", "imgUp1", "imgUp2", "imgUp3", "imgUp4", "btnFight", "btnFastBeat", "btnOneKey", "btnAddFightTime", "imgHasWin1", "imgHasWin2", "imgHasWin3", "imgHasWin4", "txtFightTime", "btnClose", "btnHelp"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this._Group2_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.source = "qian_shang_main_panel_bg_jpg",
+        e.top = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = -16.5,
+        e.width = 1103,
+        e.y = 0,
+        e.elementsContent = [this.imgBoss1_i(), this.imgBoss2_i(), this.imgBoss3_i(), this.imgBoss4_i(), this.btnPet_i(), this.btnCure_i(), this._Image2_i(), this.btnBoss1_i(), this.btnBoss2_i(), this.btnBoss3_i(), this.btnBoss4_i(), this.imgUp1_i(), this.imgUp2_i(), this.imgUp3_i(), this.imgUp4_i(), this.btnFight_i(), this.btnFastBeat_i(), this.btnOneKey_i(), this._Image3_i(), this.btnAddFightTime_i(), this.imgHasWin1_i(), this.imgHasWin2_i(), this.imgHasWin3_i(), this.imgHasWin4_i(), this.txtFightTime_i()],
+        e
+    },
+    i.imgBoss1_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss1 = e,
+        e.source = "qian_shang_level1_panel_imgboss1_png",
+        e.visible = !1,
+        e.x = 116,
+        e.y = 22,
+        e
+    },
+    i.imgBoss2_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss2 = e,
+        e.source = "qian_shang_level1_panel_imgboss2_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 23,
+        e
+    },
+    i.imgBoss3_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss3 = e,
+        e.source = "qian_shang_level1_panel_imgboss3_png",
+        e.visible = !1,
+        e.x = 69,
+        e.y = 30,
+        e
+    },
+    i.imgBoss4_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss4 = e,
+        e.source = "qian_shang_level1_panel_imgboss4_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnPet_i = function() {
+        var e = new eui.Image;
+        return this.btnPet = e,
+        e.source = "qian_shang_level1_panel_btnpet_png",
+        e.visible = !0,
+        e.x = 24,
+        e.y = 257,
+        e
+    },
+    i.btnCure_i = function() {
+        var e = new eui.Image;
+        return this.btnCure = e,
+        e.source = "qian_shang_level1_panel_btncure_png",
+        e.x = 24,
+        e.y = 331,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level1_panel_shutiao_png",
+        e.visible = !0,
+        e.x = 677,
+        e.y = 17,
+        e
+    },
+    i.btnBoss1_i = function() {
+        var e = new eui.Image;
+        return this.btnBoss1 = e,
+        e.source = "qian_shang_level1_panel_btnboss1_png",
+        e.x = 697,
+        e.y = 132,
+        e
+    },
+    i.btnBoss2_i = function() {
+        var e = new eui.Image;
+        return this.btnBoss2 = e,
+        e.source = "qian_shang_level1_panel_btnboss2_png",
+        e.x = 715,
+        e.y = 230,
+        e
+    },
+    i.btnBoss3_i = function() {
+        var e = new eui.Image;
+        return this.btnBoss3 = e,
+        e.source = "qian_shang_level1_panel_btnboss3_png",
+        e.x = 715,
+        e.y = 328,
+        e
+    },
+    i.btnBoss4_i = function() {
+        var e = new eui.Image;
+        return this.btnBoss4 = e,
+        e.source = "qian_shang_level1_panel_btnboss4_png",
+        e.x = 715,
+        e.y = 426,
+        e
+    },
+    i.imgUp1_i = function() {
+        var e = new eui.Image;
+        return this.imgUp1 = e,
+        e.source = "qian_shang_level1_panel_imgup_png",
+        e.visible = !1,
+        e.x = 572,
+        e.y = 115,
+        e
+    },
+    i.imgUp2_i = function() {
+        var e = new eui.Image;
+        return this.imgUp2 = e,
+        e.source = "qian_shang_level1_panel_imgup_png",
+        e.visible = !1,
+        e.x = 589.81,
+        e.y = 213.87,
+        e
+    },
+    i.imgUp3_i = function() {
+        var e = new eui.Image;
+        return this.imgUp3 = e,
+        e.source = "qian_shang_level1_panel_imgup_png",
+        e.visible = !1,
+        e.x = 589.81,
+        e.y = 311.62,
+        e
+    },
+    i.imgUp4_i = function() {
+        var e = new eui.Image;
+        return this.imgUp4 = e,
+        e.source = "qian_shang_level1_panel_imgup_png",
+        e.visible = !1,
+        e.x = 591.23,
+        e.y = 409.57,
+        e
+    },
+    i.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "qian_shang_level1_panel_btnfight_png",
+        e.x = 116,
+        e.y = 538,
+        e
+    },
+    i.btnFastBeat_i = function() {
+        var e = new eui.Image;
+        return this.btnFastBeat = e,
+        e.source = "qian_shang_level1_panel_btnfastbeat_png",
+        e.x = 350,
+        e.y = 540,
+        e
+    },
+    i.btnOneKey_i = function() {
+        var e = new eui.Image;
+        return this.btnOneKey = e,
+        e.source = "qian_shang_level1_panel_btnonekey_png",
+        e.x = 995,
+        e.y = 489,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level1_panel_asfaskjg_png",
+        e.x = 892,
+        e.y = 14,
+        e
+    },
+    i.btnAddFightTime_i = function() {
+        var e = new eui.Image;
+        return this.btnAddFightTime = e,
+        e.source = "qian_shang_level1_panel_btnaddfighttime_png",
+        e.x = 1082,
+        e.y = 14,
+        e
+    },
+    i.imgHasWin1_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin1 = e,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.x = 744.352,
+        e.y = 149.296,
+        e
+    },
+    i.imgHasWin2_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin2 = e,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.x = 759.147,
+        e.y = 246.276,
+        e
+    },
+    i.imgHasWin3_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin3 = e,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.x = 758.873,
+        e.y = 345.996,
+        e
+    },
+    i.imgHasWin4_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin4 = e,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.x = 759.969,
+        e.y = 443.113,
+        e
+    },
+    i.txtFightTime_i = function() {
+        var e = new eui.Label;
+        return this.txtFightTime = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "00",
+        e.textColor = 16630738,
+        e.x = 1046,
+        e.y = 15,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image4_i(), this.btnClose_i(), this._Image5_i(), this.btnHelp_i()],
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_main_panel_up_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "qian_shang_main_panel_btnclose_png",
+        e.x = 16,
+        e.y = 8,
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level1_panel_xzzs_png",
+        e.x = 84,
+        e.y = 3,
+        e
+    },
+    i.btnHelp_i = function() {
+        var e = new eui.Image;
+        return this.btnHelp = e,
+        e.source = "qian_shang_level1_panel_btnhelp_png",
+        e.x = 222,
+        e.y = 12,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/QianShangLevel2PanelSkin.exml"] = window.QianShangLevel2PanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imgBoss1", "imgBoss2", "imgBoss3", "imgBoss4", "imgBoss5", "imgBoss6", "imgBoss7", "imgBoss8", "btnPet", "btnCure", "imgHide2", "imgHide3", "imgHead4", "imgHide4", "imgHead5", "imgHide5", "imgHead6", "imgHide6", "imgHead7", "imgHide7", "imgUp1", "imgUp2", "imgUp3", "imgUp4", "imgUp5", "imgUp6", "imgUp7", "imgHasWin1", "imgHasWin2", "imgHasWin3", "imgHasWin4", "imgHasWin5", "imgHasWin6", "imgHasWin7", "imgTruthRateBG", "btnAddFightTime", "btnFight", "btnTips", "btnFastBeat", "btnOneKey", "txtTruthRate", "txtFightTime", "btnClose", "btnHelp"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this._Group2_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.source = "qian_shang_main_panel_bg_jpg",
+        e.top = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = -14.5,
+        e.width = 1107,
+        e.y = 0,
+        e.elementsContent = [this.imgBoss1_i(), this.imgBoss2_i(), this.imgBoss3_i(), this.imgBoss4_i(), this.imgBoss5_i(), this.imgBoss6_i(), this.imgBoss7_i(), this.imgBoss8_i(), this.btnPet_i(), this.btnCure_i(), this._Image2_i(), this._Image3_i(), this._Image4_i(), this._Image5_i(), this._Image6_i(), this.imgHide2_i(), this._Image7_i(), this._Image8_i(), this.imgHide3_i(), this._Image9_i(), this.imgHead4_i(), this.imgHide4_i(), this._Image10_i(), this.imgHead5_i(), this.imgHide5_i(), this._Image11_i(), this.imgHead6_i(), this.imgHide6_i(), this._Image12_i(), this.imgHead7_i(), this.imgHide7_i(), this.imgUp1_i(), this.imgUp2_i(), this.imgUp3_i(), this.imgUp4_i(), this.imgUp5_i(), this.imgUp6_i(), this.imgUp7_i(), this.imgHasWin1_i(), this.imgHasWin2_i(), this.imgHasWin3_i(), this.imgHasWin4_i(), this.imgHasWin5_i(), this.imgHasWin6_i(), this.imgHasWin7_i(), this.imgTruthRateBG_i(), this._Image13_i(), this.btnAddFightTime_i(), this.btnFight_i(), this.btnTips_i(), this.btnFastBeat_i(), this.btnOneKey_i(), this.txtTruthRate_i(), this.txtFightTime_i()],
+        e
+    },
+    i.imgBoss1_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss1 = e,
+        e.source = "qian_shang_level2_panel_imgboss1_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 83,
+        e
+    },
+    i.imgBoss2_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss2 = e,
+        e.source = "qian_shang_level2_panel_imgboss2_png",
+        e.visible = !1,
+        e.x = 46,
+        e.y = 65,
+        e
+    },
+    i.imgBoss3_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss3 = e,
+        e.source = "qian_shang_level2_panel_imgboss3_png",
+        e.visible = !1,
+        e.x = 135,
+        e.y = 26,
+        e
+    },
+    i.imgBoss4_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss4 = e,
+        e.source = "qian_shang_level2_panel_imgboss4_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.imgBoss5_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss5 = e,
+        e.source = "qian_shang_level2_panel_imgboss5_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.imgBoss6_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss6 = e,
+        e.source = "qian_shang_level2_panel_imgboss6_png",
+        e.visible = !1,
+        e.x = 41,
+        e.y = 38,
+        e
+    },
+    i.imgBoss7_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss7 = e,
+        e.source = "qian_shang_level2_panel_imgboss7_png",
+        e.visible = !1,
+        e.x = 58,
+        e.y = 18,
+        e
+    },
+    i.imgBoss8_i = function() {
+        var e = new eui.Image;
+        return this.imgBoss8 = e,
+        e.source = "qian_shang_main_panel_pet_png",
+        e.visible = !1,
+        e.x = 70,
+        e
+    },
+    i.btnPet_i = function() {
+        var e = new eui.Image;
+        return this.btnPet = e,
+        e.source = "qian_shang_level1_panel_btnpet_png",
+        e.x = 24,
+        e.y = 257,
+        e
+    },
+    i.btnCure_i = function() {
+        var e = new eui.Image;
+        return this.btnCure = e,
+        e.source = "qian_shang_level1_panel_btncure_png",
+        e.x = 24,
+        e.y = 331,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_line_png",
+        e.x = 661,
+        e.y = 147,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_headbg1_png",
+        e.x = 812,
+        e.y = 83,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_imgbosshead1_png",
+        e.x = 817,
+        e.y = 88,
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_headbg1_png",
+        e.x = 686,
+        e.y = 202,
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_imgbosshead2_png",
+        e.x = 691,
+        e.y = 206,
+        e
+    },
+    i.imgHide2_i = function() {
+        var e = new eui.Image;
+        return this.imgHide2 = e,
+        e.source = "qian_shang_level2_panel_imghide2_png",
+        e.x = 687.36,
+        e.y = 203.36,
+        e
+    },
+    i._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_headbg1_png",
+        e.x = 938,
+        e.y = 202,
+        e
+    },
+    i._Image8_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_imgbosshead3_png",
+        e.x = 943,
+        e.y = 206,
+        e
+    },
+    i.imgHide3_i = function() {
+        var e = new eui.Image;
+        return this.imgHide3 = e,
+        e.source = "qian_shang_level2_panel_imghide2_png",
+        e.visible = !0,
+        e.x = 939.36,
+        e.y = 203.36,
+        e
+    },
+    i._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_headbg1_png",
+        e.x = 620,
+        e.y = 390,
+        e
+    },
+    i.imgHead4_i = function() {
+        var e = new eui.Image;
+        return this.imgHead4 = e,
+        e.source = "qian_shang_level2_panel_imgbosshead4_png",
+        e.visible = !0,
+        e.x = 624,
+        e.y = 394,
+        e
+    },
+    i.imgHide4_i = function() {
+        var e = new eui.Image;
+        return this.imgHide4 = e,
+        e.source = "qian_shang_level2_panel_imghide2_png",
+        e.visible = !0,
+        e.x = 620.36,
+        e.y = 391.36,
+        e
+    },
+    i._Image10_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_headbg1_png",
+        e.x = 753,
+        e.y = 390,
+        e
+    },
+    i.imgHead5_i = function() {
+        var e = new eui.Image;
+        return this.imgHead5 = e,
+        e.source = "qian_shang_level2_panel_imgbosshead5_png",
+        e.visible = !0,
+        e.x = 757,
+        e.y = 394,
+        e
+    },
+    i.imgHide5_i = function() {
+        var e = new eui.Image;
+        return this.imgHide5 = e,
+        e.source = "qian_shang_level2_panel_imghide2_png",
+        e.visible = !0,
+        e.x = 753.36,
+        e.y = 391.36,
+        e
+    },
+    i._Image11_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_headbg1_png",
+        e.visible = !0,
+        e.x = 872,
+        e.y = 390,
+        e
+    },
+    i.imgHead6_i = function() {
+        var e = new eui.Image;
+        return this.imgHead6 = e,
+        e.source = "qian_shang_level2_panel_imgbosshead6_png",
+        e.visible = !0,
+        e.x = 876,
+        e.y = 394,
+        e
+    },
+    i.imgHide6_i = function() {
+        var e = new eui.Image;
+        return this.imgHide6 = e,
+        e.source = "qian_shang_level2_panel_imghide2_png",
+        e.visible = !0,
+        e.x = 872.36,
+        e.y = 391.36,
+        e
+    },
+    i._Image12_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_headbg1_png",
+        e.visible = !0,
+        e.x = 1005,
+        e.y = 390,
+        e
+    },
+    i.imgHead7_i = function() {
+        var e = new eui.Image;
+        return this.imgHead7 = e,
+        e.source = "qian_shang_level2_panel_imgbosshead7_png",
+        e.visible = !0,
+        e.x = 1009,
+        e.y = 394,
+        e
+    },
+    i.imgHide7_i = function() {
+        var e = new eui.Image;
+        return this.imgHide7 = e,
+        e.source = "qian_shang_level2_panel_imghide2_png",
+        e.visible = !0,
+        e.x = 1005.36,
+        e.y = 391.36,
+        e
+    },
+    i.imgUp1_i = function() {
+        var e = new eui.Image;
+        return this.imgUp1 = e,
+        e.source = "qian_shang_level2_panel_imgup_png",
+        e.visible = !1,
+        e.x = 800.17,
+        e.y = 70.48,
+        e
+    },
+    i.imgUp2_i = function() {
+        var e = new eui.Image;
+        return this.imgUp2 = e,
+        e.source = "qian_shang_level2_panel_imgup_png",
+        e.visible = !1,
+        e.x = 674,
+        e.y = 190,
+        e
+    },
+    i.imgUp3_i = function() {
+        var e = new eui.Image;
+        return this.imgUp3 = e,
+        e.source = "qian_shang_level2_panel_imgup_png",
+        e.visible = !1,
+        e.x = 925.97,
+        e.y = 190.36,
+        e
+    },
+    i.imgUp4_i = function() {
+        var e = new eui.Image;
+        return this.imgUp4 = e,
+        e.source = "qian_shang_level2_panel_imgup_png",
+        e.visible = !1,
+        e.x = 605.59,
+        e.y = 375.88,
+        e
+    },
+    i.imgUp5_i = function() {
+        var e = new eui.Image;
+        return this.imgUp5 = e,
+        e.source = "qian_shang_level2_panel_imgup_png",
+        e.visible = !1,
+        e.x = 739.3,
+        e.y = 375.88,
+        e
+    },
+    i.imgUp6_i = function() {
+        var e = new eui.Image;
+        return this.imgUp6 = e,
+        e.source = "qian_shang_level2_panel_imgup_png",
+        e.visible = !1,
+        e.x = 857.7,
+        e.y = 376.06,
+        e
+    },
+    i.imgUp7_i = function() {
+        var e = new eui.Image;
+        return this.imgUp7 = e,
+        e.source = "qian_shang_level2_panel_imgup_png",
+        e.visible = !1,
+        e.x = 992.47,
+        e.y = 376.41,
+        e
+    },
+    i.imgHasWin1_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin1 = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.visible = !0,
+        e.x = 801.66,
+        e.y = 116.468,
+        e
+    },
+    i.imgHasWin2_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin2 = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.visible = !0,
+        e.x = 675.73,
+        e.y = 236,
+        e
+    },
+    i.imgHasWin3_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin3 = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.visible = !0,
+        e.x = 928.365,
+        e.y = 236,
+        e
+    },
+    i.imgHasWin4_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin4 = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.visible = !0,
+        e.x = 608.312,
+        e.y = 427.5,
+        e
+    },
+    i.imgHasWin5_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin5 = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.visible = !0,
+        e.x = 742.144,
+        e.y = 427.5,
+        e
+    },
+    i.imgHasWin6_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin6 = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.visible = !0,
+        e.x = 861.122,
+        e.y = 427.5,
+        e
+    },
+    i.imgHasWin7_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWin7 = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_level1_panel_imgbeated_png",
+        e.visible = !0,
+        e.x = 993.578,
+        e.y = 427.5,
+        e
+    },
+    i.imgTruthRateBG_i = function() {
+        var e = new eui.Image;
+        return this.imgTruthRateBG = e,
+        e.source = "qian_shang_level2_panel_img_di1_png",
+        e.x = 705,
+        e.y = 14,
+        e
+    },
+    i._Image13_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level1_panel_asfaskjg_png",
+        e.x = 893,
+        e.y = 14,
+        e
+    },
+    i.btnAddFightTime_i = function() {
+        var e = new eui.Image;
+        return this.btnAddFightTime = e,
+        e.source = "qian_shang_level1_panel_btnaddfighttime_png",
+        e.x = 1082,
+        e.y = 14,
+        e
+    },
+    i.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "qian_shang_level1_panel_btnfight_png",
+        e.visible = !1,
+        e.x = 116,
+        e.y = 538,
+        e
+    },
+    i.btnTips_i = function() {
+        var e = new eui.Image;
+        return this.btnTips = e,
+        e.source = "qian_shang_level2_panel_btntips_png",
+        e.visible = !1,
+        e.x = 230,
+        e.y = 538,
+        e
+    },
+    i.btnFastBeat_i = function() {
+        var e = new eui.Image;
+        return this.btnFastBeat = e,
+        e.source = "qian_shang_level1_panel_btnfastbeat_png",
+        e.visible = !1,
+        e.x = 350,
+        e.y = 540,
+        e
+    },
+    i.btnOneKey_i = function() {
+        var e = new eui.Image;
+        return this.btnOneKey = e,
+        e.source = "qian_shang_level1_panel_btnonekey_png",
+        e.visible = !0,
+        e.x = 995,
+        e.y = 489,
+        e
+    },
+    i.txtTruthRate_i = function() {
+        var e = new eui.Label;
+        return this.txtTruthRate = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "100%",
+        e.textColor = 16630739,
+        e.visible = !0,
+        e.x = 806,
+        e.y = 14,
+        e
+    },
+    i.txtFightTime_i = function() {
+        var e = new eui.Label;
+        return this.txtFightTime = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "00",
+        e.textColor = 16630738,
+        e.x = 1046,
+        e.y = 15,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image14_i(), this.btnClose_i(), this._Image15_i(), this.btnHelp_i()],
+        e
+    },
+    i._Image14_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_main_panel_up_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "qian_shang_main_panel_btnclose_png",
+        e.x = 16,
+        e.y = 8,
+        e
+    },
+    i._Image15_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level2_panel_hzmc_png",
+        e.x = 84,
+        e.y = 3,
+        e
+    },
+    i.btnHelp_i = function() {
+        var e = new eui.Image;
+        return this.btnHelp = e,
+        e.source = "qian_shang_level1_panel_btnhelp_png",
+        e.x = 222,
+        e.y = 12,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/QianShangLevel3PanelSkin.exml"] = window.QianShangLevel3PanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnPet", "btnCure", "btnReset", "btnOneKey", "txtFightTime", "btnAddFightTime", "txtExploreTime", "imgWord1", "imgWord2", "imgWord3", "txtItem1", "btnAddItem1", "txtItem2", "btnExchange", "btnFastBeat", "btnFight", "groupFight", "groupMain", "btnClose", "btnHelp"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.groupMain_i(), this._Group1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.source = "qian_shang_main_panel_bg_jpg",
+        e.top = 0,
+        e
+    },
+    i.groupMain_i = function() {
+        var e = new eui.Group;
+        return this.groupMain = e,
+        e.horizontalCenter = -4.5,
+        e.width = 1079,
+        e.y = 6,
+        e.elementsContent = [this.btnPet_i(), this.btnCure_i(), this._Image2_i(), this.btnReset_i(), this.btnOneKey_i(), this.txtFightTime_i(), this.btnAddFightTime_i(), this.txtExploreTime_i(), this.imgWord1_i(), this.imgWord2_i(), this.imgWord3_i(), this._Image3_i(), this._Image4_i(), this.txtItem1_i(), this.btnAddItem1_i(), this._Image5_i(), this._Image6_i(), this.txtItem2_i(), this.btnExchange_i(), this.groupFight_i()],
+        e
+    },
+    i.btnPet_i = function() {
+        var e = new eui.Image;
+        return this.btnPet = e,
+        e.source = "qian_shang_level1_panel_btnpet_png",
+        e.x = 0,
+        e.y = 251,
+        e
+    },
+    i.btnCure_i = function() {
+        var e = new eui.Image;
+        return this.btnCure = e,
+        e.source = "qian_shang_level1_panel_btncure_png",
+        e.x = 0,
+        e.y = 325,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_panel_txxq_png",
+        e.visible = !0,
+        e.x = 766,
+        e.y = 12,
+        e
+    },
+    i.btnReset_i = function() {
+        var e = new eui.Image;
+        return this.btnReset = e,
+        e.source = "qian_shang_level3_panel_btnreset_png",
+        e.x = 806,
+        e.y = 455,
+        e
+    },
+    i.btnOneKey_i = function() {
+        var e = new eui.Image;
+        return this.btnOneKey = e,
+        e.source = "qian_shang_level3_panel_btnonekey_png",
+        e.x = 810,
+        e.y = 534,
+        e
+    },
+    i.txtFightTime_i = function() {
+        var e = new eui.Label;
+        return this.txtFightTime = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "00",
+        e.textColor = 16630738,
+        e.x = 982,
+        e.y = 407.41,
+        e
+    },
+    i.btnAddFightTime_i = function() {
+        var e = new eui.Image;
+        return this.btnAddFightTime = e,
+        e.source = "qian_shang_level1_panel_btnaddfighttime_png",
+        e.x = 1025,
+        e.y = 407,
+        e
+    },
+    i.txtExploreTime_i = function() {
+        var e = new eui.Label;
+        return this.txtExploreTime = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "00/10",
+        e.textColor = 16630738,
+        e.x = 966,
+        e.y = 375.41,
+        e
+    },
+    i.imgWord1_i = function() {
+        var e = new eui.Image;
+        return this.imgWord1 = e,
+        e.source = "qian_shang_level3_panel_txtword1_png",
+        e.visible = !1,
+        e.x = 824,
+        e.y = 202,
+        e
+    },
+    i.imgWord2_i = function() {
+        var e = new eui.Image;
+        return this.imgWord2 = e,
+        e.source = "qian_shang_level3_panel_txtword2_png",
+        e.visible = !1,
+        e.x = 783,
+        e.y = 201,
+        e
+    },
+    i.imgWord3_i = function() {
+        var e = new eui.Image;
+        return this.imgWord3 = e,
+        e.source = "qian_shang_level3_panel_txtword3_png",
+        e.visible = !1,
+        e.x = 824,
+        e.y = 201,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_panel_txtbg1_png",
+        e.visible = !0,
+        e.x = 642,
+        e.y = 8,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_panel_1720230_png",
+        e.visible = !0,
+        e.x = 652,
+        e.y = 1,
+        e
+    },
+    i.txtItem1_i = function() {
+        var e = new eui.Label;
+        return this.txtItem1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "9999",
+        e.textColor = 16630739,
+        e.x = 752,
+        e.y = 7.89,
+        e
+    },
+    i.btnAddItem1_i = function() {
+        var e = new eui.Image;
+        return this.btnAddItem1 = e,
+        e.source = "qian_shang_level1_panel_btnaddfighttime_png",
+        e.x = 802,
+        e.y = 9,
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_panel_txtbg2_png",
+        e.x = 845,
+        e.y = 8,
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_panel_1720249_png",
+        e.x = 856,
+        e.y = 0,
+        e
+    },
+    i.txtItem2_i = function() {
+        var e = new eui.Label;
+        return this.txtItem2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "00",
+        e.textColor = 16630738,
+        e.x = 995,
+        e.y = 7.89,
+        e
+    },
+    i.btnExchange_i = function() {
+        var e = new eui.Image;
+        return this.btnExchange = e,
+        e.source = "qian_shang_level3_panel_btnexchange_png",
+        e.x = 1032,
+        e.y = 9,
+        e
+    },
+    i.groupFight_i = function() {
+        var e = new eui.Group;
+        return this.groupFight = e,
+        e.x = 814.17,
+        e.y = 143.92,
+        e.elementsContent = [this._Image7_i(), this.btnFastBeat_i(), this.btnFight_i()],
+        e
+    },
+    i._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_fight_pop_3893_png",
+        e.x = 54.78,
+        e.y = 0,
+        e
+    },
+    i.btnFastBeat_i = function() {
+        var e = new eui.Image;
+        return this.btnFastBeat = e,
+        e.source = "qian_shang_level3_fight_pop_btnfastbeat_png",
+        e.x = 127.45,
+        e.y = 148.22,
+        e
+    },
+    i.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "qian_shang_level3_fight_pop_btnfight_png",
+        e.x = 0,
+        e.y = 148.22,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image8_i(), this.btnClose_i(), this._Image9_i(), this.btnHelp_i()],
+        e
+    },
+    i._Image8_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_main_panel_up_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "qian_shang_main_panel_btnclose_png",
+        e.x = 16,
+        e.y = 8,
+        e
+    },
+    i._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_panel_jmtx_png",
+        e.x = 84,
+        e.y = 3,
+        e
+    },
+    i.btnHelp_i = function() {
+        var e = new eui.Image;
+        return this.btnHelp = e,
+        e.source = "qian_shang_level1_panel_btnhelp_png",
+        e.x = 222,
+        e.y = 12,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/QianShangLevel3PopSkin.exml"] = window.QianShangLevel3PopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnClose", "imgPet2", "imgPet1", "txtItem1", "txtItem2", "btnFastBeat", "btnGiveMoney", "btnFight", "imgWord2", "imgWord1"],
+        this.height = 353,
+        this.width = 606,
+        this.elementsContent = [this._Image1_i(), this.btnClose_i(), this._Image2_i(), this.imgPet2_i(), this.imgPet1_i(), this._Image3_i(), this.txtItem1_i(), this.txtItem2_i(), this._Image4_i(), this._Image5_i(), this.btnFastBeat_i(), this.btnGiveMoney_i(), this.btnFight_i(), this.imgWord2_i(), this.imgWord1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_pop_m_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "qian_shang_level3_pop_btnclose_png",
+        e.x = 561,
+        e.y = 3,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_pop_petbg_png",
+        e.x = 87,
+        e.y = 300,
+        e
+    },
+    i.imgPet2_i = function() {
+        var e = new eui.Image;
+        return this.imgPet2 = e,
+        e.source = "qian_shang_level3_pop_3839_png",
+        e.visible = !1,
+        e.x = 26,
+        e.y = 46,
+        e
+    },
+    i.imgPet1_i = function() {
+        var e = new eui.Image;
+        return this.imgPet1 = e,
+        e.source = "qian_shang_level3_pop_3894qc_png",
+        e.visible = !1,
+        e.x = 33,
+        e.y = 38,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_pop_yzcsp_png",
+        e.visible = !0,
+        e.x = 307,
+        e.y = 177,
+        e
+    },
+    i.txtItem1_i = function() {
+        var e = new eui.Label;
+        return this.txtItem1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "00",
+        e.textColor = 16773461,
+        e.x = 492,
+        e.y = 190.963,
+        e
+    },
+    i.txtItem2_i = function() {
+        var e = new eui.Label;
+        return this.txtItem2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "00",
+        e.textColor = 16773461,
+        e.x = 492,
+        e.y = 238.963,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_pop_bltxsd_png",
+        e.x = 306,
+        e.y = 147,
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_level3_pop_line_png",
+        e.x = 503,
+        e.y = 132,
+        e
+    },
+    i.btnFastBeat_i = function() {
+        var e = new eui.Image;
+        return this.btnFastBeat = e,
+        e.source = "qian_shang_level3_pop_btnfastbeat_png",
+        e.visible = !1,
+        e.x = 445,
+        e.y = 284,
+        e
+    },
+    i.btnGiveMoney_i = function() {
+        var e = new eui.Image;
+        return this.btnGiveMoney = e,
+        e.source = "qian_shang_level3_pop_btngivemoney_png",
+        e.visible = !1,
+        e.x = 445,
+        e.y = 284,
+        e
+    },
+    i.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "qian_shang_level3_pop_btnfight_png",
+        e.visible = !0,
+        e.x = 338,
+        e.y = 284,
+        e
+    },
+    i.imgWord2_i = function() {
+        var e = new eui.Image;
+        return this.imgWord2 = e,
+        e.source = "qian_shang_level3_pop_zdswzyymxldxg_qgdeglf_1gyzch15gyzcsp_png",
+        e.visible = !1,
+        e.x = 306,
+        e.y = 64,
+        e
+    },
+    i.imgWord1_i = function() {
+        var e = new eui.Image;
+        return this.imgWord1 = e,
+        e.source = "qian_shang_level3_pop_zsqcjktgzdlqjl_png",
+        e.visible = !1,
+        e.x = 307,
+        e.y = 82,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/QianShangMainPanelSkin.exml"] = window.QianShangMainPanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnLevel1", "imgHas1", "btnLevel2", "imgHas2", "btnLevel3", "imgHas3", "btnInfo", "btnSuperGet", "btnUp", "btnGetPet", "imgHasPet", "btnClose"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this._Group2_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.source = "qian_shang_main_panel_bg_jpg",
+        e.top = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = -13,
+        e.width = 1034,
+        e.y = 2,
+        e.elementsContent = [this._Image2_i(), this._Image3_i(), this.btnLevel1_i(), this.imgHas1_i(), this.btnLevel2_i(), this.imgHas2_i(), this.btnLevel3_i(), this.imgHas3_i(), this.btnInfo_i(), this.btnSuperGet_i(), this.btnUp_i(), this.btnGetPet_i(), this.imgHasPet_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_main_panel_pet_png",
+        e.x = 20,
+        e.y = 0,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_main_panel_quxian_1_png",
+        e.x = 572,
+        e.y = 34,
+        e
+    },
+    i.btnLevel1_i = function() {
+        var e = new eui.Image;
+        return this.btnLevel1 = e,
+        e.source = "qian_shang_main_panel_btnlevel1_png",
+        e.x = 650,
+        e.y = 246,
+        e
+    },
+    i.imgHas1_i = function() {
+        var e = new eui.Image;
+        return this.imgHas1 = e,
+        e.source = "qian_shang_main_panel_imghas1_png",
+        e.x = 676,
+        e.y = 271,
+        e
+    },
+    i.btnLevel2_i = function() {
+        var e = new eui.Image;
+        return this.btnLevel2 = e,
+        e.source = "qian_shang_main_panel_btnlevel2_png",
+        e.x = 699,
+        e.y = 349,
+        e
+    },
+    i.imgHas2_i = function() {
+        var e = new eui.Image;
+        return this.imgHas2 = e,
+        e.source = "qian_shang_main_panel_imghas1_png",
+        e.x = 726,
+        e.y = 375,
+        e
+    },
+    i.btnLevel3_i = function() {
+        var e = new eui.Image;
+        return this.btnLevel3 = e,
+        e.source = "qian_shang_main_panel_btnlevel3_png",
+        e.x = 748,
+        e.y = 451,
+        e
+    },
+    i.imgHas3_i = function() {
+        var e = new eui.Image;
+        return this.imgHas3 = e,
+        e.source = "qian_shang_main_panel_imghas1_png",
+        e.visible = !0,
+        e.x = 774,
+        e.y = 478,
+        e
+    },
+    i.btnInfo_i = function() {
+        var e = new eui.Image;
+        return this.btnInfo = e,
+        e.source = "qian_shang_main_panel_btninfo_png",
+        e.x = 0,
+        e.y = 539,
+        e
+    },
+    i.btnSuperGet_i = function() {
+        var e = new eui.Image;
+        return this.btnSuperGet = e,
+        e.source = "qian_shang_main_panel_btnsuperget_png",
+        e.visible = !1,
+        e.x = 200,
+        e.y = 538,
+        e
+    },
+    i.btnUp_i = function() {
+        var e = new eui.Image;
+        return this.btnUp = e,
+        e.source = "qian_shang_main_panel_btnup_png",
+        e.visible = !1,
+        e.x = 200,
+        e.y = 538,
+        e
+    },
+    i.btnGetPet_i = function() {
+        var e = new eui.Image;
+        return this.btnGetPet = e,
+        e.source = "qian_shang_main_panel_btngetpet_png",
+        e.visible = !1,
+        e.x = 200,
+        e.y = 538,
+        e
+    },
+    i.imgHasPet_i = function() {
+        var e = new eui.Image;
+        return this.imgHasPet = e,
+        e.source = "qian_shang_main_panel_imghaspet_png",
+        e.visible = !0,
+        e.x = 183,
+        e.y = 334,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image4_i(), this.btnClose_i()],
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_main_panel_up_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "qian_shang_main_panel_btnclose_png",
+        e.x = 16,
+        e.y = 8,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/QianShangUpPanelSkin.exml"] = window.QianShangUpPanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnPet", "btnCure", "btnTe", "btnGetTe", "imgHasTe", "btnWu", "btnGetWu", "imgHasWu", "btnGetKe", "btnKe", "imgHasKe", "btnEasy", "btnNormal", "btnDifficult", "btnAddItem", "btnAddFightTime", "txtItem", "txtFightTime", "btnClose", "btnHelp"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this._Group2_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.source = "qian_shang_main_panel_bg_jpg",
+        e.top = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = -4.5,
+        e.width = 1079,
+        e.y = 2,
+        e.elementsContent = [this._Image2_i(), this.btnPet_i(), this.btnCure_i(), this._Image3_i(), this.btnTe_i(), this.btnGetTe_i(), this.imgHasTe_i(), this.btnWu_i(), this.btnGetWu_i(), this.imgHasWu_i(), this.btnGetKe_i(), this.btnKe_i(), this.imgHasKe_i(), this.btnEasy_i(), this.btnNormal_i(), this.btnDifficult_i(), this._Image4_i(), this.btnAddItem_i(), this._Image5_i(), this.btnAddFightTime_i(), this.txtItem_i(), this.txtFightTime_i(), this._Image6_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_main_panel_pet_png",
+        e.x = 34,
+        e.y = 0,
+        e
+    },
+    i.btnPet_i = function() {
+        var e = new eui.Image;
+        return this.btnPet = e,
+        e.source = "qian_shang_level1_panel_btnpet_png",
+        e.x = 0,
+        e.y = 255,
+        e
+    },
+    i.btnCure_i = function() {
+        var e = new eui.Image;
+        return this.btnCure = e,
+        e.source = "qian_shang_level1_panel_btncure_png",
+        e.x = 0,
+        e.y = 329,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_up_panel_line_png",
+        e.visible = !0,
+        e.x = 654,
+        e.y = 16,
+        e
+    },
+    i.btnTe_i = function() {
+        var e = new eui.Image;
+        return this.btnTe = e,
+        e.source = "qian_shang_up_panel_btnte_png",
+        e.x = 759,
+        e.y = 451,
+        e
+    },
+    i.btnGetTe_i = function() {
+        var e = new eui.Image;
+        return this.btnGetTe = e,
+        e.source = "qian_shang_up_panel_btngetke_png",
+        e.x = 867,
+        e.y = 475,
+        e
+    },
+    i.imgHasTe_i = function() {
+        var e = new eui.Image;
+        return this.imgHasTe = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_main_panel_imghaspet_png",
+        e.visible = !1,
+        e.x = 727,
+        e.y = 464,
+        e
+    },
+    i.btnWu_i = function() {
+        var e = new eui.Image;
+        return this.btnWu = e,
+        e.source = "qian_shang_up_panel_btnwu_png",
+        e.x = 758,
+        e.y = 293,
+        e
+    },
+    i.btnGetWu_i = function() {
+        var e = new eui.Image;
+        return this.btnGetWu = e,
+        e.source = "qian_shang_up_panel_btngetke_png",
+        e.visible = !0,
+        e.x = 867,
+        e.y = 317,
+        e
+    },
+    i.imgHasWu_i = function() {
+        var e = new eui.Image;
+        return this.imgHasWu = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_main_panel_imghaspet_png",
+        e.visible = !1,
+        e.x = 727,
+        e.y = 307,
+        e
+    },
+    i.btnGetKe_i = function() {
+        var e = new eui.Image;
+        return this.btnGetKe = e,
+        e.source = "qian_shang_up_panel_btngetke_png",
+        e.visible = !0,
+        e.x = 867,
+        e.y = 161,
+        e
+    },
+    i.btnKe_i = function() {
+        var e = new eui.Image;
+        return this.btnKe = e,
+        e.source = "qian_shang_up_panel_btnke_png",
+        e.visible = !0,
+        e.x = 750,
+        e.y = 125,
+        e
+    },
+    i.imgHasKe_i = function() {
+        var e = new eui.Image;
+        return this.imgHasKe = e,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "qian_shang_main_panel_imghaspet_png",
+        e.visible = !1,
+        e.x = 727,
+        e.y = 150,
+        e
+    },
+    i.btnEasy_i = function() {
+        var e = new eui.Image;
+        return this.btnEasy = e,
+        e.source = "qian_shang_up_panel_btneasy_png",
+        e.x = 103,
+        e.y = 552,
+        e
+    },
+    i.btnNormal_i = function() {
+        var e = new eui.Image;
+        return this.btnNormal = e,
+        e.source = "qian_shang_up_panel_btnnormal_png",
+        e.x = 256,
+        e.y = 552,
+        e
+    },
+    i.btnDifficult_i = function() {
+        var e = new eui.Image;
+        return this.btnDifficult = e,
+        e.source = "qian_shang_up_panel_btndifficult_png",
+        e.x = 409,
+        e.y = 552,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_up_panel_txtbg1_png",
+        e.x = 651.765,
+        e.y = 13,
+        e
+    },
+    i.btnAddItem_i = function() {
+        var e = new eui.Image;
+        return this.btnAddItem = e,
+        e.source = "qian_shang_level1_panel_btnaddfighttime_png",
+        e.x = 827,
+        e.y = 13,
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_up_panel_txtbg2_png",
+        e.x = 869,
+        e.y = 13,
+        e
+    },
+    i.btnAddFightTime_i = function() {
+        var e = new eui.Image;
+        return this.btnAddFightTime = e,
+        e.source = "qian_shang_level1_panel_btnaddfighttime_png",
+        e.x = 1058,
+        e.y = 13,
+        e
+    },
+    i.txtItem_i = function() {
+        var e = new eui.Label;
+        return this.txtItem = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "9999",
+        e.textColor = 16630739,
+        e.x = 778,
+        e.y = 13,
+        e
+    },
+    i.txtFightTime_i = function() {
+        var e = new eui.Label;
+        return this.txtFightTime = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119682,
+        e.text = "00",
+        e.textColor = 16630738,
+        e.x = 1023,
+        e.y = 13,
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_up_panel_righttop_png",
+        e.x = 664.815,
+        e.y = 11.179,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image7_i(), this.btnClose_i(), this._Image8_i(), this.btnHelp_i()],
+        e
+    },
+    i._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_main_panel_up_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "qian_shang_main_panel_btnclose_png",
+        e.x = 16,
+        e.y = 8,
+        e
+    },
+    i._Image8_i = function() {
+        var e = new eui.Image;
+        return e.source = "qian_shang_up_panel_nlds_png",
+        e.x = 84,
+        e.y = 3,
+        e
+    },
+    i.btnHelp_i = function() {
+        var e = new eui.Image;
+        return this.btnHelp = e,
+        e.source = "qian_shang_level1_panel_btnhelp_png",
+        e.x = 222,
+        e.y = 12,
+        e
+    },
+    t
+} (eui.Skin);

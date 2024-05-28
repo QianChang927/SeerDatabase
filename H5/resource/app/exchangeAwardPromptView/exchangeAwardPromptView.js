@@ -1,1 +1,3968 @@
-eval(function(){function Z(Z){for(s=k=0;s<Z;)A<2&&(A=64,H=92<(H="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<VfkuGKK`Z;nH:;;<UZXDn=Z:PrNu::TbZQbg:BK`:dVQ[]QcJVuBkccoegVe=Te]GAb<JyC;BQZdRJFPdvX=cC[ZJTNO:Fy:gW::NL]bl:InZ:=_aD=F:;@:LNEvl:=<A=kE>?kc:h@DsD>uJnyd>Rb?>fdEFClNWvaWDHdk:Js::KQkZM<Rt>pWCJHOCPeNXBqwZimlHo`B:;<B?J:@h_[Jc;vo<;I<:mR@JnvkrusHorKAIVakBau`;pIFdJ[ja@VmuL@aQXKdaGdZ;CLo_Ekg;;sUv_YpF@nMXSFWM_Qvc@ilN>NwFOeipmpNiZgC[_xtr>sae:xuqlT>jHqsd>wKr[]rc@OmZ:LjI]pQbKgQZNcywIE;I<NryLleI:><kGEk<;ACSR;@>QszdJ?SXADSn<:J>lsHZbl:VuYvp@;ZK]=s?cJ<Dy[ddDWsDdZ:<mB;mZKE:ZEwR=_>@ClZ=PMRVB[YvSdJITKb:omwb:tEv::Kj:B=;bge?k;::;FyZ:DcPhKhA>TKDSxb:u<PbZB<Z`kSvq^kCKPG[gfm_D]]rFiuZgPlnmVX>hMVUlz@<K::=Fy]qJ:EBtg[<J:fDtTA<LtP@b^[ya=b:cBmPKwbc:ezcqAPV>ZUdX=l:TTUFUsfAgSlXkwQ:Y?vI>]:ZEHu<RNuH`mf[JN[Umgb_Yq_QKSTgNBT;E:CN`McdU>d_VXXA?cXP<AJV?WUD;CDRoOocOmYqL_ePdr:TUcGJLjtiasRBOZWP`Sbbha;^xQN:=DkSmgGV@`QdkcOSGGNDQOFN]Z:vFCW_]]D:;gUQ[dhQPVQhMdlQD<OfAt<J;SWJvQX?WoGYhx@hRlK_aX`pM<;XOlEhxuOIb];CcwTpsK[kQBwbmqIUZLZ?d]mR;gdmrCYEw<c:?KkS@oT>>d;;XDku=DHJUr<XtMHkoVX<cA:lP^Z[cj]wB:;wBILehJf<He^BJF:gfl;:vSVOlD;ZC=zRoRojE]xNt=T;k>k:<eSGk:;>Z:<Kc::H_Hk:p;O::TX>:=E^QKhNeQ:^OpFpfQikvZ<kVc:yCe:B=z=jvCMjelZ@JU;aPDW_]afuJ;yzoFVLPWdkaK[NubDSv@uy;tWNscZHcu[B=Rr;sAkl^w?MfClAMCHFoDim[A^OvqCJQ:qlkEJs=PcDmXqu:bIXds@qMPEc@BkwIFFXPGAFG]fkusZ?o_Ft_Z^Yfle@dxBHY?YhGYhmQ`jt:vooA:q=@SBze^:][GkQUeAQ;FYR>[:kP]:JSDZ]:N:R?o:iEXY:ARY:SjwJ>R;ZKnA;?<@>>kqliL:RbIym=XLz:;><>>P<Z>F?oIM>[e=m@RB[;:oJcK[=v=K?:aZ@;]mSr=E:T;h;V[U^QZBBJLoR=L?_Bs:mD[=[T;oAcJkC[n<@LZ@VTKOZp@;AV@cKgIZz<TINV>JksJhKS>L=khBY=FZu[mBkRKmC][]:odN:_Ud@mvlT?K=cQJk:x=YIoHNuC[==?@:JLRFktZE<P<gR@Hlh]U<Mj:gs?kbtb>Yi^JBMkQ[j:>EJj_S=o>NDRMZy><ppu>^Y;];la`b>pGVUbLc?kzMYqd<_P_<_GLO>cH:F:yxb]j=Z>kGJYkTRZ;g=DUHXB[<PqHjDRHnZ=f=HkLwBuVc[;e_uXfFlh^Ps<:GBVMCcxI[s<JI>G_NdXDlA]:YAVc[[[dHj<Vgt?mf`kA]CzV_``@CVnaGbF:nc[n_@:=ZjF]l]n:h;PoW:N:_<>>vi_>?EkkNkf[RoEoJs:;DHcNkdaV:JSS?NTmG_R_]]RDERQkdY^T>>BDwed]WEoaksK=bspAc=M_k:XtC:PaB@XVwa:Ems@C:cL:DEl=I@uI:cCj^ybJ<kDJL:H:PZKiILXblyPzAbcj;wwJ=TvMsCei:qf[P]j?SDxBofSQmeZFJj_eeP:Mmb_T_pLw>^uiyWQ?FA:c;PpkL:<OABiQg`xj<iBDSW=Y=dHJBGIWm;L^@A[TRjgHJqkt:uZu<_vRl:SA:@NsBN<l:GPuF`?DoNL:=Y>PGBTkrI=wNFhJ?NURGqfKB@gTTwCJ;hbwTR=ebPY<`>er:=ZAlbCMEh?`mMfnk?N`mphIDT_>[WRDlXBfMb_;bKkE`YkjuXjL=ZUpjeV=PkrV?EWV;Pq[gTH@yhNT?Bli=KB;GLTNpdcnOanBiUwpGkNihL_dDcPE>dX]nWVvApQem;@[ht:aohgYM;^hQTXpxjOMZJWdk=o>?AYL]WFnAa^mZ@eeXuA[pRWt@HxctM@bb;RQgRRoZFFH;f=V]JZpJLP=kHc:Z:=m:qosxlyRt;t[l;Bt[Z;]pCrsX@BK`ZaUo=SjdI:Ux[UebI_VWKtkpGTUGf:IqIRbFav^EQPDsFV:s=e:t::KmRE@MaXcKJ::slJ]^gitIZVB::F;d[[aqIP:FR<:>=v]x[VD<wKV::Ad[EpnRAtZEJP?B:>oEZAdU=ZRct:cZQAr[tmMKndGa^:;TOVhdXQrDbJKkflPFmdqzb`h`obFSaOiPsl`GFIvk>FyEAWtB`bJKxjvP]sOKF>=ZbaWJ;SPkvpJ@:I:Q?bLCNy^aC`du>=k@oGNIRTBg<=d[Hm@NMRPn[PlWlrkHZASLBNZJ<EU@BgFV]kLu<Rgi:KRxaaVU_qQsH;arG[U_VG:z>M`QYW[uzPPoba:VPq:>RYVEHJ>]cBs=D=WHZ@Bjf`b_?]=><?iSwlksKlE?ATIAgL<lpZIfu:;g;m[gAFUXHdjYWazGy@KHRNn`;C^nBHHDkmmKmEPUsh[TyavimRaD<?LKkWjc;qZ;SKN:Cml=h@EISRH=[_NIWgxkHwqOglg[n>gVVYH@]Ny:XVk=^qA=IYazUHF^xBeHqWh?baDgbtjuWYThzGyr_gu^quZ<kKrgSHYRsdpMcUzRDYwZ=oZLorquVMU[xGdb<r[=irXqvlIpiR[UTeSZ<eaUJxWA<[M^_ZPsyYRnwnlDkHD::A>k=eAKx;>j<;BN>=amZM:=gASk^GryqjxY@yV_<urxjV;ZSqvKxGcIP:x=pSAhCc^@fStTdQOkQODweH]>Zh;P<CBKYmY:Iq?<U`rmPd`QD[O=@EMXt@:`>HO`gcqKIpDwzGevPz;jsMFQW=nlnyYezIX?fFJ;tYEWrGy=y?dLm?`IyN;Y;A;>;LqSS<;JJM[@;Ik>:[fK;WzX[BdK[?SQ;>b:[O@@[IiA:^;F>>d?sT[U:kdVZm[A;M:?[G[UIL:O:qZLlGFY[E[XZXlGMBcNK>JVJLJLKHJ;JCJ=kMJ=UKKBkNk<kJlUK;JXJhk@:=kIKQkYkTk;Je:>BNlPpUNUB=ZdoIJwlHlVdYSA>IZ[dBy<Z=lCcElGcAlUcG>JCJR>C>RVRDR>>TC?iPCBZWRMR;CQR:s<fVs=:yY=C;fUCOsFBICNZqZsdY:gdKW<dB_?f<d?lXzLdL:R_MtOdHZ@_GPC_Q:BNE]XEHMQqK:E:>N=nVNRco>NckEHMM?GEDcacpNJcu:RkrSWTUn>BwD@qA:>cn?H[>NB:fBxwKJHx<J::>^hb;@lJk;BKJ@flxn:AMb<`xb@NbbJAx>bam;K;RIK@V=<pk:uNNru;Ko@IeBqDqF?OqGR?pAQZ>>O:_;HCk?MnhmiBTBJADFeByBc=eHyDTCTFr[G>q^PKR:Fl_;g:Zn@HMZ;DyGsOPIM_TQnZc@aH@IhLEZcAv:@D@C@Ef^EaF:wnF;XHF@>Zg;R>k=k=`ZwqN<:bg:L=`@y>[?^<R=Z=CBdH>;imSZ`[eBs:[LTAPDOOC:b[fmOLs`^@P;Gk><aIB?aH<bN<v=:ZGAT=c]]=s<L=c[g=s?h>iCDI`FDn^Py:`G^:b`xZs?C@s<n:B?`H^JOI;@OIS@>>mk]>aIhEaIN:PD^;y@PI[CxmyCiCg@qIiIqHoFR_;FhZN_qH=EiEqFL<v=UrCZB`k:rQ^Hs;:@>;XFyCDEDH^FeB]AB;g<PolnPC=<I=Ln[PyALmKGEIMZfHfDfILoGI:;v_TKk>?EEH=:UCk<UCaDGIS=v?GDJAGFhD`ChEhIjJWDOGobQ_moO;R;PEfIEFfCTFmrk^HnMBXHs;k;ED?CQFUEQEXBrGMEa@rCP<AbX<BP@QB<I:H^[QdJJHznt=jBYElKJDsEJEZL_mkImOBMJMcFcGkPYGy?YEjn:>BKBCJQ]EkDcMc<ZfcKZccIkFRGRQRMY=RHsOe?fFkdsEFDNA>NOL_M>D>:_I_NP]NO_GNLFLV<ND<<Z?NHwANEcgV;oB]<uBFHkegKn:sgL<>MsGsAFCVLe?r==ZT=gGT?M>u<VB<J@@<O<JwF]P>oP;wGP=wIJA]MZ;q<LL_pLQmk]Ibm]GmKcB:cLD:LLB>dLCnkP[D@>cC=K<FAcpeog^TNB=HDuMN>fNjOfLZn`GUQB>lJt=k^@>[:t>h<Z::=?FO>oc:=dioTxoop::=rsl>S_<:t`yJ?_C:DWxWSFt_G_H]W`x]qsx:wGJ=b`n_KFr_U_mgk^bsDfQ`gdf`V]c<me@heNckdJN>Tf?pKDjK@l:OZdOWBWnZGWxgi;hWkdvhw;@kZBqRYtPOtwk=:<mgrKJFEpkFYEUpcpzE:fZfJfkeceResezZ>f@C_eWLxoD:;no;TmUfMpSowpw:n_ugG`W:UmDdgN>[VNk:><LV]O@lB?InT;jnxD_>zmm<nDV?>=cB:Ti;BDMD@?_DsD>D<`MERD@<a=oEP=ZTgDNZVEVTwE_];=<DK=d?l<t>d<J[`>t<:[`=TDuUuE@Dq;aE@UPDM?qDU?HEwUiDF[x<yEX<VRb>E<wJf=r?lEa[CEA<z?b<tD[[r=k`I<c_NkR_pEz<hZhE>`Z^WDufo_C;WD;`^DBT_Eu=RJ>K_]GGGwF^vDVwLKbEDKQD<;rEpS[[oemc?_ARzZM_s:iNZ>BM?Wq]h`GKXEKgX^=KmfbfDeP;E_afr_l^xTBvM_cuRvNcI`B=DKJMfkHOtol^`o[NP;^GnNZBfNEx?O`NywuZTsDu=JwvOonODoZBiCtOqlEebKsZ]RBUVGWUdonokGiOVv`x^OOw<unOpeXhQfiu<FagHBl^hgMmV;m;_:H;iZoxsxEVYhDwBhe]jF;;QVpvrVGu?g:;LUXcJM:Eqz:Aqi::jJH;LM?PV>HClCVrAYXZbPr:>hA:bTYIXnv:b@zQrEy`rGJ@IEa<FhAIFF<Uy^q=q>SUqf`KAW_CozZGJ:uXkMDlAQRaV:ZX_pbGKT<?:D;k:Myp::NjN::YIJ:WyO::gYwOpSnsrJ:BSWkjd[<tKjjuIkS=[JUJX=_kTo=rEKoJ:J?c;ArpalCxl]@Um>S;MUl>Vk>wn:Y_rRX>Rvn_SYqy?=PX<NYH=_WGlzcMoSqho<AYf>S[J>T>SWpQjEroVxl]AzjsV<nFTtmRTjhRWlIRXUl:WJ?UbB?JR?@sTs?sYyCn:hkIeMrhkF<:`xkDAcX@;WkW_:<dnJ:>MM::mIJcScRbkNX]VoW_U??NYNX@<_WAqmY_WhQgRk<mWSk_UDRDS_U[;?;EHOl`AKJB:[rOn[NpkaeHppm@`ah[b=aGpkTwAKQFVGpto`mjIw=:MZ<:JJD=>jhxcRBzHc<zFbg>A;f]IKiKi[haXRTaSkJKiGcqWGca@cBHTKeHWJiRBsNCgFEsLPV>N?jCaD=>L>B_K_?>DV:dcoABi_CdiceoHV>oIdiSjoJoDoQdfReDcgLsgsDtc?jkfeNgC>igE>fz:_iwQJ@_d`h_e<Q`f<J]LwCOhNf]J<Fpe<FPer^ogkBMg]FGd]FKhkFqUGgrpLCgcKW?eKRViTQhgB<b:DD=iuKh_Lqa:t<Z=y>lNlKF:W_:@tMJ:UwO?VAS::aGF:>ExXOk:MmVdPpP?QtQ:;w;F:=DxXOk:SQ`:;gdJWZg=N=WjaNKqV;`;t[M:B^:@==xjmf<>Dd=fqODjCSG@ngYJQJ>ftNAhWNEcUhNWEejkffA_WOJpffQqQbAPyP^SAjQP=UIqhJOPkCJqWJ=XAjQn^RnfTePjPdnfDkMVEfAhrMnVxRC_Qqb]nYndnVckhermZ[Z[o=rld[v[omIp>?g[=ShM=Sjmfgqmm[m[vSMWEikFzrUd:jjmAbnXY_K`L[yb^dMYhX=@@jOnqG]=:?bZWSVRN`mf>_lOx^EnoRxqMmOk@g@R_@TUOp@fTY@gHlprrUpluVGnuUsS[LjRe]ZRx`S_x:t_B@tbS=tZ?]?btn?_Cl@R?pDcgYlq=]FVlrsR[jJS]TtpZxU=zhkXkCJyzix^xadm=_KlIYQeMpT_HHD>k;hYS;M;rX==rSqEV^y:Q`apSDJASHBt<Wyr[]F<curWczcsB]]<RuT=k?RzRzJwswfrq?wOs>k:wmfZ:;t[ZN:Y[M^o;rSrS[;T[^:ASYWY:aZzWZsc:rgn;jurK;Q[QKQlPHst<NZWHxIaI^INxMIRbBtrRhEo:n;BtQhrRw:UI=]eMXHTIk:uIwHkw?BiJ[M[HPHqMAubKZaDx_w=[jkrKFZp]gaP:L:OVOIj[V;TM]aU;N:IFgasKNiR[ojeaN;@BojclDix:SHtvtHrc?ResGHhHvIWH_H=H<VbIIHnIoZEHKPlQFNUIglvHiip^XiQHiWcArRP:UHzwMJEel]Ob`frsPeDqR<w?k?s<etu[UQ=RJj_=qDvbR>ObYnpanaZExjeI=iAP]<]?Ma@P^aMbEjbiZDEbgUH^MioMN[H<YjyD[TLTQa]EraS>mDeUDDO>PE?<qTO=W>aD=>sYh<HUBQQJXTRQyUM=]UUEu__QlUNQCUoQFQz>yZtTr<wP`U`EOU]PGUhEhUwhDQk^eQ=ETQrZbj:E>^nUEEEU?pVY>PUUB;ADGiXQAUbU:`S`rTfPC:fG[`p:>Aw<BL<fyPoYrP=_y]@eefRuXezQmgdGI;Bv@fNuKYzl?iguPdHOyv]rTquu_qCO]vQxEw`NONoleq>ruq=NLruvvXrJauP:PuFq`w;NurRqglPfDrKt<qYP;vZzUXlNmqj_Dqy^VlnJfJUK`q_lNtEsVVqSI`EtUtz_VyThz`@BbV_;Cg]yckjJzknXdvp;OlWaGkmgtuTKKcdBCceckddd`COB>[tcyYl?ncpd=CdvnCVFBz@h^C?qgSOfEN;eqGpqvqxg=kHabqRB[oSe=VD:mzIgqFukIr=I>WyjhzNtYvZtmIVw[lwwkj<wibJJJ@ZBWysVxzEJMVJ?oaBljgnI_WdW::=onLRc:GG`Npv?diV@>[asrJMzOgFp@kS^NOy^vVDA=Ks;pGx:V:fQCoqYUWG_Jv_>gZip]=Mg:sHo<Y[@rvJphRyFUWpA]_rnUsPqzZEM;qoIkDK^wYNFWbqqWuJVD:Zv;z<HqYnd:zXEWLW[rOBDzstqLsDW[=M[EYZW@QVWheEaJsekH]ag;D=f<R;uk=RKgYWe]nG^rtERluPqIU:W]:;ruF:<J<R:>i^J:ELlZ:;n`::=eT:;tlD;ny`aJPYWH=[Nn<c`iV[VAA;YAM[bpmszmCV`kIf]GlasXm=iHYArnMg?JZwPjdIlRZ>=TB_ZvZH:B[KJ=uBzsHXb[o@mrw?Bgk<=czpIvIwxV_sH^>Z:h=^>g:GX=Z@V[;=l:j>xAQBXE<]ZZZRc_:ZcTq<G<p<F:yzIR:K<B]WwtB`>GcGM_B=J[p:kFCaCZ>eAO<tZbJmb=YpjfRCp:MJiR<oIL<d<H[Q]YYe^?LEc:[VLR<BYBG;;E`YVOvUyb:>`n?GM[SHLS:sMZ:DVVVJzBNFc=g[HJAF=aGu;tZX^u;rc=oOu@x:VmtSK;psSUfOMuBQNMX<pEUdFqaSvVs:paM^:fqHusOJTa;GSh;NHUQVsKVjK>QgqBEohHXDGY>O=Jr;Rp=]i?@t^lJ;sIFK>;?>AaMKBemBja_I@Jh=qKs:gkPMG;A]nLKu:huD>E>H[LEtca?:X^nBLb^pTkq>CTx[DLZpqlTi>?D]hCLhsPP;eoGDCEXb[ImSsBBPX?EGbf>QK?QViXnETmZIl?fUZf<bECmiPp?vt?q_AKVp[`LmckR[kMfWS<ulOtigLeujYQdfq^fONOi@jJr`fqGvdoXP^>XZXm:H[K[RZbXGjEuMZ::<YV]^@x]GNvnGZ>:i:QpFW=C;J:mNX=TCfa>;kl=eyMXTIhUrB@CglNmUJ:RvnEcixxoWyMr^UpGKqwEN?:YZKq:K^]=L<szIc`AmhuxOK:QjWW:bpXf><w;Po@XfIo:AnwZNDReA:v=Rmt]V>jeXkDZ@N[B;bJ:p=nBPHy<C^>HbvMW]OlmUlVrVUxQ;c:nJub^QukVPlana=^Yop_SBX^][ksuCWsRoZuwSRnIRqtV@NyRSi@:LtPFp>G^IwOznCkKN`N>kU:Il[sn[tgloXUv>XAJ<Z[mJ=w<MiyIuSnwi:^M>:UXocvrhs;_pHzf`O=[@s=yOkewOE=e<^FiwlR_>RHGPvZ^JldjGuf:Kqsj:><uRr:>yDJ;B^<TDBwBa]FJcR^w<]xEw=lBJ_IWNTztJoRLBtv>^cCdBet^xo?@sNKKGBttdcbd>YGLD`G;KGMLcckw@TjBbKIN@t@ZgTDzBq?i^oB:>oUC@_ll@DB?txOU<KI;k[]p`?_wVP?IKLZLlNce^TXZKALcnrHsu]N_Xcc_K^LSTGgPPdcimcoa?sgMXPWcz`ZuD`st?BCZJKQguoqMb?H]G_hQ_<HHK;]zKqj:FMuGD_dpaemNsgWukA@ux[lORbrekDWv`p:yS:`Y<Aoc?[xzoMNcifvqUeW^QX_UMG[PBxtQNuZm:UDOiDs=adjDpuHhC@[qfkSbomTOGHa[@`mR?FQu<Z]d`vAuxylvBQp^^AxRO^LqjWYsGTIz<FKddxZ@?FfZXfbc?d_@UTjXbwdfMQoaodo?k@qaYc`FXorx:WG:BmRzdHT:@JP`zKd>GFUUUMBkIJ=uS<:[a@kBQOFnaSSXhaJZIS]Vlw:QFUaMnEoOwlh;sgkPNE:`>]nKRYFgPRaR?br=CSJ_V:?ciD<mkiRbBscYX<D::<VW_RgLbmDldwck@YAFGsC=<OxckBgsF:QlQ[d[VyaRNjaoE?bOw<:jF`VD`:ZMGwrkjrIR@rk=ZT=?BIYHTDmlXTI=[JuoC]?Iou^BkYssYSIeIoL?iZvd<_PTLfbb?Exqa<:zgA[>rT_MP[SBQY_NBIuQ^gVjgwjb;oKlw;_[BVnv=:Eud:<aac:Z]VjrJ?fw_;r:Hd[Yom>>VV[oAYBQvFD?=KCkcJQeA:@KUxNVCk:lYcbIWb>MF;cBN]MZBjtM=m<gkycW;qP>V;O[CzIHXoCa@U=][jJ`ZC=>@AhwuBBkn^HFFa?O=atWJyRX??@AhnHtWJWRUrDu@M[NR:n<iXRnqA<m=[d;<Q?r_HEb:aob@X^[O:YtKnwtWVscP;Dt[b=`:>g;qIzpt`ixalUeIO?JFURo=WwbZYYCqmRAWhX;GRpGbPBs@OovwJvTm:C>:Op:HlGZJJWHl>A^^ilD<XqVQ>j]i<vsvZzTEjMw>`lCSSVRiCQ@f^ZE<SkJ`i@r=<>m=TR_JZXD^Ac_H;k<?No:glHtTgLkZ>nH:dlEquHmND]n:K@Wl<BQV=KvrFLMki_`KM@PlnX<[BjHUDLFDpnT?_RLdAsNhCk[GtiMMo`F]=CNIPaeSG[tuD@DQB_?gSHg`RwpCBWKmYkQtvggCKDEMl?ENw_mOjCwc[Pj]qOc;MY<uhRDJno]C[LJ]K`H`ZdH]_M:EDJhQbZCPgQa]HPUsCDTkdL`iOvK_jLpd`Bp=JKVofc`ZFfrmaewjKlNy^?OIx>TmwslRH^B@DMd@wTdVLjZAym^:F;IlsRXTiI_:>C<SSGcJpDzD=RhLZ?cUWZRl<fdG^ndrjGgM:e@_u_mgaDSXdO;B[[JiBAR:uFXbN:OKz:VcJj:`?i:fDuBvHPsIojQZPKzoUcMT>:[K^?^=`=;BdKFNU<MOCawmkMAYqEd=RmH`FPHUHD@eimet=v@iXZ:]edE?FV:AqSTZXORLIu[sbaFYne:UEsVJc<sKXBYAaGsVkVRdjyEJsAp=t`zRDC=<elzD[kW:s:Xzq;OL;GtQHEL]LN[PZ[cOq>uH[QEXOc=Oy]:`xg]@CPaWPcgvRZNWIJ:bMmRSofeQAmXbUdfd_B^[KlH:KvWj`^BGCY:As_zW;C<<RLP^M_bJpKO?jWCU]FXtjV<KH<OvgBjON_]oDSB[KK^mNQwD]T``RAhdINNF]BXq]`_Ucct>TC_XkEOaZRhFNa?n?=_u_NtF]P?:lTuJGmWDH`e_wB:E[XLesedvD^I?Tcib`fNp?yD=THLJCPegNa[EAasLb@Cuce=KD[XQEY`PEoLNPgNHnZ<e;_emOWBV`ymICJUrDQ;^f_M<xefuHebjBBKsRzY?@GL]l^aLD:;qAOBht?h;lzNugX<hf?[gy`^RyG[oe@PGpK`QRcJLZa;bhNqOAD`w>HEAN^^Edsx@qYfkb?EgmgZ>;n;:EUfzg>Bs>?AFaBM_Hk=o:TSVLwAn>c;WlystQBGJtnNf<CmVwZ=QZN[z;J:NRF:>X@m^=EMJuXR<PKqEa`mca;=GtPXhzNKNp]]HLxKF@jOk;Up?zLtNW[;=GZN:uZRx<V=dQ;JT`vF;<El:YCsfkOEmlxJbCdNB<rpu:=xMT=:;JUTVf@KgHjBzt:VC:WQBd[CrI>YwZtjrYxMXFKlr^=yeAUAF[hU<cUM_taM=JgDPNRM:G]NX?XAIeO;F:GIskl^YGJ;ZfXGrsky`v^NrYoKG`RHR@[c_rr;gGks@MPXpTZAp:aaaoxhdd]:QhmtwVz<XKgyPdnXawNB?VRkCO=FeCjs@]W;n@U`e@CijC]JkfrZJ^c<ZeljgDc_=bfsZ_ecpWDjLLmfSCB]c;<F?zQ]DZ`_]nOLCI`NufEaw]pLRchiS@fE?Z`P_PTiBeuM@K_[DpUwqFbg]TD=eb_UTiFJl>oXfefAiOi?cCMLtje[lLMp`cyL?KU]ub_LrNeTNGKz]aGRno]bST^aLThX<ajC[df:_fVKd?LLh@Cx<:R]AGNAJWZU<F:>R:qJ_:W[asp:GiSRFmArl^;@L><JqhLpa>hp<pH<IZ<fa>m=nNssa:o<g@`l`wc:gmakDirHrN`FV[^TvOB?irrT@<^qwZ@QpQS:CrhJaK_ZK=C:zUrh;Z;q:=e;oNtJW`q]ALf][qm=o:WqiB:xdmJL:my?HCAKxhKrYUtZWVIvW^hM]:uHkgj;>MrAlrZvv:xCBbK@GCokuGkVHgj[nj`sxlTWDHiB@^eJ:RvaWHH^g?`IibVufhzHuAXMh[qNvsWeVCQJd>`qYTSWVifAJ:<gRJZl>[@ni][=ZOW[HeQLk::;LSian=w<GrLta:RertSUceZqvXWpqnvRej?PgK@WBZMAYc>[qYTYcMHp@DuoDatEll>XaYcHCqAhBrJXT[SGHkA`DwrJ:T;iHZ@TEO`s;PJ:lH_<^JGtacN:AXhbcx:J[wxuP:v>Qe:]`u<OVcD:HbFtR:BZ>_F@UEAK^kB:<cL:W:?@Cg:c:lZQ>RrL=LLLnloewm[iA:<Ao>FdxkRAW;[hh=mWb<Y::Nau?nvXZpLXkD_ZvASlVJNkcHgs;k:J:J:H:mZYMLrJ:Jx[MGr:=Z:R@joW[UxjRHtQKAA=vx@BMXwjLD@IAYu;wtXsfalgwmA>_ZGKOYV`qhEoKkBQwbJETAB[xFy:];qVg[::OcJFBLJ:XNIF_fNsR;aNL;US?>ZundBzJauIfGa[xxe;oH@Ca^]:GuTqZkkUsFA>EcARiN]k<XAU>WMAch:dsUZDlFgZ>AAwN<h<:t@V[XJIB>[_L<t<L;QJm=NFBN??;]ZcA:ROXRWjl=m[xv<cyZPJl=A_HpK?=xNT:yymEa`<[Bt>?zjLOh;iRL=AYTSOG:NZnKXyu_MyMJRIAGu?NlQ?r?sAZ;xZP=SeGZmfNsGl:;]_w:ZAkR>HNZ=:t><>eW?h<IKbcYknNa]eaQOJ?=cBCJkp>nEK@^VTk;:oUaLGmAv=t;u@;aPRCk@BaW;rL;QcRHyAa=]HOZpkARImRH:Q;oBvkUvsrLdN`vTcwOmYOCnTOC>qTdaQTP=EPllWAcmrdeDfORCZaI^?l[smYTDcsaNJ:`Ao:Z;P>XmgFLfb:^c@[B@>D[Mr=Cog:DWfkO^<uGDMe@K=J_NLBVYS=AAM^vsVZ?]Ftrg[nDOlqm:t=iH<uGWkifQRJNiH>@Mwj_RQ<McXHTun^LLxso<UJ]XKj^sCjst<YibJb[=h_GuCzZ?oBbcCVH`^QTmHu:bNMCyEsY<T?rRahWR]Z_nkEJZHRFMui_sl<TXIUFfuDCe_zgRwmoakMdCcm[B@s_s;XCECdz;ZRHHZbTRPCv_tU=Q>U]Tw>_ZNxVYJ]]KUBEa=_uDTtGkushJ<NB;rdkKumMRIdVq<uNypADLMjl]R>BAHdhDrJNTLX=HQN<s=FMdCyTShNP_KchMEk@GD?Qt:qkc:`c=_A?P]eCRANB=>M^R<KrffJ<;i[bXc?beTnF:fd]R?rfXLxvyxZyqk<IfAoMuxi]yaYYRAbr=;?xmyoRACns;laWMPZhZ=cFGFsBsBxd_otRAGGKZ:=pdZ;ATUdIdTjDMdpuYzAa=dTHJAdfonuUxG^::nBocFvG[=GjTknvOMvRvfZ=auQWwkTFx_O^IWbhMw[vjT`<MH?KVncywYU:bq;tbS:kRUFrIhMFAboe;SpYX>FtFablMdiqVwvdSCjTLny[nJTUAEFPlDnEkTguqUXr[gqR^SbgFqTjFeaMM^dbi;;[jKWb:>oGQglm>xIXbYMGgYos@U<ps;lnEkPWNhQxozEVo:<?f?dAL;dufP@Xk]A`QPKOvVxhXkjMr>Uq:AX^CSAIMQdTEpuTE`di]mrfeR:@mxpKjzL:SI>s`qEb[_f^NJr`MAT^M;zkyi_<FVAP^BKbZy>Uvt?@o^;[^BoRUeRpp`pnNjxYXe:Gw:S^<liRvFWv;E@[kDlhRmD>qI?cDOA[aczoXf_R<;kxDt:OxmF=Ib]^bZKFz`<rHbaWn@ShJ?aW@:tbMnqiwwoZ;Qp?b^MxCl>owR=qzD_WU`tLuyUpFObLMrtuwp?WGF`N:EGd`gy`UUH;cHn_?iFyuUZjxb>Em?_Vu[YJiabCnLp@MDHUJjen@q_OxEPmcZhEM]fg?y<kHTJh=aNEiwKelHYzKk:tLysI^B^aqC:JVCjLqc;ABwlXSu?iwWy>ECiptQRWgs@yD?ePgJ>s`_PmS`vGe>c:bm<q^vbkisCCTUZDPm@g>d^JbQw<yn;GV>hmpmeohaGQOLdDGQaE`?HIOKTwqerZxxC??TpQwrddGTh<EPmmOcPWPqBihkcxpORfSSKEU?t_ylVMmwa;fmXcqoGRLo<aMUpKNTaURBj<`SCth^pmKNhjNn^?OFeTl@pucnOGChhXKI`j`EN<t[cHa:GaX`HLN?eE^emQDMAelt?M];WTkdRlEDNjBep=TqeXPjebALRyrD`gOdRbNg:zZ>e=eXvp=s=D?U`RZTQkI`KEBiBuhpyKGEuaTQWUvRyOA[ABgzMKdJYUPmUU=?xei`BmfvKeK@a_<GUINfPoIQneWEhEZuaTnURxj@rGUcugRofV@byx[dJWeG]ATxipQbswuyPnvStP^]>vLsM?LO[PgV^?SrcQ;WbpTOOwCSNgj?BQY?`rlVSXuwFEyIy[usU_^o>N>t<V]Grx:_Vdo@V<TN`ZuvccQsNrS?:s<OSxYGPPVeMolbPy__QPLyRcIHAyy>LkY]h=D^uJnSaueqOgURPqmES_sd:BiRaBoZokgwDB=Ji?:d_?ucBHNGk>nb[Wo:Zb;NE?=fhS_`EQYPuBRVQb:KvvY:MaSnF=akeiV`xvBK?Acqpq[czMBmuScwSz:<:GZGZAYX:Vi`[oI:BqTM_bnZL]Of<;nJeZQtqPI`=`hnN:vfaXTmt`DdnTaCVosHbEr:A:J^>q^l<iZWV=XT<fsjInUUbN`HlJIY_GgXXMUAYDqlz__uzt?LNW[USOgLd=:DQ>Nnr<IhmkVV;xcyuf<=fIo;WKx^M`JwrgoHH:><k_mkD>V@rKATOu[RVIi?pG<]<^rXXE]?<D[?JD^iBK=NBAV=;MJ_LHpUSR=DaCA[koN?RxL[eHGAfCoz>Bw>siHt;XwzLIjS:<Ar=[A^z:MRxc^XIvAj^ZWV:jvU>ETsW^iNtAR>>mndpIyH[XPezkL=hpNZeinjCCqmI?;Pg?JPcElIiQ^RSSzNvcHhZDSARCZ]kMRIg?CklAaYHF<sGtdL;F?tJ^kUTO>SH=HbdVEkQY:<>_DZ[MVV[Xr:KMv=]b[kuBM_ycWKHiZDprr>=cO:TU]Wy^cCqLcWZyVJbRMrSlYrXnJWhtepbSqRuH>UmYGkVw`Y]gc_l:U[eRXsRf=;^I=Q[vknsWwEX]z=rc:BlTskh;AuwP?zDmEXlH]oB>vnVtlwli=HjEG;?Op_qhWq[VIaghSG`vhBfijFCrfKPnumOgd?`UsU?Pruu=koPpUja[_p_JRf;h:g^?^ehfL^kuo<]<QJcql=piV_qEQCNckUX^T=PsgzCv]abb^V^O_h<UItRasw?ChTf>prIFCOMYkioropZj;al<Iqogq_`yTaQj<I?pj@V>LjWoW_gx?`f[U;LweV<wMcLqmdBRrTnEXvO`^XpShzhOu:=jhMrUgWwTTAWGj[rnUEhZIiuv@bqqjQIERgNbYEATqEd^pGWNbkrPSroyossPVsG?``qwyIZr;TQYrO?qDv?wcg<atW<=q@yMOrQ]rrTLq@H:XgdksUGGATJ?v?o:m;h>riKvfSFU_@QUBMX>HAp`Vo[qjqafDtVtcVpg<zqzhAw:CLwhcYCfZ:SmfypxPXQYrI`f=lrEzGzgVHJXrnn@IzKyQXgU<sMDtUWfiJHvLAD;irdao]LZHIW=Ag;i:tSuJOgWFIZvbfbeW=DsXo=RS=:rMIzF>YlHX`tW:W]Je>FyHobARX;K=NJQCx_?W<KBRdciXiIWbV^zDNcHp]ukK@[rDdo`Xo>PkzN=MckPRDg?q<A;vMlGwFsn^WHr;YMv;RFtuW>YY;[<g:HFyLXMHJ[?<qSoNwiWoBc[qMwVWXtJJ;l>[XvgWxrELA<:F[JsOiQ_CnVRc<tytgkrouU_p<StPJ[RJoHGLWZO[FF;WkCuHo=[ytd?b:pK@@>>;K[>wqMmjEa>DXttb@;XPdzrXYSGIPkoB=gIHYUHRIOn`WsXGiVntvbQaltmjmOMh:v[=kqhke:yWj<I[QkbsQwB;W;Tkhmp]pypO;VvTq?NBn[M?ipp_ZlWHBi?mWoLrbV_Qc_xETEdpVSXCZ=paOoxTlVRiIiV]b@gOcGP`Ui<AEmfPcjyiYFuhJG[fPmHF_JqM?eI?`vOtsdifsPSciaw^R@pcqb?@G_UL@eO>srkpNqZanfLCjyEdQXPpun?FsWlLtvJrtOs`DnNCYs`MhQGRuH`v_;WWHNhoQ`CEQ@iIPshtHeES<orXD`NhqpwJG`jgf_vZUVWUqnTbp^kkEw[xykyxgYYl^ZApifxyRXXq:Y_olXgrAibHmkEGTSoqxC`ufM>ouohx?hBzMZmwoZFchHbSveINXp^NgqqbYqQd:X?VIhephPPbjLNYEu=TXyb_nzMgY_FrAtL::;JM=g@UwiNlJn^KLtpxymAsXBm<:mFp@PSZgnPSFScWQ@M^ElbiRWuOFns=MBLmNsmSsPA:??[]lDzzFhFdE<`_S_?vaScc?sXnG?=VnXSVUkPXqwcxsE?SlWxGkmZTQ?wINubZWvbSftEH[vTs>XwPvAi`iCvd;p=xITfXUXTrcFSPDUCAuGjOva?yWaqwA@H=mY^of;oKBVhXmXRzmuntYDzokeKrjapEkXsCkKn<b;YuHUdAz<`mstX>_[wyg@HpnMrQrE:AzVNwtnlIJvokqNHuHHUezfM:RlvIfynN@tVxRnlk;Uanjgt>ALnzqtgwaYi[q;yJwIIoy@YpD>k_YqIvFzx[ttDb^iOSzswAjUITwoB=VxClcWAI]^ksSE`KQAnp:dwcVIHuny=i:tfbnzaiuCQrmzybTbCrxu=XIje;nUUyJEfwHn:ZsuhLB<fyvCHzvf>sZykAgBBVXRAd_u_kyMhPSCilAZvtRDlw=ZdcDIZZJcWH;gAKvrs=AhFuNDs^c>tQH]ngJE;TdobfnFDoQ^hSZiU>hhmJiaS^fckyXiZglSXtp^`smDpr@QmbXuEeOstTtQZB@mDiEhOvsiYQdB=YPCecptzPRI<puNiH]]=UoNhEdmEaLl]g^nJqrGASEWH?]gLuxTschmu>wYecsdRgn]g@eNwor[see]VraDsEX>f_htlevI;Ot@]gN]TDUXYPdTCeihcZ_ddLj@>Dl=VsfCDmmgwfFeleg@fBZ]egPfBZ[ug[f<Tlagaf_uC;VWrBunuizG[uDluCfboLjX<ucY;HqzhZ_u;qRIjXszy_IhusKibre:Adg:UbUTgHUw]vs[itTa@uHiIf]MsG;ssdUu`RZsjbUdkWj]Z>`q^j^a<mmqUevsOwXU[vuVXQjh?cvqPgaPsOidq]sT[ymoHAuEq_YZqtBkqoFqth;mYGzup;xU>ysO@:jZY^ji:^h:cii;JMytCHxyC:@dH`JK=Jk;D<D;sUewYfvv?DnYjoMkmKDAyed<Jv`:UfkHk]NCcJmXZzsLXOw_iKPcev?quUgkQEin^y:sBq<AglvAc<A>KZ@jvmXPViZ;DXNziCsAyykIIviP]zZwc@XswbsKs:ez`ICmX@:IKlUynJfju`yVH=]ApFIKgJuxyx`]bE_H`=gYvYggM=:n?FqA=zURsUkRKk[kLBXjc<_LJYlmk[_nG?m]VgQBh=B@`A?<AUgBQ:Cm[HocPCn<[obGo;N_wb<k:DVW>=`mb>E:@pnTVbQ=<^uV:D=pkXkak;de=VOb<GmU:RrDT?J:tcNtnP[fb;v:V:HkGtkXkR:=g;Z@<cJWkL[@z[?n`VB:@e@m[LBRsBpVPMD_;p:;cMZ=tVi=BOn:@[:BNm`VuJG@?pVpQD@@TFkZAmtmVXkFpmE_KcSdka[ji@`m<TfcWGn;m:rIs?q[HkBuA`[cROP?JFUb:J;y[bBN<^Q<OJ[tB`JZQ_D;LHDZ:t[HJbkit:IJuCi?vzHZB_ZcB;jkDZes;u<]KuxHCUhKDR;<sWZ@^HzZdV?pkIa@Je[<nAh;u_;UAfJcgeRBfJ>peLpI?t^]LQ_DcB><Hj]TSXmB`kARioGIXArVDe^CEQPZZSyABiD??OvYVsZWcAzVKE]ce<>OPbB@TDfQ^wl@LAQjTfoifP`SBxXG_f=UgiXZSmtBq[ZT^RXLJqbDEa;ZfiGesqQ]eLk[Lj]chuleoK>sA<;J?;MS?:Dq`];fT?c^>evXMGe`BTincXp[@No@DF[f>>m?NCc>[J@`KAXHK=Med;trZERa>JhZxuLqHj?J@fVBhhfmGeeX^G[wKDRCqu`coD;<^eKJ@HPZ:RmDG<^:Rtlg?;YNxDDQRko^``ZDSDCTB;]ccOD@n<ocs?=^[FcQTePBGLO:Q_>HwtkMxstZHkTuZHqGoit?YXX[=qEO;E=ftA;iQK]=[n:Ku<X^has?`Ms^PDob@]YLxI[^uFyPI^nugyRR`S?uKq_OL]lK<IdqUJRg@;S^kRvT>?KBRjT<?@]RBuHKZsRXIdAmQL[IatA>yeujmdxDcHAcDwe@pA?@BypIg^tCKeI`xBFyHo[=BzcaNK?>N:P_MS>ZR^NROSELKNNH=GcCNQ@[`KbTGq]OKFWgKZUwGNLk:NRgY_i=OgpNPK]vKxD>yud>h@IK^UK;:Fl^H:U@;lZ@PjRIFR<Rl`cmKAKsaEI[YygaC^vVyHIhMUCe<fcV?<yNC>S[acTF[EsqRoX?^D<:^aFt]iRwjcMENmHj]fs[Rkk@wLTy]jb?]uyu:IMBSTMFgF;SRkk=`ZPyeY?bUPy>gfo?NX=j[MAp;XzeF@SiX@fTL;Kq;CQDE]JsE;e:ucmfu]re;UgISGwcxgNf^qRoBAuCPkY`JUOiLkNf:f;xUiUEf;rNCgAfqMkWAvGRtm^lfY;KJ[DSkcYZ:v;o:]VGffe:r::e;AujpEjJ[sgBM`JkkK@^o^hRdu?p[QLQmEZBfRp:HhZu:E`iwedyTz<W[gJi:Bv<QRvD^W[=ZWq;jkKRCHFfZyVtkZv::sXsaot:J;u???ZsUmar<sFCHByEEBEsfM]`NYAbLAJ<tYgwdnLDY]ycQin`Z?kd@cbiU;hy:V[rs`mQY]vC_ThYjrvaKWVcItYVOCD]@N[gBS]AUyfxgjD^yYVf]>uX<zfZT>[mzgg;_[ok^r?hlkRRgCR[BkYL@ny[z[XC<Zrx<k;byd^gX?vHysZ:lKsDVYp[almmCA[D[]>`n<EJ[l:DKtsFvdIA?sdX>]?iZWX:rZ_snX?_lWsIXCZ:V:^>EY@=s=wQOmWqv[_]fRs^ybXsXiCJKj]Ymzz^ku:;wFg:?lHSkWyvQsqsL_uYio<Pz[r;@MZZdk;@ui;uB;<YZKt=HX<[ZfzBu:Ti>NXlW^Z@>XX:Q:a>;ysV;UHXTwXJ?b[qp[XAzsh:K?cF;oBfhlNueV<C@I[:_gyAH;yQ[k`B>AsWkAs>npe`fTeL_eB>:Kr;?xRZKIpa;?GX>>KLvF]vQ^LuWXw>S=UZgL>PRegiTI:ptDiuqd[?cgq>QmuRqNrjtE<iK>WGdq;y`CDvb:mr]xS]CG>W]:UXGG`hvuCslE>fSerZJWuy;K?^_LjTYGaCAd;ZhbAdLKpfhPelXLpIC>qix:Lxvqif_SmdEeIfgutywehj>;@qzr^M>TPLLVvU_:Yj:UUdCJ<UamHqMf^_`ywM^ZNav;sNO_b`;kIbfTiq?LP?AlqSJUN?yqA_M:b[gFaFN@OCMLVNbSCYuf:cGCqU?Na[igoY>aEezNeo>DlBF[oASqtFLavqyGAhM??ChFRP=iymgdvu?iIj`J>f[MhEF?Mq`UaE@E;N:<UELlDx[g?fq<p;jTmlqx]f>`D[n_YRd<cMZe;mkbxgc<YqGy:YRDZOz]Cuk[z=dwAMyqYdH;boV:ELMjytVJQEIoF^assbqwHiYUrCsMcD>DJGx_D:UT]cBzRH@>N<zRGJBZEZCJdinjIMTuNJ@bBBkXDOVs@ZNA`:<_dTwWz?HXKsQm<sJ<je<bV:scVe@nm[:@YSYT=fBh:BVxudZuplYYdwefgQgWcfOlbUjb?py=VTKBkVQ@jm?GyImSI@j]FAD:tnirq;:tJHb^Ac<Rs;u:Zv]ljiEz>nsT?@Ae]dYDVtdplfaiJvZdOwgHt<TegXHt?y;J:x?ZHeeS:vJH`eYjlTdVJEIRiCL=^<^ud]Z@[McHHvaweSleJ^:CAiSePJsPKTVZR=bi:zdXsKH?u<gveH?>_XDFHboOoaGCv=jg@ZCW:fzBJCXl`:_dCB^csDodjV?VtLHwDU;v@Hrl_cvik<TOsvkCdkQ_ae<i^^P_@HccA;sTZC^jFuvH?^jP`CdFM^V?yHVc:>t`dTwXsvCJe^ZHaGdP^]vUyHUTY]aOdOnjq_rioM^H_Z;rLakBQ;=R[:>Y@MTTFfr;PMfHmyPSMCcSmZf>>Dv_D]Edw`<Z]iDB=xZyZ<f@vo]DNV>_LQkRitIyFyD<aZDPVL<?pZmBLQ@k[NcEs:h<yk;oMc:Vg<D;k:M_<J;qJo@Jf;Ai]cN@Ac[Zb<]=Y<?qZk:iR?qgc:A@cDLybBdSaZR:PP:ZHnZdZB:<Bnu:V^<CcFZt@LZ<NSiPGuBZm@<QH?B;?DXYtOdzE:[v`HmAePSjahMd[s@<MMf[uhHjkOZ>[ZX<JU:>CYaai@_CyY<J_sCK<^i_>;isOFuNC<uPJ?cCfU`Hafden_Z@sF@ncj@^i[sPHbodNDjgtjRMc?LaaSv@<@b^iFVgCv;JdVQ?n:[IkV;f=ytBLStHSowV<>s[IJjrAs[ZwTgd>[Rk]juMmRwXjvc[pBTds:dIViI?TXU<ISuqoDwMq_iXlzaVDXXv[htvIH]ZDwtx[mkKW=;XQna?uzH>QhH?oCJEaERZiM<WEUgD>E^<EgCSB:`eV;]E_B`wC^PRB_j[O;>B>fXR]SxlueGQ_;@@exQa[>m;SE[Te:qo>WLuFiDZPSCe><>O=TTCEehcau;Zrbpc>wP>MDE^XzEftDD]S]KGcPCwre?C_KVqcsAu]IPUDtwyKl?UMpBaK=gCX;nG`o]ioJ_SZ:J_KTcAK@i[NaAKmKSfebMlocLYPddoOLecnkTEFU=tt]c@Z[fe:KRiAMhNqJWF>`D:NQNbcRQ_UY[tJZIgILhCBI`HfMguHUvRO;J^ZA;uPQJT^_>;OZ;gc:gztZWRIo_FAu[NtD:Bv=rLl>;=>;k]i=dmky@mdLawZ>FTTlw:cZ@n<RJGa]KlVVTLPV=Lsmibk;yZ_d<@:<tH>cUTp:Htd[=[:QXAk;z:^VCT:V:iSfXKpZV?jE>zkerEE`^>WHQ::otXZ_UaS@lDYp;W:i:iMbQkaW:p>>y=f_Msh;fNQhtqtgJhInDlQJLamtZxuHDbplok:d:bZL::Z<SyLajjLRL^BWrtWi>TPm?KdvaecTs<kMClfser@fckRVhsfbsqdgSZd;dlKAHSeAoAs]QsjoPae>meTAzAubttcMD;E`tD=h^Z;tHlFjKfgxXUgJV:cQCIApt:q@yDmTEd;?KGNiT:J=PTlXUSdOt;sLVD>eGRWKDQ:>AB?dUP?PUfkqCTrAJ@itjw??fpS@Z@k?VCNe^k`NKR_g]RWSj<KefWSx]RdCxSAp`BbESNZN=m^SH_Z=STDUQ^;>eCV>Pc>Fi]>VmvBKmqJGsswX]WueL]KZUmtUSC]KR?vS[>K@fXDoTgW_ogdqTpa`BVfjxAHCeqhzboqA]QhveiA`CJ;K:jAHstVqPfguE;JKTcTuQX@JWWuOL`Ta>`lo>LYOJzS`L^>`S;VLQEU[iELY^_iqeLRFbWLdJUo_pC>WbNbtCBNK=uSCcldkPyi]<WxsWCI_NF_xCz_LNbxC_ufkOlqv;KG>tZ;:@yM_JyNXZ=hPj`B`@=_Nc>X;z:zB@WKiZH>]Z^r_s?IhAsynocvbGKniO@thKTR>cQZNQNLxDJP<NMMtCKH[QcQYL?:BROoBl[QO>hiNthAK@?m[UFaflpaM^[q?xDF<]lVDuWltfdlFYnD_lQiMRMGeoRiV:HkQZC=CK:ys^Us?qxFTasCZOFYFb=;=zag_ksVwRw_TXVwJ^=DsWRHNNAipKTzn]XGuT<:BVMKJL_Vd?xjD_cSMmL]b`Z^R=bsnlfR>oPXkX[_Au`@jKOk;U<AmWoQZk^aU<>>SgNAoO:d?DKZPUgGDLgNwkATMnAXyYFLw@vqzj_E?q@BgJV_E;reKE?ZkdmTIkvJxNXvaPmbiUgOTmFZdZQcdCK`]_E?>lN<`EdsuToCK:QmT_JjdYmQQSj?E:?zeHNruSz^p?vqa?bMm>wX]>WlGBPG[nl;c:DJkdLx<jKtS_gKW:KRDkC<a[H=mM<bh?blWS`w:yCQ<_EiIlXRvI?uKiU_[u^yf]as`oDSiJAq?iSSbo`gAZ^=[?V_:YULcy_I]P[HnCX@;PSzVD<<s<ACXK:VdrCVYTF`tx]CRg`KnaL_asKXRDN<ZJc=LbgSOnbCnXRMDLm_k[Sbim`x<QDQc:wdC@hA_<dTY]?n<d??FT`n]zDTm>bigpGD_dtgeR;_DduVN`=DdhVi:sid@eQ:vTdQeJZO<>XeUQ_@dU<>TbPPCeMQua`gXRr?UwCRBgQPdiACoOQqfsiFQ:`AlXuNGlbdXe`:`veY:ty`x>Nh<;`fzh^]eZU<B@`NeGdWZtK`xV`XvTSFKUJsdd==ea>pFl@YAfZyV[V:aVH;kUktkmlkS:aKqeLTq__;CaNDNOdgdLNvmHuaPjADH_uWRsuSmTWV>BCnTOl<=`VnelvPS[^dqaFZrTPiO<`YTMHPXHouJiPb;CW?iakCLaRHaE`;uLZ_ZXaaXpLtHd;@FJW>U@L>O<`mZ?l`BXuZ`ITuauA]uJ<SFJBossXEMcb=u:Q@PhK;ok@Yw[><YRi;OrkwsUC`WHT:PKsR;K<QoAmSGjcdaV<>n]daFXFn`J`odJdUJaDlgtQPN<_SFLyQD`cB:f;_`<cGaKnHjA@g:Y``M]EAY`vtfyOu<PAc:<PMc:<=Dc:;NVhRD::Mve::YY@::NAD::<aa::FIy@<Z:EHCZ::qaZ:FblZ:DTD<VE`Rv`??Rwb_`cBEKO?HjA<DQD?_KPll>Ct?Je=?F;aKn]lFWZhJm=tTdPj@GmAaQ?`XSbVUL?gqVPOzf>ZmPTdOYCTPLv^[l@wONUiXqPYttjH>YcOa[XInbwvz<SPOOboC?;NhnOSnr^X?F;Mq`sZjTjGh;EkiBGGjbbSGpddsdOX;Yj_vtw_ZY_?TQrHLBQtF]WB@_iGyYB?DC=yWGaeCnyYG_TCUyOc_L;H]LGaB?Br^mt^XdZKGsiDJ;SX_Z?GZLK@@Ngqd:NNKSqVYb;D^]OSKEapqSRLrShhIWagK^qJ_?PgfqTC@SDvqRJP<qQqYx`rXO:Jj`KCp;QhtDsFe<=bZT?fHn>JtrFM=`ENVHJkO:yQ;NBvBtsU=gfGC^pNBN=CptV??tger>o?HtZ[SF`utOmKv`M]zFKFMpt>CIKml@oMdQb<t`gOTZytIYavDO`sNIQ`;tBXMolCDxXVl]CtSsj;mStPn_b_StFeQbv;m>vZeOdt_b;mBBV[SXdd@SJyNEbPFKNEdcisAXU<AC`wH[FPCJZyN;Bz]xahQ?;d?SXv?q`FSV;;GJAad[`IJEoHx:ddvbjotMtsgBvM]pWJF;as>oyQKDrO^<W?Q>tNOX:MFCecDj`gCNCik?I[EPSp_>>VmIk?SOrsW:Q?OzPR;?zVJqPZJGX`OXTcpT`ejY`MSG?=Gbkw=OXc`w]]qM=RYtrPipPiCIyQRe@CaqMpQUSPGdRAaCc;VK>yDBpK:PgwN;KUQMOW>JmcWOHrcnRiNQ]XEnWBj]MnStO:LS_c>?qm?WuFShT`JQ_?`PSTurX<_V`CGeCH]qcl]=gA@Ba_<R[@Jbey>[rPLagR?:=Y:>_j;crOgLLtAo?nJRBQHiCtLBQ=eTHPAUMpdLMBOhogsWQJ^C=iPFat;ENWRQEt>kWV`kOAUi@NE]LsbaB]yT:;iEHmfXfXeQ<eTNqQDFz?aA`bw]HEMPYoMdKlc_p^dPMOR:vGLuOtt[i?l=l_jYGX]zN_VB:=BVc:;uHeem::t:TDs?DQnQTTm>DnQty^GWMQqs:BLQCno`MA<A`mvBAw^[JIPFrZR:MJjilzew>=:d:Gs`=b<PkVDHU:p>b?gL=>_SfCZ=RGB=C=;<_YsBBlZ:A^AD?N_Yb<LJUua:Dr=@:Bc;R=E:HLFsNL:m>e[BDRU>InDzN@ZDbke]yk;rN]VZH;:D;:Sy[YejpjeN@NjljGVddqTEGMQ`?`Qm`;BjlKz[Ld<pdeS@P]pKJ@ykXTVhLYsMtYacfNyOZE]hMppVQb?NlC<OPjbbpusf@=La@R_p_BiItE`vtT;;:IOB:kMYWSs]?hLB`Y[BZROd];tyTpP>ofhQBam;tEdvPMSGe^vQpOVqJAQgonONhbdGbyWB>tpzP`pO@C:;SGvxO;>UGvsqhZNWbq;t>NUK?OBLf:QET<f_UBX;M>QbNHo;WRWsSLCWT<=s??rdQO>?pWS>appF_J_bYSd;J=bFCsxSUmMp:GRkPpCJ^]kPm?@LVgbOCanNxNiqI;Sh>p;aTYkPBtauQIPvG[LUpBV?[nSxNfpKJR:bWCw[UdQq?e[XcOBy=uDsPu?y[X_;X?YB=sQvG@xXROUpWm;F_itrwHmOuO`Ifp@LGInOcOi?znSsN;?r[VcPa?`P<MAliQ^QORW;^Tj:pisGR<EtgVTl>Z:BV:iarPd?bWKqfcSOGVLpGkG@NZ=Yl`EL_PWsuKMy]S?`mNKPZpGmX=OTmZ>?l_uFo^emOQH=:GY;asBfQDOflFF`yE=tkiPYMsSolRh;cdBlLE@`@dO?LJc`Le@]Q[ZCg[?^ZVggBBo_`I:@r=R`CTNePsJjCNL`]ZCfPKDL_EU:k<@lV_A[;z:Qg?:<JZYkEv;]JuTELNkhx[OmPZZICRmOw`^xSJ<PhDgIuoK?sdN@qL`eSHoO[hbHWDrPSpiJ[<[cSxZj=BJdMgcB::o[I;O<sNA[<?JFcJSQV:AVBU[`in@;R;@m=`C<PFe;k:<m`Zd:<fQ_:SUju=JJ]SFc;thmx@D^xZvUQs<PKEUPqoWhmeAh:epSR>Ho;yQJ??<WJme?qrthjUJd:nhBVBHr_GfUOHoV:mvRaMDZ;ZBiKcZay]qrdho>?D=gZ]cAZ;vVLUQ]OL`I:Dz?P:>UVDP@JcdRL_L`UKT@q@JxvN`:rZX`M@r;hwUXYRtFsUTDomhNYhVbbZM@c;EspExRMNFplGYlfJWjxcaQzqmSQDpFptvBLr[tk>^QUse?XL[pcGc>iaObmneOaOkpNb;u_ud]kQMQdSOZ:Zo^tT=`TPjDkhJQ?ldx^K;oRW?aZJtOyCdUTP?lS>iynK?W<ERtO?>hMn:sFn@bYQLFm^=DPMtE@`BtJSM_=co>ecD]v^ThmxAs^iTIF?jMJSDX:v<::sACLsubXm<mWV:AS:DWE@hzJeWifTsogTabQS=TWZ:FEDybPCpDWD=Q?:wk_iAx:IHsbPa>h`qkPqOvGA=jDtW`s<UqN?dzSVPbRCdTSBtLhstXVMU`p<WSbM`vNEPN<WTuNXPndiLYfRhdCTWSQf`ATWP`=`KxbiOCWl?L`rp`TQKi`YidtMy`V<tQRP`Q`exTZab[IES>tn`qW_yqZ:;`OsC@OJc<SNWZaniSPq<``SHQPSCn`;kJVv`Y?p<`nzhtvR:ZPgJD:hjkF<o;W<LVGp<`RKQdNWWvCIlpwZhv`?supxrbfQ[TGPQsr@pU@D>oSOthSooZ[phSGPqp?hSxlw:N>:_:bcWhW;CIWvWEZ]jW=:EK[QFvyXNq[peqJRAOGYyWpN;egWTR_=OMMTDv=O?EDGOdp?>Qg=jWCuEw;pcb^aC:pZa:>^qsBDIPKbs<uIWxr[:HIPgKsxGRBcqs:LJ>MpcxdIPT=_x;IQk<NxCISU<baLJ>DroxGu?MpCDLJ<k[gxeIRnooxH:Hq>HkuqD:BKR=T?aBiZ>P<KSmZ>CFwSK:e>eTmRxVc;xqrPd;CbdnBMvhUKEJnWTbdnBV^PxsuVOdc;Un:wf@I`M@wf=dTx@wf>Pbl:?XjDkzu`jRZ]ax<e<D=ax_lgvpqxZ`ercwtQe<oLR:Uo<H@FJltDx;qJUoGOkc:<j:J:gPvB<R;dZKe<D=HZW=_u;@ck_:bo`_[jMTTdxQ?^SRv]B`?bqzueYPR<[:ej=oJ:SDnBQPgqVYVu=kt[h>O@=o[WU?dh:X:::;XQ:?@=`wIVA]Z]PEFYf<gZGZB=diJZHhw;J:liic;v]hk=`]P:_u?:=CxOYUV_pxApAQrZSrYTLpxBzYKT<=x]y^YQuoDRHE=gZ::Hf_mASDYJL:PP?roMx@E=F^dx:<EIrwhb>MXKpspdjQo`uSt=TUJs>ZB:p<ckc?roc:@R[?RUcjjOrob:NS]CTMcxjOFRrxxlQYpe:=zMq;Ix:`hlSM@UzYzo?ua:AS<VmszTD::WA>F?=VcNYOZ=`hsR>T[qJaYTCTX@C:xSS:@t:xgoLc?XZQqMxFmGIq=ol:oR;nx>^JjqmJxYU^>c=k_:;rZTq;Cn_hu]GY>;s:DYO=`^xflBYr@yW_EV:gmUF[B=vkUa;YqQTOKi:Fg=hzYIpe:al>YdB:V:ptux@L:po=gZ>O<d<bByw:v;sJ>O=Icz:IubZ:oFBkBrohxvBE@;LZAYXo=L=pvFrrb:^aEV<lFbxbsGq=rRUtu]Zk_:tZj<MaHsG?_YjYJGe:?jTcIOxU:sq]ExzEDD`:@L:u`Zc=W_?rrA_aJnBGzxtzSH^Pxh:qcHJ=@Zn;[C=yNa?oqxdiCr;V=uPCZ:w=hk?n<lZpx;HaPkdBA:=CRj:uXfw=gw<re?=RZrRGwPhkFXJG=CzVUtbxa:BcHZ=bjYAr?=qmM@T`=F:yc<u=YR=FGB=gqGkFXR=a;ZHjJhkGZFKxX:nApCxZx>t;N=XZllSb=AUjbo]NV[?Ip@cdkrFFCCVxDNG@cb:y_Gp=ckmn>x=d?gu;bOkZuBH:skktBFiR>JvBFR=NknF[HxpxRwHEenkk_I_:PZll:f=NBuFJp=[Zpwca=nVCrZP=OZxw:q=WZrt^GxfYVsHi=ccDAoX=MYOsIU=n^OZ:HkYZtzR;=aJG`_]ZBJq>FiR@:yLHMcgJwvoJ=wkwNcj=tJpoZd=I?a_F@yWJn_FL=ujeZGWxdzKZFZ=DyW;ZJ_;c:noQcuIPMo<xHbFEqrgcjVF^]xYsIvA;J_jK=KZNxD=ErK:wjOg;RxDjLZZa^DR;<JTxGqPs]DK[?ffrZ:yjUdlW_CjOqJx_YS<UpY>rjL=]yxBJsAqL=noBcFS[sYUZHhxIV>VF:_QSCVIv_rSDiJ?u<RpwJ?xKYPuk`xbZOC^`xmtF@<w^MkkgIk^fky;`qsQSDDHyx^WcoHbedxLiDBp_d:<Z==JBpDG[^iJlFFIJoJraFy^EK:PHk^KRsF^g=jkF]IX^mRrNFp=vkpNJK=s@fPGQe]GR<KUxt:<FGklRkk;rvkpBtH^n^FBsY;k^:ss_FV=dRk]J`>?RxkIN^EFMHGkT]GK:ngZ<smFFm^cc?gGm^x:sUPD^VmFeIgxYIPW]<xPcmGJu^X:AeIQRhq=`LGZScrEpB:<jOTHjWr^BL^:MujQGP]oaKAUJq?EcrD;uxLJ=dmwdpifSmV<RcpZ=yxBRpDGsMeQC@IAL[kkJFtZ`YUbroWcBHaI?xycDQo[>iRskHmJgkz>Hv^SJziIC=hJv[Gm=EFX_PxwOxOl;=x^JFIcBTwYNqHL^i:AvowMgczBFKPQBmKex^qszqIcZZstHsA^l@`k:IelsyDGW=YWLM^gl@>w?:r^_ZorTt=pK=gIf^<cnXKD^IIU^qe^pISyHT^=Z<Ep]x?f:;GQwX`XTGZM`cofojW?hL<?EW=czGOH^qjV[Fn:Ucq[FX^uVAuF`>:Rx[G;^ARqu:^=:g@Aos=C>x@IKxS>raHd^CK=KHS^W>xaItRiRsaHDMWm=iFeMXsoHIeMXRxdGR:]ZqXGglsHNnuycm[Pc^l^s_yj_^NyzV<InPHkn_kU^TRpiG`Mm_vQoVM?JnaMp>hNzNHCMj>q<=wMwsqCH:^>_lqM<JFonCHK=wcwyIPMfsvSI>xx_yeGY^n_xeHiMVmGW[_c>P>snnFSWUEoP^]jVxqsB`ox?fq^V>yTBBMnclJ:Pge>tDmnpB<]Upjp]HAxFkcOsyZ<:nW=;qeHxTH;=a:nq=R=F`FZ^;Z<knJHf=GQgfjWrtPxcmiUomcXMA?HOoH>zNFHRsRlJ=A_fka@rv=NRxKmSMTR>gHn=]YOVoZD<RzxFBT`>ou<B^L:=MFAwkFknFSFGugnIseppUnI@Fq=OnGknh:CVHkD`kpT[tFXNtx_?M:nJlHCDN:GMH`MDf`Z<E=EzSkIfMtzVwU>MvDeKHlxZxHnFBkFzJEHN:K:rJGD=dgkUIDnvZZDG^MJcplIsnxNy;dwMa_kJ<VmExBIqb=ANwMFsmRklFIm^?YRIJdxJomfGJ=v>pOHVM>suZFwMngrGHTMsq>S<=x`DVSGL^M_HH?h^^slUGFMjkFkHgM?NyAGeM_Vr^GqJoPF^PWsMC`m[QOv=<bHLMpKDQIf_CjfCIxMFm=xG[gpgrouqn>VyGGonRU?GGqJNsuXcin<e:bGywxFxvHL=zVv_GHJW_DXFVmbRk:l@VBVnUIk^fFw]HFn;Zurr@=Sx`]Ia=`Zkn=s^^JtsIp=Z:nGm::<>T::^=e::g<e::uhcQnGwrYIQn^Bowsx[vJ>t<<kk_@x<zHiJmx=Z^:VtJ<gnE>ukGgMewojrc^PwuRIR^XwmJZAn>ZA<^I:e=>@=F_a:DXGhs`BqLFy=SwyYH::bJvP<p=;ZjInJJqx=xqFwsx=YneswZji=@sy:mn_vVyOIJRB<w_FYwkFljG@=aBqRFs^ywsnCq=V<rIdaZus^w=BE[wqZjjJy<vLIik=BuBjSSUkgC<fM:YLiHv=g_u>InnFJ@=GFnXVzJj_SLBxOIqse]mkgR^qwykhJEpZpkir:I<kZjwEKR<ZhAnB]nLHWs?=IRj_FMwntsH>o]vBhr^foHJijJdVpJgkczFycgr_=<xrGXT>HQcjZEHwlkjJEC]v:jbdt]oZhPEk]yLG>FS=?JlHEqPNJjiJC<qhHc=b]mmIDEJyI=FILz]tcHTEHZxcj]FdM;y<r:R<qkiJEiBn:j_:S]rkhlEJ]psHCEgM;Jm::>eT::HXSsEGBq_j>EMa?_gznMVqx<NE_BrRk?Eh<mGF;ECLqjFaF?Lu>gpEiwrNhKE=Ln>hGE:]z>ihE_]mzIBE=a=BgIJV]siFMnbwv_H^EHktnEGnTZHEGEnAVz<GE=Dkv:dB=EFit:wMywFx:K=SFy`FNny:zfHmJ=kvMGXTJHgEGQg>gxiv:<tgrVFb=NmzmI?^Zcyf<lTlVnAFp^^NmiCywZ_nQGAx[mlbHmMYwygsWZFDlFL`=ZLoDFYwJHcgg@EbXB?JVZxi^P;q=e<pLH]EbX?RDdEimnwBIJMoIrSaMZg;ZHPMmZqtu?EJ<zbHfnUIaNg<f?Dl:gHkpDvLg>^=ZwLIhxhrCZ=DZu:lLHFfh]rLIo^bFemh;=vDtmjpMTstqGOy[DufGkfWgk]hPGk:`GI<JQYWHHcfgsom?:nLowVhL^QFhmgV^[ep^IbdleqAF`^^<o:dtFOexPGxp;u@?TNdgsG;:XnI<p:<?VpxXIHdnrZqFFL^_JsrRJ^PomZkvMDclm;e^zIRWHimjszyFKRtoo_@Bu@pMWIXMWowfqJMlTky>M:nosqmTxJ[D?FYMfcsg<KMNFsZ]hnv:d^IY:BH[=FaFmAFA<knmRNHic:gFnOlJ:M_@HjG[v_?Hh<_N:AS<nf_rFC<EfB:?vpxfl[CGkXR]utP@MfuulP>xVFurij`V`RJihAfrQ>SnEfSulT?@VEjOXiO[PuvyK<_gFzv]KV>?Higi[iuou>i[[upyiHVduvyg@V`uk;g:chuw;iqxvustkxVbuktnbfF@^ygkUpun;fzf<@tP?:UD@npmZUu@oSkIf=gCcUCa]Flq=Bnk:hvcWf=exqj^g>G=^FHnBJsMGp:IguMFun_YK`HzEMc>fFan]gmzr;nZDysSw[F@]UHysmRSVI^fz@tzJWo;b<UGsU[N;EHp]z:nVFS^Fgyj=oMHRkfGgUKLuyfenLzSfGzxQmvfIFUgRyKGPnv@wUIVUzFxliWftWC<gF=?>qdiyf?JxKg>nJTuaCd?VVke[inAgsCGXnMezKgsf@otqISnV:FAFqUwDlVJHn^VvGHZZz>kbFxZLVxKGlf__qbHCEPar]jOnhmrJieMmByklB=gVkWmVt=f?QF?]JHfI<aR<sp`[[UVwlUIaUuzT`jME`NsQG;Ek[L:dxn:wrrO=nvapOqRfe:u<FVqFwngGyULks?h<fo@:wiTUlwy<HYE^@rfIA=g_FkGaUFeDimPUZVxGjXfbVrOjqnheoSGt]sBL?nyZJzXCGV^Vqm?nEUdeprH_fJ<eilMMUoIOH>^^Zqroi=]enTibeZkmfK]kCBzWjG^__tWhtEJNXE]EnTamLjafyDflj>ZOLtjGEE>LwRiq=ELuD<b^gMB:=VLc::Hm^YFBvLHs^iInHmsJg=Ed<miF[xRqpxi<UpPv<j:EgmqDjKfKQ;Dj[EK]r]HfE=Dx=hFf=gB:;;Sfzm::<Pa::wu>JGg=X^gH>uLt_ir:JkqFIIJFolnBwf?gwCheUkqruhp:GQFwj@y]LoEjpMHaolgzEyaysRlfBazqhnf:DkYn^fv_FEI^fFqpfjG[Q@kUhnf[gp[nG[HYLSgMVHuvfjAf;unUikU<@jfiw[hilXjqv]@uCGivxukhgeve:>Wh>vqZrFi_vtHsRgfE_HueiovueunjgvjLxI^xE@LsFgyUyJyFjev_r:wGzUlHlEgwUnRNt=;vhLtkh[v`gGRgwMfbGjMTfE]zghiEiJuhIpnvml<Iwf@uuiguv;HoLgfn@XzOhG[Vuyt<tvmmzbjofKXrMjikdXtnjh:f]sVhr^pXlZGHJDensgGvwurvj<fUXuWhXTXixrjZvOHkQgovORyej]E=uroivEcyoVgjEZilnUMvmXvIg=UuZurg;vCHyHjZ<TBu=iNfIXt>gUvzXxjh=vXyo>FAvv]qH>R=kinIj^fZ<tYjyvP]tbgWv_rD]FZvf<szhfvxLtjj?vFr=jh`vBylQh^vNwnQgbvQqyHgtxuXxYiZA>rDijO=_;zciLfF;xMijvfRSnDvvgXzjgcA[ylnUcAYyqYjvfKb@bi=UFmvZYhvOip;ifv`Hv:Y_AgMAeklvZJksMGq=aEwCCfPPFx:M=^;zQjFAV@zIgTEA;ojhSv=ip:;Wvxyp:V_Aj;qJY<Ew;x^ZHklf>BWF^imuBY]AsyoajvkNytZVivL@kcYgAB;tkVdvCunkX[vYXvcWov_JNRV>EB[st[aAS_pmimMO[lUGZAe@rRY?EL[k=jEvG[k[drvK;q>g[vjXp=hUvN=HelXAn]uzHyAEaHsg;A_JnBVeAvix<FsA=[wcV[A@@msXCAsXw_XlFmf@_YSSd[p_XCv@;w>WVAq@q>VB^]yt>YtAxuyNYIvU[psGuAhBvDmpAC[t_VLAXJzNGpvv[]yjAfnXmTj:AdLrZVHsfuxrhAZGa=ao_BQgAD:::P`k=Y:]P<zhcEF]rMjFvUHlngYv=[Eegw=xNrnjf_]K[SGzn_akIdhAsio>guV^lm=GU:GJmnBsv]]pZFMUXap`FcUaiwNnYfkgmu?Hvi=<u?@vBCstmavAz<u>Pv;z<u?JURCt;h@VMXtUha[TCvRWevncW]VlAeCucWkbyDg]XhAGkpxgYfUKzxgQ>wCstktv@[wJVNvf[o_V=AbXBIjnPPxIGSBAXmkVhoA>yv]gNb^b>rh?A<lssWsb;bHcWlARHxcVAAzKkIjUobCpJY<Am;vmY^vMoEzhm=Fyy<WNbAKnLV_bYunoVJvYKuD<gbAgCJXDbrCpzhaMIyvCFyJZds;gub>KreWXTNCsTYfvldpNVBA<dyzjNAbyvJYYvlyr]hcsEcR:V`=OywNXWAD@l:Vwa=ypcYFb`KuTVvv?dwIgwb`XqFGjn@dzTV:cq;qkY[A>SwuYi@<CquWwAv[xjjnPAa;?^`b`dzuWcAaVpeYsb>usuYtbN<O[gkTxCpDYJAFdluXabZ[xmYpARlpBWpbSyuLYmAglqAINbESw@VGb_dn@XTAMClNX?vdSp:m@AYSuFYaAo[teY=b=SvbHtbvKouXMbPCucWqJlSncWmbuetsXfbR[koYmEyezNHUbxXmHV>bRtwLiub;tyDV?AgKvHXFb<KvoVgbA[pDn=AJJzqYSAhto@XAb;Ku@Ww^EXzFX;v^turcbbgdmTWovGKtXWyAYgtaYGAs?pvjIbsSuDV`ANtucX>AQtz>WtvjtkaWovJlu[YQbutIvFXfk<fCh]v@atbgzMq;GEjxqUmzNFYnXkzwWDvPNztj:byaJLisbQv@n>an?jRo=Xvz?qoXqUxgpAG[UuqxKGt]uDvhhXUkBx]jcQ:dt[XPuMSr[XKbTHHLgFbC?pDgVZGDrLhCAFHnGkgfDStVVtAEFgEiK=YDt`b>Uc`mDX;vB`w?=WvoeqSVGxgq=WijUPv>eiif`KlSYuAaexmVqQhtstY]QZeo:YtnF`toYKQOekxhxptspYPZfVPoYoefutE_imMbBpSIdfVc@yHwxyonahHMXTmWFLxtoy`sLudTptIZMj_txryMpOret`pJNz;F[MJHP?GYMu>uusPZeFlZvPuuukMZ>UGZ>KiG:zOv[EcnNWeGYffoq?KhKnG@z[IlUjgl@GdMiavlWNnEzVLXOWB[SVFVUpdh<XStXpk:h]nbFU]YMRognhPmnaTaQoeUPpwwWFQWao`jVQTpsfh?umiztjUQ`gvC<AQNqnbHLQpaviYlQBPkhVHUSVwtgKUfgyvF^nrkCtj]=newhV:WnppbI@nJPqTgZrLDstgE]fPp?gGs@Dv?ieQeVybFTQjam^WF=o`w?hI@V`zQGw=[Q^r=tUGu[`Yr^xVuOgVQOmkphhnH?qlI:rN<SOj:v]DvvqMnsGn^Yn:AFUhWFrJhyiMMngwlH`MxzPkxXIxBquhFR=udlB:Dv_qsJIJfR`kdI_bSGzwgNruGowRDQ;_kWgHgHqpjrmMa_oiCVrVOtMWNM?qpWhmfMZkeg;QmOothIU]k<xgirbYXxgW_bqpdVxVGhscYGbaXJ[VXbBOvLH::ude::cl@::?ka::UrBlr<WpKW^AzWiZXerNzLWW;rx[vdV[UpLtqYlb]txgjefoWs:;qKhojVbrHkbgf^v_HZXVmXOxVhbQ^?sfXSvMmpwX]ZfmvzjqQuhk<WzEjk;]VAwkDwCVJfqhxrs:rZxFDW:rWhu?jBfDOrThkTm`lpiIJo_yFWZQq`xbWtbiWqyV@QAStDhXQsWrMhPQtlyo:KQrDt?WYUcDljWvbBWqCqG:b`mSVmfqm_vXrUdBwejaQWHtehTfp`vwsVfOlvmi@fsDlCWQrIGsEPPfssr^IPfPGu_PdQoOojWSQW`yuhTQ?ppYVMbTaaAXaEumsZiUELKqognVLWzAX::U[alry=oJw_Il=rAV::H]k<>It=kbX_IVWnJzsI`dkx;^[pel>Fb:Nw;m:_JB^=V]pFjhxDFfrTWngHJI?zPajXF@TyyF`Q^_oEpAMIslOYu^tork@pQc>zOYrMgjOWpDIfOmxGXeUooqhp:bol?IYMjOxrNHkLYcq:^QRpm=H_UTFsZ]kDgFxw<b:<cFyi=fgpxx^nQLDysId:ltHt=iJpBuhVA=jWuljrQKayMYgUwhmUFrEaCoIPHIJcFEH;rNMwZzO:[YUKHDU[Nkp]FMeaviVjAxgw^YTnfplfV@Un>rhY@UxMFRz^rKMw:zMrV`oViln_GutjJrchltgWUI^o^XM=@:qFiEUjk;Yh[brGpNxsnM_B_jZTtIbaEKU@DonVyIdsw^YvUb_PchMr[hs?@xnGJvNyKU^MypgWMGlp`^iJHKzj:WIrpzxXOIwnu?gordugFwf]ppNnWpnNwyJjrb`:H>zGrg:mGimvYjYQFxr@prxYJS`kqRxPrLMrtjr=;hmWgBfEFYdGGMPI[QcXR]oz=WMIFm?wwRHTGk<w?bFEoZFYxCkFD<yIMxvtYmfWqk?XDZr]nFZrExnwgIOMUWy]x>^nhp]wyrhdocherI?yxWwQKe:IXxWYYVIW:ISas:wILInrfYxrznuhi:jmEq<;zxIzOZ;Wx@krNGirCxYIW]rRnouh:=V_qYh=rf`mMgvrl?ogjvrhk<DyM^vxyehArjdlVVzrXezzWTQ`xkeyEAradNjDj^yueykE`KIJXr:ADJYpL^@Lqeyyx=o?`XUv>Wtr[[Qrxlmjuj]]k:x^r;nz<ywrUEo`WJIbX=:wHfV=quitQQqksyRdp>mZyjbi=E@ysJ[`xDX?rayvZzuAz?R:<bKc:<JtdJmAflxw>H[=CFl>FUIAGeVhGnvGkjGwUlfqDV>su=w?WovZ:HOuZ:AtSUUqqwdrsyoVgD==WnzAYRH`sAjMR^UqgjkE@mtRgsIWHov<tjZ:@DeQ?R:=nlc::IwR:=]uc:;R<R:=^wR:<m]R::P>R:=V<R:<CwR:;wSc:;VbiCP::do?NIiUuem::NWT::r^tVOZ:FcCZ:HuDZ:A;mz?UawvjZ:FuDZ:<c;s`R:<RLeelNIpvs::Zac:;ZEc:;:=FkygIAa;>F^=ehvVYGqDhuYh]IG_tajSfo^xyI]kyTqtH?fH<;?]lPmehWGpQI_qcyJM;AlDcUOUOuxFWQL>wqgcM[^npVnICjXknxQ=u_Kgwk?^yigcnp^oJtPI=gARx=QE^ou?nQP>v^G;^RGpswaMDplJ<jIhEthYPaQpuSis<PWxljvQIRExW<HEWA>yEnebkW=DKzmHnICIyNu_xmnmavs?eYuZC;X?^[HzbISIZEv_ymYFRrLy@UebmNybOFnyNyz:ObrqFqYcos@wwadm>Z:APeKSp[GN;Bl:xZrsPzlGiUFGr=Wq=ramMWCvbMk?jVjb:wgzlnchuFx=x;Gt<yfrW?yoadYpNrnWSUZwmthhUshouhSRohvpj;ADPr<wwj;Sm>hEIDDlhhbIDPqnA:funzYOTFfMtEY`UaWmNjXYL_vtwtrb:zbWvr=xxtW?rcqyei::w=e::o^d`rqfweW_^ADvQVVfrwlFHHQ?bxoxJQVlvSyIQHMzNGIIv_B_iHY`FywwJbRSTCWKIE@dtz@W[QtlI@raquUY;ZthrhghnHhzOwf=[_wD=ZIjjYvYq=@EqLy_^Rfu_NXr;JDL=_jvJ?_HL=zhnIhrY<UziYoHoYTaw?r<tyeyR:ffxRi=IUwDS]h=gMEXimMADyJ<MAyEp_yAYbKwLwprA?nBgwMtrmliTryhv]W=rhrmIXgjzflmxJfnIxxxExpMu@yglfQpXeEr?nydVoQJtzQjmjituZx_fARIYXaQ;xpeyP<sOrexzrDszSV@f[fmIWpjy?yDhcz>rkfw_jY`xvYh:UxoqzefbfoPybrjflOhgj^rzOhOyOes_jQUaEuzXQUdIkEz[ja_y`WHfnK`vYJzZOzkxVQ:WvxjLz]UuMQwr]xE@YnbS?xGwCfN=AHyQnd=Bby_FsOumH`jpdlFHbYYardxzB;g>Gz=MBrmZnuYX:Njp>mLFTMCWxtYmMCuyQYOAFgIjHxpymFgIpDHS=Z^pgywf:AOG>ssLkl<WmrEzMiXlQJqtMw[U=IwfhoprilIxBzGxx[rYRBvsohRI>vxXnh=BPEkIh=bJtHzefy=wbVdbR[x;ykY>wltZfrh?uBzQ_;Omg<vMAITOVmItOveFsYtozsapfVm@PieI`TztHIzWTtksGf]>mWNuxxAuqh@IC^uHx?^swYG^tVYMWZ^QCluqIXO<<MM^tH[U^uE]G`tMQ?i^HI:@TiIEa;MQOCEmg?eUZNDTs@q=rdrlSJfiIVMuoU;@sW_>aTdM:CtjIVF;gU>nRdUOMv[IDCuaONuvMQUMtwUQMs`z?F;YQCjL]`VqT>P?BdcMNcSNhKq:Vh?:<S?Wi<v:WvMk^RJ>WpWhMWp=R=L:vHJ>K;q:vYXO^]:pTTzTKJ>R[:Tce:zfUmg@TtIJMJ?gMHM=:?CoDaOXO[pVKQ<pFBkAtn>k>u:ZMsHkWJAIJ@k@D^CJAD]Y^sRnK;:nQ@KTNHBJ?i:b@lH[RTuBBVJ?dr?kAPMYk>;LJB?<Y:kA<JFB>cF<B?E:?J@tz?LCZ:N=R[:qitl:vlZC:`i;C:nZ@d:zJ@DsXiuS:ikAD:bZ?>:l;<P:xn;pFQR;@Y;MTilPuvaYMCt=zXzc^zCskHY@`tHYIitk:EuvyU=MsvQXaTurUbtXYXrvqnG=K;YNYk[YVn;[YUSJKYCqT`YHduyc;dtsrP@sWU<Z@CYPOvCYQUvPYT<uqrJtvdYRXTSYSRACn=eSJj@BS`I:GsGYQav@I>fshUFfs^nGSuOYUfRmrThtpYHSvyYHr<SUSftnrBQtkTYaRWY:`Rb:nfRpYYjsAQ;PsIIMIRvYTQU;zLBUSzT`vtIJCtFzYSsVz:Tt@MRXswkXvu=zAduv:znsGMAs@z=AhUUU?Lv]=LqscZyGuwzS]s_T;qt@zOrtjUV@sJzYruZzY[vkzFzTBzAQtuQ>?LczQXslzBotHj?:URz;CTG=IAtX==ytYrRbsIJ=rtTQSZAMzEXu<Q@k:djE_>zbA_@OAMGuo^<mfy=?Fv:QDjSAzARUFZliug:eytqY:gvNzUDuWrPotqbH>?N:iMtpC=?RgzBLtgz?`uKtQ^vXvKXsQ:ltRk:rGkn:kPunrCnTdQ>Qu>rPiS]zNsAi@DQvG:nXu;vCOtKzHVta=LptlzWpsHkSUv@AAOTezPmv;=VytTzB;tgZlftyOFpuKZvwtNfLUumfRAsjrKOSazPF>]ZxN?PzSF?dZ__@sL>R>CQRGvzYMRTXz<OukI<tvkIRBTBI@YT;rMF?jb;hvuzU_AibMOsCzE]dCz?Itdz>hv[=MIvZ^IhulNIB>?zNHS<:jB>f=PV?tzEZ?B=TjtRl>E;OzK@BpzU@CzxXjvQACjseFFZ><ITov_EQqTJcADBwT<ntxz;ZTxzF>@>jM]S^zJ>ufiQrT=:gzUBIAg?cIYg@DZkVAKEFWuEzJKUEzScTfzKcUfzOcRSjHbS_IT<>FIX[toIP[uFIP<>BJl<AkJa<>Cr?<>RJi<AlrM<>BJf<?JYCu:kYY[thzKctznFcAZN;w>f=F]@bKWivvE<mU^UX>AN:tZco=W^Tw:]CuSWSb;VzI?vmcOCCpZcoAVJ]O;Pf?;RhYKLtcfY]>qxCav<JWg>[=EDvxY;ZTgJxKSGQRoSEWSV@]`JL@qjJ@<lh<<AIS;q=MgPoSZ:Yq[;zSVSLrV[SznCVewJifemROJKeJw@uyZx]>WULL@GASiRcY<Kv?QEGRHMVbd`Q?mSrzNuTsY?s:KRWTd>Y?Ks_YSQc;JdztmZD^suI@^uzzEesFYKVKbOWhSa:k^UZ:wTswYLTvJ:uTvWfC@dMQ?bD<YG:A<YGlvdJ`uf>:_wT_:[EvyIVaSPZaZA;IU^TKIQ:KzIFLtbOWbBpJyO:;kGZ?Fn;Cs=jG]AKoWZLQQ<LCS^Nnt?MHusDY<]>^U>zttILo@W:xtsx:hnv:tCMur=DnT@UV_?qUN@tn:qs>E:aEuGI?R?FrGRA]zMLt=:`EuiZjbuRrRPtr:ks>lUORA>rQT@_rTSu^pJuAFQXD@Y:no>S=RttuMHS:FrLAEyZczcXR?avKnR>?VJzN>>jGoAMQD>AIJEivmv=c>QYK>>IYPo?FjXoAgjKo@pZxwACYM>?vYApSxIEoAGZj>?yZy@t;xJF?tYLN?<QEw@mzYX:zZzF@@zVrtJF;FAXA>ytOZgys@j;AvTzFIvBzPystZwUsvn@F>iz>As`ZcDt`Z]rvo^?QvXjGQsHQIptHZiu>Hz;g?IJ^sSZzFGshZ]GthZeGuK=@VApJdT@mQ<;vJZ]udjJjFMrLH^JkT<tsxU?VSIITXSoQC@faJsAErLDpUaZ_w>iRECRqELBTaM<qSywOe?]ktJuHk`dLLkf:=;^V@uQOCLshJq]=qJxg?RvHq@MA@hunINFAQr@N>Kz>WtijHbTCzTyTlkk::wbc:;JSLvXS_o;y<ZpqXNzmC[gzmtZwzokX?]m:[VYlO;bX>::cRe::T[O:::wqZ:=GpJ:;ubc:;bxmSZoP>::Wj@::IUNusNn:vBHCO::>OyZ:?nhXiAiJ=n=]OJ:=zYfr<aRIr<y:@Q<esPr<asTr=usKr<XsQr<;sVI<?sY[<qA_K=hJJU=BfeS=tN<xOMRN^`q;>pg;Y]EVwUZw<VRKIFihhOwat_yFnziBx<fdYwIl[t<Uz`t<zljYwwIdk_kcLf[]I[PgzC`WorsSzxtQGzxrdjcwPpiuFyUglxca?Uoly[;cssbcCtPFCGkS_u>LV;R=fBZS?R>Q_<k:Y`<F:RZ[rsjY?:gA:<:@EX_XIiKg_>eJKbp`A[]cXDF^RN`GC;[FxD:KO=CcXqB[y]UFs>Xp<=yIdGqG]dwLmEwZNZJydE[hZ^`_Fr[dGjKVBTA>wcwEp=i]GWWOQ@SwGQ=T=:RNLwIJXg<iygy<iZWG<ZtcB]<jjlhu:VB;tcV`xtkVjGXbcVxebhE<BUh?w`ZSvGab[rwl[fXWWbfo=MRJvF;bZExMb`XcgjiR^Cbj^=dbic]ORJ`WfZOw<bG_Y<lUaIGYY_X=Pb`gwf>YIGQZPA<JA[w=caArFQcNthZQapw<lIdFEbhx<fbdIhHlgk]KcSbha>WEgbb]`FEJQJ^BRRNw_JLPKRs^uZzN;]=U>KWO`_?WOadjGRBQbRFZkTN^cc[XGI>JPVa_Qu[pkMi=GkQzoGkLft_g?royQe]xMldn=]kW]wTU]jwBBX;=WCb>^e_QaCq_QcBEUaYgq>Ob<jG<MZcsWRgskMAV_z]b=yW^qxC[^H<gv`y=VkNSWO^]:;p^^w;G^]k:W^^w;x^gTV^^`jw@Ac;WWQcE<V^iPwQ[>wxHSB`GCo?k^z_=k]fvg_=z;GOFY_JU:hCcq<u[cKGzxFhGN;dW=PU_wwPK``WizjCwXkDUgJJV]^F_QSg`>R][_>XP[jW`G>=B`LWsN<gFwNXPZ_;h<Kh]=^Z^kFzWRk=@Kh]<]]@;dL]]kWL^U]HZ;W>QVgqCZm^LQaroTNRD[H;gkRcnHSFESbk]awB?[oNVcV[NY_gcJQg^sNLxVCcRN^zt]NgyZSJ::NYbxCEenFhZMtwWZVAVSJVV]orZiWcsJw^i`_w]F^`XVl^]Ywdyge]i:PoVENUKs^cSPFIFIOFsI^x=m?e==PGGS>XzdlgL;e]^p:He^[jde]PZLrVFNK==@Y`td>b`c]jhdy<aRMIwJoQIxLRNzg`JTHxX?c;<h`iZgA_T[<_BP[<VBKa]]A_iwgoU[<woUa]mA^a^ooVP]ooTP^FoN[<]oPP^LA`P^woLP]TA_ixToY;<@oUa]`r]j=<BO<^yM`W<_jZpg@E[Mw:oVcVPE[BCqv`nCbNOLxlcJN^ZoQgwIb^=<sbf>xKv[ZtHBV`xP=[>^oRK_GjJXDwgRXu<`vb^<nNQDx<RS@]BsY]cBkPn=ckJP<[kU>keRX_WOjfzVNkLmGekPYhqVBHwLWin[tYczVYEdm^zEb][LkYe]c@CUwWQ^M<Q_YX]R[jIlP_N@wi:<@wUBUE=jY[<htRXfxHkJy^K>WD=:xjvZ=sfb<:BYb=_oUU=Ra<JwRvaJx<A^[^cvb[]<Aaq]=z]qGsIdBW>IgMx_IhY<`Kbg:Z::".charCodeAt(t++))?H-59:H-58),k|=(0<(H&(A/=2))?1:0)<<s,++s}for(var J,k,s,R,H,F=[],V=1,B=3,c=1,u=[],A=0,t=0;;){if(Z(c+1),2==k)return u.join("");-2&(R=k)||(Z(8*k+8),F[R=B++]=String.fromCharCode(k),--V||(V=2<<c++)),u.push(R=F[R]||J+J[0]),J&&(F[B++]=J+R[0],--V||(V=2<<c++)),J=R}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e._currentExchangeNum = 1,
+            e._handCoinNum = -1,
+            e
+        }
+        return __extends(e, t),
+        e.prototype._parseData = function() {
+            this._ins = this._data.ins,
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            this._popCfg = this._ins && this._ins.POPID && config.BuyPopup.getItem(this._ins.POPID) || null
+        },
+        e.prototype._upDateView = function() {
+            this._setCoinHand()
+        },
+        e.prototype._setCoinHand = function() {
+            var t = this;
+            if (this._ins) if (this._ins.cointype) switch (this._ins.cointype) {
+            case 1:
+                this._handCoinNum = MainManager.actorInfo.coins,
+                this._updatePanel();
+                break;
+            case 2:
+                UserInfoManager.getDiamond(function(e) {
+                    t._handCoinNum = e,
+                    t._updatePanel()
+                },
+                this);
+                break;
+            case 3:
+            case 4:
+            case 5:
+            case 24:
+                this._handCoinNum = ItemManager.getNumByID(this._ins.coinid),
+                this._updatePanel();
+                break;
+            default:
+                this._handCoinNum = ItemManager.getNumByID(this._ins.coinid),
+                this._updatePanel()
+            } else this._ins.itemID ? UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this) : this._ins.SkinID ? (this._handCoinNum = ItemManager.getNumByID(1723116), this._updatePanel()) : this._ins.coinid && (this._handCoinNum = ItemManager.getNumByID(this._ins.coinid), this._updatePanel())
+        },
+        e.prototype._updatePanel = function() {},
+        e.prototype._doExchange = function() {
+            if (this._currentExchangeNum * (this._data.isDiscount ? .625 * this._ins.price: this._ins.price) > this._handCoinNum) return void BubblerManager.getInstance().showText("所需" + ItemXMLInfo.getName(this._ins.coinid) + "不够！");
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        e.prototype._onTouchImageButtonHandler = function(t) {},
+        e.prototype.destroy = function() {
+            this._ins = null,
+            this._callBack = null,
+            this._caller = null,
+            t.prototype.destroy.call(this)
+        },
+        e
+    } (PopView);
+    t.BaseView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.BaseView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i._arry = new eui.ArrayCollection,
+            i.skinName = t.SuitViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.scroller_item.viewport = this.viewport_list,
+            this.viewport_list.itemRenderer = t.suitItemIcon,
+            this.viewport_list.dataProvider = this._arry
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.imgBtn_exchange, this._onTouchImageButtonHandler, this),
+            this.hero_show.addEventListener(egret.Event.COMPLETE, this._onSetTextureComplete, this),
+            this.viewport_list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchClothesHanlder, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this.hero_show.removeEventListener(egret.Event.COMPLETE, this._onSetTextureComplete, this),
+            this.viewport_list.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchClothesHanlder, this)
+        },
+        i.prototype._onTouchClothesHanlder = function(t) {
+            var e = {};
+            e.clothesId = t.item,
+            tipsPop.TipsPop.openClothesPop(e)
+        },
+        i.prototype._onSetTextureComplete = function(t) {
+            var e = t.currentTarget;
+            DisplayUtil.keepEqualDis(e, 181, 135, !0),
+            e.anchorOffsetX = e.width / 2,
+            e.anchorOffsetY = e.height,
+            e.x = e.y = 0
+        },
+        i.prototype._parseData = function() {
+            e.prototype._parseData.call(this)
+        },
+        i.prototype._updatePanel = function() {
+            this._arry.replaceAll(SuitXMLInfo.getCloths(this._popCfg.describ_id)),
+            this._arry.refresh();
+            var t = ClientConfig.getResPath("assets/item/cloth/suiticon/" + this._popCfg.describ_id + ".png");
+            this.hero_show.source = t,
+            this._popCfg.name ? this.txt_suit.text = this._popCfg.name: this.txt_suit.text = SuitXMLInfo.getName(this._popCfg.describ_id),
+            this.txt_num.text = this._ins.price ? this._ins.price * this._currentExchangeNum + "": "免费",
+            this.icon.source = ClientConfig.getItemIcon(this._ins.coinid),
+            0 == this._popCfg.describ_type ? this.txt_normal.text = this._popCfg.describ_txt: this.txt_normal.text = SuitXMLInfo.getSuitNormalDesc(this._popCfg.describ_id) + this._popCfg.describ_txt;
+            var e = ItemSeXMLInfo.getSuitEff(this._popCfg.describ_id);
+            this.Grp_suitEff.visible = "" !== e,
+            this.Grp_suitEff.visible && (this.txt_desc.text = e)
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.imgBtn_exchange:
+                this._doExchange()
+            }
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.suitView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.suitView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.thumbOffSetLeft = 10,
+            e.thumbOffSetRight = 10,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.getThumbRange1 = function() {
+            var t = egret.$TempRectangle;
+            this.track.getLayoutBounds(t);
+            var e = t.width;
+            return this.thumb.getLayoutBounds(t),
+            e - t.width + this.thumbOffSetLeft + this.thumbOffSetRight
+        },
+        e.prototype.updateSkinDisplayList = function() {
+            if (this.thumb && this.track) {
+                var t = this.$Range,
+                e = this.getThumbRange1(),
+                i = t[0] - t[2],
+                n = i > 0 ? (this.pendingValue - t[2]) / i * e: 0,
+                o = this.track.localToGlobal(n, 0, egret.$TempPoint),
+                r = o.x,
+                s = o.y,
+                a = this.thumb.$parent.globalToLocal(r, s, egret.$TempPoint).x,
+                _ = egret.$TempRectangle;
+                if (this.thumb.getLayoutBounds(_), this.thumb.setLayoutBoundsPosition(Math.round(a) - this.thumbOffSetLeft, _.y), this.trackHighlight && this.trackHighlight.$parent) {
+                    var h = this.trackHighlight.$parent.globalToLocal(r, s, egret.$TempPoint).x - n;
+                    this.trackHighlight.x = Math.round(h),
+                    this.trackHighlight.width = Math.round(n)
+                }
+            }
+        },
+        e
+    } (eui.HSlider);
+    t.ExchangeHSlider = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.ExchangeHSlider")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.addEventListener(egret.Event.REMOVED_FROM_STAGE, i.destroy, i),
+            i.skinName = t.SuitIconSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.dataChanged = function() {
+            this.icon_item.source = ClientConfig.getclothicon(this.data)
+        },
+        i.prototype.destroy = function() {
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this.parent && this.parent.removeChild(this)
+        },
+        i
+    } (eui.ItemRenderer);
+    t.suitItemIcon = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.suitItemIcon")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = "AchieveViewSkin",
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this)
+        },
+        e.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this.hide, this),
+            ImageButtonUtil.add(this.btnBuy, this._doExchange, this)
+        },
+        e.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        e.prototype._updatePanel = function() {
+            var t = Math.floor(this._popCfg.describ_id / 100),
+            e = this._popCfg.describ_id % 100,
+            i = AchieveXMLInfo.getRule(t, e);
+            this._popCfg.name ? this.txt_name.text = this._popCfg.name: this.txt_name.text = i.Desc,
+            this.txt_point.text = "+" + i.AchievementPoint,
+            i.SpeNameBonus ? (this.txt_title.text = "对应称号：", this.txtTitle.text = AchieveXMLInfo.getTitle(i.SpeNameBonus), this.txt_effect.visible = this.txtEffect.visible = !0, this.txtTitle.visible = !0, this.imgLine.visible = !0, 0 == this._popCfg.describ_type ? this.txt_effect.text = this._popCfg.describ_txt: this.txt_effect.text = AchieveXMLInfo.getTitleEffDesc(i.SpeNameBonus) + this._popCfg.describ_txt) : (this.txt_title.text = "未附带称号", this.txtTitle.visible = !1, this.imgLine.visible = !1, this.txt_effect.visible = this.txtEffect.visible = !1),
+            this.iconCost.source = ClientConfig.getItemIcon(this._ins.coinid),
+            this.txt_cost.text = this._ins.price + ""
+        },
+        e
+    } (t.BaseView);
+    t.achieveView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.achieveView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.TYPE_ARR = ["攻击", "防御", "特攻", "特防", "速度", "体力"],
+            i.skinName = t.CounterMarkViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.imgBtn_exchange, this._onTouchImageButtonHandler, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.imgBtn_exchange:
+                this._doExchange()
+            }
+        },
+        i.prototype._updatePanel = function() {
+            this.imgMark.source = CountermarkXMLInfo.getIconURL(this._popCfg.describ_id),
+            this.icon_cost.source = ClientConfig.getItemIcon(this._ins.coinid),
+            this.txt_costItem.text = "" + (this._data.isDiscount ? .625 * this._ins.price: this._ins.price),
+            this._popCfg.name ? this.txt_exchangeName.text = this._popCfg.name: this.txt_exchangeName.text = ItemXMLInfo.getName(this._popCfg.describ_id);
+            var t, e = CountermarkXMLInfo.getBaseAttriValue(this._popCfg.describ_id),
+            i = CountermarkXMLInfo.getMaxAttriValue(this._popCfg.describ_id);
+            for (t = 0; t < e.length; t++) this["txt_attr_name_" + t].text = this.TYPE_ARR[t],
+            this["txt_attr_" + t].text = "+" + e[t] + "/" + i[t];
+            var n = CountermarkXMLInfo.getExtraAttriValue(this._popCfg.describ_id);
+            if (this.extra.visible = n && n.length > 0, this.txt_yc0.visible = !this.extra.visible, this.extra.visible) for (var t = 0; 6 > t; t++) this["txt_extr_name_" + t].text = this.TYPE_ARR[t],
+            this["txt_extra_" + t].text = "+" + n[t]
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.counterMarkView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.counterMarkView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.EquipmentViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnBuy, this._onTouchImageButtonHandler, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype._parseData = function() {
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            this.mallCfg = this._data.ins
+        },
+        i.prototype._upDateView = function() {
+            var t = this;
+            UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this)
+        },
+        i.prototype._updatePanel = function() {
+            this.icon_item.source = ClientConfig.getclothicon(this.mallCfg.itemID),
+            this.txt_name.text = this.mallCfg.name;
+            var t = ItemSeXMLInfo.getItemDes(this.mallCfg.itemID, 0);
+            this.txt_desc.text = t ? t: "无",
+            this.iconCost.source = 2 == this.mallCfg.coins ? ClientConfig.getItemIcon(1) : ClientConfig.getItemIcon(5),
+            this._updateExchangeInfo()
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.btnBuy:
+                this._doExchange()
+            }
+        },
+        i.prototype._doExchange = function() {
+            if (0 == this._currentExchangeNum) return void BubblerManager.getInstance().showText("请选择购买数量");
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        i.prototype._updateExchangeInfo = function() {
+            if (2 == this.mallCfg.coins) var t = ItemXMLInfo.getPrice(this.mallCfg.itemID);
+            else {
+                var t = GoldProductXMLInfo.getPriceByProID(this.mallCfg.productID);
+                MainManager.actorInfo.isVip && (t *= GoldProductXMLInfo.getVipByProID(this.mallCfg.productID))
+            }
+            var e = t * this._currentExchangeNum;
+            this.txt_cost.text = e + "",
+            this.txt_cost.textColor = e <= this._handCoinNum ? 3488607 : 16711680
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.equipmentView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.equipmentView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.ItemViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.currentState = "single",
+            this.title.source = "fifth_skill_view_title_png"
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this.hide, this),
+            ImageButtonUtil.add(this.btnBuy, this._doExchange, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype._updatePanel = function() {
+            this.icon_item.source = "item_view_special_icon_0_png",
+            this.txt_count.visible = !1,
+            this._popCfg.name ? this.txt_name.text = this._popCfg.name: this.txt_name.text = SkillXMLInfo.getName(this._popCfg.describ_id),
+            0 == this._popCfg.describ_type ? this.txt_desc.text = this._popCfg.describ_txt: this.txt_desc.textFlow = tipsPop.getSkillDescHtml(null, this._popCfg.describ_id),
+            this.iconCost.source = ClientConfig.getItemIcon(this._ins.coinid),
+            this.txt_cost.text = this._ins.price + ""
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.fifthSkillView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.fifthSkillView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.FlypetViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnBuy, this._onTouchImageButtonHandler, this),
+            this.flypet_icon.addEventListener(egret.Event.COMPLETE, this._onSetTextureComplete, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this.flypet_icon.removeEventListener(egret.Event.COMPLETE, this._onSetTextureComplete, this)
+        },
+        i.prototype._onSetTextureComplete = function(t) {
+            var e = t.currentTarget;
+            DisplayUtil.keepEqualDis(e, 181, 135, !0),
+            e.anchorOffsetX = e.width / 2,
+            e.anchorOffsetY = e.height,
+            e.x = 134,
+            e.y = 193
+        },
+        i.prototype._parseData = function() {
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            this.mallCfg = this._data.ins
+        },
+        i.prototype._upDateView = function() {
+            var t = this;
+            UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this)
+        },
+        i.prototype._updatePanel = function() {
+            if (this.flypet_icon.source = ClientConfig.getMountIcon(this.mallCfg.itemID), this.txt_name.text = this.mallCfg.name, 2 == this.mallCfg.coins) {
+                this.iconCost.source = ClientConfig.getItemIcon(1);
+                var t = ItemXMLInfo.getPrice(this.mallCfg.itemID)
+            } else {
+                this.iconCost.source = ClientConfig.getItemIcon(5);
+                var t = GoldProductXMLInfo.getPriceByProID(this.mallCfg.productID);
+                MainManager.actorInfo.isVip && (t *= GoldProductXMLInfo.getVipByProID(this.mallCfg.productID))
+            }
+            this.txt_cost.text = t * this._currentExchangeNum + "";
+            var e = ItemTipXMLInfo.getItemDes(this.mallCfg.itemID);
+            this.txt_desc.text = e ? e: "无"
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.btnBuy:
+                this._doExchange()
+            }
+        },
+        i.prototype._doExchange = function() {
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.flypetView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.flypetView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.FurnitureViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            (this._data || 0 == this._data) && (this.info = this._data, ImageButtonUtil.add(this.imgBtn_close, this.hide, this), ImageButtonUtil.add(this.btnBuy,
+            function() {
+                RoomManager.buyShopItem(t.info.id, t.info.num, t.hide, t)
+            },
+            this), this.updateView())
+        },
+        i.prototype.updateView = function() {
+            var t = config.BaseShop.getItem(this.info.id);
+            if (t) {
+                this.icon_item.source = ClientConfig.getFurnitureIcon(this.info.id),
+                this.txt_count.text = this.info.num + "",
+                this.txt_name.text = t.name,
+                this.txt_desc.text = t.desc;
+                var e = ItemManager.parseItem(t.cost);
+                this.txt_cost.text = e[0].num + "",
+                this.iconCost.source = ClientConfig.getItemIcon(e[0].id)
+            }
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (t.BaseView);
+    t.FurnitureView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.FurnitureView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.ItemViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.currentState = "single"
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this.hide, this),
+            ImageButtonUtil.add(this.btnBuy, this._doExchange, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype._updatePanel = function() {
+            if (8 == this._data.ins.type) this.title.source = "head_view_title_png",
+            this.icon_item.source = ClientConfig.GetAvatarHead(this._popCfg.describ_id);
+            else {
+                this.title.source = "headFrame_view_title_png";
+                var t = config.Profilephoto.getItem(this._data.ins.realid);
+                this.icon_item.source = ClientConfig.GetAvatarFrame(t.icon)
+            }
+            this.txt_count.visible = !1,
+            this._popCfg.name ? this.txt_name.text = this._popCfg.name: this.txt_name.text = config.Profilephoto.getItem(this._popCfg.describ_id).name,
+            0 == this._popCfg.describ_type ? this.txt_desc.text = this._popCfg.describ_txt: this.txt_desc.text = config.Profilephoto.getItem(this._popCfg.describ_id).desc + this._popCfg.describ_txt,
+            this.iconCost.source = ClientConfig.getItemIcon(this._ins.coinid),
+            this.txt_cost.text = this._ins.price + ""
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.headView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.headView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i(i) {
+            var n = e.call(this, i) || this;
+            return "product_diamond" == i.type ? (n._currentOpenView = new t.productBuyItemView, n.openMallPop(), n) : "mall_buyMark" == i.type ? (n._currentOpenView = new t.mallMarkView, n.openMallPop(), n) : "mall_buySuit" == i.type ? (n._currentOpenView = new t.mallSuitView, n.openMallPop(), n) : "mall_buyEquipment" == i.type ? (n._currentOpenView = new t.mallEquipmentView, n.openMallPop(), n) : "mall_buyFlypet" == i.type ? (n._currentOpenView = new t.mallFlypetView, n.openMallPop(), n) : "jiehuang_buyItem" == i.type ? (n.openJiehuangPop(), n) : "furniture_buyItem" == i.type ? (n.openFurniturePop(i), n) : (n._openPanel(), n)
+        }
+        return __extends(i, e),
+        i.prototype._openPanel = function() {
+            var e = this;
+            this.skinName = ExchangeMainSkin,
+            this.adaptRightContent(this.grp_coin_0),
+            this.adaptRightContent(this.grp_coin_1);
+            var i = PopViewManager.createDefaultStyleObject();
+            i.maskShapeStyle.maskAlpha = 0;
+            var n, o = this.data.ins,
+            r = o;
+            n = "number" == typeof o ? config.BuyPopup.getItem(o) : config.BuyPopup.getItem(o.POPID),
+            this.grp_coin_1.visible = !1,
+            this.grp_coin_0.visible = !0;
+            var s = 0,
+            a = 0;
+            if (r.cointype) switch (a = r.coinid, r.cointype) {
+            case 1:
+                s = MainManager.actorInfo.coins;
+                break;
+            case 2:
+                UserInfoManager.getDiamond(function(t) {
+                    s = t,
+                    e.txt_coin_0.text = core.gameUtil.ConvertToTenThousand(s)
+                },
+                this);
+                break;
+            case 3:
+            case 4:
+            case 5:
+            case 24:
+                s = ItemManager.getNumByID(r.coinid);
+                break;
+            default:
+                s = ItemManager.getNumByID(r.coinid)
+            } else r.itemID ? (a = 5, UserInfoManager.getDiamond(function(t) {
+                s = t,
+                e.txt_coin_0.text = core.gameUtil.ConvertToTenThousand(s)
+            },
+            this)) : r.SkinID ? (a = 1723116, s = ItemManager.getNumByID(a)) : r.coinid && (a = r.coinid, s = ItemManager.getNumByID(a));
+            switch (this.txt_coin_0.text = core.gameUtil.ConvertToTenThousand(s), this.icon_coin_0.source = ClientConfig.getItemIcon(a), ImageButtonUtil.add(this.icon_coin_0,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: a
+                })
+            },
+            this), n.type) {
+            case 1:
+                this._currentOpenView = new t.itemView;
+                break;
+            case 2:
+                this._currentOpenView = new t.equipmentView;
+                break;
+            case 3:
+                this._currentOpenView = new t.suitView;
+                break;
+            case 4:
+                this._currentOpenView = new t.skinView;
+                break;
+            case 5:
+                this._currentOpenView = new t.petView;
+                break;
+            case 6:
+                this._currentOpenView = new t.counterMarkView;
+                break;
+            case 7:
+                this._currentOpenView = new t.flypetView;
+                break;
+            case 8:
+                this._currentOpenView = new t.achieveView;
+                break;
+            case 10:
+                this._currentOpenView = new t.fifthSkillView;
+                break;
+            case 11:
+                this._currentOpenView = new t.specialGiftView;
+                break;
+            case 12:
+            case 13:
+                this._currentOpenView = new t.headView
+            }
+            PopViewManager.getInstance().openView(this._currentOpenView, i, this.data, this.groupPop),
+            this._currentOpenView.addEventListener(PopView.EVENT_DESTROY, this._onDestriyView, this)
+        },
+        i.prototype.openMallPop = function() {
+            var t = PopViewManager.createDefaultStyleObject();
+            t.maskShapeStyle.maskAlpha = 0,
+            PopViewManager.getInstance().openView(this._currentOpenView, t, this.data, this.groupPop),
+            this._currentOpenView.addEventListener(PopView.EVENT_DESTROY, this._onDestriyView, this)
+        },
+        i.prototype.openJiehuangPop = function() {
+            var e = PopViewManager.createDefaultStyleObject();
+            e.maskShapeStyle.maskAlpha = 0,
+            this._currentOpenView = new t.jiehuangView,
+            PopViewManager.getInstance().openView(this._currentOpenView, e, this.data, this.groupPop),
+            this._currentOpenView.addEventListener(PopView.EVENT_DESTROY, this._onDestriyView, this)
+        },
+        i.prototype.openFurniturePop = function(e) {
+            this.skinName = ExchangeMainSkin,
+            this.adaptRightContent(this.grp_coin_0),
+            this.adaptRightContent(this.grp_coin_1),
+            this.grp_coin_1.visible = !1,
+            this.grp_coin_0.visible = !0,
+            this.txt_coin_0.text = core.gameUtil.ConvertToTenThousand(ItemManager.getNumByID(1)),
+            ImageButtonUtil.add(this.icon_coin_0,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 1
+                })
+            },
+            this),
+            this.icon_coin_0.source = ClientConfig.getItemIcon(1);
+            var i = PopViewManager.createDefaultStyleObject();
+            i.maskShapeStyle.maskAlpha = 0,
+            this._currentOpenView = new t.FurnitureView,
+            PopViewManager.getInstance().openView(this._currentOpenView, i, e, this.groupPop),
+            this._currentOpenView.addEventListener(PopView.EVENT_DESTROY, this._onDestriyView, this)
+        },
+        i.prototype._onDestriyView = function(t) {
+            this._currentOpenView.removeEventListener(PopView.EVENT_DESTROY, this._onDestriyView, this),
+            egret.setTimeout(this.onClose, this, 200)
+        },
+        i.prototype.destroy = function() {
+            this._currentOpenView = null,
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    t.ExchangeAwardPromptView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.ExchangeAwardPromptView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i._price = 4,
+            i.skinName = t.ItemViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.btnAdd, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnSub, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnMin, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnMax, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnBuy, this._onTouchImageButtonHandler, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype._parseData = function() {
+            this._type = this._data.ins,
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            1 == this._type ? this._itemId = 1714414 : 2 == this._type && (this._itemId = 1714415)
+        },
+        i.prototype._upDateView = function() {
+            var t = this;
+            UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this)
+        },
+        i.prototype._updatePanel = function() {
+            var t = this;
+            this._maxExchangeNum = Math.min(ItemXMLInfo.getMaxNum(this._itemId) - ItemManager.getNumByID(this._itemId), 99),
+            this.txt_name.text = ItemXMLInfo.getName(this._itemId),
+            tipsPop.getItemDescAsync(this._itemId).then(function(e) {
+                t.txt_desc.text = e
+            }),
+            this.icon_item.source = ClientConfig.getItemIcon(this._itemId),
+            this.iconCost.source = ClientConfig.getItemIcon(5),
+            this._updateExchangeInfo(),
+            this.txt_count.visible = !1
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.btnAdd:
+                if (this._currentExchangeNum >= this._maxExchangeNum) return;
+                this._currentExchangeNum++,
+                this._updateExchangeInfo();
+                break;
+            case this.btnSub:
+                if (this._currentExchangeNum <= 1) return;
+                this._currentExchangeNum--,
+                this._updateExchangeInfo();
+                break;
+            case this.btnMin:
+                this._currentExchangeNum = 1,
+                this._updateExchangeInfo();
+                break;
+            case this.btnMax:
+                this._currentExchangeNum = this._maxExchangeNum,
+                this._updateExchangeInfo();
+                break;
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.btnBuy:
+                this._doExchange()
+            }
+        },
+        i.prototype._doExchange = function() {
+            if (0 == this._currentExchangeNum) return void BubblerManager.getInstance().showText("请选择购买数量");
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        i.prototype._updateExchangeInfo = function() {
+            this.txt_buyNum.text = this._currentExchangeNum + "/" + this._maxExchangeNum;
+            var t = this._price * this._currentExchangeNum;
+            this.txt_cost.text = t + "",
+            this.txt_cost.textColor = t <= this._handCoinNum ? 3488607 : 16711680
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.jiehuangView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.jiehuangView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.EquipmentViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnBuy, this._onTouchImageButtonHandler, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype._parseData = function() {
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            this.mallCfg = this._data.ins
+        },
+        i.prototype._upDateView = function() {
+            var t = this;
+            UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this)
+        },
+        i.prototype._updatePanel = function() {
+            this.icon_item.source = ClientConfig.getclothicon(this.mallCfg.itemID),
+            this.txt_name.text = this.mallCfg.name;
+            var t = ItemSeXMLInfo.getItemDes(this.mallCfg.itemID, 0);
+            this.txt_desc.text = t ? t: "无",
+            this.iconCost.source = 2 == this.mallCfg.coins ? ClientConfig.getItemIcon(1) : ClientConfig.getItemIcon(5),
+            this._updateExchangeInfo()
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.btnBuy:
+                this._doExchange()
+            }
+        },
+        i.prototype._doExchange = function() {
+            if (0 == this._currentExchangeNum) return void BubblerManager.getInstance().showText("请选择购买数量");
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        i.prototype._updateExchangeInfo = function() {
+            if (2 == this.mallCfg.coins) var t = ItemXMLInfo.getPrice(this.mallCfg.itemID);
+            else {
+                var t = GoldProductXMLInfo.getPriceByProID(this.mallCfg.productID);
+                MainManager.actorInfo.isVip && (t *= GoldProductXMLInfo.getVipByProID(this.mallCfg.productID))
+            }
+            var e = t * this._currentExchangeNum;
+            this.txt_cost.text = e + "",
+            this.txt_cost.textColor = e <= this._handCoinNum ? 3488607 : 16711680
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.mallEquipmentView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.mallEquipmentView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.FlypetViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnBuy, this._onTouchImageButtonHandler, this),
+            this.flypet_icon.addEventListener(egret.Event.COMPLETE, this._onSetTextureComplete, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this.flypet_icon.removeEventListener(egret.Event.COMPLETE, this._onSetTextureComplete, this)
+        },
+        i.prototype._onSetTextureComplete = function(t) {
+            var e = t.currentTarget;
+            DisplayUtil.keepEqualDis(e, 181, 135, !0),
+            e.anchorOffsetX = e.width / 2,
+            e.anchorOffsetY = e.height,
+            e.x = 134,
+            e.y = 193
+        },
+        i.prototype._parseData = function() {
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            this.mallCfg = this._data.ins
+        },
+        i.prototype._upDateView = function() {
+            var t = this;
+            UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this)
+        },
+        i.prototype._updatePanel = function() {
+            if (this.flypet_icon.source = ClientConfig.getMountIcon(this.mallCfg.itemID), this.txt_name.text = this.mallCfg.name, 2 == this.mallCfg.coins) {
+                this.iconCost.source = ClientConfig.getItemIcon(1);
+                var t = ItemXMLInfo.getPrice(this.mallCfg.itemID)
+            } else {
+                this.iconCost.source = ClientConfig.getItemIcon(5);
+                var t = GoldProductXMLInfo.getPriceByProID(this.mallCfg.productID);
+                MainManager.actorInfo.isVip && (t *= GoldProductXMLInfo.getVipByProID(this.mallCfg.productID))
+            }
+            this.txt_cost.text = t * this._currentExchangeNum + "";
+            var e = ItemTipXMLInfo.getItemDes(this.mallCfg.itemID);
+            this.txt_desc.text = e ? e: "无"
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.btnBuy:
+                this._doExchange()
+            }
+        },
+        i.prototype._doExchange = function() {
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.mallFlypetView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.mallFlypetView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.TYPE_ARR = ["攻击", "防御", "特攻", "特防", "速度", "体力"],
+            i.skinName = t.CounterMarkViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.imgBtn_exchange, this._onTouchImageButtonHandler, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype._parseData = function() {
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            this.mallCfg = this._data.ins
+        },
+        i.prototype._upDateView = function() {
+            var t = this;
+            UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this)
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.imgBtn_exchange:
+                this._doExchange()
+            }
+        },
+        i.prototype._updatePanel = function() {
+            var t = ItemXMLInfo.getTargetItemId(this.mallCfg.itemID);
+            if (t) var e = t;
+            else var e = this.mallCfg.itemID;
+            this.imgMark.source = CountermarkXMLInfo.getIconURL(e);
+            var i = GoldProductXMLInfo.getPriceByProID(this.mallCfg.productID);
+            MainManager.actorInfo.isVip && (i *= GoldProductXMLInfo.getVipByProID(this.mallCfg.productID)),
+            this.icon_cost.source = ClientConfig.getItemIcon(5),
+            this.txt_costItem.text = "" + i,
+            this.txt_exchangeName.text = ItemXMLInfo.getName(e);
+            var n, o = CountermarkXMLInfo.getBaseAttriValue(e),
+            r = CountermarkXMLInfo.getMaxAttriValue(e);
+            for (n = 0; n < o.length; n++) this["txt_attr_name_" + n].text = this.TYPE_ARR[n],
+            this["txt_attr_" + n].text = "+" + o[n] + "/" + r[n];
+            var s = CountermarkXMLInfo.getExtraAttriValue(e);
+            if (this.extra.visible = s && s.length > 0, this.txt_yc0.visible = !this.extra.visible, this.extra.visible) for (var n = 0; 6 > n; n++) this["txt_extr_name_" + n].text = this.TYPE_ARR[n],
+            this["txt_extra_" + n].text = "+" + s[n];
+            this.txt_costItem.textColor = this._handCoinNum >= i ? 8407576 : 16711680
+        },
+        i.prototype._doExchange = function() {
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.mallMarkView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.mallMarkView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i._arry = new eui.ArrayCollection,
+            i.skinName = t.SuitViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.scroller_item.viewport = this.viewport_list,
+            this.viewport_list.itemRenderer = t.suitItemIcon,
+            this.viewport_list.dataProvider = this._arry
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.imgBtn_exchange, this._onTouchImageButtonHandler, this),
+            this.hero_show.addEventListener(egret.Event.COMPLETE, this._onSetTextureComplete, this),
+            this.viewport_list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchClothesHanlder, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this.hero_show.removeEventListener(egret.Event.COMPLETE, this._onSetTextureComplete, this),
+            this.viewport_list.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchClothesHanlder, this)
+        },
+        i.prototype._onTouchClothesHanlder = function(t) {
+            var e = {};
+            e.clothesId = t.item,
+            tipsPop.TipsPop.openClothesPop(e)
+        },
+        i.prototype._onSetTextureComplete = function(t) {
+            var e = t.currentTarget;
+            DisplayUtil.keepEqualDis(e, 181, 135, !0),
+            e.anchorOffsetX = e.width / 2,
+            e.anchorOffsetY = e.height,
+            e.x = e.y = 0
+        },
+        i.prototype._parseData = function() {
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            this.mallCfg = this._data.ins,
+            this.imgBtn_exchange.source = "item_view_btnBuy_s_png"
+        },
+        i.prototype._upDateView = function() {
+            var t = this;
+            UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this)
+        },
+        i.prototype._updatePanel = function() {
+            var t = this.mallCfg.itemID.split("|").map(Number),
+            e = SuitXMLInfo.getSuitID(t);
+            this._arry.replaceAll(t),
+            this._arry.refresh();
+            var i = ClientConfig.getResPath("assets/item/cloth/suiticon/" + e + ".png");
+            if (this.hero_show.source = i, this.txt_suit.text = SuitXMLInfo.getName(e), 2 == this.mallCfg.coins) {
+                this.icon.source = ClientConfig.getItemIcon(1);
+                var n = ItemXMLInfo.getPrice(this.mallCfg.itemID)
+            } else {
+                this.icon.source = ClientConfig.getItemIcon(5);
+                var n = GoldProductXMLInfo.getPriceByProID(this.mallCfg.productID);
+                MainManager.actorInfo.isVip && (n *= GoldProductXMLInfo.getVipByProID(this.mallCfg.productID))
+            }
+            this.txt_num.text = n * this._currentExchangeNum + "",
+            this.txt_normal.text = SuitXMLInfo.getSuitNormalDesc(e);
+            var o = ItemSeXMLInfo.getSuitEff(e);
+            this.Grp_suitEff.visible = "" !== o,
+            this.Grp_suitEff.visible && (this.txt_desc.text = o)
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.imgBtn_exchange:
+                this._doExchange()
+            }
+        },
+        i.prototype._doExchange = function() {
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.mallSuitView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.mallSuitView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.ItemViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.btnAdd, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnSub, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnMin, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnMax, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnBuy, this._onTouchImageButtonHandler, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype._parseData = function() {
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            this.mallCfg = this._data.ins
+        },
+        i.prototype._upDateView = function() {
+            var t = this;
+            UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this)
+        },
+        i.prototype._updatePanel = function() {
+            var t = this;
+            this._maxExchangeNum = this.maxNum > 99 ? 99 : this.maxNum;
+            var e = ItemXMLInfo.getTargetItemId(this.mallCfg.itemID),
+            i = e > 0 ? e: this.mallCfg.itemID;
+            this._maxExchangeNum = Math.min(this._maxExchangeNum, ItemXMLInfo.getMaxNum(i) - ItemManager.getNumByID(i)),
+            this._maxExchangeNum = Math.max(1, this._maxExchangeNum),
+            0 == this._maxExchangeNum && (this._currentExchangeNum = 0),
+            e > 0 ? (CountermarkXMLInfo.isminMark(e) ? this.icon_item.source = ClientConfig.getMarkPath(e) : this.icon_item.source = ClientConfig.getItemIcon(e), this.txt_name.text = ItemXMLInfo.getName(e), tipsPop.getItemDescAsync(e).then(function(e) {
+                t.txt_desc.text = e
+            })) : (this.icon_item.source = ClientConfig.getItemIcon(this.mallCfg.itemID), this.txt_name.text = this.mallCfg.name, tipsPop.getItemDescAsync(this.mallCfg.itemID).then(function(e) {
+                t.txt_desc.text = e
+            })),
+            this.iconCost.source = 2 == this.mallCfg.coins ? ClientConfig.getItemIcon(1) : ClientConfig.getItemIcon(5),
+            this._updateExchangeInfo(),
+            this.txt_count.visible = !1
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.btnAdd:
+                if (this._currentExchangeNum >= this._maxExchangeNum) return;
+                this._currentExchangeNum++,
+                this._updateExchangeInfo();
+                break;
+            case this.btnSub:
+                if (this._currentExchangeNum <= 1) return;
+                this._currentExchangeNum--,
+                this._updateExchangeInfo();
+                break;
+            case this.btnMin:
+                this._currentExchangeNum = 1,
+                this._updateExchangeInfo();
+                break;
+            case this.btnMax:
+                this._currentExchangeNum = this._maxExchangeNum,
+                this._updateExchangeInfo();
+                break;
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.btnBuy:
+                this._doExchange()
+            }
+        },
+        Object.defineProperty(i.prototype, "maxNum", {
+            get: function() {
+                var t, e = ItemXMLInfo.getTargetItemId(this.mallCfg.itemID);
+                t = e > 0 ? e: this.mallCfg.itemID;
+                var i = ItemXMLInfo.getCatID(t);
+                return t > 1e4 && 3e4 > t ? CountermarkXMLInfo.getMax(t) : 1 == i || 13 == i ? 1 : t > 0 ? ItemXMLInfo.getMaxNum(t) : 1
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        i.prototype._doExchange = function() {
+            if (0 == this._currentExchangeNum) return void BubblerManager.getInstance().showText("请选择购买数量");
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        i.prototype._updateExchangeInfo = function() {
+            if (this.txt_buyNum.text = this._currentExchangeNum + "/" + this._maxExchangeNum, 2 == this.mallCfg.coins) var t = ItemXMLInfo.getPrice(this.mallCfg.itemID);
+            else {
+                var t = GoldProductXMLInfo.getPriceByProID(this.mallCfg.productID);
+                MainManager.actorInfo.isVip && (t *= GoldProductXMLInfo.getVipByProID(this.mallCfg.productID))
+            }
+            var e = t * this._currentExchangeNum;
+            this.txt_cost.text = e + "",
+            this.txt_cost.textColor = e <= this._handCoinNum ? 3488607 : 16711680
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.mallView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.mallView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = SkinViewSkin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.img_title.source = "pet_view_title_png"
+        },
+        e.prototype.initEvents = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose, this.hide, this),
+            ImageButtonUtil.add(this.btnBuy, this._doExchange, this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                t.hide(),
+                t._info = t._data,
+                ModuleManager.showModule("petManualInfo", ["pet_info_manual"], {
+                    data: t._popCfg.describ_id,
+                    type: "pet",
+                    callback: t.onCb,
+                    thisObj: t
+                },
+                "", AppDoStyle.HIDEN)
+            },
+            this)
+        },
+        e.prototype.onCb = function() {
+            ModuleManager.showModuleByID(1, this._info),
+            this._info = null
+        },
+        e.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        e.prototype._updatePanel = function() {
+            this.img_pet.source = ClientConfig.getPetHalfIcon(this._popCfg.describ_id),
+            this.iconCost.source = ClientConfig.getItemIcon(this._ins.coinid),
+            this._popCfg.name ? this.txt_name.text = this._popCfg.name: this.txt_name.text = PetXMLInfo.getName(this._popCfg.describ_id),
+            0 == this._popCfg.describ_type ? this.txt_desc.text = this._popCfg.describ_txt: this.txt_desc.text = PetBook.PetBookXMLInfo.getPetXML(this._popCfg.describ_id).Features + this._popCfg.describ_txt,
+            this.txt_cost.text = this._ins.price + ""
+        },
+        e.prototype.destroy = function() {
+            t.prototype.destroy.call(this)
+        },
+        e
+    } (t.BaseView);
+    t.petView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.petView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i._xCount = 1,
+            i.skinName = t.ItemViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.btnAdd, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnSub, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnBuy, this._onTouchImageButtonHandler, this),
+            this._slider.addEventListener(egret.Event.CHANGE, this.onChangeSlider, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this._slider.removeEventListener(egret.Event.CHANGE, this.onChangeSlider, this)
+        },
+        i.prototype.onChangeSlider = function() {
+            this._currentExchangeNum = this._slider.value,
+            this._updateExchangeInfo()
+        },
+        i.prototype._parseData = function() {
+            this.currentState = "complex",
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller,
+            this.mallCfg = this._data.ins,
+            this._productID = this.mallCfg.productID,
+            this._iconID = this.mallCfg.iconID,
+            this.mallCfg.maxNum ? this.maxNum = Math.min(ItemXMLInfo.getMaxNum(this._iconID), this.mallCfg.maxNum + ItemManager.getNumByID(this._iconID)) : this.maxNum = ItemXMLInfo.getMaxNum(this._iconID),
+            0 == this._xCount && (this._xCount = 1)
+        },
+        i.prototype._upDateView = function() {
+            var t = this;
+            UserInfoManager.getDiamond(function(e) {
+                t._handCoinNum = e,
+                t._updatePanel()
+            },
+            this)
+        },
+        i.prototype._updatePanel = function() {
+            var t = this;
+            this._curCount = ItemManager.getNumByID(this._iconID),
+            this._maxExchangeNum = this.maxNum;
+            var e = ItemXMLInfo.getTargetItemId(this._iconID),
+            i = e > 0 ? e: this._iconID,
+            n = GoldProductXMLInfo.getPriceByProID(this._productID),
+            o = Math.floor(this._handCoinNum / n);
+            this._maxExchangeNum = Math.min(this._maxExchangeNum, Math.min(this.maxNum - ItemManager.getNumByID(i), o)),
+            this._maxExchangeNum = Math.max(1, this._maxExchangeNum),
+            this._slider.maximum = Math.max(1, this._maxExchangeNum),
+            this._slider.minimum = Math.min(0, this._maxExchangeNum),
+            0 == this._maxExchangeNum && (this._currentExchangeNum = 0),
+            e > 0 ? (CountermarkXMLInfo.isminMark(e) ? this.icon_item.source = ClientConfig.getMarkPath(e) : this.icon_item.source = ClientConfig.getItemIcon(e), this.txt_name.text = ItemXMLInfo.getName(e), tipsPop.getItemDescAsync(e).then(function(e) {
+                t.txt_desc.text = e
+            })) : (this.icon_item.source = ClientConfig.getItemIcon(this._iconID), this.txt_name.text = ItemXMLInfo.getName(this._iconID), tipsPop.getItemDescAsync(this._iconID).then(function(e) {
+                t.txt_desc.text = e
+            })),
+            this.iconCost.source = ClientConfig.getItemIcon(5),
+            this._updateExchangeInfo(),
+            this.txt_count.visible = !1
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.btnAdd:
+                if (this._currentExchangeNum >= this._maxExchangeNum) return;
+                this._currentExchangeNum++,
+                this._updateExchangeInfo();
+                break;
+            case this.btnSub:
+                if (this._currentExchangeNum <= 1) return;
+                this._currentExchangeNum--,
+                this._updateExchangeInfo();
+                break;
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.btnBuy:
+                this._doExchange()
+            }
+        },
+        i.prototype._doExchange = function() {
+            return 0 == this._currentExchangeNum ? void BubblerManager.getInstance().showText("请选择购买数量") : void this.returnCaller()
+        },
+        i.prototype.returnCaller = function() {
+            if (this._callBack && this._caller) {
+                var t = this._ins,
+                e = this._callBack,
+                i = this._caller;
+                this.hide(),
+                e.apply(i, [t, this._currentExchangeNum])
+            }
+        },
+        i.prototype._updateExchangeInfo = function() {
+            this._currentExchangeNum > this.maxNum - this._curCount && (BubblerManager.getInstance().showText("物品个数已达上限，请重新输入！"), this._currentExchangeNum = this.maxNum - this._curCount),
+            this._slider.value = this._currentExchangeNum,
+            this.txt_buyNum.text = "数量：" + this._currentExchangeNum;
+            var t = GoldProductXMLInfo.getPriceByProID(this._productID),
+            e = t * this._currentExchangeNum;
+            this.txt_cost.text = e + "",
+            this.txt_cost.textColor = e <= this._handCoinNum ? 3488607 : 16711680
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.productBuyItemView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.productBuyItemView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = SkinViewSkin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.img_title.source = "skin_view_title_png"
+        },
+        e.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.btnClose, this.hide, this),
+            ImageButtonUtil.add(this.btnBuy, this._doExchange, this)
+        },
+        e.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        e.prototype._updatePanel = function() {
+            var t = PetSkinXMLInfo.getSkinInfo(this._popCfg.describ_id);
+            this.img_pet.source = ClientConfig.getPetHalfIcon(t.skinPetId),
+            this._popCfg.name ? this.txt_name.text = this._popCfg.name: this.txt_name.text = t.name,
+            0 == this._popCfg.describ_type ? this.txt_desc.text = this._popCfg.describ_txt: this.txt_desc.text = PetXMLInfo.getName(t.monId) + this._popCfg.describ_txt,
+            this.iconCost.source = ClientConfig.getItemIcon(this._ins.coinid || 1723116),
+            this.txt_cost.text = this._ins.price || this._ins.CardPrice + ""
+        },
+        e.prototype.destroy = function() {
+            t.prototype.destroy.call(this)
+        },
+        e
+    } (t.BaseView);
+    t.skinView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.skinView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.ItemViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.currentState = "single",
+            this.title.source = "special_gift_title_png"
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_close, this.hide, this),
+            ImageButtonUtil.add(this.btnBuy, this._doExchange, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype._updatePanel = function() {
+            if (this.icon_item.source = "item_view_special_icon_1_png", this.txt_count.visible = !1, this._popCfg.name ? this.txt_name.text = this._popCfg.name: this.txt_name.text = PetXMLInfo.getName(this._ins.boundmonster) + "专属特性", 0 == this._popCfg.describ_type) this.txt_desc.text = this._popCfg.describ_txt;
+            else {
+                var t = EffectIconControl.getAllEffctByPetId(this._ins.boundmonster).slice(0, 1),
+                e = t[0],
+                i = EffectDesManager.transferDesc(e),
+                n = i[0],
+                o = (i[1], (new egret.HtmlTextParser).parse(n));
+                "string" == typeof o ? this.txt_desc.text = o + this._popCfg.describ_txt: this.txt_desc.textFlow = o
+            }
+            this.iconCost.source = ClientConfig.getItemIcon(this._ins.coinid),
+            this.txt_cost.text = this._ins.price + ""
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.specialGiftView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.specialGiftView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+exchangeAwardPromptView; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.ItemViewSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        i.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.btnAdd, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnSub, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            ImageButtonUtil.add(this.btnBuy, this._onTouchImageButtonHandler, this),
+            this._slider.addEventListener(egret.Event.CHANGE, this.onChangeSlider, this)
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this._slider.removeEventListener(egret.Event.CHANGE, this.onChangeSlider, this)
+        },
+        i.prototype._parseData = function() {
+            e.prototype._parseData.call(this),
+            0 == this._popCfg.Isplural ? this.currentState = "single": 1 == this._popCfg.Isplural && (this.currentState = "complex")
+        },
+        i.prototype._updatePanel = function() {
+            var t = this;
+            if (void 0 === this._maxExchangeNum || null === this._maxExchangeNum) {
+                var e = this._popCfg.describ_id,
+                i = ItemXMLInfo.getMaxNum(e) - ItemManager.getNumByID(e),
+                n = Math.floor(this._handCoinNum / this._ins.price),
+                o = Math.min(i, n);
+                if (this._maxExchangeNum = Math.max(1, Math.min(this._ins.batch || Number.MAX_VALUE, o)), this._slider.maximum = Math.max(1, this._maxExchangeNum), this._slider.minimum = Math.min(1, this._maxExchangeNum), this._ins.Limittype) return void KTool.getMultiValue([this._ins.UserInfoId],
+                function(e) {
+                    var i, n = e[0];
+                    i = t._ins && t._ins.UserInfoBitPos ? KTool.getBit(n, t._ins.UserInfoBitPos) : t._ins && t._ins.UserInfoBytePos ? KTool.getByte(n, t._ins.UserInfoBytePos - 1) : n;
+                    var o = t._ins.LimitCnt - i;
+                    t._maxExchangeNum = Math.min(o, t._maxExchangeNum),
+                    t._slider.maximum = Math.max(1, t._maxExchangeNum),
+                    t._slider.minimum = Math.min(1, t._maxExchangeNum),
+                    t._updatePanel()
+                })
+            }
+            this._popCfg.name ? this.txt_name.text = this._popCfg.name: this.txt_name.text = ItemXMLInfo.getName(this._popCfg.describ_id),
+            0 == this._popCfg.describ_type ? this.txt_desc.text = this._popCfg.describ_txt: tipsPop.getItemDescAsync(this._popCfg.describ_id).then(function(e) {
+                t.txt_desc.text = e + t._popCfg.describ_txt
+            }),
+            this.icon_item.source = ClientConfig.getItemIcon(this._popCfg.describ_id),
+            this.iconCost.source = ClientConfig.getItemIcon(this._ins.coinid),
+            this._updateExchangeInfo(),
+            this._ins.count ? (this.txt_count.visible = !0, this._ins.count >= 1e4 ? this.txt_count.text = Math.floor(this._ins.count / 1e4) + "万": this._ins.count >= 1e3 ? this.txt_count.text = Math.floor(this._ins.count / 1e3) + "千": this.txt_count.text = this._ins.count + "") : this.txt_count.visible = !1
+        },
+        i.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.btnAdd:
+                if (this._currentExchangeNum >= this._maxExchangeNum) return;
+                this._currentExchangeNum++,
+                this._updateExchangeInfo();
+                break;
+            case this.btnSub:
+                if (this._currentExchangeNum <= 1) return;
+                this._currentExchangeNum--,
+                this._updateExchangeInfo();
+                break;
+            case this.imgBtn_close:
+                this.hide();
+                break;
+            case this.btnBuy:
+                this._doExchange()
+            }
+        },
+        i.prototype._updateExchangeInfo = function() {
+            this._slider.value = this._currentExchangeNum,
+            this.txt_buyNum.text = "数量：" + this._currentExchangeNum;
+            var t = this._ins.price * this._currentExchangeNum;
+            this.txt_cost.text = t + ""
+        },
+        i.prototype.onChangeSlider = function() {
+            this._currentExchangeNum = this._slider.value,
+            this._updateExchangeInfo()
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (t.BaseView);
+    t.itemView = e,
+    __reflect(e.prototype, "exchangeAwardPromptView.itemView")
+} (exchangeAwardPromptView || (exchangeAwardPromptView = {})),
+window.exchangeAwardPromptView = window.exchangeAwardPromptView || {};
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/ExchangeMainSkin.exml"] = window.ExchangeMainSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["groupPop", "txt_coin_0", "icon_coin_0", "btnAdd_0", "grp_coin_0", "txt_coin_1", "icon_coin_1", "grp_coin_1"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.groupPop_i(), this.grp_coin_0_i(), this.grp_coin_1_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "blurry_base_bg_jpg",
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "blurry_base_bgmask_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.groupPop_i = function() {
+        var t = new eui.Group;
+        return this.groupPop = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.top = 0,
+        t
+    },
+    i.grp_coin_0_i = function() {
+        var t = new eui.Group;
+        return this.grp_coin_0 = t,
+        t.right = 39,
+        t.y = 11,
+        t.elementsContent = [this._Image3_i(), this.txt_coin_0_i(), this.icon_coin_0_i(), this.btnAdd_0_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "exchange_main_img_di2_png",
+        t.width = 133,
+        t.x = 14,
+        t.y = 5,
+        t
+    },
+    i.txt_coin_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_coin_0 = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 3,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.y = 6,
+        t
+    },
+    i.icon_coin_0_i = function() {
+        var t = new eui.Image;
+        return this.icon_coin_0 = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnAdd_0_i = function() {
+        var t = new eui.Image;
+        return this.btnAdd_0 = t,
+        t.height = 21,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "exchange_main_btnAdd_png",
+        t.visible = !1,
+        t.width = 21,
+        t.x = 130,
+        t.y = 5,
+        t
+    },
+    i.grp_coin_1_i = function() {
+        var t = new eui.Group;
+        return this.grp_coin_1 = t,
+        t.right = 208,
+        t.y = 11,
+        t.elementsContent = [this._Image4_i(), this.txt_coin_1_i(), this.icon_coin_1_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "exchange_main_img_di2_png",
+        t.width = 133,
+        t.x = 14,
+        t.y = 5,
+        t
+    },
+    i.txt_coin_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_coin_1 = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 16,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.y = 6,
+        t
+    },
+    i.icon_coin_1_i = function() {
+        var t = new eui.Image;
+        return this.icon_coin_1 = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/ExchangeHSliderSkin.exml"] = window.ExchangeHSliderSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["track", "trackHighlight", "thumb"],
+        this.height = 28,
+        this.width = 235,
+        this.elementsContent = [this.track_i(), this.trackHighlight_i(), this.thumb_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.track_i = function() {
+        var t = new eui.Image;
+        return this.track = t,
+        t.height = 14,
+        t.source = "item_view_img_bar_png",
+        t.width = 235,
+        t.x = 0,
+        t.y = 7,
+        t
+    },
+    i.trackHighlight_i = function() {
+        var t = new eui.Image;
+        return this.trackHighlight = t,
+        t.height = 13,
+        t.source = "item_view_img_thumb_png",
+        t.width = 235,
+        t.x = 1,
+        t.y = 8,
+        t
+    },
+    i.thumb_i = function() {
+        var t = new eui.Image;
+        return this.thumb = t,
+        t.height = 28,
+        t.source = "item_view_img_point_png",
+        t.width = 20,
+        t.x = 108,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/SuitIconSkin.exml"] = window.exchangeAwardPromptView.SuitIconSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["icon_item"],
+        this.height = 64,
+        this.width = 64,
+        this.elementsContent = [this._Image1_i(), this.icon_item_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "common_icon_bg_style_1_png",
+        t.width = 64,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.icon_item_i = function() {
+        var t = new eui.Image;
+        return this.icon_item = t,
+        t.height = 31,
+        t.source = "suit_view_icon_item_png",
+        t.width = 44,
+        t.x = 10,
+        t.y = 18,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/itemSlider.exml"] = window.exchangeAwardPromptView.itemSlider = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["track", "thumb"],
+        this.height = 27,
+        this.width = 262,
+        this.elementsContent = [this.track_i(), this.thumb_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.track_i = function() {
+        var t = new eui.Image;
+        return this.track = t,
+        t.height = 5,
+        t.source = "item_view_texture_slider_track_png",
+        t.percentWidth = 100,
+        t.y = 11,
+        t
+    },
+    i.thumb_i = function() {
+        var t = new eui.Image;
+        return this.thumb = t,
+        t.height = 27,
+        t.source = "common_thumb_1_png",
+        t.width = 27,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/AchieveViewSkin.exml"] = window.AchieveViewSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBtn_close", "txt_name", "txt_point", "txtTitle", "txt_title", "txtEffect", "txt_effect", "txt_buy", "txt_cost", "iconCost", "btnBuy", "imgLine"],
+        this.height = 285,
+        this.width = 481,
+        this.elementsContent = [this._Group1_i(), this.imgBtn_close_i(), this.txt_name_i(), this._Label1_i(), this.txt_point_i(), this.txtTitle_i(), this.txt_title_i(), this.txtEffect_i(), this.txt_effect_i(), this.btnBuy_i(), this.imgLine_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 285,
+        t.source = "common_s9_pop_bg4_png",
+        t.width = 481,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "common_pop_up_bg_m_png",
+        t.width = 476,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 32,
+        t.source = "achieve_view_title_png",
+        t.width = 102,
+        t.x = 34,
+        t.y = 1,
+        t
+    },
+    i.imgBtn_close_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_close = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 438,
+        t.y = 1,
+        t
+    },
+    i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "成就名字成就名字成就名字",
+        t.textColor = 4252667,
+        t.x = 31,
+        t.y = 50,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "成就点数：",
+        t.textColor = 6153817,
+        t.x = 31,
+        t.y = 83,
+        t
+    },
+    i.txt_point_i = function() {
+        var t = new eui.Label;
+        return this.txt_point = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "+99",
+        t.textColor = 8822740,
+        t.x = 111,
+        t.y = 83,
+        t
+    },
+    i.txtTitle_i = function() {
+        var t = new eui.Label;
+        return this.txtTitle = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "称号称号称号",
+        t.textColor = 8822740,
+        t.x = 111,
+        t.y = 112,
+        t
+    },
+    i.txt_title_i = function() {
+        var t = new eui.Label;
+        return this.txt_title = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "对应称号：",
+        t.textColor = 6153817,
+        t.x = 31,
+        t.y = 112,
+        t
+    },
+    i.txtEffect_i = function() {
+        var t = new eui.Label;
+        return this.txtEffect = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "称号效果：",
+        t.textColor = 6153817,
+        t.x = 31,
+        t.y = 163,
+        t
+    },
+    i.txt_effect_i = function() {
+        var t = new eui.Label;
+        return this.txt_effect = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.textColor = 8822740,
+        t.width = 366,
+        t.x = 63,
+        t.y = 191,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy = t,
+        t.x = 154,
+        t.y = 233,
+        t.elementsContent = [this._Image4_i(), this.txt_buy_i(), this.txt_cost_i(), this.iconCost_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "item_view_btnbg_png",
+        t.width = 174,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_buy_i = function() {
+        var t = new eui.Label;
+        return this.txt_buy = t,
+        t.fontFamily = "REEJI",
+        t.size = 18,
+        t.text = "购买",
+        t.textColor = 16777215,
+        t.x = 125,
+        t.y = 8,
+        t
+    },
+    i.txt_cost_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost = t,
+        t.fontFamily = "REEJI",
+        t.horizontalCenter = -19,
+        t.size = 18,
+        t.text = "999999",
+        t.textColor = 16777215,
+        t.y = 8,
+        t
+    },
+    i.iconCost_i = function() {
+        var t = new eui.Image;
+        return this.iconCost = t,
+        t.height = 20,
+        t.source = "item_view_icon_cost_png",
+        t.width = 19,
+        t.x = 12,
+        t.y = 6,
+        t
+    },
+    i.imgLine_i = function() {
+        var t = new eui.Image;
+        return this.imgLine = t,
+        t.height = 2,
+        t.source = "help_mulit_pop_line_yc_1_png",
+        t.width = 418,
+        t.x = 30,
+        t.y = 145,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/CounterMarkViewSkin.exml"] = window.exchangeAwardPromptView.CounterMarkViewSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["title", "imgBtn_close", "imgMark", "txt_exchangeName", "txt_yc0", "txt_yc", "txt_extra_4", "txt_extra_5", "txt_extra_3", "txt_extra_2", "txt_extra_1", "txt_extra_0", "txt_extr_name_4", "txt_extr_name_5", "txt_extr_name_3", "txt_extr_name_2", "txt_extr_name_1", "txt_extr_name_0", "extra", "txt_noExtr", "txt_attr_4", "txt_attr_5", "txt_attr_3", "txt_attr_2", "txt_attr_1", "txt_attr_0", "txt_attr_name_4", "txt_attr_name_5", "txt_attr_name_3", "txt_attr_name_2", "txt_attr_name_1", "txt_attr_name_0", "default", "txt_buy", "txt_costItem", "icon_cost", "imgBtn_exchange"],
+        this.height = 285,
+        this.width = 481,
+        this.elementsContent = [this._Group1_i(), this._Group2_i(), this.txt_exchangeName_i(), this.txt_yc0_i(), this.extra_i(), this.txt_noExtr_i(), this.default_i(), this.imgBtn_exchange_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.title_i(), this.imgBtn_close_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 285,
+        t.source = "common_s9_pop_bg4_png",
+        t.width = 481,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "common_pop_up_bg_m_png",
+        t.width = 476,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "counter_mark_view_title_buymake_png",
+        t.x = 34,
+        t.y = 1,
+        t
+    },
+    i.imgBtn_close_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_close = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 438,
+        t.y = 1,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 20,
+        t.y = 53,
+        t.elementsContent = [this._Image3_i(), this.imgMark_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "item_view_imgMarkBg_png",
+        t
+    },
+    i.imgMark_i = function() {
+        var t = new eui.Image;
+        return this.imgMark = t,
+        t.height = 65,
+        t.horizontalCenter = 0,
+        t.source = "",
+        t.verticalCenter = 0,
+        t.width = 65,
+        t
+    },
+    i.txt_exchangeName_i = function() {
+        var t = new eui.Label;
+        return this.txt_exchangeName = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "刻印名字刻印名字刻印名字",
+        t.textColor = 6153817,
+        t.x = 136,
+        t.y = 53,
+        t
+    },
+    i.txt_yc0_i = function() {
+        var t = new eui.Label;
+        return this.txt_yc0 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "暂无隐藏属性",
+        t.textColor = 6153817,
+        t.visible = !1,
+        t.x = 237,
+        t.y = 125,
+        t
+    },
+    i.extra_i = function() {
+        var t = new eui.Group;
+        return this.extra = t,
+        t.x = 136,
+        t.y = 125,
+        t.elementsContent = [this.txt_yc_i(), this.txt_extra_4_i(), this.txt_extra_5_i(), this.txt_extra_3_i(), this.txt_extra_2_i(), this.txt_extra_1_i(), this.txt_extra_0_i(), this.txt_extr_name_4_i(), this.txt_extr_name_5_i(), this.txt_extr_name_3_i(), this.txt_extr_name_2_i(), this.txt_extr_name_1_i(), this.txt_extr_name_0_i()],
+        t
+    },
+    i.txt_yc_i = function() {
+        var t = new eui.Label;
+        return this.txt_yc = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "隐藏属性：",
+        t.textColor = 6153817,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_extra_4_i = function() {
+        var t = new eui.Label;
+        return this.txt_extra_4 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+100",
+        t.textColor = 8822740,
+        t.x = 272,
+        t.y = 25,
+        t
+    },
+    i.txt_extra_5_i = function() {
+        var t = new eui.Label;
+        return this.txt_extra_5 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+100",
+        t.textColor = 8822740,
+        t.x = 272,
+        t.y = 49,
+        t
+    },
+    i.txt_extra_3_i = function() {
+        var t = new eui.Label;
+        return this.txt_extra_3 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+90",
+        t.textColor = 8822740,
+        t.x = 157,
+        t.y = 49,
+        t
+    },
+    i.txt_extra_2_i = function() {
+        var t = new eui.Label;
+        return this.txt_extra_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+100",
+        t.textColor = 8822740,
+        t.x = 157,
+        t.y = 25,
+        t
+    },
+    i.txt_extra_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_extra_1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+90",
+        t.textColor = 8822740,
+        t.x = 42,
+        t.y = 49,
+        t
+    },
+    i.txt_extra_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_extra_0 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+90",
+        t.textColor = 8822740,
+        t.x = 42,
+        t.y = 25,
+        t
+    },
+    i.txt_extr_name_4_i = function() {
+        var t = new eui.Label;
+        return this.txt_extr_name_4 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "速度：",
+        t.textColor = 4187130,
+        t.x = 230,
+        t.y = 25,
+        t
+    },
+    i.txt_extr_name_5_i = function() {
+        var t = new eui.Label;
+        return this.txt_extr_name_5 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "体力：",
+        t.textColor = 4187130,
+        t.x = 230,
+        t.y = 49,
+        t
+    },
+    i.txt_extr_name_3_i = function() {
+        var t = new eui.Label;
+        return this.txt_extr_name_3 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "特防：",
+        t.textColor = 4187130,
+        t.x = 115,
+        t.y = 49,
+        t
+    },
+    i.txt_extr_name_2_i = function() {
+        var t = new eui.Label;
+        return this.txt_extr_name_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "特攻：",
+        t.textColor = 4187130,
+        t.x = 115,
+        t.y = 25,
+        t
+    },
+    i.txt_extr_name_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_extr_name_1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "防御：",
+        t.textColor = 4187130,
+        t.x = 0,
+        t.y = 49,
+        t
+    },
+    i.txt_extr_name_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_extr_name_0 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "攻击：",
+        t.textColor = 4187130,
+        t.x = 0,
+        t.y = 25,
+        t
+    },
+    i.txt_noExtr_i = function() {
+        var t = new eui.Label;
+        return this.txt_noExtr = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "无隐藏属性",
+        t.textColor = 16777215,
+        t.visible = !1,
+        t.x = 231,
+        t.y = 180,
+        t
+    },
+    i.default_i = function() {
+        var t = new eui.Group;
+        return this["default"] = t,
+        t.x = 136,
+        t.y = 81,
+        t.elementsContent = [this.txt_attr_4_i(), this.txt_attr_5_i(), this.txt_attr_3_i(), this.txt_attr_2_i(), this.txt_attr_1_i(), this.txt_attr_0_i(), this.txt_attr_name_4_i(), this.txt_attr_name_5_i(), this.txt_attr_name_3_i(), this.txt_attr_name_2_i(), this.txt_attr_name_1_i(), this.txt_attr_name_0_i()],
+        t
+    },
+    i.txt_attr_4_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_4 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+100/100",
+        t.textColor = 8822740,
+        t.x = 272,
+        t.y = 0,
+        t
+    },
+    i.txt_attr_5_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_5 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+100/100",
+        t.textColor = 8822740,
+        t.x = 272,
+        t.y = 24,
+        t
+    },
+    i.txt_attr_3_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_3 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+90/100",
+        t.textColor = 8822740,
+        t.x = 157,
+        t.y = 24,
+        t
+    },
+    i.txt_attr_2_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+100/100",
+        t.textColor = 8822740,
+        t.x = 157,
+        t.y = 0,
+        t
+    },
+    i.txt_attr_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+90/100",
+        t.textColor = 8822740,
+        t.x = 42,
+        t.y = 24,
+        t
+    },
+    i.txt_attr_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_0 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "+000/000",
+        t.textColor = 8822740,
+        t.x = 42,
+        t.y = 0,
+        t
+    },
+    i.txt_attr_name_4_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_name_4 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "速度：",
+        t.textColor = 4187130,
+        t.x = 230,
+        t.y = 0,
+        t
+    },
+    i.txt_attr_name_5_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_name_5 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "体力：",
+        t.textColor = 4187130,
+        t.x = 230,
+        t.y = 24,
+        t
+    },
+    i.txt_attr_name_3_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_name_3 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "特防：",
+        t.textColor = 4187130,
+        t.x = 115,
+        t.y = 24,
+        t
+    },
+    i.txt_attr_name_2_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_name_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "特攻：",
+        t.textColor = 4187130,
+        t.x = 115,
+        t.y = 0,
+        t
+    },
+    i.txt_attr_name_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_name_1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "防御：",
+        t.textColor = 4187130,
+        t.x = 0,
+        t.y = 24,
+        t
+    },
+    i.txt_attr_name_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr_name_0 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "攻击：",
+        t.textColor = 4187130,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.imgBtn_exchange_i = function() {
+        var t = new eui.Group;
+        return this.imgBtn_exchange = t,
+        t.x = 154,
+        t.y = 226,
+        t.elementsContent = [this._Image4_i(), this.txt_buy_i(), this.txt_costItem_i(), this.icon_cost_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "item_view_btnbg_png",
+        t.width = 174,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_buy_i = function() {
+        var t = new eui.Label;
+        return this.txt_buy = t,
+        t.fontFamily = "REEJI",
+        t.size = 18,
+        t.text = "购买",
+        t.textColor = 16777215,
+        t.x = 125,
+        t.y = 8,
+        t
+    },
+    i.txt_costItem_i = function() {
+        var t = new eui.Label;
+        return this.txt_costItem = t,
+        t.fontFamily = "REEJI",
+        t.horizontalCenter = -19,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 16777215,
+        t.y = 8,
+        t
+    },
+    i.icon_cost_i = function() {
+        var t = new eui.Image;
+        return this.icon_cost = t,
+        t.height = 20,
+        t.source = "item_view_icon_cost_png",
+        t.width = 19,
+        t.x = 12,
+        t.y = 6,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/EquipmentViewSkin.exml"] = window.exchangeAwardPromptView.EquipmentViewSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBtn_close", "icon_item", "txt_name", "txt_buy", "txt_cost", "iconCost", "btnBuy", "txt_desc"],
+        this.height = 285,
+        this.width = 481,
+        this.elementsContent = [this._Group1_i(), this.imgBtn_close_i(), this._Group2_i(), this.txt_name_i(), this._Label1_i(), this.btnBuy_i(), this.txt_desc_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 285,
+        t.source = "common_s9_pop_bg4_png",
+        t.width = 481,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "common_pop_up_bg_m_png",
+        t.width = 476,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 32,
+        t.source = "equipment_view_title_png",
+        t.width = 102,
+        t.x = 34,
+        t.y = 1,
+        t
+    },
+    i.imgBtn_close_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_close = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 438,
+        t.y = 1,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 27,
+        t.y = 72,
+        t.elementsContent = [this._Image4_i(), this.icon_item_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "item_view_imgMarkBg_png",
+        t
+    },
+    i.icon_item_i = function() {
+        var t = new eui.Image;
+        return this.icon_item = t,
+        t.height = 65,
+        t.horizontalCenter = 0,
+        t.source = "",
+        t.verticalCenter = 0,
+        t.width = 65,
+        t
+    },
+    i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "套装部件套装部件",
+        t.textColor = 4187130,
+        t.x = 152,
+        t.y = 72,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "装扮效果",
+        t.textColor = 6153817,
+        t.x = 152,
+        t.y = 96,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy = t,
+        t.x = 154,
+        t.y = 225,
+        t.elementsContent = [this._Image5_i(), this.txt_buy_i(), this.txt_cost_i(), this.iconCost_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "item_view_btnbg_png",
+        t.width = 174,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_buy_i = function() {
+        var t = new eui.Label;
+        return this.txt_buy = t,
+        t.fontFamily = "REEJI",
+        t.size = 18,
+        t.text = "购买",
+        t.textColor = 16777215,
+        t.x = 125,
+        t.y = 8,
+        t
+    },
+    i.txt_cost_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost = t,
+        t.fontFamily = "REEJI",
+        t.horizontalCenter = -19,
+        t.size = 18,
+        t.text = "999999",
+        t.textColor = 16777215,
+        t.y = 8,
+        t
+    },
+    i.iconCost_i = function() {
+        var t = new eui.Image;
+        return this.iconCost = t,
+        t.height = 20,
+        t.source = "item_view_icon_cost_png",
+        t.width = 19,
+        t.x = 12,
+        t.y = 6,
+        t
+    },
+    i.txt_desc_i = function() {
+        var t = new eui.Label;
+        return this.txt_desc = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "套装部件顶部套装部件顶部套装部件顶部套装部\n件顶部套装部件顶部套装部件顶部套装部件",
+        t.textColor = 8757203,
+        t.touchEnabled = !1,
+        t.width = 304,
+        t.x = 152,
+        t.y = 120,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/FlypetViewSkin.exml"] = window.exchangeAwardPromptView.FlypetViewSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBtn_close", "flypet_icon", "txt_buy", "txt_cost", "iconCost", "btnBuy", "txt_gotNum", "txt_name", "txt_desc"],
+        this.height = 343,
+        this.width = 558,
+        this.elementsContent = [this._Group1_i(), this._Image3_i(), this._Group2_i(), this.btnBuy_i(), this.txt_gotNum_i(), this.txt_name_i(), this.txt_desc_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.imgBtn_close_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 340,
+        t.source = "common_s9_pop_bg4_png",
+        t.width = 551,
+        t.x = 5,
+        t.y = 3,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 46,
+        t.source = "flypet_view_up_bg_png",
+        t.width = 558,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.imgBtn_close_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_close = t,
+        t.source = "common_pop_btn_close_png",
+        t.visible = !1,
+        t.x = 515,
+        t.y = 3,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 32,
+        t.source = "flypet_view_title_png",
+        t.width = 102,
+        t.x = 41,
+        t.y = 4,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 6,
+        t.y = 62,
+        t.elementsContent = [this._Image4_i(), this.flypet_icon_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "suit_view_texture_001_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.flypet_icon_i = function() {
+        var t = new eui.Image;
+        return this.flypet_icon = t,
+        t.bottom = 58,
+        t.horizontalCenter = -2,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy = t,
+        t.horizontalCenter = 0,
+        t.y = 283,
+        t.elementsContent = [this._Image5_i(), this.txt_buy_i(), this.txt_cost_i(), this.iconCost_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.source = "item_view_btnbg_png",
+        t.top = 0,
+        t
+    },
+    i.txt_buy_i = function() {
+        var t = new eui.Label;
+        return this.txt_buy = t,
+        t.fontFamily = "REEJI",
+        t.right = 13,
+        t.size = 18,
+        t.text = "购买",
+        t.textColor = 16777215,
+        t.y = 8,
+        t
+    },
+    i.txt_cost_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost = t,
+        t.fontFamily = "REEJI",
+        t.left = 42,
+        t.minWidth = 53,
+        t.right = 79,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 16777215,
+        t.y = 8,
+        t
+    },
+    i.iconCost_i = function() {
+        var t = new eui.Image;
+        return this.iconCost = t,
+        t.height = 20,
+        t.source = "item_view_icon_cost_png",
+        t.width = 19,
+        t.x = 12,
+        t.y = 6,
+        t
+    },
+    i.txt_gotNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_gotNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "已拥有：5",
+        t.textColor = 12834813,
+        t.visible = !1,
+        t.x = 466,
+        t.y = 11,
+        t
+    },
+    i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "座驾座驾座驾",
+        t.textColor = 4187130,
+        t.x = 240,
+        t.y = 56,
+        t
+    },
+    i.txt_desc_i = function() {
+        var t = new eui.Label;
+        return this.txt_desc = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "所有商品描述均通过配表逻辑显示，若\n有特殊类品道具与已有配表关联，则特\n殊处理。",
+        t.textColor = 8757203,
+        t.width = 272,
+        t.x = 241,
+        t.y = 79,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/FurnitureViewSkin.exml"] = window.exchangeAwardPromptView.FurnitureViewSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBtn_close", "title", "icon_item", "txt_count", "txt_buy", "txt_cost", "iconCost", "btnBuy", "txt_name", "txt_desc"],
+        this.height = 285,
+        this.width = 481,
+        this.elementsContent = [this._Group1_i(), this.title_i(), this._Label1_i(), this._Group2_i(), this.btnBuy_i(), this.txt_name_i(), this._Scroller1_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.imgBtn_close_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.fillMode = "repeat",
+        t.height = 285,
+        t.source = "common_s9_pop_bg4_png",
+        t.width = 481,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "common_pop_up_bg_m_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.imgBtn_close_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_close = t,
+        t.source = "common_pop_btn_close_png",
+        t.x = 438,
+        t.y = 1,
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "item_view_title_item_buy_png",
+        t.visible = !1,
+        t.x = 33,
+        t.y = 1,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "REEJI",
+        t.size = 20,
+        t.text = "小屋装扮购买",
+        t.textColor = 16775277,
+        t.x = 30,
+        t.y = 8,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 26,
+        t.y = 56,
+        t.elementsContent = [this._Image3_i(), this.icon_item_i(), this.txt_count_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "item_view_imgMarkBg_png",
+        t
+    },
+    i.icon_item_i = function() {
+        var t = new eui.Image;
+        return this.icon_item = t,
+        t.height = 65,
+        t.horizontalCenter = 0,
+        t.source = "",
+        t.verticalCenter = 0,
+        t.width = 65,
+        t
+    },
+    i.txt_count_i = function() {
+        var t = new eui.Label;
+        return this.txt_count = t,
+        t.fontFamily = "MFShangHei",
+        t.right = 9,
+        t.size = 16,
+        t.stroke = 1,
+        t.text = "1",
+        t.y = 77.5,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy = t,
+        t.x = 154,
+        t.y = 224,
+        t.elementsContent = [this._Image4_i(), this.txt_buy_i(), this.txt_cost_i(), this.iconCost_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "item_view_btnbg_png",
+        t.width = 174,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_buy_i = function() {
+        var t = new eui.Label;
+        return this.txt_buy = t,
+        t.fontFamily = "REEJI",
+        t.size = 18,
+        t.text = "购买",
+        t.textColor = 16777215,
+        t.x = 125,
+        t.y = 8,
+        t
+    },
+    i.txt_cost_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost = t,
+        t.fontFamily = "REEJI",
+        t.horizontalCenter = -19,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 16777215,
+        t.y = 8,
+        t
+    },
+    i.iconCost_i = function() {
+        var t = new eui.Image;
+        return this.iconCost = t,
+        t.height = 26,
+        t.horizontalCenter = -65.5,
+        t.source = "item_view_icon_cost_png",
+        t.verticalCenter = -1,
+        t.width = 26,
+        t
+    },
+    i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "商品名称商品名称",
+        t.textColor = 12834813,
+        t.x = 150,
+        t.y = 56,
+        t
+    },
+    i._Scroller1_i = function() {
+        var t = new eui.Scroller;
+        return t.anchorOffsetX = 0,
+        t.anchorOffsetY = 0,
+        t.height = 75,
+        t.visible = !0,
+        t.width = 304,
+        t.x = 151,
+        t.y = 81,
+        t.viewport = this._Group3_i(),
+        t
+    },
+    i._Group3_i = function() {
+        var t = new eui.Group;
+        return t.elementsContent = [this.txt_desc_i()],
+        t
+    },
+    i.txt_desc_i = function() {
+        var t = new eui.Label;
+        return this.txt_desc = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.size = 16,
+        t.text = "套装部件部件",
+        t.textColor = 8757203,
+        t.width = 304,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/ItemViewSkin.exml"] = window.exchangeAwardPromptView.ItemViewSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBtn_close", "title", "icon_item", "txt_count", "txt_buyNum", "btnbg", "txt_buy", "txt_cost", "iconCost", "btnBuy", "txt_name", "txt_desc", "btnAdd", "_slider", "btnSub", "grp_slider"],
+        this.height = 285,
+        this.width = 481,
+        this.elementsContent = [this._Group1_i(), this.title_i(), this._Group2_i(), this.txt_buyNum_i(), this.btnBuy_i(), this.txt_name_i(), this._Scroller1_i(), this.grp_slider_i()],
+        this.states = [new eui.State("complex", []), new eui.State("single", [new eui.SetProperty("_Group2", "x", 27), new eui.SetProperty("_Group2", "y", 72), new eui.SetProperty("txt_buyNum", "visible", !1), new eui.SetProperty("btnBuy", "x", 223), new eui.SetProperty("btnBuy", "y", 225), new eui.SetProperty("txt_name", "x", 152), new eui.SetProperty("txt_name", "y", 72), new eui.SetProperty("_Scroller1", "x", 152), new eui.SetProperty("_Scroller1", "y", 96), new eui.SetProperty("grp_slider", "visible", !1)])]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.imgBtn_close_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.fillMode = "repeat",
+        t.height = 285,
+        t.source = "common_s9_pop_bg4_png",
+        t.width = 481,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "common_pop_up_bg_m_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.imgBtn_close_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_close = t,
+        t.source = "common_pop_btn_close_png",
+        t.x = 438,
+        t.y = 1,
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "item_view_title_item_buy_png",
+        t.x = 33,
+        t.y = 1,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return this._Group2 = t,
+        t.x = 26,
+        t.y = 56,
+        t.elementsContent = [this._Image3_i(), this.icon_item_i(), this.txt_count_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "item_view_imgMarkBg_png",
+        t
+    },
+    i.icon_item_i = function() {
+        var t = new eui.Image;
+        return this.icon_item = t,
+        t.height = 65,
+        t.horizontalCenter = 0,
+        t.source = "",
+        t.verticalCenter = 0,
+        t.width = 65,
+        t
+    },
+    i.txt_count_i = function() {
+        var t = new eui.Label;
+        return this.txt_count = t,
+        t.fontFamily = "MFShangHei",
+        t.right = 9,
+        t.size = 16,
+        t.stroke = 1,
+        t.text = "99",
+        t.y = 77.5,
+        t
+    },
+    i.txt_buyNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_buyNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "数量：999",
+        t.textColor = 4187130,
+        t.x = 204,
+        t.y = 165,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy = t,
+        t.x = 154,
+        t.y = 224,
+        t.elementsContent = [this.btnbg_i(), this.txt_buy_i(), this.txt_cost_i(), this.iconCost_i()],
+        t
+    },
+    i.btnbg_i = function() {
+        var t = new eui.Image;
+        return this.btnbg = t,
+        t.height = 34,
+        t.source = "item_view_btnbg_png",
+        t.width = 174,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_buy_i = function() {
+        var t = new eui.Label;
+        return this.txt_buy = t,
+        t.fontFamily = "REEJI",
+        t.size = 18,
+        t.text = "购买",
+        t.textColor = 16777215,
+        t.x = 125,
+        t.y = 8,
+        t
+    },
+    i.txt_cost_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost = t,
+        t.fontFamily = "REEJI",
+        t.horizontalCenter = -19,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 16777215,
+        t.y = 8,
+        t
+    },
+    i.iconCost_i = function() {
+        var t = new eui.Image;
+        return this.iconCost = t,
+        t.height = 20,
+        t.source = "item_view_icon_cost_png",
+        t.width = 19,
+        t.x = 12,
+        t.y = 6,
+        t
+    },
+    i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "商品名称商品名称",
+        t.textColor = 12834813,
+        t.x = 150,
+        t.y = 56,
+        t
+    },
+    i._Scroller1_i = function() {
+        var t = new eui.Scroller;
+        return this._Scroller1 = t,
+        t.anchorOffsetX = 0,
+        t.anchorOffsetY = 0,
+        t.height = 75,
+        t.visible = !0,
+        t.width = 304,
+        t.x = 151,
+        t.y = 81,
+        t.viewport = this._Group3_i(),
+        t
+    },
+    i._Group3_i = function() {
+        var t = new eui.Group;
+        return t.elementsContent = [this.txt_desc_i()],
+        t
+    },
+    i.txt_desc_i = function() {
+        var t = new eui.Label;
+        return this.txt_desc = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.size = 16,
+        t.text = "套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件件顶部套装部件顶部套装部件顶部套装部件件顶部套装部件顶部套装部件顶部套装部件件顶部套装部件顶部套装部件顶部套装部件",
+        t.textColor = 8757203,
+        t.width = 304,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.grp_slider_i = function() {
+        var t = new eui.Group;
+        return this.grp_slider = t,
+        t.x = 82,
+        t.y = 183,
+        t.elementsContent = [this.btnAdd_i(), this._slider_i(), this.btnSub_i()],
+        t
+    },
+    i.btnAdd_i = function() {
+        var t = new eui.Image;
+        return this.btnAdd = t,
+        t.height = 28,
+        t.source = "item_view_btnAdd_png",
+        t.width = 29,
+        t.x = 289,
+        t.y = 1,
+        t
+    },
+    i._slider_i = function() {
+        var t = new exchangeAwardPromptView.ExchangeHSlider;
+        return this._slider = t,
+        t.height = 28,
+        t.minimum = 1,
+        t.skinName = "ExchangeHSliderSkin",
+        t.width = 235,
+        t.x = 41,
+        t.y = 0,
+        t
+    },
+    i.btnSub_i = function() {
+        var t = new eui.Image;
+        return this.btnSub = t,
+        t.height = 28,
+        t.source = "item_view_btnSub_png",
+        t.width = 29,
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/SkinViewSkin.exml"] = window.SkinViewSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_title", "txt_buy", "txt_cost", "iconCost", "btnBuy", "img_pet", "btnInfo", "txt_name", "txt_desc", "btnClose"],
+        this.height = 285,
+        this.width = 481,
+        this.elementsContent = [this._Group1_i(), this.btnBuy_i(), this._Image4_i(), this.img_pet_i(), this.btnInfo_i(), this.txt_name_i(), this.txt_desc_i(), this.btnClose_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.img_title_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 285,
+        t.source = "common_s9_pop_bg4_png",
+        t.width = 481,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "common_pop_up_bg_m_png",
+        t.width = 476,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.img_title_i = function() {
+        var t = new eui.Image;
+        return this.img_title = t,
+        t.height = 32,
+        t.source = "skin_view_title_png",
+        t.width = 102,
+        t.x = 34,
+        t.y = 1,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy = t,
+        t.x = 223,
+        t.y = 225,
+        t.elementsContent = [this._Image3_i(), this.txt_buy_i(), this.txt_cost_i(), this.iconCost_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "item_view_btnbg_png",
+        t.width = 174,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_buy_i = function() {
+        var t = new eui.Label;
+        return this.txt_buy = t,
+        t.fontFamily = "REEJI",
+        t.size = 18,
+        t.text = "购买",
+        t.textColor = 16777215,
+        t.x = 125,
+        t.y = 8,
+        t
+    },
+    i.txt_cost_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost = t,
+        t.fontFamily = "REEJI",
+        t.horizontalCenter = -19,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 16777215,
+        t.y = 8,
+        t
+    },
+    i.iconCost_i = function() {
+        var t = new eui.Image;
+        return this.iconCost = t,
+        t.height = 20,
+        t.source = "item_view_icon_cost_png",
+        t.width = 19,
+        t.x = 12,
+        t.y = 6,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 226,
+        t.source = "skin_view_petFrame_png",
+        t.width = 138,
+        t.x = 16,
+        t.y = 43,
+        t
+    },
+    i.img_pet_i = function() {
+        var t = new eui.Image;
+        return this.img_pet = t,
+        t.height = 224,
+        t.width = 137,
+        t.x = 16,
+        t.y = 44,
+        t
+    },
+    i.btnInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnInfo = t,
+        t.height = 28,
+        t.source = "skin_view_btnInfo_png",
+        t.width = 29,
+        t.x = 17,
+        t.y = 45,
+        t
+    },
+    i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "商品名字商品名字礼包",
+        t.textColor = 4187130,
+        t.x = 165,
+        t.y = 53,
+        t
+    },
+    i.txt_desc_i = function() {
+        var t = new eui.Label;
+        return this.txt_desc = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "内含泰坦神石*2,轮回神石*3，红宝石*50，绿宝石*50,内含泰坦神石*2,轮回神石*3，红宝石*50，绿宝石*50",
+        t.textColor = 8757203,
+        t.width = 304,
+        t.x = 165,
+        t.y = 80,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 438,
+        t.y = 1,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/SuitViewSkin.exml"] = window.exchangeAwardPromptView.SuitViewSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBtn_close", "title", "bg", "hero_show", "style", "txt_suit", "viewport_list", "scroller_item", "txt_desc", "Grp_suitEff", "txt_buy", "txt_num", "icon", "imgBtn_exchange", "txt_normal"],
+        this.height = 343,
+        this.width = 558,
+        this.elementsContent = [this.bg_i(), this.style_i(), this.txt_suit_i(), this._Label1_i(), this.scroller_item_i(), this.Grp_suitEff_i(), this.imgBtn_exchange_i(), this.txt_normal_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Group;
+        return this.bg = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.imgBtn_close_i(), this.title_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 340,
+        t.source = "common_s9_pop_bg4_png",
+        t.width = 551,
+        t.x = 5,
+        t.y = 3,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 46,
+        t.source = "flypet_view_up_bg_png",
+        t.width = 558,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.imgBtn_close_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_close = t,
+        t.source = "common_pop_btn_close_png",
+        t.visible = !1,
+        t.x = 515,
+        t.y = 3,
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.height = 32,
+        t.source = "suit_view_title_suit_png",
+        t.width = 102,
+        t.x = 41,
+        t.y = 4,
+        t
+    },
+    i.style_i = function() {
+        var t = new eui.Group;
+        return this.style = t,
+        t.x = 6,
+        t.y = 62,
+        t.elementsContent = [this._Image3_i(), this.hero_show_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "suit_view_texture_001_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.hero_show_i = function() {
+        var t = new eui.Image;
+        return this.hero_show = t,
+        t.anchorOffsetX = 0,
+        t.anchorOffsetY = 0,
+        t.bottom = 58,
+        t.horizontalCenter = -2,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "suit_view_hero_show_png",
+        t
+    },
+    i.txt_suit_i = function() {
+        var t = new eui.Label;
+        return this.txt_suit = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "套装名称",
+        t.textColor = 4187130,
+        t.x = 240,
+        t.y = 56,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "套装部件：",
+        t.textColor = 16777215,
+        t.visible = !1,
+        t.x = 346,
+        t.y = 97,
+        t
+    },
+    i.scroller_item_i = function() {
+        var t = new eui.Scroller;
+        return this.scroller_item = t,
+        t.height = 64,
+        t.visible = !1,
+        t.width = 376,
+        t.x = 346,
+        t.y = 129,
+        t.viewport = this._Group1_i(),
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.elementsContent = [this.viewport_list_i()],
+        t
+    },
+    i.viewport_list_i = function() {
+        var t = new eui.List;
+        return this.viewport_list = t,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = 10,
+        t
+    },
+    i.Grp_suitEff_i = function() {
+        var t = new eui.Group;
+        return this.Grp_suitEff = t,
+        t.x = 240,
+        t.y = 129,
+        t.elementsContent = [this._Label2_i(), this._Scroller1_i()],
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "套装效果：",
+        t.textColor = 4187130,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Scroller1_i = function() {
+        var t = new eui.Scroller;
+        return t.height = 105,
+        t.width = 272,
+        t.x = 1,
+        t.y = 23,
+        t.viewport = this._Group2_i(),
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.elementsContent = [this.txt_desc_i()],
+        t
+    },
+    i.txt_desc_i = function() {
+        var t = new eui.Label;
+        return this.txt_desc = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部描述套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部描述套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部描述套装部件顶部套装部件顶部套部件顶部套装部件顶部套装部件顶部套装部件顶部套装部件顶部描述部套装部件顶部套装部件顶部描述部套装部件顶部套装部件顶部描述",
+        t.textColor = 8757203,
+        t.width = 272,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.imgBtn_exchange_i = function() {
+        var t = new eui.Group;
+        return this.imgBtn_exchange = t,
+        t.x = 191,
+        t.y = 283,
+        t.elementsContent = [this._Image4_i(), this.txt_buy_i(), this.txt_num_i(), this.icon_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "item_view_btnbg_png",
+        t.width = 174,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_buy_i = function() {
+        var t = new eui.Label;
+        return this.txt_buy = t,
+        t.fontFamily = "REEJI",
+        t.size = 18,
+        t.text = "购买",
+        t.textColor = 16777215,
+        t.x = 125,
+        t.y = 8,
+        t
+    },
+    i.txt_num_i = function() {
+        var t = new eui.Label;
+        return this.txt_num = t,
+        t.fontFamily = "REEJI",
+        t.horizontalCenter = -19,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 16777215,
+        t.y = 8,
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.height = 20,
+        t.source = "item_view_icon_cost_png",
+        t.width = 19,
+        t.x = 12,
+        t.y = 6,
+        t
+    },
+    i.txt_normal_i = function() {
+        var t = new eui.Label;
+        return this.txt_normal = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "套装部件顶套装套装部件顶部件顶套装部件顶套装套装部件顶部件顶",
+        t.textColor = 8757203,
+        t.width = 272,
+        t.x = 241,
+        t.y = 79,
+        t
+    },
+    e
+} (eui.Skin);

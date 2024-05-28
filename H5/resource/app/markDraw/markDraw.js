@@ -1,1 +1,2341 @@
-eval(function(){function Z(Z){for(B=J=0;B<Z;)H<2&&(H=64,c=92<(c="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B?_fyrQKmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNqkGoq>:U`NpHYJHJHlpRxIUYZ_^ouivM;Rs<VfkZ?hk:@g:>M:J<Sv:<>SJDQ?sR`u><kcFDH^>gBeON[s>etlwL<JH[LkZRhMqwAJM=:zON;=ZR@:X?J>bCu::T]:_>lvGk^;B:BEcCc:RJTkr]B=kL@gNaCw;Ru;VXAXxZgt<tjItt>?kh?eA?VL`VkawgOR=tE>TDe?BeZB:JgM:wQy>mZbn:QpqJbBX;RX=wK`>T[:nmJ:=_JEDx;B:EBVXCF?<@sq[^_:LQxN@aAIx:?>:=C<:][cNgIK:Z:FcPWRNClIu_K]VNLr=k:a>J`<r::JfCeT@cy[dfus>[kt@NIgkxwzZ=??K><ZF=cEjW:bk:>JHruqw]tlp^]TEsMG`WU[^VYXqn<]NE<YSJmVo==CJZ_PeLT^My]FO^`Bc<BK]SnLPJHKJw:w=JhA[:l^=FXNf@i:=b><WlO<wG[YAwT<r@<:kI`APpZNKBcNNZ@?rn;AZ>PBkcB=ZTcnrE>`DCGGNlM:<NdJDPN_Z:KZ:GZ:OZ:W^syOOMG<ofKh:?vPyM;iIsZ:HBMMQOMOCOZ=ZCa_r]yB:MZgSh[kOU_=Qt<WR<bP[Sni>s?qQU<:JFdN^QJAVxpg]S=qIVVnkjIRfpFawg?e;xoaj?xVbBw?]azVKC=zHJ?>>B==_oUKWA:_ln=Za<?>mx<c:wC<Y=wADZ]Z>BgFrA<JQ<z=K<[B^w^[F]@ceD]l?<P^y^==_:<N:@_Yau^_:ANc;tNFY_k::PE]:@S<ksrMe^q<Jldy@F:c]ImQkgmtfBw]Sm?PxUbDIOnrGVoxnojO>JhcHxN_YPuF=<tfIkLbwRd_HEA:Ls=_f:kloeZ`kggVRe>IeS<]c<N@mfsYUVHe]?ThKXeIqcj=DHcxes<CH]C;QFR>;wToHHFLU<mo^]Sfs<aeRPmTHEZ@TFjBJb]Y:XB:<SmVd^^<pdjbCg?fMKWSxaLY]@UXTdf]KRskLuToqMlXyBbCVaaPHCoiaiR?dPyGOlo]VmYsXNtwbySszPfRSeqiWdeqPVPzLGpyQkJAP_nbrFsSEBXYZUBeimrSy=r^hrNvZvViZcxQMmfdwauhfikDoZcCvQnkrZjl>TDR?]Z=YeLo=Ng;m=kXmaAVjmvkNFfofFI[pn>WXt@ugkUHaczE@qcuy]soMSGNonM:Zz^ZvJxhQFrKvIp?lWtUpk^DFs<xkKFtqyWf]QYU`wAGYyKHzUni^mvjGwbrUnMluNyXhwqw]jIYmycj`;E`DJZZpaoCDdletDfQD@e>JTtM[`PEB]Kvd;Jn`:MBGRVZIrKgNUiC?D^NNY>[KcnKP^h=ZCoUcNCLL=@>FFNR;;CZn=a:gCRDkp[k;qGgMRyl=]vPiHVYq<tU[gFXFwOsRKavKpUgZZ]oCHtBlDC^DcXV]Ac]S?]PciBu=sbv]kVZ^KY;k@FA:::tcLVZTSS:L::BtF;:I>XFE:E;uGlZRclt;MAaFgPFCZZ[WAuFFXL;lS^sZiEVMRsRb]M?aFPCRulA^v@HG<LkIlsMU?;HwX:W:gMrAlF]NkGou:kadF<X_nCn^Q?lGmOsolaLzAa=NJJEsUd:mmbz^I@RjR_::@Oe`PFeKLD_GCF=p[R=^I@`RsAOamAP;gEdHAQ>wIZC:GcsZwbZCcyBs]qsp=b?SLSe;danCRIFi:]nI=mHlBJKg^srJX^=iZ>:pJ;=dAFY>GFk:hJ>@iRyCZT[;Ll;XUVkNT[o:h[oLqTknLFKNNY::BloUiVSI<C;ZgJ@oH:ACs[EDveBSd`no:SZs=cbK?Cm;B@lWkKVXgiUwmobGJ:>_u:;dnJ:rnu:AqzJ:yNe:?y:[X]t:=VLc:;qO:<xKc:GNp:;Vtemk:qz@:?G?J:<:mVhtQmk:]:m:<Gok:ziUHP[WjHkfdrMc:iL:SSuFT^YC:EwveX:W>sAJBTEBY[Akc=k::Dl>=V]Zt]xQc:GNT_pQ:nOAEe?sGo;:MarIWHwMSA:a;Y;:@MFVH]i;ZesIR::eZNC:bZ?al:tIunKKDJoy^k?:DdV:c;PcB?kO`@T[Ji@]AaZhE:]pudEU>DBN:p:g;oTmkGkTJ:v^hQNQoFcPo[csiJDBa:iD?Z?cyEh:TV;;hvXJTkZuDRWjB@HbhcUm;NZBAZF?D;F;:ZPcxC<SfHrBdt?g^p<vzOEcsjgEcR:X]c]oKlIR_o:;wM[`c:@dQq_CL>RKVL;=Q@eZBiOxV;M:fgBHinWqux]bIX=ctdV:DJz<=XccGR;i_w`zOeJo<;=Q_?lO_qBvlslBPs;XyWFcW>z=k>@EZwK_I>^Jl[mNP@VGsY^:Kc^sBXCJhRVe]JWmA`IDpLKT]AWwJ<V`Ea?ZB;VOZ:QV]wMaE<;S:d>Lhq:;lQ@<xQbjFoKqlg<bCILUlYllt_cFlDU]<dtdA;N;Y?lZdwZnLlZw`uaa::DhpGFIBl^ybM=mGnwur_YHD=]IZwSI]sdUDs_sE:sr<^_z>>xREo:g<rAkO?[SF=caC@taNxZ`:GFFnC[Wi=E?WAeGutxMFXCD:t<ZKRu]CoM<CR:GFn:<>pfmk::Ha:>=Bk:^N@:>tRzaZ;kHN:GelZ:NAN:@BlZ:RYw:ARXZ:LuDtR:GXO:=cDc:YAy?ucc?ETTctsx;KU;Ki]_KPwPgVVfu@_pK@heMVt_B`Z:DZo:<?isqCi:?ZtJ:nU@:>;zbVX[ySSX@;eF:iQqDpS_@:WsOraiE_:?GmZ;MokXohhfZ:ANo:>yuZ:yyF:?;mZ:?GDas:Wy^:;kS^=k:gRe:?GnJ:SmdYYo??ukgkOsR@HvCg?M;eWn>^;ZJ?pbUHsqs?nTqQFhBHoqmeUUNEW=[>NP?]EV:cjV]sA?[GWm_gdUDlkWELFT[s=N:JTRwlm<tVpxfhJt;t[l::;Cx^N:Uk?wS>hwNE<EoEsP^ILt]rE[E]iP:TT`:hO?uEY;RdlQ]Z`H]]N_fCSLq`^DPOEZ`Ymp`Z;H[o:GyDZ;`Bo::=ucf:;[@Rhk:sFT:<nhM`Nf:<Vyc:WDwWlCoZBRI[:xj]XsGvHV_`CeJrAQDHVHmdqTaoxdnYR;juKs;XIMr=iGE>TERDpBrWZP<xtXAPXrlmCWHy]vEyGUjkNdVxp::QTioNRjxwOcIBY<m_gdiAy`nEPNls?NiKIeXFzSvnlmkjCYff`uX<wDj^cTzn=ftoljwdJuhwV^S^OZJ:vrGah@vra<bka:ApHlAkiq>AAn]<ZCbn?ll=q<jKjKYqn^n_Wo]oQp]qQkOlR@zN`_:nkAF?KO_NflA>W@TLTpfq@AfmuLUrzoiQPazJ`_t^BGq=q;vnvqZGx<Fp_pZFiOAoiqGobrsHP<[KPA<;RAi^s>pQjLYNk;:=q;:AYP><e;:Aq?kD`rkGWkOqZpZrZn:>JmR?OlPO>:DAplpnpmplpk_ERnZAX?fp>=kA];yrI?JEbnoHWmQr]mFILABocqckL>gHpPgBpkVFGrgBGoJCR@VGVDzrVFwCsawEor<;srPKOQ>bN_cGKbi]ZrL:;lpAibNKzld>AkS<S;SAwApAPZR^G?DDp?NZa>U:tngpWKR@X:z:eBL>;J:>NPJu]Odld@]skyc;d[dKdlcy:^:?d<kD<hx@=D]C:ZhG?@KaKPJ>=V:s[i;;Ve_GVD]Qks;sZ`;i;YWFOgNxx<O]O=wkx<leOMwcxqOiORw`l:;B;F:?ctNOJ:Sx^:;lyGtN::e`J:U`VdO::>BkSOtQUP@:qG]<qCS@XJj=o>iCrliF=niG=qImXB^nIq^rXFjoQ>:<dnAszsc>b`F>m>u>b`Wh=_<RMa:YAoMJOe:JMkVNGLVsCZljTcl>e]M_JmKcsLCLS]OcbN>tVZYs;B=ZWs?G@NPVNchL<wUkv^GS:HLNroXB@NiNxsBMH>H:NK:D?BBJLuRc]Z>s?cA:BxRNUSEWAWWBAo?]WJV:ENSodo]onSToaS<NHo`oGoXBTBTLXWW:<RX=DMYpCk:CQQNFiBTcoSNJEZBxQoQ?IJ:cm:EKQFQ:VZS:=ZUcOJYouBRJ::N_a^q>mmVAcLa_jNBOKA_HNHYKR=q;R>oIJ@zOzKWJ:pYNq?:nQNHnhDZnUEzL`>:q:lvI:moLE?<AIAB;H@sAVBL@]=o:d]:r<<saS]DMgKDKwJDOoAB:SBx@s=a^hkHNl:HCPGIPvJbOUMvOQQADrJ?b=N^P^JB?WnN;_@g?b>QLjGvQaFQ:B?R?SQX?nFfLQ:oM:?SPFMk<R>Q?FAS::?cHCn:EoSmV;x^;VILfLh_YL]kqMAMQLwECJrMQLFDjMULVE[ZjnCp`pUmynBFF<cJvoApbos:roIpPmYo[nHnKmTDBGvpuM@M;=]hs;znSJQ`m;sLs:yM_LOLg]pM:[lDWGRZxMkK=L]]w:>:Mo:VZWv;m^iLe]wFyMu^;M`K[LaBPCdKqCYND:w^hD<:UgRZSnFZlt:;uQo:>EcdUJ:EAz:GF>Vgwg<;Qp?k:;uYaEMWBSE=rQ@=YFVjgrvVcfLjmyWVDfVTDnWYaB>HDrmx]RFaNhcAN?DixVgbmkA;DpY<DeNEaYDoKJkKwIL]J:mqcz_ymBmJ:omoL<_IBmLKoYRNexY@wg=P][TL^:ZGw_:TkOrH_GFDMJvKEAemD[qVgygJgWD_JNBM;=ZGoEaYoCZVAPhE:EkX:Q=BFH:OrJoKtNC:^ETxsS:kfJLsnNf?ZVfEpBoKg@GXjSQ@:r@NBc<[BFwlyOSCu^]LulmaBM:YTiecu_ufZFuz=?kmut:ZobkbpPL]SQBykCc=Z@WMUIpLwe]jhXBJZGJ=ZV_Tt:nPuqMX:B<lt;MVnKcLnTxKVWMMMJEKL_EHYNaeMBL`k^ZDaonKMPatsTxMcynQalnSnOn=nEnAnIn:EUMREIMQ<a??NG@iRTk>w[KA>EBtgGgGWO:HXIgOqOm;dIPd:UqFm@VIq@?QXOmSjTHBqddRyFuPHYTVySzT:HyBoywWHHcMH?uS;QH=u:iOyXDWyWJYuFiUyR@X<DiQy<@:eXi:;;kV;BSL;CB@yRDSH[;QqsM?;NcTeW;AO<ZE;Cc?c>sI;:[TxB[:RT>N[>RVRDR@b@[=wi[BZWRMRC[AZvBZH=[Lqv[Q^OzY[Ve<XRKUHpLvHLKIHuKIZ?R?@L:MOYvJtKKI>?B:_Q@<g<:>:WKGdPdEK<J:r?VI=OdGoKJ]c[jUdXg=X^tMODl>:YdGX];;;NSQJCOAB]JMS@o]NQSKSSLo]TkiL^SE<iSCGFshP^pDmicFtWO?<F;[E;MS>tasEAUSyxN];]tUy^@@gxFuLC]`xH:?gfxVXE]_=:hX^EKW=IjC^EZU=AKTchqAgQ:>xLyy<l<g;^ZvsJ[xK>?::=Qi`RVWARRB;;J:>pdCm:XBHpX@j[q@;o?Sl@<@KmJFSoHBAST[jodGSKqAWfF:yKP:fJOlHAJkFl`We]Y[PKAl@@s:>EW[_U?TMG;Foml?wJz<==<=_OrWoF]Uy;NNy=ywmUe^[xK=s<KZI=CDd=KVxGo<F@oKg<l:b@SV<=:^QA]=?lkewGHnm<B^[GK?t=O^MuufVS=D;LAC^KPfEKqfUKHej[x[mmP:`:[Ui^X]LCy^sZ[]K^@e^d`KC^yd;cKdOdt]ASob=]p]?EZgdEEgx]X;;VCDLUXT;xwU[fY;G_?F[cIKh:@UexGFCMw::mWhWlx:uhk;kVh:pCvgcW:;DMPKo:AazMI:>k:FE`mW?NO[tww<sb==>aC@ob`]f<@EMljNx:;JIR^:w;EAJZcGc^s]s^A<CxhACJ^hj[Tw>TduS<?<`=g@p<G<Iph=OLNUp]PTo@<vIOFeWDTe[bufh]^D]bzb@BP]OBqCv;emDv<^]QVbXL@fmQaf]b?CnKLbfKmaOl@l=;umX_=ZwA<;jpkfm?Nbi=wfdBghXcrGVm>owFPk=nrcmwB:un<eL^<P<:xZ[eKelf`wCedeN:SekeNhNa?cf>ZKAaxQrnlfvG^Pn^rWNaARfPUP<TvQ=PAPJ;dfbQBeTRrQ@lUQKfvQo;CeYPMPzPdK[S:rfAXF`Ug>FTwQYvgP>roUOTFKpUY=CWz=sa>oDUiU>OMn??GUi;jAq]`t@Uilt[MUzBhsQufUcsUTj[Iwp:AUctMsCsQTpQFtc>jTbknTgs_Rbs:ud:ZuYcJuJCIsocDs>vcvJ?:?>ButcRRuFB;?vvgZyrUts?gZgvxL@lVvQdwvf<L^yJV?LuH[uETmeu[[TuD?uve>DKT?OZPu@>qvPna>=ZzvAZEUXGtKgQyur[;>[ueczeSul>lvN>DCCvducJtuJA?v`?`vysGvTeX`^vEub[^u^]P;hvu`jZu<pB=W=vfu=`G`>N<;`Qo;IZp;vn?=UuuBGrTlukbvHvtDrvjM:@x`RZNOnnNqHIh`IuXH>IJhM_pNE_j`vOtGXUdD_AtDNAY;_qfrFAvoSdaEPEwQrbt@uGNGLA@Gi]e@T@sQY:Ndo[nAE@PAlthuG@bEcQWAj[xA=@AeH;^AM@nH:PEAa@pPg:vHDJx@=@^@`P^?xJw;=Dn@IHEHMMYHkVAH:jbH^HcZJikjrIE_aAbKt=cjzHbImgwFokR[zZ_jPQkjNjIHX=Z;pfsZB;eap[t<^:;Suiy:@i`^EIY;E`UFUHJUPm`]SmH;oNk:rKZx[::f:em<uiJFMZyi;jCH<;jpPiJ;UGEeHig;:G:G]=iiCiaZdjEH:mJ=Kw`jh[>DXjCj@pe[[jKj=iGjyiMjhj>:sZTK?jhIG@Oiim?^ljXjGjfjSAcZtjqjAibEPmiRrj^j;injQow:^;:X^iIj;ijicZYijZAiZGlibEbj]=BYEihjRXWivjVozjHi^:PRcXfiJXZfKj<XFYIiOA?lc[gYKx>YKmbi:eQjmYrj]Ydjjp[fsGs[xjPnCcZYcYMjLXkX^:yX]YFXeYHXn^uY_XJUNXKYyXqYEINDaKV:XX^:XB?XhjJYkXGXlYDYwA`X_;V;dYZU`iaY]=WXDY;idmtIC`upk;mJGO_rYqQvD;AMAXIRKI^_srQYUACJ_[NO`IDB?<oS[FL[RaQVQA>hkXtAQpBCvA=;tm<:JkMKNjo;ZQJQU=R]kQBPt_ZoRPk;T@jwOfjkg]?<umxZpHbZamPnd<YYpLc:r_E_JaQ[_ruztD:n>rFThwBy:^wqiUA_uggqYN?UsrHzoqjX_TakmrB=y<=UT=u<TqGtrUuq:t@qCtar<HCZ=WqqCtHqhkQTy:C[zLpBZ<nt^zdL=cMsu:nkXqFvGqovR>Wr>ZxqBc=qd>F?MrACnqq[ErBb]?euS<Hi`JaGmE:auEvOi`g:zRWpjqP]?rajpvcjp:HRJIR;YmpBAKVN:hMK@a;^Ml[F:T:ozdZBd=R=V;=:FwAk<BAz;RZH:yFFuOk;C;D;C:qZMuAc?_=kZ^:uZUZINJq:N:LJVf[sLesN<uTM:nXhu_i[<<g;b:tZLSlauE[[DD@@_B?MZ:SCgoUL:ZB?MW[t>vTYc>^iJ@]=j:_:F?Y:LYmjvPph;YR>^aZkGDAgXsYZ=uCap:UncVHIRKR>_=?SGdJDpLQt=>?SKA>qqLsIK@c?N>TtPNsOSQD>CLlU[PNCkB<gl=N^GdHRA>=Y:_GC[J:ScDJyB>_Fa]gdqmzu=];_Im?E[CRQFSBNNFtZ`=o[SJuo<NHm?E[V[tO=BOn:m>nKL[]sLP<oFe?h=HREJqcKlJvDW=q[@JmTDoBp[d<[[N:QcYNBa?==PNNZGp>waUMfNP:apUTembBlkR>FJTKRPu>;ef<`kBKD^GxQ]=U<^J>Jge`:>DACFpwVpO`=SMwfqNbBWJi:GT^k:kOtoe?BVfH[AMd;^ywJQ:GC@d[mlAkYR?k_w`GKTZBBROAK?:@K=nct[FEYr^<HasOR^JLBu;dT[hKc^M:cJC^gw^VLip=:qVTkS^=gAKJA;si@eao[VAc:r;IuApbq@=UP:r[kB`:EDAxvZ^CJ_B^HAcLL@k]ENxBd:BmDl?H<FNH`=R@zaN@e:f]O>KV@wZQ[@;oi>c^CBt`??>do;B?VNTw>`@HSVR=WCx[yNQ;J:XKjZ[JQ:>:eiKCBUcXrbu;[?BKR:b?;h>qa><D]hKmcuNPeFB:Kgn]wcrRG]Gl>u:E:;Bvifl[Qc=CDZ`:A_M<HMUYGe<mcjJe@EQeIJXKMZYx[L;d<LZnVbkza:E?d<a]lsyoLoLk@h?xZRKF@D:?>=FJg:::Qfa_W>ElUZTRfNFgny>s;dBkuQL<u;_;kd;KAfNT`@IgSTCRleZ=F:DBM?oKyKrRl_LaB_:MdyiORhp>m;t;TZDJa:AFLi]YUN[?lmsxc=aE?nG[hKCAKgG_pZ?^^yZT]<?IqDrkl]`KeZXFYrA;JuCdlBkSsLu]yAm[SlX:XVSD<r>?xF:V?NKjD@BTuWwl?cns?TCx:q]y>?sep@c:w>L:XD>tGVMH`r?MpD:XuCtCXDyTrd:HqchMAF=XLb^cJkNW<YvmY>Y]jl`mC:>iGz?f]>CWA<JEwIy>VK:Kwc@W=nb`:Z]qKGB^_OZ;F=d;:[kJcBQmH<]K^[C?:FBVtnK@COB[tMFLQN;]@tNpBN_n;B_HN_`?m[T_kihoFoaXdHRkkt>;`=_DsRk:JJjkS[F]EQ^QKeZI<N@^N<>MAk:_jkNyB>SFZs:r=;TEL<>S;_C::uN`;tHbLR:XBFoXL;B>s`Z^t[bBj]KJ=wAc:RZH_oJNCHe<@MNCFNiDRLDjARL[lt:>VWqIgbd;NdP:Cj?o>`:::lBF@e=A][ZLdW;SFdaIfAeCIlP]IPHJ?_ZnJqdFoA]EC=s[VKdc_o>DTUnA]:_iNZ:JqNkLxNrTbm:CMh:`@Q>ELBP>aZnKzC:uHTDlFk:Hlw>DNfkXSFmUZW;lGskuD[OgkhZH:NJIDW?Dw?I]uCH?AmTiGPb_:qdZ>fX_WQJsULp>KcmQEmH^@SMxdWspXj^;ovWClsPsJgVPDJ=L[o:D:XhBqbe`QLplo^V`DhCJbb]`V__xDO[FkSSMYdRRoegfaV`t]ZSjEIFD=DZ:LLiZNFi<Yq_<_VKyd]^UP;qHKadSSCQo^@MxF`lbLuZLO>w>rZy@j]tdZ>z@JPE:`?]BCCRwD]OBWAJntJgFyNBlGU?VkiRVg@uUn`PbPkICK_[LQ>Eh;cmECroemXJ<laC^oZ@ggchnCYA@cdcH_QFLJl:bKkJSBgg@VUDN`p]SSA[YsOn>S^mZ;oYNsP;B;bJwKLNxFZtD_Hp_vMEC`>SNMSBBbr^pCdFSmOkqw_VGQCk^CTPhDNTfMrS?ORW?bHnbSmTRcNp_X?BK@wLOCeJ_cQCD=aS<o[wNmP?_I]`M=XKLNkHMQBrnUM@ciob<Q@ESbKmhCdVj@WUBC_LJ[SlFtiVvCibFMOdIgcmVrCT>[mqtRVvNJUIA>lnDtogCj>;F;a<m]SxgeJDdGAaNn?S:NhPT[HUbuMaSkYM@OrEya=;`tPJjiV;BA`qZ[tqw_XSECi`BMUdfoz?ClNy_=]HthsmyW^IL=pmvt@wo<OjDTJhnuttFa@YpJZlkmIt[wdiKdGb_eOqtPNmHQSHvauMe[VVpmXtF:`XLNt^FFKfvEP_wKESXZZiXmB]b?n`tCJgiV]HD?OnmtM<zLV]Da>FEbKL<ucLrCJNzpttbVcnHnBfboDJ?P];yQUBZOFDxto^WyQbDb_TLStSwjTQfFQbQmXtrFGBPBdh_MlC?GcuKTzIrbdni?a]oyUzBj`<Dg?B]]RWcc_OImd?@_aKJZiJa;mH?fVp;JBjzaPDftK>]Z;khgPUnkC><_cPsfrbLmrt]F_lNcjFQvLF?k]xcUZdJ=sEICLV[HJH`sZNDqC^FVZ=bGmQ=cwt`<o>WJeE`V^g?NgQ[Rkio_nnD`pcAcQQFsfODi?bwxcUkiNOznxS:<kqKcdT>wlMSbko`:NjQb]E:`kg[lUNiZNimPlo_A]<Jgdbjm_S?V^cXsjsPunktQ]r?I>eeO_LnSP:IP;Je@NuEZSx]zKWdE<PkE>C_md]SG:cN=drtKwhK<ofFNSLPSe]ndNjHuNqDpt:gg;N>dHQ^Dn`jSH;SVhU>VKCcIgiSVRgz`M=c`nmwyTnHwP:Dz?=LZCMwh@Nq]J`=L]SY;IHQoLBOd<[STFEsN]SO`i>z<SZdwN`nsZagGXYAIw_iLN:mVnqSZ?_]mKrtQF@TAlAB<]liOIDb`RCAn`?EiCG<odKQH@@VEtockldKDfo_M=u`ASG[NocNQPZlOmms`LwfPNWD>OQLgdPDiqQxEiBzFziLFiA_mextgg^L:NhiPKEa`Fea?X^E[PjDhOvmbOOcfuPj^LNsDZtQRj:OzDeOPDjVevC;QwJaOwm_lVFDXQqeO?@ehKUsdWQNf=OxwspVzGGP@DfOd<ytOzI`PefK>NT[XPwjNOp:d[wTeqRahKQ>mFOPTZ?QXPi_;ed`<gE]HJ=;NrEb?r_eXNgI_;>eVpvLiCOReXdC:awzQOwMGAPbLgTptesWUFcAJ<KF`UR^]OJe?N`DcdrhIJiDfPcUO?itVxRTRQFElMrdKaDOPidR<v=rZwNZsP>Pts@M:tXur?@QETNPDG`zV>hT:hhbADLlt@D:I^KD?OfTDw<`TTJdBOhfppqpUGPZjq_tLykwLdRLgGpC?LrNSNxs;OBSfOMKZ^THeXyCqQLKydt>[VOKHr?z]iBzD[eMPFkotEyRA>A]@Kip[VKSBBudvfmj@aS;CdjzCKepEubNlOd]gcmOigq?F:JGb]nOJycdQ;>RF@kgk_@^pPj^CcgmwpOCd=PfLsDBNcmWXiS[wTLOZ]kMP@DYQ=DmpqwxxSyjxQafeR`euLIn[O`Gm`[lupMXeipAZT_:_@bRSWLYA?Mo:w@l=OOCeacUb[xNv=WyGkqz^`RZ>leLKja^nJDGwoD^MKj`;oTXO=@aBAO_GMm>q[qsqETu]abLJiRf@qLHljZ_U]FJwPbKB`cJrBcN:xNwpN?DSQgfrtb@p<PXeH?PTAOoTzGU@hW:kRjeG@<MXUEzPpfz[QPuKblA;NiDcOnkn>Sqh:pumXpJajlVGgF:=fI[<?Tq:JfkNCnuOV:K`W]g;NQEzpt@iWRDcB:wLKOma[OWCIH>Gnc@sOWYDifFuq[UD=ksNSzFHrpUVpua`]cygM_c:hBX>^k^[D^EWKT:mS?:Gk@u`w;[pY:I]@BoPaGZN`LLtURJcMQIfW?fug@RHiGJb:p:?svxN<cRa;fF:ADjhEGIu`de:d<mwvS?Kzakebhum`vSGctbQ<jVDD`xMuh?aouE[zeZWHOhBNnKCte>_bXONXrhDRpgpVejMcKqFukSIH`iNsfbL_EtSZVisXl?iq^UyGhasKQEjg:I<bGV@weLD>ebBUTdQakEVKidb_:kWNP`AatNwfwlZe[R?ENlia_nJ<GRHZ^NmjSqAm^tu:YVPuETLGZH;V:@ZQJCk<m=t;C=CJLcCkve=G;hcIXhw:IdhBx;NJ:kNRBB@a<aqNXlo=AfW;P<cH?JN_TzJQe]WwdOBdCELENTtdE[DMNbPVB`ROvpy?kwoRu>i>`vP[tX[cNiA?Tm:QPWXmK_oIQvWv?k^XncVrf@@huNgOXeNCoCQ;=vlsbJljUoFAqnuKxvXmDfoBbrEvjZwybS:LbC<gdIVnBxB=nIG_wJiBxd<ZHTeo[=dtoRNsdPT[?Qfs=CHByzfPAl?eheeCsziGSF]eDupGp_g`VBgxlI]Y:tA=_CKkx:oWVO[HkURNes`vU[OLu]FKxGrNffsdDsNvYH[Q<QTD:Ds:xX_;Q;AULev^V_AWh_fDTmW_TzbNpdb>RTyVzN`UKxjutECe<IqjvRqZ;q<K;BVgE]C=c;bTUUS[GGJ?PrfMn;IV?sZZ?dAxQ[EihfRveY:hSPfL`@D>pJFdhjNlEAO@ahX[JTnAh]hG[mwdfkYsHwAIViP<@UPFFQ]AnON[d`QnIMQgf^WIN^gTc@JGwvo?IyelVZTYALGXBuVo?MheZIvUR=maf:xmF`msAoZ^X`:uOJhUlLqx;:<ByQBbqbU_d<[jJbTdpbPUbh[>fJlBhoIfFdJQkLgW<DVNomItK;jJ[@dLFGTwpMene?kXoFLJg^AyLD]QjKqdePpV[ikyJ?<HH@kGcselT>Rpq`LhWFuC=KtdoKcUTJJPcrLUc_;IW::kZe::BVo:=LVc:>Lt?EY`gLrd]fJGi^Z@`isZ<KHWKys?WC<`qNnS`]^W`PoVAo_@m^?HZMOMgKNov@odHsQV=EeFhhBesOVnBq`FLgupd[Kw^NYGN;K@R^Wuy?TcXWQ_;:M^lhpSphaOXej:vkUueS:SEPZc:pZC:FRZFrRuPO?Prskhcqbq@q@`loHOzdiI<Ds^APf:EU^[r]ELhqHm_nWIRbLu:GEcG:toY@rHAeWSzEsEoeSQ=eqOQ[ZOMsSZGC^CVI>;:tE]s^lM@xu;ysmuo]FEvc^VpC:qkosNC@s=KaNNtzhLHNvo^pKnBzFAsHtA_mrlkczBUOHscCMadwcq_WXpXe<lElxYBoYmIG@v`XgGcpDWSFTf`WIKcu[j^uFiT;^HisRuFTBprdSBliqSNxotL:;R?N::Ibc:@:tJ:?KmZ:WPoO^vSGRw`hGol;UW@_QRxGAwa@T^^UHqJqVUlIZbnP]dmoxVR?pagA^JiftNTchAqar^DP=snc]yGHDiR[@lK[KjHImbSM`SgZtNXToJaunu@nsKpFPrJuuOgH^Br<RKIk:_MrIO>y]UGPRa<WTofgxFjyHVbP`m[lfNHVY:MviMu[pwQLWpFoad`StrmLVUBOhAF=Ado`USGCIY;OtMDmTCFR<_Xfj=[VuzQsUoCwJlMKaPLCDSxF;@SMzfHNmk?ArFE_K>yldTeXNo:P;nxuqsqcWpGqbxMqKe:BTVUM@bfOlKmQF;XJgZbNEzoqosqVkjp@dJ^dvsmuWGIxuAnmcfolmYvpybQGqicRm[d@Iuul^[igFlyV^FVdRn]S`FtaYJ<f@lsul]_CgXqFHux^ySvAT<jZNra`@w]`oBIiLG>ahMCCelKdTXFuADEfleNHwR@vhba^bSqJnqWEF^ba?kC`JuKREO`acE]ygYXLSlokbTO_tpUVhjl`nai:]Cna<]UKFRad`PCy_tiUyGraq@a`iXVLXfFRAcfU`gwpucjIz<fnhtl_p?VW<`@hEOdvzNySVGfur=ZuEfPlItHJ@Yn>BjwtE`>I`n]=[R><ycq<I]MmnoUL<x;XThp:Ox[;`oFdhehqQxncCecyKSsH@QpwH?dolMBAJaaq^xOl]xeShIYEKfY;f<nKTVOoPrMIdbDv?XojFPv^vKfTqlR=HVPxWfkZrT@Y=G]PlsoSyFwaWMFCUCE@SeRsleqIFTtEXSZsodXWr?apE:CpevDiBjqQ[?VyzLvNU@jGaP:fSgmpGRrHPQhnG`vTlsf]hGULeAOhmlHT[piLRWeLi`UtS`EnaQZZOtVm?Yy?[QDS?`xGOSW_fWQ:UZp[mwpdQpCPplDOZsy`RSHYaiWYp^YKsraguPHMsOY:njLdFp@vJMSsmm`_?jY@;BD`g?KqIWqw;IWUcUrVBD_Ayv:xxZNoLAenK[uG;rkIB`jmEte;W;yZkkOg<MqVb_eUgEYgKnTLSuU;T<AISIqZUH<]xlZKVI=pfpE[jirBXUdBoi@LxiX`kqb^L>xjNwcZkWojTm_GuexE[wIKUdVHxhhV>Xk@zqrR<`sdrU[hrHb[bTxj[qgvxrAHsi@^gs;svbXundVE]Gf=bHgWbqyppvqCrYUfJZHuoB^ih<TXyWrGEriEih<svk@yir=pfjCqMpjXZHshpvoKqlvfDWivhkEj=qcvXmBr]QUvh`qYMjXcwpQTu<xuIUbJ[iypouAGrH[fWbXrbSbitdH[rWncUrSIQAqfv_yoXw;gIgWr?ilx]XkzYbgew`vpx`XycrArKPGvA:McQSag;P]U<;:QYKJArpR;Zdlyic@RUM_g^Whj[lw>:t:YK>gKxytzb]F=AIvZlExJ]Tc;JW?^JAjG]UYhVBYL[GVuGfETnUM_KEwOrtezOOVXZRD_E^Vogp:;RV_IqMaatwXHXcWRvEnh=j?NMcRVEfYnkdcn@>S>aLtdMSd`MSiifibfbHg^ho?oAZinQKC:p]coGYc]JHVWz=hvQ:?cGYT@=y]QvKZAypNKP=Y:WZtkS@iuD^a^wh[fkSCbJ]K=CGmJoBz:G?AXf];qaxczdgS@<l^^]dZBT<@zdbZrlx`MXS`rgH_^jGaGN>sh>[HCxE^]CwRS[jMJSpgMqLecss<>aWfXOwZDJypPeciZSFCjEtBI_ndHWc^u:siiRW_edA@V=;UBsXr`mIUnMicEjUxjlMavQMdPeYSSr`ndvHIRSw]Hvg=I`G@dt>VdchHnIznwNqykFtuYlqybTWyB@gzEajqMpDn_yn^mqVMH?vlj?HvihgrNk`M^cVis;WlK>QRE;CbekcRkN?H_Uq`_dzxHwWDGS``ygKoky<^bHnb:chdvSf:iN;UGbOg?kDCaYJFc:haySsehug:jzAM?vcnsc_=HUqEZlxnOlX=GuIeStpn=OWVQ<:;iNkMmdQPlxiiMYJzRXqT`=tHxdQhUJgRj^fqEouxtckrsjXEcSc`s:>wbR`yLtloAnjA@PqTm<xtiFjzdnE[=KlWSXXTnfCtwqSmt=H>jbfgjJ:IZCZ:Ffo;Q`Ei[k?CaP]i;K]G`SUhWKVwHdQUarQQDzSWS^e=slzeNxo:;FTR:>Ex@;KhhlQ^e[QUR_WRGeBHqTGMP^`?v`GXraiSQ`fv]zDxsXj]`QTuI]vmsWXijepTs^pomjt^XiY^;fvgKTR=Y=^MQMEnQWDulW[jVQAEqpv@xOYEW::mjD:;gdJMVze=^HfmaTatO`FabbSDi`uJTVF?PoQbtaT;JdyYpIlAznZNTkt[XqTvbcvZNUOWaYbH@fWOwtpFzHVeaFrYRC<xaymatjCQyU]po@SsiKj?QdUv`yPvA]_jhQbfoGMLs??>Ppr>fecm@wEVviBrXEZxmes@aEZyQdve`tyVNqBjCrsf^WvXurX[iArpfeGwyuOWIWGQAvrOrvCUXJjilzFIxo@yvWrj:nHErWoysCYZXNXnfqht^c_H<iNr[yY<nyzZwjI^QKMaxzK;JwbPfQRto=t[zhVcwXQwUePM]fAQRu@rg]hGmDsjYkYqrOl[`zyucy:YvrTAlxmPsRx>jeriAnUY[wsxXjar@^cBk_zBIcQ_bMPNCmstQ:Y@FbFbroh;zLqVq?oZxsSxXu>y^cMI?MyNGKx`Y[judFUkxuywhrFMfWR`vFngUs^mPrnD`[_vCKuXaXxnGawny_AwxPYoQBbp=qmw_xAj?knb_DatxXjMMrfylauUCgdizQp>@nZEzLumaNXTePQgExaJ]woXvIoQdnsP@<flYmrvbtEoJdNgmALnfWg^qeccz;YfDAW]sNWREXKYTIQE`xoxn]yiYej]QbFttsyh^ndclSq=uFvqvGXipiQhfxozqXnXijqvgMzSvhW>j;jF`huvaSLyGjCjuQhctFwJwJTf?_npUo;zPx`X;j?Q`nnhuLxvXNtcDudt[hGIMHOIJtdCvUCLYHItZ?MAMpydFGgYbjKAekoSvaXYXWArr[lldxLYzYhIUcH:>=sd`QMJYrAsDNduFmfj:jpdvhzRy;azXy@Pbvs=dv>FZzIrU>nAuPXPXbXvGO]tStWx>xKXyjPAqQey[sZIYKjQbauUGIM`LuzI:xdHpgvFxBYxfen`Hontuy`YPY^AxbtnsLymPbjMDjbxEicphAvvinibwBgpyWYRGzKvfmOy=FHYyjDI=bpnswwwzxtqMgzPoSqYSXHrQKgQuNzhy?XUIKUrWmUvSxaw?YkrdQqGzqxxTqO:j`o=GxbgHy;I<rtrq<U=xk;svNjcrtvwqwlYnY]jrUkAyXxbaqCujogwQS?ysyVroYlmrbw`zuzzM[jqnwUyMyjjNzYjxIpUu=zdnUYjAjg;VyKX?ynjmAsftQuMx`jQrZ:;EM::wu@::xAN:=_;`tMMxqv@RIHPLCutsZ=UNtuouaxw@iYhzprKY[amjtxGizizAj]GmUxWFlYcnLS_LzWRDqIP<y?jqftxYIoMYOdg_P=wdejV?yyUI=ZbyNmCyLFQA[=dcu^vRzDPSfNgn]FcYXaoIF<MGmrpVF^:OoZ=xt?LpGFwbY^pmhf^WtoVg>:seltkSpPdk?GDfLDNTWUCN?ksVmO<?nug`b>np_WzIPKqUhSAOirB=`j>Hp_WivGdlt?Sr;Sky_dbA_O_WUvPZDs=pbEb^AhsdXrpc=;:yDKEx[vJ?qv>?SLtkKtOv@tnZ:qzXtnsR`rH::::cBZkkNRfOtmDVN:y]>yWqUYhmJV[rX=qB=nbT?n[?nbX?nF<;K;PA>=PzVWog=sIDWkKV?=VtmGVPjTsocxkj:rnPwPYIWmk;crTjmXsMrXhnIW]ISkDg=zQ?zkw<]jEkDiwY:^=p`xXQY`q<=DYWGlUw_:U]@pxZrQYq:wuIYWliwNXL=qL<=IL:GxVf:bAlmwbYMjnGWgZuvkOVz:g=n`x`iA=pRwrQW^maOtIChqdWLZy=qYwDZjPL]=rYABEe<QrEroT<lsS^nowqZbfNxWHZfxqQWoZzeo]<[IMkIExj:rfpw<KZZBCKtdI?cFMV]Zlhn;wxQKzkkOQ:yUp]OiAG<mdwyrXWJAVzb=H?dVP:]Wk_<?rB?q;VZQ:ZGdW^:c?q[V>E;sFm<iz@BHSxpZyBHOWjYRxnCWxZvlrXxTQHUn@pIMSRH]=OZqBH;<CI;BC]xrrL>CUNXIUcEv;tSYsHe=:JuQqEVUQYBIOVhQM>IY_LZ_^pl<G:w^rV<>JkRGe<GZzkEvxAQ?ppq<ur:Kqa=<IGGq[<ZQNsE[<Zj=YlP=FQB_IJxNJo>E@<rr?^rPoxZf_BdVSZksER`jrFBB_<BZjcI[=[Jl>G?=>zVMlC<oJpxlq=SJn_E_x?JhGmd=>^@el:<WMWzk_[IzFCk;w_YVbpT<Nt?omFwIUK:FDWuJ^Ykgw_vQonEwWJbjrrwhZqQaqxCzUbr@xDSJvoI`YINIm?x@vMoFo=jJecGDVD:[Im=<GjO_CKskkijoXwFzGwpXxmG=Emc=wJodmc=okjYon=AIPvoew[jNr[ex`YOEoE<@jPL[c=Lkg>lc<DkcRF`<hjHvmexuk_UohxBkuKa^=M^TUnc=HvWgFVhRzYoHgwTZbkG@=XkqgDjx@kZvoE=qWPL_R<dktfNR<ikd_FQ<RjAFBA=zY;joHGakxvqR=fJlTkUFYjHAnywZ[KAqX:NYLRG;w<`Nsk[wXKP>Isp>bGMpj<`CXAkY=LYCAqY<HJr]_BwrkhTPdw<ELKoM<uJkVq[xYkqArz=vkloF]VFW<V`W=otD<CW:X:hYnmxU_JXnAgxk[VC=<YY?VIn<UdEInP_JzOJ:`wl:j<FPwsxEZHB^pZZwCfxYYRwIfx[kn:<c]?S?NFmwy:jiqr=wjJLHAgPBaQlv<Nz=]Ba`;kuzoc]qOSjpU<bvBLBR]YJgnaN]lBZFCSWDko_EB^kkcVF=xdBI]Aw_g`Nop^xy:pLCM<Rz<VDB]hB]jlo]=Jlba_]Qf>wHs]?R>mEP_VzMVHHWIvQVkp<[JemHEwYBqmEb=<JrNDf=MYXQrB^MkxmDUxehONGl<grCRDp=@J_]Dn=SXBYnAwCzQFH_[HWEtpbxbW;YpCJ`zS_mrxp@P<EV=;IGLBLgfbOXr>]ezR^NIxQrRzpIwlE<LmLpEzYLE_^wIU]AZOmf@W:YwgYQ?=UwprAwGh<vJXoHzws:R;lR;YzXeMSp::tYoN<fk^_mIFB:a>rl`c:mWNAJs:hcnmWTJmeFvVct=_rq^]fTtJZ]g:]eoRWV:sD:kOM:j:EXJE:]Kq@]BQUXr]`zIN?kIg;:^fp;VSko?kjhS:w^N;]bcuKo_VKrXW?jhYcyFBPsAvQZIMhfvUuGIhbvWuCg^RRwiO><RECsEv;XrDJHgs<:b_Mg<k:j[bNWqAHuDsVirA[po=jb@sBF=vZc?r;^AcP`oC^=:r>FV=v:v@FX=qRd:>P_U:vaDN<VJd:>vGhk_NHo^ik_>ER^:Z]>I`<<I:nnt<C:rcFWxyZ[_Ib<NJzNF_^Qr=>H`^tIG`Qs^RQB?oP=zBkGo<^[IFDBn=VZycGo]lsJcDp]JZzxNYwJQPWp?x^R_PIg]lR]NB`^gIW_HG<wISGnA_`JblkL^iRfwHCF;Z`PB_^lRo]I@<SJoWLMVHIFoIM`WR_?ke]nZdPCL]kss_IcxABvRCfWJBqMpx]=ZwoHH<mOCDFG^wfRuFd]gJrhneWTRvq[;VIZZNNtpXR^eLU]JRiaHv>HOCiIAWYZ[iBH]NsnNHW^hJoPDS<BsxDHPsZZaqCL<tRv@B?<`WSPGG]ABt_BT=>Ze=q>W`JyRHU^EBybk;<_Jc>I=^rRmHFQ;fRooCL<EJi=ql]LslPIv]hsZ_Cr]lJjNFn^pRh_Fa=RsxcI^]iZu_Ht^mZmyB<^fsjGrb]rRhPBx^SX<RGn^rQHHCt<>sxXBO^BzLcGz^GrYyHA^xsoXEAZ^JaHFl=SZa=m@]t:aXHKgjjK<FCwvksbkKwZBh<H;wQJ`BDNSrJ_npv^;JcqEZMAEUXre^XzTgHn<ykigC_^QBkmELwRkwVEX^GssKJy]a>sFHJMRjG[H]^iBv[HvG]kfElcMSsueEe:=vBKB]]kJoKHQ<icpVDx`ujNomIh[BxLD@WQn?qEP<CBc;HPs^k^[Ds^=B`vmawq^IuGoLD:IuDNMERpKIixp>]]EQ=EE=Ek;^y>wvlw^QONDGj^kcdlEFLQB]lHXxKkhvmkLZRhYn@]`fC<DVV]>k<FW;:YSoHfOoYRgkz<Id<yCZLZUTwGENzkyCDzx]>dCH:]N_ZTZZMdWU<Fh<kR`TEYxR_Z[HJ]>_p<GoxJ>vW;L=qOY]F[]v>nh>B]AvKlDn]ccplGI=OY=anF^cRcXpgh_csqH;>l_tynuMAsgrqV]gnPLBoM;oUCmw]QJQQp_LJsl]FqLt__lEA[TzM]En<[_arr]^;b:tnK]bRy[HTpvY:lFA^QRzVBI^=_wlHHLrBr]Cc]sxPtDuMI_^LEwM=>t>HFLb_lSGLpJ_`Gps^p_pJ:l]h__pr_Mbl=ypaLvBclBT]P>ZSCm]=BnIkN]n_jPIU]=RvyEcLWMODGR]=snDIAwEYIDCbwtzBeGcV`cuJCzhj_`V=l]x_cELT^;EDFlIwvfGeEMFEz=Ro@MBkknOjxmU;Yo@]sb=uPZL_:y<F<Ww>^zoBM<_cBKzxCfXTF<`?coeHC]T_odnZhpcsPoQ:hc`Qpq]GdXPkI>jWIR<::".charCodeAt(C++))?c-59:c-58),J|=(0<(c&(H/=2))?1:0)<<B,++B}for(var N,J,B,o,c,k=[],F=1,A=3,Q=1,K=[],H=0,C=0;;){if(Z(Q+1),2==J)return K.join("");-2&(o=J)||(Z(8*J+8),k[o=A++]=String.fromCharCode(J),--F||(F=2<<Q++)),K.push(o=k[o]||N+N[0]),N&&(k[A++]=N+o[0],--F||(F=2<<Q++)),N=o}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markDraw; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var i = t.call(this) || this;
+            return i.service.setValues([e.AttrConst.daily_current_times, e.AttrConst.daily_current_row, e.AttrConst.daily_afterdraw_mark]),
+            i.init([{
+                panelName: e.ModuleConst.MAIN_PANEL,
+                isMain: !0
+            }]),
+            i
+        }
+        return __extends(i, t),
+        i
+    } (BasicMultPanelModule);
+    e.MarkDraw = t,
+    __reflect(t.prototype, "markDraw.MarkDraw")
+} (markDraw || (markDraw = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+markDraw; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.daily_current_times = 16577,
+        e.daily_afterdraw_mark = 16578,
+        e.daily_current_row = 16579,
+        e
+    } ();
+    e.AttrConst = t,
+    __reflect(t.prototype, "markDraw.AttrConst")
+} (markDraw || (markDraw = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+markDraw; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.MARKDRAW_CMD = 46301,
+        e
+    } ();
+    e.CMDConst = t,
+    __reflect(t.prototype, "markDraw.CMDConst")
+} (markDraw || (markDraw = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+markDraw; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.markOfcard1 = [40913, 40911, 41e3],
+        e.markOfcard2 = [40910, 40914, 40999],
+        e.markOfcard3 = [40916, 40917, 40998],
+        e.markOfcard4 = [40919, 40920, 40997],
+        e.markOfextraCard = [41050, 41051, 41052, 41053],
+        e
+    } ();
+    e.MarkDataConst = t,
+    __reflect(t.prototype, "markDraw.MarkDataConst")
+} (markDraw || (markDraw = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+markDraw; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.MAIN_PANEL = "markDraw.MarkDrawMainPanel",
+        e
+    } ();
+    e.ModuleConst = t,
+    __reflect(t.prototype, "markDraw.ModuleConst")
+} (markDraw || (markDraw = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markDraw; !
+function(e) {
+    var t = function(t) {
+        function i(i) {
+            var n = t.call(this) || this;
+            return n.state = [egret.Ease.quadIn, egret.Ease.quadInOut, egret.Ease.quadOut, egret.Ease.quartIn, egret.Ease.quartInOut, egret.Ease.quartOut, egret.Ease.quintIn, egret.Ease.quintInOut, egret.Ease.quintOut],
+            n.skinName = e.MainPanelSkin,
+            n.service = i,
+            n
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.initData(),
+            this.addEvents(),
+            this.update(),
+            this.adaptBgByScale(this.bg)
+        },
+        i.prototype.beforeAdd = function() {
+            StatLogger.log("20210930版本系统功能", "刻印抽奖机", "进入【刻印抽奖机】面板")
+        },
+        i.prototype.initData = function() {
+            this.adaptRightContent(this.leiji),
+            this.adaptRightContent(this.coins),
+            this.animchouka1 = DragonbonesUtil.createAnimate("kapai_ske_json", "kapai_tex_json", "kapai_tex_png", "chouka"),
+            this.animchouka1.x = 600,
+            this.animchouka1.y = 640,
+            this.animchouka1.visible = !1,
+            this._contents.addChild(this.animchouka1);
+            for (var e = 1; 4 >= e; e++) this["light_" + e].visible = !1;
+            this.imgSeerDou.source = ClientConfig.getItemIcon(1),
+            this.imgDiamond.source = ClientConfig.getItemIcon(5)
+        },
+        i.prototype.addEvents = function() {
+            var t = this;
+            EventManager.addEventListener("MarkGet", this.update, this),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.update, this),
+            ImageButtonUtil.add(this.btnDraw,
+            function() {
+                0 == t.curTimes ? MainManager.actorInfo.coins >= 1e5 ? Alert.show("首次抽奖需要花费10万赛尔豆，确认抽取吗？",
+                function() {
+                    t.draw()
+                }) : BubblerManager.getInstance().showText("您的赛尔豆不足！") : 10 == t.curTimes ? Alarm.show("今日的抽取次数已达上限，请明日再来哦！") : BuyProductManager.buyProductBySocket(250292,
+                function() {
+                    t.draw()
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                tipsPop.TipsPop.openHelpPopById(70)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet_1,
+            function() {
+                StatLogger.log("20210930版本系统功能", "刻印抽奖机", "点击打开【领取指定刻印】弹窗");
+                var i = new e.MarkGetPop(t.service, e.MarkDataConst.markOfextraCard);
+                PopViewManager.getInstance().openView(i)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet_2,
+            function() {
+                StatLogger.log("20210930版本系统功能", "刻印抽奖机", "点击打开【领取指定刻印】弹窗");
+                var i = new e.MarkGetPop(t.service, e.MarkDataConst.markOfextraCard);
+                PopViewManager.getInstance().openView(i)
+            },
+            this);
+            for (var i = function(i) {
+                ImageButtonUtil.add(n["card" + i],
+                function() {
+                    var n = new e.MarkShowPop(t.service, e.MarkDataConst["markOfcard" + i]);
+                    PopViewManager.getInstance().openView(n)
+                },
+                n)
+            },
+            n = this, a = 1; 4 >= a; a++) i(a);
+            ImageButtonUtil.add(this.imgSeerDou,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 1
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.imgDiamond,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 5
+                })
+            },
+            this)
+        },
+        i.prototype.draw = function() {
+            var t = this;
+            this.currow = this.service.getValue(e.AttrConst.daily_current_row),
+            SocketConnection.sendByQueue(e.CMDConst.MARKDRAW_CMD, [1, 0],
+            function() {
+                t.service.updateValues().then(function() {
+                    t.skip.selected ? (StatLogger.log("20210930版本系统功能", "刻印抽奖机", "选中【跳过抽奖动画】成功抽奖"), t.updateValues()) : (StatLogger.log("20210930版本系统功能", "刻印抽奖机", "未选中【跳过抽奖动画】成功抽奖"), AwardManager.pause(), t.currow = t.service.getValue(e.AttrConst.daily_current_row), t.randomAnim(t.currow))
+                })
+            })
+        },
+        i.prototype.randomAnim = function(e) {
+            var t = this,
+            i = {};
+            this.touchChildren = !1,
+            this.parent.parent.parent.touchChildren = !1,
+            i.index = 1,
+            this.tweenanim = egret.Tween.get(i, {
+                onChange: function() {
+                    var e = Math.floor(i.index) % 4;
+                    0 == e && (e = 4);
+                    for (var n = 1; 4 >= n; n++) t["light_" + n].visible = !1;
+                    t["light_" + e].visible = !0
+                }
+            }).to({
+                index: 40 + e
+            },
+            6e3, egret.Ease.quadInOut).wait(300).call(function() {
+                t.animchouka1.visible = !0,
+                DragonbonesUtil.play(t.animchouka1, ["sun", "moon", "star", "qiu"][e - 1], 1).then(function() {
+                    t.touchChildren = !0,
+                    t.parent.parent.parent.touchChildren = !0,
+                    t.animchouka1.visible = !1;
+                    for (var e = 1; 4 >= e; e++) t["light_" + e].visible = !1;
+                    AwardManager.resume(),
+                    t.updateValues()
+                })
+            })
+        },
+        i.prototype.update = function() {
+            var t = this;
+            if (this.curTimes = this.service.getValue(e.AttrConst.daily_current_times), this.drawTimesText.text = "累计抽取：" + this.curTimes + "/10", this.btnGet_2.visible = 10 == this.curTimes, this.btnDraw.visible = 10 != this.curTimes, this.tomorrow.visible = 10 == this.curTimes, this.btnGet_2.visible) {
+                var i = this.service.getValue(e.AttrConst.daily_afterdraw_mark);
+                this.btnGet_1.visible = !1,
+                DisplayUtil.setEnabled(this.btnGet_2, 0 == i, 0 != i)
+            }
+            this.coin2Num.text = core.gameUtil.ConvertItemNumView(MainManager.actorInfo.coins),
+            UserInfoManager.getDiamond(function(e) {
+                t.coin1Num.text = core.gameUtil.ConvertItemNumView(e)
+            },
+            this)
+        },
+        i.prototype.destroy = function() {
+            this.animchouka1.dispose(),
+            EventManager.removeEventListener("MarkGet", this.update, this),
+            EventManager.removeEventListener(SocketEvent.SOCKETRECONNECT, this.update, this),
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BasicPanel);
+    e.MarkDrawMainPanel = t,
+    __reflect(t.prototype, "markDraw.MarkDrawMainPanel")
+} (markDraw || (markDraw = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markDraw; !
+function(e) {
+    var t = function(t) {
+        function i(i, n) {
+            var a = t.call(this) || this;
+            return a.skinName = e.PopmarkgetSkin,
+            a.service = i,
+            a.data = n,
+            a
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.initDat(),
+            this.addEvents(),
+            this.update()
+        },
+        i.prototype.initDat = function() {
+            for (var e = 1; 4 >= e; e++) this["mark_" + e].source = ClientConfig.getMarkPath(this.data[e - 1]),
+            this["mark_" + e].scaleX = this["mark_" + e].scaleY = 1.5,
+            this["mark_" + e].x = 17,
+            this["mark_" + e].y = 12,
+            this["name_" + e].text = CountermarkXMLInfo.getDes(this.data[e - 1])
+        },
+        i.prototype.addEvents = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                PopViewManager.getInstance().hideView(t)
+            },
+            this);
+            for (var i = function(i) {
+                ImageButtonUtil.add(n["btnget_" + i],
+                function() {
+                    var n = t.service.getValue(e.AttrConst.daily_afterdraw_mark);
+                    0 == n ? SocketConnection.sendByQueue(e.CMDConst.MARKDRAW_CMD, [2, i],
+                    function() {
+                        t.service.updateValues().then(function() {
+                            t.update(),
+                            EventManager.dispatchEventWith("MarkGet"),
+                            t.hide()
+                        })
+                    }) : Alarm.show("您今天已经领取过了哦！")
+                },
+                n),
+                ImageButtonUtil.add(n["mark_" + i],
+                function() {
+                    var e = {
+                        ins: t.data[i - 1]
+                    };
+                    tipsPop.TipsPop.openCounterMarkPop(e)
+                },
+                n)
+            },
+            n = this, a = 1; 4 >= a; a++) i(a)
+        },
+        i.prototype.update = function() {
+            this.curTimes = this.service.getValue(e.AttrConst.daily_current_times);
+            for (var t = this.service.getValue(e.AttrConst.daily_afterdraw_mark), i = 1; 4 >= i; i++) this["btnhasget_" + i].visible = 1 == KTool.getBit(t, i);
+            var n = 10 == this.curTimes;
+            DisplayUtil.setEnabled(this.btnget_1, n, !n),
+            DisplayUtil.setEnabled(this.btnget_2, n, !n),
+            DisplayUtil.setEnabled(this.btnget_3, n, !n),
+            DisplayUtil.setEnabled(this.btnget_4, n, !n)
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (PopView);
+    e.MarkGetPop = t,
+    __reflect(t.prototype, "markDraw.MarkGetPop")
+} (markDraw || (markDraw = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+markDraw; !
+function(e) {
+    var t = function(t) {
+        function i(i, n) {
+            var a = t.call(this) || this;
+            return a.service = i,
+            a.data = n,
+            a.skinName = e.MarkShowPopSkin,
+            a.cacheAsBitmap = !0,
+            a
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.initDat(),
+            this.addEvents()
+        },
+        i.prototype.initDat = function() {
+            for (var e = 1; 3 >= e; e++) {
+                this["mark_" + e].source = ClientConfig.getMarkPath(this.data[e - 1]),
+                this["markName_" + e].text = CountermarkXMLInfo.getDes(this.data[e - 1]);
+                var t = CountermarkXMLInfo.getBaseAttriValue(this.data[e - 1]),
+                i = CountermarkXMLInfo.getMaxAttriValue(this.data[e - 1]),
+                n = CountermarkXMLInfo.getExtraAttriValue(this.data[e - 1]);
+                void 0 == n && (n = [0, 0, 0, 0, 0, 0]),
+                this["attack_" + e].text = t[0].toString() + "/" + i[0].toString(),
+                this["attackNum_" + e].text = "+" + n[0].toString(),
+                this["defence_" + e].text = t[1].toString() + "/" + i[1].toString(),
+                this["defenceNum_" + e].text = "+" + n[1].toString(),
+                this["exattack_" + e].text = t[2].toString() + "/" + i[2].toString(),
+                this["exattackNum_" + e].text = "+" + n[2].toString(),
+                this["exdefence_" + e].text = t[3].toString() + "/" + i[3].toString(),
+                this["exdefenceNum_" + e].text = "+" + n[3].toString(),
+                this["speed_" + e].text = t[4].toString() + "/" + i[4].toString(),
+                this["speedNum_" + e].text = "+" + n[4].toString(),
+                this["health_" + e].text = t[5].toString() + "/" + i[5].toString(),
+                this["healthNum_" + e].text = "+" + n[5].toString()
+            }
+        },
+        i.prototype._parseData = function() {
+            t.prototype._parseData.call(this)
+        },
+        i.prototype.addEvents = function() {
+            for (var e = this,
+            t = function(t) {
+                ImageButtonUtil.add(i["mark_" + t],
+                function() {
+                    var i = {
+                        ins: e.data[t - 1]
+                    };
+                    tipsPop.TipsPop.openCounterMarkPop(i)
+                },
+                i)
+            },
+            i = this, n = 1; 3 >= n; n++) t(n)
+        },
+        i.prototype._upDateView = function() {},
+        i.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    e.MarkShowPop = t,
+    __reflect(t.prototype, "markDraw.MarkShowPop")
+} (markDraw || (markDraw = {})),
+window.markDraw = window.markDraw || {};
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/MarkdrawMainPanelSkin.exml"] = window.markDraw.MainPanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "skiptxt", "skip", "grp_skip", "btnInfo", "btnDraw", "tomorrow", "card1_2", "card1_3", "card1_4", "light_1", "card1", "card2_2", "card2_3", "card2_4", "light_2", "card2", "card3_2", "card3_3", "card3_4", "light_3", "card3", "card4_2", "card4_3", "card4_4", "light_4", "card4", "_contents", "coin2Num", "imgSeerDou", "coin1Num", "imgDiamond", "coins", "btnGet_1", "btnGet_2", "drawTimesText", "leiji"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._contents_i(), this.coins_i(), this.leiji_i()]
+    }
+    __extends(t, e);
+    var i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "markDraw_main_panel_icon_right_png")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.percentHeight = 100,
+            e.source = "markDraw_main_panel_img_xuanze_png",
+            e.percentWidth = 100,
+            e
+        },
+        i.labelDisplay_i = function() {
+            var e = new eui.Label;
+            return this.labelDisplay = e,
+            e.horizontalCenter = 0,
+            e.verticalCenter = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    n = t.prototype;
+    return n.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.height = 640,
+        e.horizontalCenter = -.5,
+        e.source = "markDraw_main_panel_newbg_jpg",
+        e.visible = !0,
+        e.y = 0,
+        e
+    },
+    n._contents_i = function() {
+        var e = new eui.Group;
+        return this._contents = e,
+        e.horizontalCenter = 0,
+        e.visible = !0,
+        e.width = 1136,
+        e.y = 25,
+        e.elementsContent = [this.grp_skip_i(), this._Image1_i(), this.btnInfo_i(), this.btnDraw_i(), this.tomorrow_i(), this.card1_i(), this.card2_i(), this.card3_i(), this.card4_i()],
+        e
+    },
+    n.grp_skip_i = function() {
+        var e = new eui.Group;
+        return this.grp_skip = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.x = 211,
+        e.y = 538,
+        e.elementsContent = [this.skiptxt_i(), this.skip_i()],
+        e
+    },
+    n.skiptxt_i = function() {
+        var e = new eui.Label;
+        return this.skiptxt = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20.8333358764648,
+        e.text = "跳过抽卡动画",
+        e.textColor = 12690431,
+        e.x = 30,
+        e.y = 2,
+        e
+    },
+    n.skip_i = function() {
+        var e = new eui.CheckBox;
+        return this.skip = e,
+        e.visible = !0,
+        e.x = 0,
+        e.y = .33,
+        e.skinName = i,
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_main_panel_title_png",
+        e.visible = !0,
+        e.x = 193,
+        e.y = 0,
+        e
+    },
+    n.btnInfo_i = function() {
+        var e = new eui.Image;
+        return this.btnInfo = e,
+        e.source = "markDraw_main_panel_btnInfo_png",
+        e.x = 518,
+        e.y = 119,
+        e
+    },
+    n.btnDraw_i = function() {
+        var e = new eui.Image;
+        return this.btnDraw = e,
+        e.height = 90,
+        e.source = "markDraw_main_panel_btnFight_png",
+        e.visible = !0,
+        e.width = 226,
+        e.x = 502,
+        e.y = 501,
+        e
+    },
+    n.tomorrow_i = function() {
+        var e = new eui.Image;
+        return this.tomorrow = e,
+        e.height = 49,
+        e.source = "markDraw_main_panel_tomorrow_png",
+        e.width = 241,
+        e.x = 484,
+        e.y = 521,
+        e
+    },
+    n.card1_i = function() {
+        var e = new eui.Group;
+        return this.card1 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.x = 212,
+        e.y = 242.00000000000003,
+        e.elementsContent = [this.card1_2_i(), this.card1_3_i(), this.card1_4_i(), this.light_1_i()],
+        e
+    },
+    n.card1_2_i = function() {
+        var e = new eui.Image;
+        return this.card1_2 = e,
+        e.source = "markDraw_main_panel_card1_png",
+        e.x = 11,
+        e.y = 4,
+        e
+    },
+    n.card1_3_i = function() {
+        var e = new eui.Image;
+        return this.card1_3 = e,
+        e.source = "markDraw_main_panel_card1_png",
+        e.x = 6,
+        e.y = 1,
+        e
+    },
+    n.card1_4_i = function() {
+        var e = new eui.Image;
+        return this.card1_4 = e,
+        e.source = "markDraw_main_panel_card1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.light_1_i = function() {
+        var e = new eui.Image;
+        return this.light_1 = e,
+        e.source = "markDraw_main_panel_2_light_1_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 1,
+        e
+    },
+    n.card2_i = function() {
+        var e = new eui.Group;
+        return this.card2 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.x = 415,
+        e.y = 259,
+        e.elementsContent = [this.card2_2_i(), this.card2_3_i(), this.card2_4_i(), this.light_2_i()],
+        e
+    },
+    n.card2_2_i = function() {
+        var e = new eui.Image;
+        return this.card2_2 = e,
+        e.source = "markDraw_main_panel_card2_png",
+        e.x = 10,
+        e.y = 3,
+        e
+    },
+    n.card2_3_i = function() {
+        var e = new eui.Image;
+        return this.card2_3 = e,
+        e.source = "markDraw_main_panel_card2_png",
+        e.x = 6,
+        e.y = 2,
+        e
+    },
+    n.card2_4_i = function() {
+        var e = new eui.Image;
+        return this.card2_4 = e,
+        e.source = "markDraw_main_panel_card2_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.light_2_i = function() {
+        var e = new eui.Image;
+        return this.light_2 = e,
+        e.source = "markDraw_main_panel_2_light_2_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.card3_i = function() {
+        var e = new eui.Group;
+        return this.card3 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.x = 659,
+        e.y = 241.00000000000003,
+        e.elementsContent = [this.card3_2_i(), this.card3_3_i(), this.card3_4_i(), this.light_3_i()],
+        e
+    },
+    n.card3_2_i = function() {
+        var e = new eui.Image;
+        return this.card3_2 = e,
+        e.height = 213,
+        e.source = "markDraw_main_panel_card3_png",
+        e.width = 155,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.card3_3_i = function() {
+        var e = new eui.Image;
+        return this.card3_3 = e,
+        e.height = 209,
+        e.source = "markDraw_main_panel_card3_png",
+        e.visible = !0,
+        e.width = 149,
+        e.x = 0,
+        e.y = 1,
+        e
+    },
+    n.card3_4_i = function() {
+        var e = new eui.Image;
+        return this.card3_4 = e,
+        e.source = "markDraw_main_panel_card3_png",
+        e.visible = !0,
+        e.width = 144,
+        e.x = 0,
+        e.y = 2,
+        e
+    },
+    n.light_3_i = function() {
+        var e = new eui.Image;
+        return this.light_3 = e,
+        e.source = "markDraw_main_panel_2_light_3_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.card4_i = function() {
+        var e = new eui.Group;
+        return this.card4 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.x = 880,
+        e.y = 237.99999999999997,
+        e.elementsContent = [this.card4_2_i(), this.card4_3_i(), this.card4_4_i(), this.light_4_i()],
+        e
+    },
+    n.card4_2_i = function() {
+        var e = new eui.Image;
+        return this.card4_2 = e,
+        e.height = 216,
+        e.source = "markDraw_main_panel_card4_png",
+        e.width = 163,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.card4_3_i = function() {
+        var e = new eui.Image;
+        return this.card4_3 = e,
+        e.height = 214,
+        e.source = "markDraw_main_panel_card4_png",
+        e.width = 157,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.card4_4_i = function() {
+        var e = new eui.Image;
+        return this.card4_4 = e,
+        e.source = "markDraw_main_panel_card4_png",
+        e.x = 0,
+        e.y = 1,
+        e
+    },
+    n.light_4_i = function() {
+        var e = new eui.Image;
+        return this.light_4 = e,
+        e.source = "markDraw_main_panel_2_light_4_png",
+        e.visible = !0,
+        e.width = 176.449,
+        e.x = 0,
+        e.y = 1,
+        e
+    },
+    n.coins_i = function() {
+        var e = new eui.Group;
+        return this.coins = e,
+        e.right = 32,
+        e.visible = !0,
+        e.width = 325,
+        e.x = 779,
+        e.y = 10,
+        e.elementsContent = [this._Image2_i(), this.coin2Num_i(), this.imgSeerDou_i(), this._Image3_i(), this.coin1Num_i(), this.imgDiamond_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_main_panel_img_di2_png",
+        e.visible = !0,
+        e.x = 30,
+        e.y = 5,
+        e
+    },
+    n.coin2Num_i = function() {
+        var e = new eui.Label;
+        return this.coin2Num = e,
+        e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.horizontalCenter = -67,
+        e.size = 18.0101510119682,
+        e.text = "99999",
+        e.textColor = 12834813,
+        e.y = 6,
+        e
+    },
+    n.imgSeerDou_i = function() {
+        var e = new eui.Image;
+        return this.imgSeerDou = e,
+        e.height = 45,
+        e.width = 45,
+        e.x = 0,
+        e.y = -8,
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_main_panel_img_di2_png",
+        e.width = 133,
+        e.x = 192,
+        e.y = 5,
+        e
+    },
+    n.coin1Num_i = function() {
+        var e = new eui.Label;
+        return this.coin1Num = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 98,
+        e.size = 18.0101510119682,
+        e.text = "99999",
+        e.textAlign = "center",
+        e.textColor = 12834813,
+        e.verticalAlign = "middle",
+        e.width = 53,
+        e.x = 230,
+        e.y = 6,
+        e
+    },
+    n.imgDiamond_i = function() {
+        var e = new eui.Image;
+        return this.imgDiamond = e,
+        e.height = 30,
+        e.width = 30,
+        e.x = 174,
+        e.y = 0,
+        e
+    },
+    n.leiji_i = function() {
+        var e = new eui.Group;
+        return this.leiji = e,
+        e.right = -150,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.visible = !0,
+        e.y = 515,
+        e.elementsContent = [this._Image4_i(), this.btnGet_1_i(), this.btnGet_2_i(), this.drawTimesText_i()],
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.scale9Grid = new egret.Rectangle(76, 32, 75, 31),
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "markDraw_main_panel_righttopbg_png",
+        e.visible = !0,
+        e.width = 371.698,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btnGet_1_i = function() {
+        var e = new eui.Image;
+        return this.btnGet_1 = e,
+        e.source = "markDraw_main_panel_btnGet_1_png",
+        e.x = 53,
+        e.y = 34,
+        e
+    },
+    n.btnGet_2_i = function() {
+        var e = new eui.Image;
+        return this.btnGet_2 = e,
+        e.source = "markDraw_main_panel_btnGet_2_png",
+        e.x = 40,
+        e.y = 22,
+        e
+    },
+    n.drawTimesText_i = function() {
+        var e = new eui.Label;
+        return this.drawTimesText = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.75,
+        e.text = "累计抽取：10/10",
+        e.textColor = 13677567,
+        e.x = 53,
+        e.y = 11,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkdrawPopmarkgetSkin.exml"] = window.markDraw.PopmarkgetSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["name_1", "btnget_1", "btnhasget_1", "mark_1", "mark1", "name_2", "btnget_2", "btnhasget_2", "mark_2", "mark2", "name_3", "btnget_3", "btnhasget_3", "mark_3", "mark3", "name_4", "btnget_4", "btnhasget_4", "mark_4", "mark4", "btnClose", "Get"],
+        this.height = 561,
+        this.width = 960,
+        this.elementsContent = [this.Get_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.Get_i = function() {
+        var e = new eui.Group;
+        return this.Get = e,
+        e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this._Image2_i(), this.mark1_i(), this.mark2_i(), this.mark3_i(), this.mark4_i(), this.btnClose_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 298,
+        e.scale9Grid = new egret.Rectangle(7, 7, 6, 6),
+        e.source = "markDraw_popMarkGet_popGetbg_s9_png",
+        e.visible = !0,
+        e.width = 760,
+        e.x = 80,
+        e.y = 120,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 100,
+        e.source = "markDraw_popMarkGet_popGetTitle_png",
+        e.visible = !0,
+        e.width = 760,
+        e.x = 90,
+        e.y = 123.764,
+        e
+    },
+    i.mark1_i = function() {
+        var e = new eui.Group;
+        return this.mark1 = e,
+        e.x = 165,
+        e.y = 214,
+        e.elementsContent = [this._Image3_i(), this._Image4_i(), this.name_1_i(), this.btnget_1_i(), this.btnhasget_1_i(), this.mark_1_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_popMarkGet_kuang_png",
+        e.x = 8,
+        e.y = 0,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_popMarkGet_namebg_png",
+        e.x = 0,
+        e.y = 120,
+        e
+    },
+    i.name_1_i = function() {
+        var e = new eui.Label;
+        return this.name_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.75,
+        e.text = "偃月之云",
+        e.textAlign = "center",
+        e.textColor = 16773461,
+        e.width = 140,
+        e.x = 5,
+        e.y = 123,
+        e
+    },
+    i.btnget_1_i = function() {
+        var e = new eui.Image;
+        return this.btnget_1 = e,
+        e.source = "markDraw_popMarkGet_btnLingqu_png",
+        e.x = 28,
+        e.y = 151,
+        e
+    },
+    i.btnhasget_1_i = function() {
+        var e = new eui.Image;
+        return this.btnhasget_1 = e,
+        e.height = 35,
+        e.source = "common_reward_ylq_png",
+        e.width = 88,
+        e.x = 28,
+        e.y = 150,
+        e
+    },
+    i.mark_1_i = function() {
+        var e = new eui.Image;
+        return this.mark_1 = e,
+        e.height = 70,
+        e.source = "",
+        e.width = 70,
+        e.x = 25,
+        e.y = 25,
+        e
+    },
+    i.mark2_i = function() {
+        var e = new eui.Group;
+        return this.mark2 = e,
+        e.x = 320,
+        e.y = 214,
+        e.elementsContent = [this._Image5_i(), this._Image6_i(), this.name_2_i(), this.btnget_2_i(), this.btnhasget_2_i(), this.mark_2_i()],
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_popMarkGet_kuang_png",
+        e.x = 8,
+        e.y = 0,
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_popMarkGet_namebg_png",
+        e.x = 0,
+        e.y = 120,
+        e
+    },
+    i.name_2_i = function() {
+        var e = new eui.Label;
+        return this.name_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.75,
+        e.text = "刻印名称七个字",
+        e.textAlign = "center",
+        e.textColor = 16773461,
+        e.width = 140,
+        e.x = 5,
+        e.y = 123,
+        e
+    },
+    i.btnget_2_i = function() {
+        var e = new eui.Image;
+        return this.btnget_2 = e,
+        e.source = "markDraw_popMarkGet_btnLingqu_png",
+        e.x = 27,
+        e.y = 151,
+        e
+    },
+    i.btnhasget_2_i = function() {
+        var e = new eui.Image;
+        return this.btnhasget_2 = e,
+        e.height = 35,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "common_reward_ylq_png",
+        e.width = 88,
+        e.x = 27,
+        e.y = 151,
+        e
+    },
+    i.mark_2_i = function() {
+        var e = new eui.Image;
+        return this.mark_2 = e,
+        e.height = 70,
+        e.source = "",
+        e.width = 70,
+        e.x = 25,
+        e.y = 25,
+        e
+    },
+    i.mark3_i = function() {
+        var e = new eui.Group;
+        return this.mark3 = e,
+        e.x = 475,
+        e.y = 214,
+        e.elementsContent = [this._Image7_i(), this._Image8_i(), this.name_3_i(), this.btnget_3_i(), this.btnhasget_3_i(), this.mark_3_i()],
+        e
+    },
+    i._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_popMarkGet_kuang_png",
+        e.x = 8,
+        e.y = 0,
+        e
+    },
+    i._Image8_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_popMarkGet_namebg_png",
+        e.x = 0,
+        e.y = 120,
+        e
+    },
+    i.name_3_i = function() {
+        var e = new eui.Label;
+        return this.name_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.75,
+        e.text = "刻印名称七个字",
+        e.textAlign = "center",
+        e.textColor = 16773461,
+        e.width = 140,
+        e.x = 5,
+        e.y = 123,
+        e
+    },
+    i.btnget_3_i = function() {
+        var e = new eui.Image;
+        return this.btnget_3 = e,
+        e.source = "markDraw_popMarkGet_btnLingqu_png",
+        e.x = 27,
+        e.y = 151,
+        e
+    },
+    i.btnhasget_3_i = function() {
+        var e = new eui.Image;
+        return this.btnhasget_3 = e,
+        e.height = 35,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "common_reward_ylq_png",
+        e.width = 88,
+        e.x = 27,
+        e.y = 151,
+        e
+    },
+    i.mark_3_i = function() {
+        var e = new eui.Image;
+        return this.mark_3 = e,
+        e.height = 70,
+        e.source = "",
+        e.width = 70,
+        e.x = 25,
+        e.y = 25,
+        e
+    },
+    i.mark4_i = function() {
+        var e = new eui.Group;
+        return this.mark4 = e,
+        e.x = 630,
+        e.y = 214,
+        e.elementsContent = [this._Image9_i(), this._Image10_i(), this.name_4_i(), this.btnget_4_i(), this.btnhasget_4_i(), this.mark_4_i()],
+        e
+    },
+    i._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_popMarkGet_kuang_png",
+        e.x = 8,
+        e.y = 0,
+        e
+    },
+    i._Image10_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_popMarkGet_namebg_png",
+        e.x = 0,
+        e.y = 120,
+        e
+    },
+    i.name_4_i = function() {
+        var e = new eui.Label;
+        return this.name_4 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.75,
+        e.text = "刻印名称七个字",
+        e.textAlign = "center",
+        e.textColor = 16773461,
+        e.width = 140,
+        e.x = 5,
+        e.y = 123,
+        e
+    },
+    i.btnget_4_i = function() {
+        var e = new eui.Image;
+        return this.btnget_4 = e,
+        e.source = "markDraw_popMarkGet_btnLingqu_png",
+        e.x = 27,
+        e.y = 151,
+        e
+    },
+    i.btnhasget_4_i = function() {
+        var e = new eui.Image;
+        return this.btnhasget_4 = e,
+        e.height = 35,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "common_reward_ylq_png",
+        e.width = 88,
+        e.x = 27,
+        e.y = 151,
+        e
+    },
+    i.mark_4_i = function() {
+        var e = new eui.Image;
+        return this.mark_4 = e,
+        e.height = 70,
+        e.source = "",
+        e.width = 70,
+        e.x = 25,
+        e.y = 24,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "markDraw_popMarkGet_btnClose_png",
+        e.x = 775,
+        e.y = 144,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MarkdrawShowMarkPopSkin.exml"] = window.markDraw.MarkShowPopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["attack_1", "exattack_1", "speed_1", "defence_1", "exdefence_1", "health_1", "attackNum_1", "exattackNum_1", "speedNum_1", "defenceNum_1", "exdefenceNum_1", "healthNum_1", "markName_1", "mark_1", "info1", "attack_2", "exattack_2", "speed_2", "defence_2", "exdefence_2", "health_2", "attackNum_2", "exattackNum_2", "speedNum_2", "defenceNum_2", "exdefenceNum_2", "healthNum_2", "markName_2", "mark_2", "info2", "attack_3", "exattack_3", "speed_3", "defence_3", "exdefence_3", "health_3", "attackNum_3", "exattackNum_3", "speedNum_3", "defenceNum_3", "exdefenceNum_3", "healthNum_3", "markName_3", "mark_3", "info3", "keyin_tips"],
+        this.height = 381,
+        this.width = 712,
+        this.elementsContent = [this.keyin_tips_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.keyin_tips_i = function() {
+        var e = new eui.Group;
+        return this.keyin_tips = e,
+        e.height = 381,
+        e.width = 712,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Group7_i()],
+        e
+    },
+    i._Group7_i = function() {
+        var e = new eui.Group;
+        return e.height = 381,
+        e.width = 712,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.info1_i(), this.info2_i(), this.info3_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 381,
+        e.scale9Grid = new egret.Rectangle(7, 7, 6, 6),
+        e.source = "markDraw_show_mark_pop_bg_s9_png",
+        e.width = 712,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_line_png",
+        e.x = 235,
+        e.y = 22,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_line_png",
+        e.x = 469,
+        e.y = 22,
+        e
+    },
+    i.info1_i = function() {
+        var e = new eui.Group;
+        return this.info1 = e,
+        e.x = 26,
+        e.y = 34,
+        e.elementsContent = [this._Group1_i(), this._Group2_i(), this._Image4_i(), this.attack_1_i(), this.exattack_1_i(), this.speed_1_i(), this.defence_1_i(), this.exdefence_1_i(), this.health_1_i(), this._Image5_i(), this._Image6_i(), this._Image7_i(), this.attackNum_1_i(), this.exattackNum_1_i(), this.speedNum_1_i(), this.defenceNum_1_i(), this.exdefenceNum_1_i(), this.healthNum_1_i(), this._Label13_i(), this.markName_1_i(), this._Image8_i(), this.mark_1_i()],
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 125,
+        e.elementsContent = [this._Label1_i(), this._Label2_i(), this._Label3_i(), this._Label4_i(), this._Label5_i(), this._Label6_i()],
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "攻击",
+        e.width = 36,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特攻",
+        e.width = 36,
+        e.x = 0,
+        e.y = 28,
+        e
+    },
+    i._Label3_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "速度",
+        e.width = 36,
+        e.x = 0,
+        e.y = 55,
+        e
+    },
+    i._Label4_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "防御",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 0,
+        e
+    },
+    i._Label5_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特防",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 28,
+        e
+    },
+    i._Label6_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "体力",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 55,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.y = 239,
+        e.elementsContent = [this._Label7_i(), this._Label8_i(), this._Label9_i(), this._Label10_i(), this._Label11_i(), this._Label12_i()],
+        e
+    },
+    i._Label7_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "攻击",
+        e.width = 36,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Label8_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特攻",
+        e.width = 36,
+        e.x = 0,
+        e.y = 28,
+        e
+    },
+    i._Label9_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "速度",
+        e.width = 36,
+        e.x = 0,
+        e.y = 55,
+        e
+    },
+    i._Label10_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "防御",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 0,
+        e
+    },
+    i._Label11_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特防",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 28,
+        e
+    },
+    i._Label12_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "体力",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 55,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 124,
+        e
+    },
+    i.attack_1_i = function() {
+        var e = new eui.Label;
+        return this.attack_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 45,
+        e.y = 125,
+        e
+    },
+    i.exattack_1_i = function() {
+        var e = new eui.Label;
+        return this.exattack_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 45,
+        e.y = 153,
+        e
+    },
+    i.speed_1_i = function() {
+        var e = new eui.Label;
+        return this.speed_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 45,
+        e.y = 180,
+        e
+    },
+    i.defence_1_i = function() {
+        var e = new eui.Label;
+        return this.defence_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 146,
+        e.y = 125,
+        e
+    },
+    i.exdefence_1_i = function() {
+        var e = new eui.Label;
+        return this.exdefence_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 146,
+        e.y = 153,
+        e
+    },
+    i.health_1_i = function() {
+        var e = new eui.Label;
+        return this.health_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 146,
+        e.y = 180,
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine2_png",
+        e.visible = !1,
+        e.x = 102,
+        e.y = 124,
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine2_png",
+        e.visible = !1,
+        e.x = 102,
+        e.y = 238,
+        e
+    },
+    i._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 238,
+        e
+    },
+    i.attackNum_1_i = function() {
+        var e = new eui.Label;
+        return this.attackNum_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 69,
+        e.y = 240,
+        e
+    },
+    i.exattackNum_1_i = function() {
+        var e = new eui.Label;
+        return this.exattackNum_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 69,
+        e.y = 268,
+        e
+    },
+    i.speedNum_1_i = function() {
+        var e = new eui.Label;
+        return this.speedNum_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 69,
+        e.y = 296,
+        e
+    },
+    i.defenceNum_1_i = function() {
+        var e = new eui.Label;
+        return this.defenceNum_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 170,
+        e.y = 240,
+        e
+    },
+    i.exdefenceNum_1_i = function() {
+        var e = new eui.Label;
+        return this.exdefenceNum_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 170,
+        e.y = 268,
+        e
+    },
+    i.healthNum_1_i = function() {
+        var e = new eui.Label;
+        return this.healthNum_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 170,
+        e.y = 296,
+        e
+    },
+    i._Label13_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "隐藏属性：",
+        e.textColor = 13412586,
+        e.x = 54,
+        e.y = 212,
+        e
+    },
+    i.markName_1_i = function() {
+        var e = new eui.Label;
+        return this.markName_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "刻印名字七个字",
+        e.textAlign = "center",
+        e.textColor = 16773461,
+        e.width = 160,
+        e.x = 14,
+        e.y = 85,
+        e
+    },
+    i._Image8_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_keyinbg_png",
+        e.visible = !0,
+        e.x = 58,
+        e.y = 0,
+        e
+    },
+    i.mark_1_i = function() {
+        var e = new eui.Image;
+        return this.mark_1 = e,
+        e.height = 55,
+        e.source = "",
+        e.width = 55,
+        e.x = 65,
+        e.y = 10,
+        e
+    },
+    i.info2_i = function() {
+        var e = new eui.Group;
+        return this.info2 = e,
+        e.x = 259,
+        e.y = 34,
+        e.elementsContent = [this._Group3_i(), this._Group4_i(), this._Image9_i(), this.attack_2_i(), this.exattack_2_i(), this.speed_2_i(), this.defence_2_i(), this.exdefence_2_i(), this.health_2_i(), this._Image10_i(), this._Image11_i(), this._Image12_i(), this.attackNum_2_i(), this.exattackNum_2_i(), this.speedNum_2_i(), this.defenceNum_2_i(), this.exdefenceNum_2_i(), this.healthNum_2_i(), this._Label26_i(), this.markName_2_i(), this._Image13_i(), this.mark_2_i()],
+        e
+    },
+    i._Group3_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 125,
+        e.elementsContent = [this._Label14_i(), this._Label15_i(), this._Label16_i(), this._Label17_i(), this._Label18_i(), this._Label19_i()],
+        e
+    },
+    i._Label14_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "攻击",
+        e.width = 36,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Label15_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特攻",
+        e.width = 36,
+        e.x = 0,
+        e.y = 28,
+        e
+    },
+    i._Label16_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "速度",
+        e.width = 36,
+        e.x = 0,
+        e.y = 55,
+        e
+    },
+    i._Label17_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "防御",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 0,
+        e
+    },
+    i._Label18_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特防",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 28,
+        e
+    },
+    i._Label19_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "体力",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 55,
+        e
+    },
+    i._Group4_i = function() {
+        var e = new eui.Group;
+        return e.y = 239,
+        e.elementsContent = [this._Label20_i(), this._Label21_i(), this._Label22_i(), this._Label23_i(), this._Label24_i(), this._Label25_i()],
+        e
+    },
+    i._Label20_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "攻击",
+        e.width = 36,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Label21_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特攻",
+        e.width = 36,
+        e.x = 0,
+        e.y = 28,
+        e
+    },
+    i._Label22_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "速度",
+        e.width = 36,
+        e.x = 0,
+        e.y = 55,
+        e
+    },
+    i._Label23_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "防御",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 0,
+        e
+    },
+    i._Label24_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特防",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 28,
+        e
+    },
+    i._Label25_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "体力",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 55,
+        e
+    },
+    i._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 124,
+        e
+    },
+    i.attack_2_i = function() {
+        var e = new eui.Label;
+        return this.attack_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 46,
+        e.y = 125,
+        e
+    },
+    i.exattack_2_i = function() {
+        var e = new eui.Label;
+        return this.exattack_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 46,
+        e.y = 153,
+        e
+    },
+    i.speed_2_i = function() {
+        var e = new eui.Label;
+        return this.speed_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 46,
+        e.y = 180,
+        e
+    },
+    i.defence_2_i = function() {
+        var e = new eui.Label;
+        return this.defence_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 146,
+        e.y = 125,
+        e
+    },
+    i.exdefence_2_i = function() {
+        var e = new eui.Label;
+        return this.exdefence_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 146,
+        e.y = 153,
+        e
+    },
+    i.health_2_i = function() {
+        var e = new eui.Label;
+        return this.health_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 146,
+        e.y = 180,
+        e
+    },
+    i._Image10_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine2_png",
+        e.visible = !1,
+        e.x = 103,
+        e.y = 124,
+        e
+    },
+    i._Image11_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine2_png",
+        e.visible = !1,
+        e.x = 103,
+        e.y = 238,
+        e
+    },
+    i._Image12_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 238,
+        e
+    },
+    i.attackNum_2_i = function() {
+        var e = new eui.Label;
+        return this.attackNum_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 70,
+        e.y = 240,
+        e
+    },
+    i.exattackNum_2_i = function() {
+        var e = new eui.Label;
+        return this.exattackNum_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 70,
+        e.y = 268,
+        e
+    },
+    i.speedNum_2_i = function() {
+        var e = new eui.Label;
+        return this.speedNum_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 70,
+        e.y = 296,
+        e
+    },
+    i.defenceNum_2_i = function() {
+        var e = new eui.Label;
+        return this.defenceNum_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 171,
+        e.y = 240,
+        e
+    },
+    i.exdefenceNum_2_i = function() {
+        var e = new eui.Label;
+        return this.exdefenceNum_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 171,
+        e.y = 268,
+        e
+    },
+    i.healthNum_2_i = function() {
+        var e = new eui.Label;
+        return this.healthNum_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 171,
+        e.y = 296,
+        e
+    },
+    i._Label26_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "隐藏属性：",
+        e.textColor = 13412586,
+        e.x = 54,
+        e.y = 212,
+        e
+    },
+    i.markName_2_i = function() {
+        var e = new eui.Label;
+        return this.markName_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "刻印名字七个字",
+        e.textAlign = "center",
+        e.textColor = 16773461,
+        e.width = 160,
+        e.x = 14,
+        e.y = 85,
+        e
+    },
+    i._Image13_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_keyinbg_png",
+        e.x = 58,
+        e.y = 0,
+        e
+    },
+    i.mark_2_i = function() {
+        var e = new eui.Image;
+        return this.mark_2 = e,
+        e.height = 55,
+        e.source = "",
+        e.width = 55,
+        e.x = 65,
+        e.y = 10,
+        e
+    },
+    i.info3_i = function() {
+        var e = new eui.Group;
+        return this.info3 = e,
+        e.x = 493,
+        e.y = 34,
+        e.elementsContent = [this._Group5_i(), this._Group6_i(), this._Image14_i(), this.attack_3_i(), this.exattack_3_i(), this.speed_3_i(), this.defence_3_i(), this.exdefence_3_i(), this.health_3_i(), this._Image15_i(), this._Image16_i(), this._Image17_i(), this.attackNum_3_i(), this.exattackNum_3_i(), this.speedNum_3_i(), this.defenceNum_3_i(), this.exdefenceNum_3_i(), this.healthNum_3_i(), this._Label39_i(), this.markName_3_i(), this._Image18_i(), this.mark_3_i()],
+        e
+    },
+    i._Group5_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 125,
+        e.elementsContent = [this._Label27_i(), this._Label28_i(), this._Label29_i(), this._Label30_i(), this._Label31_i(), this._Label32_i()],
+        e
+    },
+    i._Label27_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "攻击",
+        e.width = 36,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Label28_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特攻",
+        e.width = 36,
+        e.x = 0,
+        e.y = 28,
+        e
+    },
+    i._Label29_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "速度",
+        e.width = 36,
+        e.x = 0,
+        e.y = 55,
+        e
+    },
+    i._Label30_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "防御",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 0,
+        e
+    },
+    i._Label31_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特防",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 28,
+        e
+    },
+    i._Label32_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "体力",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 55,
+        e
+    },
+    i._Group6_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 239,
+        e.elementsContent = [this._Label33_i(), this._Label34_i(), this._Label35_i(), this._Label36_i(), this._Label37_i(), this._Label38_i()],
+        e
+    },
+    i._Label33_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "攻击",
+        e.width = 36,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Label34_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特攻",
+        e.width = 36,
+        e.x = 0,
+        e.y = 28,
+        e
+    },
+    i._Label35_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "速度",
+        e.width = 36,
+        e.x = 0,
+        e.y = 55,
+        e
+    },
+    i._Label36_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "防御",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 0,
+        e
+    },
+    i._Label37_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "特防",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 28,
+        e
+    },
+    i._Label38_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 18,
+        e.text = "体力",
+        e.visible = !0,
+        e.width = 36,
+        e.x = 102,
+        e.y = 55,
+        e
+    },
+    i._Image14_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 124,
+        e
+    },
+    i.attack_3_i = function() {
+        var e = new eui.Label;
+        return this.attack_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 45,
+        e.y = 125,
+        e
+    },
+    i.exattack_3_i = function() {
+        var e = new eui.Label;
+        return this.exattack_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 45,
+        e.y = 153,
+        e
+    },
+    i.speed_3_i = function() {
+        var e = new eui.Label;
+        return this.speed_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 45,
+        e.y = 180,
+        e
+    },
+    i.defence_3_i = function() {
+        var e = new eui.Label;
+        return this.defence_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 146,
+        e.y = 125,
+        e
+    },
+    i.exdefence_3_i = function() {
+        var e = new eui.Label;
+        return this.exdefence_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 146,
+        e.y = 153,
+        e
+    },
+    i.health_3_i = function() {
+        var e = new eui.Label;
+        return this.health_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "10/110",
+        e.textColor = 16773461,
+        e.x = 146,
+        e.y = 180,
+        e
+    },
+    i._Image15_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine2_png",
+        e.visible = !1,
+        e.x = 102,
+        e.y = 124,
+        e
+    },
+    i._Image16_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine2_png",
+        e.visible = !1,
+        e.x = 102,
+        e.y = 238,
+        e
+    },
+    i._Image17_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_markLine_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 238,
+        e
+    },
+    i.attackNum_3_i = function() {
+        var e = new eui.Label;
+        return this.attackNum_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 69,
+        e.y = 240,
+        e
+    },
+    i.exattackNum_3_i = function() {
+        var e = new eui.Label;
+        return this.exattackNum_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 69,
+        e.y = 268,
+        e
+    },
+    i.speedNum_3_i = function() {
+        var e = new eui.Label;
+        return this.speedNum_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 69,
+        e.y = 296,
+        e
+    },
+    i.defenceNum_3_i = function() {
+        var e = new eui.Label;
+        return this.defenceNum_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 170,
+        e.y = 240,
+        e
+    },
+    i.exdefenceNum_3_i = function() {
+        var e = new eui.Label;
+        return this.exdefenceNum_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 170,
+        e.y = 268,
+        e
+    },
+    i.healthNum_3_i = function() {
+        var e = new eui.Label;
+        return this.healthNum_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "+5",
+        e.textColor = 16773461,
+        e.x = 170,
+        e.y = 296,
+        e
+    },
+    i._Label39_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "隐藏属性：",
+        e.textColor = 13412586,
+        e.x = 54,
+        e.y = 212,
+        e
+    },
+    i.markName_3_i = function() {
+        var e = new eui.Label;
+        return this.markName_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "刻印名字七个字",
+        e.textAlign = "center",
+        e.textColor = 16773461,
+        e.width = 160,
+        e.x = 24,
+        e.y = 85,
+        e
+    },
+    i._Image18_i = function() {
+        var e = new eui.Image;
+        return e.source = "markDraw_show_mark_pop_keyinbg_png",
+        e.x = 58,
+        e.y = 0,
+        e
+    },
+    i.mark_3_i = function() {
+        var e = new eui.Image;
+        return this.mark_3 = e,
+        e.height = 55,
+        e.source = "",
+        e.width = 55,
+        e.x = 65,
+        e.y = 10,
+        e
+    },
+    t
+} (eui.Skin);

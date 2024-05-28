@@ -1,1 +1,1031 @@
-eval(function(){function Z(Z){for(L=N=0;L<Z;)P<2&&(P=64,c=92<(c="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<VfkyrJ:LKRa^b]Pi=M>=IC;v:<>SJDQ?sR`u>AH_FDFGDfADZqec^[tk_I]JL?sDP>=?eXrZu<RR>@t=]:@Na]R:>JsWJFjZFrk:TpS=I]]@t;>tzGt<Atx^ZwJS?a@e;RWITlZSZ@OtJ=SLhn:GmaZ@z?Ua:C^M:BQurF:b_tekrTva:Y:M:@Ou_c>t:BAEkE::V]::EUbTSkEszHUzO;k:<<u<Tbp]EddxdR:`<SBdzN]FM]]Oo`a>GeHxnHbbkLA]w;R:@?sEtlS[>W<TbVMdbNGbVr?<r;]z?I<:wJM<DbTiKjA;W:;nFb_:<]k=]>Z:L_H:EC^:;eJs:B`::@E^gSMe:oZ:ezc:s_IEH`XRot^S=lrkgGopQ:iKsfsJIbK]kymPmnkDxXAgGvy[AwzQqUQ?wOeMho]Z;oiaL<[Yl:Vwu]RWKYnZPVw;XTdEofUxm>Jt=NCXNhNL[=xlALI:j;RPoH:dIpF:SEkQKWEZc:S:;eEhTLTRkikZ`ZibBI;s]]FlPBSD;p;YO_irJ@Bc;ROp[`]@CcEe@NtPsw=BBs:L[BgTMSCRCZQQBCLg;sfMm?:C:a=ZNL@MqEck;uV:B<kDWY;kVZt`RXCqneQ^yDgam:Ac:<R::SNrHVDxZ:Kb<Z:yH:x`gp^[?e;OcbN?^PIFLn<=k::^?;g<Ln<jonRxY[gJ^w]K@dobZC^KmYI:Vnn=<cpoCZp;=H:QQAKFsAZF;xZ_=ojOyQo:m=F:ydWKJB`ZK:N:kQJgEHG_IayDT:L;>?m:abTYJ;JGZp=;`[?<U[hixIsxi;H:_:R@vIPHyuzQqdvF?>NC[AqH>e;PqZOCBA^`dc=;V]Bd?]]><gR@_PKA>P`K=]oAJx>F>ln?iTl:[Kekc=HWkp:cbkz<C_bZ_FVCsmmKCJUL<[uVMAC@;[u?]^>WxDZlEgDCI?cMbTW;HauH?yZWX?[@@NR<>a@RtZPCRO^PW:WaqMSx_HDsnZi<eUZ_JrAaXOsk^sPvWgylvJJ[Ma]`[?m>JWrJXRWjbo<Wm:^@`OgJFCR_N`CMpRpVg@G=XyC`@sGKlD^tlhj]IZuOw::S=ZypYF;m<JMIi:S<EJj]yD::t::_bJ:TVo:Utx:AqzJ;wdN:Qs=iN:Idx:?VAJ;diN:PUxiN:NzG:@[rG]Cc:=LbGIjbspxo@WGpRwcCI[?>xjiwiZkdri`;rI_vHK_>i;pzy?;Rwv<IZFD_;N:tGRsvI]yHPVPzEtIoZMCLFS<c:Dqjm[TbY^zb?zdzOFTZvJH[biuGuWpddYLJH@;oJ[cm[odG:D:aJqTlk>F:^ThsTlhMf:PBggKs]pMK;]H>S`ZtQ^p^ZqgXR@lG[U@qN<w?m:ZAjHcW:TW>=cAn?kEB`GoZ=am]Z;:QgP?B>BHZD:c<wLgI]I>>VRsouLE]FGUejOJlU[:HcKKIlm<Y<rGHD:HtdZgDsIGEKu[sDd_y<u>:fs:;<M:ZlV::Dc?<JABrmQS<fc:EAb:ZZ[rkRZI_kMXkCvA=OrfmNCKwjU[@RURmCM]Q>gAVPpElY`m<yG`IRO:Y;Z`]?]Yj<CHxh:V:aFNZiAk[kB:J:i;ke:R@gZO;wO;WLc=A`JHCPqpcf;CnSDmYou[p:EZsAL@kD;m<H`VPbGHOpf>gBBDZF:L;dAq`_Pk[KcsY^DFTDcdmV:;mXaA=g]JyR::LzdAMv]PLgd:MtZLj_POqQ<lSwBM>uff=Fhtn@THoLJs]mBgJzN>jc<JX;JnuBQD>IR;Kp:>@aIFVZPsw:BeKXcUgx[SJUDJ;]hqsKj_rbg=[C<vmoBM>;YON]?:I[NKciVYF>]lmwEsbZIgt:dtALZQh?wPMstYA]@;<ZF_d>YA:LSMBa:Kt^kbhdDXs=yNEnq<<aOswyEmgx?iJBLect^QLDDZOSoVuaP`SuNXufCtTg<IaKoif;Q<feAZ?oYR^PnQdP:P]MDoBz?SJZW`bEIJY=H:N<]UgP>tCdA_zD;:]c`M;@<Pd<;T<Y:cemrsb]dvy^l>a^:=]U;APwX;SOVB^;ef`R@x:qT_:^bnSwBhEF?tw;RCZGJw;dfV@<WnNJFS_Ac?mbxH?;fSDy<TCDtLE:vBHJ`]tXN?Zb:lLZ::A^N<Z?wi:x[J?Ra`M>E_J<Ze>jcD:Y:Zdk>FFRD:S[RNtooGcUZB:fdWZ_RoD:cuVuJjucG;Bkp[fH@tWU@Ttpyf]F_Tyxpg?SZV@:AjWcShsJxQBIuF:R:J:q?sQ]PZLCKcedV[k>k?Z_^`cpSPcVFJNGkDRVPjOXlN^TOjMc:Z:FQCF=GXZ<p?Tdu=OJ;Kd:Xm;@Gicr[vLtGY=V<R>lm:L;PIgXBpIFRi:XGwYhYPzRJbu[g?>oZKpiWJFmFwKyZTJoKdzgZJ;b^woJFjforX;w_AcHw`ZmwX=TZ_FcUJlk==d<H=TXYOBunO`;E?_W;NucWnOaICYEq<M>:V=LW`UCno^mNFR@@gTc>D@QMDT?QgVDa;F:s;^jdDKGSk:ZAAOZ;_Z:jhN:HS@N`[r?W@<[]hde@L::[znNf?sc:?BB;w<G::Paus:LAyug]h_coCZwJU=`UcdeON;Z::gXPV=erepBKfSPPi:?rtJ:>We^UeBT_fMQ]FhWToTMfsNXhw>pBGmvBqP@@capGaU=B^LQNCWZ_`mnkg:KWbOVgGDu^Z=a;FD:]>RplilH_UvTnzFNjN@o<JrqIGB?b:`VDE=ZVOFuKNm]oARr?L[lJ@AumqeXHZmw;A]lUJfCKvHCWQRLWkwds^xMz<E`kASMZW:zQ@YrGCvB]b>keVL;kCnjgrHIgalz:sTeOD:WCFVVs_sTLI?XQu`;ZF`@HmPUwv]xQnNs<uFsLcts[m>FPHoVUzK[]GkaEFLkLrO^a?wxPJEnlMOGY@vskVzgZtfXQHiUVpr=nYiEDcMw_`OOMmFB=^fb]^wfvFrwcbp[Bm_:qAtR:^yY;^<v>CWW;lg[xsUnoA<kudaMcql;BhB@_Fz:KyCRB;_Ogey:`h[QmTUYa`QOX`r^uvXJJjOUkIa;IozfKUfuh<[[:kUZJ[hIu@zq]Z<A[iBLJLFt:D<N;sX^UhgTa=oZ>Gk<ZeR>lZ;s>M`G^x;<Z<>Hae<>nS<Si=G;qJ`y_HvUnDc=ND<<mTFE@o;oBtFtAo:F=EAEHF?FC;]fCbaf>JHgCg?fEg:VCxiVBrhyEVGE_w>t[U<Ih:fUH<?qhvI<IEcv<]Fjj<@Jgv:zIvAt>LAJ<LEq`LD:_u:dDlixGGHSe@A:d@A:BZiLFZenG_Fa@B[ZWPEJjPBJayDvCyGJ]LfZip?BRq>JfAjJJvbuAv]VhUdH=HIH>iDiHiCi=iFA_XEEeXGRiOIBMy:y;?c;@JYn@ZMSbyARXD@cLvdd;e]dFsQ;DwaLf>;wdpHBUX@wZ>KLZsLJMIjt;SCw:i:V:ZEkH^]JXV=l^C`TiZGejRE>M<Ag>hdZD_Y?i_YaFPAq@oCb`vFc?qHaC]ZJGKCucmgmfu`kIu[m`IF@c>D@h<<rgfCWH<i_GNKu`ucoMkgoJ@aoSu<@iKG<AD:uAq@vGdcxf][DeTZNSTdehI:d=<:xfC:^[F?>]pc:B;TmcZ:PIxgLf>VTXZE]i]KBkZaM^CG<nAO:sRynt@sddAfAM=M<r>b:n?wfud^S]eRchTY@b@gK[<LnX>;MTKTCx[v:g<O>@fqD=Ab:F[uU>nqCgLMd]JLKxZF[x>]dBap>FdoKc`z[x^[M]LLKP@KsmsbZV:pL?D:s@uTuhKD>Y]Q^QKk:Pu[[YcHU=K^LWuV>:^VAxLpsEuo=fMLtULOu^sWvzdhs]_i^jSxt<bOtIM=sm_>>puzMzMI>cCjuFmp;nsgmIsFnglWeRBN?c[wmzueJG::@h<]n]lHLLnZ?=:^;J?Dnn==Lemf:B>TlB?k:v:ulc>@nP?RAP>sAamkcM:H^l:OD;dav?[=]iDY<R<l_C:Caj[Cal:daY:F<zKw=Sb=MCad_T:XKC=?_cTt``be:O_?b[;Oa`aY<q]q:c;C=::V<<JJ:RtG_p_hag?C<?`x`@up_O_D^k;>bpA;KV`s<_sg:>=;Mm_=v@fnLwAN[K:i[B<L^d`l_CbEbMLf_w>KZH?XlPb>KN>O^:Me@FsK^dUc;C:D]@fmKi^V[M>g=V^I`@MV[SKJ=[Jz`K=SLlJ:QSL[JZOJ::=Fs?<qs?::fH;J:@nZN:=gs?dVs?::bAoi_@E`n`ZD?:h]kf@Y>EZCZD?:[T?<k_xIp@H:JHaaH<R>ObC:d;;D?`qHyTlJgJS>SClLk`:Bfb:E?ElKlB;QyVCX_EyNCMz`KTCT?HCKJEyK;YCQNEyJhgdKiW`E;XdUyJ[WdTCV[QdW`DQBSO:;[SlOXgBNaBB?vAeUv@ZLABBOE<S:S<lNRBmXJ`@VtiJ@b<:BO>x:tPA>lLyW]EV;Bgw?@[YEFSZ;;UVE@Z:?vb:KLr:hRe[LM`UcS:@lJJQlL[JJOtQCQNJp[=^mL>v>CZ]lLr;K=KNONL:pJRt]l<:<JNJJJK@veJ;R;kTnbuCqDjZ;Oxd_JNMR<r:s;h;s;lOwDh^t[^]ze=SCNL<^]E=_LMQMQh<=TP:YSY_iZhQiNiJWOHSWNyOyPZ^F@iKfT@JEMw:L;W:z=E]i[hJpJFZQCF:Z::=LMmkw=c::P`kAq::Cds;dO[Ok:KPc;KNlNL;Z;sPR<lL[MBPlO^PCQpNjRKKdPaJSQh:ETlMBPkP`kBNpOr>h:s=?PyNc;`QsopLNNGOlk<OLPhNXPWNPsxQCJbP]v]vVvJq>OBtp@oJhuX]wJ:SZSG:JL[]Ive<?Lics`dQ>P_QlJBPOQJqkQ_qR<kQfPGPz_N`iPm?hPiLXOWN<OxQx:]QSLtTQN^;grsPVrB`oKhBHZ<pjf<rxL]qNasar=LqlR>QmqlJESkqpPR=pNYTLQUOTrorvPFqKB@qbNDP]PlK=PgpJoXpVr>awpLDqphu<pZ:HpUPzaLqiq<L_NCr_;OPlLkNyr_;pPepe<z`mPTrEvNAhPup[qxNgoLPmPlparlqPpM_woqowdy^dqSpHotoL;ip_PPp?oBP`r`pNoTPJO;qpqK>GqxKFoKp@qJOhqsNLsPqlQVoc_xpqqnJ=rSqLLto_Qip^rJrBPMpyoOonpeNpq_BEoFpEr[rGpKrSKETaoUrgo?pWqvpwqdo=vxo@T=rAr=ptpbqXq`lQrypeq]OTQrp:eIq[rIpGpBD@ohqTQfraq^rUpCpvpdrqr:GAoipZHbosFL;?oRQJFrouOnoIrTpvPj;urEqjoeP]NBORFWqsIpAPrzqxpk;:F]r>GLrZI_H?p_Q[L`mr;Mo;ruOoHBFFHErWNjpcHKpgISMBPVHUp]HzqwFdrwH<HHr<Fbrtrbr?lLHyokHOq]Q@NBINc[pFHGrFqeHfq`lTIYqWovpuIwo>FAp>H]O=r_:^o?pOP[L[JPG`rQrMqz`aOqF:sHGXQuqgFnoRQiGUqCowICoyH:H>G<F;HZG;H]F[G_NJNKFmGWKWPw@dZ^`tb`as:>:M_H:von_xMnaE_A_IJZ^fbK;U_v_Sbl_M<<bwFkDw@bbimN?KUfvQ_XA>trbZ:IaFZY=V]yUivw^wtuUV[RuZs=FY`g[UGZsg[g[<DfGg]ARUTYamKARZ;mcQGyU_[MUV^AF=ZODs=EHZSjerIdqIGZ=SJYGAFzGJ:]Ec=V]KdtBZhyCFcV<;EV^;Q]qYI]cDMkiX^@dj_ididG=YISM;QRNN;YpR:BNEUpQd:^qlKSOmoVJc;iZz;oOwBFNTJgkoreOJ;VUc;LOgQZJ<QOrggFhFpDQLNwJ<OrrVhp:qr<iVc:hcbwi<B:h:jePZhc;mgJg;B<GLgN=AI;QaP[<PN><]AKSqQLsKrNpFqoovQppIrDHcHHPiMhrTF>hBquIoJV<FMFLhI]pJ;mP;IsuJuR;Z[BoE;yZz::=ec^wNLGOOLGtMVVEECfkWipL^EEDxt:zeXBqTuZcka:t:`hmU=mAaJ;g?cN@?<q<qtEGfvGWfhkQf[HIfYfko:Uu:kUS=cUwh>UNMAqz?MGpWWGVUtfLME^dUy?hk_Gq^;Ur=rWY=:hWSBB>>TEL`ZMkM>?Ox??tEUU:`YEQUSfm=?fn^OfVWq^>MBp_GspIkmpIkFpRMcvYxy^>vhgovfeAf;MCE_^o^a:??O^`:Zfw^x^rUavjUHvzUa:yvcpKvYs=mDpa:gpg?t:Dh@MRvOvTW_vMohvN:J`Vvc^@?sG_MfvGxGhuvHhIUE=E^zKbcuxJA>pcAdvvJEUUvln_fiA^=Q`isr_uZDxofqNXaUWJvvGEU;Wp?OE=tx?Ik^?AEMGw=RfMHiDu`ynHn_bm@qH]>ME:`i`efz_:`;`IyX_DvBbbvwMrv^^D=qvZOzvg?lb?vr^:=ooILNvXaUfeAS=aGRUNM_MUvsbSHqbC><M`MhH@@R:EAlHuniDTMoON=C^gP>?sN=bdVLhPO@??UwH]Hr[Dn_fU?Aq]Q>bVMvbibQ`Y@jbWJeQSHZQdMdWBxRQLGFZGZp>NK`:gsIdLpj@e@?QUEbRUUpQ]piBI`tQn]FUwx]^tfEQcTfRvQ?Q]UYR:DlWGxNbiHUbWWXAIv;AHvuJ>rNkZQt?dbPMtb:Bfugbqn_rhbd?>?CUcMVp_MyU?^AqynwbuQorxAn=D^wr?:truZmrCU=fy=HMPr;nnhB^S=yrwhRMEUdEsGab_LLbWAL^jv[bXES?yGErsvwAGvwDwZirgPPG@AcMMvjhuAGxvU_LTbcIyAhr[bFIVAZ=<ATm;Ju:D:vibrwhm?`hGNCWGxlngf`rL=Xbt:^Ap>nAmMMIr<UW`UwT=bEU<vhkjAh?:bP:xEz_[pMo^QY?:`h^RfMnBHi:u`ln[=pJ@b^ON:ojL:QQx=Ab<@Hj]UJGBGRGwG<OoG>MEPZ:mAD:;uHZTB:HJ@Z:FLe::;KcrB:;DaZ:HXT:<bVhFEHGFB:;[@Z:uTT:<oVc:?lmZ:RsecqS=crKO[VEUvYJV>p?N`P_oyjspOO?jIg`qVp:yj]qGsynV>xxfzhAW>zSFPX_xBWqCZ:V^Ny_ItqNr]HlK`IDrBPNoYSDwjFs;MXgwFWFVtY]jSMIFM<_Par[jIgJPtN]yNh]yoi<XLzjhFqlG]jRyj^lJDY@imwwJuxVhVNGT`UeObH`SmeUyKBkpFguxwifwux<jTUTyyOIL]YrwuxDVryIxB;eYjxANDzrworQwjwIyDzYYhBbiRq;EyAz=Ygdoc:uxLP>:cu[YqZ>Iw>;::j]f:Ejtc=B;nzM:JZEYu:<>;QzRJCfmGTKCRa[YGbi=lEuJw<DxfElahkFSOwU:e:@nZyp>REhNX^bLG_jrIsTpm;]MHUcMnc@jWDywIL?CMlAsex:acMCI^O@QSTwTTXj;KZUrouChBX<q@E^;ojROwGiOYQ_DH=n[]oCTf:g[ZPkHvKNayxIHJQA?ruxwXiavBr]nKon[NumcG?wG?QGvb:PymODO:m:Wu::X<pHEX<RZgYM@h^OlfsoMZ[GRaeOQMvmo?g?Zn:F[N;uGO^yD@PkVcHwcYx;yeJzWDUKGsi<nXLH;@dUm<>ORTgoYRBUarT<lJCu`xRi>bo]>dwLTCRVejELcUIg_[GxABTYlStq<qX=Zk^Z<QPkbwj<XJ[oF=JD?i<FHwOMkLPpHkQRigacXv;B=KdO=cThJ]<gPk]@?N]TeY?cKbq[f<xYThIEA^MNvTagSi?:ZJOJHkUe=OikZbJMXno?IKtZE:_[cNlF>RNn;NzSxZ=mltQxo[aQ:u`_FVAt=BeNk^kLNCP>y=AXZJu>SNEnZRogTHGI@ZOL]?v<mTVJeE]HqbfB<bcWxIZV<DHf@xl[dj<>NNBhtX=sK?PJ:=QiZ::QFD[BlK>XgFjfhwliDkbRW>EMuh<D@a:=<^BH[cs]qqHjX;cLFGsZ]yqRBpkQqAV>N^S[dJi]Dp_:<Jtc::I?J:HAHZ:CVwuKZ:Myp::o_UE=oeTkacSYNq@c]HKuBtcS]Gt?XpziRQYsKzl;sQ=fiscs_T<GC@M<SKokscOLCXmk^@KBJt>X>EK?G<R[IB]A?Pn=@Swci[EXoNWOltH]`@:kjx`DFD@q[jKOjAkYLIx?@^T[UB[cSmBl@l=te;N<FJVIt@z<RliBbQZQkMAag_l[b?FXLEM@N]t[IZtNXeDp?u]=Kekt_VTDL?U=ZlikmoNPI=Alc=[Gc]gMOMnu<NpqhRcjdTk[ur<G;OhXZWXmbUI<=;UkfvjbLyAmoY[jhE@aynl?B:m;VszcKDHMAi^kKbcm>MuCTm::nUN::@V]VPnAF^J[DBvRKTG=>A=s[jkr@`oI@lZ=:K@vVwTuF@>AS:C_q@e@FHVAQ^SKnRnkKaHNZFZtgfsnDfaIe@=]iKyknq`vMz?P<R;_:rZPXDmsQ]@lOsuNY;Ca?J^_TlbG<WNBq>=^nKBRv_XHBJehwPy;>swQ:Gu>S=ulCYKgMXE`>oLPg`cX]LmEeAg^_yJsvwUxmmfsMRlFjVsU@l:a_LkC`sq<SKDx@N]_C?PNDFSkZ=]LyldcnwLlCkaw^xCzrYwOPFZ@n]OC`khLYtMW@TMNlp>iwMsDY>j^L[:RgBPTH_bRLfKcswsC@Fk<z]=lvJamJZBC>_L]KM_mNKKGVbd]?KD>^NDe@w_t^PKa>t]MCGRalV<VRsr<QMq[cKM[KP:s<JtG]bAOsdE_dgPtGo`oKxCw?WDUqFR`yM@[HNwmN?CAA^oHCCNfQf:FWAqMbKTZY]RULV>M<sCq_l<V`E>bGMoCaNeLXpB<_^^yXkNZsVQ:kspKRcYNukS:I^?=M>lS>ZLJ`Ge`CMeK=NZmNSGTaaLHdZNpTWpEBekOziHocY_:n??e:HX]>JYafpa[hoCy`^@Y^KPdU]w[HIEVz[ZDYMjFz@ez@ahZDRfew];dksph?BHbsw?lGke@a?qQA`xpiYWDj`d<r>[WJdyOQ_OKljcfG<@vovmdB_AsNnYdbxU;hhDKf;Fkds^MRUwI<Z`gmi?QL>bppeu=Wb>XzEAbnETvpW;StNsTXJ;?_=VlSu:RUZ<ZoAM^]u>ggAhVE@aJxqSaZgnZkG>>Nw;@xhCAh=K[ezV;Kg?QI]_CAKyFeScohKgtL_KjcquppW:EWKW=rNuBMpOuixLyczOzeZG>uNCBJa[MPlm>w]ZhbJdnL@CqOS<jmCibELJdlWMTT?FOaGOtPrLQ]N<DVT=xNtZQNiCUJIS^NmHNp<^igGc?sGRXCI@xebIfsY=LDiVvIh`KjctCBPZL?PP^BFvxND:MVtOc?pZc`hHHP:XDIVIE_]<dqQVe?ZBoGaxnCy^I:?[erMaeLiebofbi;GXb;NLH[vJiP;o@mCm^icjR@YIk`tW[RPfeT:RTZKSiZ^yHlS?h=HonHcCTpwcPidljfAnPtwsxiXZkc=An:ibJfPTiE[tMgQt[geY[>ry`HV:CReMoH:`YaZLsdWr<<K:cqCi[ASY<?qPvFXfINreEs=u]k@ycj[YScOYqOKHD>?oPgvVJ:E:eZ:WPp:::HT:;zOF:<<mc:<ct<[R::WMBmU;MmcKKmlqNiHJVHJdKWcH@pDyOP]h_lLQKg<kDahZy=@cquZ_c[MdHLbhlUX=jVLXyD=AVE<lBNt<]PleZER;?^OHyX]knfnmDdaVtCZRe_Qon[eq=>aLiBX?smUqt][yKbL:NHV^i?GDVKNkJlOF]m;mSgbNlk:GF@J_tSdfHMTSE`GLkdQ?@iJ^:U`XaPkYdjiJ]Oy[?LcnRZiXND<Q_daW;@SbN?REr`AmrKXRCwnonZCsP?LRTI<oHRFZmLbn@dQd;kfRF>DoAR`akI<tNOSyywoxZjk?U@hpDpKLyQf^ClJEMtHlVdNRf?Sbngcdwyl:FjKBbmGXPfNoiZagdugkmGCJphkIQvJEy;lYWPRoeMssm=@_f>PhSmFAj=Zam?>;SkGUTGOy`l]mPSJBz_]h`RuwZiVXrBul;OedE;<`;kfRpWVJKVntMVfN<E>[`f`TqNWDXOqnrVs<S;MWMicStrS@<fqMZdx_:o<?GNZHWKDHshRrXS<k::yXLce[R:<lGK[KJei_EMwlQsrDUmEsNW=k?s_FSWggebS=K`XlNP;]ca`TMUlxN[_>VPHBKKzm>VcqO`Nq>JO`lLo^KUkdUTO^;?ZCS`PBee`kEcOBm@KRJea_]LY;BC?@gDhCT]e>y>eZgVHI^bhxbqge`BMFjiPenW`hgg_c?mTO=n]X?bRtRvMCD>n]lyNsDVnDDSGxJa`mtxayoGK__?OBom?UTh_[qeRCQDeD[>nVb;mDgZ:@ax::DQC@MhdN=QKOLfF`rLLl;N[jg^nFA[GclehYZicbB;OFxZJ::".charCodeAt(p++))?c-59:c-58),N|=(0<(c&(P/=2))?1:0)<<L,++L}for(var J,N,L,M,c,H=[],F=1,K=3,o=1,B=[],P=0,p=0;;){if(Z(o+1),2==N)return B.join("");-2&(M=N)||(Z(8*N+8),H[M=K++]=String.fromCharCode(N),--F||(F=2<<o++)),B.push(M=H[M]||J+J[0]),J&&(H[K++]=J+M[0],--F||(F=2<<o++)),J=M}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+petIntroducePanel; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.enStr = ["hp", "atk", "def", "satk", "sdef", "speed"],
+            e.cnStr = ["体力", "攻击", "防御", "特攻", "特防", "速度"],
+            e.skinName = PetIntroduceAttrItemSkin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.once(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        e.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this._info = this.data,
+            this.updateView()
+        },
+        e.prototype.updateView = function() {
+            this.icon.source = "common_" + this.enStr[this._info.idx] + "_png",
+            this.txt_name.text = this.cnStr[this._info.idx],
+            this.txt_num.text = this._info.value + "";
+            for (var t = Math.round(this._info.value / 20), e = 0; 10 > e; e++) this["exp_" + e].visible = t > e
+        },
+        e.prototype.destroy = function() {
+            this.removeChildren()
+        },
+        e
+    } (eui.ItemRenderer);
+    t.PetIntroduceAttrItem = e,
+    __reflect(e.prototype, "petIntroducePanel.PetIntroduceAttrItem")
+} (petIntroducePanel || (petIntroducePanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+petIntroducePanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this) || this;
+            return t && t.petId ? (i._petId = t.petId, StatLogger.log("20210108版本系统功能", "精灵介绍", "查看" + PetXMLInfo.getName(i._petId) + "精灵介绍")) : ModuleManager.hideModule(i),
+            t && t.callback && (i._callback = t.callback),
+            t && t.thisObj && (i._thisObj = t.thisObj),
+            i.skinName = PetIntroducePanelSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this.grp_left),
+            this.list_skill.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.onItemTap, this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                ModuleManager.hideModule(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnSpec,
+            function() {
+                ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], t._petId, "", AppDoStyle.NULL)
+            },
+            this),
+            this.scrl_skill.addEventListener(egret.Event.CHANGE, this.scrlChange, this),
+            this.updateView()
+        },
+        i.prototype.onItemTap = function(t) {
+            var e = {
+                id: t.item.ID
+            };
+            tipsPop.TipsPop.openSkillPop(e)
+        },
+        i.prototype.updateView = function() {
+            this.pet.source = ClientConfig.getPetIntroducePng(this._petId),
+            this.txt_petName.text = PetXMLInfo.getName(this._petId);
+            var e = PetXMLInfo.getType(this._petId);
+            this.txt_petAttr.text = PetXMLInfo.getTypeCN(this._petId),
+            this.img_petAttr.source = ClientConfig.getpettypeticon(e),
+            this.btnSpec.visible = !!EffectIconControl.getAllEffctByPetId(this._petId);
+            var i = PetXMLInfo.getAllEvById(this._petId),
+            n = i.reduce(function(t, e) {
+                return t + e
+            });
+            this.txt_attr.text = n + "";
+            for (var r = [], _ = 0; _ < i.length; _++) {
+                var a = {
+                    idx: _,
+                    value: i[_]
+                };
+                r.push(a)
+            }
+            this.list_attr.itemRenderer = t.PetIntroduceAttrItem,
+            this.list_attr.dataProvider = new eui.ArrayCollection(r);
+            var o = [],
+            s = PetXMLInfo.getExtraSkill(this._petId);
+            s && o.push(s);
+            var u = PetXMLInfo.getRecSkillList(this._petId);
+            o = o.concat(u);
+            var l = PetXMLInfo.getOthSkillList(this._petId);
+            o = o.concat(l),
+            this.list_skill.itemRenderer = t.PetIntroduceSkillItem,
+            this.list_skill.dataProvider = new eui.ArrayCollection(o),
+            this.list_skill.validateNow(),
+            this.scrlChange();
+            var h = PetXMLInfo.getCharacterAttrParam(this._petId);
+            0 == h ? (this.txt_chara.text = "固执", this.txt_charaInfo.text = "（攻击+10% ,特攻-10%）", this.txt_study.text = "攻击力") : 4 == h && (this.txt_chara.text = "保守", this.txt_charaInfo.text = "（特攻+10% ,攻击-10%）", this.txt_study.text = "特攻")
+        },
+        i.prototype.scrlChange = function() {
+            this.arrow_up.visible = this.scrl_skill.viewport.scrollV > 0,
+            this.arrow_down.visible = this.scrl_skill.viewport.scrollV < this.scrl_skill.viewport.contentHeight - this.scrl_skill.viewport.height
+        },
+        i.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            this.list_skill.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this.onItemTap, this),
+            this.scrl_skill.removeEventListener(egret.Event.CHANGE, this.scrlChange, this),
+            e.prototype.destroy.call(this),
+            this._callback && this._callback.apply(this._thisObj, [])
+        },
+        i
+    } (BaseModule);
+    t.PetIntroducePanel = e,
+    __reflect(e.prototype, "petIntroducePanel.PetIntroducePanel")
+} (petIntroducePanel || (petIntroducePanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+petIntroducePanel; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = PetIntroduceSkillItemSkin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.once(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        e.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this._info = this.data,
+            this.updateView()
+        },
+        e.prototype.updateView = function() {
+            var t = this._info.ID;
+            if (t > 0) {
+                var e = SkillXMLInfo.getTypeID(t);
+                4 == SkillXMLInfo.getCategory(t) ? this.prop.source = ClientConfig.getpettypeticon("prop") : this.prop.source = ClientConfig.getpettypeticon(String(e)),
+                this.txt_skillName.text = SkillXMLInfo.getName(t),
+                this.txt_power.text = "威力：" + SkillXMLInfo.getDamage(t).toString();
+                var i = SkillXMLInfo.getPP(t).toString();
+                this.txt_pp.text = "PP：" + i
+            }
+            var n = this._info.Tag;
+            n ? this.tag.source = "skill_tag" + n + "_png": this.tag.source = "skill_tag0_png"
+        },
+        e.prototype.destroy = function() {
+            this.removeChildren()
+        },
+        e
+    } (eui.ItemRenderer);
+    t.PetIntroduceSkillItem = e,
+    __reflect(e.prototype, "petIntroducePanel.PetIntroduceSkillItem")
+} (petIntroducePanel || (petIntroducePanel = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/PetIntroduceAttrItemSkin.exml"] = window.PetIntroduceAttrItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txt_name", "icon", "txt_num", "exp_0", "exp_1", "exp_2", "exp_3", "exp_4", "exp_5", "exp_6", "exp_7", "exp_8", "exp_9"],
+        this.height = 24,
+        this.width = 262,
+        this.elementsContent = [this.txt_name_i(), this.icon_i(), this.txt_num_i(), this._Image1_i(), this.exp_0_i(), this.exp_1_i(), this.exp_2_i(), this.exp_3_i(), this.exp_4_i(), this.exp_5_i(), this.exp_6_i(), this.exp_7_i(), this.exp_8_i(), this.exp_9_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "体力",
+        t.textColor = 13102333,
+        t.touchEnabled = !1,
+        t.x = 31,
+        t.y = 0,
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.horizontalCenter = -120,
+        t.verticalCenter = -1,
+        t
+    },
+    i.txt_num_i = function() {
+        var t = new eui.Label;
+        return this.txt_num = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.right = 127,
+        t.size = 20,
+        t.text = "20",
+        t.textColor = 4175861,
+        t.touchEnabled = !1,
+        t.y = 2,
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 14,
+        t.source = "pet_introduce_attr_item_expbg_png",
+        t.width = 106,
+        t.x = 151,
+        t.y = 5,
+        t
+    },
+    i.exp_0_i = function() {
+        var t = new eui.Image;
+        return this.exp_0 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 147,
+        t.y = 0,
+        t
+    },
+    i.exp_1_i = function() {
+        var t = new eui.Image;
+        return this.exp_1 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 157,
+        t.y = 0,
+        t
+    },
+    i.exp_2_i = function() {
+        var t = new eui.Image;
+        return this.exp_2 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 167,
+        t.y = 0,
+        t
+    },
+    i.exp_3_i = function() {
+        var t = new eui.Image;
+        return this.exp_3 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 177,
+        t.y = 0,
+        t
+    },
+    i.exp_4_i = function() {
+        var t = new eui.Image;
+        return this.exp_4 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 187,
+        t.y = 0,
+        t
+    },
+    i.exp_5_i = function() {
+        var t = new eui.Image;
+        return this.exp_5 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 197,
+        t.y = 0,
+        t
+    },
+    i.exp_6_i = function() {
+        var t = new eui.Image;
+        return this.exp_6 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 208,
+        t.y = 0,
+        t
+    },
+    i.exp_7_i = function() {
+        var t = new eui.Image;
+        return this.exp_7 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 218,
+        t.y = 0,
+        t
+    },
+    i.exp_8_i = function() {
+        var t = new eui.Image;
+        return this.exp_8 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 228,
+        t.y = 0,
+        t
+    },
+    i.exp_9_i = function() {
+        var t = new eui.Image;
+        return this.exp_9 = t,
+        t.height = 24,
+        t.source = "pet_introduce_attr_item_exp_png",
+        t.width = 24,
+        t.x = 238,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PetIntroducePanelSkin.exml"] = window.PetIntroducePanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["pet", "list_skill", "scrl_skill", "arrow_down", "arrow_up", "grp_skill", "txt_chara", "txt_charaInfo", "txt_study", "grp_growth", "list_attr", "txt_attr", "grp_attr", "grp_left", "btnSpec", "btnClose", "namebg", "txt_petName", "txt_petAttr", "img_petAttr", "grp_name"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Rect1_i(), this._Image2_i(), this._Image3_i(), this._Image4_i(), this.pet_i(), this.grp_skill_i(), this.grp_left_i(), this.btnSpec_i(), this.btnClose_i(), this.grp_name_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 640,
+        t.source = "common_ui_bg_2_png",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Rect1_i = function() {
+        var t = new eui.Rect;
+        return t.fillAlpha = .4,
+        t.fillColor = 529446,
+        t.height = 640,
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 2,
+        t.right = 29,
+        t.source = "pet_introduce_panel_img_3_png",
+        t.width = 237,
+        t.y = 626,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 8,
+        t.horizontalCenter = -22,
+        t.source = "pet_introduce_panel_img_2_png",
+        t.width = 108,
+        t.y = 620,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 8,
+        t.horizontalCenter = -125.5,
+        t.source = "pet_introduce_panel_img_1_png",
+        t.width = 93,
+        t.y = 620,
+        t
+    },
+    i.pet_i = function() {
+        var t = new eui.Image;
+        return this.pet = t,
+        t.horizontalCenter = 0,
+        t.y = 0,
+        t
+    },
+    i.grp_skill_i = function() {
+        var t = new eui.Group;
+        return this.grp_skill = t,
+        t.right = 0,
+        t.y = 24,
+        t.elementsContent = [this._Image5_i(), this.scrl_skill_i(), this.arrow_down_i(), this.arrow_up_i(), this._Image6_i(), this._Image7_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 555,
+        t.source = "pet_introduce_panel_skillbg_png",
+        t.width = 410,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.scrl_skill_i = function() {
+        var t = new eui.Scroller;
+        return this.scrl_skill = t,
+        t.height = 387,
+        t.width = 300,
+        t.x = 81,
+        t.y = 139,
+        t.viewport = this.list_skill_i(),
+        t
+    },
+    i.list_skill_i = function() {
+        var t = new eui.List;
+        return this.list_skill = t,
+        t.height = 387,
+        t.width = 300,
+        t.layout = this._VerticalLayout1_i(),
+        t
+    },
+    i._VerticalLayout1_i = function() {
+        var t = new eui.VerticalLayout;
+        return t.gap = 15,
+        t
+    },
+    i.arrow_down_i = function() {
+        var t = new eui.Image;
+        return this.arrow_down = t,
+        t.height = 26,
+        t.source = "pet_introduce_arrow_down_png",
+        t.width = 36,
+        t.x = 220,
+        t.y = 528,
+        t
+    },
+    i.arrow_up_i = function() {
+        var t = new eui.Image;
+        return this.arrow_up = t,
+        t.height = 26,
+        t.source = "pet_introduce_arrow_up_png",
+        t.width = 36,
+        t.x = 220,
+        t.y = 113,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "pet_introduce_panel_tips_png",
+        t.width = 173,
+        t.x = 208,
+        t.y = 93,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "pet_introduce_panel_title_skill_png",
+        t.x = 74,
+        t.y = 57,
+        t
+    },
+    i.grp_left_i = function() {
+        var t = new eui.Group;
+        return this.grp_left = t,
+        t.visible = !0,
+        t.x = 0,
+        t.y = 37,
+        t.elementsContent = [this._Label1_i(), this._Image8_i(), this.grp_growth_i(), this.grp_attr_i()],
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "专属特性和技能效果以PVP战斗中为准",
+        t.textColor = 3304365,
+        t.touchEnabled = !1,
+        t.x = 44,
+        t.y = 574,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.height = 20,
+        t.source = "pet_introduce_panel_img_mark_png",
+        t.width = 22,
+        t.x = 18,
+        t.y = 572,
+        t
+    },
+    i.grp_growth_i = function() {
+        var t = new eui.Group;
+        return this.grp_growth = t,
+        t.x = 0,
+        t.y = 323,
+        t.elementsContent = [this._Image9_i(), this._Image10_i(), this._Image11_i(), this._Label2_i(), this.txt_chara_i(), this.txt_charaInfo_i(), this._Image12_i(), this._Label3_i(), this._Label4_i(), this._Label5_i(), this._Label6_i(), this._Label7_i(), this._Label8_i(), this._Image13_i(), this._Label9_i(), this.txt_study_i(), this._Label10_i(), this._Label11_i(), this._Label12_i(), this._Label13_i(), this._Label14_i(), this._Label15_i(), this._Label16_i(), this._Label17_i()],
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.height = 240,
+        t.source = "pet_introduce_panel_ycbg_png",
+        t.width = 373,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.source = "pet_introduce_panel_title_growth_png",
+        t.x = 25,
+        t.y = 6,
+        t
+    },
+    i._Image11_i = function() {
+        var t = new eui.Image;
+        return t.height = 49,
+        t.source = "pet_introduce_panel_developbg_png",
+        t.width = 296,
+        t.x = 32,
+        t.y = 56,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "性格：",
+        t.textColor = 4175861,
+        t.touchEnabled = !1,
+        t.x = 42,
+        t.y = 73,
+        t
+    },
+    i.txt_chara_i = function() {
+        var t = new eui.Label;
+        return this.txt_chara = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "固执",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 97,
+        t.y = 73,
+        t
+    },
+    i.txt_charaInfo_i = function() {
+        var t = new eui.Label;
+        return this.txt_charaInfo = t,
+        t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "（+10%攻击）",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 137,
+        t.y = 74,
+        t
+    },
+    i._Image12_i = function() {
+        var t = new eui.Image;
+        return t.height = 49,
+        t.source = "pet_introduce_panel_developbg_png",
+        t.width = 296,
+        t.x = 32,
+        t.y = 113,
+        t
+    },
+    i._Label3_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "特性：",
+        t.textColor = 4175861,
+        t.touchEnabled = !1,
+        t.x = 41,
+        t.y = 129,
+        t
+    },
+    i._Label4_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "瞬杀",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 95,
+        t.y = 129,
+        t
+    },
+    i._Label5_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "（有几率秒杀对手）",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 140,
+        t.y = 130,
+        t
+    },
+    i._Label6_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "特性：",
+        t.textColor = 4175861,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.x = 41,
+        t.y = 140,
+        t
+    },
+    i._Label7_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "瞬杀",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.x = 95,
+        t.y = 140,
+        t
+    },
+    i._Label8_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "（有几率秒杀对手）",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.x = 140,
+        t.y = 141,
+        t
+    },
+    i._Image13_i = function() {
+        var t = new eui.Image;
+        return t.height = 49,
+        t.source = "pet_introduce_panel_developbg_png",
+        t.width = 296,
+        t.x = 32,
+        t.y = 170,
+        t
+    },
+    i._Label9_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "学习力：",
+        t.textColor = 4175861,
+        t.touchEnabled = !1,
+        t.x = 42,
+        t.y = 186,
+        t
+    },
+    i.txt_study_i = function() {
+        var t = new eui.Label;
+        return this.txt_study = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "攻击力",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 114,
+        t.y = 186,
+        t
+    },
+    i._Label10_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "255",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 168,
+        t.y = 186,
+        t
+    },
+    i._Label11_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "速度",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 213,
+        t.y = 186,
+        t
+    },
+    i._Label12_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "255 ",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 250,
+        t.y = 186,
+        t
+    },
+    i._Label13_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "学习力：",
+        t.textColor = 4175861,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.x = 42,
+        t.y = 197,
+        t
+    },
+    i._Label14_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "攻击力",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.x = 114,
+        t.y = 197,
+        t
+    },
+    i._Label15_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "255",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.x = 168,
+        t.y = 197,
+        t
+    },
+    i._Label16_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "速度",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.x = 213,
+        t.y = 197,
+        t
+    },
+    i._Label17_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "255 ",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.x = 250,
+        t.y = 197,
+        t
+    },
+    i.grp_attr_i = function() {
+        var t = new eui.Group;
+        return this.grp_attr = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image14_i(), this.list_attr_i(), this._Image15_i(), this.txt_attr_i()],
+        t
+    },
+    i._Image14_i = function() {
+        var t = new eui.Image;
+        return t.height = 309,
+        t.source = "pet_introduce_panel_infobg_png",
+        t.width = 433,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.list_attr_i = function() {
+        var t = new eui.List;
+        return this.list_attr = t,
+        t.height = 190,
+        t.width = 242,
+        t.x = 34,
+        t.y = 106,
+        t.layout = this._VerticalLayout2_i(),
+        t
+    },
+    i._VerticalLayout2_i = function() {
+        var t = new eui.VerticalLayout;
+        return t.gap = 9,
+        t
+    },
+    i._Image15_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "pet_introduce_panel_title_attr_png",
+        t.width = 112,
+        t.x = 25,
+        t.y = 54,
+        t
+    },
+    i.txt_attr_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 46,
+        t.text = "2648",
+        t.textColor = 16317951,
+        t.touchEnabled = !1,
+        t.x = 153,
+        t.y = 49,
+        t
+    },
+    i.btnSpec_i = function() {
+        var t = new eui.Image;
+        return this.btnSpec = t,
+        t.height = 84,
+        t.horizontalCenter = 160,
+        t.source = "pet_introduce_panel_btnSpec_png",
+        t.width = 84,
+        t.y = 531,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 56,
+        t.right = 10,
+        t.source = "pet_introduce_panel_btnClose_png",
+        t.width = 56,
+        t.y = 3,
+        t
+    },
+    i.grp_name_i = function() {
+        var t = new eui.Group;
+        return this.grp_name = t,
+        t.horizontalCenter = -13,
+        t.y = 20,
+        t.elementsContent = [this.namebg_i(), this.txt_petName_i(), this.txt_petAttr_i(), this.img_petAttr_i()],
+        t
+    },
+    i.namebg_i = function() {
+        var t = new eui.Image;
+        return this.namebg = t,
+        t.height = 73,
+        t.source = "pet_introduce_panel_namebg_png",
+        t.width = 328,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_petName_i = function() {
+        var t = new eui.Label;
+        return this.txt_petName = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 24,
+        t.text = "精灵名字最长十个字数",
+        t.textColor = 15332095,
+        t.touchEnabled = !1,
+        t.x = 71,
+        t.y = 15,
+        t
+    },
+    i.txt_petAttr_i = function() {
+        var t = new eui.Label;
+        return this.txt_petAttr = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "精灵属性",
+        t.textColor = 4175861,
+        t.touchEnabled = !1,
+        t.x = 76,
+        t.y = 45,
+        t
+    },
+    i.img_petAttr_i = function() {
+        var t = new eui.Image;
+        return this.img_petAttr = t,
+        t.height = 33,
+        t.source = "pet_introduce_panel_img_petAttr_png",
+        t.width = 30,
+        t.x = 20,
+        t.y = 21,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PetIntroduceSkillItemSkin.exml"] = window.PetIntroduceSkillItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["prop", "txt_skillName", "txt_power", "txt_pp", "tag", "txt_tag"],
+        this.height = 65,
+        this.width = 300,
+        this.elementsContent = [this._Image1_i(), this.prop_i(), this.txt_skillName_i(), this.txt_power_i(), this.txt_pp_i(), this.tag_i(), this.txt_tag_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 65,
+        t.source = "pet_introduce_skill_item_skillbg_png",
+        t.width = 278,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.prop_i = function() {
+        var t = new eui.Image;
+        return this.prop = t,
+        t.horizontalCenter = -116.5,
+        t.verticalCenter = 0,
+        t
+    },
+    i.txt_skillName_i = function() {
+        var t = new eui.Label;
+        return this.txt_skillName = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "技能名称有最多十个字",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 71,
+        t.y = 7,
+        t
+    },
+    i.txt_power_i = function() {
+        var t = new eui.Label;
+        return this.txt_power = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "威力：200",
+        t.textColor = 11133439,
+        t.touchEnabled = !1,
+        t.x = 70,
+        t.y = 40,
+        t
+    },
+    i.txt_pp_i = function() {
+        var t = new eui.Label;
+        return this.txt_pp = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "PP：20",
+        t.textColor = 11133439,
+        t.touchEnabled = !1,
+        t.x = 172,
+        t.y = 40,
+        t
+    },
+    i.tag_i = function() {
+        var t = new eui.Image;
+        return this.tag = t,
+        t.height = 65,
+        t.source = "pet_introduce_skill_item_tagbg_png",
+        t.visible = !0,
+        t.width = 22,
+        t.x = 278,
+        t.y = 0,
+        t
+    },
+    i.txt_tag_i = function() {
+        var t = new eui.Label;
+        return this.txt_tag = t,
+        t.lineSpacing = 8,
+        t.size = 16,
+        t.text = "第五",
+        t.textColor = 11987455,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.width = 16,
+        t.x = 281,
+        t.y = 14,
+        t
+    },
+    e
+} (eui.Skin);

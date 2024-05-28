@@ -1,1 +1,603 @@
-eval(function(){function Z(Z){for(B=k=0;B<Z;)s<2&&(s=64,A=92<(A="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B=_eP<?poV[lS:A_:WlR:;M:HHn:UUZt[>`s^=`GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwIaH:?g:?JsHC::BQ:yk:[@N<`lX@CX_GF;=<h=LelmcFz==kA<C=s_>ZW<`[:lTjhsHZa@:oXJ:>SbNtYJAc?^@Vk^F;s:=aHAJ=DSK[St>B::_wI>sC[JJ;@:LXV_:HK:Qn?:<B`WE<:;SFPZZ:FocB:@gw<ltRfF::`YuzYtBDbZ:=D[dRY::_bTc@T:DB:@Jx:>>vKu@GlC_Us[lCiJEWwzZ=ZXpW:CJeMmRGB^>sc_W;S[GEveW:dtsEss:;[Y;BXEkC_Be>Rm;RR`rDs?p;?qC`j:OeiX><sz@>:ukkk:>MZk=ke=ZndRQQOB;RBASV=:t;:wK:T`]RA@<:JWfZu::@cV>Iqu]Z>:roanHOZw::yUNe:<o:<ShQdWQ;qTMm>Zw:ZT=PGB>]GBi>[fj>Af:A>u;XcJPMEfkIsAiJo@kS@Adqgu:;TAc<GXx[s::QgN;B>KJw:><KV=O<uQnZR<M=cDVE::Dc?>ZevlI>Ss<ZlN;TH@??p:J;v<eDB_tgu=?E_lE?V;lbUVUlhMwL:N;kI>X<<=PI;]Fa?C=HJRR^HHp?N]ZsdLZ:sZeNsn[k:c>ATW]cAZjRzAZ]dDF:A:][:M?NdSmtnZiLsf_iu=Ma;U<oVBt;<SFImSGkLe:@^yZ<CwR:yNe:Ew;Z;;Sc:UuT:FuDZ<reT<Lfu=c]Q]LDwOwAt:OK`wRQZLiP_uXeA<]hkHf<FBsLpGCg`kICf?DOl_?wWt@`<PcY;uWNc[qiZj[X[kvBKQy@pdXyfvjZ:bDy:=FZ:LMc:GHT:GwyZ=vYb`edDc:Qye::neZ:oCc:ZzArR:bJu:GyDZ=DKc::Ie:@DeZ=dXdOY;WY>M:cDpPpCK=NH^WRnf=hk>c:Dk:;k=OCx@FVlsqVLdoo<SFs;k=ZA<TIk]p]I=oInap]NNtFWHBw^r::<nRoGiGmY^]a>pGT_nO:RncDZH=EhR<ocd<ya]DnFIE_nsTgs<LFcuy:;gY<]B>XZLe>rI_MCXFDXlZgwVM@_FNTY=GNfDsc<:FAGM^dhwyU>p>wE:bg[k:=e?Fmz_]Doxp<HHmfEFKmZujgy^TI@kHjH^Yn?jDNEuJ]lM]c[u]LoHknPoLzHLvGWkVt@`AB<h@:mICkJkpakMaWPvv@a]ehbUtrELo^DSqf_HSX:[WSsHlr:NWktIwVcy^:=gig]bcKY[VfOIpz>Ki=LUBp^JEUXeWb:`Wm:bSJ@V_hZErRVDtIozFqf@icq^Ly]<jTyFtjnfUsrnXXpUdGWiCwGEym=[kLyi;`mrpfIYL@xGpsf[bZZhawwoSCpr]b=qTVjTPqI[J>PhgP;JHjjULoNWbTiohHvYXuWjSSoBQvYswKRAmk:GBl]s`?WNNF<Z:=OXlF?c_RWwqd^ejZHbkFKlp^eu[_VWDN<^QnLHpHBqKt[?dk=f?]:N<KcZvasGeRJxtbkLbqHZCJQwhfzbp?dTcXZZc[M:?ADDFOOdlPeGA?DFJoe:<atJ:duTYN:AelZ;<To::ua::XEcE;o:J<w>ZGca::=_:;]QVAFoTSHLYXJ:Mve:=vsk:=>dcp<S>Z:x=>x:xt::kzs:Wy^:;kSc:L_p:<l]]>k:ZIye^u^jA@u?R_plsfoi<<>s[BNy<pUeV:iEGN@XJEondq>X]Z=wJNfdrM^A@HeG[zWhecApGO>Pzhidw>`=aM[pdm:wEsQZJKL;[AV?>Pc]KN]?AmFXRcpKu]O>DHHdcqP]Ch@]<A>sVZ<;HlUas?cZm;sNkJ=ZByBqykb>c;VVQSPU]P<lNb?sdDI]z;D`mR:E^`c`V=]J_dCTLF`SEK^_dN:;e>Re:tMqOdNeVd`Mvm:;<rSuvM:atC<VLqCwL:M_jLJZMCqMvlohN<Z?ZvCV:gfDP^G`CEvm[FuVRvdIG;bxDZ^;PCw?@Z^E:GkFS>GCaK_h=FioZdlZ;mZ<gsV]mY^fDxB<QoSch`]?;<FBNWNL:^=>iZ<LwNg?GnsGep?DtBD=BGR[RpdeC`MFhQe_RZBqB:>oc::=>qCa``FuAsiUwCeLR@cWVgK[lb;uLabOFU[_jA^KJlG?fjZnEGHgxNN;pM^>WOuD:WcLnhex=uFoN:Lm<`xED@mlUo]`jEQ:HoztKJrltadR:]uudKc@LaqGKf_Dz[aXHmWouKDCLQViFgSVmBdnQKitWD_uq@cUYip<YkPZs;aVuh]su`ay[aDXZZtuk<y]J@cFRHGfADoSP:;q]TW>V>kAHQ:BE>bW>ZmiT=gAKKVPBOuFVtfCRV]t::DbJnD@=MUgI_?kz[f];:VKkAMVyF^aADIajczFQ>mh<HrZHEXc=kw[?]Zs:;c=B@kFZ@eD>RP;;GMaZcS@wZIxs]R>JyY?ZGVuvBpIKeH:LZyBoZNjLK_lZHuTPocBGLd_WF<Ma^S^LdGs:NmdjSoPjZCSLlSGXB^rBMFa?:O:R[fbkA;nFqYAiOan^T]wtKAnVs=LCJRyan:t:FSRnoAl@wQCsju_LvqK^a:dKeNFrLA_nCMpSWwvmFnl=L>kEFvbTxWJ=a;kdbO`W:Q=agE<kXVyL;qhv?IQHsg`UoK=UEVPY[X;Q[oMgceTVQKbC`^JBuW_uknF[TV]IFXIQitVPqpSQUYQqj=oBDIJvbQPiJDjgf:vPcCJtaxWb:ZkUzQd>=V@eMiSakr<NlGqBWv`nk^yO<:?:>yEfc>r>>:BNOGeJwvg_gwsickMcj=mP]I_VV?KzpJ?aBg:LAEL:RX?^o]JwrRCqtRdEIjU>u;gRNb;eQ:X:PJ=avEqmf?=M=ydtyFNy[v=tB?:>Yu]KldvAxOoVfU?m^yDH]lMofCs=`Vc:eY_?H?aj:NKv@j^svMnWsa@VtZ^NZ_m[:p=iRzLaZHH`h:CecxF`G_RHpECWPuoWWctaHhANXeWy?CLuq:AcH:HwaWt_XD;Hb>bZX[nZOEnAsiVYfYLHZLRLZpDdzB?KOTLkA>SwaCZW_;:GkZja?TI]UI`oqQaDPrPjRCF@r<DBXjRkx=_=KbkL@R;Y<?=o@^BqrGaYt`ymEaQ>iRw?m[PLBmEAmKRYRuq:>mE>iVTJ=F:>>tf=wG;>sCZeZvLExlHjzwe;f=_A@?afGRXYhq<noKN]>yyvmuV<[>Rzt:Dbt:c`OTLtjzZKhz>EZ:B<zfyHz_;?za;Ezd:Q:BDA:=teM[J<@B:MZ>sDX^l`mBc@dCQgiGQdM@cDW[S?SEI[Khw@T_Z<J;D=jgJYI^[idb[^;AK_`hY]nfxgGf>?GewBzbYE<GM]_:ZQNG;`PHZ<hFP>EgpfCbd_e?w>TA:>eAc>e=Wa:De@l@CIQBtDsZX:h[kGk@Kgd`g]NG]>meT<F<k;HIe;RGK[i<T;BE>=>?ac_ZQ_RAfC_FAiKhRQkBoGR<ZAcFsM><PFDa:Ac;n;D;^:j;DABe>>rfRXZIBOm_xDeCsWsUsXZIsR_c>KD?f:j?_TyH^C>XR@VZ<;VZXEk_Z:B_CjV^BdB[wfBewic_caw`waw^wjcMccR=ujc`>BRfcTcUzFBC>heIg;BB_fgjs<p_V]B=jBIiAenfODD?kQ:^kPBV:Wn[B<E>`B`CM@:CHF<fueD>c>e@F]sGTET@:?:=bAO?:@cEDbBJVST>VJ<<VPVUSgnCVWVKRUgOeDgLxbO;RTVHy[u:iBE^RSM;E;q?qA>HD?yGK^BUZTPif]<Kyc<LZ<d[BGBLwE<YZQwT<XPCP;<OwV@[RRcK]Y<YwN]OdF<_LMQd]J]P<U]NmI]QOD>IkXfiJP_;JHZ?lBJEuHk=^_@;bZ]J<M=g]PBLLW]SqALXI;b_ZId`DQY^;@:@CEl>ximOlI:IDReWN=aEDW:^kEc?O?DVwDw;:>Q]Q`sI:HJ?tBeIy<wDX[mTQhw:SfLGw=mEf?>>>X>Qk<r]:Cy;sMz[?@rhe;rb:EBA:Ac::BdF;f^_=;`]M^=FM[<gdZmm_B;`uSRyRia]=P=ibALXbovXau]JAyb_<;_P:[b[aKbl=K_[`lbc:CaKCC_dtVJd_H_SsuJc:Raumb;e;u=I^AJVmWv_ZxtV;hvAKp_G_ebq`Y:Ot:TmsWa]:QZlAIZVkAMI[eJE_=bWtmk^`^`TaGaM`darZtTunoUtUdcy`Wt=_g;u:mTT[D=hthtTkv_uRL?jRMbG`Mb?SH_hLm=a@]:b_c<A^ba=`UbhtIbTaLmubxKM>rsL;g?k<^UnAmmEA>]KSaKbRvUd<=k>AbUrUv<k[R;_SKKgMgLDbH]l;M_CLZe`?BLJe]<@L=;Y@m]j:BecQRNvSz[l;mcs<I^_D_@DUDTeSOkTTDTpmb=pn=Z_;qZV<vBA^y>g:j<cZpJC=ekK`k;rEy?Y:FJC=Bn_:`]tdWf^<m^ECJ=wDiZ?f^<^em[gLUCwZh?suJ;h>aLy:Z;w:BTe;?^l=>QNMgZj=l=M^c]=>vDxZfJf:=MJNg@rv=A;OR<oQsPR;q^P<@ez=XL[LDR><CQ=^?[<<R<rAY;T?Z:FKmnfte;J;oc^;KKSdJlB=df;b@f<:ge`Qod?Ac;WLlET=pOD]GO<PTS]QBm=@jt;OB:fKh=ZMGO_Ok;M_];D::;yoprsc;o`oOBpjyU]t?r:BZHyXae?JwWq_Cpta?NPU?O__cyp?:P?ipqcapn;ky_Oo`yc]?j::ZRZkCdCJdtCZZc>alql`]iOQkxlGcs:Ml@_h]P_flvBGl[ldk=lZGBgBGwJN:>cRGLcpp>XC_xZMJA:pZ=pGJ^SftWJWd[cYRitDdnkOOhd_kXGui>R[GXBlGyG;XE:SGwpe>R;byD:Yyjyw:Qk>i^uVTEuBkUTP>i>Fu`>xyMPWGkwmiWyrGF>jGXunG:hMijiCuP;J@AHLsHFYHxuQGIGHuxTL><h?d:dMiQuIuIkYuca;iXSpTg>NVHhF>B@XBIFH<;w@Ved>p>i^hSso_UcbcIczcZRW:kRcRsRETOcgRs:dGiBrFcJj:Xyi`rkTZQ:g>;k>ZnNQ<VR]ZO:]:D:@:pNolGkY:jp@Ws:RWCWL[:oCe`ctWJRRmtWa:cZ:yX?aBTRPJ]JR[`GfW@RHJ^:BHKJMpmBgXZkOJHGki=JMJEJR`AJQJlegBzJKcJkkZBkRk;:Nkgkwk]kmkekukV:ikHkPk;kKkF??k;WWZ?[dxRcEkUkRJykBR<JcWLs=TlRAcU>nca:WxRR>R^xmsnxfx=:^WY:rxatV:ExncuZjZH:LJJ=jxR=?ii:IW:=o=gJc=ryQ[xZa:^NwJ>:icL=B=fx]N^cLJ]=KeF=s=w=KZ;lxZQpV:SLT`X:Z_[=SLuWlls:z<;yeymsVR=cKcoSNJQkL:LcqkAxcWn=oGR:U=[ymDQ=^c=p:DX_JkLoqBjRMht>P;^cFks:u:LJ?=MJhVycxoi:M:QkOBZ^T;V;hs[PTFD]T_L;i:a:vsdu_m>pg>;:V`PJP:zavCrXimSlTHDXH:K^OBj^kZdZcJQWqJPRq]nW=`CxF?CBoDK_eZi^I^[ZrH]lOxgDwWH<wMoyTBDXr^xphkckt^@;uFD]c>=@;opXBc[dUk[hSch:SVD:r:Qmo]HS;oPgHRbptBqljpzp^lq;dlOBvBLG?[h^D;>czS>ZNJa:HS>ZPGQssJLM:Ml^SlqGx`gDhMaMeZqMx?Jkz^ZMe;rMPlmc_GE=dl>xenOlsG?[Fnt:lo;oN]wn[Pqc@F?ZZogWW=t:r=E:HRi=D=V=_=?=O>p=h=Xy==Kc;:M=pWtnInj=z=Z^vxBW>Rc^:GR:Ing^RZw^uBsZIRYReuvqu^a^q^Lc<s]cN:knxo=>TZp[;^USV:@Cxo`PZBGn;lVPItxoCPndfEQErt;cxoBgANu::fnl<kBf=aSFnaR_sfUasgpwpZFfl<FfaqFfsP:^KWd_xoZwOEFCOC]fuavPFf^PmfOq[fKWRlwJefjP?w][xo`CX;FfLNxotHmuxoZn^EKWZngtXfFPWJu;P:PgAFicG^BcW^>csKHgT_M^]cgLf^CDg>daDXxE@CkMduN:@C]GBx`hmurfX;kMjfC_NPeUP;eogJq^@MQnB[gJTNTCg[Y:KZ?UwWjcI>spQk;:TNqfKWhUAfNcDcHR^Uyy;sVk<kmsmkLcafKWWqbL=qY::vrnJv@xcvpZGUif=f_vu?D:uezUKd`U<vBvLkmvLcK<;fhfKWNJeckKQFgvHvwWysu:kvax[vHVrkWULctvY:AF]]qvWMhvXv^vTNEP><SfUv?vV]rvqnwvxv]v;v:An<rNxovvbvFvVvWv=vLvgAbVpfzPdvBAAvQvpvIvZvNAyvRvxfdTnf@vWUCmZqDAdUh><[o<L[xUDAYvuAN[evtAuv[;OAmAGvKATAFAKv:_hPHA<fY:V];ot:Pg>cii;A>AeAoARvlvKckA?FUBl>CDjRCRg>msecvsTFvXsAivlAzvJb@_lfbfp=MEWlNGTEJGcgEvLGKbjvCbUAnv]cxoRbfskKnbzA]bMv:_?bLcTbC>abL:qbgLibe]bMVblb:bLbn<JAcbec@KOvEAfbZbZAUPHABQ@bgLPbHbMAvsFQuQwQ:QR<E<bbec@F_b>cqcjA[A_ASQ@AN:QPxoiQRQ>QPsXbZS[bgQEbnQSbN:TfkARb@KxnfsPFzQYbCAtQkrPAebUJcQyQsQ[QIQ;bLVXktZQnZBcRKcvBt:::C?LD@I?xGiqvNIPqmsXKmyR>RG?[OiaXm?qlmpozAUhk_IhoWmWk_@WzR@X?Wvmn`eRzWkPvmmmmxzmkGH>ta;xRHC]BtKYM_n<__wapLPgq_t]CYQlyJ;]V^oSDqKmJmpLNVuF>hr`uhDht?yo?<OqSZ?<W@msqskatsrN@Lr:;LmFpaqdGLxRYaywoBHJHntnl^rrNhH_n^vgk_r_lJFEwFuMlpmhppo=`<JJGJn`PVqBp:AEmFxVue<xKEBDREZAgwsgsEvnzSDEoIXEp^pgpwpu==dFj^nErN;UuT>NtN`aZeCq?^NeHe?abT@FEDf:QZIfqMydtpsOtZFyHr[RWK:z]>UwS_=`R:DlaZ:=tu:::tc:IudZ:hce:=eqb>PAx>T_N_g>T>X>UMkDPLLd]UyJ?^PwmAcEyapLSayglEspr^rglBEmtZ:rwNntdZFiNwpbZIkskUnZ=w=Z=QdmC<PFu@mZKn;^>@W@LZ=@pcwnv>cav?fX<mwPxt^WkTAjlJGqy^xny_@KmOPYokfG<wLIWhogmInjpnqrvUrHpEv_zgxjpm<muMnrl^DfyfnuTqWA]`PRSeFqaT=xhJMn;zdO[mlPxCw@nUAcpkTRR;bXbzHcE:CzDzwjmjYD>juoAsL[[yztH:BX>Dlnx_<a:;XFjlaS;hc;tj=^dYlYuJ:_;>AMjhErJAJ`oLCIBd^rm[BE`uX?[Lf:BH;Ce;[;cd<Y`IodZnwWJ?[QT^BB_<FxRq@z=ldyLFmvwfyWJBA^yLIvGR;BJfAJXd>>ZNlEyY^Tz`:>Vn_lDRR_:kMb>hlLkU;kb:p[cFF@URA;aAIU:RGF^wx@yeZVAgzolvF<vXPM>T@ZGN@`SqJdIBJJj=aStR:DS:]deXQ]>U>Xadn@niVkdSY_k;XjPtaBDlcVljHlSGK>NHD?eBdJIZu_?yMZ@dFlXnyHW]ZIJ<[=oZPZZo:flDSR:e;ZZZYh>E^sFSL;SJqBJObuA^Gv@KoABO<Mm>?<L[NkyfZEpN<<gEFw:dzBZD<>vFJ[XnFn>DpCv><y[IJlBYoEOsd<GXTJfQjFCo^Z=m:FnIggWAiU[gE<XJ]KEFFF?nK?[r;OzdEnPAg<nFVoERUoDLA>=_gykk:Sfngtf?^;tkaSdGpY=hshR@FPKA<I[>l<C[W:iRLM>`SP<HXpJurfNIXAZK@[SZ]kODn?;?Gh[YkdEAwD;AA<JKeBdnH]I;AqGxcxnG@Ge<pZg^PKUBtYjVED>IxU;VfXkS]BJAhwBHvz@?:p^g?Z:gTlBrsYgEC@:^=[J:xBMmBwn]]uK@KD>JjAm?r=;yvmVcVdlBMw]`[ZcftgDBCs;S]>IkzE=gBL>c::KVY<_WwAuRkpA;DbUBK:FjTT^Ci@FRg]mFX?SWB>ycpsR>EYsY<Iy@qDvHTE]AL]x[hciNV<FXBhSCZUP?oKVDpA^=v@FbEoMf;p@bk?izc[RawFTv@]QX[ZhOi@CB@_]cllnQdf@FWAi=XkWBd=deB^RS^A[QZrFN[Qn?<^ZlBcZuZMZgEs<lymJ_t^`Lw?C]gL]CGu^Qru?m<[[wzXl`<Ni?clCHCoDSbQoAujZGi;o;jZzoAZj<wlZRb>Ni=l?p;;sfJoYZ:E`>^]r]szBrgDOfvM^m;W^:VMJDSAhtxc^RmU`Ckl]S]Ay?zQVXqIr>WweLKswZ;YpI>PF[yjl;>dIqbsc?t;t:RRRjqc@t<l;]ZxYj@orugx=;BbK^asBVv_hb;jcxfE[DumsLKi][UkWmDW>_CmCURarZ;Fv@s^p[dc_xclpE@P];[GcmgT_IhA:<TlZP:p_aDlcLVdHFbAoR?oVuoMgK;RfgLTEF@GRqCtRuoXLC^@N]slqRmbiVDlfXViKZjJ]MKDR@UFZl^>nsSW]LugMCK?clLRFH^?=^tKCkt[:aFZL<M<gZUFLKOqu[z]uC[_ZwQ:@:_Pg?C_RdLUDGgbO^M]gGI:ARb[fHLTit:Hf^dCK@p]UPH>mLVgDFaA]aCSZg]XSGq>K]Vdp_f]NVCs_D^pCWRtmXGk_KU^WCcfLRCtD__FModC_gkN`<q?q]zej>gDWOIf>X`bakKHSZzmxRLsNqDNkoYAMR>[^xVHUJTWkBgBxw`s>ZYgS_ZgEw=Iq=s[YgIpJ`lhBi@>pPdi]@bO;vyZjWpeYkF_g<jaRovgKJ<H`s>:dXNn]XBHZ`L=RC=IOY_nrJ_e=oZN:A;CapF?p:QPms<]NrmyapMNdI_h:JOEg`qVY:YpNVOQkbA^kB;eRgrec=y`[LMdDkwZ@km:n:LNSdI;]?>@w[@FQa?[G>ZMDy;]<LKZNzDJJmG=P>VeeE>s[BksSZ;d@KcFIhZPA=:O<ZVspQZi=N=yO`keiFJMFrMAvK>Ka:TMZEpfClpxw^c:s>::".charCodeAt(C++))?A-59:A-58),k|=(0<(A&(s/=2))?1:0)<<B,++B}for(var c,k,B,R,A,J=[],L=1,_=3,D=1,F=[],s=0,C=0;;){if(Z(D+1),2==k)return F.join("");-2&(R=k)||(Z(8*k+8),J[R=_++]=String.fromCharCode(k),--L||(L=2<<D++)),F.push(R=J[R]||c+c[0]),c&&(J[_++]=c+R[0],--L||(L=2<<D++)),c=R}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var o in t) t.hasOwnProperty(o) && (e[o] = t[o]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+roomToolBar; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.bottomBtn = [],
+            t.rightBtn = [],
+            t.isHide = !1,
+            t.curName = "",
+            t.isMe = !0,
+            t.skinName = RoomToolbarSkin,
+            IS_RELEASE || (window.RoomToolBar = t),
+            t
+        }
+        return __extends(t, e),
+        t.prototype.createChildren = function() {
+            var t = this;
+            e.prototype.createChildren.call(this);
+            var i = DeviceInfoManager.adapterOffSetX;
+            if (this.left = this.right = i > 0 ? i - 20 : 0, egret.lifecycle.stage.addEventListener(egret.Event.RESIZE, this.resize, this), this.resize(), ImageButtonUtil.add(this.ima_show, this.setHide, this), ImageButtonUtil.add(this.ima_edit,
+            function() {
+                return t.dot.visible = !1,
+                GameInfo.isSpecialTime ? void BubblerManager.getInstance().showText("编辑功能暂时关闭!") : (t.setHide(), void RoomManager.editMode(!0))
+            },
+            this), ImageButtonUtil.add(this.ima_shop,
+            function() {
+                StatLogger.log("20220923版本系统功能", "基地搬迁", "点击打开商店"),
+                ModuleManager.showModuleByID(158)
+            },
+            this), ImageButtonUtil.add(this.ima_warehouse,
+            function() {
+                ModuleManager.showModuleByID(4)
+            },
+            this), ImageButtonUtil.add(this.ima_hatchery,
+            function() {
+                ModuleManager.showModuleByID(26, {
+                    type: 1
+                })
+            },
+            this), ImageButtonUtil.add(this.ima_main, RoomManager.leaveRoom, this), ImageButtonUtil.add(this.ima_goWho,
+            function() {
+                ModuleManager.showModuleByID(155)
+            },
+            this), ImageButtonUtil.add(this.ima_home,
+            function() {
+                RoomManager.changeRoom(MainManager.actorID)
+            },
+            this), ImageButtonUtil.add(this.ima_detail,
+            function() {
+                t.dot0.visible = !1,
+                ModuleManager.showModuleByID(157, {
+                    id: RoomManager.userId
+                })
+            },
+            this), ImageButtonUtil.add(this.ima_detail_other,
+            function() {
+                ModuleManager.showModuleByID(157, {
+                    id: RoomManager.userId
+                })
+            },
+            this), ImageButtonUtil.add(this.ima_goWho_other,
+            function() {
+                ModuleManager.showModuleByID(155)
+            },
+            this), ImageButtonUtil.add(this.ima_main_other, RoomManager.leaveRoom, this), ImageButtonUtil.add(this.ima_good,
+            function() {
+                KTool.getMultiValue([200329, 200330, 200331, 200332, 200333],
+                function(e) {
+                    var t = e.indexOf(0) > -1;
+                    t ? RoomManager.liked() : BubblerManager.getInstance().showText("今日点赞次数<font color='#ff4545'>已达到5次</font>，请明天再点赞！", !0)
+                })
+            },
+            this), EventManager.addEventListener(roomModel.RoomEvent.LIKE_THIS_ROOM,
+            function() {
+                t.lock(t.ima_good, !1),
+                KTool.getMultiValue([200329, 200330, 200331, 200332, 200333],
+                function(e) {
+                    var i = e.filter(function(e) {
+                        return e > 0
+                    });
+                    BubblerManager.getInstance().showText("已为<font color='#ff4545'>" + t.curName + "</font>的基地点赞！今日已点赞<font color='#ff4545'>" + i.length + "/5</font>次", !0)
+                })
+            },
+            this), EventManager.addEventListener(roomModel.RoomEvent.SHOW_HIDE_TOOLBAR,
+            function() { ! t.isHide && t.setHide()
+            },
+            this), EventManager.addEventListener(roomModel.RoomEvent.BUY_FURNITURE, this.updateDot, this), EventManager.addEventListener(roomModel.RoomEvent.ROOM_MODEL_SCROLLER_CHANGE, this.updateSlider, this), this.vSlider.addEventListener(egret.Event.CHANGE, this.sliderChange, this), this.vSlider.addEventListener(egret.TouchEvent.TOUCH_TAP, this.sliderAlpha, this), RoomManager.curRoomModel) {
+                var o = Math.floor(RoomManager.curRoomModel.mainLevel.height * RoomManager.curRoomModel.mainLevel.scaleY - RoomManager.curRoomModel.scroller.height);
+                this.vSlider.value = o,
+                this.sliderAlpha()
+            }
+            this.isMe = RoomManager.userId == MainManager.actorID,
+            this.isMe ? (this.bottomBtn = [this.ima_edit, this.dot, this.ima_shop, this.ima_warehouse, this.ima_hatchery], this.rightBtn = [this.ima_main, this.ima_goWho, this.ima_detail, this.dot0], this.rightMask.scaleY = .88) : (this.rightMask.scaleY = 1, this.bottomBtn = [], this.rightBtn = [this.ima_main_other, this.ima_home, this.ima_goWho_other, this.ima_good, this.ima_detail_other]),
+            this.updateDot(),
+            this.updateView(),
+            GameInfo.isChecking && (this.ima_goWho.visible = this.ima_detail.visible = this.ima_detail_other.visible = this.ima_goWho_other.visible = !1),
+            !this.isHide && this.setHide()
+        },
+        t.prototype.updateSlider = function(e) {
+            if (this.vSlider.enabled = this.checkCanMove(), this.checkCanMove()) {
+                var t = e.data.v;
+                this.vSlider.value = t,
+                this.sliderAlpha()
+            }
+        },
+        t.prototype.sliderChange = function() {
+            if (this.vSlider.enabled = this.checkCanMove(), this.checkCanMove()) {
+                var e = +this.vSlider.value.toFixed(2);
+                this.sliderAlpha(),
+                EventManager.dispatchEventWith(roomModel.RoomEvent.ROOM_TOOLBAR_SLIDER_CHANGE, !1, {
+                    v: e
+                })
+            }
+        },
+        t.prototype.sliderAlpha = function() {
+            this.checkCanMove() && (this.tw ? this.tw.restart() : this.tw = gsap.fromTo(this.sliderGroup, {
+                alpha: 1
+            },
+            {
+                alpha: .5,
+                duration: 5
+            }))
+        },
+        t.prototype.checkCanMove = function() {
+            return RoomManager.curRoomModel.scroller.scrollPolicyV != eui.ScrollPolicy.OFF
+        },
+        t.prototype.resize = function() {
+            var e = egret.lifecycle.stage.stageWidth,
+            t = egret.lifecycle.stage.stageHeight;
+            this.width = e,
+            this.height = t,
+            this.sliderGroup.visible = RoomManager.curRoomModel && 1 != RoomManager.curRoomModel.mainLevel.scaleY
+        },
+        t.prototype.updateView = function() {
+            var e = this;
+            this.currentState = this.isMe ? "mine": "other",
+            UserInfoManager.getInfo(RoomManager.userId,
+            function(t) {
+                e.curName = t.nick,
+                e.mapName.textFlow = [{
+                    text: e.curName,
+                    style: {
+                        textColor: 4187130
+                    }
+                },
+                {
+                    text: "的基地",
+                    style: {
+                        textColor: 16777215
+                    }
+                }],
+                KTool.getMultiValue([200329, 200330, 200331, 200332, 200333],
+                function(t) {
+                    var i = t.indexOf(RoomManager.userId) < 0;
+                    e.lock(e.ima_good, i)
+                })
+            })
+        },
+        t.prototype.setHide = function() {
+            var e = this,
+            t = function() {
+                e.ima_show.source = e.isHide ? "room_toolbar_ima_hide_png": "room_toolbar_ima_show_png",
+                e.isHide = !e.isHide,
+                e.touchEnabled = e.touchChildren = !0,
+                e.mineGroup.touchEnabled = e.mineGroup.touchChildren = e.isHide,
+                e.otherGroup.touchEnabled = e.otherGroup.touchChildren = e.isHide
+            };
+            this.tl && this.tl.isActive() || (this.touchEnabled = this.touchChildren = !1, this.tl ? (this.tl.reversed(!this.tl.reversed()), this.tl.then(t)) : (this.tl = new gsap.core.Timeline, this.tl.from(this.bottomBtn, {
+                x: 413,
+                alpha: 0,
+                stagger: .05,
+                ease: Quad.easeOut
+            },
+            "<"), this.tl.from(this.rightBtn, {
+                y: 413,
+                alpha: 0,
+                stagger: .05,
+                ease: Quad.easeOut
+            },
+            "<"), this.tl.from(this.titleGroup, {
+                top: -34,
+                duration: .3
+            },
+            "<"), this.tl.from(this.sliderMoveGroup, {
+                left: -49 - this.left,
+                duration: .3
+            },
+            "<"), this.tl.from(this.rightMask, {
+                scaleY: 0,
+                duration: this.isMe ? .5 : .6
+            },
+            "<"), this.isMe && this.tl.from(this.bottomMask, {
+                scaleX: 0,
+                duration: .5
+            },
+            "<"), this.tl.then(t)))
+        },
+        t.prototype.updateDot = function() {
+            var e = this;
+            this.dot.visible = this.dot0.visible = !1;
+            var t = RoomManager.getUnUsedItem().filter(function(e) {
+                return e.isNew
+            });
+            this.dot.visible = t.length > 0,
+            RoomManager.userId == MainManager.actorID && SocketConnection.sendByQueue(CommandID.CUR_MONTH_VISITOR_NUM, [],
+            function(t) {
+                var i = t.data,
+                o = i.readUnsignedInt();
+                e.localSt(o)
+            })
+        },
+        t.prototype.localSt = function(e) {
+            var t = SystemTimerManager.sysDate,
+            i = "roomInformationPop_" + t.getFullYear() + "_" + t.getMonth() + "_" + MainManager.actorID;
+            egret.localStorage.getItem(i) ? ~~egret.localStorage.getItem(i) != e ? this.dot0.visible = !0 : this.dot0.visible = !1 : this.dot0.visible = 0 != e
+        },
+        t.prototype.lock = function(e, t) {
+            e.touchEnabled = t,
+            e.source = t ? "room_toolbar_ima_liked_png": "room_toolbar_ima_liked_1_png"
+        },
+        t.prototype.destroy = function() {
+            this.tl && this.tl.kill(),
+            this.tl = null,
+            this.tw && this.tw.kill(),
+            this.tw = null,
+            egret.lifecycle.stage.removeEventListener(egret.Event.RESIZE, this.resize, this),
+            this.vSlider.removeEventListener(egret.Event.CHANGE, this.sliderChange, this),
+            this.vSlider.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.sliderAlpha, this),
+            EventManager.removeAll(this),
+            ImageButtonUtil.removeAll(this),
+            IS_RELEASE || (window.RoomToolBar = null)
+        },
+        t
+    } (eui.Component);
+    e.RoomToolBar = t,
+    __reflect(t.prototype, "roomToolBar.RoomToolBar")
+} (roomToolBar || (roomToolBar = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var o in t) t.hasOwnProperty(o) && (e[o] = t[o]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/RoomToolbarVScrollerBarSkin.exml"] = window.RoomToolbarVScrollerBarSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["track", "thumb"],
+        this.height = 152,
+        this.width = 20,
+        this.elementsContent = [this.track_i(), this.thumb_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.track_i = function() {
+        var e = new eui.Image;
+        return this.track = e,
+        e.height = 152,
+        e.scale9Grid = new egret.Rectangle(2, 2, 23, 96),
+        e.source = "room_toolbar_slider_bg_png",
+        e.width = 14,
+        e.x = 3,
+        e.y = 0,
+        e
+    },
+    i.thumb_i = function() {
+        var e = new eui.Image;
+        return this.thumb = e,
+        e.source = "room_toolbar_trumb_png",
+        e.x = .399,
+        e.y = 108,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/RoomToolbarSkin.exml"] = window.RoomToolbarSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["name_bg", "mapName", "titleGroup", "rightBg", "rightMask", "bottomBg", "bottomMask", "ima_edit", "ima_shop", "ima_warehouse", "ima_hatchery", "ima_main", "ima_goWho", "ima_detail", "dot", "dot0", "mineGroup", "ima_main_other", "ima_home", "ima_goWho_other", "ima_good", "ima_detail_other", "otherGroup", "ima_show", "vSlider", "sliderGroup", "sliderMoveGroup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.titleGroup_i(), this._Group1_i(), this.sliderMoveGroup_i()],
+        this.dot0_i(),
+        this.states = [new eui.State("mine", [new eui.AddItems("dot0", "mineGroup", 1, ""), new eui.SetProperty("dot", "visible", !1), new eui.SetProperty("mineGroup", "visible", !0), new eui.SetProperty("ima_main_other", "x", 414), new eui.SetProperty("ima_home", "x", 431), new eui.SetProperty("ima_goWho_other", "x", 430), new eui.SetProperty("ima_good", "x", 431), new eui.SetProperty("ima_detail_other", "x", 431), new eui.SetProperty("otherGroup", "visible", !1)]), new eui.State("other", [new eui.SetProperty("mineGroup", "visible", !1), new eui.SetProperty("ima_main_other", "y", 309.612), new eui.SetProperty("ima_main_other", "horizontalCenter", 205.5), new eui.SetProperty("ima_home", "source", "room_toolbar_ima_home_png"), new eui.SetProperty("ima_home", "y", 241), new eui.SetProperty("ima_home", "horizontalCenter", 206), new eui.SetProperty("ima_goWho_other", "y", 164), new eui.SetProperty("ima_goWho_other", "horizontalCenter", 206), new eui.SetProperty("ima_good", "y", 89.101), new eui.SetProperty("ima_good", "horizontalCenter", 205.5), new eui.SetProperty("ima_detail_other", "y", 16.328), new eui.SetProperty("ima_detail_other", "horizontalCenter", 205.5)])],
+        eui.Binding.$bindProperties(this, ["rightMask"], [0], this.rightBg, "mask"),
+        eui.Binding.$bindProperties(this, ["bottomMask"], [0], this.bottomBg, "mask")
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.titleGroup_i = function() {
+        var e = new eui.Group;
+        return this.titleGroup = e,
+        e.horizontalCenter = 0,
+        e.top = 0,
+        e.elementsContent = [this.name_bg_i(), this.mapName_i()],
+        e
+    },
+    i.name_bg_i = function() {
+        var e = new eui.Image;
+        return this.name_bg = e,
+        e.horizontalCenter = 0,
+        e.source = "room_toolbar_name_bg_png",
+        e.touchEnabled = !1,
+        e.y = 0,
+        e
+    },
+    i.mapName_i = function() {
+        var e = new eui.Label;
+        return this.mapName = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = -.5,
+        e.size = 18,
+        e.text = "昵称最长六字的基地",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.y = 8,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.bottom = 8,
+        e.height = 499,
+        e.right = 20,
+        e.touchThrough = !0,
+        e.width = 485,
+        e.elementsContent = [this.rightBg_i(), this.rightMask_i(), this.mineGroup_i(), this.otherGroup_i(), this.ima_show_i()],
+        e
+    },
+    i.rightBg_i = function() {
+        var e = new eui.Image;
+        return this.rightBg = e,
+        e.bottom = 80,
+        e.source = "room_toolbar_rightbg_png",
+        e.x = 409,
+        e
+    },
+    i.rightMask_i = function() {
+        var e = new eui.Rect;
+        return this.rightMask = e,
+        e.bottom = 80,
+        e.height = 419,
+        e.scaleX = 1,
+        e.width = 75,
+        e.x = 409,
+        e
+    },
+    i.mineGroup_i = function() {
+        var e = new eui.Group;
+        return this.mineGroup = e,
+        e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.top = 0,
+        e.touchThrough = !0,
+        e.visible = !0,
+        e.elementsContent = [this.bottomBg_i(), this.bottomMask_i(), this.ima_edit_i(), this.ima_shop_i(), this.ima_warehouse_i(), this.ima_hatchery_i(), this.ima_main_i(), this.ima_goWho_i(), this.ima_detail_i(), this.dot_i()],
+        e
+    },
+    i.bottomBg_i = function() {
+        var e = new eui.Image;
+        return this.bottomBg = e,
+        e.right = 73,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_bottombg_png",
+        e.x = 0,
+        e.y = 424.0000000000001,
+        e
+    },
+    i.bottomMask_i = function() {
+        var e = new eui.Rect;
+        return this.bottomMask = e,
+        e.height = 75,
+        e.right = 73,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.width = 292,
+        e.x = 0,
+        e.y = 424.0000000000001,
+        e
+    },
+    i.ima_edit_i = function() {
+        var e = new eui.Image;
+        return this.ima_edit = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_edit_png",
+        e.x = 343.311,
+        e.y = 432,
+        e
+    },
+    i.ima_shop_i = function() {
+        var e = new eui.Image;
+        return this.ima_shop = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_shop_png",
+        e.x = 282.5683333333333,
+        e.y = 429,
+        e
+    },
+    i.ima_warehouse_i = function() {
+        var e = new eui.Image;
+        return this.ima_warehouse = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_warehouse_png",
+        e.x = 222.35066666666665,
+        e.y = 431,
+        e
+    },
+    i.ima_hatchery_i = function() {
+        var e = new eui.Image;
+        return this.ima_hatchery = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_hatchery_png",
+        e.x = 162.742,
+        e.y = 431,
+        e
+    },
+    i.ima_main_i = function() {
+        var e = new eui.Image;
+        return this.ima_main = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_main_png",
+        e.x = 414,
+        e.y = 288.066,
+        e
+    },
+    i.ima_goWho_i = function() {
+        var e = new eui.Image;
+        return this.ima_goWho = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_gowho_png",
+        e.x = 430,
+        e.y = 212.066,
+        e
+    },
+    i.ima_detail_i = function() {
+        var e = new eui.Image;
+        return this.ima_detail = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_detal_png",
+        e.x = 431,
+        e.y = 136.066,
+        e
+    },
+    i.dot_i = function() {
+        var e = new eui.Image;
+        return this.dot = e,
+        e.height = 20,
+        e.source = "dot_png",
+        e.touchEnabled = !1,
+        e.visible = !1,
+        e.width = 20,
+        e.x = 359.234,
+        e.y = 425.598,
+        e
+    },
+    i.dot0_i = function() {
+        var e = new eui.Image;
+        return this.dot0 = e,
+        e.height = 20,
+        e.source = "dot_png",
+        e.touchEnabled = !1,
+        e.visible = !1,
+        e.width = 20,
+        e.x = 450.522,
+        e.y = 128.686,
+        e
+    },
+    i.otherGroup_i = function() {
+        var e = new eui.Group;
+        return this.otherGroup = e,
+        e.height = 499,
+        e.touchThrough = !0,
+        e.width = 485,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.ima_main_other_i(), this.ima_home_i(), this.ima_goWho_other_i(), this.ima_good_i(), this.ima_detail_other_i()],
+        e
+    },
+    i.ima_main_other_i = function() {
+        var e = new eui.Image;
+        return this.ima_main_other = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_main_png",
+        e.y = 309.612,
+        e
+    },
+    i.ima_home_i = function() {
+        var e = new eui.Image;
+        return this.ima_home = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_detal_png",
+        e.y = 241,
+        e
+    },
+    i.ima_goWho_other_i = function() {
+        var e = new eui.Image;
+        return this.ima_goWho_other = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_gowho_png",
+        e.y = 164,
+        e
+    },
+    i.ima_good_i = function() {
+        var e = new eui.Image;
+        return this.ima_good = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_liked_png",
+        e.y = 89.101,
+        e
+    },
+    i.ima_detail_other_i = function() {
+        var e = new eui.Image;
+        return this.ima_detail_other = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "room_toolbar_ima_detal_png",
+        e.y = 16.328,
+        e
+    },
+    i.ima_show_i = function() {
+        var e = new eui.Image;
+        return this.ima_show = e,
+        e.source = "room_toolbar_ima_show_png",
+        e.x = 413,
+        e.y = 413,
+        e
+    },
+    i.sliderMoveGroup_i = function() {
+        var e = new eui.Group;
+        return this.sliderMoveGroup = e,
+        e.bottom = 7,
+        e.height = 245,
+        e.left = 43,
+        e.width = 49,
+        e.elementsContent = [this.sliderGroup_i()],
+        e
+    },
+    i.sliderGroup_i = function() {
+        var e = new eui.Group;
+        return this.sliderGroup = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.touchThrough = !0,
+        e.elementsContent = [this._Image1_i(), this.vSlider_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "room_toolbar_cam_png",
+        e.touchEnabled = !1,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.vSlider_i = function() {
+        var e = new eui.VSlider;
+        return this.vSlider = e,
+        e.maximum = 10,
+        e.minimum = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.skinName = "RoomToolbarVScrollerBarSkin",
+        e.slideDuration = 200,
+        e.snapInterval = 0,
+        e.x = 12.223,
+        e.y = 61,
+        e
+    },
+    t
+} (eui.Skin);

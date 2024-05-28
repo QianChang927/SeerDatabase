@@ -1,1 +1,2450 @@
-eval(function(){function J(J){for(R=K=0;R<J;)d<2&&(d=64,e=92<(e="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<VfkyBVa^[g:PMKKjR:J^D;Lsj=>jJZtl;[OoR[[?Le>I:`JiI]JL?sDP>=?eXrZu<RRAuTZB:@gw<k:ABZ:<qtk_:;?IbGYjwJ=wJCL:FcN`[<NB>cbxLBlHDCU[s:M<BKr>tbMnsC=lX:g:=<w?wVA]a:KI@K_<kXH@Kri<hJLdOVJpV<pwNwB:lPFBFitu?w:;_H:;nUpkF=_C:yvZ:BZ:M::@FF:KZ^::sBk:qJ:LMc:TVo:rnu:YUx:I`DZ?y:_Gw>H:JXh:ERHZ<tnJ;Ffc;bKN:[gc?_H:UY^:DTDdVfZ@stJ;@uR;zVl=Fhet>dXAJRqOoq:V::Ji[pN@<A;i::PFHP?D?^uGO`JX_P_;Uf_gD:?W:cD=e?^XZhuue]AsVXCF?<V`ZZIo;z:YPzr`=ZwDpIjd>;sb]:;KVVP=wYwD@cX;h@eVC=]i;Opmy@lWORVdxO>>p>F<V[_GS;obMzIZ:>`TKYLVaAJ>sP::OJDC;mAZP_HAA:;;B^gMsN<sbJCwDB=S^PEZA^kBxJZgbxU[d^ZW::=>w@xA;o?>]JqBxG]:<NY]ZGNIKBhN:@_OmZl:RCk>m<@>X<tJXRSs@tA:H:aG=w`[@doaZ[kW@gqOMQ`Q=:C:g<g<j:oB<G?Bx^B]]Cmca^uEkK]ZiWHc:<GdqtCZ?Z:VO_jZkh>HDU?aHwP^s_;bpYVZoeR>etbj=:ClgU_H?JF`SHsFF:?R_k:Sa^:;e<K@^ZWJ<jJo?FGTxfSEOE[bZkwZtkLSe:>Na=ZMU?n=Ie?q^I[^::W^sTFE>D]JjGZunYIJPuiC]josicf[>iLc=NdeuVtG_W:CphW:=gDsfLgT]eejx@euh;wfada^ez;uzficahmkM>X@tcPq[<aPwOpgqvT`nqZv^?^Nvngaxnl<RgnjEZqvvdWN^mDXyEQcRwZNjv=DP;yldzhwSWZX[[fmjsufTjegeadThe>Turf>nu`A<glx;tdRKTdflpTU:qfUtqCzU=jCgGDUKn=EfduvJ_SrwAhSm]QfcnbiYLQaqD:hOwA@_QdU;]QBT`a@F?=CA`VMD;RlucvEmdx@TTibnYpHcvcnuje:>sguSemPW]xbQTLfaIdtuVjY]::OI;uOK^=fk_AVFM]IoTzd:Z:;tF:^SJJU?^:Zs=>H;vwVF`UquHcquiGswhljTRJVmsFg:ksfLhDN=:BYm=xW:LCRKdDhJXW[@PdmC]fnCJo::xG::;ok;TPF:;n_B>:K@G::k^J;<To:;pG:>;zrgAUFoXgv;DUgmsXqb@ePVZ[<eYZYA:AXvs>?`PzAWJ;yWZAIO:LQWq?;XRAmuIQDTpsSEZk>iYSmd<=tY>TjHMHPVBltl`CZciUpLvl>yfn::>b:C:Yg>tPnkHc:Zolt^_;fgBoKu[m=n=]=kj[N^ac_JsNiC[;VqRinRUZxDoswfw=OjEE@PgVSV?pj>:a[gWc_oH]WVqhl_spNd;kiuT]P@TE:Vs];YFq[y]BWMH;^tDf_DJJ>yVWoy<[CrhcSmcMJnsPyAwAV;S^:[b]MREVvBJkP;R:yC:[SaJUZLXmHLI]s:?^RicWJ^BH;i[g<ZVZOCTBXZxDsdqP<HRsI:QZuVp<sZ>=k:Z@kY^>uKD<WO>CD<k_m`@K=:FoLC]lGLLmBdLM=dEFDX_vVckg`w;mK]YCmmqJv`uRY:SG[maOHeUNyd^MaahFEisndb^i_g=WH:Iu:FZR<BQZZKLm`i=KbiKcv;vpb_uGXXuKRZho=<qyMNVZjm`DBm;L:^dcEHAM`BVFn<FnmAnFPYRIuEt__[_CKHR`iloAFETTk^l@EpK>[ZQ<oJd<Wuc>SKlM>M<UEyMgcjVmf_@v[N]cJTDgKTJvqmj>ENC?lN>@s@MWHx<gsPm?MMW:FJYS<EeE>@Ba;SOk:`PFm@XweKF?d>cl_:D`QSpniJ>sUck<Nax:nIZ[_esV:sBlIXIkAk?::@eHaqaM<FoRkkl`Hb@FF]RBmKi^PWU?VCK<J]`<kM:oSF<RAWSuvpg_Cl=`oFR<F?[:Ow:sHanGqTjPvnnJPi:KTE=WK`Ho=GPTIQOfrjajkxU]pw>MIg?Ze[F;[bo;k>ZR:[rKboCDAiSU`:^O]HcRWyZCoEf@iazJTu`qFGiFr?:tss=hkVHa]F:;TXh<Tau^;UZXcx;::;wjW@L>AN=B@kU<tkePYCjUNz[IS:LIQkJ>;p:LFIoFyZZfuJ=jgtdys<ruN=HDy]kLiZAJG:V;QgL>LKurarjRycZINNSF@qA[yxVS<IWPubg<JjFgetO_iJR:[:w:ziVEn>dR:zKFSRql]FaTdLoWoRlt^zLqHhg>w[_tzM;_wU>mZRW:bMc<SBHjAxqx^N;^rZYByU;MsNFjhY>FAx::lqc:;<G::kzs:Tzp:;[@R:GXOPkO_:HJezwynqd]AXypaKb;vhUcXqi=[vNpDTFuucmbF:t=cApMG;;triRp`k:cHMCmYDwre_FoRJnu===?hR>ZGNCY:dLMToEcldTk<@IejSkhF:RG?n:M:sg?Vp_`_f:Fkn`Vk;`fEHP@htY]mpsfDP[TWVevqE=DBJ:xl]rkA:oq@hv;::kA:=;i;MUau;hnnQ>h=WDrCp^<b:JZ?iEnJUmPxi]RHyVBvCrFeJcyUsFf`qqIAR_EQUoSqqiIYqqlavJayTzJivl[Mfq;gvYHypbv[qEEzVywGa?NIfgkyJqwe?_IbgDXKyxiAoDHgRuKvWZA:hoY:zH=ZHqIDVEq:KQwoDrmvf]ALEtqx:Pisxnv_k=XPwWvTVIiuIMpJ=GQl]D@J:NrD:?IMJ:`_e:>pt=yIx:<kVc:Sh^:;:=EqYJ<__NvoKVdD_A;HMe:b;kHJcR<mhjJFcAHNSx<PvuftFBr;mOn`<YgC_[n>a^>N;>P:]:N;[qkaT@sumNEit:HJ:dkYFbPPs@__IeqRzg_kDBHqylBKN;xvJSB[:L=x^MnJ=:iKuV<<>I<a:o[S<H>xmcJsPZW;u>F<RVkhlf<;:fpRJwEXR:X<w@kQkz[axi@<BRVBccg]C>nu_AIN;F^]_]pXRcwB;@O>U_n[cMKmdh:u?oF:IJNJ__@FBRRck<<M;aAF;RLkO[tSqGgMRyk>B;wXIvZDx[U]wfH>w?sUky=ltr><HYsOcKj_LZxJ`xkc^;[[oKFJzlVJcc[K]KDZiRk:k;cFVcH;AJM:N`clid::xhN::ZOJ:NFO:;jlN:?CRk:@mn::NAN:=jtJ:XhGulRkw<]<m<e=T=<kV<<<L<D<T=ukyc@<H=a<u=X<a<i<E:N`:;zXN::dQJ:LmW::k?o:@tMJZjZfZkg<Jk:MmW::cur_FNCRC=:_F:<ypJ:EHp::LXN:@UhEJyg<Jk:?fG<<M<n=<l::ybo:?VAJ:Jvh::;<EFC>C=>:?O`I:k::AG::GfCFF:ACGJ:HE`XcBlulj=V=z<Z^Z]>lk^<lB^c^^<J^RkBls]j=Y<:^_^Z]koo]B^F]R]g<w]n:E;LJyJTKuKb;kxPJJxHFzKXKDJ;Js<KJdwlKg[CKdJzBeVB=EKOJUJvK;O]?[OlwxZbwyNEJ_cfKpKGKR[vKB=NdQKrKo:jKYKBRZkQOkkclRk>kNkFkVlwl<lAGTlulal:;iOF::B>k:=Zh:;[zNf>:;]OJ:Fqh:;K]F::i>k:Gv`::Jhpf@v@erv>A@A?AAA<b;b<GmG^u_g^Q>HJmKr<Z<rnx>I<A;I=I:j>MM>?lQ@Mk:z>aQ;:]NaL]Jj_PKzqqMPMLP[HqPmOmJHJqK=kiLeP<neP@?iKTLdNgbRON^<rv@M[QbjqYq@=LN@Hd^@DJ_HNB]ZFWZXK;Od[RbR_saS`N[r]>bA?Nb>`@aX@rpBJpqN`NbBAN]o[o^oZFaF_tCh[[ql>dkYrg^Z>VaVZ?FMaGDQbd^hpgZO<<`N`hFk_[;?JB@][dNXQKQE]CkXroPSQv[`^BN``?^=E[_FNK]OZQ:Q?KG>AO_pap`l[PbFQp_C]G`q[G^CaQ:MJibtNWBdpQ[SEVN`HoPJrtb_`DNMG=F=_om[Z=`[^``a`^Iu[HZFMUCMCFKR=FJgLC[nGCa^:HZEHSPhZWGhbh_gadJ`EKQRQdPfER^:?d=fF^BUGaLUG=^y`UBOZ^^u^^>MHMHl]PbMBAHnHgMCZH^gNEDtCi`z;KQTPEbxDwNf]pQsQb^>AfI?_UCA^=I=Zb]^[^au^^_MBbHQ`i^MZn`hNYGdLXQdNfZ:<`DK@Ja:pnan;tYnpmPnpS?R_k?lORZ<FRRmXnMnwSFnE?^S[mNS@xUmML@RAmmnYLDmi_uZV;UK?[oEhmWszmkScmqmwE>k?lkLim>SLDWRnmDE;nEmkoy:ydON[]_tuEvnLmSnp?NObm?nykN:>;o:C[bNiEKsXEgESSVDBsMSKD^?NnM?CD=SdEVnSDUnlm]mdn@DpEmntnDmWDTnM[=Dkn^DFDWmnDCsgs^mLDMmCEmDvDEmAE`lic?EeSkE]ndn]BIEGEDmbN_N:;p:mzqU]f<kDz]jViFq?MwdFwDslF]jPTDelPDjZ;V;Dio`m`H?DwNs?Mmp]d]Pb>dQmjDcmZevVceneVmqGLmkfTmjgqmfFqesVtVKFKeeqSe[]pLpDt]^eg?S=D;N>lFx>m@<SEwDSQ>Zuz>aCU>cI@cnC>_e>fS>:ASISIC>FTc`SR_]dH_utK_ddS_xmhTxDnev[Q[=whOMon:UjK?VZXKWJ;>sK@hYXVOKVPr:JKINBNRypK>ws>FJ:U`h::DdN:;Yck:H=F<l[ZGlF;AObNq>et_==shxTKlCbZClGJmKz:<[[>ylhNd?l>qTl?S>P:BTd>sJaDtnYeGfXRgOR>wM@nwNnemO]Np`dTElDOjf;Th>zfB?@O>nPO@nqOs;HNOtOe`TuN:ncNkEm:V`TKrmApXtGMknBShWo;WWxW=W^VJk<lEV?kptHWpFXWSBWGyVMt;Wt`[VltDl::s^o:A>bUyJ:XVL`WOWRDzLhDj?GBjNw`<nMUnUHskkHViWzJjUxsyW^txF:u^FJvkucuOVpW^nDfBfefdeeEMSkMEpafA>>[kKRuPE[UdlGBs;>vx_NvnNovclFvIU@nXWWFzTnt<uKVJl]vBvcvmuDeCfymdDRf[nkLv>_fh:avb?[;PvpfuON<INYSAKxpY?<cfThWTWvTJ:=V^WtObTy;EVaoeOnMXMafrMflZTwJ=N^OGmdNSNtN?OckUNVs?e?tNvYR_ZjuVunNENU:LBfO:AcDVshhGOkAHgC:kAhNZhLUnlQNepVoyBzNw;:o_;ZpRkkoBomAkpuvJpko>nD@XdMcTAcoJ@LZNoDoqoVoRTip<pXoapW`q@w@i@uo@oyovwL:P:p[WerlFM_>=eVLd@=G<LrWEeN`LLUevfDMAf`AO`Qef`U:U`IfhuChB;mpRk::eJhFuY=<^B^Sh>x<l]xFkY=<FL^I[dBVlmldlyxTFKFOlaN>^=lr=El`lqljZDUJCskF^@le^@NHU=ZXx>xPGCkF:;CpBjZUo;fOChBjZO:<EECqGC:M:>:YCjZGDURXLvzUR;etlplZeDdfluC`@O<XhTdvlrlc^IZP_AiJ>M:XB@^VZV]V_CvNbM:LMJSg_IA>Sz_YE@BA[WtMf=ZJT>F::NZE;aXPFJAJ;mjI>un:<PWPWi:Dkx>qSujmqwmRAqUPY]oo`dqqXx>ukB>iVHS];iTKOHVul:<XR_::<gNDa:tb?ZaFZomW`;N^KpU[YaP;NE^bWDvaZPLAnZc;JPo]OoBPzaRPYDC;J:>QF;jK_PBlx:oDYazbQb`BsQgQGcJUwQx:<:oPcPa;LQFQsQDP_;eQJV<hemu]s::PgPKb:K_VHQYciPFQmPyPc;bbtB[QL_FQrbwWF;:KjJCQHQL`@QKQtGfhN:`PdPiFivifIOXQpQtPw_BFcFRFLssF>GYoC;qEr_ZFECZFSJMProIpSCsFJ:Yo_GjExEnkZGlPAPy:bQcFQPjprQ>Gz;jEMaZG?QzQ:qnQ@BEQJqfPifge=E:KGPRqQpbQRGQQEP_GFf`CBr:Jw`zQpb_EuQHgoc`a:;uOBetm?p<tVq_S`wsGDUlhBu`hDJbUil]HOk>OVzvMivhlAM:Yht=YX^ZJyaxU^HOq_Rl]:CW>FJ:Wy^::CKN:?u^Hn>Zk:JrFr]Jlya<hN=AJmhWNg;yGXb`;p;Gp>=_<U:=q_:@p^;s[Mo@vxqo<_:Hh^rths[nrErk;frUqmRn;^:>:bqE;pbUqydHhMqjqEqC;YqN=QrBb:HU:JHLnvWAWSAs>QVkxhAKZiQIWVxYWipbM:w]MJwbe^`VIL_:?cwVH`gu:TIeL>w_w^ANxjVwwjMgxoZ<IT:<xtt][]wTSLwS:t:?:`:I;G;RBuw^;M;JH:Z;wb:qwn[r:p;iwY:z;?HHwc:J[[xP^Kw_[T[HHD:KwSxXH@ttxL[?w_K@VD;iwGlpxq[o;H[i[BJxwcJ=wK[lZd[LdnwU;`[OZ];p[GZUxWZ=[]IAwkj;:C:rx:ZIxQZk[jxTHzxuV:<rvZ=EIruNKk=KL?]R=KOa]>=mKDJD]@KgI@I^`kBy_n_@^yJk[wj^Iq]dJx:i]EM?KC]y]S^hJrv[^^JBjPj`Kqi:ShKgj]Br``]YKedp^ksh^sk_kokgkwluk^]ul<lalAGVl:;gdN::Q^J:VPNY^BBu[z]KlsZllClB?c??kMdT[BLG_mMWlDJgZSGo_^k_MnktspN?Axfs?tAlUGnCTtAnfbfUefeUjp@DMx_h@miQfE`uL=@v_PMyljJk:=VJ;qd_FBUm:c[F:OSRpylQLJcHMIC`EbuyOyM<c[MVBo`[iqeGDq??Ls:WU]CtM@muY`LCBsZdBGMTWhMWMhCWCxB^CPM_sSn]X?JABEsijfHuZvmKY:cZBrM<cIuccof`Uqv:m^TyfzD;fKs[fqn>lXckfimBeomceTu[nMRu@JAsOdYPeZ>YeOX>EjSYRzDGnm?XEmc:EycZEdtJDuECmNtE:cE`NWu[TAYes:hbXYnGmrXktltwDgsdsXcgsrj?EpvzXo??UqeJy:nuGzJx>j_mfjnFDcyMDZeRn;D?l>k=XlD^XUDMYDDnY^;=mlmmfNz`foyxUFzvYgzgdVzSCLepO<zfU[sLyWYmzHnaNDu?udfuzEn=mbDPy`eOEqzeXbmiyj>Vyk:x>KDJmLy:f;fWn[esn=mlflE^YeuSzVn=mDbYXBDLn`zUYxUsD:mhetkWeYjZ_SAR`k_?@ziji:XDHZXe^Tud_^;sIOmHGCIZEcl[sYNsX@Y@bZULwJJp>mkGN@cdA;c:ocTWJUMA=JQ;AJSJtkCI<^PXvcpgTyGJagh<T:_oJgtsVadMJB=NpTT_s;a_nPpLgpC>R]<K<B]tfq:XT:GIabc:?eWw>;EmHLI:=Z;txpTg_AXBJ@S:B:J:YeN[GkAcLFBsg;:VpAX_vZE[;urHRXhvMnc<tlu?wJHe@>::@w[wN:=ojc:>EcxyB:;q:[Q@QJF<MxXm]x@efQPF<[N@u=]GD>s[Ufu:pFHZnV]IOxc?o^;Ka?Wc:=:WKnB:=tMCgB:;a:k:D=DZ:GFn::]weiS;;w:dz`s`>?k;l;YYLJNIkA:>;S;wZd:HZ>NAD=[:eZxJTn_v[[dh;qWQJUbOAc[=bBlZ_F@RDg@q=v;FWYJ>sDecS`Q;=YNDajNUfX=auE]IkKvJ<A_BZ[yWYqe>FbcK=c[VJdBT_B:Kk=OykZw?G_GmAc;hySO=PdiK_@B:L[SJne;NDe@oZG;VRXcKd_<?u=a[wkpcNSZuAP<v;rwPXcsIbfH=dyx`NaD?JeTdxGujZzkJoIi?G=Z[MkknBgHQTK=mk?R@BJ_CL?d<G[V??w]w`?fFcYy;CDPba[`cdBtTPLRIajlXKeZpT[NJsXJ]pfowbJlBfRV[bOvHOaVUV@cJIO;?r<S[=km>RRHX@MoCVFiHQ;wBVAetTVtxC?CYPjdHoQT=<KFFG;Gfac?Bw:H_S_CXLWpT>U>:x@:@GcRG[><MLFFc=u?Oo;[dj@LZaK@?X<Y;>kx_MbKxdn<XKoBcH[P==eY=o[ak`NX<_F[FcmekGJZPx_I]R:?k>REHFf>g<Vpd>b:xahnQa]g;RZ@aF:@L=tfrwF>WjX_Un<mdcN?XDBE:EuBA:uZycwRKF:W@SdV=klRRaK=kBTBR[>lmcx>X<]j[jx^e>hA>YxoCM:J>:<::dDZ@a<OKX>CDJ`?IbU?J;pke:Nw=qDJ:vC`;[RP_bckSBGC=@MxSf]zPMZLx?XceYg=eBZU]cc@teLpGT_JTtlPLnPO;[yrQ?xp^lkPCp=Zl`<<FYN[=R[eJmRUt_a@ctDG<@H^<j^ty=V>c<G@e>WlhZjTDx>YMwlrc:ltuK=bHmF<hcUlhTUh:;ns;[ZSJTTD<XqbkUVGA@V`@NDRofJcL[@g>[G@vQuTap?KtkXhB<I]lSJf[:PG;gh?z@;RANp:`pFZrJ<XRMl]cB<LnZv[RF@CRPPGg@nWRXgzoroFJKBF;;LZK::UMG_@qnR[g;CzqARQcaQ<:[yJDk<LS;]nUagVq]UC=;la>amKkLZB=Z@P_WTLLsqXF@LP@rykUwKCR_smPdD__TMnCLUH^=rortt<`CimPmTTnsath;Cfm?mOjm:m@LH:UaWv?k`_<X^[a[fLMD?G_=d^BdOqM:BSEXmo[jJRNZZ?YA]`gSdaGHX:C`BNncF?KX:X:D_pi<zCs:_nJpZOGd=>LxKdNceQ::ZtmgedGNfAedDwbLMyC?_t=@eCT=oxGKY:<F=oqTbpL;daTRTNeETbeMsqa_qLV[`Jn[xMqZ>eWjtZvZ=L[dU>tTQX[NdcWS:@A?:?[r:Ag[dFSmY=aloBuu:Bipr<I=i?DvQMKZlokSGKpBtltTHLG?^]]@ssR;lw[bHcCxIc<F;<wLZ>j?B@>sOslHpXLM]>:UmmWywJJ;MbCn[`Wtj:jX=MjCqotXtdwqJUuP_<FuuVMH:Fj^hD:guPlJ<_jXcAnaT<h:AHMbUY<tk@;iW=wbbNzEB_P<yWEw:QW:GYbfLrtJioQVEbnF]sKWRiQyN^_`nssdVfkTQ>aOSnRRJ>^uHQHZA]Amt`>]iWB>fcWCr=OVa]g_RNG:=l_GWH]ICVRfoPh:WVWJaRko<FQCvNsC]zQNqRGnaEmn]BYl?Z>H<HsbWZLEzXV=^pQ;rolT^RnVdxpJKeCVXVjYA_uJ?`sK=_>jTqQmK?En>Hy@Jl]AMkSta`?lYDIAfl;Q?S]K]mjOFPWqqfyns>]<Mzh]LM@n_[;vceM<k>BJN]d;MRm[AcCcLxL`;qVK[DuEKAloQ_e;NT`]IYsR_gLV^UzjrF[]zxjkzz<:N:C;sZ=W_a^=PTF>t<N[dlo:iVU:Ez=kKJZ=iQTVvbuUnmHJysNuWJAHalmfd?p@uQjFQ_g:bdhA?uS=manFVSJrfXBFt<^`rnF:Mw`yVxEc<>=PHaFgY:SllazMxS]JNngJbFsZ>fHzRPnaj]daUtbHiyXaNF:wvAsjHSyYo;Ybwu;VhZrF_E_UIYkbmcirKRPP>=q:YmCZGTGN`e@:]oJLBvwdl<zEx<NERZp<_]:k<MndGqXm;S[MJco<y:V:LJK[Yu<cNwEp:Y<mEHkg>OVDKBI<lc:mLL=::H:aC<:E@__Q<DLBmoI_>_:_PVDp?j<r::J;LJkJH:KB>y?Pmq[s:c:[QJy?Pnr`Vheit:TBELAA?U:m?fwiuPKpctqDyJUx;b<:OIZok>tQ>Yg?Riv@E:_ZDLGD<]K==tho:_Lyg;H;m[`hNDxRYxI><LOF;uk;PWCYPAfSF;@qDLvuExAmP?Z_:>_LCX_ODPG;B`N:<dPNix=KlF`FJPxd`_E:jhAJRRKdXZA:vp[jJfv:dLk@vUxElq_vRyaN_E<wl;qLWXgBmrf=^FH`CLnSb>gE=@Eo:^ENtjFd=<tDp`yfXg<giqPb:P`BR:fIgjJ<WE`PHf>tYP;]PbGW`O>OOguZqOUEUanePtTgiXQb[=`lmxtO>g?TG:iPxmpvcP;]OrGQ`FfYOcwjKRbFW`mme]@<cHPWDsOdmpdM>AHOy[>OxR<Gh<d=:fDKP=mbCS<h[RjDRO@nJ`KwcKPUFJOmDmObwi`RNe]OBREpjLdPNwgBOxEA`ewdtTYESaA?C?NVdKQTgzJvDkg=ToP=xEemoDYdKDj@P?DTOHfXg;]paPm:mJ[moq_gd=<dErmHLvtd;_uQaohO_@D:;gem[<Bw:`NYdTJbuO_^s:xRUD?:=OQzNy>`eu;C_fKeSEtZHmYgHlOdmR:[DIg]ZIdQ]<s;oo@VLjjq?sL@dXB;:?f?bHF:wlu`LBO_`:;m[n;gcoRD::ajv:b;BTLBFkD>AesL[BiDXME^scQk_nz?MVCqN>jL:[Er_sLctMZAGKdJIOuJVGYLA:[Kf>gFTnGJqhd;dKoppJN=hPePEAcGZbyVlXJ?@vnZJkqNSCEg?qK^ea:TZLWQ>aV[Qn=cVutsDwAAQEfN_[:ELUHi><tfwpweJhK;Bi:<nwJHgy:ac?k<GfopqVmqSie[<Efm:k<LxRLAZEWf@pq:Ps?ueKM=dJpmoRlP:;I[WRp@vBP>eNbMNdMo`dsJ?KB:=O;e=mKoVZ:KLEA[:s:awvWQm>J_`f]S@>D>:j><QFlZ`YBNCXZ=fPrfXpnT]ZDqg^QKfkBCZExUqjvPAfPLKwPBH>eYQUf[pcR@WXigJ_Ee`pj@pCDicIQnehpEubWY>=rNXg=pKus;LXhQ[bfRtvurPMXdvOxe^:?g]DFEIAOjfwin@gdjk@hSk;jORTNDhTnT;s:::Qc`_W;e[XBzcPW<G@:qZUzyhrL=MerMN=Ej`V@`>`]rJOs;oJ^a]fio;lv_;>GVqFGBXNVs<:gGNab=PP^kpyD]G`T_^WPfBqpeM:xTlhMKfe;oUqp=@f:E@jL;NThG:ux^VHesp<TCpBaz^VR:rPpUdGRaZMKCiYQ<ThJVLPMR[b_ptf?GiZSMUEB]teUfpxeMMYXdopR;iGEuZnOXju;@TYpdawnP@>go^;fGWaw<:teVr[UUZ;:GnX^Q:ok_sLV:AnJ<jeQB_fassKRF?iqp[TQG_Pn>_@d]qP:FG<PdWN`jT=ztwGNoJ^Y<aBrtlLG`BV^SKgortTA?D:GhKKiDpFTmh>qbGOOep:pUCGbPqBAljN=]TSheHeWVzDa<RvahBaaMJJArN<T?GYwdMQW;No^U`SsqixWdiSM:ogWfudqDGcPpkvjpCa_R@SjzNPUYp@qynNZ?<ql]Ahyq_lRWi:AATcG`BVvYteip;TJhHq[vO?jMK[[RhUqrJB`gd:mZ_ZrqpEYxjLq:vFhkHvEL_bDrZv<hoHnhRlhDoN;mhf@kWKJ:so^eaWHu[fNpdKppTihcajAPpdWq>uXhqcIfVXg@qNv[h?uabQUjdrX]VtMHiUKyfSqqvGGLqfbLhfPpHJbNaqxoBEgOoKUKWB@wQWIF`rXUdWYamvUV@io?:?Wxq]EVfdXplUFG@i^vOffs:_SWW]yVhOMkmqHughRLbEPUcWo?UBWx@erLOeFrqv>Wb@_kAvexpiv;GAi`fMvgTpnuHhbihAUiiCpmULWzPwbLAeEPJ:gisXyUJZN^oIfWGgX`bRSjSqxf_xYutL<ffMrwuhhqXujQhcHpZTCWckEnY<KEodhnkgiwjYEfir<uTxMquETfhXrlU@x>udEOG`NrtWJwpLeIN=K^qpTsxigiGVbfL]b:MZQM<EWtJXolDKWUy^nMWMhQpEjauZ:EN?arJJAJwLT`GXc=MOBA?D^HqfVaiFQe;PW>NWUKbc?p<vbG>Pp<ECJ_:PuHp?QTrYq>STgUPLVmuJzq:lSmAoZsnCZkMkc=@fp:deZw;aewL_C?=dBl`HIf]q[sd=n;uaDkRxrgAgcQ;mJxugtqRxXcTqp<:aK>G=u]hByqAO;?dmBAO=WJ;CU;ioFjB_DYnIJne[]=y@Y=t:QCRql<GO_]`Dt@BvogW:l@C`LWSBvcZs:ApfocmhBkFeved@>WK[tGgd>JHbvdhe;]zNYgtCX@FabHjIXteHqYuMhg:Tczzc_<Rx;=EawBDA^wI;AM=]VVkmjfJHYfoZIKy`gbfeF?uNBbadcuFWJeh@FXCuSV;B?J^[c`^QKiTN;AwH`@xGgq]czAc]]j`G^YnVRwJRTHv[mB`BHpKQ<:^nAv=_RPs<gRBeoAsgPleUMgUN:X[rPj<TkqOf<IAAT^hawsHyFHUXRFgTK@hb_K;Fl:HB]_GG<@;I[[TfalvXT>@;ULCZ^c@CaF<^><orUoJFCvoA<Wd<R`sZD:DtgfgM;Slm:]R;[aoR=AWJHgrN?P:wXAKl[EGuleBz>UuFX_N=AioeB^kV:>;mNR:AslJ:tGWGHWhyf:G@`i=Dv_Ge@ve>PBPG[dkLmlsWIfl@^`>pScnSsll^]Ho[Ch=Hb_sFUqIc@g[Xd_sqEjYq?v@^N@rNso@]G`vTM?YPEXJ?J[l[JpullBoZ:GIKvApU;[ZmDTk@jh_xaIFGBeWJ[xKoMhkNJn=dhpp;D`gLvo;@;]FCbe`mSZBz@UeQKkR^ULd:<cYqvlSUqRRAFoohYSxK==ulpFoaSxIB@zMAicRkbgnGOD_n?dzIOTTaH_@a^]I=ZvofL[CAAM<l^cn^ofGSbonqlwzKK>=H;[KnfSyclzhr;Wa@=jSzgz;gAIFaDynlegxaTtFSVunldmVtYcc;UaFohKoszHTzqbUinqNSVxuRAIhAaMPVGRq>oEHjga=stqfSwUL^YA=ncKfdTySjqIugxz;xc>yrB=Rb`cZCsW;?czRSRq<^;MZ]kMHTTcjN@yEH:i<^LvKA=a:GQVyWnI?aWnklCbSyXzHOAY^YtxdJ;WsGIvZEa:NxH;YuJqUnZxld<lOZ_Bm?G<J[K<yO[KHcQoEO=E<xp@VIfAVntSZ]wa]GI^f]EL:DVmCVciqTy=]iox>gRZiFPcENC]fB_LmB[>k]LCnB=lYT;cPFEqVS_q_oDFd@FJGS`ZlCWqFAbLEecdHfHVaHU[Hnhd^ie_RAHxh?MaIFF>wWOFDaIMntraFFemGySEES[umqc:UFAAit@K]W]?RILHQqnn`]=NoRsmott^b`qsD@SAE_;ZlZ@p<:eXu[ZQckJ`kDlrMmFPPlE:lzMLTX@He]Df[MNwtTSBFdQQEiKiR;SRwhwgjEPIWHHJ;O^tQF:<d[VE`THZebp^g[eel?XSqqQx^zRHSR`STh?vsLg[fesTq:lSP[fO@S_keXXFD@dfXtwWSRVsFzbm:@E>FkxeVIKbQ=`iwJuIjL=XOj=;SutYel]I:fbNDSe?TV>yiuOjPwT]BmDjJ:tAlO:FABx<a;g<fMh;Kmgsgj^QjbunhOlgs@?[iEPn^?te:BxRiqfbvnedsVwySXjYP=fSyzolkTbF>q^JapnH<eWWGRx:lpp]GPsUigX@uZXmjOeVAkgK@b`UnOulaS_KrDqUZF>gqwiti>qB^jmag[Vc?gObbnfG_Pn<^<jxAdfNOzgEEREUZfNUttdcufVlU?apf<Nx=ELWIKNb<lnC^fH]YJrIaiUThkaz=SQpwaRBZdw:?HThiRh_xFay:;[<ukSJ_O<@o:mfdWIXQDMFRTal@UDkFCb=@]pPSNPaUfAhUdnGwqwRbGyZdnVWzO]XWYrGPoUPhzarEUMOurYgXGoI?wf`gDriM[p`xOCS_gjF;UmXfcH;;y[>a_:e>>F?k]R:Z;=B`NUo:::pDJ::ELs=XZ::abZ<iRFPaEm`a<u_JHRgQxEuTW>qGRfsxQ^Eedr:VwY?jzDdUKGgck^WaiabUWzDqOQu;HPEQpvN@zHsW[ugOxm:VRJ;]SYn?Na^cH?oIHxUzpUrr^t:RuqMXyNQPeUC`u_zMT[p]@gZxp]ZGfUiRVq<nEhit^>U:YHdwn[suivzjyg?bMv_hd;xEW=mkInky?qqnOWrhpPPUHWg`ZwcpjPa?nN@pHynRmhwgBhaIBqsa;GieanUuVSsp:syhjqaWxhZNoDXWg_hjvbHxqvqLxjNJfhG=aNrvUfoEAOht:RHwmR@^QqlfXqnNtNLLalq]APnH;uQWrI>qWvmWoupZyx=drQGaWnPlJzNWrFwvw@sLsZyBXjrVA?WfsxCWHj?rUAGKoeR`ZUhCKavfWxitrSvgg;yvtsRXuIVZj[dpEQPDXvdXJicatv@CjTBksPIEqTUexkcuZuIhyTHAtKz;o^ULXug_ACxZylEY[Ebrfg`xlFGYWjieaEGe@jQdiTyh:rFb?[ZFuWVlPb:Ef^CiKrMSVFFrUfk=tarnSCNuqR^iLl?M:x[QpIsAaTaBDFxtitHSb`Pkcn]jeVsI>vPMjKrSVBX=Ip`d=^gupXwqNItUCMyOfJxcj@rknku;ylUW=k^IubP^k]vOesWm:XAdpatvdOHSirudbhxOLBz>X;ek=:WsW>ARn[mHHgCOlNpRiDuR:hK]nwSqwvMhrIlEtWmDs^X]iUI>OK^c=LRvBYcq`bVEZtWJzPgbHBoOMZDoQXaXrI@bDymiwszCWsiDU>ZHitDoUjXHqvAWwwIsw<W=qKvXqoClIW;HKIpEgxblb>wQiNqQMM[mvhRydO?Hs:Fnylw]ymXcjsgeDqOzNsDYLiiP;EzPqNseXQVTU@V<FHJ?=KpIYfv=yOlzXTVUI_UdfwwHot=hnr`EFSxkr@R@XsfgAknZ`KcxYgKAVQQfkloEUWYBH>A@fq`TLiJXZVpAZnw;k]yegqQpbVpxBEuz:VvI_fmpovJVxpifbXqCny[k_tPHQIPAbfu;tLzAPIIAUkd`toPyWJYHIUNoRKnvVXpzIzUapuKvBxOImHsk]^^NpAYH<ogRQNUnKmPv^Wk:NvgEjpl]saGCQjZolglkHsyPh@dQZUaGxGXdWPi^aWDqptngSXXHavQPAlqmyvhxq;vkMb`udU<VgPBbTKTXxlSJhcaKQ<MnA__s`Wfr<bkf=Wr=WPXuHKrGE_Gneo=YeiOQPfrv=etjhui[=o^y_oyW=m:r`rLE]puMWHi:qEfoRRFTUVnZ:I[xMG`pwmdtNJIPLiLb`aFzJ<Ve[U[AqSuyxDK_X?b_U``U;toYvbsrXxnSmmdMYMiQEynxKyge:yARVrSnoqkPwDF>XXOWAvXrUUa=wabbMhmhqmdtNpi[Arn[hybj_jNQ?Wm`ZZH]=Z;Wroot:R?mG:oy=rhIibd^B:XYr<veU>EfNoLlcwwe>v[di=wfVMWNKHOfAnSAgz[BsYr_`^eZxatUYbIlfi?v`Xw[>zjrOr<UzXwKx_xUiIAWBElrixSWyH^rJMv`mG?tY[HkM>RTxw]WjXlH?v=vfA`[UqZjjYrZesMoHsOXFX<Amfm@nmk:yJriIdMnTpYW:xrrJQLRANnDe=E;X_vrveprTT=BiXSrrajfy=UjH:j`E;O_eyptR=ZqmjFp]fo^Wt^Jc;jvAy>chx;i^Xgsxf[NtDvDi;`GQgr[nmBF[jEXrIdqjftex@zl`aMVRU>lGTOPqYYMxAj;zGuOYD@MjTUjV>FrezmgXfRRF=oGTiVMf?p@[me?ptChPAMfu[nJlWSixRPBhMff=uXGvO;i:mUtQqFFypQSelUD=UO;^sGNJHBrntpOKyvgxIY[rNtsbyxthIXU]Yhlmuya]axcy[>RIfxpHRpPykeYtlzV?VSJkrAKj_RBVukwlwgyeQ^^tqt^z@HJQZM?veX_uG=e::gYu]VCRRbkfn>pZNqivQOMUCZElfA:R]zCERjbxyUN`yeQdYcqGBd<SbjSYOYKoE>thRn^zYmRZbsQmgxCy]YbjIQgErN@yRizHYuGbrkTjtwWA:YBhPLIfzCybQJzxEn?qqTPiYuE^;sDIrMwSIZQA^zb[:ufQZ=[zmjbjd^thNSKyy>zIIepTWh@wdytAojsLzF@nzkXBYTvyRFbgmiob;YrMk;v@Yv<qebffC;pO^sEHbSc>HSh@[ZzB<WyLY^rxrlAuhX^yzYczibmrzPFxyTz[rw?;=NEzVz?zcrzFKoSqwSyJLVsCYm]yYvJC?fQZP_<l:I=L;JL[eiYwmVEicp^kNGwpwjzjztLFvgYfHp;iB?oyKmtnbUkrikrGue]hkfeDc]jce@D=Z:WdaD]udReTDG]fKkILENAm:HDNJ>sdSBW<Z_<YmhAEWCbmxoiBTIVpQ<`fhuTPfDL@urXgUexu>L`>e>cxRFMvxDMI[^e?Z:YZk?weijhe^ue_G>Tf:ya[^J@GexL[gedDKu=_dZ:;:=R=c:GaeZ:>:bLbX^pZTcBJ:GetefC<Pe^DIP:M:qNCL;eeGaiL=bBoe]k<X]RefdD:kzL`SDmJ[mec>T@E:GNcUDFaec@JgfVIofd]yZM_CUwKZYtCuLDZPc>P;xL`O]?ZaZKe]H;ikjk@SJfZM<^pZQZ=@CeeL:GwmT;>ZSocNLZZRP:tB::BugRNLaOCk:Tea_@P;xRC_?X;zL`Y=S;xNcVdd;@ma_AX;eLB_>g:]JMSeLe:F@De:shJMc>xLCw;eDjZxR=?B>:>Nao>dLTNb?CW;eNfB:SLGed=Mqe;VbH=xD>G<ucIyUe[^c=uDXjyeyefCEQc[efC:^txHEf`rstslpdFt`TpY^ac::NGjdh>;T_Gf?eV;_Yde:CKdysFXiYdOuKDa;hZRV:i;fV=s@>PcJTtuSth]vOD?;`JSSebKfD=o@A;ZxupaSIac<Yq[a^kUDXJ?cfd?PeY]fcRX^GagAxZzRfnSJycIfnTm;qZ>k:t@i[fnTbR;[fnSa;uZL^vd:aZPL=dBiBWH<X]kGZRAU;EmFR@<q;BKs@P;FKhR?F:hZWutxyosHaEN[MZQdBt@xBTCRK@[BSs?J:ZcJPTy;NJ=m>;;zBV>?sXN<gRfZJ@kJxSK;ubjB=_Xu:A>>;RFK__>d;FK^_?u[xNgm@wqycPDAWyos?Y:@[iNdT?k:VcX_<`;EBKN?O;RGe=RN[Tj<u>K@>mhe<xLEJYu:l@vJK?Cy[rJU?CF:hBJWl;[uNb:=ta[IcV;[y;rcYvd:[DAvvrV`QBF]bZRYeGv;yqj_idV;TBXTtZ[Ofe]?dcW[h[UWJVIj<@xHQTi_<oyfcYJ?syjYg@vaoWRWYvJqgcGP?IywRKJ<NyMOizvbamRTV]d[hI[a>aP>;[VAQ@wJHyJAy]fe^uHwJ]@juQ@eLbMs<yhz]H@K@kjfGu[XXY_k>ayJC]uRkPlWBfu<ipjjITqyujfLTTyGG`a>=RXjii@@yTv^^v<BqsXa]v[cC[Uvl>Oj]fvA[WjfLRHyC`b^Se:M:VqAh[NsX_::KHPGq?naqEbq@IVN::;?;yksQ?de:@BJqcpyyROvv_:L>LK^?[DAcGSNR^f^WS:H`RSq@w;nRKu?^[KuFFv<;cZXB?e[qIglDgsohac<oyfjiIvjqnz_l?C[X:PV[J:ZsW^Uoy?heH@wyRYIL<M[ErhH?<K=B@zsJKin^<K?y<sYnsUaiG]iAYF`>PB>L;GY[i@OXm_LB@eKybDXsv[TQjmDmsQwGz:A[vsKjZqyQsJgSWH?sLi>?RWuHd@r[T>QS@gs^sPUskPsT>ft<ibsTX?DaHV<SUwKm@=]?:Kc_McTmJVsRbuRcuRUlAbiGG^tUyX:_LQs]KGkJhuSy>_VRsx[qEfC@dK]sXGtRw`YfD=<[`kPvugKARQN<?KU^i`?LKeUdzdJKQ>XO?oy?CcGRNaDsTLA_[tf[d?BqfNUQUKXnEb?uyHvEc`tViBMaXsKqF?c:=BVc:;uHc:=VLc::Hmdt?A[@C]XAZPaI@GR<P:OZC?N[VRV;>jBbc[l>IVQ>Kp:q:`leGtAJFwIt@`P:_YCBa;LNPnt<LjBR=;vKDRX_ZuLxoOttQFaI?b:yFC`[osBKDHF>?:[O`jSu`KYoJlZIKs>NtSgX>@fO@d[n_e=?jKapdx@HylffxApKn>V<>MyHY`HTcl^oYqAdBxNTGuGKdhi:TzKfBXm?^yuFL?uHKXYeM@NZfVGpApqFQfishqwQZG>;Hlvg`sePM?eG@ZaZ:=MXZ:<`mZ::?@;l@S?riTjgh@R:eoTUTb[G_@aCR[PoL?>jBuR^^AJKkP`k=SaCoLktFHvd]i>jKikeCU;KmNNeuulPzFf?VKlgWW>UXQoXqv<@FgN>@ZlygOV>XyhoQtEqldgM=?qljYBETPlzrh@[z[_P_m?X;GoTWUpKoPH=?Mifb^<MJlXFJA>GKeAiqvTljoKD>HKQt_stPi>cYM?FigQgnAxK[van?CXkoOn?dX_oLcL::t:UnKAsRh@PKDoNyuxPwNOPJ@;TFR=>Z[VrcU>;_OoM<[ilnoQW@v<wFULTYKZpfZCylgFSv@GlsO_=AUKsDIL?ZK__K=>KlGNSlAilEgSv@xl<lc^AfayNLdkD[]S_A?PiRJRe>OKFY`O@Jl_VJjAdBXwWj>>lPVE<@<PYgS>AK;TcXp?Nl`QbY@e[@VMisgiHVKmvgl;VPdRmybJiwDaKGv]fs^_VRIh;zXap_W<CZsf`hRsPGu^><T[k_MX>dlOW[e@oLUwRn>Yl;v`zAtlX_UzAay`j_:baKB<P:`uiAoNCJvPzxfx>u[KNLlAWX?I_k=C;WkPA?lyWrDYAVK=<Ue?=[Dxg^>qJycYE@hlWcRT>Al_v]k_yTyoTaAu[azb@=JCyoCXAu[cwRfU^l<gQN=mCbVU<K<CWIbh<k[g]Li>a[HwP[>a[T]SBawKyRf`>uCjoUn:P[z<Vv?QkT]Tf>AZie;xS_ZYT]W?JCutZXLuC[JYc`tyTJKHsY;o_YIA]CuLEsbYX@pfLTfTzrjh:QKHN^TAXC`QgN?@CQ]NVt[C]MhS?H@_rfxAq[p]TWT`;]LOTACCLxb@=qiNLLiAl:^cMSfClC?a[?`C`JMSfcCjNWb?RCZoLXsdXSvc;ckPZ:FfuZ:ECDZ:>Z@Z:<ZqZ:=kDZ<O`sOlRgYUvcXDxehculos=Gs@lngNhvFCAz_GsnCurfl>`PS]OquqlUcUs;lCDNWgbKyB]NgafXAQ]GsaCLsHiSAJJwXOUe]acfg`@lpmWu@T]T]Su>rCfsAMvl_P?_i:;KzcS@?rCYlH@>KLT]Xu=XZe;>=RUXwRIpUoajsPO[<Ng<JH=[[VNbwbd:vJQ?C:dEsD<`oy=<A@<JdiNRbnQqCgExAh;@N_]_N:KDS@?cdBDWxUZdqDLf;aCvs^BvLajoOaccK`f_t>GybH_rtfa]_TruRX]BX_<nyfcOvBt@>GBIsIy=>LIv=;tFNr>RlEVOHUMy]mXXTnyQ<MMSQCXzczuHl_za[AxycC<YuI;tz]=CQyaUZ?dUCBeW_axXosDjsDdaNXjsPd@:djtti>gUS?=ySeNt?coJDNIu^XBtE`?zyvqh:T:;H]g:?uDz<i:>M@N:KRdPD;:A:?rm`wjReHDn]iZ@suU]^Z>XDoTYi:>;UXaPf>;Rd?rdp:GT[JAeeO:Rc@hDLe]F>JcvmE^]PesH?xZ[;HZL=S<kKZYW]`R`TNOZJs^qANA>sUTRP=RsOTY=]ADrTLqbOd@mhhZ=djTUecxd?TVPb_ZI:V^to;:@:?[<;q_WK?L;fH=B?UlomfM^xD;<;k:D;jDb]APeHZYL?]eOA=c?uBouO_@F;aIfefZFv:RTendssUv=pZ[RSiablJkPJTM;dC^c?XmskJ=MM;sHdDRyeQMi_;E;_S]gAsKvY[v=>[Kb?g>taikJHeA;XbEjdNu[yjgRQ;NePIAGlnz_k_bR=kNw>L:EkYR^XevkO]s;Cis?w@N@LCZrtyl:BTacgd<AdNRJ[aX_:R<@tXaBtOHX>Mos>K>[Za@l[>K]RT_KE:?ibR[I@Sm>FcPYeuAo[kG`EfwSX]=>T?[HKZZA]dmBQFabP]ROT__SR]Nx?d[RDUl@S[DsLRSt[fDQbuFgvMhp:=ltRSl_ZHHe>ecl@oRi;=]dvcHL<oSWY_t?De?p]rsJuA@X;aquCTS;aMl^TXpZt@HH:?ai[WTYEU]SzaRx];SsuSwZJqATJm>K@zTTp]xdZRKx^KSJg>ES;S_PXe@SSRPWKumZ=aVs`cS]]K[b:l;PO[aOKgwStd?y<YhNfDde>DeacsJS:c``qCPKI>cs>PKr?eSpNOnvn[WqHPafCrbhpTNq@LMMTSkoLTW[dSRPVdbaducCGbMl?PXA?OSGeUG_^diHD>`Eqj`eGaqyomYgbGSq^^DaRSCmXp^[KIIe?a[CCnZKLtKYNH:_PCYPP^[SSoqOe`rSJSAsb>SrPQi<xSSTYWbTSZqXhSEqBqNBRUlapCG_:lu@JWb:l>qThaYBCqS=`CSdPHhaNqMC`NsEZ`sVGslSEeQbtct^q==`ASHmV__QSNDONs^_DsR`avRuHRx`tydHTq`ZlFwRha_@KYfMvbS^Qd@<^Pxfc:m@iP;AQ?NtZuLL`[[ePO=`<kCqVMv?aMHNuT:Ft:EUtQSNTGYRzKG_FH`kttHKe_Y@MwM_vBP:iMMbETIH][d?CTqaISI[TQayA`RyCb<RBagRiQAaKr_X;ROuhq_Z=@tQP>LS:JAuJTnuqB;_qsSkpx`YAFtD@`b=JCZ=HNvE;MDPf_DtuPNZ`OCXYjE`_tZiKDUVuWyiE_uti<Pt>j[LjbUbkaHqiUa]lLoJ:Tsa^c<b_HtCCaFfHt;WfwvIT>ADmU]lLs<GRyFYbemUQqtv^S<qS=MZS`oST>Jr_QPHS=hSCHekRK?p:pRYlbnL]<SnReKp>NEUqKERRlA>K@HSOtW[hHTB_Ftl>QO_FyhqRCA_K_yQgbxtTNRY@OSxHVhaOk]sQp=zXYgOd?NKT_TAadlT>NY_uKf_VyAdR[_RDE=CX`Zh?^CrsYxuQ[n_Kr<OCSyXA_XRE_J<TaypyKO]lZ>Cib_tXaXVz_KqJ[eea<SeyYV_<SGViP[WSlwYAvESZaYnvQlDA^h`;KLiUDaKy_NJVbyCvqO`>n:NNOJTRwmgG:boaeHW`AJ?nz:QsB?VwMp_KKcaTQuwK`mXJOMCLyKCbN?uzF>>stLwTtBzSc^bxbqytmQtS:tA@?EcNthkWx<`Bj;KWtSiJqULSvJiNYLR;KJOf@@L?XmQc]w?FaJN_hiTLJ=tkdVaUGucKXYcP>kydRVi>wd<BWrbm]mI]K@JHTsUK@G[jGe;>t@hRPIaq?KcKcODiv>QJOES`l^l@zSEiShU;yL_Pi@Ilm<LwsLyjyYd>myysV:NPKI_YRUbHfyYX>IlP;Kp?DiKshe[Qt;iKUsC?`iXF`BlRKY^uwtesY^sbSg>W?@[?LyXsQX?R_XyLw?iyY^_hiqMGm`UC<aOkNjB<:UkNDSi[X>bu?<db<bFdl[RSaOXjkKm_D?QDLebaSQaQN:<dRhgubwSJeTu@adXPPc:<dxKYmaLdFzdDa]tolYO`HdReOoNucUeQsQUt`l`zuXdk[^MRvX<NJIsb?apFYvFCdzjeaQyyz_TbjKxIeeaadPlLw]PdFyP^T>?BeYC?RPIeO:UOVFc>:ALDB:PBc[d_:XRck;`BC@`vmgTLZAldf]eKnR;ZIHabCVIqcN;zT:LZUc?aXTKKctTTeix]QmnuOo:dDWNGc<:Jn_>FcV:uKC<nXZmJXX=C;oeGmuUDneHmOg`aC?m<rd[RDItHecCEyan;zuJgAxZk@T@cheR@VutleFKhKaF@F@Urt_uKkKMdvueB@V>cSGN>O_hSsHPpb`SGN=[_ITy@SW<>SZCXXS_SIkSK_f[mdT=b?SFeLRPYe=@JdUrTMv<la>i`[Kt`hy<dV]_dL`wjC`k?mKbLP^:iH^_RxmAf[mPw`:dKRci?gSM@OV`x[W@Akdrc>@PI?`CJYEKtre`DPUtsVLA[=]wt[c<faFdL>PP?AKL@PI?y<A:OyyGSOo<TCQU^MTFae[P@NF`>k@NOLkxCU^dp`USK@PQXhMbtTXtLyO@QO`uKjl^b?>@chtpJvmMxAG`GqMS<g`YCSmP<`^lNiPl`QCQvvf`LSRDNUXB[YHQKCqtYmQC`XqYVugyobjmNv`?]jGbt`c]NXNf`?]aQtg?oLLFOGtnaXAbgdQdWev``rDUuPwdG[JgN]SDlXgNLdS;aNQmdOdW]tDdHaKPPmZqeYjt^`TeUe`byTgXwPbTblMyNn?xXfuaJ`Xk>::".charCodeAt(f++))?e-59:e-58),K|=(0<(e&(d/=2))?1:0)<<R,++R}for(var Z,K,R,_,e,N=[],a=1,P=3,l=1,c=[],d=0,f=0;;){if(J(l+1),2==K)return c.join("");-2&(_=K)||(J(8*K+8),N[_=P++]=String.fromCharCode(K),--a||(a=2<<l++)),c.push(_=N[_]||Z+Z[0]),Z&&(N[P++]=Z+_[0],--a||(a=2<<l++)),Z=_}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+destroyMecha; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.DestroyMechaMainSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            StatLogger.log("20210806版本系统功能", "毁灭机甲关卡", "进入毁灭机甲主面板"),
+            this.initOldPveBtnClose(42, this, "destroy_mecha_main_title_png",
+            function() {
+                ModuleManager.hideModule(t)
+            },
+            this),
+            this.addEvent(),
+            this.refresh()
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.refresh, this)
+        },
+        i.prototype.reShow = function() {
+            this.refresh()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnSuperGet,
+            function() {
+                BuyProductManager.buyProductBySocket(250631 + t.step,
+                function() {
+                    SocketConnection.sendByQueue(42341, [7, 1],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastBeat1,
+            function() {
+                BuyProductManager.buyProductBySocket(250635,
+                function() {
+                    SocketConnection.sendByQueue(42341, [10, 1],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastBeat2,
+            function() {
+                BuyProductManager.buyProductBySocket(250635,
+                function() {
+                    SocketConnection.sendByQueue(42341, [10, 2],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddChip,
+            function() {
+                BuyProductManager.buyProduct("250636_10257",
+                function() {
+                    t.refresh()
+                },
+                t, 1713399)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddTime,
+            function() {
+                t.challengeTimes <= 0 ? BuyProductManager.buyProduct("250634_10258",
+                function() {
+                    t.refresh()
+                },
+                t) : BubblerManager.getInstance().showText("无需购买 挑战次数！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                ModuleManager.hideModule(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                PetManager.showPetIntroduce(3390)
+            },
+            this),
+            ImageButtonUtil.add(this.btnHelp,
+            function() {
+                tipsPop.TipsPop.openHelpPopById(42)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                SocketConnection.sendByQueue(42341, [7, 2], t.refresh.bind(t))
+            },
+            this),
+            ImageButtonUtil.add(this.btnForge,
+            function() {
+                ModuleManager.hideModule(t),
+                ModuleManager.showModule("destroyMecha", ["destroy_mecha"], null, "DestroyMechaForge", AppDoStyle.NULL)
+            },
+            this),
+            ImageButtonUtil.add(this.btnIntensify,
+            function() {
+                ModuleManager.hideModule(t),
+                ModuleManager.showModule("destroyMecha", ["destroy_mecha"], null, "DestroyMechaIntensify", AppDoStyle.NULL)
+            },
+            this),
+            ImageButtonUtil.add(this.btnStartBeat1,
+            function() {
+                t.fight(1)
+            },
+            this),
+            ImageButtonUtil.add(this.btnStartBeat2,
+            function() {
+                t.fight(2)
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                ModuleManager.showModule("petBag", ["petBag"])
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this)
+        },
+        i.prototype.refresh = function() {
+            var t = this;
+            ItemManager.updateItems([1713399],
+            function() {
+                t.txtChips.text = ItemManager.getNumByID(1713399).toString()
+            }),
+            KTool.getMultiValue([101221, 18260, 18261],
+            function(e) {
+                var i, n = 1 == KTool.getBit(e[0], 1),
+                o = 1 == KTool.getBit(e[0], 5),
+                r = 1 == KTool.getBit(e[0], 6);
+                n ? i = 2 : o && r ? i = 1 : (i = 0, o ? t.step = 2 : r ? t.step = 1 : t.step = 0),
+                t.challengeTimes = 10 - e[1],
+                t.challengeTimes > 0 ? DisplayUtil.setEnabled(t.btnAddTime, !1, !0) : DisplayUtil.setEnabled(t.btnAddTime, !0, !1);
+                var s = e[2] >> 0 & 255,
+                u = e[2] >> 8 & 255;
+                t.btnSuperGet.visible = t.btnForge.visible = 0 == i,
+                t.btnGet.visible = 1 == i,
+                t.btnIntensify.visible = 2 == i,
+                1 == i && BubblerManager.getInstance().showText("挑战完成，快领取毁灭机甲吧！"),
+                t.txtTimes.text = t.challengeTimes.toString(),
+                1 == s || 3 == s ? t.txtContinueBeat1.text = "1": 2 == s && (t.txtContinueBeat1.text = "3"),
+                1 == u || 3 == u ? t.txtContinueBeat2.text = "1": 2 == u && (t.txtContinueBeat2.text = "3");
+                var a = 0 == s,
+                h = 0 == u;
+                a || h || (a = h = !0),
+                t.txtContinueBeat1.visible = !a,
+                t.btnContinueBeat1.visible = !a,
+                t.btnStartBeat1.visible = a,
+                t.imgContinueBeat1.visible = !a,
+                t.btnFastBeat1.visible = a,
+                t.txtContinueBeat2.visible = !h,
+                t.btnContinueBeat2.visible = !h,
+                t.btnStartBeat2.visible = h,
+                t.imgContinueBeat2.visible = !h,
+                t.btnFastBeat2.visible = h
+            })
+        },
+        i.prototype.fight = function(t) {
+            this.challengeTimes <= 0 ? BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : FightManager.fightNoMapBoss("", 1 == t ? 9902 : 9903)
+        },
+        i
+    } (BaseModule);
+    t.DestroyMecha = e,
+    __reflect(e.prototype, "destroyMecha.DestroyMecha")
+} (destroyMecha || (destroyMecha = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+destroyMecha; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.arrayGoal = [["15回合内击败马尔修斯", "10回合内击败马尔修斯", "5回合内击败马尔修斯", "3回合内击败马尔修斯", "1回合内击败马尔修斯"], ["使用物理攻击击败马尔修斯", "使用特殊攻击击败马尔修斯", "使用固定伤害击败马尔修斯", "使用暴击伤害击败马尔修斯", "精灵满血击败马尔修斯"], ["单回合最高伤害大于500", "单回合最高伤害大于800", "单回合最高伤害大于1000", "单回合最高伤害大于1200", "单回合最高伤害大于1500"]],
+            i.skinName = t.DestroyMechaForgeSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            StatLogger.log("20210806版本系统功能", "毁灭机甲关卡", "进入锻造核心机甲和武装部件的关卡面板"),
+            this.initOldPveBtnClose(43, this, "destroy_mecha_forge_title_png",
+            function() {
+                ModuleManager.hideModule(t),
+                ModuleManager.showModule("destroyMecha", ["destroy_mecha"], null, "DestroyMecha", AppDoStyle.NULL)
+            },
+            this),
+            this.addEvent(),
+            this.refresh()
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.refresh, this)
+        },
+        i.prototype.reShow = function() {
+            this.refresh()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnFastBeat,
+            function() {
+                BuyProductManager.buyProductBySocket(250644,
+                function() {
+                    SocketConnection.sendByQueue(42341, [12, 1],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastForge,
+            function() {
+                BuyProductManager.buyProductBySocket(250637,
+                function() {
+                    SocketConnection.sendByQueue(42341, [11, 1],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastArm,
+            function() {
+                BuyProductManager.buyProductBySocket(250638,
+                function() {
+                    SocketConnection.sendByQueue(42341, [11, 2],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddChip,
+            function() {
+                BuyProductManager.buyProduct("250636_10257",
+                function() {
+                    t.refresh()
+                },
+                t, 1713399)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddJinDu,
+            function() {
+                BuyProductManager.buyProductBySocket(250645,
+                function(e) {
+                    SocketConnection.sendByQueue(42341, [15, e],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.heart,
+            function() {
+                BuyProductManager.buyProductBySocket(250643,
+                function() {
+                    SocketConnection.sendByQueue(42341, [12, 3],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.leftwing,
+            function() {
+                BuyProductManager.buyProductBySocket(250641,
+                function() {
+                    SocketConnection.sendByQueue(42341, [12, 2],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.leftFoot,
+            function() {
+                BuyProductManager.buyProductBySocket(250639,
+                function() {
+                    SocketConnection.sendByQueue(42341, [12, 5],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.rightWing,
+            function() {
+                BuyProductManager.buyProductBySocket(250642,
+                function() {
+                    SocketConnection.sendByQueue(42341, [12, 4],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.rightFoot,
+            function() {
+                BuyProductManager.buyProductBySocket(250640,
+                function() {
+                    SocketConnection.sendByQueue(42341, [12, 6],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                ModuleManager.hideModule(t),
+                ModuleManager.showModule("destroyMecha", ["destroy_mecha"], null, "DestroyMecha", AppDoStyle.NULL)
+            },
+            this),
+            ImageButtonUtil.add(this.btnHelp,
+            function() {
+                var t = config.Help_tips.getItem(43),
+                e = {};
+                e.title = "活动说明",
+                e.str = StringUtil.TransformLineBreak(t.tips),
+                tipsPop.TipsPop.openHelpPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                ModuleManager.showModule("petBag", ["petBag"])
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnBeat,
+            function() {
+                t.numChips > 0 ? FightManager.fightNoMapBoss("", 9904) : BubblerManager.getInstance().showText("机甲碎片数量不足。")
+            },
+            this),
+            ImageButtonUtil.add(this.btnRoll,
+            function() {
+                t.numChips < 2 ? BubblerManager.getInstance().showText("机甲碎片数量不足。") : SocketConnection.sendByQueue(42341, [13, 1], t.refresh.bind(t))
+            },
+            this),
+            ImageButtonUtil.add(this.btnReRoll,
+            function() {
+                t.numChips < 1 ? BubblerManager.getInstance().showText("机甲碎片数量不足。") : SocketConnection.sendByQueue(42341, [13, 2], t.refresh.bind(t))
+            },
+            this),
+            ImageButtonUtil.add(this.btnGoToChallenge,
+            function() {
+                FightManager.fightNoMapBoss("", 9905)
+            },
+            this)
+        },
+        i.prototype.refresh = function() {
+            var t = this;
+            ItemManager.updateItems([1713399],
+            function() {
+                t.numChips = ItemManager.getNumByID(1713399),
+                t.txtChips.text = t.numChips.toString()
+            }),
+            KTool.getMultiValue([101221, 101223, 101224, 101225, 101226],
+            function(e) {
+                var i = 1 == KTool.getBit(e[0], 5),
+                n = 1 == KTool.getBit(e[0], 6);
+                i && n && (ModuleManager.hideModule(t), ModuleManager.showModule("destroyMecha", ["destroy_mecha"], null, "DestroyMecha", AppDoStyle.NULL));
+                var o = 10 * (e[1] >> 8 & 255),
+                r = 10 * (e[1] >> 0 & 255),
+                s = 10 * (e[1] >> 16 & 255),
+                u = 10 * (e[2] >> 0 & 255),
+                a = 10 * (e[2] >> 8 & 255),
+                h = o >= 100,
+                _ = r >= 100,
+                g = u >= 100,
+                c = s >= 100,
+                l = a >= 100,
+                b = e[3],
+                d = e[4] >> 0 & 255,
+                f = e[4] >> 8 & 255,
+                y = e[4] >> 16 & 255,
+                m = 0 != d;
+                t.mask1.visible = i,
+                t.mask2.visible = n,
+                t.txtHeart.text = o + "%",
+                t.txtLeftWing.text = r + "%",
+                t.txtLeftFoot.text = u + "%",
+                t.txtRightWing.text = s + "%",
+                t.txtRightFoot.text = a + "%",
+                t.jinDuHeart.value = h ? 100 : o,
+                t.jinDuLeftWing.value = _ ? 100 : r,
+                t.jinDuLeftFoot.value = g ? 100 : u,
+                t.jinDuRightWing.value = c ? 100 : s,
+                t.jinDuRightFoot.value = l ? 100 : a,
+                t.txtFastForgeHeart.visible = !h,
+                t.txtFastForgeLeftWing.visible = !_,
+                t.txtFastForgeLeftFoot.visible = !g,
+                t.txtFastForgeRightWing.visible = !c,
+                t.txtFastForgeRightFoot.visible = !l,
+                DisplayUtil.setEnabled(t.heart, !h, !1),
+                DisplayUtil.setEnabled(t.leftwing, !_, !1),
+                DisplayUtil.setEnabled(t.leftFoot, !g, !1),
+                DisplayUtil.setEnabled(t.rightWing, !c, !1),
+                DisplayUtil.setEnabled(t.rightFoot, !l, !1),
+                t.txtJinDu.text = b + "/100",
+                t.jinDuArm.value = b > 100 ? 100 : b,
+                t.btnRoll.visible = !m,
+                t.btnReRoll.visible = m,
+                t.btnGoToChallenge.visible = m;
+                var p = "请先抽取击败条件";
+                t.txtGoal1.text = 0 == d ? p: t.arrayGoal[0][d - 1],
+                t.txtGoal2.text = 0 == d ? p: t.arrayGoal[1][f - 1],
+                t.txtGoal3.text = 0 == d ? p: t.arrayGoal[2][y - 1]
+            })
+        },
+        i
+    } (BaseModule);
+    t.DestroyMechaForge = e,
+    __reflect(e.prototype, "destroyMecha.DestroyMechaForge")
+} (destroyMecha || (destroyMecha = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+destroyMecha; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.DestroyMechaIntensifySkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            StatLogger.log("20210806版本系统功能", "毁灭机甲关卡", "进入毁灭机甲能力提升面板"),
+            this.initOldPveBtnClose(47, this, "destroy_mecha_intensify_title_png",
+            function() {
+                ModuleManager.hideModule(t),
+                ModuleManager.showModule("destroyMecha", ["destroy_mecha"], null, "DestroyMecha", AppDoStyle.NULL)
+            },
+            this),
+            this.grpBack.btnHelp.x = 350,
+            this.addEvent(),
+            this.refresh()
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.refresh, this)
+        },
+        i.prototype.reShow = function() {
+            this.refresh()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnFastBeat,
+            function() {
+                BuyProductManager.buyProductBySocket(250650,
+                function() {
+                    SocketConnection.sendByQueue(42341, [14, 1],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddChip,
+            function() {
+                BuyProductManager.buyProduct("250636_10257",
+                function() {
+                    t.refresh()
+                },
+                t, 1713399)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddTime,
+            function() {
+                BuyProductManager.buyProduct("250649_10259",
+                function() {
+                    t.refresh()
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnSuperGet1,
+            function() {
+                BuyProductManager.buyProductBySocket(250646,
+                function() {
+                    SocketConnection.sendByQueue(42341, [8, 1],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnSuperGet2,
+            function() {
+                BuyProductManager.buyProductBySocket(250647,
+                function() {
+                    SocketConnection.sendByQueue(42341, [8, 2],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnSuperGet3,
+            function() {
+                BuyProductManager.buyProductBySocket(250648,
+                function() {
+                    SocketConnection.sendByQueue(42341, [8, 3],
+                    function() {
+                        t.refresh()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                ModuleManager.hideModule(t),
+                ModuleManager.showModule("destroyMecha", ["destroy_mecha"], null, "DestroyMecha", AppDoStyle.NULL)
+            },
+            this),
+            ImageButtonUtil.add(this.btnHelp,
+            function() {
+                var t = config.Help_tips.getItem(47),
+                e = {};
+                e.title = "活动说明",
+                e.str = StringUtil.TransformLineBreak(t.tips),
+                tipsPop.TipsPop.openHelpPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFreeGet1,
+            function() {
+                PetManager.isDefaultPet(3390) ? t.sumTimes < 4 ? BubblerManager.getInstance().showText("你的累计战胜次数不足。") : SocketConnection.sendByQueue(42341, [9, 1], t.refresh.bind(t)) : BubblerManager.getInstance().showText("请先将毁灭机甲放入背包首发！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnFreeGet2,
+            function() {
+                PetManager.isDefaultPet(3390) ? t.sumTimes < 12 ? BubblerManager.getInstance().showText("你的累计战胜次数不足。") : SocketConnection.sendByQueue(42341, [9, 2], t.refresh.bind(t)) : BubblerManager.getInstance().showText("请先将毁灭机甲放入背包首发！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnFreeGet3,
+            function() {
+                PetManager.isDefaultPet(3390) ? t.sumTimes < 8 ? BubblerManager.getInstance().showText("你的累计战胜次数不足。") : SocketConnection.sendByQueue(42341, [9, 3], t.refresh.bind(t)) : BubblerManager.getInstance().showText("请先将毁灭机甲放入背包首发！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                ModuleManager.showModule("petBag", ["petBag"])
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnBeat,
+            function() {
+                t.challengeTimes < 1 ? BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : FightManager.fightNoMapBoss("", 9906 + t.numFire)
+            },
+            this),
+            ImageButtonUtil.add(this.btnReduceAnger,
+            function() {
+                t.numChips >= 20 ? SocketConnection.sendByQueue(42341, [14, 2], t.refresh.bind(t)) : BubblerManager.getInstance().showText("机甲碎片不足。")
+            },
+            this),
+            ImageButtonUtil.add(this.btnKe,
+            function() {
+                var t = {};
+                t.ins = 40963,
+                tipsPop.TipsPop.openCounterMarkPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnWu,
+            function() {
+                var t = {};
+                t.id = 30861,
+                tipsPop.TipsPop.openSkillPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnTe,
+            function() {
+                ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], 3390, "", AppDoStyle.NULL)
+            },
+            this)
+        },
+        i.prototype.refresh = function() {
+            var t = this;
+            this.numChips = ItemManager.getNumByID(1713399),
+            this.txtChips.text = this.numChips.toString(),
+            KTool.getMultiValue([101222, 101221, 18263, 18262],
+            function(e) {
+                t.sumTimes = e[0],
+                t.challengeTimes = 4 - e[2];
+                var i = 1 == KTool.getBit(e[1], 2),
+                n = 1 == KTool.getBit(e[1], 3),
+                o = 1 == KTool.getBit(e[1], 4);
+                t.numFire = e[3],
+                t.txtSumTime.text = t.sumTimes.toString(),
+                t.txtTimes.text = t.challengeTimes.toString(),
+                DisplayUtil.setEnabled(t.btnFreeGet1, !i, i),
+                DisplayUtil.setEnabled(t.btnFreeGet2, !n, n),
+                DisplayUtil.setEnabled(t.btnFreeGet3, !o, o),
+                DisplayUtil.setEnabled(t.btnSuperGet1, !i, i),
+                DisplayUtil.setEnabled(t.btnSuperGet2, !n, n),
+                DisplayUtil.setEnabled(t.btnSuperGet3, !o, o),
+                t.imgHasKe1.visible = i,
+                t.imgHasWu1.visible = o,
+                t.imgHasTe1.visible = n,
+                t.fire1.visible = t.numFire >= 1,
+                t.fire2.visible = t.numFire >= 2,
+                t.fire3.visible = t.numFire >= 3,
+                DisplayUtil.setEnabled(t.btnReduceAnger, 0 != t.numFire, 0 == t.numFire),
+                DisplayUtil.setEnabled(t.btnAddTime, 0 == t.challengeTimes, 0 != t.challengeTimes)
+            })
+        },
+        i
+    } (BaseModule);
+    t.DestroyMechaIntensify = e,
+    __reflect(e.prototype, "destroyMecha.DestroyMechaIntensify")
+} (destroyMecha || (destroyMecha = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+destroyMecha; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.DestroyMechaSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "",
+            function() {
+                ModuleManager.hideModule(t)
+            },
+            this),
+            this.addEvent()
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                ModuleManager.hideModule(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                PetManager.showPetIntroduce(3390)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGo0,
+            function() {
+                ModuleManager.hideModule(t),
+                ModuleManager.showModule("destroyMecha", ["destroy_mecha"], null, "DestroyMechaMain", AppDoStyle.NULL)
+            },
+            this)
+        },
+        i
+    } (BaseModule);
+    t.DestroyMechaMain = e,
+    __reflect(e.prototype, "destroyMecha.DestroyMechaMain")
+} (destroyMecha || (destroyMecha = {})),
+window.destroyMecha = window.destroyMecha || {};
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/DestroyMechaForgeSkin.exml"] = window.destroyMecha.DestroyMechaForgeSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "rightbg", "BGJinDu", "btnAddJinDu", "txtJinDu", "jinDuArm", "btnFastArm", "listbg0", "listbg_0", "listbg_1", "txtGoal1", "txtGoal2", "txtGoal3", "goal", "btnRoll", "btnGoToChallenge", "btnReRoll", "Right", "mask2", "leftbg", "outRightFoot2", "jinDuRightFoot", "outRightFoot1", "txtRightFoot", "txtFastForgeRightFoot", "rightFoot", "outRightWing2", "jinDuRightWing", "outRightWing1", "txtRightWing", "txtFastForgeRightWing", "rightWing", "outLeftFoot2", "jinDuLeftFoot", "outLeftFoot1", "txtLeftFoot", "txtFastForgeLeftFoot", "leftFoot", "outLeftWing2", "jinDuLeftWing", "outLeftWing1", "txtLeftWing", "txtFastForgeLeftWing", "leftwing", "outHeart2", "jinDuHeart", "outHeart1", "txtHeart", "txtFastForgeHeart", "heart", "btnFastBeat", "btnBeat", "btnFastForge", "Left", "mask1", "numbg", "btnAddChip", "jjsp", "txtChips", "jjsp_2", "Suipian", "btnPet", "btnCure", "up_bg", "btnHelp", "btnClose", "title", "top"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i(), this.top_i()]
+    }
+    __extends(e, t);
+    var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.height = 26,
+            t.source = "destroy_mecha_forge_imgJinDu_png",
+            t.width = 387.451,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.height = 129,
+            t.horizontalCenter = 0,
+            t.source = "destroy_mecha_forge_inRightWing_png",
+            t.verticalCenter = 0,
+            t.width = 128,
+            t
+        },
+        e
+    } (eui.Skin),
+    o = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.height = 129,
+            t.horizontalCenter = 0,
+            t.source = "destroy_mecha_forge_inRightWing_png",
+            t.verticalCenter = 0,
+            t.width = 128,
+            t
+        },
+        e
+    } (eui.Skin),
+    r = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.height = 129,
+            t.horizontalCenter = 0,
+            t.source = "destroy_mecha_forge_inRightWing_png",
+            t.verticalCenter = 0,
+            t.width = 128,
+            t
+        },
+        e
+    } (eui.Skin),
+    s = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.height = 129,
+            t.horizontalCenter = 0,
+            t.source = "destroy_mecha_forge_inRightWing_png",
+            t.verticalCenter = 0,
+            t.width = 128,
+            t
+        },
+        e
+    } (eui.Skin),
+    u = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.height = 129,
+            t.horizontalCenter = 0,
+            t.source = "destroy_mecha_forge_inRightWing_png",
+            t.verticalCenter = 0,
+            t.width = 128,
+            t
+        },
+        e
+    } (eui.Skin),
+    a = e.prototype;
+    return a.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.source = "destroy_mecha_bg_jpg",
+        t.top = 0,
+        t
+    },
+    a._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 0,
+        t.y = 12,
+        t.elementsContent = [this.Right_i(), this.mask2_i(), this.Left_i(), this.mask1_i(), this.Suipian_i(), this.btnPet_i(), this.btnCure_i()],
+        t
+    },
+    a.Right_i = function() {
+        var t = new eui.Group;
+        return this.Right = t,
+        t.x = 509,
+        t.y = 4,
+        t.elementsContent = [this.rightbg_i(), this.BGJinDu_i(), this.btnAddJinDu_i(), this.txtJinDu_i(), this.jinDuArm_i(), this.btnFastArm_i(), this.goal_i(), this.btnRoll_i(), this.btnGoToChallenge_i(), this.btnReRoll_i()],
+        t
+    },
+    a.rightbg_i = function() {
+        var t = new eui.Image;
+        return this.rightbg = t,
+        t.source = "destroy_mecha_forge_rightbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a.BGJinDu_i = function() {
+        var t = new eui.Image;
+        return this.BGJinDu = t,
+        t.source = "destroy_mecha_forge_BGJinDu_png",
+        t.x = 102,
+        t.y = 222,
+        t
+    },
+    a.btnAddJinDu_i = function() {
+        var t = new eui.Image;
+        return this.btnAddJinDu = t,
+        t.source = "destroy_mecha_main_btnAdd_png",
+        t.x = 520,
+        t.y = 245,
+        t
+    },
+    a.txtJinDu_i = function() {
+        var t = new eui.Label;
+        return this.txtJinDu = t,
+        t.size = 18,
+        t.text = "100/100",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.verticalAlign = "middle",
+        t.width = 69.625,
+        t.x = 452.535,
+        t.y = 289,
+        t
+    },
+    a.jinDuArm_i = function() {
+        var t = new eui.ProgressBar;
+        return this.jinDuArm = t,
+        t.height = 26,
+        t.width = 387.451,
+        t.x = 123,
+        t.y = 250,
+        t.skinName = i,
+        t
+    },
+    a.btnFastArm_i = function() {
+        var t = new eui.Image;
+        return this.btnFastArm = t,
+        t.source = "destroy_mecha_forge_btnFastArm_png",
+        t.x = 468,
+        t.y = 86,
+        t
+    },
+    a.goal_i = function() {
+        var t = new eui.Group;
+        return this.goal = t,
+        t.x = 121,
+        t.y = 367,
+        t.elementsContent = [this.listbg0_i(), this.listbg_0_i(), this.listbg_1_i(), this.txtGoal1_i(), this.txtGoal2_i(), this.txtGoal3_i()],
+        t
+    },
+    a.listbg0_i = function() {
+        var t = new eui.Image;
+        return this.listbg0 = t,
+        t.source = "destroy_mecha_forge_groupgobal_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a.listbg_0_i = function() {
+        var t = new eui.Image;
+        return this.listbg_0 = t,
+        t.source = "destroy_mecha_forge_groupgobal_png",
+        t.x = 0,
+        t.y = 46,
+        t
+    },
+    a.listbg_1_i = function() {
+        var t = new eui.Image;
+        return this.listbg_1 = t,
+        t.source = "destroy_mecha_forge_groupgobal_png",
+        t.x = 0,
+        t.y = 92,
+        t
+    },
+    a.txtGoal1_i = function() {
+        var t = new eui.Label;
+        return this.txtGoal1 = t,
+        t.horizontalCenter = -1.5,
+        t.size = 20,
+        t.text = "15回合内击败马尔修斯",
+        t.textColor = 9482239,
+        t.y = 8,
+        t
+    },
+    a.txtGoal2_i = function() {
+        var t = new eui.Label;
+        return this.txtGoal2 = t,
+        t.horizontalCenter = -5,
+        t.size = 20,
+        t.text = "使用物理攻击击败马尔修斯",
+        t.textColor = 9482239,
+        t.y = 54,
+        t
+    },
+    a.txtGoal3_i = function() {
+        var t = new eui.Label;
+        return this.txtGoal3 = t,
+        t.horizontalCenter = -2,
+        t.size = 20,
+        t.text = "单回合最高伤害大于500",
+        t.textColor = 9482239,
+        t.y = 100,
+        t
+    },
+    a.btnRoll_i = function() {
+        var t = new eui.Image;
+        return this.btnRoll = t,
+        t.source = "destroy_mecha_forge_btnRoll_png",
+        t.visible = !1,
+        t.x = 245,
+        t.y = 516,
+        t
+    },
+    a.btnGoToChallenge_i = function() {
+        var t = new eui.Image;
+        return this.btnGoToChallenge = t,
+        t.source = "destroy_mecha_forge_btnFight_png",
+        t.visible = !1,
+        t.x = 111.966,
+        t.y = 515.514,
+        t
+    },
+    a.btnReRoll_i = function() {
+        var t = new eui.Image;
+        return this.btnReRoll = t,
+        t.source = "destroy_mecha_forge_btnReroll_png",
+        t.visible = !1,
+        t.x = 371.356,
+        t.y = 514.973,
+        t
+    },
+    a.mask2_i = function() {
+        var t = new eui.Image;
+        return this.mask2 = t,
+        t.source = "destroy_mecha_forge_mask2_png",
+        t.visible = !1,
+        t.x = 555,
+        t.y = 51,
+        t
+    },
+    a.Left_i = function() {
+        var t = new eui.Group;
+        return this.Left = t,
+        t.x = 0,
+        t.y = 4,
+        t.elementsContent = [this.leftbg_i(), this.rightFoot_i(), this.rightWing_i(), this.leftFoot_i(), this.leftwing_i(), this.heart_i(), this.btnFastBeat_i(), this.btnBeat_i(), this.btnFastForge_i()],
+        t
+    },
+    a.leftbg_i = function() {
+        var t = new eui.Image;
+        return this.leftbg = t,
+        t.source = "destroy_mecha_forge_leftbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a.rightFoot_i = function() {
+        var t = new eui.Group;
+        return this.rightFoot = t,
+        t.x = 333,
+        t.y = 340,
+        t.elementsContent = [this.outRightFoot2_i(), this.jinDuRightFoot_i(), this.outRightFoot1_i(), this.txtRightFoot_i(), this.txtFastForgeRightFoot_i()],
+        t
+    },
+    a.outRightFoot2_i = function() {
+        var t = new eui.Image;
+        return this.outRightFoot2 = t,
+        t.source = "destroy_mecha_forge_outRightFoot2_png",
+        t.visible = !0,
+        t.x = -.661,
+        t.y = 2.671,
+        t
+    },
+    a.jinDuRightFoot_i = function() {
+        var t = new eui.ProgressBar;
+        return this.jinDuRightFoot = t,
+        t.direction = "btt",
+        t.width = 128,
+        t.x = 29.213,
+        t.y = 31.904,
+        t.skinName = n,
+        t
+    },
+    a.outRightFoot1_i = function() {
+        var t = new eui.Image;
+        return this.outRightFoot1 = t,
+        t.source = "destroy_mecha_forge_outRightFoot1_png",
+        t.visible = !0,
+        t
+    },
+    a.txtRightFoot_i = function() {
+        var t = new eui.Label;
+        return this.txtRightFoot = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "100%",
+        t.textColor = 16773461,
+        t.x = 39,
+        t.y = 47,
+        t
+    },
+    a.txtFastForgeRightFoot_i = function() {
+        var t = new eui.Image;
+        return this.txtFastForgeRightFoot = t,
+        t.source = "txtFastForge_png",
+        t.visible = !1,
+        t.x = 46.817,
+        t.y = 130.678,
+        t
+    },
+    a.rightWing_i = function() {
+        var t = new eui.Group;
+        return this.rightWing = t,
+        t.x = 333,
+        t.y = 162,
+        t.elementsContent = [this.outRightWing2_i(), this.jinDuRightWing_i(), this.outRightWing1_i(), this.txtRightWing_i(), this.txtFastForgeRightWing_i()],
+        t
+    },
+    a.outRightWing2_i = function() {
+        var t = new eui.Image;
+        return this.outRightWing2 = t,
+        t.source = "destroy_mecha_forge_outRightFoot2_png",
+        t.visible = !0,
+        t.x = -.661,
+        t.y = 2.671,
+        t
+    },
+    a.jinDuRightWing_i = function() {
+        var t = new eui.ProgressBar;
+        return this.jinDuRightWing = t,
+        t.direction = "btt",
+        t.visible = !0,
+        t.width = 128,
+        t.x = 29.213,
+        t.y = 31.873,
+        t.skinName = o,
+        t
+    },
+    a.outRightWing1_i = function() {
+        var t = new eui.Image;
+        return this.outRightWing1 = t,
+        t.source = "destroy_mecha_forge_outRightWing1_png",
+        t
+    },
+    a.txtRightWing_i = function() {
+        var t = new eui.Label;
+        return this.txtRightWing = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "100%",
+        t.textColor = 16773461,
+        t.x = 39,
+        t.y = 47,
+        t
+    },
+    a.txtFastForgeRightWing_i = function() {
+        var t = new eui.Image;
+        return this.txtFastForgeRightWing = t,
+        t.source = "txtFastForge_png",
+        t.visible = !1,
+        t.x = 46.817,
+        t.y = 129.465,
+        t
+    },
+    a.leftFoot_i = function() {
+        var t = new eui.Group;
+        return this.leftFoot = t,
+        t.x = 53,
+        t.y = 340,
+        t.elementsContent = [this.outLeftFoot2_i(), this.jinDuLeftFoot_i(), this.outLeftFoot1_i(), this.txtLeftFoot_i(), this.txtFastForgeLeftFoot_i()],
+        t
+    },
+    a.outLeftFoot2_i = function() {
+        var t = new eui.Image;
+        return this.outLeftFoot2 = t,
+        t.source = "destroy_mecha_forge_outRightFoot2_png",
+        t.visible = !0,
+        t.x = -.661,
+        t.y = 2.671,
+        t
+    },
+    a.jinDuLeftFoot_i = function() {
+        var t = new eui.ProgressBar;
+        return this.jinDuLeftFoot = t,
+        t.direction = "btt",
+        t.width = 128,
+        t.x = 29.213,
+        t.y = 32.141,
+        t.skinName = r,
+        t
+    },
+    a.outLeftFoot1_i = function() {
+        var t = new eui.Image;
+        return this.outLeftFoot1 = t,
+        t.source = "destroy_mecha_forge_outLeftFoot1_png",
+        t.visible = !0,
+        t.x = 21,
+        t.y = 16,
+        t
+    },
+    a.txtLeftFoot_i = function() {
+        var t = new eui.Label;
+        return this.txtLeftFoot = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "100%",
+        t.textColor = 16773461,
+        t.x = 38,
+        t.y = 47,
+        t
+    },
+    a.txtFastForgeLeftFoot_i = function() {
+        var t = new eui.Image;
+        return this.txtFastForgeLeftFoot = t,
+        t.source = "txtFastForge_png",
+        t.visible = !1,
+        t.x = 46.817,
+        t.y = 130.01,
+        t
+    },
+    a.leftwing_i = function() {
+        var t = new eui.Group;
+        return this.leftwing = t,
+        t.x = 53,
+        t.y = 162,
+        t.elementsContent = [this.outLeftWing2_i(), this.jinDuLeftWing_i(), this.outLeftWing1_i(), this.txtLeftWing_i(), this.txtFastForgeLeftWing_i()],
+        t
+    },
+    a.outLeftWing2_i = function() {
+        var t = new eui.Image;
+        return this.outLeftWing2 = t,
+        t.source = "destroy_mecha_forge_outRightFoot2_png",
+        t.visible = !0,
+        t.x = -.661,
+        t.y = 2.671,
+        t
+    },
+    a.jinDuLeftWing_i = function() {
+        var t = new eui.ProgressBar;
+        return this.jinDuLeftWing = t,
+        t.direction = "btt",
+        t.width = 128,
+        t.x = 29.213,
+        t.y = 31.873,
+        t.skinName = s,
+        t
+    },
+    a.outLeftWing1_i = function() {
+        var t = new eui.Image;
+        return this.outLeftWing1 = t,
+        t.source = "destroy_mecha_forge_outLeftWing1_png",
+        t
+    },
+    a.txtLeftWing_i = function() {
+        var t = new eui.Label;
+        return this.txtLeftWing = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "100%",
+        t.textColor = 16773461,
+        t.x = 39,
+        t.y = 47,
+        t
+    },
+    a.txtFastForgeLeftWing_i = function() {
+        var t = new eui.Image;
+        return this.txtFastForgeLeftWing = t,
+        t.source = "txtFastForge_png",
+        t.visible = !1,
+        t.x = 46.817,
+        t.y = 129.522,
+        t
+    },
+    a.heart_i = function() {
+        var t = new eui.Group;
+        return this.heart = t,
+        t.x = 196,
+        t.y = 233,
+        t.elementsContent = [this.outHeart2_i(), this.jinDuHeart_i(), this.outHeart1_i(), this.txtHeart_i(), this.txtFastForgeHeart_i()],
+        t
+    },
+    a.outHeart2_i = function() {
+        var t = new eui.Image;
+        return this.outHeart2 = t,
+        t.source = "destroy_mecha_forge_outRightFoot2_png",
+        t.visible = !0,
+        t.x = -.661,
+        t.y = 2.671,
+        t
+    },
+    a.jinDuHeart_i = function() {
+        var t = new eui.ProgressBar;
+        return this.jinDuHeart = t,
+        t.direction = "btt",
+        t.horizontalCenter = 2,
+        t.scaleX = 1.13,
+        t.scaleY = 1.13,
+        t.verticalCenter = 3,
+        t.skinName = u,
+        t
+    },
+    a.outHeart1_i = function() {
+        var t = new eui.Image;
+        return this.outHeart1 = t,
+        t.source = "destroy_mecha_forge_outHeart1_png",
+        t.visible = !0,
+        t.x = 21,
+        t.y = 3,
+        t
+    },
+    a.txtHeart_i = function() {
+        var t = new eui.Label;
+        return this.txtHeart = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "100%",
+        t.textColor = 16773461,
+        t.x = 39,
+        t.y = 34,
+        t
+    },
+    a.txtFastForgeHeart_i = function() {
+        var t = new eui.Image;
+        return this.txtFastForgeHeart = t,
+        t.source = "txtFastForge_png",
+        t.visible = !1,
+        t.x = 46.817,
+        t.y = 132.106,
+        t
+    },
+    a.btnFastBeat_i = function() {
+        var t = new eui.Image;
+        return this.btnFastBeat = t,
+        t.source = "destroy_mecha_forge_btnFastBeat_png",
+        t.x = 292,
+        t.y = 514,
+        t
+    },
+    a.btnBeat_i = function() {
+        var t = new eui.Image;
+        return this.btnBeat = t,
+        t.source = "destroy_mecha_forge_btnBeat_png",
+        t.x = 93,
+        t.y = 517,
+        t
+    },
+    a.btnFastForge_i = function() {
+        var t = new eui.Image;
+        return this.btnFastForge = t,
+        t.source = "destroy_mecha_forge_btnFastForge_png",
+        t.x = 44,
+        t.y = 85,
+        t
+    },
+    a.mask1_i = function() {
+        var t = new eui.Image;
+        return this.mask1 = t,
+        t.source = "destroy_mecha_forge_mask1_png",
+        t.visible = !1,
+        t.x = 27,
+        t.y = 51,
+        t
+    },
+    a.Suipian_i = function() {
+        var t = new eui.Group;
+        return this.Suipian = t,
+        t.x = 859,
+        t.y = 0,
+        t.elementsContent = [this.numbg_i(), this.btnAddChip_i(), this.jjsp_i(), this.txtChips_i(), this.jjsp_2_i()],
+        t
+    },
+    a.numbg_i = function() {
+        var t = new eui.Image;
+        return this.numbg = t,
+        t.source = "destroy_mecha_forge_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    a.btnAddChip_i = function() {
+        var t = new eui.Image;
+        return this.btnAddChip = t,
+        t.source = "destroy_mecha_main_btnAdd_png",
+        t.x = 200,
+        t.y = 0,
+        t
+    },
+    a.jjsp_i = function() {
+        var t = new eui.Label;
+        return this.jjsp = t,
+        t.size = 18,
+        t.text = "机甲碎片：",
+        t.textColor = 16777215,
+        t.x = 51,
+        t.y = 9,
+        t
+    },
+    a.txtChips_i = function() {
+        var t = new eui.Label;
+        return this.txtChips = t,
+        t.size = 18,
+        t.text = "0000",
+        t.textColor = 16777215,
+        t.x = 137,
+        t.y = 10,
+        t
+    },
+    a.jjsp_2_i = function() {
+        var t = new eui.Image;
+        return this.jjsp_2 = t,
+        t.source = "destroy_mecha_forge_jjsp_png",
+        t.x = 20,
+        t.y = 1,
+        t
+    },
+    a.btnPet_i = function() {
+        var t = new eui.Image;
+        return this.btnPet = t,
+        t.source = "destroy_mecha_main_btnPet_png",
+        t.x = 535,
+        t.y = 243,
+        t
+    },
+    a.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "destroy_mecha_main_btnCure_png",
+        t.x = 535,
+        t.y = 318,
+        t
+    },
+    a.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.up_bg_i(), this.btnHelp_i(), this.btnClose_i(), this.title_i()],
+        t
+    },
+    a.up_bg_i = function() {
+        var t = new eui.Image;
+        return this.up_bg = t,
+        t.source = "destroy_mecha_up_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a.btnHelp_i = function() {
+        var t = new eui.Image;
+        return this.btnHelp = t,
+        t.source = "destroy_mecha_main_btnHelp_png",
+        t.x = 300,
+        t.y = 7,
+        t
+    },
+    a.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "common_close_2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "destroy_mecha_forge_title_png",
+        t.x = 111,
+        t.y = 7,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/DestroyMechaIntensifySkin.exml"] = window.destroyMecha.DestroyMechaIntensifySkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "pet", "numbg", "btnAddChip", "jjsp", "txtChips", "jjsp_2", "Suipian", "numbg_2", "btnAddTime", "jrsytzcs", "txtTimes", "Cishu", "btnPet", "btnCure", "wupinbg", "zsky", "btnKe", "btnFreeGet1", "btnSuperGet1", "wupinbg_2", "diwujineng", "btnWu", "btnFreeGet3", "btnSuperGet3", "wupinbg_3", "zstx", "btnFreeGet2", "btnSuperGet2", "countbg", "ljzscs", "txtSumTime", "nuqibg", "firebg", "firebg_2", "firebg_3", "btnTe", "fire1", "fire2", "fire3", "dqnqz", "btnBeat", "btnFastBeat", "btnReduceAnger", "imgHasKe1", "imgHasWu1", "imgHasTe1", "up_bg", "btnClose", "btnHelp", "title", "top"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i(), this.top_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.source = "destroy_mecha_bg_jpg",
+        t.top = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 5.5,
+        t.y = 12,
+        t.elementsContent = [this.pet_i(), this.Suipian_i(), this.Cishu_i(), this.btnPet_i(), this.btnCure_i(), this.wupinbg_i(), this.zsky_i(), this.btnKe_i(), this.btnFreeGet1_i(), this.btnSuperGet1_i(), this.wupinbg_2_i(), this.diwujineng_i(), this.btnWu_i(), this.btnFreeGet3_i(), this.btnSuperGet3_i(), this.wupinbg_3_i(), this.zstx_i(), this.btnFreeGet2_i(), this.btnSuperGet2_i(), this.countbg_i(), this.ljzscs_i(), this.txtSumTime_i(), this.nuqibg_i(), this.firebg_i(), this.firebg_2_i(), this.firebg_3_i(), this.btnTe_i(), this.fire1_i(), this.fire2_i(), this.fire3_i(), this.dqnqz_i(), this.btnBeat_i(), this.btnFastBeat_i(), this.btnReduceAnger_i(), this.imgHasKe1_i(), this.imgHasWu1_i(), this.imgHasTe1_i()],
+        t
+    },
+    i.pet_i = function() {
+        var t = new eui.Image;
+        return this.pet = t,
+        t.source = "destroy_mecha_intensify_pet_png",
+        t.x = 0,
+        t.y = 19,
+        t
+    },
+    i.Suipian_i = function() {
+        var t = new eui.Group;
+        return this.Suipian = t,
+        t.x = 859,
+        t.y = 0,
+        t.elementsContent = [this.numbg_i(), this.btnAddChip_i(), this.jjsp_i(), this.txtChips_i(), this.jjsp_2_i()],
+        t
+    },
+    i.numbg_i = function() {
+        var t = new eui.Image;
+        return this.numbg = t,
+        t.source = "destroy_mecha_intensify_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.btnAddChip_i = function() {
+        var t = new eui.Image;
+        return this.btnAddChip = t,
+        t.source = "destroy_mecha_main_btnAdd_png",
+        t.x = 200,
+        t.y = 0,
+        t
+    },
+    i.jjsp_i = function() {
+        var t = new eui.Label;
+        return this.jjsp = t,
+        t.size = 18,
+        t.text = "机甲碎片：",
+        t.textColor = 16777215,
+        t.x = 51,
+        t.y = 9,
+        t
+    },
+    i.txtChips_i = function() {
+        var t = new eui.Label;
+        return this.txtChips = t,
+        t.size = 18,
+        t.text = "0000",
+        t.textColor = 16777215,
+        t.x = 137,
+        t.y = 10,
+        t
+    },
+    i.jjsp_2_i = function() {
+        var t = new eui.Image;
+        return this.jjsp_2 = t,
+        t.source = "destroy_mecha_intensify_jjsp_png",
+        t.x = 20,
+        t.y = 1,
+        t
+    },
+    i.Cishu_i = function() {
+        var t = new eui.Group;
+        return this.Cishu = t,
+        t.x = 196,
+        t.y = 552,
+        t.elementsContent = [this.numbg_2_i(), this.btnAddTime_i(), this.jrsytzcs_i(), this.txtTimes_i()],
+        t
+    },
+    i.numbg_2_i = function() {
+        var t = new eui.Image;
+        return this.numbg_2 = t,
+        t.source = "destroy_mecha_intensify_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.btnAddTime_i = function() {
+        var t = new eui.Image;
+        return this.btnAddTime = t,
+        t.source = "destroy_mecha_main_btnAdd_png",
+        t.x = 246,
+        t.y = 0,
+        t
+    },
+    i.jrsytzcs_i = function() {
+        var t = new eui.Label;
+        return this.jrsytzcs = t,
+        t.size = 18,
+        t.text = "今日剩余挑战次数：",
+        t.textColor = 16777215,
+        t.x = 40,
+        t.y = 9,
+        t
+    },
+    i.txtTimes_i = function() {
+        var t = new eui.Label;
+        return this.txtTimes = t,
+        t.size = 18,
+        t.text = "22",
+        t.textColor = 16777215,
+        t.x = 199,
+        t.y = 11,
+        t
+    },
+    i.btnPet_i = function() {
+        var t = new eui.Image;
+        return this.btnPet = t,
+        t.source = "destroy_mecha_main_btnPet_png",
+        t.x = 22,
+        t.y = 243,
+        t
+    },
+    i.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "destroy_mecha_main_btnCure_png",
+        t.x = 22,
+        t.y = 318,
+        t
+    },
+    i.wupinbg_i = function() {
+        var t = new eui.Image;
+        return this.wupinbg = t,
+        t.source = "destroy_mecha_intensify_wupinbg_png",
+        t.x = 696,
+        t.y = 69,
+        t
+    },
+    i.zsky_i = function() {
+        var t = new eui.Label;
+        return this.zsky = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 24,
+        t.text = "专属刻印",
+        t.textColor = 16777215,
+        t.x = 739,
+        t.y = 56,
+        t
+    },
+    i.btnKe_i = function() {
+        var t = new eui.Image;
+        return this.btnKe = t,
+        t.source = "destroy_mecha_intensify_keyin_png",
+        t.x = 758,
+        t.y = 114,
+        t
+    },
+    i.btnFreeGet1_i = function() {
+        var t = new eui.Image;
+        return this.btnFreeGet1 = t,
+        t.source = "destroy_mecha_intensify_btnFreeGet1_png",
+        t.x = 916,
+        t.y = 153,
+        t
+    },
+    i.btnSuperGet1_i = function() {
+        var t = new eui.Image;
+        return this.btnSuperGet1 = t,
+        t.source = "destroy_mecha_intensify_btnSuperGet1_png",
+        t.x = 917,
+        t.y = 101,
+        t
+    },
+    i.wupinbg_2_i = function() {
+        var t = new eui.Image;
+        return this.wupinbg_2 = t,
+        t.source = "destroy_mecha_intensify_wupinbg_png",
+        t.x = 696,
+        t.y = 228,
+        t
+    },
+    i.diwujineng_i = function() {
+        var t = new eui.Label;
+        return this.diwujineng = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 24,
+        t.text = "第五技能",
+        t.textColor = 16777215,
+        t.x = 739,
+        t.y = 215,
+        t
+    },
+    i.btnWu_i = function() {
+        var t = new eui.Image;
+        return this.btnWu = t,
+        t.source = "destroy_mecha_intensify_icon_1_png",
+        t.x = 771,
+        t.y = 286,
+        t
+    },
+    i.btnFreeGet3_i = function() {
+        var t = new eui.Image;
+        return this.btnFreeGet3 = t,
+        t.source = "destroy_mecha_intensify_btnFreeGet1_png",
+        t.x = 916,
+        t.y = 312,
+        t
+    },
+    i.btnSuperGet3_i = function() {
+        var t = new eui.Image;
+        return this.btnSuperGet3 = t,
+        t.source = "destroy_mecha_intensify_btnSuperGet1_png",
+        t.x = 917,
+        t.y = 260,
+        t
+    },
+    i.wupinbg_3_i = function() {
+        var t = new eui.Image;
+        return this.wupinbg_3 = t,
+        t.source = "destroy_mecha_intensify_wupinbg_png",
+        t.x = 696,
+        t.y = 386,
+        t
+    },
+    i.zstx_i = function() {
+        var t = new eui.Label;
+        return this.zstx = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 24,
+        t.text = "专属特性",
+        t.textColor = 16777215,
+        t.x = 739,
+        t.y = 373,
+        t
+    },
+    i.btnFreeGet2_i = function() {
+        var t = new eui.Image;
+        return this.btnFreeGet2 = t,
+        t.source = "destroy_mecha_intensify_btnFreeGet1_png",
+        t.x = 916,
+        t.y = 470,
+        t
+    },
+    i.btnSuperGet2_i = function() {
+        var t = new eui.Image;
+        return this.btnSuperGet2 = t,
+        t.source = "destroy_mecha_intensify_btnSuperGet1_png",
+        t.x = 917,
+        t.y = 418,
+        t
+    },
+    i.countbg_i = function() {
+        var t = new eui.Image;
+        return this.countbg = t,
+        t.source = "destroy_mecha_intensify_countbg_png",
+        t.x = 695,
+        t.y = 540,
+        t
+    },
+    i.ljzscs_i = function() {
+        var t = new eui.Label;
+        return this.ljzscs = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.text = "累计战胜次数：",
+        t.textColor = 11184127,
+        t.x = 768,
+        t.y = 558,
+        t
+    },
+    i.txtSumTime_i = function() {
+        var t = new eui.Label;
+        return this.txtSumTime = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.text = "000",
+        t.textColor = 11184127,
+        t.x = 964,
+        t.y = 562,
+        t
+    },
+    i.nuqibg_i = function() {
+        var t = new eui.Image;
+        return this.nuqibg = t,
+        t.source = "destroy_mecha_intensify_nuqibg_png",
+        t.x = 0,
+        t.y = 401,
+        t
+    },
+    i.firebg_i = function() {
+        var t = new eui.Image;
+        return this.firebg = t,
+        t.source = "destroy_mecha_intensify_firebg_png",
+        t.x = 388,
+        t.y = 419,
+        t
+    },
+    i.firebg_2_i = function() {
+        var t = new eui.Image;
+        return this.firebg_2 = t,
+        t.source = "destroy_mecha_intensify_firebg_png",
+        t.x = 345,
+        t.y = 419,
+        t
+    },
+    i.firebg_3_i = function() {
+        var t = new eui.Image;
+        return this.firebg_3 = t,
+        t.source = "destroy_mecha_intensify_firebg_png",
+        t.x = 302,
+        t.y = 419,
+        t
+    },
+    i.btnTe_i = function() {
+        var t = new eui.Image;
+        return this.btnTe = t,
+        t.source = "destroy_mecha_intensify_icon_texing_kb_png",
+        t.x = 768,
+        t.y = 438,
+        t
+    },
+    i.fire1_i = function() {
+        var t = new eui.Image;
+        return this.fire1 = t,
+        t.source = "destroy_mecha_intensify_fire1_png",
+        t.visible = !1,
+        t.x = 297,
+        t.y = 414,
+        t
+    },
+    i.fire2_i = function() {
+        var t = new eui.Image;
+        return this.fire2 = t,
+        t.source = "destroy_mecha_intensify_fire1_png",
+        t.visible = !1,
+        t.x = 340,
+        t.y = 414,
+        t
+    },
+    i.fire3_i = function() {
+        var t = new eui.Image;
+        return this.fire3 = t,
+        t.source = "destroy_mecha_intensify_fire1_png",
+        t.visible = !1,
+        t.x = 383,
+        t.y = 414,
+        t
+    },
+    i.dqnqz_i = function() {
+        var t = new eui.Label;
+        return this.dqnqz = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 26,
+        t.text = "当前怒气值：",
+        t.textColor = 16777215,
+        t.x = 133,
+        t.y = 429,
+        t
+    },
+    i.btnBeat_i = function() {
+        var t = new eui.Image;
+        return this.btnBeat = t,
+        t.source = "destroy_mecha_forge_btnBeat_png",
+        t.x = 142,
+        t.y = 473,
+        t
+    },
+    i.btnFastBeat_i = function() {
+        var t = new eui.Image;
+        return this.btnFastBeat = t,
+        t.source = "destroy_mecha_forge_btnFastBeat_png",
+        t.x = 342,
+        t.y = 470,
+        t
+    },
+    i.btnReduceAnger_i = function() {
+        var t = new eui.Image;
+        return this.btnReduceAnger = t,
+        t.source = "destroy_mecha_intensify_btnReduceAnger_png",
+        t.x = 449,
+        t.y = 421,
+        t
+    },
+    i.imgHasKe1_i = function() {
+        var t = new eui.Image;
+        return this.imgHasKe1 = t,
+        t.source = "destroy_mecha_intensify_tagGot_png",
+        t.x = 908.352,
+        t.y = 101.648,
+        t
+    },
+    i.imgHasWu1_i = function() {
+        var t = new eui.Image;
+        return this.imgHasWu1 = t,
+        t.source = "destroy_mecha_intensify_tagGot_png",
+        t.x = 908.352,
+        t.y = 259.841,
+        t
+    },
+    i.imgHasTe1_i = function() {
+        var t = new eui.Image;
+        return this.imgHasTe1 = t,
+        t.source = "destroy_mecha_intensify_tagGot_png",
+        t.x = 908.352,
+        t.y = 418.226,
+        t
+    },
+    i.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.up_bg_i(), this.btnClose_i(), this.btnHelp_i(), this.title_i()],
+        t
+    },
+    i.up_bg_i = function() {
+        var t = new eui.Image;
+        return this.up_bg = t,
+        t.source = "destroy_mecha_up_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "common_close_2_png",
+        t
+    },
+    i.btnHelp_i = function() {
+        var t = new eui.Image;
+        return this.btnHelp = t,
+        t.source = "destroy_mecha_main_btnHelp_png",
+        t.x = 361,
+        t.y = 7,
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "destroy_mecha_intensify_title_png",
+        t.x = 112,
+        t.y = 7,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/DestroyMechaMainSkin.exml"] = window.destroyMecha.DestroyMechaMainSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "pet", "taskbg", "btnStartBeat2", "btnContinueBeat2", "btnFastBeat2", "btnStartBeat1", "btnContinueBeat1", "btnFastBeat1", "imgContinueBeat1", "imgContinueBeat2", "txtContinueBeat1", "txtContinueBeat2", "task", "numbg", "btnAddTime", "jrsytzcs", "txtTimes", "Count", "Right", "btnInfo", "btnPet", "btnCure", "btnSuperGet", "btnForge", "btnGet", "numbg_2", "jjsp", "txtChips", "jjsp_2", "btnAddChip", "Suipian", "btnIntensify", "up_bg", "title", "btnClose", "btnHelp", "top"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i(), this.top_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.source = "destroy_mecha_bg_jpg",
+        t.top = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 0,
+        t.visible = !0,
+        t.y = 12,
+        t.elementsContent = [this.pet_i(), this.Right_i(), this.btnInfo_i(), this.btnPet_i(), this.btnCure_i(), this.btnSuperGet_i(), this.btnForge_i(), this.btnGet_i(), this.Suipian_i(), this.btnIntensify_i()],
+        t
+    },
+    i.pet_i = function() {
+        var t = new eui.Image;
+        return this.pet = t,
+        t.source = "destroy_mecha_intensify_pet_png",
+        t.x = 0,
+        t.y = 19,
+        t
+    },
+    i.Right_i = function() {
+        var t = new eui.Group;
+        return this.Right = t,
+        t.x = 556,
+        t.y = 4,
+        t.elementsContent = [this.task_i(), this.Count_i()],
+        t
+    },
+    i.task_i = function() {
+        var t = new eui.Group;
+        return this.task = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.taskbg_i(), this.btnStartBeat2_i(), this.btnContinueBeat2_i(), this.btnFastBeat2_i(), this.btnStartBeat1_i(), this.btnContinueBeat1_i(), this.btnFastBeat1_i(), this.imgContinueBeat1_i(), this.imgContinueBeat2_i(), this.txtContinueBeat1_i(), this.txtContinueBeat2_i()],
+        t
+    },
+    i.taskbg_i = function() {
+        var t = new eui.Image;
+        return this.taskbg = t,
+        t.source = "destroy_mecha_main_mainbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnStartBeat2_i = function() {
+        var t = new eui.Image;
+        return this.btnStartBeat2 = t,
+        t.source = "destroy_mecha_main_btnStartBeat_png",
+        t.visible = !1,
+        t.x = 314,
+        t.y = 334,
+        t
+    },
+    i.btnContinueBeat2_i = function() {
+        var t = new eui.Image;
+        return this.btnContinueBeat2 = t,
+        t.source = "destroy_mecha_main_btnContinueBeat2_png",
+        t.visible = !1,
+        t.x = 345,
+        t.y = 372,
+        t
+    },
+    i.btnFastBeat2_i = function() {
+        var t = new eui.Image;
+        return this.btnFastBeat2 = t,
+        t.source = "destroy_mecha_main_btnFastBeat_png",
+        t.visible = !0,
+        t.x = 452,
+        t.y = 327,
+        t
+    },
+    i.btnStartBeat1_i = function() {
+        var t = new eui.Image;
+        return this.btnStartBeat1 = t,
+        t.source = "destroy_mecha_main_btnStartBeat_png",
+        t.visible = !1,
+        t.x = 314,
+        t.y = 118,
+        t
+    },
+    i.btnContinueBeat1_i = function() {
+        var t = new eui.Image;
+        return this.btnContinueBeat1 = t,
+        t.source = "destroy_mecha_main_btnContinueBeat1_png",
+        t.visible = !1,
+        t.x = 335,
+        t.y = 149,
+        t
+    },
+    i.btnFastBeat1_i = function() {
+        var t = new eui.Image;
+        return this.btnFastBeat1 = t,
+        t.source = "destroy_mecha_main_btnFastBeat_png",
+        t.visible = !0,
+        t.x = 452,
+        t.y = 111,
+        t
+    },
+    i.imgContinueBeat1_i = function() {
+        var t = new eui.Image;
+        return this.imgContinueBeat1 = t,
+        t.source = "destroy_mecha_main_numbg__png",
+        t.visible = !0,
+        t.x = 420.973,
+        t.y = 170.153,
+        t
+    },
+    i.imgContinueBeat2_i = function() {
+        var t = new eui.Image;
+        return this.imgContinueBeat2 = t,
+        t.source = "destroy_mecha_main_numbg2__png",
+        t.visible = !0,
+        t.x = 417.722,
+        t.y = 382.853,
+        t
+    },
+    i.txtContinueBeat1_i = function() {
+        var t = new eui.Label;
+        return this.txtContinueBeat1 = t,
+        t.height = 17.839,
+        t.size = 18,
+        t.text = "0",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.verticalAlign = "middle",
+        t.visible = !0,
+        t.width = 13.895,
+        t.x = 427.98,
+        t.y = 176.136,
+        t
+    },
+    i.txtContinueBeat2_i = function() {
+        var t = new eui.Label;
+        return this.txtContinueBeat2 = t,
+        t.height = 17.839,
+        t.size = 18,
+        t.text = "0",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.verticalAlign = "middle",
+        t.visible = !0,
+        t.width = 13.895,
+        t.x = 424.161,
+        t.y = 389.822,
+        t
+    },
+    i.Count_i = function() {
+        var t = new eui.Group;
+        return this.Count = t,
+        t.x = 234,
+        t.y = 539,
+        t.elementsContent = [this.numbg_i(), this.btnAddTime_i(), this.jrsytzcs_i(), this.txtTimes_i()],
+        t
+    },
+    i.numbg_i = function() {
+        var t = new eui.Image;
+        return this.numbg = t,
+        t.source = "destroy_mecha_main_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.btnAddTime_i = function() {
+        var t = new eui.Image;
+        return this.btnAddTime = t,
+        t.source = "destroy_mecha_main_btnAdd_png",
+        t.x = 237,
+        t.y = 0,
+        t
+    },
+    i.jrsytzcs_i = function() {
+        var t = new eui.Label;
+        return this.jrsytzcs = t,
+        t.size = 18,
+        t.text = "今日剩余挑战次数：",
+        t.textColor = 16777215,
+        t.x = 17,
+        t.y = 9,
+        t
+    },
+    i.txtTimes_i = function() {
+        var t = new eui.Label;
+        return this.txtTimes = t,
+        t.size = 18,
+        t.text = "10/10",
+        t.textColor = 16777215,
+        t.x = 174,
+        t.y = 10,
+        t
+    },
+    i.btnInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnInfo = t,
+        t.source = "destroy_mecha_main_btnInfo_png",
+        t.x = 25,
+        t.y = 519,
+        t
+    },
+    i.btnPet_i = function() {
+        var t = new eui.Image;
+        return this.btnPet = t,
+        t.source = "destroy_mecha_main_btnPet_png",
+        t.x = 638,
+        t.y = 529,
+        t
+    },
+    i.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "destroy_mecha_main_btnCure_png",
+        t.x = 708,
+        t.y = 529,
+        t
+    },
+    i.btnSuperGet_i = function() {
+        var t = new eui.Image;
+        return this.btnSuperGet = t,
+        t.source = "destroy_mecha_main_btnSuperGet_png",
+        t.visible = !1,
+        t.x = 142,
+        t.y = 518,
+        t
+    },
+    i.btnForge_i = function() {
+        var t = new eui.Image;
+        return this.btnForge = t,
+        t.source = "destroy_mecha_main_btnForge_png",
+        t.visible = !1,
+        t.x = 342,
+        t.y = 521,
+        t
+    },
+    i.btnGet_i = function() {
+        var t = new eui.Image;
+        return this.btnGet = t,
+        t.source = "destroy_mecha_main_btnGet_png",
+        t.visible = !1,
+        t.x = 240,
+        t.y = 518,
+        t
+    },
+    i.Suipian_i = function() {
+        var t = new eui.Group;
+        return this.Suipian = t,
+        t.x = 859,
+        t.y = 0,
+        t.elementsContent = [this.numbg_2_i(), this.jjsp_i(), this.txtChips_i(), this.jjsp_2_i(), this.btnAddChip_i()],
+        t
+    },
+    i.numbg_2_i = function() {
+        var t = new eui.Image;
+        return this.numbg_2 = t,
+        t.source = "destroy_mecha_main_numbg_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.jjsp_i = function() {
+        var t = new eui.Label;
+        return this.jjsp = t,
+        t.size = 18,
+        t.text = "机甲碎片：",
+        t.textColor = 16777215,
+        t.x = 51,
+        t.y = 9,
+        t
+    },
+    i.txtChips_i = function() {
+        var t = new eui.Label;
+        return this.txtChips = t,
+        t.size = 18,
+        t.text = "0000",
+        t.textColor = 16777215,
+        t.x = 137,
+        t.y = 10,
+        t
+    },
+    i.jjsp_2_i = function() {
+        var t = new eui.Image;
+        return this.jjsp_2 = t,
+        t.source = "destroy_mecha_main_jjsp_png",
+        t.x = 20,
+        t.y = 1,
+        t
+    },
+    i.btnAddChip_i = function() {
+        var t = new eui.Image;
+        return this.btnAddChip = t,
+        t.source = "destroy_mecha_main_btnAdd_png",
+        t.visible = !0,
+        t.x = 200,
+        t.y = 0,
+        t
+    },
+    i.btnIntensify_i = function() {
+        var t = new eui.Image;
+        return this.btnIntensify = t,
+        t.source = "destroy_mecha_main_btnIntensify_png",
+        t.visible = !1,
+        t.x = 240,
+        t.y = 518,
+        t
+    },
+    i.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.up_bg_i(), this.title_i(), this.btnClose_i(), this.btnHelp_i()],
+        t
+    },
+    i.up_bg_i = function() {
+        var t = new eui.Image;
+        return this.up_bg = t,
+        t.source = "destroy_mecha_up_bg_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "destroy_mecha_main_title_png",
+        t.x = 112,
+        t.y = 7,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "common_close_2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnHelp_i = function() {
+        var t = new eui.Image;
+        return this.btnHelp = t,
+        t.source = "destroy_mecha_main_btnHelp_png",
+        t.x = 249,
+        t.y = 7,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/DestroyMechaSkin.exml"] = window.destroyMecha.DestroyMechaSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "imgMain", "btnInfo", "buyshadow", "btnGo0", "jingqingqidai", "jingqingqidai_2", "up_bg", "btnClose", "top"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i(), this.top_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.source = "destroy_mecha_bg_jpg",
+        t.top = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -1,
+        t.visible = !0,
+        t.y = 0,
+        t.elementsContent = [this.imgMain_i(), this.btnInfo_i(), this.buyshadow_i(), this.btnGo0_i(), this.jingqingqidai_i(), this.jingqingqidai_2_i()],
+        t
+    },
+    i.imgMain_i = function() {
+        var t = new eui.Image;
+        return this.imgMain = t,
+        t.height = 640,
+        t.source = "destroyMecha_destroy_mecha.png",
+        t.width = 1136,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnInfo = t,
+        t.source = "destroy_mecha_btnInfo_png",
+        t.x = 373,
+        t.y = 531,
+        t
+    },
+    i.buyshadow_i = function() {
+        var t = new eui.Image;
+        return this.buyshadow = t,
+        t.source = "destroy_mecha_buyshadow_png",
+        t.x = 465,
+        t.y = 595,
+        t
+    },
+    i.btnGo0_i = function() {
+        var t = new eui.Image;
+        return this.btnGo0 = t,
+        t.source = "destroy_mecha_btnBuy_png",
+        t.x = 453,
+        t.y = 527,
+        t
+    },
+    i.jingqingqidai_i = function() {
+        var t = new eui.Image;
+        return this.jingqingqidai = t,
+        t.source = "destroy_mecha_jingqingqidai_png",
+        t.x = 942,
+        t.y = 524,
+        t
+    },
+    i.jingqingqidai_2_i = function() {
+        var t = new eui.Image;
+        return this.jingqingqidai_2 = t,
+        t.source = "destroy_mecha_jingqingqidai_png",
+        t.x = 58,
+        t.y = 524,
+        t
+    },
+    i.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.up_bg_i(), this.btnClose_i()],
+        t
+    },
+    i.up_bg_i = function() {
+        var t = new eui.Image;
+        return this.up_bg = t,
+        t.source = "destroy_mecha_up_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "common_close_2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin);

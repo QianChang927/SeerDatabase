@@ -1,1 +1,1893 @@
-eval(function(){function Z(Z){for(J=k=0;J<Z;)E<2&&(E=64,L=92<(L="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[wP:LZ=XuL`?KBJ;:^>m<P:Y[U_:=_kBtiVRJ<sPa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:FP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBA^>m:_wi:bJkCZkHF@lJ[?UiN>Zw<=kP<=osV[lS:A_:WlR:;M:HXn;UU^l[>`t^I=G?MUG[:@spWQbo=`VsKJoMgw=EDvHUyokPH>bDwCZJLS:wPETT_ZpLKYAtzQDgVd?:K<I]fNMkW;FF<=?uMUZg;^cn;n=Z:PoBXa>r=D;Lsr=:Y:sR[C[JZ;?spM:G`>N;Pt;XFJSk`<IbJe;oCJsiatAJ[dF@B:Ss]SECPlZ:KE[tdGtPRiMnYIn[TB[QdJeEwfMPX[eiKs`ksFckItJ>ZaAd=DxDgLlROhQ:UL:vQf[HKVA?i:Jy<;iTmOdZwHJJHdp>ZUEk;:l^AhYKmzFCiWmB`::HSlH;ZQmhSD>JAd@;t`u?otZV@@gb?Tai]d?FJBd@=@`__fhtAxU^@RdvYOWkSsW?]I:BVb<CNVGuc]::?N<:?>kIGfYD:HEtuihYc><;Xy:ZXBqBSKG;F:cgAI_XNAMfPzSJYTnaOMwaR:<F`IPLJVFR:;FK:gFR::FS^DIDjRgID[]JW;]csFe<Amaaedf>J:<>ZTRENI[B>Zr:V>BlZz]aScPgBV?ojg;<MEwPcVCZ>?wD_PDJKlt<qjTXn_O;RZy:JV:J;;yZ]PCIvu>_E=v::KeX:=PylLK:::gy[oO:t:m:dV;B::p>SY<]AlV<BSKY=a]wyZsMycKeUBR_:DnuEdya@LS`EI;K?[@>[T`VEXxfHTC>::Hm@CZi_EENuZEGkkZKAuMBCN`;lX<kcOkIgwLB<:M;BHZy[Y__iaG=RJSsN_hJcAXi::AkJLJ;=@IOVJtfZ:<o`ARWk:;ga:^X;N>FF;BpyNCR[H;;kNtJFxe[?y:=FNp^PRuksM_W=ZSKMQhO;C=vPR::wvPfLaECuL:;`BAt`@DLdDrMgGcpBLJb`rRS?ryUGhrrJKz_VVwnpk<:majR@Qq:vxvQ:QgGpXJx<FPA?uZCOcHZ]H=_H[@^gIlKcaPdOO@QeF`<qtT>KZ^>KCAw?:rDw`eVD;RGgBPDl>>W:FQdlj<;?gW=f`ZN[gucYH`MyYgVAaOuxeBO;e^yYck:VAZwM]MS?fqUncJx;:?C_N@B:KCZcZczcv@]M`y]^g`c[Y^yK;AQgVtjHpMpoWvS^[HMy^CdLaG;zvVhkB]YRZCUTT@Gk>>dL[TAlnyLWkJ[I=:Oawe^jDBrb;k<:J::m^RiBDKkL=f<:l[`lQOY_Ew;S?a:qmHqq_VW[:GL[<`B=[A:HRtZ:ui:V:s;kP[tM[^gaZf_:nrIpL=iJCY^::eZ:FfyqnmijqzmdReyfZ:V`j:<L:;eSyfZ:LdZ]HRIDSyQnYdzroYu<fk:kbY:<TCV`k:>>htJ?I[jAyPxOkUlEdZDunwzu:C:P:];N<R>`r`D>QJn[On=lQIRM>>Zw>tZBKVNJYV=[@mFBv>JdKal^]WbKGJ=GX:d@>:kQiH_c<S=]B_?RJZNeK^nHZ<yE:@ZZ=R;V=iwBitx];?::R>]d@R_^BcwKu;C@c:iBiORgCD;DFoOBwB_S^ZIAH>r?Zjll^q;R::>Ow=AP[bVcu=>yGwSipcT[w:p`fAPj^hUgK_NUI:Y:MRVP=;>IZM:y<c=s=ZIZHRy;B:^esu:iRxmhnRRJIZ^hp;]>RglAJuZsSB@>]tVLg_aCw[o@oH[u_KZAmrhdHKs?Odw<XZowZfxfurnj]opll[q`QQ<aC>RL<Z@ZI:S:u;g<;_W]@QkOmzgsDEF]aRNS>:SDfBobk>iA;N=DN^^zEZElBM_=hj>>XjkV:sblDCUZ@`ZBTJZilSFkZGbeP:jFjgX;F:`EhiaIZ]m::VbmDafKyX;QSyn=bAGHUJJc?myAQGkAVZ_^nb_JMzHww?>NhCoMyJ<iBJEJOsfV`<skFD=`AIJ<V`ZSnlMBcLD]qtwlv_X]XLws<kDx^_cZBGD?zKzbFhCXog?ancefI?Ym_?=gi]gN^I>KlcFH=_?II>=Xs]w:t[XI>FKJDRtecpOeZZHexN@iLdRVgJwVlQksARj:e;b[HZ:;Dm;k::PP^GT]ZI<P;B=kF:IVxfAQHgQHuvJrfp<yhe?:?ZnJN;T?=KYVGUeIQKchjG=LMNrlJ;FgBEwM;F::<?YZUkD>ZVZB]mpy<=FnTCEO[<?CeWkSpyTznpBeRonXnLV:ifXFJsXxfLDlCLZcqpcTbOKb]I>GhwL=[DJ[edEdIMrvrro=a:WIWi_;e=L@cNS?N=^dhQisGORdqc;bQHiCHS?oeNqXFZ;_nN>nBkYc;u]sC:zrLdcd:dx>pk@MRXgWgUD:Ci_>;ZZDTfpb[jV_v_emXQch>ie[kOWZrCQxbrA=y]n@b:gUiW:WxQ^ZA]CZHXFBsMVC;CsvCJR:byFpc>rC=<bS@r<KkOCrVDmSCfIKp^xRX:>:DWNfNxNYd`G>Hd<LEThMzADK?AhqxDQhFuWqvdtxX_YruWDjZBmi_MCJWFx;VmxIEG<AdxSanhahDdQga`wD@PBesFmetGmNFXa:ehAwbGG[<=tSgvtjhKOPfCSgm?HmAGkfdJ]wt`nPPXXsGtpmBEZP[CRB?xL;EP`o`<m`O]]s[sBauXXjkqsJ<s^ZDiFft;Mv^<Q;Y::RjzD:MLc:`hQF:ilN:Yuii:TYUVes<ha_VK@IZGPLQXdR<:IFR:nL>ANCeA:_qVe_KLi?xLv_cikhdYLl`LD>gXYSK]vn:;HA`zbFgYFqRD_EZDfP?TWFOmHdPLQV:epOpU>[uiGSTmSqSCWXjxV@wGm_crGA^XyxGqU;R?g><PnNvvurZNmg`TdjZ>fpCme]o<:Rp^U>HFoJmY`Sq[Pp:Xlht=CrNIk:B;[^oAnxLS[FYV:^ZJpuKla=X>[?@qIw;RE<?lI@c<oUy:Cl^v?CX<V[Hlw:lhiGx`spPECr^ASN`>ACbJTeNTDU>fCgMhMg;uu@@jQh@IpGDVoqzId@H=FTTFpFh;ZHFVPTgzmqnZneNlYqmthJKqoNouwntpmuP:grTyNDhO`INXRztS?inrixhlTSJAh`XCMifOVd?FIpryNtULWAxv@qoWUVdNbdn;rQGduLyWb?@PggOEiv`cjTqLxlzKrdfA?LVXCv:z^x:G]s[>w`<TNbNYwj:idlbqbu@_<RTSn[fFd^fZPHtsI[:<:yW<RMBEu^iQr@ZZE;Et^M@z?;ERqB=^]ir>SCOzlhQU@GWTxBeN_r;i]bYbb`odd?jyN^=QOhnorhmhoWpYOFlE`WlPMgrTPgrN_xkPJfp]qVr]lKPHlbotLlQTJc`[A=rtP<lUoboqk[QEq]qMlJGMnJF=kkFlKXPkCtJUk^keJEqv`Un?JvnElqoVqJDfrxmcIMktOcBZakITNRItPUoEmBGEkeL`KZBsCvpBElmgNAoCoVKCoqMCnc^RE<qbktMJrdrboSqklSnkpQktnj[pKkAJ?Ibb@rp`k?m?p_MLNIncqwP`q`q<Q`n:;jrLNf;UZYlL;`r?APopoGpYppq_keJzpUJNo]Dhpznoohn@PhqokrP:IzrB=:B;rYQFqZF@OZBxpBGqofnxnVoLm=qLpPZo`qLioUk]ZBF_C^qBB]ZMmxnBCDGJCSQJF>Hwo]^wn>FqKREv@oIUqvk]aqnvqDCsGDCfkeBiqnpnneE>Z_GRD_I_B]`_ImIPE>`vnTDNBCqAnNEAkoBbmTGoBCAoBSmkqSpklQrFJtlz[k=J@N[BOR<r[dKE_oO]=gH<FU<VBv;k`t`FIiIgAB<BlBKJ:JAJ<Q?l;yEW:?p>ozqzkopzmz:bPAJWPbPm_oLNJ:@_s;skK;TCVhoLvOFLfoK>ft?RIJK:zJw:egc;BMo;AoN^ppy_oMMp:pno<lEouZVcY[l?wM<LFkuBCono=okpepBseMjJCkxC>;o:c;o;VJPLg^bWroHLzNBF_pcFAONoyLVM;L<LCl]Lo_??hLcFRFdMo:SMvJtLaL`MuLs;EGVgZLv^qWJMkM[tZ?]BKwsL@leJiZ^RE[Zs^:YlxZVokRP:<o?t[ND?x[Bln[g:wFH:tCx>AM`LLlTZjLVkaLRLqKnZNmKGx?UNEtmFZJVmmm<nU[M?Nm[?m:H:?CcMRLDnBtlZanVKenv:]mMoD;A^b^Q]P;r^=`I^Y:IK>mTmLRKG`:qKLnsZncqC`;BkC?j]SC`mj]E[BkFnVJPd`;j`q_K[G;h:OZFlx:qJOmE[W`=ngRMn>GVhbMZLILK[DnmGDFu>Qx_Ms^nWGLspCpmL=L;L<:[LMMKLUNFMCMDMeLtLhRPM:<WFmddklLiLCLgLJd:EZD]MJDzNs[_DEpznBESMTLU:a;C?h:s[??s[OMbp^GpLt_YnkG:GZFv?xMgMoE^MFDLMmkELaExL<DvMTMDl??R[VJQLo_rLqWA[uRb^=_Et[DEs<:KtP[`CzLcJxx>MPpCVdcw;pZz_ACloMW`Ga`bliZj<gnD:zmBEdMeMuJ<gqCJSj<H:EdtM@cV;xZH:Rm^RRtqcH:G_jkJ:atmGKdMMisw:@:YMk;VJE`CsoKtK::ybo:@??J:Rqh::DWN:?WhJ:G@O:;THN:;[zk:P=`:;vtN:?b>k:P>p::yNo:?G?KwIZ;mNBCWL@P<fMG_yOToBqCkC<zWI<mmaoumepRhW]WhYRCZFuDx;eUeOmdZ=myQ@HO:RkCZQmuVYmlgkodNq>cDk`FDaJF:LDvJXVUZXNXDk:INx::=tlLcmdmcDdDceeedefedQJWqceWnYMaPFeGbvQGFRhpHRcdDgix;ggLMgcX`Vdn=H]fO@hkAq;n>agZ;^]J@F;nAaisAwgf>nEPhmp<fcA<eqe]hqj`>:=VnJ:=ZhMegewe]emfDeNcTfKD:MlEwGCDkLqmHmOEWxpDhKIn_]>^QL@eUWsEuEzOVDXMznPDwMqDKMHEgElMHfdoyDTMYJ`e;LOeeE_?AeB<>EuF@EBFXDfo[T^M[MZft>iDIefMdTtM_TKDuBrMg>Qh]>mhAN>W`g<k=ZC:KxINVku`gle:N:F;oJCE<ntKUNlts;Ctdtm;bUQUAlEU[s:uCsdtKCFKzUlsZvKCESD?x[PfR;>;ITg::JoZzOouT:F:ulv=cJu>f:d:S:t:?:`:I:^m;JJZM;n:v[f;:[A;b:aur:R:I;gdXKz:quZ[aS=:IZX>RZy>_[gu?>[ug[>[<vY];:ak[GbKe[o[gc@ZaZP[zZHZZntVyZ;Z[[[:KZlZ<:d[S[t[?[`[O[p[jshZWZhZ=Z^Zn<b[=nvv;:C;TT_n?kk[gklV<kgmmlVujvTl@;yW]vA=a?Q[oKFJ^;IFFkQJWwMRtvBJuJdJedSKBkolpKPSTuWK[JKk@?^k_@SKPJw:?KISOKoA`hhKWJKKKlc:_AeBQZfKIKjJJZbJX;ARLZIJC:ECFkzJb^[GZlJli;klBlclRlsl]Z_keBo@FlVG`Wz=]klvmkvwt@:ADFL[eAPlz]ykqA[WY_;k[keAVAlku>jkk;CS`KDZbJm?plGkxfWlvw=l<;^k_:GNElc[flUlvlAlx[^EQlrl_@MAYlzk];wBZCJCGcRBFt`S_BLAx:FCFZgBL;Tc<CI:;SKpMcFku@x;YR@Bk]XRHCp[:dUSXCeL;CGdrxCBD_SBtBwRvfwN[OjdvcYB?SjJfBE;UCEBTfG`rB@bjCMC<gJS<bI_Jc`cwdpCcc^:FRDRfODdocLSDRgd[a>owc<c>:]cLdOTDcodedefwCHcQDPcqcHdbDleycx[p[rddcn:CcGcCSScqCeRKbcSpcId^dZaWc@;Md=dIdlSDBzcfcFl_SCGAcG`UfcREbGdRRNRzdyd:PZRzSJStCJQmdBQCFzd>R:RNSZS>SNd]RTuCkTa<RJBhc];Catbdahada?b?c`bTSE[P>aRPSmAqRM;HRh[YCXR>;yS]CaJqZ_[XRjklRmbIRSRYSP`aa`SkbMdpSMxqCqbxSxJHGDJB`nRb:fSCFURHBLNASExbSdlQSrRnAdRzRY<zR:tocksJs<:ksbBuBRtK:ssX;>sy;_ttlFti:otbQBagsVsws<t:Z]tLtmtDtetZbTtutZqasz[PtqsWPgD<:ytZl;tBu>uRu`tyVfxtWd>qFpA=@dJuCuSNbj>MKH>NZeT`VCuKu;>x;AmuUyJw:_;s[s:P:YoBSR[QmWPJ_gnx[AuJLdEur@qsZPqlnsZNb]CuFe?MErvxZ??Z:w;QZc;>dp;F;j<^SPCkmZK`OG?`;PBGrA>zK:[x;WrBWl:=rABv[JvtgK>l?`?h?_dE>=^v>p<eJX@:lI=B:g:SZ?ZfstrCZRVthI;MlRZv?<d]do;I]U:N;qm::fPZDa<J;aUyoCX=kGJtUp:ZSLWp;B?:Gc@K:HVZQ>PJSL>iFRXkV=`:Y=k^boxJFRM:VZMaXUH=UvEXJZEBRzMxxJUxpsUdWyCVD:HlOVB;HyVRYyYKEZAyC:OFkJIKW^n^rxmKPALxmHTxclPxqPqlPMw_LkYKMW_FPsbq^b:e?X^Z@kCalXjpPWyWlWtsReC::JYMo>knlcRnoWlaW[>lU;>h?mMp=ZXBReIJTWvdSGkHpGlJWq^Hq=bhdwtpyHsEsH_[DHlHi:Elu[CabGyXecPFia?nwW_hkZAkhJ;RHBCVF:CpSL[mBJ<tSL:RNyLf<sBWNX?GuX>iDfkQFBU[Q[UBW>PX]fpy^bHh[hdhcWhhonoJLEqhz::UkWk=i:>Wy`hnbfdyyxx:UvCBGxcREh]y:^jF>h@wNs?Z<hXhuxGPy_bF>hW:?ZFimMg=D:EZCVDXY_MUqAAUx:IUn=yBU=qGVW>Hll?qlMoK=KEKKbTxC^`^jVYkUvX`SKR[A^e:VRNyD:@R=XQ^pVUVUVTvfZWY>[M=[hZgMvwxbvpquotMkAixl^gfS^[cFAuq_`LAclTAgyQ^iAe:Hy<yUVOpQ^yf>XWA`Z<kbFDkakmRIAdqZbjvsbeKNbqW>AmbegVAgfPbmKXboyKbyAcUQ^iyOV>XR;HyHlUbc^>^UsF:XBBQvvnKQvcbZAwQroFb_`<bp^flGvADXQbDU^[be:=XVyVRAyQ>vbfORVtLRr]xwraxcAurbDPreb[rt:eA`rdQ[AdAqAdfCfUbxYVRMYMvpHyQBkBfCZLFHyFwMZSvjUvVXRCZWJTWxBVsFv]vbwTh>jdWkQB>Ljwve:R<PjeXXjg=Cj]vpTGjojtsIZMvH:FKMcCi:ZYgkt:RAF<y]jkBDj`jr]JZI:;L?:M:VfljqYtjbjqWgpSY]sGY]jaBD:JnexUYdY`YjLjZKvvUrUfZ:vehH=GPfje:Iw@K>RNLYvZeDBWpfFUlVf]zezi:BQpjuOc^iuzXkAIltLjx_NAzTBF`[zu;>zyAf::N:IqsZ<AyR:k:Sjm<CiZl:UzCMZ_?Z@fKs;HLK:Oa=jexhc;R]Mze`knTJ:^:GJVjbu]MEIpmk[QPR;?PAu?RUHyINrcMmjRPxOHLrBYByqCkDCnZjcYoDklpSe:c:dYBbA::osa?m;MtG=E]:s=;cOiBrS:MYpJ@AWs:TZsG=uOVu>:jiZYYZVAnjUu=p;pPVbe=l`vNxAXxJHb^AqOtlx_XeISI^naA^Rw<c?B@cDRC?t;wOHJIDkKcGgALx^w=ZeIgsGQ:kwaXEIGb[nr@;Vw?>Q:Qbjnrb:;x:[tZsBSREZ:@<U;GjHkS>F^tHx?XfZpQgnkptTwWXeJ`ZAfpBm@wg[j:oQZBC<At=f;NjHrfEldtH<?XEZhr[vmxsyw[mGDScL:=Gst<LXjcNBRNE=v?=vX>IIcVvp]@ix>X^IKIdsBrkB;IisJSJQMJQUZ;KBYd@K:c[ouzosoHbYWjR@btF=:ZS`Bzbir>AQWn[HWLsQik@<W;U[VTGZMF:s>g;HZ=kesSwDd;v=vHBkPJXcA_@mVKi@:iY^Qp>]SoSijs:iHP>ECk^ayfYK>UJ@K@MJA[uBaYi:FrvBc_Kt@StaBF<:Sx?snZFkYZBg@yZVmKZ_Y@fLOD;:=ZjGWz_i?y:c:mH^HTveQorSk:M_iBM@FD=:lg=]idQB[DkCR<L^=_OeB>;DCDuACOyMfOBUR^y?UOH;ZS?edbp[=rFw:So>R@=OVds:<oEgDTA:?q:QBGmRZHaEg:CSYZu>pyYsDkBpAz=HZzJGcJ@rqM?JLo>FYOACJ;>V;`:uciBCeGl<V<@mMS:N`mDemAgrKsR^oKk<xA;w:q:@=PZJ>s@[^>lv:fNV@D`BtKVJ<RjpEwHM@Khw[?wPcLUka?w<uKiJroIm@XDmODl<`CL]mFEDaFE[`:=A`sCn=Xp>cJRNle>>F]]KRmQ@=wa]ES?l?dByZO]ID:me:;`iN:;Iic:>HvXN=Nm<ln^bsZ:TO^::Kjcf^plasxLC<bb@:;IxN:;G:RXDkLRpheoOWUIe=;@xWJLN:M_WmEZ<w^RK?YWwKV]b[Z;h>nwPp?::GvKpds^dW:<Z<Z=mZ^B?Byk>SA`:Egvk@scq?Z?>:mKtJZ:HnG::P:_SO::ege:;<Tkme:::WF::Khc:AJ:pT;;>:;ZLc:AmNvD`Y:jZn:wC[>xDc:?@tB]My?V]oM::>Iy:;>AN::Hdc:>wbJ:?AP<OJ:<SdZ:G>p::_IxAlj_a>f<YiBBa_LDCp>i]JlCa<DMwCv>n]UKDI]JdtC`sdLXKFcaoMuC^>kmOdBs`VLTCP<KZUNAJ<Ax^yYcMBGZ>A;M^v:zg;U[JF[@<^[KaF@ZTGn^co^g[xRuRYMPPvX`YLKlWmRL@wTUou;xn?Z>THHUZpcmK_PZVD[e:DZj:Bcu<X]<F[dlYDo:t_OTHinuBGsuZJNNRDhKs]WZaP@oPHPv>rVP:CVLH<J[U@sZYsGsHlEhO<L`Ln:wdD>]hK?;XLO;nNiNVdMPtSoNZW_Zl:<C_;UcfT`:bD:P?h:kGSVHc_mhLI=DK_wcV:D@dN?VbmZVduZT<JrMyKe:WH<STVEOIQC^`CkosAe=p<rBD_OeuSOuVeJQDClbR=Nvsio^sEc;aKX]GJ;ODe`^gePGFDk?k?T_KLVkANfeR=Gqdvt;d]dSN]D:=];>YkV:BZNyFPvGLRSvNsLZ^CuaM:aTYlT[IeIw:uVy:reQ:HJ@J:V:iZV:::IJZd;cEmKH<`=T<omV:xF]M_nHSafK;cfmPm^nEtaFnfJEFsPVB::<_kgo@A:=`bnJw:MNQw=HM::mnAsimBkID>:<PLc:>pt<:G;E>@?ZG>bSORI;F:<NagUEK@am@ZbSNlj;F:=kHc:=YMKw=?=pa@mUSM:iqVeKb=kMRaF>qqTKMx`NZ:trgiGBo;=aW`]m>Z@@Xu]J:B;wmBZQ@WtD^`ammSH^JRHZ<T[bSJlYc=ZCwKDtr[_cgM<<FUGM`^MUixrA:GcCXtV:riqAMHT>LKDX:_JMUT>i:;>JaswViBNvgrq_<LVLlhJY::O@L^u[Kd;krgWgB<_Nmz_r]Gc<F<iaM]v[xZ>r=C;pa:;uFo:;_Dc:=gIJ:<QKZ:GXNLC<O=Dc:Alz^VUWLr?UmxtKw_]RWLHfv]Etls_Z^YBIbAm<T`s]yT>;xB?ZC:HpG>BE`H>p^C[cNmriJ;MuUsqJfBvgjG_A?[CclnSDoBZd[ETKm:Vt<JUkrPb;>FdP:B[gWEl<bL^BV<pF[gbaln_vDwq<wc>rzaKlaKd^HsD=EAEOLPVS:w>MqIqu^<OKmwVJ;=[:=v;UlqG@Dc:;hMJ:HzKZ:YAG::cYe:;:Yz=eMmE>nN[cJUrURvsLZDQUlAw]QaHB:ihBzvjLI<buwmFARmVj:g^;ENRLLt?;VPF^:RDQqNZbYEZfwZ>EVdK_PgZJ<D_NEqBS]dg^<MgdrMOmWkWz_=DytFERZE<r=IgBNOd=E<p[Pk^kc_;QM;?:<jTaBe_PmDq?ns]>WIDluLBVXHAUG`bILMzoMwtyAl=Dqk?_ZFdXyFC>enGZPk@;r<Ikji<wL;?ARM:?a^c<R;jsSl`L?z?`qd_vgRduwjz?iEomBkBg@H=LA_JPMhC;c[KJ`CZ:u`zgsVK@=eV:Zr:q:LoGZYS>g@s:ZciSnwJ::UmZ:>EW::`_u:;;`NQ@:;_jNmfE^::wru:;<ao:<JtZ`N:;aefBh^lk>D_=KK:dYq>fEDzijcd:IuEI=:B<:GZGZ?[ZaNEDi`FXGcID;HNQEf`hmltNwcYbjD^sTmYIDJLPQmWzqB]=FMeM;NJfN:NDnZa^Nk<kf]wRLBtPVgiNrEv`nmk:>=uZ:Qs<<T@DntXBJllYDG]JeUL_J:ZZsJKcEo`m^HLL:mVYq:DZ=eqnZ=:WOacAQ_W;pZsdK<B:gUyhs_BZcW`BTA==dBbXvYpVHkRSHg@;VuXWi?;LqFbZ:MDD;NlkJboOI@;N;]HdqR_RAEJ@;l^EBR_JlB=rM>YNQO[RtNjc;@=GlBlpRrKPEo>?G]SDV`GgP:@N^V;WBF<eMh[>MQSE[s:spF_Eb<=yN>HfcbCItMYfQ=;:z`JG:oA@kLfQZNeeRX:fR>TVjot:;Eeam>=V<JkNyIR@XLLQr]@?KE>N>cIRQGMFXkwOEcB_hOWh[XEJcBP?C[a=fylg>kJ>c>kPjgHqaY<FG`FBObLE:WLI[QEAJQ=kmmkN]WWPg>>j`c?[STh`JcrDIk>?qt:xUPGTAuDVmXSVqSJ=IOVmf?huo;QccUA[MqmYghKDycet;Dp<=<_@SOHRQZmeK>:NqBgi>c::GMpCY:E>>fTitBQWQ=I]:A:QwzuuVY:PrAm[`lZ:F;pcC;:X<KOLQASNFeZ:@Hp::<>T::s?N::GoR:AMxJ:?IDEgk:@>S[wqDc:?VAJ:@Veg]`yYNMkq>U]Gd@wejiFQASOxlG@[^LljRqVUXGo]z^OYCI?<T]GK_>^YD:eeQ]CG`suMNlhRoVUiGY@awShMj@vOJK@LlUctra:aWM[uJPRLhmhKEMBFs::pDhDx:g^I[<o`D@GkgMPUbHVr>kQgHkJOfCZ^hVZGuZ@:k^;VO:VE`vN]Pr:zTJQN<T[_]og;SHsWQJF`gLtlpghBQ<[;a>ZqlUwuooog@wF_:XpT:oxX>gQOG:k;d:gZ?i`QLH:r_AJZN;ieQQH:hpHhnW=i]kaw<y:XuLTlk<><MRGWRic_YREIAMTl_gq=]y[IIQM:NCKL:kdbigDZ:cxhkZ>gfFpBQRrZX>kwEyDhj[sC=qXs<SBWhdCLvTLiYIKN]k?WSr;O[gYCbdNIOuTxhX`qbDEhd>Mdp`?KqdvUlrWtUlIXiCMvReOR:LW=_zqaAihj@<CwkW<vLHBcam[Ylg>sPdRKUmk<<;]haWQJH<H]ttTsiVjSRXZ>molVNhV:QEXGcdrCp<hTWLfKZ;zf`TVWOPk;^jaD:^fLu=P]i_s@ToT;PhWWNk;R;urhoqe:JNQSrJ@py:KWYWNUWa:uuC:aWsx;QUh?NUkGlJ<xVJ>jLV@foTkvJ?u`jLx@vpxu>kTR=]?Ifl[nukMLyhg<h>rp=ZsBmsC_fi<SEhoAxVbR`maowEZm:NxKbEZL_?glqzZrEZJAmuOWeihQQ;Aii>fGV;ZJZFhfY[OpWWeq<Po>jpkAUGhdiD]^TOffxJ=tAG`avmYbfDmfVWPWVjUbYp:Ad:MiVzH=GnnivG;TtPrJ:McCw@sxYyYsYzgrdJ@Ovo;pXjiQImJ::;AXjMQIEoGnV`jZjAiIhoArxSolr:YVroo=w:u[=X[vhrhUqMvqxv<Lz[jjfanuex?:@jVrlioS=;XeygYQjhXtUuz;HyaYUrjbqxnyt?r<APFBjqGuSxUXqzLRIvnSKZXsJvcNhEQofSTgLsMXAp]Z:ZBSZcy^zOYcbo;cdxzZmiJVBVo`uh;V;ZzUFHeby=YxfaO:oNB]@LnQTfqR:xxbB;ZAB>feL:w:aZIjvpxMrMYJZXrp;Ut?AHB=S=b]Qd:WHvJOZu<O<Ok:^;QsjpHzpADl:fNZzDFRJAAshVdypizjVzhZ:lD;X<zAYiYnM^B@??B[mxOGEFfEmk]zwqoMod_[:[N:vV_`DBRi=mZEmwT@n`zAL<qZhRRt:Q`M;xpcMRaJ>_<R`oNLEuEimye=^R>J_t[SCv[sXF;FTu]Kj=<[tYWO::;XZKjLL>Sn;[@ChV:LBrIqQo::dA:I>TV[Ivo^GsQwN]::`P]C:tk=S<`nVIm[::JPT::=okmf;Ae^GKzVJ_VTHQ^UC^YJzZaaB^HLRZY_Ncs>@?rOuzxdzQYejr=EDUj`kwhiKiAFHQef=@tA[Etpt<Mwv=?:;ksDHVHx`TZMeTjAyB:_WMsG]@_Y`XqmZUkvsPwYk;ZhkGe:K^tzXT;FSTCMAM=FlbD;RXY^P@MdD:PBDgWe=f@b=ipERor=zros]^?k:sk[e^>bAUytlmsrickqJT^:`Ke^WKcTGLTNMyaPCfddKHt@=y]dMstA;@<l;X^s>YcltHiFe@nyXzXskyamlI@n=fliRxRWbTlZTNIlsdc@ZqF:bmMhljYct:oFVtstQcCHU<NsFN:AC]d@Ugo?w<MwX^PWY_myHfak@@=yyfzUICQOAhy?EyXaILVv`Z;itILjBwrnZkOFBc[drknX>IRZDulQugDY>>PnESjgfDAcRsFlrATr;@q^kYjkc:uWvomuMS@TVSC=vEMsThcQXnhGqo_VSPCop>ED?ibQhpJvQhOMz:TbYMxOWL:@WIqlECZkS_DMTY:Q[b>VzBKonVaWIK=y[:HqA]WhStbUHXLSg==uR>p]J:nfykt=aVIOZE;;;S[op@SEFlaLW:kcAL=ffFdb@nIVBRpkAo<pMzV@tJ>?TYjQYein_S_`G@WDAxaDngHnROuWe:yaCteXdXJs<VuqTWP<]Y:n`=yeyT=H;tanW`mJIlvi:bbNLGtpwsc;oWoXzBT?lSpXoEnrSCEWMgLu;VsSk`FbRMh^do:ghYtzELbQdplULheJVXZnjc;gu]u<ur[YOjEdGT[:pW:QM?<?qGp[h<Z@QXsAupg;;h[?sB:IQ`r=pgZLilK]fieoG[Su<q[;[`lFFuvaZXix:;jOp@x:^WkkNRDUiIe?V`Z`iZT=Uijdv:AWfivwwzNWrjolh^TuX?vdaoyvh@M?^QK`lLu;v^;Ba>IPAjJsKuegNX]<opoFZs^sZFkEb:g?^qhV>xuLCIRE[MrgEoxZrEILGq_iX:Ci@XcU^GljFvuZJdTlN]@cf@sZLF;:y:Iw:UQ[@[yV`UD@;Z<h<Ow[Y<b>EHpwAUcZF_RWSRP;g:bC]BYiXNw@iNDT<S>xyh:Rzj_GJ:am?rJXTC=:m^mP;IyzmmlkLiKOJyu:VI^ErLj_:HdLsTF@JRj[E[OkbeTZvJS`A:AifoRKiVkS>ntQO;bJh:wORkHOug=JXjmy_A]h;QMnUO[RUc;ntWQ[DIOxJApR@h=Pc=F;[vjhRahueIihtjVtJ<PlZ;^[RqHnTjEev`Zf[;Bjp:n=GQDNn[XvEum:>HMQWVpJBjuqef::nQBKoBbx_BU^Kj]BCAsqk<Z:O?fPafJObMg`Tp[kts:gR:@kBSPhycf[:Ok>yhX>dCQtZDOf@sZ=dku;<xRoi@nmFKhnTVx^YAwL<Yz@P@I=NOpwTSRk:nW>W]dKWi;CJ;EZcZN>cHLxYZblABGe>x<R:>uAJ:GyDZ:Uv`::wBRCNmGuOKVJoROgeqAt?OVMLoXpjDrPO;GEMOXITHsa[U[C`mWz=bPXMUfsogYKWYN<MQw`vH^DQOq<inLufmGnukE@yhKZRkVR?_Uai;Ma;:MNZIqk=XNdWAUH<]R@nASajyT^nwqxmobWwgg@kZr:NEX?cNhCpgWXWQAWCRCr@QNFiWdEhmA:h`qeWSWqbKHoZ<YbREMNZiunhNTVvC:rH^<mc;TrA_qhxWRQXEfvehpwEN:LQLKX`o=qKh??mB?KVOoDGVuW?d<nIMLvFPbRf?^KEfj_SVPhdzJQ]rjQsiAonWCxIyLCRjev;lEhxKrNQSYdIorWw`eDodUWinUYWi==LmieogtVu:=LrE@c?TjhQ^wLogZyfoxM^:UsIPCf>Cm@iMB[g?QCHsB_:ohVTi[`]JFuim^PQsxvQ@XzL:VgdKUfn`eU^DinosEKiM`nmmtRBYdrdfj;fKSc_XDLBwk[=b:NzRpHnLW^ziIRq<UZoJa_GLbNsn<X=OmNv>ZCwNnRV]d>agWkOZ=E]AZbBLxKOefpWuHE[:eJOZRmgV@CbCSVrOgcdojeIet_CPLYLMjcYro]mbWlXsnDivI_Wd^]s[De=GaDl:^;MTH^Z<rcvOCINLs[^lNgRv>YIlElt^ZkIRy<hO]bAC<IKooZwXF_vcC^[VO`PLuaOlpWumWX:e^QDKbOgTyGK`aeeClSd<:QaMmWQvYvvCGVpV=G`rv_R<b;VljRwQvSGh`q]WewwSl[inPk[;;k:wJT]A_:ZAB=pV@:sZWhRJ>o=^WjNtg<v<vnbO^eT?Ww>Ho:iSW`;pk:zIGqjnyHrwqQV]gdASbw><ilvhMUOqcfhWcfJgwUjFu=bx?e><[TtrcQDua?vivQKkgWTCv;?ytmIXBjWomEzWWrL;UMTIqOEHfT[hEgRgDCBWodiSzOU^L<NJpnZ>pGe`pJnWENsWoq[<s=@adnNFEhjGWknCH_>QSsC?x<zpKhtUELe^:@T>J:=:s:tisyzs@Wrm[:QscByDB;>MThthVULZGLwD=[;ry=EykaSn^Jgitbb?ZJ:a]em?[WyygPC?k>tRtZ_JWo?:IDlLZ>i>`lE`s@Ly>gNibunfNqfLzdVmBaQWySNamw^ZVjY]QEmZI<vtWl:a:ZfeOlorud]iWN_fsOs<JMSmi]QbEKOoYXOYQrXqTfw]]@cpYuihQRhN?xuy>dujLccdkGlWr;Xai;QEVXpxTs;@qi[Qof[pvDsNZkW<QDn>`oeyP:XiciOE^uNuOxX[jRq:Ut`zauek[i=QwCBpsmMEWpW;soUlGpTx?YliCQ^UaOtR=Ko;VYopNIx=Ry:nnH>EXHm`pgy=fWiC>zuJq[k@:g`rDWR?_WobJDppro_<?a]vbJJgbH>kSnxilVxtpQIyWIWkQQVxvfWUAbcx`tswv`rnjIbbEdynB`yXUjerIEiaGWmp]RjGNNE]pD]v^gtJrrqEnxo<^>?H_TrNCQxlytKV:YmkBTl_g:?:xacVQgEz_P;h]:fORImEr?yaAlXdjT:nfnGquynWEHbr[UmhtNgoUSnmkMv]hq@ySVABZQx:yhyTt^WCisrsfipolwWWRYor<fo`r[v>SEHhRKAzpqTNZzl;DIFq[KDyu^VFXqrZCShmly_ywkNrTUyOmuysx<QwI`Ep:=`:>z?i[IbpbDDCwYjYitMzEeMtTt?YSJtISbtGrk<WVSjQQTbr^tLsD:F_aLqbl`mPwWBiX?L;baxs;uwwZYCI?fqGvCsMWPX?IGb^^wdxkwHXOQbflN>;zbliXVxqfe=zI[wy@jVxVTOEn;w<yFXar?boEv@zRxDXVIxb]rU?xnV<]lmDpCEoJypWOY_IifnO_PwFz`Z@jeKnFf`z_w[YPrRQ[GdlUZs:QvN:va<oHxOYEHcfJreWtgsyVvHN^Xnu<mOhQWld^b]xafOivJiGUEbQWzWnVzTrxr^r=nkvowvtEbj^j`v^tkzSjYYIthxvjsZ<tcz][JieJaFJF;JwL;BQVAzxnvU^M>OLDj=<]e[zZxYjmIAo`ga[]lWZYoIswi]ESusxSjAIsrk^qS>pVuYis=rtRpkALxOjFjpAnArKtFx;XaIIQp^pTyDzRXvIebwfnaw_fHhGAGQ`AruvKzupLlfr]v_pzSWNXUiUIxvzKuCztXUQjQcfsdsdzkyXI?QqbzD=yz]B:YzAlbmpyLwXYdYS?<GmCyTz>XG@<]SQvEzECwywjtbkQuMzUWkyOI<I]QvvPrDpY@AqfvVh^s=DszZIeF`gbfyuw?X[YUAwWCqyBJLo;TBr_fPGv]xQjWozGF:ITabWOqtrAnqirk<RZC;tkT@aivAzG<M:>zNO[ZI@MMcev`j@JM;livyCyu^QmxKcHlVrg@uXEHxI]kYLIdayfW@kDybUc_hvabWefabqzKRSHJ_zwYddPHKZJQlF:bY`Ixrx]<xzozsJBYxOZrZQkG:jZA:>_AAyxzdzi:QT;J_LKwRCzNz[c;;kV<R;dVwzmYyAj>M@exzNzlAEIsO;otqAnFxDuyCTs>;aSCotaRMImAPQo?NJQ>>Z?O=xy;ZmYpIm_R:gWMfESiPcS@VQ[N<pRtWBAogwlW:<L:?JRzJitFn:Q]I[tJH:F=F_:sKo`G`^C<PWS[AY>qyGbP?:EZk_:`:HQoo:ncpgGw:bkp_>:oO_qk==yS_o[p`BBZCKp;^<Z<XBR`M:<XJngF=<R[sZQ:<p`W_B>?FgegFwrdJgZE:=V_zN::Kz;?>AvmU[D:[:Ib:S:k>lJ=[xCJI<VF:uNnj:p:^cnlG<?EspLGlkVHqEtqyTJFF=fiRkGEtZBUJIE:E:xJ?PZ`:`ZBdkGm@:HntBk<knqdf=@HolOQ:nbAJ:nY;<L_<_:b_mI[:LA;qXlWfTWQ?x_:yJDNFAhXN@<<_nFBEX;HfLBC]xcZ[JqAoZZlY`rsJZ^p[w=NZwfrL=;xBYLJ<cZBy?V[QBCBD@:BZfb<]=o:dRoo<Z^SpZL<EyYBGe<oZb:Eo<<MEBGNF_iKBD>;kZhkIT=<Ze:?g<YkC:FbZLi@BnJc_:Ay;CJ<kBy<WRqZjkD]=KZija:ZXZm_pm<eZ`BH@=mQ;<Og=OcMRCm=>Zod_@<ps=VZw<?^=JBwSj:wsBD=xZ`JCD=aZvBCJ;hZZRHL<TZ`REL<bZocID=DZ^sHe<[ZvsFD=HZ_NQo=^ZhsIu=`ZzkEP<M:m>Eu=PZysEq=`Q:sIP<>JvREH=IZhkFi=t^Tfpk<yZsk;[<cZ`:BN<OJ?sGu=rZs_Cy=D:nBHWSCZj:@a=yLPRIa<k:KRCq<jZzkIe<dMPsBd<hZu>HK<JJzRE[=LyVREt<MZd>Hl=Y:q>Gg<GZwND[<xDE>D;<EZgV]i=ejXZCc<]JkNIw=LJqBIC=sZpsFK<wZvNCC=TJtsBG=DJZND`<AZp>Gy=bPFcDPJ:Ju_G;==y@sCPGtJcoBt=ZJf_FIs<J^>Dh=`JaoHP:oJy>Bx<eJ_oEL<KJxJ=`<dYBy;z:ngEoH`=OZksIx=?Jdb@bhCuX_@Yc`rEE_mNkxD:<_=?>>U[J_ofQTk:>Y<;K<_=_mYyQRW:CNBowGNqCN_m:_JOBlz;v:xJ<k=H@JoGO>vZDB=gcC:>nbRZyQGJ?p=Uh:Q]E<W=AkIE<aQNVEIpekkcrSgukdBkU<kCPVDnGs^QgFk:DZis;Fse]:JE;>bZ]VHQOrqNgF^;dk_hmX=tkhak:`YnSBkdoo^Sj`N<HkdcBA=s>TcZvVDiU_Fk<_^It>b=nZfX>_kDk]qnW<vkXVFu:VcCf>eluq>nb`;INCf@BsuAOp=Z:w:BvJS<aJjx=a<OdGc<A<E_K_Bi:YkGE?DFQCMqOXKESOt?W_^hFKlxCnNSy@oJgBm]Fm:VfRg?wlBcO]H:[HCHs;s<y:bw:o[_nVZ;FsGBAI@A<zJQoDu=_IQwHI<XsNwIB::Byu<:]lMNLI;<<MF<C<[BBz>=^;bsH<BJ]vkC<CJ]vZG<Ca=FBjsAv=VBaBrk^<BeCqKF@BaB@c^WNP]GS=fBqE:_sqZ?]F]Ze]O]Fs]hRU]Gs]Wk^ZD>]kKDFGF=]kyQ<k:Y:qkI_]soFRIb<=Bt_DF^juA<EmVSIOwI^<vZBJCCJly>D;CJM::FnZlf:czNc=`xIDIg_m:s]:V<Ik_VFc=Vc]LIaoLkeVHUoBciJBNFsFDwGf=Uk`VB]FlA?gG?lSo=VB_:yk^L?=l_cm]MctQBA`@>^]:zUPe]VxPeIH=nkrMqqF<caw@]^PZK_FF^PJq^_@]?kawFtgN^;wIGGo:EBpu^m:IgCs^YBpT@:[;cg>P>VRvBwCe]JcuLG_^=B;eHi]UH?LBZ]cB^LGZ^sBgR;o^_Bp<CP^oBfo=]^gBkCMk^Yk<mHwW@^Xcni:eBkG=g^^d;mC[^@Bei@E;XBmD?Ll;cI]Ds^yoA]Es]MHR<Aw]DiDFDg<dcc[la]dJwDHpWSJtTDa<pcf<CF^>cb<Il]VBhDC>=Fcbxk_<?c[JlUG`BBeFc::;>aG_=[A=NFHJmcwTFc<XRquHa^vcieG[k@c`:Ct]Pco>mQ<vkfkkB<F:BuFS^Gkbw=l^s><uID^yRtjKC^Zc_wG`]wk<gG@;_BqvNYZ[BfTBthukfalJ=aMBuHl]hkfZEu]H:rPCs]Xy>?;z:lceuEc<w:?_p?^LRl[rC^`JluCLJaQRPD=]@:huIJ:pBu<Fo^jcl<Ey^xBZ@Ed^^Bb<EGJnBw@DK^X^XN>::eVo::;yo:;iPoV^UBbPMc]zZKmDR]qZG@Bl]gRfmCl]YBpwBC^m:JLIr<]RksD`]mRaPIH=DR^noH=tkfK>a=Ny;:AYtRG>mGA^PZVXIYtzs>mER=fR_?;k^QR`XFr<JNFTIs^YkEIAB:JNFv:>=o??:@>=c:oJDm^HRc>ms:lRZwHm[XsgHIv]dJiTIKxlnXZQM^TRqDIP^gsc]=Z:dsj]BB;js[XEs^ZoCR<WJZRnyBz=bLATnV<Pi?D@Ix?zFzpZ[oFN>mjwVy@zmNKAz=tlYxcZWzozw;zQzkdo:EFio:<X?R:GQgDAJ>oZ=GKT:CF;sjX@mB=D:uenu=tJ;L<T=b?WJ=?<q>aFCH_^Ztp[H_GBC:GWdp:SekB;L:lNaIso:^YafsC>c_JisRkdz]H=A:mqIR=NgBVIL;QRbw:ZZQ_F=?S^MsxaI><ZJ?[Et^;>sKEt^[ARz`FMC>tzZgLS>`jagMF;UjZV<::D?<:Fkmhan<>MB:GkRJ:y=_ESOf<Z>cMk:T[H=[;:syIL]ns^aFf=axNkG_<c:LHH]LI_F=:jBQ:ysGl=LyM?LO<NZr>HMxsBR?@W=[JkBHWSfkd[Cq^vkdz`Esf>twFY:F_]BDmM<:Lpr];o_xFBfSHiWlFohkKYFFE=Js_^r=]lbXeHpVek`YJo:<kTiGo^fR^KHn^Pc_dDwFbyUCBeMHkcSISgVcTt?s<VRpt:G^R_mM<<]zkeNF^]ERaDBk^k>ocmDVLb?:ABk_cr]=z`J>`_Id][kkX>hcBZa;Ip>L>flEBLk:][CTse>a:FNLW>^DCP_B_wg>uLR_iCE?]B:tkCF;wZpCGH`XNKFIV=tJUCEi=fJ`>H=<<keCDJ<]_d:DaM@kgdD>Mqkd<JyJRNqdBB;u_ldIx[Q>`dFg:VktjpvRH_eCEj^i_[yHO<bs`bn^J;_`rP@LLNNSDgCYkGSCf=`RheDtgS_yV:VMD_h`FPMo:SSHs]XNZDH;Li_pypG^zkk<CPpx_g;CiLRRstIeLXkn[_iL]BR@Iv<v_e;EQ[A_pqljWL>oo=XM>_^tF<Lj_vKG<LqRjtIoL:Nq`EF<?>@ODkl>_g?Dp=fJm?FTM:JnCGO<sNcOBKM:kd?I^::Zp?FDMqA=?BW^Wcv?GgMD_z?GxLT_zpI=G]Nu?GCMa_z[?TLrvWdHRK=RqA<qMCBoDGa]y_^npSLQuW`Cm[HNf:A@M:`LSH^ML_mlGaLf:_OIELlN]OGPMU_caC`LMReLCw=W_dOBn]IspODHM@xRdkpMn_s;BD:WNktIpLNZltGR[dEAk^OK=>qOIxpXoZXEfs@c`[H]]fRf`CNLvZEPB_;p>nKCk]ykdaCF]Y_wCBWMC:dpD?^rlIaCKMRVJPHN<@>]MZ]G=:sQQ<:pNKxEn:<oiuI`MAs_hEGCm:LiAf`RLA<FtS]BCwogGzsfo=u<C:C_[F^Fn>mDDLORxeGLG=>`hBE_`qMhEOJ<ZX@ndLtNxWF:mtRuHIY>`RlVItLRoyxH_<gFzeBg];B^iEHlq_I`qzL;Rk^EQL]o_^IG]`NrWDk:GBJT;vtBc=LAW]E_UyEHl]yOxmDkqb=dpc:uAC@lp]VwW]>NnxFOm:M=Toj`Cw:k:;WZP:c:<n_a:d:IKFknt_pqEHkng<mCH]@Fn:;;K<RhO;J=@>^^FVNnRjD;b=QomMZcnhcyhDwFAFi^Fk:nFnTIl]uHYqI;l^>_GQ_;OodnBrMqy;eG<n[DNX^OMKo_tHK>py<_p@Gn_jgBC^YBjqCfsEc]mC_:U:DX?ZhD:Op>ALzo:<BDmUkXCGL^UNrKIhMgcvQK?>egp]l??bog=@sLyRj[Hj^kVD:;DnrsgfC::Dgx:=zMdRZ=HO=XgpTHS=mgkfBh]VkTF>Q^Lgfo>f^bsD=]o:<Z;:;g;NWVA;H`[gjiG@mZzCzlOBaQUUDj<>ALIJawzz:vHghGghO;H`^RvSD@:IbYzq>c@cqvCHm=EXqCbVbgtzlTs^h>uIILG>^wCin<?XkB]nRmE^BXnIgZvCXnZVhvCR;>A=vCPWEgbvFr=ZBVxGKn:Vic;?>GBKnE;mofKvD[m^gk[Jo[RVyADQ=>Vhwpl:fgnVFc_ncr=C>]l>[k?J:VVbdGqhyo_hnFM@VyHFM^IcfLCy]VkQLDHoVs]sAKm]BZiHk`aCR]PF`OCFmLR`oe:]JmdhCTmMs_[CNLQ]dCC@LQn]bBt]GPZJN>??s];cZxHv=ogy;;;JuHIQGw]nF^iBB]FVdz[qnvsjUGqgwyHoks:N;SuFgLYkXVFlStJCrBEsW;QvGz;KF_n`VZPFZzpCm@yExDENB;SbBSMHfArCWmW;GrCgMCcJSDxmsw`:QxnZBW]Gw^ZwkCOHn=EC=Z^nt>uIBWnVyYIb^nxxKIIgLc:WT;MmZPUrEEnowvPC?nhsbIIz_ww]s=w?So[tB@;R>hYkQxMzWe>JL]_`;Ek:o>wK@S`?q=;CbWPdN_Jggz:emlTtQzA;Hq:w>zUFkLXUGh^bnqHR[CapMNo:GwL@f<:FhL`Z@:GcLcJe`pKgZEJdGJ;tZQDqomYQ<ZDLGDfLv`>[K>mqpO;TfI^Bs<YFUZHU^F:W@CRnoZLxEoMugjp=@<A:`lBnLgk]`BwM?orGF<^]ws^HO=;ss=EIMYB`aCenY_gJG:DPNqxD>WvotpBZ<Uwei@ktafIaCHsDf:XMYL=:cPFItwFm<JzMp_ndCvMkVrdGBmLLHqDQ=oF]eln;aoySEJEQknhEN;u<ZkCREdBd`EBwlMV^F@MNFe^Ij=gKQar];yUAMD>LK<_PnaLQksuIZKHRGiBG^zsqzGBDcINACSmr:sZfjm@czJdBD<kSelrMq:wuBZZaFoMGW^qSOmAB;ZBFnFr=Pw`jBg^xFlD<P:nD>arm?h:g>N<EVJK:hREPV`^ZT^J]nrB@n<g[sLt>N:DUFenZ]caFLDs:SBe@nk]uLILEF]]gBI<ytLZeehe<vBiVntRkciYn@>^nBynORlgCwny<zzEx]ggZqH>VK<occOLtBuHEcEd<isA:]>s^uCZ^XVpHEo^ztF@HUnBRkqnOhmeCVOf]NR`mIR]WRn@Fq]FgxaMH^nF];IiMc>bjGQxvwWYrZM;w]zqJMfzL:EjwaqQkPS`pbE;EYwIz?YHzxszBIoiDPiMlIbdj>w[BhL;ZMtCcLQcr><R<i:C:FFL<HW=aYsrwzL<J<Vb=zD;:`sf`IQ]ZJGXGNLD:R:femEsbxEZ:ag]qk?Wm<qyFBDD:ACkZDmNnGCZDq_jFIZEa<yvERDXF^Ze[Dg:@>f>msF]MCDtmFTMCDkLF=:A_mjFQS@XJy:M_iXJjiPJglLkC;JfUS`<kPmZx^FnJf[EGkwxD>EuV_KrTDW_lOISmm:`g`uEOBZRiM^hBzbEM^K]rHHUm^HBt;cNcbFnBf]sRbPNnGS]tmGz;;cO]F][qBnTGW]ULnkjB:BBEkdFttSVTDlDl<gcdb=gcPkih^BcA<HOMf_fHBIMhN`OH=D^ojzIxD=Rr>iFDRwrTlJEbsb>fXd=VrcFpLh<eNienw[FCC:DEsZ>gBsf>v>iD^IAHu<ump:IFe;DvVy`CEmifB=FMETZVght]IVkSDdEfF]SEtMyL]Bo?DyUXk:?hWF[gcoD^h<Ncx]FmsLH>WxBHNc^]?LyTC`ExBEbEODjc^Nc?nJRrHHhm==XRApDyBm@EHdnLt]DhDqB^]Bx]qkguHMFiwfRhlZZ::".charCodeAt(c++))?L-59:L-58),k|=(0<(L&(E/=2))?1:0)<<J,++J}for(var B,k,J,C,L,R=[],D=1,F=3,o=1,M=[],E=0,c=0;;){if(Z(o+1),2==k)return M.join("");-2&(C=k)||(Z(8*k+8),R[C=F++]=String.fromCharCode(k),--D||(D=2<<o++)),M.push(C=R[C]||B+B[0]),B&&(R[F++]=B+C[0],--D||(D=2<<o++)),B=C}}());
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, n, i) {
+    return new(n || (n = Promise))(function(r, o) {
+        function s(t) {
+            try {
+                _(i.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(i["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function _(t) {
+            t.done ? r(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((i = i.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return i([t, e])
+        }
+    }
+    function i(n) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (r = 1, o && (s = o[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(o, n[1])).done) return s;
+            switch (o = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                o = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    _.label = n[1];
+                    break
+                }
+                if (6 === n[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(n);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            n = e.call(t, _)
+        } catch(i) {
+            n = [6, i],
+            o = 0
+        } finally {
+            r = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var r, o, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
+eggWarehouse; !
+function(t) {
+    var e; !
+    function(t) {
+        t[t.SOUL = 1] = "SOUL",
+        t[t.ENLIVENER = 2] = "ENLIVENER",
+        t[t.CRYSTAL_NUCLEUS = 3] = "CRYSTAL_NUCLEUS"
+    } (e = t.EggType || (t.EggType = {}));
+    var n = function(n) {
+        function i() {
+            return n.call(this) || this
+        }
+        return __extends(i, n),
+        i.getInstance = function() {
+            return this._instance || (i._instance = new i),
+            i._instance
+        },
+        i.prototype.initOpenData = function(n) {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var i, r, o, s, a, _, u, c, h, g, l;
+                return __generator(this,
+                function(p) {
+                    switch (p.label) {
+                    case 0:
+                        switch (r = n) {
+                        case e.SOUL:
+                            return [3, 1];
+                        case e.ENLIVENER:
+                            return [3, 3];
+                        case e.CRYSTAL_NUCLEUS:
+                            return [3, 5]
+                        }
+                        return [3, 7];
+                    case 1:
+                        return [4, SocketConnection.sendWithPromise(42400, [])];
+                    case 2:
+                        return i = p.sent(),
+                        [3, 8];
+                    case 3:
+                        return [4, SocketConnection.sendWithPromise(42401, [])];
+                    case 4:
+                        return i = p.sent(),
+                        [3, 8];
+                    case 5:
+                        return [4, SocketConnection.sendWithPromise(42402, [])];
+                    case 6:
+                        return i = p.sent(),
+                        [3, 8];
+                    case 7:
+                        return [3, 8];
+                    case 8:
+                        for (o = i.data, s = o.readUnsignedInt(), a = o.readUnsignedInt(), this._eggVoDic = new HashMap, this._enlivenerVoDic = new HashMap, this._nucleusVoDIc = new HashMap, _ = 0; 4 > _; _++) if (u = BitUtil.getBit(s, _), u > 0) switch (c = _ + 1, n) {
+                        case e.SOUL:
+                            h = new t.EggVo(o, c),
+                            this._eggVoDic.add(c, h);
+                            break;
+                        case e.ENLIVENER:
+                            g = new t.EnlivenerVo(o, c),
+                            this._enlivenerVoDic.add(c, g);
+                            break;
+                        case e.CRYSTAL_NUCLEUS:
+                            l = new t.CrystalNucleusVo(o, c),
+                            this._nucleusVoDIc.add(c, l)
+                        }
+                        return [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i.prototype.GetReward = function(t, n, i) {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var r, o, o;
+                return __generator(this,
+                function(s) {
+                    switch (s.label) {
+                    case 0:
+                        switch (r = t) {
+                        case e.SOUL:
+                            return [3, 1];
+                        case e.ENLIVENER:
+                            return [3, 3];
+                        case e.CRYSTAL_NUCLEUS:
+                            return [3, 5]
+                        }
+                        return [3, 7];
+                    case 1:
+                        return [4, SocketConnection.sendWithPromise(2316, [i, n])];
+                    case 2:
+                        return s.sent(),
+                        [3, 8];
+                    case 3:
+                        return [4, SocketConnection.sendWithPromise(2358, [i, n])];
+                    case 4:
+                        return s.sent(),
+                        o = new egret.Event(GameEvent.NOTIFY_SOUL_BEAD_CHANGE),
+                        o.data = i,
+                        EventManager.dispatchEvent(o),
+                        [3, 8];
+                    case 5:
+                        return [4, SocketConnection.sendWithPromise(2392, [i, n])];
+                    case 6:
+                        return s.sent(),
+                        o = new egret.Event(GameEvent.NOTIFY_NUCLEUS_CHANGE),
+                        o.data = i,
+                        EventManager.dispatchEvent(o),
+                        [3, 8];
+                    case 7:
+                        return [3, 8];
+                    case 8:
+                        return [4, this.initOpenData(t)];
+                    case 9:
+                        return s.sent(),
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i.prototype.SetPutEgg = function(t, n, i) {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var r;
+                return __generator(this,
+                function(o) {
+                    switch (o.label) {
+                    case 0:
+                        switch (r = t) {
+                        case e.SOUL:
+                            return [3, 1];
+                        case e.ENLIVENER:
+                            return [3, 3];
+                        case e.CRYSTAL_NUCLEUS:
+                            return [3, 5]
+                        }
+                        return [3, 7];
+                    case 1:
+                        return [4, SocketConnection.sendWithPromise(2315, [i, n])];
+                    case 2:
+                        return o.sent(),
+                        [3, 8];
+                    case 3:
+                        return [4, SocketConnection.sendWithPromise(2357, [i, n])];
+                    case 4:
+                        return o.sent(),
+                        [3, 8];
+                    case 5:
+                        return [4, SocketConnection.sendWithPromise(2391, [i, n])];
+                    case 6:
+                        return o.sent(),
+                        [3, 8];
+                    case 7:
+                        return [3, 8];
+                    case 8:
+                        return [4, this.initOpenData(t)];
+                    case 9:
+                        return o.sent(),
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i.prototype.PutOff = function(t, n, i) {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var r;
+                return __generator(this,
+                function(o) {
+                    switch (o.label) {
+                    case 0:
+                        switch (r = t) {
+                        case e.SOUL:
+                            return [3, 1];
+                        case e.ENLIVENER:
+                            return [3, 3];
+                        case e.CRYSTAL_NUCLEUS:
+                            return [3, 5]
+                        }
+                        return [3, 7];
+                    case 1:
+                        return [4, SocketConnection.sendWithPromise(42403, [1, i, n])];
+                    case 2:
+                        return o.sent(),
+                        [3, 8];
+                    case 3:
+                        return [4, SocketConnection.sendWithPromise(42403, [2, i, n])];
+                    case 4:
+                        return o.sent(),
+                        [3, 8];
+                    case 5:
+                        return [4, SocketConnection.sendWithPromise(42403, [3, i, n])];
+                    case 6:
+                        return o.sent(),
+                        [3, 8];
+                    case 7:
+                        return [3, 8];
+                    case 8:
+                        return [4, this.initOpenData(t)];
+                    case 9:
+                        return o.sent(),
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i.prototype.RightNow = function(t, n, i) {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var r;
+                return __generator(this,
+                function(o) {
+                    switch (o.label) {
+                    case 0:
+                        switch (r = t) {
+                        case e.SOUL:
+                            return [3, 1];
+                        case e.ENLIVENER:
+                            return [3, 3];
+                        case e.CRYSTAL_NUCLEUS:
+                            return [3, 5]
+                        }
+                        return [3, 7];
+                    case 1:
+                        return [4, SocketConnection.sendWithPromise(2344, [i, n])];
+                    case 2:
+                        return o.sent(),
+                        [3, 8];
+                    case 3:
+                        return [4, SocketConnection.sendWithPromise(2376, [i, n])];
+                    case 4:
+                        return o.sent(),
+                        [3, 8];
+                    case 5:
+                        return [4, SocketConnection.sendWithPromise(9257, [i, n])];
+                    case 6:
+                        return o.sent(),
+                        [3, 8];
+                    case 7:
+                        return [3, 8];
+                    case 8:
+                        return [4, this.initOpenData(t)];
+                    case 9:
+                        return o.sent(),
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i.prototype.CheckEggunLockState = function(t, e) {
+            return ! 0
+        },
+        i.prototype.GetEggleftTm = function(t, n) {
+            switch (t) {
+            case e.SOUL:
+                if (this._eggVoDic.containsKey(n)) return this._eggVoDic.getValue(n).time_left;
+            case e.ENLIVENER:
+                if (this._enlivenerVoDic.containsKey(n)) return this._enlivenerVoDic.getValue(n).left_tm;
+            case e.CRYSTAL_NUCLEUS:
+                if (this._nucleusVoDIc.containsKey(n)) return this._nucleusVoDIc.getValue(n).left_time
+            }
+            return 0
+        },
+        i.prototype.GetEggAllData = function(t) {
+            for (var e = [], n = 1; 4 >= n; n++) {
+                var i = {};
+                i.type = t,
+                i.pos = n,
+                i.left_tm = this.GetEggleftTm(i.type, i.pos),
+                i.eggId = this.GetEggId(i.type, i.pos),
+                i.obtTm = this.GetObtm(i.type, i.pos),
+                this.CheckEggunLockState(i.type, i.pos) ? (i.eggId <= 0 ? i.state = 1 : i.state = i.left_tm > 0 ? 2 : 3, e.push(i)) : (i.state = 4, e.push(i))
+            }
+            return e
+        },
+        i.prototype.GetEggId = function(t, n) {
+            switch (t) {
+            case e.SOUL:
+                if (this._eggVoDic.containsKey(n)) return this._eggVoDic.getValue(n).id;
+            case e.ENLIVENER:
+                if (this._enlivenerVoDic.containsKey(n)) return this._enlivenerVoDic.getValue(n).yuanshen_id;
+            case e.CRYSTAL_NUCLEUS:
+                if (this._nucleusVoDIc.containsKey(n)) return this._nucleusVoDIc.getValue(n).gen_item
+            }
+            return 0
+        },
+        i.prototype.checkItemIsWork = function(t, n, i) {
+            switch (void 0 === i && (i = !1), t) {
+            case e.SOUL:
+                for (var r = this._eggVoDic.getValues(), o = 0, s = r; o < s.length; o++) {
+                    var a = s[o];
+                    if (a.id === n) return i || Alarm.show("精元正在孵化中，不可重复放入"),
+                    !1
+                }
+                break;
+            case e.ENLIVENER:
+                for (var _ = this._enlivenerVoDic.getValues(), u = 0, c = _; u < c.length; u++) {
+                    var a = c[u];
+                    if (a.obtain_tm === n) return i || Alarm.show("元神珠正在孵化中，不可重复放入"),
+                    !1
+                }
+                break;
+            case e.CRYSTAL_NUCLEUS:
+                for (var h = this._nucleusVoDIc.getValues(), g = 0, l = h; g < l.length; g++) {
+                    var a = l[g];
+                    if (a.gentm === n) return i || Alarm.show("晶核正在孵化中，不可重复放入"),
+                    !1
+                }
+            }
+            return ! 0
+        },
+        i.prototype.GetObtm = function(t, n) {
+            switch (t) {
+            case e.SOUL:
+                return 0;
+            case e.ENLIVENER:
+                if (this._enlivenerVoDic.containsKey(n)) return this._enlivenerVoDic.getValue(n).obtain_tm;
+            case e.CRYSTAL_NUCLEUS:
+                if (this._nucleusVoDIc.containsKey(n)) return this._nucleusVoDIc.getValue(n).gentm
+            }
+            return 0
+        },
+        i
+    } (egret.EventDispatcher);
+    t.DataMgr = n,
+    __reflect(n.prototype, "eggWarehouse.DataMgr")
+} (eggWarehouse || (eggWarehouse = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, n, i) {
+    return new(n || (n = Promise))(function(r, o) {
+        function s(t) {
+            try {
+                _(i.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(i["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function _(t) {
+            t.done ? r(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((i = i.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return i([t, e])
+        }
+    }
+    function i(n) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (r = 1, o && (s = o[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(o, n[1])).done) return s;
+            switch (o = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                o = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    _.label = n[1];
+                    break
+                }
+                if (6 === n[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(n);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            n = e.call(t, _)
+        } catch(i) {
+            n = [6, i],
+            o = 0
+        } finally {
+            r = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var r, o, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
+eggWarehouse; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            return e.call(this, t) || this
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this);
+            var r = new n;
+            this._view_pop = r;
+            var o = 1;
+            this.data ? o = this.data.type: this.data = {
+                type: 1
+            },
+            t.DataMgr.getInstance().initOpenData(o).then(function() {
+                var t = PopViewManager.createDefaultStyleObject();
+                t.caller = i,
+                t.clickMaskHandler = function() {},
+                t.maskShapeStyle.maskAlpha = .6,
+                r.addEventListener(PopView.EVENT_DESTROY, i.onClose, i),
+                PopViewManager.getInstance().openView(r, t, i.data)
+            })
+        },
+        i.prototype.destroy = function() {
+            this._view_pop = null,
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    t.EggWarehouse = e,
+    __reflect(e.prototype, "eggWarehouse.EggWarehouse");
+    var n = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.openTrick = !1,
+            n.skinName = t.EggWarehouseSkin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        n.prototype.initEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.imgBtn_close, this._onTouchImageButtonHandler, this),
+            t.DataMgr.getInstance().addEventListener(t.EventConstant.EVENT_ON_PUT_EGG, this._onPutEggHanlder, this),
+            t.DataMgr.getInstance().addEventListener(t.EventConstant.EVENT_ON_RIGHT_NOW, this._onRightNow, this),
+            t.DataMgr.getInstance().addEventListener(t.EventConstant.EVENT_ON_GET_REWARD, this._onGetReward, this),
+            t.DataMgr.getInstance().addEventListener(t.EventConstant.EVENT_UNLOCK, this._onUnLock, this),
+            t.DataMgr.getInstance().addEventListener(t.EventConstant.EVENT_PUT_OFF, this._onPutOff, this);
+            var n = new eui.RadioButtonGroup;
+            this.typeBtn_1.group = n,
+            this.typeBtn_2.group = n,
+            this.typeBtn_3.group = n,
+            GameInfo.isChecking && (this.typeBtn_2.visible = !1, this.typeBtn_3.visible = !1, this.txt_desc.visible = !1),
+            ImageButtonUtil.add(this.typeBtn_1,
+            function() {
+                e.setIndex(1)
+            },
+            this, !1, !1),
+            ImageButtonUtil.add(this.typeBtn_2,
+            function() {
+                e.setIndex(2)
+            },
+            this, !1, !1),
+            ImageButtonUtil.add(this.typeBtn_3,
+            function() {
+                e.setIndex(3)
+            },
+            this, !1, !1)
+        },
+        n.prototype.setIndex = function(e) {
+            var n = this;
+            this._type = e,
+            this._openParmInfo = null,
+            t.DataMgr.getInstance().initOpenData(this._type).then(function() {
+                n._upDateView()
+            })
+        },
+        n.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            t.DataMgr.getInstance().removeEventListener(t.EventConstant.EVENT_ON_PUT_EGG, this._onPutEggHanlder, this),
+            t.DataMgr.getInstance().removeEventListener(t.EventConstant.EVENT_ON_RIGHT_NOW, this._onRightNow, this),
+            t.DataMgr.getInstance().removeEventListener(t.EventConstant.EVENT_ON_GET_REWARD, this._onGetReward, this),
+            t.DataMgr.getInstance().removeEventListener(t.EventConstant.EVENT_UNLOCK, this._onUnLock, this),
+            t.DataMgr.getInstance().removeEventListener(t.EventConstant.EVENT_PUT_OFF, this._onPutOff, this)
+        },
+        n.prototype._parseData = function() {
+            this._data && this._data.type && (this._type = this._data.type),
+            this._data && this._data.info && (this._openParmInfo = this._data.info)
+        },
+        n.prototype._upDateView = function() {
+            this.typeBtn_1.selected = 1 == this._type,
+            this.typeBtn_2.selected = 2 == this._type,
+            this.typeBtn_3.selected = 3 == this._type;
+            var e = t.DataMgr.getInstance().GetEggAllData(this._type);
+            if (this._setTitleStyle(), this._updateComps(e), this.openTrick || (this._onTrick(), this.openTrick = !0), this._openParmInfo) {
+                for (var n, i = 0; i < e.length; i++) if (1 === e[i].state) {
+                    n = e[i];
+                    break
+                }
+                if (n) {
+                    var r;
+                    r = this._openParmInfo instanceof SoulBeadItemInfo ? this._openParmInfo.obtainTime: this._openParmInfo instanceof NucleusInfo ? this._openParmInfo.gentm: this._openParmInfo.itemID,
+                    t.DataMgr.getInstance().checkItemIsWork(this._type, r) && this._onPutEgg(n.pos, r)
+                } else {
+                    var o;
+                    switch (this._type) {
+                    case 1:
+                        o = "孵化仓已满";
+                        break;
+                    case 2:
+                        o = "赋形仓已满";
+                        break;
+                    case 3:
+                        o = "培育仓已满"
+                    }
+                    Alarm.show(o)
+                }
+            }
+        },
+        n.prototype._setTitleStyle = function() {
+            this.title.source = "egg_warehouse_title_" + this._type + "_png";
+            var t = {
+                1 : "普通孵化单次孵化需消耗30分钟，VIP孵化单次孵化仅需15分钟（少数特殊精元除外）",
+                2 : "普通赋形单次需消耗30分钟，VIP赋形单次仅需15分钟",
+                3 : "普通培育单次需消耗30分钟，VIP培育单次仅需15分钟"
+            };
+            this.txt_desc.text = t[this._type]
+        },
+        n.prototype._updateComps = function(e) {
+            e || (e = t.DataMgr.getInstance().GetEggAllData(this._type));
+            for (var n = 0; n < e.length; n++) {
+                var i = this["comp" + (n + 1)];
+                i.setData(e[n]),
+                i.UpdateAll(),
+                2 === e[n].state && this._onSetEggItemCutDow(i, e[n].left_tm)
+            }
+        },
+        n.prototype._onTrick = function() {
+            var t = this;
+            this._inflag = egret.setInterval(function() {
+                for (var e = 1; 4 >= e; e++) {
+                    var n = t["comp" + e],
+                    i = n.data;
+                    if (2 === i.state) {
+                        if (--i.left_tm, i.left_tm <= 0) {
+                            i.state = 3,
+                            n.setData(i),
+                            n.UpdateAll();
+                            continue
+                        }
+                        t._onSetEggItemCutDow(n, i.left_tm)
+                    }
+                }
+            },
+            this, 1e3)
+        },
+        n.prototype._onSetEggItemCutDow = function(t, e) {
+            var n, i = (t.data, Math.floor(e / 86400)),
+            r = Math.floor(e / 3600),
+            o = Math.floor(e / 60) % 60,
+            s = e % 60;
+            i >= 1 ? (r %= 24, n = "剩余 " + this._transtm(i) + "天" + this._transtm(r) + "小时") : n = "剩余 " + this._transtm(r) + ":" + this._transtm(o) + ":" + this._transtm(s),
+            t.SetHalfTm(n)
+        },
+        n.prototype._transtm = function(t) {
+            return t > 9 ? t.toString() : "0" + t
+        },
+        n.prototype._onTouchImageButtonHandler = function(t) {
+            switch (t.currentTarget) {
+            case this.imgBtn_close:
+                this.hide()
+            }
+        },
+        n.prototype._onPutOff = function(e) {
+            var n, i = this,
+            r = e.data;
+            switch (this._type) {
+            case 1:
+                n = "是否确认取消精元孵化？";
+                break;
+            case 2:
+                n = "是否确认取消元神珠赋形？";
+                break;
+            case 3:
+                n = "是否确认取消晶核培育？"
+            }
+            Alert.show(n,
+            function() {
+                t.DataMgr.getInstance().PutOff(i._type, r.pos, r.obtTm ? r.obtTm: r.eggId).then(function() {
+                    var t = i["comp" + r.pos];
+                    r.eggId = 0,
+                    r.state = 1,
+                    t.setData(r),
+                    t.UpdateAll()
+                })
+            })
+        },
+        n.prototype._onUnLock = function(t) {
+            t.data;
+            Alarm.show("敬请期待！")
+        },
+        n.prototype._onGetReward = function(e) {
+            var n = this,
+            i = e.data;
+            t.DataMgr.getInstance().GetReward(this._type, i.pos, i.obtTm ? i.obtTm: i.eggId).then(function() {
+                var t = n["comp" + i.pos];
+                i.eggId = 0,
+                i.obtTm = 0,
+                i.state = 1,
+                t.setData(i),
+                t.UpdateAll()
+            })
+        },
+        n.prototype._onRightNow = function(t) {
+            t.data;
+            Alarm.show("敬请期待！")
+        },
+        n.prototype._onPutEggHanlder = function(e) {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var n, i, r, o, s, a, _ = this;
+                return __generator(this,
+                function(u) {
+                    switch (u.label) {
+                    case 0:
+                        switch (n = e.data, o = this._type) {
+                        case 1:
+                            return [3, 1];
+                        case 2:
+                            return [3, 2];
+                        case 3:
+                            return [3, 4]
+                        }
+                        return [3, 6];
+                    case 1:
+                        return i = ItemManager.GetItemArryBySort(8),
+                        r = "你的物品仓库中已经没有精元啦！",
+                        [3, 7];
+                    case 2:
+                        return [4, ItemManager.getSoulBeadAsync()];
+                    case 3:
+                        return i = u.sent(),
+                        r = "你的物品仓库中已经没有元神珠啦！",
+                        [3, 7];
+                    case 4:
+                        return [4, ItemManager.getNucleusAsync()];
+                    case 5:
+                        return i = u.sent(),
+                        r = "你的物品仓库中已经没有异能晶核啦！",
+                        [3, 7];
+                    case 6:
+                        return [3, 7];
+                    case 7:
+                        return i && 0 !== i.length ? (s = PopViewManager.createDefaultStyleObject(), s.caller = this, s.clickMaskHandler = function() {},
+                        a = {},
+                        a.callBack = function(e) {
+                            var i;
+                            i = e instanceof SoulBeadItemInfo ? e.obtainTime: e instanceof NucleusInfo ? e.gentm: e.itemID,
+                            t.DataMgr.getInstance().checkItemIsWork(_._type, i) && _._onPutEgg(n.pos, i)
+                        },
+                        a.caller = this, a.type = n.type, a.list = i, PopViewManager.getInstance().openView(new t.Warehouse, null, a), [2]) : (Alarm.show(r), [2])
+                    }
+                })
+            })
+        },
+        n.prototype._onPutEgg = function(e, n) {
+            var i = this;
+            t.DataMgr.getInstance().SetPutEgg(this._type, e, n).then(function() {
+                var n = i["comp" + e],
+                r = n.data;
+                r.eggId = t.DataMgr.getInstance().GetEggId(i._type, e),
+                r.state = 2,
+                r.left_tm = t.DataMgr.getInstance().GetEggleftTm(i._type, e),
+                r.obtTm = t.DataMgr.getInstance().GetObtm(i._type, e),
+                n.setData(r),
+                n.UpdateAll();
+                var o, s = ItemXMLInfo.getName(r.eggId);
+                switch (i._type) {
+                case 1:
+                    o = "已将" + s + "放入孵化仓，孵化完成后记得及时领取精灵哦！";
+                    break;
+                case 2:
+                    o = "已将" + s + "放入赋形仓，赋形完成后记得及时领取精灵哦！！";
+                    break;
+                case 3:
+                    o = "已将" + s + "放入培育仓，培育完成后记得及时领取精灵哦！"
+                }
+                Alarm.show(o)
+            })
+        },
+        n.prototype.destroy = function() {
+            this.removeEvents(),
+            egret.clearInterval(this._inflag),
+            e.prototype.destroy.call(this)
+        },
+        n
+    } (PopView);
+    t.MainView = n,
+    __reflect(n.prototype, "eggWarehouse.MainView")
+} (eggWarehouse || (eggWarehouse = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+eggWarehouse; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.EVENT_ON_PUT_EGG = "event_on_put_egg",
+        t.EVENT_ON_RIGHT_NOW = "event_on_right_now",
+        t.EVENT_ON_GET_REWARD = "event_on_get_reward",
+        t.EVENT_UNLOCK = "event_unlock",
+        t.EVENT_PUT_OFF = "event_pet_icon",
+        t
+    } ();
+    t.EventConstant = e,
+    __reflect(e.prototype, "eggWarehouse.EventConstant")
+} (eggWarehouse || (eggWarehouse = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+eggWarehouse; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.skinName = t.EggItemSkin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            this._initEvents()
+        },
+        n.prototype._initEvents = function() {
+            ImageButtonUtil.add(this.imgBtn_add, this._onTouchImageButtonHanlder, this, !1, !1),
+            ImageButtonUtil.add(this.imgBtn_lq, this._onTouchImageButtonHanlder, this),
+            ImageButtonUtil.add(this.imgBtn_put, this._onTouchImageButtonHanlder, this),
+            ImageButtonUtil.add(this.imgBtn_rightNow, this._onTouchImageButtonHanlder, this),
+            ImageButtonUtil.add(this.imgBtn_unlock, this._onTouchImageButtonHanlder, this),
+            this.icon.addEventListener(egret.TouchEvent.TOUCH_TAP, this._onTouchImageButtonHanlder, this)
+        },
+        n.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this.icon.removeEventListener(egret.TouchEvent.TOUCH_TAP, this._onTouchImageButtonHanlder, this)
+        },
+        n.prototype.setData = function(t) {
+            this.data = t
+        },
+        n.prototype.UpdateAll = function() {
+            this._setState(),
+            GameInfo.isChecking && (this.imgBtn_rightNow.visible = !1)
+        },
+        n.prototype._setState = function() {
+            var t = this.data;
+            switch (t.state) {
+            case 1:
+                this.currentState = "state_null",
+                this.validateNow();
+                var e = {
+                    1 : "egg_warehouse_imgBtn_putjy_png",
+                    2 : "egg_warehouse_imgBtn_putysz_png",
+                    3 : "egg_warehouse_imgBtn_putJh_png"
+                };
+                this.imgBtn_put.source = e[t.type];
+                var n = {
+                    1 : "暂无孵化",
+                    2 : "暂无赋形",
+                    3 : "暂无培育"
+                };
+                this.txt_null.text = n[t.type],
+                this.icon.visible = !1;
+                break;
+            case 2:
+                this.currentState = "state_educating",
+                this.validateNow(),
+                this.icon.source = ItemXMLInfo.getIconURL(t.eggId),
+                this.icon.visible = !0;
+                break;
+            case 3:
+                this.currentState = "state_complete",
+                this.validateNow(),
+                this.icon.source = ItemXMLInfo.getIconURL(t.eggId);
+                var n = {
+                    1 : "孵化完成",
+                    2 : "赋形完成",
+                    3 : "培育完成"
+                };
+                this.txt_complete.text = n[t.type],
+                this.icon.visible = !0;
+                break;
+            case 4:
+                this.currentState = "state_viplock",
+                this.validateNow(),
+                this.icon.visible = !1
+            }
+        },
+        n.prototype.SetHalfTm = function(t) {
+            this.txt_educating.text = t
+        },
+        n.prototype._onTouchImageButtonHanlder = function(e) {
+            var n = this.data;
+            switch (e.currentTarget) {
+            case this.imgBtn_add:
+            case this.imgBtn_put:
+                t.DataMgr.getInstance().dispatchEventWith(t.EventConstant.EVENT_ON_PUT_EGG, !1, this.data);
+                break;
+            case this.imgBtn_lq:
+                t.DataMgr.getInstance().dispatchEventWith(t.EventConstant.EVENT_ON_GET_REWARD, !1, this.data);
+                break;
+            case this.imgBtn_rightNow:
+                t.DataMgr.getInstance().dispatchEventWith(t.EventConstant.EVENT_ON_RIGHT_NOW, !1, this.data);
+                break;
+            case this.imgBtn_unlock:
+                t.DataMgr.getInstance().dispatchEventWith(t.EventConstant.EVENT_UNLOCK, !1, this.data);
+                break;
+            case this.icon:
+                2 === n.state && t.DataMgr.getInstance().dispatchEventWith(t.EventConstant.EVENT_PUT_OFF, !1, this.data)
+            }
+        },
+        n.prototype.destroy = function() {
+            this._removeEvents(),
+            e.prototype.destroy.call(this)
+        },
+        n
+    } (BaseModule);
+    t.EggItem = e,
+    __reflect(e.prototype, "eggWarehouse.EggItem")
+} (eggWarehouse || (eggWarehouse = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+eggWarehouse; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.skinName = t.EggWarehouseSelectedPetPopSkin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.list_item.itemRenderer = t.WarehouseItemIcon,
+            this.list_item.dataProvider = new eui.ArrayCollection
+        },
+        n.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.img_btn_close, this.hide, this),
+            this.list_item.addEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchItemTapHandler, this)
+        },
+        n.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this.list_item.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchItemTapHandler, this)
+        },
+        n.prototype._parseData = function() {
+            this._type = this._data.type,
+            this._callBack = this._data.callBack,
+            this._caller = this._data.caller
+        },
+        n.prototype._upDateView = function() {
+            this._setTitleStyle(),
+            this.list_item.dataProvider.replaceAll(this._data.list),
+            this.list_item.dataProvider.refresh()
+        },
+        n.prototype._setTitleStyle = function() {
+            this.title.source = "egg_warehouse_selected_pet_pop_titleTx_" + this._type + "_png";
+            var t = {
+                1 : "点击任意精元放入孵化仓",
+                2 : "点击任意元神珠放入赋形仓",
+                3 : "点击任意异能晶核放入培育仓"
+            };
+            this.txt_title.text = t[this._type]
+        },
+        n.prototype._onTouchItemTapHandler = function(t) {
+            var e = t.item;
+            this.hide(),
+            this._callBack.apply(this._caller, [e]),
+            this._callBack = null,
+            this._caller = null
+        },
+        n.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        n
+    } (PopView);
+    t.Warehouse = e,
+    __reflect(e.prototype, "eggWarehouse.Warehouse")
+} (eggWarehouse || (eggWarehouse = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+eggWarehouse; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.addEventListener(egret.Event.REMOVED_FROM_STAGE, n.destroy, n),
+            n.skinName = t.ItemIconSkin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        n.prototype.dataChanged = function() {
+            var e = this.data;
+            this.icon.source = ItemXMLInfo.getIconURL(e.itemID),
+            this.txt_num.text = e.itemNum + "";
+            var n, i;
+            e instanceof SoulBeadItemInfo ? (n = e.obtainTime, i = t.EggType.ENLIVENER, this.txt_lab.text = "赋形中") : e instanceof NucleusInfo ? (n = e.gentm, i = t.EggType.CRYSTAL_NUCLEUS, this.txt_lab.text = "培育中") : (n = e.itemID, i = t.EggType.SOUL, this.txt_lab.text = "孵化中");
+            var r = t.DataMgr.getInstance().checkItemIsWork(i, n, !0);
+            this.fh.visible = !r,
+            this.touchEnabled = r,
+            this.touchChildren = r
+        },
+        n.prototype.destroy = function() {
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        n
+    } (eui.ItemRenderer);
+    t.WarehouseItemIcon = e,
+    __reflect(e.prototype, "eggWarehouse.WarehouseItemIcon")
+} (eggWarehouse || (eggWarehouse = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+eggWarehouse; !
+function(t) {
+    var e = function() {
+        function t(t, e) {
+            this._location = e,
+            this._gen_item = t.readUnsignedInt(),
+            this._gentm = t.readUnsignedInt(),
+            this._left_time = t.readUnsignedInt()
+        }
+        return Object.defineProperty(t.prototype, "location", {
+            get: function() {
+                return this._location
+            },
+            set: function(t) {
+                this._location = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "gentm", {
+            get: function() {
+                return this._gentm
+            },
+            set: function(t) {
+                this._gentm = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "gen_item", {
+            get: function() {
+                return this._gen_item
+            },
+            set: function(t) {
+                this._gen_item = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "left_time", {
+            get: function() {
+                return this._left_time
+            },
+            set: function(t) {
+                this._left_time = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t
+    } ();
+    t.CrystalNucleusVo = e,
+    __reflect(e.prototype, "eggWarehouse.CrystalNucleusVo")
+} (eggWarehouse || (eggWarehouse = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+eggWarehouse; !
+function(t) {
+    var e = function() {
+        function t(t, e) {
+            this._location = e,
+            this._id = t.readUnsignedInt(),
+            this._cnt = t.readUnsignedInt(),
+            this._time_left = t.readUnsignedInt(),
+            this._item_lv = t.readUnsignedInt(),
+            this._update_tm = t.readUnsignedInt()
+        }
+        return Object.defineProperty(t.prototype, "location", {
+            get: function() {
+                return this._location
+            },
+            set: function(t) {
+                this._location = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "id", {
+            get: function() {
+                return this._id
+            },
+            set: function(t) {
+                this._id = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "cnt", {
+            get: function() {
+                return this._cnt
+            },
+            set: function(t) {
+                this._cnt = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "time_left", {
+            get: function() {
+                return this._time_left
+            },
+            set: function(t) {
+                this._time_left = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "time_lv", {
+            get: function() {
+                return this._item_lv
+            },
+            set: function(t) {
+                this._item_lv = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "update_tm", {
+            get: function() {
+                return this._update_tm
+            },
+            set: function(t) {
+                this._update_tm = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t
+    } ();
+    t.EggVo = e,
+    __reflect(e.prototype, "eggWarehouse.EggVo")
+} (eggWarehouse || (eggWarehouse = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+eggWarehouse; !
+function(t) {
+    var e = function() {
+        function t(t, e) {
+            this._location = e,
+            this._obtain_tm = t.readUnsignedInt(),
+            this._yuanshen_id = t.readUnsignedInt(),
+            this._left_tm = t.readUnsignedInt()
+        }
+        return Object.defineProperty(t.prototype, "location", {
+            get: function() {
+                return this._location
+            },
+            set: function(t) {
+                this._location = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "obtain_tm", {
+            get: function() {
+                return this._obtain_tm
+            },
+            set: function(t) {
+                this._obtain_tm = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "yuanshen_id", {
+            get: function() {
+                return this._yuanshen_id
+            },
+            set: function(t) {
+                this._yuanshen_id = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(t.prototype, "left_tm", {
+            get: function() {
+                return this._left_tm
+            },
+            set: function(t) {
+                this._left_tm = t
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t
+    } ();
+    t.EnlivenerVo = e,
+    __reflect(e.prototype, "eggWarehouse.EnlivenerVo")
+} (eggWarehouse || (eggWarehouse = {})),
+window.eggWarehouse = window.eggWarehouse || {};
+var __extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/comp/EggItemSkin.exml"] = window.eggWarehouse.EggItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBtn_rightNow", "imgBtn_lq", "txt_educating", "txt_complete", "imgBtn_add", "imgBtn_put", "txt_null", "imgBtn_unlock", "txt_viplock", "icon"],
+        this.height = 429,
+        this.width = 244,
+        this.elementsContent = [this._Image1_i(), this.imgBtn_rightNow_i(), this.imgBtn_lq_i(), this.txt_educating_i(), this.txt_complete_i(), this._Group1_i(), this._Group2_i(), this._Group3_i()],
+        this.states = [new eui.State("state_null", [new eui.SetProperty("_Image1", "visible", !0), new eui.SetProperty("imgBtn_rightNow", "visible", !1), new eui.SetProperty("imgBtn_lq", "visible", !1), new eui.SetProperty("imgBtn_lq", "x", 55), new eui.SetProperty("txt_educating", "visible", !1), new eui.SetProperty("txt_complete", "visible", !1), new eui.SetProperty("_Group1", "horizontalCenter", 0), new eui.SetProperty("_Group2", "visible", !1), new eui.SetProperty("_Group3", "visible", !1)]), new eui.State("state_educating", [new eui.SetProperty("imgBtn_lq", "visible", !1), new eui.SetProperty("imgBtn_lq", "x", 55), new eui.SetProperty("txt_complete", "visible", !1), new eui.SetProperty("_Group1", "visible", !1), new eui.SetProperty("_Group2", "visible", !1)]), new eui.State("state_complete", [new eui.SetProperty("imgBtn_rightNow", "visible", !1), new eui.SetProperty("imgBtn_lq", "horizontalCenter", 0), new eui.SetProperty("txt_educating", "visible", !1), new eui.SetProperty("_Group1", "visible", !1), new eui.SetProperty("_Group2", "visible", !1)]), new eui.State("state_viplock", [new eui.SetProperty("imgBtn_rightNow", "visible", !1), new eui.SetProperty("imgBtn_lq", "visible", !1), new eui.SetProperty("imgBtn_lq", "x", 55), new eui.SetProperty("txt_educating", "visible", !1), new eui.SetProperty("txt_complete", "visible", !1), new eui.SetProperty("_Group1", "visible", !1), new eui.SetProperty("_Group2", "y", 19), new eui.SetProperty("_Group3", "visible", !1)])]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Image1_i = function() {
+        var t = new eui.Image;
+        return this._Image1 = t,
+        t.source = "egg_warehouse_texture_13_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.imgBtn_rightNow_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_rightNow = t,
+        t.source = "egg_warehouse_imgBtn_rightNow_png",
+        t.x = 55,
+        t.y = 344,
+        t
+    },
+    n.imgBtn_lq_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_lq = t,
+        t.source = "egg_warehouse_imgBtn_lq_png",
+        t.y = 344,
+        t
+    },
+    n.txt_educating_i = function() {
+        var t = new eui.Label;
+        return this.txt_educating = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 18,
+        t.text = "剩余00天00小时",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 141,
+        t.y = 47,
+        t
+    },
+    n.txt_complete_i = function() {
+        var t = new eui.Label;
+        return this.txt_complete = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 18,
+        t.text = "孵化完成",
+        t.textAlign = "center",
+        t.textColor = 16773477,
+        t.width = 141,
+        t.y = 47,
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return this._Group1 = t,
+        t.horizontalCenter = 0,
+        t.visible = !0,
+        t.y = 19,
+        t.elementsContent = [this.imgBtn_add_i(), this.imgBtn_put_i(), this.txt_null_i()],
+        t
+    },
+    n.imgBtn_add_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_add = t,
+        t.source = "egg_warehouse_texture_add_png",
+        t.x = 45,
+        t.y = 130.652,
+        t
+    },
+    n.imgBtn_put_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_put = t,
+        t.horizontalCenter = .5,
+        t.source = "egg_warehouse_imgBtn_putJh_png",
+        t.x = 14,
+        t.y = 325,
+        t
+    },
+    n.txt_null_i = function() {
+        var t = new eui.Label;
+        return this.txt_null = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 18,
+        t.text = "暂无孵化",
+        t.textAlign = "center",
+        t.textColor = 4175861,
+        t.width = 141,
+        t.y = 27,
+        t
+    },
+    n._Group2_i = function() {
+        var t = new eui.Group;
+        return this._Group2 = t,
+        t.horizontalCenter = 0,
+        t.visible = !0,
+        t.y = 20,
+        t.elementsContent = [this.imgBtn_unlock_i(), this._Image2_i(), this.txt_viplock_i()],
+        t
+    },
+    n.imgBtn_unlock_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_unlock = t,
+        t.source = "egg_warehouse_imgBtn_act_png",
+        t.visible = !0,
+        t.x = 11,
+        t.y = 325,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 27,
+        t.source = "egg_warehouse_imgBtn_vip_png",
+        t.width = 59,
+        t.x = 41,
+        t.y = 143.812,
+        t
+    },
+    n.txt_viplock_i = function() {
+        var t = new eui.Label;
+        return this.txt_viplock = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 18,
+        t.text = "未激活",
+        t.textAlign = "center",
+        t.textColor = 4175861,
+        t.width = 141,
+        t.y = 27.474,
+        t
+    },
+    n._Group3_i = function() {
+        var t = new eui.Group;
+        return this._Group3 = t,
+        t.anchorOffsetX = 0,
+        t.anchorOffsetY = 0,
+        t.height = 80,
+        t.width = 80,
+        t.x = 82,
+        t.y = 135.894,
+        t.elementsContent = [this.icon_i()],
+        t
+    },
+    n.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.horizontalCenter = 0,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.verticalCenter = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/EggWarehouseSkin.exml"] = window.eggWarehouse.EggWarehouseSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["title", "imgBtn_close", "bg", "comp1", "comp2", "comp3", "comp4", "grp_items", "txt_desc", "typeBtn_1", "typeBtn_2", "typeBtn_3"],
+        this.height = 580,
+        this.width = 1040,
+        this.elementsContent = [this.bg_i(), this.grp_items_i(), this.txt_desc_i(), this.typeBtn_1_i(), this.typeBtn_2_i(), this.typeBtn_3_i()]
+    }
+    __extends(e, t);
+    var n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "egg_warehouse_typeBtn_up_1_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var n = e.prototype;
+        return n._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "egg_warehouse_typeBtn_down_1_png",
+            t.percentWidth = 100,
+            t
+        },
+        n._Label1_i = function() {
+            var t = new eui.Label;
+            return t.horizontalCenter = 0,
+            t.touchEnabled = !0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "egg_warehouse_typeBtn_up_3_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var n = e.prototype;
+        return n._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "egg_warehouse_typeBtn_down_3_png",
+            t.percentWidth = 100,
+            t
+        },
+        n._Label1_i = function() {
+            var t = new eui.Label;
+            return t.horizontalCenter = 0,
+            t.touchEnabled = !0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    r = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "egg_warehouse_typeBtn_up_2_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var n = e.prototype;
+        return n._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "egg_warehouse_typeBtn_down_2_png",
+            t.percentWidth = 100,
+            t
+        },
+        n._Label1_i = function() {
+            var t = new eui.Label;
+            return t.horizontalCenter = 0,
+            t.touchEnabled = !0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    o = e.prototype;
+    return o.bg_i = function() {
+        var t = new eui.Group;
+        return this.bg = t,
+        t.height = 580,
+        t.visible = !0,
+        t.width = 1040,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this.title_i(), this._Image2_i(), this.imgBtn_close_i()],
+        t
+    },
+    o._Image1_i = function() {
+        var t = new eui.Image;
+        return t.bottom = 0,
+        t.fillMode = "scale",
+        t.left = 0,
+        t.right = 0,
+        t.source = "egg_warehouse_bg_png",
+        t.top = 0,
+        t
+    },
+    o.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "egg_warehouse_title_1_png",
+        t.x = 48,
+        t.y = 4.493,
+        t
+    },
+    o._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 463.749,
+        t.scale9Grid = new egret.Rectangle(117, 0, 117, 359),
+        t.source = "car_pop_view_contentbg_png",
+        t.width = 998,
+        t.x = 18,
+        t.y = 87,
+        t
+    },
+    o.imgBtn_close_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_close = t,
+        t.source = "egg_warehouse_close_png",
+        t.x = 995,
+        t.y = 2.62,
+        t
+    },
+    o.grp_items_i = function() {
+        var t = new eui.Group;
+        return this.grp_items = t,
+        t.touchEnabled = !1,
+        t.visible = !0,
+        t.x = 27,
+        t.y = 121.258,
+        t.layout = this._HorizontalLayout1_i(),
+        t.elementsContent = [this.comp1_i(), this.comp2_i(), this.comp3_i(), this.comp4_i()],
+        t
+    },
+    o._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = 0,
+        t.horizontalAlign = "justify",
+        t
+    },
+    o.comp1_i = function() {
+        var t = new eggWarehouse.EggItem;
+        return this.comp1 = t,
+        t.skinName = "eggWarehouse.EggItemSkin",
+        t
+    },
+    o.comp2_i = function() {
+        var t = new eggWarehouse.EggItem;
+        return this.comp2 = t,
+        t.skinName = "eggWarehouse.EggItemSkin",
+        t.x = 10,
+        t.y = 10,
+        t
+    },
+    o.comp3_i = function() {
+        var t = new eggWarehouse.EggItem;
+        return this.comp3 = t,
+        t.skinName = "eggWarehouse.EggItemSkin",
+        t.x = 20,
+        t.y = 20,
+        t
+    },
+    o.comp4_i = function() {
+        var t = new eggWarehouse.EggItem;
+        return this.comp4 = t,
+        t.skinName = "eggWarehouse.EggItemSkin",
+        t.x = 30,
+        t.y = 30,
+        t
+    },
+    o.txt_desc_i = function() {
+        var t = new eui.Label;
+        return this.txt_desc = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "普通孵化单次孵化需消耗30分钟，VIP孵化单次孵化仅需15分钟（少数特殊精元除外）",
+        t.textColor = 13884145,
+        t.visible = !0,
+        t.x = 38.684,
+        t.y = 99.418,
+        t
+    },
+    o.typeBtn_1_i = function() {
+        var t = new eui.RadioButton;
+        return this.typeBtn_1 = t,
+        t.label = "RadioButton",
+        t.x = 19,
+        t.y = 53,
+        t.skinName = n,
+        t
+    },
+    o.typeBtn_2_i = function() {
+        var t = new eui.RadioButton;
+        return this.typeBtn_2 = t,
+        t.label = "RadioButton",
+        t.x = 221,
+        t.y = 53,
+        t.skinName = i,
+        t
+    },
+    o.typeBtn_3_i = function() {
+        var t = new eui.RadioButton;
+        return this.typeBtn_3 = t,
+        t.label = "RadioButton",
+        t.x = 120,
+        t.y = 53,
+        t.skinName = r,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/pop/EggWarehouseSelectedPetPopSkin.exml"] = window.eggWarehouse.EggWarehouseSelectedPetPopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["title", "list_item", "scroller_item", "img_btn_close", "txt_title"],
+        this.height = 431,
+        this.width = 753,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this.title_i(), this.scroller_item_i(), this.img_btn_close_i(), this.txt_title_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "eggwarehouse_bg2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "egg_warehouse_selected_pet_pop_titleTx_1_png",
+        t.x = 36,
+        t.y = 2,
+        t
+    },
+    n.scroller_item_i = function() {
+        var t = new eui.Scroller;
+        return this.scroller_item = t,
+        t.height = 320.499,
+        t.width = 645.299,
+        t.x = 53,
+        t.y = 58,
+        t.viewport = this.list_item_i(),
+        t
+    },
+    n.list_item_i = function() {
+        var t = new eui.List;
+        return this.list_item = t,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    n._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t
+    },
+    n.img_btn_close_i = function() {
+        var t = new eui.Image;
+        return this.img_btn_close = t,
+        t.source = "egg_warehouse_close_png",
+        t.x = 712,
+        t.y = 1,
+        t
+    },
+    n.txt_title_i = function() {
+        var t = new eui.Label;
+        return this.txt_title = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "点击任意精元放入孵化仓",
+        t.textColor = 12111615,
+        t.x = 264,
+        t.y = 398,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/render/ItemIconSkin.exml"] = window.eggWarehouse.ItemIconSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txt_num", "icon", "bg_mask_1", "txt_lab", "fh"],
+        this.height = 80,
+        this.width = 80,
+        this.elementsContent = [this._Image1_i(), this.txt_num_i(), this.icon_i(), this.fh_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 80,
+        t.scale9Grid = new egret.Rectangle(24, 24, 24, 24),
+        t.source = "egg_warehouse_selected_pet_pop_item_bg_png",
+        t.width = 80,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.txt_num_i = function() {
+        var t = new eui.Label;
+        return this.txt_num = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.stroke = 1,
+        t.text = "99",
+        t.textAlign = "right",
+        t.textColor = 16777215,
+        t.width = 72,
+        t.x = 5.053,
+        t.y = 60,
+        t
+    },
+    n.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.height = 70,
+        t.horizontalCenter = 0,
+        t.verticalCenter = 0,
+        t.width = 70,
+        t
+    },
+    n.fh_i = function() {
+        var t = new eui.Group;
+        return this.fh = t,
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.bg_mask_1_i(), this.txt_lab_i()],
+        t
+    },
+    n.bg_mask_1_i = function() {
+        var t = new eui.Image;
+        return this.bg_mask_1 = t,
+        t.height = 80,
+        t.source = "egg_warehouse_selected_pet_pop_bg_mask_1_png",
+        t.width = 80,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.txt_lab_i = function() {
+        var t = new eui.Label;
+        return this.txt_lab = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.stroke = 1,
+        t.text = "孵化中",
+        t.textColor = 16777215,
+        t.x = 13,
+        t.y = 31,
+        t
+    },
+    e
+} (eui.Skin);

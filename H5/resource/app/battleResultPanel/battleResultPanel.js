@@ -1,1 +1,1803 @@
-eval(function(){function Z(Z){for(B=J=0;B<Z;)H<2&&(H=64,F=92<(F="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<VfkZ<GYW;J:CJVaC=cTRZStBIR:J^D;Lsj=>jJZtm[[O[dORtN@pO>wIH>[wL<Jj;LkZRhMqwAJM=:ZrB;::pbZP::t>::PrH:<>j]Z><:w>[s:J:XZ:Ffo`Z<NE_mbxLBlHDCQLPRJ<HsbFuXY;BXEk?Z:RQZj^ZwNkLC[GOO=q@e>pqf]yfZ[j]b[:yFC[@OhQBBA]wOpGc:Zbs:@Cs:=aHAJRq:V=:iesMJsyC^t:JRR^vG=Y::=;vo`sP?_C=SF:;TMrtkg^H;dz^`yGl<JixL^M=_:;g:`=tIB:;NCb:siKJr:zAP<kr[HJCfmz::aEFtwZbU]]@nu:<FgsvMW@@z<:?R?trik;KPM=RYcMacP`^C[yWY<QFNUrl>zKZjOIZ:VLRXA]V::EBZ]:ktZHJ[<F]wkc=a:pKfCuvnc<kPSE[kEJs<XE:ZHwD=@i<uuPH_L>gHiT>RO[H?sSZ;?>KJC@niKpeNU[KcoRK]ABJ:n>laARTly@I^yfCk::_]kQJJJJYdc@DcRBVKm@FV:[;sDlv?oQNC?_O>a<nZ:E@qk^[FFKnrHe:@GAFlTa^kGMdI:EBVG@vsG`yzfMa:wM:W[RA_:DM;gitpdsA:oRyT;mR;Pmkcs;k>mFeVX<cA:QsL@STe;HJ`_C^RneifNmc[i@u:KQt[=?K@=D[ilC_PiefuiJPCdch<Wb]H_^NYiZ::m[;S=@i[W]HjUcVlrPxaF:<eic:;CJ=qzfMCdt;V=qRos=qB=eDCEDKXmxsbHD[OpK``fyQ:M_iWpEQtF]R]vYh[pV?G;KB;WOpkIu;O>]h^bHQ:MPxYpVL=Q:koLHh?>MMqopnJhLofPh@pUMhXr=ZWu;ASdl_eaWufBl[eHIK^nogEWuDuA<s<O=KPSv:J>lsHZpeu>is<QaBIZ>A:><VL[y^dOV;Gu_ZA:wz`;D?QkZ>VI>:C:L;YbTI?gjmmZvBqDC::]r=f^aXnj:ThCvGnjIwyiZjpO`Q<uaE>hs`EjpekfSQC]f>kilfPiuziyl@kuCharn]_gEH[ZBIsyFquEshP]uMji^EjBg@vs>ZDoR=]SCgLghbA:_F;=CdpuaYtoi=cgiQzs:Akt`]GI_nq`YtmQ`vyicu[B=RYPGGN;mKoQeWDwa@Vb?b>_V;QXXMtVX=:::IEHC:gHJD:gD@i;pxM_:Z>wGEs:ZY^Dioonn::Te?bg^y;e:@f>qiB<:Jf<fRD;^Hw:;Ph=xvY<Vlg_JZY;UtB@LfLR<WCScZb]<ZWch`FM[=IicLyEkqs^b>co>>DOe]fQg<k?;>l`Zj=tbZWJ;:_@x_f[rEiGZ<A:Es<:IZINkdk<J<QUTu[aAK]JFeIswJnsF`D^YEoIcy><BE::WPS^ZK_ZNrJ>=s::B[HBaMsR:c:_PUemKKY;Ovfor^ZQK:BX@[?RMn<:Qh?TyQWb?MqVg?TTlphk::vIdRmS^XR:@`peC]A<HJ<Jcw=blW>kODl[GnHBgI:x:Hw>LR@?=RKc`oXls=S@:>i;;>bgZ:?EToGAsx:DLZf<::IMf^Z?lIRV:mn@<n@R;X::HGgy_?nD@yi:?_;xsfV>NR:Ugx:::yc:=<G:=sTR:H;O:::uR:JF^:<Lrc:NIo=D:AZWJ:UuT^F:==zZ;SBo:Ew;Z;hyF:=BKZ:<dN:DTDBn:;cKc:U<O:;YX]Fk:BPu:?aMJ:HjD:<:@KK;[E>SGgSRllihb?VPFjvRqdhnk[rchlDqoWv<fO^Zv;Hw^`KjH>KvMtIgxR@QyRAIR:>XK<_F;dBPt_Rtqn^dEP?cJsmgAJ<XDBu[ZLZ[EZ=F:XMo:Z<_h_kDu[eeR=kAkB@CWs]>ANEsVTU`b]j@a<HLe?EifV=?XZ<OJGm=y[ujuAsZ>c<u[ueCQNb]y;_cECLu`BCP?oi^:mrkB:bkaO<GkM_IGEAv:_CmE@D:Zmw]J=Lp[]ZB]k>J<Z=:UGkP<>NSwCpV:z]<_;Huxu^fj[k;WQmLGEmfQ;d^P@cN_T@=V@MUwYs>U=OB>kDBNBMsx^k]c=uqZZ=N]X^EMJ=:iKPfBaD>BVoF;d<m>VCu`J[kh:u=o=]ok?Zf;J=H;qcWBuR:XAn=sNV:Jr=;>FH>PNPK>]OdBGPe:aKtJt>R:qa>lJl<qNeC]FVO_P^^ku?oH<wCyZFZKFBRRck<<M;aAF;RLkOZBKqGgMRyl=^<o<;V:Ghk:pI@BP>IZPUJote;Aa]>oMRaB`rNN:xL@>KNkUd:BkiBRP?KC<_F_BtdLO:Zf>?_bTTK]aS@mM:oUgr[jJDCN^cc@K<>`BKe_o:GpmamBe@CXGzoJd<`eANxdAJNnTd]I:_VwPSN>nT>Mxw^M>i`duW:FKWNL?]=>M:]^?>:@dIMFoijNV`Do^HWDwHLaia;m`iBkr>knd@MF?^DQ:YLJ[Do_XFtSZg:;LPn;kuvD?Nydx<;RDvTWordsRCkJlK<GAfRJXb?@:A:tKKZho[eYJ;d]EP:cj:Ok<aFPrJx=CULu>DMw]`kl<cwFRg=LHEd@L`k@_XBs::>pIIGWQZJGf::G@nSabGb>kCZ=ms;sZx]m^qWfokMlJ>:genlk[=It[dH[F:DOF;qp<ZPHF>_kk?H:a:P_kCV;OYFl;XBnsu[SWev`vURQR[Z=q]WjfZ>GPnojBz:Z?qbIz[il;GUMGs]s<uqhb:pRLeRArIiDdL;n@OVVwS_URrIDMXavGyUgoMnyap`:BFIlzL:KIE>waySNm[bBEF=ZeRN=Gbi:Nl^`ozj@R;rgOUEP<:UTqyiNUywn^D;qkqYU`Im=Y[AIuN:MDk<nJWI>SRJHi:@@?rhfZRiCYc<`qTg:JRk:]NOxpkAWqKBIWQh[G_DoggtTor`bKBQo=rXE::M]n@ShUjPQJWY;pnzffR@bv`FJ^raLHaj=R:uGwUQ_dgJdarGe:Np[Jb[y?:NL^BZl^?]Qj?L]ka:iaStoeTIFCtW?>jaAmY_F?FfRFFMQ;YGRlxLg^ndvIHVxStyVOQqQpXAUfuKcjFRmxvf=qnuvOiTiaxhtZS```N;;zFPrxU`Bhg?zXtxmL`s[wg<a^wAefHPx^sWzWeYeyIj`ojEOzYOr:YWTbIyFA]zBVp[[sA]NiZzn_=^<mWJQ:CkVzBEK`;jK`Aj>:Qdu^PfubsDS:Cc@d;eafae<::Om>:ND<:JQcadagZY:M;e<;ab:W;d@ZP_PjgDPhufP`ZEN@ii_;:UJIPbWAiZBFqiBCB@qbB:c>c;sCcGc?MIqiREVGRB>DHfH_>?:CHhsEsIs:BQH`:<>Bi`lgi__CJP_;J>i`ibJSMIie]IJMXgXba:o>o@Xao;XhoGXZFAXZyiF?F=May^RFgDg>JHgCgGyfg:VGUBwG:Y]jRF;^:T;ewH;jZYKd@b;_[]]G]HCcq][hcP[]NI<?[gd_LA[cJ:K[L;lac?:<<D__NiV:o`l@vac?kGrGfIm^B=RGZKd@cI>@TiKbL:mEO^KgZJ?B<:JHm_laDDl`D;lecMlcBAl[sUC`TICbTBdgTI:iT:@[eAmETAeFFY>NbGP[_PKgDHmgwDxAmCsBdju<kD_cT=oZ>ND<w]hH_OgSo]d:J@d<ZE]i_?qHc>VT_]Bfu=T?OfVLmB=`p:qEr:GA;H=DX;G=w<XB;@FHY<XI^cMaFDegDBhGy<X<h=`GS=^<h>kHcCNU>GNDW=:XJB]V]R[hcS]I<FNCPZI?Og]L::FCZ^QfM[:=DjbFc?OZNMR>NVoLNPNX<@v[JX_FLJRELLkBNVNL:DNW;f]dZ=DaZ_<HZdI>LPTgu<nChD_bc=Y[v[r_wFRiIddd_Ct``aK?Ifd]hC=hu>jdhdre:]E^r`MdX=DbEhu@W^c;B:=]eVYaeTz@:GODgXx:Da:=nBuQp<mFnFk^k=DajiY]HCY^TPI_S=eXcAYe=^ZCZ:o`a::?J?Rs=_=X_w:VJ^=e:`BL;vKK<nMe<:v>b_=:;]<[sN=:<XR?b:<P;<byE<Ca`]`W;OU:;LbP[S@:sc;Gaqt;[]kM:a=]<S=u<DBxKG_uDG:q:c=u;xa[S]lZ:U]n]itS[VLA][=[<Mbc:ST``fkgEjJb<HbOKY]^b^af`l^Mbu;h^f^vZhDiEEa=fd=K:KabAb>s^d;G`r_pkL;r_fKratSWblLxaqs=_b[xUM=CSw:A`k:MaqvA`h<nbnaE`S^E`w<fbf`p:j`Nd`^_;rbCR^`jnZOAaC^JQf[h^v]lbuKVLn^Q_fKGbhagCjaUbVDlC@<CbC_F]G_RONeSbIb_=I:l;=budw<IZVvd;aKVT?aeMeLoLX^<Ng=lL]ObA]QonQeVdlaLOn:S]Kas:FCDQnAA?S@<NN;LNmNZtZugbd=hbYbW`zbxa=b=aZNsNJPS;JNnaU]kOE_fbz_L=NQU_V<v_Unv`qOsNb`b_Q`S[Qa[:r_e>E@mPI`omA@KOWlw_xET;l<[]Yls:uD>Kiu]=lNq;RMl=u<^@]=Y>^KxZ=]fmQ^ydn;J=LNM<M^E]];@Ns=u:g=[=ace^I?KQ]P>M=<B_WNQ>gb[<c;T:b:g^tN[>lD]<DDBbe<DD^RL:?_Ptk;f==;aPW_PQ@;BQPQ_=RO^asPJQsOHOn_E[kNBOBQ=;NOU`cJyP[[yNvQqOMbJO;PQbuMQb@K?fntk:WJN:xNIaWN`conh;FNdby;r_VNUbVPxM:;wO<LD?<PeONsGOl`Z;w:V<R<:ogPgOrbcOra`DX[GbZqwONfwQD^_keNV;eNBoV;uOp=<QK<xQb:g_fJopK=eQK_DD_pONmPuMgqopK;uSgqkoV:VoM:gqR:DNolvkV=DQN>E@uNg;pk_;?PJnx]=^`QgrOPpNV:fZGOGNhQ@Mk]@CB;w;F:a<soRQ:=d@NOapJ=l<Pp[KJ:><FDapqo>:qpHrarG@qraos=e:P;H=@<DD:=Vdc:GyDH]]]Z:M@a:<?yeAR:CtH:WFWRWcWZ:y:a:;`XeAR:FfmZ:qNeDBP<c:a;a;v<QfV=KbolhZpks;v:s;uSuU<=tdF=@:s;a;Rr:=y[Z=usq=poP;B=mp><c:T:xd?qzeKmxruCUnpmX^QAd?RnZJzOxO]qJ=e<R<c<pEtqpr@:ypGohphpfr[Op<rvVvEu@avUWsATa_^Zme;[G;eMr[]Mt^V;t_eaMpG:ISJ=Uoe_ISKUjbGqhpwajoHuT`e`KSB=jQ:dp:MpY=Mp]OxQf^:HXZfPS:z_xbfQzaUQUPA`vNbbHOAPiPBQiOoPgDQPQqyQD[ZOrQWu;Qb`INNPX^YPJIoqGRN;Y_npoFfKZGMpoqQ>N;o_FbSQR>F=<ZV:rZ^^vUI=cZo^m]Tk:<DcLcLr:QyXo<JHgpHCsIRN:NCD^INCsJCIN<XokN:Z?molZq@odPKNLBKDkxaXwewlCXknDIySlUNchYp_:vJnD;cwJNoE:SlcRnkc;bsjueGjZLSJGvtv?r:R:;aU?xxJ_A[Jhv=h>FMhG=OZ@VGEGVSRJiFYKtogCA:G_BKx_?:zopovlBFnkQl>Ft:weYl:CJCBCIkRCN:>CzcNCFC=ZiNwC_`s:=RO;y`bMsP[MV:Yc_lgDHdwiydPqE:l]`evyTZQyIynk;RxeL;BTq;R;ZZG;YeaMSkL]Xl<;y=Z;Dnd@@;HnH;f<X;P;;;XTK;lTd;p:_;eum[WJunx:HuHCMTBZn;fTFZU;MZA;rTr;YTKZ:uz;kuZ[<ZRucEc[TZNu>[sEo[g[QeauqJxnuu]E]Ju[>aa[[uOJyMWJyRduaVl[Ou^VS[JkBk`[EuwkFRvux[^[PkV:HkjuU[tkanGkFa`cj[Uk>@tnZKg@_BRp<@sKFBCJPEcKGFKZwVIoJ<FL]K;:mKK@TZGKMBB_xKBT^KBcUKRJAKFcw[Pur:QDXZJZME>lkaJl=cgJBlXMbpWJLM]hTwNaT:GZoZkka<ksGBMDksN]NSz@b[:l_l<aSfLa^gknbcUlY^<CLC[cc<YVflIcZnPcZRr:>eNRFRyq<RLRs>`HuRaRHRDo?R=RQcL:nRXwt:QOtMCODhBsOPXU<nT>DsHsB:XsY:iKUihfSs>g`spshsxs]PiFYuIf@C>UgJNUP:;OqB[CsBaxYCN__vh[bcACkZ^FnFfFVvSeQFJDFeNoZvV:p[eUVkuUt:]XwqJRc_rsgoD^qgzc]om?bZD:s:;n`ojqZHTf;XLJlZyW[WgKa:>e]NgJicEBwJAlcFs>`sZ>GZOC_wFv;HVkEBrvdkeNlG^^E:<wTZBxtWE:OWPXAE=erEJc;XXf=EOG?ox@EvYWr;fOhJzhnKyamkXa^sSZ@ZjM^RgU^lfOnDQGDJ`AopXaGAWAt:NJ=<t:lR?A]]OArAuAjAGZ:bxUchDoxUaleLr:^<URwSDkU@DKE:@DMwqDi:VkfkBe>:XE]RkkFRVkV>]]CbUJZmZ:uTT:=EYc:HbXZ:Jwe::HdcahPZm?o=HyPPTfaoxdt`:Htlk=HtiKjEZ>sl:DY=PWRg;mHCmD@F;HcGk:KBIOPvXq:IXmmByrxG;]yrbQk:ogveG^D[DafIZqV:kIfEHBOyD^P<OxiR>FBHo@ywX<GBv=pBTA;Dd[h?:Z_<Z=^I=c^dA@q@q?OvD^OrEDOs><J?aEGWJJ?o?u[qBBpzbY<>_GfIfe@?kHwEzZJ<uXgJ@zCrh<]RcfGIiIUS=[jD:jUULA:?:CzGn]kDALWqWw`SWpdfWzWsxuWo`KWrZFHh>?:Hc;jCxwxnxmwZnAluqIiA@UTu:ZZ:uouqut?B^luzYcRbNFPHJ?=n=zTuZBumZF^wuyur:AE^PD;Tp`vZGbNCv]ZCpiqECwloFkJFe@hu;Chxhvhx`Wk:cgWpxyWu@D:i`VS;ysrB[kjH;D[rgH[xQYS]^RPZQWo?IGH]qUDSZ@:=gFqMDSUiVIMA::j@tl;xzQ`;Er:;[mPRwrGsUkH[fp_TGaftgGUvDPB?I@PYflttUyRBUFUD>I<CRwJh[wgx`uKhk;kITZtBAkyuKncHKllmCplnlwBIKquYauyA@kfell=wCuCzAzKzlwm_CnApbyCkbsCpCsPmq<SLy@Qm::WsdrkFdr@Tdy>AqzoJPoPkWsDoN:B@BETyPqOSPn>`H=H?MEPuBIPsqwqvqoTourXyAl`lrtChCaAwKuK_nwEt:?ZIMHZAfojv[mjw?kR[n[[tuFymjsRzKx_vRNyvIkJ@YoeY]BKmYkyrYo:sTyFKYzIqBFOwB[O=P;mfKGkmNOqvxGjcL:OIhk<sK@d[>aUQe?iN;nMwoipzGD@Aoy[:kjkEE<?;YpaCFwayKf>s;[@uskCgL@[Mz^Oqzs>:CNYzEe_Tph^qkCP]VCbhmau]wdyNZeM<?Dbot?VTke:nZLOA`LDd`NeeWOCeapJTSxN_TRp=@>SMad`JB;>iG?AZtw;zJBN?[ABIy:lKU>IvSDI;lkA^?JqBvLp]@lx;:l:HdMBTGq<[[<dkggF@TIG>P^EKHiy:u;EplH]jxoLzMB@;zmhRYJ:RlZ_da==ERUKtNpZy@ARDhlWVb;IKB_>rmhJqcZBx]?:BgrqRQGJJs;FZd:JecyhhaHAQS`@am>bF_:KnIBXa^c<R>:yIE?BRPaiRokbamETZa_GcBjFG<^;Wt_H`RBWdYa_YAZc<nsDkgK<nZDJ]BM>Cg:RPk[KkI<muBfc`<DEU^@]oT>RgiyP[W>>X[lUp;I@;[:`iZ>u:a?]PhuN`cyaYMP>ePh[=x:sQJ;YduPIuOk];bJ>x>aPAEV==:;:=MZ^FvJDRQNDX>nZRkuEKhFoGoLEWqFzJ>OAeknK@:TVrdAa>y@s=kC@>R:LB_gGyn^NaZGZNJ=cAGmS;RJl_CQfq_PtNl`m[uMPc]E:=B^NKzhAMj?@ncR^JZPBx=?wOXeAdfLtcXBEzaN:Z;z:c:C:D>ZF=uVeZw<>c>r_EB[Bx:KTCVHWmtvBp^BHZSRIj:sMWlX::Z;Z@ymY;VOoK?eQ@=:@A<`GY:K[GsLcLZ:T]RkPcg:GwBRE<hNFOJVT`ekZ<w^z[ub<:=k>FR<;WZXBp==kAXTOSnNSBjMgJ_Ukb[PurJKK;E_pA^lDZ;:<:<u=VRq:>JwPJTZN:r[UOxZ[W<ibg;Pl>^K:vckU@:=P;C:pXmwI:FjPN<DBhPuPIFQNZE@X^og]]V@hbQgEZZiXa:Q?^<]Kdt^pkikLV>mHX:GV:K>:POciq`C[FSHeJIO]R=WkcO;KikBJFjMQUaBgkyZRHCU<L;s;IXuDRHIdAo<P]_mFZWsDk]feBOqKcLJkH>Zg=h^kD;>NBB<bFMv[x:@sb<GiEon:CHN[s^nFjOG^lZ@JcLVwUn@VJsc_mwkTajF<z;C__KYs[Ejg:f;j]s:abE?B<:^[p^:CKB[KEPDL;p;NHrW@zg[HLes:LkERa`gGp@k`]n:=:Lfb[Fb?];]uEsZgH;BemKkiBzHY<PgA;=UdalSZ@i=YneJ_:aC<w@z`l?U>c]psGszG>lDQ>Z;TJO>vZE[BY?gL]:psfVNZ>saA^LCY>aLYPFY>E][CB_mfD_@_agBtCgsQRElFr>XcUyi_jZ=yEBLW<K:T_oB>SEF:_;MCk>Z<NiAZ_T;zlc>pwKFnZ:OREZJUYZ=Z>l@g<v<TR_k;q>q=r^sDeRU<I]@K?vk_Zw?LfIi<B=sLOgH:QMdN>I?mgeJ=V=_X;Qkae;=lyZR:;kAz:J:rVlszJIpPxv]pu><]=Z<SBEJ@L_:yZ>VJq?@cs`]m_VWV>J?Rav;IKrRhDSTCjsh^kZJ>zJ>ppz>^Ln:SsmoUEr;e@;i:HUSKF`IC@nL[B[RZ>VPHs<n[VR]]Pm=GPk<;:DL<L?_?hmJ;f:H:lZJuVWDwnutlsPk:edTGe;?d_TAkBcUmrZnqR];@EH>Pp@]BFOb:r_[BbJ?C<P]o][:=yCz@eDNS`PZ;GOjR@>adOKZwJ:OD<@Rn][GPQR]RUx[uEDZU[lfDReCbGTX<qPucBMA^CaEzLt]uJ=q?BDJ>jZ^;Ne@GZwNaBCg_qCeQWca?ZJdZTk@RUF;_mGUjw<elzLu=sIdbX?yqa:waJkDztKVdB?:^XEO@xRhweSOKHuX^ILEI=bgw]IZ:ODD`ithSwJReQk?ARokqLLKLoXeD:u@^GSpcoJIWIL:wZp]M=Vgjfa?eHnIJMFOXBvGcZMGwJsBIne=Dz^;SSiMuEy?C;SsM;:t?:UN>wE]Rn]rHkVny?C<_Jg:Btpf;_=AHjUqnrcbgaVXo[XlWC<>]]YnjAF:;VVc:<wj:scjbrc@_WFH]Ul;k?wJZW:_kLEDWk@F;]d[CqLI::^ESbvhIDJRGc<k^:<aFVLFKFOhg=eLuCHNK:C]^z_BLn[yDK_E<SdQdSpBTsGVJ]hIF<UHLtt<wsJ>jB]sWmitrcAiKnDCkxZowrsRN?:>S=>sMkHkIM<:=>vPSxB;Rk:I[a?Rk:@;DRI@oZeJIfUR^LTi>yZNbUao[sSrc<:Pu_<UlxUZa<<;bCJiCmoiBhkEE:x]KdP;zS<VkZ@AFXb@;WCUpQaUcEd_G[<SbNB[JP;FAy=n;ZJa@A=?g@BlIJ[F?ghh;C[k;FRqF?kM^IV>rJ;Sm:sPVNmLLa<Xyp<zGg>EcQq=oZ^<nTFkjK]gDmRHFG>jqo_Q>kS?U<fZIIlD;>m<Nh:f:Q<b]?PCBcs>K?AcduLknTJbV[@L@AWBkS[kH]YqeRjFQX[E?^JR>=Rcg<lwqZu:KG@z`]?qdzwLJkBcA>v`JCy>`nGSjNBqSFgg[SJhGAa]PRdc<<ZLj:F>cMM@KL[wLwcTVlDAAG<<`J_ZhNI<NameoWJqtZoH]MG<PoNZEtioD><V?yu:E>k=oG@?Zga`_EORWH__BZgsP<u;?^FC[e>;ia^nAOh_@G@WxMKNKU?`sElUf=noakhYbTCCUrcmPMuDkey]H?q?IoM[<sLsPUvggU[cgzcjVHXbKDV[kKOtZDqh_]hR_P:HZU<[`UdMyZOZXk:l[QKGVC:]fHcjse?=Gl@Zk>>DFw;KaP:pHK@=@Qemvui=yqCFzpaCZDcsnBOdfKo=cgHE=gjFEBIs:_;^::CzXuLftTopyQs;bZ;XXbay@uZNDmaO<u@<BhcNBll??:I:WT:BAH=Yc[aERiZ@d_FnNynFagFap^=lZxqAFu:WnCn:u=oL=BSa?BFw?s_<Lz=JKgYK>ShJl@<JLKhBpL^uKpkELYVAk=UbOVLchQCVB>@AaNlKta@<sGRoH=]laR[J@M`R@nCtBS?bD<uGu:wSXFY@s_RyIkMO:i[UO_NXpPsmWO[ZQORUDk<:;GLKJjOksApYE^xQXF^JfehDCJ;hNg[JkOCRo@c?xPXGzOFTkGY@d::t`DJP:OGS@jMQKfY@Ueek;ueJ<nJwp>TlpNPc=P`fD:kTZoVH>fPE;epv^PhSajfOJ;gmEToNgwfUOKeupzVKLZPdfQHfHpzVKtXZ[XQjhh[iwK=^Q;::qF^y`:CtTC>L=aLAOvTwWLPie<EGFL[c:[D]Nbv^>=pgJ:[<JhdNl:c:e>DYGPbEO[eMXqd;r?:AzfTSeoGep_C?<kcIp@BWuuP]@iA<IeYpEub]IydNE`fXpB@nEGXjoZIRIpHTe=VydZrc:c:ysX=J;eUQ>wwpP?FEcNgc=BeL]u>W:IzZ?Jy[ecn<ByCZ=U=HBsmR_ggGJMQNUe?iLDzeAlCg=>Ug:f@lcG`=GJosOB:>WcIdnZ:YsSqltL:cq_RrMe@;pTS?XmIz<@[>c[<;FQHf]JuxhyD[S?KFlS<dwWJOL==jS]knN?_O`s=`O:NSRB;xVUBINRa<W<ine<<TdGWHfkawTaN[fLnLC:oKSMq@<@rGRg@MNiU]L<?ASXe=dNs:@OAoyuBOPc?JcU`ogPJVBb_A;Kw:DZlEPcEZ<lKscaZv;Fe;tM<ByNnKOZTZBsATeBkr:ofSDbnUw<ONTe=O?e[pKIRl;XT<JTT]SJPdkOEYYaSTllb]mVFMDr[NNrBOy<mOlORKORDdP[<A;xD]BY<L`_@DSSjzHPTXGRnPdnkj]f?QK[lNzDFsyDt``u[DNKDZFJT?uRZNyP:[j`J]ItQ:>DAAEw[SnPvM_iBC[VT[HckSJWiXS`D`:?LhcXkKeOzGgKj;JW<oju@WE;[NEVJ^HZ@?^=i`@FqcUeGKUUdIhQokcFgFaQu?aZ@kfRNLnu:EDE<mm]`^RQPPb=n[;A>EJ;^qPTEAZrBctW]dHOwgn`voyYiGNIMkW@Wq@LO_nniPP^bP_Fu^@WgDLseWh=BFLDoKRkXLnSJm[N?^BObbJsOol:G[TpTbF?l]Viz@R@nuoNnH@GXFkLG>eUz?:LkC:bANr;DJ`cLVvOdb<JsOwmnNYc>>FH>OqNkl]uCR_fUcr^euHWZH:AgtdQSiUe@PvBxJJjKCbes:?ub[OXhJoENAgzdFz?x]=B@teoM@kAEeLW;OmhgQXNQBW^fEc:ELBLwv:bibP;ulS?ibCdXfe=xGWGVJO>az[>pe:<wTDkMM@>L?t<EhXDsQTgrqr`d=hF;DCUMjm?lEGhtqkQOWjJDdEg`XTXvUrgXpO=B:gHpvK_?uN^DtKRmdRKFdIMMEhKPHbc=gF@<EEx[Dmm`cg@H>ogn[amobQVBdpr=eWXkWqNmH?fu^fdZFDTDC>k:ruSDxyko<X<YoF;<oY:WzU>>zq]J@Hi:CBAzgYq:@;Nk;vzX>?:F:@rPHpCBAfBG_k@bx?@;_>_;zrBAk=ZM@zehGMpk:L_GXevaZSDL:?FtTf?@PlKS:?<hZfysPeJWWM_@lJMHtAKN?Srgvu;ZHKOg<>P<jgZocRNHiw?==fZ;=r>>JqA=>I<Aham>EF:BW=;VKJupUMlMjLf=Ita_?YOHO@KgnfZiBARMoDk_iZG[dBxRSeBRqB][[zHGFr?gRWJrRgCdBDf@P?r?SFhv`l@JJztk`Q@mHPGXwZ<kdVHBJTchROj]q=dvdJRkDN:g<Mq[nulPLRnVsFWd=Klc_:q;=KHRV;vwAZFRK[gCun;nKAUZi_@BwP?SBs=?=v[cqXjmwFYtjkVkK>bsUoE^[acZKdzG=`mBGBF^;dLKD^lglAZC:yKqs<v^MEu@qJ;RBkzNTk<aAuBJ[]ktveeIcKp:usDRsH[k@<At^KZFcrn:eHpuS?hK]Rrn_TGJsBka:YLIi=MCs@WF_@KBw_XPF:wZXUKwByZ@mIK`V^IKepRCmhNs=O@pKiRuNVhTLf[G`KnsrsS@;h:w:::Er^:i[WJ=R:;<P>lur:_aysSlFv^uFjA;^[[pGgJj@GTKiBNl`T:l;lFPlwMcVEFBLRaGVJLM^nGf^CCPIO;?^[f>]@LWPFzAI=YlnRt?@qGRaP:G>jRwzbQ=b_R?]dXBn@ZiIJRG>qChBzU[?dGBw^[ltr>ZeE:qSRmZDi_od@yGDvY^l<UkvsWh_ZcksQ@]J>oRHHwaGOUmZNyVWWLQ@OMsdi>toT`II@mDLCyNyi>OHU=`Md>ONsvjglR:PMI[fRxeRtHvAUZ;df:>TYtGzn;MneVomDXo^QAo^>ZCCfTR[u>OrF^dtoogX_IiaCFOm^RnuUSGybm:C>TUhmT]GwaMMRSgorm:hFcJRn>dyFvcR[s?@?MKKi_rBRnGKUpMfkMNvuTvAy@iMZSzRpZ=U;mbmXD::U<VUTmWRM^ddt:gDYckd@mMOdiFtoUOQnnb^gsPV>HXE;=V`MTKL_uk[PFXAm^rdrVq<Ai_d[skEeUohr;om:JZkgNHrLMk`Gb>JMtkJ]gZc:T:;H[m=e:;tAN:<eXc:@W?J:EXd>dx;_RLTKVKGk=L?Vl=kF[d`]kQ>Jm>eRwbMGm:DFtNCZT:Fs:V=:c=j:JUz;>AI@C;jBJQZcIK:e=qW?zJm?jrxuN<ZBR]okUX_gv^o]Dno?kY:=c;X=Z[oHhp`=fPsbgI?]Y@m?=fQ?oM;RUH]FqYnHtP^UgdVqKNzBc:[^v?_LqFYAdZ;p:L`[Ru>AgGD[A=mMAp]sUN=<Qf=fSgoCuXnFn@T^XSkmuFUpGXZq:VNF:@F:J:B:XRu::U?iVU;qPqZ^`tmmH>unuKb>odxmuwYwir;NMkldLmUPcEaPj^qE?N[dbCIOSAVbaqkxiVc=KQxnTlfoleYyHnA:MJSaF^>Y^FlAWBPsS>n>U<iDQf=_O]Rk`XukEANfU[l_qeXSISQPMksW_zaR<GxbbwndqBnd]w:gZbBE:Ynja;LIqoVDfuugxTVoHxQX^wddgqc=ehGPIMvS[>;z]pIWaagyR@mzSW;IZbJ;NCxc=>WHIIf<mOESD;<VHhjA=Pj?w`FSYT]fQj=lt^evWRTHr:iZ;R<wrm@E<DC::]r`dpAncCwsIH=YHKSbVniR<t_@y^yeWFMd>eC=Yifh;<Dn]?@vH;EHLb]fX_=Vn=]_gs<MVpatTtaWFhAbyCEpZLn]AXjbbPJrpbMIxV;jIaUFWSfNc:@N>k:HuDZ:P;O::uhdVqiU<GfQD:awUxQ=fYGlmcnSKjHBoUld_PhcTZhnQQ^=PK<pTawHcQYx?gzzLZRZHRQzTq?Zyf[WyuDg<:[?pOh;`FOZE>SXT>]p>=BgoADEF`T@LUV=[aq_Sf<?@VkVPAYLq=n?maPD@sIgPM:Y;f]za>shDBGLZWfZDAOZQwQI?L]MHTAL^_M;JuvggLtuAmhe@OcLMQ_ncU_g@AkfOOn>tpRLgYAS^gs=LpdS]JuPU[y`ZisMUUFhPHnupfgvTIwFqQdHBK^JC_R]Ixai^lpeVk_V^Hnar=<txiyoYiGEbi^xSgeu`TEiB_LvGW_msxSmgPQinJCdoa<RE<QQlkKpqs<TZD;s[BMaxog@XPrioFRevtXLq]UnjOcP?pCyNdhrFHlPzuhOoTkzT]iY@UvDoMHJ`Y^gCQrSxO`oq_PjjrQVLWWhTqpRZabbwfn]GFfhUQhFc=f;xqV?ESHjAG[onF?:BISiFL;gtopgA?l<s[LQQ^ZtpDxp_TgAbp^rd^TorTqhrqWfQWqVFsaHhhSbVOKzw?sYDSz:F:Wi`:<s^s:;PHkRSNgxQI=FoQKL[wtCQa[@hrqdfP=_yknNQHTAFvWSiPzOZWGsqRZ@Od_sXWTj_;bfXS^N^SRyimdeUOtlKAwKI=SCKBxG`wonRzIYbznJ?o@qJmFEBrNUuGrLFVT`hkQrEH:dTqJumjpqkAAOvfEJttIuK_nYOsKxZK:O;EEL>^ieoIRnh[IdMy_SrAPXE:mqdvuOc;paXxIKPwfQWkwB@X;HkHGvnqNgE_PKHnZ:wCUGF_Kjj;yWSclMzTqpksrr[rvSxbHtOXgjtrR?<OfEAzYXHGIOvnMj_gKcoYGPhA:MwZ>Fvqjfq_:EMs^R<SrgQP_:oGkPscaxByZN:xiA:UovbgIPJAbSrFthRc<kDJboHBsu@T>YSE>`s^o>HGY:=LHRtH=uF]?XXFGa?f]OvCwMXoXuHMbhqWxSMVyj@HYfS^]llDSZYvQxvSMfVE<UXO:r=^FKfNc:;@wk:=gdsG_PzhNSit>>MysGCxWUN<Yrxbk=mSu:tnIhPwnaVwtsTTn;pb_AKJqtv>ziXYq[vbghF[bXoGDHQ^V?ZDzzXm^Hnjb<xkCraY^jNjZnhEetph_]VCDlAMEp[GUJ?XgjSAvEdVtmy`FGaiBjEb:UzXCVtIhA`=c^GCSCd?I[bVnu?k:[vh`aw[e=aG>wyPWvqffP>fF?EXkVia_EmhgN@[UOhZ@FEP?[k=[VBF@q^UFTKZqbGBjN@DE<JHqkoPZmiq@Ee@MqlEFsFyqqEA?xBvZT?=;rRy_[qIjd:^je;xkyUqVIaz_GDCa]URDHnlUJYQT`>][tHy_?MghCoveffHrcYIitribz[[DmNWgHTQCWaFvLtyofj:nevY^vFkTssnGr:^fWr`wIUiHK@TQFK[RAVRXIWqR?M=`[wT@>rgIT:Q=pDBK:IWitxRAc<CyPTLGKbN^a=ttu>SAifib^>xyTu`SvW^jVb:CjFscSgjEig^Rxn@kqWWm[QqrQMkgGOVXT:HQv;MT=BpVgGdPrv:nkpeb[_Q^HOf[n[iwVuUgeAcVN=_pvFvZYajqZ]=mOr>SJV?:Ro@=qFmEMkV>I]kdOj`qepBXSQlr^Wkpnjo;<<@lQa:MOp;YdXrUjNx@F^lDTzVW@?AsxtKnSaMIj@gbifbtpFvmVJHabSflpp;VDF:YHbBls=not]jJYa]y_;DwoOHvZXeXuZPXpdzN:FaMIURIdxXcFxE[erVA[O^?SYYuiaI_vmaQFYRzulSrCpagtoYcY[IKIygQ@sTqoy<iNIkfztnLAN=uKrIBOJ^nQCXWuKQ>ufmdzd;QHvH<rBQo`oVsdY[XxIoQnnkDXwyTAYIodj;tsvoZdYNfnKPXstuaVMiA`fbmf_PSdYtXkn[QgAFOvhHE`_M:QmfuSsmz_HbITAt^uVxFxtYRjdpdC[ps[soT@nIQj`yPzuzyHmQWQ_;[?y@tGYlQEQcKqpy^CMYWBFrtEu`tihPXTjSEjtpJz=o@HeU`tbunXUjFUkAnF<[?ouVVVuSInjtk<t]ybBl`;n>?qPsVSXzmaiBeMpDmKtJ<EY@IJr`nvLifYgXJYZ^eOwKxgwCH`nIm>fvDVbhii`UAy?Py[Vphyiw=Xhz<sUYhjoSa]taLqxUV^WNQLYJcVbuEjC^lic]]U^QMCixgF[YUj;tITAPxdKrTgcWWg`ASnWSRkv=r>HxXj:S<QOE^xF:DAMFZSZtY`OTecfw?fK;JuWtNHc]L`wr>?]xU]ZI`RwzGi]j]Qhhuds]jtq>I_NWdxJKRQ@YIWE<gnobj`m?qP?HbunxvNgxCP<UoAxgZ`WRSG:>fwjyyx;sFcM;:z`OYvhSvjBCQ>LYjuQkgOEjxjXFXLspVHuv>:I>I>I][wtsXNRXTQ_tgFkGT@hXvNGmXgToySiuwb]Mq[bMm^tajzYgUsby=vUuny=YgjuAZrpa:Ex<H]zQ:>jp:=ExiAjSL:Xq_=WYQulQpw?dtz@RUzBaaz@YmD:mWHxSYkAmxzDm=RKxlAXzkpdtJIyWwENlfOYmYvQujW?Q_bmCZID`UExLX[QtEpYlWve=CvqIjOfnz?xaiAA_MldxsuvxUypXVzYFIImk:[nU^pvo`]:j:Axp:Y^nYxFUVCrek^jGJ:xwUzNEnjwHfUqbRxZ:rip:<WcN^:Z=dz@olZ<EzX:FLhTgQznHxLUIKrCgfjR?lixfnPwp@:AjTg:[WtIQ=oWVFYX?kSgpOOvoNK::Idx::OkWXUKlp?gQA<PrKhugJElJsvTC:FmwIwVvq@xoC?r];V^A@ZFNJvjXZG=;AjWZH;g_Q:;]ABLq;V<yxbADdrZg@gBVpo[bVPWlWlNfYrrNJd:ZUl_wrrVEqg<UEFkBg=F:GAkuV?EGMklFfv@KQoxcI=N_xwbvIjqgxEYRV:gxfIYdr:RvILZ;ROxISYpJxqzJpo:<xBE^ok<;x>N@k=EcIv[];DJ@v`uVuzWfryx>MMAnNWo:C=mChUzPJH[w:QFcDc<`:aalN<u:ywoR<bj=ZBBVhLXV:F=qZBDbkWpkPWpo[nmOkDB=ybPkDPwbfVZI<wggHcDygMAOJHT<oeOcCYGqZZ;bb:S=JJDlWOO;d<ZVDbSsrp[gUBZGwV@IUIm[xuj<Z@<VGj;Nr@wWjLsIXWDbDXlROkZyBE<wHzEio;xMrIBM:<V:iep^w<ZlskBV;Zdhr`G[Z]QmbdL:wRC__mUO=Q:SdZ_?pc=vjWJCT=G:asIYdZuEcB;whZvJolgpnS>n`G[OFabjgbZ`:EnFZzW^mJVoZ_Koy<gZcInk<?ASd@`GCEA>BsZwJcP^;<>Zyzn_<vZBP`C=ljRt_d<PJ:A_ec`QX;Qdd<fCVnd=b^;_D;waJw?LslPJtsBt<aTU_Frwn^=sFm=yJsL`k[J_Hpp_WKJq_EwxF:LNGXGkEODq^xKZvFme=MZic=jBRJtJEa<@:[RDK<rZfNboRxFV@nW<BUWRHywBERkHoGuJpkFDVyQPInG=^ZlBHe<;qW^nKgXJpNI:<YZozouFijQRBjC_MEOoGRk@Rs^`=lV;kBYw[kXIqHCb:ZoDcwHIQ>HfoVYMppOgZlAprlxhUYppph:rFN;CxaxBYOqouEFGmhgBrPZqchg<?jL?o<O;bnWh@EVo<MVOcO]lsGzUYdkPcXYXQ?=cIGTnJqshJTVDgoUiMNHip`=:rrQF^YABrcWgvMkIGwQp:zl<<kIT=p<<s:Hrl@SjJ;Dlb<UiHVI]:EklVDwohJrhnEgNzPa=MxUKGJAA=_fJ_Bh=Oj=wHcl@^SZGDV:>H?nhSz`:O?J:HNR:HXwUALE=s=qUJ::YIP<EZ]oJsJF`h_?JBQs[eB<L`XG=YI`qI=mZqiq_=tJmWqL=vr>uqrxo]TQ>XVr=<jpYN?kP]HCGYZhWpq=gUMtqI=ejBsEUxqJs]FvxEQAjks;;fIjprx;zVkqAxKzSwrc]CBl]IjV;Z`]DjxbYRFFs^N:yQ@]xWJbBl>wUFPLEtWEkanLp:Fk`Uox;hBuwIVxQnSNH>WXIBN=yt@ZUhKv<UiJmGgoTJbBlF]BXFflE;l:`F=j=`kjLIzw=B^mDm`^BwCl:=kYGO_g^NGIT<ioc:ULFw]dBnZHXGwQ>g;M=rQNgBS:jQ<gGZFekr:k=VwEBGrtpikevNdxqkqqncG@kvUMm^uEY`bWgNW?bkxp[k`GpA=LKTxMP=`>TxP?xfpRhr?xNGNhmT^NGIGrT]oGNH]Z;[q;JqgFxYKzmvgovTLkNVpQNrlr=Ev@ronxfIAhldFyr;APMwDvSklAVwBfmCH<::pinfG;IUIOX=lvJDG^Kyv<mDZ<Ur?WlzV_jKxntWbr=]Ig=VfWxmeh:^YTEjWpB[gr?<FDJ=mw<M=AkF][MkjuHA;AYJs[zwJZmMmI=[q?rpw=<vRwqVJRRz]JTJcRmDA<<TMXsC_OqBnKng=`jUmHL<gIYNk:^sA@?nC<fQA^n;ws:VuE]ROQMJocwVJsok::cUzl_N`zXuHl^hczNmvhGQ:[qH^_^H^ojWmIXpo:]_USr@:^QQHWqzW[IQxnK^BcGroC=xB_]FpVckb^lBVyRZMkvhKv<PHi]^Jvck_xRI;LBX]`v=jkC]wIVdpJZmjF]`bVDfAuHNgNG@xQ[]eMJBHhwO<Rwk;]UR`qDW^yCR@G:ovRp[=Wxz:q=Px]_:IkHGlfpBHFHC^n?@BMtJY;eBn=jk`xNEG?:aRGiwaZyoB`GJ>N<BnZBBlRHK<hLJ:<<nJ::IMCn_::vRqJ]TGAt>FZomFEKR[FBhFZ@=RVHsGk^^nY<Ibh_:qHEIGe:[cEh<>J[oC:]FhF<Fn^AJtRF]l::TOh::OX^::UZG::>b`::Sip::EAyoJl>mvxa_BVof]FBh]<k^KIMtruVasZtoB]WA<RHn<hsaoBv^_sfiGM^[WCRZn]tSL<ET<i:zHDE]Ls`@rZg^vMMAJ]eBGXCf]UFHiD;xtzLZ@W]RszXDL==AKHE[<p:^JCv]Esw<Dj]gsdoB:SKsk::;nJ:ACGTXEb^IJckZQ]_nSXGY];BQ?:YV^Js>GJoFR]Sml^kJp[>[<c:KfkM^RJlcI[<k>hHGv^Esae@j]`ZqyBE^]sp;DKhLsdyBf]g>uiH`GnmFfqwWsIRwqS^FRgRC_<:>s]D:Le>niGcMnsjiDZL;sfZGA^::Snp::VQO_>yXGWkF>h<Bc[OskL>p^GnAyIuVK>c[E>Lp:PHCh^Xn<J<_MUJ_yG_Mosm;FRMc>kXEmkvsh[GOC>UFPnE^bsr]<f^rsuNplWusxsqIFSR`aCBLMnSXlgM^sa[FK=k>yKDVM?>^lEmlKsgXF:;zBkb]N>dCG?ho>dXCoMaBIKCkMWB?EkyVcsveIz]BJ]ZHu]^sqREgMR_i[BZMysa_@XwQ>bM=VLAsvlHsMW>hyIoMb^JCHz]dvRwn]<k_wKBeMB_uvq]MJ>idE_L@>^^qVL`>_XFJMo_nCGmlg_fKGmLQsfdHkMpskskrww>odEJpm_o[FeLoGTdDM]R_viIeMs_qSFLMruGdIRLj>f[EmLyBUdFDLRVSl:>MW=RCIs`AZsSIFLC>rIm]LT_wtEI]A>ldBfxgsq;CA]p>dSFoM?so]]XLz>bdB[t]_t>r?=r^L@Ep]njYe:ug;czeAVxpkz@GGVP:ZypN^cmK>oE<pO;orRpHGTh;aVLbXSp@VqbY>o@V<R[SmSMFNvkndLKbOdlBpMnNF@qZr:ePHA:[_oKF[xJkrIrQwR^L?kNwLNlPGhWZcqB<g]kcrUKhVGR?PI]xb>Gg:dLLnEtC__sR^`C@L^_gSIU]ZNmSHv^dNs`EDVLkD<oiLS_d[FSht_jZEK=OOWtDTKH_zCCXLgBxCnu<;_[@FHLB_x=o;MJQ>wAFWEAU=rdM^R_gA<WUNllHiLa_^ZHZ]wgWvrgWq__JD`gOsnpGZh=^OOL?Ls:AtG?LJkf]B`L^Reups^>YTpnC]vQVukWV=vE<Ml^DRlPqJhNEIR<::".charCodeAt(I++))?F-59:F-58),J|=(0<(F&(H/=2))?1:0)<<B,++B}for(var k,J,B,R,F,s=[],_=1,o=3,G=1,D=[],H=0,I=0;;){if(Z(G+1),2==J)return D.join("");-2&(R=J)||(Z(8*J+8),s[R=o++]=String.fromCharCode(J),--_||(_=2<<G++)),D.push(R=s[R]||k+k[0]),k&&(s[o++]=k+R[0],--_||(_=2<<G++)),k=R}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+battleResultPanel; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = BattlefailresultSkin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.addChildAt(FightOverController.fightBg, 0),
+            this.content.y = -this.content.height,
+            this.content.alpha = .6,
+            egret.Tween.get(this.content).wait(200).to({
+                y: 126,
+                alpha: 1
+            },
+            500, egret.Ease.getBackOut(1)),
+            this.addEvent(),
+            GuideManager.isNewSeer() && (this.btn0.touchEnabled = !1, this.btn1.touchEnabled = !1, this.btn2.touchEnabled = !1, this.btn3.touchEnabled = !1),
+            GameInfo.isChecking && (this.btn2.visible = !1, this.btn1.x = 246)
+        },
+        e.prototype.destroy = function() {
+            this.removeEvent(),
+            AwardManager.resume(),
+            AchieveManager.resumeShowNotice(),
+            t.prototype.destroy.call(this),
+            FightManager.isFighting = !1
+        },
+        e.prototype.addEvent = function() {
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTapImageButton, this)
+        },
+        e.prototype.removeEvent = function() {
+            ImageButtonUtil.removeAll(this),
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTapImageButton, this)
+        },
+        e.prototype.onTouchTapImageButton = function(e) {
+            var i = !0;
+            switch (e.target) {
+            case this.btn0:
+                t.prototype.onClose.call(this),
+                ModuleManager.showModuleByID(10);
+                break;
+            case this.btn1:
+                t.prototype.onClose.call(this),
+                ModuleManager.showModuleByID(5);
+                break;
+            case this.btn2:
+                if (t.prototype.onClose.call(this), MainManager.actorInfo.teamInfo && MainManager.actorInfo.teamInfo.id > 0) {
+                    var n = TeamInfoManager.getApplyList();
+                    if (MainManager.actorInfo.teamInfo.priv < 2 && n.length > 0) {
+                        var a = n.shift(),
+                        r = PopViewManager.createDefaultStyleObject();
+                        r.caller = this,
+                        r.clickMaskHandler = function() {},
+                        PopViewManager.getInstance().openView(new tipsPop.TeamApplyView, r, a, LevelManager.appLevel),
+                        RedPointManager.addRedPointWithNum(this, "toolbar_btnTeam", n.length, null)
+                    } else ModuleManager.showModuleByID(74)
+                } else KTool.getMultiValue([127],
+                function(t) {
+                    var e = SystemTimerManager.sysBJDate.getTime() / 1e3;
+                    e - t[0] < 86400 ? Alarm.show("离开战队后需要等待24小时后，才能进行加入战队或创建战队的操作。") : ModuleManager.showModuleByID(73)
+                });
+                break;
+            case this.btn3:
+                t.prototype.onClose.call(this),
+                ModuleManager.showModuleByID(124);
+                break;
+            default:
+                i = !1,
+                t.prototype.onClose.call(this)
+            }
+            CountExpPanelManager.overData.isJumping = i,
+            EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.ALARM_CLICK, CountExpPanelManager.overData))
+        },
+        e
+    } (BaseModule);
+    t.BattleFailPanel = e,
+    __reflect(e.prototype, "battleResultPanel.BattleFailPanel")
+} (battleResultPanel || (battleResultPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+battleResultPanel; !
+function(t) {
+    var e = function(t) {
+        function e(e) {
+            var i = t.call(this) || this;
+            return i.item = e,
+            i.skinName = BattleResultItemSkin,
+            i
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            if (t.prototype.childrenCreated.call(this), this.txtCount.text = "" + this.item.count, this.item.count >= 1e4) {
+                var e = this.item.count / 1e4,
+                i = this.item.count % 1e4;
+                i > 0 ? this.txtCount.text = "" + e.toFixed(1) + "万": this.txtCount.text = "" + Math.floor(e) + "万"
+            }
+            if (this.txtName.y = 81, this.icon.scaleY = this.icon.scaleX = 1, this.item.type == AwardType.TYPE_MARK) this.icon.source = ClientConfig.getMarkPath(this.item.id),
+            this.txtName.text = CountermarkXMLInfo.getDes(this.item.id),
+            this.icon.width = this.icon.height = 55;
+            else if (this.item.type == AwardType.TYPE_HEAD_FRAME) {
+                var n = config.Profilephoto.getItem(this.item.id);
+                this.icon.source = 1 === n.type ? ClientConfig.GetAvatarHead(n.icon) : ClientConfig.GetAvatarFrame(n.icon),
+                this.txtName.text = n.name,
+                this.txtCount.text = "",
+                this.txtName.y = 90,
+                this.icon.scaleY = this.icon.scaleX = .85
+            } else if (this.item.type === AwardType.TYPE_USER_INFO) {
+                var a = virtualItem.UserInfoIconManger.Instance.GetItemByType(this.item.id);
+                this.icon.source = ClientConfig.GetItemUserIcon(this.item.id),
+                this.txtName.text = a.desc
+            } else this.icon.source = ItemXMLInfo.getIconURL(this.item.id),
+            this.txtName.text = ItemXMLInfo.getName(this.item.id),
+            this.icon.width = this.icon.height = 55
+        },
+        e
+    } (eui.Component);
+    t.BattleResultAwardItem = e,
+    __reflect(e.prototype, "battleResultPanel.BattleResultAwardItem")
+} (battleResultPanel || (battleResultPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+battleResultPanel; !
+function(t) {
+    var e = function(t) {
+        function e(e) {
+            var i = t.call(this) || this;
+            return i._animTime = 830,
+            i.onlyDisplayResult = !1,
+            i.data = e,
+            i.skinName = BattleresultspitemSkin,
+            i
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this._anim = SpineUtil.createAnimate("battleResult"),
+            this._anim.visible = !1,
+            this.grp_anim.addChild(this._anim),
+            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this.update()
+        },
+        e.prototype.update = function() {
+            var t, e = this;
+            if (this.data instanceof PetInfo ? (this.onlyDisplayResult = !0, t = this.data) : (this.onlyDisplayResult = !1, t = PetManager.getPetInfo(this.data.catchTime)), this.icon.source = null, this.txt.text = this.txt1.text = "", this.head.source = ClientConfig.getPetHeadPath(t.id), this.txtName.text = StringUtil.parseStrLimitLen(PetXMLInfo.getName(t.id), 6), this.hp.width = 80 * Math.min(1, t.hp / t.maxHp), this.data.v) {
+                if (this.v = this.data.v, t = PetManager.getPetInfo(this.v.catchTime), this.lev.textFlow = [{
+                    text: "Lv.",
+                    style: {
+                        textColor: 12900350
+                    }
+                },
+                {
+                    text: this.v.level.toString(),
+                    style: {
+                        textColor: 6154074
+                    }
+                }], this.exp.visible = this.v.exp > t.exp, this.exp.textFlow = [{
+                    text: "EXP+",
+                    style: {
+                        textColor: 12900350
+                    }
+                },
+                {
+                    text: this.v.exp - t.exp + "",
+                    style: {
+                        textColor: 16580432
+                    }
+                }], this.v.level > t.level) {
+                    var i = Math.min(this.v.exp / this.v.nextLvExp, 1);
+                    this.pro_ex.visible = !1,
+                    this.pro_now.visible = !0;
+                    var n = i * this.proBg.width,
+                    a = i * this._animTime;
+                    this.pro_now.width = 0,
+                    this.lev.textFlow = [{
+                        text: "Lv.",
+                        style: {
+                            textColor: 12900350
+                        }
+                    },
+                    {
+                        text: t.level.toString(),
+                        style: {
+                            textColor: 6154074
+                        }
+                    }],
+                    this._anim.visible = !0,
+                    this._anim.play("shengji", 1, 0, {
+                        playEnd: function() {
+                            egret.Tween.get(e.pro_now).to({
+                                width: n
+                            },
+                            a),
+                            e._anim.visible = !1,
+                            e.up.visible = !0
+                        },
+                        custom: function(t) {
+                            "upp" == t.data.name && (e.lev.textFlow = [{
+                                text: "Lv.",
+                                style: {
+                                    textColor: 12900350
+                                }
+                            },
+                            {
+                                text: e.v.level.toString(),
+                                style: {
+                                    textColor: 6154074
+                                }
+                            }])
+                        }
+                    })
+                } else {
+                    this.up.visible = !1;
+                    var r = Math.min(t.exp / this.v.nextLvExp, 1),
+                    s = this.proBg.width * r,
+                    o = Math.min((this.v.exp - t.exp) / this.v.nextLvExp, 1),
+                    n = this.proBg.width * o;
+                    this.pro_ex.visible = !0,
+                    this.pro_ex.width = s,
+                    this.pro_now.x = this.pro_ex.x + s,
+                    this.pro_now.width = 0;
+                    var a = o * this._animTime;
+                    n > 0 && egret.Tween.get(this.pro_now).to({
+                        width: n
+                    },
+                    a)
+                }
+                var h, l, u = [this.v.ev_a, this.v.ev_d, this.v.ev_sa, this.v.ev_sd, this.v.ev_sp, this.v.ev_hp],
+                _ = ["攻击", "防御", "特攻", "特防", "速度", "体力"],
+                c = [];
+                for (h = 0; 6 > h; h++) l = u[h] - t.evArray[h],
+                l > 0 && c.push(h);
+                if (c.length > 0) {
+                    this.grp_attr.visible = !0;
+                    var p = c[0];
+                    l = u[p] - t.evArray[p],
+                    this.icon.source = ClientConfig.getPetAttributeIcon(p),
+                    this.txt_attr.text = _[p],
+                    this.txt.text = "" + t.evArray[p],
+                    this.txt1.text = "" + l
+                } else this.grp_attr.visible = !1
+            } else this.lev.textFlow = [{
+                text: "Lv.",
+                style: {
+                    textColor: 12900350
+                }
+            },
+            {
+                text: t.level.toString(),
+                style: {
+                    textColor: 6154074
+                }
+            }],
+            this.up.visible = !1,
+            this.exp.visible = !1,
+            this.grp_attr.visible = !1,
+            this.onlyDisplayResult || SocketConnection.sendByQueue(CommandID.PET_GET_LEVEL_UP_EXP, [t.catchTime],
+            function(n) {
+                var a = n.data;
+                a.position = 0;
+                var r = a.readUnsignedInt();
+                i = Math.min(t.exp / (r + t.exp), 1),
+                e.pro_now.visible = !1,
+                e.pro_ex.width = e.proBg.width * i
+            })
+        },
+        e.prototype.destroy = function() {
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this.parent && this.parent.removeChild(this),
+            this.head.source = null
+        },
+        e
+    } (eui.Component);
+    t.BattleResultItem = e,
+    __reflect(e.prototype, "battleResultPanel.BattleResultItem")
+} (battleResultPanel || (battleResultPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+battleResultPanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this, t) || this;
+            return i.skinName = BattleresultSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            this.width = egret.lifecycle.stage.stageWidth,
+            e.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.updatelist(),
+            this.addChildAt(FightOverController.fightBg, 0),
+            this.content.alpha = .1,
+            egret.Tween.get(this.content).to({
+                alpha: 1
+            },
+            300, egret.Ease.getBackOut(1))
+        },
+        i.prototype.updatelist = function() {
+            var e;
+            if (!Array.isArray(this.data)) switch (this.data) {
+            case PetUpdatePropController.USE_FIGHT_DATA:
+                this.clearResultItems(),
+                this.resultItems = [];
+                for (var i = FightNoteCmdListener.getMyPetInfoArray_FromFightNote(), n = 0; n < i.length; n++) {
+                    var a = new t.BattleResultItem(i[n]);
+                    this.resultItems.push(a),
+                    this["sp" + (n + 1)].parent.addChild(a),
+                    a.x = this["sp" + (n + 1)].x,
+                    a.y = this["sp" + (n + 1)].y,
+                    a.alpha = 0,
+                    this.alphaAnim(a, 60 * n)
+                }
+                return;
+            default:
+                throw new console.error("error战斗结算参数")
+            }
+            this._infoArray = this.data,
+            this.count = this._infoArray.length;
+            var r = PetManager.getBagMap(!1);
+            if (this.clearResultItems(), this.resultItems = [], 89 == PetFightModel.type || 102 == PetFightModel.type) r = [],
+            egret.callLater(this.touchHandle, this);
+            else if (66 == PetFightModel.type && 0 == this._infoArray.length) {
+                r = [];
+                var s = DragonbonesUtil.createAnimate("H5_shengli_ske_json", "H5_shengli_tex_json", "H5_shengli_tex_png", "H5_shengli");
+                s.x = .5 * egret.lifecycle.stage.stageWidth,
+                s.y = .5 * egret.lifecycle.stage.stageHeight,
+                s.scaleX = s.scaleY = .6,
+                this.addChild(s),
+                DragonbonesUtil.play(s, "H5_shengli", 1)
+            }
+            for (var n = 0; n < r.length; n++) {
+                var o = {};
+                for (o.catchTime = r[n].catchTime, e = 0; e < this._infoArray.length; e++) if (this._infoArray[e].catchTime == r[n].catchTime) {
+                    o.v = this._infoArray[e];
+                    break
+                }
+                var a = new t.BattleResultItem(o);
+                this.resultItems.push(a),
+                this["sp" + (n + 1)].parent.addChild(a),
+                a.x = this["sp" + (n + 1)].x,
+                a.y = this["sp" + (n + 1)].y,
+                a.alpha = 0,
+                this.alphaAnim(a, 60 * n)
+            }
+        },
+        i.prototype.alphaAnim = function(t, e) {
+            egret.Tween.get(t).wait(e).to({
+                alpha: 1
+            },
+            300)
+        },
+        i.prototype.clearResultItems = function() {
+            if (this.resultItems) for (var t = 0; t < this.resultItems.length; t++) this.resultItems[t].destroy(),
+            this.resultItems[t] = null;
+            this.resultItems = null
+        },
+        i.prototype.destroy = function() {
+            FightManager.isFighting = !1,
+            DisplayUtil.removeAllChild(LevelManager.fightLevel),
+            this.clearResultItems(),
+            this.removeEvent(),
+            e.prototype.destroy.call(this)
+        },
+        i.prototype.touchHandle = function(t) {
+            FightManager.isFighting = !1,
+            e.prototype.onClose.call(this),
+            EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.ALARM_CLICK, CountExpPanelManager.overData)),
+            AwardManager.resume(),
+            AchieveManager.resumeShowNotice()
+        },
+        i.prototype.addEvent = function() {
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this.touchHandle, this)
+        },
+        i.prototype.removeEvent = function() {
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.touchHandle, this)
+        },
+        i
+    } (BaseModule);
+    t.BattleResultPanel = e,
+    __reflect(e.prototype, "battleResultPanel.BattleResultPanel")
+} (battleResultPanel || (battleResultPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, i, n) {
+    return new(i || (i = Promise))(function(a, r) {
+        function s(t) {
+            try {
+                h(n.next(t))
+            } catch(e) {
+                r(e)
+            }
+        }
+        function o(t) {
+            try {
+                h(n["throw"](t))
+            } catch(e) {
+                r(e)
+            }
+        }
+        function h(t) {
+            t.done ? a(t.value) : new i(function(e) {
+                e(t.value)
+            }).then(s, o)
+        }
+        h((n = n.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function i(t) {
+        return function(e) {
+            return n([t, e])
+        }
+    }
+    function n(i) {
+        if (a) throw new TypeError("Generator is already executing.");
+        for (; h;) try {
+            if (a = 1, r && (s = r[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(s = s.call(r, i[1])).done) return s;
+            switch (r = 0, s && (i = [0, s.value]), i[0]) {
+            case 0:
+            case 1:
+                s = i;
+                break;
+            case 4:
+                return h.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                h.label++,
+                r = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = h.ops.pop(),
+                h.trys.pop();
+                continue;
+            default:
+                if (s = h.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    h = 0;
+                    continue
+                }
+                if (3 === i[0] && (!s || i[1] > s[0] && i[1] < s[3])) {
+                    h.label = i[1];
+                    break
+                }
+                if (6 === i[0] && h.label < s[1]) {
+                    h.label = s[1],
+                    s = i;
+                    break
+                }
+                if (s && h.label < s[2]) {
+                    h.label = s[2],
+                    h.ops.push(i);
+                    break
+                }
+                s[2] && h.ops.pop(),
+                h.trys.pop();
+                continue
+            }
+            i = e.call(t, h)
+        } catch(n) {
+            i = [6, n],
+            r = 0
+        } finally {
+            a = s = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var a, r, s, o, h = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return o = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
+        return this
+    }),
+    o
+},
+battleResultPanel; !
+function(t) {
+    var e = function(t) {
+        function e(e) {
+            var i = t.call(this) || this;
+            return i._isObj = e,
+            i.skinName = BattleresultpeakjihadpanelSkin,
+            i
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.showData(),
+            this.addEvent(),
+            this.addChildAt(FightOverController.fightBg, 0)
+        },
+        e.prototype.destroy = function() {
+            this.removeEvent(),
+            t.prototype.destroy.call(this),
+            FightManager.isFighting = !1
+        },
+        e.prototype.showData = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t = this;
+                return __generator(this,
+                function(e) {
+                    return this.fail.visible = this.draw.visible = this.win.visible = !1,
+                    null != this._isObj ? this._isObj.isDraw ? this.draw.visible = !0 : this._isObj.isWin ? this.win.visible = !0 : this.fail.visible = !0 : Alarm.show("_isObj为空"),
+                    this.icon.source = "",
+                    KTool.getMultiValue([PeakJihadController.levelForever],
+                    function(e) {
+                        var i = e[0],
+                        n = i & Math.pow(2, 16) - 1,
+                        a = e[0] >> 16 & Math.pow(2, 16) - 1,
+                        r = PeakJihadController.RATINGS_NAME[n] + a + (n >= 4 ? "星": "分");
+                        t.icon.source = ClientConfig.getPeakjihadLevelPath(n + 1),
+                        t.star.visible = n > 3,
+                        t.txt.text = r,
+                        t._isObj.isDraw
+                    }),
+                    [2]
+                })
+            })
+        },
+        e.prototype.addEvent = function() {
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTapImageButton, this)
+        },
+        e.prototype.removeEvent = function() {
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTapImageButton, this)
+        },
+        e.prototype.onTouchTapImageButton = function(e) {
+            t.prototype.onClose.call(this),
+            ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], "sport")
+        },
+        e
+    } (BaseModule);
+    t.BattleResultPeakJiHadPanel = e,
+    __reflect(e.prototype, "battleResultPanel.BattleResultPeakJiHadPanel")
+} (battleResultPanel || (battleResultPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+battleResultPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._petIds = [],
+            t.skinName = BattleResultTestMachineSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this._list.itemRenderer = t.BattleResultTestMachineItem,
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this.touchHandle, this),
+            this.initData(),
+            this.addChildAt(FightOverController.fightBg, 0)
+        },
+        i.prototype.initData = function() {
+            var t = this;
+            SocketConnection.sendByQueue(41405, [PetFightModel.type],
+            function(e) {
+                var i = e.data;
+                i.position = 0,
+                t._maxDamage = i.readUnsignedInt(),
+                t._totalDamage = i.readUnsignedInt(),
+                t._averageDamage = i.readUnsignedInt(),
+                t._maxDmgPetId = i.readUnsignedInt(),
+                t._maxHurt = i.readUnsignedInt(),
+                t._totalHurt = i.readUnsignedInt(),
+                t._averageHurt = i.readUnsignedInt(),
+                t._maxHurtPetId = i.readUnsignedInt();
+                var n = i.readUnsignedInt();
+                t._petIds = [];
+                for (var a = 0; n > a; a++) t._petIds.push(i.readUnsignedInt());
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            this.txt_0.text = this._totalDamage + "",
+            this.txt_1.text = this._maxDamage + "",
+            this.txt_2.text = this._averageDamage + "",
+            this.txt_3.text = this._totalHurt + "",
+            this.txt_4.text = this._maxHurt + "",
+            this.txt_5.text = this._averageHurt + "";
+            var t = this._list.layout;
+            t.paddingLeft = 67 * (6 - this._petIds.length),
+            this._list.layout = t,
+            this._list.dataProvider = new eui.ArrayCollection(this._petIds),
+            this._list.validateNow();
+            for (var e = 0; e < this._list.numChildren; e++) {
+                var i = this._list.getChildAt(e);
+                i.frame_gold.visible = this._maxDmgPetId == i.data,
+                i.frame_blue.visible = this._maxHurtPetId == i.data
+            }
+        },
+        i.prototype.touchHandle = function() {
+            e.prototype.onClose.call(this),
+            AwardManager.resume(),
+            AchieveManager.resumeShowNotice(),
+            EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.ALARM_CLICK, CountExpPanelManager.overData))
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.touchHandle, this),
+            FightManager.isFighting = !1
+        },
+        i
+    } (BaseModule);
+    t.BattleResultTestMachine = e,
+    __reflect(e.prototype, "battleResultPanel.BattleResultTestMachine")
+} (battleResultPanel || (battleResultPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+battleResultPanel; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = BattleResultTestMachineItemSkin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.once(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        e.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this._petId = this.data,
+            this.updateView()
+        },
+        e.prototype.updateView = function() {
+            this.txt_name.text = PetXMLInfo.getName(this._petId),
+            this.head.source = ClientConfig.getPetHeadPath(this._petId)
+        },
+        e.prototype.destroy = function() {
+            this.removeChildren()
+        },
+        e
+    } (eui.ItemRenderer);
+    t.BattleResultTestMachineItem = e,
+    __reflect(e.prototype, "battleResultPanel.BattleResultTestMachineItem")
+} (battleResultPanel || (battleResultPanel = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/BattlefailresultSkin.exml"] = window.BattlefailresultSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "bg1", "btn3", "btn2", "btn1", "btn0", "bg3", "content"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.content_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.alpha = .6,
+        t.percentHeight = 100,
+        t.source = "battleFailResult_bg_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.content_i = function() {
+        var t = new eui.Group;
+        return this.content = t,
+        t.height = 308,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 91,
+        t.elementsContent = [this.bg1_i(), this._Group1_i()],
+        t
+    },
+    i.bg1_i = function() {
+        var t = new eui.Image;
+        return this.bg1 = t,
+        t.height = 451,
+        t.source = "battleFailResult_bg1_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -.5,
+        t.width = 579,
+        t.y = 0,
+        t.elementsContent = [this.btn3_i(), this.btn2_i(), this.btn1_i(), this.btn0_i(), this.bg3_i(), this._Label1_i()],
+        t
+    },
+    i.btn3_i = function() {
+        var t = new eui.Image;
+        return this.btn3 = t,
+        t.height = 115,
+        t.source = "battleFailResult_btn3_png",
+        t.width = 86,
+        t.x = 493,
+        t.y = 180,
+        t
+    },
+    i.btn2_i = function() {
+        var t = new eui.Image;
+        return this.btn2 = t,
+        t.height = 115,
+        t.source = "battleFailResult_btn2_png",
+        t.width = 86,
+        t.x = 329,
+        t.y = 180,
+        t
+    },
+    i.btn1_i = function() {
+        var t = new eui.Image;
+        return this.btn1 = t,
+        t.height = 115,
+        t.source = "battleFailResult_btn1_png",
+        t.width = 86,
+        t.x = 164,
+        t.y = 180,
+        t
+    },
+    i.btn0_i = function() {
+        var t = new eui.Image;
+        return this.btn0 = t,
+        t.height = 115,
+        t.source = "battleFailResult_btn0_png",
+        t.width = 86,
+        t.x = 0,
+        t.y = 180,
+        t
+    },
+    i.bg3_i = function() {
+        var t = new eui.Image;
+        return this.bg3 = t,
+        t.height = 63,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "battleFailResult_bg3_png",
+        t.width = 142,
+        t.x = 223,
+        t.y = 66,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "点击屏幕关闭",
+        t.textColor = 8631282,
+        t.x = 241,
+        t.y = 346,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BattleResultItemSkin.exml"] = window.BattleResultItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "icon", "txtCount", "txtName", "grpContent"],
+        this.height = 98,
+        this.width = 132,
+        this.elementsContent = [this.grpContent_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.grpContent_i = function() {
+        var t = new eui.Group;
+        return this.grpContent = t,
+        t.anchorOffsetX = 66,
+        t.anchorOffsetY = 47,
+        t.x = 66,
+        t.y = 47,
+        t.elementsContent = [this._Group1_i(), this.txtCount_i(), this.txtName_i()],
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 80,
+        t.width = 80,
+        t.x = 26,
+        t.y = 0,
+        t.elementsContent = [this.bg_i(), this.icon_i()],
+        t
+    },
+    i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.height = 80,
+        t.source = "common_icon_bg_style_1_png",
+        t.width = 80,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.horizontalCenter = 0,
+        t.source = "",
+        t.verticalCenter = 0,
+        t
+    },
+    i.txtCount_i = function() {
+        var t = new eui.Label;
+        return this.txtCount = t,
+        t.fontFamily = "黑体",
+        t.size = 20,
+        t.text = "99",
+        t.textAlign = "right",
+        t.textColor = 16777215,
+        t.width = 80,
+        t.x = 23,
+        t.y = 58,
+        t
+    },
+    i.txtName_i = function() {
+        var t = new eui.Label;
+        return this.txtName = t,
+        t.fontFamily = "黑体",
+        t.size = 16,
+        t.text = "道具名字名字名字",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 132,
+        t.x = 0,
+        t.y = 81,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BattleresultpeakjihadpanelSkin.exml"] = window.BattleresultpeakjihadpanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "iconbg", "txt1", "icon", "star", "txt", "fail", "draw", "win"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group2_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.alpha = .6,
+        t.percentHeight = 100,
+        t.source = "battleFailResult_bg_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 0,
+        t.verticalCenter = -61,
+        t.visible = !0,
+        t.elementsContent = [this._Image1_i(), this.iconbg_i(), this.txt1_i(), this.icon_i(), this._Group1_i(), this.fail_i(), this.draw_i(), this.win_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 71,
+        t.horizontalCenter = 25,
+        t.source = "battleResult_titlebg_png",
+        t.visible = !0,
+        t.width = 338,
+        t.y = 63,
+        t
+    },
+    i.iconbg_i = function() {
+        var t = new eui.Image;
+        return this.iconbg = t,
+        t.height = 270,
+        t.scale9Grid = new egret.Rectangle(7, 7, 6, 6),
+        t.source = "battleResultPeakJiHadPanel_iconbg_png",
+        t.visible = !0,
+        t.width = 1136,
+        t.x = 0,
+        t.y = 89,
+        t
+    },
+    i.txt1_i = function() {
+        var t = new eui.Label;
+        return this.txt1 = t,
+        t.fontFamily = "REEJI",
+        t.size = 16,
+        t.text = "点击屏幕关闭",
+        t.textColor = 16777215,
+        t.x = 515,
+        t.y = 366,
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.height = 144,
+        t.source = "battleResultPeakJiHadPanel_icon_png",
+        t.width = 144,
+        t.x = 496,
+        t.y = 132,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 50,
+        t.horizontalCenter = -30,
+        t.y = 285.11,
+        t.layout = this._HorizontalLayout1_i(),
+        t.elementsContent = [this.star_i(), this.txt_i()],
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.verticalAlign = "middle",
+        t
+    },
+    i.star_i = function() {
+        var t = new eui.Image;
+        return this.star = t,
+        t.height = 45,
+        t.source = "battleResultPeakJiHadPanel_star_png",
+        t.visible = !0,
+        t.width = 47,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_i = function() {
+        var t = new eui.Label;
+        return this.txt = t,
+        t.fontFamily = "REEJI",
+        t.horizontalCenter = 26.5,
+        t.size = 40,
+        t.text = "黄铜99",
+        t.textColor = 16305756,
+        t.y = 0,
+        t
+    },
+    i.fail_i = function() {
+        var t = new eui.Image;
+        return this.fail = t,
+        t.height = 106,
+        t.source = "battleResultPeakJiHadPanel_fail_png",
+        t.visible = !1,
+        t.width = 1136,
+        t.x = 0,
+        t.y = 37,
+        t
+    },
+    i.draw_i = function() {
+        var t = new eui.Image;
+        return this.draw = t,
+        t.height = 106,
+        t.source = "battleResultPeakJiHadPanel_draw_png",
+        t.visible = !1,
+        t.width = 1136,
+        t.x = 0,
+        t.y = 37,
+        t
+    },
+    i.win_i = function() {
+        var t = new eui.Image;
+        return this.win = t,
+        t.horizontalCenter = 0,
+        t.source = "battleResult_title_png",
+        t.verticalCenter = -105,
+        t.visible = !0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BattleresultSkin.exml"] = window.BattleresultSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "resultbg", "sp1", "sp4", "sp5", "sp2", "sp3", "sp6", "txt", "title", "content"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.content_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.alpha = .7,
+        t.percentHeight = 100,
+        t.percentWidth = 100,
+        t.scale9Grid = new egret.Rectangle(1, 1, 10, 10),
+        t.source = "battleFailResult_bg_png",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.content_i = function() {
+        var t = new eui.Group;
+        return this.content = t,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 90,
+        t.elementsContent = [this._Image1_i(), this.resultbg_i(), this._Group1_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 71,
+        t.horizontalCenter = 25,
+        t.source = "battleResult_titlebg_png",
+        t.width = 338,
+        t.y = 26,
+        t
+    },
+    i.resultbg_i = function() {
+        var t = new eui.Image;
+        return this.resultbg = t,
+        t.height = 372,
+        t.source = "battleResult_resultbg_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 14,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -2,
+        t.y = 0,
+        t.elementsContent = [this.sp1_i(), this.sp4_i(), this.sp5_i(), this.sp2_i(), this.sp3_i(), this.sp6_i(), this.txt_i(), this.title_i()],
+        t
+    },
+    i.sp1_i = function() {
+        var t = new eui.Image;
+        return this.sp1 = t,
+        t.height = 107,
+        t.source = "",
+        t.width = 274,
+        t.x = 0,
+        t.y = 108,
+        t
+    },
+    i.sp4_i = function() {
+        var t = new eui.Image;
+        return this.sp4 = t,
+        t.height = 107,
+        t.source = "",
+        t.width = 274,
+        t.x = 0,
+        t.y = 242,
+        t
+    },
+    i.sp5_i = function() {
+        var t = new eui.Image;
+        return this.sp5 = t,
+        t.height = 107,
+        t.source = "",
+        t.width = 274,
+        t.x = 335,
+        t.y = 242,
+        t
+    },
+    i.sp2_i = function() {
+        var t = new eui.Image;
+        return this.sp2 = t,
+        t.height = 107,
+        t.source = "",
+        t.width = 274,
+        t.x = 335,
+        t.y = 108,
+        t
+    },
+    i.sp3_i = function() {
+        var t = new eui.Image;
+        return this.sp3 = t,
+        t.height = 107,
+        t.source = "",
+        t.width = 274,
+        t.x = 670,
+        t.y = 108,
+        t
+    },
+    i.sp6_i = function() {
+        var t = new eui.Image;
+        return this.sp6 = t,
+        t.height = 107,
+        t.source = "",
+        t.width = 274,
+        t.x = 670,
+        t.y = 242,
+        t
+    },
+    i.txt_i = function() {
+        var t = new eui.Label;
+        return this.txt = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "点击屏幕关闭",
+        t.textColor = 8631282,
+        t.x = 418,
+        t.y = 396,
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.height = 96,
+        t.source = "battleResult_title_png",
+        t.width = 173,
+        t.x = 393,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BattleresultspitemSkin.exml"] = window.BattleresultspitemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["head", "hp", "txtName", "lev", "txt1", "txt", "icon", "txt_attr", "grp_attr", "proBg", "pro_now", "pro_ex", "exp", "up", "grp_anim"],
+        this.height = 107,
+        this.width = 274,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.head_i(), this._Image4_i(), this.hp_i(), this.txtName_i(), this.lev_i(), this.grp_attr_i(), this.proBg_i(), this.pro_now_i(), this.pro_ex_i(), this.exp_i(), this.up_i(), this.grp_anim_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 101,
+        t.source = "common_pet_head_bg_size_110_134_png",
+        t.width = 82,
+        t.x = 3,
+        t.y = 4,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 101,
+        t.source = "common_pet_head_bg_null_size_110_134_png",
+        t.width = 82,
+        t.x = 3,
+        t.y = 4,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 20,
+        t.source = "common_pet_head_name_bg_110_134_png",
+        t.width = 80,
+        t.x = 4,
+        t.y = 85,
+        t
+    },
+    i.head_i = function() {
+        var t = new eui.Image;
+        return this.head = t,
+        t.height = 80,
+        t.source = "",
+        t.width = 80,
+        t.x = 4,
+        t.y = 5,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 3,
+        t.source = "battleResultSpItem_hpbg_png",
+        t.width = 80,
+        t.x = 4,
+        t.y = 82,
+        t
+    },
+    i.hp_i = function() {
+        var t = new eui.Image;
+        return this.hp = t,
+        t.height = 3,
+        t.source = "battleResultSpItem_hp_png",
+        t.width = 80,
+        t.x = 4,
+        t.y = 82,
+        t
+    },
+    i.txtName_i = function() {
+        var t = new eui.Label;
+        return this.txtName = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = -93,
+        t.size = 14,
+        t.text = "精灵名字",
+        t.textColor = 16777215,
+        t.y = 88,
+        t
+    },
+    i.lev_i = function() {
+        var t = new eui.Label;
+        return this.lev = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "Lv.100",
+        t.textColor = 12834813,
+        t.x = 97,
+        t.y = 9,
+        t
+    },
+    i.grp_attr_i = function() {
+        var t = new eui.Group;
+        return this.grp_attr = t,
+        t.x = 97,
+        t.y = 73,
+        t.elementsContent = [this._Image5_i(), this.txt1_i(), this.txt_i(), this.icon_i(), this._Image6_i(), this.txt_attr_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 22,
+        t.source = "battleResultSpItem_texture_star_png",
+        t.width = 22,
+        t.x = 79,
+        t.y = 0,
+        t
+    },
+    i.txt1_i = function() {
+        var t = new eui.Label;
+        return this.txt1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "20",
+        t.textColor = 6153817,
+        t.x = 157,
+        t.y = 2,
+        t
+    },
+    i.txt_i = function() {
+        var t = new eui.Label;
+        return this.txt = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "200",
+        t.textColor = 4187130,
+        t.x = 103,
+        t.y = 2,
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.height = 18,
+        t.source = "",
+        t.width = 18,
+        t.x = 0,
+        t.y = 2,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 18,
+        t.source = "battleResultSpItem_icon_up_png",
+        t.width = 18,
+        t.x = 140,
+        t.y = 2,
+        t
+    },
+    i.txt_attr_i = function() {
+        var t = new eui.Label;
+        return this.txt_attr = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "攻击",
+        t.textColor = 4187130,
+        t.x = 22,
+        t.y = 3,
+        t
+    },
+    i.proBg_i = function() {
+        var t = new eui.Image;
+        return this.proBg = t,
+        t.height = 5,
+        t.source = "battleResultSpItem_proBg_png",
+        t.width = 164,
+        t.x = 98,
+        t.y = 31,
+        t
+    },
+    i.pro_now_i = function() {
+        var t = new eui.Image;
+        return this.pro_now = t,
+        t.height = 5,
+        t.source = "battleResultSpItem_pro_png",
+        t.visible = !0,
+        t.width = 164,
+        t.x = 98,
+        t.y = 31,
+        t
+    },
+    i.pro_ex_i = function() {
+        var t = new eui.Image;
+        return this.pro_ex = t,
+        t.height = 5,
+        t.source = "battleResultSpItem_pro_blue_png",
+        t.visible = !0,
+        t.width = 164,
+        t.x = 98,
+        t.y = 31,
+        t
+    },
+    i.exp_i = function() {
+        var t = new eui.Label;
+        return this.exp = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "EXP+999999",
+        t.textColor = 12834813,
+        t.x = 97,
+        t.y = 50,
+        t
+    },
+    i.up_i = function() {
+        var t = new eui.Image;
+        return this.up = t,
+        t.height = 21,
+        t.source = "battleResultSpItem_up_png",
+        t.width = 35,
+        t.x = 154,
+        t.y = 7,
+        t
+    },
+    i.grp_anim_i = function() {
+        var t = new eui.Group;
+        return this.grp_anim = t,
+        t.x = 98,
+        t.y = 33,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BattleResultTestMachineItemSkin.exml"] = window.BattleResultTestMachineItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txt_name", "head", "frame_gold", "frame_blue"],
+        this.height = 123,
+        this.width = 127,
+        this.elementsContent = [this.txt_name_i(), this._Image1_i(), this._Image2_i(), this.head_i(), this.frame_gold_i(), this.frame_blue_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.horizontalCenter = .5,
+        t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "精灵名称精灵名称",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.y = 107,
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 100,
+        t.source = "common_avatar_bg_size_100_100_png",
+        t.width = 100,
+        t.x = 13,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 100,
+        t.source = "common_pet_head_bg_null_size_100_100_png",
+        t.width = 100,
+        t.x = 13,
+        t.y = 0,
+        t
+    },
+    i.head_i = function() {
+        var t = new eui.Image;
+        return this.head = t,
+        t.height = 100,
+        t.width = 100,
+        t.x = 13,
+        t.y = 0,
+        t
+    },
+    i.frame_gold_i = function() {
+        var t = new eui.Image;
+        return this.frame_gold = t,
+        t.height = 116,
+        t.source = "battle_result_test_machine_frame_gold_png",
+        t.width = 116,
+        t.x = 5,
+        t.y = -8,
+        t
+    },
+    i.frame_blue_i = function() {
+        var t = new eui.Image;
+        return this.frame_blue = t,
+        t.height = 114,
+        t.source = "battle_result_test_machine_frame_blue_png",
+        t.width = 114,
+        t.x = 6,
+        t.y = -7,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BattleResultTestMachineSkin.exml"] = window.BattleResultTestMachineSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txt_0", "txt_1", "txt_2", "txt_3", "txt_4", "txt_5", "_list", "content"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.content_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.alpha = .6,
+        t.percentHeight = 100,
+        t.source = "battleFailResult_bg_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.content_i = function() {
+        var t = new eui.Group;
+        return this.content = t,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 64,
+        t.elementsContent = [this._Image2_i(), this._Image3_i(), this._Image4_i(), this._Group1_i(), this._list_i(), this._Image5_i(), this._Label7_i(), this._Label8_i(), this._Image6_i()],
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 71,
+        t.horizontalCenter = 25,
+        t.source = "battleResult_titlebg_png",
+        t.visible = !1,
+        t.width = 338,
+        t.y = 35,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 378,
+        t.source = "battleResult_resultbg_png",
+        t.verticalCenter = 19.5,
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 137,
+        t.source = "battleResult_iconbg_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 300,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -30.5,
+        t.y = 327,
+        t.elementsContent = [this.txt_0_i(), this._Label1_i(), this.txt_1_i(), this._Label2_i(), this.txt_2_i(), this._Label3_i(), this.txt_3_i(), this._Label4_i(), this.txt_4_i(), this._Label5_i(), this.txt_5_i(), this._Label6_i()],
+        t
+    },
+    i.txt_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_0 = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "暂无数据",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 155,
+        t.y = 2,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "测试总伤害：",
+        t.textColor = 7901643,
+        t.touchEnabled = !1,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_1 = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "暂无数据",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 155,
+        t.y = 34,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "测试最大伤害：",
+        t.textColor = 7901643,
+        t.touchEnabled = !1,
+        t.x = 0,
+        t.y = 32,
+        t
+    },
+    i.txt_2_i = function() {
+        var t = new eui.Label;
+        return this.txt_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "暂无数据",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 155,
+        t.y = 66,
+        t
+    },
+    i._Label3_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "测试平均伤害：",
+        t.textColor = 7901643,
+        t.touchEnabled = !1,
+        t.x = 0,
+        t.y = 64,
+        t
+    },
+    i.txt_3_i = function() {
+        var t = new eui.Label;
+        return this.txt_3 = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "暂无数据",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 575,
+        t.y = 2,
+        t
+    },
+    i._Label4_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "测试总承伤：",
+        t.textColor = 7901643,
+        t.touchEnabled = !1,
+        t.x = 420,
+        t.y = 0,
+        t
+    },
+    i.txt_4_i = function() {
+        var t = new eui.Label;
+        return this.txt_4 = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "暂无数据",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 575,
+        t.y = 34,
+        t
+    },
+    i._Label5_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "测试最大承伤：",
+        t.textColor = 7901643,
+        t.touchEnabled = !1,
+        t.x = 420,
+        t.y = 32,
+        t
+    },
+    i.txt_5_i = function() {
+        var t = new eui.Label;
+        return this.txt_5 = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "暂无数据",
+        t.textColor = 16773461,
+        t.touchEnabled = !1,
+        t.x = 575,
+        t.y = 66,
+        t
+    },
+    i._Label6_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "测试平均承伤：",
+        t.textColor = 7901643,
+        t.touchEnabled = !1,
+        t.x = 420,
+        t.y = 64,
+        t
+    },
+    i._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.height = 123,
+        t.horizontalCenter = 0,
+        t.width = 798,
+        t.y = 149,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = 7,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 20,
+        t.horizontalCenter = 0,
+        t.source = "battle_result_test_machine_titleBg_png",
+        t.width = 768,
+        t.y = 115,
+        t
+    },
+    i._Label7_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.horizontalCenter = -2,
+        t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "测试精灵",
+        t.textColor = 4175861,
+        t.touchEnabled = !1,
+        t.y = 117,
+        t
+    },
+    i._Label8_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "REEJI",
+        t.horizontalCenter = -4,
+        t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "点击屏幕关闭",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.y = 441,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "battleResult_title_png",
+        t.verticalCenter = -171,
+        t.visible = !1,
+        t
+    },
+    e
+} (eui.Skin);

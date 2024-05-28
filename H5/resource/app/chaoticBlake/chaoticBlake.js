@@ -1,1 +1,3757 @@
-eval(function(){function Z(Z){for(c=F=0;c<Z;)f<2&&(f=64,e=92<(e="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[wP:LZ=XuL`?KBJ;:^>m<P:Y[U_:=_kBtiVRJ<sPa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:FP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBA^>m:_wi:bJkCZkHF@lJ[?UiN>Zw<=kP<=osV[lS:A_:WlR:;M:HXn;UU^l[>`t^I=G?MUG[:@spWQbo=`VsKJoMgw=EDvHUyokPH>bDwGJlgvlN:<>S:=PVAq:>BmZNiEkl=o[d[kROW@CsKNeeBRNRK^s_>[X<`[:kTjhsHZa@;;ac;do:FeG>k:B_:vvT:@Ch:=kD:>R:Dm:McVuQl@Tm:>k:;[tYHSEH?cfdZ=pIJ;XSiniUmSYECQLE@c>AZk:o:DBgPCh>?<cM_:Z:ZR:HK::?gE[BS]:Q_Z:FlNwogBL[Ra_kTK@ClKEV=pu>rA;vbMnsC=lX:g:=<w?wVA]VGRtOKFDk[C@RWH>VyX@^gRMV<MwNwB@liFBk_guJ@XAJsq^Fq:V?yuA^L:s;=Zr@GGMte::K`;fL:;idAQ:_?:<iZNFucHcP:;nQbBp>LQhZR:z>U=_<c:>:?Js:?_CvGdn^[H>TfPTiKOq;pEw^k=mIHNHJUCZqJHuJZI>wJuaqyc>Gk^vdBXR;J=Zf=lDkt=^`>X=P_kpfC;Jg?J>ZX::?vs<[B;cK[P>:NDsKAGV>U:T;sAc>_atJP]s<kcL:<LsufiqM=cDVE::Dc?>Zt=oWPhM=dqvufbkE?]<FHtveZL_s;k_knA:u<mO;xtsbkr>ZEljnwRCBa?iCB@LXJobleLZZDTBPbcCXE=@Q:R<X:t:<<OSrbPGT@MlY><Ok?`]KCMtqQ@u`F::^_kw`d[<eCN[klvTQ@Q:jHadc;fwGZ:BdFA:dQyE?B=YAwZCkG`E:GC@ON?=OB;:`:VUbZ:Bbkl^HbkJcP>tLaXLdBlFHcwKCZ:TdPdPJVBQssA>r==XJ>pMU>X`rZ?=v;Ktd`[VCc`PY>G`qJ:abZ:;PX<Hg`yJBaB=cq@tA`XY>A:jJ:RaaeodNxcZ:GCb[kRb=_kG[n;kL>RBOVTO_Z[vAhk:cVZDnc<ZDY;gZxuTgL=A;ZyJbou`>bmHflr;gZ;AB:@ksr^ePgLGivvih_onQG=[JNhDpfKhLUUT>Hr[Acy`;NSC`aX?CpKM;bU^<wJBq>nZFjPxj>YOxB:qExU=zRx_C]BMlFJp=wmkndGZBx]mF:e^uIH[m:<V^GHTURa_yMRlfbqGG<Z:vE^iGfVdvH<v>gpBIGjHsIn:I@uBsqVphci]kBio@OEcQaQEpbKSqCtrKkKArNtuDQHAebIhdoY`KB`QOYwUOpYN>]WI:USkLZURi`:ksxZJ;nYQZessDt^fjXJaf^yZ?cQ]:Ut=o@PXLm?[pttSwgsSqrqNz?X;eob@hMpfCFurfYoXu=sHJx=Ojks^xiHl^@IisbeDXlYSFNrvpHoo=[zBqeCPS^JtdhH:xVXTEQ^^k:PeVyndl?aEGXkxeEr=nB><;LSNkZGR^<HoDJ[=ROeGQ>Rj?o=JBe`w?eEVZMpNTdrH:rVwBgCbIB;cLSTls?BY`GaGWDANFUfJbsx<qsGJveoW[IWqAxp:=A>FB:yA_Gf`JvaG=ad]GeckeKQWICgEv_iJXV[TkV;NTGWaJ]G>]DoTp;[vVLRM]J=RQs^RBRBAZfB::shdPgLJbmeHgRcnKnVW@HDacPOlv]a<XGQAZGgJ`p<p^TFRHaABHMHmB>YI:::yQCUBuS>ALS_^_?Za<R=:FRJT>KDb@=S;RO:C[cfZAZc[S<<^Le;L_eoz<K>w=_>uXRIZH;F<c@eKRC:Rnu`aAqAZ;:G`o:l<Z>Fh_QtF]R<R::T^dEmCwLno:fHtZDWSFKF;J;qQgxB_ks<>PBbi:ZX;[kc=sM?HD]O;a><XLwcNa;F:Z@uVyOw:xHmp:XWwc[?:Qne<ZCL=ZbnAbIBi>D>>zn:PsJJZ_=drGGbchuQVZSJnn`w;;>yMNqdo;uZGFBXSr:a::?cV<tD?G<W]u[F;o_::[@Z;wdN:GyDZ;LPF:=DaZ:iiN:==zZ;qsF:Hbu::XMcycB;X@v@o::t::R[p=e=_rphQDhmQLESWE@Q<;qOmVNoe:=oVfo;ujqDSRVLDk<Towacn]_^ALeOthc=LCtF^VAN<L``cJH?kAu:ge:xD_=FhSS:W`QDyO<f?ODqOQ;o:Df;eoM:Te::gI_WMH[pQeZpsT_=@fd?mHNEBEOPdhQT[pMejDNGWOkhZL=MMeNa=uaBYe:pr^COeQNydIDR;;@mYRbWi^gOQIyItrxD?iEw;uSohS[nzIdMMHaPUJvzbq;mQCVBlpUDqVB@clZuMqAJIe[:SZ>NJgk<izWktaN_<nU_sVm[?bEE[TVx:qN`Qzbd`^G_PUyfvFzLkMcruy?kdd?NsVTux^u>YND>Z^vF;SjPD;ktQvRZl?zKafGEg[J::s[MH`ld[q?sAsNsTnIPD^FA^;kRTUPCZXvDB_>cf_e:mZzEZ@h@q^Lr:uL:@:xJ:^V@:@`?J:?HfF_:<?iZ;gdN:IHCZ;THN:HzlZ;@MN:@?mZ;[zO`DDk:vx@:?^?J:[GT:?kWJ:ex>U_zelWDaNYotOcBNYD<K<c`MDbqPlRMPuuDTdtxebNXf@<BkGBTOb?EwI:SAD;rF?dwrZT?tHH<oscEJJROVC;YaR:s=laJR;yGXga>Ck:hZT:;nOJ:;jD:<k>k:sz>TV:<UPZ;bKO?J:AKRB:XyO:<bVc:QeG:;fmc:A>p::eqMCk:iWe:AbJ^MZ;:YwgzZuGgBQ[jAh=XSoFk?Z_DPycTTX;Q^pgwBaPBQO>:Z<R>ZW:GBU:cA@FHTuh:cDAAB@I?Zo^Ela^^I[Rwkv^LfYPthgynf@pidUUn;RVKIg?TN<`zJUBz_V:srwpBZME>po;xXCocLuA[F_XJ@RI_EJuZ:=CSc<a>UZvtAac:W>u:sAbNXhnCnHSo]ZB]k>J<Z=:i[F@I>>AL<ajaK[Gmdo<@bEcuKras?njbV:@:]x>YR]scZKRA;[?JCbh;L>_<YBfaZ@;V[PXD>BTc_[d<m>VIM`JKkh:u=oBR>kkmf;n_<>Uartlr;e<w@kQkz[f;qy<BRVBYcg]C;Oq_<Zji:kt>RGfnHdKIuO?R_y?r=JaZh=THZ=cQJRKx:@>FRJBklZ><aEFXR]l`]f:kvgARPk=ZoQ=B>LsiSqWr?fyVSsflr[w??xcpicBPEc@alV?]CKGnKyal]<gORAk>[L>LULIdD^[YSfqWK]^BE@>dyr[luIa@gGv^H:N:w[tr?tuj]KM=d@Uv_Mj`Pjkxwfy`xt^Y;]hzxlFJJYYNjl@rtIzYiKLs[_jvgPzllWyg]YVABiyVZjyrHvyy]J;Fs^H_ks:wJs;Ri_;F][]A<N:Q<gJ?Zmyt:;yGy>Ln]GZN:>oVsu>=Z];[yra_LE]c;b<u:LRP;pyzyuHksFLb]HXJFZZ^;TH^NE;u:A]Q];:E_t;X;n;f;:[Iek[M;I;R[HX::u_k:kMZTzhkKB?JW>bkU>`:I>c_ju`kOtjZO>jHjkMbfsiZAg<T:qAsFRDB?H>u?TETIcAcPjcpHX=tCl;TC^h^^^bkBJCX:FIc>TH>=RMXIRQ:BsNcQz]cK^`^f^am>>URMHD>X>UZOBYT=>M^ZDI>L>MT@>NsNYa_OsVu?_QRM_V_VcYcX^dsU^`agNR_TNQ_Wt`NM^[mD>HRP>Gu@LG:?:C_<A_@CbD@EKGZj:?LHqbZj^GGfKcJIgEgbwfAeLE@HZ:EiJHtETDfi_Dcd?h:^?b:cUHFXB<M:sBo;k=RFa:LGt@::gJEefiVSVMXB`b:GVTZIFQ>BgQVS?gECu>MfB=wHXBWewNuHX==BWbcIgA_YMifgnbs=aBFYR>HHNN<;>Wn_Ee>CEd>Tr;EarhEdZEEgBIEil;<Vf^N@gNAcn[fjJ@AjZ^f]BIgM::UbB:c>c;sCcGcB]CUeR;R:vdv_sCmPs=:;s<v^sAs=mN>?:<>=vhoYuG_:Aaf[DQveA`r[AZI`iH_AAcoFoDV>b]ba:;HfoIoBFFFDF;FGFG=BQ^R<g@g>J;g?g@Qbg=WZrhQh<OQf<KBITNwEG]r^:<:A:Rq>H_LRAfNCuWuJT?fdLJB>B=sPB;oXLDw>@;E_RG=GTBJAcFBEgVn:<[k>]?Ad;GriB@:=RDB>k<gFgUuhrbXBDSwB]DB;kB]D>;o?AheMaRoIaRPQZDXfZIFCF@e?<@PUs;PLNGPXEAPL:[:BPRqKY<wFc<:Is>F]>Frb?jZ]NHtcFhn=hE?hkFza:AXBPLgCZ:F_jHc<sfk:B:kFRAgBh<w?qf]LZZnfl<w@:Es;abuMDUXSt:yP:<@Y^FNCaVHNNC@OIdoQrbyLLCoQZGkFjZBAgEPJIe;WLUL]:FX^Z;qSNFr]XB>=e;VOoALEsbXPyYo:J;:CPBaI>=R>F?>@ZIl:FDiHJ>EaH`oIg>kIgFXbaTBA;YyAk?=dTN_;kFR:D>J<k;FgcAL?@QLBR:CQLHqKd<CQL;XKXbg<J<<HiSZEN?]=];k>B=Ff]XHQc?@K::JIg:JCFBq;PXRgTD_>@<RDSViRcaoKFaB=sEq;:>DIcISL@amIc>_<kIgFHBa:<Ig<tK:?ajc=dNkHJ=BFH=HBXbk@lBceCJobkCx<w:>Q>QtUB<@[mIc<?P?K?OgilVw=F]J[FbtLaZFDO<`JtRACU]?JgENHc:g?;Ak<?NqMOQOJV<vZN<kDOY>IhbwYcEL__BpQaVzZdN_EN<Z@iEZ>y_J:JFRDGQ>DiEZI;[TWkAMAwb`RG:k:DDhYlRGE]JPSZ>D>OYe<OQ:D>ELbMbwhhPRHg<<DAjlJof_hGRG<JAWPRGDhGVu@XJPT?L:H?OF]xOtMtTWJg]hKWKF]JC`MxMH@xKdOxO`OFhGQ?KtJ=TP:<>=XiX=WxUxW=JDAgE=S=Y=MlXNiJGOKc@UejF^PpD>GGM^K^LMUOXcIOJGMRFpJnTpVOKpLWVI]dNXNk=qXZ;PTgDB>R@_^sKR<SKo:FB^IaVc__?KEL[mAlUSKCPwIxO@W?TODCRGDc=FjcF:;kAZI>BtY?Ok@>R>T>=<HaQk;iJpW]Q=YcDSLwYc>tELam?GNfR[KdEdMFdIg;RF:^PRIXBGYcDXXlXc:JFAJAMvWIao>ES_BRIqEPHCKvSqYAPmBbVCYAJD:?ALCiALEFR>;k:Z;:?L=RGTBI>ZHg?N]QPQVM=uYXKeWg>t=dMN<EAk@:;wI<V<@<Gf^raFVnIr`A[aHl?nR^CCI]AJBL=dVvcu?p;d>R>T<TEGaHHrCzbrE<]a@mFv<T@TCT=_VsAsLk:_NZ@u:FCu=dVAh_AoL@CQ`ZjRC@BP=@A><P@PArR=CaDJjgBuUYS]?@BzY@=hga<I^]Ah>yCRVqI>DqHqCqFx^qIvFuB;BJ>HDHHHCH=X:IBW[HHp<iHiFY?iEI^QGBE:s<N[<ZAdGofZxSbJXZ=^[kDiHYGqDi>CgD;^DKZ;B:;CHZ:GHT:=YIc:IhyrDZ:jk?D^F[]U]T::oCc:BIlLcQBjDZ:rAD::mfc:>UdxDZ:<:m:=szs:BZFmCo>NDfsvslsQs^RIsYs:>ZDoDX^bsW_::>^HHcHJ?>CZ:DBA;mB<jK@;<wJhAk<tIjBbfyd<RN?hdJbt>Z?pEs?HU:ghIHQgRJdZ?soX;eUskt`k?hdw@Z:<<tClI>Du`pO>Cl:J:_tyVPSFFjSBejM:JUKMfSG:q=C<TT;kDLDdBcBCLH@H?X>YL<akGNvJFaFi@i?CVomZsYPZrSBed<MoyiGXMYXneW@sl;DzNbG>pl;j=EFWGj:Q:f<kDAI?^LEs=JrJwuZkokoD<kqK_DCkvkkBoBom<BlBpBvBscmcs:;XuZ:N=cmT:=XXc:BRla^hRR<vF]H:iDH?;^]MKTW>gkwyoogKo>NdotobRqFM_qnp=h=x=h=[nlnv=r=Y=Z^RcOn>aGnYBo^w^L^m^Z:;uT:<wH^Cc:E<TZ:srCYF<=sF^;zFrZ:g]@GKG?SqZipZtmUmmmfGbL?kg=xMkhNHvIBiFGo^FIkFbGbHRiQIQHLIshrG>imRuTogzFBvq;Bsn^FidAK@?>dUZitkwiKKfHvkg;Dlk:ekNG]:Bg]jvFcj]hAHLjcjbGRjw[mirH>geH:=IZNwpDfLuYHtHYCx=xGYI?eS;U><KZ?hiU:zHeRO=S_<As@^;^@m>?^Y>M?v;kEzEv?M:ADvF:bgPembC:`gQA;>uaR=FPoEFZdbDZ[mkTxmmgwTrmygnt<;?TwtEf?hg@vfIfDZ;PzFyl?ZEEe<OyGQaXdUHeO:I>AWGT?kI>AgfWZpG]Mw?kCl?pH=gA;m?adibk@@?UHizcFaqKcAIX>:oHdkN:yRrFoNEfg=EYESIYCHr==UFz;yDz<Xy@XawMGvAzEavM>?[u@AI=`PpAG?aPkb?GZ`iwVZZ?FJw<Ohj`j;mZBOHixMCR:?HEGodmogt<zb<quTo_[qnTo]rTqDlDukuVl]lVx]yuketuwczkrCc::j@Z:sgeejoj>oTjzFG?:jd>V^uhVjEGJgvlLLW[WKF;s:BM`lUI<i_WXJAFHhchNViimisjmh`eDgeH:<D]c:>U@Z:YMu:<i=`wzgHzSlE>GT:>xd;TC[D[ppGM?iniqbOASoSm>DE_iZFcAfJUK:EP]ZBuhxZqhd>qbJYxchI`dqbsImB:H`aZ:^jfuX:;mmc::ua<aZ:gAD:=GgNEffYfRUWzEynazv:;BAG^Cgp;oPzVTPy>t;sPzVVEBCv[pjFqn<mkDudo;qw[r:B[yq[poCiXat>kCPDplkEmDXiXdKdo<olpSP@e??Sh<:IcFvFu@vHVIc@Xhd?VcJHWhWIc<WQmEm=tHcHcEILW^yCRyine;TIOkWFCz[wpz_zkEAdolZ>BQh=FtIB@wuessl=^cJ?_Ct>Cd]XBiJGsZw:EguCG^OlgRZdOqiV;kBZmxlomvltNX_NihXTxsl?h`xmwMxkoA>IxtndrV=u=nX?a[=wn@?eccmw^g^umy_Y^jPqxp^m;@xv^rxxeRMq]J]XRqX:YJEiMtPtlzUEnpXIwxwtltgX;pOt>lMx;sZ[wK^mwVnkl=^vxz^lns=vOHJ>_d:ZYJEobD;oZ[mlZeuS]>xsgWd=XulHYO:?uKH:TCCAkGtsUVTFvoUKQ>Hmtvu?cXfqyRvs;TB:SNSXUd^MHAST`RtN?YyRFEA^IQIXyfAmkEIWFFHiKgHf>nsyUzss?t@D_y_t_k_G>E_zWk]>y>jQHmNx:UHHNy]`Nx]EJENzNrT>owZuooFtq<Fpoz>@FrouruZouHotrlZ=rvp?adsxdGsz>pbo_nbzI]Qt<@QuwFNr^pQyjK[k[_M_kITjtpSyZ<?yueq[?vubLAde`s:B@K`PZ:pze:;vwR:EWyo^>qhR[GfO>YU`H`BoycxO]YmYwxlc[GhS@VLS[@>]lPxXuVHXAaca>LB__<:;=z?QpcEVBL>>H<l;:H<JGlc;ZENJ[cMRDm:QBI<TW<ZI:Kc<`mDKDBfkPFDm:H<hRSKFZI:?><usG]=:Lmk_=_=G<HXAp@RZB?o<f>=:_CEMlR>m?S:w[YlBJCs>Eto;d:]ccp=NC@>q;I]Il@rO>@<CX;>ZnidJJBDm<s_<LH:>_^ScGJkRBkKMbO_:<@mc:=TbJ:B:@erES<<QAJkZD_lcCkFZG=nB<k:fXUWFu=rLc:zD[uTc<_=UBV:tq@?Mg`g`J=QdkNLDVtDSrR]^C_;guULIH`o<hsDVYZi_=bZW;m;xNcJax;>Ck:F:IJH:V@cX`<=vC^BqJ`tCtK[;MCnHV:Ln^bocJqWfJWb;ndm<VvC<D:;mP?;SkT@JRuJZ::ALny>:JRNFF@AFZsi]QJ:?^zyeC:=gbGKiVuJNJaGCZ>^Mzc[JmZ=_>K[W^ok]FsHHaFA>DJ_SJLuJ=cMuPh=W<TFroUgCF;F=]:suYJZRVFD@@^=si<QLROUOg:c;x:Gkr=Ha^::v=:sWF?qBK^d]p_ceG@YJGFGqKj=MgRKEsQS]OMu;p:BBq>Thpa>VZ[JjB;cG<Fy>oRwFjkkdIwF;?<[ZKfKIZ?p>B:A`WRNEXYAe;ycc:<HRb=S^^?mKF;tDN:XL[u?RnzZ@:N:IBUP=C>>:DKGZD_Wd;d?BduK`M?Z<OnyJg]]:BBG_UDBx;g[NNM:U_UmBP>J:dobBr]dTJmm[sFgatYRImF?A<^DNv_FNVpru[dSSKwc_>;u;;<f[OKW:>JDLIC>m:[KCoT_PTEdAGVqq<;PoUf_;Kd==VncFcV]`KLd:`K`LV@biZ?;t=Tyk_Pli>IDAl^nPDgNFSZ:w>m^UKuc`W<:;B;s:L:A:JsKJ;nlCColks?oJDEW>a^KKrcz`_Kl;:O^[kq^PcG<Z`Czgs:E_WFUTHcZc`]VIk:Q;No_?:Z=uKxV>eLN[DgtMXVCEb^n_ve^]UkmCO>hnZlDWpgLViWNJLJk=L`oZPsw_ZeO;ko_d:FZX__s>SDasPL?iRPhUZ<<w`iLhs_NjmPw;it[L^ZFNZn[uCL_bmisqN]AZzEFkjm_XAw^A[OEhk>w@dWcERIR^dtxLPXJofbaGB?tIBKXCTiZ?Elk;WZ?XGbBr]zdpsQLFC<sHuM<<htHubXAial>Z<xsfF:xR<NI_i=Volw>x<Y?IOG=i[J]nZ:Q@m;IcX[q]oYEcdyF==;[TkJ:v;:P<E;Io:@DR=rd:>aCuOVCyRQygP>_`:FluZDF;]q=U:WZikg=YgHJotlxx;a:zUwA:=S:^wbBqs>=fS:z:]w;ZRjXh_y=FRYZ=@<s>RFRkJTp;gX>>F[]CEjeXLaBc:]]Kl:bl<VwHjESffC:vU`WwgE_QL?Wk[TGWcPzEHF:t:vRiK_aj_Ym;mpcfT`DsE>T_]?BL_LKPmWBHmIj:T=ucP:BPD=Z@qbZxgfs;gUxbY:^TIlQqWgWxgXnS;ilLiXl;G``AgltKXknaReDO?N@n^jFajOi;p@u]xKVR`NmDKEq[tLxRXwPJrbOqjCRWOZ=U@va?HDa`Lls>w<eOOEqD^ktsPqPX;I:Q]Q[`sVZ:;AM:?;Sch_BZVBDg@Xa_By:G:zR<ybyMv:J:IZbZI;KGs>Mv]:Ne<SKEX`@;i;mZwJLJEN@k<c<e;C::ZG]=s=^JAofuL:;y_y=:dt]PBJynbLGZy]ncESI;PEAMNno[iYO<:=<?YBB[T`BoWPBx>]]jKmRLLDX`Dam:EolF]k<<=NcS`DllclaTTGd>gmMoCNjXIhFt`NmLNjFglIaDD?Scz_;RcZEl`mk<R<gWBNf:DZom::EKN::Q<KwkannLcXCUCTMgLV[FwVyFv:NUqKk;jWS<^RAJCnqtnTx>>XjATALmduBwTXM:bOamlLmx]j]CHJVTHqA@W]Uk>HJJAiDb>>LSlngoHSlDQ>MLZJesqVXiGlDU]Cl[C?BFLJ=DSnGV?CMwa@PdBqsuLKiVwTMNj>[:fVAC;wYU`f`w`bVnscNjQG?EXsIl_dYrGyCCB<MtLsX@]Xa>An];JC_]V<RyLpBu`yZXdMIGb]GEtt:VLkFogQ_hCcMfL@>wjATJB_psRty>docKEbBWpSlS>m_frJ=tD_<>kxX]TINRaMoyCTZCzHilF:<Z]FbNjZBsmBnxKA@JcGq:D;WZ:]y:w=AWezB;AHF;J@uBED:fS=RlA@_<pyYwD:KImQRzNF^CmAO<qJ[sJrCB<AMN:voP:v>yU>u:?=VLnuY>]ycCIuByLYu=xCLTP?];LMsg`VJ_@QnrdHmlVIgqe:EZ?<w[tCc_lLKCCcP:F@C;_N;]k>U=ZGB@P_a;fq?oa=[xCEMYj^:PF_vtg@yjO>GZggb<x?sh_d`jekVauFbCl_rwIyAVaN;wB^N>sJ:<N:kb_Qo[^[j:<ZQBp^R<<slSuFJ?cZFrXWFpVN;L?akN[f_ToLbfFBdVIV;G?I]A@Jm@Xo:eYsh>sL^_dw:ODWdALbk:Za>LvHAseUR;EMPgNHdc`@BsSK>qxNQDD`<Vnl:QFBoa@PGFVKCms:NoZEG^;eM;DBs]olY;;l`u<wRkQdAm<Bih;fMgHPooDNprtSQKUcFbTeOqohaQkyq:vEy:yl^UIhfRhgC@HpDW^<Z<qgjIE`alx]Nl<iJcUWagg?v@miRELuQhFdS]pVwL_:RY>>[N>ODB<VF`:Zz]K_Z_FgVJbL:MBx=<ZELYbMmEjrrt[VpS_QBMB:>DUJ:C=aZ:KXO::=Vu:;uoo:<PCc:<mtJ:>>[NDaMB:<csk:CzlyaJ:HWyhzJ:=ZaZ:Uyoh@mPHhboe]NSDR`W_Ri?O=E[:Wu??wwfgJHpSK?:<<FbY>z[AZLmnd>gmuNj>jkrMpoMwluYekh_YVjBY_hbifqs;XFCSUrVZ=t;lkyKn?ts=e=^_s[lZZRKgmmSEqHQELcHhD>uKI<qm>;vSpCLiILdiPFed;X];tQB]XNA:Q`XFyBXwhY_gcL:rmZE]DdWKzRINsQWhB<fd<ZfBOgDl?V]jKORfVO;DiwDhBn]DxxJmjObafnjB:w]XIIAP:Jcqup;BgqAWlWzKC^r`CZQLx<<=GMngKBNny<@XgNg_Ffy;FwH:LmdcEs<Jum]>H]SLhfvOxDoeGQDRc_:WOfJgND[Q>Aocy=HpjrGKAqi^:yJz:kwX<X_G=l?`aLHZRWRp>cK^fsZ>uxVf]QX_OmW:kw:sHRaW:::e:S@GQacs;:NdkSc=Z;QPl[NyucaHe><C<rShoWZzt>iqmU^:?_E:GWFT`AKk:Qkq_VZ<X;iKl:p>r:OkOPQ^:?VbTwPN@K:<k=V;Eki:@XGq<u;XKOZQuZ:DKAetei:>[:WKR=LcgGspA:BV;w>^:wBButWUzMQNZ;^:`NlT?>:@sg:]BQ:D]_aBi:^cuPt@dWO`<cpy:TGW@wL>ZAN;^;F:t:HaCzKFNNTXG=xT^Vj^q;qG@Gn@hVGqHG;_Tipcur^Wk;cpa??c`RRMMJB:?Y[emE?YJ;k<qKF;kZABH:Ip?zQ>[m:HcODiJ>L^:KQNskY]Bh@tdfKnpbkDxQ>=XlogRH>nU<WZ[:ALLZd]=VhKJ@iQJmEOn[DpTY^v]ge[sy:m@KJbGQOfaO^mx:`Jl;EwhDOdVQqHaD@NrJvcTZG^YhOKJXZ_dvm>DiOcmlOUoZ_PLlRaciN>N<;fm[BNY<nfv:Hh;FffLm_acZZJ:qPI^@fD>l;e_OZ:THh::aevmR?FZ:?fG::MHa::jlN:<atiG[NObE=`RAUOPUI]n<fTdtBaqQUBW`CfSlEgrQ`X<oUe]^:vdY;Wj`Pky>Ra<kRAF_k:SvR>:;qBv<WnZ;UVfg;k:SAWZXmm::JnqAs:<AwoYRGg_kQtOuhULBtZVYK?uW[ro;t^`SHPIEHq]>kwchS>qe?SGg:<TwbGd;<UTl:;qwyI:=bShZN`BRVfhMmpUOea]TIEGJFJwOGUpX:NuDHZecmRES_F@ohSlmfOgEEOGTy@O`ckEQo`;TPaEK`hfNIs_hd]CvJWMk:WeRBu<feD?Pkr>Tw:PF]qiiCyarRNkHir@<:@bP@tqh=ehtO<Ms;>Rh_aoorXXZGejCpWikMWNwM:;WJwp=w[fM[@tqW:TeSG:@RihND[GcRXsEeaoAWC`J;_I_<sffAbt?:pWVZ=;JM^vAY?LVGsBVSrJsQ^^e:_sv[U<KRPAt[WzHHlRbFvcdniVTVpfQiCr>__wxh:YwTQmE`utTLCsgiNB<SC_oflpVis;v^jAH;yx^sliTvaU`=urlUVudNYFzBbncGNXIk@B<x;wLC:f[Wk_oJtMODLxbQGj_u>QU:gGxKIXHXAErrd?GeKXuQ?jcsNbv<];ywvNYeW=ZwvZMK;PXYe;vruSkSICzYlpjplngxGs=_BiqePpDoFUBCl_?b]q`G>SqPr;>K_=^:RvZaPgz=JNk<kA:?>;ejiY^Z<iB[sD;i:wsrJFBn^>H;p:kn:BFItjwHDO:o:^BGmBJ<MyQ:pab:H]vfOTxX:A:M::d[N=mrCl?>[cEJARZzs@aHzEi;e>]<FD:cET<L:olNqRz>IRRN>>>;M<K]cNDKa=Z]@G;R[UJ^cISLNKO=qF:JWZB>BiKzkZVB^Bsni<g<V;;:=Z]RUFGFAE=:[XJfRSz_P@?=IePkz:og:c_gx`LmKEbeOkgs<xAHMYTAGoM`vSl`XgQGQcn_GvhlQVrHU>Yr?xmvqCVxjJmNvoQ^nVOVx_brhhk=vQl=VicDIjWlt@KLvso[J>anby_FZAVriT@QvadK;t^r>XXeMA_kTRCowy<Qb[GEBM?te>x<S[BravmhtiwyjCjDB_AniVoyZ<UIcQEY_;tJxLtSYGAls[lwNl?]MZfkPqDbJPTB[UlGxfwMT^OxRLV?fjd]LzunxP[WscjbS[M^`<wLYzQsQ`[;?JNRKTBco`JGhCN]xmNZn_P@L??[^H:?a^FblRzBm>gUKfF:;qAc:<nhFzc:=tMJ:F=uZ:MY^::jrD::yhF`JmS::Tde:;@dN:=cDecns=CdtN]e=G@eZJ:B:O=D[rOB]V:=LVc:=ZOJ:?GmZ:NxG]PZ:OSh^FZ:UY^::dce:;V^F:;cac:>K^J:;[@RqDh<a^pM>VtHXn;MjTkctLheHffRKidmO<:;B;F:<QKc]V::CTVG[F?<sy:jNin<k<DPHS;ddLsTPt`]rt>YFRiPdUp:SZGEsgT]]:Oeh^ZbDbBndw;;cftvTD]OH]xBBtIoR@DrCn]`Q`tBClrAI?v^Tsq=FPUQV;`aL[_N>dPaVWJ`H_VCQ?FGS_eMP=BiCRtA]ldLVyvii:<_dLnSLCtKZIDPB?CN]WfBiojX;nFHadMl`AeieOFgTaIhadVUOeNgdK^AhvdymdHBTVDPCFp?JopnDGEiQcsZ=zaQeFsnaaGDTsfda;=edeu;TTq@ob=j@VD`paqSsgiX>qTV^ufriowVuYI>Q^QMBBuuEGAM>?QIL:cj<JV@^ErJRnYdKuYuJVACqYVQ?ejIAcae`OnkSOVe[ONef^:eepOAURwsTcB=@f`:UeqAVqaxN:f^yBdb`Bzro:enFWZaH_B::^xJ:HcCZ:IgGKNBdhMIm`?L`S::VABubVMTaP_s:;DtJ:>H;dH[EDcaxH]xYMzgpbMah<rJU]pgSs[C?fBLOfohPyxJUkTYnw@Jkj<O@WibKaRm^oqF]rKanNJC<IJCFoPOH:m?VnoljFiPM`QdaN^;ShR_PL_Eq_AaiSogx]bmGW@@QEBbcsPYLErFg:md_gvaMEGHdvdoFuHoUY`]Dl`RCN_e=MD]V:<nnc:?SRaMGKSlH@n?n;sTmScgpTrZCaTXcHSbd=`zuW^z[g_hAG@HjuhXvyd:@Mq?nOEB^[yTBkf^namLVt_ZKBorcQshu^ldVxBmU]rPg`flGVwYJc:DIVRKxZd>csv]xn>LD^WXrHMrGeirg@^[JCcwII^mhAGLvKeXJTKnnW@_C<wwo]Q`Qa=@D?BlvyaFX@FM@LC[wvigYF<`NLt^J>[RyYDPHRZfteld]XgWjaTu>:u:RiETAqeEos:mR;cLR;=]jnYfqFC;YzEs=HFm_qxG]QjQipB:HJXldYJVReIA@iENnVsxJdYd[USC>aorjYJXHQ@;?GppsrKbXFJGGCo=UgGwUobxFWx:C`mL:PNNWgEC>:h]pciKnyaW@UsYKR<VFNaFbkY_hlJ^UcZzbSaRPohYg;fHrWyPmSgfeaYUJlLFnxU>Pq?DL_dLbB[S^pVPWEHmro`hSwNKLjnFLrO>TSbN;LXs<EVQRaSlhdfXTvm>Hqvx?]j>:Pu?ChqxuZc@AOPk:Tw:nh[R?ln]:bpgJeqD>HfXrIKDVn>c^Z`UVxvSKP:;cVV@::;:::GVw<eecmrR<:]S?ZCX@^jV;GoJ@:MZbrQ?r:;ZLJMHpabkGir;<AhsiHvWgTBtkvZu:EhAWxi``x:j:QHlB<Wq?r]v?WpqlrVKnO=fJxWew]Lcpi]rpaJF<VGc<I[GoyC[Zl:FxWBELdxeQbAEftmrtpcu[kQHASu`xQAx::`_c>uKMKaCE[`rJjHxPV[:TJH=iIFLsKZdx`v:<@IIyTcEHYFwxmgjHrLHJTWYit>gAjmrpa::DMk:FTHqhD>>?YRB;br^kltgEGYYIgLmrgGqeiFCS`q]Qv`<PaVAJXLrv:AvAedylXWtOQbvUUBHwzvY]a;qhUbRQoMrXUHjJC`BU;eULd_buuC:^X<Wd@oHJngUJwvKWjbSQRit=qc;`cOaal^vhpL[vYgmoMi:eNEqs^l@GXkOEN`jsVm`[oz=T`xaO`wt^h[ginUUD:>KBso=LhpiTfa`UdpVvEm^OybkZAQEf[d:utG=mFaAFgn;i?eX@golcHa=N`sJgK;TVhdf^Kf?`CxCHob?ZIe]q:WgWDIWrYZoCgXHV;AkZTOIlMk=kR?vIbX<ujUrvfqYOreRzgm?dHlVNi[xfEgfXb]>:IhQq]rbs@Gj<;>b[hRVzpHDOaam``duhMHXab@:Z>kMtqZg_^@<pruapQVcCKtKuW::GGu::NiN::;KcBpPvxIWHZ:S=`::X^e:;ICo:=_;jFHLVXfYg]?kzdjTvMWsZo<o_qUhjERBCB>WQUE^tokgJaxFZ:F;p`MsaH>xmXPr<b::Fk@:;JSN:;daP<i]gdaxUNhgCRkknZ:nrdUob@Yg:w@SSxZSacxD;JnEv:jncezaxJkMQzV:E>wB<zDgOQDfOOuecwlmdnt@e;Z=:FtvtUd=<b::uTT_QKNzJk:EHCZ:;hG:::Ie:;dnK?IB_PW?<s@XSIf<ZHUvWx^^Ny;J;IPQf?k:NIL`LqJ=@;cKZkhJPBBL@A:fPZQW?eZ?]jpwViqZzPeJ@n>Dpe:_Lkey_D@Aq<N`fZXezc@BHhQ;[]ZM;Wtc:jT;;fgJYDx[`R=MQA:oaOy@PJItBFV:ES:Jvd<n=oKwR_XsJAiJomY_YmMZfzYzipT:rRRyb;K[nlb<G_RM`Cl>tg;cVyAqvTCtV^IQHjdvzEbcYe[tXSjL<zF[aQSTS_HQai>bDMclhl^y^bK;`xoNPu?ba^yPSUZCx^;;:tCfEORqmqCAggGjpaMUl^Yp<@rjL=ZF@c?k;=rK?^kQ<?JZDGrPtUBH:pFl?<w^WYB<]l?@Cz=@vHKo[xpHUxB<w>yiRKM:vfy=>B;B;cu`Skf[ak`XwbCP;leOjBZEZt<SQwxWlqHTkjmg:@]f?XiZFiD]Fs_Tx?OsTxOR<GCAu^DKzQ@_UI>S@PfIXbBppVAq`@bVKKreppYDHz]jlOKaNeGRE_:M?LZx><KJ?OD^mtfY?mXKb_PinmX^epdXOTPq;fnULPpcBvhXzdGsOT_lgQGFWEunAwR>p`>CWVe=EAZ@hpayJVXkOZrQf>GZNIMP[gqwXtwG``tRMi[xC_kFSq=KzL<GEh@k]bk]=^SPIfk:vqSo[mkA?hv>EAgzUf_<KJuCjvH:>KwDF:GdBBy:FE_a>Wjteqn@Bxgr:@WiW_defxdhvTRFjPSta>`CtwyDfVm_=rxIthjELQ@dPJQgQP=f`MZtQ^QaouWkY:?pOLOuY]A;btfgFhDqNIiq_moG`;r_WIh?AIS`yIqSygWbwiP^jGgsquamwC:uQ[nkLulpldVWwDeUNMgNk_uHqMbeqOH?VwbUIIiOpiFMpH;Zx<OoTjnkaYCQ>rR@hGinl`xf;HYDWA:TbTI`PyRxESEbns<GwWaUuNpIdrYSlSSWWOswll:DOszB=fYGjZbcD@hte>UXLnibx;CwL[qj:DaA<pU>yuimFXlj<CAvkgA<Ff^jrpLgez]J:zl@ZISCFToXNI@dA=VMOfjSQESBr]HfxsnAoyHDFcXqtJpaAlNY[y:LntjZZ^q;GaiJLLIAKw^k[Ebaa_pfmwZRyjBRwjiWtnAzTs@Qhuy_FIIsirbQPCx?mBmcZDX^@KR;l_RawkKFfq?lDbEomwllcxaPe=FNPmlSESpXQECS@emGSBVZIBUEDzamDkGggbLvD``JZajmgZHMj<uz@^ctIQ:`MZ<M`dmDtJkAHOHPE`bY]]OV^gJrCU`i:HtIVcWoIE?:MmStGQkjcnZk:QmxWKwfntCEKyrmZjb^yL<[:]yyC:YALe;Q:fa;fYo?OX<lJPMkO`Tm?GsD[Qg=cOtZAIU<eyJpCsN<DL:B]]KP]=_OqeO?@]iHbceFNam;YfMPlJseDOiDj?LucCJnf=y_uASDL^CMO:P`[eL`?LPdKXeTNAYkZALbdL=uiYi:ETgmgENgd=BUDHpNJItLVfyNrDLGUm]^MDc[d:ekONIhFCmfeok]EpRqc`KAMrfzDuO<@fxN]faBbzHzqS@pPHdEz<::ec^:De^=cG:?eZTcjkJTZZ=PTJubTdHeUe]HlXe;SAudc:ta[CK?DPT]BpCeTTak<MpKTbP:JTGT^F:GeET`gcl:XkQZ=^eG@bHcL:uu`icS_;u^;d?T;d@[cIeQT_zwSkIDZTJDTO@`dK]:muZlcsTT@aRkwTQu]NdweFzo;cyeRJIldgTQ@]s<<TA@]Z<uTFa[>:y:ea_CdTTV:Idd@TW:CSdfg::BtdJZ>X`Ak@eIaZ?cl:RPZS[ZbVP_p;rBU>@`c`DYT^Kc?TLuZJc_DOPa^sAzMP^F;hT;d;HVQXSzpGceBVqbR[ETTqZeKK:HqZWdxJD=OpNHbGq[qd]zYq]xsjT;d>=daT<H`=dkuNwbjNWD@H[_dsu?`=t;`T>L[s;NjBLa^sDZp@@ndVuYHbg;<uRi`EdmuLiaF;euVi`ik=JGw_UdsgSi[L;PuWiZHgd^BulboMfDraMx;tNpKN`ftS]JXhrWLlQRGFaEe=Xgp?L>ZmRpZp]OrdlIURpdkdIWo@BORUG=nBOfuLFkNxDkUMncNcHWy_ROoZ=dQnOi`M:<d;p::R;o>McO:::R<pVV<q[N[Wd;R:BR@J=k:ZJYNmY:^uSoAddMc?WMQNbk;sHy<;c?gOnOH`UdLFoEpRmlM;iQXsEnOjZoo<l:s:@HnsJsJ`>G:WDkH::i[KGY:ml=_Jx<=gRFlJH@cFeJlsCd<zk:N<:lM@RsA@tsNIMK>p^?B_Cd=;KBMArCLkF:?t;VRRo;gBrKIN?hhnCSw:t<joU_BFpPuEaquOhaCRAedpI<sDNxb^Q@n;RiUH?qw`BnKoAJ[OJf:<VZRGE:?AKWoU:?;B[p?BQJ[OkRVAQ:h_Fk_Usk:;d`_OkJya]Z;vg>Y`?_qlBU[nV?rPx?YxXUU;=w_]pADKEOkSDrbm_jvCfaD`vJloFIGsg=E>l;LJCRIZCpqWR;@ZGZ`F@=:ZN@?;w:H=Pc@wpEpQ[PAkqlBgFL;NJzUqS_FJr@@eW^MNVlDOubLVlZ?dnMi^hG^:FY_WFcH@rbtwAXJJ=WtQXKXqG;;U>[@>xdwDIpxsGLYr]gl;TWYk?dUzVIZVcbDDFav<y:OtOyB^gI:@ZJYB:Z;g:=RU:aGWa=?;pb:q=X:^q;zzOz]^s=^<s:@K;d;YNr<AqPfrzZ:sWC@g>C_GW>AGO?PNEZ[tJcMKt=huWh@wKt_D>`gdpKE:?IJcZM[Mt:cZKzMd:cZ::nZ]]FCN<]::BGN;ikyJz^:?<oC=<N@[^rAuk`=WRDNBL<x]GJ?Q:tJlHkO<qDGJ><p_gQe;lc:;SE:YFAnGuJy_fJpwny_hG:s;ixtjEslpgTi?frecbjDbOXwVJ>F:@wxjGnlXBIIJvqMNsf>vlb:aQ;w@nNdaYE?:]bfDr[nCyWUW<h=ZJGpmIKKSKFDW=n:OoIW=aaMoBP;jJ^Z?x<N[YoDclxNFmIDo^JH;qG;X>A]_;hb@BE::ZE:ChOl[zfIZ=Asm_YL_FcGzAF[IxEVNWAIwqcB:B?;bD<IaW;EV:N=s<Z:kD]F;bJODIYxEV@caF^fJ;oDW<sVQFHjJ<:Hd^W<EZ=oBPkjJyoBe_W_HmHbWlD@B:T>WrDEKb;T:=CajJTF=`<]:ZbSY>B]FgOgbJ:>bNPJ`oPccLqD^nB]eFg]ecumDaZK`GV;vtx:B^>O_yc[d@N:KcbEM@^wc<TGD]ay=YOA:fBa?;g;P:Jy:[Zb]PmHNOA<?BO@^bJ]hKq]mcxoGt;MWDgQr;X:UwHVtWBmoErJ=BbkOdJs:O?<D^qcyB@aln>;=Kk:cPVlNW;IcQhOiJ_:Op=w:MWMQLBoK;SuBICQc^ZAX]=ZKVHrOUDJzlj<^:TDCwcsc[DBVc_cck;L]Rcrmbwdoc^FLm]ByWD]F;VcioIm]_kukKD]AceTBH]Sca?;e^AdHeCdhKS:t@T]qRbcKu]vW@T]z<se:<;P^AeFk@@^fcnTC?^WcweIq^`kUaHbRJ:XTGQ;?ctTGrBCRZ]EP]GcdF<V^qRjTFe]AxEoHH]P:NuHT:a:<uGuRfc[eCi]nBtPFX]JK?`lsgUZeFFC:hkjs`r<G>RwGhW^wFQM_KR<LwBcRtALrQbJeJUL=:dep@JJNGM<BuPS[;TGFE::Fk^Zqxp<eIQPJ?PmJT=aK<zWE<=Wn]=HCP<JR^`@?GdJJ:;N:k:Aqr@M>:;dtN::c@F:;uFl>SNiJ::_W@M>:;=yN:;QzMs;::NiG::WXOTsn`>::G?K_l::R:=::@Dmy:Wf:?F_oDp=MJzoV_odFeMQO<X?>iW<D?;lMYN?mKKNSiF::m?N:;SCN:::zK?GO@XRM;F`ZFUMNc[PASb_tJeHNoWSDHTO[csrP?Nnt:GMA_lpFxMVQa>^hjCQ`qxfSRUrVxMhJAl@:JXLUpCsaQFELF:cMP>oKGNM=>qlGwMOKaCGNoN_lOKON<_mdF[J@_kKF@M?_rSFiMI_m?GKMAXHhKEsznar:gWIKlu`dMNO`KRbP?M[`STH=yEd:GMUNppG^;YNoU<MMEZ;DNfMVTNv=Sn>P[qcuPYyFVwWjOgq_]=jEnpRO^jW]pHxkZHyFKRSMKyIBtbs[NpNsq>gKZosjsv_lz]X>jyIgwKBuKFHpZ>zUp:MKjMYNZMNp=zPaxaB]FklgEjBs^z:pc?lFHCtZ@k?a<o`LElHZvjVLEAc:tMvoa;jj;U?yxBt<eqmgWfV;Eq<QJOU?;wlV>emlBzr@Bq:x:IIVLMwkIGjPKxBISerbOPfQjMZwifAAqJwPt>B:::cVN[v`F__sEeG<tDRHOCmY?coMkeYLFGpBmIH<LPh>CXXKJ`pfP^oqgv^UTnk`[_zTmbolZaRka=MtI=nc`ffGvrAdCknc^N:ZlHJ?MtJUAREh;s_ylPo[A?XB@ToBxBsDb=u_iMo^F_UI[KKgNn=@rHMA^Fg?wLTkGLB^:tiLe=x[fZjR]Y;`cR<>a^F:FAKXCucPX=NJA?Ng:ZSY:;WQi=Ja=J@oZTyF>FGk]hV?EcBnWF:]Y:@GKo<NpPGVGoC<BNxrNxojL;yNlL>NZq_=?V;VrO[<BNpSBB::tTIQB:Xv:tHgN=K<Mm;MZBIvo<FQrHCCyxW_s?DLM=w?CI>KexIZ>Fc>Z=L;hGLf:OFy[CZROH`k@:>WbDhT_kbreL_z;Qoaha_tLZdwq_tIAagi_aXMdxDIYdDSwGf?bq@M@IWbrSkPIWsAq;KNcOBMxRZAN<>[HBM::hMlNepEZ:UNn]<`MkZCpCWLG:N?DL:INqpDxMV:NI?`ky:QpFs[MJWsJV;F:RVH=LSktpExLV?CB<=LJozpCk:mSX:?W]s:Vp@^po<Wo:B;nN;VLW;iCVZ@];fJC:=O;vNZR=?LCNcAbnLSkU]Po^?N]c<JKx]?spp=p]Wo:W:`ZM;KD_V@QlpM>g=CN=gZ__:WFv:qJRWF`>lo[<GH;:[=g`Z^lD:BOT:HmNWED=tocBJJ^mNhWHCLt:CWGL?GoZZ?bLvBIhoW:`JRsLu?FBFWGx>`JGgP]:Hl?m=AL:kj_;][nXRxHFZ`JNgQN:Si=tGiJtsM::rK^?Jmb];V:JJqW;L=WB=T^UJ<<AeZgZD<H][hRo<_K<c:UlAa:CcNmMZm:uH@osCPhRY?GtoZiyOZmOIE:<^pCHT`C<[oZa=Hk:vZWGGO];aGd_W<c:TuAN:V@?o_w[OBYNAh_:FaBKNFvZXlZA;=?:V:kJ>Fd=IN:NFz=GGLeNl=EeSp:N^G@;PZJ];MKDkHF;XB[oX`;HKw=?MMi:Jn<J=:nr@L=CXCa_QVKnZNFfzbPRyokZ^ZnslCC?[J^Fop_Fn>Jim;rknFz`]Q:AFcsKQLSomnFK<do[WBoZUFgxOVmGBCnDgnTZWWIVm]NkJ_GkYF^tGrMvFkEFc:VsTEFK<fofSMxZQB>EItR[iOEF<xnX=EIT?^BUED<nS:<nGJmj=>o<Z:=Fq?;>n<FZS;nZdFm^G_OeFh;aGhYJq_CsmzkSUZkJvB>nIDnNUNMDBnegZRGGRMFw^Hr:HRe^BdhSkHm;GcORCfIgSR=?fFk;F_>=ATnHkJfBenawD`Eun`xWS]LJ[gvtEemlgxdaBB;Rq_GanpFyUHW;?g_o=g[[FvfFen]F^m?Bnpa<A:XtWgwar_Olg_WHanF:H:qsFzkHuPDmvtP?]umuAOMpimGgZsrtSGeSvGenQgzsrXnCKMvHynMgp_Bim:VZO];mjRy[p;mLFzfBS>uVDAC@mxghvITR`kBvIgS>V]J=z;ZFz:kkKIFcBQgnOghsAPngVnUIT>zFmR>[mDFZbC[mqa?HlY:w:;AIP>_Vh_HMkMJPbFQMoVeC]ARXgefHSnkV`nHbMjFbUH[m=CAbFcck:YbGCmjgkQBdmngzvDFo?VmR<Vm@VcR?unSVuYAqJqVjAFtmnRvbEJSXVxQB?ma=LbBrJxVsEIVWZVZ^EPnMVyvCln>NZZ<hn[garCOmo@@k=k:s<GZ:]ShRnQEZGS=JlPVVNVjrHimIVuQEinXB;vCE?WodvHhmORkbG[mc:NII=mNa;TH^mo==aosmKV`SD]mCVqQbYcgVbrCSnwggEE_:HVkICnnUVZYZEnrNLIB?nRw`_EYgxVofC<[uVavDxmSVyjI;mQgsIDF`:MMvCd[e=JlPW;s=<jBE=ql:f[LnrV^AC;nKwsA_>nowpgP;KfohYFhtbgylZ:ZJFJlMYhL=BhCJ;kFd];onxJIMGGS=o`Z=mnRg_D:<mIFnx?IMfJOzFAmIBR>qVnMPQoQVmHLCUEwWmrKo@fmruDQEfmowrrBIMzAK^LOmiVeYCZBvBC<:ZDQwqYBt;twjw<QnyFbH<GmKwlbHxms<tYNbmz^GdZkD:bP^Fpmtgw^;dmjwacJT>c<kW_lnhwbAAlcxwdpmkljwbUDhKxsKF[VJHNVw@yZK]La@gRw:KW_XJ<B<s?MRvZEeEi>A[KsLS:l[?sN;?NKUpoRWFZQ>Qz;W[:>L;>iFfvCymN=:YCnZ:<srDSnlwwrBcEugZY`QRQwnQEbnMgj^FimmA><?RE?^EYCBDlwgZf`mZ<_<@JDZwmZjUtrB=kgpn?wiUBMmvBWEBrnCVxZdwENws>AZEHkBU]<Dqwp:f[msNMvEd[mF<zB>VxVlxIft[yHBdfmR<vYE;nnVnEHDDgkUIBg^F]kY]mnGVrBhHmgoH:npmu<I=HBDMVrkiLD@wfw@FZWgtT;ZWuR<^El<<JjBdC<N:V_FaDN<_BeF`VgcvIzM:FpG[snv@CyLWmA@B^?_FF>GxFwDyIMrFLED]nc_]m<:UUD[nl]h]ar:wJaRfeEHRyRdZCJw[<;[ZT`MQDBlW[NvBmJW]ZJ;KBeNv]Of:_ocUlMMMoGGBt^FomManMwvVp>s`<oshGEMhZ;pDfLhX@>jW;uowuoTFao]J;UM>Jb;JvMzCGaKvLvBPL=ALwnFWHIGhoxaJT;honLkB:DLzVkb[xo[gkT;Soa_gSEbE<PJJ^DLx::J]TLn_jdEo:MzOwVQEJNddDmX=_bL;[]vxGzM:NSRd]?Gu>=Bc:hF]=CMKWFtY;Z[RFaEB>mCF_:`JnJZW=BkssABBlknUBEciMnR<jcjwDdBDWAlnZ]cy`F`TFy^FRnBNweGRm=T?RjEnag`kcAnlF]T;pEE<c^CxECFtia_npVZ]=_m_:;MCfhF:X`@VWm:OMCS=RwdNfjmOL[zEOEMPPL?YmRc;m?zn:m]EGr?:myEF;JhL]T:zm]mkFc:EGLbH;pEDm_D=d[YwnZhycUFo:fVD^IQEGDEc<[BduD_]vZeCE;]aocmDpRdo?F`fcC@:H^XaBkfanGoGfCUDwnYRcaBNwssd^t:j;mALEu]kVdb;[md:;k;I>HZgyDjtUog>m_wnYFHDimkFe_nMwn_?Hm]iHs<MDwa?FiZnxF_D=nEMPV_gnDaLx:@YDTeVEC:Dn<dwfbE:d>wegDz<akiOnpmd:?F`MCBvCV]p]hulpnQ<pAGYEqmhZiwDimlVhZppaV_hQEv]iojTRnnPYIrDWVnWAZeCK?mmIEs]`<e:eELecdYDHSEIGUmpmb<dg;fc:]A_;GV_keBexVa_fBem]nggcfi<f]eOnE]mRdiDf]]ZeIdZMPu>I:GVwVc_;v@>kerd`wsgjN;[wgoirmnmsFjgS?w_kijEGFazHonvmlzB=BsghwjSDtsJgjtRQEVmjL;PLbwgNf^Dd<ewE:DoZeceM]gLj=_c:CKK_fILi<gDEyL`LiID?mgrCHDFD]PKUmrDcVhkeCSY<jRfHUF:ggfzmqjBeDZedVdcfaLf<hO^@Dt]hRejDiLhTEReoF>GlzDw]eVfX]z]gDf;Do_BaDl]o_GiEuDv<hCsuFdt:b;IgyLidmLgkFeBEODlBjNfm<ylbP?nwhmQbnUmyzBYDZwJZdFf^nNgcgeHSDTigfZlPmcBErw[DjDD^]tDhZpke^VeZ:LVbDhZfXFrmhFeCsMec<fnLbgjtD:w^Tj:fBeiX@]ewes]etD^eseg<ff<sDhLfiLxDjG^Ged]dRePequgsfte[mcHDbes<dXejmiJAHed]z>G>eBTqecieCDdei_ebLrDdpm?Dz^IEE`er]c=EWw^LdJGJ=DweC>UmjLiOE;oOFfOln<]Tc`_DmqnIYEDTk???D?e_fECe:TyVdHfZmo<dkfZMQVdwf`wgmkbZE<vcfseN]Zuc?EreuTB]evBI<eVD<DiICd[xesNjKeDDtmhHfbE=aJO`ym[]jVejevDgKfF:@DcRD<eiJ=teiep<fPeRNZqceeN:DeiiDTee@faElDlee_eYet@fTep:IzGsZzLzagOfPTqqjVfaDyB;k:cZMvCrSXwq<gPeIBHgeSe:Dc@dVeRy<uhF_bU:Z?cDWem;QoG=?=sgNe@mnTc^f>elBcne_:DMB>DUJDC;>Dl<bG__Ed<vMrz:a=KJg:;V;F:;J:BXS::Q]h::G]O:::ZLGFJ:<lGJ:?bI=t`?K::DyNJOQ`>::P=mKG::UE_Xuk:?_^Y[[tG::T=`:::=_ugKW[l>Y[IJcC?=<qLeqEZuxcd?mMeQJ<Bnz]uGCkdfNjpD;ENo[k=;DgoyGH[Dv?:sB@:]oeB;ELmol>groH?@ygfGmC:Y>lEv_phD]pqow:AlEYALKMZ:lozEPdNlojEmILAoaL;YMB@ymAZ:`JXaZzLCLfxBbZFlY@eY;SLyUF=[`iN=FCf_msah@ePT>:fpDM_^=FGDv^Roie^zLZS;ufELq:CqniFfohoeT[YLjkU=DhzBw[Imx[hsZfDfCKCgT`J:c=CVun[hWffG>md:UYR>mj:TQwZKc`>FmaKenEs:XadWemgfHdPf^Ttud^fCL`;eY`Rw]@dW[>FdrL^ozp<J>gNF:La?BRYfFYblkv]bzM?k^uXlPg^AJ^aeweF@rRQIm@@bQDl[Ym^m<DeXD[PhDfZmfKek;s@OMH[nHuXlhPkheaa:t:dcCfGE=oJxSB_:F@tq?NmmVZTd=eSmj[j`eLevgg?f:@cRiJUZawzE<USl<Cig^<@Qg<Tn_aqIIgRuRM@<Knx=Y^D>Uga`IGnfwu`G>>D]ui_?>El<hV=EeDF]ij_Eh<nWkiW::GoN;N?f;bftulXdoE`un_@qE:KRJrQfGoXFg>GbTf[h>UO@^@c<Um<cCcVSJafbI<Tv?LCcJ:cZSHlg;>ZDdfWDR[YjHPUI=AQEMek<wKgZDhazlhmUy]]`K]xYR:ddZVUn@lcye_:O`Nv:<ZD`J_T`]utjz;?wcki:lG]^@APUEc>fKXTe@xthcT>PyTC?eiRZ[QTSJwyTF=fbJMRh:Ge=F:f_U_Ph<f?gymhEoDTYodZnSeYToVeiUqFfvIVUzoDwiVWxeqVhXTVag`iQEs:Ate`DTPvqc]eKmvVcSU:FfXhd=EmnljiTlRQsfrfrJ:>d^MIN_yd;Dnudjb;EyVmycsORLyyj[EmokOI?MbuilMfLiw;hIpBRwEydlEYunhId:_ka;iCDR@o_ft:iG<x:WTThR;eyTB@rlm_U>@_gLdUdLx;c[TTRR=F;K[eZmfMDfLbFgID]@zNivkm@v=CR`TFn`e^eXmuojflaF`s__Ejom]AyUKTnTcWD@FlW_P:PFx:=RnrLa<fan]DdLiseHmhtdcTU<xL?=EkmmFcG;cmqFhPToR:aiRT]Te=ERUXm^NedfR@z[dfDH@rzDvNMDvCJLZa:FKcxUd@aEEKULhQzIgf[qr]?aeZwSdd_Tc:QHj]nampACCTITbShKTc@pGfeeFei`jhKIgmVe@Tk<^`hCTMTb`fh:Vqn?gqf[PbVdqetgh>Q:GJur]@fU_Df`dGeEebY<]:<BD:?MRagu<eFDyADwjnS?DgWeMUUghbasEbPj`dJUs@A^BkT]FG>JZvr]ewhZFvZGoMeSSCLZ@EZN:MZdg:<H]EIsn]Hi:?BvmH`dhimeHa^jsZdF[hh_nxJLg@wJ`sQTjZ;>cJsaM;YoM<A^:ua;zDjnis?eARvHHnxdbDThH^eLeG@x<emNTh=?f:eZP]ICmNdqnQEK?oah>LCTPmtti_UUqiMi]xJPlo<Nvv@xd[;T<hL:couLFIVdovNVeKd_vOeknjPRd@onfgOgPl?gVDWeZKoqEhHvlisUAHxKi;eRuq`elUYTzqg=fLwjw>fUlei=h_vZixTh<vhw>Z^=d>uvPiMfMgia?BFaaz@[zUADpdesEZmZie>DzkUddEeC<qtAEfS<micNDG_H_=lpdhJ::ph=M?bf::Q=`?FNO>:;DuEff@uk:?BJhiiCR_iJ:@eBmiGf];NLf;_kePJO>::UiMXSraJ:<:@@Siy>zoY>JFDo@q_DlZfwjw>=Z>wnWjldY@ahdmTqacfcuU<usJfDvXapVAuUhkJSefeuik:@=hHUKpGCFJ:@OxCM;_l::;YG::D^_IaP_mNlmEJ:?AxJ:@wF]triv::ImFphJ:=Vx:O??KCueSfel=SRSf[>FoOUgC>fwxReEhMgnRPDmWujsj`T=uajp^MJotOie=ooxOg[D@cDych]?ZUOcYe>L]hD?M=PubjN;^Pxye^lIuv>g;KVLjyevLMBvWD?^FBUWB`pho[mFu;ho_mGbL;Xuo?bLCWPWG?uH:PWCF^CodeFkZ>B]QJJ^tX[<CF^;LeQg?DCWJNj`v;L_mHJ^@cyX>kZMX]QKGvtXeri;JekZZ<O;vgCN@Mh>R;kdCDy@mxDc^HZX;it]YPcEDdT;AU;cc:F@dlboFV@fhfkTXqwGexMaXuGdBT=LaRI^TAfJuF<ulFf@juE=cy[hqfcinhhjmvmp[e^vDBzwDck`@jwFt<Nyn@c_ni<kjgt<Wgw=jQeDqbIdRUByoafzDGqdWcLnUXy:b_:S@boEUuJcB^AfEVipzHWvgJ;kgAvYeA[hnFgacfEgfPyZncLvajYrdVFfT`:AoUpVjFEPn^@wZ?FUJiOV:gU@RSlagTMqZ?c[=A@pV@VTbLsIjKZCml[ezTs::vhzU_qfqhhEpRak;k:u@MvHJNfmvEdG;DkfjjEve@hIhcTzysgFnuM<l;NUviqpNfOlVmmGc_nCymZ:ues;]T;deR;kMHfE[:AWgJ@cqiEiueZ;akcwTxed[hnuKeh[ftvQwyQeUDxVwZWk@ZiuHj_vTZIbfVuRyyoHqfhT[jiQnD;Z:SrnDyrrFcAFy[Lcjm[er;fnvaylwcw[Oq_gCOvfJM[i?uLy_KcXez@jxgFuEeozdt]QVPYGjvKVuJUmv:Ty=gDvy]eQfceTpYN>uUnibdhEfDiZSieu[aoPGJ^TitUdKvW[RH;W[WqWXfMf=?Cl^pmt;qZR?fy]sQiRAxZumDh]URwuBjTfmtYhKf;F[zjmvUgihhVfMwnAetffwwIh>Ac;yg;S^Ok;:Y`vhquZVm@R[jJY]vu;o;bmA:[`o@e^wcnmjR@h;]]H;J[i:cXSepDz:S;eOwycR>AOab:gZ@ByxBU@eJcO:TH?d;[:W`vt;lajbv][pJXe]G;dkde@X<[cJTABuzJWydi<eQf<f]ifdcg@DieJig@t<ivgrVcZXkTKvW<z>KV@r;q_BwAhixSi@AY;nqjw@VhFDeLvm[sBSH]b_PqIh^e[bQFZOdm`qeJAf[k:WsAXe[l_Bl@@`BSB@kq_cRD^C;pcTckIwf:TOvi;v`cc:`XgcUNARNYDBjv?qJZXnvH;icX[Ai;yBSLfxwa?<@tnenLcuA[;pBWB@cy_KckAorFrih;BKxQd@@JcWqeGez;]YBX@NKgYgte];lZfdA?;kvcDu`[rrD`vnehRYFAmijdeg@UiakWq@g:K<Bk]A;tAfT;^[neOHATa`HciAj;bEQtAAy`ahi@_kV@g?TZ[a?=a^LhDICqfV<zw<wU?Dh@hy@X;]TAIDoFJJTl@JKdjduA@;nBYu@PUNfDclDTq>VxAsKixgKAIKt>ReAOkL<fYTS[krflAa[Z_T[AHZOPeFEbKn;eu@o[_aj>AXBVHd]nWXsYdmozKznfZ;kugRSem^KlsYN@i:MJTtfXK[cNGf^e^ZcFAT@rQjsEMi_fiEfEiuvhG;UilNXu]=[vx<HAb;pNUmETamoTwA`wzQg=AbHeEMnAJldsXh]Q[gBXtA^@LBYTfo;aFYy@Cwjedgv_[oGjnvkKloCdAW?B_TckF;zoRD]PKigTVu?y^BUI@SlbaFeAk[egWzuVKncAIAAeiBW^@@;yFRs;ArSvEfvTJtFVuA];hoYMAX[^m>=[QweQcIAp]AEKI@<lw<Uh@mP]RXg]iKdHdaABCvZXHv=;uJSz@>=?gYP@CKeve`AHlaNXvA>BrgTQeOiZVWV@[lbxCAAE[a<Rb@fleVTM:VCszhnTmlzIHX@nciqBY@HUSVUN;XysgWxnvgPwSg]kH^?HtWTJxRQ:AWibH:Au>Czxct@jJuu<R:oB;TFDKSwsHdLT;wxWiKUFC]YE?ALi^RV`@h[uNR?VXFlJg:;?lN::?YEVsji^XBLt`<[sN:;bSKTkxHTtmPu`K`XdH@TCn_?PUbJRfawAlkNYco@?CmVUBKZd`v<s;KC_Ye]ajHvPi:mhCnC;obxi^<RU@U<kmUUAE;omXBaW[o]X_SigNf;JMICzgYd=;ldFT?;ZuqtijUdycLRyT?jQg?>b[aECi^mR?KwWlutPZR:OU=ucbiMMMugbcjeVoebhdlTXrOeYe]XFA`Sv^f=yjGUHXkC<hUzuqphvM`RYhEhUc@Z;cVZ`J@t:CKs@vL@dEhB?_ioZXLvL;?EhB>rfXJpHxpiFv:b@;ixTR@zX=Q;=sLxH;JvBXrft;noGuSD`P_M?<JZUdoreHK?><_jlKy_RxHPJ[_LQf:kjXj_=U>sNQrh@:zPh`c=U@PcGcOETZAVU>@VBYhfEE;Fa>XBUSIN[hm_qXsVZtuWJmpeoOfPsrok[[kH@RkUPJ_Gd>ADKzS:JZmuPIjlbsyi`QBTPCQ:<db@CscTH?aS`W@XmxalUaefOyZlcrv@VfYdrvn@jg<:KI=HPWD<qCdxjv[UcE?<eA?qHjd`UWuZSAre:TbLISvSdoaTtu?dfhHtamu@aR[TuSdwAKbrKdT;tbWLaGgkmK_ws@GDnSoV=<aaC_gB?b_HsCiLaOyi:=Qv=@nYfgpdShV?BR?SjZ:ObUI=_VTegN<FTWEGSbsipbm:YXiNJ^LbL`Gp>qieWKU^qtoiEUFq`;inT`Sg<jhEhRlogEUoqpoiKaILn>RmUMWCLdpAR[dcYQAuqaME=DqH]FgNmqZPIBkUd=HUBAFZCe:S:a@KMfI_T^qwWinDS@^uXJ@[FaXXmAZNUBfvukClWjvvlytEcrUVua>XDnFtlP;PbMFvHXceKtjXSxaN=UZl^aHgjXW?UK_=RLFE<KMsgrdhtqKfUD=t`cUvTm[nVjIU?l_:qbDWtkWhta`TjFrYauFfVhYUr[]zBBfkZ;rPo[iyt?jlAIl^uR>@^aEAisFUSsXRqUH@vTYuKQwwx>sUno;:YIKBKwx<x@TeFuYAUdHaKfU?QdyajfaO@`yS<vLldV;bR<BA]Rouw]trF_vMWM;Yk;ztrrDsQAnKxf:e`kI[Y>b?rW^KZfo_EAgYaV?b[YMuxdt>Tqe`iWPUi:zlyl]L@Ew^[V[Mo:XRXneu;z]cHbt?lYB>VK?sFIEUMge?d?mc?v_d_QT@Z[RFPWqHgeZeCCa<c=Z_V^KTBQf?kyVoQ>lsiY;<heawrKA`?dlTMAoawkkgQG?pwTN@byqKYJ;PCpJTqfEwslR]>?uWXi?mXKnWJibCq^lWYbc@KMfOfuef?i@SdHnQH?:q?h=:ZQGpL[W;Jpl[oUs@Qdo?>nvFHk]e`fN?Z[c`>xHmKgwuCeZyAtmSym;UTPSqfCU^AIauuUD@OH]nidOIymeToAYt[ncxaySop`Vuw`oxcDQHkA?cQUA?oKYwoN`uzgYAYt[uWQ;=sJSVzAqSKuYsPY?[U?kfi`r]Tl@y`ehiePZmZ>Yi`u<wlWW@[tpdS>T>;^?Ay<Ot]JRZakSva<c@k`^tTHQn`[zO^a_BEe]NQuyuSTg_sBAuWR;i;u@=zNt:Ww=::XmvuYy<WgaWbZ;ok=`@_ZQP]J?J[oBM<@NG`?b?;ZeHqt@dsnG^IX]epU`qEfcQ>i[[UTJgNC^PsQGVfLXY`At^cOPJodcNTkb=_OS@UAM;gveFa<C^gS_EnCo]WJvICjm=ikGxEiSDatatkSrSVHdCc[UZq`CVhAbAAzjfa<mytVWArtXZfqO;tvcUJPK@s[W[QmGE;TQarTjtV?Q^_T[RqUTlhwTD@Ll`zf;QOS]?SF`f`iiThPy_U[Uh@_OhGBB;NOx?SvZ<NE?Tp;KnI?R>[?qB`YB[LO]J<CJDOfG=^DwT]^E>xvklyXd@JOiCR=P<NMvIwazggCStQAOioYobI?ghVNKO[j<Y?Aqlc]V`PA@<mUeuSOlNU`QOkH;HEUIBCOVcbuJpOYbn_axAdev_Tv=f<PRSsjfh@s?kwSfvYlcCXPUHUHIEdZa=?dURTK@fFYZnpqvFV[bUBrdVrOppjGS^a=_KoD[QjDhCYfbWCzWjB;DppmgmaEivDTeudOdActJCaeO?vPb;zhVRGtwqdjLUWObZfEuDpxDSTA^[D^@?Qo:FkU?P@pbDTUQO`SxUd:Rv@Hmt:>G`_AYQ`KZ=?S<`w]OhAANubGSn[sCl`W;QTVX<;:ZZHmEhPUQ<a[WQat`xpRAEY?sxYGAoiuoWMeWH]xWLb:Gz`RFaupm=RYQh[_WSu>K@LM:?K::Ebp::V_oraPE_::roo::gXL`KlJNO:?JIigXh]t::YM_dGk:<st>K_::^:kdRDoKUgOALdhUiAQvdMXiyEPGru_Ub<[bHe:qRuixXFb<Cu=Tv@sGuM?S;::;]O::Ij^DBP_mI^KN>Ka;v::NuFJOL]AEKtJFU:I^::M<NEbDMV::H@o:;KHN:;^kF:;RVo::siPS;>XjgXOQOuxUjPDMOklOz_VXqOdpbwXk>ixLOPZTR[EGPob`@bAu[bcGTCdmfWKDMPx>gagLS[SHGbmSlTVCD^q__gqbvd]PMdE`Te_ixuhorTRzDmLoDfCDHS?_gDeKhh_gaeCh[c;tEZl>UUtD[TkNetDKLkr?Ha;Li@UqUzPut>=UtLyaRd@kKxNdbaamj@THF<S^aVMuKI>od;QpLc;YnTbLchh_^:qaiTnuFavsSkAR?^wXTwqtdhevbPqhSAUU>m[aSHromhgfbUc@LXS]nd?eXRHbg?cuVKq;LbtUhQUOkgUQbEexAYZbGLfWdEuyqyvR[rVt[sRzalmg;UkDQtUai[r?@u^UmTOmdSR;UGm_OezaoKEsVoQW;lcUk@Pt`cSkQFyxW<jEngpFVSaFlbpUAa[Tn[etEV?vwfrQ`@iYejQ>C[sX;FTRQpUifyL^bRP@rOkPgke@Wx]YhEHk<PeMf]FFlXqESTq]gCq@KN]e:QGTnvFqEwPvseH;dWZ^Uaehowqg[f[DuqhaDIO^zQhfaeh]hHnCHcs:KqdprvXgfx?_zBn?@`^ao?rMOhFYXQqyyFPIGI`xwjkQ<ed_SwU=pogX;FgR?QW`fJewrSBfJelvYpqcemPhhqMWebR@qh?zITtEv[ogWF`fWhsiGrvWfpHUnwxp_hWrETr>Bxq;?iqg_fYWbTdFD:xnKRgrHWowd=qD:PlY=ryeZQYInOpe_W]ucWcPg[Avev;YyecBE:RN@FxfrRDg??bIRfrCeujUHe]xw=;Er=WyLjEqseaTgIrDxkoXrruxfDgWe?w]zYpfzVhjX=>Hxe@d>fIWq^RTeyx[@cl@WTzrVseMdZpWxm]?nIiY`EKnX`bqkWrVS?rEObadKqlWiPebbGhhIWsZQOmCUpAqKnITZ:WqIYU]eDTuzXIGj?qHeieCs@uhAQaxxUXBHOTerRYqzWeZvye=ThzUGeE]megzrixk^SrqzxlzUz:[xrGWdrm<lQUk[fJR]_BBHOZcgYASWgHerqYxg?Ycr>``t@LPCPd^WymvHmZ>jQPKc^CjPUGf^TmbG[lxUsr?<]tp@uusgXEp_RXpmT`JbC_RONEb[EXG?K::NU`::;MLQik:>dGGERcaIpknTFDW@ovDrevyz=Y`r?CiRfgDmaDRSqfQROSgXTLgjAYRqSkWdd?QPlyxVFIXGqkVNE::XXh::PQ_lsnBzVHb=`f;?GSucn??K::?=`Suk:=IMJ:@vI@`lF?KNFEV::fkF::DdMNl::UiNPM@M;F>KMJ:;?Rk:;sEEkxaTyprkzQeoRWCfmrhuZfSMa]hlOiIeLhobjIfmhcTRYVehybjpT_LwUlPH@hcaRA_Ph[vqzem>>qShTXo^cOtVSvPo=AMvP^TUZTR@^Z^AMt<FWHYmqLbp>XI><lo;PrbwzbiPKcrFxCZUmA<n]O;pV_URO@piU_i;HSh_UTqqMXwx=dZKhkH;@rv;o>tWZKhnuUgZzv;^MAMYQFXp;b=_WWpyIzd[z@XaRNJ_z?EYPa;nqqZyZvVpPkyo>UZIFSgvWSbEhxaTihHS[umnaJ^wDSGEAhgiREToq`odETrholX_Ig;]MIOqW?pIitrG@zvRvbaqdMB<a_VpMEbqPy_Wcra[yaKhHHwrPo;Fet@lYRtTRg[rI[qaB>mjKHdqgQTlI:ptWdF`BKjUhycQROASF`EO^cMlHYwxAVt:D;s?:Ylo=oQRBqEe_:`J:zQCZ;bSIy_hRjmzSbEgUDyOlBtHv_^z<TZq^=^BveuWvFn>::X[rrhQ[JsUaTrvBt[VAcP`q>hAuRIPfN:GMj`pBCBnjHi?@Fr>gz>xVCaFzfPXGgmXFHuik>OJqOu_RvHAU;jw:EIxejWioH=qnlUYaWWtPWCrYOnW<Aq?@z[eWqg`XbSvquPtbV^@WV^xfpm=MbvV`IIlxQFnvZsMXjCATM^@TFe[wyoyQrHk=Z_lq>;aouBroWmpV>IEM^WY^?t<MAVjIVue<W:bXBAAYZmtC_meXIvMiov?qYNMASjHpVQHhYH]mZnD?;vMtQU?rbwkwz:D:bRKhnftCvWVHJY^`owQrz^acM:jV[qYjMq[=b:yrqJ<BFuzaRidTikiJDogS:B:JK^JRq:=n=UkEe=cwsbHHMnqX=gAqvZt:BLJ?^Hp^bRBhTovpagww;TmnzR>eMcnw=W?P==_mY^ISK^`>::Bqo:;o:IMIoh`Ugous=CUZZvQAMsdzuQTnXYsi[E]=W>jvGwLxBbxpX;[UIwAKZqlvK^Z<SsjK[[]z@@A[_:aMVWqNxWImwnpcgBiIB<CR?Ag=_]xkiL<?mQ^aeE_CVTT@Tqgf_IpTdo=BiDEj?izvc]ng=jI]EvCSR:b=JVv:ewEgIDR;OSiT]EPhi_krNjG=z@_kHIEygRsqFdzJxLHlExBs_iuJ@Lv_jj=h=WNGZFUZpInOE^sWAAknp;mojm<qnY?Q@plnSu?xpSlqFjo_B=:q?Na[laMAJ=SjS>UZ^rgtKTjEyJvTjvEclTVEbE^sXZuvyyLSxIUEbmtJ;AEdoWSU<n]NNzHsfcSY>sr^mNMD@u=Mg@cE@GPYHQPfmk>JEAjn^TxBic:V]wd[BfnlePTbay]yai>K[_QVF_fcy[:BPDdS<EQEKy;_<iGEz@]E@fprJzPfHfiFzDjLCeeyFj?EyetNjytgmxTi_:DTsj@imq@u_KTnv^ULH@n[FwrWxpOlk@irvNmt@isPdAGV@<lZ<;<jw`yTu]VWfneNhAA@GbS>UkEduywj^CGZYwi_V`ccfrBEuzVZjnfxd]iifHdHhij_TmbU:EI^gPxHj^;nTzJEMfauwqDhlf@zPiRUunU[iLfinR`PXflJdXu^sZEWgIefcRtKvNUtLzV@c]yuyQmH[C<zTj@lvsx_:jfSvI[junrDVUIGrJ>PKIxGtOTdj[ff=emi`iFVzVEFa<najrNEf<:;jzxWdbc[Ig`[^FPB;n<yzUh?hKfSASfoDtSjyAGaziTbxxSibbZxpVv;=c?jbV^ry=vVy:bP`b;W:j=Mk[Uqb_Wz;S:I=MdwtBQo:Ywx=ro:B<zEjo:X<wK=noUwzQrZ=^wcUjCnniy`^svgDsNQR=CJzRoTCZXRQm>wZ[UUq^d]Pwt:oR;XwLTnp]bUAilMfHti@U?iKSbjtfpq:VPjD`mCcapOpHiUqw?xXuoQGvplpIQfvckipmswsivUjCvflR`iFGiosqQZka]Tfjtgs]jIKrErNVprc`qCVqigR:DSrjCCaUFh@kAvL@[iYfcFVviOeFyw[gID[;JJYYCd;Ry@BUnKSljQOmwYaQHvkH=zi]v:;ujjtpsvHpPG=wx;pjoAn_yRXzvpqA:b:AdCRBYG]l@SGthBKuygix?x:;WZzvidhcX>t]LSji[UzTdGIfx_os`ivBPu:RpC`mVfAPk<wotuPYvim<oX`Ang:;;KvW`SqfNHpccoXZf^[dAqGWw[tcrVvb;wNI]`xUdciG=r]u>Ydfz@tFA[E`BwGjif_]UZrQpmO;Ki:BT;JTiA@E;hTDkn]lyzUwfm;tgYbyiTtkX?fbTs<boabWaBebMcX;RD>^wgs?PT<=qtfHjAqFyxiapoav`AxpCWBnI[^hAi[Tp=h=;GPvyhouHiaOvmtR:_:Tu@i[:ujyP?HqlMoxEiT`zcduXt>MIi?:M<kDS^r[WtwtF`ivhWhmu@v[<sK_jM^LTTY?yrtdMeBTnjX[eUTvmtNapCvPCW[GuDyRn?VTu?X?IXElaymX_^kdvfI]UfjRhfH=uRe[eDuydfZq;bPkw@>?ukHtPva@GciPjTJwOiquH]^GnQcEb]gwHJAwF=SojLfjLx?arWa?t[eaptttu>:BEpp`QwBMhROPTvLau@inEwZ:kTZK`CTGqWVbMcub<hfeRCvuuQeSCvJLhOg@acLqF:^p[dk?gSMx_elLwZsLufYPHaX[vJtMZBP`ET;@haTUpktdhhITqiontBQRsBlMQN[lmwaJm?LMjrdZWI[aNg=U`ya_xfippq:RWasyqGcMu<CRofiPyb[tRbmzldNt?rH@wOxYmNNh`SRpOxy_[`ro?dayPQ_ipuyEmuAnSSNHmVZBxWnZNzIY?XWgfjGT;rp;:Abk<JmIR=Xk:BGzblmJmIUqT]tqtw[fjkszgQSXtxvSWmAatjThXoNzIVnYdQsbWEA:HeOthX<EtZtZQ[Ag:tCLSnf?fPPATdki=f[VfPUluidzR<::".charCodeAt(g++))?e-59:e-58),F|=(0<(e&(f/=2))?1:0)<<c,++c}for(var B,F,c,J,e,D=[],m=1,E=3,H=1,k=[],f=0,g=0;;){if(Z(H+1),2==F)return k.join("");-2&(J=F)||(Z(8*F+8),D[J=E++]=String.fromCharCode(F),--m||(m=2<<H++)),k.push(J=D[J]||B+B[0]),B&&(D[E++]=B+J[0],--m||(m=2<<H++)),B=J}}());
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.infoStr = ["混沌值15点", "混沌值20点", "混沌值20点", "神智值15点", "神智值20点"],
+            n.firstEnter = !0,
+            n.skinName = t.Panel3Skin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "cb_mainpanel_title3_png",
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            this.grpBack.title.y = 10,
+            this.addEvents(),
+            this.bar_hundun.maximum = this.bar_lizhi.maximum = 100
+        },
+        n.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnChouqu,
+            function() {
+                SocketConnection.sendByQueue(t.ChaoticBlakeConst.chaoticBlake_CMD, [3, 0],
+                function() {
+                    e.service.updateValues().then(function() {
+                        e.update()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnYijian,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(252322, 1,
+                    function() {
+                        KTool.doExchange(11056, 1,
+                        function() {
+                            e.service.updateValues().then(function() {
+                                e.update()
+                            })
+                        })
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnOnekey,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(252359, 1,
+                    function() {
+                        KTool.doExchange(11071, 1,
+                        function() {
+                            e.service.updateValues().then(function() {
+                                e.update()
+                            })
+                        })
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnTiaozhan,
+            function() {
+                var n = e.service.getValue(t.ChaoticBlakeConst.forever_level3_boss);
+                FightManager.fightNoMapBoss(n)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFangqi,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(252323, 1,
+                    function() {
+                        KTool.doExchange(11057, 1,
+                        function() {
+                            e.service.updateValues().then(function() {
+                                e.update()
+                            })
+                        })
+                    })
+                },
+                e)
+            },
+            this)
+        },
+        n.prototype.update = function() {
+            var e = this,
+            n = this.service.getValue(t.ChaoticBlakeConst.forever_levels_state),
+            i = this.service.getValue(t.ChaoticBlakeConst.forever_level3_value),
+            a = this.service.getValue(t.ChaoticBlakeConst.forever_level3_boss),
+            o = this.service.getValue(t.ChaoticBlakeConst.dailyBitbuf_hasGet),
+            s = this.service.getValue(t.ChaoticBlakeConst.dailyBitbuf_giveUp),
+            r = [65535 & i, i >> 16 & 65535],
+            u = r[0],
+            _ = r[1],
+            c = [this.bar_hundun.value, this.bar_lizhi.value],
+            h = c[0],
+            l = c[1];
+            if (this.txt_value1.text = u + "", this.txt_value2.text = _ + "", this.weizhi.visible = this.btnChouqu.visible = 0 == a, this.grp_btns.visible = this.grp_info.visible = 0 != a, this.bar_hundun.value = u, this.bar_lizhi.value = _, !this.firstEnter) if (u - h > 0) {
+                var p = "成功击败敌人，获得<font color='#EE5FFF'>" + (u - h) + "点混沌值</font>";
+                BubblerManager.getInstance().showText(p, !0)
+            } else if (_ - l > 0) {
+                var p = "成功击败敌人，获得<font color='#4AE3FF'>" + (_ - l) + "点神智值</font>";
+                BubblerManager.getInstance().showText(p, !0)
+            }
+            this.firstEnter = !1;
+            for (var g = 1 == KTool.getBit(n, 3), b = a - 11641, f = 1; 5 >= f; f++) this["pet" + f].visible = b == f;
+            b > 0 && 4 > b ? (this.txt_info.textColor = 15622143, this.txt_info.text = this.infoStr[b - 1]) : b > 0 && b >= 4 && (this.txt_info.textColor = 4908031, this.txt_info.text = this.infoStr[b - 1]),
+            u >= 100 && 100 > _ ? Alarm.show("布莱克在混沌的力量中迷失了心智，请再次尝试",
+            function() {
+                SocketConnection.sendByQueue(t.ChaoticBlakeConst.chaoticBlake_CMD, [8, 0],
+                function() {
+                    e.service.updateValues().then(function() {
+                        e.update()
+                    })
+                })
+            },
+            this) : g && 0 == o ? Alarm.show("恭喜你通过了此关，\n可以抽取夜魔的宝藏了！",
+            function() {
+                var e = new t.Panel3Pop,
+                n = PopViewManager.createDefaultStyleObject();
+                n.ignoreMaskClick = !0,
+                PopViewManager.getInstance().openView(e, n)
+            },
+            this) : 1 == o && 1 == s && this.service.openPanel(t.ChaoticBlakeConst.PANEL4)
+        },
+        n
+    } (BasicPanel);
+    t.ChaoticBlakePanel3 = e,
+    __reflect(e.prototype, "chaoticBlake.ChaoticBlakePanel3")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.service.setValues([t.ChaoticBlakeConst.forever_level2_boss, t.ChaoticBlakeConst.forever_level2_keyBoss, t.ChaoticBlakeConst.forever_level3_boss, t.ChaoticBlakeConst.forever_level3_value, t.ChaoticBlakeConst.forever_level5_boss, t.ChaoticBlakeConst.forever_level_reward, t.ChaoticBlakeConst.forever_levels_state], [t.ChaoticBlakeConst.daily_up_times, t.ChaoticBlakeConst.daily_boss_state], [t.ChaoticBlakeConst.bitbuf_hasKe, t.ChaoticBlakeConst.bitbuf_hasPet, t.ChaoticBlakeConst.bitbuf_hasTe, t.ChaoticBlakeConst.bitbuf_hasWu], [t.ChaoticBlakeConst.dailyBitbuf_giveUp, t.ChaoticBlakeConst.dailyBitbuf_hasGet]),
+            n.init([{
+                panelName: t.ChaoticBlakeConst.MAINPANEL,
+                isMain: !0
+            },
+            {
+                panelName: t.ChaoticBlakeConst.PANEL1
+            },
+            {
+                panelName: t.ChaoticBlakeConst.PANEL2
+            },
+            {
+                panelName: t.ChaoticBlakeConst.PANEL3
+            },
+            {
+                panelName: t.ChaoticBlakeConst.PANEL4
+            },
+            {
+                panelName: t.ChaoticBlakeConst.PANEL5
+            }]),
+            n
+        }
+        return __extends(n, e),
+        n.prototype.reShow = function() {
+            var t = this;
+            "" == this.currentPanel.name && this.service.updateValues().then(function() {
+                t.destroyed || t.currentPanel && t.currentPanel.update && t.currentPanel.update()
+            })
+        },
+        n
+    } (BasicMultPanelModule);
+    t.ChaoticBlake = e,
+    __reflect(e.prototype, "chaoticBlake.ChaoticBlake")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, n, i) {
+    return new(n || (n = Promise))(function(a, o) {
+        function s(t) {
+            try {
+                u(i.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function r(t) {
+            try {
+                u(i["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function u(t) {
+            t.done ? a(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, r)
+        }
+        u((i = i.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return i([t, e])
+        }
+    }
+    function i(n) {
+        if (a) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (a = 1, o && (s = o[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(o, n[1])).done) return s;
+            switch (o = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                o = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (s = u.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    u.label = n[1];
+                    break
+                }
+                if (6 === n[0] && u.label < s[1]) {
+                    u.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && u.label < s[2]) {
+                    u.label = s[2],
+                    u.ops.push(n);
+                    break
+                }
+                s[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            n = e.call(t, u)
+        } catch(i) {
+            n = [6, i],
+            o = 0
+        } finally {
+            a = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var a, o, s, r, u = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return r = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (r[Symbol.iterator] = function() {
+        return this
+    }),
+    r
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.canDown = !0,
+            n.new_monster_level_id = 135,
+            n.skinName = t.MainpanelSkin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(130, this, "cb_mainpanel_bulaike_png",
+            function() {
+                t.service.closeModule()
+            },
+            this,
+            function() {
+                StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "点击主界面-【？】")
+            }),
+            this.grpBack.title.y = 10,
+            this.grpBack.btnHelp.x = 275,
+            this.addEvents(),
+            PetFactorCollectionManager.getAllData().then(function() {
+                var e = PetFactorCollectionManager.checkPetIdIndexIsCollection(t.new_monster_level_id);
+                t.btnCollect.source = e ? "cb_mainpanel_btncollected_png": "cb_mainpanel_btncollect_png"
+            })
+        },
+        n.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btn1,
+            function() {
+                StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "点击主界面-【巨尊的幻象】"),
+                e.service.openPanel(t.ChaoticBlakeConst.PANEL1)
+            },
+            this),
+            ImageButtonUtil.add(this.btn2,
+            function() {
+                StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "点击主界面-【无尽的复仇】"),
+                e.service.openPanel(t.ChaoticBlakeConst.PANEL2)
+            },
+            this),
+            ImageButtonUtil.add(this.btn3,
+            function() {
+                StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "点击主界面-【混沌的心智】"),
+                e.service.openPanel(t.ChaoticBlakeConst.PANEL3)
+            },
+            this),
+            ImageButtonUtil.add(this.btnOnekey,
+            function() {
+                StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "点击主界面-【至尊获得】"),
+                PayManager.doPayFunc(function() {
+                    BuyProductManager.buyProductBySocket(252318,
+                    function() {
+                        KTool.doExchange(11059, 1,
+                        function() {
+                            e.service.updateValues().then(function() {
+                                e.update()
+                            })
+                        })
+                    },
+                    e)
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAdd,
+            function() {
+                PayManager.doPayFunc(function() {
+                    var t = {};
+                    t.type = "product_diamond",
+                    t.ins = {
+                        iconID: 1715441,
+                        productID: 252317
+                    },
+                    t.caller = e,
+                    t.callBack = function(t, n) {
+                        KTool.buyProductByCallback(252317, n,
+                        function() {
+                            KTool.doExchange(11058, n,
+                            function() {
+                                e.service.updateValues().then(function() {
+                                    e.update()
+                                })
+                            })
+                        })
+                    },
+                    ModuleManager.showModuleByID(1, t)
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnUp,
+            function() {
+                StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "点击主界面-【能力提升】"),
+                e.service.openPanel(t.ChaoticBlakeConst.PANEL5)
+            },
+            this),
+            ImageButtonUtil.add(this.btnDuihuan,
+            function() {
+                StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "点击主界面-【兑换精灵】");
+                var t = ItemManager.getNumByID(1715441);
+                return 150 > t ? void BubblerManager.getInstance().showText("混沌暗影精华数量不足") : void KTool.doExchange(11072, 1,
+                function() {
+                    e.service.updateValues().then(function() {
+                        e.update()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                ModuleManager.showModule("petManualInfo", ["pet_info_manual"], {
+                    data: 3539,
+                    type: "pet",
+                    thisObj: e
+                },
+                "", AppDoStyle.HIDEN)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCollect, this.collectPet, this),
+            EventManager.addEventListener("chaoticBlake.GotoPanel3",
+            function() {
+                e.service.updateValues().then(function() {
+                    e.service.openPanel(t.ChaoticBlakeConst.PANEL3)
+                })
+            },
+            this),
+            EventManager.addEventListener("chaoticBlake.GotoPanel4",
+            function() {
+                e.service.openPanel(t.ChaoticBlakeConst.PANEL4)
+            },
+            this),
+            EventManager.addEventListener("chaoticBlake.BackToMainPanel",
+            function() {
+                e.service.backToMainPanel(),
+                e.service.updateValues().then(function() {
+                    e.update()
+                })
+            },
+            this),
+            EventManager.addEventListener("chaoticBlake.UpdateMain",
+            function() {
+                e.update()
+            },
+            this)
+        },
+        n.prototype.collectPet = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t;
+                return __generator(this,
+                function(e) {
+                    switch (e.label) {
+                    case 0:
+                        return this.canDown ? (this.canDown = !1, t = !PetFactorCollectionManager.checkPetIdIndexIsCollection(this.new_monster_level_id), this.btnCollect.source = t ? "cb_mainpanel_btncollected_png": "cb_mainpanel_btncollect_png", [4, PetFactorCollectionManager.setCollection(this.new_monster_level_id, t)]) : (BubblerManager.getInstance().showText("请不要过快连续点击！"), [2]);
+                    case 1:
+                        return e.sent(),
+                        this.canDown = !0,
+                        [2]
+                    }
+                })
+            })
+        },
+        n.prototype.update = function() {
+            var e = this.service.getValue(t.ChaoticBlakeConst.forever_levels_state),
+            n = 1 == this.service.getValue(t.ChaoticBlakeConst.bitbuf_hasPet),
+            i = 1 == this.service.getValue(t.ChaoticBlakeConst.bitbuf_hasKe),
+            a = 1 == this.service.getValue(t.ChaoticBlakeConst.bitbuf_hasTe),
+            o = 1 == this.service.getValue(t.ChaoticBlakeConst.bitbuf_hasWu),
+            s = this.service.getValue(t.ChaoticBlakeConst.dailyBitbuf_hasGet),
+            r = this.service.getValue(t.ChaoticBlakeConst.dailyBitbuf_giveUp);
+            console.log("关卡状态:" + e);
+            for (var u = 0,
+            _ = 1 == s || 1 == r,
+            c = 1; 3 >= c; c++) {
+                this["tomorrow" + c].visible = _;
+                var h = 1 == KTool.getBit(e, c);
+                this["hasPass" + c].visible = h || n,
+                h && u++
+            }
+            this.tag.visible = n;
+            var l = ItemManager.getNumByID(1715441);
+            this.txt_itemNum.text = "需要        混沌暗影精华：" + l + "/150";
+            var p = l >= 150 ? 589568 : 16711680;
+            this.txt_itemNum.textFlow = [{
+                text: "需要        混沌暗影精华：",
+                style: {
+                    textColor: 16769906
+                }
+            },
+            {
+                text: l + "",
+                style: {
+                    textColor: p
+                }
+            },
+            {
+                text: "/150",
+                style: {
+                    textColor: 16769906
+                }
+            }],
+            DisplayUtil.setEnabled(this.btn1, 1 > u && !_ && !n, u >= 1 || _ || n),
+            DisplayUtil.setEnabled(this.btn2, 1 == u && !_ && !n, 1 != u || _ || n);
+            var g = u >= 2 && (0 == s || 0 == r);
+            DisplayUtil.setEnabled(this.btn3, g && !_ && !n, !g || _ || n),
+            DisplayUtil.setEnabled(this.btnAdd, !n, n),
+            this.hasPass3.visible = 0 != s && 1 != r && u >= 2 || n,
+            this.btnUp.visible = n,
+            this.btnOnekey.visible = 3 > u && !n;
+            var b = a && i && o;
+            this.hasUp.visible = b,
+            DisplayUtil.setEnabled(this.btnUp, !b, b),
+            this.grp_exchangePet.visible = !n
+        },
+        n
+    } (BasicPanel);
+    t.ChaoticBlakeMainpanel = e,
+    __reflect(e.prototype, "chaoticBlake.ChaoticBlakeMainpanel")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.skinName = t.Panel1Skin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "cb_mainpanel_title1_png",
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            this.grpBack.title.y = 10,
+            this.addEvents()
+        },
+        n.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this);
+            for (var n = function(n) {
+                ImageButtonUtil.add(i["btnFast" + n],
+                function() {
+                    PayManager.doPayFunc(function() {
+                        KTool.buyProductByCallback(252319, 1,
+                        function() {
+                            SocketConnection.sendByQueue(t.ChaoticBlakeConst.chaoticBlake_CMD, [1, n],
+                            function() {
+                                e.service.updateValues().then(function() {
+                                    e.update()
+                                })
+                            })
+                        })
+                    },
+                    e)
+                },
+                i),
+                ImageButtonUtil.add(i["btnFight" + n],
+                function() {
+                    FightManager.fightNoMapBoss(11624 + n)
+                },
+                i)
+            },
+            i = this, a = 1; 4 >= a; a++) n(a)
+        },
+        n.prototype.update = function() {
+            for (var e = this,
+            n = this.service.getValue(t.ChaoticBlakeConst.forever_levels_state), i = 0, a = 1; 4 >= a; a++) {
+                var o = 1 == KTool.getBit(n, 3 + a);
+                this["pass" + a].visible = o,
+                DisplayUtil.setEnabled(this["btnFast" + a], !o, o),
+                DisplayUtil.setEnabled(this["btnFight" + a], !o, o),
+                o && i++
+            }
+            4 == i && Alarm.show("你击败了全部幻象！",
+            function() {
+                e.service.updateValues().then(function() {
+                    EventManager.dispatchEventWith("chaoticBlake.UpdateMain")
+                }),
+                e.service.openPanel(t.ChaoticBlakeConst.PANEL2)
+            },
+            this)
+        },
+        n
+    } (BasicPanel);
+    t.ChaoticBlakePanel1 = e,
+    __reflect(e.prototype, "chaoticBlake.ChaoticBlakePanel1")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.bossID = [2819, 2783, 2709, 2969, 3044, 2695, 2648, 2612, 2712, 2767, 2893, 3115],
+            n.bossInfos = [],
+            n.skinName = t.Panel2Skin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var n = this;
+            this.name = "chaoticBlake.ChaoticBlakePanel2",
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "cb_mainpanel_title2_png",
+            function() {
+                n.service.backToMainPanel()
+            },
+            this),
+            this.grpBack.title.y = 10,
+            this._list.itemRenderer = t.Panel2PetHead,
+            this.addEvents()
+        },
+        n.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnChouqu,
+            function() {
+                SocketConnection.sendByQueue(t.ChaoticBlakeConst.chaoticBlake_CMD, [2, 0],
+                function() {
+                    e.service.updateValues().then(function() {
+                        e.drawAnim()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnYijian,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(252320, 1,
+                    function() {
+                        KTool.doExchange(11054, 1,
+                        function() {
+                            e.service.updateValues().then(function() {
+                                e.update();
+                                var n = e.service.getValue(t.ChaoticBlakeConst.forever_levels_state);
+                                0 == KTool.getBit(n, 20) && BubblerManager.getInstance().showText("没有发现斯摩亚蒂斯的踪迹，请继续搜寻")
+                            })
+                        })
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnTiaozhan,
+            function() {
+                var n = e.service.getValue(t.ChaoticBlakeConst.forever_level2_boss);
+                FightManager.fightNoMapBoss(11628 + n)
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK,
+            function() {
+                e.service.updateValues().then(function() {
+                    if (FightManager.isWin) {
+                        var n = e.service.getValue(t.ChaoticBlakeConst.forever_levels_state);
+                        0 == KTool.getBit(n, 20) && BubblerManager.getInstance().showText("没有发现斯摩亚蒂斯的踪迹，请继续搜寻")
+                    }
+                    e.update()
+                })
+            },
+            this),
+            EventManager.addEventListener("chaoticBlake.BackToPanel2", this.update, this)
+        },
+        n.prototype.drawAnim = function() {
+            for (var e = this,
+            n = this.service.getValue(t.ChaoticBlakeConst.forever_level2_boss), i = [], a = [], o = 0, s = 0; s < this._list.numChildren; s++) this._list.getChildAt(s).hasPass || (i.push(this._list.getChildAt(s)), a.push(s));
+            o = 3 * i.length,
+            this.touchChildren = !1;
+            var r = {};
+            r.i = 1;
+            var u = a.indexOf(n - 1) + 1;
+            egret.Tween.get(r, {
+                onChange: function() {
+                    for (var t = (Math.floor(r.i) - 1) % i.length, n = 0; n < i.length; n++) e._list.getChildAt(a[n]).xuanzhong.visible = !1,
+                    e._list.getChildAt(a[n]).alpha = .6;
+                    e._list.getChildAt(a[t]).xuanzhong.visible = !0,
+                    e._list.getChildAt(a[t]).alpha = 1
+                }
+            }).to({
+                i: o + u
+            },
+            5e3, egret.Ease.quadInOut).call(function() {
+                e.touchChildren = !0,
+                e.update()
+            })
+        },
+        n.prototype.update = function() {
+            var e = this,
+            n = this.service.getValue(t.ChaoticBlakeConst.forever_level2_boss),
+            i = this.service.getValue(t.ChaoticBlakeConst.forever_levels_state);
+            this.btnTiaozhan.visible = this.btnYijian.visible = 0 != n,
+            this.btnChouqu.visible = 0 == n,
+            this.updateRener();
+            var a = 1 == KTool.getBit(i, 2);
+            KTool.getBit(i, 20) > 0 && !a ? Alarm.show("斯摩亚蒂斯残留的力量暴露出来了！",
+            function() {
+                e.service.updateValues().then(function() {
+                    EventManager.dispatchEventWith("chaoticBlake.UpdateMain")
+                });
+                var n = new t.Panel2Pop,
+                i = PopViewManager.createDefaultStyleObject();
+                i.ignoreMaskClick = !0,
+                PopViewManager.getInstance().openView(n, i)
+            },
+            this) : a && Alarm.show("成功击败了斯摩亚蒂斯残余的力量!",
+            function() {
+                EventManager.removeAll(e),
+                e.service.openPanel(t.ChaoticBlakeConst.PANEL3)
+            },
+            this)
+        },
+        n.prototype.updateRener = function() {
+            this.bossInfos = [];
+            for (var e = this.service.getValue(t.ChaoticBlakeConst.forever_levels_state), n = this.service.getValue(t.ChaoticBlakeConst.forever_level2_boss), i = 0; i < this.bossID.length; i++) {
+                var a = {};
+                a.id = i + 1,
+                a.hasPass = 1 == KTool.getBit(e, 8 + i),
+                a.petid = this.bossID[i],
+                a.curDrawID = n,
+                this.bossInfos.push(a)
+            }
+            this._list.dataProvider = new eui.ArrayCollection(this.bossInfos)
+        },
+        n
+    } (BasicPanel);
+    t.ChaoticBlakePanel2 = e,
+    __reflect(e.prototype, "chaoticBlake.ChaoticBlakePanel2")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+chaoticBlake; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.MAINPANEL = "chaoticBlake.ChaoticBlakeMainpanel",
+        t.PANEL1 = "chaoticBlake.ChaoticBlakePanel1",
+        t.PANEL2 = "chaoticBlake.ChaoticBlakePanel2",
+        t.PANEL3 = "chaoticBlake.ChaoticBlakePanel3",
+        t.PANEL4 = "chaoticBlake.ChaoticBlakePanel4",
+        t.PANEL5 = "chaoticBlake.ChaoticBlakePanel5",
+        t.chaoticBlake_CMD = 41758,
+        t.forever_levels_state = 8743,
+        t.forever_level2_boss = 8744,
+        t.forever_level2_keyBoss = 8745,
+        t.forever_level3_boss = 8746,
+        t.forever_level3_value = 8747,
+        t.forever_level5_boss = 8748,
+        t.forever_level_reward = 8749,
+        t.daily_boss_state = 11183,
+        t.daily_up_times = 11184,
+        t.dailyBitbuf_hasGet = 1000371,
+        t.dailyBitbuf_giveUp = 1000372,
+        t.bitbuf_hasPet = 17827,
+        t.bitbuf_hasKe = 17828,
+        t.bitbuf_hasWu = 17829,
+        t.bitbuf_hasTe = 17830,
+        t
+    } ();
+    t.ChaoticBlakeConst = e,
+    __reflect(e.prototype, "chaoticBlake.ChaoticBlakeConst")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.skinName = t.Panel4Skin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var n = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "cb_mainpanel_title4_png",
+            function() {
+                Alert.show("你确定要放弃这份难得的奖励吗？,<font color='#ff0000'>放弃之后今日无法再次进入额外挑战！</font>",
+                function() {
+                    StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "选择放弃隐藏关卡"),
+                    SocketConnection.sendByQueue(t.ChaoticBlakeConst.chaoticBlake_CMD, [6, 0],
+                    function() {
+                        n.service.updateValues().then(function() {
+                            n.service.backToMainPanel()
+                        })
+                    })
+                })
+            },
+            this),
+            this.grpBack.title.y = 10,
+            this.addEvents()
+        },
+        n.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this);
+            for (var n = function(n) {
+                ImageButtonUtil.add(i["btnFast" + n],
+                function() {
+                    PayManager.doPayFunc(function() {
+                        KTool.buyProductByCallback(252324, 1,
+                        function() {
+                            SocketConnection.sendByQueue(t.ChaoticBlakeConst.chaoticBlake_CMD, [5, n],
+                            function() {
+                                e.service.updateValues().then(function() {
+                                    e.update()
+                                })
+                            })
+                        })
+                    },
+                    e)
+                },
+                i),
+                ImageButtonUtil.add(i["btnFight" + n],
+                function() {
+                    FightManager.fightNoMapBoss(11646 + n)
+                },
+                i)
+            },
+            i = this, a = 1; 4 >= a; a++) n(a);
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK,
+            function() {
+                FightManager.isWin ? BubblerManager.getInstance().showText("挑战成功！") : Alarm.show("很遗憾，挑战失败，你与隐藏奖励失之交臂",
+                function() {
+                    e.service.backToMainPanel()
+                })
+            },
+            this)
+        },
+        n.prototype.update = function() {
+            for (var e = this,
+            n = this.service.getValue(t.ChaoticBlakeConst.daily_boss_state), i = 0, a = 1; 4 >= a; a++) {
+                var o = 1 == KTool.getBit(n, a);
+                this["pass" + a].visible = o,
+                o && i++,
+                DisplayUtil.setEnabled(this["btnFight" + a], !o, o),
+                DisplayUtil.setEnabled(this["btnFast" + a], !o, o)
+            }
+            i >= 4 && Alarm.show("恭喜你，获得了这份珍贵的隐藏奖励！",
+            function() {
+                e.service.backToMainPanel()
+            })
+        },
+        n
+    } (BasicPanel);
+    t.ChaoticBlakePanel4 = e,
+    __reflect(e.prototype, "chaoticBlake.ChaoticBlakePanel4")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.leftTime = 0,
+            n.needNum = [1, 1, 2, 2, 2, 3, 3, 3, 5, 5],
+            n.skinName = t.Panel5Skin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "cb_mainpanel_title5_png",
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            this.grpBack.title.y = 10,
+            this.addEvents()
+        },
+        n.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnTe,
+            function() {
+                e.service.showPetEff(3539)
+            },
+            this),
+            ImageButtonUtil.add(this.btnWu,
+            function() {
+                var t = {
+                    id: 31654
+                };
+                tipsPop.TipsPop.openSkillPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnKe,
+            function() {
+                var t;
+                CountermarkXMLInfo.isminMark(41145) ? (t = {},
+                t.ins = 41145, tipsPop.TipsPop.openCounterMarkPop(t)) : (t = {},
+                t.id = 41145, tipsPop.TipsPop.openItemPop(t))
+            },
+            this),
+            ImageButtonUtil.add(this.btnKaishi,
+            function() {
+                return e.leftTime <= 0 ? void BubblerManager.getInstance().showText("剩余挑战次数不足！") : void(e.isclickFight || (e.isclickFight = !0, FightManager.fightNoMapBoss(11651)))
+            },
+            this),
+            ImageButtonUtil.add(this.btnJixu,
+            function() {
+                if (!e.isclickFight) {
+                    e.isclickFight = !0;
+                    var n = e.service.getValue(t.ChaoticBlakeConst.forever_level5_boss);
+                    FightManager.fightNoMapBoss(11651 + n)
+                }
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddItem,
+            function() {
+                PayManager.doPayFunc(function() {
+                    var t = {};
+                    t.type = "product_diamond",
+                    t.ins = {
+                        iconID: 1715442,
+                        productID: 252325
+                    },
+                    t.caller = e,
+                    t.callBack = function(t, n) {
+                        KTool.buyProductByCallback(252325, n,
+                        function() {
+                            KTool.doExchange(11060, n,
+                            function() {
+                                e.service.updateValues().then(function() {
+                                    e.update()
+                                })
+                            })
+                        })
+                    },
+                    ModuleManager.showModuleByID(1, t)
+                },
+                e)
+            },
+            this);
+            for (var n = [30, 40, 60], i = function(i) {
+                ImageButtonUtil.add(a["btnDuihuan" + i],
+                function() {
+                    return ItemManager.getNumByID(1715442) < n[i - 1] ? void BubblerManager.getInstance().showText("混沌之影数量不足！") : PetManager.isDefaultPet(3539) ? void SocketConnection.sendByQueue(t.ChaoticBlakeConst.chaoticBlake_CMD, [7, i],
+                    function() {
+                        if (1 != i) {
+                            var t = 2 == i ? "成功兑换第五技能": "成功兑换专属特性";
+                            BubblerManager.getInstance().showText(t)
+                        }
+                        e.service.updateValues().then(function() {
+                            e.update()
+                        })
+                    }) : void Alarm.show("请将混沌布莱克放入出战背包首发！",
+                    function() {
+                        e.service.showPetBag()
+                    })
+                },
+                a)
+            },
+            a = this, o = 1; 3 >= o; o++) i(o);
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK,
+            function() {
+                FightManager.isWin || Alarm.show("战斗失败，需要重新开始挑战")
+            },
+            this)
+        },
+        n.prototype.update = function() {
+            this.isclickFight = !1,
+            this.leftTime = 2 - this.service.getValue(t.ChaoticBlakeConst.daily_up_times);
+            var e = this.service.getValue(t.ChaoticBlakeConst.forever_level5_boss),
+            n = 1 == this.service.getValue(t.ChaoticBlakeConst.bitbuf_hasKe),
+            i = 1 == this.service.getValue(t.ChaoticBlakeConst.bitbuf_hasWu),
+            a = 1 == this.service.getValue(t.ChaoticBlakeConst.bitbuf_hasTe);
+            this.txt_level.text = e + 1 + "/10",
+            this.btnKaishi.visible = 0 == e,
+            this.btnJixu.visible = 0 != e,
+            this.txt_hasNum.text = ItemManager.getNumByID(1715442) + "",
+            this.txt_leftTime.text = "" + this.leftTime,
+            DisplayUtil.setEnabled(this.btnDuihuan1, !n, n),
+            DisplayUtil.setEnabled(this.btnDuihuan2, !i, i),
+            DisplayUtil.setEnabled(this.btnDuihuan3, !a, a);
+            for (var o = 1; 10 >= o; o++) this["pet" + o].visible = e + 1 == o;
+            this.txt_bossNum.text = "*" + this.needNum[e + 1 - 1],
+            n && a && i && this.service.backToMainPanel()
+        },
+        n
+    } (BasicPanel);
+    t.ChaoticBlakePanel5 = e,
+    __reflect(e.prototype, "chaoticBlake.ChaoticBlakePanel5")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.skinName = t.Panel2popSkin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.initialized = function() {
+            var t = this;
+            e.prototype.initialized.call(this),
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                ModuleManager.showModuleByID(10),
+                t.hide(),
+                EventManager.dispatchEventWith("chaoticBlake.BackToPanel2")
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnTiaozhan,
+            function() {
+                FightManager.fightNoMapBoss(11641),
+                t.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.btnYijian,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(252321, 1,
+                    function() {
+                        KTool.doExchange(11055, 1,
+                        function() {
+                            t.hide(),
+                            Alarm.show("成功击败了斯摩亚蒂斯残余的力量!",
+                            function() {
+                                EventManager.dispatchEventWith("chaoticBlake.GotoPanel3")
+                            })
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.hide(),
+                EventManager.removeAll(t),
+                EventManager.dispatchEventWith("chaoticBlake.BackToMainPanel")
+            },
+            this)
+        },
+        n.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeAll(this)
+        },
+        n
+    } (PopView);
+    t.Panel2Pop = e,
+    __reflect(e.prototype, "chaoticBlake.Panel2Pop")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, n, i) {
+    return new(n || (n = Promise))(function(a, o) {
+        function s(t) {
+            try {
+                u(i.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function r(t) {
+            try {
+                u(i["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function u(t) {
+            t.done ? a(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, r)
+        }
+        u((i = i.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return i([t, e])
+        }
+    }
+    function i(n) {
+        if (a) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (a = 1, o && (s = o[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(o, n[1])).done) return s;
+            switch (o = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                o = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (s = u.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    u.label = n[1];
+                    break
+                }
+                if (6 === n[0] && u.label < s[1]) {
+                    u.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && u.label < s[2]) {
+                    u.label = s[2],
+                    u.ops.push(n);
+                    break
+                }
+                s[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            n = e.call(t, u)
+        } catch(i) {
+            n = [6, i],
+            o = 0
+        } finally {
+            a = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var a, o, s, r, u = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return r = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (r[Symbol.iterator] = function() {
+        return this
+    }),
+    r
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.curRewardID = 0,
+            n.selectId = 0,
+            n.skinName = t.Panel3popSkin,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.initialized = function() {
+            var t = this;
+            this.drawAnim = SpineUtil.createAnimate("hundunbulaike"),
+            this.panel3pop.addChildAt(this.drawAnim, 0),
+            this.drawAnim.touchEnabled = !1,
+            this.drawAnim.scaleX = this.drawAnim.scaleY = .5,
+            this.drawAnim.x = 377,
+            this.drawAnim.y = 214,
+            this.gpr_info.alpha = 0,
+            this.drawAnim.play("appear", 1, 0, {
+                playEnd: function() {
+                    t.gpr_info.alpha = 1
+                }
+            }),
+            this.animStart(),
+            e.prototype.initialized.call(this),
+            this.addEvent()
+        },
+        n.prototype.animStart = function() {
+            for (var t = 1; 5 >= t; t++) this["imgbg" + t].source = "cb_panel3pop_no_png",
+            this["grp_Info" + t].visible = !1
+        },
+        n.prototype.addEvent = function() {
+            for (var e = this,
+            n = function(n) {
+                ImageButtonUtil.add(i["imgbg" + n],
+                function() {
+                    0 == e.curRewardID && (e.selectId = n, e.grp_cards.touchChildren = e.grp_cards.touchEnabled = !1, SocketConnection.sendByQueue(t.ChaoticBlakeConst.chaoticBlake_CMD, [4, 0],
+                    function() {
+                        return __awaiter(e, void 0, void 0,
+                        function() {
+                            var e, n = this;
+                            return __generator(this,
+                            function(i) {
+                                switch (i.label) {
+                                case 0:
+                                    return [4, KTool.getMultiValueAsync([t.ChaoticBlakeConst.forever_level_reward])];
+                                case 1:
+                                    return e = i.sent(),
+                                    KTool.doExchange(11065 + e[0] - 1, 1,
+                                    function() {
+                                        n.gpr_info.alpha = 0,
+                                        n.showGift(e[0]);
+                                        var t = ["x2", "x3", "x5", "x8", "x10"];
+                                        n.drawAnim.play(t[e[0] - 1], 1, 1, {
+                                            playEnd: function() {
+                                                n.gpr_info.alpha = 1,
+                                                n.update()
+                                            }
+                                        })
+                                    }),
+                                    [2]
+                                }
+                            })
+                        })
+                    }))
+                },
+                i)
+            },
+            i = this, a = 1; 5 >= a; a++) n(a);
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                e.hide(),
+                EventManager.removeAll(e),
+                EventManager.dispatchEventWith("chaoticBlake.BackToMainPanel")
+            },
+            this)
+        },
+        n.prototype.showGift = function(t) {
+            for (var e = 1; 5 >= e; e++) this["imgbg" + e].source = "cb_panel3pop_no_png",
+            this["grp_Info" + e].visible = !0;
+            var n = 0,
+            i = [2, 3, 5, 8, 10],
+            a = [1, 2, 3, 4, 5];
+            switch (t) {
+            case 1:
+                n = 1;
+                break;
+            case 2:
+            case 3:
+                n = 2;
+                break;
+            case 4:
+                n = 3;
+                break;
+            case 5:
+                n = 4
+            }
+            this["imgbg" + this.selectId].source = "cb_panel3pop_img" + n + "_png",
+            this["txtNum" + this.selectId].text = "x" + i[t - 1],
+            10 == i[t - 1] ? this["state" + this.selectId].source = "cb_panel3pop_dajiang_png": 8 == i[t - 1] ? this["state" + this.selectId].source = "cb_panel3pop_yunqibucuo_png": this["state" + this.selectId].source = "",
+            a.splice(t - 1, 1);
+            for (var e = 1; 5 >= e; e++) if (e != this.selectId) {
+                var o = MathUtil.RandomCeilInt(1, a.length),
+                s = a.splice(o - 1, 1);
+                switch (s[0]) {
+                case 1:
+                    n = 1;
+                    break;
+                case 2:
+                case 3:
+                    n = 2;
+                    break;
+                case 4:
+                    n = 3;
+                    break;
+                case 5:
+                    n = 4
+                }
+                this["imgbg" + e].source = "cb_panel3pop_img" + n + "_png",
+                this["txtNum" + e].text = "x" + i[s[0] - 1],
+                10 == i[s[0] - 1] ? this["state" + e].source = "cb_panel3pop_dajiang_png": 8 == i[s[0] - 1] ? this["state" + e].source = "cb_panel3pop_yunqibucuo_png": this["state" + e].source = ""
+            }
+        },
+        n.prototype.update = function() {
+            var e = this;
+            KTool.getMultiValue([t.ChaoticBlakeConst.forever_level_reward],
+            function(n) {
+                KTool.getBitSet([t.ChaoticBlakeConst.dailyBitbuf_hasGet],
+                function(i) {
+                    e.curRewardID = n[0];
+                    var a = 1 == i[0];
+                    if (a && 0 == e.curRewardID) {
+                        var o = "战神联盟的友谊是布莱克不屈的信念,接受联盟成员的考验,可以额外获得<font color='#ff0000'>混沌暗影精华x10</font>，是否前往挑战？";
+                        Alert.show(o,
+                        function() {
+                            StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "选择进入隐藏关卡"),
+                            e.hide(),
+                            EventManager.dispatchEventWith("chaoticBlake.GotoPanel4")
+                        },
+                        function() {
+                            var n = "你确定要放弃这份难得的奖励吗？<font color='#ff0000'>放弃之后今日无法再次进入额外挑战！</font>";
+                            Alert.show(n,
+                            function() {
+                                StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "选择放弃隐藏关卡"),
+                                SocketConnection.send(t.ChaoticBlakeConst.chaoticBlake_CMD, [6, 0]),
+                                e.hide(),
+                                EventManager.dispatchEventWith("chaoticBlake.BackToMainPanel")
+                            },
+                            function() {
+                                StatLogger.log("20230310版本系统功能", "混沌布莱克搬迁", "选择进入隐藏关卡"),
+                                e.hide(),
+                                EventManager.dispatchEventWith("chaoticBlake.GotoPanel4")
+                            })
+                        })
+                    }
+                })
+            })
+        },
+        n.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        n
+    } (PopView);
+    t.Panel3Pop = e,
+    __reflect(e.prototype, "chaoticBlake.Panel3Pop")
+} (chaoticBlake || (chaoticBlake = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+chaoticBlake; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.hasPass = !1,
+            n.skinName = t.Panel2PetHeadRender,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        n.prototype.dataChanged = function() {
+            this.head.source = ClientConfig.getPetHeadPath(this.data.petid),
+            this.pass.visible = this.data.hasPass,
+            this.xuanzhong.visible = this.data.curDrawID == this.data.id,
+            this.hasPass = this.data.hasPass
+        },
+        n
+    } (eui.ItemRenderer);
+    t.Panel2PetHead = e,
+    __reflect(e.prototype, "chaoticBlake.Panel2PetHead")
+} (chaoticBlake || (chaoticBlake = {})),
+window.chaoticBlake = window.chaoticBlake || {};
+var __extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.chaoticBlake.MainpanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "btnOnekey", "btnUp", "btn1", "btn2", "btn3", "tomorrow2", "tomorrow1", "tomorrow3", "hasPass3", "hasPass1", "hasPass2", "btnDuihuan", "txt_itemNum", "btnAdd", "grp_exchangePet", "btnInfo", "btnCollect", "tag", "hasUp"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.source = "cb_mainpanel_bg_jpg",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -2.5,
+        t.visible = !0,
+        t.y = 10,
+        t.elementsContent = [this._Image1_i(), this.btnOnekey_i(), this.btnUp_i(), this.btn1_i(), this.btn2_i(), this.btn3_i(), this.tomorrow2_i(), this.tomorrow1_i(), this.tomorrow3_i(), this.hasPass3_i(), this.hasPass1_i(), this.hasPass2_i(), this._Image2_i(), this.grp_exchangePet_i(), this.btnInfo_i(), this.btnCollect_i(), this.tag_i(), this.hasUp_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_mainpanel_3539_png",
+        t.x = 0,
+        t.y = 9,
+        t
+    },
+    n.btnOnekey_i = function() {
+        var t = new eui.Image;
+        return this.btnOnekey = t,
+        t.source = "cb_mainpanel_btnonekey_png",
+        t.x = 870,
+        t.y = 533,
+        t
+    },
+    n.btnUp_i = function() {
+        var t = new eui.Image;
+        return this.btnUp = t,
+        t.source = "cb_mainpanel_btnup_png",
+        t.x = 870,
+        t.y = 533,
+        t
+    },
+    n.btn1_i = function() {
+        var t = new eui.Image;
+        return this.btn1 = t,
+        t.source = "cb_mainpanel_btn1_png",
+        t.x = 749,
+        t.y = 62,
+        t
+    },
+    n.btn2_i = function() {
+        var t = new eui.Image;
+        return this.btn2 = t,
+        t.source = "cb_mainpanel_btn2_png",
+        t.x = 749,
+        t.y = 213,
+        t
+    },
+    n.btn3_i = function() {
+        var t = new eui.Image;
+        return this.btn3 = t,
+        t.source = "cb_mainpanel_btn3_png",
+        t.x = 749,
+        t.y = 365,
+        t
+    },
+    n.tomorrow2_i = function() {
+        var t = new eui.Image;
+        return this.tomorrow2 = t,
+        t.source = "cb_mainpanel_mingri_png",
+        t.x = 758,
+        t.y = 214,
+        t
+    },
+    n.tomorrow1_i = function() {
+        var t = new eui.Image;
+        return this.tomorrow1 = t,
+        t.source = "cb_mainpanel_mingri_png",
+        t.x = 758,
+        t.y = 53,
+        t
+    },
+    n.tomorrow3_i = function() {
+        var t = new eui.Image;
+        return this.tomorrow3 = t,
+        t.source = "cb_mainpanel_mingri_png",
+        t.x = 758,
+        t.y = 364,
+        t
+    },
+    n.hasPass3_i = function() {
+        var t = new eui.Image;
+        return this.hasPass3 = t,
+        t.source = "cb_mainpanel_yiwancheng_png",
+        t.x = 744,
+        t.y = 403,
+        t
+    },
+    n.hasPass1_i = function() {
+        var t = new eui.Image;
+        return this.hasPass1 = t,
+        t.source = "cb_mainpanel_yiwancheng_png",
+        t.x = 744,
+        t.y = 100,
+        t
+    },
+    n.hasPass2_i = function() {
+        var t = new eui.Image;
+        return this.hasPass2 = t,
+        t.source = "cb_mainpanel_yiwancheng_png",
+        t.x = 754,
+        t.y = 251,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_mainpanel_title_png",
+        t.x = 117,
+        t.y = 343,
+        t
+    },
+    n.grp_exchangePet_i = function() {
+        var t = new eui.Group;
+        return this.grp_exchangePet = t,
+        t.x = 103,
+        t.y = 516,
+        t.elementsContent = [this.btnDuihuan_i(), this._Image3_i(), this.txt_itemNum_i(), this._Image4_i(), this.btnAdd_i()],
+        t
+    },
+    n.btnDuihuan_i = function() {
+        var t = new eui.Image;
+        return this.btnDuihuan = t,
+        t.source = "cb_mainpanel_btnduihuan__png",
+        t.x = 157,
+        t.y = 43,
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_mainpanel_duihuanbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    n.txt_itemNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "需要        混沌暗影精华：99/150",
+        t.textColor = 16769906,
+        t.x = 79,
+        t.y = 8,
+        t
+    },
+    n._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_mainpanel_icon_png",
+        t.x = 117,
+        t.y = 0,
+        t
+    },
+    n.btnAdd_i = function() {
+        var t = new eui.Image;
+        return this.btnAdd = t,
+        t.source = "cb_mainpanel_btnadd_png",
+        t.x = 340,
+        t.y = 3,
+        t
+    },
+    n.btnInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnInfo = t,
+        t.source = "cb_mainpanel_btninfo_png",
+        t.x = 61,
+        t.y = 542,
+        t
+    },
+    n.btnCollect_i = function() {
+        var t = new eui.Image;
+        return this.btnCollect = t,
+        t.source = "cb_mainpanel_btncollect_png",
+        t.x = 61,
+        t.y = 474,
+        t
+    },
+    n.tag_i = function() {
+        var t = new eui.Image;
+        return this.tag = t,
+        t.height = 56,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_mainpanel_tag_png",
+        t.width = 180,
+        t.x = 288,
+        t.y = 284,
+        t
+    },
+    n.hasUp_i = function() {
+        var t = new eui.Image;
+        return this.hasUp = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_mainpanel_yihuode_png",
+        t.x = 867,
+        t.y = 554,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel1Skin.exml"] = window.chaoticBlake.Panel1Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "btnBag", "btnCure", "btnFight1", "btnFast1", "pass1", "btnFight2", "btnFast2", "pass2", "btnFight3", "btnFast3", "pass3", "btnFight4", "btnFast4", "pass4"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group5_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.source = "cb_panel1_bg_jpg",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Group5_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -40.5,
+        t.y = 24,
+        t.elementsContent = [this.btnBag_i(), this.btnCure_i(), this._Group1_i(), this._Group2_i(), this._Group3_i(), this._Group4_i(), this._Image5_i(), this._Image6_i(), this._Label1_i()],
+        t
+    },
+    n.btnBag_i = function() {
+        var t = new eui.Image;
+        return this.btnBag = t,
+        t.source = "cb_panel1_jlbb_png",
+        t.x = 0,
+        t.y = 419,
+        t
+    },
+    n.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "cb_panel1_jlhf_png",
+        t.x = 0,
+        t.y = 509,
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 115,
+        t.y = 107,
+        t.elementsContent = [this._Image1_i(), this.btnFight1_i(), this.btnFast1_i(), this.pass1_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel1_1_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnFight1_i = function() {
+        var t = new eui.Image;
+        return this.btnFight1 = t,
+        t.source = "cb_panel1_btnfight_png",
+        t.x = 109,
+        t.y = 410,
+        t
+    },
+    n.btnFast1_i = function() {
+        var t = new eui.Image;
+        return this.btnFast1 = t,
+        t.source = "cb_panel1_yjzs_png",
+        t.x = 9,
+        t.y = 410,
+        t
+    },
+    n.pass1_i = function() {
+        var t = new eui.Image;
+        return this.pass1 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_panel4_jibai_png",
+        t.x = 9,
+        t.y = 35,
+        t
+    },
+    n._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 349,
+        t.y = 107,
+        t.elementsContent = [this._Image2_i(), this.btnFight2_i(), this.btnFast2_i(), this.pass2_i()],
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel1_2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnFight2_i = function() {
+        var t = new eui.Image;
+        return this.btnFight2 = t,
+        t.source = "cb_panel1_btnfight_png",
+        t.x = 109,
+        t.y = 410,
+        t
+    },
+    n.btnFast2_i = function() {
+        var t = new eui.Image;
+        return this.btnFast2 = t,
+        t.source = "cb_panel1_yjzs_png",
+        t.x = 9,
+        t.y = 410,
+        t
+    },
+    n.pass2_i = function() {
+        var t = new eui.Image;
+        return this.pass2 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_panel4_jibai_png",
+        t.x = 9,
+        t.y = 35,
+        t
+    },
+    n._Group3_i = function() {
+        var t = new eui.Group;
+        return t.x = 583,
+        t.y = 107,
+        t.elementsContent = [this._Image3_i(), this.btnFight3_i(), this.btnFast3_i(), this.pass3_i()],
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel1_3_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnFight3_i = function() {
+        var t = new eui.Image;
+        return this.btnFight3 = t,
+        t.source = "cb_panel1_btnfight_png",
+        t.x = 109,
+        t.y = 410,
+        t
+    },
+    n.btnFast3_i = function() {
+        var t = new eui.Image;
+        return this.btnFast3 = t,
+        t.source = "cb_panel1_yjzs_png",
+        t.x = 9,
+        t.y = 410,
+        t
+    },
+    n.pass3_i = function() {
+        var t = new eui.Image;
+        return this.pass3 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_panel4_jibai_png",
+        t.x = 9,
+        t.y = 35,
+        t
+    },
+    n._Group4_i = function() {
+        var t = new eui.Group;
+        return t.x = 817,
+        t.y = 106,
+        t.elementsContent = [this._Image4_i(), this.btnFight4_i(), this.btnFast4_i(), this.pass4_i()],
+        t
+    },
+    n._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel1_4_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnFight4_i = function() {
+        var t = new eui.Image;
+        return this.btnFight4 = t,
+        t.source = "cb_panel1_btnfight_png",
+        t.x = 109,
+        t.y = 411,
+        t
+    },
+    n.btnFast4_i = function() {
+        var t = new eui.Image;
+        return this.btnFast4 = t,
+        t.source = "cb_panel1_yjzs_png",
+        t.x = 9,
+        t.y = 411,
+        t
+    },
+    n.pass4_i = function() {
+        var t = new eui.Image;
+        return this.pass4 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_panel4_jibai_png",
+        t.x = 9,
+        t.y = 35,
+        t
+    },
+    n._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel1_jzdhx_png",
+        t.x = 444,
+        t.y = 0,
+        t
+    },
+    n._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel1_tipsbg_png",
+        t.x = 122,
+        t.y = 67,
+        t
+    },
+    n._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "逝者巨樽制造了多种幻象，只有击破这些幻象，才能进入下一关",
+        t.textColor = 16769906,
+        t.x = 284,
+        t.y = 74,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel2popSkin.exml"] = window.chaoticBlake.Panel2popSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnClose", "btnTiaozhan", "btnYijian", "btnBag", "btnCure", "pop"],
+        this.height = 306,
+        this.width = 579,
+        this.elementsContent = [this.pop_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.pop_i = function() {
+        var t = new eui.Group;
+        return this.pop = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnClose_i(), this._Label1_i(), this._Image3_i(), this.btnTiaozhan_i(), this.btnYijian_i(), this.btnBag_i(), this.btnCure_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 284,
+        t.scale9Grid = new egret.Rectangle(1, 1, 4, 4),
+        t.source = "chaoticBlakepanel2Pop_bg4_png",
+        t.width = 673,
+        t.x = 0,
+        t.y = 22,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 305,
+        t.source = "chaoticBlakepanel2Pop_3115da_png",
+        t.touchEnabled = !1,
+        t.width = 355,
+        t.x = 73,
+        t.y = 0,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 33,
+        t.source = "chaoticBlakepanel2Pop_close_png",
+        t.width = 34,
+        t.x = 632,
+        t.y = 22,
+        t
+    },
+    n._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "将其击败可进入下一关",
+        t.textColor = 15849983,
+        t.x = 415,
+        t.y = 115,
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 25,
+        t.source = "chaoticBlakepanel2Pop_fxsmyds_png",
+        t.width = 151,
+        t.x = 430,
+        t.y = 67,
+        t
+    },
+    n.btnTiaozhan_i = function() {
+        var t = new eui.Image;
+        return this.btnTiaozhan = t,
+        t.height = 46,
+        t.source = "cb_panel2_btntiaozhan_png",
+        t.width = 134,
+        t.x = 438,
+        t.y = 235,
+        t
+    },
+    n.btnYijian_i = function() {
+        var t = new eui.Image;
+        return this.btnYijian = t,
+        t.source = "cb_panel2_btnyijian_png",
+        t.x = 438,
+        t.y = 177,
+        t
+    },
+    n.btnBag_i = function() {
+        var t = new eui.Image;
+        return this.btnBag = t,
+        t.height = 68,
+        t.source = "cb_panel1_jlbb_png",
+        t.width = 73,
+        t.x = 15,
+        t.y = 140,
+        t
+    },
+    n.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.height = 68,
+        t.source = "cb_panel1_jlhf_png",
+        t.width = 74,
+        t.x = 15,
+        t.y = 230,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel2Skin.exml"] = window.chaoticBlake.Panel2Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "btnBag", "btnCure", "_list", "btnChouqu", "btnTiaozhan", "btnYijian"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.percentHeight = 100,
+        t.source = "cb_panel1_bg_jpg",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -40.5,
+        t.y = 25,
+        t.elementsContent = [this.btnBag_i(), this.btnCure_i(), this._Image1_i(), this._list_i(), this.btnChouqu_i(), this.btnTiaozhan_i(), this.btnYijian_i(), this._Image2_i(), this._Image3_i(), this._Label1_i(), this._Label2_i()],
+        t
+    },
+    n.btnBag_i = function() {
+        var t = new eui.Image;
+        return this.btnBag = t,
+        t.source = "cb_panel1_jlbb_png",
+        t.x = 0,
+        t.y = 418,
+        t
+    },
+    n.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "cb_panel1_jlhf_png",
+        t.x = 0,
+        t.y = 508,
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel2_xz_18_png",
+        t.visible = !0,
+        t.x = 171,
+        t.y = 159,
+        t
+    },
+    n._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.height = 300,
+        t.width = 850,
+        t.x = 186,
+        t.y = 187,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    n._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t.horizontalGap = 0,
+        t.requestedColumnCount = 6,
+        t.verticalGap = 8,
+        t
+    },
+    n.btnChouqu_i = function() {
+        var t = new eui.Image;
+        return this.btnChouqu = t,
+        t.source = "cb_panel2_btnchouqu_png",
+        t.x = 503,
+        t.y = 507,
+        t
+    },
+    n.btnTiaozhan_i = function() {
+        var t = new eui.Image;
+        return this.btnTiaozhan = t,
+        t.source = "cb_panel2_btntiaozhan_png",
+        t.x = 580,
+        t.y = 507,
+        t
+    },
+    n.btnYijian_i = function() {
+        var t = new eui.Image;
+        return this.btnYijian = t,
+        t.source = "cb_panel2_btnyijian_png",
+        t.x = 428,
+        t.y = 507,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel2_jzdhx_png",
+        t.x = 444,
+        t.y = 0,
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel2_tipsbg_png",
+        t.x = 122,
+        t.y = 66,
+        t
+    },
+    n._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "斯摩亚蒂斯留存了一丝力量，让逝者巨樽营造了无数被战神联盟击败过的仇敌们的幻象。",
+        t.textColor = 16769906,
+        t.x = 226,
+        t.y = 73,
+        t
+    },
+    n._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "它的力量隐藏在当中的某个幻象之中，你必须将它找出来并击败，才能进入下一关！",
+        t.textColor = 16769906,
+        t.x = 245,
+        t.y = 95,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel3popSkin.exml"] = window.chaoticBlake.Panel3popSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgbg1", "txtNum1", "state1", "grp_Info1", "imgbg2", "txtNum2", "state2", "grp_Info2", "imgbg3", "txtNum3", "state3", "grp_Info3", "imgbg4", "txtNum4", "state4", "grp_Info4", "imgbg5", "txtNum5", "state5", "grp_Info5", "grp_cards", "no", "smallicon", "btnClose", "gpr_info", "panel3pop"],
+        this.height = 429,
+        this.width = 752,
+        this.elementsContent = [this.panel3pop_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.panel3pop_i = function() {
+        var t = new eui.Group;
+        return this.panel3pop = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.gpr_info_i()],
+        t
+    },
+    n.gpr_info_i = function() {
+        var t = new eui.Group;
+        return this.gpr_info = t,
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.grp_cards_i(), this.no_i(), this._Image8_i(), this._Label1_i(), this.smallicon_i(), this._Label2_i(), this.btnClose_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 429,
+        t.scale9Grid = new egret.Rectangle(1, 1, 5, 4),
+        t.source = "cb_panel3pop_bg4_png",
+        t.width = 752,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3pop_yhgg_png",
+        t.x = 311,
+        t.y = 16,
+        t
+    },
+    n.grp_cards_i = function() {
+        var t = new eui.Group;
+        return this.grp_cards = t,
+        t.x = 9,
+        t.y = 93,
+        t.elementsContent = [this._Group1_i(), this._Group2_i(), this._Group3_i(), this._Group4_i(), this._Group5_i()],
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.imgbg1_i(), this.grp_Info1_i()],
+        t
+    },
+    n.imgbg1_i = function() {
+        var t = new eui.Image;
+        return this.imgbg1 = t,
+        t.source = "cb_panel3pop_img3_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.grp_Info1_i = function() {
+        var t = new eui.Group;
+        return this.grp_Info1 = t,
+        t.x = 35,
+        t.y = 57,
+        t.elementsContent = [this._Image3_i(), this.txtNum1_i(), this.state1_i()],
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3pop_icon_png",
+        t.x = 1,
+        t.y = 0,
+        t
+    },
+    n.txtNum1_i = function() {
+        var t = new eui.Label;
+        return this.txtNum1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "x8",
+        t.textColor = 16771941,
+        t.x = 67,
+        t.y = 75,
+        t
+    },
+    n.state1_i = function() {
+        var t = new eui.Image;
+        return this.state1 = t,
+        t.source = "cb_panel3pop_yunqibucuo_png",
+        t.x = 0,
+        t.y = 129,
+        t
+    },
+    n._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 145,
+        t.y = 0,
+        t.elementsContent = [this.imgbg2_i(), this.grp_Info2_i()],
+        t
+    },
+    n.imgbg2_i = function() {
+        var t = new eui.Image;
+        return this.imgbg2 = t,
+        t.source = "cb_panel3pop_img2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.grp_Info2_i = function() {
+        var t = new eui.Group;
+        return this.grp_Info2 = t,
+        t.x = 35,
+        t.y = 57,
+        t.elementsContent = [this._Image4_i(), this.txtNum2_i(), this.state2_i()],
+        t
+    },
+    n._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3pop_icon_png",
+        t.x = 1,
+        t.y = 0,
+        t
+    },
+    n.txtNum2_i = function() {
+        var t = new eui.Label;
+        return this.txtNum2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "x8",
+        t.textColor = 16771941,
+        t.x = 67,
+        t.y = 75,
+        t
+    },
+    n.state2_i = function() {
+        var t = new eui.Image;
+        return this.state2 = t,
+        t.source = "cb_panel3pop_yunqibucuo_png",
+        t.x = 0,
+        t.y = 129,
+        t
+    },
+    n._Group3_i = function() {
+        var t = new eui.Group;
+        return t.x = 290,
+        t.y = 0,
+        t.elementsContent = [this.imgbg3_i(), this.grp_Info3_i()],
+        t
+    },
+    n.imgbg3_i = function() {
+        var t = new eui.Image;
+        return this.imgbg3 = t,
+        t.source = "cb_panel3pop_img4_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.grp_Info3_i = function() {
+        var t = new eui.Group;
+        return this.grp_Info3 = t,
+        t.x = 35,
+        t.y = 57,
+        t.elementsContent = [this._Image5_i(), this.txtNum3_i(), this.state3_i()],
+        t
+    },
+    n._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3pop_icon_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.txtNum3_i = function() {
+        var t = new eui.Label;
+        return this.txtNum3 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "x10",
+        t.textColor = 16771941,
+        t.x = 62,
+        t.y = 75,
+        t
+    },
+    n.state3_i = function() {
+        var t = new eui.Image;
+        return this.state3 = t,
+        t.source = "cb_panel3pop_dajiang_png",
+        t.x = 7,
+        t.y = 122,
+        t
+    },
+    n._Group4_i = function() {
+        var t = new eui.Group;
+        return t.x = 435,
+        t.y = 0,
+        t.elementsContent = [this.imgbg4_i(), this.grp_Info4_i()],
+        t
+    },
+    n.imgbg4_i = function() {
+        var t = new eui.Image;
+        return this.imgbg4 = t,
+        t.source = "cb_panel3pop_img1_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.grp_Info4_i = function() {
+        var t = new eui.Group;
+        return this.grp_Info4 = t,
+        t.x = 35,
+        t.y = 57,
+        t.elementsContent = [this._Image6_i(), this.txtNum4_i(), this.state4_i()],
+        t
+    },
+    n._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3pop_icon_png",
+        t.x = 1,
+        t.y = 0,
+        t
+    },
+    n.txtNum4_i = function() {
+        var t = new eui.Label;
+        return this.txtNum4 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "x8",
+        t.textColor = 16771941,
+        t.x = 67,
+        t.y = 75,
+        t
+    },
+    n.state4_i = function() {
+        var t = new eui.Image;
+        return this.state4 = t,
+        t.source = "cb_panel3pop_yunqibucuo_png",
+        t.x = 0,
+        t.y = 129,
+        t
+    },
+    n._Group5_i = function() {
+        var t = new eui.Group;
+        return t.x = 580,
+        t.y = 0,
+        t.elementsContent = [this.imgbg5_i(), this.grp_Info5_i()],
+        t
+    },
+    n.imgbg5_i = function() {
+        var t = new eui.Image;
+        return this.imgbg5 = t,
+        t.source = "cb_panel3pop_img2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.grp_Info5_i = function() {
+        var t = new eui.Group;
+        return this.grp_Info5 = t,
+        t.visible = !0,
+        t.x = 35,
+        t.y = 57,
+        t.elementsContent = [this._Image7_i(), this.txtNum5_i(), this.state5_i()],
+        t
+    },
+    n._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3pop_icon_png",
+        t.x = 1,
+        t.y = 0,
+        t
+    },
+    n.txtNum5_i = function() {
+        var t = new eui.Label;
+        return this.txtNum5 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "x8",
+        t.textColor = 16771941,
+        t.x = 67,
+        t.y = 75,
+        t
+    },
+    n.state5_i = function() {
+        var t = new eui.Image;
+        return this.state5 = t,
+        t.source = "cb_panel3pop_yunqibucuo_png",
+        t.x = 0,
+        t.y = 129,
+        t
+    },
+    n.no_i = function() {
+        var t = new eui.Image;
+        return this.no = t,
+        t.source = "cb_panel3pop_no_png",
+        t.visible = !1,
+        t.x = 589,
+        t.y = 93,
+        t
+    },
+    n._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3pop_juxing_16_png",
+        t.x = 14,
+        t.y = 355,
+        t
+    },
+    n._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "凑齐150个混沌暗影精华           即可兑换混沌布莱克",
+        t.textColor = 16771941,
+        t.x = 155,
+        t.y = 372,
+        t
+    },
+    n.smallicon_i = function() {
+        var t = new eui.Image;
+        return this.smallicon = t,
+        t.source = "cb_panel3pop_smallicon_png",
+        t.x = 364,
+        t.y = 353,
+        t
+    },
+    n._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "点击抽取你的奖励",
+        t.textColor = 16771941,
+        t.x = 304,
+        t.y = 51,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "cb_panel3pop_btnclose_png",
+        t.x = 712,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel3Skin.exml"] = window.chaoticBlake.Panel3Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "btnOnekey", "btnBag", "btnCure", "weizhi", "pet1", "pet2", "pet3", "pet4", "pet5", "btnChouqu", "btnTiaozhan", "btnYijian", "btnFangqi", "grp_btns", "pets", "bar_hundun", "txt_value1", "bar_lizhi", "txt_value2", "txt_info", "grp_info"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group3_i()]
+    }
+    __extends(e, t);
+    var n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.width = 21,
+            this.elementsContent = [this.thumb_i()]
+        }
+        __extends(e, t);
+        var n = e.prototype;
+        return n.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.height = 353,
+            t.scale9Grid = new egret.Rectangle(7, 30, 7, 30),
+            t.source = "cb_panel3_jindu2_png",
+            t.visible = !0,
+            t
+        },
+        e
+    } (eui.Skin),
+    i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.width = 21,
+            this.elementsContent = [this.thumb_i()]
+        }
+        __extends(e, t);
+        var n = e.prototype;
+        return n.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.height = 353,
+            t.scale9Grid = new egret.Rectangle(7, 30, 7, 30),
+            t.source = "cb_panel3_jindu1_png",
+            t.visible = !0,
+            t
+        },
+        e
+    } (eui.Skin),
+    a = e.prototype;
+    return a.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.percentHeight = 100,
+        t.source = "cb_panel1_bg_jpg",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a._Group3_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 4,
+        t.width = 1110,
+        t.y = 24,
+        t.elementsContent = [this.btnOnekey_i(), this.btnBag_i(), this.btnCure_i(), this.pets_i(), this._Group1_i(), this._Group2_i(), this.grp_info_i(), this._Image7_i(), this._Image8_i(), this._Label2_i(), this._Label3_i()],
+        t
+    },
+    a.btnOnekey_i = function() {
+        var t = new eui.Image;
+        return this.btnOnekey = t,
+        t.height = 89,
+        t.source = "cb_panel3_btnOnekey_png",
+        t.width = 89,
+        t.x = 990,
+        t.y = 513,
+        t
+    },
+    a.btnBag_i = function() {
+        var t = new eui.Image;
+        return this.btnBag = t,
+        t.source = "cb_panel1_jlbb_png",
+        t.x = 0,
+        t.y = 419,
+        t
+    },
+    a.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "cb_panel1_jlhf_png",
+        t.x = 0,
+        t.y = 509,
+        t
+    },
+    a.pets_i = function() {
+        var t = new eui.Group;
+        return this.pets = t,
+        t.x = 302,
+        t.y = 99,
+        t.elementsContent = [this._Image1_i(), this.weizhi_i(), this.pet1_i(), this.pet2_i(), this.pet3_i(), this.pet4_i(), this.pet5_i(), this.btnChouqu_i(), this.grp_btns_i()],
+        t
+    },
+    a._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3_dizuo_png",
+        t.x = 51,
+        t.y = 368,
+        t
+    },
+    a.weizhi_i = function() {
+        var t = new eui.Image;
+        return this.weizhi = t,
+        t.source = "cb_panel3_weizhi_png",
+        t.visible = !0,
+        t.x = 65,
+        t.y = 9,
+        t
+    },
+    a.pet1_i = function() {
+        var t = new eui.Image;
+        return this.pet1 = t,
+        t.source = "cb_panel3_3392_png",
+        t.visible = !0,
+        t.x = 45,
+        t.y = 58,
+        t
+    },
+    a.pet2_i = function() {
+        var t = new eui.Image;
+        return this.pet2 = t,
+        t.source = "cb_panel3_3442_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 34,
+        t
+    },
+    a.pet3_i = function() {
+        var t = new eui.Image;
+        return this.pet3 = t,
+        t.source = "cb_panel3_3446_png",
+        t.visible = !0,
+        t.x = 110,
+        t.y = 28,
+        t
+    },
+    a.pet4_i = function() {
+        var t = new eui.Image;
+        return this.pet4 = t,
+        t.source = "cb_panel3_3464_png",
+        t.visible = !0,
+        t.x = 33,
+        t.y = 27,
+        t
+    },
+    a.pet5_i = function() {
+        var t = new eui.Image;
+        return this.pet5 = t,
+        t.source = "cb_panel3_3516_png",
+        t.visible = !0,
+        t.x = 14,
+        t.y = 0,
+        t
+    },
+    a.btnChouqu_i = function() {
+        var t = new eui.Image;
+        return this.btnChouqu = t,
+        t.source = "cb_panel2_btnchouqu_png",
+        t.x = 201,
+        t.y = 409,
+        t
+    },
+    a.grp_btns_i = function() {
+        var t = new eui.Group;
+        return this.grp_btns = t,
+        t.x = 50,
+        t.y = 409,
+        t.elementsContent = [this.btnTiaozhan_i(), this.btnYijian_i(), this.btnFangqi_i()],
+        t
+    },
+    a.btnTiaozhan_i = function() {
+        var t = new eui.Image;
+        return this.btnTiaozhan = t,
+        t.source = "cb_panel2_btntiaozhan_png",
+        t.x = 304,
+        t.y = 0,
+        t
+    },
+    a.btnYijian_i = function() {
+        var t = new eui.Image;
+        return this.btnYijian = t,
+        t.source = "cb_panel2_btnyijian_png",
+        t.visible = !0,
+        t.x = 152,
+        t.y = 0,
+        t
+    },
+    a.btnFangqi_i = function() {
+        var t = new eui.Image;
+        return this.btnFangqi = t,
+        t.source = "cb_panel3_btnfangqi_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 240,
+        t.y = 134,
+        t.elementsContent = [this._Image2_i(), this.bar_hundun_i(), this._Image3_i(), this.txt_value1_i()],
+        t
+    },
+    a._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3_jindude2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a.bar_hundun_i = function() {
+        var t = new eui.ProgressBar;
+        return this.bar_hundun = t,
+        t.direction = "btt",
+        t.maximum = 100,
+        t.value = 0,
+        t.x = 25,
+        t.y = 30,
+        t.skinName = n,
+        t
+    },
+    a._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3_hundunzhi_png",
+        t.x = 4,
+        t.y = 381,
+        t
+    },
+    a.txt_value1_i = function() {
+        var t = new eui.Label;
+        return this.txt_value1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "300",
+        t.textAlign = "center",
+        t.textColor = 16774487,
+        t.width = 36,
+        t.x = 17,
+        t.y = 406,
+        t
+    },
+    a._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 830,
+        t.y = 154,
+        t.elementsContent = [this._Image4_i(), this.bar_lizhi_i(), this._Image5_i(), this.txt_value2_i()],
+        t
+    },
+    a._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3_jindude1_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a.bar_lizhi_i = function() {
+        var t = new eui.ProgressBar;
+        return this.bar_lizhi = t,
+        t.direction = "btt",
+        t.maximum = 100,
+        t.value = 0,
+        t.x = 24.5,
+        t.y = 10,
+        t.skinName = i,
+        t
+    },
+    a._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3_lizhizhi_png",
+        t.x = 5,
+        t.y = 362,
+        t
+    },
+    a.txt_value2_i = function() {
+        var t = new eui.Label;
+        return this.txt_value2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "300",
+        t.textAlign = "center",
+        t.textColor = 16774487,
+        t.width = 36,
+        t.x = 18,
+        t.y = 386,
+        t
+    },
+    a.grp_info_i = function() {
+        var t = new eui.Group;
+        return this.grp_info = t,
+        t.visible = !0,
+        t.x = 410,
+        t.y = 468,
+        t.elementsContent = [this._Image6_i(), this._Label1_i(), this.txt_info_i()],
+        t
+    },
+    a._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3_txtbg2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    a._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "击败可获得",
+        t.textColor = 16774487,
+        t.x = 63,
+        t.y = 6,
+        t
+    },
+    a.txt_info_i = function() {
+        var t = new eui.Label;
+        return this.txt_info = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "XX点XX值",
+        t.textColor = 15622143,
+        t.x = 175,
+        t.y = 6,
+        t
+    },
+    a._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3_hddxz_png",
+        t.x = 445,
+        t.y = 0,
+        t
+    },
+    a._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3_txtbg_png",
+        t.x = 122,
+        t.y = 67,
+        t
+    },
+    a._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "布莱克在击败强大的幻影时会获得混沌值，击败某些幻影也会为布莱克恢复神智值。",
+        t.textColor = 16769906,
+        t.x = 244,
+        t.y = 74,
+        t
+    },
+    a._Label3_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "在混沌值到达100之前，布莱克必须拥有100点神智值！否则将会永久臣服于混沌！",
+        t.textColor = 16769906,
+        t.x = 254,
+        t.y = 96,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel4Skin.exml"] = window.chaoticBlake.Panel4Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "btnBag", "btnCure", "btnFight1", "btnFast1", "pass1", "pet1", "btnFight2", "btnFast2", "pass2", "pet2", "btnFight3", "btnFast3", "pass3", "pet3", "btnFight4", "btnFast4", "pass4", "pet4"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.source = "cb_panel1_bg_jpg",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -41.5,
+        t.y = 24,
+        t.elementsContent = [this.btnBag_i(), this.btnCure_i(), this.pet1_i(), this.pet2_i(), this.pet3_i(), this.pet4_i(), this._Image5_i(), this._Image6_i(), this._Label1_i(), this._Image7_i(), this._Label2_i()],
+        t
+    },
+    n.btnBag_i = function() {
+        var t = new eui.Image;
+        return this.btnBag = t,
+        t.source = "cb_panel1_jlbb_png",
+        t.x = 0,
+        t.y = 419,
+        t
+    },
+    n.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "cb_panel1_jlhf_png",
+        t.x = 0,
+        t.y = 509,
+        t
+    },
+    n.pet1_i = function() {
+        var t = new eui.Group;
+        return this.pet1 = t,
+        t.x = 116,
+        t.y = 133,
+        t.elementsContent = [this._Image1_i(), this.btnFight1_i(), this.btnFast1_i(), this.pass1_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel4_11_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnFight1_i = function() {
+        var t = new eui.Image;
+        return this.btnFight1 = t,
+        t.source = "cb_panel1_btnfight_png",
+        t.x = 108,
+        t.y = 384,
+        t
+    },
+    n.btnFast1_i = function() {
+        var t = new eui.Image;
+        return this.btnFast1 = t,
+        t.source = "cb_panel1_yjzs_png",
+        t.x = 8,
+        t.y = 384,
+        t
+    },
+    n.pass1_i = function() {
+        var t = new eui.Image;
+        return this.pass1 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_panel4_jibai_png",
+        t.x = 9,
+        t.y = 8,
+        t
+    },
+    n.pet2_i = function() {
+        var t = new eui.Group;
+        return this.pet2 = t,
+        t.x = 350,
+        t.y = 133,
+        t.elementsContent = [this._Image2_i(), this.btnFight2_i(), this.btnFast2_i(), this.pass2_i()],
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel4_22_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnFight2_i = function() {
+        var t = new eui.Image;
+        return this.btnFight2 = t,
+        t.source = "cb_panel1_btnfight_png",
+        t.x = 108,
+        t.y = 384,
+        t
+    },
+    n.btnFast2_i = function() {
+        var t = new eui.Image;
+        return this.btnFast2 = t,
+        t.source = "cb_panel1_yjzs_png",
+        t.x = 8,
+        t.y = 384,
+        t
+    },
+    n.pass2_i = function() {
+        var t = new eui.Image;
+        return this.pass2 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_panel4_jibai_png",
+        t.x = 9,
+        t.y = 8,
+        t
+    },
+    n.pet3_i = function() {
+        var t = new eui.Group;
+        return this.pet3 = t,
+        t.x = 583,
+        t.y = 133,
+        t.elementsContent = [this._Image3_i(), this.btnFight3_i(), this.btnFast3_i(), this.pass3_i()],
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel4_33_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnFight3_i = function() {
+        var t = new eui.Image;
+        return this.btnFight3 = t,
+        t.source = "cb_panel1_btnfight_png",
+        t.x = 109,
+        t.y = 384,
+        t
+    },
+    n.btnFast3_i = function() {
+        var t = new eui.Image;
+        return this.btnFast3 = t,
+        t.source = "cb_panel1_yjzs_png",
+        t.x = 9,
+        t.y = 384,
+        t
+    },
+    n.pass3_i = function() {
+        var t = new eui.Image;
+        return this.pass3 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_panel4_jibai_png",
+        t.x = 9,
+        t.y = 8,
+        t
+    },
+    n.pet4_i = function() {
+        var t = new eui.Group;
+        return this.pet4 = t,
+        t.x = 817,
+        t.y = 133,
+        t.elementsContent = [this._Image4_i(), this.btnFight4_i(), this.btnFast4_i(), this.pass4_i()],
+        t
+    },
+    n._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel4_44_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnFight4_i = function() {
+        var t = new eui.Image;
+        return this.btnFight4 = t,
+        t.source = "cb_panel1_btnfight_png",
+        t.x = 109,
+        t.y = 384,
+        t
+    },
+    n.btnFast4_i = function() {
+        var t = new eui.Image;
+        return this.btnFast4 = t,
+        t.source = "cb_panel1_yjzs_png",
+        t.x = 9,
+        t.y = 384,
+        t
+    },
+    n.pass4_i = function() {
+        var t = new eui.Image;
+        return this.pass4 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_panel4_jibai_png",
+        t.x = 9,
+        t.y = 8,
+        t
+    },
+    n._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel4_lmdyy_png",
+        t.x = 442,
+        t.y = 0,
+        t
+    },
+    n._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel3_txtbg_png",
+        t.visible = !0,
+        t.x = 122,
+        t.y = 67,
+        t
+    },
+    n._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "将战神联盟的成员全部击败，即可获得         混沌暗影精华x10，仅限当天！",
+        t.textColor = 16769906,
+        t.x = 284,
+        t.y = 74,
+        t
+    },
+    n._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_mainpanel_icon_png",
+        t.x = 595,
+        t.y = 67,
+        t
+    },
+    n._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "每位成员每天仅可挑战一次，且一旦离开关卡，则自动失去今日的关卡挑战资格！",
+        t.textColor = 16769906,
+        t.x = 253,
+        t.y = 96,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel5Skin.exml"] = window.chaoticBlake.Panel5Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "txt_leftTime", "btnBag", "btnCure", "btnKe", "btnWu", "btnDuihuan2", "btnTe", "btnDuihuan3", "btnDuihuan1", "txt_hasNum", "btnAddItem", "ri", "pet10", "pet3", "pet1", "pet2", "pet4", "pet5", "pet6", "pet7", "pet8", "pet9", "pets", "btnJixu", "btnKaishi", "txt_bossNum", "txt_level", "grp_level"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.source = "cb_panel1_bg_jpg",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -37,
+        t.y = 25,
+        t.elementsContent = [this._Image1_i(), this._Label1_i(), this.txt_leftTime_i(), this.btnBag_i(), this.btnCure_i(), this.ri_i(), this.pets_i(), this.btnJixu_i(), this.btnKaishi_i(), this._Image13_i(), this._Label9_i(), this._Image14_i(), this.txt_bossNum_i(), this._Image15_i(), this.grp_level_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_cishudi_png",
+        t.x = 362,
+        t.y = 553,
+        t
+    },
+    n._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "剩余试炼次数：",
+        t.textColor = 15102719,
+        t.x = 497,
+        t.y = 561,
+        t
+    },
+    n.txt_leftTime_i = function() {
+        var t = new eui.Label;
+        return this.txt_leftTime = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "99",
+        t.textColor = 16769906,
+        t.x = 618,
+        t.y = 561,
+        t
+    },
+    n.btnBag_i = function() {
+        var t = new eui.Image;
+        return this.btnBag = t,
+        t.source = "cb_panel1_jlbb_png",
+        t.x = 0,
+        t.y = 418,
+        t
+    },
+    n.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "cb_panel1_jlhf_png",
+        t.x = 0,
+        t.y = 508,
+        t
+    },
+    n.ri_i = function() {
+        var t = new eui.Group;
+        return this.ri = t,
+        t.x = 714,
+        t.y = 77,
+        t.elementsContent = [this._Image2_i(), this._Image3_i(), this.btnKe_i(), this._Label2_i(), this._Label3_i(), this._Image4_i(), this._Image5_i(), this._Image6_i(), this.btnWu_i(), this._Label4_i(), this._Label5_i(), this._Image7_i(), this._Image8_i(), this.btnDuihuan2_i(), this._Image9_i(), this.btnTe_i(), this._Label6_i(), this._Label7_i(), this._Image10_i(), this._Image11_i(), this.btnDuihuan3_i(), this.btnDuihuan1_i(), this._Label8_i(), this.txt_hasNum_i(), this.btnAddItem_i(), this._Image12_i()],
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_di_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_kuang_png",
+        t.x = 43,
+        t.y = 44,
+        t
+    },
+    n.btnKe_i = function() {
+        var t = new eui.Image;
+        return this.btnKe = t,
+        t.source = "cb_panel5_tuceng_35_png",
+        t.x = 53,
+        t.y = 55,
+        t
+    },
+    n._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "消耗：",
+        t.textColor = 15037439,
+        t.x = 160,
+        t.y = 56,
+        t
+    },
+    n._Label3_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "*30",
+        t.textColor = 16514895,
+        t.x = 235,
+        t.y = 55,
+        t
+    },
+    n._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_1715442_png",
+        t.x = 197,
+        t.y = 40,
+        t
+    },
+    n._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_title1_png",
+        t.x = 43,
+        t.y = 22,
+        t
+    },
+    n._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_kuang_png",
+        t.x = 43,
+        t.y = 163,
+        t
+    },
+    n.btnWu_i = function() {
+        var t = new eui.Image;
+        return this.btnWu = t,
+        t.source = "cb_panel5_diwujineng_png",
+        t.x = 56,
+        t.y = 176,
+        t
+    },
+    n._Label4_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "消耗：",
+        t.textColor = 15037439,
+        t.x = 160,
+        t.y = 175,
+        t
+    },
+    n._Label5_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "*40",
+        t.textColor = 16514895,
+        t.x = 235,
+        t.y = 174,
+        t
+    },
+    n._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_1715442_png",
+        t.x = 197,
+        t.y = 159,
+        t
+    },
+    n._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_title2_png",
+        t.x = 43,
+        t.y = 141,
+        t
+    },
+    n.btnDuihuan2_i = function() {
+        var t = new eui.Image;
+        return this.btnDuihuan2 = t,
+        t.source = "cb_panel5_btnduihuan_png",
+        t.x = 168,
+        t.y = 199,
+        t
+    },
+    n._Image9_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_kuang_png",
+        t.x = 43,
+        t.y = 283,
+        t
+    },
+    n.btnTe_i = function() {
+        var t = new eui.Image;
+        return this.btnTe = t,
+        t.source = "cb_panel5_zstx_png",
+        t.x = 57,
+        t.y = 302,
+        t
+    },
+    n._Label6_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "消耗：",
+        t.textColor = 15037439,
+        t.x = 160,
+        t.y = 295,
+        t
+    },
+    n._Label7_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "*60",
+        t.textColor = 16514895,
+        t.x = 235,
+        t.y = 294,
+        t
+    },
+    n._Image10_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_1715442_png",
+        t.x = 197,
+        t.y = 279,
+        t
+    },
+    n._Image11_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_title3_png",
+        t.x = 43,
+        t.y = 261,
+        t
+    },
+    n.btnDuihuan3_i = function() {
+        var t = new eui.Image;
+        return this.btnDuihuan3 = t,
+        t.source = "cb_panel5_btnduihuan_png",
+        t.x = 168,
+        t.y = 319,
+        t
+    },
+    n.btnDuihuan1_i = function() {
+        var t = new eui.Image;
+        return this.btnDuihuan1 = t,
+        t.source = "cb_panel5_btnduihuan_png",
+        t.x = 168,
+        t.y = 80,
+        t
+    },
+    n._Label8_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "当前拥有        ：",
+        t.textColor = 15037439,
+        t.x = 60,
+        t.y = 399,
+        t
+    },
+    n.txt_hasNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_hasNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "999",
+        t.textColor = 16514895,
+        t.x = 186,
+        t.y = 398,
+        t
+    },
+    n.btnAddItem_i = function() {
+        var t = new eui.Image;
+        return this.btnAddItem = t,
+        t.source = "cb_panel5_btnadd_png",
+        t.x = 230,
+        t.y = 393,
+        t
+    },
+    n._Image12_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_1715442_png",
+        t.x = 130,
+        t.y = 385,
+        t
+    },
+    n.pets_i = function() {
+        var t = new eui.Group;
+        return this.pets = t,
+        t.x = 150,
+        t.y = 87,
+        t.elementsContent = [this.pet10_i(), this.pet3_i(), this.pet1_i(), this.pet2_i(), this.pet4_i(), this.pet5_i(), this.pet6_i(), this.pet7_i(), this.pet8_i(), this.pet9_i()],
+        t
+    },
+    n.pet10_i = function() {
+        var t = new eui.Image;
+        return this.pet10 = t,
+        t.source = "cb_panel5_3387_png",
+        t.visible = !1,
+        t.x = 24,
+        t.y = 33,
+        t
+    },
+    n.pet3_i = function() {
+        var t = new eui.Image;
+        return this.pet3 = t,
+        t.source = "cb_panel5_1525_png",
+        t.visible = !1,
+        t.x = 0,
+        t.y = 41,
+        t
+    },
+    n.pet1_i = function() {
+        var t = new eui.Image;
+        return this.pet1 = t,
+        t.source = "cb_panel5_1596_png",
+        t.visible = !1,
+        t.x = 87,
+        t.y = 64,
+        t
+    },
+    n.pet2_i = function() {
+        var t = new eui.Image;
+        return this.pet2 = t,
+        t.source = "cb_panel5_1602_png",
+        t.visible = !1,
+        t.x = 58,
+        t.y = 45,
+        t
+    },
+    n.pet4_i = function() {
+        var t = new eui.Image;
+        return this.pet4 = t,
+        t.source = "cb_panel5_2149_png",
+        t.visible = !1,
+        t.x = 50,
+        t.y = 50,
+        t
+    },
+    n.pet5_i = function() {
+        var t = new eui.Image;
+        return this.pet5 = t,
+        t.source = "cb_panel5_2237_png",
+        t.visible = !1,
+        t.x = 87,
+        t.y = 0,
+        t
+    },
+    n.pet6_i = function() {
+        var t = new eui.Image;
+        return this.pet6 = t,
+        t.source = "cb_panel5_2289_png",
+        t.visible = !1,
+        t.x = 102,
+        t.y = 12,
+        t
+    },
+    n.pet7_i = function() {
+        var t = new eui.Image;
+        return this.pet7 = t,
+        t.source = "cb_panel5_2459_png",
+        t.visible = !0,
+        t.x = 87,
+        t.y = 47,
+        t
+    },
+    n.pet8_i = function() {
+        var t = new eui.Image;
+        return this.pet8 = t,
+        t.source = "cb_panel5_2597_png",
+        t.visible = !1,
+        t.x = 108,
+        t.y = 40,
+        t
+    },
+    n.pet9_i = function() {
+        var t = new eui.Image;
+        return this.pet9 = t,
+        t.source = "cb_panel5_2639_png",
+        t.visible = !1,
+        t.x = 8,
+        t.y = 26,
+        t
+    },
+    n.btnJixu_i = function() {
+        var t = new eui.Image;
+        return this.btnJixu = t,
+        t.source = "cb_panel5_btnjixu_png",
+        t.x = 300,
+        t.y = 486,
+        t
+    },
+    n.btnKaishi_i = function() {
+        var t = new eui.Image;
+        return this.btnKaishi = t,
+        t.source = "cb_panel5_btnkaishi_png",
+        t.x = 300,
+        t.y = 486,
+        t
+    },
+    n._Image13_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_txtbg_png",
+        t.x = 206,
+        t.y = 447,
+        t
+    },
+    n._Label9_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "击败可获得",
+        t.textColor = 15102719,
+        t.x = 279,
+        t.y = 453,
+        t
+    },
+    n._Image14_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_1715442_png",
+        t.x = 373,
+        t.y = 440,
+        t
+    },
+    n.txt_bossNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_bossNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "*1",
+        t.textColor = 16769906,
+        t.x = 422,
+        t.y = 454,
+        t
+    },
+    n._Image15_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel5_nljj_png",
+        t.x = 469,
+        t.y = 0,
+        t
+    },
+    n.grp_level_i = function() {
+        var t = new eui.Group;
+        return this.grp_level = t,
+        t.x = 209,
+        t.y = 72,
+        t.elementsContent = [this._Image16_i(), this._Label10_i(), this.txt_level_i()],
+        t
+    },
+    n._Image16_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "cb_panel5_juxing_913_png",
+        t.width = 317,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Label10_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.size = 32,
+        t.text = "第          关",
+        t.textColor = 12024797,
+        t.x = 74,
+        t.y = 7,
+        t
+    },
+    n.txt_level_i = function() {
+        var t = new eui.Label;
+        return this.txt_level = t,
+        t.fontFamily = "MFShangHei",
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.size = 32,
+        t.text = "10/10",
+        t.textAlign = "center",
+        t.textColor = 16514895,
+        t.width = 90,
+        t.x = 108,
+        t.y = 7,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/render/Panel2PetHeadRender.exml"] = window.chaoticBlake.Panel2PetHeadRender = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["head", "xuanzhong", "pass"],
+        this.height = 129,
+        this.width = 129,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.visible = !0,
+        t.elementsContent = [this._Image1_i(), this.head_i(), this.xuanzhong_i(), this.pass_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "cb_panel2_kuang_png",
+        t.visible = !0,
+        t.x = 7,
+        t.y = 7,
+        t
+    },
+    n.head_i = function() {
+        var t = new eui.Image;
+        return this.head = t,
+        t.anchorOffsetX = 50,
+        t.anchorOffsetY = 50,
+        t.height = 100,
+        t.scaleX = -1,
+        t.source = "",
+        t.width = 100,
+        t.x = 64,
+        t.y = 64,
+        t
+    },
+    n.xuanzhong_i = function() {
+        var t = new eui.Image;
+        return this.xuanzhong = t,
+        t.source = "cb_panel2_xuanzhong_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.pass_i = function() {
+        var t = new eui.Image;
+        return this.pass = t,
+        t.source = "cb_panel2_yijibai_png",
+        t.x = 14,
+        t.y = 14,
+        t
+    },
+    e
+} (eui.Skin);

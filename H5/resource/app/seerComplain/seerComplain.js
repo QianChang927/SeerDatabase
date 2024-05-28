@@ -1,1 +1,486 @@
-eval(function(){function J(J){for(o=B=0;o<J;)M<2&&(M=64,N=92<(N="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@^lxo:LZ=XVL`?KBJ;:^>m=o:YbM_:=_kBtiXRJ<sg:UMk;WI[C^c:bif^mcaLp;hqAewe]ucJuQdGWv@:Go:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBIn>m:_wi:bJkCZkHF<WJ[?UiN>ZP<=kyjMlmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNoNGoq>:U^OpHYJHJFNGRxIUYZ_^ouivM;Rs<VfkZ^ZsF:;[=Z;UWJm:Sv:<>SJDQ?sR[uzNksFDNGDfADZpooI:`LVb[:L<Jr;ekZRGMqwAJM=:YMN;::pZF:ABZItkM::BZ:mdwYjx:L:;anTLkPNCm?cjZ;C?]WKK<ND_w`xLBlHDCQJPRJ<<vrJDXY;BXEk?^YX<yH=lHAB]>wW@JSb>af_W:l:<eAn:=gmmJccf:>gut;RX?JpB:p<ni<nZzUjUuH<EQPD:<D[sK<yoYW:V`:RUZ:KbqbM:rJlXAGyJKCM?Yl::AFs::[C^c>sgCo?C=_>=lXEsckguhnC^e<GaI^km?]<MdnHoGA[W;w>>t[WtiXXZ[w?]RAGv::V:=sbbgPFAZwBwFhxjT;dcpCrsZ;KR;lW::@NBPLyjAvV=N^yYt@y::C:;;H_:A?vpA<o>Jb;oR^dCZzbW@BgPjKh_EN?:P@fQ;Jk:XZ:GZ:;[SHVNbOLgTrfKhapUI;qnjY?oZ:BrJJo_:s=s[ALE[jZsf]<MsL^TkUCgi=c[]imR][PFG>:q=ZC;iBcQ^yIsJM[HcgLPnU=gdIhPLladD<mrANJRKEStQ^ZUwp=fTlRa:g:k;:Tkxa@<Rk=kPBbJ:?J:FQgqB<AwTGCO^:FZrORRgCkb:hkBjRRLkDmB;go`m<<i:bCVhmp>wvms=wkDAIgYkoENPBRbOM<s^]fVWmBdDFNrOEodzMELdmpm^rB:eYB<fDJc_FDzOJNSo?y?ZgbcHZPKSWNPABPEV>k::PB]]EsG_H<=AwdiX??m:y;CvB:KLRH;EisGTVk:M[nCV^;@yGkf^VN>kgMlmPb=:;<>=Wn=ADplABOMHEZU[pJUS^aCJF::?`tDchpTrJ<N@b_p;BX>RuV:s<SYFmVG:=stJ;Lco:;<G:Am`J:RYw::r`mV:>EW:>ItJ;v:o:XUx:AAsk:H<o:IHp:=ZOJ:kAN:EA`:>zhJ:rKN:EJO:<z?J:Iho:?Ep:;;GJ:k?o:JAy?h<RJmFBEPGMi>thLbKMT?E??>QhO:YiG^:b=q:g]oZ>hhrrKKrCIRJT`vI:zafF<H<RRWMABR;<=kHAaPSKKk^kNCi=fPJs:K^[s]R?;xZ_=_j`y:>ZNrJJe>JEFz@@YPAbs?_I]nv`VzBMHiKnr`;Lpv[Dzfb_;ZR?jHPnxjGp>MQx[[KNg_LGVLAhRY`KmK[cF[Rcl@;mccW><ru_TScM^TH:H]u@?;_@FwKb@DSSbaEs`[PGRs;qUSG_jMN=XiVtLw<EuQuYpDk^q<R;b]:bm?fFw?mgKvlH^?CZAy<Kzu:Dy<TN;Rc@=xns=:s;V;s>T?w=ZCBD<s?ZBkUZTXL<V>ZEkJoTkD:_^::sAZXB>:hf>EJTJZNLJ]?l?ZLJgNy<g@xbZ:JYqR;gSsLibZD:GB;Z>=kbQEk=VyJ<bBG>IsL:PKU>ZQz<RhWivOoUjm:RdhELB_QiXP<I[VMLJB=OWBR]S^ZAJ>_Qgg`j[RoN_D?_[`eJiBe]slou:>Cz<wVuOoA]YSymR=a?lzSzUe=<Qk?_rhYUyk:>n[BAHcCCFLs_[B:FnCF]W_xCkMzSfKmRHBdyMs`F::Dn?IN?NgdBL<EOBTQNzq:;qTdUMa`F;rGNvdFLA?ePNVdPcH:s;s@f=ZE:TpF`Ebh=zXBeoP_OFmNFyKD:aMMJB?G@Ta:^:Moo^aD:K]O`J>oZ_ktNFO_HDVNZVt?]SCgLFfVsta`F`IDj<k@wUno^XGwOw]ZN:QkZ@Rcd:tKmCu:i;NZFtREj_;DyAwqcN:kBdG;KVZmU>yBJpiTRNB_xg]e^ZBI=>P:LuQ><<LAwwdD]NAqRVjKF?nBRaS@pCZklGBNfC;LGDlpyARpS:NW:D:c=eAa?:;CK>>bJdxb:D:EMF_OD]?FZtn?en<ik_D<JNKF;UJ_GRUO?ZtkoefEPT?xDnBkaSLwGDfEm=gf`?mmVjEaJOot?BEK:l=_yk?NDxJuejdTgmJKEuXe>_@i??V[LGmLn:qQ[TdsOf[@qiGQ:=`OEoOmN^NsEuY=mKwdWY<uKjVc<mKwC@hOpRGQ_<pSDoGifF=mceP@hJU]uNlih@`XGp_UOqgdOmxGK_gqHhnVupiUeS>g@EPl=ZpCmqOc=QW?dkUuoOFUWjRNCn_qjH^UI>@VTPOgiMTa[pBlP[s::?tVAJ=]Usnsj^ueAJB_Wff<qtoxM[@BDfSpEcLS_iuMUm:OOUMiqGMEHrPi@IXXBr_ZNc<C^>Bx`CoZONAXJMcopzDFbcbe`_<GzCg`@G[J<cnDo^E@KFn:HtOr_<f?>Usckk;C@B`xIseVqk=@S<<AOac:KR;SB:Wy^:=CwR:NoO:;boR:FUx:<[]c:MioTT::e=KaZ;tso::zlZ;BVo:CKDZ:siN:B[@Z:UiN:GYuZ;w;F:?bTZ;SXN:AWiZ;k<o:;=zZ:xWF:DIuZ;f=N:C=z`TvZwWy;lGchopdrJB^yvGtvaJt]=KBHSeo<BtaPSen:ELiF[fP]?kpIn>C:WFfio=yvm:JgNZ[mcgDY@BKJq[x:@@z[RWSE[z=w`el>UkCPfmsmg:OEPZ?gxJPJgROS>KJ]C>jdONa[kMnuoVkyUwp?wZXfFarQzJ<c?BENharUSTfhklghB?mlBRfdQmggZ:>frbj::DM?CPZZZQF=]fulu?_tGKT:>FRk:PIyOjultpcPs>aIP<naD^PfdhpcBeikpgrBPafURmaoRA>pfRqu[mxqq_=RYqoW_vfQaLQR_Ipp_tG:=tmc::vNbhQS]DxhcHRIiIJ]nxsULvIjziwLuX?quogZR[t`uAxf>FN=duuBfVIFFBser[Z^GQ]Hcsipl`vZqrj;STJ_iuhplhTiyniCW:HSjBg]T<gpuPPVCdhXfkVFIwSXJjWGTxhuq^_<cmAFvsWF<VXdlNtQ>ZS=PAx`Z<Xj`uCk>;TvlgeEpJL@GigqlPnbkvIh;>kVziOaKxLJ]Z;DLhpcjLEAhTwYRwOIMm_Z]PYB_hGnsHAVqDSiXtJ=vhraikWvhpwFNjrjQCiwGuX_rOu_;ZK:HcM:;>Hjk::BuQJTDTQU;GY]g<kEPsHtx:ksbUtrxA[fRyOy:ohmAXiNatR^m]`=PesjrhPQ:RIanEp[xqX_RA]__xrFKSdGIFDD:SIxjvwkTup=buJ?ifQnHHqgvayhxbrDhgyWgGDg[WThMhnhoWHgPK::r:o:A[=J:L[^::ZfHXom@CmvomKr;r;@kOrfLQ=fOfL;ljkProKQomlvNtMu:YMnOAKYNU^YPfAx[OJHOxJfQxMrnpKpNGJYp<PBBSPflPmMLcZrmJkDO<KJlnNYOS;cIWJbM]JRCsCRFfPhn=[J=hmsk=KOrzO^p;qQr;qzlfrBAprN@>Bc@oHrn?qzLsm=qY<Iqa[Ir;OzpjqMryNo_nnjpe@sH[L[aYm;nPpjozpBBFESpvNcG[rJm:B?meoBl?ob:ZI?qio:AxtJ:<`W::oMN:<;^?:cbLQGc:]=:f:eSGZuSUx@UOkrZwp=E:kwZe`DZdx:h@JyZlZugSZjpTEQYMZsNMkgcvQYJZJecjh>Jwd;CVJdpDJtxXciJlzEx<JSJqrXrTEVUIOKERNPI=zDj<cZJck_kqc?RwknCQYIRfuTk^SNITTVIFzGUGktkuzSGAIWkZ=NJmzAkxW<sfcfzSUV=EEQz@AJ:gfYbA=JQTfF:oQL:nA?_J:O^G::Ano:?rsk:>V^F];g[hV^F=g=<]w<CgEgL]U^Q^:^X^=pzwT^K]u^lo@]a:a<d]epq=voi<A^gLx=r^>oy]HVI<A^[^[p<Lk:lo]oC]?<P^ZtJtS^p=upG<Qw>xB`z<p]WVG^pxzxGwlMn<Gc`o?M:wp_U<M^^:A=BOU]f]^NeCwwv^i<b=[:b^QwphU]:]uMOxOgj^wLk]LgB^z]c^[VuhZMs]NBPK:;zIN:<_OJ:<GhPSsLo<_Mw]V<]^w=FMWMTMy<I^@MiNC=e<l^]MiLmM?<q<q^zo=LBnp]cmwLJ]whvxK<pdPMC=woHMT<IOiMa^P=d^yMO<t]DL?]iwh<N_r=nMBn>pG]SLNwann<D`WwXn=]OM^^^xM^Mxz_pgxMhLGoeB]xxMK=E]^LSglmFnCLI^Z]D<:=XWY^Z<:Mc^bMR]qgE<FWfgcM:;OapxIxHmIJHKBDIaEKC=M=Gf@bCUFnBSHnEQBCHEFtGYNMDTICCrmQQTEN@sHUB`CuDnD>BvEnIDJeNEE^DCDtCxb_BfDNHfBso?IfDPEN?^nGC:jdEQo]LqG?FA:BbFDRrymgBAC=mAIOIHGzqbBbFo^ib^qsDpIbC?EYoYCkghFyF[PyBrCql:F;C]HH^]FCpso:=CRk:WyO::AHN:=O`Vwl>jB`>awsch][]dVo<`ww<bFxwuJ[F[<lcd<`FzwhFoJv<rJpgvhOwhG:Ryd@<qc_gwRzLb_mgj_ar@gh<sN[Y?CINdwtVhguNbFqNkV?dVkqECWFDtNZzONe]gsoVrzK]ismVqgAFB]C]oJwVp]rkyDxLr<eob]aobsz]vVdow:zV_>uv@nRwk:<X^:;ofI_fXo=DNffGjBlGNiMKLdmesi^Coj^IZifA_DMGtEzEfJ:jiIDKwgsfBDgjuFZd<K<di;tMSBzGEG_DVgFefEVhJgDFwiPCLJsjFiYEkcGkZiqEqjFFT]QJig]gInOG]gKMPkugLjqP^mj?>EcgmiXGzoXhwcodhOQHeGhI[mrFWD;ErEKpWGsr?_:=PtXebBlLuwte`LkZxedYCbA>g<qg@APFymnwiZvwxT]_pF_NvZzTh@]oeTfLhVpuwdAVHmx_r@gghTw_aRxmvTzvYxYdE?KbKUVamcuTd_wZMa^sHa`_Up@O>OWJFO<OFt>hGLQwaENbTbFG@HQZ@pAK?RIRB::".charCodeAt(C++))?N-59:N-58),B|=(0<(N&(M/=2))?1:0)<<o,++o}for(var Z,B,o,k,N,F=[],g=1,m=3,w=1,G=[],M=0,C=0;;){if(J(w+1),2==B)return G.join("");-2&(k=B)||(J(8*B+8),F[k=m++]=String.fromCharCode(B),--g||(g=2<<w++)),G.push(k=F[k]||Z+Z[0]),Z&&(F[m++]=Z+k[0],--g||(g=2<<w++)),Z=k}}());
+var __reflect = this && this.__reflect ||
+function(e, i, t) {
+    e.__class__ = i,
+    t ? t.push(i) : t = [i],
+    e.__types__ = e.__types__ ? t.concat(e.__types__) : t
+},
+__extends = this && this.__extends ||
+function(e, i) {
+    function t() {
+        this.constructor = e
+    }
+    for (var n in i) i.hasOwnProperty(n) && (e[n] = i[n]);
+    t.prototype = i.prototype,
+    e.prototype = new t
+},
+seerComplain; !
+function(e) {
+    var i = function(e) {
+        function i(i) {
+            var t = e.call(this) || this;
+            return t.skinName = "SeerComplainSkin",
+            t.userInfo = i,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            this.txtUser.text = this.userInfo.nick + "(" + this.userInfo.userID + ")",
+            this.setSelect(1);
+            for (var i = function(i) {
+                ImageButtonUtil.add(t["group" + i],
+                function() {
+                    e.setSelect(i)
+                },
+                t, !1, !1)
+            },
+            t = this, n = 1; 8 >= n; n++) i(n);
+            this.input.addEventListener(egret.Event.CHANGE,
+            function() {
+                e.txtNum.text = e.input.text.length + "/60"
+            },
+            this),
+            ImageButtonUtil.add(this.btnClose, this.onClose, this),
+            ImageButtonUtil.add(this.btnCancel, this.onClose, this),
+            ImageButtonUtil.add(this.btnOk,
+            function() {
+                var i = new egret.ByteArray;
+                i.writeUTFBytes(e.userInfo.nick),
+                i.length = 16;
+                var t = new egret.ByteArray;
+                t.writeUTFBytes(e.input.text),
+                t.length = 180;
+                var n = new egret.ByteArray;
+                n.writeUTFBytes(e.userInfo.chatContent || ""),
+                n.length = 400,
+                SocketConnection.sendByQueue(41911, [e.userInfo.userID, e.curSelect, i, t, n],
+                function() {
+                    e.onClose(),
+                    BubblerManager.getInstance().showText("举报成功，你举报的信息经过核实后将会对其做出相应处理！")
+                })
+            },
+            this)
+        },
+        i.prototype.setSelect = function(e) {
+            this.curSelect = e;
+            for (var i = 1; 8 >= i; i++) this["imgGou" + i].visible = e == i
+        },
+        i
+    } (BaseModule);
+    e.SeerComplain = i,
+    __reflect(i.prototype, "seerComplain.SeerComplain")
+} (seerComplain || (seerComplain = {}));
+var __extends = this && this.__extends ||
+function(e, i) {
+    function t() {
+        this.constructor = e
+    }
+    for (var n in i) i.hasOwnProperty(n) && (e[n] = i[n]);
+    t.prototype = i.prototype,
+    e.prototype = new t
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/SeercomplainSkin.exml"] = window.SeerComplainSkin = function(e) {
+    function i() {
+        e.call(this),
+        this.skinParts = ["btnCancel", "btnOk", "input", "txtNum", "txtUser", "imgGou1", "group1", "imgGou2", "group2", "imgGou3", "group3", "imgGou4", "group4", "imgGou5", "group5", "imgGou6", "group6", "imgGou7", "group7", "imgGou8", "group8", "btnClose"],
+        this.height = 431,
+        this.width = 753,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnCancel_i(), this.btnOk_i(), this._Image3_i(), this.input_i(), this.txtNum_i(), this._Label1_i(), this._Label2_i(), this.txtUser_i(), this._Group1_i(), this.btnClose_i()]
+    }
+    __extends(i, e);
+    var t = i.prototype;
+    return t._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "title_pop_2022_imge_735x431_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "seer_complain_imgtitle_png",
+        e.x = 36,
+        e.y = 2,
+        e
+    },
+    t.btnCancel_i = function() {
+        var e = new eui.Image;
+        return this.btnCancel = e,
+        e.source = "seer_complain_btncancel_png",
+        e.x = 222,
+        e.y = 355,
+        e
+    },
+    t.btnOk_i = function() {
+        var e = new eui.Image;
+        return this.btnOk = e,
+        e.source = "seer_complain_btnok_png",
+        e.x = 397,
+        e.y = 355,
+        e
+    },
+    t._Image3_i = function() {
+        var e = new eui.Image;
+        return e.horizontalCenter = 0,
+        e.source = "seer_complain_imgtxtbg_png",
+        e.y = 239,
+        e
+    },
+    t.input_i = function() {
+        var e = new eui.EditableText;
+        return this.input = e,
+        e.fontFamily = "MFShangHei",
+        e.height = 85,
+        e.maxChars = 60,
+        e.multiline = !0,
+        e.prompt = "请输入详细内容，您的描述有利于我们快速定位目标（非必填）",
+        e.promptColor = 4149623,
+        e.size = 16,
+        e.width = 613,
+        e.x = 70,
+        e.y = 246,
+        e
+    },
+    t.txtNum_i = function() {
+        var e = new eui.Label;
+        return this.txtNum = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 54,
+        e.size = 16,
+        e.text = "0/60",
+        e.textColor = 4149623,
+        e.y = 341,
+        e
+    },
+    t._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "举报对象：",
+        e.textColor = 12111615,
+        e.x = 41,
+        e.y = 65,
+        e
+    },
+    t._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "举报原因：",
+        e.textColor = 12111615,
+        e.x = 41,
+        e.y = 111,
+        e
+    },
+    t.txtUser_i = function() {
+        var e = new eui.Label;
+        return this.txtUser = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.textColor = 16729413,
+        e.x = 158,
+        e.y = 65,
+        e
+    },
+    t._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = .5,
+        e.visible = !0,
+        e.y = 158,
+        e.layout = this._TileLayout1_i(),
+        e.elementsContent = [this.group1_i(), this.group2_i(), this.group3_i(), this.group4_i(), this.group5_i(), this.group6_i(), this.group7_i(), this.group8_i()],
+        e
+    },
+    t._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalGap = 66,
+        e.requestedRowCount = 2,
+        e.verticalGap = 20,
+        e
+    },
+    t.group1_i = function() {
+        var e = new eui.Group;
+        return this.group1 = e,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Label3_i(), this._Image4_i(), this.imgGou1_i()],
+        e
+    },
+    t._Label3_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "恶意谩骂",
+        e.textColor = 6388143,
+        e.x = 31,
+        e.y = 2,
+        e
+    },
+    t._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "seer_complain_imggoubg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t.imgGou1_i = function() {
+        var e = new eui.Image;
+        return this.imgGou1 = e,
+        e.source = "seer_complain_imggou1_png",
+        e.visible = !0,
+        e.x = 3,
+        e.y = 6,
+        e
+    },
+    t.group2_i = function() {
+        var e = new eui.Group;
+        return this.group2 = e,
+        e.x = 20,
+        e.y = 20,
+        e.elementsContent = [this._Label4_i(), this._Image5_i(), this.imgGou2_i()],
+        e
+    },
+    t._Label4_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "使用外挂",
+        e.textColor = 6388143,
+        e.x = 31,
+        e.y = 2,
+        e
+    },
+    t._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "seer_complain_imggoubg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t.imgGou2_i = function() {
+        var e = new eui.Image;
+        return this.imgGou2 = e,
+        e.source = "seer_complain_imggou1_png",
+        e.visible = !0,
+        e.x = 3,
+        e.y = 6,
+        e
+    },
+    t.group3_i = function() {
+        var e = new eui.Group;
+        return this.group3 = e,
+        e.x = 30,
+        e.y = 30,
+        e.elementsContent = [this._Label5_i(), this._Image6_i(), this.imgGou3_i()],
+        e
+    },
+    t._Label5_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "昵称违规",
+        e.textColor = 6388143,
+        e.x = 31,
+        e.y = 2,
+        e
+    },
+    t._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "seer_complain_imggoubg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t.imgGou3_i = function() {
+        var e = new eui.Image;
+        return this.imgGou3 = e,
+        e.source = "seer_complain_imggou1_png",
+        e.visible = !0,
+        e.x = 3,
+        e.y = 6,
+        e
+    },
+    t.group4_i = function() {
+        var e = new eui.Group;
+        return this.group4 = e,
+        e.x = 40,
+        e.y = 40,
+        e.elementsContent = [this._Label6_i(), this._Image7_i(), this.imgGou4_i()],
+        e
+    },
+    t._Label6_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "广告消息",
+        e.textColor = 6388143,
+        e.x = 31,
+        e.y = 2,
+        e
+    },
+    t._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "seer_complain_imggoubg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t.imgGou4_i = function() {
+        var e = new eui.Image;
+        return this.imgGou4 = e,
+        e.source = "seer_complain_imggou1_png",
+        e.visible = !0,
+        e.x = 3,
+        e.y = 6,
+        e
+    },
+    t.group5_i = function() {
+        var e = new eui.Group;
+        return this.group5 = e,
+        e.x = 50,
+        e.y = 50,
+        e.elementsContent = [this._Label7_i(), this._Image8_i(), this.imgGou5_i()],
+        e
+    },
+    t._Label7_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "违法消息",
+        e.textColor = 6388143,
+        e.x = 31,
+        e.y = 2,
+        e
+    },
+    t._Image8_i = function() {
+        var e = new eui.Image;
+        return e.source = "seer_complain_imggoubg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t.imgGou5_i = function() {
+        var e = new eui.Image;
+        return this.imgGou5 = e,
+        e.source = "seer_complain_imggou1_png",
+        e.visible = !0,
+        e.x = 3,
+        e.y = 6,
+        e
+    },
+    t.group6_i = function() {
+        var e = new eui.Group;
+        return this.group6 = e,
+        e.x = 60,
+        e.y = 60,
+        e.elementsContent = [this._Label8_i(), this._Image9_i(), this.imgGou6_i()],
+        e
+    },
+    t._Label8_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "账号买卖",
+        e.textColor = 6388143,
+        e.x = 31,
+        e.y = 2,
+        e
+    },
+    t._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "seer_complain_imggoubg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t.imgGou6_i = function() {
+        var e = new eui.Image;
+        return this.imgGou6 = e,
+        e.source = "seer_complain_imggou1_png",
+        e.visible = !0,
+        e.x = 3,
+        e.y = 6,
+        e
+    },
+    t.group7_i = function() {
+        var e = new eui.Group;
+        return this.group7 = e,
+        e.x = 70,
+        e.y = 70,
+        e.elementsContent = [this._Label9_i(), this._Image10_i(), this.imgGou7_i()],
+        e
+    },
+    t._Label9_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "非法诈骗",
+        e.textColor = 6388143,
+        e.x = 31,
+        e.y = 2,
+        e
+    },
+    t._Image10_i = function() {
+        var e = new eui.Image;
+        return e.source = "seer_complain_imggoubg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t.imgGou7_i = function() {
+        var e = new eui.Image;
+        return this.imgGou7 = e,
+        e.source = "seer_complain_imggou1_png",
+        e.visible = !0,
+        e.x = 3,
+        e.y = 6,
+        e
+    },
+    t.group8_i = function() {
+        var e = new eui.Group;
+        return this.group8 = e,
+        e.x = 80,
+        e.y = 80,
+        e.elementsContent = [this._Label10_i(), this._Image11_i(), this.imgGou8_i()],
+        e
+    },
+    t._Label10_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "其他",
+        e.textColor = 6388143,
+        e.x = 31,
+        e.y = 2,
+        e
+    },
+    t._Image11_i = function() {
+        var e = new eui.Image;
+        return e.source = "seer_complain_imggoubg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t.imgGou8_i = function() {
+        var e = new eui.Image;
+        return this.imgGou8 = e,
+        e.source = "seer_complain_imggou1_png",
+        e.visible = !0,
+        e.x = 3,
+        e.y = 6,
+        e
+    },
+    t.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "title_pop_2022_btnclose_png",
+        e.x = 712,
+        e.y = 1,
+        e
+    },
+    i
+} (eui.Skin);

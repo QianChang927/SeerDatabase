@@ -1,1 +1,3481 @@
-eval(function(){function Z(Z){for(k=B=0;k<Z;)e<2&&(e=64,c=92<(c="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?w;:AVsC@:s:>osV:B:;M:H:?h<H:;i:>CaGbKHA^ZlN>Zg:jRiU^>ecesBH?fKNI[oC^:PCjB:FJ;t:<N:NJ:pRV@c:@>:<J;;SB:O<Vk:KZ:a:?R:;Z;q:;REIe@l]XaSsTa:TPMyZ>_:HNPpfUrGcs:SYeat^s;`KS=HR:VP@toiGriMok:<Co?>Rj?>a:<::KI:ZC:V:=akELM=NWk:C^=IhxYZ<ZT<cEovcF:O:t`G?bWKbW?b?dgFb]gsJ^RZ__fow<^oAGqF:w=Rdb:PHZs@;LKBj^xzc=;]<kUMuRgc:;SHTID=CHRIRRYPAkuB<t>>RP]jNZI:gSBZ?^KCQ_?NNxPTa`o[ao[uzD::BQuYny`jtLD?BcBu@?E>lcRsV]OcOeqJ_VrJu=:Nms<VNO>JD:kHbNTQJA><Y=tph^DGL@Lmt?nyVEE:MFH>aTh]F?nULaJBV:RH[^JtLBuma?Tka>qQDo?ZSWcqAkl?BPw_pAEx>Rf@eCJ>J^>na_gZV]^kAZoP[oBPFS]HO`gJNVn_<v`NQ^Rj^yHyU^;:RsJkA:::Xwcg>L;<UcJC;_:J_[JM;V>FINlLw:BWMAZorKs<om@X>PySF;ZA;Z>scJB?Kr:fcKrLuHZt:sEBzJK<uTKq@:G^V<kkZ_EkKZgDRq<]TRLue@cpTp[yq;OfPw`q>VgbDR>a=i[>>;[C>^UM]qcstI_yARTNcZfdNS_pEcc[RRoK>]CSs:J<k]_y>ZL:u?ikZFF[qMhCorJgHJRtZCDe:L@Hu<^C]M=qGkKZtba;S_VVBn^CFgkEFgZlA;qTQWel:mSPVgkJfV^mE?CY<[VuNdCTBT[ih>=kZH_V;u;BeDy<:QRCiqnDgimbBaaTAl<:J^fHbciMUH>nPhNZvPWWpt<xXZzQdJTKf^XT]ohXuDoWOpIOxJGf@[bF]mE;wREvKwcLpLkUKk;oQLfa[gdkWkX<sNBaT[fBX<cAeM;BHZffAQeA;>[=dMSiJ]lMfTK`ncBdRo;PfAeMPWRGcHTHnaHmHco_uG^fqzU_wHfS^[H:sq[MCGkIHcLEgif`RkX<AU]KIHoC[GabcBnaQ^BVZD@ExuTGciZ@<yt^Y[yGsem;N:XIyI[yHfbs[H;N=YU;wABN[isJW;Io>FE[MaU[x_]vdl@vjy<SZ;KGUNQ:hAoRlibFVBfAgJJbAVKkjAwRCk`kCC>`]WCLbskdiGmQP>[smdUITUd[gZ;>MfmhKSgv[JF=tsQ<eqmXH?]rOR[;Sxq`zKH[]NuNk^V:tI:>AkR;sQU^JZEkR^thRc^XT?vfJLIYRuuZwgGoycLoNvA:^uBRwMkCK[k^ZTJK=<d]nu>wyEuBR=EujZzWGt?_L>LQ;k>c;=yD:L:CYcHW>WrMuUqzwOLZVrBEZPNr:J;w:sAqUm:_hE_;:@cGJL;f<pkR>RDLk[m=MnwBi=a[hgLmZOEsD]YGnS`mZ:JxoR;]?Z@fZKPi:wMnHkgcrUcjwvDgEV_`YZSZynQmRMkSmX:>=V:B>AYXA:WBtoP;yRRR:o]Ql[F<J[p<jTuJB;:M>w:J;>ag>oL<T:a;?;RG]VZjSg[oNjh_C:qJZtZAAgBoKTkyv<K:CZF:K[p[>=k>RURdZ`:k`RM<:kj^z?vkIg>a>q<^t<LBE_V;a:J<X>lGtF:JZ^<f:kXJKyvd[<VC:G_:Z>JdJEqsGKURY:J=<NFEsmdt;rsCOe^sjlRZY;^ZZGgIJULs:J?PAcGlX;gZ:<Gh>:@hg^WBZIgIJb<_=_;_>FuB:;eCSY:QBYmu^snCY:V`WOmDgNB>nS:xFqAcHS<n`afHc`gwkGLz>MDsFR[DKnqav>ObF]HD>p:KpeAkHSRwj_zDQIyCtHJ]LB;:;=W:;ZK?iIyYRriwLr?CCJ<Rr:::yURC:J;@;KUDU>i::<oaMRbV::@mR>dVook=;p]NgkGLlV>xF=U:XQDSo<OJ]HB:FnoidVCQBB:@:rIKM]jlC:U_:;sVQVckKIXSB;?`B:SK_okkml`Vd>KLe`cLL=bFOW>TOeel=ueOR_pO`L@QegLDFnOs<xNDeONTxRN`tNQHOM]`pYnm<YINAEIuLsK_qh<Cuok=fYQYENEwy?p[:OKi;Rw^`Ih=<gNwbYItVxY<`F>eB@dSDufaADUKSoDMlvkMVJhKlalj@[I>JYQLef:fjP<ig[DBLz>e?OQcR:A:w;>ZuMgdyVo?e[;QErGC><H;zIbHujJ?Lllm^oEzFJ^^O[>=?OCQ:xTVPSDUKxUcHvM=[:;QcW;_<p:>?INXjWkNB:VAbGZZkr;h^<Af?imKkL]Df?YR>thQKIrVAPAqXgrVRLNg<;k;:>:z^PAL>F^ZL;[BV<F=;i=<Am;L]BOvVLmuEtziR`i=a_=^qolbIM>mjwEEWkZEfFwzol>iNZGKBkzs>;s?FRgM>cmy<gYRyJ;sT[N=a=VU[n[tV<uRVjg[IZITyo=h_zq]di@Okt=>lJ`KG<YD>=sHkgJKLLbmoWW>OdlmH_nIkl:F:wnwPs<NEkWluZZOA;=[w=ZH]?KD<FGmjZEfMqA:_?]AKVk<=P=RENDLdvp[wAUiJX:;:>HlA<mwbdYMPBEdkJBBnmfp^CRZHgVnyu^<A@AgBGO_niN?X<dsnEuQkgfnvAqUFqCq^nH>PZTko[cdUJBL:^Z?>V;MAk>ZB_w;rEvFeUN>;H:kADWVhKAHI;K=GUusLB_rNXFdH;eZNSX[;;dcO:RIZsOBdWJB;n@xboI[k?]>ZKomR<?PRJPcDvGrs?>]CBGj:kqmajf:AZu^K>X?<<HqNHUl[XFVTsnlfZUAM><T>tToM?blHOm_pi@MjU?FRv_od_PEJOFQXu=:L[PAuELWouBYMu;LagQWLSxdbMH?PWKJLb:WaqSPV^Uw]JEarIZf:Ctvnja]hA><oLREcQN=[YoGOaEVP>jG?Dv`pEROSJSWdkTvEiQwigC?mOgfdaDiuu]q`hQWPw@GUZFpxufP>=hVuq?Uf>ZTnxVywGoUa;lg`TanGjAcHaGTMZ?BvZiTpjw=MOhbUXqN_AYcke>vXZnhE_sLxuBWqJ:IYZRZpIVmW>YT@oLAvYVwAKKkCBx>aBVL[agA]?UlC?<`zEl]E>qCezpw@RlM:?H:VUlQ<atCQ_hHxpDItEV[IWEkCRAZWBeCcZZ@gBgTYUGp[k@wucJZmJS=P<MC]::uguHRNzo]XxP>BLZe;hAm_soZNSAl<:SWN:JNSndOdgmS_qG>nXVKz@YmkFzUddx;g>>]tO[XNzZp;bJs::;OBcHS<zKBXNJzTYQkSc@>::DmR=W::<xqBP:V<J;K`v:w:c:J;Xknxagp:_=oZrhwwjhlVz;O::=oZZ<p:J=jFQpzw^wP<q=Xhyh[[_k[_N:]JMxH=:=qCP<?KJ=X<?srVKhSJK=@<i=l<X=CJ<:w;;<qSlh?<l=Z=C=iOxxrCk=B<R<jhI;Ews:e<N=i:RJ_;dxbKgKj`BBFJH:m=O:D<e<T=S=VkzdCwW<C<k;J<=<y:H=h=a=`<x<==d<V;y=?N[<?=Y<k^W<:^x=bJc^S<IVh<>^i<B^N^O=p<N;s]a=JlgK[Z>:vVF;F:^=rJM<s=n=E=tKf<F<:;AXkdk_:A>CZ?kpxGkg:LZczMkZjUkoBscocwckJUxNJxB>RgcqZDBaB^JsJnBcc_caR^:GBZj=BozRR`RgRydJZYBnJfR[BsRLNC:NR^VDcu:q:o]GJ?;URws^:UcwZWkzcjIEk[Zssos[swRdsdZ_sfvUsiRZJiBdRczYsgspRp]?r@J^RyJo>uYV>k>jB^JkcczXoGaLsacgk[:]kczDka>X=DP;X@I>lH:Oktsrc^khskR^sdZx>jZ<RoBx>c>qBi:KRcsi__NSrIf@>iZnRmRt_t>ZcfJhuYWEuDq>qIu:@@LGH=wVzVkuzPzXzEjIrQG>K:PET@zEgPAHzRgFx>]B_Ie<_ijB_Hn=Nf^UNx^QNf::PG^P<KNuoujPj:_R_BYUCBotU?oc_Ox>]JZDRVkhjW_zJGo`k<oaADotNqotoB_;oyzJFhokofT==UoZJQVIoZFukXjXTAopqMcF:PF[FDvG?A:IaLZMNoSLov>TounRgpFgiVgmgug`b=?E?BZGoqLTvXAXjVofNwFegyzNCE;JMR_Hg`<O:IFtopUNgoFrg`ZANZVjlRofopxQBHsIsD:>RXuHRIsRRRJLlUZUBAg]gjgdganA:W?AEVKXggFiV]FkTEJRKA;VB@N^LHNe:HoaFf^KoajY>DVm^HcIqOmE:<AFa:mRaV^SsxuHsXNWBOyUcskVkWmO`?ZLOPbFwvB?Z?SBHLLCVeVm`H:TdIpKwW:LLAob<s_zkn?RL>]VVyKUBsiV]wBziTL>KOVxVnVsRUVrVzVvBOJSgwwmwlzY:;:A;VYIL?wtHHkLZ=wZgx:JF`Nay=XYVemM:><`@F<`a<<Z[W:T<i:P<rt@dK<``=<p<agpb=<f<ll>]gLSFy`<m@LYpTmqeCmnkC]e]hga]jFy]yHNkOmdBkG=OM[VLdHEHOmj_qNYob>sJqUL:GzFYOHOweL[XVD`ZLD`:c_:YUmS<AFgiAk?ZKRA_b:Qc@JU>NgxFb>kFoV^=:Z:esNU>A:E:VU:P;eW:>shQH<eehV@DD:c]AD`<RdB_Q:CkTrPbGfO:=f?:Kr=IEfTTzYJTb:DeuUW^;esT`fPkwc]TaTbf;FTTaRH:STkJDr?f@DKYMeIfIkQ=LkU;PcRxWA=Znmg:Rcq>EkWBWBEZD:WBPJNSD:BSU>D::Z::M]Z=N;FOC;B^]nk<kEZAu<@MJCY?r?yh=;_@qmeh=@;?Ki;>E?iDegyeYpIlB`lh@LxJ?Z[e[difIon_<>c;TfTf`AZ[]dcnt_IGr=npdjJ@hCNOs;@iK_DfSiKbu<ZGa<Z>P:P>ues:Djula=W@@kO?AGYLHdhrPjhoadqdupSh]=`:tecLtdTntd@=y=i::<p[ZlTP;;Z]<cTdTP:STo`gey:qUoxFxpTpVhT?Kf=fgpWzfc[T:qLc:P;;Fc:]JjwzeBs<BkTERi:z[jTF:qMy[P=]ZtUvTGUo;AT?JT<qUQUEt_[rcue@eyUYZt[;ZxKdZIZv[fZeei;Vvo;y[R[UUYBy:v[Ie<?Jk^>TkP:gLwwrLD=Jlo:P;BwWGOMPBd:rJCT?t]eFxIVD_tZN:yBkcmwB[f=:;THN:;J>k:Ugx:::YN:Aj`J:Qs=::]HN:>SGJ:<sM::kCN:@rsk:Ffp::RYw:=gIJ:>i]Gv:;wYxC?kpR_MDLPHp;Z_:^``@[a]Aw>qaqaDbB?qZX@G?GAG;xHmQgAn:s;JLQ=vrb;vJz^PbBAq>HPl:B:JOum`FgZJmR=PZeQ[`NPD=o?Ims<ZEN>MDu`kny=upZ`MegqW;qfR@]bX`@=kVu[wDJYkT:NZOLcm<JQXacWOGcWR<C:RVWk^b;^ND`pYO>YcUW@agRXD^W<]`Op]ZsXT?JUsJTpigB@:k_h<fQ=Xh]=SjdgAhrAZ;FUZ:njjotcOhR`Ai]HMjtg?da@?h?c?b?gDehdhgMcVWhqOeqc_<gRs?FXMgndpdhnpi@:GiGhGjGfNFhi`jtoMcWgNVnp<Y<SWfgXpd[:xf`<xcI?xjxhJ>=i=eZ?=iDA=fE_^i^j`<C=^cB^LXMc_TmSgR]WmUWingM:Hjncy>EiEea?EjEdB_fcHdfh`imiYC<edfxfJZNdfbxmT<SeghnI_O_eEGSqbBUCIIjnFhk@<IdLIFUIqYsdQORd=GcjJ>OFfDZVl:HYICYMmJgkNlckh[Xg>RTDQ:CcmUZ?bol>D[ii]=A=ODiVu;iSjG[lqT[UjELq>jOkyR[WiUvIiYHMIFlPPShDKUs[KWjGFQ;JXRB<JNT[[=c?VB__QHCWgEw;[<Z=BIVZ:=x@QeOgZuNhBm>NCIfvhzb>Z_:ZPyk;Rh:axDxgKChJ>X;EfnwKv<flvLftcw>SbDTrnIaN;tK?bu>Ebi;V[YLTeH:eugQLmrvOVBdIvBERd:?z;<dEcFdM[gdtZ`ZCZYbkGpa<kaE]NL;TAhhrcilrJMlOWRCew:;?;D;DUZYROR:@bRIZEnJs>`Desp^yhKvy`oSTYy]uATJoN;luIg;;ZocozUGCWmYGdF]I>:UUSa]ZV?WqP;rtNDCvS;DNx;X;pmX<Q;t;feO;x;n;hJU;riWhb[iWASMcQk>[g[xim[`:dW>Ki[wKjttKt[hKaDW[^hoKXdMKs=EZJgWBEtsKlLgJXKiWb`en;FDKnJN@QtJx]Kd[fT?[xK`Wb[vZUKyfCOqNeLwSyeuiqi^Ov<Hm;;eiuxZZ:kdJ>]Rd?Z::DQkUN>bHC?qpr<l=A>ZtrSZuC=e]GTGDMR_@of]ZqLhWL[hWD^hYH?m]WRkdWRc?cfWTLHCNuhqYlXhHbC_ezE^CzCGB=NudqfsZX=JZflUrCgFTditXac;YtWL[zWgaPSMMAmgik;:uAR?aiUlW[nKVXVlVRnVabFNx[RCUtU<[CWdYCWYQZ[R;F?widWCYdWyok@SRB?<NhOgyqQjOguxPOOgx`NDPDPdqoAv`>>aOLkh^czbHE<^IhHRsM<WGzGWHSS:=ugc>szJ@syZ`stl<n<=JBHpnZufUu_tYWDMFkzB:C<cSksL^Zdxo`WOCNhN>MY^nGXkwhSL_vAL_BumaBwWV@?YQV]esktevNUexksTuD_@aTzDZi@i<e]X@WRSNw<wjWUQMUG:DdPavceRdB?P?m:tTBAqAPtR;B?q@quN<xVBIJ?xWc@D:=TC@=W=XT:^T^ReO^RSB]lR::?CqQPn=iYPi:zP<CnjEis:kqUjcrviLNb^ejMQ_qv;Nr^doqhcUQfdUdvck@CcRrCoz_nxDIuDa`efTe=fCu^b?jDIGanmCOnw;@pQ?Wngojl`mhFiNCJXMg<jCrtK]j>dF>CPitOLiiwiXiC;<iN=aYLiqX@Tg;HYrviYnQaXwI@iZA[jvPLIqioHKXMQuXyikq;i<HMZPiDclicK?[CizkSjeIOZ`;bjQivGrj^jIjMii:Yjf:JqzjfjBr:YiNsrTdnXMjzP?oEjUXfjkrAXvjbXAj?lLADNWi]:rYEXIXYdYjzizXRq:yLNx::ItqJ?v>evi:`_RinwkH_IcIBj[<`_doyDoks:VyNIF:`__:EVOsJPX_[PhciHXIZvyISarmub]b@bsui;lHLZhP?HSQygtQKsIbyyluLeMwiRDZb;ViB>dIVf_QhICw]_ovnH=IXkFGRBcCy[pLYbWk[H<>KHZPK:OsDTrqC:?so:DmrK[KBCiyP[`EQBqSxMF;WEoZCAhDdZgKV:v[NJHf=:D`]rXD_eNDIlOsdROpHlbBkAZ>EMIwRDUzApdzlk;r:tmuwFKG_@q=fVQy::=Mp<`p_;tfHzAU`HfG;@@F?Uzf>aSmB:UaLyLOAGkn^ycl>cdPx:?ZlREJMy]OLkANkhsvh_ZTRDNFN?jvEFseVzQ?Zjm=dZ;DqD>DJ:BqLuaCTuKJMm=D=`:D[GHoZsHjNZO=m=FJ]ZciIxQbeWOIawHP@H<^aJrxhZW`>=fi@yMm;LaN:?:<CQB<JJTX^aTkJAM::ANA;yZZKcRE[^K;m:pZ?`HRCB[P<zT:WHkTl@g;H=Z[GZhkSynw@X<WqwHKYHZ>aea=:[`ZhF<>GJ;C<N:hZmZJsF]>S=LaqJi:E:AV@JKs[TZKBOD>afy<n;y?<kKJ<]@<S][iJykK>D<@?=a[pJ_cM>BTdl<?HwzPVgdnW;Ewk:p?=tZBmTSbVUyekGBRoBm?OGreRJzBKoI_<E<P:dJqBXNBNuM=HycNYkUFIe@f=DaXkpcX>BD?f=M[jJwBJRlUtLOW;Bf?j:BEkl]_NV_aBYG^]lljGVVyv?sUXaCkTRjRAkzwdM_wu`B:gaiXb=o_SkPRLBkf<BFNOyLZ?pi=pD^jsJR<f;hZSD?>M]o[S=<yFbdOUDIZc:UshwHyC::RLcDFkPTL[CBc>OmEv>NLwoDe_kQcfo^JcL<XYGRMvJc;LJGA<RfeornntmK`BczCIOYJEWLmuI?U_J>lAv;mH_ZfMj]GFL>^]J=J`<I<F@<Dc[_NcH<_sI[>jxY_JJfY@^Mp;@]C[<JkM>RGw@wxtJ:=V?]BHO@jcKVHkmoP=;w?nCUKV:NRAZ<=lCRzH`PMuDkn`=a^VeQZfcV_CtuFxzaYN;oQ]HIEshbK[kOoSNB^@MNjKIcjoNf_aJusEFkRl?a@CrRm<@XO=XoJFFW>C^RVLR]cVPBn@y]?uqRkrB@Hu=t^Jl]ckRSPEsk^<cZ:iDtfgHytX]mliBdMilaf>d]d[pjHgOaB]lXRy:ak:rHoaaLh^RiNZbW[HG<[<`G<?L<>PT_q<tSM_b<?FWsHF?v>p<MB]d<aHE@U^VXKshFKB@jAF]j@E:DH`kEN:w<p<afDecJAK;`?sVbaSFKUA[?B?kgduUnEg:Q>xBmNnRbcEOaWAXR:T>>]:@w`pk:M<lTZRgYD@Z[z;tuO;YoTSZ::VuoP<TE_pmR::TiP:@h;ILUAhg_[:?e?tnSfvtV:p[Nd^BBX?K:LJY:CegHHovmpiTLhVTZv`OfV`QVgCFUAWm]lmtv:<iVrEcnR@LO@w<BoeZnL>>>;XDudA]VeIB<zNpHD`UsRXNk=f;hNtRyFQVpyc;CtVbJDD::Adfkvo:ZGSIYm@KPRp_ructC^;J;f:hc=u_u:q?AKcZtMNOfxK[;EBMCBsolExLPJk[p:cGIJEyb]lPLs:h_iJISIV_TNuRl_OmW]=LaB[ICr_nugu@;fEK:dEXRDT?FoaW]BdqBDDXJ=JCe;gJGMFVdo<Xe<:LB]GS@eF`I>A?CucJ@jgLZOAbsHlS_v>@TQPSINRJEpGu[gFCczNzeZGR@e=LefhMmqbN[wLy^o<>dqPRN[YiSEWDoOldvyIDN_?m>rSZT>VD:;>Ak=m[Ye<o[eNhGUkWLidtszJBL`tLTV[deEQuiFBcvGMLeFBKeWdBX_fLbdkdUx;tkFll^kdZFvs`<GuKH<oTRNIf@:<][L^Yd@GE@hRAZKB:p:v>?`;^Ll_smDo?ZUaidO`=agrLTGObij?><R[<Sd=IK][<RDnshwK:ZD^TZms_JoT@FZaU^Hr>_mcZSFvL[MH;;NmJwhFx]AHZS_C?aSwyOaS`QSuz<C:<F[DV^ESZMLFZNobmNz`abzNZTBGHuPYpybINGSvp@TMWIabumRJ?IFSE`ZemVnFT>VM@LfCK_IO]]uFlqMnEVLbtZJIU@c][@JB>CXZH]C:VEIWbRp=ZNfSPN^CKa@nAeqBTqXnI;JB;BN_FX@V<>xbHCvSrFwPNMIhaBn>deFiHT><dkosDdWnJaf=IwsN;<TekYHTfHGajOMSQpAPKUG;fPdoiHRdkMQEf_cn<RgJBuL];H_;MBo?oeuQ:;iaPnqtsmCHLbH[LzFwTIVhPJ=HPCB`@KcF`_NYaaDv?Mq`;JYAq=PU<=MCeEJad]lEbmkmtlwfu^=GwuaSH_wwoSEQCn`f:dtmiEiOxNYbRnXSEwniYYBza>mwS:MNaT?<?aznKSGFnyL:Ad_UndwFg[Y>j^S_Wmaljw^HTY_:N<nZ?voGo^QE:NtnCSo<aYAI^ZPWJ>?OINnGFaJOImySEPB;XMG:QRGk?WFZtAHGQk_ExlUw[XSJjkOUnS]Tof[MgOaDV]N>FBA:`k@l;H>tmgZGo=xLW<_[MwdySe?jbsCfRdPrVdyTZcLEVDp]=sxKLjF[DLGWtr_AKhzGFlJLD?><j@LK?oPv?X?`]nXYkfPD<Ef<B]_lHBiMaRFG[LpPKJmMPL<D`?ovKPXJ?NQaDW?W]pXPXIQ_L:f?glAXWINFNjgnt_F[YcML:krmlklDIJCMpYbrnpZ]wuFBq:Abm:<dY_seUxNJ;^?HcUpXlEWC[=@Eq_yPPlJ]LyCuDU?GBldJ<MoPHDRJM[H:A:;TBaBAmYBiKTkidvSEV`YV_cOtHH`?D]dloPTPNhc<bgk:uJTdUNduM_EP`uJJNajDrAsEaLbLt:DW=P>B:Eds:JSJmP@PaSM_cmtqPfFgaen_dFN;mNtI:eSLrC[omSRIHaQyL_:Vmm>_F]R;=BG<QmGiS_gaLaEWyQpACMVh[;rDUCW_x:>whBnhkgdHNziKwgDPyLS`:NodQwc;NT>Rd=NpSN[IRO>ol`gDdDY<gKQdLmFfmvDXwjmaRfj`jmgRj::meMnF`Fwe?<Le[QKm`timf_]=FHEwfs:y]qCPqFyEhEf?qm_JZojL<B_x?FLjXVYk>tm`GKqcrNVwBIbh]DlWnM=H_@C<RhA>y>ZTOB:ybsgFFd:vofDfSAVd;OGs^SMTjN;Utf<[dI:@ZMk;bD;Kis<Z`eF;Pu]vOymUF>ZATJCEhdP_jOWYFaLWBYtPsQXGIal<yeWKu:>DP@ge_PexDlBQmaceCOxCC_umkZA@jL:CfpOmTweRYD[`ufFp@Vp`D<eJPleRJwTlGOD;MNQnnO`Tc_?ajFONDUVG<_;YPgUN`ePptT[Yiqe_^oEV?M<qOU:hS`>fM_T<bdKZfw=BK<plTjpTPhMPufEORuag@EBZOsDdp[<aWKmc[KVf`p=TchNqjQPhf`HcugSOUGYUg<tu_]?zded>Kp<GpeEWhOXQx`?eQyWucGT<lNkkfdC]N[tT`HXPTOFdXep?KFcSP?LaOJWNObeeAQTe^tUTmpMOFba[eomjua<f_dsMQeyF>Tm>f=H^PaSu`H@v>AyinPpfq_iTg[NsI^OzfcOzoc`QUFcrNTiplFu[XZhcNVTRDH<jWSHcqQMfs?guveInBQOwTLKi@jLcCfdag<=pEFgMVXiMabfyGX`HxLj:YNDLbOwyNoTygLOTMMKeb?xBs[[=U:kFvobOT]pGA<:fqmYAXWBkjSEZTyubPtL;jiPNffCbpGJGSBLakKfCD@kTMSjGPa]TdHvU`@=NJTTFx:QUUB;ZmkRvf;::v:[gHqBSV;L@Y=<[`JrwOEGK:=aa]MXpNTgFG@evO]GkqBQ[:hqdIBKb`gpR?USqpv?KbXmVrbhS@Y:JfNcraKwt=qBwFfZfImpWUFwlPpfPkooSIhxZV^CfVbo>QHUS@]fI[ICG<e<E=qnkbMNRm:`Mtb[Ta<iHwH_nY=I[:u?LQK^e[pKlw:Be[CdbClss@F<L`<AM`LQJ^cCe__EP[iNt]<;:DZcgPcE_@Zkh;TiDS[TIJazTG;zqd:GcHNAc:mp]cpJTDnR^vOIqGRhJSkczQafilAaVVQgB=OOnRWIqyAY@dvcU=g>HHcJGxhMAi]MlqksAVXGw@d=u[X:J`EXFdqy<;ei:TmY`^k:kuLXUcuoQF^Sos:HW?JqbUb]srFv][pTzJPTiNu`F=OqkHnHt>abPwZ?PCX:]ZO]O:Dca^^Q^QqfJ_m<k?Yq[JR=f:<vSD_JawBDg@^R;G[ZlmTU^eGJ=x:^>Y>b^OChppsuDWYHn;;C^w=f;hZEuX[RsIyZMeEWOiva^UhC^^`vW^irJGPC]kdB;BdP@Q>E_J`xCH>@cgrA;Es=v;>CiRgNcfdGa[JOWplGQRZLw]TvtpZgn;SXH=c@ukWKidJLUg>=;u@LcXrPfUg^qZlcx]s@GcV=^q=t;B]>]fHbd=?@Vgga:YRE`aaJcMcV^VkjXZelC:D<evVEQT;NfpEeTWWsyMKEDRPPvipf>VIRUD^pHv@lvL:wKSaAo?^NGNF^AUqDlrYVP`T>xVSEd?lDutx<u[YXZeQqgkOxjTejV=jQ?UvB?HyjrWli]Uhu:ObXszMHE:aBLcCTXZG[``bAsM>CUmTjJMeEO>vtao>=HXJ;Gn:v]l[Hri`ZRerLfaK?XoDHom:Pjko=EX==;ZTBIRBOlbn:ZzJXCpcJz;TkWsHJX_riuP=fX;Zq[=PKRZBskuR;=icRQUuy:>Jv`DkB;ev;GZZ;iEO?Z]@PvkZSDERDIjWLR;wCiPJ]VUa]mglRgo_l>ECEkMETtay:V?>ZKqrBsL<rihqZWglnmRb=IkzELd`Hog:EhuaDvN<CiqDNvhRBvJ:xg[?ITnFb<OvTTh<oYTKJQqaZn]AN?wKkW_Hg:GnhQ>ZvsWLpCAQznaAiuKW=ZdbKjdSrwuyovH]^P[EmHJKN^;ZeoKuIB:<u[Wr;mZyZicIs@p;[;hZx;:uueN<xeyxigQfeC`vo?IybQQzfpopvu?[iZAJrhGqsEP;iyo:zjj:GAvW:<lrcnkStoXuIKR<kIPUcNo[uxxt::zQUgZFfAi=Ui^RpNF^@D@t^fXg:lAcZFHv^x?JdzWcdvo@@BDwXZYTzIZI>MSV[[yQ<RWDkjhU[mfXsWso`cdG`;BBfOWDrmemgLejYJ^TR[jq@goWkkvg=qEosohf<[bKtidCo=cdjob<Gt]rN;Nnos;H`?fO?>ank^?ZT>Tkc:AYck:;DDZ:L:M::`oT::NjN::erc:>vMJ:I=upFSrH:@ocs]D:rWQidAayaD]KyKOFYhlEE^lW>iu:@JUN<PoeekMSh<qb:?wUwtUy?_?LZ?:<RbN`wtpJUJpeAeV=hqUsrZSekS_F_zWBCozdJ?CdglVFxzPDag?:Etcg:SDYR;N_F:;F;CapDThhLWlnO=av_JFqGP=I<LJnqdlAJpLHkFdfCz:XUBtFhLH[V:ZL_:C;?>KxlQoxuO`;k?JePFhMFGG:b]SPKJCkTSSq@_R:s;aWIBV:M:TPKWI`bun^Sn>I>>LKASoN:i@go_q[dpa@nA;ZL>nc:;NFQ=bNsEUI=bYDGzIuBL^Z<Mb[:AH]JKcjgOdRanES];GTeRdL><:qtogemIrHqf=nQSiB=qUrGo]N]cNVwmZ;UIQbz<vBgD>qVjHvaG`nCXwwqTjFUEtOqwcwm::qpnG?M^YNOgwD:o;JMaXnJTIlQVd;=s:k:Eg_L??HL=:iVEJVfEhGCi`jlk];:I=bhPG=>Em?a?geHhDRQ[meA:PCRWlDxN;hNfEeix;ufVtD:pp;fF@OpRz^wEZa@OKU=]lFQXebOG]suVYPFQo:IOSsVnftq_us^gZoZz^QzrRvQ^sivcM^i:hm`eqF=YkLzOTIkvGETJH;gEdeFb^xEhUCZzqEHuaQ=ED`mFO:lfUPPyEX`FC[orTd@]v[=wT;ZSY`bMG:Rr:R@@H<F>BlQGc?Ba>_;_?TJy:Zg<g;mGItjc_O[[xLe?SK:m=eR_sT`Xr>S^lQmFvFMa<i<]jRh>BdVLJPi@l]A[DFW@<wCB<j;LlA:Fg;mgKPY<aVrkEZOP:c=p]z[LB:>QP:>?ThJ:=R_Ocq;DMZ]_B]fe>BTnU<I<DNX>^<:]Fv<AsNVmBAgL]Gv?x]QlzRnc@^>A=RZVJiBERLH<Za^[h`RsR_Amcb?;GjtrET_NzcA[o[uJr[KV>TkE=gHcsu>xgHi=a_sMGkw:fVM:Hr>Q;abgBsu@TwN>oJUkhs_wE;ILRv]bkgotwDMAkacnfkEBsGbXH>ZzMAlcUSwIyI=SQ^NRvs`OrS<z::JUBjsJXSq;MaugGBZ>fITU=k>bMJCi:g<XhcZ_URwBo>PLRLqRViq_t]sPsAEhnWNKNKQfGJTTsv;j^FB@s?a<bCxXsJ<:dBiGdqBB]pS]CroN]FanB^g;mB?>p[SK=sTc^eCG>L:UKEcboL@C^>d]Vl=lKgKqBA>B]X<DY^@?h_r>A]ElGLZgbsSIocL:CDfV]MKBdBC:C?B_b``dBU_]sUC>z;XS]_<_<LwdCNaeM@:D_LLDaoo`fL[@mGW@zd?T`cpfEcCdeLt@g]dg[Ch_imHT:V^ROtq_:DmIi<eaqKrBmg]T?ZFw_aKjC=:Am<xBtb^MXc:NAWfF<<]MMS;HOeVllA<[MulciC<LI?FPQVcsdCvfHR`IvUUETcONY]P`Am`fJad^DYWliwa[>KjM`vRTGgcDa?LedKNie@hC_]GLmcaN?Waiqe_dtqc`vzDBZ;QTGJ_crNd>kxCT_@Mrr[v=eWpFu`WJrrJore<GIu[>;MmJob]:yqrU^MKdKvg=[GHmarhVcIBwXzZ>Z>nKXV>xiTRkIa^>^Oq?cWdNhCM_LJgcvNpTK`DfRULvdP>fTMS?vSiMWcQ=ZuWoDBWALhgys`LL;GHZb]Ts[quPXfW[<pSfcGoWTLKCc_UMtCONlu;??XbILQdo>[mM[IX`><Ic]BA;G@sY<YJM?Yoyu:=>;b<:k[JFs@=wC;aZmkSsF]@Ggg[`JmPIopZhg:=[`ODA^<F;S_^H`WS[t:JKD`Uj>v?ufeWywTTBYAt=c:;JZe<KnJK=iGrgLpZ:GPpXw?N<M@cb=Xe:BrQsFU<<:bJGaI[Fq=_:>bRNQzDz]btPaS;IySoB==Nn@lYczo?RyeUIt]Loe=MWUXRU`D=]ycXdyTq[XosoJPbN`DVK>>_g;V?yP?n?HeDPu^So:YkETHem]KNKIeL:RCD]EOlMHN<gBSFIB[cJpEBEJnfLU;OFMk;HKpCumJ:;o::CDcx;]qdfCqBIZ=G;R:LGmqQgC:QK<kLQI_wgBrVC[IJ<;pv:e:>;@[@DeLCF::_Fak>la=c;oZL:H_x;?W:cZ?Ja<?eA<wj]`:jlf;sZk@iZjcuFMghDLY?_;IePdDQnv<SB]cBqAQ[npzUX^_HqAT_VtE_b:sy;?ssEB<LbVVS^MjJLLBQnbtsXXYqA;QxjK^zJiezr_S[^fioRm[<tYOhN:][d[Y[C:IPu`^CllV<bdXoBAY_Yl]<Z<VLl:aeyjM^mzSV_jiPvEP`vmvt@YC:l^_ZO`:F?SDY;oLkCOZwCPAHhlPIA>?PpuDpC<vkBG@Nhg@QJ>SIktJFL@aDuyF]SPJrVs;V<qoZ=tQAf?g;poE>agpkZVsgDetE;j;pP]D]wKP>pYThhPXf@gEPGs>:]tiyfR>:TpNxG[wrKf`gW<;GYDhqJXwbMneyv>xZ_BYRvdhm:A>qj;kWfsVYTkbd^[lkbDSpuuk`JN`QQq;GprH:GUqoIPLsMpqWpQ>MYoC_rxVIsNr=xAYPu:YoQuunAyizkZURhd[FI@KjqChsNwD@vZ]lgVBfs]Gg@qXwb[XiC>[w=@pXx[jRrUrMgY@yBA=jiZ]Uxsk;DMWig:qCHzw:=mMU>Hork>_<;aonTnlBBN>UGiZFqokLVrZF:ha[E@zBMoiT>khoPF=VVZUlH>oh]n=k@L[mq>U]hZG@<lOjIirBuhqKIBbc[DC:KyhkZBUXGhuBcBShykaR]Q;PrU>PwKlIUSVKHrr>b]@h;q`oY;KIUNbbqr?ExilC:vLLBCmAXGLRCW__WqxGAV<G`BwSOLGgbV^eMCri]eWeGOo`FlxB;_KDeYKSZfhOquAKWwk<QYqLACC_dmXnpV`jh_vJ_UDN?E`[UiR:RAIWpx=@ZJWyYyvZxu?FIT<zkIlvmDNnW]`lLIGtvdDKyu>`QgucP_@xp`?jVtJwcpvseJyoD^c:]cGo>eOOCYU`JrqU_>=llH`uDwjr=oCeFYSzXgwzrRNYxnQ::tTxTAZAkQ[wGcA:YrrJosTWipn`<zkHJj>Qt;s>vJVScRUP=bGAaZEJ>I]omREm@P`BXOcK>?=qh?JxeyoI<vUhl[sWdVw^clob=`Age`sWDdyATiJKnN@>YfdxjWAkxHI_IJmIRoV^nt?X]NVPROAT^tx=yb_xYcYoJLCx:Rt:k]kfG>@D=ERsJlBRNF?^x=CC[cKHIY[E^kZ>KZs=iH_fGDfB?suSX@hYAshzlrapGYuG]KT_wCoz[YmbK]bzfhQI=^DWzskZ`MwTpDOeW@j_evi<DiRP]ee_<QNRogXot;@RjcPIgIOmPEtvp]mQzk]`oQ:yANjaACqx:?sSkyyAoVjwSm:_fsc[AnIPIfdpdC@YmvvF[qhaDg>H>LyyFP?dJ;zpx?mZvaq`XA=BHL:aBJmu?ol?[Yo=lMXOR@[?M;iVb_SfCdMNIkAP<on_opP?n=RhBDgcKLaUlzPiToLUOsc<R:Y@x:SwkeicLT>ECpGqBaZVL^CS>]DNryYJJgbtY^uA:A=FENLBaK`TeQw>lOzDzQnfCrhJHdOOjnESksTKUMO]<`:uL[LlJ?NS`sk:Pz;:=?>jIpy>nu:BQURcQ[NJCzFN?gzuUAotSHty[r?nCCpWmLkZY`mpr=<<hBkfMBiypzi?c;HjRfsmsIwSAB<bz^EAc@G^YtXPyifM:UtGYEULjsyFfqvvpkMvA:VfDGpQ:Ez<cbbVsrN:EDgaQ<elzVR:TerMW`:XemnVT_Ow;EVdyR<>z;<rEem:ZPf=PAugTrTq<kx]f<hnkw@>BxpahzA@]_PhPr?TkvVaBUhqqhJsQTlsZG;:upCK^fVL@AWXDWmoN[bQ=H@ihjsIHAgGXUJekQW[:oZGQVIfN^orVYfIuovZ=rYFrB<JU>xpAZAr:L>[gSsM@rYVUrQJ:OhlUC@pN=lsKxooV^s>y@jV`sQJIsKSfUxkYZbsYxreK:IIJ@zZJIAZ=g[DUJ=oZwk>Xap<:R>Wm@Sg>IO;@JwHUX_pkKoIUkltg]:mJ>pw[USWnXg<IJ]<BwdUIA:sKLIPPpsJx:ZK@cx[IFKnOgWB=PlgRaIKK?pgXU:qmoK>Z>qqsxlmVqnswE>X]@gK;IFxq>xb>KqkLJQULMn<JBYGqlF<?IG<;]J:v<Xq=ho_RA`zWLZYCA;_gAPHkFwWrPd<Mh:>?HlTKqQ:FQTwUSIGOnggg;nqHwEN?nnEhrIFtAP<jI@t;wxv_IElm;avWt;xKljCn=<xdj>sBAgMpBXp[KRj:?A]wZvH<pUBSv?ElCK[B;fldJu:W`brhfvMXkUhwjQXoDw=vUO[DwmjFym`JSNTfnApTj=frCJkJffmWKajWynGJqjEHkpKYvSymmkXjW>H];nN?nZi<j_F;lBOBA?p=@w>AEikKJUZs>HMKNAJYAJWFAUG;QKVAOUmEJ]AMUlBVDoV[rT<VZu[nOJ^jJ;AUKz>NvqRWnj?X>iwCoU[lixSoXW:XxVFOW;XwP_D[rXwdAMC<yw?AVk?yx?AVY>;woBCx:oWJYUZ;oWHZk=@:k^A@AlFVv:FlkKwfAUZ;gVNYHS=KxgFXQoy[_BAAnlxaRApnA:]YDTlCx_ZyBEag:bK_DmdYBTbn>c<bXbou[@YGoPD?PY<dpgFDrEbmXCnfFD^txNe:QqTVub@Qnh>lYRborZWbLeKuWVkzdrW<]VKQkVFeQS[ldWbAPkq]<oVUM;;>^YFga@WDENSnWCo:T<>m?QwDjnvwvaNd`Ykee<ZZ=Opd>]?A=Q^=OnjwhQKQ<IJxz<pk<g^zTplIxklEBPu?nzWV;l[Ef?zoZoqk;zrQ=BlMppr=YJ]J=xVWq=zm=WjzAoB:=lkIzmmh^BB:BbsJ:fVI^xyUXGkk:C:a:B`[fkTP>J=FrCw@nWN:zGoz;o:r:Fk<zkBhqugF:[kAk=;fPho]<<:_q<z<@rIllWZ?fRe<PgjR@]=c<ir?]>R<ksITpR<;rBumAWLDUZIHhX:qDrs=CrJJIoZYzMlpFZ:kxMag[?DO<ECxwVOm=ax;wUD_^=TYJdkSwC:DorQ?>kxbqM=HY@dnM<bMQbn_BgkeD[n<^QGdmqZHbBgHjC`KNgFN^clMFJ@VWEAuQ_K`bTSnSZu[:VGKR;zJC:HdB_FBJ;`rsIh;JBAZLK<n:HrXInU<hC@zLlGLPJn^CpPNI:;EFlMQc[H><B;IrkSo]PN?:>`_SSaESjOYmIP>NBWz[dB:o=<aGV=E@uZb=ccjRKJ[qa>DCs;yIJ<_Z:zyJ:MJd]mFDB]]<ceDEN::csc<<]k]?DZOpLm<ZZe]]kVpbXCqHHwrXZIZKO;o;B;?u=A=ZmIkG;Wm:?zbQ?Hce:O]tucaDB@Bu<;IN?Rmc[eHv:A:qk]cSvB[gPY=DrImID^lc[jrOxPkhjrZ:c:IrOf`z;Qi;bwVX:Z@toWc_cQq]>WMjmExteHeEL^:cicqEwwX>mIGN;zGo`Aw`zFc[QxLm:QJr`?zVYmy^rcTYpr;Gc^]ld?zctYrX[OzIuEAxBRx:@;]D:N@IXFSkskqpW[YCDGZSb[A]`L^pcxDDkKZcgLOgKrGHuGl]AciDEcCj<?x<KZfE?DDGVfELbkR?YEYmnZ:fQK@<>]EEBg>r=LfDzrR>QQ;]EWVHRvg@I=zz@EAI=j_Wo>=Vjz>PGSZkrYaFY=BrSwC^Wk:w[>Z<NBww?Z<d:GGnz<vkC:F:]N:tP;:]pRJqCZ:g:bP;k<YkN<=ihsBkZHO^]:wTlJ^ZkmZGW[e:tTlk^VcnhkqhwB_H>B]P:j]=R=;r>ums<ubD]Gt]TB[LLbVxBTPIBlzJdGo=<qBlqHcxHwOGA^pdF>J=s^LIFgaZZ@NHe@^<P:BdnI<RD>LGzkucKZNyZ_Budq`B^QD:;dd_u<<kYsaTKiaacPuIFABSf]Mi[l]Q:JeZAdssnXAoO@uMe>JptJITknlKqCvmMcpV<K]=d]PP@nScJQAL@hp_uWqaMc]aAq]C;F[>eKl;Sco_A@llgLk@v<Rx::<Z@S>Lpop^@SmnSdb[KiHUdPuOiGFCqaRCrK]SBoU>TVqLJprM<bszbm]c@R`VKf]FxMe]x?qccS@UtokaD>:LOB^N]n]<GFi::LHc_yDFRR>cS>@VD:YXGa^yk];IJ;oRemmJMC;Wd`b^B@WFId]ZbAmrrxaRpaH<h;cjRLt^AQFWmnZyRawG?^<sjROLgcsoGrj=krJ:BO]wf=wEY=erU[EO]NrH:Dp^TfYwF@wxRdP@TgERfw@G^GRL<Hk<LrYelRM<YC]G^]PBf@DW[?VOcA<GqkJR>a;vcVR:y;NbSR@EdUZ:q[S;yZ;s@F;K:KkO:B:TDJno;YWU`>P[f>v`?q:v>^RAk_b>o[bP;=Z?Joq;WZMlDhxwCGlGxpI>bCnVMGZF`>wLmN<d:]?WZKlEPKA;J`<<LO=WRA]Lf>^TPwLv>cmNwM<NOlB]>VbMlEmLc?WCIP;U>`Jk;dI>gdGBShZ=lBLLx:Un;NGB_ZqFEdvP<>@G:WXD:@;;;Z:PaL;NbO>@F:F_Xg<@KY:LFLZ;OZACnCKwCD:>q:c:F`?C:mNVk<F;U>Z_[@LV[VSB]LZTM>M@MOZPKPqJF_Ws>hoPxKSIP;Mw?SEn:p_bCpq;hZD:Aq;WZD:AP;wCN_:XM?_v`@wkn_oSIPMWZOR;iLZTSr`C::yWtBiLz>vtIq:d_v`>q;z_yVK^ScqJ?CD?I_xR@aLv_nR>XLtlS:q[MU>nR:lL>C@Ga]L[_pSE[ME_v`?aLS_rRAP;LJN`FPMWZYG?[Ll_mtIq:c:QR=iMWZ??HSM?_z<PdM[_wtBCLz>aSDhwv_kCGqLoNckAk`U>Z@_H:cqIZ:;c?_aGZ;cZ_a`FyLmND::;dG_jrO_NzWKSFl?M_n`ByME_z`Hq:>Nn>L]pvMDE>GLwNf`GdLz>eSE`?h_Z@^OLsqLG^GLWNjlFqMpZIOEaMvM;SHTM[cG_:t;>XVo=mNtRhg>LgUkwN<D;CJTN@GpYu;SmH:J@IpBh:MkqwC<gUkitm^MIJHA^iZAcV;b^M?>oa@=LIwR@<tMNo]k>n;Zf:;_iZe>mzlcL<RAGIHZRXF]@RLAkfB?`^u>pa<Y<i>m:FJ]y>qBC?hjkpGpz=[>bPB:]?RYPB_MXfF<F_MMRshq_LsB]hovLL:vhIkw`:k^mUVrRV]?W^qrWqIc<jRrhmB]zR_]C>[:sw]H=]eo^w:bWksi]CfLRs`Wn^]TsW]DRKmYXiHM]XB]FG<VlwEKEdwws[brzwVw?z_M<KC;XAaBJLWKKw;nyRE?=:dJQnOlsYR=bpfWNkuQkz]tBxD^Y^dB[dk?xjsx@F>OLQ?LLSdSOFVIkNxGBKMcZzeGc^M:rJElQ_OY?P<>XxgcbxqGSDp=Y_eG=[N:bSkg]NwoeBB<TcaEpASYk<RCtT<_`vSeL<aHugMn@wq<ByF_MHYGUOT>a]CZLOyGr^PFawrPBNe>J_]OTKLMBV>dyNVFRnhZYR=mV^Z<MCsCz;E=`uBz;CS?DMxFhMCsCx`MXBkBs:Y:[FKF<KTQt>ZyOMHbk<Fuk]Bn:uCoAWND>KnEi`bF`xa`wruB:`CC;YQsMnSseHaBi[V<:[:mc]>yi]j]s:SiEUcgLXyGxB]pAI=^d<>?F]PVtJ?SrORLqWy_F]Kk_nCjt<gtkJw>VR^ZrDmf;YcOEGFJ?z]J?kNFfGr:uFoZJRm`_RYlzNem=q]J:ggxo:mcPGX`LaO@OReKJ:Ug?G`xdZhUK<J;@g^fEdSCtCHGTniiFA]ksq@XfbU;wHCfZpsKiHQ]Q;rBW=]MCuFtfCB:RJ?G`[xQP:mCJBdM;BbRn^<YcllCu]O:]D:rJWpMZ:V:CZ<ykrJ;eO]t;Fvv?`OYgzca_n:FiMDum>]CMFn=XE>YruC`E=SJomegvMGonrZQ=Iw>eguk<PKqNee_km^wONrf;ngZTNcsfgyN=gloJT`bbkgL@D>E:gJCgHunFg]A^SBy:NbF>NgLDRAu:jZLR?rkvZ@R@P;QoKEHLnUsrIAXkVE=EGunyg[bGkkX;GJ@o]DMC:NQS?V<sG`;hBiXCu:wouV;nlCVbk[amtgtfEIkuXMy`kJtTYJ<Smhw<bByteVsQCumUgFQGJt^VwbHiCPVxbFuLGJHB:FS?ki:;YtnT=YbZ;ysC@?OnUJAxCZcDovVHWV>oaE=xm_Z:IEoc@ox[Ej=fk^zAUZqova@sMHopPBQMTsWPCz<TfPw?`Z@fB<BG]RBjGkEmS>nenG^t>ghrE^Ocza=^WtoyhkM]Oo`qHk]GohTpVZhofTqx^a:vy^rM=f:xFs<^obZCIMOBFHDnZBsvoI^n@Bvlm:cOBu^;kKO>gz[M]QogCp[?VscdqzMXgmQGzM]stHG:m<:V=B[V>>@wOE^Dk`FFHdw>doq<mRgpyD?saT?`m]mRX<zE]ntwzKZUcauCECj]y^HyDVh>gWEDcpzkPE_CmwgkmFHm]g`:ZMR^LX^CXVxOYBFf`@GQxQz;V`;rnOlbYD<`B?zk;F^:Eqg]:iJ?UH?d@YmashzBvc[VvzEi;zkUiImo]Z<x>`n_RI::cDBs;QCR:Qy=QG=lWgTYbMOxOI:PW:uBU:jb=^sc`MDGigsZihtcO;:eWxNPUL_W:k:NS?W;aCVfI:DH:WY_sEToQ:ij]PsxzF?n<wBZdBDQuTZdL;T<lY;cEXq?G_E;P:BiA>EC<bt?nKikSZfTmFpWZekEJ_FkqmcVpMd:JSlJY::xdg;Q:KXWhDJR:KZo<cvBkDt<^ZfM:vH@Jc<Et<sBdCKwMR`APtegOR=^S_=WYaTmhyIkeLKS<wBesE?k=Jg>EXOM:@>DEXVpPodQ<roO]:zZCR:>E;>CL?;Zi:OnP=Ns:F?`m:QmDcdnKHwBcjVDV;Stn_Ej<rkh<DU<n:cNDz>N:jwEX]kBfgEB]aDpvKzkH;ANZa]oB<mDvnABfmD_<gN@LcITVcdwCd]rzG<:yVz:fU^<<^^NoE;uUJgcDx<bJcFDBXRcJuDGVqtD[xdaRx=WmIVbu:O;sQQrGBlpV]H;YOFRU[Ct^lrNIBLhQ]hYIXDRDTIF=L@RG[C;DqRM[DMmHoqqEr;Qkz[Feh;>zhHnnWRsWI>Lo:_hobMcBw<GZ^mwuqCGZtoyqEMnKUKhpN]lm;jEUWOf;];UmwBhjCrMYReHAR<mB[H:c^KrLumAnGB<xFULzJtKHjMO>obrjMHB^omYMkkebpYM<:VY@]Z;BqFIzxnT:i=::]JWYCZd]oa=HhZsFrFIInjgmzFAdUwzeAjnjstwFF:RF;F=oc];F::_RJgAYI:tGcYZ>utnPP@=`;h:RJ>um_nGkbX[fLfF?aV``M>:imgiIE_F]`:MR?w^zSWfCHnKfRvDZZT;El?`?=[NIb@MoN:Z?@_xB]SrmmpSE>@qk:SYXGVlhgQe>l_jbP><hxm:VSF:;^mF:;:OGv:j>ZTQ=EBBOU[^EOi:@b^E>mdeQo]:<pSlgBH:WFeedFmxgh@JVmzgC[:<mmG`EEmmrEFaW:<wfCqdtJCkQznKmpSrAE]g_]A@ncZUgaPm^ge]rqEg]ZiQ@N<`AmQZolgrfFampssENQESgc_<]_O`?V;>=y<i:jH^m:NtmMOYGPjoV`pmoD;jDvm]=BJJHzMxbQFaGH:gq]mCI:l_oYwurZ?omeP:ihtGcwVr>>HrGl:Jhqmyk=K;Rl:gkJddoO`<J;dNI>ofhkciJh>MVo:BjuJ^:C:AF:Cmfe?zJtL[Nc^ZfSAYZc;U<JT=pOIVzb@N>C:VICK:r]k_<OD?mzS^YcPkLN?pFVsIv`N:tZ=Sqg:eVZw@kZc>HdAsdCNMR=@VJFuU=:nrmhJ>bcdmwh^_eWw[LdIkFFhB<]Zt::;]l^rRha=NciL_cOM;@vPDHJDxDGoaIE]JAo]btsFNmiztrBq`am:DPFx<JcMDJeIFdFDVDI:>YDKmigCEH<]IxKVD_ocz:x:CS<sD[:E:hIKke]p;]eQNUZiq^cBAI=v<wmtr@u?:RCaHHJA]frHXDaDo^?`Ek:V]fRexDBIDQNWkahDMLIw:ej`E?LeIEv:swqzmULkL`hHmhBLuGqMmRLzDr[DGRy:Hp]Vwt:EKEd>wWGuhFLwqGugSowTkCETr;qDQL>ZyjFk]T:hqHUnB:OjCvVa:jhqB^iw^ZGHgPLmWkAny:W_cN[HLaIDjMnB@xIcJvo]ZF?DOaRNi<WosgN_`DRkhz<FezokzI?CRFmLH`wQMS=FYNQMYNiqVKz<N<`;[DsrPDCAcyT^CpE?B@c^L@xF@gq]oHDFkqc[CCr=^GTzCFoKeZaHFn^GImlFnMGy:Gl:V`zcXx>nFV:UFpnFCoD]gS`cT_@h[fM>UjqIGeTtBn;fjnLwmbJk:NO=@WAbI:A=LTTci=;fz;NK>CJw:VVmZKdnD@f=MZTdahFJ?n?Z<QFKTpVrP;Asp=I_]QuAbqOfoeUyDecTDp]=cfA]vrDbtaDZZ?ReQyPcHPfWBS<jV[;_n>PwNt?;v]MFF_N`Fq:z>iv_hocgOpIF;OZKqc]LZ_nqeq:G_[_]xej_fIMxpjTu:OSJmNIgo<ZgDJsJ?lWRsDfRDuBIJA^fwZdkDF;AALDgsEMoPn_VVvHUHhF;ONBx<Hl=BiDLteXTtBoce=::<I^eH]dHgZEJe_nbMeZ][KnnfZ]JiiBeLulaiGpDDxVqpfWDadrZtHDje@seyoSJMsfIgxg<>eKDer`V<;u[F::SYgxv=kLee?omn:OkGl<w:KOIY^MdWw`i^DBQl@QDdGtV`Q]LnFmO>ACJ`kURAKK>_RL:reC:EXegkWudZ=rfrc:yf`mTMWUBqKjyV`AHNucJM@E?sK@JPC;QsBmQX;VFRyG]tYeN`olBAgxQMlB@]YgjP:IRNS=ukm<A@HD>eLWv@T]qdU><cBlFyuJwCZVqMISCw@cAFDcgceACJ[B@aAI_g`dQi]ZTHFes`FBj:Ps^WBe@uY:ZTu@o[fsB]@][io`H@hnH_nm@yNocUy@uZ`[mpc]TH@lj<GeO>TYuaKdR:I<?fBc:[_Qia;:t<ubPNUK@ufBKdO@iJig:gVfY?k_s>eaalndwU;F;_I<;zNcTV@zc_uO?_GpQgCN@bKcNUe@wCKqOt@^k_uNrJDY<R;eRTQqWctJHiFbs:cURdND<<xJiVTp@oZjGF`XFp[MRcouA_:S;cPGCnSlsiN>b]uC@XHMcaCUJ;[:TENGHtfCTsrLikKDIliBMGBe[bFUhTuYaAfXDo?rAf;Du[@>e>FNLhg[SutNnu[^@^LowhFRpPcBLXan@Q]nx@VpkIwS@DGH<h=TZdfEfBotT?Dfj]q[GyDBDLSgve@xOGIeeTothEAnPe^a@:<`RehmXhNwyhknmyofIBnWK>p>dnV[e^>h_MLwuWGlESoneflDFBB_cWZLLeZBPfpom_jPh:sGTdx^Hw[_c=^Xwt_iILqLbZHHfkLoud?hnerx^fn]Rquhs]lLabnn?`wfxGBk<omFL^Lzo[MF_mvgn^DRTu]H;hJBF<U:`kCw<JZ^NBL<FZaFmy]GnEynu<A^Fgmx<I;hVn>]WMFBUPLR[dSUAOJKf>_OFv?dNBT@u=I>]IemiIM=?_Ll:gCrgPz^zRiBb=BKcok:ZAflJd>BjZt]yJ;jnsLDUS<EwP:WOjEsLDRa`WSjDSOjVtHwJSIX;woAqceJfY;_awl=_pRAnKl_[_`gMpZ?pAlFbn:OfVUX@ZnEoCKOIXLeddKCB_`KF:QR:l?fYJpeRcFKETQ=UzDN_j@V]VhPOM:t:DEKP^ZG@tJ=weOV>dKO[gntO@nS`K=OD_@dCS;FtNKX]bbgTdHeNCOg@rCMHkTyQL;>K^OJiMK>]s=>QYOcqzk[QLwmXGh[;>qZZ=CLNqjrp:pjG@hDnTICW?KrE]`IGi=cmdRhfUT]sFhi]_DqadLfUcO@hheDB::@ZCm=XYk[_fHq`gdaVXqbSGBRrd>hd`>xdQWdbDSbE_B;`wi=FN:J;XD=kdlHwKz=?t^umQ_@sLcAUG`sqiRJ<jfJ<?oh]UXi=yhOtGgeQ]@tIqw>@ptec?]Z>[OiE>NPskHWOeoxIcOJ?ycvpLR_WOX?Gt`<CAOMdOWOrOMpPZvCKYQaPs_]QUb^E`aT]:ATjG?DN=x[qhtOATsG<Wc<`wqb>?yc^C:`KeNNHiadmDzgPhesuoHv=hIFwFkMgNnVHvnBxNy::EFt[Ja`EHiBogtlcGR`<pzE<UW]]CgoTP:Dia]T[AF?^z;dgUU<a:fy:u`OGO>txhPnlX=UHhShgge<zTwcIQb@WLqcrb=sP:Ev^HtIXTIZWtUiHI[Wtx:CI[c`RV;ebg^AJGJ;vTY<J__OUjLQeMQULM=J^GE_yUL``nUqT_okKTMX_l[;::@R=::N@O?uJ::IMMX_::jlN::FBo::ybo:;Q;o:;:YvDUuuT]Puo:axa]uRguAH^uRQ@:i]EcLuFi]i:Du=McaSTuHP]OeEy:neuvIqBCdPS:pM[;uSahMZjB;E>@rODJLIFNa=Zp:NSkNlvFUF]RVVVB^<`xVk[=CY]kggZfOeNeAUgpe;nL@]AFsT>k:KcUbM`kc[wNFSGKcBkIs=;nkkLF::eNBCvfy;SN?_NQf?sqE[QeiaeL`ev[iyIqm:SHZQCcBiuQc]CpyuQ=@bcG;CxJQcRJ?XZrcWu:y[IcEu@ybjdpuCy]oubjQiImtd:RjZLUQoTfgmSIw`mopduivZ;uReuYd_@RqioS[xK;i[e_aSUTL;bmtsahG`fL_ap];LTgoiLMhcJXpJf;vt@bda;ZUb@[aaWQFU>>nkyH@>?xpN_vR@tKFKJ::_bJ:;dnJ:@yYJ:AqzJ:Am`UX`C:RJMQg::FXN::oSN::gYxDE?ZN_::;mJ:>fbJ:=UhJ:>uAJ:@z?J:;`QJ:<Gok:=IWJ:@ZtJ:<QBa>?DvFia>>:;BRo::u`FhvQoOaIGEtuOaEUknun>P:lyX`zItn;XxiHVUnTEk;uuCV`yiMtTD<k]OOXiuQkzRaXvx`klYHvfNB;ZHUZ@CuouQ;FuS^LvP]duaihQAU:;aOfi@SqinfefdaXzl^[uS;<E^RthPxOiluTFion[?iXPE^lu>HH:>CvZmDjegkTybC^fviaKfgzRTXpjd@RHigS_SujqBALYn?CQjhRsjLLmfOUZu>V^:UKmEjnAuzi_C]pFYerMMye[ap:JvWEYEonCpYMYz`Pd?TTFqKfdeO@eX^sB=@g>_OT?@i>_VTkJ=lfvHTmLCfF:>afCem_Ld?<x^DG<iHucTVgofFDyUxLFG;nWgoBfQnEgoYGLnE:UfFV;`agk:qT^aiJAMiZ]hwc;TZZ<?ftTgPcB@Miv:YbGZQPPiQGKTbEAWTYPyaesA_]Q:SJ;PT_SjwhJRVSdXEeOW?dJ:coiSjqeu>fSfjx=T]JTbv`cR>dTfP>[ehYwH>bSgO]HezScZ<sL`tf?Z>LnPDKDnalm_ThZBcjH@e<r@tebL]w]TcJ^AaajHZ=Ee_@mW]FB`hoyUVBnqGdEperWB;ULBkxH;Uywo?gc^kPpJTNLCwmYbtDfekJM=<vel?c`DNPuNhBkNotT?XeOLmN_yehixPeTVya`=BHuoF[zcQe]JCXcsfTDa<bceb]vq>eepVrfCYtHh@UKc_qh@Kb?OYiZoiuGGutI_Yfbu`H^]ucDJygal^uaIis;WZ<yejew:@yecZvufcT`;Wu[:Arey[m_nYf_ic=jWmnuplBaCPCGJJ:TMyru?WMjFFzimcfyn:SHvUyoDbjvAwp:J;eiPQmM;fYcqY[iAbJH@hbw>Tz]LzuZ;bzi>_oTzzfX@_T^sW=GWe?sY:@<Tm:VZKc;rk?CfIeVajZApnBdPSe^nQt]X@uThwpB@ysVZR[N_KoVpcA[T^ZUY`FKaPf`eH;x@B;ufw_CgMuW]ok[MvpH^zaEs[ys]::unyLYgCuoarcSc_dsy]J:ngaeN?mTZC?SeEZLatGQ^u>gw_SNvDKjRjNveei<=d@l:LQH`n?[[EdDpCg?G]OmyDacWh;CK^QGGlOgZrIDUokfoLeU;ufT?eUKuydc>fCu`dibfEDyzAbeeeYdq:LbMVgGCAseQV;jThBixj?RAqjA@V[MPc]gN[wiOxfOsfHc^[m[jqkd>k:<:J_rP:`:=R>MlFg:GjwCklnfGGeeLZI<GDRDNojGERoNF<hDJ<tqnhEA_KoiWEvoDn@odrL[:UCKgZ=RAKJU>?S:kWpH>g_tuUP?dDZ:x>wo>FM[ZRlB^;qJHsAFLe;kd<jefADrodJ=I=Z?zUwCRr]feemgt=s:f;IJ:PdqugvB[tLJM=aREFH=a=o;hNUV@pJ_:<VSkedld:;b@okHVTEedqH>:m:eB<C<HliXOVXttpl^_L<fxlkwVjKtlsica`CytVXj@hK_v=kJOkO:<bsmoxD@UAPlZlIS:HlxdGFLXl[s:mKQP]FSX:TmsVSB;KlqCpr@Al_FeZZj>dwTuJMlmVgQASJ=wWPmUlpUIQ@GZL`@r:[luyh`>@q^Z;JbAkTicRmFCqVWJ;gC_]df;D`LwSQ@jlny^jAClh<XgLcgK]XRasdYAedZflZ]VsaccVv:vW`NIVLJ:fup`>CK<NHgUmhzl^G]:RZCos;:a^>w<XvAXlk]jv@Zj@]Xo:uCtfHbASle:>>bVC`ZAka>wVLSxZjsA]SgDMCZwUFaECsLUCCKCamRS@w>NT^bfqbIz;wbQuBXfL:XD_oYb]@awoTw[EKZDYbfbklLfM@MLdY?]ua[fFSnAtJIZ<R;F:Qh^>D<lqc@WELeEDUWDf<CVABaa:>Z@l;YqZ@`Pt^qynd`?sPLKAh:>kV_KOFxzBpr[>@drdZqxkfU=Gjfgn@]PuAt[fIdc`siZRVkJ[[oyis;wCFRTV;C[ncUubS[dyc@bPKvfP@b`[yx_:JjubqcuszuvRYbdpPs;cH;dKpc>Gm[;_@?J;K;jDidON[su@_AmecmfO@_ZDuRx;pacmgqU@enJWmgcLpwCMnx;ctc>M^;otd>Ln;jIGALGRDkRZ]LwqkXlEERkq:XUW;w[<V@dfOtfJ^te^kVUmjau_iwAYa^jIvVhed_e_[WewHC_A=eik;AnuBwBXtEB[laa]AQ;b<@x@PwiBRKU?wjILLAbeu`ORf>ks:MeA[<@ocSAgspu:m@DsvbrY]V[fNj<nSPe<rqvFkkveDAbkzIQGO=Txi==:i:MJAGS=K;Veta^HNgbN[hD[<eqZ>xWVonEXg`DcPRQmxDgtV_iQtrv=JcTh`KWEVrkL@m@H_UGrES`RwcIEuPUbLgfMm[UEU_HrS^@>l^D>:>`JAhW<[::gDMb?Jb[]lI?lJ]DpwXIECVvifD@WT]cUpf@DyuSRe:LsejL:hTkoS:;^KyU?G@CuddebeTsYi<Nu_ywChRUXu?Sns[=dpJ;cg=DAjeUs[KsSi`wW[w<mWAlLoYfFvUq^SAjUYVKL^daOejoSYUO[hxjOtfHpf`gu_nPmYFvyi>=jYUUPMQ`@tBJD=jlF=gh<[il]JR`@>;OoTrqglGtc_?PtLCZ<^Gfe[Z<UNaW>]=ei;q_ue<WmX_jdF_Z^::ZAxb=DaIGOaRD=ebjJnoSO?JfoD_:Nkf[:A?;kAOKRJ_dKAUU<jxJZ?z@UrvZuXFZEtunMsGwcyoJuXIJTgFYg]v:GFA>UA:CmyTptftwU`p:i_yyXztAttyT]Dpi;n;f:dbGkJxxF>TF_rsK>P?Gv;`a>g]gke?zFAgBTMYMbwfn>@XYSucXU;T:Soo[A_XZRqA::hKl?fpA>PIi^XTQDHpIg?fTR?oO^vv=ydS=LK=[h;Xp@F?iccjDOCihBjbP_us;jabZHyTZCX__[W_PMmyXpww`?`j;NQOgWIbNP[YFw?gaW@W@DreUOEeT==JkkFrUEFJDSmcZYyyEdZcltxD@x:pJD_=;:w?Z[TQ;JpT:hP<nZdxfweuPQ[SW@lXY[Uzd;?kT@>QFodA`>ZEN>n]xJMH@KYZsiSz@Xngwg<npIpioXaVYli?`CXDaJyKt]N;U?ej:IuA?chfgt=[xA<vaMgYJ?TQPwWdWWCH`fp@uQhFQdYpmqGDdVZ`d`]:>B__``Y[sQ@`i;AscP`liXNP[`kj>uP;]gSTH]o`vNTB`Wdq;VqQoyRdYF;W`]zeoQGDi<doe<kt]DV^UDtPVOUNJSCXVfsDOmiFcND=mhk:EDUmfAKYDlSRTQ:eq]Ufev:FDc]eauuDcVtn:HDhF:>e]n@<dyaZpnmAApJ[FiAXV_NW_uIwul^?O]>nF?`Aul<SjyDUgLQCiaJw]egGfPD`JU_@aexJUr=rdrSdoAK:jJWDhienIBJ=;owtjFAwwe@T_L]woTfEmfRq@XSQsSk_hfnSe_FIXUNS]_ew@YaZ]HlbGel_g<AwS_?fs<kPgao^]^Dm?dvsyLvlSvlxMVPXz^veqx>YkdLpaYlwGK]H?>^XSzZ=>^mQ?FDmACSqLCqun[eaaqv<[x?Xnbm[jL_eAxT]uRhPZwJehefoZSFR]mD:YoWAb:luQb:uJleXVhfYKpR>fAiNDyfN_O_FK=k:NpkmS=kyoPFRQ@JsGKiMOiCjVUPlXs;VSR:tbUojHl>tadi<aKuzHU<anKciRh@TsJL>yuL[vviC@jihQ@@vOCRAglQJXe_S>UNeLYgHaXV>XjCc>yj:h?@p<miYmdh<oWUR[lpwIiQ<PRlnL^uOpsRXwMU>qVNmLP_RyFkL;appXuUvEMPc?vNgobhlPnQQmkCPZwB`XdOEOlLgyEB:ySifLvdkqcYQeOhuW^mToc:Es:kHKy:]:J>Bmgk;zpmK<:qRw[Z?T;h;sOTfnKOuTcFARPeOUQLoSqORR=qw^Tevm`Oc?dOQZ[hOW<@GOkt?:r:GnQlgRc<Hs;:rcmF=SBr[ZF^VZrkZT^UBrp:<>YZZ@Gis<RrV:<TmHbPGlr@g:N:X<>HpiG^xEUSuGk>OBqqGy]Kk;UHD^dg`yDzu`zkACMtag_PHvDNNrrQ?j?Sxm:D<>[V^s<^WZZkG]efNrjwQz<bmbR@YEbnbodzE[?YwP?kKO^:VxQLW]=IQjTGzeECnpvCQQtmI[?ePYoF`@Nee[:efYU`@xGWkUq_uZuTEg;ZZg:VvfE[>gvtF>g;RLV`]rlOSnVmWWciEVyVoBU`nDSXeVk=[?=By<?>Z<t`FdR_DpuGHURucJfVF]PCV::VWIQFXhN:QlIkT>ONb?zCqMuk@tMVrASkXPNqzTTfScJCtN@Zut<hxu>Trf<WnVIFxXuk?_NS=KILIJDwbJ:g;Z:zjAHgcktfXadRhbhTbWyDZTCYnlw:P;]qb:BsAZkPssz@r?fF>LZ:ORgAA`Hrjn:@^l:yoMUXtcoyqxal:N:UZ>q;fTZ@^WfjFYR:NF^Z?^Kg?ihwuBr]zeYfRG`XgKLir>SaMdGzCphv=Eerm:LV_L@^hp]UP;zFDuD@uf_cs@i>pZBCB_:JDnAR_:Jhxeb<ripeEXunF=U;@f^kgRhEIlbGmbVF:sWZiVLnWhm^Jdq?a:ujKqOeU`?lql`:AReRuW^EVh_^Z><jXq^Z@ROHq=[YG>quu=;nSLqL[;bRetusyAXSrPktEYnwHWjwg<qzhbBe]J:uUfUOrWccQYj?;Pw@e@daNgQUB_bTcs:H?LNabWN:lhfERqrsWk;H]:PWt;BmqdQ:vR_:uBHN<=`FZS;?[:xJQc@k`jg^jox:lzL@_XJd^;uqCJi=OfAW;k<VhbgBpZTvWHAYWBs=nDRJJ:A=M?Qg::l<o::S<F::ANo:;BHQnrginrg:;?ilnq<x_jUErDxujTErLxwjRfrgi[jWfraxhjTUruxjIVUqux`jVvqyxZYXUrIJEtmdmL>XpgSMLNktElr]zF]LpqC::sLl?<mo?CdqF>rZAAfPYOx@sqCGeMYCNNnMvE_qa@TmNNr`GszR>SfC:wBM=YwMMVZ[hGwL<BrkGw>jjwpkezXW:MGwPnFq^i`oXgrk:PnTxVXkcVGHZxX]Z_wr^ccUc]LzGqYXtJhZDe]Cqkhlt?CqHsvEW<:th_zITAxeeFIe]?WgPRxGsWlAWU<D<ErVoqN:NERKNLWkCfCrD:@ETdrRi?;F:IHc@ZyOZcWuZykHr=CQTSqWhxxDIGp?>ZSsHWWjbW?RQ:IIpq]U;SF:RIJWno;:fc=iIWF?fWZ;KaRu=kM?YlesdrREaQWal>LfjbXZvSZHWbrVM:HcEvAw>RJ>R@@;kHHs>x;uTbZtK@X=hIStrFx[s@L:dZJ:?O`YIV:;R?N:;pUN:;;SN::eHQVHKxh<=AreB<YVSLM_aJtwqt=qlD`wpxfUVrqy:UYXRrWsIYW_q[GgzSrR`GsH`LHzGWzqSx;F=MToq?bXzVcr:GZnTSwtJ?bqFqJKTYCT;nG_Nf>JizAzUs[whrQWJ;J=_@HwqzML:xi]H^_]=ZHm=[:scHazEEUelN=[UYJIrEDFCg?P=[fL:p`WnZsyVD:Nd]BHPGMo?_Hc^nF;]IYwEYW>qTGwMRLIdGdDPLItGnBzLIKPRsy>]x[IBxjq<^rMR:rAxwaYS]pl<sseI<kecweg][ycyW:UGdcv@^ochnX>HEcvR;qLVhmvErUNmmZJ;_zmbvVuH[e<G]<qD:QcsB;m=mERv]RcaZwvEz^jTF;I@=fjnmr^:XATDqU<V>t^RQc<fYlCf[PfT@qcRX_e>NZWzTEpvizJSN@q@pwZ:TreMoURlHuMyg>Z[z_[tEmVSh`:uXUe=NRsdx`hwClyI:c`JwSraMz:zaIRcyuFe]]=fYAHddmNR=fpFJWeHg;neKEY`ccWpNwLGIB=NupICMlQWkH<tjNw]W=Mcl>LAgJYYFq`zF;JstHgMeRyouS^^ZyacrW]OoWIS[=bRy]:RmYm[^h=CABgmBRk@I[]NxjMCtljG_tHprGmZJtUk[=]jpq^xcudP?rSxypg]HGFn>KmNsxzkNmLp^xYYerG^iByqI@GbYVLIIG@MRIqN^_zRmIcG<[BB[E^izSiIxGiuYfI]ZObrYqa>MzYXHfGnsxzqa^`;IP?Z=zmH_nP^l@Hwq:TFAC:eBqBCCuHL=sbYuI_M]q;RIlOJVxH>ohhTFv^ygKZs?I^wsNwGQKM[?TcHPhsotkHOaPRzWIrozZvpqDaP_zpLNn]J?PHH=LAUIkpnZ]?IHq=ooySIp=^ot:JXkxRLBHx=jrVFI:xsIS]mkxoQ>ZC>xp:@MqcgTD?HAAPtr:PRRJJ:?wrJ:=_kk:ACGJ:<utLy_:;DuF:;>Bo::UiN::WyGQd::HYO::B=p::>EW::VhO::RfOEuRtlR;:::=`::Wp^::KoO::Tf`::MY^::VHp::MHoeEk:>>zJ:=``J:ABO<fcnqoBTXbRlrB<TLvedEu<><HpZF`>brJ^cs<LW_^<vS:eA_bbSjsmNEZlaSucuMBzId^xZy`IYmQwyFj<eBZxxHsRu@GNmJnzov=IMhjwehrzoaMBtTcForSEBQ>hASjtN_iJwJiv]ZgtSH]nyBssrmnhGgHH^xagxHIQYRH_UIf^[zYzxLbSsziQMGucuzrkp[cvzq<LB@JvDRJG@^puiSKqLVqRDRc_W:bwCnW_poZIQdf`ufm?PAHp:Us[ejOpCGOq:qfmxQWMvGmxJ[Muk:WMQOxZEetEN^NretENmNZTsjNLpOfS[:YO>hJB;afeZ^pua[Fd]g^ukOTwq>@e?TsP?M[WTt[;Z[WRLqj_p=Twu?=kbBQqjOf`cQCIukGBl?oz^lFtD>>:Ja^puo^?Dpije^VuzVauPMtbQ>xX`KfvcOdSew[uZUs>zAHVXGzi[HLm:EU[HNB;>uKIsTGTHyBoMb@FjOt:=Vv`HTPtSJljb;WXE<>NUxBKV>maTsJCjt[LsQYIwUb@wHif[:u`Cj:NBatT?DUwOLiji[RuvdiE^KzlyNVUcAXXjatA@vXjyWwOMiivlWavLGplWaz?G:UvU;rHK^l@;?IMyM:xuC_UtotlvQM]mtPkfEdPw[B]=dwz[j?nl@ygT_T?TO?i>h_qxzB>Nb@tf`qUtCPlIdWtTP`iOUa^EOiaZVXdOrSMk@LGjhgPmy<ObFUnV[jccUZvyrf=aFzf`pSPYLp`jeVqMp`?d@YWi]RUirVc;MUlqyifgs:iS`HAesZvoc?ndJJ@IWkG@bSjLfqs`hiSaYHyMjR[]wsBKYnh@axjztWKMzEzUzZSzFf=]wqVKccAQWYoBv`iP^ikWznSYvAn]vWe>>vkiyg;ME`ozFiQUpJ=WjtijHsW`U]@ixl_uvjqsuH:vj:WUj@vmwnsIGm^ivG_tdUiw_Honjiu[rCm<qxNIpUZ_>L@xUbHuQHLK<eyl:efvu[liaG@<aEjTWqyzjjKvpPzAihheXxjKYLGyuydtvhl:^IHWboqQj@vbjm=iPvnXx=jhvtiL^iAnobO^i[eXHzviCWyJxdrTf^yuWijvpqvaIdvk<dYNYMbqttkeBLIU`;cxtJPir:v`Xs>@pvnLyGoEhazaxet=u:tYIO:DqvEj]R]ixNlrUaiLBIuvg;xvjtx^MEJXqAvFmYkMveNsbjhhmwxsYBOJ;vQi;Ae[xQjavq[zNN[AeQS>Xt=gKzaippW@xIjdAxHxzimch@uBI_W^B:iqk[<vXlrMhag:[qGEoZpHrEv]ERGiSWmxMiMAvuTvQO?NnlzTidJ@SGwYEpX`F<YKfxaw@i_p<quLqjAdGPpHa=^;vwYo:=lsFYjvj;yFY:DxlsNYfhbQXnUt:E_Cyc?PuiDEOU<MxacJpp;;xsOyvptEJYxZSXtaSkbeN;wY_br;x_YwAvfHujFb_Hxv_Vbxw[EJY`FEgDYgJ:i<E[LbdGQDYAA]rU`>oAp;MeYcbzlukXNvnUXTYDvpQWaYo:MR:uXqvnViuXwbzdz^NHFoS;@XdJFSwxTm==MFWet=erKaX>bsCuTYCvpCsx=DGBCsqXl`USxuYwbePA^OagTw>HYjbBrUknyvi<ssGJ<FKzeYo:B`FsYbU`CtTXobhdx@jbb[qYmNlqbSsDYspS><rJLpRtyu`MbdwxnIVNuQW;YCA_ozIHrMtSzWi<QttylqGZECuqYHhrCvXYWbchNzcYbn?zI>t=iOkMjJQqATCYNvt_tziAbxCtaiDQbAahfGboHxXXGjWtzKi]pANLyXmbjtseXH=:@[oYDLBzAaYmvhHwgi<=`OvFTGWo[ukBcxtCkXhMhy[sUpoAaL=Hin[GOusXGQ^PxU=GfelstqfAh;xDLlAnTtCiBQb;xN:^Az`zdjpsvARtqUAiJtWX>vuasdjD;Dpw[YluvpsBkmUqTEH??MmZO]VAA_tyeX:yTQW=Y]ZGasxXjnklwpYrU^GzXdzQfASltxZUn:QrlxGGuORnflaz=Ygrs`vIip:QwtSjK_[px?l>rz<MEXH=YRAMroruhxSjrQqtsKqwrpdxli][Yhtls:rbA_<r:QzkPvXlAsPuDFBrwXtDIXW=oOzH?rjbKpiOEbbRH>t=;HttiSdHhttYdAj`t^YIMluzYC<TFlxf:NWovTWY]rcUidXRAZjQQ^:W^>xtjhSItvgXnQ^RnR_^reWlQYo^?jAQYa=HpktrnA_vWxiVXOpGVLLAhkQpYmAkpwcXzhgpR=Mv^tzYlppGrz>x;Q^=H:O:ccHN?fwNxyWwyiP[Yxtn[:ImslJ:JI`zRr<HWaRM]DEbeQT[rYfxVsFY:IxVLKTKrgPwcMuIn:@trbQnR=EX^E]Ac`G^Uw^thYnvfOy<ulIfqsprjGerKwjh=ClzbIs=eyxVX:UmI;YiNHqMsYj;roxzXSpHmI<PIeAxXvQi>QrDMAUhNbBLSN:UsSH`izbb?zJYc^^YY<iLnrRw]jx^zYXBBN^u=NdPu[j=QmHWG`DyCP`ma<ZvID^nDvXIIOrgxMS@^inY^NxJXz@TiTKgV>s`vGibHmmqfZe_U`EliTxuBln`<=zEITeVxbrYWPVy<rOIjczNzD=f:ydrVh`:bmrwMmfVgaDMt_xSIzacKJcCNjh_^pvGlUXFqADM_UYgqVjmdJzKukYfus`jo>_zTyPjhmUTzdA^fzvVFjoQIdnojmUynCmhxfy@qqM_UtG_wj^UyayaMlUtTzPC]wY@y<hvUudIHjv_K?mfVhUvuzh`UXCYJdBNk<I^SUlUS=]?CKPzD]CI[hwpj?D^bYST?]I`iVY>=geCuypsrlwmy;ggCuEOKje]>_KhIz^F[y`rbGuqrcrknwljBYcZy;yZF]rW>X^ZFAxnj:DdEsM;_YlEzjkoYyhtIYvbgxt`qmYf::tqEIh?NRugOEauEOKkQtt^iPL>Az_mbI_?vizcZTrHdz^re?xCXKryGK[zQsrOzZy=QfLyNXAnVny=jKQfdxdYlqxbuA_gJGUxaMmbhNuJzRvYixmMUOSOGGynYgrxZyH=J`=CKB^etsKy=sNQwPXvbu?txXSWyru;WSYg[wpB?YndvO`ibftPD`spO]U@yBZIQzpHDAkrt<iG^to<qHY=FMYRrCGeDzxwRfvg>Z@RDTmQwyLOk>gooZjkcvor]^oEuJ;Zp]EtXHcjbxlvIjxjgz]yOp?zaDBqfwcgDzFvoZwKIxUmZuYixDRc^[yZD^RPmqVMlfvlILMy;f^aDDs_yHyR^`fzZ:mDyHS^SwMbUtizvGqjvi_RJ:QQCL:TFYsrqtztUzUyd]CYwq^mNmTTqz?jnYyB]?zzw=puOziVOyrSzuvurykDemYf:xzmzzQzuhszvrMMzfZ=pviMmOHYyPMpzzs[rzyzskZLUUYz@UsbYY>]`pBdcGu;UslAIzt<DUYtpzXg:QzXJkzzCUsbzX:@vzPYn_dDULAz@:>rzG:?rzVzv?yN_<U:B=:s:^Yts:hzsz`=zsIzM:?n]B=<jYQVuVyG:vmrWZKK[W:@HzU[uzbW:AwIIqtIjGQuBjUmMA`FuLzYK`skN<JudbPuC_cWKJ<z=`trz=Z>_jA[uLzHzsw:_hu:j<IRBYUrsFIOuJTQYQtTQUJ?BI>g^WjOYUfAOnslzRgtlzARsCzQYROb:stObBstyYYDe;f@efSzTZ]tzSgs?zXxSH:cecjeLEsYvEDsOzADtOzIDtueDPZ>::hRB:[hJkNXmCX`C::K:eZ@::swejs<B@@n@v<jsIQfvQGFe^BGnSCOUgct`IQftfPg=obJmEd:tEtZrH@tOY?jspYIytuNNBA[:ju]IrDB>`UMjssrCav^xJmD]rIs:Qs<oR;>U>sGYXN;GYJYuc>VhRl:u:A_:sUv>OKvtiG:UuCuFZApU?fuS:oR>jz<ZAzz:c>bQ@><AY@RAGYY>]f:lR@zzSR?k:lc>l:]B>U:qR?v:sUsE:]UtIYDUsc:q:@^UABAS`XY<M:Zs^M:[Z>YYFRuAbFN^fs@<]p:qg=G:zMtozEAug?As?mNNe^mYAA]YUL;sc:PvSi<RJ[wOKvTo:UvDjUUvRF_HG^R:pQtyzWQt<:_XKue>H=RZPg=]:srRdj<J?=N?lDWj:DtmAP=tpIJsAnHIs?LIVQuD:a?ug?TB>oZo>?JYBUcJZa[tk:T>ArUH>>hRCvTBZtc;ip?jJhuI^BgzP=MALE>AbLIOM=:ySk>ZzttDYN_>Pv@Wv;h;HuNrJWuRzWPUbUF>AgZbbRZO<OC@zWKL=rJbRO:[@thzHJ>h:cqTbJSc@fbCDePZ[ZuxzY?vaZzs>izXbvl:z[tujXQsFIKQtGrL>AWaWKJajBpueZio?CSXcAHZ]QuFZlB?PZp_@KbT=tlvLkuyZ^XuyzG=v]ZkXLLZweEA`FJv^mIu[zIINAL:z^sNZbCMazBg@azYWuqZpB@bJXJAYbMQ<zb?B?hJJLCA:B<s@A:IU@ARR<aAVkvHR=o@BYELv:IXF@VZlFAkQD@ZeQVZ;yu>V@Z>ACktHWmtx`J:=P=c:;dHN::zWUyACLsBRVYTeQWJlYCLrvy<S`E_:RgA?Z[Hv>OLg@tjPpvirR]dUjJ`:tbGXv>zTysITUgfgrEgcI:_XssrORABzMB>AZy_@zbMB?EAUCuRZrfE<:e:;jSMCkV:;;sm:uQSrZbgfnsOwA^pAwuTAEFdZJcnBGZlt=:QSg>aAFksPA;<tcvMIR=`Y<K=`KLsPwTbBeQEtCl??pdDZtN?zhTQSIZjvuoz?o@:ZpR@YZa`s<:]N>zZ_XMP:I::YSAkK:JZXszjD:<W:hB<KMAc>NJaBtW:r]@C=Iwfav:k@@LKMsFYDSuPzLN;;sUt;wJNg^TpG>vLvKLAwJm<ArsWwAD_KpvnsSNs<k@R<WZnN]PbW:=Tb;HtJ:IL?mzK=u@Jf`tbbFQv^pFm?XzWNvTJeov[@DIua:phRKQKItXY?IsHLUtJSzG?fsdDGBrvCgs[YVJUyJhBUdQ?KDjAVjslYLjtlYIDv;LGx=QW>l;^CCTtAs>evrWPTtjWLTt?QXvd^Q:@s]x=I=zQQi[dxSmmDZBSDxoDi[ux>:=CJge?LrEBApZLPuKsKjtDID@uXaEQSnbEHteY?luNA@uMVrKD?zNRm>slDZZ?rWDA=Jtve^JxvfgrDe>=JgeBZr;qvpY?oTsbLvtZ:y;cAhQR@c:hzvlJxR?Q:zS:r:zR@^UIeAOJfT?M:us@b:xTAzzMD?I:^J^M:ou@r:vD@KZFTsU:o:A^zY>ZxhLTtEJr:A=YMT>UY=Z^QzRUtjWPTsb:ru@vYGvcIJvT?AYNu>hYAhd@dWu?^:rUtYJvT>zJcUv:kxD@QJr_JbJc@Anz<u@Q:su>vJdu>Uv?ftQh@YtBkyYvkkb@@Bkevv=Y=c:>YYe@ckxmRvJau?vJiu>IWPaAQJ^@AEYE@?AJtsAcksaAgkbD>gkus@j:kNvnUHPsAb;Pv[HAe?[Z[_@izQuZe:cUcGrFNAU`Tns`<C`Kc>E:[R>NS=m:AF>ArRKv:J[JsAJem@Yb@btjZvTEuk[Kv:ISeAcZ[iLTmAXuum;;sTI:bvTI;Hsj>TY:JJfpv=jK_AHksz<Xz=J>Kz<vR;Zt=vLvYu@ikaKv[ZprvzJq]?]jWQtDknQt[WUtEmjVSucIKq@;kyve>jTm?Hz>H?LkybuSJxoAaJnJ@ajFw@TI;P?PYY?Blk[OcBdXH?>Zwht]I>@A;kZnuVmAD>tkym>@zM:;bZmrt?kvmMKkqnsDhB`BOkf?u>zTQSMJsH>TZ`a[^CKi>yktiAe@HJsnbBbsaZpjv<xWu<]xWas:rRe@poCXA`JqasHZaS[tJ[X>SsPi>:ZyX?mN<X^FzEwAoJkXLWk_dLxoHk=c:RSESZbbvuQBHf`jI`BCrSX?c:>e?vke]AmG?X@FOCF?U`RiAadPnuxoX:=dx;N=gJyJkSb:sLXpSyAfknx^jkoHAoz:@tOo<HAw:mnsWk_i>:Bz?ZGNW]>ihJoAwYPrv_>NMupJcXAikprsGJ`TLmk`T]DY><fgjRo>WJuftWJyKdTYMX?bsMMv]YLP@zb?[?mYQo>JIIgAaY>y>cBsuMbkqSKqYRquHY=]>jb?nu?bFkAiJukAKQHk?AvAm@@pKuSnBGkA;JzAlDB_jsSQIkAKY<nSpAPEtYAHnSk^CYsjkg]eEQ@e>xY>c>xZFc>ZIM:<Jr@uEBI?zfhJtjuaZl>SxoXcA]eRl@?OW@viBriZxY=c@<JaX]lIKZ@kSSZ@]kpZA[HJl@kBnH@:Zkl?BB^>@bk^?MHn:DK?DHN@ukt[??JfkAuIH_?EIDC@Yk^C?>AUASZIWi?HnC^cVzTr:aB[;uLvD;A=fRj]KBx[>yBmYelBtFAU`:It<Bri[iME;>UZpARaJv]AW:Zq?aQWAsUvYl>DZRL>DYIlBWZrH@yknTLuZqYTXWVhsJARrTmJe]=HK?LAVs@SZeJkWvP_=LA?ZEL@TbBl=M_KY:c:Lm?DJeARABi:;ABpL@e:Nt@@JsLAuJn>=:ZPovsLAbUk:CcZ`V;d]=:LK;@?JCdkQ?m@LBhmAiYDk?CzN=KXJumLKcQm?gn=HT;JtDt?AHssYsWaU[Jr_eKJacv;H=sulJdcvA`HB?<zTGD>bVg@WJSB?`Zig@WJWB@xSUBADa=nRpJuiSf:vPdGJeFvaSHl>`_EtBQ]LfuoBmcAoBodRrRTo@lVBJAVr<qTAaGXAI]Xj^YHYasxBr]@;Bhs>g:vvv[HW?@[ZfCAHzH;@:ZeO@GBry@<:l]AbLRwcdBgK?;ZouJQBcWtAZ_WvA`V[?R:LG^MBiHtlC<SvbZuYSGzUHugck<ctsWauKZr??iBqZvsc_u=qZubTHZiqSVrG[>fI=p?^kno@ajIZ?lBz[>thKC>zDOqRuzHH>wzYq@KzFz=qc_F@pBpgDlcdu^Aki]?;cyJ;dZfQuSZxO@jCBDuRdNgAgoRFA;ke<AirPg>icbJvkJrrSGZckvBJxg?kYCi>yz:V@PyY<M=Z_V@:b@dC@L=hvcJt<unZ[V>sJtLsMvGV@JBly?_cS^ujbA`@Hv@O?XZTg@TAPY<AaJ<sBJmh@kZTh@cJkV@BQIge::@Hp:::[@Z:<Z@Mku::@E`::<tuFsF::SQu::T:RpXc:;oCN::t_e::NRG::GmqZ::e`MX]::Wi=::HbuZ:?HtMre::GNp::BpDauCrK;uHIKSuDjKWuFYKfuBzKIuEzKXuFIKduBjKGuBYKnuIYKQuHzK::>[NFP[]aEci=VBLi<pE[T]d=aLZmJRSCLBKkStx`j<etZD^soXvV:U[L^?NWoxooJ=WsiHl=xZ>ewZfjg:KoTc:iBNF]yBRHx[NMIJK_K=WMh^dW_N_e<KQ_<xLrZsx?_YC=>tgV]RoOMxhNSg]>oSd<LCEg^bBeS=U_NZ;n_Tg]nwDd]C_Xd^ABNS=ZsQS=lsWV]h>^TW?DjTV;:<R=Y_UAwgFIAwmndt<t>TbxJNXygj:SJNO>W<]SL]t]fOj<]ne[Dhinh?=:ZT]]vGZ=VM]jxV^>YN^]y;R^IzE:WSsON=b@]VN`sRu^T@hN]lkAs]XBJ>]SU_E<J_Q`>jj`b:ckg?^h<[K]Krj`]Eo=K^jkTWBKt:=Wm<df<vsYlwA_`I=A_Vz=dNWmxosQQ<EieO^s_OfxYkXe^ysTK^_gYEgjNSK^kgR:?_oSA<HgQK]q_SIp@FRdxz;CVwhFMl^C<FA=tgXBBh>dfg[FPC<;I[UhPFK>VXW^C<BZAC=`_UC^GFQlKSFKg^pBJd^h_VR=Jff>Wd>R<^v`F<]To_`WZjit]Qeht]cPft^z:Yt]GKE`Va^[:<RTbnN`z`L]TcPcpafgpWo@e`<f>Vp<uNTp=RUdT^HcX=x:T[ENzgJe:HNLO`YjiDcD<@=]QRVZVlNT>]CNNXWYgUnO_VNp]osSk=PkZM]dTip^NoV=KPR=fC?qZv<esNv=zBhe^[sPh>=NLbgFnic<zNJxSvPa^gJD`B=eb]D_SsVm^b>ViVMn_D^HFWG=pHacp_Yehg<>Ao]lvZF^SNO>^ERNe^^dHd;^B<JKeTZKwW;AedpNJQ<t=gL[DJQG]CVRh^HFQl]FWa^hXkPSxpAfIhJNdUwbIc?V?_Qh]`_Jd==gMeVSFXMwtFPW^rUhfO?Mbd^dmBS]=Q[d^rVXl^:wKS<xFYE^Ivcf^m:@A]=BQd]CLfp^dVWe^PgOE^voFnxMIfkVYsWoxpVO_;GVR^]HgG>s:Ub]=@FYe=bncn]p:C^^gUie=]>YMwFVWoCLQGv<iVJA=XYj^xvlEc<jJSW^czcC;gZ>::".charCodeAt(o++))?c-59:c-58),B|=(0<(c&(e/=2))?1:0)<<k,++k}for(var J,B,k,A,c,R=[],L=1,u=3,D=1,s=[],e=0,o=0;;){if(Z(D+1),2==B)return s.join("");-2&(A=B)||(Z(8*B+8),R[A=u++]=String.fromCharCode(B),--L||(L=2<<D++)),s.push(A=R[A]||J+J[0]),J&&(R[u++]=J+A[0],--L||(L=2<<D++)),J=A}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.FOREVER_CHAPTER = 125074,
+        e.FOREVER_CHECKPOINT = 125075,
+        e.LOCALSTORAGE_CHECKPOINT = "twelveYearsDialogGroupId",
+        e.LOCALSTORAGE_FIRST_ACTIVITY_CENTER = "twelveYearsFirstActivityCenter",
+        e.LOCALSTORAGE_FIRST_MAIN_PANEL = "twelveYearsFirstMainPanel",
+        e.LOCALSTORAGE_FIRST_FINAL_BOSS = "twelveYearsFirstFinalBoss",
+        e
+    } ();
+    e.AttrConst = t,
+    __reflect(t.prototype, "twelveYearsPromise.AttrConst")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i(i) {
+            var n = t.call(this) || this;
+            return n.service.setValues([e.AttrConst.FOREVER_CHAPTER, e.AttrConst.FOREVER_CHECKPOINT]),
+            n.init([{
+                panelName: e.DataConst.ACTIVITY_PANEL,
+                isMain: !0
+            },
+            {
+                panelName: e.DataConst.MAIN_PANEL
+            },
+            {
+                panelName: e.DataConst.BATTLE_PANEL
+            }]),
+            n
+        }
+        return __extends(i, t),
+        i
+    } (BasicMultPanelModule);
+    e.TwelveYearsPromise = t,
+    __reflect(t.prototype, "twelveYearsPromise.TwelveYearsPromise")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(s, r) {
+        function a(e) {
+            try {
+                l(n.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function o(e) {
+            try {
+                l(n["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function l(e) {
+            e.done ? s(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(a, o)
+        }
+        l((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (s) throw new TypeError("Generator is already executing.");
+        for (; l;) try {
+            if (s = 1, r && (a = r[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(r, i[1])).done) return a;
+            switch (r = 0, a && (i = [0, a.value]), i[0]) {
+            case 0:
+            case 1:
+                a = i;
+                break;
+            case 4:
+                return l.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                l.label++,
+                r = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = l.ops.pop(),
+                l.trys.pop();
+                continue;
+            default:
+                if (a = l.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    l = 0;
+                    continue
+                }
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                    l.label = i[1];
+                    break
+                }
+                if (6 === i[0] && l.label < a[1]) {
+                    l.label = a[1],
+                    a = i;
+                    break
+                }
+                if (a && l.label < a[2]) {
+                    l.label = a[2],
+                    l.ops.push(i);
+                    break
+                }
+                a[2] && l.ops.pop(),
+                l.trys.pop();
+                continue
+            }
+            i = t.call(e, l)
+        } catch(n) {
+            i = [6, n],
+            r = 0
+        } finally {
+            s = a = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var s, r, a, o, l = {
+        label: 0,
+        sent: function() {
+            if (1 & a[0]) throw a[1];
+            return a[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return o = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
+        return this
+    }),
+    o
+},
+twelveYearsPromise; !
+function(e) {
+    function t(e, t, i, s) {
+        var r = [config.Talk, config.Npc],
+        a = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return r.length ? (e = r.pop(), e.hasLoader ? [3, 2] : [4, e.loadAsync()]) : [2, Promise.resolve()];
+                    case 1:
+                        t.sent(),
+                        t.label = 2;
+                    case 2:
+                        return [4, a()];
+                    case 3:
+                        return [2, t.sent()]
+                    }
+                })
+            })
+        };
+        egret.lifecycle.stage.touchChildren = !1,
+        a().then(function() {
+            var r = new n({
+                groupId: e,
+                callBack: t,
+                caller: i,
+                service: s
+            });
+            return LevelManager.appLevel.addChild(r),
+            r
+        })
+    }
+    function i(e, t, i, s) {
+        var r = [config.Talk, config.Npc],
+        a = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return r.length ? (e = r.pop(), e.hasLoader ? [3, 2] : [4, e.loadAsync()]) : [2, Promise.resolve()];
+                    case 1:
+                        t.sent(),
+                        t.label = 2;
+                    case 2:
+                        return [4, a()];
+                    case 3:
+                        return [2, t.sent()]
+                    }
+                })
+            })
+        };
+        egret.lifecycle.stage.touchChildren = !1,
+        a().then(function() {
+            var r = new n({
+                id: e,
+                callBack: t,
+                caller: i,
+                service: s
+            });
+            return LevelManager.appLevel.addChild(r),
+            r
+        })
+    }
+    e.showDialogByGroupId = t,
+    e.showDialogById = i;
+    var n = function(t) {
+        function i(e) {
+            var i = t.call(this, e) || this;
+            return i.animDelayTime = 2e3,
+            i.isPlayFinalWinAnim = !1,
+            i._createTalkList(),
+            i.skinName = twelveYearsDialogSkin,
+            i.animChapter13 = SpineUtil.createAnimate("juanzhanzhakesi_a"),
+            i.grpAnim.addChildAt(i.animChapter13, 0),
+            i.animChapter13.touchEnabled = !1,
+            i.animChapter13.touchChildren = !1,
+            i.animChapter13.visible = !1,
+            i.animChapter13Win = SpineUtil.createAnimate("limingpoxiao"),
+            i.grpAnim.addChildAt(i.animChapter13Win, 0),
+            i.animChapter13Win.touchEnabled = !1,
+            i.animChapter13Win.touchChildren = !1,
+            i.animChapter13Win.visible = !1,
+            i.animBgEffect = SpineUtil.createAnimate("juqingxiaoguo"),
+            i.grpAnim.addChildAt(i.animBgEffect, 1),
+            i.animBgEffect.touchEnabled = !1,
+            i.animBgEffect.touchChildren = !1,
+            i.animBgEffect.visible = !1,
+            i.animEvilEffect = SpineUtil.copy(i.animBgEffect),
+            i.grpAnim.addChildAt(i.animEvilEffect, 1),
+            i.animEvilEffect.touchEnabled = !1,
+            i.animEvilEffect.touchChildren = !1,
+            i.animEvilEffect.visible = !1,
+            i.animFire = SpineUtil.createAnimate("boss_challenge"),
+            i.grpAnim.addChildAt(i.animFire, 1),
+            i.animFire.touchEnabled = !1,
+            i.animFire.touchChildren = !1,
+            i.animFire.visible = !1,
+            i
+        }
+        return __extends(i, t),
+        i.prototype._createTalkList = function() {
+            if (this._talkConfigList = [], this.data.groupId ? (this._talkConfigList = this._findTalkListByGroupId(this.data.groupId), this.isCreateById = !1) : (this._talkConfigList = this._findTalkListById(this.data.id), this.isCreateById = !0), this.currTalkListLength = this._talkConfigList.length, this._talkConfigList.length > 0 && (this.prevNpcId = this._talkConfigList[0].npcId, this.currGroupId = this._talkConfigList[0].groupId), !IS_RELEASE) for (; this._talkConfigList.length > 2;) this._talkConfigList.shift()
+        },
+        i.prototype._findTalkListByGroupId = function(e) {
+            for (var t = config.TwelveYearsPromise.getItems(), i = [], n = 0; n < t.length; n++) t[n].groupId === e && (i.push(t[n]), t[n].chapter > 0 && (this.currChapter = t[n].chapter));
+            if (!IS_RELEASE) for (; i.length > 2;) i.shift();
+            return i
+        },
+        i.prototype._findTalkListById = function(e) {
+            for (var t = config.TwelveYearsPromise.getItems(), i = [], n = 0; n < t.length; n++) if (t[n].id === e) {
+                i.push(t[n]),
+                t[n].chapter > 0 && (this.currChapter = t[n].chapter);
+                break
+            }
+            return i
+        },
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this._canTouchFlag = this.isCreateById,
+            this.isToFight = !1,
+            this._initEvents(),
+            this._resetUi(),
+            this.width = egret.lifecycle.stage.stageWidth,
+            this.height = egret.lifecycle.stage.stageHeight,
+            egret.setTimeout(function() {
+                e._next()
+            },
+            this, 0),
+            this.curBg = "common_mask_bg_s9_png",
+            this.resizeObj = [this.bgBlack, this.BG, this.BGCopy, this.mask1, this.mask2],
+            this._resize()
+        },
+        i.prototype._initEvents = function() {
+            var t = this;
+            this.addEventListener(egret.TouchEvent.TOUCH_TAP, this._onTouchHanlder, this),
+            egret.lifecycle.stage.addEventListener(egret.Event.RESIZE, this._onResizeHanlder, this),
+            EventManager.addEventListener("event_selected_npc_dialog_option", this._onSelectedOption, this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this),
+            ImageButtonUtil.add(this.grpBtnBack,
+            function() {
+                t._canTouchFlag = !0,
+                Alert.show("中途离开可能丢失部分进度，确认离开？",
+                function() {
+                    t.data.service.openPanel(e.DataConst.MAIN_PANEL),
+                    t.destroy();
+                    var i = {
+                        volume: .4
+                    };
+                    gsap.to(i, {
+                        volume: 0,
+                        duration: 1,
+                        onUpdate: function() {
+                            SoundManager.instance.setVolume(i.volume)
+                        },
+                        onComplete: function() {
+                            SoundManager.stopMusic(),
+                            SoundManager.instance.setVolume(.4)
+                        }
+                    })
+                })
+            },
+            this)
+        },
+        i.prototype._removeEvents = function() {
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this._onTouchHanlder, this),
+            egret.lifecycle.stage.removeEventListener(egret.Event.RESIZE, this._onResizeHanlder, this),
+            EventManager.removeEventListener("event_selected_npc_dialog_option", this._onSelectedOption, this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this)
+        },
+        i.prototype._next = function() {
+            var e = this;
+            if (this.currTalkListLength = this._talkConfigList.length, 0 === this._talkConfigList.length) {
+                if (! (this._curtTalkConfig.deal.length > 0)) return void this._complete();
+                this.manageDealAttr()
+            } else {
+                if (this._curtTalkConfig = this._talkConfigList.shift(), this._curtTalkConfig.deal.length > 0) {
+                    var t = this._curtTalkConfig.deal.split("|"),
+                    i = t[0].split("_"),
+                    n = ~~i[0];
+                    2 == n && this.manageDealAttr()
+                }
+                this._showDialog().then(function() {
+                    e._canTouchFlag = !0
+                })
+            }
+        },
+        i.prototype._complete = function() {
+            if (!this.isToFight) {
+                var t = this.data.service.getValue(e.AttrConst.FOREVER_CHAPTER);
+                t == this.currChapter - 1 && SocketConnection.sendByQueue(41950, [34, 1]),
+                this.data.service.openPanel(e.DataConst.MAIN_PANEL)
+            }
+            var i = this.data.caller,
+            n = this.data.callBack;
+            this.destroy(),
+            n.apply(i, []);
+            var s = {
+                volume: .4
+            };
+            gsap.to(s, {
+                volume: 0,
+                duration: 1,
+                onUpdate: function() {
+                    SoundManager.instance.setVolume(s.volume)
+                },
+                onComplete: function() {
+                    SoundManager.stopMusic(),
+                    SoundManager.instance.setVolume(.4)
+                }
+            })
+        },
+        i.prototype.onFightOver = function(t) {
+            var i = FightManager.isWin ? this.winJumpGroupId: this.loseJumpGroupId,
+            n = this.data.service.getValue(e.AttrConst.FOREVER_CHAPTER);
+            n == this.currChapter - 1,
+            this._talkConfigList = this._findTalkListByGroupId(i),
+            this._startNextDialog()
+        },
+        i.prototype.manageDealAttr = function(t) {
+            var i = this;
+            if (t = t ? t: 0, this._curtTalkConfig.deal.length > 0) {
+                var n = this._curtTalkConfig.deal.split("|"),
+                s = n[t].split("_"),
+                r = ~~s[0],
+                a = s[1],
+                o = s[2],
+                l = s[3];
+                switch (r) {
+                case 1:
+                    this._talkConfigList = this._findTalkListByGroupId(~~a),
+                    this._startNextDialog();
+                    break;
+                case 2:
+                    this.data && this.data.service.updateValues().then(function() {
+                        var t = i.data.service.getValue(e.AttrConst.FOREVER_CHAPTER),
+                        n = i.data.service.getValue(e.AttrConst.FOREVER_CHECKPOINT);
+                        t == i.currChapter - 1 && (13 == i.currChapter && 1 != n && 4 != n && 7 != n ? SocketConnection.sendByQueue(41950, [34, 1]) : n % 2 == 0 && SocketConnection.sendByQueue(41950, [34, 1])),
+                        i.data.service.openPanel(e.DataConst.BATTLE_PANEL, [a, o, l, i.currChapter]),
+                        i.isToFight = !0,
+                        0 === i.currTalkListLength && i._complete()
+                    });
+                    break;
+                case 3:
+                    this.data.service.updateValues().then(function() {
+                        i.data.service.updateValues().then(function() {
+                            var t = i.data.service.getValue(e.AttrConst.FOREVER_CHAPTER),
+                            n = i.data.service.getValue(e.AttrConst.FOREVER_CHECKPOINT);
+                            t == i.currChapter - 1 ? n % 2 == 0 ? (SocketConnection.sendByQueue(41950, [34, 1]), SocketConnection.sendByQueue(41950, [34, 1])) : 1 == n && SocketConnection.sendByQueue(41950, [34, 1]) : FightManager.tryFight( + a),
+                            i.winJumpGroupId = +o,
+                            i.loseJumpGroupId = +l
+                        })
+                    })
+                }
+            } else this._startNextDialog()
+        },
+        i.prototype._onSelectedOption = function(e) {
+            if (this._canTouchFlag) {
+                this._canTouchFlag = !1;
+                var t = e.data,
+                i = this._curtTalkConfig.answer.split("|").indexOf(t);
+                this.manageDealAttr(i)
+            }
+        },
+        i.prototype.checkCanFix = function() {
+            for (var e = [], t = ItemManager.getClothIDs(), i = 0, n = t; i < n.length; i++) {
+                var s = n[i],
+                r = ItemManager.getClothInfo(s);
+                0 != ItemXMLInfo.getLifeTime(r.itemID) && r.leftTime < 1 && e.push(s)
+            }
+            return e.length > 0
+        },
+        i.prototype._onSetCompPosition = function() {
+            var e = this._curtTalkConfig.dir;
+            this._compDialog.verticalCenter = this._compDialog.verticalCenter_show,
+            this._compNpcModel.x = 0 === e ? this.pos_npc_left.x: this.pos_npc_right.x,
+            this._compNpcModel.y = 0 === e ? this.pos_npc_left.y: this.pos_npc_right.y,
+            this._compNpcTitle.x = 0 === e ? this.pos_npcTitle_left.x: this.pos_npcTitle_right.x,
+            this._compNpcTitle.y = 0 === e ? this.pos_npcTitle_left.y: this.pos_npcTitle_right.y,
+            this._curtTalkConfig.answer && (this._compOption.x = 1 === e ? this.pos_option_left.x: this.pos_option_right.x, this._compOption.y = 1 === e ? this.pos_option_left.y: this.pos_option_right.y)
+        },
+        i.prototype._showDialog = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    switch (e.label) {
+                    case 0:
+                        return this.showBg(),
+                        13 != this.currChapter || 106 != this._curtTalkConfig.groupId || this.isPlayFinalWinAnim || (this.animChapter13Win.visible = !0, this.animChapter13Win.play("idle", -1, 1), this.isPlayFinalWinAnim = !0),
+                        13 == this.currChapter && 104 == this._curtTalkConfig.groupId ? this.showRabbits() : this.showItem(),
+                        this.playBGM(),
+                        this._compNpcModel.updateData(this._curtTalkConfig),
+                        [4, this._compNpcModel.updateView()];
+                    case 1:
+                        return e.sent(),
+                        this._compNpcTitle.updateData(this._curtTalkConfig),
+                        [4, this._compNpcTitle.updateView()];
+                    case 2:
+                        return e.sent(),
+                        this._compDialog.updateData(this._curtTalkConfig),
+                        [4, this._compDialog.updateView()];
+                    case 3:
+                        return e.sent(),
+                        this._curtTalkConfig.answer ? (this._compOption.updateData(this._curtTalkConfig), [4, this._compOption.updateView()]) : [3, 5];
+                    case 4:
+                        e.sent(),
+                        this._compOption.visible = !0,
+                        e.label = 5;
+                    case 5:
+                        return this._compNpcModel.visible = !0,
+                        this._compDialog.visible = !0,
+                        this._compNpcTitle.visible = !0,
+                        this._onSetCompPosition(),
+                        this.isDiffNpc ? [4, this._showAni()] : [3, 7];
+                    case 6:
+                        return e.sent(),
+                        [3, 9];
+                    case 7:
+                        return [4, this._compDialog.textShowAnim()];
+                    case 8:
+                        e.sent(),
+                        e.label = 9;
+                    case 9:
+                        return EventManager.dispatchEventWith("npcDialog_showed", !1, this._curtTalkConfig),
+                        egret.lifecycle.stage.touchChildren = !0,
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i.prototype.showBg = function() {
+            var e = this;
+            if (this._curtTalkConfig.bg > 0) {
+                var t = void 0;
+                t = 26 == this._curtTalkConfig.bg ? "resource/assets/twelveYearsPromise/bg/twelve_years_main_panel_dialogbg" + this._curtTalkConfig.bg + ".png": "resource/assets/twelveYearsPromise/bg/twelve_years_main_panel_dialogbg" + this._curtTalkConfig.bg + ".jpg",
+                this.curBg = t,
+                this.bgBlack.visible = !0
+            } else - 1 == this._curtTalkConfig.bg ? (this.curBg = "common_mask_bg_s9_png", this.bgBlack.visible = !0) : -2 == this._curtTalkConfig.bg ? (this.curBg = "twelve_years_level_pop_whitebg_png", this.bgBlack.visible = !0) : -3 == this._curtTalkConfig.bg && (this.curBg = "", this.bgBlack.visible = !1);
+            switch (this._curtTalkConfig.bgEffect) {
+            case 1:
+                this.BG.source = this.curBg,
+                this.BGCopy.alpha = 0,
+                this.BG.alpha = 0,
+                egret.Tween.get(this.BG).to({
+                    alpha: 1
+                },
+                this.animDelayTime);
+                break;
+            case 2:
+                this.BGCopy.alpha = 0,
+                egret.Tween.get(this.BG).to({
+                    alpha: 0
+                },
+                this.animDelayTime).call(function() {
+                    e.BG.source = "common_mask_bg_s9_png",
+                    e.curBg = "common_mask_bg_s9_png"
+                });
+                break;
+            case 3:
+                this.BGCopy.source = this.curBg,
+                this.BGCopy.alpha = 1,
+                GsapUtils.imageFadIn(this.BG, this.BGCopy, 4,
+                function() {
+                    e.BG.source = e.curBg
+                });
+                break;
+            default:
+                this.BG.alpha = 1,
+                this.BGCopy.alpha = 0,
+                this.BG.source = this.curBg
+            }
+            switch (this._curtTalkConfig.mask) {
+            case 1:
+                this.mask1.source = "common_mask_bg_s9_png";
+                break;
+            case 2:
+                this.mask1.source = "twelve_years_level_pop_whitebg_png";
+                break;
+            default:
+                this.mask1.source = "",
+                this.animBgEffect.visible = !1,
+                this.animBgEffect.stopAll()
+            }
+            if (this._curtTalkConfig.mask > 0) switch (this._curtTalkConfig.maskEffect) {
+            case 0:
+                this.mask1.alpha = 1;
+                break;
+            case 1:
+                this.mask1.alpha = 0;
+                break;
+            case 2:
+                this.mask1.alpha = 0,
+                egret.Tween.get(this.mask1).to({
+                    alpha: 1
+                },
+                this.animDelayTime);
+                break;
+            case 3:
+                this.mask1.alpha = 1,
+                egret.Tween.get(this.mask1).to({
+                    alpha: 0
+                },
+                this.animDelayTime);
+                break;
+            case 4:
+                this.mask1.alpha = 0,
+                egret.Tween.get(this.mask1).to({
+                    alpha: 1
+                },
+                5e3);
+                break;
+            case 5:
+                this.mask1.alpha = 0,
+                this.animBgEffect.visible = !0,
+                this.animBgEffect.play("zhongxinfasan_bai", 1, 1, {
+                    playEnd: function() {
+                        e.mask1.alpha = 1,
+                        e.animBgEffect.visible = !1,
+                        e.animBgEffect.stopAll()
+                    }
+                });
+                break;
+            case 6:
+                this.mask1.alpha = 0,
+                this.animBgEffect.visible = !0,
+                this.animBgEffect.play("zhongxinfasan_hei", 1, 1, {
+                    playEnd: function() {
+                        e.mask1.alpha = 1,
+                        e.animBgEffect.visible = !1,
+                        e.animBgEffect.stopAll()
+                    }
+                })
+            }
+            switch (this._curtTalkConfig.mask2) {
+            case - 1 : break;
+            case 1:
+                this.mask2.source = "twelve_years_main_panel_bgeffectmemory_png";
+                break;
+            case 2:
+                this.animEvilEffect.visible = !0,
+                this.animEvilEffect.play("xieeqingshi", -1, 1);
+                break;
+            case 3:
+                this.mask2.source = "twelve_years_main_panel_bgeffectstorm_png";
+                break;
+            case 4:
+                this.animFire.visible = !0,
+                this.animFire.play("flames_of_war", -1, 1);
+                break;
+            case 5:
+                this.mask2.source = "resource/assets/twelveYearsPromise/bg/twelve_years_main_panel_bgeffectbubbles.png";
+                break;
+            case 6:
+                this.mask2.source = "resource/assets/twelveYearsPromise/bg/twelve_years_main_panel_bgeffectbubble.png";
+                break;
+            case 7:
+                this.mask2.source = "resource/assets/twelveYearsPromise/bg/twelve_years_main_panel_bgeffectred.png";
+                break;
+            default:
+                this.mask2.source = "",
+                this.animFire.visible = !1,
+                this.animFire.stopAll(),
+                this.animEvilEffect.visible = !1,
+                this.animEvilEffect.stopAll()
+            }
+        },
+        i.prototype.showRabbits = function() {
+            if (this._curtTalkConfig.itemId > 0) if (8 == this._curtTalkConfig.itemId) this.animChapter13.visible = !0,
+            this.animChapter13.play("daiji", -1, 1),
+            this.grpRabbits.visible = !1;
+            else switch (this._curtTalkConfig.itemEffect) {
+            case 0:
+            case 2:
+                this["imgRabbit" + this._curtTalkConfig.itemId].alpha = 1;
+                break;
+            case 1:
+            case 4:
+                this["imgRabbit" + this._curtTalkConfig.itemId].alpha = 0;
+                break;
+            case 3:
+                this["imgRabbit" + this._curtTalkConfig.itemId].alpha = 0,
+                egret.Tween.get(this["imgRabbit" + this._curtTalkConfig.itemId]).to({
+                    alpha: 1
+                },
+                this.animDelayTime);
+                break;
+            case 5:
+                egret.Tween.get(this["imgRabbit" + this._curtTalkConfig.itemId]).to({
+                    alpha: 0
+                },
+                this.animDelayTime);
+                break;
+            default:
+                this["imgRabbit" + this._curtTalkConfig.itemId].source = ""
+            }
+        },
+        i.prototype.showItem = function() {
+            if (0 == this._curtTalkConfig.itemId) this.imgItem.source = "";
+            else {
+                var e = "resource/assets/twelveYearsPromise/item/twelve_years_main_panel_dialogitem" + this._curtTalkConfig.itemId + ".png";
+                switch (this.imgItem.source = e, this._curtTalkConfig.itemEffect) {
+                case 0:
+                case 2:
+                    this.imgItem.alpha = 1;
+                    break;
+                case 1:
+                case 4:
+                    this.imgItem.source = "";
+                    break;
+                case 3:
+                    this.imgItem.alpha = 0,
+                    egret.Tween.get(this.imgItem).to({
+                        alpha: 1
+                    },
+                    this.animDelayTime);
+                    break;
+                case 5:
+                    egret.Tween.get(this.imgItem).to({
+                        alpha:
+                        0
+                    },
+                    this.animDelayTime);
+                    break;
+                default:
+                    this.imgItem.source = ""
+                }
+            }
+        },
+        i.prototype.playBGM = function() {
+            if (this._curtTalkConfig.BGM.length > 0) if ("0" == this._curtTalkConfig.BGM) SoundManager.stopMusic();
+            else {
+                var e = "resource/assets/map/sound/" + this._curtTalkConfig.BGM + ".mp3",
+                t = {
+                    volume: .4
+                };
+                gsap.to(t, {
+                    volume: 0,
+                    duration: 1,
+                    onUpdate: function() {
+                        SoundManager.instance.setVolume(t.volume)
+                    },
+                    onComplete: function() {
+                        SoundManager.instance.stopMusic(),
+                        SoundManager.loadSound(e).then(function() {
+                            SoundManager.instance.setVolume(.4),
+                            SoundManager.playMusic()
+                        })
+                    }
+                })
+            }
+        },
+        i.prototype.playSound = function() {},
+        i.prototype._showAni = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t, i, n, n;
+                return __generator(this,
+                function(s) {
+                    switch (s.label) {
+                    case 0:
+                        return e = this._curtTalkConfig.dir,
+                        t = this._compDialog.verticalCenter,
+                        this._compDialog.verticalCenter = t + this._compDialog.height,
+                        this._compDialog.alpha = 0,
+                        this._curtTalkConfig.answer ? this._compOption.visible = !1 : this._compDialog.imgBtn_next.visible = !1,
+                        i = this._compNpcModel.x,
+                        this._compNpcModel.x = 0 === e ? i - this._compNpcModel.width / 2 : i + this._compNpcModel.width / 2,
+                        this._compNpcModel.alpha = 0,
+                        this._compNpcTitle.alpha = 0,
+                        this._curtTalkConfig.npcId > 0 ? (n = common.TweenUtil.createAllTween(egret.Tween.get(this._compDialog).to({
+                            verticalCenter: t,
+                            alpha: 1
+                        },
+                        150, egret.Ease.cubicOut), egret.Tween.get(this._compNpcModel).wait(200).to({
+                            x: i,
+                            alpha: 1
+                        },
+                        150, egret.Ease.cubicOut)), [4, Promise.all(n)]) : [3, 2];
+                    case 1:
+                        return s.sent(),
+                        [3, 4];
+                    case 2:
+                        return n = common.TweenUtil.createAllTween(egret.Tween.get(this._compDialog).to({
+                            verticalCenter: t,
+                            alpha: 1
+                        },
+                        150, egret.Ease.cubicOut)),
+                        [4, Promise.all(n)];
+                    case 3:
+                        s.sent(),
+                        s.label = 4;
+                    case 4:
+                        return [4, common.TweenUtil.TweenToPromise(egret.Tween.get(this._compNpcTitle).to({
+                            alpha: 1
+                        },
+                        150, egret.Ease.cubicOut))];
+                    case 5:
+                        return s.sent(),
+                        this._curtTalkConfig.answer ? (this._compOption.visible = !0, this._compOption.alpha = 0, [4, common.TweenUtil.TweenToPromise(egret.Tween.get(this._compOption).to({
+                            alpha: 1
+                        },
+                        100, egret.Ease.cubicOut))]) : [3, 7];
+                    case 6:
+                        return s.sent(),
+                        [3, 8];
+                    case 7:
+                        this._compDialog.imgBtn_next.alpha = .2,
+                        this._compDialog.imgBtn_next.visible = !0,
+                        egret.Tween.removeTweens(this._compDialog.imgBtn_next),
+                        this._compDialog.imgBtn_next.y = 15,
+                        egret.Tween.get(this._compDialog.imgBtn_next, {
+                            loop: !0
+                        }).to({
+                            alpha: 1,
+                            y: 30
+                        },
+                        975).to({
+                            alpha: .2,
+                            y: 15
+                        },
+                        625),
+                        s.label = 8;
+                    case 8:
+                        return [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i.prototype._hideAni = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t, i, n;
+                return __generator(this,
+                function(s) {
+                    switch (s.label) {
+                    case 0:
+                        return e = this._curtTalkConfig.dir,
+                        t = this._compDialog.verticalCenter + this._compDialog.height,
+                        i = 0 === e ? this._compNpcModel.x - this._compNpcModel.width / 2 : this._compNpcModel.x + this._compNpcModel.width / 2,
+                        egret.Tween.removeTweens(this._compDialog.imgBtn_next),
+                        n = common.TweenUtil.createAllTween(egret.Tween.get(this._compDialog).to({
+                            verticalCenter: t,
+                            alpha: 0
+                        },
+                        150, egret.Ease.cubicOut), egret.Tween.get(this._compNpcModel).to({
+                            x: i,
+                            alpha: 0
+                        },
+                        150, egret.Ease.cubicOut), egret.Tween.get(this._compNpcTitle).to({
+                            alpha: 0
+                        },
+                        150, egret.Ease.cubicOut)),
+                        this._compOption.visible = !1,
+                        [4, Promise.all(n)];
+                    case 1:
+                        return s.sent(),
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i.prototype._onTouchHanlder = function(e) {
+            if (this._canTouchFlag) {
+                if (this._curtTalkConfig.answer) {
+                    var t = this._curtTalkConfig.answer.split("|").length;
+                    if (t > 1) return void BubblerManager.getInstance().showText("请先选择应答方式")
+                }
+                e.target != this.grpBtnBack && (this._canTouchFlag = !1, this._startNextDialog())
+            }
+        },
+        i.prototype._onResizeHanlder = function(e) {
+            var t = this;
+            egret.setTimeout(function() {
+                t._onSetCompPosition()
+            },
+            this, 100)
+        },
+        i.prototype._resize = function() {
+            for (var e = 1136,
+            t = 640,
+            i = egret.lifecycle.stage.stageWidth,
+            n = egret.lifecycle.stage.stageHeight,
+            s = i / e,
+            r = n / t,
+            a = Math.max(s, r), o = 0; o < this.resizeObj.length; ++o) this.resizeObj[o].scaleX = this.resizeObj[o].scaleY = a,
+            s > r ? this.resizeObj[o].y = (n - t * a) / 2 : this.resizeObj[o].x = (i - e * a) / 2;
+            this.animBgEffect.scaleX = a,
+            this.animChapter13.scaleX = this.animChapter13.scaleY = a,
+            this.animChapter13Win.scaleX = this.animChapter13Win.scaleY = a,
+            this.animFire.scaleX = a,
+            this.animEvilEffect.scaleX = a
+        },
+        i.prototype._startNextDialog = function() {
+            var e = this;
+            this._talkConfigList.length > 0 && this.prevNpcId != this._talkConfigList[0].npcId ? (this.isDiffNpc = !0, this.prevNpcId = this._talkConfigList[0].npcId, this._hideAni().then(function() {
+                e._resetUi(),
+                e._next()
+            })) : (this.isDiffNpc = !1, this._resetUi(), this._next())
+        },
+        i.prototype._resetUi = function() {
+            this._compNpcModel.visible = !1,
+            this._compDialog.visible = !1,
+            this._compOption.visible = !1,
+            this._compNpcTitle.visible = !1
+        },
+        i.prototype.destroy = function() {
+            this._compDialog.destroy(),
+            this._compNpcModel.destroy(),
+            this._compOption.destroy(),
+            this._compNpcTitle.destroy(),
+            this._removeEvents(),
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    e.TwelveYearsDialog = n,
+    __reflect(n.prototype, "twelveYearsPromise.TwelveYearsDialog")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(s, r) {
+        function a(e) {
+            try {
+                l(n.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function o(e) {
+            try {
+                l(n["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function l(e) {
+            e.done ? s(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(a, o)
+        }
+        l((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (s) throw new TypeError("Generator is already executing.");
+        for (; l;) try {
+            if (s = 1, r && (a = r[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(r, i[1])).done) return a;
+            switch (r = 0, a && (i = [0, a.value]), i[0]) {
+            case 0:
+            case 1:
+                a = i;
+                break;
+            case 4:
+                return l.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                l.label++,
+                r = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = l.ops.pop(),
+                l.trys.pop();
+                continue;
+            default:
+                if (a = l.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    l = 0;
+                    continue
+                }
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                    l.label = i[1];
+                    break
+                }
+                if (6 === i[0] && l.label < a[1]) {
+                    l.label = a[1],
+                    a = i;
+                    break
+                }
+                if (a && l.label < a[2]) {
+                    l.label = a[2],
+                    l.ops.push(i);
+                    break
+                }
+                a[2] && l.ops.pop(),
+                l.trys.pop();
+                continue
+            }
+            i = t.call(e, l)
+        } catch(n) {
+            i = [6, n],
+            r = 0
+        } finally {
+            s = a = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var s, r, a, o, l = {
+        label: 0,
+        sent: function() {
+            if (1 & a[0]) throw a[1];
+            return a[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return o = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
+        return this
+    }),
+    o
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var i = t.call(this) || this;
+            return i.verticalCenter_show = 193.5,
+            i.verticalCenter_ImgBtn_sure = 85.5,
+            i.skinName = e.CompDialogSkin,
+            i
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {},
+        i.prototype.updateData = function(e) {
+            this._talkConfig = e
+        },
+        i.prototype.updateView = function() {
+            this._talkConfig.npcId > 0 ? this.currentState = "normal": this.currentState = "narrator";
+            var e = this._talkConfig.msg.replace(/\${nick}/g, MainManager.actorInfo.nick);
+            return this.text_desc.textFlow = (new egret.HtmlTextParser).parser(e),
+            this.imgBtn_next.visible = !this._talkConfig.answer,
+            Promise.resolve()
+        },
+        i.prototype.textShowAnim = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    switch (e.label) {
+                    case 0:
+                        return this.text_desc.alpha = 0,
+                        [4, common.TweenUtil.TweenToPromise(egret.Tween.get(this.text_desc).to({
+                            alpha: 1
+                        },
+                        800, egret.Ease.cubicOut))];
+                    case 1:
+                        return e.sent(),
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    e.CompDialog = t,
+    __reflect(t.prototype, "twelveYearsPromise.CompDialog", ["twelveYearsPromise.IComponent"])
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(s, r) {
+        function a(e) {
+            try {
+                l(n.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function o(e) {
+            try {
+                l(n["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function l(e) {
+            e.done ? s(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(a, o)
+        }
+        l((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (s) throw new TypeError("Generator is already executing.");
+        for (; l;) try {
+            if (s = 1, r && (a = r[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(r, i[1])).done) return a;
+            switch (r = 0, a && (i = [0, a.value]), i[0]) {
+            case 0:
+            case 1:
+                a = i;
+                break;
+            case 4:
+                return l.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                l.label++,
+                r = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = l.ops.pop(),
+                l.trys.pop();
+                continue;
+            default:
+                if (a = l.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    l = 0;
+                    continue
+                }
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                    l.label = i[1];
+                    break
+                }
+                if (6 === i[0] && l.label < a[1]) {
+                    l.label = a[1],
+                    a = i;
+                    break
+                }
+                if (a && l.label < a[2]) {
+                    l.label = a[2],
+                    l.ops.push(i);
+                    break
+                }
+                a[2] && l.ops.pop(),
+                l.trys.pop();
+                continue
+            }
+            i = t.call(e, l)
+        } catch(n) {
+            i = [6, n],
+            r = 0
+        } finally {
+            s = a = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var s, r, a, o, l = {
+        label: 0,
+        sent: function() {
+            if (1 & a[0]) throw a[1];
+            return a[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return o = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
+        return this
+    }),
+    o
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var i = t.call(this) || this;
+            return i.skinName = e.CompoentNpcSkin,
+            i
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {},
+        i.prototype.updateData = function(e) {
+            this._talkConfig = e
+        },
+        i.prototype.updateView = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t;
+                return __generator(this,
+                function(i) {
+                    switch (i.label) {
+                    case 0:
+                        return this._talkConfig.npcId > 0 ? (e = void 0, e = 11 == this._talkConfig.npcId ? ClientConfig.getNpcDialogPng(this._talkConfig.npcId) : "resource/assets/twelveYearsPromise/npc/npc_" + this._talkConfig.npcId + ".png", t = this.npc, [4, RES.getResByUrl(e)]) : [3, 2];
+                    case 1:
+                        t.texture = i.sent(),
+                        this.width = this.npc.texture.textureWidth,
+                        this.height = this.npc.texture.textureHeight,
+                        this.scaleX = 1 === this._talkConfig.dir ? -1 : 1,
+                        this.anchorOffsetY = this.height / 2,
+                        this.anchorOffsetX = 0,
+                        i.label = 2;
+                    case 2:
+                        return [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i
+    } (BaseModule);
+    e.CompNpcModel = t,
+    __reflect(t.prototype, "twelveYearsPromise.CompNpcModel", ["twelveYearsPromise.IComponent"])
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(s, r) {
+        function a(e) {
+            try {
+                l(n.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function o(e) {
+            try {
+                l(n["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function l(e) {
+            e.done ? s(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(a, o)
+        }
+        l((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (s) throw new TypeError("Generator is already executing.");
+        for (; l;) try {
+            if (s = 1, r && (a = r[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(r, i[1])).done) return a;
+            switch (r = 0, a && (i = [0, a.value]), i[0]) {
+            case 0:
+            case 1:
+                a = i;
+                break;
+            case 4:
+                return l.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                l.label++,
+                r = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = l.ops.pop(),
+                l.trys.pop();
+                continue;
+            default:
+                if (a = l.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    l = 0;
+                    continue
+                }
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                    l.label = i[1];
+                    break
+                }
+                if (6 === i[0] && l.label < a[1]) {
+                    l.label = a[1],
+                    a = i;
+                    break
+                }
+                if (a && l.label < a[2]) {
+                    l.label = a[2],
+                    l.ops.push(i);
+                    break
+                }
+                a[2] && l.ops.pop(),
+                l.trys.pop();
+                continue
+            }
+            i = t.call(e, l)
+        } catch(n) {
+            i = [6, n],
+            r = 0
+        } finally {
+            s = a = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var s, r, a, o, l = {
+        label: 0,
+        sent: function() {
+            if (1 & a[0]) throw a[1];
+            return a[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return o = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
+        return this
+    }),
+    o
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var i = t.call(this) || this;
+            return i.skinName = e.CompNpcTitleSkin,
+            i
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {},
+        i.prototype.updateData = function(e) {
+            this._talkConfig = e
+        },
+        i.prototype.updateView = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    return this._talkConfig.npcId > 0 ? (this.txt_npcName.text = this._talkConfig.npcName, this.grp.visible = !0) : this.grp.visible = !1,
+                    [2, Promise.resolve()]
+                })
+            })
+        },
+        i
+    } (BaseModule);
+    e.CompNpcTitle = t,
+    __reflect(t.prototype, "twelveYearsPromise.CompNpcTitle", ["twelveYearsPromise.IComponent"])
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var i = t.call(this) || this;
+            return i.skinName = e.CompOptionSkin,
+            i
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {},
+        i.prototype.updateData = function(e) {
+            this._talkConfig = e
+        },
+        i.prototype.updateView = function() {
+            this.currentState = 0 === this._talkConfig.dir ? "right": "left",
+            this.validateNow();
+            for (var t = this._talkConfig.answer.split("|"), i = 0; i < this.grp_options.numChildren; i++) {
+                var n = this.grp_options.getChildAt(i);
+                n.destroy()
+            }
+            this.grp_options.removeChildren();
+            for (var i = 0; i < t.length; i++) {
+                var n;
+                i < this.grp_options.numChildren ? (n = this.grp_options.getChildAt(i), n.setLab(t[i]), n.visible = !0) : (n = new e.ItemOption(t[i]), this.grp_options.addChild(n))
+            }
+            this.grp_options.validateNow();
+            var s = this.grp_options.height;
+            return this.texture_001.y = s,
+            this.height = s + this.texture_001.height,
+            this.width = this.grp_options.width,
+            0 === this._talkConfig.dir ? (this.anchorOffsetX = this.width, this.anchorOffsetY = this.height) : (this.anchorOffsetX = 0, this.anchorOffsetY = this.height),
+            Promise.resolve()
+        },
+        i.prototype.destroy = function() {
+            for (; this.grp_options.numChildren;) {
+                var e = this.grp_options.getChildAt(0);
+                e.destroy()
+            }
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    e.CompOptions = t,
+    __reflect(t.prototype, "twelveYearsPromise.CompOptions", ["twelveYearsPromise.IComponent"])
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i(i) {
+            var n = t.call(this, i) || this;
+            return n._txt = i,
+            n.skinName = e.ItemOptionSkin,
+            n
+        }
+        return __extends(i, t),
+        i.prototype._initEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.grp_touch,
+            function(t) {
+                t.stopImmediatePropagation(),
+                EventManager.dispatchEvent(new egret.Event("event_selected_npc_dialog_option", !1, !1, e._txt))
+            },
+            this)
+        },
+        i.prototype._removeEvent = function() {
+            ImageButtonUtil.remove(this)
+        },
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this._initEvent(),
+            this._updateLab()
+        },
+        i.prototype.setLab = function(e) {
+            this._txt = e,
+            this._updateLab()
+        },
+        i.prototype._updateLab = function() {
+            this.txt_option.text = this._txt
+        },
+        i.prototype.destroy = function() {
+            this._removeEvent(),
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    e.ItemOption = t,
+    __reflect(t.prototype, "twelveYearsPromise.ItemOption")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.ARR_LEVEL_ITEM_POSITION = [{
+            x: 139,
+            y: 203
+        },
+        {
+            x: 137,
+            y: 128
+        },
+        {
+            x: 124,
+            y: 157
+        },
+        {
+            x: 118,
+            y: 120
+        },
+        {
+            x: 85,
+            y: 156
+        },
+        {
+            x: 60,
+            y: 73
+        },
+        {
+            x: -8,
+            y: 123
+        },
+        {
+            x: -24,
+            y: 26
+        },
+        {
+            x: -7,
+            y: 85
+        },
+        {
+            x: 7,
+            y: 1
+        },
+        {
+            x: 29,
+            y: 19
+        },
+        {
+            x: 9,
+            y: 108
+        },
+        {
+            x: 3,
+            y: 16
+        }],
+        e.ARR_CHECK_POINT_GROUP_ID = [[1, "battle_18568_5_6", 6], [9, "battle_18569_10_11", 11], [15, 15, 15], [21, "battle_18570_47_28", 28], [33, "battle_18571_49_34", 34, "battle_18571_48_35", 35], [50, "battle_18572_57_58", 58], [59, 59, 59], [60, "battle_18573_65_72", 72], [76, "battle_18574_77_78", 78], [86, "battle_18575_117_118", 118], [89, 94, 95, 96], [98, "battle_18576_99_100", 100], [101, "battle_18577_102_103", 102, 103, "battle_18578_104_119", 104, 119, "battle_18579_127_106", 106]],
+        e.ACTIVITY_PANEL = "twelveYearsPromise.TwelveYearsActivityCenterPanel",
+        e.MAIN_PANEL = "twelveYearsPromise.TwelveYearsMainPanel",
+        e.BATTLE_PANEL = "twelveYearsPromise.TwelveYearsBattlePanel",
+        e
+    } ();
+    e.DataConst = t,
+    __reflect(t.prototype, "twelveYearsPromise.DataConst")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = twelveYearsLevelItemSkin,
+            e.touchEnabled = !1,
+            e.cacheAsBitmap = !0,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this)
+        },
+        i.prototype.playAnim = function() {
+            var e = this;
+            this.anim.visible = !0,
+            this.anim.play("fog_xiaosan", 1, 1, {
+                playEnd: function() {
+                    e.data.itemIndex + 1 == 13 ? (e.animChapter13 = SpineUtil.copy(e.anim), e.grp.addChildAt(e.animChapter13, 0), e.animChapter13.touchEnabled = !1, e.animChapter13.touchChildren = !1, e.animChapter13.x = e.grp.x + 104.5, e.animChapter13.y = e.grp.y + 29, e.animChapter13.play("fog_juezhanguang", -1, 1)) : e.anim.play("fog_daiji_guang", -1, 1)
+                }
+            })
+        },
+        i.prototype.dataChanged = function() {
+            var i = this;
+            t.prototype.dataChanged.call(this),
+            ImageButtonUtil.remove(this.imgLevelOpened),
+            this.currentState = this.data.state,
+            this.grp.x = this.data.pos.x,
+            this.grp.y = this.data.pos.y,
+            this.realItemIndex = this.data.itemIndex + 1,
+            this.imgLevelOpened.source = "twelve_years_main_panel_levelopened_" + this.realItemIndex + "_png";
+            var n = this.data.service.getValue(e.AttrConst.FOREVER_CHAPTER);
+            n == this.data.itemIndex && "open" == this.currentState && (this.anim = SpineUtil.createAnimate("tianjiehuilang"), this.addChild(this.anim), this.anim.touchEnabled = !1, this.anim.touchChildren = !1, this.anim.visible = !1, this.anim.x = this.grp.x + 104.5, this.anim.y = this.grp.y + 86, this.playAnim()),
+            "open" == this.currentState ? (DisplayUtil.setColor(this.imgLevelOpened, DisplayUtil.COLOR_WIHTE), ImageButtonUtil.add(this.imgLevelOpened,
+            function() {
+                PopViewManager.getInstance().openView(new e.TwelveYearsLevelPop(i.realItemIndex, i.data.service))
+            },
+            this)) : DisplayUtil.setColor(this.imgLevelOpened, DisplayUtil.COLOR_GRAY)
+        },
+        i
+    } (BaseItemRenderer);
+    e.TwelveYearsLevelItem = t,
+    __reflect(t.prototype, "twelveYearsPromise.TwelveYearsLevelItem")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = twelveYearsLevelPopItemSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.dataChanged = function() {
+            var t = this;
+            switch (e.prototype.dataChanged.call(this), ImageButtonUtil.remove(this.imgIcon), this.currentState = this.data.state, this.data.itemInfo.itemType) {
+            case 1:
+                this.imgIcon.source = ClientConfig.getItemIcon(this.data.itemInfo.infos[0]),
+                ImageButtonUtil.add(this.imgIcon,
+                function() {
+                    tipsPop.TipsPop.openItemPop({
+                        id: t.data.itemInfo.infos[0]
+                    })
+                },
+                this);
+                break;
+            case 2:
+                this.imgIcon.source = ClientConfig.getMarkPath(this.data.itemInfo.infos[0]),
+                ImageButtonUtil.add(this.imgIcon,
+                function() {
+                    tipsPop.TipsPop.openCounterMarkPop({
+                        ins: t.data.itemInfo.infos[0]
+                    })
+                },
+                this);
+                break;
+            case 10:
+                var i = AchieveXMLInfo.getRule(this.data.itemInfo.infos[0], this.data.itemInfo.infos[1]);
+                if ( - 1 != [2, 14, 18].indexOf(this.data.itemInfo.infos[0])) this.imgIcon.source = ClientConfig.getAchieveSPTIcon(i.proicon);
+                else {
+                    if (!i.proicon) {
+                        var n = AchieveXMLInfo.getRule(this.data.itemInfo.infos[0], this.data.itemInfo.infos[1]);
+                        n.proicon = n.proicon
+                    }
+                    this.imgIcon.source = ClientConfig.getAchieveIcon(i.proicon)
+                }
+                ImageButtonUtil.add(this.imgIcon,
+                function() {
+                    tipsPop.TipsPop.openTitleInfoPop(472)
+                },
+                this)
+            }
+        },
+        t
+    } (BaseItemRenderer);
+    e.TwelveYearsLevelPopItem = t,
+    __reflect(t.prototype, "twelveYearsPromise.TwelveYearsLevelPopItem")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = twelveYearsRewardPopItem,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this);
+            var i = SystemTimerManager.sysBJDate,
+            n = i.getMonth() + 1,
+            s = i.getDate();
+            "normal" == this.data.state ? 5 < this.itemIndex && this.itemIndex < 12 && 11 == n && 18 > s ? (this.currentState = "lock", this.txtLockDay.text = "11.18解锁") : 12 == this.itemIndex && 11 == n && 19 > s ? (this.currentState = "lock", this.txtLockDay.text = "11.19解锁") : this.currentState = this.data.state: this.currentState = this.data.state,
+            this.levelId = this.data.id,
+            this.imgIcon.source = "twelve_years_main_panel_levelopened_" + this.levelId + "_png";
+            var r = this.imgIcon.texture.$bitmapWidth / this.imgIcon.texture.$bitmapHeight;
+            this.imgIcon.height = 92,
+            this.imgIcon.width = this.imgIcon.height * r;
+            for (var a = this.processData(), o = [], l = 0; l < a.length; l++) o.push({
+                itemInfo: a[l],
+                state: "rewardPop"
+            });
+            this.list.itemRenderer = e.TwelveYearsLevelPopItem,
+            this.list.dataProvider = new eui.ArrayCollection(o),
+            a.length < 5 ? this.cacheAsBitmap = !0 : this.cacheAsBitmap = !1
+        },
+        i.prototype.processData = function() {
+            for (var e = config.TwelveYearsPromise_Bonus.getItem(this.levelId), t = e.bonusID.split(";"), i = [], n = 0; n < t.length; n++) {
+                var s = t[n].split("_");
+                i.push({
+                    itemType: +s[0],
+                    infos: [ + s[1], +s[2]]
+                })
+            }
+            return this.txtLevelName.text = e.title,
+            i
+        },
+        i
+    } (BaseItemRenderer);
+    e.TwelveYearsRewardPopItem = t,
+    __reflect(t.prototype, "twelveYearsPromise.TwelveYearsRewardPopItem")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = twelveYearsPromiseSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.resize = function() {
+            t.prototype.resize.call(this);
+            var e = this.activityCenterBg.width,
+            i = this.activityCenterBg.height,
+            n = egret.lifecycle.stage.stageWidth,
+            s = egret.lifecycle.stage.stageHeight,
+            r = n / e,
+            a = s / i,
+            o = Math.max(r, a);
+            this.activityCenterBg.scaleX = this.activityCenterBg.scaleY = o,
+            r > a ? this.activityCenterBg.y = (s - i * o) / 2 : this.activityCenterBg.x = (n - e * o) / 2
+        },
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.list.itemRenderer = e.TwelveYearsLevelPopItem;
+            for (var i = [], n = [1, 10, 1, 1, 1, 1], s = [1725570, [152, 27], 1725568, 1725569, 1725571, 400568], r = 0; 6 > r; r++) 1 == r ? i.push({
+                itemInfo: {
+                    itemType: n[r],
+                    infos: [s[r][0], s[r][1]]
+                },
+                state: "activityCenter"
+            }) : i.push({
+                itemInfo: {
+                    itemType: n[r],
+                    infos: [s[r], 0]
+                },
+                state: "activityCenter"
+            });
+            this.listData = i,
+            this.list.dataProvider = new eui.ArrayCollection(this.listData),
+            this.addEvent(),
+            this.resize();
+            var a = core.manager.BitBuffSetManager.getInstance().getValueByID(6);
+            0 >= a && (core.manager.BitBuffSetManager.getInstance().setValueID(6, 1), npcDialog.showDialogIds(265,
+            function() {},
+            this)),
+            this.bgAnim = SpineUtil.createAnimate("12rukou"),
+            this.grpTitleAnim.addChildAt(this.bgAnim, 0),
+            this.bgAnim.touchEnabled = !1,
+            this.bgAnim.touchChildren = !1,
+            this.bgAnim.visible = !1,
+            this.btnAnim = SpineUtil.copy(this.bgAnim),
+            this.btnAnim.touchEnabled = !1,
+            this.btnAnim.touchChildren = !1,
+            this.btnAnim.visible = !1,
+            this.grp.addChildAt(this.btnAnim, 1),
+            this.btnAnim.x = this.btnGo.x,
+            this.btnAnim.y = this.btnGo.y,
+            this.playAnim()
+        },
+        i.prototype.playAnim = function() {
+            this.bgAnim.visible = !0,
+            this.bgAnim.play("beijing"),
+            this.btnAnim.visible = !0,
+            this.btnAnim.play("anniu")
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnGo,
+            function() {
+                t.service.openPanel(e.DataConst.MAIN_PANEL),
+                EventManager.dispatchEventWith("hideActivityCenterLeft")
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            this.list.dataProvider = new eui.ArrayCollection(this.listData)
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BasicPanel);
+    e.TwelveYearsActivityCenterPanel = t,
+    __reflect(t.prototype, "twelveYearsPromise.TwelveYearsActivityCenterPanel")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = twelveYearsBattlePanelSkin,
+            e.animChapter13 = SpineUtil.createAnimate("juanzhanzhakesi_a"),
+            e.grpAnim.addChildAt(e.animChapter13, 0),
+            e.animChapter13.touchEnabled = !1,
+            e.animChapter13.touchChildren = !1,
+            e.animChapter13.visible = !1,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.beforeAdd = function(t) {
+            var i = this;
+            this.bossId = +t[0],
+            this.loseDialogId = +t[1],
+            this.winDialogId = +t[2],
+            this.currChapter = +t[3];
+            var n = [1, 5, 6, 8, 10, 11, 13, 15, 16, 18, 19, 22];
+            if (this.animChapter13.visible = !1, this.animChapter13.stopAll(), this.currChapter <= 7 || 11 == this.currChapter || 12 == this.currChapter) {
+                this.currentState = "Boss3";
+                var s = "resource/assets/twelveYearsPromise/bg/twelve_years_main_panel_dialogbg" + n[this.currChapter - 1] + ".jpg";
+                this.bg.source = s
+            } else if (8 == this.currChapter || 10 == this.currChapter) {
+                this.currentState = "Boss2";
+                var s = "resource/assets/twelveYearsPromise/bg/twelve_years_main_panel_dialogbg" + n[this.currChapter - 1] + ".jpg";
+                this.bg.source = s
+            } else 9 == this.currChapter ? this.currentState = "Boss1": 13 == this.currChapter && (this.currentState = "final", this.service.updateValues().then(function(t) {
+                var n = i.service.getValue(e.AttrConst.FOREVER_CHAPTER) >= 13,
+                s = i.service.getValue(e.AttrConst.FOREVER_CHECKPOINT);
+                if (n && 106 == i.winDialogId) return i.bg.source = "",
+                i.animChapter13.visible = !0,
+                void i.animChapter13.play("daiji", -1, 1);
+                if (13 == i.currChapter && 7 > s) {
+                    var r = "resource/assets/twelveYearsPromise/bg/twelve_years_main_panel_dialogbg26.png";
+                    i.bg.source = r
+                } else i.bg.source = "",
+                i.animChapter13.visible = !0,
+                i.animChapter13.play("daiji", -1, 1)
+            }));
+            ImageButtonUtil.remove(this.btnFight),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                if (i.checkCanFight()) {
+                    var t = i.service.getValue(e.AttrConst.FOREVER_CHAPTER);
+                    t == i.currChapter - 1 ? SocketConnection.sendByQueue(41950, [34, 1]) : FightManager.fightNoMapBoss(i.bossId)
+                } else BubblerManager.getInstance().showText("背包中无可出战精灵！")
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this)
+        },
+        i.prototype.checkCanFight = function() {
+            var e = !1;
+            return PetManager.infos.forEach(function(t) {
+                return t.hp > 0 ? void(e = !0) : void 0
+            }),
+            e
+        },
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.resizeObj = [this.bg, this.tuceng_1, this.BOSS1, this.BOSS2, this.BOSS3],
+            this.addEvent(),
+            this.resize()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.grpBtnBack,
+            function() {
+                Alert.show("中途离开可能丢失部分进度，确认离开？",
+                function() {
+                    t.service.closePanel(),
+                    EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, t.onFightOver, t),
+                    t.service.openPanel(e.DataConst.MAIN_PANEL)
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnPetBag,
+            function() {
+                StatLogger.log("20230310版本系统功能", "系统优化：SPT", '玩家点击界面左下角"精灵背包"按钮'),
+                ModuleManager.showModuleByID(10)
+            },
+            this),
+            ImageButtonUtil.add(this.btnRecover,
+            function() {
+                PetManager.cureAll()
+            },
+            this)
+        },
+        i.prototype.onFightOver = function() {
+            FightManager.isWin ? (EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this), e.showDialogByGroupId(this.winDialogId,
+            function() {},
+            this, this.service), this.service.closePanel()) : (EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this), e.showDialogByGroupId(this.loseDialogId,
+            function() {},
+            this, this.service))
+        },
+        i.prototype.resize = function() {
+            t.prototype.resize.call(this);
+            for (var e = 1136,
+            i = 640,
+            n = egret.lifecycle.stage.stageWidth,
+            s = egret.lifecycle.stage.stageHeight,
+            r = n / e,
+            a = s / i,
+            o = Math.max(r, a), l = 0; l < this.resizeObj.length; ++l) this.resizeObj[l].scaleX = this.resizeObj[l].scaleY = o,
+            r > a ? this.resizeObj[l].y = (s - i * o) / 2 : this.resizeObj[l].x = (n - e * o) / 2;
+            this.animChapter13.scaleX = this.animChapter13.scaleY = o
+        },
+        i
+    } (BasicPanel);
+    e.TwelveYearsBattlePanel = t,
+    __reflect(t.prototype, "twelveYearsPromise.TwelveYearsBattlePanel")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = twelveYearsMainPanelSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.list.itemRenderer = e.TwelveYearsLevelItem,
+            SoundManager.stopMusic(),
+            this.resize();
+            var i = core.manager.BitBuffSetManager.getInstance().getValueByID(7);
+            0 >= i && (core.manager.BitBuffSetManager.getInstance().setValueID(7, 1), npcDialog.showDialogIds(273,
+            function() {},
+            this))
+        },
+        i.prototype.resize = function() {
+            t.prototype.resize.call(this);
+            var e = this.mainBg.width,
+            i = this.mainBg.height,
+            n = egret.lifecycle.stage.stageWidth,
+            s = egret.lifecycle.stage.stageHeight,
+            r = n / e,
+            a = s / i,
+            o = Math.max(r, a);
+            this.mainBg.scaleX = this.mainBg.scaleY = o,
+            r > a ? this.mainBg.y = (s - i * o) / 2 : this.mainBg.x = (n - e * o) / 2
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.service.closePanel(),
+                EventManager.dispatchEventWith("showActivityCenterLeft")
+            },
+            this),
+            ImageButtonUtil.add(this.btnRewards,
+            function() {
+                PopViewManager.getInstance().openView(new e.TwelveYearsRewardPop(t.service))
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            this.list.dataProvider = new eui.ArrayCollection(this.listData),
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            var t = this;
+            this.service.updateValues().then(function(i) {
+                var n = [],
+                s = t.service.getValue(e.AttrConst.FOREVER_CHAPTER);
+                s = s > 12 ? 12 : s,
+                t.currChapter = s + 1;
+                for (var r = SystemTimerManager.sysBJDate,
+                a = r.getMonth() + 1, o = r.getDate(), l = 6; 12 > l; ++l) {
+                    var h = e.DataConst.ARR_LEVEL_ITEM_POSITION[l];
+                    s >= l && 11 == a && o >= 18 ? n.push({
+                        itemIndex: l,
+                        pos: h,
+                        state: "open",
+                        service: t.service
+                    }) : 6 == s && 6 == l ? n.push({
+                        itemIndex: l,
+                        pos: h,
+                        state: "tomorrow",
+                        service: t.service
+                    }) : n.push({
+                        itemIndex: l,
+                        pos: h,
+                        state: "close",
+                        service: t.service
+                    })
+                }
+                var c = e.DataConst.ARR_LEVEL_ITEM_POSITION[12];
+                s >= 12 && 11 == a && o >= 19 ? n.push({
+                    itemIndex: 12,
+                    pos: c,
+                    state: "open",
+                    service: t.service
+                }) : 12 == s && 11 == a && 18 == o ? n.push({
+                    itemIndex: 12,
+                    pos: c,
+                    state: "tomorrow",
+                    service: t.service
+                }) : n.push({
+                    itemIndex: 12,
+                    pos: c,
+                    state: "close",
+                    service: t.service
+                });
+                for (var l = 5; l >= 0; --l) {
+                    var _ = e.DataConst.ARR_LEVEL_ITEM_POSITION[l];
+                    s >= l ? n.push({
+                        itemIndex: l,
+                        pos: _,
+                        state: "open",
+                        service: t.service
+                    }) : n.push({
+                        itemIndex: l,
+                        pos: _,
+                        state: "close",
+                        service: t.service
+                    })
+                }
+                t.listData = n,
+                t.list.dataProvider = new eui.ArrayCollection(t.listData);
+                var p = SystemTimerManager.sysBJDate,
+                u = p.getMonth() + 1,
+                g = p.getDate();
+                11 == u && g >= 19 && 13 == t.currChapter && t.showFirstFinalDialog()
+            })
+        },
+        i.prototype.showFirstFinalDialog = function() {
+            var e = core.manager.BitBuffSetManager.getInstance().getValueByID(8);
+            0 >= e && (core.manager.BitBuffSetManager.getInstance().setValueID(8, 1), npcDialog.showDialogIds(274,
+            function() {},
+            this))
+        },
+        i
+    } (BasicPanel);
+    e.TwelveYearsMainPanel = t,
+    __reflect(t.prototype, "twelveYearsPromise.TwelveYearsMainPanel")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i(e, i) {
+            var n = t.call(this) || this;
+            return n.skinName = twelveYearsLevelPopSkin,
+            n.levelId = e,
+            n.service = i,
+            n
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this);
+            var n = config.TwelveYearsPromise_Bonus.getItem(this.levelId),
+            s = this.processData(n);
+            this.txtLevelName.text = n.title,
+            this.txtDesc.text = n.des,
+            this.imgLevel.source = "twelve_years_main_panel_levelopened_" + this.levelId + "_png";
+            for (var r = [], a = 0; a < s.length; a++) r.push({
+                itemInfo: s[a],
+                state: "levelPop"
+            });
+            this.list.itemRenderer = e.TwelveYearsLevelPopItem,
+            this.list.dataProvider = new eui.ArrayCollection(r),
+            ImageButtonUtil.add(this.btnStart,
+            function() {
+                i.hide(),
+                i.showDialog()
+            },
+            this)
+        },
+        i.prototype.showDialog = function() {
+            var t = this;
+            this.service.updateValues().then(function(i) {
+                var n = t.service.getValue(e.AttrConst.FOREVER_CHAPTER),
+                s = t.service.getValue(e.AttrConst.FOREVER_CHECKPOINT);
+                if (n == t.levelId - 1) if (11 == t.levelId && 1 == s) {
+                    for (var r = e.DataConst.ARR_CHECK_POINT_GROUP_ID[n][s], a = config.TwelveYearsPromise.getItems(), o = [], l = 0; l < a.length; l++) a[l].groupId === r && o.push(a[l]);
+                    e.showDialogById( + o[o.length - 1].id,
+                    function() {},
+                    t, t.service)
+                } else {
+                    var r = e.DataConst.ARR_CHECK_POINT_GROUP_ID[n][s];
+                    if ( - 1 != r.toString().indexOf("battle")) {
+                        var h = r.toString().split("_");
+                        t.service.openPanel(e.DataConst.BATTLE_PANEL, [h[1], h[2], h[3], t.levelId])
+                    } else e.showDialogByGroupId( + r,
+                    function() {},
+                    t, t.service)
+                } else {
+                    var r = e.DataConst.ARR_CHECK_POINT_GROUP_ID[t.levelId - 1][0];
+                    e.showDialogByGroupId( + r,
+                    function() {},
+                    t, t.service)
+                }
+            })
+        },
+        i.prototype.manageChapter13Dialog = function(t) {
+            var i = egret.localStorage.getItem(e.AttrConst.LOCALSTORAGE_CHECKPOINT);
+            switch (t) {
+            case 1:
+            case 4:
+            case 7:
+                var n = i.split("_");
+                this.service.openPanel(e.DataConst.BATTLE_PANEL, [n[1], n[2], n[3], this.levelId]);
+                break;
+            case 2:
+            case 5:
+                var n = i.split("_");
+                1 == n.length ? e.showDialogByGroupId( + n[0],
+                function() {},
+                this, this.service) : e.showDialogByGroupId( + n[2],
+                function() {},
+                this, this.service);
+                break;
+            case 3:
+            case 6:
+            case 8:
+                var n = i.split("_");
+                1 == n.length ? e.showDialogByGroupId( + n[0],
+                function() {},
+                this, this.service) : e.showDialogByGroupId( + n[3],
+                function() {},
+                this, this.service)
+            }
+        },
+        i.prototype.processData = function(e) {
+            for (var t = e.bonusID.split(";"), i = [], n = 0; n < t.length; n++) {
+                var s = t[n].split("_");
+                i.push({
+                    itemType: +s[0],
+                    infos: [ + s[1], +s[2]]
+                })
+            }
+            return i
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (PopView);
+    e.TwelveYearsLevelPop = t,
+    __reflect(t.prototype, "twelveYearsPromise.TwelveYearsLevelPop")
+} (twelveYearsPromise || (twelveYearsPromise = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+twelveYearsPromise; !
+function(e) {
+    var t = function(t) {
+        function i(e) {
+            var i = t.call(this) || this;
+            return i.skinName = twelveYearsRewardPopSkin,
+            i.service = e,
+            i
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.list.itemRenderer = e.TwelveYearsRewardPopItem;
+            for (var i = this.service.getValue(e.AttrConst.FOREVER_CHAPTER), n = [], s = 1; 13 >= s; ++s) i >= s ? n.push({
+                id: s,
+                state: "hasGot"
+            }) : n.push({
+                id: s,
+                state: "normal"
+            });
+            this.list.dataProvider = new eui.ArrayCollection(n),
+            this.addEvent()
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                e.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.btnTips,
+            function() {
+                e.hide(),
+                ModuleManager.showModuleByID(249, [3, 24, 0])
+            },
+            this)
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (PopView);
+    e.TwelveYearsRewardPop = t,
+    __reflect(t.prototype, "twelveYearsPromise.TwelveYearsRewardPop")
+} (twelveYearsPromise || (twelveYearsPromise = {})),
+window.twelveYearsPromise = window.twelveYearsPromise || {};
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/comp/dialog/comp/CompDialogSkin.exml"] = window.twelveYearsPromise.CompDialogSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imgBtn_next", "imgBtn_sure", "text_desc"],
+        this.height = 277,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this.imgBtn_sure_i(), this.text_desc_i()],
+        this.states = [new eui.State("normal", []), new eui.State("narrator", [new eui.SetProperty("_Image1", "source", "twelve_years_dialog_narratorbg_png"), new eui.SetProperty("text_desc", "y", 130)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return this._Image1 = e,
+        e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.scale9Grid = new egret.Rectangle(510, 92, 23, 45),
+        e.source = "npc_dialog_texture_dialog_bg_png",
+        e.top = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.bottom = 14,
+        e.height = 70,
+        e.right = 18,
+        e.width = 70,
+        e.elementsContent = [this.imgBtn_next_i()],
+        e
+    },
+    i.imgBtn_next_i = function() {
+        var e = new eui.Image;
+        return this.imgBtn_next = e,
+        e.height = 38,
+        e.source = "npc_dialog_imgBtn_next_png",
+        e.width = 51,
+        e.x = 10,
+        e.y = 16,
+        e
+    },
+    i.imgBtn_sure_i = function() {
+        var e = new eui.Image;
+        return this.imgBtn_sure = e,
+        e.height = 36,
+        e.source = "npc_dialog_imgBtn_sure_png",
+        e.visible = !1,
+        e.width = 78,
+        e.x = 955,
+        e.y = 172,
+        e
+    },
+    i.text_desc_i = function() {
+        var e = new eui.Label;
+        return this.text_desc = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = -15,
+        e.lineSpacing = 10,
+        e.size = 20,
+        e.text = "文本框行数三行无下滑文本框行数三行无下滑文本框行数三行无下滑无文本框行数三行无下滑文本框行数三行无下滑文本框行数三行无下滑无文本框行数三行无下滑文本框行数三行无下滑",
+        e.textColor = 16777215,
+        e.width = 936,
+        e.y = 106.148,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/comp/dialog/comp/CompNpcTitleSkin.exml"] = window.twelveYearsPromise.CompNpcTitleSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["txt_npcName", "grp"],
+        this.height = 56,
+        this.width = 325,
+        this.elementsContent = [this.grp_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.grp_i = function() {
+        var e = new eui.Group;
+        return this.grp = e,
+        e.elementsContent = [this._Image1_i(), this.txt_npcName_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "npc_dialog_texture_npc_name_bg_png",
+        e.width = 325,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txt_npcName_i = function() {
+        var e = new eui.Label;
+        return this.txt_npcName = e,
+        e.fontFamily = "REEJI",
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.size = 28,
+        e.text = "NPC单行名字十个字",
+        e.textColor = 16777215,
+        e.x = 27,
+        e.y = 9,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/comp/dialog/comp/CompoentNpcSkin.exml"] = window.twelveYearsPromise.CompoentNpcSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["npc"],
+        this.height = 40,
+        this.width = 40,
+        this.elementsContent = [this.npc_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.npc_i = function() {
+        var e = new eui.Image;
+        return this.npc = e,
+        e.source = "",
+        e.x = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/comp/dialog/comp/CompOptionSkin.exml"] = window.twelveYearsPromise.CompOptionSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["grp_options", "texture_001"],
+        this.currentState = "left",
+        this.height = 45,
+        this.width = 416,
+        this.elementsContent = [this.grp_options_i(), this.texture_001_i()],
+        this.states = [new eui.State("left", []), new eui.State("right", [new eui.SetProperty("texture_001", "scaleX", -1), new eui.SetProperty("texture_001", "x", 328.5)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.grp_options_i = function() {
+        var e = new eui.Group;
+        return this.grp_options = e,
+        e.layout = this._VerticalLayout1_i(),
+        e
+    },
+    i._VerticalLayout1_i = function() {
+        var e = new eui.VerticalLayout;
+        return e.gap = -24,
+        e
+    },
+    i.texture_001_i = function() {
+        var e = new eui.Image;
+        return this.texture_001 = e,
+        e.anchorOffsetX = 84.5,
+        e.anchorOffsetY = 10.5,
+        e.height = 21,
+        e.source = "npc_dialog_texture_001_png",
+        e.width = 169,
+        e.x = 102.5,
+        e.y = 24,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/comp/dialog/item/ItemOptionSkin.exml"] = window.twelveYearsPromise.ItemOptionSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["txt_option", "grp_touch"],
+        this.height = 91,
+        this.width = 418,
+        this.elementsContent = [this._Image1_i(), this.txt_option_i(), this.grp_touch_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "npc_dialog_texture_002_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txt_option_i = function() {
+        var e = new eui.Label;
+        return this.txt_option = e,
+        e.fontFamily = "MFShangHei",
+        e.lineSpacing = 2,
+        e.size = 18,
+        e.text = "白虎大人，让我们远离城市的喧嚣，\n一起共享这宇宙的繁华吧！",
+        e.textAlign = "center",
+        e.textColor = 16777215,
+        e.verticalCenter = 0,
+        e.width = 288,
+        e.x = 65,
+        e
+    },
+    i.grp_touch_i = function() {
+        var e = new eui.Group;
+        return this.grp_touch = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 55,
+        e.touchEnabled = !0,
+        e.width = 374,
+        e.x = 23,
+        e.y = 18,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/comp/dialog/NpcDialogSkin.exml"] = window.twelveYearsDialogSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bgBlack", "BG", "BGCopy", "itemBgMask", "imgItem", "mask1", "mask2", "grpEffect", "imgRabbit7", "imgRabbit6", "imgRabbit5", "imgRabbit4", "imgRabbit3", "imgRabbit2", "imgRabbit1", "grpRabbits", "grpAnim", "pos_npc_left", "pos_npc_right", "pos_option_left", "pos_option_right", "pos_npcTitle_left", "pos_npcTitle_right", "_compNpcModel", "texture_fmask", "_compDialog", "_compNpcTitle", "_compOption", "btnBack", "grpBtnBack"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.grpEffect_i(), this.grpRabbits_i(), this.grpAnim_i(), this.pos_npc_left_i(), this.pos_npc_right_i(), this.pos_option_left_i(), this.pos_option_right_i(), this.pos_npcTitle_left_i(), this.pos_npcTitle_right_i(), this._compNpcModel_i(), this.texture_fmask_i(), this._compDialog_i(), this._compNpcTitle_i(), this._compOption_i(), this.grpBtnBack_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.grpEffect_i = function() {
+        var e = new eui.Group;
+        return this.grpEffect = e,
+        e.x = 0,
+        e.elementsContent = [this.bgBlack_i(), this._Group1_i(), this._Group2_i(), this.mask1_i(), this.mask2_i()],
+        e
+    },
+    i.bgBlack_i = function() {
+        var e = new eui.Image;
+        return this.bgBlack = e,
+        e.alpha = 1,
+        e.height = 640,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "common_mask_bg_s9_png",
+        e.width = 1136,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.elementsContent = [this.BG_i(), this.BGCopy_i()],
+        e
+    },
+    i.BG_i = function() {
+        var e = new eui.Image;
+        return this.BG = e,
+        e.alpha = 1,
+        e.height = 640,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "common_mask_bg_s9_png",
+        e.width = 1136,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.BGCopy_i = function() {
+        var e = new eui.Image;
+        return this.BGCopy = e,
+        e.alpha = 1,
+        e.height = 640,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "common_mask_bg_s9_png",
+        e.width = 1136,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.elementsContent = [this.itemBgMask_i(), this.imgItem_i()],
+        e
+    },
+    i.itemBgMask_i = function() {
+        var e = new eui.Image;
+        return this.itemBgMask = e,
+        e.alpha = .5,
+        e.height = 640,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "common_mask_bg_s9_png",
+        e.visible = !1,
+        e.width = 1136,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.imgItem_i = function() {
+        var e = new eui.Image;
+        return this.imgItem = e,
+        e.alpha = 1,
+        e.horizontalCenter = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.verticalCenter = 0,
+        e.x = 568,
+        e.y = 320,
+        e
+    },
+    i.mask1_i = function() {
+        var e = new eui.Image;
+        return this.mask1 = e,
+        e.height = 640,
+        e.width = 1136,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.mask2_i = function() {
+        var e = new eui.Image;
+        return this.mask2 = e,
+        e.alpha = 1,
+        e.height = 640,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.width = 1136,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.grpRabbits_i = function() {
+        var e = new eui.Group;
+        return this.grpRabbits = e,
+        e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.top = 0,
+        e.visible = !0,
+        e.elementsContent = [this.imgRabbit7_i(), this.imgRabbit6_i(), this.imgRabbit5_i(), this.imgRabbit4_i(), this.imgRabbit3_i(), this.imgRabbit2_i(), this.imgRabbit1_i()],
+        e
+    },
+    i.imgRabbit7_i = function() {
+        var e = new eui.Image;
+        return this.imgRabbit7 = e,
+        e.alpha = 0,
+        e.source = "twelve_years_final_boss_imglightrabbit_png",
+        e.visible = !0,
+        e.x = 330,
+        e.y = 440,
+        e
+    },
+    i.imgRabbit6_i = function() {
+        var e = new eui.Image;
+        return this.imgRabbit6 = e,
+        e.alpha = 0,
+        e.source = "twelve_years_final_boss_imgwaterrabbit_png",
+        e.visible = !0,
+        e.x = 1040,
+        e.y = 1,
+        e
+    },
+    i.imgRabbit5_i = function() {
+        var e = new eui.Image;
+        return this.imgRabbit5 = e,
+        e.alpha = 0,
+        e.source = "twelve_years_final_boss_imgpinkrabbit_png",
+        e.visible = !0,
+        e.x = 725,
+        e.y = 50,
+        e
+    },
+    i.imgRabbit4_i = function() {
+        var e = new eui.Image;
+        return this.imgRabbit4 = e,
+        e.alpha = 0,
+        e.source = "twelve_years_final_boss_imggrassrabbit_png",
+        e.visible = !0,
+        e.x = 2,
+        e.y = 130,
+        e
+    },
+    i.imgRabbit3_i = function() {
+        var e = new eui.Image;
+        return this.imgRabbit3 = e,
+        e.alpha = 0,
+        e.source = "twelve_years_final_boss_imgearthrabbit_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 260,
+        e
+    },
+    i.imgRabbit2_i = function() {
+        var e = new eui.Image;
+        return this.imgRabbit2 = e,
+        e.alpha = 0,
+        e.right = 120,
+        e.source = "twelve_years_final_boss_imgicerabbit_png",
+        e.visible = !0,
+        e.y = 80,
+        e
+    },
+    i.imgRabbit1_i = function() {
+        var e = new eui.Image;
+        return this.imgRabbit1 = e,
+        e.alpha = 0,
+        e.right = 10,
+        e.source = "twelve_years_final_boss_imgbigrabbit_png",
+        e.visible = !0,
+        e.y = 90,
+        e
+    },
+    i.grpAnim_i = function() {
+        var e = new eui.Group;
+        return this.grpAnim = e,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e
+    },
+    i.pos_npc_left_i = function() {
+        var e = new eui.Group;
+        return this.pos_npc_left = e,
+        e.left = 0,
+        e.y = 290,
+        e
+    },
+    i.pos_npc_right_i = function() {
+        var e = new eui.Group;
+        return this.pos_npc_right = e,
+        e.right = 0,
+        e.y = 290,
+        e
+    },
+    i.pos_option_left_i = function() {
+        var e = new eui.Group;
+        return this.pos_option_left = e,
+        e.left = 19,
+        e.visible = !0,
+        e.y = 434,
+        e
+    },
+    i.pos_option_right_i = function() {
+        var e = new eui.Group;
+        return this.pos_option_right = e,
+        e.right = 43,
+        e.y = 434,
+        e
+    },
+    i.pos_npcTitle_left_i = function() {
+        var e = new eui.Group;
+        return this.pos_npcTitle_left = e,
+        e.left = 83,
+        e.y = 420,
+        e
+    },
+    i.pos_npcTitle_right_i = function() {
+        var e = new eui.Group;
+        return this.pos_npcTitle_right = e,
+        e.right = 362,
+        e.y = 420,
+        e
+    },
+    i._compNpcModel_i = function() {
+        var e = new twelveYearsPromise.CompNpcModel;
+        return this._compNpcModel = e,
+        e.x = 168,
+        e.y = 197,
+        e
+    },
+    i.texture_fmask_i = function() {
+        var e = new eui.Image;
+        return this.texture_fmask = e,
+        e.bottom = 0,
+        e.left = 0,
+        e.right = 0,
+        e.source = "common_npc_dialog_texture_fmask_png",
+        e.top = 0,
+        e
+    },
+    i._compDialog_i = function() {
+        var e = new twelveYearsPromise.CompDialog;
+        return this._compDialog = e,
+        e.bottom = 0,
+        e.height = 277,
+        e.horizontalCenter = 0,
+        e.skinName = "twelveYearsPromise.CompDialogSkin",
+        e.visible = !1,
+        e.percentWidth = 100,
+        e
+    },
+    i._compNpcTitle_i = function() {
+        var e = new twelveYearsPromise.CompNpcTitle;
+        return this._compNpcTitle = e,
+        e.x = 114,
+        e.y = 56,
+        e
+    },
+    i._compOption_i = function() {
+        var e = new twelveYearsPromise.CompOptions;
+        return this._compOption = e,
+        e.x = 380,
+        e.y = 253,
+        e
+    },
+    i.grpBtnBack_i = function() {
+        var e = new eui.Group;
+        return this.grpBtnBack = e,
+        e.height = 50,
+        e.width = 80,
+        e.elementsContent = [this.btnBack_i()],
+        e
+    },
+    i.btnBack_i = function() {
+        var e = new eui.Image;
+        return this.btnBack = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "twelve_years_battle_panel_btnback_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/TwelveYearsLevelItem.exml"] = window.twelveYearsLevelItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imgMist", "grpClosed", "imgLevelOpened", "imgTommorow", "grp"],
+        this.height = 171,
+        this.width = 208,
+        this.elementsContent = [this.grp_i()],
+        this.states = [new eui.State("open", [new eui.SetProperty("grpClosed", "visible", !1), new eui.SetProperty("imgTommorow", "visible", !1)]), new eui.State("close", [new eui.SetProperty("imgLevelOpened", "visible", !0), new eui.SetProperty("imgTommorow", "visible", !1)]), new eui.State("tomorrow", [new eui.SetProperty("imgLevelOpened", "visible", !0)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.grp_i = function() {
+        var e = new eui.Group;
+        return this.grp = e,
+        e.touchEnabled = !1,
+        e.elementsContent = [this.grpClosed_i(), this.imgLevelOpened_i(), this.imgTommorow_i()],
+        e
+    },
+    i.grpClosed_i = function() {
+        var e = new eui.Group;
+        return this.grpClosed = e,
+        e.touchEnabled = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.imgMist_i()],
+        e
+    },
+    i.imgMist_i = function() {
+        var e = new eui.Image;
+        return this.imgMist = e,
+        e.source = "twelve_years_main_panel_imgmist_png",
+        e.touchEnabled = !1,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.imgLevelOpened_i = function() {
+        var e = new eui.Image;
+        return this.imgLevelOpened = e,
+        e.horizontalCenter = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "twelve_years_main_panel_levelopened_6_png",
+        e.verticalCenter = 0,
+        e.x = -73.99999999999997,
+        e.y = -69,
+        e
+    },
+    i.imgTommorow_i = function() {
+        var e = new eui.Image;
+        return this.imgTommorow = e,
+        e.horizontalCenter = 0,
+        e.source = "twelve_years_main_panel_imgtommorow_png",
+        e.verticalCenter = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/TwelveYearsLevelPopItem.exml"] = window.twelveYearsLevelPopItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imgItemBg", "imgIcon"],
+        this.elementsContent = [this.imgItemBg_i(), this.imgIcon_i()],
+        this.states = [new eui.State("levelPop", []), new eui.State("rewardPop", [new eui.SetProperty("imgItemBg", "width", 79), new eui.SetProperty("imgItemBg", "height", 78), new eui.SetProperty("imgIcon", "width", 55), new eui.SetProperty("imgIcon", "height", 55), new eui.SetProperty("imgIcon", "x", 9), new eui.SetProperty("imgIcon", "y", 9)]), new eui.State("activityCenter", [new eui.SetProperty("imgItemBg", "width", 75), new eui.SetProperty("imgItemBg", "height", 74), new eui.SetProperty("imgIcon", "width", 52), new eui.SetProperty("imgIcon", "height", 52)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.imgItemBg_i = function() {
+        var e = new eui.Image;
+        return this.imgItemBg = e,
+        e.height = 60,
+        e.source = "twelve_years_level_pop_imgitembg_png",
+        e.width = 61,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.imgIcon_i = function() {
+        var e = new eui.Image;
+        return this.imgIcon = e,
+        e.height = 42,
+        e.horizontalCenter = -3,
+        e.verticalCenter = -3,
+        e.width = 42,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/TwelveYearsRewardPopItem.exml"] = window.twelveYearsRewardPopItem = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["itemHasGotBg", "itemNormalBg", "imgIcon", "levelNameBg", "txtLevelName", "left", "lock", "txtLockDay", "hasGot", "state", "list"],
+        this.elementsContent = [this.itemHasGotBg_i(), this.itemNormalBg_i(), this.left_i(), this.state_i(), this._Scroller1_i()],
+        this.states = [new eui.State("normal", [new eui.SetProperty("state", "visible", !1)]), new eui.State("lock", [new eui.SetProperty("hasGot", "visible", !1)]), new eui.State("hasGot", [new eui.SetProperty("itemNormalBg", "visible", !1), new eui.SetProperty("lock", "visible", !1), new eui.SetProperty("txtLockDay", "visible", !1)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.itemHasGotBg_i = function() {
+        var e = new eui.Image;
+        return this.itemHasGotBg = e,
+        e.height = 92,
+        e.scale9Grid = new egret.Rectangle(3, 4, 14, 14),
+        e.source = "twelve_years_level_pop_itemhasgotbg_png",
+        e.visible = !0,
+        e.width = 373,
+        e.x = 2,
+        e.y = 7,
+        e
+    },
+    i.itemNormalBg_i = function() {
+        var e = new eui.Image;
+        return this.itemNormalBg = e,
+        e.height = 92,
+        e.scale9Grid = new egret.Rectangle(2, 2, 15, 15),
+        e.source = "twelve_years_level_pop_itemnormalbg_png",
+        e.visible = !0,
+        e.width = 373,
+        e.x = 2,
+        e.y = 7,
+        e
+    },
+    i.left_i = function() {
+        var e = new eui.Group;
+        return this.left = e,
+        e.height = 98,
+        e.width = 95,
+        e.x = -1,
+        e.y = 0,
+        e.elementsContent = [this.imgIcon_i(), this.levelNameBg_i(), this.txtLevelName_i()],
+        e
+    },
+    i.imgIcon_i = function() {
+        var e = new eui.Image;
+        return this.imgIcon = e,
+        e.horizontalCenter = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.verticalCenter = 0,
+        e
+    },
+    i.levelNameBg_i = function() {
+        var e = new eui.Image;
+        return this.levelNameBg = e,
+        e.height = 25,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "twelve_years_level_pop_levelnamebg_png",
+        e.width = 91,
+        e.x = 3,
+        e.y = 72.99999999999999,
+        e
+    },
+    i.txtLevelName_i = function() {
+        var e = new eui.Label;
+        return this.txtLevelName = e,
+        e.fontFamily = "REEJI",
+        e.horizontalCenter = .5,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.size = 16.0000013858555,
+        e.text = "火之殿",
+        e.textColor = 16762717,
+        e.y = 78.99999999999999,
+        e
+    },
+    i.state_i = function() {
+        var e = new eui.Group;
+        return this.state = e,
+        e.x = -5,
+        e.y = 1,
+        e.elementsContent = [this.lock_i(), this.txtLockDay_i(), this.hasGot_i()],
+        e
+    },
+    i.lock_i = function() {
+        var e = new eui.Image;
+        return this.lock = e,
+        e.source = "twelve_years_level_pop_jiesuo_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txtLockDay_i = function() {
+        var e = new eui.Label;
+        return this.txtLockDay = e,
+        e.fontFamily = "REEJI",
+        e.size = 14,
+        e.text = "11.18解锁",
+        e.textColor = 16711422,
+        e.x = 22,
+        e.y = 13,
+        e
+    },
+    i.hasGot_i = function() {
+        var e = new eui.Image;
+        return this.hasGot = e,
+        e.source = "twelve_years_level_pop_yihuode_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 78,
+        e.width = 250,
+        e.x = 110,
+        e.y = 17,
+        e.viewport = this.list_i(),
+        e
+    },
+    i.list_i = function() {
+        var e = new eui.List;
+        return this.list = e,
+        e.layout = this._HorizontalLayout1_i(),
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/TwelveYearsBattlePanel.exml"] = window.twelveYearsBattlePanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "tuceng_1", "grpAnim", "BOSS1", "BOSS2", "BOSS3", "btnPetBag", "btnRecover", "btnFight", "a_1", "btnBack", "grpBtnBack"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.tuceng_1_i(), this.grpAnim_i(), this.BOSS1_i(), this.BOSS2_i(), this.BOSS3_i(), this.a_1_i(), this.grpBtnBack_i()],
+        this.states = [new eui.State("Boss1", [new eui.SetProperty("bg", "visible", !1), new eui.SetProperty("tuceng_1", "visible", !1), new eui.SetProperty("BOSS2", "visible", !1), new eui.SetProperty("BOSS3", "visible", !1)]), new eui.State("Boss2", [new eui.SetProperty("bg", "visible", !0), new eui.SetProperty("BOSS1", "visible", !1), new eui.SetProperty("BOSS3", "visible", !1)]), new eui.State("Boss3", [new eui.SetProperty("bg", "visible", !0), new eui.SetProperty("BOSS1", "visible", !1), new eui.SetProperty("BOSS2", "visible", !1)]), new eui.State("final", [new eui.SetProperty("bg", "visible", !0), new eui.SetProperty("tuceng_1", "visible", !1), new eui.SetProperty("BOSS1", "visible", !1), new eui.SetProperty("BOSS2", "visible", !1), new eui.SetProperty("BOSS3", "visible", !1)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.height = 640,
+        e.source = "twelve_years_battle_panel_jzzks_png",
+        e.width = 1136,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.tuceng_1_i = function() {
+        var e = new eui.Image;
+        return this.tuceng_1 = e,
+        e.alpha = .5,
+        e.height = 640,
+        e.source = "common_mask_bg_s9_png",
+        e.width = 1136,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.grpAnim_i = function() {
+        var e = new eui.Group;
+        return this.grpAnim = e,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e
+    },
+    i.BOSS1_i = function() {
+        var e = new eui.Image;
+        return this.BOSS1 = e,
+        e.source = "twelve_years_battle_panel_boss1_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.BOSS2_i = function() {
+        var e = new eui.Image;
+        return this.BOSS2 = e,
+        e.horizontalCenter = -56,
+        e.source = "twelve_years_battle_panel_boss2_png",
+        e.visible = !0,
+        e.y = 0,
+        e
+    },
+    i.BOSS3_i = function() {
+        var e = new eui.Image;
+        return this.BOSS3 = e,
+        e.horizontalCenter = -57,
+        e.source = "twelve_years_battle_panel_boss3_png",
+        e.visible = !0,
+        e.y = 0,
+        e
+    },
+    i.a_1_i = function() {
+        var e = new eui.Group;
+        return this.a_1 = e,
+        e.horizontalCenter = 62,
+        e.y = 418,
+        e.elementsContent = [this.btnPetBag_i(), this.btnRecover_i(), this.btnFight_i()],
+        e
+    },
+    i.btnPetBag_i = function() {
+        var e = new eui.Image;
+        return this.btnPetBag = e,
+        e.source = "twelve_years_battle_panel_btnpetbag_png",
+        e.x = 671,
+        e.y = 117,
+        e
+    },
+    i.btnRecover_i = function() {
+        var e = new eui.Image;
+        return this.btnRecover = e,
+        e.source = "twelve_years_battle_panel_btnrecover_png",
+        e.x = 759,
+        e.y = 117,
+        e
+    },
+    i.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "twelve_years_battle_panel_btnfight_png",
+        e.x = 221,
+        e.y = 39,
+        e
+    },
+    i.grpBtnBack_i = function() {
+        var e = new eui.Group;
+        return this.grpBtnBack = e,
+        e.height = 50,
+        e.width = 80,
+        e.elementsContent = [this.btnBack_i()],
+        e
+    },
+    i.btnBack_i = function() {
+        var e = new eui.Image;
+        return this.btnBack = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "twelve_years_battle_panel_btnback_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/TwelveYearsMainPanel.exml"] = window.twelveYearsMainPanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["mainBg", "btnRewards", "btnClose", "list"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.mainBg_i(), this.btnRewards_i(), this.btnClose_i(), this._Scroller1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.mainBg_i = function() {
+        var e = new eui.Image;
+        return this.mainBg = e,
+        e.source = "twelve_years_main_panel_mainbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnRewards_i = function() {
+        var e = new eui.Image;
+        return this.btnRewards = e,
+        e.right = 40,
+        e.source = "twelve_years_main_panel_imgrewards_png",
+        e.y = 16,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "twelve_years_main_panel_btnclose_png",
+        e.x = 27,
+        e.y = 14,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 557,
+        e.horizontalCenter = -28,
+        e.width = 950,
+        e.y = 56,
+        e.viewport = this.list_i(),
+        e
+    },
+    i.list_i = function() {
+        var e = new eui.List;
+        return this.list = e,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    i._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalGap = -88,
+        e.requestedRowCount = 2,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/pop/TwelveYearsLevelPop.exml"] = window.twelveYearsLevelPopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["levelBg", "imgLevel", "levelNameBg", "txtLevelName", "level", "txtDesc", "btnStart", "list"],
+        this.height = 229,
+        this.width = 710,
+        this.elementsContent = [this.levelBg_i(), this.level_i(), this.txtDesc_i(), this.btnStart_i(), this._Scroller1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.levelBg_i = function() {
+        var e = new eui.Image;
+        return this.levelBg = e,
+        e.source = "twelve_years_level_pop_levelbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.level_i = function() {
+        var e = new eui.Group;
+        return this.level = e,
+        e.height = 198,
+        e.width = 173,
+        e.x = 15,
+        e.y = 15,
+        e.elementsContent = [this.imgLevel_i(), this.levelNameBg_i(), this.txtLevelName_i()],
+        e
+    },
+    i.imgLevel_i = function() {
+        var e = new eui.Image;
+        return this.imgLevel = e,
+        e.horizontalCenter = 0,
+        e.source = "twelve_years_main_panel_levelopened_1_png",
+        e.verticalCenter = 0,
+        e
+    },
+    i.levelNameBg_i = function() {
+        var e = new eui.Image;
+        return this.levelNameBg = e,
+        e.source = "twelve_years_level_pop_levelnamebg_png",
+        e.x = 33,
+        e.y = 159,
+        e
+    },
+    i.txtLevelName_i = function() {
+        var e = new eui.Label;
+        return this.txtLevelName = e,
+        e.fontFamily = "REEJI",
+        e.horizontalCenter = 0,
+        e.size = 18.0000010826834,
+        e.text = "火之殿",
+        e.textColor = 16762717,
+        e.y = 166,
+        e
+    },
+    i.txtDesc_i = function() {
+        var e = new eui.Label;
+        return this.txtDesc = e,
+        e.fontFamily = "REEJI",
+        e.size = 18,
+        e.text = "完成《十二年之约》系列剧情活动可获得以下奖励完成《十二年之约》系列剧情活动可获得以下奖励完成《十二年之约》系列剧情活动可获得以下奖励						\n",
+        e.textColor = 16777215,
+        e.width = 363,
+        e.x = 213,
+        e.y = 36,
+        e
+    },
+    i.btnStart_i = function() {
+        var e = new eui.Image;
+        return this.btnStart = e,
+        e.source = "twelve_years_level_pop_btnstart_png",
+        e.x = 490,
+        e.y = 146,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 60,
+        e.width = 258,
+        e.x = 210,
+        e.y = 143,
+        e.viewport = this.list_i(),
+        e
+    },
+    i.list_i = function() {
+        var e = new eui.List;
+        return this.list = e,
+        e.layout = this._HorizontalLayout1_i(),
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e.gap = 4,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/pop/TwelveYearsRewardPop.exml"] = window.twelveYearsRewardPopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnTips", "bg", "btnClose", "list"],
+        this.elementsContent = [this.btnTips_i(), this.bg_i(), this.btnClose_i(), this._Scroller1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.btnTips_i = function() {
+        var e = new eui.Image;
+        return this.btnTips = e,
+        e.source = "twelve_years_level_pop_btntips_png",
+        e.x = 328,
+        e.y = 488,
+        e
+    },
+    i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "twelve_years_level_pop_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "twelve_years_level_pop_btnclose_png",
+        e.x = 450,
+        e.y = 50,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 358,
+        e.width = 380,
+        e.x = 46,
+        e.y = 98,
+        e.viewport = this.list_i(),
+        e
+    },
+    i.list_i = function() {
+        var e = new eui.List;
+        return this.list = e,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/twelveYearsPromiseSkin.exml"] = window.twelveYearsPromiseSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["activityCenterBg", "list", "btnGo", "grp", "grpTitleAnim"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.activityCenterBg_i(), this.grp_i(), this.grpTitleAnim_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.activityCenterBg_i = function() {
+        var e = new eui.Image;
+        return this.activityCenterBg = e,
+        e.source = "twelve_years_promise_bg_jpg",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.grp_i = function() {
+        var e = new eui.Group;
+        return this.grp = e,
+        e.height = 109,
+        e.horizontalCenter = 164,
+        e.width = 610,
+        e.y = 489,
+        e.elementsContent = [this._Image1_i(), this._Scroller1_i(), this.btnGo_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "twelve_years_promise_activitycenter_itembg_png",
+        e.x = -56,
+        e.y = -17,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 74,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.width = 487,
+        e.x = 0,
+        e.y = 23,
+        e.viewport = this.list_i(),
+        e
+    },
+    i.list_i = function() {
+        var e = new eui.List;
+        return this.list = e,
+        e.layout = this._HorizontalLayout1_i(),
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e
+    },
+    i.btnGo_i = function() {
+        var e = new eui.Image;
+        return this.btnGo = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "twelve_years_promise_activitycenter_btngo_png",
+        e.x = 495,
+        e.y = 0,
+        e
+    },
+    i.grpTitleAnim_i = function() {
+        var e = new eui.Group;
+        return this.grpTitleAnim = e,
+        e.horizontalCenter = 0,
+        e.touchEnabled = !1,
+        e.verticalCenter = 0,
+        e
+    },
+    t
+} (eui.Skin);

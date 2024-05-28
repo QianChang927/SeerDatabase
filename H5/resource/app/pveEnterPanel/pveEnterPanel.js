@@ -1,1 +1,6013 @@
-eval(function(){function J(J){for(k=L=0;k<J;)N<2&&(N=64,D=92<(D="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<Vfka;:C_=lRxheLPeLMvYQutO^`Bc<BKw?T]X=cC[ZYfI<UVI:FG@RPRV:<q[=okasSJDQ@sR=sA=>lFD>:Bj;eR;gc]ZmrBnl]xH>cKwu?JH[DA?oQFusCCzK:xI>^HSmqF:<CVAFCbDnCniUsyNEKBDxD>KY_TLno=OmI>iA;`@;zD:_>kxIcNSN]TE<`esGTJEUWVCmEZshk<AkJ?mPVgbiJJHdp>ZUEk;:l^EgYXmzFBiOmB`::HSlH;ZQlhSD>:Ad@:ttvt_tZF>@ob?D_i]dORpki:Bd>JTa__fklABv^@RevIOWzg]NKs;;_sLD^]jKo:?N<:?>kAFfQD:HDtmhhLc><<Xy:ZXBq<=KG;F:cgEI_HQvEdPjSJIRnuPMgaR:<F?EPLJslZ:>l>AZlZ::laFcVex_]Ve@H;_>D^ZLdkQDDReegK::BJ;dZWJy>ZL=V;kJ^@?yLTaiTkZkYo;;v:J>kzCeA<R@;Y<dC]sAgXJGdqfgd>JPBIZ>A:>;ZYcka]Oyy[CAZXk:>UAZ:pbg__J::EIcGAJHJF^mQ:L::GL@Qkc]wQ:wA_QkSfIIcP?Ye>eamDC:<gy[JEdB=uNSC_gT;O`@:[e`VGXWdHLC>::Hm@CZAbnANu^nGN>Lycm<OCYgQZgD?V;vI>]:Z>kL=cBRNtC;tMJqB@H?CAND:rfZ:;wR>_:Jl[pQ>PTs::hHKaAV::UCZkqZK;=<:VGa<^NanDgV?qOs<kWe[;y:=F_rMPgP>tAJz`aBpUNJLJXo:=lhThFoXQd;`MPKSZDVdDpM_GBoBLJOpXJSSprPBArXQ[WrgOG=pk<:L`IJ@vqXWtrq:UgnEJnWUOkm`wNT?cHZ]<=RH[F^S[Jq^]QeF`?OdKc@QnM`DoQ:KKAw?:QBwdegD;JGFBP<lR@WBhbclb<X@gK=E_ZJ[FvBQH`KrQgG?aSuWfkK;e[rYck:VAZwK]WStdqOncLx;:tB_R@B:KCZc^QNZy[gLCqQuDHpJM`HQt>BWimnewUQ_WEUSxfLWr[CO;=uBa?Ee>A]THWdB;ama[^V@;k[w>[D?lpy]YJMvg?ls;@SmeHVf=PVA:B;::=DGZsjCA;B@gB=@HQ`YOyJIltZPR;UIUR^TUNcLCm:sMeF:V=Eh`XUM<:nlBAgPAqmqyjbIUCL^_uR^upZkmovkDM<:khMXyqzJL:JLaEJ:V]:HEbGFJw:>cH;k]DcA::<ms;DJ:_f>HD`mYE<PD>q`BZl=]B_G>:[>uA<i@VMky:_=lAZ<k::kgXPBwKF<Wp`d:BkXx[[AAiG:j_X:s>BHJT=O;b[XSUoBBbWyHBJ:tZ:>CQ[H<k::eZNC:>Ss^l<cQNXLu:P;FCgAk=;TogCMNcBhEcb[>JE]w]JMyV:VLjlRIJjFt:Vnc?I_kA>=<U=jk:<Cc__LkTKe:><r]wBhWPkZMde<Z?B^ZbZE@Q=k>zT]aWy]erO[:::Z^BF:HCm=T=bGkHNZ:;Bo::=dVd=DDCl::=PYZ:@QYeRdla^nuQqFJshCn^E?elR=RkmVd:<kVc:Sh^:<:zzXIRwwnTHP@BhPLC]n>PB>;Jk]XRddhGdZk_:e:`EcFU=kJJgCLsVAuPqK;Q;bZJa<L:jK:;?HoWdi=eN:eh::b<tIZS>kBUD>Fodlt^Unel[Ak<<B][`TaQ>IUDD]p?Z?GBJWJ@cV:rE]HZ::u^wAJ>[luMmaLkKct;`k:=O`mbkQ?:O[ok=@yBQFiD:vw>QImZA<[Vj^on[@Y[kXBKNQsMkXV>b:VsVOsdJAcklr:Ymu_g<_IZx_T?oFRVkfZv<]?VCsR<?iHCrtSNiUPAZexk:J<kDBKm>[pRLCmLoqwls_<bBD@ATRwlm:E^kFepOwks[lCOVMRo:Whtocc=sI_V;Y>>:RMwH[u[F;RLtZVj;ClcAl?w<:K;ckUlk=JKZr;N=:]a^WKu]XHSs^hEd_Tk>FePD:`WXZ>qZBa=e=^Q:N?X:Q^OA<C:z;:T_odfMLwJSZeAT:DZF<?iOdT[w@wKfG]GUGRREQdRD>V`Lr``U`PQ[:eBME=>:lC]HZP<BmJ>CSmR_hDXG?X_A`YDi:wNBAZXLD:vOgN;Aoz:V:[uneAV:;WLvn^qPGQNEFR;p=egjjHZZ]v`qAek?@llXMu]gAJFcXxiM^`IimcpUwV;pED?YfZVZm:H=W=YUDnxu::=oQtYr<@DR:V=_sCZTHLsfknvjokWPjyrkH:ZGB;:tPog=uIpcXmh;i:eosGm_:FEDL@]IjhJkzPqIt:Mc;]:sfyaM[]l;]CZNiMK?dSbSSk`tR:KEwU:>_j:XCo;CIxA>lCDMV_SBjiuS=^vtNqEs::=_Melx^IEh?;CsrXsdVc^rGmzhisC=wk;IokBZ[OAn:NB=kEXMKVMhqwFHKdo@<fs[uYL?RcW;;UIqVVyavDEarFTEUCtfDrbcqIi<pdzMu:d:V@;LScgWJ_gYeH@si:SaEFbfIYJmxpvn^eVB:RkZdAy=eRzOCaMSl`=XURy`[OFaDjvdQKSjEE^P>]M:D_fcvxs^D@FHdIZ:;d;VBAH@THY_O:ccDtUacB=RGZ:t@i=X@uG^ZsrW[a@=ehIZVF==@=HydXuT`dETQH<?^tmNvroY:oGjF;qfQc;OJJSJVq?ilYJGxrJ<?yj>UqtxhCrrYg@=Z@=evY:Ef[O>c;YJfqD;CTo?=fcFC[qR?P]^]:eoCoAoe<RHNZ;tuo:DXataeX::gOHb`I::JtbMk:A=T:?>t?N?aHhJ<unwQoaKUevWjFpbsSlXda@DR:;MM:<D]c:EAyR_:Wkr]L>Bjm;]zJBZvDOABFlIOtfvQ=Qjo@y_nwBrC;Tg>@^<:@kkatbc;A`t?:QEo^wF>NkRK^DW`bSVfWgWa_ohwvGlBQWOvXiAeAKUM:E_]WiKc_;IZqBwJ]QBI:NEL:[vO=FAeE?J[J^V?uLCHCWw>[t^nIgIthxvuInZCtfy][FnN;J;ZQJWlbNr=`BIRXcwk=zBFiJTyV:vu[WfzQdKxs<zWtAfwYjL:FMMxvrIidTRT_]ecBZ?j@IN[KhZCjqZGRXr?<><T@:o[S<H>UmcJs@F[JlOF;RDkN:n]QuYmza:AZgcwbwGRJB^ZJ^j;J<S:ZCC=z;d<Rt:A:ES<At][l[El=Bfn];;RG;G:h;OZW<IZx:]fx<EMb^<==<^:><M:n;n:E;E:f;f=c:v=U<U=v=ScWuI;yctfq<r;HcI<IRj;j<S^`ez:tR`ZJ>w?tZk@i^Ats:k[WmMcc[cZR[@=Cvs[d^H^?e@kG]<eo]L]OJm[=cd[e[Fnw[]:u^<^EkLZhZT>gZg=m^ikeZu@jCTZ@>^ZB?@ZaZqJP]OcwMfR@<H[O<El];eSi?X^d]yZs=y^@k[^V;[[=eK^K]l^?:CZNMT?d]xm:Ahev[z:d=w@tUSZv[hn<?p^ZD`:BAGZL?_vX@h[_sw<=Z<==^uZJZJ:w=^ZY[Z;]lD]p@V?E^q<f^f[[EUZO[hnv]A[B=A]b^b[K<Q^Q]r^ODRAI]jZT>GAY]z[><sJ:M:MMKJJoKkJfACln]cMcLv:_:pKsM[f>L_KxJy^H>XC_toMxewZu<VngKf<;MPly?wJJD]m];eM]KrRmM:mDLZkeKeLTL:E=f@LaMaLPJP=H?qJHKlviK:ayLrJ;Ja:JLNmEK[KeMKK@;lK[n_n>mCm_lOMRbO=B`ELtMtJB<?M?L`LsKsbOLsJWJGJs=GLhMhLuLWJxKxKf:jLrK^Ko:MLjL<LzKnKSKNlfJUKjJEAUJF;vJAK]abMbLQMstvMRnZkY]VaUK>;zKYLXnkkT`B::lPLmKD_Jmd:uaknTbstsmclRaT=T;c^v:z>slsk>lP_SJdL;k>aSJ[Jc`k=NkUmNEomFkq>gka;gmU:N]<miTeD>KF^h;C;VkY^<nMKG>LmD_mmZ_f?vJelempdTmqMqdu^um@ngK;]anamYLPnPkYCqlQC]:Y^HmilC_XlLnTKT_;ldM;kVl[nhaKmMfKm]<llO:ClCmP@dndlfASmtntm?m;=?l`kOlOkpkE?pkGnnaPRWdh:WnOa`@ykxlxk=l=knt^kMk@MMmnn<eJ:ElQEk@e?O=^^ukg:olybUmvkd=vmyl=fIu;;WEj_]Mc=bdk;^;QZ:;]FZPRf>XHlwSweanZJy;tYXKtL:Iw]oFB:<_uJ<PJc<R[XZ^ezexZF<K<w<VJd<jZreKTITI[vXv;X?l<[?D<re[lhJZP?:R:w_PRnyQ_HPTXw_N:R>@]VkLTY:Qs[VdRfPradPg:w_IPGuE@dRe:]BswHR;HIHIkD:GahXa:QXJwJ;jXN:Em_wnym`V:N:Z>H`GstaZBD:<:uPScNk_`;uTVyZ]Pg`V?<`ZBn?f?wT>`B_PyreTqQcVlf@;`e`Watk@`[`AmXRH`w?y`u:D:N:QsC`PRS`uJ?`O`VsHuXuGuZtZBItw`vc^?iPp]^ihmu:WB@Rx;`?HOT]d?g;KKjgAkQk?TQTxTWTPS=TatMTLZSm[gHPftARSRPKbTOTxg;:YT^>pl:Rkucu>Ns_P:BVtkPNfahsF?jXJHVLdOJ@K<jk][KyhOAR>ZjwT<a:M]NZV`T]`;nV;:dVCD>k=:^><JVst:;]ms=<f<asuRULcP]kqpg;xRPtXpt:UJyNR:rNkkZGXRjVXka;X::kX;xtseXHlmqkX:?ZZ`LGSZlDVsUK?cJu[:RkxZxtxe=c?pXGVJA?NZJKzLCGkmlZmGXauFGdDkjO[wGaQpgwXKrVlGyGC:=LK;yGmZFpbGVJXlIGOGmZjNyZ=_yO`:;:e:R:b<^Jwkj][LW<GOLHJ`aHM`iOUPRm>mPiomh:[JVm<J]mmmvcu_QseoqaymOq?ZCKygKZkkVTB:;ktFOuRcVoa;WtFGlcO;akZh;GR>Xklp<ekDIDdXJGbLV:CuURJH;]]:[O[JX]Q@RL]ygyw?ZyytjXVLPGFLlpahT]]VkW[:>ZMhqBiuJGMkb;V:M:TZj]TshiNmALHp?Bt:viV]lwh`We_hHm?qyZE_s]NTyWHR_qSq?okVoqJydVuZu:xmHR^m[OqXKHxq_uWJGgeRY:vJ_xoxgxXRHmoq:HMVa]okFZGZHHA:j`Wc?ePqe::sPxFx[DVx`:FZ^Jg?;qj]u:MJlqKHTH^mnx^iPWTL;lTxpJRH>ZpdZuKNBur>oX[HT_CHrVdRBW_eQwsWtXvJNWwBgWwW[LRcLWeaDWaWTW_w@WIXjkqWZJyiF`dpHRNhkXkDdWVktWbL^cpWhWxWGZ^WPyB[NhUWgZL_bWE_uhiPJxV:C:WxHx^mwTlwf<E:y@zLz@l?nNIWHX]KSO??o<HLIkvmqNLJ^TBeqyXkh<T]M<AxUDA<bDraoaf?viNZy@B_rTGOsZ:GL<W^XO[ep<Y:K^EDd^U<t^Csfi?:O^=<:]XyQkR:wJ=^fcRZZ^nZCpn`?cSDyD>^@G>k]M?Dy]K]eoUFsZZJ>hjVyZTM;De]^xBLeMiDyD`DaM:o@R=?b^nDV:C^E<xiz^raj=lw_MdBRZ[MmMdM[M;=V:Nxu:tawcrXN:piJn?ZLo[>LVWxvWL__yKuNhU`U?>`z^q^galWHsiZoW>Zunt:]<::>fseYCiFi;S`kF@`ubBjCBgrkHgw_qgwOOCco?grDCi[w`:::?RuEe=IsV:uO=lCPRtV=nRh:s;mEe:rliRs=c;lDrIrFIreDIFYEIGS;t^V=]HBiICZcJdJeBCCC^<`mBeU]yCCDyElB:<T?a`OHRwElO=nr<uneEPnaElMu]HE_DN:asRk<sRkN:@DdVFqCPxkVnKu=DTVPTu^:TXyHBA:ytlOi^atQ^=MfDj^ADw:gfJwz]>TA^f`E?DnTXL]VfkwMnan?Rqna=Xn[nlndntnL<beHRpnWEAmmM@flfMESfuEUnlOQnInYn:EV:JEiPBE=wYB>ENEPRFEVEhM<EUE^mUfwfDEbfOcfEKDAEXE;EKEQEdEtEOEqOURiOnfWmPE[fafCfLUEntfeU^xuUQEIEYE:fJfZBPRBfY=Rf^D_fU;o<EUCkVnpOr=a<tsnZMhXkrMCUjMtMD:zMZnkncORnoxrH>swJyZkkPRbcB:NJy]>MwJ_sfag`lNGZDvMm<:XvDqk]rnHBuZKvGinkgEwJsJVcWxasuvav<ntOo<?n=fV:pnzUbML;@hp=tk::Y_;reytOtAFhtY>;YRBIanxacdah[VkVF?:<@q<y@x<v<kreXRHpOc@j@ZV?HFFEDyLbQZRgp=PNKm_p^RpFvG[BIKMNd?MNDHVUvIPjsi:>>eNq>c:ISDZ:GHT:;Iic:IGyZ:nce:<reWNjURKqrhe^FH:;YIVSZ:YSkdiduEF;Y=Cz^XIIa=]@a;xY@fC[k?a@XUNKVBoEs>__Sw>h@=w@>_bIg:csSpaBzY[`aED;ViROSHRKWe>AWWSRxVxTxJk<EQnPHr@m_sNtNqr]Kz]cR]Yjc;ls>]_q>c:>?aZ:OHT:::yc:Ama_y;_>N]QQAppeQaQHQT^QUofSe`GyGjvKJCbtktVEnHBYtR:IMON=<::NZRgKWCvmVsDNp^OLGoIUKVCc`pv@BbIXKB:NCYCfhSkebsAD::?MrZUpnKZ:bKKug_s=Ln@M<:Y[@==JZYaAhmgWB[t`tX]J]a?nNX;:aXMXy^LSk<nYPvnW[EEX?pwSOKYnGYCHOWDKzaTtuBWWWXl<xfLWm[m^]CAPbVg;t_oMqLWgsQ=<`FpVHlF>FABzQQoQUmBzBV^=ekQb?f_Q`XsQs=tMRzNDswRyaZH;G:V:q<cwp<`ZCj`guICMcyNQtLG;n:q:Nw^OSc?t?sjmMhu;v;Ou_HAaMl^;kDGsUso<hsVxb;CmdqLw=vEO>F@MLzl<MvV:exkPMkEu>Heyub]efvulmxUtwAZ>SAGsAuF;QD]@buqFQsD;D:X=ZGru;Ma<r<zti:D;jtzsYte;Yuy:zsY`ywFm@<:A:AS;PyvslyC:t@J[Q_p?O;FwaccAG<h;z<W;=YR>kp=:^=^;M=R[_@lZN>E@ypU=kuo>io_zb<Dwr;ZGByOqj;[;w;uxnsb_HxpXcwdx]]BA=Xya>LwBvlo;vnTKe:JNg;VUH;lCmTPPtPBOzl[<`cCxo]RNJCLisP>ENOBDoNyfhN]dORjbaQ?q[IZ;[d[oZCcIH;rl[Il=KjFwj<Qw>;pqF]hzbZpr_=jwGrOlVGV:EFL=<zi>rksZ:mu;IOBd^bZ:IwryTsRKFeoTSaFHNEMSheXZslDBHaJeJW`Z;RRvFJNlOFCHwqm]yhEqzfUjHS_ILAdATUeICIg?^S>cWqpiOtHgrd=iGecU>XpIp_zSc;y@w_KT:>l@dLpZ;F:mzdmZxTOhoPf=VZGbN^;vG_NmsO?;]aa=V<P:cEFGd@<YuuhLkXTR]ZP`K;`V_X`:AZYo`Ksh[ITlz=]]BCYuZ<`cHB=pI[JJK<:tcV:KeAC=k<vW;q_rSDiYp>@Z=G>=Zi;HzOhDfV^swTAFI>^=C[<p>OECB?Ab@LX[tgasY=IC>x=CKcsX:n;bY:k:[cdqWJDBGl@>K=d@BwJQ:A^]<DRVu<Ns>:IN@m^Y:ZNSB<_@aA[sHKsX=eWxZ@[zBZxcsHAPG@uak=xSW;gJYJR[ku@sNc:JkpGHaZa<FxARraCq]SqrlZ<;:nZRtGCk<clO_XRP>Dibaq@JREwUR:ZC;avmJR<Zakm=IkDn;ut=BkkWIFNZo<aOygYZlBHzlg:aVAT[f;zZk:[vZw<sBoFPG:Cg>j=s;[f@r>z@pR=[WZXk<v`sFk;X;s:@]OMIUbjuQxi[Z?Gc<fJo=Z:KBDBwCjl[g:c;:BhdFQgzpZ@j=JKFZV>LIlP<[:conki:Rm>GRB;owHZRN?MocecVp;cUV?dcHksxxzqiPYf[e^d=BF`>[ZjAaFqifecksSZifbg?KfH:KDtkX@Zo^JLLcBaLe:ZAe^OM<^hKgbQO>`:C:HO`KsJ;d><aV<DdWKeeTNOeDpMsod_nuIFDz=:;DJxNEAW_Lu`dswxS[SzKc<:E=JgwC;TEDoGBG_Ae;t;DDY`fs[N?KcoH@ZxJ?cC@d:=Y;JBohgTo<>>N[NWMRleerhkgxKyULXj^MqtvowyXSOJQgt>DTOsS;Qw;Yj;kNe<:EXh:GjIQqOt@xxX:yXYcZAf@;giJijWgQI_GsLwHlCjQiIgAGtvttXqyWBdB?hsR:_yV;>z>snInIpEwUj@z=TQh;XxAw:J<If>r=t;:c:byUkDAk=sKw:<aRWYbApE<J?oDHoGajrld;dw;KhJvbaZNE=c;VyOcEqfZNEu>?]<dYIFHJQu[OwT<NBgRJrqrukVcCbzWjdrrZfWx]oVwLkLNPQ^I][ySRtwcJ<SeO;Z_jwPY[B?pKeBON]oW:Fjrnlfwc<@?V;>[qduvxFlK?O;EFBx@W<qkrJqNLyDWcW;TC?OGgDQ:F]o:LDjJxB<S_K<@NiiEcni`[:Tk]MFZR_e:?C_^T[sFeOP?]U[Lttow@X@<:QcQ_f>]xelK>bF<KHm]mxClPy?gN^nUA=]twGRdKE`PF`=Fylw>ZrbJAvAPMsDDyVVXj^Fao;fl>;HVYJAhtBLPoMjVzAB?Wt<;rXhyEVLR@xtb^=lysxz>XH=sb]z:wNzz?Akvs=]>CFwY_UNZkMElNkse=agz?wMjlMsN:TRFVqQ;CCpDn_hQiqGY]EJnDt:@yFi?E[^;P>GwK;B]_JK^:__LLSVBZZQ=jklZdwHeW`HBS=sKwqkn[ZULs:hLeddw@eO::RLyB]P>oxmOGHfm^tZeJjKTWODLKJ;Y>;]N?FVluaUMRDG_uTMQa<eyCsZc:GZB@pi;ELOdokSV:i>i`EtouGorTNz:_lV:gkokGg:WHP`AMLdGw@U?xBpuVCYdqktoYFlXaAL_NDDT@VUlBRnLlwQwN@LhFUScmKl@FquNz=aRsm^dmsXCGF:CUBdwSpobTWgHQ;K;ckTgBS_^E;bAM=avwA?^MCy`onTwj]J[HwlTapgRNuDK?HxD[McdY>aofLfw<:ByhC[H`Gg?:<Wd<nkNbE>PY<_KJJmSgTDX??EEbU[Nk:Vg^tZfEcJi^`SUeOPU]q[LkdGSDFlJUfBlMLn=Slg_ZJfCtJPnsoOgxPUUBKMgm=abFw?BvIpa^FQSl:xE:fC::UdGDDgzyBLMyMkO:N^JNmJ?BgbBVfCOobuRbCJBuxudwyOmQbFw`ftB:MR^:AtChvvttlJNcz<?HQAHxkdMZWVYMMoErssdis[DX`D=up=jwbVmIirnJcZ?mt@JD]YXBWtt>oC=gJ>?`=YASwF<XYIc:QrkC?w]<CYNZ_;IEsZMe<GYV<M;FUsg?aymAP<QiLqbA`VdL>rje[BDBHkFCaw;]`[Ec]Mxl;dfLJL@Ik?vFqdnwFRH<ZFKJ;:DGwFRD]`EZRdUPTZ=LMnlIkACdy;>qmM]:^Rkg`yjw<]T[Oj>Z>k>P?<<OKJR_AxS[krA;?;FkN_B=ySRtFQuHX@f`R?GzX:Aw?T`:^>l`:X_TwFzvL=YyA=YzjGEz]y^ogS<[[bDoZ?_o@?w:vFWsmTSyGi>c`W:Mm]kAQnx@M<hyRJHxRYFEqjn>s:@oc>z[=oc<qZVVbcAogLqM:`tGVOR>@dqqb:pWDP;F?w<;;czRJLaBYtImDqkRrJGzn=>K]ASmZpJXcCt>C]js]nGLL[kgNVLE;ttDkURf>?q<FlMZckBAOVAi=I;Wt>CTJhM>;=R>wJRBLB?<A;Ck[V:LBM@_mNl<ZRwJZ]>_CL?d<ysg]fBUJ?mAi[w[[JjA<NED?=cD[L_ecWk;e?<`u[WBSJ^=kKth<z?R:mte@[kNmDy[wT?RKB=P>U<ODYobRNMEZ=v<t:[kssNI?H>@OBF;:H[BK@i@r<A:xkxJBwEJ@zFXNjcU_NvbrKe^zTL`MRVVf;TbDQV?crab>?i<soyTZBOnFO=n;C;>kyZDr=U^hnaFYm^WN=IL[yNbpvVYNZ`^Y<tRrlY>?EKH<<hhnqsYmhmvp?q_`JIDzso_zq`EKH;ZgB`dGXpFQICnUDj[W:AsKy:[sUJ:KiP:KRmIZ;Z^nNBzKFIg;[AlEsKevC>XRplAl:oK@Brk?]E>n=sZKyBk_VLEd?:]@KjIH`SLBSO>JTKReg_L<Hc:g^K[y<n_Ssc[SlBHCNTBNPAAw:wdlKpILNS^P?>VMtswcmT?Go<;hRMKULDOHeFg;P^p:HcnO>ujp?YkrKKcrJAN`hQa^vOacvNMTEpAq]aFjk;@KucLBwMIKCRfLSiNsQy]ol]UUDFmrGT[^jiVZse^BF^AiERlQBx=fmFk@pFspS<`bb]en@B=Vlt^?b[<FEQd;:lnwllKZl^fjn?;QwtV=zEz_:Dc:J<rlETp^KX^uXj]zI>sfN:`tD??XFQ^:fZNx]Nt`VjkAjF><[OFtl=>jC[pmetnCd;_BVNidi]awjCCVbmPQE:Dvs:d<slrbQE<`f^Bd@s`iWiCxsA^QwvVxk<`ER<b^ApkJMDJIG^tAeUluzNxXIDjbdxwBaYWwMbm<Pp??t;;Rj]JPpLE:Gt`;EXMg=cDvmcCf;?jdsPIbUedsSwbTf[o<NB?rJCJQ;S[IAsj`AtN<e<g=IJ<Rmvd=zHCHKGQvBEpyiZLkBbAbN>DTDS<BLU@jkQoM<?b@gGEYClu?]^;Mh:SOleCtHF]lcafxZCgYET=:aQwW]LFdG^`eY@nMFKWmbtMTedKkcqtcaaMKu=d[]AG^SFIo@n<?KrDKMUJGTmTTtoomn::daLJASOePNEeN__gSPUsonV:EIc?uuPT`>rJroB>>cEMcgcJOVE<@fn;am`B]aSnKt`VorlrGzab>B?dgJSZqGKe]R=TGa>Y[_hrJlRXTe>U_E:hB`FO:A@woVNXNeP^NRuiWPq^QOyG:oYe^M:HNmhMmrpWH_wop=EKEeifN@gBeKTPiUwGoVT<`eacZ]?eUv=T[QKuZ;:?Rsj<ZnAPG>Cp`@u^X<GcoGt@l;uiWL[gQQYLddURGUXTZqoMsbC@uzHPtFkp?mCl:NcXTQF<_I]`lMy<xK?HjnGnIXgNbVUvkv`jf_drVpxWxcmbxmN?QuhBhUqA`r]zp^sdgCIHJC:dN<gwnwP;dkD=:`tzspXM;i:bkUGZR>d=YQki<h]=t@IByO`CI`RTVHyNmw]cOMvLEB:uwR^KIobKAlwC?@xgXJrg;Y[mCbsm]QXEJOUw]lj@^^VKNIsLTpsIOG^REjrvwU]?TuK`jPeqTGfWa@T^yTqjUQzn:?k<gtbqi^OuU>@lWXlNaiMU=eR?>EOlNcH^>XEiK@eblUNpNo]DN;@axB@CN_OuGZ`aJdhYBj=a_=`?zn<ZXDrxpP;=S]<<l=cdWSuEb_E:kZUL]fKV<i;HT^pEkGUdPD@D;e^_J>dktZTMyaHC;am;oL`fb;oLhkJV=]QR>mTHXtCY[MLPCle?tb<BO>EmNt[R[sRHKc_Bs=C<H:eJc]@NjWoL;g[wT@wA_IB:?<uZKJwZINdk=`<s:`JuMaod<ZWE@[`BUdToFwKt`Bp:TTML@b>p_OK:U@^YOu`_o^wTpaHOP;lLWfxRZx?]Faef=mJPS<eBkpIW:^jrM<YKUiPwIScn^MEt`ItBsLVEH>c;BFDBNsR><Z<NGFV?yqw:WPDMQ<cos;kpZJ?qPaO<OwpGcHmgj^B]ZKIDkCAmh>ks][OhZ>OM:Wvn;utNJBmjAfh=eETmwO<izfJdhr_@LuUe<:KQKRUYwP?VobhELZkOeefWyTb>?ehE:ueKKt<[zWDo>Haf^y[PlNOTexNe]DhYeqfR@fh>udrO[c`fMBWGAGlYOra[pUpgNFGT;h^ccULuI=N]ApCzTaGKCfhrB=H>OTkzS@`fO@h>p@n?yKTkxoYCPdETvyUzIOpWfGW?aF;JHeIqtRVxWT[lJfiVOdfkl@T[JXUd^AaEVpwRlFNgoVGk;LpckZjDaeNLcFe?pRxQdxayu;;;DPqpHYHcnbvT@dksxbQ:<z=femWPuwcuHEGvXMUhruzmUHe[pIUC:EqliOXjXolLAwWudDR`F=tzTJyTNrvKXFzPC:vhBHlIhQCyfzffmgH^Ij=envc>_Wwww=UyEKpJU:Cg@rhG^ifuBTuyEYNcoMjRB_uwt]>b=SMiEMJuV<hHoO:yMgINCvtH>tbS;Nj[RZqW;KykB;<tocNmVNl^Y^KBkPLv@CPyllaEfkN<uN`Y@sQMEjL=Bh=WE[lQJJIVFeuj=AT^QMqeprd::^k]BBozQprBbb==T]Boc`GrK@gp?ibGXehsHrFf=TfM[DZDWoLDY?ficW^rjKISJ];IfCKXJF;UyvUo`:V:uAiEU[Wx?_XtvGAjdLlun?kEXpcbjs>C;f?YLn_JbhF>SvG^PXsBzfj<OkbA`NLu>NQcw@@JviSXzQKQe<?y;o`GXfCM_futSDax[LpjXrgvrd=m`FWIjONcaf=vm:cywYSIiboY[SxWJld:jiT>fv`x;wOYKZfrq=EYNy<[FrKN>rmUVgCytMXYeBHQucopystEYdkUruy`Mykh;Z_;:gOkhFmnzJVCDdEDt`YyiSR:UH:ZA=B[;rsFJYB<J@tJo;ogE:Ui?mZA[]OC:r<CJHB]o=bD^:qubK?R@k@qBkOJzq?Ok:]KvSjFCqXX>hDcoHXuz`JVuLxvT=;TyZq:DRIFFeuf;x[ikWZCRNZwgbIw`CER]w`OnR:Mgzppiu=hg>YSbFvX@atIVJwVrPn_hrj=_:UNr:BnId@PpMwqZYZ;wUhN@<jcJTyZQe;=Q]Qm[TVLVJ::;mWHJ:=?mWHJ:C;mWHJ:GheWHJ:<`mWHJ:ETDrHWcAD@mu::roo::jeRf[qsLBJEHAGRcn_F^a?o:HXAoCwkDK[C::FIwfVUnyGHwx`^:<[:EilHBfMEEQFiCQnxZOx<CIRmrbAiZiQ^GKTmvoQtV`HJ:CLTc;rEE:SzHTtoVL`xE<dRjK[tDgQW>_R>ll<gNt@z=LmlA^nGHCb`^mZtKZHFkbEO>SmezTtYKQeaslQ]nOVCFlm<@xOQwNkm[n>FNuC=?acEJdYNHqfn`IPyfQpeNFg:ahEARoWufG@Z?h=zeuoUOh_sH^XwRTpJp?XE@TMS[MCjFL_XfQq@aDDKcFJff_NRbI=UTvktqivPxfwMt[rQWbjpq[@NMtC_WS>UGpK]s^]dy_xsgIIda>peKkooD[oaS@D?ittUXEpYezA`nFueVPbBlt`@RSC=ETtLV<<:KT^a@ycn=HirGASpFl_xYFS>DpnbhespvO?Fr>[;IhZl_RwFR^vA]QpslkAXyi;pQ^P^@KQxRxWmErA><Nws=R^ez?R>?tqlm=LjHZp`w=^`Y;=UQkZ_>vECtlgsCVYHrQ@Ye?wz_Vj=mesUl`Va_TawRXlsMI^OwAsuWYg<fKmCrdAbTZhZugTXGLp]>mEirqpBxsyGZGH<TBOda_lgiyB<pSMOhQgcA[nyO]SwFxPwM?::_smYeSB=aM?^=mmveItoujMLitv:cdB><aO?YieZML`?GYblMxxLNlAgFP>=^?=?=JpCe=JmTYKmShqtjcIougCUdRMFz]UWMSaHniSzqm[]n<?aYZlSsMQ^pEFn=mnUCrtbJ]P]XZ?fTKb[aziqAeOW[hXEzRghzqfEank;zLpUS=gJ@;;N;_inCXYFiB;nJtiNBLek<NT@>B@Y[grWUilU`FURCC@PK?@Yamvk?`:ba;gLJoWMrhWsNkiVQpFk_QZA>EDlR;J;_vM:MoG?O]fusAwlL;DhN^N;K:RweoKU];pZuCr?v>wSXmmXsJS^ULgqrYXRSegTqDpufXemwUxhGPmqoheJUEWvoWPpWrOjkxfgo_=PuZCTdTwScmFNapf>W=TwWTnfUQpclKqWYhYRDAQoSXK_UE:sigG@fflj@uzidTGZv^pvKm@wbouFf]QXIKhvKvruGhmZUMZQiYxSv_M@Ipglo:jZtzN^mcWpHZYgyG[if@JGVwvwYbqKjEm:CTwzRlQrP:svhtXHosm[i?iI;oGdHn=VMRATr@VGtGlsr[r?h^x@WSHSA]neyHcHe^u_Gas<UefFIaGlc@HrKGtjREHMid]WU<VV?<vm>P^]nDLXMNYrEPmivyppSlHxQOUzOqrYYUNq]E;;j?JtKmUphIAiMf:sqy``Giyu[M?hhdGQXBFqr_aNd[qwx]Wh<UWxQhzYKvWWjlclGIhZgLtWIp;qbnl;jmnYitK?a^GuPz;QASYoN;DnvybHw?Mnhpa<vtkcizR?UGOHQ>rSrgq:TzGk@>=]O?qmChjgRCTf`TdyvvXLGjrtWFhflypROiWQgMj[r>zsV<XGPZADKxHuTE:W^Pg^LqrBonTTu;;pBipwmTNUqpAQ=AqpxL;Zt[`RHKlH=u:Ghjii>IAhss?uqJujnjPUpQpriUxVIAoH:Wxus@xAlA_n@BUF?zB_gV:qj]>Wul[@nyGKocqKAaHi=S^V_YA@VUSla<JcuiIRTLUi@myV]tkAIA?bhGdbYMSbugvD^qp`m:<RtjS:yWTybY^Rzsqn<CWjE[>usw`jjrQtTniPt]VqWDqzvYObQNLUcRL;rAKipTpLYVFlACf`ijGUGSl<=ei=uXganeVhI:c=MM^`Y]sGGF`uyZKf]JGTWLPqbexMdhKBuX]@Gu<`i_;BNZ@DNWvL`JR:qnJdm>=ve`JyqdVNIOZGDKZNytdMIheAlcBnQL`cTRvHvh=IUlMxquB]ct?IrNFas[QFwYh`g@fwpe::AWOh;rdCZWyG==mbLhIFvT`=zQgGfFzv``^SZ:mw<:IxHQBTmuX_:NjTq:c:E:Q`LCbqOAabEmuDGD_FXJ^jWMjcW^AZa^dm:dCIs@hCRnghwtl_^``LLi^BH=QZN_vgaiHwvd;tSruXHcEiv^rxrSEc??mvNuWojghqSGP:q=QC<ldWqU]FxhwR@UUoLqa]Aiso?ekbhQr;vNLfXz@lveb^Z>?mFE@fUeCP:=`v>AHw=<m>[sZnSC^;vQWkY^r^NKeGd]B=ZYRweGSxzyzrTq;?EaHO=uRHUU:YsZjN>uGZ;Fi_YS@Tv^]ail_<UhlgpAeT=HHRwUghqGAx:BLjjCJYA_YBQaCp=Z=cXA:UN<^mlurTLsUEy>NR;o]xM]Xt:MkM=py:@]EWt[Evc^nR?u]f;VI_Wx:GARkQGHvAHPSkYDAvWR@_:WHNRH>lO;mYPuGUsDhbWaOWI@r=SkiuqtUGOrR=knrnqFsAHhbJB;AoxZXo`kMH@vfDgVqikbFVciOa;n>MZRQHQw`nDtwxnQSBFIwhrXd]ZqVzPgo@MhHffVzfdsOFGqZE;h[ja?ROGpR<DkPzLisVhLLcoSA`L:POAHaBRgdVTR:i<_UwFIFQwWTaweqegP@QQAnW`D[@uNX:JjcI[]KrH:Q:Wq[Agx]JAkynY^sSkQi@@OzdUWAIjHBxlCvNhR;`VX@:^Gta>yDX^CVkX=t;Zs<EVjkR>;HFNZ:<_JULZIivcKK;dFH]BujpbrYaJHD?rye?WuFvAj;[=Azd:ca<YqvnvRMtrS>s_oYZNHfQvac]H_wZXTQcZVUpimIURzlgp_UMqXmISEXkjhZKm:kFYeSHyJunUtEZ:lSBYIrsQPhhmptSK^;P=DOW;ny?:aDHYeZnNtRhOFdv:f<KsDrmII_j^FhGc]DqDIOFlPwdVO]pJ`Rh;CQOK?cafUcXDiGTO=lFMpMTfmheyW=TOjJk=P=P@AmfHj]GY@SaWDhcYp[[TkPtYitXC:kpg_y>WHWGWopTfa_pGX=R]zfWVplrkhW?XiA=U>fblpgyOivHtQynhHm:zEA@vKpup]tmmyShk;;@w=jTzVvnbJHm@fEptwUrXYEtWp[DyvMwub>WAzbQKpuyJy;VYT;^REi[wycRVoIC^n=y?ykuBWk?HAMstRo;hsYkr_W>@sKl^jKj]IJCN^_ssYHCYsvLQKGw`mctJ`Nu_QGHlRULxAvoimVAld`kRxtb;N>SW@l;WngRo^miQRCkOolFtFYbgC:foprnSnXqyhUfC]ZHibMKUdyNuUvC?IMZ;VRPvLo>Td^s`Km:Ezlzwi:EJ@`KZ:pM?zwh:Jrk=OGYHBAOKG[>UPtwZbAFK<VAWFClbKrzDCnDoCpKL:bZyJVU@`Jw:hZ;k;wYSrp]so>Xl@T:N:FZBNFs:hJJFc_:xZLSKN:aAqpgrV:K<>Jd?Qjb?KcKMJmTKcoUd;>xqZM<b=KX_ENojCl<NJ;pc`BLSApdS_@qA]:MTTi^Gdp_ES;qJAjYSAgJAoNt;z:E_=;At`ctBd]CKC[Ni>>kT:hC@mK]:ZZB<l:]Yo?>Km:NnJTVvaQKMhha;ECqm[TYQt>AlgtXAK;JpSD?:p_zSQl:t_VPRHLlJFkFE]CJCqN^]]sTN@d^`Fos<nA@oGgDUN^:ShU`lc?NrUqrtVNrEGqxh>MMA>VJDbNSMeVcvSkIopwo;dlEGubFgp^OMEMmmFk?r>f?IJt>Pw?rV=`Hwku<@Zzb@N`kwDL^yxwk>ZFB<MjR=<;N]ZrC>olsZT=>XxT@TZEfkpKGv<VJdZtvkXx:uFQNF=QzUCLVoivD^QlK>gTkGB<GKSbZc=PGSkAQJiFOx:^:yJE^:Ls;SBX>vhd>MK:RJ[Zj_>dJkbD:>H<JIKuZV;N:KnmvOv:>:EzwbZL;_g:Jh<Z?tl=FOM<HwyF:M;j;vVSEk_lGVHM@@JWFP[ZZ=EsD:ImgFJ[d`:=:z:>HzxB:j>ETkpoXsEfkkhNxkOFuZM:EbKMrTLaYwmJunAAoHD?zrXSfFCdK[SF:LD<d=fZckHglvG<E@Vki:KT];lGZh_BLk=tGl<s:p=N_Et<DJ^WpjKHhCK@glDJqzLgkkh:NDVkcgRNC]lG>FNEYwukHs<`<OZFUJDJen;n<p<xTMfrVksgWNEf:`Zyc@gJ:gAbARkj:EE<?lpF:f<YZnFIdLV<uZoQK_NdaC:;P?xJskFYcxJ[z`Y[^s:sGX<^ZdsOH=cKLZZi;tZ_yqIZX@MZFxlaj<n@J;u>SPQG:dCTLMuN<M?dkHVmqWHm>NOPG:CgF?bNY[PhkAUBrAOlXBvO==GO=IniWWhUIn[_ySK_Hl_nhHckE`nhMtpEwkUPVOyVltCJ?<`ezB?qjNuzT[q[WTAQvN[W:UXVGUxJUO[kZB>QVVHvwRW??qb_oQ=wJlW;AE?qAwoUWXJlgCABsqlh_GJbKCWH<H<MbxRfRCLdVOz@`qAsuQ>^Pk_HTV^Krx;OTSL?s=zC<]IwZMVlortFZzdMMWGmICqm=xxJcBDd:@EFoe==G=G>ehKUI`ojxlWAapjwlUTam`clDAwlIV?Jbw?nWRYEkBY[=HYdA>OYaBNZyKi:a`l]WIWY_nxRnUCCrNNYkUJELKobVIQV=eYKqkL=<:QbnIW?MYbmMp;YUX?k^qMCKABN@ku[OPpS`Ql<Dx[YYbo<O=QAPmz[VxXkLPg<x>op]OnMP>ON^CBqpmfoF`PjPmOux>mCWGrQBdMUoL`EjOxWiMAoo=VzM>GnAokr<YNTOBr@?bq:::D?=FRrXYQ^WcnKGp[t_rBgMx=svXcHfWnJihpng@rXgoZkI_K_>ZkwNEp<s;ev>SnZ^d>HinqO[nFQMSOlnH:AJFAyKEqkGtnE`MLx>g;x:rGp[RymHNmjI[NewYy<wnROauYLD<JUJWP@BdMsNC@lO`E>LpNhOJlwkW=tEJ^Ng?pFBmnzFQi:<rXtZELF?:gW>V<qSNPTT<mr<zeH<rJ:>EC<p:x:cHN=JgtJM<mMZVECHAkg_sB]mM[LECH:chCaWL_dl@VIR;R;=B<s;RhyKLY_A;iEVZ?sh?cFC;PtvcxLZmt::X[NrjQbAFhiFBQ;R:CEC::][pcFaZYK[c_^ne:ZRjeBjKggDb=ogqn;oI@]SFRdAy]uF<>Gu^s:zeFB^AI?BFapfNWBE^GthHj>cGBASIqU<AdY:Fd]`>PtqU>gzVvNC`d`XuNX_bsHCAnwKlJjkw`]z@vMigKkyvJfxCkk?mU`DAMurfxYhV?mYOzhSVDL`Oki?q?^aA=[qQwiAQjpKVp^:wFAw[AWAOI<lAMXJCVfkzAPbwoGHwBko@^SKnf;LUHsqr<A^OYnY=pz=wBY_@QUwFShYkvRQz<jsW`qIxXWN<I^GwbKFoZ]wZ_dpZ^=_>cBMKoZRU?rKvFWM;^^<g<n=<]OOKlnrsyUBSLkJFBpHDkOdWOlqB^HNN]Dj;EH<]BwheBvD?c]lWX]DGgjW;CpNO[MG]FHKHBhkBFNXBvCns]H;Qbr^p@H>LF>>xHOeD_]`hT<_HotB[LE:]GMK^aN];ARCQv]MQIY]o]R`RjOo^s`YiFF^vQRmBWFnBtonWVPxMpqg^jQPmBm>euY:JV]gkJYQxG:nOmH=FcrQmITNsrCcLQoZciFrkNkc_gDVwcc^dmY[rIHDBL]U:CDGR:VkODFG`ocbn<m^>=QDC]wHOXEmbGso@VmLxLcj:kC?`n<eFa=L=TeBc;sYLLEe^a=FwmewzyPfqsRPZ]Co_^qc`G<u]=;?oEFh>RsR:@^dE@@D`>rnJPrK^AiSv[gs?iTTC:gkEVWLq?PT?TBXlsE<m>q^<OUTGq^xciN>H]tJRuE`;MciNAH]tJLuC[;fcquCy^]HPTG@wmV>EnX]IcbZ:[sCi;uHcg:R][GJse>a>E;^CED@I^^u>[Lq>hwRd@D?kNReikYJFRbs<l]:Ri^r[]wR[ZBgh<Rl<G]:zmNeaL=poOBGC^UNCyG<]=GQlFXt?PKAmb:lcmCCKVwBmCIjG@vT@GmKwBzwkPsJ=FsHs:JHDZZiJV_bu@V?w_`@@w>D:;HDYZZV@=`?N@ZhCHmkMjOQ@P;k>Lili?kR]D:wgo_i_Co`jRzEqd]OhQYmYZi_jZnU=aR^gGS]ikjTPV[iRjgFig;kgbLA=jb?PBXgzbFPBU`dkjcm`]tkcRoUxtRgI_O]aAGVHE;kWR>nO]CtQVE[hoQQPHI=xRjRmlpwQLwCr`MRqKpj<qyLqC[`fRqf_dV`z<XOjCLxCqEj_QRb<LAKKF<y<zCG=PnaF;K:QLZF[UZ[HJ;JN<VZ?D`mdLeNH_[::Z<T_P:AP@gZ<c?U@osEsMDJ[MsDT?Cw=RNjkET_HdEeKu_c:V?N@`[dNTOI[JZY]>VtEHSnbNKQHFC>:ZkBJ<<z:iNk<:@[::<LVyHJ:@yYJ:AqzJ:Am`J:?y:ib>:;iHN::SOo::^WHdl::=^p::K@G::=<FuVJ:>fbJ:=UhJ:@s=J:>uAJ:@z?J:@rsk:?G?J:>CfJ::WMUuD<]jbC^J=^w?X:<ictkQBDE>ANfAa?VZgK>:JKsHR[`yNeTCPa_l]D?HDF>>uMo=k:::Eo[FcaLapItcsjF?^^[ZNnQPlpeIo;s:_nB?Cl;`:SA^^M<g>rn]:twYk=bk_tEynCMidQeQu`eN_TM@`<lXM`os^qFdH@;N[YdAakoNzGEnkkZQLLjKN:SU@DZtwDgOuMS_cSBOsK_gbKnx^XAaFA>S_evJ?^UfDVMEwhwNPIINdk]PH]`p_fvQb=SRfiM@FW__RmO]vlWjo[pHzQu[HLQlIVHp^JGMRlKow<U?lAwnkgYmlhv_aKlj<Sz<qHsB@eQZ[O^;<Tg>ILPoDJHoZd<W>?V`S<HR;Mk<JUu`W;`<WPCd:KK;_<S:n<G_>m;f<VTZ?:[JXk`NC^<@=FoBE<VP@O;OJNUQO:_FzJ[Jne]:Y_VBb@Sk_h:IJYkZW:vkg=Hv:Y<L^Eh::]?GB=:ZkNBb<BBkDF;^:s<PB^M;sF^_:LBFkYe[uCp^WVBmC_]UBazMcUJc`P^HkCYnzLWgLc_FB><Hc_ctdkWq;TCQZE@ZuCiZEV:@cxkJZAuC;]Fw:j;SDFR^j:AkUc<aBrkC_?aBYk=Z=z:^eB<;?[?R=H:I[p];<<Z[[mG<>m:FBIR`dC=]>]=q[XFgsaUCuBFTaRZkD=]:XCiBVmAs[>mGs^AJI]FW@_Z=LXo^yB:wNb=edRL>>bPkkLAFZgZ>XT>[pCZLIm>;ZA]Pv>xC]LBbAKCRc>rrLZVLOo^CZ]RJ_]?BjLID<lLDL=wAD[NcDe:SKzFsAmTZPc?q@SB;gb:>`lycONZJ[lcNNbtCScJH`Tn]L<@<[]iLY@A?BWcDN`W[^cHu@yZEcGF:K[cwKN^LmBRLUDH[pLRW@yZycYUEEBxL<k?LnAcEfD[ZERNo`y[nLB<:g;FL;D?jkgRBvFWBngka;WCeLWo]CC`c=sOj_BZ:Fb@cZmRk;=BHRVF[tZcmYa?^B[RSnEW[gFmP<x[NmQEIMC`RSebmmWRYF[?K<mRq;EBERDqAR[Dm=znfCKRWMDpBVC?g_g:qm>HA]ZimA<OvCymXHAM[[mDc<L=QFjgAPCi:AH:YSCmU:@bBLsSVaf[TsXi=bBas<h=UZGm<MJJS<:EUrv[?ADqIbwUR^tEh^BFbVGY<@WN^MW^xA=qDHpxzAqFIxfNs>pIxFBhHGgVcbDzncZUzTrGn]VB]gFphpGFCrWki:gnps=xYW]G`KUO:Z<hlugTO;o<:wif;=N[:^d;><Bwd:A><;_KX<_<S:iJCR:S_FN<Gc`:ak<PJO:pS=N=h_QS<o<YF=x?HJzsYJDQwDYWK<dwr_Re]w<<orkH;K[SQqLp`Y>L@Q<=>]IZ<]<LaTu_]sFaT`A:Kq;VO[R=[?HrmYxeJioEz[HMA:F`KnKQrI=h=PNGIOw^YXZGDhJpRULLZVbXTkxnFki_Hn<JDIFHX:?rBgD=^BojxaJlBsdHI<Ld[S<Gx=nwgnJkKLoMxDTdPe?e[wJqBVYD[:`:A<L>mpmJ^As^vRP><iCaRLTZLndeMEEqc`Jr`A`=yZZx;t=PJZoILdB<fi_BLiZk]EO=`J^NDnh;JvNHh<ZVFGKkl_>w=<a<XcxE<[=U>r^:_l;F;>IbF_J_I;K=i:KnLNkbZhg@MdpV:ZfK==>kn;oJRJiN;eG=>rcHT=HZwf@u<CZuK;ekkwtx@L<nJnNF]kfJ_NB@xN<yoD>DSw`E@W<ZwGoDasIJ[oC>DST>GPN;m::TA:x?iWQ<x<]g<A^VL<w`l<FE]gNr;Tld=BI?sEOJxQ:ykKgTA;y;YgLUArdtgJy^U;iopUAPkfuUU>A:AJ^x>VD=gBv@>:MgKA?vd>VIr<QcJ<kRA=;Z@IM<NsI<lU=U:JVXA:iJA<zU@VDYgME>M[>V@v@zdR]ehkm]SwvvAs_vqGkhal_]cA=DDqkIkdjc:][JgYKT]ixaHlMgIZ:DDs@?Wb]EbgKBjLECaYAANZ]V:>_bKhcab<Sl@VCH;SlqVEb>YkXZjwqmkJjJBdVKGV<QABZSV;Q<OkVFR<oy^y:GH<ZGi<x::kkLJ^ZBxlXXEYGXNWwtkbjF=:OdZn=n][NCt<Vkp]aiDuJjBfHk;cYr:]ZrBPkfzFE]ose>KvnIA@^k;cBb:@Z]]eXN<LLRx:@aoi;KI=_CNwQRNnkwe?K^ULDRlIluLakqSKGn@RkWCqpPl;tlJVy_Z`;W?C_eYAHoyRmX=aLwA:tBBWmzLMCBWutLxJcVOopiMQMG_lVDUwcQQSC;h`RoMB[oJ<RtB:oMogtCp]EocYmiMKA@tBj=VWLYqConRkyObwmWGtF`;OADwrh^;y@KOyLbmYtDz==VxxmHo:S@w>co:B^[QGmJBo>mhmVssQJn^mV@>mF?NBcOqWnwssYGUdv]]iFg?jVzZH=m@F<HnY=H_NJCuJy_HIF_=K_GWmMmNwkq_N=`:`S=PKG_QIFo<=_:U;HJBaRjGhdLwpkFR?vUOiFw<Y_@jHCLuwZBCh`KSLeJy_PwmBC?sXaMjC?ssZrjIURCPF<CMGyUKl]Z^wZa<IWL?<ozCwLEwZkLjmeZzoHrpiN?Wrg:^sW:gh=cg@oCykqk:t_x:>:En@RDzFOE:T=O>>ZeUgqkKsILK@<z;ZQDtwooFP[nJ^:i_EWJqoE_D]ZSRjmJbJkZcmlrJr^>FDk:Jf@DlwIVwe:<a:Y[AcJ@:Ew>][T>rodYDrmfF;HDD:Sshrne>^Wqek<:UV;_`PbXsiTwG<w<fU:X<[RjNDa]kZ:ZecBHQA`kjkT=?J[oDg<<kfU]mshn=Q]t:cfGcDykjaEigGsgBLqDWcHBeZgD>ghKZ_^BDhxcpOyH:WMQSDAn^U=KSnf=rYTLCd^S`Boe;_MmkSDUk>A?aCALl_zuMdt^LsLjAMsDL_drNll>jraMyL_PBSEDzN[lPM`o^unSEjfIVLqLhoriOrM;t?PFr=ZdDMFp^Moj[kqFdsfRoiMW^DNflVSL]YmCWA_txHXMOVptIOnr_hNcASpAQj]dhbvUKrpnWAK`pbtCDvx^sSMLcJEGKcLq>fR[qUIqFtgPGDlott=wtge^LtAEBEUEJoVHH^JimxB@M^@bFCIvEkcZFIpgxsYzGyKdoXdZIElmbNFbEsgXJdDD<_t=?XCI]?ogWpUEGK:xEZ`EofhO=_J@>DgbORrnWNvCOJqR=TKWB=g>RJhef[ZYJiUJvL@R];nJSyDuSMaSPkoLgnx[on=MS^h[=Thv=mLzgFio@^T_e?^ODvUJQL:QELhuGCRrLcUxHLvSDFex_j_hdDqA:xFKW^ob[lb`n_wNfp]ADr?rI=lzJ`qj<wUCtDsBmQKwDASbk^PBbhhLpsppEK]ZrOWxObGkn=wGbAynwVnaN;Quho`DYbpExnKVoJN@GR<GhMELvHI[FEz>HBdfbAOFqWnBLqDcReRLgaC<]KGWDhhD`[>Wb]gUGNEMgogvHZf]osg;ELLpjG:k=wo`YV>Hd<o<hL]QmchGy:rDQGG`>LoxO:E<jDSevEA@NJpSe<i=ugFnAo:BXBgHhwCGOmaTgObMlnKejv=@hwWhbYlne:pUSqmAOOfI]cbNiOMTjip>ACQ_CD<SOqgHeMehtobMMeuWGkWnehufTGuLdSFQMlRquhSEUp;udcV`kvWII>QejWGFeHzMui?EjezVIIMUDmxEz>:ToYmG]v_uKmbwrDwqBwfBTyQmY=I_eyPJ`Fsy@ddh>TxKHQ`^uPr:JEwT[arYWRDG?Dtpv]LZAMMg:<;AGDmTx;LhEDTczHk?V??wZWnfL`lqWDAzGrHQWPDAw:kK@Ncn[Vs^HG`BtLiNfw;tMyNsOI?LdNiOFOMON^OFpLMNk:;?Rk::LvJ:=SMJ:=@o`U]btgowdG_twoa?BFZ]o^klELDNe`D@`DooyAU];wmgER=QLel]FdTBpXiSMYu=Xf`;qNn`HtLyNkOG?LCNdH;`MtNtOEOL_sEOCGLONk:AMMJ:@m`J:@`UJ:?Qck:<tn?UbUnp>@BBeSiwvM>?npUOZDAmieu_CQVng?XcFsaNxXfVsR@fXjZTxud;gIeo@_ygkTnuspHuw?k>ygMZD@lt<cUoaD`;V[eaSZDX?T:S@cwVlQ@H_wNxaQ``RK=a=Oo;:ZfJ;oc:CsTM>>c=>YF;URP:Di@X:<:Xr?`dHGYpCOdrJHN:HRQBEvm;JLNCZ>ySooI>:bZlaPJDySJg?Z=dlb@pld<JI@flfk:Y@b^AwT?dCH@<U@_WlgwT`><CcQgcavDEdkxXBLpE:^@b>:a[M@y[<s;E@[k;gUTDXlg=Lb@`lj]TAsKCiwT?vRy>FdIa:Ce<TDahleeUkamCi];cakCh]UaaoCieU_atz:uToat;n:;FanA@mUpcICjFU<auljFSU@s]`DUJXVdd<T>ahdheTz@[dd]T`amdf<T_axde];HaddiPUParSdLU;alsLxfKaic;I;BkRA<n:x>Ni:BZpFOzQ>^p:XlgtJFlRBL^KgajJCXTrazlZyTodECiOd:BVt?yU`TWtdLOIac?i_kngEDa[TVJEw<ApDh?WoKTcZJmAqJjatP_KT@XBVeQe:nJm=HlFPuM>:Z_Pr?eFc[xW?julga_`dlTTep][dT<Pe`iOdOcN`fdTc:?`fKTFPy?dSUTPqmpRcXPl`eCT>P]F@OdY:Jq`yNk_SlcZ:^abSdeUnFH?f@UZP_Oc=MNw]OjDUdPvSfuTCsXOhcSlatOdOdlP_y_`TQB=OdTUSPtCdpTaPslc^:_:WJ?@:mTT`dhTvPuH<?TPPno@WUF:VZ>]ZEFQtQgTQgNgAMMOjTLrMLCTcZ;mL:qahEZGfeAyddLld@VQfMVoiM_b[wmxyf[MLNneOEMDNwhGzfTNzf;=T<:Owc@sy`QpIlc?akb_AEsPi^^EVD:JZ[UeU:@VOxU`TBGElt@quM:teXeJ>?fTMuIf<?U>PkJhmlAPzhgFUaP[WpAhUDws;=Z^:Ew=q;pB<pmQ^LxPcA`;J@aC@KdOiBW<]:vcd?fKF?N;:=J:U:TJ@Ksg`;jMZ;j_NcKk:HE?mEIU<lTDQk>?k<R=Z:sZBA?vK^`UZ?>:cZELA<:pZkmASM?iM<^Y`bBVZ::;ASXr]::DI=IpZPBQ<?bhtvGOAjTsZRM;x:taqB@pRvq[xc]CHFqF>=;KX;>i@;D>L_=g=Nov^MEJgPZxqAU]Po^iBuRPywqJgKN:Z=uNZfOyBMUd:ME@?tLHShidt]k[Ho;>F:BInGep@]J:oTFpEKdoUgpWBAoT@DFWgKgb^TWhbTyIW:?qt?qiN>cuVJYQAKdx??^gCBUvTGME?H_qJ=VJtwSImvfu[CaDAL<LngFT`u[HLdV_zTv;m=ejb@_drkUlKSIA=@LvcpPLveqHd`]=DpDNMf=lRmh;pJuw@nMeOcfuf[oYegNdneCLzHhjM<uqNhVebogic[eAkmii[feudRpfe]OIQFz<_Tra>>dCqapeJ:CcYEjW^pD<Dh==`yVn;lemLPo?zCqDYZ;CenARXjtoALwzrAeoXNXhdfLbB_qiUduHgN;JgZJ?jJMPZyR<`cXiqM@v?yivCk>GSTNUhWKduDWNavXMSELQnT@@Pb^SFHM:=^dsoZv:SRUajF=@:MqVcj]K@cJ<=zJhikf;quLqFUjqv=ixVhwpdg>fnmwOeuZmlEqRbgB=w<ikLZPcRg;aP>wjNPl[hW[DcUoqdoPGKGx[An=@bN;pR>Z@olfiNi?YEk[EUnQK<B<T@yvUkQvezR:XpT_@xeZ=TbXNfJFAcv:BX_C<[vsZOUliWb:XAfzD_XqhQpRID=]aRcseQ]ZY[p:SBG_JuijeqeufkTtZzDEFSSZwdBHJLPZtpgJArSuUaUgiu?_cFjFXJ`Q?knYe_:=yjfmLmxOo`_nw`G@u>]qPqmCKSXllQ`v?Xcge<=>N>BB=_kZpQc`vDb@IrtuBHAQhThlQ<J@hRMa?Pne:JPEm=>pu@kYFYwa@ti<m[gkTi:]SmnHZGuoleb>=W>`q<Pat=Bc?m<tMPw[qckOxBKwAGKi>YZlGJlX[besd>P_x;Sv;X^:;wcKXm<fe;C[LQgeh<yzcLsuKwdK<QnHuCwdMuk:TtaLMAi]J;IcmB_R=T;koiYLJ;bqObhpGtJQa;EgbDTtZg:ATBD?mpXT[XlURs>Hee_DCmvAhIE^>CJgBDd_YVimks_SCZmJW>DE[L`Emsf@sM`cwmcbhKZz=?:lSwzn;a=;mXv[P<pZpU`==Oyicg^<y@F;AewPBXGblKNkdL<;Z=ygvqqNtwozfDNjyzn?P=AjNq@jujrPzgjsckdL;RnZkIZ;k;Tg`FEcK^sA<Js;icA:;dvQvRp`KSmk[jiIG@@XeCkM@cufojGQJE<_@]Tyut[b?XR>`h@mMcTd^o]^nCjej;Gqfk?h:VJ?ZAwJrFXwa_?@uAK?R@?NEF<AK;dJ<ZQ;m[Ojf=Mqynjcu:PO;WfcAUVF]FRAesUZUR@y;lJ@zsi;`ZVN@[oWf`RJZ?Wy>:cDPT??E[mdMV@nSdZPUJkNPX=:TPhS[F=Lk;:uW:;HZg;qXFn>lXLpmARg;pXId:y:Z_onK=T`]fMMdbUMcvELkx:XEdF;qbeSvFydG?suk^O@h=xvXct_WuvPTt^WvRyz;KWvtBFMOY]laPP_mO?TNOhOcdtOIj=TaDHbcZsjDBQdZspXs]]EvWHnhBFvyotgEC<MHz>gg_jTqaNx^ikckDgvGp:HiigvHsVBifbHwmhVu`ouHdofIHa[krMK^AniXfXL`HcienDaiJgfM_zjpyfBizuhKhf_dmi;eMRlxE;frDdEiOEjDpNgQwhVsxE?puusDimvGzFDiSV^hBQ`x^LT_znhLTTeQKhDz;jA_WESucDfVVtiwUggd?ikUg?>Sizf@rFeRqz`Xvh[=aId]u?EBYPu`C;uIHuiRhC?qvdu@vcJ:^icKBuwKJZlAz]s:J;CPdS<b>@;vwXq^IXMhB<AcHchcWy?EZc:GeN@`pdSV?rZEeKpBa;okIR@YSEsSnNB;yYJM>NsoXlu`lAwKrs;bu]KrAi@xJXtuFbJDKZJLd@TKi_XQ:@Kd_VB:PKn<@ok;uUnKB:G_WNYOZllL;LZhLKfjl_mC:Kxl;c:TVCb;dT@AILkMMnOs@RNacz;GC;o`E:SBMHcveC;A]uW]QUsF?LRNm@fKlZlkAg>qoYIF<;teCydu=YEQW@WrHYGWAm>k>?UTVJW^gcdslekVqGSe<kAEUpLq>QgKmxLS>[Ttp;prQUGqlT@_:a:YD?LJXv@k=B]><xWi`JVxVYJjUlxKUaZ`DAPxfZu[oMK@YTMZOxjYUlE=cgXx=BGRDU@;:YxhMlZH_w=:v>Hm[:kJVTGZ?h:ml`Z:f@eljF_hxnIXw_=cP:XkTIGA;[;=i^WiWo>SdqjR]?AFtvHW?JvsH^[>JuLak]=IAoHeB]HC^JIR;ku<iuV>CNH:@cYovsDGTg[@uRduLT@ITnjAFvq[iuKz@bsEcRip<tIcSNf:ioVI=eQH^LeSDrf@VDcWqLbuqwu:UQne;pRQHRXZa^_mMBpEiAFEenfyADMhneW^=RVVeZTyxHEftLoigODQo]ij?xYDi^HpmARrQDoVGzUV[i@YkisXVZA[lfeXAmT`fek]oBqrDn][ClrDWEj[qQKiTyi_D<aukfR>XpOg[ywj[AGinW:iv_Kevhy@oKcvg^AKKSvfrFxeqj:@MyIE>S]kVK`DBQh=S>NXC@KjLNUCkpjL_Y?CeKq_Se_?Kc`]OAEeTu^S@JgYNVKVHT>oW;dnKwLkgnUDxc<Smtc=Z:qsPLX_]=cQ;iBPF:H:XuA[^B__Z>XJIX>=[LbEsOX`RLk_MCEXmiJYG^:;so[r;ZtH`DPZMU>ofo@MLZ]J^c_pf;iT=gAGiPDY_vnMM]rKduo]KAfLQT;OqkAX?JFTztV>afk:>X:XfqnAxW?oW]:m>tDA@bYrYcKQsG:>y^xUreTQdNT^WJd]hSFqEPM@:=>O[>@_yXl:;S?x;QOrhM=d[k;k:Uwv:CudP[y<^y>d@aK=Q;<aJXpBsiFXGeYe>ouzDMMVXt^IEGA:wzFnK]ywzCMAUDakU?tGlvWk_;hliB@VAtquXDIGr;[wRyaNoIlFnJg;uoReww;hZp=@K<VFUWKEK]TX^@ddhoU^@`ddhgeh_lZeOM@M:WFUvsEMPTV;uhVIFT?:pqcYLEASlogUfk?laJTj;eld?jdbEqr::UAQBcVU:RUqn;[j@bq`R;YTrq^xfv@kB:VVXw[lh>qQ::HgVW:ufkLVSAtdlnJlEAtllVStb`lge`Q@tc=VRV@wxCTprAnMYVW:xqZBwXZvMlhgRJvI:DwVxVql^^Ej@LB;wTYAD>SUJZvrlp:=e@BKsmXVZzlwLhqeBezTLaMFAAcWgu`DkPGbL?_gVD@AsChnioeJQTPBa@oCtjlQ=_u_mjaAZijYdRaRUJ]UIM]Cn?mjLMknRVcb^R[xCEe>ii]YEf_il]SH@H=Y<VXGuWW]VUfHCiC[zRtJGTLCRPdL?DJ;QsPpA[ctnLX;lLy=BFGi:B[xJ?bstqH[?sgKaqs;DvAqR_gB@i:<fjzZHQT]KAe]lXIdJGvd=Dcpno:LPgc:iCYIjIaHgrw_zB^sJheUtoZBXVbbO[?CNbaNBpfiIaCusSLbeHipsTyA?bODgYoV@RC[VRPHjb]g_xwTSJmkAK`CcFchvFO`ya>qlhIysH:?hIZd>H<Mi@tAJSy=]:a:UcP_sp:HR?H:DVYiXQ:uV>uMH`MsAeMdl@qHb?D_;dUb=N;StZ]MSFPXf^=s:HKnaX>D<:A_Sj:I:E]O>;L?zJA>:=DYPg::jxN::;=n`;kZ<[YH``kRKVUGxTkpF::qGH_Py:KhZNQK?iN;?M::TTO::Uv`::JeNp?y[TLKG?nRQpf::FOO::HYOnFX]P=[Aq=uMcPawaU=dkR^?NA<;lSFlSJ;xTk:<txI;g::ybo:;Q;rFlKFLg^`:M?slXVPj?]m=`;::<oNlNk:@s`J::W`>CY::k`]CY<:R^TCYpf::PXW::O`^::SJM::WoON`fpIpeF`jZ@Gv:tXKS>Qn?iN<>t::=oO::;<G::K[pL`xCWCR__TKW<;=:F:MGZ[?qdXwPtJLKUNQS?e[SeQ??iN;NPp?^KV@PR`rKVFQB`ZTPmPtJTlWgPN`XlY?_b?m@OVPNNV[W<=kNHbAC`DSFR@KKr?dI:y_O`jlT<Qq`qqA<QH`mCV[_O`yCXLQU`_eAiP@?nCSKJO`zCXDPr`wdRXPS?ZtRaPh?ldWTQz`^tTuQkZRtTd_?k?ST<Q:::vO::;PoBO^CYR?ntj@W[?bqKT>yKUV?KA=<qkWf[yR=gKE=IogR?Z=Ib`STyTldkkLy<PZsuF_[PkYPy<aYa[o=m_Dae@PjjRdJBHN?CCmL<S^CcyO`U<ldj[N[UXwuOdZ>k:V?dT@WbHGTOTR:k>J>:`QGkI]bN:dT<OXnvN>@=bNclObsT`g?PKFXZKLMDCHrpOdarjGR[XXOUqSL?e:@YZBNO[<vNrCsTNdMs[ot]Z:oRcUfRQOFLcX@?d[MQcSSxOuBTxRTsd]FLWbdH_lsGBPM=]LFQ:gIQ<tnOsGVR]m;?KPmUIJ;@MXw`?XUAgT>S>uTE?Fp^Z@nPrsSIi>SNy[Zmwo<qyL<ldaO]XSfM[qEKOYaTo]n:pQ_skX^?udTBei?wSfDWK<gNij=[AR_YSuW]tmH;H=a?FXM@_<;THIRZRtX;S^ZC;hBW^Z<K<iNC?DK::<bO::U`h::<eOuEJ:?=?LM[?Kr;D^[YeTolMaNtm:OM]J;pH;FW;chH@hEot=q]n]FsEMXxTVto_inaeJB@n[jVtCaJ@@wt[kInZXcbe?u_r;ZiYqbzKDmwWafERZvjHBsKXHE[>:>iKWXLstJWEamtVi<@G>Z<iC=SJrLiWNnyseTVJq<N@iUv_Xs[hVE_qlENMfausIkVPi@^;iPmcy?KiPr@L[viClDI[Vdk<kWW:uWUaTaicUU^:;WiYU_aZ^iRk;HtX`LLmisyiLlC@]fQDUaRLCcx^YXskmB^VdFLGrv_Rs:X>I<;tDGoA_SdmOLAa@[DJQdJMVkB`yBkJeelm`EQoZ=OUD@VysQex;ygYjewZdeJG^?Qx:=xSSMc@q;irfWul;cIeN@cyjJUMu_pF_Q::L:M::Mkn::JqOe_GECKktJFSXcPrGx[fQeIGf[ewrX@rnXJTtJO;iIeF@iN<kU^N`KY<qchf_>?g]NpGj[ptJOuLH_evKnY_[vc>YdfujNZnfa><[hV:yK`w=]]AaKt[z;[sxZX?MyNwrRp[bGhHXLYk[INxfVz@qXhfXmZUC?b[sJiJ;fU@rdhvpCiZsly<aurjXThePqahnwYYG?:Y:O@tg@As>McU:SH`?tPhbUTdEI<Un<YbUpeUViq;wMeTDbsouhRFZGhfR:iqChmX<ae[ie]E_atUYtdLOnjVUSarChhUSfPWHFyTVcAhn[:Ibs:BySiqPOivY;q=BO`VZRlh>ASPrH>LRNGQVoB@UEuAdaAT[rFWtY<==qpuzHe=@mcqirohHnLME?CHhX@xdAtxUV^:Cv?AXAbBkOuEurb_N?QaVmqRUULQXMI@cPhthZt<w@HO]Z:`PSl=OY?rRp]NmCJQYOKftG??NGUf]BpfOqvPu==l`Pb?WcrM]WjWYp`MPHW`oJnPYaEGXOcVpqIjaoIlmX<zATw=XRs@hexgEFvK_xXXla?dDHYxeUH^toZaAHaVMNeBuuuiSETzS<UoeYhXHetD?RbWGna:ilncr<<tlRUUb`[wEineLCeEjBb:TixCfbeC]skOE]WCNeNV^[^Ecn@];hiRmvJVb<BsaHkWiirw^VqSJS_aSAsAco[uZLUrblCaXfTuqWbySX@vzJBTsJSC]Ujyr:KuP_Na_MQsRPu[x^nJfuJpOUiNaGil>TsQN?fLUquk::vjKApm_vfHvpCd>Tu:NKrs=Qq^iyvfoa;sZfm=bZeVY;pVnOiQL=QQ<JhE[L`XiqKOuxSApUZ:GXc_pDRsNHC:sftuoCogRYXwYjxufdz_RlvGxEAgCA^>Qa=PdKRFQ_=uofRIh=vpRWA>W=<_XxZ:Ty`HAVMvItxJa^^feMzTz[VWr<[xAr[ub_a?ks_jj^J<=gWRa:w=laBCrB=kUnFboXeB=yuVkF:u;ulK_AcCvvCwAiisLXuAeB:jk=S=[u>Xy[?vZScsa>CvaTANYCrpXhp>cHzdqJz^Kqqeh@JFg<_:zyvd:;aTzr_Xd:<ZI;BKnltKDyrWo>I[cRR<dvk[PzQzqzXmYe?<g<k_TwkGs:d<QEVRjP]Qu[V?Yd:@h>WYiZr_=cd:[tygKw<A[vmpCMQ;eS[bYrPtcI:A;afak]=PcRdr^VQ]EMR:yRIFXnJt?AjFXZuNJqcPa^q;XcTLo<I[v>BzbcmwDB:HvPJRBfLJJIYrRDIZ^xzbXo[o<cv@k:gNB?IP`g?U=k;D_eG;eIpRWz]_NLZDk<VdF=BBwUk^sTu`KR:SjdODSNPR@T_uol`RP]Oc^Zff]IKgu>KV@^:QZH=tExSBtRI=DGBz:HW=e:zF:hyU_RbZBD[nLzZUyfkxoKiwnRsjDN=sJ@zKU^pl<Y[MCfcvT:Z^bcvQ;G=YD?DHdkCswTI=g:E;WdgVCkeu:mTJRybGr^jF;q;P<EvB`qZ[cX:gAqDz@YcSzKzeShA;dz:UkLKdhZM:^n;_BVgADS_@VTb?^reT[aP:@@R<fsSrFVfoodKTI?rM;urR=bIlycYfr@SY=;y;JtbTcTF^CsDZUqHMlmLHfd_vrTEwstaWFht>tq<XMb`_sITJbOogIRYNBxdugRWS[jHSkbORj<TEa<C`RlMqmtcwBfbCLnIW]uQDo@jM_gekaoH@cT_jXRaCtVjUQwz_bKpx[v>PfUaBTxwDiCEceeff`[TiyL:@>@ijeZhDqx^sRzbULirEs<Xxv<D_alxZYYyACxncC@uY[aFuh<;ilE=PvSiatcbrKsCUf:DOizf=PuowXYXrr?xjYSoaGxoviN:?xmvj^QhCpYWivo:XC<IqkH?S^MviDSbjsdPpf`WxHanZQdgqhO_Qjd<bY>zVZWcD=ougkhWc;lDAOaTzS@hUX]qjqSQOdriVRlGCp[^SFmlyZMQUxqjGqR=X[jIh`NNFrgDfnwhzS^w]e`rBYhRYIzWL]:=reeXGh^pByD[o^hJ>mH]Ku:y@fofYJomhhYOxgJIGTdoC^u[GHIgJ;=tdIh<gLpngvMvkHMmZ>`UGvOVjaHpg<FzSGxAxZCrRKbBWXTw[eCZVr<[o=`dvBEnOWnvvGvgiFxbszAXde^;NZvvrsEvoRdq;mllafukEut^[]NaMV<]:jxgPi_hThd]xDSqi<R=Rjx:VlFtPm;wAJzqmdY:wehLa?]tvQ^Td>p]H@=iwx:Hx^xZtx;lKfZz?xmKrZtCKLXpUnPxn=oJtx:bchLsSWd=`zTEv^xyZXWws:R=hdtjNOJTJJJpM::@[C^uu[sidE]hiYxSEfBwRHJN?BsNiAnk_WgaCKkmvCl]XnLzsHWusJydvxEpKHsIzeRmzGuD=`>wUviS]mugiQaXB?gi`w[muVitk@ZvsFu=^muC@jExJxRI?Ef=]mHH=__V_HB:>Dza:kf`u:_;WEfF=>H=Eb=JtcsfkwwNHCJKDww[Dlew>GSNfp;:mjvE`m=vDe[ojeiaO=cetwiG=jmy>eF^ZezfB==fy<FHGrWMr>Jn=_Js^hUGFYigIC<qkt_E[D[kxwI`<omoQuqOxksiII=cn<]tA=fYjwHr^seVDIryFBv:p^MDBsHI;jXBxk;>^q>Q_iSffJzkHIffBtdccKIBvCdi^ccyyIcZFcsTHg]dcwkZAf^sw[iIXP@vIcJI?cyeDq^se:uIpgKE:[jX^_cZ@I>JBRw^cOtgRyEcC^g<DaI]u@Rv?ote?kNPIbni_ZLH]gP@YCkG^jC<aiW^hZvDi>lc@tYH^^Zt;HHP:FsswIkiGYiiHeNCszbvA^lx<FEQ^ogAlij^ZJP[iz^lx:;HJIR>v[iRoM`SCik:@>y=tEGZ=_vIRMao[>:Yh[>xzG@ZNBR[aydwfobg[d[rWlHn;`BmKHxyPat_OU;o_tnpmMm_y^MUU[@YdIn=UkTdrY;nV_kCTWbbbdqnS^LGGWQkIUUV@TMaoktniW`vZKNyWcUUT:KhcQTrs@M_qfERrUnFL`upnxK?pqtXgfROvvxbVyOvBl:wsc;m=eHIagfX]L^Ei@pMyrbHUPKVwJifaEm>PRjBzqV=bXMfaFqobWsSCWqCDoVxHo[MuHS?IyRgNy=e>tZRTMb?[sRT^ePLgRW;VjHlugFeOMf<UOHsxcEcyeJi^HdEbfDkwDKhvD^IREf=^HEhGH=fVosEqpVeoxdahMssUfegipqDUeXtx]ZU^Ot]DcK_htfoteuYqXfdUrzRkLX=I[ChsW>bvLm;s_bztgdq^IXikYTnI[xofAakpOlFyJYRnp;xMIKxtzrArFH:>Tbrv;@YUnHtxdLMNbhinLXfHOxZzUEHhxu[xrr`xp>WfIpxygwUIVEtgvpSPnqXTkjkEvgxDAcEjgvwcypEbdxIXXf:SrG[ngzTYZVLsfmsX;X^Vt=wXMHBVvivPSVxvjOniGXpvdn`@jKRxXeiyh`=XqpXVQZt>mshvhW_it`uxAdQVFXz:[zUx_bx^?:gYLZ_wtcjm>neck<f=i;;jHg:IutDjSfrasZI<B;@NPirnoTepxlesa==vYn`:zzIDXF<BkH^tshVc:QMkKuZicHP<tYr]EcgPvjAPW][Jjwn[PbJiOPn<svHYqBcRbHwErgsBivJACwdreE`G@WMmEwzEBHIAyJxFrGmX]vLXlXf]yicPE[@Pe;YG=]vuYgeTu[al;FBSsF:;Esqu>jlbbDzNbbZNdiGqB;wLs@XcZ;@OY^XRFCutjvnZ@zDj`EnZsG@PkWLw_rTfgbeB;n>rwgKucf]Jt]id=p:xVXifvDsa;Cbaw<qYwfpSuL::brRu<Xpe<evgaZfbZzHXhEcZ:du@fnTyTjcfs?x]ibbyDtXXeUr:uPYnNNOhPYhboCvYZYb[eiwjiUoes;X^bmesXYef^LsiYOj@C_[YBfwJtHYRENO@wpN;ZjeIHt=k@Vuj`=y`?NHKJsevyX=bjat_jjbpwtnHJpDjjvcEZKewgHfnrTvADdyb?zgH>gPuziHD>gut[<lUc`:`iUfsuuclnFOcxLDaxhg:A;qNlvn:[ETWFepmdiU_OEO?KUmqWkLDHIOuXk:UcPykK^`Cb@Hqoz;Pdj_tB_xaIeS`RJzviZSMTTtOGwW^TthGpW^U:zmTcABlDFSkOxXfJQJ@uZQBLD:@[SZm=<MYpBUM>XxbjAJv<Xjfb::asMSlawlXQKSayyjvchazT;X:cMmqHVQf`ttjh=j`v<Y>G=XZid>>NsvU;n^dK>iIffvjFfXv^al@zJXrtsw>;pBVK:AY@fmo:id:wymzgZfRNSzhXrNUv:wntuNIDoEboM::AYpRUe<nXgQ[<;@[`:JaabX`rmWxQXKM=r_TCJZEw;?YYbqhw;jurvWw>ZUby[;axIeQYgMq^K]Wx>EgcFPa_ZXTBxwzYdBVSOfh?myB;HZGsJ=vbmjrjC]PWZ[uqv^x^xx@RWigMsTYRObUouREi<MopkxjxUEqt^jLpIqwRL:vdHvhVI;lqa=jiYS]ieh]=nbbFGkstiu]@SnaBWNXHv[BUoUvPC<uoX:Ed_wAjzvchUlEzl`Z[ibhdB<U_XrsF<RNf@^N=ruApMkRSQiNt_RYQjot^SGJbhvuRWrjElOucIi;Lu:_pIJibNuBaUDhIYP@VQTyxiMUv[tIfbwxy]TUaU^?iVnAUMi@cziVCSoxMu@sra>cpI`JYgc:^uKZdyxsTGJ:;w@sZAlmMXXhoxi@;DuLe>emCRaf:YN?SsYUqluf:yCssjnfj=]liqLWkYsnn;y_bgAtFx@qKxlc]kXeGB[v^I;Qtx?bqsKn_FfHTArKvcXunsvjEIDjt[xcYPAy[ssYMijbgbHPnb]^sXDb^biD@TbsKveXdrVm@IrdAw>TAi;aVEtGElnn]^kj`AtPRnNAXqqeQHjq?VuGJfxkGYcy=A]izpv^ArVz?`nA[?zxPhC^UzoYGnZgirIWjaisW_uvl`wui=@owuwYnj:d@QfRpP:zupInuCyzI`qLP_NUAjq@oPZJPZIcpwZyeCt=u_cFIgzDkBLIi^uo=dCu:jsW_<zt?:JJEx:tyA_;wNX[AfCvnvoZRUuBj@b_]yTYhC;<xRyXvrouDYg[_dsPUmbkLzRcebaUsGSTbinYeXwYmzCFqIAwnObY@E[Ssa:PEm^P@XL;[]uw[ybiVAXXBjsSxaY;YyLA^Ufe;[?;[@ZXJs_icZL^JlXEpksMqYYEb`s<jOEpeu`ALQg?toicQittdXrrxezfiaQ[DxXYKYtQuyXrIxQzyiUCk?w<iWYsDvpzy=]AgTjcQytx[YAb[`sNHlf]ruKXtkPQx_:g:@rvOyfrz?tlv<Qc?yWyJQoRvCX;=fwgdv=Yu`uejpKQrsUjHbwrtu>CfaGCVH`QvE=m^Rj:eIFS:NBBxzBH:;VAZ=r@ZZ:bZX>G?BXSgySnP<l:zRE>KTxfn:cHjXUfn<L=zj`Z;CTHzcwgTfKwu`:^ucyrjxFhGkTkyQvEfwPywzCUcl>[zcYzRjij?Ue>xeIJ^_HAjK;jMsz<at]nAAbgQa>U<DHQfkpkPHW=hntnYO^hauF:BzzttjYrEpQtDcXhrBtuXc:CPyDHY^gcvN:GUZE@eIpzrYvjTAzvTr>=lw:F@vUzEBu::`PuzAHYdHAIzuACA`;QcS@tYS=OtZ:hzuAzF[]JrT:AYzRzcqBYrRR:nv=B:gqus:tcvTj@X^hAMctfzKusUzV_<>rHpturCpsseI_:PjFpsrDAmlrDEZLNTGMTw<Ukds:IbtP::ZAAz:auYCMRnJoQ:Z<:cXl<:hV:nZMns?gXYu=ZLZ<<:wU=jw>@tA@S@ZMeWpudZOK]jITRuXjHasonVztwjLzsfAOasMq=auBoHzswjXTtIzGe;AA;PuRs=ztJr@:AzA>:?:bUv=qsSsDqV=gtur:qverUPsksME;uXUPf@B?<dhjEZKe:RPtbAK`<xEJjB>:UtZDoSs=yvEntQA@a]yRHYDJJ>B?kOE:=[:thuhjUBAqN<B>wEIBAhjSK;QQUktLrSE;k:[ssLBYE=r`Cy;vjVL:bjH>uo]CTBbIWa]XBACBQN<<fWJJylW:hg<yzY>skYS>tkYG>vqr;eCRn@;RcY?pDirW=virIJ@XrF@RsY<qThMD_s>YKaTobR^tOPAbZ[rV^vX]L^tKeHbSxvJRAf:jY^yhIfs@gOiunbPBSFYCUvtILDf]xGUvPIH^ubY?GeOr;lvOrHqMvY@vtyzPB=AbKCvhdBj:qv:m;qvRD]<OSQuwYFHRwb<DdZZ_@LXv:jklnArUnrXnc[p=Ms;vH<RmbK<SfCXudUrCNsvr?jklvTRmdpByu?nAMtxyQNvuYViStpDyslW@ysabFntv=KEfr[Louxf?ytb=ENcHYINcWp<DdnFEbJNBKadd;>CDfcTEuViPEtkI=jRCYNJ;zYS:[BNBAsEt>AvD@MvsJz;CtC]DN@LvUp<XZP]BKIXZCSP<At^z@AuDGIcK>B@k<cgBVt^YU_?KOTUtkWCL:lZ>o@^Y?vf^Y:udDBNTul:OyEl^Fs@rYC<Dx`F<BNnQIs`iBo@gnJo>lZO`cf@:Uc<n<YKSZPjtHeEgT;ZsK:mnYZ;scLg<?:YJ=_:WL;Bx=][PZcF>?<J>:SZrb]vqA[m[ZygUSZ[xfPZrb[;a<F@KZ?xd?Zi::`Zom=jhXF@BZFOdV:SF>^Q?`uXZh`vRLIjsqAMjvA`UjsCR<Yvtz:d;G;JjsJCHEmVBFjt:LHC;@R>RJGzDvdGzWx:?BJImQkOp=moDOvvQAg?GOAZ;EzVYu>?A;UEZcV>QQ=ht`:[Yu^zDAvUZsf<CtDoDK`HnMnB=IDaoOS;YZWL:=JTU:[kHqZKAUDcDCJ[TZkXB:mFDx;w=Up<dBWXZ];PYEYZc?=g=Yw@wa=v]YZ_w:zZg<@Iw<<?:kD<>ZJrwAI:H<AfoTH<BJa<?zZp<>_k<K<=>M<>cJZ<ACJ@:Uw^QV@XZIfndAXfmLf>]AeZse;wFWBs^NIR:s:@UnCqGK:g^E`KoZQ`UY:@F=aR<YMD>IZ;F:S]@BgG]A]eFC:tZwn;F:RgZFkOjBRD?]>tZRL@k<FkJzdP>=hXVSKqXRBJCkRtLgBDF;faSm=O:Ggn;B;O;IkT`:tX<kZl:@C=wUHN:UOGC::^?N:k[>^tfWKW<tJF=JgJR`LQw@@EgUIR:fVWnuyiJH]nhSq^@JRF<[a>u;HBNUBaVCk::J>::WMW^TSCT`uVCSULYS@o[LJlWfmWHN<cgPmAkYVRAq^A>uHyJV=?BGDAcoLTUYyRaRd:Nm?=FJm:PJiS^M:<F@qJ_n=:NCpEZd>n=up@C;zkKc<BC;KTS:J?KZ:<PZ=J?m=djWL<fJJ<<nTVJ<S:YPdUDCs]<:OeAXERT>l:Me>LoJ<:UBKvmfJ?m<ukXu=ukUU[ZJQWsU^@sM^JtJ:k=VL:g:Ux=UJwm;f:@:UqNO@[s:>u@R:AH;GfK?]Tq>NKJZQGtxDPL?:G;c<DJ]VDo=Y]ENDRMlZ:WL>yZ>s;TJ[R:hj>L;uJcy<@Jxo;dkFEB=cPo[:?NL=]J<=cQ:CKLjfCMd:P=[EnKVWMaU:<<<J@@>J:TL<eZhe;mZWr=aJsd;MzUb:RB>XSeUMYJ^nR]:zJSZCD_JcdskyN<>kweA>k^Z<_knV^rM@KcGFUjB:JIe<MOSDA?B@VfZONs<qJzse>:Ka><BBa@uS<S]^h@ETY>KMdFk]m>_kZe@oOFP>dJkP?MzTP@]kz@>Dksa>ZmSPAk?:`MukCB<VJco?z<?x=LJJ<<@FAzUc;Q[=]kkCfFkeP?gk]MJQZk?;QZdv=@oPw?StVq]IZrICRWUnJajTnvMlSRKKDNkv:Jz<AZJpF:G:m>ZA:>Z;=c=hR:GHa?eJGA=mk]P>HkdP?w?>e?ekqJ:Tk_P@I?Bx;qkmP>JOQH>@k[m:=r?_umILDfAkE_v^rVHU>`>aKkZraBBZoNtG@;XsLbCXtLb@MsRZajlmbU>@SnSMvcM@RSvrPIUyv=NvdpT`mSpNiRNZzNtNZcnsoZ_ntoZrRSabV@dFZkjUIr@@cxyKqBVZZrCVZs_eNTIO;wM:FtGWF<DY=MjRCrUjSCYIySopUsSskhodb?V;f[`LwAgDGIBl`OJEl`=JCvBCFcJs?Fc<NVt:;knFSe:Fb[tNHQSTxLbnS`LjBYBTjEqIJgeQYMs?``LPKts?:BXx;Xc_ON;UqFMhc>wWrcjJnrfit:K;loPGn;[;kD:BtD:Vkm=Uv;Ej;X?NymXZ:v<ng>VfKc>ykdq@nkP:NJ;HoQdUC`>Z@P:QC^_B`aLokS;TxE<tZI:r@^mJMt]SLYkuyBDF:@B=Z;EaVZ:;mCu^zpLTf>zK;;_zMV[ucYJLQAOC=aVCuLsxPMZ^<MkZkZN>EBRVLtgLVTv]yG^KW<EKMNq?DcbtH<sWIOg@yfP]uSOG`d;>>w;WZcYt:sL^JAFEwA^kHbkv`Yn;epT>ESRL^JDp?M;SBAlAHAB=Mv`JYvMxPOvGOFkexj>usiATwde?PwfI`<kefz;CAepMB;pJaRJGJ_T?mZJ:=Dyc:;SCN::doT::LAG?VHl;w=;S;dcQfKwF?p<x<fp<Aj<GWkZGN^x:<ew<O`VVciHf[tygO[CcON]MFEG<p_<t:XNZG;BcAe:E:Iph>O@q;_O=Z]vsP;NPr]EVqkCOSHHaKVwX:LSvz:kohU?lOTk_HcO>WFBJJNz:xsYF;esLoG:C_Wd=_Xc;KI_r<tvbdlzp[F:G:BH?U_YV^ykfk>ClIg`NJTI=^viI=MvZIszedYWSsRU?TJL=OuJNj=x[a>:xZBw^lFf>;`kDk[rsCZ:BNJGK[s=<]@:I=KBNR]^rs?]CV:>_;NNW<^oNJRcV:=h:NNJ]]VNS_d>>__;VVh]]RNRms_ZBL^[Fa]]FNY]^tJ;z>t`DklY@co[BFEISp:C;ZilBjlPBUz:np`>:VJBk]sNJBBAeGbtiNMqC`yA[dO<;MS:eZ:hgeEz;hH<OJDVBqRuVGRBAyAMZF>]dpxzbN:HJ`Z:orhdZEFFm?Oc@awEF:CBuO]OJ:K]R;PcZs[gwD>:EV`nSFKjHdAIi>tIE:s[qqZp>OO]npr^=O>@w:p[f`GMtq:MTxOo>]pZoJnlZoPT]I_=kg[x`T]KCA:goyIp[INNa[se@blAwCDl@n@u^lwZ[x`PGu]BJZSJ;[;B;WNSZ;xNLjFgv:UChD>IGQNROK^D>FoC:>T]MNKB;WvD@]kDCyB_mca^p:Fa^rNQZFqoXwRBr;hpAkUV;aJdm_qR:q^jk@pwC::nlycLlZnp]Z;nNO@^NA^@]D:@e^Ey=T]k]jz:=_>i^ka;a]fdZp?NP=a]ucD>dkaIa^XoSJxyoVvsGig@]STCu;g`ItKZ_BwoDP=X^nEaMJ=a<BGqyjfGo:Fa]QgCDkc:Fy^vmeBFu[>Z:roKq^FoJp>YoPrpzoPy]XoPilUNGp:JP]q^jLFUd`yBb:DNU]]VFI^<aNY?>TuDm]ZNHm^VJCm^=C@Cs<_C?xxmh>;;NLe;[NYWJv_PD^rOFKC<FSD]FxI[dCtHA?dyBe^I`:e:tCI::oN<Cw[mHl^=DBdBRPGn[Hq[t>g::y==NTt?jk:xpoZ;@]W@CT^@]j=>XFSl^nSI@^PFIC]yFNJOUNYT]PGBu]cCFu^KC;l]CC>d:hoXOOcbAZGgoRf_tFM>;tCId]^oRP]KFTHOTrDACmoO?KWFXCBrsI:hToPC^UFL@^UZ@@]poPc;bFJdCFHBS];UB@>MFYNkxoNWttCDd^fFNC^lFLP^vFSdJQS;P^zFTd]rFP@=RgLH]aoND=?ehBC>FQk;_FYL]oFPtsPNWIk^[=mZiNLZlOpEm^]FJD][NRw]eFO_SDgQC=Ys?D]T]=D]aFJe^k:>e]E<:SKONJX^hX>b;GNJC^oZ=S^Oc=m?aJ]F^jPc<:dFKT^coUC]QNKvBNoQT^nA:u]FCIQlbNSe]ZgO<RJgN@Fp:Gq]nFYG^YNUV:a:Pw[:oPZ[UQcq^jFVq^doNc[BoMC^C`BSJ`FTP:qoKy^OoLq]zFQ@^HoMh]S;@?^xgRqR^oXzcAFUEBDoJh]V@D`]EgXH^aoOy^bgSh]codQ>ioTegXoRP^MoP`][oUV;WvHd:cydW^>rfV;dgQH];iZi^xoR_cAy<i^NoXi]ygM=]zqA=]jgUi^xgKi]pKEV:_VVH]<ndJwEoRwps_=X^EoLZ;voOH^AoO@[JFQy^so:;^_f]x^YFSJ;yVTy^[VKM]jtjfRJFLy^kFV`WBFX_>RFPi^sFM`^Ys>[]]NSL]wNRO^IxFO^YsDO]jsC;[SBin>]jFjlyNTK]hZBw^^VS<GMVVp^uFWD^@FQrhaFSp^PFVT>[gMPoRgJG:iP[J;lgWv]uZE^]vgTP;`P<E^hf]M]`gNlcOgPy=hFRzB_NINkZFWi^JgPc[>VSv]FP`??T>Nm]moFM]ISIekToP`]jVP^]fgMt]rgWvpNc_R;ZFRb]VkH?^^Jh?]Gigh<@VQE^;VRZ[=S?W^mzas[IJ>r^Xw?W^aJbQ]sFLVsZ:if]wgSf]NFS]^@NNO^FFLO^BF@O]bbDbtHWAm]LFUO]KNQV^dwOVsHWAK]mU:l]MJ>v]HgRg;PFLlJuV:esGNKC>hNKS[@VU;^oZBH^Bc:HWfgUH^:wUxhDoXd^`gSd^OgN^lpgNY]dVXrF>Ibh]aW=u^@Rbu^kVJ@RfgJA^SgKPSPDBx]BS]M^KVYekmwJb]jgTS^jwWPsTwLX]x<ZH]lFR;;EwJQ^FgTE]?QHz^Oz=i^]uH?]?QBZMHJg^^^gJi;lR>k;Bq=qoNVR;;RFN]oloJ:Lga>n^XVTP;lVYE^Xfiy]OoOZMP<RE^:FMZLuBbZGi<Su:BFKnJcFSZ;`VUr]>FJI^wgWf^KwUf^lwYf^CwRU^`wO^Kz^AI]TgPK]fVSVsO<Pj^lYItNb@?j^?c<l]DVAj]_s:Y]_sD:oAEAMZ>R^R`bdAD;;gWe^^oVJM_<Wa=N<XZLdgMH^UgV:LYwM]:kwKd]Algz^_HDz]]>^sMc<NS^V;I=]jNYh^GNNX^zwNQ^fwSsMtoQG]c<Xu=]MAuBk<VkpvE@itH<WR`I>Zx^gwC:MJ<Sx^FMb:MGzDzc]<Qe^b<Yu]MgWTwngOH]EwOH^R]S=]_mg:CJ]V?]SVQZFTVY:LbYHNL]oNn^L<XJMD<UTx;oMJL<wYJL@XBkMUZFkMFVBBL[VXkLJwOy]S]UkMP]Oh^q]Ox^?]Jf]K<Nf^RFSDkE<O_M`]U=^hgVNLYgOoMasBpt@IAu]LNEy^qy[r^X<Dn]foXn]doSn]s:Gn]sgLtsmoN=]ce:tSNgVW^d_JZOJw>;BqwJfpawV@^Wv;XxEgP<M]wWRMV]QkLeVS]VXvGt;kgO<LzmGS]@wXr^ZLSFM?c;ysy_BC[?D>Y;koiV;pI>W]v>fKR@E:xtm:Cm`Xc=lKp_<pCy_WQ;<kHdtBcBmMHNhg[P:J@]T]QwL:<Pg[CgVVtC<Rh:GVUL^]NMBMccdosxVPm]dwOcM:ZDnRp<KU^mFYtl`<SDLW<PcsGwYcMuThA?hwOp]<RR`J;gXZB`vCu:uVD:o=qi:;=wV>MrVMe]RgRy<nwMv^Q<OY]Z<R_MfNRh]z<Oh?VUB>MAt;h^x]SM^=]WBBjwTNLvwMmZR]RQ^:<KsMdFOsMerG_M^vEeL_:@@LyPfRlJR>UBNoJNLRLSuLdv>b^xgLlJX]KTLN<PXofcPsLjFK=]ggNkgWLSJ^BmXuMdVVS]jgWuMhmH@L]mL]Lf]Yy]U]So[icHJ:PLSmM;=eE]=LLZ;k:BaMO]NVLNmLVMqmU@MomTG^uwUPM@wX]LvFPwM:VK?JIS<qSOc:sZOrBTL^SEb^PwJK;umXo;ZoKVNNVK;sOVQr^VgWBMNFUBLx[DDMgFXDLNz<j^Yo@U^twKcM?wTH_oADbt^AAU^pwJv^GwTeML_ieMWwOeLv<NY^MLRsLD]STLuZINMMNN@LSgQTMj<UsMAwYsLcwPh^QLPz]LmKz]INJ^]c]NY^zLSZLC:ETMwVN_MJ<Y_M]wO:L]]T@C^]MuLy>CXs@VXTMD]J;LFgSW]ggTf^jyEiL[wJO]=mUbR^mJU]`>>U]CLYR:qQGDL?wKK]UmONSqDRh:PgJIkqgJRLtH=j^^<KyLn<Ndplr?RLSrGWt^rIeLn]Yo[^LStSjmTY^KFOaLo<MTLZDQ^]I_:M]=gNcZkDKA]bwK>WvVTp^AVLyMOu@yM`NMZ;tchyLoDWdLtgUA]p><A]KC?SMDs;:Mge:SkA:<R:@cctlA@_a[[aIl;jDKtLk_GSJia_mcRJAZFYDV?M<:=NMzDP>OkwLYtBwXzVcDN^NADMa;swP>LgoY[MHC^S^CgPb]>gWdKdmV:RQBCw?k::k[PDEb^[]UJM@]YaM:]IG>imPPLXmSQ^YgLtLingKLGif`L:VY`MSSBOMqrAHMf@CqLDeTZLWuZQ^amJnkPLMmLpVQmL?>_u]zofdLJ]U[Mjy;PMJ<fuM=gJP^NLN<MHwXiL:LLiLlmY>MZmL;MJmX_MN]Pd^T@HHscmXs`og:Wtkd>WMW]YoZrDX>:[o=[MmwU:LgeVhM<DRHMT<RH^nT;ZLDDPi^rm<oL?ePc;H]JKM^eXaLy]OUc;]M:F[]TZLK]LH]=NK=^Oc=aLd]U`[p]QFMg]JxLlVXhL`]R=Md>O^LG]PGsh]QxMrjCqMRDUZLw;gdtENH::<<XHsX]SyNOtjt[QxZq=rTHiLKXg@^DeJQ^NwXFLcY]jGxLaBJPoPmhdDT=sCIIOMk]WM]mmB]M;TY;s^oOo;gcB;JEs>T=pD:Vl`v=GZJoI>[?c:::hJ@JNgI::hLDx:KdUw;x>ilCf;Ovl>_aT?o_xc:vpLz?ZJAeAG_o>bVo]A@:JUM=ko^@arNZn@_ozZ_jNrg_ZopqbzRoh@M_iF`Yk:wKJ:Reaiovs`PjQmk]aTebU_r_bpXIV_^ssNaYlK]aD>t]_Kn<SDatTf>m_nJ`<Y;d[dodK<D_]`lu>qO@BIOwa@>`r@]NekaKC>k_DZW^=sKKLapocVZXCIw]DNb`<DNgiBMF>zAa_vA>i>hL_=J=L_rRzTbcNoiC=vYL_CNkm`CN`zAJNjvTcI>PaYs[<_b>gL[hoxF`Wo`A@xobu`t_bA@TNqz@>Nwu_icz<Bvod>aIVAX`WePP[gDF::jRob?e:Cu_k>leatJOF`>NZh@Wodb@=cpXb_NxXb?s[CESM@XbkNmBbnox:MsKYo_Rsmv@HoqZaqN_mKnRz<EC>q[^k_Zm;HN[C?voyFaJ_mia?>tu_rol>`BFbc`=_wVbqRWs_KNCE?BFZwMlNJT`eNf`CfoZ:_pN[LK`_WD`h>[ebL<T;`Mk=aZmox:;moj>:lZWL^IkJ<[QN>G:XBbP_fnY>bYZQDbBlJ:;MVhM[::=ATMLkhLtLDLKGLIdCE_:qJum>>HeXGrgE_>CT:;I@d;m?tkw=CldW=B`duPAzdYeFRSn=BOdsLksS=f@sSihEsSWGD_Su`?keE_;dCANIGdQBL[yG;DrCBuINwwGGNSciBId`w<zdAKI?djqFUd^r@`dBN>FSf=HFSb=Cj:S^Gi:D_ot<um?sSyhFCCO^BSkl?^BgpH@l]dhH_SvJ:@Zqa;VZzNDmS`qINZ;MDkC=nMa:_XLcSDlCcSp?CId_XNKlupGQCR[CCTnSHQCTCFvlub`cCx[QbJEk>LZ]k<RwF?FzK;m=WCP^IkC]?H<CKuHKdaGCACJ[F`lLaBPCXGEKdvhG[CoZ`KdgZqvZ>pHcdN[GcdJdIJlLWCICliMYZddQGlb?E`ClCQ_XyWEwemdDEdvykgddNFLKWH@<kWH:rmGZApCcyMdkF;QC<anL:en[<_dK;Nskea<ySkX;_kYnIRDDbJUdbP=U:<:<UdqdEIJ^r=ySsJaGCUJPNdFPFzD[EQIlAaINZ_qF_laxC=CiP@=lKxHORl`<Hd=nCrdGBJQgKpGXSqu;rdAnIG:yxBFkInHwSKpGtkjJPdSrnDNJKa;rdu=oIdKpIJXiRJWCs?DWCFpCLdHEIaSLSCANfpHScbOFFc@XH]ofeCnlym^cCjpHEleOHQFI^FxdMOBSV[TG[dXOB`Sgm[Ig]aF=dDtMZ:FfDpCvaDnC?hAVSL^Fil[EN`R[ED?SrSDxCVxC;d=nB:SsCFhc@xIvdk?FAdJXIeRgtDHdQE?OPtxDkCmf@xSHGCDCqOC]leo>XC^nJqJDem`Jx_NeN^_JMX:`=RZjNB>cjYopS_<qq>RnA<y]gaSSI[IWk[fCT_nBJY;=KB=Ct=H[lGfBeSiqIhSqOGeSipBbKffCjlPEHbVuP?NDHxH<kxpINSfcNmkK;LoSY^CHCjH?NDJMG`dwhG<Sv=I<SPR>]SXCI]Sv^HK]cqFXwW^EGdhLHz:R><z:qa<tLmHGrgIDQmSciEUStUG?de=IqlkP;uCx;I?SuUGfkaUEa:Gs@nSfeEUSK=Gk:OoBXuiSEBSUSGAmmfIrSYSGAmIKHt<aSEjSQvCAKamAmST^DYH^BKxuivFmdQhFfC=BM`<Q:;uCm^GXCq=G@R_fGVlAg`XSYU[oJVO=:ZePBrCnBN^u;XDP[`qGZtlXFdSnk?YSh=GvSBGDBtOP?i:;^HAS=I=<Sd^Dbot^I]S[hINg:b?`kZ:<G^XW_SFch>fgmz@RFjZdBhAj>:>[wAV_^h_tgf^:_Vvz^TFzl`]Ve<^uFsC_oVh[_aFf[_FViC_>_t^`R:HN=?EEM`?E:dU_:IMaVVxJUeNCy<xsM^aWJwM>tFpT;EJpI@?gl@_^NfA@XFx^<Fgo=_vcg^_JV]ubzFn_tmVcW_gFq^a^gy^_wFmW_>_[xbBl@b=cOM<eA?BvlaVwq^TRQ^_Z_eu@Vovw<PFhG>og```cVtnayF[>bLVlcBzXEn`FF[M`oVtM_;V`jcMF^Taw>K@`G_pMbYZWl_`]PJBVsib]m;Fn_Qj?Wbao:K`qC=S=hVon_HF[w>PVenaQRiKa]sx``ogb@`ENky<CqS>`zseu?Fs[b]Hoyh_C>^paRsSO^eJC``wsF?`z_WhbqBKU_LV_ObZVzuZqRuf`yonL]BVrO`uNbwntgvx_k=>S@_FcjACVo?bc:V?_VgbhaSVjhaHVpUa;FrE_[Frn`DV]C_eVkEbdRnZe::LmOKgQdSoaRpm;cH@nEwWdZO@T<MKeOW<;iTo?iPVGmeqPxMkb@o?_DN:nr@T:nSe?@[`P<ALN]KcniPO[LjoM^mhiWx]WiPDm=iOemc?`DndmYJZniTzLbqS<LTuJ^mN@TKmbiL=MwXYYLZFICmYHRdmlqKHnZ_;RnZiQR`::CtHZ::H=MfaEg[_`F_]>`Bh;xbMVuHaMNqH_UFzV_Cot`Am>gN`D>s_ckZrasQ_xJaPsuwbJZmUv<ONt_TtJibhRoi_]NdWf=`>@JZgat`CkHt`Ck;t`zFzO`zFrcCos<^_kgy[;pofr_H>xObxVvi`rgnwfko^?`igfL`ZFg`eoBbpa<g`BaDgz?_d>up`swx^=ugtU`HV`B_NVh``zoZb`lNlo`TRtD`GpN;eKwsGa]gsceb>we`hj<s_lRlq_IgkhazgZMbsVZG`ls_b_[grUaBgnW`RF_DZBVvO_`]LxaKwkH`[dBB^xw_:<yuPOa?gjC_^ceU_@omp`C`I?`Gwsj_Io^UfnJqZ_bg^IAWwgj_tge::GNCL=EqAj_^w^n@KJFp_`gm:br?>b_^V_jaHg]j_UWVGar:Wd_pwee`?cc;_Cgp<aRgZubRgfp`Aogha>wuY`jwxE_egqy`eggGaI>]babgsD^bgk@KQgvI><BHb`:`Rpa;wmD;rw`<`Jsjp_bwdAbFoLs`ZRoVaUNfW`IwoI`UodhaCBph_?BWU`s<`h_zwi>aiVtAbxgfha=gjE_wwZfbYVcf`uoZ_bMgilDngg<:Lwy_bEgpW_IZdb>Ug]Y_IWLOZvgcj`_w_jaAg]zaNIRx`:<`Y`Sgrj`uNaxavwhL_IgeHaFwxE=CwoZPgwsw[SVzObN<^vawwzn_hLG:N<stdar>mf_fgxCbeN?OD::FqgWEB::cAQR??hI_TLUoWdiOHathbHN?AbHvSEIF_tt:h@t<LGu<qZjmtYbFDtyZdfSa:hyt<MFsDRQDkeBIDutXmAPJQiBbtbDK>tTZAMtTZgPdD:dEt?AIxCC=BWdg^Gat:xEgdqIIeRLrCxSW=IxS<fFqteJiqtefHi@GaEZtAYFHtQYH_?LgZx_<e;J[OEGjSdoFYt^vHitLSOD?CID_t=Eacth:g<?x:gRtTbEF?Vc?RtAAH]?]vH]tgQC@dVjBViVIHNNnIHjdWfCzdBGEk]x<AxCh;I`tq:cUSEzFc:lIIdSMIFkdfqDCtxM;=dJZie?cUBquLUne?og]_??vEQtfeI<>N:j@lVQBJ?cbHcezJiw?CYBttzZi@?QrIASIrHDtu:eF?=SIVSlk>U;xtA=SnSFR?]QBa?Z::m^J:=@KbRD=TRmLs;MEmaaTOm@mJxtfyQb<C<RfnyLKqZuNSgmlwQZ:gFNlLVJ<lMguRu=js;lLfmOlMnJVY;MLjlLTJBCLnDRms^<Rn<ImJ@_VkAMZv;AM[b[Gn>A<S^mWDLDE:uMmm=DK;MluLuL_TdDDxDSNEm:DYmMT_Os^oXDDFDNLnua=jLv;>JDfuK`L@cgrmY;XxLzNNwLA]LjFvoKn]zTNfBFwV<;GoWb^meUDm`;MgLWKVeE^KLQnyKSKntyLX]AqXTDHVOTDu]PC^ycJQ]ETH<My;JVZxKVeD;[L=Lv;>X^caOZ:O@J]E[eR_m=QakEoaRSncBC[kPd@GM[oTgmp:=KL;LOf]OXOgnpXVXM=VPO?@KYfmiDWbtDlQlM^DJCMMDO@VLuVCLGLVT?IZbmDgcFvmW>:]myoVH]NPOaMMoLAm=[YGmdTe`?B@XDwLPRbmO;P`mAwMDDyPWA]_TiqD=KWJmxqQ[M[;TA]omPBDb<JwDV@RiLceFiDbKNTmogXin=yVQ^qlXuDtyTIoF@Jym=;WVMWeXzcPd=]DuaPnLlFVT]AHMHEteSsDZTQwDZwA@DzNOQ;M@AkRO@JaEvyP>ET<V^>u@JSnX;jXJglNdBnDIaEywOGLsuJm^OXK[^DKKI][tfLD^Hch;WXSbL=XKSpVCJyMW<XVnnXTqErmYj^s:;Z;^LYRotDNjNuCNSJ@CTh;^LUJ[>eEvnIVXd:lgKt]ETIqDD:CeDJ<NYLeCLWM<>jRoFyJaBOrGDEKuUDEFiah]jBczBOlXNmplVaLU[V^mhlVHMkKU]DpmUiD`oCu_U:<OLKB;qDjaHc;^lMoDe:fJ;SyKiEbyBXdhCUT;s;IdE=D<lKs;ZS^VwJg;^HOwZIFR:GuXTSEkbDCE`KTeE>vIRo`uOH]vlQPMawN@DgmXawaoWdZwlYonMoDlE_;KgDrHX>tPCNX^]R_nOseapLMoMaLJdKZEX<H?DvqS?EEgW?Dw[Xum<[PmpR@K_L^DGeEyP_JEJ@aNm=]UTn`CQznjTL]o^oO=oK]>Z:=a=w:ezgbCUQjuDDiNY:fKJGDoqLvBu>Bh:yeQ?KFHRLEi[NoLBZLitwPWVEadN`EJ@[G:zNXpD=B?pEYmEMke<YpEsKNGEsKN:EKdYNBCdWP^SPXomGqVODruTuDTdSXEECW@Mpc@hDw:;pEGdMpEgZQVLN:Hn^[dNwMvoOxE=dWdJldLLmP@`GD=RQ?m>r]cmX[OKL<lXgm]lVI^NCTPDFCJcLgCPOomJb[E=aJxK_SNR>MXXw_nXNCLXKWQMQ=`ootJHqD:=_wndxgy[xwNZlxwPhp[KXboTSRlEBPKZxXlSJwbkOlDMPMlE:DMZE@qRRVJp>YLpiaCDFA]IMXWB`MmV:qDHKNqDtNPeLEXOp]lKVznKlNVE@yLNED@PtMcs[tMI`B?LmabtLW_GtL<q;KF`HgA]uVGFdoaZoDc?_kFKdiCJ_o?jRCi;?LWSR=N`HeNDf<YRnT_XS[EwRmLAkSKZ:eK?LZeUmgoeFFlhSMx[WSReni<bD;=SK:gFwTUEq?HCJJeSUEkeOx^m]`QFvSSJmASJimqZHSZdXO]DQB@>NfSUADjSNkBReMg[^gI?L[SPILSCKIL;PJfE?dJJMZwKZmO@RPn`qOWnSdSJ:y[W@EYlTP;L[R<D^@LFDJKNOmVdK<DhCP>Ea;XdSW?i<hfyWhMXtNoMBSN[EujIXKKSKN;HKVqEnDOEEjBXsMHSRVE:tNYLatO[LOSVKJpSSvDGSKV]hSWUEzSUUE:tJUEh[>UEDXKanktK<;nSUwkoa`bEFMbAD:tYUEiFVbE`t]vEEwYp=FtMADAtMbDYSJYERtMUEoUAfDswTYETwHYEZ;Nz;c?aUEaD?ADvtWzDVgR:enkZbEjB>AETLNvD;D;G^otOzEpSRgpVtPVdReMbZVyJ>LFXFu]ptUWDOCLTEtSRtMetXWm`qVPmj[YRZatRxmG;LVLD@LZfqtLHnZKYnmXtSdDfgVaD;tKdmZ`c:;ctqA`zlFP:ZCCY?<jEPSNpIJR]sfCkwx@PiIFfw`uJiPux`nxKTNc?;O;G:`BRfu<O``hX=I@m?XpGD`sYFxS^`DSSSpmCSI^r]:vUFXJS<cf`AGAOSZ:j]l?wfISOwf?:>odrRdoiI?GbD[trsA;`FX=QK_^=GdsoiU`UIDL`AP=HiA<gytYIG;?I<feSu_<y`?^B>Ou`ATteLjK?HxN[tTUn=?>HC]`wx<gO?_ccObcegO@=GY?PSEstEceUXgBlCtlMGId;;EPuFAI:w_lHv>z=GMlc>cpSTrQzsDe>F[GZ:HRu`@EZ<:;n?]QFTSok]uSLkakConFeO:GHz?@i<@Sf<eJRcnHLiSGAOJD:<PCYMGgOmmeXsNnCld@mi>C=E]R@<ZlZ`u`A];;J:J:Wi<jJGs>vuEN`UuAm;[?qW^b:;:;T_w::@iG`r_@E:omiiLdKtwk:L`LTA<lu=mHKu]jcea]jHlz=DbK=I<Y;CNf=tPIE<@?NgscONcJSsJA^RuYKCtGw;I:b:>pgsPFSuZ`=xKn<mZcVv;JtA`?pd:rpeCpzC?uQ;KT_LZesatk=td<Dh[O<oiaODDdrRA:AKOyqFSueodbaeerbacnAlOQ_<Y?dDjHgcRgw`=IFdOMk<_ONFiJ`mjI^dwFed?lkbZchBdsasa<f?gdIK`lCQi@l>eOCMtCOCwwit?SWI`:s`G[@MFgt<EFhNdZYIS`mwdA?SNcNaVSEb?N_cQ?XYDWHXQqeOOMCJ:R:=eOgh<QdM;HTO;fm]StuI;CyBiN_bMDZgpfbKdnKIIsoRhaOBGFBCYeHS<@m<mRd=E@SruGaSS>QaCLSLPSOsAe`AdFT`TZ?MOYA_qChe=UtPBasJZa<bN_rG?O_wdC?`R=C?CRcd?oeeK`UilZPeFeS?KnHnd=iml`_c;l`QBiWl`jFzCNxB@uWH@OPeekGOP:<GO:YGH[deiA?VrBhOfzEFObEIJ>UWCrdzTdSuZgiLeo_cy>WeifqO<fLd;LeP`EYEi?b>hr?bYCG`vikQgyf>yRl_gAaXR=V`dvN=tZeceO;SCvOAn@NO]NiKt<xH^KTocjOAm@sS`=ojuR=AYOiSKGSGufI?_f:QO?ggYOImjqlk@hhJ>rDUKxTFJ`[RhC?ZdDfOV[BK`UDGfOqWItHnFZUOpReUOKqbJpMXnOO;WGB`iFdpOyFfHiydDgOdFhBXtFhFC`FhFCpFjR`iuhS`Ceh^OSecbOC]cNoSFdB>IfEt`__eE`DuiWCC<gY_rFiYJrmjN:OXFNOevk;OzBFRehfqoOz]gFOz>hFOaudH?;FggO>fnZJK:fgOomcx?Icd]SM]cbClggj`KucwOX:<wO;UBwl`bG=?z]g:tMUBgOcLdROvIH<O_r<ctrIBv`Q<h]OBJhsB<Lj[?LLca?eLcutFkjdC^hHGKevIwOFNc];yLjBOqugcOlFfxuCLhcOtLg:pLSPspHGCeOpMIqlgBkTOnSCLcELixOsZeQtMeeuOU];uOYLdIRZmetLkmc=OrMBUukTjdazJj=OLNg^O_lFPONT;qONnEuSx]?TpVnHqOK<>qOv;CvKymfN@[mf`:lmgb:Smg>k`mhi:pmfe>vh@ZZxmgXO``nh:TOm@ievl]`>wfZp?TcJp_eifOa>h`O>OQqS`tDkpmeindUBdb`ZkA?`lWBQ`t>iOK^afBpTajulKFj>pqN=d`uRiZZhFeMZfDf[Swk:d`lW<d`gh>AO=`nrOBugLtn@jAOyJfRptYNcpb@dLCYmgHNFYHsppehspMdGHptsAHp`nFQ`rflRpRHe[O<rBO`FYBr`fqDr`gJ;r`qVfr`jggI`wVdI`LV;=`Vv==`KaiRc?gfZOYgcdpnwfRlfwiW`btJz`vgjj`HPGz`Nk=Cp:<eI`J<gdpkVfI`cVipSU]gD:_VfLcoVeSpMwgM`EwcmSeVgkOnCHkOiwhkOoOIkOyVintjEGntdVeziZfIgOf<ef`qsgM?GVcw`x<j`SQuDROomd^?=PfU`vrB<?Uaiv`AaguJ?uCwp]MGoPieNhLBwj>OHpG<?g@cAlowgYCC`HYCPegvOogct`tej;p@uieFuweO`<=FCpb`Bq:TihwdywiMp:icdpygedpciddpsifdpw_:Spd`@tpp?FJOylaJOF=DM`]ifs:vwfW`eidCpi<fz`uXcY`dXeP:k<gVdc<i<cs<hdpF<m`pNk;`ptHf`pD<gfpbNDOpaBdOpAgjfp^^MkOEi:BO[ViQOhefppxegopTkeT``Vf^lG<dZ?doEf`Q_cU`U<dZSjkf<OmIErpL:<lOnaiwtfad]OnidDt_]jv`>ki`LZ:=pICCT::;i]blTIEX?SKLWmJI^qZF^ettKEDPlMmDSSLjDtSPJewWYAfGtTN`OSOtLNxP>[GSNre>?REe_?VEfeWJXf=GMrfuWUYD]xY:eLxJZTmxVYfN?RvDNtWQeHWUQeCxMzDma]?MyWVreV=Tre_=MbeN=TsfwxU:fF=UEf^tLneo?RJTotXIf]xJPDVtKfeSxOff<?Mff]?XkKL?JUehGOXDVWWJeMWJMZnWYyeEWOWEX[YAfa?YJnP?YUenxMJDExQcEpCRRErxLRE_`QD;vxR:;YKMyPIicD:YiiF?KBi_O^zQspB[ioZf`_XpAZdQp`UDYOoPcVGeNg;Ooai=KgahxO>Dhk?B;cQu[:did>Pgztlp=>GM[hCt[LdopP:>tLyucFp=;dvpc=NwOePCwO`ajftETDVJ>Lg<Gm[doS_LcWpJBgjpkJijpnXDwpX[hwpYajLOJPemOcPfQKf`Z]p[iixdlLi_GYADGKbkghpEW;[pBahyOkrNZphk:oOb[h=?HSE;O=vBNplJqscHxFlOslescVYIH?EW>Su@AHO?=DfKOef:lOQ?:q[qDctOiDh@RGII_ZyZf=SD^B;wSDhcO=rb_GJedDupDhaGLDcPGeDeSOmldSOuYLIKHDeyFVv@qGilgjtylftOSaf_G:edJdkefGD?lf[OHGFPGGldwRDleFc=lcqGMleqGZWBCOCDfwcVc@R`clF?OVKCDuMvb<:lp@LpomhLpnehWOYk>m`bBL@KPPiTObtOTO<zImpCMBjPpV<DpjLf`:zLfDpqBd@OZTiep>meEcTKF@S^J:BCwmfxKwTgupLTi=Olp;tGTTdCt:ddnOXmhXOI:rR@Kmeo:Cmf@p?mg^:OmjjDGmdapLc:XONMBPpp`rLiRdjXOdTjPpl?>qpVFiqp]FhqplnEYZa@eOOLyHGGEc`UOtZ_BpATeiSC@cDJhqdqiV<:cpLyPXpWFe=`AqcS`QqicpIqhcpYqjcpnFg;p:seRpj>jxlgggbOt<]QmzFeyOQ@h`cLugtVkghZdpdcpO?nC^wsXeQ`cHiFOqHebOLah:GD<iO`>;ir`N;gbpF;fMpE;e?pPXd?pR<f?p[ufJG;XckG]O@sGJ:KUpgRAEpCyiApthISpfggz`d;dtpt;gUptSgJG`SiJGVKd:?>ihL]F<i`p^HcApf;j`pfHefpb;cjXWXfBGuihfyaieSNZ[jb?iij`?yijE`s[fi`HSieF@yfLllljf`t=HhpsKhhpKyfNG>Z<@?a[e<?q[jj?cJc?tNvBa?i]pXPd[c_ORtB=pNpD=pC>dMGS>c:G_XhRpqSd^pFDfkG;ShQc_;fZGp?Dx`g;gAGi;iAGW;hAG_<jAG<xbJGzXcnpZycfp<idApK;ivGQHekGI;jvGYHjz`O;gnpB<inppShnphSiZOw_<RG^SeBhnSicGfSfkGASjJO]tcn`jShZht;fsGre?bpK<gZd]yjQOmygG??XD]pCYF=`lthf`Cliw`>?fgpD[c^OGtetttygsO;KgYGcNiYGz<ca?k]czGR]fFGRwczpFWBWVIyhKpTSeiSZ;e^pc?jwGzPAlp=[IFsKHiEGDthMp`;jZG??jUpO?gvpGShJGW?gEp^?cJhG;fRG;;fY`l;dvGMSg]drghBhF?cE?ESfmaL?ichx;fAG^;ebGn;dbGJie<hUHckORyeQGr?iBhetfn`@tfbp<SiE`eui>hH;=:hPufQpN[flGdieHGqyda`tteNGGidU`aH@NhWtfNhP[fPdKKeohvigsDK[fohI>=YpGydzGp[jtSSHAgGA@gVGR`jECD]dDyC___p>qbL`EGOmpl;E_pNuC@G[td[OaKd<ODKC]puaj[OEW?>hesf:t_KdzCOoEopwACJhilmFp]KdFpmKjFpj]imOA^ILGGaemGnOgIp`<iqhMahjGEacuh=teuh@_j]O]LhYG]MEwp@m:eGaLd<p`qC]`hKfip`OjqlXpjdlNKcCkdLfjS<Pey?uL@uGbKi@S@=rVGNaiSeZcB@GcDc;pj[gUSVlgaG_oeHdfDjUSmkOPGmDiiGnDdHCVlj;GQeo[Ga`<`SFCh=kdDc]t?DfHGGKh[OuThECL_fN:JCgShBGFlOEGeMJbDjShfaFthsoINczDhVSLCfsOydMyGhGc;GxDcShhleShNlg`hVwoqGFhjG_VhcHG<CdAKQefYdkehKG[pclGsKelGXR;lGaPeTO``;mpSuEmp`cjCG[PhJ:lPddGdPhxO?Pca:cme=OnCiHdWPjSGuPgtGMPjRCLmdupemfokTCgc:kdg?hV?Ek@kdjupRdgn?BqhHOJqA@pVdgap<diap[J=iO>k;OGDOoPpZpopGx`pPpbyj?OFFfcdT>eMde@gGDKjDBlJu:HpSdj@yqjDhG@dOzp?qipOQTfaGvdfd`zDivO^FdxG^J?ypmwrl`NzqWGBEGBpxjBDJkxjWkKwpiSnrlWGBTbypkui=Gcud;pY>j=GoXcuGgSehONh<>pNHippPti@sd`h=pYygipJ?glpPSdodG`e^JW`idRo?dkOE`fBhU`c=`wOewhG?dwh>VckhotekhgteApi?gvGy?gtpmtfvG=Xe]h:OhRhrxh:ar`j]GW?cRhroMLh];cmh<tiOpHOj<hj;fQGz;gDhZ`f`?:afE`oujeG=PiGpGOd_GWOh_hiycjGopfB?Apg_hUOhyhoLguhRBdoGGydYGM:fYGH]liPbtjFGfiipGZXjS?gwfFhwpbMG@HgnG_DcYhoYDZSR;cCp[SgVhoOe:<V?fEGT=gJh`?efGIxgLhe?jnpY`hJWJ=jLhVtjRGBOcBh_=dsho=h<dg=f]ha^dAGE]eLhWSdJWsOh]hUSjkGaOgsht^fmhNyfshzPBBWJ[e>hHteQpRKjcWusg]G]aeIGMKh_GpudcW^OjnG<`cBCn=hNhf=jyhv=eYG?[esWOQCohZLm>Ofyhxp[`e>WF]d>WSqejhjWc_WPzm_WY[h_Wh`j_Wx`hYho;f`:w?jNWG;jZWh[CoWppffGy^iVWE?fma@=fkhGXf<hM?c]h?;czhq;jVhTOBvp<=hzhL=jzhx?dLhz`eTWf?huWR=cwWiOdNWj?fkWz?c>GKOh:J]SdgGSk?>GXtj<Gqaj<WdyiKh?agrpW<fIGP;EcWlpdVt^=eYh`=D]OiZdLWVLcY?jOiK]K[hmW;`hoG`[f?Ocpf_Ojg>lhSu;^G]ICVGCYC[pXGgPhJDf]tbtPChsDjq?B?c`?WGedh`ldLCpGcHhuhjaGZCephBCfiGr?=phwwpQtOvHGhrGjCOSsi?OtljOhLWfCdQqG?hqhj?hxljPGfGd<cKEhcKCEf[G]heKTruhHGehjthuEilW^Df?hLNhSO;EhlOfEeO_vEfh:u`?GhW;HQSt:=QSwfFhhzGeeOmcfhhEejLpxLi_GJmIVSqPctpDpi]GYccDp`CexhpChdGjefTS=Ceepx;^tGBWf=ORWfaOGGmtGnPhE:]WdhWzE;^hPmiaOeWctc:qj?GLZq@pNdh@pqWh`GywiG@yWcFs[WhaplWjapnmcpGn:ngievoTSUyj>@qLj^hCxeahhnc]CR@jYS_pg[WJLJChP]gjt<QI_pXxighOMgD?T]@aG?<Pbhp]iNphadLCkP<fWD<DIa;:gPZSJj^hKpgN`Cpc_hmGd]GvYFX?XXcLGDv]LGAJfwO^pd]tTKcvWFzF]pmXBQt?pje?x^hoWJvdXDWphAW?h?wO@fE@dzGcukGUcIpxaj<OFJ;fWMnfc?QVgDGZGiUlOh@;hM:jB:mvHQSNYPQSZ[mmS>>fTttKc<p?hFeGNGdmOqvgVpXvgNh;vcC`lvgv`r<dWpvJ@uZMsDjWOQCjWlljjWQDJqJMvfDGTLfYWcuF[hMpf;OzGgUWwGdHC^Uf]p?ncLpbtNP?PPDVJLxisJaAcWS:];LXo[fvWTUHvpSgiBxp]eQCl?KKllUG@lOajJxnrpBxLNfUyuSHUCnBN:SHyiuZBbEPpoFjZplReqpL@dfOKdfd?Y=?GGPWDHoIBIkpSnB:hK@evOYQ^DdQnBJ<D:Aakfe>XSLV?WJKcEL[^jGkKQ>Cg:CFFFxE:<usKcDE[ibiFxugH?[BEBgxFR<g[QJ;g[xbiFx`NHe[BEDVxfFFwxY=<tNubfsRONBB:@bhgCXbis[Jt=sRSOId`yFi<xbm@E;RQf`:HRBFx;FB>JgQif;FR?FxmQdR:eQdE;ObcLxVQduOqVEgxyFimx^be]ep_DAqQnCDxGZAVxDdi]xSQeu:NQcukVn<tN^Qd]:GQi<xNQf>[wxhJXW>hekkxegRYQhTxFx;c[Ka<ySSpp@xLV<Q;XdIbhnN]ABwk@YZugAyp<UmjlhVcqJuEGrhJ;c^GVujdSwrjOZwSdqWCOfqWZJ@WKqrh;WqUd;d]xBiCBAfcOkoiktw^MutklhEWH`G<xX_eHdHRDB?ErilhClCXxTIBhh@pjPwL_>]xmai<xPbhhkKxEOWFDjWk=bdFxzn:CSKbggxnJdLCErhgxk_fLkoIewx:BmSSuIc<x>RDSSQbflxjbe;>;IiIZZQcux;pfwl>QiJSKnc_GwFNdxjhHVOpW_]cX`=uwN:hjOMUC;xiD=;xFvi_tAIioxxIjopRO>VlnId]:^S[H:qbf;lY]j;CqlDMD>IgWOtCjhhAG>AKVAh@C>zF>H=vGrJ`PgtelbhKRGPg=Jybh=OUCd?GBGCXxolnxKzKEscZlE]tyTcFO@m:YSwTinOmTjgJ=jdCtqTjXFOfI[xuQh[xS=hN`Ajd[xzIgihZjcyCX`AWkEU@;`X]d[WR>AVS>uBtLKzIFxlbcZeAAdxxVYcKxWu?]GZYhkSNO;=xLgZRxBFc?ONYeEKFYiElmIgDx@UevWKcddxXjd^:DIjxx<vgSx?TFBBIU==x>X;[WDRgtCphBz?qIhS?tQibdwMi_tbYczZrYjllXKjjGckfoGt:A=STUoQt`h=KS^rbNtu`;QPS?ZYpJ]g::zWT::P^`::@jDZ:AMx?m<adQ;e::AR=::CKD>Gi<pMpdTGOjjnxQDKedAPAvxZQhzWH^Cjx>RF:xMif@?z=IB:vQD@KtPghcADQnOmFKgSuLdu[=sDhchhDi[yYcbxAsjlxjYiXthQLvxRCqAxcMET_msATsvw;YxDvIAxnvjNg[]o::wwT::;z^oKQFDET?Uvb;Om>FP^WnajNMvB:ktfc:od:iOFXu>:oZ@N:xdZo:lFE=?c::pMN::^Nds;b^_>;oR`>;xMl[TxbosycEoYRxurvi]ZOhXkJI;XqZIEZK:IB;gYo=JtZF@EJpD::FfpH:n?ni:qUT]:osEKVXxvJGTCfxgMa<:@RRes]YxvOIYLowYJSJejX=ubOQa:arTVNejOIwWuXv[v:s^udT=a<NYNmmejK^v[uVdfI:sBA]YJIu@jUR@Q=aJA]VN>@EeXpus?hFTEuJ=vBjQLfeYJXTRZzLoTzVvB[YJS:qDFY;PYR`ezFPpuE:z`v>zSxTVZtgBejV_@xlNnuoZlp[@nHxvVwT<LtGWEvv>@eusZm>vDaYEvpQJms`YMkDLpK=]pYJLEGYXa=wjMfuC`Pc;>jJUuUWYOf_XVFA_t@UuBTKUucTOUvOYUUvBvOPFyVRaefk>quSaLOmroRoAFrPgLOZoUvhmHvugjY`uA:xnuM]Ns@^Zn@ZozQQvFzJB[JzWN@`qYbvHCQNAUsVsALzJpDDqK>TXrQR@^ZyQnEZs`^fZpu[EePWEddQULAZsQvCP@s@LzY_@LyK<@[RTbvyrTNAuzUB;@zQVAiNj_nqzVcEY:n:@H:C^uD:zyvFJk>AgJuyfp=McDMrYnny?XIv::pIvhF=IvoJtkN?zNjupzOjuWzYju^zN[uF`LYucbM:GSqTFLEzQueUiY]AUzU]@l:pw[wjMOubzXdTk[S?:rzOgZs@gcnor^JLtzQD:zzPm@::qaxp:aUUJ:vS^L:zOvza?g@mzK`nK:kN@e:kWZkMQ:ATHQJAS:zrDa:s_mg:vZ@_IYZ@>hPZLgVLJAKHL>A`oQe@rZwETGV<pUkZsMvJZpB@S:kkAfJtkOP:lkAvJpkAAJvk@;cIk@ajKBABZrYuXYQ@AG[DTA]Jz`mEJo@At:nTA?:mcAkkqcABky^m_[VVdp::hvTrPWux:rqnWjN^UaVSm?NUOm@l]R]D>QO^eWDJGuvfMWLvEBGukZoqnLBNZ;PPQPv;kUHEpO^K=PrOHDS^QGDgkBGuMZmpElkmSeLZqouc?KAEUfTSfJlKHuBVWSePkwSJIJlafrZwVuyP[qASkpWUtkxYE?klEvGrJ>f`;WqAXkx_UdHKX@ViTaAw^PkvQbSr^ErWtedqO;uvrVVUArUJo>IYted@SaDrCQa;^zONUcUKyEljP`mfkp:AJBrkRnJwwvKzOTAUrNpmArQ;ujku=UQrUy@[hYyA`t`Bn@iKyubfUjSEiOyv]wOGv]mWvvD?NK@VIP`]wIS?:<IWimrfY>@kbKbkyDWBTyILXEZ:oq];IJNu`XUQUmKXCvFCYF:tOUFdn_MCu<CWbM;BkdvMXMTTkxQTUrVBtZPHbwnO<]jUSjS`u[>IVnV>Pq:iBVvnYaUUmiXDZ;ilV<m]SLisb>Wfk:nM>ngaVTeR;`_fZENqAvDKznokaVOVPNNEA:udAw>VhnO;WHDeO^EJQBkHAygFVDRyQrcROT:p=BzS@p>:G;xjQL;WbPGT`xPPmmknq]DOYxvAvX>vHkxCAQ@;dfZbWg@rqMNEDyTSA;dOX]cqV>VzQ<Y>dq:T]=NWgZcrj<AvSfNoG_=dJj`LlJ`iTHuEBnjfm@WHuLBrLx<oXyDmcv];tv?OAYa;UExP=sLucwjLqYN`@PH`<@N>MC@KBFXUrxHO@ictw>JaFlo=CTHvnbUEnzqJcUEuVYnW:y?^nyU[ntcN:mbfQ?A:qXznOO`>@@yPcZZqYiUMfRn^WlOG@U@IelMuBK:tkIWTMPPp@@fOZLqoSi@[UUILkQJ=THAUPnKoTMU=[SJDo]Jqv:^SzngZwqmiqJa@c:s_]:kzJADiKen_Rgh=olO[@R[LimpqKoA?cxtE;;PWAIZklAjfPWUq`SBE@[VwEk;RALt;WsfN<Use@?MAf][VpA_UKUKtrJHuc?fJ]]RGanr[V@EaGQJMz?M;e=_?=upBoJZKcuVNw>Ol<UlSV@FwNnAecot@iBJxAcbU[mRXSm`bTWwEO;X;AD:rqtSHQX@KzTXvRRyZ@GHR:;f;o::=Bu::Sw=f;K:;::At;Z:>g=J:=pdi_fETHm_K_VPm_PW=UfGUn[hBl=A`RxdAlJqkvP[O]MN:=]LHeXwuv>c::=PF::Z:`;EJ::[Uc::TUqBgZ::<^FOEwPJ:=BVc::xAP?tZ:AB=Y]k::AKR:<VR@hC^cVisA`QSR>@:=xgTu=Kfkz?eADz?`tdx=X:jz?TgUyhg>Xf=kaGMlq`gLS[LGDKwi>]`[foK^_QBVSxLEn^FIF>HE@:i?T]<i?PFWbW`=on=pAipSRgXNNV<nQWR>>N?O=eu=P;Ew^mDhc:BwVt<rEhf`VQCWSHLebtRsTZ:ZNVb=mocF^QsCuC@mAqt=Ih?^qYd^GKwSI:NgSZ@dwWkt<QI[W:wSn:BNRI^HuezOlVY[=VsVb^XwTz;Z?;os[`;b^j]hV?:;HVCBpjEOidh>xydds^<[GJVVy<>^GRhWqSH]vhKVlvhTHeiprPFq>=>dgRVoWgCCkAr`wtj__nkZv?W>d:Pzc[N^TZ^sReeHv>XROBhLbKcpLbMPuGbbXpQ?:KGfqe]xaDfWG_EI>c@xe=GOdES`Hxf=Gari^pwNR[<FSdLCDO?cMBsYBXVh=>`s`?<^?^]KpkXgU?CMjJMhxceW^UIwGhMeEGm^c]h^MgFWJthgWm?jMxysgbZgtFuWZndVWkie]:`fPgWUXj@WLV;ox<V?PWJncAG<ndgWA`eoW_njxdSJTJ:gtDVW`]XuWx]XeFWH;gMcEN<MRnd<M^]SpTE]WkW;OcE`[=dE`ZMd>heNYp=jzDehTOInKs<RNL`xgpOpxfvh>Xfjho^jgdg^ioML^fYhdShVhcnezhK]RLhQOBnx_w@Fc?]UgMp]WgMv]X<MJVeVMb^fPW`^eeMFOe<Mh;feMC]WwMl`:<MELVfGRLUIuvLX?pQLW]Munj]MSxdhOqtiBWithBWkwYLp?=hyWSThPsiLWMGs^cgh`_YjhCLWlp<^eZhH]ReM=MfNW;]RoWb]UgWOkVbZwO@TMomRaMULXiMnMgoWgmSkWC?egWnmWeMq^jeMd]YrpRmWyMb]VaMQMg]MbLS]MQmYmhutiHkzWoLMdOiLMtOgvWbcXvW@LR]WA>RysimV:hHeggh]EiHMouj:GSmYDMxMjoMt?deMhmXFMxmRFZ@ADXMUmUZWa^f;M>LRdM=]U`:bmV@WjHdyMxDRwMfDUiMYkVbZ@AH;MrDRuMcLWXMtDXI``SjSM?mXbpanfwWtxc<WDmT<W[neT=OJil^apemMqPDgG]V<L:>NRv:apd@^SpiAOeMgohuMga^ANWL]a@IpRLsSzOkO=zOpuey?wFK;Womjw`R]SuGi]iUxf;?zOv_jzOfKfyxMrcCMHR>v=uTEU=p^?a^mNRHh[tfX^mWjLMQsN^SoUEJJgUB=VdwQW:=LIHkBEJ@[U>ANwWG=GMCslLTpNWRcjLFBSgfGV`><Bw`jeRStsJ;LamRUY^bpfnKScfy`JYjD=V<mEMlsh;CfYcSswgVe`H<Y=MGFUSTrTSRuCJTa^i<Te`WkRWMEC>gcN]TyxBGF_MBODIKZ>dH:Y;a=KqPjQCoodF=waHBM>shlTS<XBMVIgcMlwAUStaIU:PfHCl<_hKMtYcL=zaBrMbICglMpdISzDYD=uuTCxN:djtr>cd^UKcmCquYB=jTUtTbuRYs=Lhy=eJXECW``zMmuEQWdsgTOesUNSY<:>JVnAt^N?MrM:m<pWyPjiC:RejKElDz^:DWwMYOEBMYQ`j^tbB@GNcYU^K@YU^OaeZnXQqB^aCig=fJR^OM<U;dh;CEMWeTrptTRFOZecpx:WgSGpfcaOMj`=hXkTIp>WeLiNWiP=@kUTpVWisZ<Ti>nQPiaOfjhnOLvGRBz^>>kWR]EK=vCXJ[Tdj:lTgDSETHIJu:_SuuoX@Ss`A^?@rJLtjNCNSzrgSurfEKWNlcdhFDjCh>TW[OdoY<GWEhlWHhjSTcffShkmV`WBO;XVOnerwgzAHG>tkph=aSlWE<?;GUDdhV>ChfxEgZwnu`?gScRhI=?uGtWaaR?hxGg?WxEi?W^EjSOnEdL=gg]]nF=MCWdrPc^IaTZcOhjwnPEgphDPTVn=EjlWMEe`h;hjVnIDh[GNfgHGYvH^=]fdDubgr:MXk<:::".charCodeAt(e++))?D-59:D-58),L|=(0<(D&(N/=2))?1:0)<<k,++k}for(var Z,L,k,c,D,O=[],C=1,d=3,B=1,M=[],N=0,e=0;;){if(J(B+1),2==L)return M.join("");-2&(c=L)||(J(8*L+8),O[c=d++]=String.fromCharCode(L),--C||(C=2<<B++)),M.push(c=O[c]||Z+Z[0]),Z&&(O[d++]=Z+c[0],--C||(C=2<<B++)),Z=c}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, i, n) {
+    return new(i || (i = Promise))(function(r, o) {
+        function s(t) {
+            try {
+                _(n.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(n["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function _(t) {
+            t.done ? r(t.value) : new i(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((n = n.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function i(t) {
+        return function(e) {
+            return n([t, e])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (r = 1, o && (s = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(s = s.call(o, i[1])).done) return s;
+            switch (o = 0, s && (i = [0, s.value]), i[0]) {
+            case 0:
+            case 1:
+                s = i;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                o = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === i[0] && (!s || i[1] > s[0] && i[1] < s[3])) {
+                    _.label = i[1];
+                    break
+                }
+                if (6 === i[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = i;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(i);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            i = e.call(t, _)
+        } catch(n) {
+            i = [6, n],
+            o = 0
+        } finally {
+            r = s = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, o, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourceMarkItemSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.btnBuy,
+            function() {
+                if (3 != i._info.curTab && ItemManager.getNumByID(i._info.cfg.coinid) < i._info.cfg.price) return void Alarm.show("所需" + ItemXMLInfo.getName(i._info.cfg.coinid) + "不足！");
+                var e = {};
+                e.ins = i._info.cfg,
+                e.caller = i,
+                e.callBack = function(e, n) {
+                    SocketConnection.sendByQueue(42395, [109, i._info.cfg.id, n, 0],
+                    function(e) {
+                        EventManager.dispatchEventWith(t.PanelConst.EVENT_UPDATE_ITEM_DATA)
+                    })
+                },
+                ModuleManager.showModuleByID(1, e)
+            },
+            this, !1),
+            ImageButtonUtil.add(this.itemIcon,
+            function() {
+                var t = {};
+                t.id = i._info.cfg.realid,
+                tipsPop.TipsPop.openItemPop(t)
+            },
+            this),
+            this.cacheAsBitmap = !0
+        },
+        i.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this._info = this.data,
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, t, e, i;
+                return __generator(this,
+                function(n) {
+                    switch (n.label) {
+                    case 0:
+                        return this.itemIcon.visible = !0,
+                        this.achieveIcon.visible = !1,
+                        this.grpTime.visible = !1,
+                        t = this._info.cfg.count ? this._info.cfg.count >= 1e4 ? Math.floor(this._info.cfg.count / 1e4) + "万": this._info.cfg.count >= 1e3 ? Math.floor(this._info.cfg.count / 1e3) + "千": this._info.cfg.count: 1,
+                        this.txt_itemName.text = StringUtil.parseStrLimitLen(ItemXMLInfo.getName(this._info.cfg.realid), 8),
+                        this.txt_itemNum.text = t + "",
+                        this.itemIcon.source = ClientConfig.getItemIcon(this._info.cfg.realid),
+                        this.coin.source = ClientConfig.getItemIcon(this._info.cfg.coinid),
+                        this.txt_cost.text = this._info.cfg.price + "",
+                        this.grpTag.visible = this._info.isDiscount,
+                        this._info.cfg.Limittype ? (this.txt_limit.visible = !0, this._info.cfg.UserInfoId ? [4, KTool.getMultiValueAsync([this._info.cfg.UserInfoId])] : [3, 2]) : [3, 4];
+                    case 1:
+                        return e = n.sent(),
+                        t = this._info.cfg.UserInfoBitPos ? KTool.getBit(e[0], this._info.cfg.UserInfoBitPos) : e[0],
+                        [3, 3];
+                    case 2:
+                        t = this._info.userInfo,
+                        n.label = 3;
+                    case 3:
+                        return i = ["每日", "每周", "每月", "永久"],
+                        0 == this._info.cfg.LimitCnt && this._info.cfg.UserInfoBitPos > 0 ? (this.txt_limit.text = i[this._info.cfg.Limittype - 1] + "限兑：" + Math.min(t, 1) + "/1", t >= 1 && DisplayUtil.setEnabled(this.btnBuy, !1)) : (this.txt_limit.text = i[this._info.cfg.Limittype - 1] + "限兑：" + Math.min(t, this._info.cfg.LimitCnt) + "/" + this._info.cfg.LimitCnt, t >= this._info.cfg.LimitCnt && DisplayUtil.setEnabled(this.btnBuy, !1)),
+                        [3, 5];
+                    case 4:
+                        this.txt_limit.visible = !1,
+                        n.label = 5;
+                    case 5:
+                        return [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i
+    } (BaseItemRenderer);
+    t.PveResourceItemItem = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceItemItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, i, n) {
+    return new(i || (i = Promise))(function(r, o) {
+        function s(t) {
+            try {
+                _(n.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(n["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function _(t) {
+            t.done ? r(t.value) : new i(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((n = n.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function i(t) {
+        return function(e) {
+            return n([t, e])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (r = 1, o && (s = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(s = s.call(o, i[1])).done) return s;
+            switch (o = 0, s && (i = [0, s.value]), i[0]) {
+            case 0:
+            case 1:
+                s = i;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                o = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === i[0] && (!s || i[1] > s[0] && i[1] < s[3])) {
+                    _.label = i[1];
+                    break
+                }
+                if (6 === i[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = i;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(i);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            i = e.call(t, _)
+        } catch(n) {
+            i = [6, n],
+            o = 0
+        } finally {
+            r = s = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, o, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i(i) {
+            var n = e.call(this) || this;
+            return n._type = i,
+            n._setTimeOutFlag = 0,
+            n.skinName = t.PveEnterPanelSkin,
+            n
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.rbg_tab = this.rb_0.group,
+            1 == this._type ? (this.grp_rb.visible = !1, this._curPage = 3, this.title.source = "pve_enter_panel_title_2_png", this.left_down.visible = !1) : (this._curPage = this.rbg_tab.selectedValue = 1, this.title.source = "pve_enter_panel_title_1_png", this.left_down.visible = !0),
+            this.setPage(),
+            this._initEvents()
+        },
+        i.prototype.setPage = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, e, i, n, r, o = this;
+                return __generator(this,
+                function(s) {
+                    switch (s.label) {
+                    case 0:
+                        t = [],
+                        e = config.PveEnter.getItems().filter(function(t) {
+                            return t.kind == o._curPage && (t.isShow || window.DEBUG)
+                        }),
+                        e.sort(function(t, e) {
+                            return t.order - e.order
+                        });
+                        for (i in e) n = {},
+                        n.cfg = e[i],
+                        1 == e[i].showType ? n.isOpen = !0 : n.isOpen = this._checkOpen(e[i]),
+                        t.push(n);
+                        return t.sort(function(t, e) {
+                            return t.isOpen && e.isOpen ? 0 : t.isOpen && !e.isOpen ? -1 : 1
+                        }),
+                        this._scrl.stopAnimation(),
+                        3 == this._curPage ? (SocketConnection.sendByQueue(41389, [3],
+                        function(e) {
+                            var i = e.data;
+                            i.position = 0;
+                            for (var n in t) t[n].isOpen = !0;
+                            o._list.itemRenderer = egret.getDefinitionByName("pveEnterPanel.PveEnterItemType" + o._curPage),
+                            o._list.dataProvider = new eui.ArrayCollection(t),
+                            o.btnTask.visible = !1
+                        }), [2]) : 5 != this._curPage ? [3, 3] : [4, PveSptManager.init()];
+                    case 1:
+                        return s.sent(),
+                        r = PveSptManager,
+                        [4, KTool.getPlayerInfoValueAsync([PveSptManager._lastEnterInfoAttr])];
+                    case 2:
+                        r.lastEnterInfo = s.sent()[0],
+                        t.push(null),
+                        s.label = 3;
+                    case 3:
+                        return this._list.itemRenderer = egret.getDefinitionByName("pveEnterPanel.PveEnterItemType" + this._curPage),
+                        this._list.dataProvider = new eui.ArrayCollection(t),
+                        this.btnTask.visible = 5 == this._curPage && PveSptManager.taskUnlockState > 0,
+                        [2]
+                    }
+                })
+            })
+        },
+        i.prototype._initEvents = function() {
+            var t = this;
+            ImageButtonUtil.add(this.img_btn_close,
+            function() {
+                t.onClose()
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_reward,
+            function() {
+                5 == t._curPage ? ModuleManager.showModuleByID(36, {
+                    type: 1
+                }) : ModuleManager.showModuleByID(36)
+            },
+            this),
+            ImageButtonUtil.add(this.btnTask,
+            function() {
+                ModuleManager.showModule("pveSpt", ["pve_spt"], null, "PveSptTask")
+            },
+            this),
+            this.rbg_tab.addEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            EventManager.addEventListener("event_jump_to_pve", this._onTouchTapRightItem, this),
+            EventManager.addEventListener(PveSptManager.EVENT_CLOSE_GALAXY, this.setPage, this),
+            EventManager.addEventListener(PveSptManager.EVENT_GOTO_TASK, this.gotoTask, this, !1)
+        },
+        i.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this.rbg_tab.removeEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            EventManager.removeEventListener("event_jump_to_pve", this._onTouchTapRightItem, this),
+            EventManager.removeEventListener(PveSptManager.EVENT_CLOSE_GALAXY, this.setPage, this),
+            EventManager.removeEventListener(PveSptManager.EVENT_GOTO_TASK, this.gotoTask, this, !1)
+        },
+        i.prototype.gotoTask = function(t) {
+            var e = t.data;
+            ModuleManager.showModule("pveSpt", ["pve_spt"], {
+                id: e.galaxyId,
+                difficulty: e.difficulty,
+                jump: e.planetId
+            },
+            "PveSptGalaxy")
+        },
+        i.prototype.onChangeTab = function() {
+            this._curPage = ~~this.rbg_tab.selectedValue,
+            this.setPage()
+        },
+        i.prototype._onTouchTapRightItem = function(t) {
+            var e = t.data;
+            if (e.moduleID > 0) {
+                if (e.showType > 1 && !this._checkOpen(e)) return void Alarm.show("副本已经关闭");
+                var i;
+                if (e.openParam && (i = KTool.evalPram(e.openParam)), e.statLog) {
+                    var n = e.statLog.split(",");
+                    StatLogger.log(n[0], n[1], n[2])
+                }
+                window.DEBUG || e.isOpen ? ModuleManager.showModuleByID(e.moduleID, i) : Alarm.show("暂未开放")
+            } else Alarm.show("暂未开放")
+        },
+        i.prototype._checkOpen = function(t) {
+            var e = SystemTimerManager.sysBJDate;
+            if (2 === t.showType) {
+                for (var i = e.getDay(), n = t.timeLimit.split("*"), r = 0; r < n.length; r++) if (i === ~~n[r]) return ! 0
+            } else if (3 === t.showType) {
+                var n = t.timeLimit.split("*"),
+                o = SystemTimerManager.checkTimeLimitByBJDate(n);
+                if ("" !== o) return ! 0
+            }
+            return ! 1
+        },
+        i.prototype.show = function() {
+            e.prototype.show.call(this)
+        },
+        i.prototype.hide = function() {
+            e.prototype.hide.call(this)
+        },
+        i.prototype.destroy = function() {
+            this._removeEvents(),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    t.PveEnterPanelOld = e,
+    __reflect(e.prototype, "pveEnterPanel.PveEnterPanelOld")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.ItemLeftPageSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            this.list_reward.itemRenderer = t.RewardItem,
+            this._rewardsArry = new eui.ArrayCollection,
+            this.list_reward.dataProvider = this._rewardsArry,
+            ImageButtonUtil.add(this.grp_item,
+            function() {
+                var t = new egret.Event("event_jump_to_pve", !1, !1, e.data.cfg);
+                EventManager.dispatchEvent(t)
+            },
+            this, !0, !0, this._onCheck.bind(this)),
+            this.list_reward.addEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this),
+            this._updateView()
+        },
+        i.prototype._onCheck = function(t) {
+            for (var e = this.list_reward.numChildren,
+            i = 0; e > i; i++) {
+                var n = this.list_reward.getChildAt(i),
+                r = t.stageX,
+                o = t.stageY,
+                s = n.localToGlobal(),
+                a = new egret.Rectangle(s.x, s.y, n.width, n.height);
+                if (a.contains(r, o)) return ! 1
+            }
+            return ! 0
+        },
+        i.prototype.setData = function(t) {
+            this.data = t,
+            this._updateView()
+        },
+        i.prototype._updateView = function() {
+            if (this.data) {
+                var t = this.data,
+                e = t.cfg;
+                if (this.title.source = "resource/assets/pve/title/big/" + e.res + ".png", this._rewardsArry) {
+                    var i = e.reward || "";
+                    if ("" === i) this._rewardsArry.replaceAll([]);
+                    else {
+                        var n = core.gameUtil.RewardDataFormat.parseRewardStyle2(i);
+                        this._rewardsArry.replaceAll(n)
+                    }
+                    this._rewardsArry.refresh()
+                }
+            }
+        },
+        i.prototype._onTouchTapItem = function(t) {
+            this._showTips(t.item)
+        },
+        i.prototype._showTips = function(t) {
+            var e;
+            1 === t.type ? (e = {},
+            e.id = t.id, tipsPop.TipsPop.openItemPop(e)) : (e = {},
+            e.ins = t.id, tipsPop.TipsPop.openCounterMarkPop(e))
+        },
+        i.prototype.destroy = function() {
+            this.list_reward.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this),
+            this.list_reward.removeChildren(),
+            ImageButtonUtil.remove(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    t.ItemLeftPage = e,
+    __reflect(e.prototype, "pveEnterPanel.ItemLeftPage")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.ItemPagePointSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {},
+        i.prototype.setData = function(t) {
+            this.data = t
+        },
+        i.prototype.setSelected = function(t) {
+            this.texture_Dark.visible = !t,
+            this.texture_Light.visible = t
+        },
+        i.prototype.destroy = function() {},
+        i
+    } (BaseModule);
+    t.ItemPagePoint = e,
+    __reflect(e.prototype, "pveEnterPanel.ItemPagePoint")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.MAIN_PANEL = "pveEnterPanel.PveEnterMain",
+        t.RESOURCE_COLLECTION = "pveEnterPanel.PveResourceCollection",
+        t.PANEL_BASE = "pveEnterPanel.PveResourceBase",
+        t.PANEL_ADVANCE = "pveEnterPanel.PveResourceAdvance",
+        t.PANEL_PET = "pveEnterPanel.PveResourceStrongPet",
+        t.PANEL_MARK = "pveEnterPanel.PveResourceMark",
+        t.PANEL_ITEM = "pveEnterPanel.PveResourceItem",
+        t.PANEL_TASK = "pveEnterPanel.PveResourceTask",
+        t.PANEL_EXPLOIT = "pveEnterPanel.PveResourceExploit",
+        t.PANEL_ACHIEVE = "pveEnterPanel.PveResourceAchieve",
+        t.EVENT_UPDATE_PET_DATA = "pve_enter_event_update_pet_data",
+        t.EVENT_UPDATE_MARK_DATA = "pve_enter_event_update_mark_data",
+        t.EVENT_UPDATE_ITEM_DATA = "pve_enter_event_update_item_data",
+        t.EVENT_UPDATE_ACHIEVE_DATA = "pve_enter_event_update_ahieve_data",
+        t
+    } ();
+    t.PanelConst = e,
+    __reflect(e.prototype, "pveEnterPanel.PanelConst")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.addEventListener(egret.Event.REMOVED_FROM_STAGE, i.destroy, i),
+            i.skinName = t.ItemRightPageSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            this.list_reward.itemRenderer = t.RewardItem,
+            this._rewardsArry = new eui.ArrayCollection,
+            this.list_reward.dataProvider = this._rewardsArry,
+            ImageButtonUtil.add(this.grp_item,
+            function() {
+                var t = new egret.Event("event_jump_to_pve", !1, !1, i.data.cfg);
+                EventManager.dispatchEvent(t)
+            },
+            this, !0, !0, this._onCheck.bind(this)),
+            this.list_reward.addEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this)
+        },
+        i.prototype._onCheck = function(t) {
+            for (var e = this.list_reward.numChildren,
+            i = 0; e > i; i++) {
+                var n = this.list_reward.getChildAt(i),
+                r = t.stageX,
+                o = t.stageY,
+                s = n.localToGlobal(),
+                a = new egret.Rectangle(s.x, s.y, n.width, n.height);
+                if (a.contains(r, o)) return ! 1
+            }
+            return ! 0
+        },
+        i.prototype.dataChanged = function() {
+            var t = this.data,
+            e = t.cfg;
+            this.title.source = "resource/assets/pve/title/small/" + e.res + ".png",
+            this.grp_item.touchEnabled = t.isOpen,
+            this.title.touchEnabled = t.isOpen,
+            t.isOpen ? this.filters = [] : DisplayUtil.setColor(this, DisplayUtil.COLOR_GRAY),
+            DisplayUtil.setEnabled(this, t.isOpen, !t.isOpen),
+            this.touchChildren = !0;
+            var i = e.reward || "";
+            if ("" === i) this._rewardsArry.replaceAll([]);
+            else {
+                var n = core.gameUtil.RewardDataFormat.parseRewardStyle2(i);
+                this._rewardsArry.replaceAll(n)
+            }
+            this._rewardsArry.refresh()
+        },
+        i.prototype._onTouchTapItem = function(t) {
+            this._showTips(t.item)
+        },
+        i.prototype._showTips = function(t) {
+            var e;
+            1 === t.type ? (e = {},
+            e.id = t.id, tipsPop.TipsPop.openItemPop(e)) : (e = {},
+            e.ins = t.id, tipsPop.TipsPop.openCounterMarkPop(e))
+        },
+        i.prototype.destroy = function() {
+            this.list_reward.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this),
+            this.list_reward.removeChildren(),
+            ImageButtonUtil.removeAll(this),
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        i
+    } (eui.ItemRenderer);
+    t.ItemRightPage = e,
+    __reflect(e.prototype, "pveEnterPanel.ItemRightPage")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(t) {
+        function e(e) {
+            var i = t.call(this) || this;
+            return i.skinName = PetResourceAwardItemSkin,
+            i
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this)
+        },
+        e.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this.itemData = this.data,
+            ImageButtonUtil.add(this.icon, this._showTips, this),
+            this.updateView()
+        },
+        e.prototype.updateView = function() {
+            1 === this.itemData.type ? this.icon.source = ItemXMLInfo.getIconURL(this.itemData.id) : 2 === this.itemData.type && (this.icon.source = CountermarkXMLInfo.getIconURL(this.itemData.id))
+        },
+        e.prototype._showTips = function() {
+            if (this.itemData) {
+                var t;
+                1 === this.itemData.type ? (t = {},
+                t.id = this.itemData.id, tipsPop.TipsPop.openItemPop(t)) : (t = {},
+                t.ins = this.itemData.id, tipsPop.TipsPop.openCounterMarkPop(t)),
+                this.cacheAsBitmap = !0
+            }
+        },
+        e
+    } (BaseItemRenderer);
+    t.PetResourceAwardItem = e,
+    __reflect(e.prototype, "pveEnterPanel.PetResourceAwardItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveEnterItemType1Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this._list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this),
+            ImageButtonUtil.add(this.grp_item,
+            function() {
+                var e = new egret.Event("event_jump_to_pve", !1, !1, t._enterCfg);
+                EventManager.dispatchEvent(e)
+            },
+            this, !0, !0, this._onCheck.bind(this))
+        },
+        i.prototype._onCheck = function(t) {
+            for (var e = this._list.numChildren,
+            i = 0; e > i; i++) {
+                var n = this._list.getChildAt(i),
+                r = t.stageX,
+                o = t.stageY,
+                s = n.localToGlobal(),
+                a = new egret.Rectangle(s.x, s.y, n.width, n.height);
+                if (a.contains(r, o)) return ! 1
+            }
+            return ! 0
+        },
+        i.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this._vo = this.data,
+            this._enterCfg = this._vo.cfg,
+            this.initView()
+        },
+        i.prototype.initView = function() {
+            this.bg.source = "resource/assets/pve/title/new/type_" + this._enterCfg.kind + "/" + this._enterCfg.res + ".png";
+            var e = core.gameUtil.RewardDataFormat.parseRewardStyle2(this._enterCfg.reward);
+            this._list.itemRenderer = t.RewardItem,
+            this._list.dataProvider = new eui.ArrayCollection(e)
+        },
+        i.prototype._onTouchTapItem = function(t) {
+            this._showTips(t.item)
+        },
+        i.prototype._showTips = function(t) {
+            var e;
+            1 === t.type ? (e = {},
+            e.id = t.id, tipsPop.TipsPop.openItemPop(e)) : (e = {},
+            e.ins = t.id, tipsPop.TipsPop.openCounterMarkPop(e))
+        },
+        i.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this._list.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this),
+            this.removeChildren()
+        },
+        i
+    } (eui.ItemRenderer);
+    t.PveEnterItemType1 = e,
+    __reflect(e.prototype, "pveEnterPanel.PveEnterItemType1")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveEnterItemType2Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this._list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this),
+            ImageButtonUtil.add(this.grp_item,
+            function() {
+                var e = new egret.Event("event_jump_to_pve", !1, !1, t._enterCfg);
+                EventManager.dispatchEvent(e)
+            },
+            this, !0, !0, this._onCheck.bind(this))
+        },
+        i.prototype._onCheck = function(t) {
+            for (var e = this._list.numChildren,
+            i = 0; e > i; i++) {
+                var n = this._list.getChildAt(i),
+                r = t.stageX,
+                o = t.stageY,
+                s = n.localToGlobal(),
+                a = new egret.Rectangle(s.x, s.y, n.width, n.height);
+                if (a.contains(r, o)) return ! 1
+            }
+            return ! 0
+        },
+        i.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this._vo = this.data,
+            this._enterCfg = this._vo.cfg,
+            this.initView()
+        },
+        i.prototype.initView = function() {
+            this.bg.source = "resource/assets/pve/title/new/type_" + this._enterCfg.kind + "/" + this._enterCfg.res + ".png";
+            var e = core.gameUtil.RewardDataFormat.parseRewardStyle2(this._enterCfg.reward);
+            if (this._list.itemRenderer = t.RewardItem, this._list.dataProvider = new eui.ArrayCollection(e), this.txt_openTime.visible = !0, 2 == this._enterCfg.showType) {
+                var i = this._enterCfg.timeLimit.split("*").map(Number);
+                i.sort(function(t, e) {
+                    return e ? t - e: -1
+                });
+                var n = ["日", "一", "二", "三", "四", "五", "六"],
+                r = "开放时间：";
+                r += i.map(function(t) {
+                    return "周" + n[t]
+                }).join("，"),
+                this.txt_openTime.text = r
+            } else 3 == this._enterCfg.showType ? this.txt_openTime.text = "开放时间：每天" + this._enterCfg.timeLimit: this.txt_openTime.visible = !1;
+            this.img_lock.visible = !this._vo.isOpen,
+            this.grp_item.touchEnabled = this._vo.isOpen
+        },
+        i.prototype._onTouchTapItem = function(t) {
+            this._showTips(t.item)
+        },
+        i.prototype._showTips = function(t) {
+            var e;
+            1 === t.type ? (e = {},
+            e.id = t.id, tipsPop.TipsPop.openItemPop(e)) : (e = {},
+            e.ins = t.id, tipsPop.TipsPop.openCounterMarkPop(e))
+        },
+        i.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this._list.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this),
+            this.removeChildren()
+        },
+        i
+    } (eui.ItemRenderer);
+    t.PveEnterItemType2 = e,
+    __reflect(e.prototype, "pveEnterPanel.PveEnterItemType2")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = PveEnterItemType3Skin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            ImageButtonUtil.add(this.grp_item,
+            function() {
+                var t = new egret.Event("event_jump_to_pve", !1, !1, e._enterCfg);
+                EventManager.dispatchEvent(t)
+            },
+            this)
+        },
+        e.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this._vo = this.data,
+            this._enterCfg = this._vo.cfg,
+            this.initView()
+        },
+        e.prototype.initView = function() {
+            this.grp_manual.removeChildren(),
+            this.bg.source = "resource/assets/pve/title/new/type_" + this._enterCfg.kind + "/" + this._enterCfg.res + ".png";
+            var t = PetBook.PetBookXMLInfo.getLabels(this._enterCfg.monsterid);
+            for (var e in t) {
+                var i = new eui.Image("common_manual_title_" + t[e] + "_png");
+                i.x = 53 * ~~e,
+                this.grp_manual.addChild(i)
+            }
+        },
+        e.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this.removeChildren()
+        },
+        e
+    } (eui.ItemRenderer);
+    t.PveEnterItemType3 = e,
+    __reflect(e.prototype, "pveEnterPanel.PveEnterItemType3")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = PveEnterItemType4Skin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            ImageButtonUtil.add(this.grp_item,
+            function() {
+                var t = new egret.Event("event_jump_to_pve", !1, !1, e._enterCfg);
+                EventManager.dispatchEvent(t)
+            },
+            this)
+        },
+        e.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this._vo = this.data,
+            this._enterCfg = this._vo.cfg,
+            this.initView()
+        },
+        e.prototype.initView = function() {
+            this.bg.source = "resource/assets/pve/title/new/type_" + this._enterCfg.kind + "/" + this._enterCfg.res + ".png"
+        },
+        e.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this.removeChildren()
+        },
+        e
+    } (eui.ItemRenderer);
+    t.PveEnterItemType4 = e,
+    __reflect(e.prototype, "pveEnterPanel.PveEnterItemType4")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveEnterItemType5Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this._list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this)
+        },
+        i.prototype._onCheck = function(t) {
+            for (var e = this._list.numChildren,
+            i = 0; e > i; i++) {
+                var n = this._list.getChildAt(i),
+                r = t.stageX,
+                o = t.stageY,
+                s = n.localToGlobal(),
+                a = new egret.Rectangle(s.x, s.y, n.width, n.height);
+                if (a.contains(r, o)) return ! 1
+            }
+            return ! 0
+        },
+        i.prototype.dataChanged = function() {
+            if (e.prototype.dataChanged.call(this), ImageButtonUtil.removeAll(this), this._vo = this.data, !this.data) return this.bg.source = "resource/assets/pve/title/new/type_5/spt_empty_normal.png",
+            this._list.visible = this._bar.visible = this.txt_progress.visible = !1,
+            void(this.img_lock.visible = !0);
+            this._list.visible = this._bar.visible = this.txt_progress.visible = !0,
+            this._enterCfg = this._vo.cfg,
+            this.galaxyId = this._enterCfg.order,
+            this.difficulty = PveSptManager.getLastDifficulty(this.galaxyId);
+            var t = 255 & PveSptManager.unlockProgress,
+            i = PveSptManager.unlockProgress >> 8 & 255;
+            1 == this.difficulty ? this._unlock = this.galaxyId - 1 <= t: this._unlock = this.galaxyId - 1 <= i && this.galaxyId <= t;
+            var n = PveSptManager.challengeProgress[this.galaxyId - 1];
+            this.challengeProgress = n >> 16 * (this.difficulty - 1) & 255,
+            this.initView()
+        },
+        i.prototype.initView = function() {
+            var e = this,
+            i = ["normal", "hard"];
+            this.bg.source = "resource/assets/pve/title/new/type_" + this._enterCfg.kind + "/" + this._enterCfg.res + "_" + i[this.difficulty - 1] + ".png";
+            var n = core.gameUtil.RewardDataFormat.parseRewardStyle2(this._enterCfg.reward);
+            this._list.itemRenderer = t.RewardItem,
+            this._list.dataProvider = new eui.ArrayCollection(n),
+            this.img_lock.visible = !this._unlock;
+            var r = config.SPTtask.getItems().filter(function(t) {
+                return t.galaxyid == e.galaxyId && t.taskmode == e.difficulty && 1 == t.tasktype
+            }),
+            o = r.length;
+            this.txt_progress.text = Math.floor(this.challengeProgress / o * 100) + "%",
+            this._bar.maximum = o,
+            this._bar.value = this.challengeProgress,
+            this._unlock && ImageButtonUtil.add(this.grp_item,
+            function() {
+                if (e._unlock && e.galaxyId) {
+                    var t = {
+                        galaxyId: e.galaxyId,
+                        difficulty: e.difficulty
+                    };
+                    EventManager.dispatchEventWith(PveSptManager.EVENT_GOTO_TASK, !0, t, !0)
+                }
+            },
+            this, !0, !0, this._onCheck.bind(this))
+        },
+        i.prototype._onTouchTapItem = function(t) {
+            this._showTips(t.item)
+        },
+        i.prototype._showTips = function(t) {
+            var e;
+            1 === t.type ? (e = {},
+            e.id = t.id, tipsPop.TipsPop.openItemPop(e)) : (e = {},
+            e.ins = t.id, tipsPop.TipsPop.openCounterMarkPop(e))
+        },
+        i.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            this._list.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this._onTouchTapItem, this),
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            this.removeChildren()
+        },
+        i
+    } (eui.ItemRenderer);
+    t.PveEnterItemType5 = e,
+    __reflect(e.prototype, "pveEnterPanel.PveEnterItemType5")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourceMarkItemSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.achieveIcon,
+            function() {
+                if (i._SpeNameBonus) {
+                    var t = {};
+                    t.SpeNameBonus = i._SpeNameBonus,
+                    tipsPop.TipsPop.openTitlePop(t)
+                }
+            },
+            this),
+            ImageButtonUtil.add(this.itemIcon,
+            function() {
+                var t = {};
+                t.branchId = i._branchId,
+                t.ruleId = i._ruleId,
+                tipsPop.TipsPop.openTitlePop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnBuy,
+            function() {
+                var e = {};
+                e.ins = i._info,
+                e.caller = i,
+                e.callBack = function(e, n) {
+                    SocketConnection.sendByQueue(42395, [109, i._info.id, 1, 0],
+                    function() {
+                        AchieveManager.updateSingleInfo(i._branchId).then(function() {
+                            i.updateView(),
+                            EventManager.dispatchEventWith(t.PanelConst.EVENT_UPDATE_ACHIEVE_DATA)
+                        })
+                    })
+                },
+                ModuleManager.showModuleByID(1, e)
+            },
+            this, !1),
+            this.cacheAsBitmap = !0
+        },
+        i.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this._info = this.data,
+            this.initView(),
+            this.updateView()
+        },
+        i.prototype.initView = function() {
+            this.txt_itemNum.visible = !1,
+            this.grpTag.visible = this.grpTime.visible = this.txt_limit.visible = !1,
+            this._branchId = Math.floor(this._info.realid / 100),
+            this._ruleId = this._info.realid % 100;
+            var t = AchieveXMLInfo.getRule(this._branchId, this._ruleId),
+            e = t.achName ? t.achName: AchieveXMLInfo.getBranchById(this._branchId).Desc;
+            this._SpeNameBonus = null,
+            t && (this.txt_itemName.text = StringUtil.parseStrLimitLen(e, 8), this._SpeNameBonus = t.SpeNameBonus),
+            this._SpeNameBonus ? (this.achieveIcon.visible = !0, this.itemIcon.visible = !1, this.achieveIcon.width = this.achieveIcon.height = 70, this.achieveIcon.source = ClientConfig.getAchieveIcon(t.proicon)) : (this.achieveIcon.visible = !1, this.itemIcon.visible = !0, this.itemIcon.source = ClientConfig.getAchieveIcon(t.proicon)),
+            this.coin.source = ClientConfig.getItemIcon(this._info.coinid),
+            this.txt_cost.text = this._info.price + ""
+        },
+        i.prototype.updateView = function() {
+            var t = null,
+            e = AchieveManager.getAwardMask(this._branchId, this._ruleId);
+            e && (t = e.rule_mask),
+            this.btnBuy.visible = !t,
+            this.flag_done.visible = !!t
+        },
+        i.prototype.destroy = function() {
+            this.removeChildren(),
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (eui.ItemRenderer);
+    t.PveResourceAchieveItem = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceAchieveItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourceBaseItemSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this._info = this.data,
+            this.updateView()
+        },
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            this.grp_times.visible = !1,
+            ImageButtonUtil.addWithoutLock(this.grp_content,
+            function() {
+                var t = new egret.Event("event_jump_to_pve", !1, !1, i._info);
+                EventManager.dispatchEvent(t)
+            },
+            this, !0, !0, this._onCheck.bind(this)),
+            this.grp_item.itemRenderer = t.PetResourceAwardItem
+        },
+        i.prototype._onCheck = function(t) {
+            for (var e = this.grp_item.numChildren,
+            i = 0; e > i; i++) {
+                var n = this.grp_item.getChildAt(i),
+                r = t.stageX,
+                o = t.stageY,
+                s = n.localToGlobal(),
+                a = new egret.Rectangle(s.x, s.y, n.width, n.height);
+                if (a.contains(r, o)) return ! 1
+            }
+            return ! 0
+        },
+        i.prototype.updateView = function() {
+            this.bg.source = "resource/assets/pve/entry/dungeon_enter/" + this._info.res + ".png";
+            var t = core.gameUtil.RewardDataFormat.parseRewardStyle2(this._info.reward);
+            if (this.grp_item.dataProvider = new eui.ArrayCollection(t), this.grp_item.validateNow(), this.txt_openTime.visible = !0, 2 == this._info.showType) {
+                var e = this._info.timeLimit.split("*").map(Number);
+                e.sort(function(t, e) {
+                    return e ? t - e: -1
+                });
+                var i = ["日", "一", "二", "三", "四", "五", "六"],
+                n = "每周";
+                n += e.map(function(t) {
+                    return i[t]
+                }).join(""),
+                n += "开启",
+                this.txt_openTime.text = n
+            } else 3 == this._info.showType ? this.txt_openTime.text = "每天" + this._info.timeLimit + "开启": this.txt_openTime.visible = !1;
+            this.cacheAsBitmap = !0
+        },
+        i
+    } (BaseItemRenderer);
+    t.PveResourceAdvanceItem = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceAdvanceItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourceBaseItemSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this._info = this.data,
+            this.service = this._info.service,
+            this.updateView()
+        },
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.addWithoutLock(this.grp_content,
+            function() {
+                var t = new egret.Event("event_jump_to_pve", !1, !1, i._info);
+                EventManager.dispatchEvent(t)
+            },
+            this, !0, !0, this._onCheck.bind(this)),
+            this.grp_item.itemRenderer = t.PetResourceAwardItem
+        },
+        i.prototype._onCheck = function(t) {
+            for (var e = this.grp_item.numChildren,
+            i = 0; e > i; i++) {
+                var n = this.grp_item.getChildAt(i),
+                r = t.stageX,
+                o = t.stageY,
+                s = n.localToGlobal(),
+                a = new egret.Rectangle(s.x, s.y, n.width, n.height);
+                if (a.contains(r, o)) return ! 1
+            }
+            return ! 0
+        },
+        i.prototype.updateView = function() {
+            this.bg.source = "resource/assets/pve/entry/dungeon_enter/" + this._info.res + ".png";
+            var t = core.gameUtil.RewardDataFormat.parseRewardStyle2(this._info.reward);
+            if (this.grp_item.dataProvider = new eui.ArrayCollection(t), this.grp_item.validateNow(), this.txt_openTime.visible = !0, 2 == this._info.showType) {
+                var e = this._info.timeLimit.split("*").map(Number);
+                e.sort(function(t, e) {
+                    return e ? t - e: -1
+                });
+                var i = ["日", "一", "二", "三", "四", "五", "六"],
+                n = "每周";
+                n += e.map(function(t) {
+                    return i[t]
+                }).join(""),
+                n += "开启",
+                this.txt_openTime.text = n
+            } else 3 == this._info.showType ? this.txt_openTime.text = "每天" + this._info.timeLimit + "开启": this.txt_openTime.visible = !1;
+            this.updateTimes(),
+            this.cacheAsBitmap = !0
+        },
+        i.prototype.updateTimes = function() {
+            if (this._info.times) {
+                this.grp_times.visible = !0;
+                var t = this._info.times.split("_"),
+                e = (~~t[0], ~~t[1]),
+                i = ~~t[2],
+                n = this.service.getValue(i);
+                this.txt_times.text = Math.min(n, e) + "/" + e
+            } else this.grp_times.visible = !1
+        },
+        i
+    } (BaseItemRenderer);
+    t.PveResourceBaseItem = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceBaseItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i(i) {
+            var n = e.call(this) || this;
+            return n.param = i,
+            n.init([{
+                panelName: t.PanelConst.MAIN_PANEL,
+                isMain: !0,
+                defaultParam: i
+            },
+            {
+                panelName: t.PanelConst.RESOURCE_COLLECTION
+            }]),
+            StatLogger.log("20211126版本系统功能", "主界面日常挑战", "玩家总点击进入次数"),
+            n
+        }
+        return __extends(i, e),
+        i.prototype.reShow = function() {
+            e.prototype.reShow.call(this),
+            this.currentPanel.playOpenAnimate()
+        },
+        i.prototype.initialized = function() {
+            var e = this;
+            this.service.updateValues().then(function() {
+                e.param ? e.service.openPanel(t.PanelConst.RESOURCE_COLLECTION, e.param) : e.service.backToMainPanel()
+            })
+        },
+        i
+    } (BasicMultPanelModule);
+    t.PveEnterPanel = e,
+    __reflect(e.prototype, "pveEnterPanel.PveEnterPanel")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, i, n) {
+    return new(i || (i = Promise))(function(r, o) {
+        function s(t) {
+            try {
+                _(n.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(n["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function _(t) {
+            t.done ? r(t.value) : new i(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((n = n.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function i(t) {
+        return function(e) {
+            return n([t, e])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (r = 1, o && (s = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(s = s.call(o, i[1])).done) return s;
+            switch (o = 0, s && (i = [0, s.value]), i[0]) {
+            case 0:
+            case 1:
+                s = i;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                o = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === i[0] && (!s || i[1] > s[0] && i[1] < s[3])) {
+                    _.label = i[1];
+                    break
+                }
+                if (6 === i[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = i;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(i);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            i = e.call(t, _)
+        } catch(n) {
+            i = [6, n],
+            o = 0
+        } finally {
+            r = s = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, o, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourceMarkItemSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.btnBuy,
+            function() {
+                var e = {};
+                e.ins = i._info.cfg,
+                e.isDiscount = i._info.isDiscount,
+                e.caller = i,
+                e.callBack = function(e, n) {
+                    SocketConnection.sendByQueue(42395, [109, i._info.cfg.id, n, 0],
+                    function(e) {
+                        EventManager.dispatchEventWith(t.PanelConst.EVENT_UPDATE_MARK_DATA)
+                    })
+                },
+                ModuleManager.showModuleByID(1, e)
+            },
+            this, !1),
+            ImageButtonUtil.add(this.itemIcon,
+            function() {
+                var t = {};
+                t.ins = i._info.cfg.realid,
+                tipsPop.TipsPop.openCounterMarkPop(t)
+            },
+            this),
+            this.btnBuy.visible = !1,
+            this.flag_done.visible = !1
+        },
+        i.prototype.dataChanged = function() {
+            this._info = this.data,
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, e, e, i;
+                return __generator(this,
+                function(n) {
+                    switch (n.label) {
+                    case 0:
+                        return this.itemIcon.visible = !0,
+                        this.achieveIcon.visible = !1,
+                        this.grpTime.visible = !1,
+                        this.itemIcon.source = ClientConfig.getMarkPath(this._info.cfg.realid),
+                        this.txt_itemName.text = StringUtil.parseStrLimitLen(ItemXMLInfo.getName(this._info.cfg.realid), 8),
+                        this.txt_itemNum.text = "1",
+                        this.txt_limit.visible = !1,
+                        this.grpTag.visible = this._info.isDiscount,
+                        this.coin.source = ClientConfig.getItemIcon(this._info.cfg.coinid),
+                        this.txt_cost.text = this._info.isDiscount ? .625 * this._info.cfg.price + "": this._info.cfg.price + "",
+                        this._info.cfg.Limittype ? (this.txt_limit.visible = !0, this._info.cfg.UserInfoBitPos ? [4, KTool.getMultiValueAsync([this._info.cfg.UserInfoId])] : [3, 2]) : [3, 5];
+                    case 1:
+                        return e = n.sent(),
+                        t = KTool.getBit(e[0], this._info.cfg.UserInfoBitPos),
+                        [3, 4];
+                    case 2:
+                        return this._info.cfg.BitSetId ? [4, KTool.getBitSetAsync([this._info.cfg.BitSetId])] : [3, 4];
+                    case 3:
+                        e = n.sent(),
+                        t = e[0],
+                        n.label = 4;
+                    case 4:
+                        return i = ["每日", "每周", "每月", "永久"],
+                        this.txt_limit.text = i[this._info.cfg.Limittype - 1] + "限兑：" + Math.min(t, 1) + "/1",
+                        t >= 1 ? (this.btnBuy.visible = !1, this.flag_done.visible = !0) : (this.btnBuy.visible = !0, this.flag_done.visible = !1),
+                        [3, 6];
+                    case 5:
+                        this.txt_limit.visible = !1,
+                        this.btnBuy.visible = !0,
+                        n.label = 6;
+                    case 6:
+                        return this.cacheAsBitmap = !0,
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        i
+    } (BaseItemRenderer);
+    t.PveResourceMarkItem = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceMarkItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourceStrongPetItemSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.btnBuy,
+            function() {
+                var e = {};
+                e.ins = i._info.cfg,
+                e.caller = i,
+                e.callBack = function(e, n) {
+                    SocketConnection.sendByQueue(42395, [109, i._info.cfg.id, n, 0],
+                    function(e) {
+                        EventManager.dispatchEventWith(t.PanelConst.EVENT_UPDATE_PET_DATA)
+                    })
+                },
+                ModuleManager.showModuleByID(1, e)
+            },
+            this, !1)
+        },
+        i.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this._info = this.data,
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            this.img_pet.source = ClientConfig.getPetHalfIcon(this._info.cfg.realid),
+            this.txt_name.text = PetXMLInfo.getName(this._info.cfg.realid),
+            this.coin.source = ClientConfig.getItemIcon(this._info.cfg.coinid),
+            this.txt_cost.text = this._info.cfg.price + "",
+            1 == this._info.cfg.Subtag || 17 == this._info.cfg.Subtag ? (this.flag_done.visible = this._info.isGet, this.btnBuy.visible = !this._info.isGet, this.txt_limit.text = this._info.isGet ? "限兑：1/1": "限兑：0/1") : (this.flag_done.visible = !1, this.btnBuy.visible = !0, this.txt_limit.visible = !1),
+            this.grp_tag.visible = !1,
+            this.cacheAsBitmap = !0
+        },
+        i.prototype.destroy = function() {
+            this.removeChildren(),
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (eui.ItemRenderer);
+    t.PveResourceStrongPetItem = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceStrongPetItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = PveResourceTaskItemSkin,
+            e.cacheAsBitmap = !0,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this._info = this.data,
+            this.updateView()
+        },
+        e.prototype.updateView = function() {
+            var t = this;
+            switch (this.image.source = ClientConfig.getItemIcon(this._info[1]), this._info[0]) {
+            case 1:
+                ImageButtonUtil.add(this.image,
+                function() {
+                    var e = {};
+                    e.id = t._info[1],
+                    tipsPop.TipsPop.openItemPop(e)
+                },
+                this)
+            }
+            this.num.text = this._info[2] + ""
+        },
+        e
+    } (BaseItemRenderer);
+    t.PveResourceTaskItem = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceTaskItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.addEventListener(egret.Event.REMOVED_FROM_STAGE, i.destroy, i),
+            i.skinName = t.RewardSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.cacheAsBitmap = !0
+        },
+        i.prototype.dataChanged = function() {
+            var t = this.data;
+            1 === t.type ? this.icon.source = ItemXMLInfo.getIconURL(t.id) : 2 === t.type && (this.icon.source = CountermarkXMLInfo.getIconURL(t.id)),
+            this.txt_num.text = t.count > 0 ? t.count + "": ""
+        },
+        i.prototype.destroy = function() {
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        i
+    } (eui.ItemRenderer);
+    t.RewardItem = e,
+    __reflect(e.prototype, "pveEnterPanel.RewardItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this) || this;
+            return i.hasPlay = !1,
+            i.skinName = PveEnterMainSkin,
+            t && (i._param = t),
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.img_1,
+            function() {
+                StatLogger.log("20211126版本系统功能", "主界面日常挑战", "玩家进入资源收集"),
+                i.service.openPanel(t.PanelConst.RESOURCE_COLLECTION)
+            },
+            this),
+            ImageButtonUtil.add(this.img_2,
+            function() {
+                StatLogger.log("20211126版本系统功能", "主界面日常挑战", "玩家进入战斗力测试机"),
+                ModuleManager.showModuleByID(82)
+            },
+            this),
+            ImageButtonUtil.add(this.img_3,
+            function() {
+                StatLogger.log("20211126版本系统功能", "主界面日常挑战", "玩家进入SPT挑战"),
+                ModuleManager.showModuleByID(56)
+            },
+            this),
+            this._rect.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouch, this),
+            this._anim1 = DragonbonesUtil.createAnimate("H5xinshoujiemian_ske_json", "H5xinshoujiemian_tex_json", "H5xinshoujiemian_tex_png", "pveEnter"),
+            this._anim2 = DragonbonesUtil.createAnimate("H5xinshoujiemian_ske_json", "H5xinshoujiemian_tex_json", "H5xinshoujiemian_tex_png", "pveEnter"),
+            this._anim3 = DragonbonesUtil.createAnimate("H5xinshoujiemian_ske_json", "H5xinshoujiemian_tex_json", "H5xinshoujiemian_tex_png", "pveEnter"),
+            this.adaptBgByScale(this.bg),
+            this.grpAnim.addChildAt(this._anim1, 0),
+            this.grpAnim.addChildAt(this._anim2, 0),
+            this.grpAnim.addChildAt(this._anim3, 0),
+            this._anim1.x = this.img_1.x + 9,
+            this._anim1.y = this.img_1.y + 3,
+            this._anim2.x = this.img_2.x + 9,
+            this._anim2.y = this.img_2.y + 3,
+            this._anim3.x = this.img_3.x + 9,
+            this._anim3.y = this.img_3.y + 3,
+            this._anim1.animation.play("H5 xinshoujiemian", 0),
+            this._anim2.animation.play("H5 xinshoujiemian", 0),
+            this._anim3.animation.play("H5 xinshoujiemian", 0),
+            this._anim1.alpha = this._anim2.alpha = this._anim3.alpha = .7,
+            this.playAnim(),
+            this._param && 1 == this._param.type && ~~this._param.reshowCOLLECTION && this.service.openPanel(t.PanelConst.RESOURCE_COLLECTION, this._param.subType)
+        },
+        i.prototype.playOpenAnimate = function() {
+            this._anim1 && !this.hasPlay && this.playAnim()
+        },
+        i.prototype.playAnim = function() {
+            var t = this;
+            this.hasPlay = !0,
+            this._anim1.visible = this._anim2.visible = this._anim3.visible = !1;
+            for (var e = [], i = 1; 4 > i; i++) {
+                var n = this["img_" + i],
+                r = n.x;
+                n.x = egret.lifecycle.stage.stageWidth + n.width,
+                e.push(egret.Tween.get(n).to({
+                    x: r
+                },
+                100 + 20 * i, egret.Ease.quadOut))
+            }
+            var o = (s = common.TweenUtil).createAllTween.apply(s, e);
+            Promise.all(o).then(function() {
+                t._anim1.visible = t._anim2.visible = t._anim3.visible = !0
+            });
+            var s
+        }, i.prototype.onTouch = function() {
+            this.service.closeModule()
+        },
+        i.prototype.destroy = function() {
+            this._rect.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouch, this);
+            for (var t = 1; 4 > t; t++) this["_anim" + t].dispose();
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BasicPanel);
+    t.PveEnterMain = e,
+    __reflect(e.prototype, "pveEnterPanel.PveEnterMain")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this) || this;
+            return i.all1 = [],
+            i.all2 = [],
+            i.skinName = "PveResourceAchieveSkin",
+            i.defalutTab = t,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this.grpTop),
+            this.adaptLeftContent(this._scr),
+            this.adaptRightContent(this.itemCount),
+            this._scr.right = DeviceInfoManager.adapterOffSetX > 24 ? DeviceInfoManager.adapterOffSetX: 24,
+            this._list.itemRenderer = t.PveResourceAchieveItem,
+            this.all1 = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 8 == t.Subtag
+            }),
+            this.all2 = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 14 == t.Subtag
+            }),
+            this.rbg_tab = this.rb_1.group,
+            this.curTab = this.defalutTab || 1,
+            this.rbg_tab.selectedValue = this.curTab,
+            this.updateData(),
+            EventManager.addEventListener(t.PanelConst.EVENT_UPDATE_ITEM_DATA, this.updateData, this),
+            EventManager.addEventListener(t.PanelConst.EVENT_UPDATE_ACHIEVE_DATA, this.updateData, this),
+            this.rbg_tab.addEventListener(egret.Event.CHANGE, this.onTabChange, this),
+            ImageButtonUtil.add(this.icon_gold,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 1707511
+                })
+            },
+            this)
+        },
+        i.prototype.beforeAdd = function(t) {
+            this.curTab = this.rb_1.group.selectedValue = t,
+            this.updateData()
+        },
+        i.prototype.updateData = function() {
+            this.itemCount.visible = 1 == this.curTab;
+            var t = this._list.layout.horizontalGap,
+            e = this["all" + this.curTab],
+            i = e[0];
+            if (this.icon_gold.source = ClientConfig.getItemIcon(i.coinid), this.txtCoin.text = ItemManager.getNumByID(i.coinid) + "", e.sort(function(t, e) {
+                var i = Math.floor(t.realid / 100),
+                n = t.realid % 100,
+                r = AchieveManager.getAwardMask(i, n),
+                o = r.rule_mask,
+                s = Math.floor(e.realid / 100),
+                a = e.realid % 100,
+                _ = AchieveManager.getAwardMask(s, a),
+                h = _.rule_mask;
+                return o - h
+            }), this.removeListChildren(), this._list.dataProvider = new eui.ArrayCollection(e), 2 == this.curTab && this.all2.length < 6) {
+                var n = this._list.layout;
+                n.columnAlign = eui.ColumnAlign.LEFT,
+                n.horizontalGap = t
+            } else {
+                var n = this._list.layout;
+                n.columnAlign = eui.ColumnAlign.JUSTIFY_USING_GAP
+            }
+        },
+        i.prototype.removeListChildren = function() {
+            for (var t = 0; t < this._list.numChildren; t++) {
+                var e = this._list.getChildAt(t);
+                e.destroy()
+            }
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            this.removeListChildren(),
+            this.rb_1.group.removeEventListener(egret.Event.CHANGE, this.onTabChange, this)
+        },
+        i.prototype.onTabChange = function() {
+            this._scr.stopAnimation(),
+            this.curTab = ~~this.rbg_tab.selectedValue,
+            this.updateData()
+        },
+        i
+    } (BasicPanel);
+    t.PveResourceAchieve = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceAchieve")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourceBaseSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this._scr),
+            this._list.itemRenderer = t.PveResourceAdvanceItem,
+            this._scr.right += DeviceInfoManager.adapterOffSetX;
+            var i = config.Dungeon_enter.getItems().filter(function(t) {
+                return 2 == t.kind && (!IS_RELEASE || t.isShow)
+            });
+            GameInfo.isChecking && (i = config.Dungeon_enter.getItems().filter(function(t) {
+                return 2 == t.kind && (!IS_RELEASE || t.isShow) && 8 != t.id && 9 != t.id
+            })),
+            i.sort(function(t, e) {
+                return t.order - e.order
+            }),
+            this._list.dataProvider = new eui.ArrayCollection(i),
+            this._list.validateNow(),
+            this._listData = i
+        },
+        i.prototype.update = function() {
+            this._list.dataProvider = new eui.ArrayCollection(this._listData),
+            this._list.validateNow(),
+            this.playAnim()
+        },
+        i.prototype.playAnim = function() {
+            for (var t = [], e = function(e) {
+                var n = i._list.getChildAt(e),
+                r = n.x;
+                n.includeInLayout = !1,
+                n.x = i._list.width + n.width * e,
+                t.push(egret.Tween.get(n).to({
+                    x: r
+                },
+                400 + 100 * e, egret.Ease.quadOut).call(function() {
+                    n.includeInLayout = !0
+                }))
+            },
+            i = this, n = 0; n < this._list.numChildren; n++) e(n);
+            var r = (o = common.TweenUtil).createAllTween.apply(o, t);
+            Promise.all(r);
+            var o
+        }, i
+    } (BasicPanel);
+    t.PveResourceAdvance = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceAdvance")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourceBaseSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this._scr),
+            this._scr.right += DeviceInfoManager.adapterOffSetX,
+            this._list.itemRenderer = t.PveResourceBaseItem;
+            var n = config.Dungeon_enter.getItems().filter(function(t) {
+                return 1 == t.kind && (!IS_RELEASE || t.isShow)
+            });
+            n.sort(function(t, e) {
+                return t.order - e.order
+            });
+            for (var r = [], o = 0; o < n.length; o++) {
+                var s = n[o];
+                s.times && r.push(~~s.times.split("_")[2])
+            }
+            this.service.setValues(r),
+            this.service.updateValues().then(function() {
+                for (var t = 0; t < n.length; t++) n[t].service = i.service;
+                i._list.dataProvider = new eui.ArrayCollection(n),
+                i._list.validateNow(),
+                i._listData = n,
+                i.playAnim()
+            }),
+            EventManager.addEventListener(ModuleEvent.CLOSE_MODULE, this.refreshView, this)
+        },
+        i.prototype.refreshView = function() {
+            var t = this;
+            "pveEnterPanel" == ModuleManager.currModule.moduleName && this.service.updateValues().then(function() {
+                t.update()
+            })
+        },
+        i.prototype.update = function() {
+            for (var t = 0; t < this._list.numChildren; t++) {
+                var e = this._list.getChildAt(t);
+                e.updateTimes()
+            }
+            this._list.dataProvider = new eui.ArrayCollection(this._listData),
+            this._list.validateNow(),
+            this.playAnim()
+        },
+        i.prototype.playAnim = function() {
+            for (var t = [], e = function(e) {
+                var n = i._list.getChildAt(e),
+                r = n.x;
+                n.includeInLayout = !1,
+                n.x = i._list.width + n.width * e,
+                t.push(egret.Tween.get(n).to({
+                    x: r
+                },
+                400 + 100 * e, egret.Ease.quadOut).call(function() {
+                    n.includeInLayout = !0
+                }))
+            },
+            i = this, n = 0; n < this._list.numChildren; n++) e(n);
+            var r = (o = common.TweenUtil).createAllTween.apply(o, t);
+            Promise.all(r);
+            var o
+        }, i
+    } (BasicPanel);
+    t.PveResourceBase = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceBase")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._curTab = "BASE",
+            t.panelMap = {},
+            t.panelParam = null,
+            t.groupName = "pve_major",
+            t.skinName = "PveResourceCollectionSkin",
+            t
+        }
+        return __extends(i, e),
+        i.prototype.beforeAdd = function(t) {
+            t && (this._data = t, this._defaultType = t.subType, this.panelParam = t.childParam)
+        },
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            e.prototype.initBtnClose.call(this, "pve_resource_collection_title_png", this,
+            function() {
+                t.service.backToMainPanel()
+            },
+            this);
+            var i = new MenuData;
+            if (i.root = ["BASE", "ADVANCE", "TASK", "MALL"], i.groupName = this.groupName, GameInfo.isChecking ? i.data = {
+                BASE: {
+                    title: "基础"
+                },
+                ADVANCE: {
+                    title: "进阶"
+                },
+                TASK: {
+                    title: "功勋任务"
+                },
+                MALL: {
+                    title: "商城",
+                    child: ["PET", "MARK", "ITEM"]
+                },
+                PET: {
+                    title: "强力精灵",
+                    parent: "MALL"
+                },
+                MARK: {
+                    title: "全能刻印",
+                    parent: "MALL"
+                },
+                ITEM: {
+                    title: "珍贵道具",
+                    parent: "MALL"
+                },
+                ACHIEVE: {
+                    title: "经典成就",
+                    parent: "MALL"
+                }
+            }: i.data = {
+                BASE: {
+                    title: "基础"
+                },
+                ADVANCE: {
+                    title: "进阶"
+                },
+                TASK: {
+                    title: "功勋任务"
+                },
+                MALL: {
+                    title: "商城",
+                    child: ["PET", "MARK", "ITEM", "ACHIEVE", "EXPLOIT"]
+                },
+                PET: {
+                    title: "强力精灵",
+                    parent: "MALL"
+                },
+                MARK: {
+                    title: "全能刻印",
+                    parent: "MALL"
+                },
+                ITEM: {
+                    title: "珍贵道具",
+                    parent: "MALL"
+                },
+                ACHIEVE: {
+                    title: "经典成就",
+                    parent: "MALL"
+                },
+                EXPLOIT: {
+                    title: "精灵因子",
+                    parent: "MALL"
+                }
+            },
+            this._data) {
+                var n = GainWayManger.getJumpInfo(this._data, i);
+                n && (this._defaultType = n.menuDefault, this.panelParam = n.tab)
+            }
+            this._curTab = i["default"] = this._defaultType || "BASE",
+            this.menu = Menu.createMenu(i, this.menuGroup),
+            this.menu.selectedValue = "BASE",
+            this.addEvents()
+        },
+        i.prototype.addEvents = function() {
+            EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.updateView, this),
+            EventManager.addEventListener("event_jump_to_pve", this._onTouchTapRightItem, this),
+            EventManager.addEventListener("event_jump_to_animalMark", this.jumpToAnimMark, this)
+        },
+        i.prototype.jumpToAnimMark = function(t) {
+            this._curTab = t.data.subType,
+            this.panelParam = t.data.childParam,
+            this.menu.updateView(this._curTab),
+            this.updateView()
+        },
+        i.prototype._onTouchTapRightItem = function(t) {
+            var e = t.data;
+            if (e.moduleID > 0) {
+                if (e.showType > 1 && !this._checkOpen(e)) return void Alarm.show("不在活动时间内");
+                var i;
+                if (e.openParam && (i = KTool.evalPram(e.openParam)), e.statLog) {
+                    var n = e.statLog.split(",");
+                    StatLogger.log(n[0], n[1], n[2])
+                }
+                window.DEBUG || e.isOpen ? ModuleManager.showModuleByID(e.moduleID, i) : Alarm.show("暂未开放")
+            } else Alarm.show("暂未开放")
+        },
+        i.prototype._checkOpen = function(t) {
+            var e = SystemTimerManager.sysBJDate;
+            if (2 === t.showType) {
+                for (var i = e.getDay(), n = t.timeLimit.split("*"), r = 0; r < n.length; r++) if (i === ~~n[r]) return ! 0
+            } else if (3 === t.showType) {
+                var n = t.timeLimit.split("*"),
+                o = SystemTimerManager.checkTimeLimitByBJDate(n);
+                if ("" !== o) return ! 0
+            }
+            return ! 1
+        },
+        i.prototype.updateView = function() {
+            switch (this._curTab = this.menu.selectedValue, this._curTab) {
+            case "BASE":
+                StatLogger.log("20211126版本系统功能", "主界面日常挑战", "玩家进入基础选项卡");
+                break;
+            case "ADVANCE":
+                StatLogger.log("20211126版本系统功能", "主界面日常挑战", "玩家进入进阶选项卡")
+            }
+            var e = t.PanelConst["PANEL_" + this._curTab];
+            if (this.currentPanel) {
+                if (this.currentPanel == this.panelMap[e]) return;
+                DisplayUtil.removeForParent(this.currentPanel),
+                this.currentPanel.removed()
+            }
+            if (this.currentPanel = this.panelMap[e], !this.currentPanel) {
+                var i = egret.getDefinitionByName(e);
+                this.currentPanel = new i(this.panelParam),
+                this.currentPanel.service = this.service,
+                this.panelMap[e] = this.currentPanel
+            }
+            this.grp_content.addChild(this.currentPanel),
+            this.panelParam && (this.currentPanel.beforeAdd(this.panelParam), this.panelParam = null),
+            this.currentPanel.update()
+        },
+        i.prototype.update = function() {
+            this.currentPanel && (this.currentPanel = null),
+            this.updateView()
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this);
+            for (var t in this.panelMap) {
+                var i = this.panelMap[t];
+                DisplayUtil.removeForParent(i),
+                i.removed(),
+                i.destroy()
+            }
+            this.menu && this.menu.destroy(),
+            EventManager.removeEventListener("event_jump_to_pve", this._onTouchTapRightItem, this),
+            EventManager.removeEventListener("event_jump_to_animalMark", this.jumpToAnimMark, this)
+        },
+        i
+    } (BasicPanel);
+    t.PveResourceCollection = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceCollection")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this) || this;
+            return i.skinName = PveResourceExploitSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this._scr),
+            this.adaptRightContent(this.itemCount),
+            this._scr.right = DeviceInfoManager.adapterOffSetX > 24 ? DeviceInfoManager.adapterOffSetX: 24,
+            this._list.itemRenderer = t.PveResourceItemItem,
+            EventManager.addEventListener(t.PanelConst.EVENT_UPDATE_ITEM_DATA, this.updateData, this),
+            this.showDAItem(),
+            ImageButtonUtil.add(this.icon_gold,
+            function() {
+                var t = config.Exchange_clt.getItem(i.allItems[0]);
+                tipsPop.TipsPop.openItemPop({
+                    id: t.coinid
+                })
+            },
+            this)
+        },
+        i.prototype.beforeAdd = function(t) {
+            this.showDAItem()
+        },
+        i.prototype.update = function() {
+            e.prototype.update.call(this),
+            this.updateData()
+        },
+        i.prototype.showDAItem = function() {
+            this.allItems = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 19 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData()
+        },
+        i.prototype.updateData = function() {
+            var t = this,
+            e = config.Exchange_clt.getItem(this.allItems[0]);
+            this.itemCount.visible = 19 == e.Subtag,
+            this.icon_gold.source = ClientConfig.getItemIcon(e.coinid),
+            this.txtCoin.text = ItemManager.getNumByID(e.coinid) + "",
+            this._forveridArr = [];
+            for (var i = 0; i < this.allItems.length; i++) {
+                var n = config.Exchange_clt.getItem(this.allItems[i]); - 1 == this._forveridArr.indexOf(n.UserInfoId) && this._forveridArr.push(n.UserInfoId)
+            }
+            KTool.getMultiValue(this._forveridArr,
+            function(e) {
+                t._curDataForver = e,
+                t.showList()
+            })
+        },
+        i.prototype.showList = function() {
+            for (var t = [], e = 0; e < this.allItems.length; e++) {
+                var i = {};
+                i.cfg = config.Exchange_clt.getItem(this.allItems[e]),
+                i.isCanGet = ItemManager.getNumByID(i.cfg.coinid) >= i.cfg.price;
+                var n = this._forveridArr.indexOf(i.cfg.UserInfoId);
+                i.userInfo = this._curDataForver[n],
+                t.push(i)
+            }
+            this.removeListChildren(),
+            this._list.dataProvider = new eui.ArrayCollection(t)
+        },
+        i.prototype.removeListChildren = function() {
+            for (var t = 0; t < this._list.numChildren; t++) {
+                var e = this._list.getChildAt(t);
+                e.destroy()
+            }
+        },
+        i
+    } (BasicPanel);
+    t.PveResourceExploit = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceExploit")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this) || this;
+            return i._curTab = 1,
+            i.skinName = PveResourceItemSkin,
+            i.defalutTab = t,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this.grpTop),
+            this.adaptLeftContent(this._scr),
+            this.adaptRightContent(this.itemCount),
+            this._scr.right = DeviceInfoManager.adapterOffSetX > 24 ? DeviceInfoManager.adapterOffSetX: 24,
+            this.rbg_tab = this.rb_0.group,
+            this._curTab = this.rbg_tab.selectedValue = 1,
+            this._list.itemRenderer = t.PveResourceItemItem,
+            this.rbg_tab.addEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            EventManager.addEventListener(t.PanelConst.EVENT_UPDATE_ITEM_DATA, this.updateData, this),
+            this.updateView(),
+            ImageButtonUtil.add(this.icon_gold,
+            function() {
+                var t = config.Exchange_clt.getItem(i.allItems[0]);
+                tipsPop.TipsPop.openItemPop({
+                    id: t.coinid
+                })
+            },
+            this)
+        },
+        i.prototype.beforeAdd = function(t) {
+            this._curTab = this.rbg_tab.selectedValue = t,
+            this.updateView()
+        },
+        i.prototype.onChangeTab = function() {
+            this._scr.stopAnimation(),
+            this._curTab = ~~this.rbg_tab.selectedValue,
+            this.updateView()
+        },
+        i.prototype.update = function() {
+            e.prototype.update.call(this),
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            1 == this._curTab ? this.showGxItem() : 2 == this._curTab ? this.showJwItem() : 3 == this._curTab && this.showDAItem()
+        },
+        i.prototype.showGxItem = function() {
+            this.allItems = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 11 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData(),
+            this._list.layout.requestedColumnCount = 6
+        },
+        i.prototype.showJwItem = function() {
+            this.allItems = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 12 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData(),
+            this._list.layout.requestedColumnCount = 6
+        },
+        i.prototype.showDAItem = function() {
+            this.allItems = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 16 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData(),
+            this._list.layout.requestedColumnCount = 5
+        },
+        i.prototype.updateData = function() {
+            var t = this,
+            e = config.Exchange_clt.getItem(this.allItems[0]);
+            this.itemCount.visible = 16 != e.Subtag,
+            this.icon_gold.source = ClientConfig.getItemIcon(e.coinid),
+            this.txtCoin.text = ItemManager.getNumByID(e.coinid) + "",
+            this._forveridArr = [];
+            for (var i = 0; i < this.allItems.length; i++) {
+                var n = config.Exchange_clt.getItem(this.allItems[i]); - 1 == this._forveridArr.indexOf(n.UserInfoId) && this._forveridArr.push(n.UserInfoId)
+            }
+            KTool.getMultiValue(this._forveridArr,
+            function(e) {
+                t._curDataForver = e,
+                t.showList()
+            })
+        },
+        i.prototype.showList = function() {
+            for (var t = [], e = 0; e < this.allItems.length; e++) {
+                var i = {};
+                i.cfg = config.Exchange_clt.getItem(this.allItems[e]),
+                i.isCanGet = ItemManager.getNumByID(i.cfg.coinid) >= i.cfg.price;
+                var n = this._forveridArr.indexOf(i.cfg.UserInfoId);
+                i.userInfo = this._curDataForver[n],
+                i.curTab = this._curTab,
+                t.push(i)
+            }
+            this.removeListChildren(),
+            this._list.dataProvider = new eui.ArrayCollection(t)
+        },
+        i.prototype.removeListChildren = function() {
+            for (var t = 0; t < this._list.numChildren; t++) {
+                var e = this._list.getChildAt(t);
+                e.destroy()
+            }
+        },
+        i.prototype.destroy = function() {
+            for (e.prototype.destroy.call(this); this._list.numChildren;) {
+                var i = this._list.getChildAt(0);
+                DisplayUtil.removeForParent(i),
+                i.destroy()
+            }
+            this.removeListChildren(),
+            EventManager.removeEventListener(t.PanelConst.EVENT_UPDATE_ITEM_DATA, this.updateData, this),
+            this.rbg_tab.removeEventListener(egret.Event.CHANGE, this.onChangeTab, this)
+        },
+        i
+    } (BasicPanel);
+    t.PveResourceItem = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceItem")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this) || this;
+            return i._curTab = 1,
+            i.skinName = "PveResourceMarkSkin",
+            i.defalutTab = t,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this.grpTop),
+            this.adaptLeftContent(this._scr),
+            this.adaptRightContent(this.itemCount),
+            this._scr.right = DeviceInfoManager.adapterOffSetX > 24 ? DeviceInfoManager.adapterOffSetX: 24,
+            this.rbg_tab = this.rb_0.group,
+            this._curTab = this.rbg_tab.selectedValue = this.defalutTab || 1,
+            this._list.itemRenderer = t.PveResourceMarkItem,
+            this.rbg_tab.addEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            EventManager.addEventListener(t.PanelConst.EVENT_UPDATE_MARK_DATA, this.updateData, this),
+            EventManager.addEventListener(t.PanelConst.EVENT_UPDATE_ITEM_DATA, this.updateData, this),
+            this.updateView(),
+            ImageButtonUtil.add(this.icon_gold,
+            function() {
+                var t = config.Exchange_clt.getItem(i.allMarks[0]);
+                tipsPop.TipsPop.openItemPop({
+                    id: t.coinid
+                })
+            },
+            this)
+        },
+        i.prototype.beforeAdd = function(t) {
+            this._curTab = this.rbg_tab.selectedValue = t,
+            this.updateView()
+        },
+        i.prototype.onChangeTab = function() {
+            this._scr.stopAnimation(),
+            this._curTab = ~~this.rbg_tab.selectedValue,
+            this.updateView()
+        },
+        i.prototype.update = function() {
+            e.prototype.update.call(this),
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            1 == this._curTab ? this.showGxMark() : 2 == this._curTab ? this.showKingMark() : 3 == this._curTab && this.showDevineAnimalMark()
+        },
+        i.prototype.showGxMark = function() {
+            this.allMarks = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 3 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData()
+        },
+        i.prototype.showKingMark = function() {
+            this.allMarks = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 4 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData()
+        },
+        i.prototype.showDevineAnimalMark = function() {
+            this.allMarks = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 15 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData()
+        },
+        i.prototype.updateData = function() {
+            var t = this,
+            e = config.Exchange_clt.getItem(this.allMarks[0]);
+            this.itemCount.visible = 15 != e.Subtag,
+            this.icon_gold.source = ClientConfig.getItemIcon(e.coinid),
+            this.txtCoin.text = ItemManager.getNumByID(e.coinid) + "",
+            KTool.getBitSet([2000038],
+            function(e) {
+                t.touchChildren = t.touchEnabled = !0,
+                t._curDataBit = e,
+                t.showList()
+            })
+        },
+        i.prototype.showList = function() {
+            for (var t = [], e = Math.floor(SystemTimerManager.sysBJDate.getTime() / 1e3), i = Math.floor((e - 57600) / 604800 % this.allMarks.length), n = 0; n < this.allMarks.length; n++) {
+                var r = {};
+                r.cfg = config.Exchange_clt.getItem(this.allMarks[n]),
+                r.isCanGet = ItemManager.getNumByID(r.cfg.coinid) >= r.cfg.price,
+                4 != r.cfg.Subtag ? r.isDiscount = !1 : 0 == this._curDataBit[0] ? r.isDiscount = r.cfg.id - this.allMarks[0] == i ? !0 : !1 : r.isDiscount = !1,
+                t.push(r)
+            }
+            15 != config.Exchange_clt.getItem(this.allMarks[0]).Subtag && t.sort(function(t, e) {
+                return t.isDiscount ? -1 : e.isDiscount ? 1 : t.cfg.realid < e.cfg.realid ? -1 : 1
+            }),
+            this.removeListChildren(),
+            this._list.dataProvider = new eui.ArrayCollection(t)
+        },
+        i.prototype.removeListChildren = function() {
+            for (var t = 0; t < this._list.numChildren; t++) {
+                var e = this._list.getChildAt(t);
+                e.destroy()
+            }
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            this.rbg_tab.removeEventListener(egret.Event.CHANGE, this.onChangeTab, this)
+        },
+        i
+    } (BasicPanel);
+    t.PveResourceMark = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceMark")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this) || this;
+            return i._curTab = 1,
+            i.allPets = [],
+            i._getPetNum = {},
+            i.value = 1,
+            i.value = ~~t || 1,
+            i.skinName = PveResourceStrongPetSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.adaptLeftContent(this.grpTop),
+            this.adaptLeftContent(this._scr),
+            this.adaptRightContent(this.itemCount),
+            this._scr.right = DeviceInfoManager.adapterOffSetX > 24 ? DeviceInfoManager.adapterOffSetX: 24,
+            this.rbg_tab = this.rb_0.group,
+            this._curTab = this.rbg_tab.selectedValue = this.value,
+            this._list.itemRenderer = t.PveResourceStrongPetItem,
+            this.rbg_tab.addEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            EventManager.addEventListener(t.PanelConst.EVENT_UPDATE_PET_DATA, this.updateData, this),
+            EventManager.addEventListener(t.PanelConst.EVENT_UPDATE_ITEM_DATA, this.updateData, this),
+            this.updateView(),
+            ImageButtonUtil.add(this.coin1,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 1
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.coin2,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 1707511
+                })
+            },
+            this)
+        },
+        i.prototype.beforeAdd = function(t) {
+            this.value = ~~t,
+            this._curTab = this.rbg_tab.selectedValue = this.value,
+            this.updateView()
+        },
+        i.prototype.update = function() {},
+        i.prototype.onChangeTab = function() {
+            this._scr.stopAnimation(),
+            this._curTab = ~~this.rbg_tab.selectedValue,
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            1 == this._curTab ? this.showGxPet() : 2 == this._curTab ? this.showKingPet() : 3 == this._curTab && this.showBeast()
+        },
+        i.prototype.showGxPet = function() {
+            this.allPets = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 1 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData()
+        },
+        i.prototype.showKingPet = function() {
+            this.allPets = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 2 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData()
+        },
+        i.prototype.showBeast = function() {
+            this.allPets = config.Exchange_clt.getItems().filter(function(t) {
+                return 2 == t.shopid && 17 == t.Subtag
+            }).map(function(t) {
+                return t.id
+            }),
+            this.updateData()
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            this.txtCoin.text = core.gameUtil.ConvertToTenThousand(MainManager.actorInfo.coins),
+            this.coin1.source = ClientConfig.getItemIcon(1),
+            this.coin2.source = ClientConfig.getItemIcon(1707511),
+            this.txtGold.text = ItemManager.getNumByID(1707511) + "",
+            this._forveridArr = [],
+            this._itemsidArr = [],
+            this._monsterIdArr = [];
+            for (var e = 0; e < this.allPets.length; e++) {
+                var i = config.Exchange_clt.getItem(this.allPets[e]); - 1 == this._forveridArr.indexOf(i.UserInfoId) && this._forveridArr.push(i.UserInfoId),
+                -1 == this._itemsidArr.indexOf(i.coinid) && this._itemsidArr.push(i.coinid),
+                -1 == this._monsterIdArr.indexOf(i.realid) && this._monsterIdArr.push(i.realid)
+            }
+            KTool.getMultiValue(this._forveridArr,
+            function(e) {
+                t._curDataForver = e,
+                t.touchChildren = t.touchEnabled = !0,
+                PetManager.checkMultiPet(t._monsterIdArr,
+                function(e) {
+                    for (var i in t._monsterIdArr) t._getPetNum[t._monsterIdArr[i]] = e[i];
+                    t.showList()
+                })
+            })
+        },
+        i.prototype.showList = function() {
+            for (var t = [], e = 0; e < this.allPets.length; e++) {
+                var i = {};
+                i.cfg = config.Exchange_clt.getItem(this.allPets[e]);
+                var n = this._forveridArr.indexOf(i.cfg.UserInfoId);
+                BitUtil.getBit(this._curDataForver[n], i.cfg.UserInfoBitPos - 1) > 0 ? (i.isGet = !0, i.isCanGet = !1) : i.cfg.isjustone && this._getPetNum[i.cfg.realid] ? (i.isGet = !0, i.isCanGet = !1) : i.isCanGet = ItemManager.getNumByID(i.cfg.coinid) >= i.cfg.price ? !0 : !1,
+                t.push(i)
+            }
+            t.sort(function(t, e) {
+                return~~t.isGet - ~~e.isGet
+            }),
+            this.removeListChildren(),
+            this._list.dataProvider = new eui.ArrayCollection(t)
+        },
+        i.prototype.removeListChildren = function() {
+            for (var t = 0; t < this._list.numChildren; t++) {
+                var e = this._list.getChildAt(t);
+                e.destroy()
+            }
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            this.removeListChildren(),
+            this.rbg_tab.removeEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            EventManager.removeEventListener(t.PanelConst.EVENT_UPDATE_PET_DATA, this.updateData, this)
+        },
+        i
+    } (BasicPanel);
+    t.PveResourceStrongPet = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceStrongPet")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourceTaskSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            ImageButtonUtil.add(this.coin,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 1
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.medal,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 1707511
+                })
+            },
+            this),
+            this.dailyList.itemRenderer = t.PveResourceTaskItem,
+            this.weeklyList.itemRenderer = t.PveResourceTaskItem
+        },
+        i.prototype.update = function() {
+            this.playAnim(),
+            this.updateView()
+        },
+        i.prototype.playAnim = function() {
+            var t = this.daily.x;
+            this.daily.x = this.content.width,
+            gsap.to(this.daily, {
+                x: t,
+                duration: .4
+            }),
+            t = this.weekly.x,
+            this.weekly.x = this.content.width + this.weekly.width,
+            gsap.to(this.weekly, {
+                x: t,
+                duration: .5
+            })
+        },
+        i.prototype.updateView = function() {
+            var t = this;
+            this.coin.source = ClientConfig.getItemIcon(1),
+            this.txtCoinNum.text = core.gameUtil.ConvertItemNumView(MainManager.actorInfo.coins),
+            this.medal.source = ClientConfig.getItemIcon(1707511),
+            this.txtMedalNum.text = ItemManager.getNumByID(1707511) + "",
+            SocketConnection.sendByQueue(41464, [],
+            function(e) {
+                var i = e.data,
+                n = i.readUnsignedInt(),
+                r = i.readUnsignedInt(),
+                o = i.readUnsignedInt(),
+                s = i.readUnsignedInt(),
+                a = i.readUnsignedInt(),
+                _ = i.readUnsignedInt(),
+                h = config.Medaltask.getItem(n),
+                u = config.Medaltask.getItem(s);
+                h && t.manageShowRewards("daily", h, r, o),
+                u && t.manageShowRewards("weekly", u, a, _)
+            })
+        },
+        i.prototype.manageShowRewards = function(t, e, i, n) {
+            var r = t.charAt(0).toUpperCase() + t.slice(1);
+            this["txt" + r + "TaskInfoContent"].text = e.describe;
+            for (var o = e.rewardinfo.split(";"), s = [], a = 0; 4 > a; ++a) if (a < o.length) {
+                var _ = o[a].split("_").map(Number);
+                s.push(_)
+            }
+            this[t + "List"].dataProvider = new eui.ArrayCollection(s),
+            this[t + "List"].validateNow(),
+            this["txt" + r + "TaskPgs"].textFlow = [{
+                text: "" + n,
+                style: {
+                    textColor: 16580432
+                }
+            },
+            {
+                text: "/" + e.value,
+                style: {
+                    textColor: 12900350
+                }
+            }];
+            var h;
+            0 == i ? n < +e.value ? h = 0 : n >= +e.value && (h = 1) : 1 == i && (h = 2),
+            this.manageButtons(t, e, h)
+        },
+        i.prototype.manageButtons = function(t, e, i) {
+            var n = this,
+            r = t.charAt(0).toUpperCase() + t.slice(1);
+            switch (i) {
+            case 0:
+                var o = e.jump.split("_").map(Number);
+                switch (o[0]) {
+                case 1:
+                    ImageButtonUtil.add(this["btn" + r + "Go"],
+                    function() {
+                        MapManager.changeMap(o[1])
+                    },
+                    this);
+                    break;
+                case 2:
+                    ImageButtonUtil.add(this["btn" + r + "Go"],
+                    function() {
+                        ModuleManager.showModuleByID(o[1])
+                    },
+                    this)
+                }
+                this[t + "HasGot"].visible = !1,
+                this["btn" + r + "Get"].visible = !1;
+                break;
+            case 1:
+                this["btn" + r + "Go"].visible = !1,
+                this[t + "HasGot"].visible = !1,
+                this["btn" + r + "Get"].visible = !0;
+                var s = "daily" == t ? 1 : 2;
+                ImageButtonUtil.add(this["btn" + r + "Get"],
+                function() {
+                    SocketConnection.sendByQueue(41465, [s, e.id],
+                    function(t) {
+                        var e = t.data,
+                        i = 0 == e.readUnsignedInt() ? !0 : !1;
+                        i && n.updateView()
+                    })
+                },
+                this);
+                break;
+            case 2:
+                this["btn" + r + "Go"].visible = !1,
+                this[t + "HasGot"].visible = !0,
+                this["btn" + r + "Get"].visible = !1
+            }
+        },
+        i
+    } (BasicPanel);
+    t.PveResourceTask = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourceTask")
+} (pveEnterPanel || (pveEnterPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveEnterPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.skinName = PveResourcePetPopSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.btnBuy,
+            function() {
+                SocketConnection.sendByQueue(42395, [109, i._info.cfg.id, 1, 0],
+                function(e) {
+                    i.hide(),
+                    EventManager.dispatchEventWith(t.PanelConst.EVENT_UPDATE_PET_DATA)
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnClose, this.hide, this),
+            ImageButtonUtil.add(this.btnDetail,
+            function() {
+                i.hide(),
+                ModuleManager.showModule("petManualInfo", ["pet_info_manual"], {
+                    data: i._info.cfg.realid,
+                    type: "pet",
+                    callback: i.onCb,
+                    thisObj: i
+                },
+                "", AppDoStyle.HIDEN)
+            },
+            this)
+        },
+        i.prototype.onCb = function() {
+            PopViewManager.getInstance().openView(new i, null, this._info)
+        },
+        i.prototype.setData = function(t) {
+            e.prototype.setData.call(this, t),
+            this._info = t,
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            this.img_head.source = ClientConfig.getPetHeadPath(this._info.cfg.realid),
+            this.txt_name.text = PetXMLInfo.getName(this._info.cfg.realid),
+            this.coin.source = ClientConfig.getItemIcon(this._info.cfg.coinid),
+            this.txt_cost.text = this._info.cfg.price + "",
+            this.txt_num.textFlow = [{
+                text: "当前拥有：",
+                style: {
+                    textColor: 6258105
+                }
+            },
+            {
+                text: ItemManager.getNumByID(this._info.cfg.coinid) + "",
+                style: {
+                    textColor: 4252667
+                }
+            }],
+            DisplayUtil.setEnabled(this.btnBuy, this._info.isCanGet)
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (PopView);
+    t.PveResourcePetPop = e,
+    __reflect(e.prototype, "pveEnterPanel.PveResourcePetPop")
+} (pveEnterPanel || (pveEnterPanel = {})),
+window.pveEnterPanel = window.pveEnterPanel || {};
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/comp/ItemLeftPageSkin.exml"] = window.pveEnterPanel.ItemLeftPageSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["title", "list_reward", "grp_item"],
+        this.height = 488,
+        this.width = 348,
+        this.elementsContent = [this.grp_item_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.grp_item_i = function() {
+        var t = new eui.Group;
+        return this.grp_item = t,
+        t.touchEnabled = !0,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.title_i(), this._Group1_i()],
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.height = 488,
+        t.source = "pve_enter_panel_item_init2_png",
+        t.width = 348,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 46,
+        t.width = 216,
+        t.x = 124,
+        t.y = 431,
+        t.elementsContent = [this.list_reward_i()],
+        t
+    },
+    i.list_reward_i = function() {
+        var t = new eui.List;
+        return this.list_reward = t,
+        t.height = 46,
+        t.right = 0,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = -2,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/comp/ItemPagePointSkin.exml"] = window.pveEnterPanel.ItemPagePointSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["texture_Dark", "texture_Light"],
+        this.height = 14,
+        this.width = 14,
+        this.elementsContent = [this.texture_Dark_i(), this.texture_Light_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.texture_Dark_i = function() {
+        var t = new eui.Image;
+        return this.texture_Dark = t,
+        t.height = 14,
+        t.source = "pve_enter_panel_texture_Dark_png",
+        t.width = 14,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.texture_Light_i = function() {
+        var t = new eui.Image;
+        return this.texture_Light = t,
+        t.height = 14,
+        t.source = "pve_enter_panel_texture_Light_png",
+        t.width = 14,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/ItemRightPageSkin.exml"] = window.pveEnterPanel.ItemRightPageSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["title", "list_reward", "grp_item"],
+        this.height = 130,
+        this.width = 677,
+        this.elementsContent = [this.grp_item_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.grp_item_i = function() {
+        var t = new eui.Group;
+        return this.grp_item = t,
+        t.touchEnabled = !0,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.title_i(), this._Group1_i()],
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "pve_enter_panel_item_init_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 46,
+        t.width = 216,
+        t.x = 451,
+        t.y = 76,
+        t.elementsContent = [this.list_reward_i()],
+        t
+    },
+    i.list_reward_i = function() {
+        var t = new eui.List;
+        return this.list_reward = t,
+        t.height = 46,
+        t.right = 0,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = -2,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PetResourceAwardItemSkin.exml"] = window.PetResourceAwardItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["icon"],
+        this.height = 69,
+        this.width = 69,
+        this.elementsContent = [this._Image1_i(), this.icon_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 69,
+        t.source = "pet_resource_award_item_bg_png",
+        t.width = 69,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.height = 50,
+        t.horizontalCenter = 0,
+        t.verticalCenter = 0,
+        t.width = 50,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PveEnterItemType1Skin.exml"] = window.PveEnterItemType1Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "_list", "grp_item"],
+        this.height = 462,
+        this.width = 271,
+        this.elementsContent = [this.grp_item_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.grp_item_i = function() {
+        var t = new eui.Group;
+        return this.grp_item = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.bg_i(), this._list_i()],
+        t
+    },
+    i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.height = 462,
+        t.width = 271,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.height = 46,
+        t.touchThrough = !0,
+        t.width = 222,
+        t.x = 24,
+        t.y = 366,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = -2,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PveEnterItemType2Skin.exml"] = window.PveEnterItemType2Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "_list", "img_lock", "txt_openTime", "grp_item"],
+        this.height = 462,
+        this.width = 271,
+        this.elementsContent = [this.grp_item_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.grp_item_i = function() {
+        var t = new eui.Group;
+        return this.grp_item = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.bg_i(), this._list_i(), this.img_lock_i(), this.txt_openTime_i()],
+        t
+    },
+    i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.height = 462,
+        t.touchEnabled = !1,
+        t.width = 271,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.height = 46,
+        t.touchThrough = !0,
+        t.width = 222,
+        t.x = 24,
+        t.y = 366,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = -2,
+        t
+    },
+    i.img_lock_i = function() {
+        var t = new eui.Image;
+        return this.img_lock = t,
+        t.horizontalCenter = 0,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_enter_panel_lock_png",
+        t.touchEnabled = !1,
+        t.verticalCenter = 0,
+        t.x = 15,
+        t.y = 15,
+        t
+    },
+    i.txt_openTime_i = function() {
+        var t = new eui.Label;
+        return this.txt_openTime = t,
+        t.horizontalCenter = 0,
+        t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "开放时间：10.21-10.23",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.y = 427,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PveEnterItemType3Skin.exml"] = window.PveEnterItemType3Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "grp_manual", "img_clear", "grp_item"],
+        this.height = 462,
+        this.width = 271,
+        this.elementsContent = [this.grp_item_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.grp_item_i = function() {
+        var t = new eui.Group;
+        return this.grp_item = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.bg_i(), this.grp_manual_i(), this.img_clear_i()],
+        t
+    },
+    i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.height = 462,
+        t.width = 271,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.grp_manual_i = function() {
+        var t = new eui.Group;
+        return this.grp_manual = t,
+        t.horizontalCenter = -.5,
+        t.y = 419,
+        t
+    },
+    i.img_clear_i = function() {
+        var t = new eui.Image;
+        return this.img_clear = t,
+        t.height = 430,
+        t.horizontalCenter = 0,
+        t.source = "pve_enter_item_type_3_img_clear_png",
+        t.verticalCenter = 0,
+        t.visible = !1,
+        t.width = 255,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PveEnterItemType4Skin.exml"] = window.PveEnterItemType4Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "grp_item"],
+        this.height = 462,
+        this.width = 271,
+        this.elementsContent = [this.grp_item_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.grp_item_i = function() {
+        var t = new eui.Group;
+        return this.grp_item = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.bg_i()],
+        t
+    },
+    i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.height = 462,
+        t.width = 271,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PveEnterItemType5Skin.exml"] = window.PveEnterItemType5Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "_list", "_bar", "txt_progress", "img_lock", "grp_item"],
+        this.height = 462,
+        this.width = 271,
+        this.elementsContent = [this.grp_item_i()]
+    }
+    __extends(e, t);
+    var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this._Image1_i(), this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return t.height = 17,
+            t.source = "pve_enter_item_type_5_barBg_png",
+            t.width = 222,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.height = 7,
+            t.source = "pve_enter_item_type_5_img_bar_png",
+            t.width = 212,
+            t.x = 5,
+            t.y = 5,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = e.prototype;
+    return n.grp_item_i = function() {
+        var t = new eui.Group;
+        return this.grp_item = t,
+        t.horizontalCenter = 0,
+        t.verticalCenter = 0,
+        t.elementsContent = [this.bg_i(), this._list_i(), this._bar_i(), this.txt_progress_i(), this.img_lock_i()],
+        t
+    },
+    n.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.height = 432,
+        t.width = 241,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.height = 46,
+        t.touchThrough = !0,
+        t.width = 222,
+        t.x = 8,
+        t.y = 371,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    n._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = -2,
+        t
+    },
+    n._bar_i = function() {
+        var t = new eui.ProgressBar;
+        return this._bar = t,
+        t.height = 17,
+        t.slideDuration = 0,
+        t.value = 0,
+        t.width = 222,
+        t.x = 9,
+        t.y = 307,
+        t.skinName = i,
+        t
+    },
+    n.txt_progress_i = function() {
+        var t = new eui.Label;
+        return this.txt_progress = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 16,
+        t.text = "100%",
+        t.textColor = 12710655,
+        t.x = 107,
+        t.y = 288,
+        t
+    },
+    n.img_lock_i = function() {
+        var t = new eui.Image;
+        return this.img_lock = t,
+        t.source = "pve_enter_item_type_5_img_lock_png",
+        t.touchEnabled = !1,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PveResourceBaseItemSkin.exml"] = window.PveResourceBaseItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "timesbg", "txt_times", "grp_times", "txt_openTime", "grp_item", "grp_content"],
+        this.height = 476,
+        this.width = 261,
+        this.elementsContent = [this.grp_content_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.grp_content_i = function() {
+        var t = new eui.Group;
+        return this.grp_content = t,
+        t.height = 476,
+        t.width = 261,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.bg_i(), this.grp_times_i(), this.txt_openTime_i(), this._Scroller1_i()],
+        t
+    },
+    i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.height = 476,
+        t.width = 261,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.grp_times_i = function() {
+        var t = new eui.Group;
+        return this.grp_times = t,
+        t.x = 45,
+        t.y = 282,
+        t.elementsContent = [this.timesbg_i(), this._Label1_i(), this.txt_times_i()],
+        t
+    },
+    i.timesbg_i = function() {
+        var t = new eui.Image;
+        return this.timesbg = t,
+        t.height = 30,
+        t.source = "pve_enter_panel_timesbg_type1_png",
+        t.width = 211,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "今日完成次数：",
+        t.textColor = 15923199,
+        t.x = 53,
+        t.y = 5,
+        t
+    },
+    i.txt_times_i = function() {
+        var t = new eui.Label;
+        return this.txt_times = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "0/5",
+        t.textColor = 7072255,
+        t.x = 168,
+        t.y = 5,
+        t
+    },
+    i.txt_openTime_i = function() {
+        var t = new eui.Label;
+        return this.txt_openTime = t,
+        t.fontFamily = "MFShangHei",
+        t.right = 23,
+        t.size = 16,
+        t.text = "每周五六日开启",
+        t.textColor = 6854368,
+        t.y = 444,
+        t
+    },
+    i._Scroller1_i = function() {
+        var t = new eui.Scroller;
+        return t.horizontalCenter = -2.5,
+        t.verticalCenter = 162,
+        t.visible = !0,
+        t.viewport = this.grp_item_i(),
+        t
+    },
+    i.grp_item_i = function() {
+        var t = new eui.List;
+        return this.grp_item = t,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PveResourceMarkItemSkin.exml"] = window.PveResourceMarkItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txt_cost", "coin", "btnBuy", "itemIcon", "achieveIcon", "flag_done", "txt_itemName", "txt_limit", "txt_itemNum", "txt_letfTime", "grpTime", "txt_tag", "grpTag"],
+        this.height = 173,
+        this.width = 147,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnBuy_i(), this.itemIcon_i(), this.achieveIcon_i(), this.flag_done_i(), this.txt_itemName_i(), this.txt_limit_i(), this.txt_itemNum_i(), this.grpTime_i(), this.grpTag_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "pve_resource_mark_item_bg_png",
+        t.x = 2,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 22,
+        t.source = "pve_resource_mark_item_namebg_png",
+        t.width = 138,
+        t.x = 5,
+        t.y = 3,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy = t,
+        t.x = 4,
+        t.y = 138,
+        t.elementsContent = [this._Image3_i(), this._Group1_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 31,
+        t.scale9Grid = new egret.Rectangle(57, 10, 58, 11),
+        t.source = "pve_resource_strong_pet_item_btnbg_png",
+        t.width = 141,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 0,
+        t.y = 4,
+        t.elementsContent = [this.txt_cost_i(), this.coin_i()],
+        t
+    },
+    i.txt_cost_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "3000",
+        t.textColor = 10181146,
+        t.x = 26,
+        t.y = 4,
+        t
+    },
+    i.coin_i = function() {
+        var t = new eui.Image;
+        return this.coin = t,
+        t.height = 24,
+        t.source = "pve_resource_strong_pet_item_coin_png",
+        t.width = 24,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.itemIcon_i = function() {
+        var t = new eui.Image;
+        return this.itemIcon = t,
+        t.height = 70,
+        t.width = 70,
+        t.x = 39,
+        t.y = 45,
+        t
+    },
+    i.achieveIcon_i = function() {
+        var t = new eui.Image;
+        return this.achieveIcon = t,
+        t.height = 53,
+        t.source = "pve_resource_mark_item_achieve_num_10_png",
+        t.visible = !1,
+        t.width = 75,
+        t.x = 35,
+        t.y = 53,
+        t
+    },
+    i.flag_done_i = function() {
+        var t = new eui.Label;
+        return this.flag_done = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "已兑换",
+        t.textColor = 4187130,
+        t.visible = !1,
+        t.x = 50,
+        t.y = 147,
+        t
+    },
+    i.txt_itemName_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemName = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "道具道具道具道...",
+        t.textAlign = "center",
+        t.textColor = 14543359,
+        t.width = 137,
+        t.x = 5,
+        t.y = 7,
+        t
+    },
+    i.txt_limit_i = function() {
+        var t = new eui.Label;
+        return this.txt_limit = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "每日限兑：1/1",
+        t.textColor = 4187130,
+        t.x = 29,
+        t.y = 117,
+        t
+    },
+    i.txt_itemNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemNum = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 37.5,
+        t.size = 18,
+        t.stroke = 1,
+        t.strokeColor = 1518417,
+        t.text = "999",
+        t.textColor = 14543359,
+        t.y = 92,
+        t
+    },
+    i.grpTime_i = function() {
+        var t = new eui.Group;
+        return this.grpTime = t,
+        t.x = 26,
+        t.y = 28,
+        t.elementsContent = [this._Image4_i(), this.txt_letfTime_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 18,
+        t.source = "pve_resource_mark_item_timebg_png",
+        t.width = 67,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_letfTime_i = function() {
+        var t = new eui.Label;
+        return this.txt_letfTime = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "剩30天",
+        t.textColor = 16317183,
+        t.x = 15,
+        t.y = 2,
+        t
+    },
+    i.grpTag_i = function() {
+        var t = new eui.Group;
+        return this.grpTag = t,
+        t.x = 0,
+        t.y = 28,
+        t.elementsContent = [this._Image5_i(), this.txt_tag_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "pve_resource_mark_item_tagbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_tag_i = function() {
+        var t = new eui.Label;
+        return this.txt_tag = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "特惠",
+        t.textColor = 16777215,
+        t.x = 4,
+        t.y = 2,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PveResourceStrongPetItemSkin.exml"] = window.PveResourceStrongPetItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_pet", "txt_cost", "coin", "btnBuy", "txt_name", "txt_limit", "flag_done", "txt_tag", "grp_tag"],
+        this.height = 292,
+        this.width = 178,
+        this.elementsContent = [this.img_pet_i(), this._Image1_i(), this._Image2_i(), this.btnBuy_i(), this.txt_name_i(), this.txt_limit_i(), this.flag_done_i(), this.grp_tag_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.img_pet_i = function() {
+        var t = new eui.Image;
+        return this.img_pet = t,
+        t.height = 284,
+        t.width = 170,
+        t.x = 5,
+        t.y = 5,
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 126,
+        t.source = "pve_resource_strong_pet_item_zhezhao_png",
+        t.width = 168,
+        t.x = 6,
+        t.y = 163,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 292,
+        t.source = "pve_resource_strong_pet_item_waikuang_png",
+        t.width = 178,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy = t,
+        t.height = 31,
+        t.visible = !0,
+        t.width = 172,
+        t.x = 4,
+        t.y = 257,
+        t.elementsContent = [this._Image3_i(), this._Group1_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 31,
+        t.source = "pve_resource_strong_pet_item_btnbg_png",
+        t.visible = !0,
+        t.width = 172,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 0,
+        t.y = 4,
+        t.elementsContent = [this.txt_cost_i(), this.coin_i()],
+        t
+    },
+    i.txt_cost_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "3000",
+        t.textColor = 10181146,
+        t.x = 26,
+        t.y = 4,
+        t
+    },
+    i.coin_i = function() {
+        var t = new eui.Image;
+        return this.coin = t,
+        t.height = 24,
+        t.source = "pve_resource_strong_pet_item_coin_png",
+        t.width = 24,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 18,
+        t.text = "战武天尊",
+        t.textColor = 15660287,
+        t.y = 237,
+        t
+    },
+    i.txt_limit_i = function() {
+        var t = new eui.Label;
+        return this.txt_limit = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 16,
+        t.text = "限兑：1/1",
+        t.textColor = 10923696,
+        t.y = 217,
+        t
+    },
+    i.flag_done_i = function() {
+        var t = new eui.Group;
+        return this.flag_done = t,
+        t.x = 11,
+        t.y = 259,
+        t.elementsContent = [this._Image4_i(), this._Label1_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 1,
+        t.source = "pve_resource_strong_pet_item_linedone_png",
+        t.width = 157,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "已兑换",
+        t.textColor = 4187130,
+        t.x = 54,
+        t.y = 6,
+        t
+    },
+    i.grp_tag_i = function() {
+        var t = new eui.Group;
+        return this.grp_tag = t,
+        t.x = 2,
+        t.y = 2,
+        t.elementsContent = [this._Image5_i(), this.txt_tag_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 60,
+        t.source = "pve_resource_strong_pet_item_tagbg_png",
+        t.width = 60,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_tag_i = function() {
+        var t = new eui.Label;
+        return this.txt_tag = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = -8,
+        t.rotation = 315,
+        t.size = 11,
+        t.text = "折扣",
+        t.textColor = 16777215,
+        t.verticalCenter = -10,
+        t.visible = !0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/PveResourceTaskItemSkin.exml"] = window.PveResourceTaskItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "image", "num", "rewardItem"],
+        this.elementsContent = [this.rewardItem_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.rewardItem_i = function() {
+        var t = new eui.Group;
+        return this.rewardItem = t,
+        t.elementsContent = [this.bg_i(), this.image_i(), this.num_i()],
+        t
+    },
+    i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pet_resource_award_item_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.image_i = function() {
+        var t = new eui.Image;
+        return this.image = t,
+        t.height = 44,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.width = 43,
+        t.x = 13,
+        t.y = 14,
+        t
+    },
+    i.num_i = function() {
+        var t = new eui.Label;
+        return this.num = t,
+        t.right = 3,
+        t.size = 12,
+        t.text = "2000",
+        t.textAlign = "right",
+        t.y = 56,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/RewardSkin.exml"] = window.pveEnterPanel.RewardSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["icon_bg", "icon", "txt_num"],
+        this.height = 46,
+        this.width = 46,
+        this.elementsContent = [this.icon_bg_i(), this.icon_i(), this.txt_num_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.icon_bg_i = function() {
+        var t = new eui.Image;
+        return this.icon_bg = t,
+        t.height = 46,
+        t.source = "pve_enter_panel_icon_bg_png",
+        t.width = 46,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.height = 34,
+        t.horizontalCenter = 0,
+        t.source = "",
+        t.verticalCenter = 0,
+        t.width = 34,
+        t
+    },
+    i.txt_num_i = function() {
+        var t = new eui.Label;
+        return this.txt_num = t,
+        t.bottom = 3,
+        t.right = 4,
+        t.size = 12,
+        t.text = "Label",
+        t.textAlign = "right",
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/PveEnterMainSkin.exml"] = window.PveEnterMainSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "_rect", "grpAnim", "img_1", "img_2", "img_3", "grpImg"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._rect_i(), this.grpAnim_i(), this.grpImg_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.horizontalCenter = 0,
+        t.source = "blurry_base_bg_jpg",
+        t.y = 0,
+        t
+    },
+    i._rect_i = function() {
+        var t = new eui.Image;
+        return this._rect = t,
+        t.source = "blurry_base_bgmask_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.grpAnim_i = function() {
+        var t = new eui.Group;
+        return this.grpAnim = t,
+        t.height = 471,
+        t.horizontalCenter = 1,
+        t.width = 800,
+        t.y = 86,
+        t
+    },
+    i.grpImg_i = function() {
+        var t = new eui.Group;
+        return this.grpImg = t,
+        t.cacheAsBitmap = !0,
+        t.height = 471,
+        t.horizontalCenter = 1,
+        t.width = 800,
+        t.y = 86,
+        t.elementsContent = [this.img_1_i(), this.img_2_i(), this.img_3_i()],
+        t
+    },
+    i.img_1_i = function() {
+        var t = new eui.Image;
+        return this.img_1 = t,
+        t.pixelHitTest = !0,
+        t.scaleX = .5,
+        t.scaleY = .5,
+        t.source = "pve_enter_main_img_1_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.img_2_i = function() {
+        var t = new eui.Image;
+        return this.img_2 = t,
+        t.pixelHitTest = !0,
+        t.scaleX = .5,
+        t.scaleY = .5,
+        t.source = "pve_enter_main_img_2_png",
+        t.visible = !0,
+        t.x = 286,
+        t.y = 0,
+        t
+    },
+    i.img_3_i = function() {
+        var t = new eui.Image;
+        return this.img_3 = t,
+        t.pixelHitTest = !0,
+        t.scaleX = .5,
+        t.scaleY = .5,
+        t.source = "pve_enter_main_img_3_png",
+        t.visible = !0,
+        t.x = 573,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/PveResourceAchieveSkin.exml"] = window.PveResourceAchieveSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txtCoin", "icon_gold", "itemCount", "_list", "_scr", "rb_1", "rb_2", "grpTop"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.itemCount_i(), this._scr_i(), this.grpTop_i()]
+    }
+    __extends(e, t);
+    var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "功勋成就",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "精灵王成就",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    r = e.prototype;
+    return r.itemCount_i = function() {
+        var t = new eui.Group;
+        return this.itemCount = t,
+        t.cacheAsBitmap = !0,
+        t.right = 43,
+        t.visible = !0,
+        t.y = 11,
+        t.elementsContent = [this._Image1_i(), this.txtCoin_i(), this.icon_gold_i()],
+        t
+    },
+    r._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "pve_resource_collection_img_di2_png",
+        t.width = 133,
+        t.x = 13,
+        t.y = 5,
+        t
+    },
+    r.txtCoin_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 4.5,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.y = 6,
+        t
+    },
+    r.icon_gold_i = function() {
+        var t = new eui.Image;
+        return this.icon_gold = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    r._scr_i = function() {
+        var t = new eui.Scroller;
+        return this._scr = t,
+        t.height = 525,
+        t.left = 179,
+        t.right = 22,
+        t.scrollPolicyH = "off",
+        t.y = 115,
+        t.viewport = this._list_i(),
+        t
+    },
+    r._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    r._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t.columnAlign = "justifyUsingGap",
+        t.orientation = "rows",
+        t.requestedColumnCount = 6,
+        t
+    },
+    r.grpTop_i = function() {
+        var t = new eui.Group;
+        return this.grpTop = t,
+        t.cacheAsBitmap = !0,
+        t.x = 171,
+        t.y = 64,
+        t.elementsContent = [this.rb_1_i(), this.rb_2_i()],
+        t
+    },
+    r.rb_1_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_1 = t,
+        t.groupName = "pve_achieve_tab",
+        t.selected = !1,
+        t.value = "1",
+        t.x = 0,
+        t.y = 0,
+        t.skinName = i,
+        t
+    },
+    r.rb_2_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_2 = t,
+        t.groupName = "pve_achieve_tab",
+        t.value = "2",
+        t.x = 100,
+        t.y = 0,
+        t.skinName = n,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/PveResourceBaseSkin.exml"] = window.PveResourceBaseSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["_list", "_scr"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._scr_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._scr_i = function() {
+        var t = new eui.Scroller;
+        return this._scr = t,
+        t.height = 476,
+        t.left = 200,
+        t.right = 0,
+        t.y = 110,
+        t.viewport = this._list_i(),
+        t
+    },
+    i._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.width = 936,
+        t.x = 0,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = 26,
+        t.paddingRight = 26,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/PveResourceCollectionSkin.exml"] = window.PveResourceCollectionSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["grp_content", "menuGroup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.grp_content_i(), this.menuGroup_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 640,
+        t.source = "pve_resource_collection_bg_jpg",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.grp_content_i = function() {
+        var t = new eui.Group;
+        return this.grp_content = t,
+        t.percentHeight = 100,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.menuGroup_i = function() {
+        var t = new eui.Group;
+        return this.menuGroup = t,
+        t.x = 0,
+        t.y = 48,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/PveResourceExploitSkin.exml"] = window.PveResourceExploitSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txtCoin", "icon_gold", "itemCount", "_list", "_scr"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.itemCount_i(), this._scr_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.itemCount_i = function() {
+        var t = new eui.Group;
+        return this.itemCount = t,
+        t.cacheAsBitmap = !0,
+        t.right = 43,
+        t.y = 11,
+        t.elementsContent = [this._Image1_i(), this.txtCoin_i(), this.icon_gold_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "pve_resource_collection_img_di2_png",
+        t.width = 133,
+        t.x = 13,
+        t.y = 5,
+        t
+    },
+    i.txtCoin_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 4.5,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.y = 6,
+        t
+    },
+    i.icon_gold_i = function() {
+        var t = new eui.Image;
+        return this.icon_gold = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._scr_i = function() {
+        var t = new eui.Scroller;
+        return this._scr = t,
+        t.height = 525,
+        t.left = 179,
+        t.right = 22,
+        t.scrollPolicyH = "off",
+        t.y = 115,
+        t.viewport = this._list_i(),
+        t
+    },
+    i._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    i._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t.columnAlign = "justifyUsingGap",
+        t.orientation = "rows",
+        t.requestedColumnCount = 6,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/PveResourceItemSkin.exml"] = window.PveResourceItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txtCoin", "icon_gold", "itemCount", "rb_0", "rb_1", "rb_2", "grpTop", "_list", "_scr"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.itemCount_i(), this.grpTop_i(), this._scr_i()]
+    }
+    __extends(e, t);
+    var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "功勋点数",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "界神印记",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    r = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "神兽道具",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    o = e.prototype;
+    return o.itemCount_i = function() {
+        var t = new eui.Group;
+        return this.itemCount = t,
+        t.cacheAsBitmap = !0,
+        t.right = 43,
+        t.y = 11,
+        t.elementsContent = [this._Image1_i(), this.txtCoin_i(), this.icon_gold_i()],
+        t
+    },
+    o._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "pve_resource_collection_img_di2_png",
+        t.width = 133,
+        t.x = 13,
+        t.y = 5,
+        t
+    },
+    o.txtCoin_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 4.5,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.y = 6,
+        t
+    },
+    o.icon_gold_i = function() {
+        var t = new eui.Image;
+        return this.icon_gold = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    o.grpTop_i = function() {
+        var t = new eui.Group;
+        return this.grpTop = t,
+        t.cacheAsBitmap = !0,
+        t.x = 171,
+        t.y = 64,
+        t.elementsContent = [this.rb_0_i(), this.rb_1_i(), this.rb_2_i()],
+        t
+    },
+    o.rb_0_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_0 = t,
+        t.groupName = "pve_item_tab",
+        t.height = 33,
+        t.value = "1",
+        t.width = 101,
+        t.x = 0,
+        t.y = 0,
+        t.skinName = i,
+        t
+    },
+    o.rb_1_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_1 = t,
+        t.groupName = "pve_item_tab",
+        t.height = 33,
+        t.value = "2",
+        t.width = 101,
+        t.x = 100,
+        t.y = 0,
+        t.skinName = n,
+        t
+    },
+    o.rb_2_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_2 = t,
+        t.groupName = "pve_item_tab",
+        t.value = "3",
+        t.x = 200,
+        t.y = 0,
+        t.skinName = r,
+        t
+    },
+    o._scr_i = function() {
+        var t = new eui.Scroller;
+        return this._scr = t,
+        t.height = 525,
+        t.left = 179,
+        t.right = 22,
+        t.scrollPolicyH = "off",
+        t.y = 115,
+        t.viewport = this._list_i(),
+        t
+    },
+    o._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    o._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t.columnAlign = "justifyUsingGap",
+        t.orientation = "rows",
+        t.requestedColumnCount = 6,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/PveResourceMarkSkin.exml"] = window.PveResourceMarkSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txtCoin", "icon_gold", "itemCount", "rb_0", "rb_1", "rb_2", "grpTop", "_list", "_scr"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.itemCount_i(), this.grpTop_i(), this._scr_i()]
+    }
+    __extends(e, t);
+    var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "功勋刻印",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "精灵王刻印",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    r = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "神兽刻印",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    o = e.prototype;
+    return o.itemCount_i = function() {
+        var t = new eui.Group;
+        return this.itemCount = t,
+        t.cacheAsBitmap = !0,
+        t.right = 43,
+        t.y = 11,
+        t.elementsContent = [this._Image1_i(), this.txtCoin_i(), this.icon_gold_i()],
+        t
+    },
+    o._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "pve_resource_collection_img_di2_png",
+        t.width = 133,
+        t.x = 13,
+        t.y = 5,
+        t
+    },
+    o.txtCoin_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 4.5,
+        t.size = 18,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.y = 6,
+        t
+    },
+    o.icon_gold_i = function() {
+        var t = new eui.Image;
+        return this.icon_gold = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    o.grpTop_i = function() {
+        var t = new eui.Group;
+        return this.grpTop = t,
+        t.cacheAsBitmap = !0,
+        t.x = 171,
+        t.y = 64,
+        t.elementsContent = [this.rb_0_i(), this.rb_1_i(), this.rb_2_i()],
+        t
+    },
+    o.rb_0_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_0 = t,
+        t.groupName = "pve_mark_tab",
+        t.value = "1",
+        t.x = 0,
+        t.y = 0,
+        t.skinName = i,
+        t
+    },
+    o.rb_1_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_1 = t,
+        t.groupName = "pve_mark_tab",
+        t.value = "2",
+        t.x = 100,
+        t.y = 0,
+        t.skinName = n,
+        t
+    },
+    o.rb_2_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_2 = t,
+        t.groupName = "pve_mark_tab",
+        t.value = "3",
+        t.x = 200,
+        t.y = 0,
+        t.skinName = r,
+        t
+    },
+    o._scr_i = function() {
+        var t = new eui.Scroller;
+        return this._scr = t,
+        t.height = 525,
+        t.left = 179,
+        t.right = 22,
+        t.scrollPolicyH = "off",
+        t.y = 115,
+        t.viewport = this._list_i(),
+        t
+    },
+    o._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    o._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t.columnAlign = "justifyUsingGap",
+        t.orientation = "rows",
+        t.requestedColumnCount = 6,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/PveResourceStrongPetSkin.exml"] = window.PveResourceStrongPetSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["rb_0", "rb_1", "rb_2", "grpTop", "_list", "_scr", "txtGold", "txtCoin", "coin2", "btnAdd", "coin1", "itemCount"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.grpTop_i(), this._scr_i(), this.itemCount_i()]
+    }
+    __extends(e, t);
+    var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "功勋精灵",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "精灵王",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    r = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i(), this._Label1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbup_png"), new eui.SetProperty("_Label1", "textColor", 7177143)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_resource_collection_rbdown_png"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.height = 33,
+            t.width = 101,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        i._Label1_i = function() {
+            var t = new eui.Label;
+            return this._Label1 = t,
+            t.fontFamily = "MFShangHei",
+            t.horizontalCenter = 0,
+            t.size = 18,
+            t.text = "神兽",
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    o = e.prototype;
+    return o.grpTop_i = function() {
+        var t = new eui.Group;
+        return this.grpTop = t,
+        t.cacheAsBitmap = !0,
+        t.x = 171,
+        t.y = 64,
+        t.elementsContent = [this.rb_0_i(), this.rb_1_i(), this.rb_2_i()],
+        t
+    },
+    o.rb_0_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_0 = t,
+        t.groupName = "strong_pet_tab",
+        t.value = "1",
+        t.x = 0,
+        t.y = 0,
+        t.skinName = i,
+        t
+    },
+    o.rb_1_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_1 = t,
+        t.groupName = "strong_pet_tab",
+        t.value = "2",
+        t.x = 100,
+        t.y = 0,
+        t.skinName = n,
+        t
+    },
+    o.rb_2_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_2 = t,
+        t.groupName = "strong_pet_tab",
+        t.value = "3",
+        t.x = 201.114,
+        t.y = 0,
+        t.skinName = r,
+        t
+    },
+    o._scr_i = function() {
+        var t = new eui.Scroller;
+        return this._scr = t,
+        t.height = 528,
+        t.left = 177,
+        t.right = 24,
+        t.scrollPolicyH = "off",
+        t.y = 112,
+        t.viewport = this._list_i(),
+        t
+    },
+    o._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    o._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t.columnAlign = "justifyUsingGap",
+        t.orientation = "rows",
+        t.requestedColumnCount = 5,
+        t.verticalGap = 13,
+        t
+    },
+    o.itemCount_i = function() {
+        var t = new eui.Group;
+        return this.itemCount = t,
+        t.cacheAsBitmap = !0,
+        t.right = 39,
+        t.y = 11,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.txtGold_i(), this.txtCoin_i(), this.coin2_i(), this.btnAdd_i(), this.coin1_i()],
+        t
+    },
+    o._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "pve_resource_collection_img_di2_png",
+        t.width = 133,
+        t.x = 187,
+        t.y = 5,
+        t
+    },
+    o._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "pve_resource_collection_img_di2_png",
+        t.width = 133,
+        t.x = 22,
+        t.y = 5,
+        t
+    },
+    o.txtGold_i = function() {
+        var t = new eui.Label;
+        return this.txtGold = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 89.5,
+        t.size = 18.0101510119682,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.y = 6,
+        t
+    },
+    o.txtCoin_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = -64.5,
+        t.size = 18.0101510119682,
+        t.text = "99999",
+        t.textColor = 12834813,
+        t.y = 6,
+        t
+    },
+    o.coin2_i = function() {
+        var t = new eui.Image;
+        return this.coin2 = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 174,
+        t.y = 0,
+        t
+    },
+    o.btnAdd_i = function() {
+        var t = new eui.Image;
+        return this.btnAdd = t,
+        t.height = 21,
+        t.source = "pve_resource_collection_btnAdd_png",
+        t.visible = !1,
+        t.width = 21,
+        t.x = 303,
+        t.y = 5,
+        t
+    },
+    o.coin1_i = function() {
+        var t = new eui.Image;
+        return this.coin1 = t,
+        t.height = 45,
+        t.width = 45,
+        t.x = 0,
+        t.y = -7,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/panel/PveResourceTaskSkin.exml"] = window.PveResourceTaskSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["taskBg", "txtTitleToday", "dailyList", "btnDailyGo", "btnDailyGet", "dailyHasGot", "txtDailyTaskInfoContent", "txtDailyTaskPgs", "txtTaskInfo", "txtTaskReward", "txtTaskPgsTitle", "daily", "taskBg_2", "txtTitleWeekly", "weeklyList", "btnWeeklyGo", "btnWeeklyGet", "weeklyHasGot", "txtWeeklyTaskInfoContent", "txtWeeklyTaskPgs", "txtTaskInfo_2", "txtTaskReward_2", "txtTaskPgsTitle_2", "weekly", "content", "imgDi2", "imgDi2_2", "txtMedalNum", "txtCoinNum", "medal", "coin", "topMid"],
+        this.height = 571,
+        this.width = 1097,
+        this.elementsContent = [this.content_i(), this.topMid_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.content_i = function() {
+        var t = new eui.Group;
+        return this.content = t,
+        t.horizontalCenter = 101.5,
+        t.width = 756,
+        t.y = 94,
+        t.elementsContent = [this.daily_i(), this.weekly_i()],
+        t
+    },
+    i.daily_i = function() {
+        var t = new eui.Group;
+        return this.daily = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.taskBg_i(), this.txtTitleToday_i(), this._Scroller1_i(), this.btnDailyGo_i(), this.btnDailyGet_i(), this.dailyHasGot_i(), this.txtDailyTaskInfoContent_i(), this.txtDailyTaskPgs_i(), this.txtTaskInfo_i(), this.txtTaskReward_i(), this.txtTaskPgsTitle_i()],
+        t
+    },
+    i.taskBg_i = function() {
+        var t = new eui.Image;
+        return this.taskBg = t,
+        t.source = "pve_enter_panel_taskbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txtTitleToday_i = function() {
+        var t = new eui.Image;
+        return this.txtTitleToday = t,
+        t.source = "pve_enter_panel_txttitletoday_png",
+        t.x = 13,
+        t.y = 12,
+        t
+    },
+    i._Scroller1_i = function() {
+        var t = new eui.Scroller;
+        return t.width = 296,
+        t.x = 26,
+        t.y = 194,
+        t.viewport = this.dailyList_i(),
+        t
+    },
+    i.dailyList_i = function() {
+        var t = new eui.List;
+        return this.dailyList = t,
+        t.touchThrough = !0,
+        t.x = 26,
+        t.y = 194,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t
+    },
+    i.btnDailyGo_i = function() {
+        var t = new eui.Image;
+        return this.btnDailyGo = t,
+        t.source = "pve_enter_panel_btngo_png",
+        t.visible = !0,
+        t.x = 108,
+        t.y = 402,
+        t
+    },
+    i.btnDailyGet_i = function() {
+        var t = new eui.Image;
+        return this.btnDailyGet = t,
+        t.source = "pve_enter_panel_btnget_png",
+        t.visible = !0,
+        t.x = 108,
+        t.y = 402,
+        t
+    },
+    i.dailyHasGot_i = function() {
+        var t = new eui.Image;
+        return this.dailyHasGot = t,
+        t.source = "pve_enter_panel_hasgot_png",
+        t.visible = !0,
+        t.x = 112,
+        t.y = 406,
+        t
+    },
+    i.txtDailyTaskInfoContent_i = function() {
+        var t = new eui.Label;
+        return this.txtDailyTaskInfoContent = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.31482923847006,
+        t.text = "在六界神王殿中取得5次战斗胜利",
+        t.textColor = 12834813,
+        t.width = 300,
+        t.x = 28,
+        t.y = 110,
+        t
+    },
+    i.txtDailyTaskPgs_i = function() {
+        var t = new eui.Label;
+        return this.txtDailyTaskPgs = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17.9952115380226,
+        t.text = "0/5",
+        t.textColor = 16514895,
+        t.x = 28,
+        t.y = 314,
+        t
+    },
+    i.txtTaskInfo_i = function() {
+        var t = new eui.Label;
+        return this.txtTaskInfo = t,
+        t.fontFamily = "REEJI",
+        t.size = 18.32,
+        t.text = "任务描述",
+        t.textColor = 4187130,
+        t.x = 27,
+        t.y = 79,
+        t
+    },
+    i.txtTaskReward_i = function() {
+        var t = new eui.Label;
+        return this.txtTaskReward = t,
+        t.fontFamily = "REEJI",
+        t.size = 18.32,
+        t.text = "任务奖励",
+        t.textColor = 4187130,
+        t.x = 27,
+        t.y = 166,
+        t
+    },
+    i.txtTaskPgsTitle_i = function() {
+        var t = new eui.Label;
+        return this.txtTaskPgsTitle = t,
+        t.fontFamily = "REEJI",
+        t.size = 18.32,
+        t.text = "任务进度",
+        t.textColor = 4187130,
+        t.x = 27,
+        t.y = 287,
+        t
+    },
+    i.weekly_i = function() {
+        var t = new eui.Group;
+        return this.weekly = t,
+        t.x = 411,
+        t.y = 0,
+        t.elementsContent = [this.taskBg_2_i(), this.txtTitleWeekly_i(), this._Scroller2_i(), this.btnWeeklyGo_i(), this.btnWeeklyGet_i(), this.weeklyHasGot_i(), this.txtWeeklyTaskInfoContent_i(), this.txtWeeklyTaskPgs_i(), this.txtTaskInfo_2_i(), this.txtTaskReward_2_i(), this.txtTaskPgsTitle_2_i()],
+        t
+    },
+    i.taskBg_2_i = function() {
+        var t = new eui.Image;
+        return this.taskBg_2 = t,
+        t.source = "pve_enter_panel_taskbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txtTitleWeekly_i = function() {
+        var t = new eui.Image;
+        return this.txtTitleWeekly = t,
+        t.source = "pve_enter_panel_txttitleweekly_png",
+        t.x = 13,
+        t.y = 12,
+        t
+    },
+    i._Scroller2_i = function() {
+        var t = new eui.Scroller;
+        return t.width = 296,
+        t.x = 26,
+        t.y = 194,
+        t.viewport = this.weeklyList_i(),
+        t
+    },
+    i.weeklyList_i = function() {
+        var t = new eui.List;
+        return this.weeklyList = t,
+        t.touchThrough = !0,
+        t.x = 26,
+        t.y = 194,
+        t.layout = this._HorizontalLayout2_i(),
+        t
+    },
+    i._HorizontalLayout2_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t
+    },
+    i.btnWeeklyGo_i = function() {
+        var t = new eui.Image;
+        return this.btnWeeklyGo = t,
+        t.source = "pve_enter_panel_btngo_png",
+        t.x = 108,
+        t.y = 402,
+        t
+    },
+    i.btnWeeklyGet_i = function() {
+        var t = new eui.Image;
+        return this.btnWeeklyGet = t,
+        t.source = "pve_enter_panel_btnget_png",
+        t.visible = !0,
+        t.x = 108,
+        t.y = 402,
+        t
+    },
+    i.weeklyHasGot_i = function() {
+        var t = new eui.Image;
+        return this.weeklyHasGot = t,
+        t.source = "pve_enter_panel_hasgot_png",
+        t.x = 112,
+        t.y = 406,
+        t
+    },
+    i.txtWeeklyTaskInfoContent_i = function() {
+        var t = new eui.Label;
+        return this.txtWeeklyTaskInfoContent = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.31482923847006,
+        t.text = "在六界神王殿中取得5次战斗胜利",
+        t.textColor = 12834813,
+        t.width = 300,
+        t.x = 28,
+        t.y = 110,
+        t
+    },
+    i.txtWeeklyTaskPgs_i = function() {
+        var t = new eui.Label;
+        return this.txtWeeklyTaskPgs = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17.9952115380226,
+        t.text = "0/5",
+        t.textColor = 16514895,
+        t.x = 28,
+        t.y = 314,
+        t
+    },
+    i.txtTaskInfo_2_i = function() {
+        var t = new eui.Label;
+        return this.txtTaskInfo_2 = t,
+        t.fontFamily = "REEJI",
+        t.size = 18.32,
+        t.text = "任务描述",
+        t.textColor = 4187130,
+        t.x = 27,
+        t.y = 79,
+        t
+    },
+    i.txtTaskReward_2_i = function() {
+        var t = new eui.Label;
+        return this.txtTaskReward_2 = t,
+        t.fontFamily = "REEJI",
+        t.size = 18.32,
+        t.text = "任务奖励",
+        t.textColor = 4187130,
+        t.x = 27,
+        t.y = 166,
+        t
+    },
+    i.txtTaskPgsTitle_2_i = function() {
+        var t = new eui.Label;
+        return this.txtTaskPgsTitle_2 = t,
+        t.fontFamily = "REEJI",
+        t.size = 18.32,
+        t.text = "任务进度",
+        t.textColor = 4187130,
+        t.x = 27,
+        t.y = 287,
+        t
+    },
+    i.topMid_i = function() {
+        var t = new eui.Group;
+        return this.topMid = t,
+        t.right = 0,
+        t.width = 324,
+        t.y = 11,
+        t.elementsContent = [this.imgDi2_i(), this.imgDi2_2_i(), this.txtMedalNum_i(), this.txtCoinNum_i(), this.medal_i(), this.coin_i()],
+        t
+    },
+    i.imgDi2_i = function() {
+        var t = new eui.Image;
+        return this.imgDi2 = t,
+        t.source = "pve_resource_collection_img_di2_png",
+        t.x = 187,
+        t.y = 5,
+        t
+    },
+    i.imgDi2_2_i = function() {
+        var t = new eui.Image;
+        return this.imgDi2_2 = t,
+        t.source = "pve_resource_collection_img_di2_png",
+        t.x = 22,
+        t.y = 5,
+        t
+    },
+    i.txtMedalNum_i = function() {
+        var t = new eui.Label;
+        return this.txtMedalNum = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 89.5,
+        t.size = 18.0101510119682,
+        t.text = "99999",
+        t.textAlign = "center",
+        t.textColor = 12834813,
+        t.y = 6,
+        t
+    },
+    i.txtCoinNum_i = function() {
+        var t = new eui.Label;
+        return this.txtCoinNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0101510119682,
+        t.text = "99999",
+        t.textAlign = "center",
+        t.textColor = 12834813,
+        t.x = 67,
+        t.y = 6,
+        t
+    },
+    i.medal_i = function() {
+        var t = new eui.Image;
+        return this.medal = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = 174,
+        t.y = 0,
+        t
+    },
+    i.coin_i = function() {
+        var t = new eui.Image;
+        return this.coin = t,
+        t.height = 45,
+        t.width = 45,
+        t.x = 0,
+        t.y = -7,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/pop/PveResourcePetPopSkin.exml"] = window.PveResourcePetPopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnClose", "txt_cost", "coin", "btnBuy", "btnDetail", "txt_name", "txt_desc", "txt_num", "img_head"],
+        this.height = 285,
+        this.width = 481,
+        this.elementsContent = [this._Group1_i(), this.btnBuy_i(), this._Image4_i(), this.btnDetail_i(), this.txt_name_i(), this.txt_desc_i(), this.txt_num_i(), this._Image5_i(), this._Rect1_i(), this.img_head_i(), this._Image6_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnClose_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 285,
+        t.scale9Grid = new egret.Rectangle(8, 8, 5, 3),
+        t.source = "common_s9_pop_bg4_png",
+        t.width = 481,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 34,
+        t.source = "common_pop_up_bg_m_png",
+        t.width = 476,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 439,
+        t.y = 0,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy = t,
+        t.x = 329,
+        t.y = 213,
+        t.elementsContent = [this._Image3_i(), this._Group2_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 46,
+        t.source = "common_btn_bg_yellow_png",
+        t.width = 134,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 0,
+        t.y = 12,
+        t.elementsContent = [this.txt_cost_i(), this.coin_i()],
+        t
+    },
+    i.txt_cost_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost = t,
+        t.fontFamily = "REEJI",
+        t.size = 22,
+        t.text = "500",
+        t.textColor = 10181146,
+        t.x = 33,
+        t.y = 0,
+        t
+    },
+    i.coin_i = function() {
+        var t = new eui.Image;
+        return this.coin = t,
+        t.height = 22,
+        t.source = "pve_resource_strong_pet_item_coin_png",
+        t.width = 23,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 131,
+        t.source = "pve_resource_pet_pop_petbg_png",
+        t.width = 436,
+        t.x = 23,
+        t.y = 48,
+        t
+    },
+    i.btnDetail_i = function() {
+        var t = new eui.Image;
+        return this.btnDetail = t,
+        t.height = 34,
+        t.source = "pve_resource_pet_pop_btnDetail_png",
+        t.width = 101,
+        t.x = 35,
+        t.y = 218,
+        t
+    },
+    i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 22,
+        t.text = "火焰至尊 艾恩斯",
+        t.textColor = 13820671,
+        t.x = 173,
+        t.y = 65,
+        t
+    },
+    i.txt_desc_i = function() {
+        var t = new eui.Label;
+        return this.txt_desc = t,
+        t.fontFamily = "MFShangHei",
+        t.lineSpacing = 7,
+        t.size = 18,
+        t.text = "赠送精灵的第五技能，专属特性，\n专属刻印",
+        t.textColor = 6258105,
+        t.x = 173,
+        t.y = 103,
+        t
+    },
+    i.txt_num_i = function() {
+        var t = new eui.Label;
+        return this.txt_num = t,
+        t.fontFamily = "MFShangHei",
+        t.right = 19,
+        t.size = 18,
+        t.text = "当前拥有：8000000",
+        t.textColor = 6258105,
+        t.y = 191,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 32,
+        t.source = "pve_resource_pet_pop_title_png",
+        t.width = 104,
+        t.x = 33,
+        t.y = 1,
+        t
+    },
+    i._Rect1_i = function() {
+        var t = new eui.Rect;
+        return t.height = 100,
+        t.width = 100,
+        t.x = 38,
+        t.y = 63,
+        t
+    },
+    i.img_head_i = function() {
+        var t = new eui.Image;
+        return this.img_head = t,
+        t.height = 98,
+        t.source = "pve_resource_pet_pop_img_head_png",
+        t.width = 98,
+        t.x = 39,
+        t.y = 64,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 103,
+        t.source = "pve_resource_pet_pop_headFrame_png",
+        t.width = 103,
+        t.x = 37,
+        t.y = 62,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveEnterPanelSkin.exml"] = window.pveEnterPanel.PveEnterPanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["title", "img_btn_close", "top", "texture_reward_bg", "imgBtn_reward", "btnTask", "left_down", "_list", "_scrl", "rb_3", "rb_2", "rb_1", "rb_0", "grp_rb"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.top_i(), this.left_down_i(), this._scrl_i(), this.grp_rb_i()]
+    }
+    __extends(e, t);
+    var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_enter_panel3_up_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_enter_panel3_down_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_enter_panel2_up_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_enter_panel2_down_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t
+        },
+        e
+    } (eui.Skin),
+    r = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_enter_panel1_up_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_enter_panel1_down_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t
+        },
+        e
+    } (eui.Skin),
+    o = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "pve_enter_panel0_up_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "pve_enter_panel0_down_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t
+        },
+        e
+    } (eui.Skin),
+    s = e.prototype;
+    return s._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 640,
+        t.horizontalCenter = 0,
+        t.source = "common_ui_bg_2_png",
+        t.percentWidth = 100,
+        t.y = 0,
+        t
+    },
+    s.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image2_i(), this.title_i(), this.img_btn_close_i()],
+        t
+    },
+    s._Image2_i = function() {
+        var t = new eui.Image;
+        return t.scale9Grid = new egret.Rectangle(581, 22, 320, 16),
+        t.source = "common_top_bg_style1_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    s.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "pve_enter_panel_title_1_png",
+        t.x = 112,
+        t.y = 8,
+        t
+    },
+    s.img_btn_close_i = function() {
+        var t = new eui.Image;
+        return this.img_btn_close = t,
+        t.source = "common_close_2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    s.left_down_i = function() {
+        var t = new eui.Group;
+        return this.left_down = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.visible = !0,
+        t.elementsContent = [this.texture_reward_bg_i(), this.imgBtn_reward_i(), this.btnTask_i()],
+        t
+    },
+    s.texture_reward_bg_i = function() {
+        var t = new eui.Image;
+        return this.texture_reward_bg = t,
+        t.height = 113,
+        t.source = "pve_enter_panel_texture_reward_bg_png",
+        t.visible = !0,
+        t.width = 113,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    s.imgBtn_reward_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_reward = t,
+        t.height = 52,
+        t.source = "pve_enter_panel_imgBtn_reward_png",
+        t.width = 146,
+        t.x = 25,
+        t.y = 55,
+        t
+    },
+    s.btnTask_i = function() {
+        var t = new eui.Image;
+        return this.btnTask = t,
+        t.height = 52,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_enter_panel_imgBtn_task_png",
+        t.width = 145,
+        t.x = 177.00000000000003,
+        t.y = 55,
+        t
+    },
+    s._scrl_i = function() {
+        var t = new eui.Scroller;
+        return this._scrl = t,
+        t.height = 462,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 100,
+        t.viewport = this._list_i(),
+        t
+    },
+    s._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    s._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = 10,
+        t.paddingLeft = 44,
+        t.paddingRight = 44,
+        t
+    },
+    s.grp_rb_i = function() {
+        var t = new eui.Group;
+        return this.grp_rb = t,
+        t.right = 9,
+        t.y = 583,
+        t.elementsContent = [this.rb_3_i(), this.rb_2_i(), this.rb_1_i(), this.rb_0_i()],
+        t
+    },
+    s.rb_3_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_3 = t,
+        t.groupName = "pve_enter_tab",
+        t.value = "4",
+        t.x = 0,
+        t.y = 0,
+        t.skinName = i,
+        t
+    },
+    s.rb_2_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_2 = t,
+        t.groupName = "pve_enter_tab",
+        t.value = "5",
+        t.x = 122,
+        t.y = 0,
+        t.skinName = n,
+        t
+    },
+    s.rb_1_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_1 = t,
+        t.groupName = "pve_enter_tab",
+        t.value = "2",
+        t.x = 244,
+        t.y = 0,
+        t.skinName = r,
+        t
+    },
+    s.rb_0_i = function() {
+        var t = new eui.RadioButton;
+        return this.rb_0 = t,
+        t.groupName = "pve_enter_tab",
+        t.value = "1",
+        t.x = 366,
+        t.y = 0,
+        t.skinName = o,
+        t
+    },
+    e
+} (eui.Skin);

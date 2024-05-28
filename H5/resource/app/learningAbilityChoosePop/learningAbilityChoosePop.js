@@ -1,1 +1,486 @@
-eval(function(){function Z(Z){for(e=B=0;e<Z;)a<2&&(a=64,f=92<(f="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<Vfk`A:PI;R:Vk;;:;@X<JX?g:@>V;kH:JsGGtbg:BK`:dVQ[]QcJVvBkdcoegVe=QMcw<OSkyC;BQZdRJFPdvX=cC[ZYdeD=lQkZKK<NBFdbxLBlHDCQLPRJ<HsbFuXY;BXEk?[Zy<yH=lM=RpA>m;RPc<CsjLdw?]RHAe:;eX;X:?_J<kJ=ws@;I>fRZ:KK:ZC[BW::SOgD=@:B:OfKebgPCsJ;LAV`<BUI<=N:;fTo>KF:<KhwKJvQOI=>krkwMZpOiQ=;L@[lX>sKGtehGfh=jBxjJ:>_PBoUTZeyKtb>ulFKLlEH_qKneyD^jVdNQ@bFU@fwL]wyCKynoCmPCu_EVdtE:iKSooH=RBlLeRJCr;Jhk:>DmH<P^^lMpuIRL::mV>yrryJC;sDJdPCdV`J]:c;ZiZLZwZZ:>JYFmju:g<cBq;<NBk]Tt;Y^yjnBJ;T?:S[wmkYg@C@EaiDtd]pL];]tkLHL`Dp=LW;ofmnDRjNE:BAZImRDB::Fy^@E;Z=Vdc:rse:@UTZ:@Vc:qNekQk:<FY<kJ<u:g>d]akQ:k;JEs@tCf;?[DLCg@:CtHRamJdY::FmeXdE::>nTUdN:><:l`w>tSa:IZCZ;`XhS]_:DkHKdhaiQd;=e?th`aR:M@a:BQuJQXP?E::<mKPm];lGqQbdPStblL`uOdV?PN>I>Qb;PSZ=DwbCDP<P`:;gPNs=?S^[FFv`k;;UUlAwR=hFR?^WTZKAh_PNL=VGcr_Dark:ABZ::hiVg>sR[jkZIyeA^K[V=eIFreChw]bQ[lzCJC_Jc><Du;]gFXskXJrmZbZ_Ss::Q]e]vt=]GMdBtLb_ETTqR@d@`TLH?<HNtcHfXhVHDUNt<HUS<IZt=E:KM=WLHX`aGBldaOsq^@b;NM>HHXOSHHVpOIRupY:icJuZm=R:<e;KBIGV=c::cfT:BcI>?vsldRCVElR:fQk<BeJ]Z`][BnpLax;LYMxwKbglpCWW;uhYBEk;lHZLLNPBQKZ=oCEc:F><cpsI?wSeaBlbNniwMwl^c@Rl[HPRvsdDRS^_<:wMl:EdggHZAu>?_=eu=w=E_::D[kEJsGASjdqFbGZaaN;drwol_pk@WSqbB=eAwu;GAZ:CFE>@RCGaXIOeqDqGfXnVb<krI:iA_Y]yM<cO^<tVgCQsqhehxexzQQ<hpa=cWrkQVxrrQ<=vn>W]u^^`LmvghMnIH;nmh<zUmkDzhml;hekXw:fKkdgtvA?hEZ=dMW;]xjY>Wi_EqfguB_ZRg:uPY?YUyo=gAJZcWm:jnYb:=yVV>tl<Mb:?HzGouSr@aZjH;V]s`nEe^<iy<V=OpfjQF:^Watk=jaj;yaxftEkA^nC;V;QuanyHX;y_sf[L[[HZ?oABzc>]CHBJq;sK?]BrEfVP:ZOT^[P^RXKbC;<ckpZHTc^w[>A[oKT<R>^`moOKiZDBN:hkfQBE>@BAhD;eBoWD:u]oa:fJ:GLkN:CsSg?xAMZI>kWJw]s:=`FMzO@INyfiCPdZCeNLRKxOU:GBTt:N<z?k::I_VO:SlACQ@O`]VcUZfGccVprbnJPkhKT^mI`:oyLgO>N@]UJ?CFpo`l;yG_eCyL?AvLDKshR]MXdhGLRuUJX:>;y@TQNDJ>o>^K:uSFuSpK[:@=DXn>:QGH>]D?^hPd[xCRGE`ZfYRphUSTb]QgSePMo=j_wSssJ:;TCL<CV_=BBCGCSTMj[MM@:ZG>CMT]]NVf;Mlj;I?DP>@ACCh;YdDnCeo^:gMA_@;;W^V?_EcPkh@KZ;?L_:bvbgEqTX`=e?pkU_r?iaSgkKGK:xF;_:@CqI:<qBaJ[V`kckHort]mcZ:hA]qU`zN]Mv?XSZM:DZKbCI@KcEJH[NU<flTDjJuEKk]htKF[FlRw=DMB]LBoNMIbYHabmztZD`QwrJdPNpRexZLeXFcRp<mdcWFoGcBOpe]Ck=hPezJEeFDaiPMetRyemU;G<UcewF]LQDh`YLccOgzvZBW_vD;IkrS@AMLvAqtZ:t;maUkLONf[<QL:KJ>;XUzSDNu_L`uERUNk`GRae]DUaOdgZUafG^]eq[kEJVLpCTK<QJ:Au^ijIPeN?<guQnRYrC[HSjsFfW[:kZXk<:M?;HGYk@sk:h^>=s@>?TCU^of:@xB[Relw<Y<y?:pdUMq_W?Xqxfti=kPz?hIwD?:BALkdhEsX?Wezi:]KYR:B`LC^q>Xi:CulvAl`]hJk`eGNeepSonCH:::wjMp>?FyQ:PCIUVFiBBv>fCL``<kN:;jlZ;<ao:C=aZ;B;F:CW@Z:LHN:?KmZ::WF:B@KZ:Eao:BWqZ:Jhqgc:JAzREu?Zc:Wy^::L]c:McVCBgV::UmYA:<a]gCyLZ;jAo:GAeRbuMwnt;:R:A:w=l:ZEr:>BgAJIgUBu?gvSHlg;vGc=Z>kouS@s<BNB@B^PeEkkcykURXBV=s;kQh@U;rV<NdD_^y@YO>TSK:CBZUcM;e@gRJL?[HKPeQ[iC:y?NB`bT=?[KyxR_F<Vg?NDL;V`xC:HJ;:R;>RF>>[?]fkOCNg@F;kRk;;jA@PFESFkilnHPU:GSdxnSyUqRrBtucwpBLiYVv;KMZagGW?^[:Ek?SqZ:AB:=><:><<PHsCAUPMkQMAtZ:=Nh;yWgQKCjc@PahSRfps^<@wO[Z:xHhx:PM;IZfVn>::RaoUiu;D_hZ:>ce^M^>UZrP<=ykmlxq<Z:brQss:@Az::Adc:OShXFeV:@VeRbtUDnqEp@>cZ]qqN`NZFhybHBZ;mV?CLZ``;@SFqSdZ?bgn^TUAS^gFrilnXVshyAmrOizVqlkUUa;xiASHuWwvb^Ejc;irWcE^rbj?b=<SpArrYjzXgc:UZG::w<c:P=`:<z:R:NG^:=^wLnkLHIwW>tCoozJAHlShTmP:SJY<AJL??yyk:W[u:<nhU^Z:kAN:AoyZ;Q;k;tscAu;JXmpwC=zaFIs[kvwB^tAilj@::Q^J:sgfZf:GsqMZ;o?N:I^z]`ET]@@:KsAf:>VxUunP]k]HPzdWqD>:kYj?^nSVwAgINYRy:wm>bwAeYo=dwnordAbYNX:;XrJ:dVT?w:Fy;UQDzOyQLiHjIe@wwAUv;YfhTJjGuInbugumxZZ@XSpkzzQ:ta>wP:EC=j`:^Wtkq<U:iAI<y>IrgQIk<QGUEZXqEUGcHQ:vBv>vFv<vTvPvXv=ZEQK@OvIQMvAvN:crXLFrDrHr;rCr:bKLGrErArQj:I;UJY<I@IHI;IVY?IM[TAPAXAUIXYYIBjSzNjMYIZ@jQY:uYYPY=j>zXz<zUjYJFZZ:mZsY@ZgYFAXZcXKZ^ISZbf<zUlSYGY=YDjUZvYP]QZmgYZsJskBJgzYf?AUjNBNB<bP=VJkIP<J:XXhqGe=fC::cHN::Nok:E^`w<<W::s?Q=o::qwk:>i^:;JHo:<wj@IJ:Nv`:;SCN:AUZk:WIp;G::[VlwPg_lo:AcnJ:F[NZxz=:::HN:=dNZM?D@jYy>kBHW:MjM:UfFTOpAtF:Mj=j=ELkJkfR<cmZ>pY`@TKciciTXjOZCmD<S?Ye@TNNFkeW:wUccoL]RcJ@LhIYAcvZ@;IZNH@GCy>`FRdmOhLRpV?dPfXfOZ>ZRfHfC];oIRrn?lIBVHWJWa@kNXICIn:smFWiQq:JQRFaDx>gOxXxEzCg?xSwGx=xQ<Ux:]ChP>XRU<MxJ=:>p<B>_oN]>RiGYaLNLFYEPkOhSG@qYyQN?fPtH:VbG?W:Ml@fPs^JDUBEQqEhUqNk=jKzIMK_M]W:Ee@wPgRlYR<JD>yRVCIOF<@ZL<Js:lXkOL;<V>d>k]Ix>>p_goRl@>vZ:Nd<R=RNo=WJ;ZDNg>aNbxHNs]WJ:LUj:pL::NEBKB=qRs`dTuJNUBQBUJ^Ru]DcDRnq;cCc?c>sBfMcWh<:?_JRRJ:gVRDRPRIgKRDs`RRSARURMRYRA_kCKsCuQ_fKPGVsSsOsFBIREW;B?nLUSsKfPB:PMaOgM:KFyBSFyoOFtN=Fpg;ZNJVBYF[oJgnF^JQkA:CBVghFp;DgxJ@gbBHZNgjZXgmgpgXTIo;kM:=r<:CeMgxFeg[T=gMN^gn;;gcgugr::ZNLX::ZMHF:UgEvH:CZI:WmNu=gEv:=QwATONZ^BuWJ>uUsVZTB?TC:RmUFjtSFjVvTPNcwsuUVxReqUY@]@cKK?]FaFVuRV:Vq>kP<I:DyH:D::>AsULBy<XH:ULDBEuD:DB@kEuF:XBDBDB<_H<kFKBG<d:EuULLlTl=lY<el;<QwPCL<st>y?TULR<yoD:LlGHN>?:<]nL?]`mGDQ@U@NaU@PaCaULXwbsYLPNe:B>fmO@A:H:I]A:E:WD::M`_fC]rQ]?k>k?SmVbg`K`@MP_zaI]m<k?CBc:>e>hOC>dxLZ<hFu`pGibiapGC:aEYIyZe<f@_LRb?`aQaarEzFP<L?>[_:;?u_qJt^>jL<ofGZB?ofG[F<]ORMZ<NbFdE?K^wc<fSZtb]d[KzBr?];wh^Fl:rIB?x@OAYP<NN[@^?;mjQEN:Dh]AYOnDa;DjDfmixAtaxBP<P?Z]Z;]i[`Z]QDS=mbtHOBYFICxPIIFd:f:co]Z>>^S;VlR<ZAN?y?BaXBTgegmiE?Zb]>B:HKO;Dhq>giGEpEi]oOgeF:^E=HlIEOS>ujFdKBLmk@PjB;]idBFq]ivbh<]rs?OZW@v?^^M>_dy@_hNiHpi;udQIPa`F@cB]YIN?@fcgV_aeZ@<MacPhr<yfGZ:ANMFOEPV>`kZp:_e_;:fh`ff<]vRxKQZDfgBWdXcbfTMo[wU<T?kIeKZq[jdJ=BkkJnSck>`m;MS?Zw;mJHURsiUE;uMW;@fhmmfQmwKAE<KInQEjnNSYnzmYEsBeT<TNfh`ZeD;JeWEJ=Be=Dt_fefLmSuTGTU:oeE;?UOfgfxJDTeepf]e?]`fUU@fOeTeSfueQUDfaet[Pef^qfHfhBJTyez]jo=nBU[ftZRUJDsTsfTfSfteBDRNmejUwerUpfGfEFecbTROJZfEgZUDx[mBE[`^ne@VPKD:^TUe]^vfAfmoQf@lreNUJTYeze:UgUZU`nikBSkTY[kuxdBvcUTDRuCesf>U>uNR]LPvo:FU`DV;:TVT[;o_pT@U]Uh<rRvfNuIkpTTUy[>eOunUg;U[BJu>jcqT_;;UR[q[iUXT<Z;UHUfuKT;:UkvTCTJgdUeCbE@Cv]rDYnIE`U:EMUm`GUETJeN;hEnRBfRscfKk^T>euT=vZAnTEDFf`JUUmUQU<fRCAULf=KNvvUrTue?^veafo:PfzWzTHfQfReZuiuREyfz^yvU:cUcvlfSebCdedZ_T_vbTF@Oeg@GeIBguWfVvwv[J^e]uLJMfcnWvD[Dve@seDCpvUemUVep:uvmusFeA@u^vIfdvYedDg:Hu:wu@Xu;eyvAn;vP@sTHAlv_TxAjeSvFUtv^AVU`vzEpT_@puSUTBTuhuWvuu>@I@@UWAaUMvnvEv[TC;UvyUqTAvs_bvfklUDerujsYA@OIvn>jneJzvjZjD:EYE>@h_U:hTuZWUB@xUc@=UtA@uoeMT]bNeN@fTo@M:LAouVAX@p@ou;@IU]Aw@YTYLqfh@rfTAXfuAJvkLa@U:PA[uq@c;UCH@>u?f_uw@yAibeeFu[AKRK@xeUc<uCA]vMf]NmuTLDv[bRfjAC>GvO@DTGAMahAHfJa?[A@=Aze^@ZTM@lanA@AE@=cKfSasT?av@BEavAASugTIar@ZA]bEan?fbvfhuIASAxvZb=uaTMvPURssa[UAvcbzWRaEvsb?u_bQvjZlKHKvEdT<JImQDYu?UoZ`UjE:@@aJ@mSmbkfDbxD@ureuaNQ_ej@aa@QfUPbwAqaRcVvOaia<ApfXaG[yamAYTDArpnaifZvlbXudaSalesUod?biA?eNupbdQ;@hfgvLfWaMMlAKKCAB;dALvSAEe?ARPYsz@pavbbfR@?@bbNUPv=@?vHujaCbxnYbDlzbhPCfWQZQCvbboUbAzPuL`vcQ@bevLT>P:bG@yQIA]bJaFPnugQ<PVP>awPyUvv<r]PQvlTmPy:`poaAEePjvgbElVaSZ:A<bNP_ALbnnk@kec@iQIQTb^UFrOv;PD;HkgeKP^PlPKACPvUovsvIT^P;azU`Q:vOBpQhBGPJqRJkrRTCfZcxPCuOaqa;AFvhaVuEP=f<v=aS@EeTaXP`@YAsQNvrQTTP`AaaTRrYPrbsrtdM@ZqBT;uzacu:Pxq>UcTCvJQRqtvsqcPPQ_@Nqf_oq_Q:aD:_rh_VqPTwrVhBbVPXUwQLqfu]rKULPOZy;eg^aRCSAXR^DdbMD=dbPGJOAve:;lHRRCS?xB@^sLc>oCeBM:CmWDUa[VXLqsW`rha;]Z:?kLkWc@LPT<r`xBH<[<d<`<b<d:M<v<x<y<aM]Z:]al;MrM_]nxF]^l:nox;=I:PPFnpuFT[]d]o<bMoxKKy;q@=L=[lngX;S^nZaTnaaQn^LSe<qdyraDM[^`VOpfd`xjXxBDMoChO]@:cW:?:HTeHdmJLCmWneyD:WD::=]V]imV[mw<z:jpWi=su>uBvBzZr_sYTiTRyYXcRsxVvIK[=]vzVLyLt@fLsmvRX_>f?Ds_=szL`gZNc_:Q;NZMWt]NwJiJhJjJjNuy]kcB;kiosJwW[iUmgKXddJve@atNvaskgPwoxkh<Wyq;pPa;:Q?Z_h@;qx?@?y:FVbcB@ybH<NZ:ASU[v>g;RBPFB:zjziB:XF<WpFtChGFVp<<xfCOxCujidSSV]jUBpEacmjyHDjodJdCiv>f?xITisQuipahi_:aiuZxHI?MjJ=niOdEiBRUiviUJY[AjZTQjODIiC:jiBRbBz?IjFZsXB<`CacrjadZdocrjPYm:yIZdKjm:?loYZigXc;LEY[R_kjYANrzA_HFroZ<E?XY[R`mYRtDYeYfjUjvi@YCDbjaYrjiXA?RBqgRXXXSVyX;X[XKXlX[jyYUZSXFYr[sFM_OXbqrQ@iWjYXeDqj:rGq[eZH[uleH;>ksTBI;iPXCjdYyH`CKiYYSavH_iAHpjGv:z@l]XUHuDgyN:kzJUjakuhr=dZIUHR[vH;jlYF;UBlX?kGDYYZSzYwXiaBJo;>lUkH:c[<zZSJbwTBSCuyIUC_XljF:VjiTlnhVdNtXsSHyBiDTXy_lyz;zZysRKypTlyNYridX?lSzZUhm?z[lFYoROypXpbpyyy;y[zkdWyIAxz>z>X^ySytynz>Sm]`yLSfz>HeWHzdjoYsSKbyjNOzcrobuXxODV`Nz_h;zs>:zyE:YWf^lWRrxiy>`=YZzqrsNlk;pPBz:YnXsYw`BV:ZIGzr;ZZ;_;ZQG:RlpQttOZ;H:nQgpqT^s=B;>zGI^:GB?LxtyIzF:B_kfRdFmPXkB::".charCodeAt(J++))?f-59:f-58),B|=(0<(f&(a/=2))?1:0)<<e,++e}for(var U,B,e,A,f,k=[],R=1,v=3,u=1,C=[],a=0,J=0;;){if(Z(u+1),2==B)return C.join("");-2&(A=B)||(Z(8*B+8),k[A=v++]=String.fromCharCode(B),--R||(R=2<<u++)),C.push(A=k[A]||U+U[0]),U&&(k[v++]=U+A[0],--R||(R=2<<u++)),U=A}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+learningAbilityChoosePop; !
+function(t) {
+    var e = function(t) {
+        function e(e) {
+            var i = t.call(this) || this;
+            return i._data = e,
+            i
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            var t = this,
+            e = new i,
+            n = PopViewManager.createDefaultStyleObject();
+            n.caller = this,
+            n.clickMaskHandler = function() {
+                e.hide(),
+                t.onClose()
+            },
+            PopViewManager.getInstance().openView(e, n, this._data)
+        },
+        e.prototype.destroy = function() {
+            this._data = null,
+            t.prototype.destroy.call(this)
+        },
+        e
+    } (BaseModule);
+    t.LearningAbilityChoosePop = e,
+    __reflect(e.prototype, "learningAbilityChoosePop.LearningAbilityChoosePop");
+    var i = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.config = {
+                0 : ["攻击学习力", 1, "btn1", "ev_attack"],
+                1 : ["特攻学习力", 3, "btn2", "ev_sa"],
+                2 : ["速度学习力", 5, "btn3", "ev_sp"],
+                3 : ["防御学习力", 2, "btn4", "ev_defence"],
+                4 : ["特防学习力", 4, "btn5", "ev_sd"],
+                5 : ["体力学习力", 0, "btn6", "ev_hp"]
+            },
+            e._selectIdArr = [],
+            e._choosIndexArr = [],
+            e.skinName = "LearningabilitychoosepopSkin",
+            e
+        }
+        return __extends(e, t),
+        e.prototype.initialized = function() {
+            this.btn1.name = "btn1",
+            this.btn2.name = "btn2",
+            this.btn3.name = "btn3",
+            this.btn4.name = "btn4",
+            this.btn5.name = "btn5",
+            this.btn6.name = "btn6",
+            DisplayUtil.setEnabled(this.btnConfirm, !1, !0),
+            t.prototype.initialized.call(this)
+        },
+        e.prototype.initEvents = function() {
+            for (var t in this.config) {
+                var e = this.config[t][2];
+                this[e].addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTapAttributeHandler, this)
+            }
+            ImageButtonUtil.add(this.btnClose, this.onTouchIamgeButtonHandler, this),
+            ImageButtonUtil.add(this.btnConfirm, this.onTouchIamgeButtonHandler, this)
+        },
+        e.prototype.removeEvents = function() {
+            for (var t in this.config) {
+                var e = this.config[t][2];
+                this[e].removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTapAttributeHandler, this)
+            }
+            ImageButtonUtil.removeAll(this)
+        },
+        e.prototype.setData = function(e) {
+            t.prototype.setData.call(this, e),
+            this._myData = e,
+            this.initView()
+        },
+        e.prototype.initView = function() {
+            this.tx_num.text = this._myData.chooseNum + "项"
+        },
+        e.prototype.upDateView = function() {
+            this._selectNum = 0,
+            this._selectIdArr.length >= this._myData.chooseNum ? (DisplayUtil.setEnabled(this.btnConfirm, !0), this._selectIdArr.length > this._myData.chooseNum && (this._selectIdArr.shift(), this._choosIndexArr.shift())) : DisplayUtil.setEnabled(this.btnConfirm, !1);
+            for (var t = 0; 6 > t; t++) - 1 != this._choosIndexArr.indexOf(t) ? (this["btn" + (t + 1)].selected = !0, this._selectNum++) : this["btn" + (t + 1)].selected = !1
+        },
+        e.prototype.onTouchTapAttributeHandler = function(t) {
+            var e = t.target.name,
+            i = this._selectIdArr.indexOf(this.getselectId(e)); - 1 == i ? this._selectIdArr.push(this.getselectId(e)) : this._selectIdArr.slice(i, 1);
+            var n = this._choosIndexArr.indexOf(this.getChooseIndex(e)); - 1 == n ? this._choosIndexArr.push(this.getChooseIndex(e)) : this._choosIndexArr.slice(n, 1),
+            this.upDateView()
+        },
+        e.prototype.getselectId = function(t) {
+            for (var e in this.config) {
+                var i = this.config[e][2];
+                if (t === i) return this.config[e][1]
+            }
+        },
+        e.prototype.getChooseIndex = function(t) {
+            for (var e in this.config) {
+                var i = this.config[e][2];
+                if (t === i) return~~e
+            }
+        },
+        e.prototype.onTouchIamgeButtonHandler = function(t) {
+            var e = this;
+            switch (t.target) {
+            case this.btnClose:
+                this.hide(),
+                ModuleManager.hideModule("learningAbilityChoosePop.LearningAbilityChoosePop");
+                break;
+            case this.btnConfirm:
+                if (this._selectIdArr.length < this._myData.chooseNum) {
+                    var i = this._myData.chooseNum > 1 ? "还没有选择两个需要注满的学习力！": "请先点击选择你要注入的学习力类型！";
+                    return void BubblerManager.getInstance().showText(i)
+                }
+                var n = this._myData.petInfo,
+                o = this.config;
+                if (1 == this._myData.chooseNum) {
+                    var s = this._choosIndexArr[0],
+                    a = this.gettotalAbility(),
+                    r = this._myData.addNum || 255,
+                    l = this._myData.frame || 0;
+                    if (255 == n[o[s + ""][3]]) BubblerManager.getInstance().showText("你的<font color='#ff0000'>" + PetXMLInfo.getName(n.id) + "</font>的" + TextFormatUtil.getRedTxt(o[s][0]) + "已满，无法注入哦！", !0);
+                    else {
+                        if (3 == l) return a >= 510 ? void BubblerManager.getInstance().showText("你的<font color='#ff0000'>" + PetXMLInfo.getName(n.id) + "</font>的学习力总值不能超过510，无法注入哦！", !0) : void(255 > r ? Alert.show("确定要将精灵的" + TextFormatUtil.getRedTxt(o[s][0]) + "提升" + r + "点吗？",
+                        function() {
+                            e.chooseFun(o[s + ""][1], o[s + ""][0])
+                        }) : Alert.show("确定要将精灵的" + TextFormatUtil.getRedTxt(o[s][0]) + "直接提升至255吗？",
+                        function() {
+                            e.chooseFun(o[s + ""][1], o[s + ""][0])
+                        }));
+                        a - n[o[s + ""][2]] + r > 510 ? BubblerManager.getInstance().showText("你的<font color='#ff0000'>" + PetXMLInfo.getName(n.id) + "</font>的学习力总值不能超过510，无法注入", !0) : 255 > r ? Alert.show("确定要将精灵的" + TextFormatUtil.getRedTxt(o[s][0]) + "提升" + r + "点吗？",
+                        function() {
+                            e.chooseFun(o[s + ""][1], o[s + ""][0])
+                        }) : Alert.show("确定要将精灵的" + TextFormatUtil.getRedTxt(o[s][0]) + "直接提升至255吗？",
+                        function() {
+                            e.chooseFun(o[s + ""][1], o[s + ""][0])
+                        })
+                    }
+                } else Alert.show("每个精灵的学习力上限为510，注入后将默认清空精灵以前获得的杂项学习力，是否确认一键注满学习力",
+                function() {
+                    var t = [];
+                    t[0] = o[e._choosIndexArr[0] + ""][0],
+                    t[1] = o[e._choosIndexArr[1] + ""][0],
+                    e.chooseFun2(e._selectIdArr, t)
+                })
+            }
+        },
+        e.prototype.chooseFun = function(t, e) {
+            this.chooseFun2([t], [e])
+        },
+        e.prototype.chooseFun2 = function(t, e) {
+            this._myData.fun && this._myData.caller && this._myData.fun.apply(this._myData.caller, [t, e]),
+            this.hide(),
+            ModuleManager.hideModule("learningAbilityChoosePop.LearningAbilityChoosePop")
+        },
+        e.prototype.gettotalAbility = function() {
+            for (var t, e = 0; 6 > e; e++) t += this._myData.petInfo[this.config[e + ""][2]];
+            return t
+        },
+        e
+    } (PopView);
+    t.ChoosePopView = i,
+    __reflect(i.prototype, "learningAbilityChoosePop.ChoosePopView")
+} (learningAbilityChoosePop || (learningAbilityChoosePop = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/LearningabilitychoosepopSkin.exml"] = window.LearningabilitychoosepopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imge_bg", "btnClose", "xz_xyzrdxxllxzjdsxxlz", "tx_num", "tx_learingNum", "btnConfirm", "imge_txTitle", "btn1", "btn2", "btn3", "btn4", "btn5", "btn6", "Learning_ability_Choose"],
+        this.height = 499,
+        this.width = 1023,
+        this.elementsContent = [this.Learning_ability_Choose_i()]
+    }
+    __extends(e, t);
+    var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "learningabilitychoosepop_imge_btn_0_down_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "learningabilitychoosepop_imge_btn_0_up_png",
+            t.percentWidth = 100,
+            t
+        },
+        i.labelDisplay_i = function() {
+            var t = new eui.Label;
+            return this.labelDisplay = t,
+            t.horizontalCenter = 0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "learningabilitychoosepop_imge_btn_1_down_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "learningabilitychoosepop_imge_btn_1_up_png",
+            t.percentWidth = 100,
+            t
+        },
+        i.labelDisplay_i = function() {
+            var t = new eui.Label;
+            return this.labelDisplay = t,
+            t.horizontalCenter = 0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    o = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "learningabilitychoosepop_imge_btn_2_down_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "learningabilitychoosepop_imge_btn_2_up_png",
+            t.percentWidth = 100,
+            t
+        },
+        i.labelDisplay_i = function() {
+            var t = new eui.Label;
+            return this.labelDisplay = t,
+            t.horizontalCenter = 0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    s = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "learningabilitychoosepop_imge_btn_3_down_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "learningabilitychoosepop_imge_btn_3_up_png",
+            t.percentWidth = 100,
+            t
+        },
+        i.labelDisplay_i = function() {
+            var t = new eui.Label;
+            return this.labelDisplay = t,
+            t.horizontalCenter = 0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    a = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "learningabilitychoosepop_imge_btn_4_down_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "learningabilitychoosepop_imge_btn_4_up_png",
+            t.percentWidth = 100,
+            t
+        },
+        i.labelDisplay_i = function() {
+            var t = new eui.Label;
+            return this.labelDisplay = t,
+            t.horizontalCenter = 0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    r = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "learningabilitychoosepop_imge_btn_5_down_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "learningabilitychoosepop_imge_btn_5_up_png",
+            t.percentWidth = 100,
+            t
+        },
+        i.labelDisplay_i = function() {
+            var t = new eui.Label;
+            return this.labelDisplay = t,
+            t.horizontalCenter = 0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    l = e.prototype;
+    return l.Learning_ability_Choose_i = function() {
+        var t = new eui.Group;
+        return this.Learning_ability_Choose = t,
+        t.x = 240,
+        t.y = 99,
+        t.elementsContent = [this.imge_bg_i(), this.btnClose_i(), this.xz_xyzrdxxllxzjdsxxlz_i(), this.tx_num_i(), this.tx_learingNum_i(), this.btnConfirm_i(), this.imge_txTitle_i(), this.btn1_i(), this.btn2_i(), this.btn3_i(), this.btn4_i(), this.btn5_i(), this.btn6_i()],
+        t
+    },
+    l.imge_bg_i = function() {
+        var t = new eui.Image;
+        return this.imge_bg = t,
+        t.source = "title_pop_2022_img_482X286_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    l.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "title_pop_2022_btnclose_png",
+        t.x = 439,
+        t.y = 1,
+        t
+    },
+    l.xz_xyzrdxxllxzjdsxxlz_i = function() {
+        var t = new eui.Label;
+        return this.xz_xyzrdxxllxzjdsxxlz = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "选择       需要注入的学习力类型，直接提升学习力至",
+        t.textColor = 8631026,
+        t.x = 20,
+        t.y = 45,
+        t
+    },
+    l.tx_num_i = function() {
+        var t = new eui.Label;
+        return this.tx_num = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "2项",
+        t.textColor = 16765477,
+        t.x = 59,
+        t.y = 45,
+        t
+    },
+    l.tx_learingNum_i = function() {
+        var t = new eui.Label;
+        return this.tx_learingNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 17,
+        t.text = "255",
+        t.textColor = 16765477,
+        t.x = 416,
+        t.y = 45,
+        t
+    },
+    l.btnConfirm_i = function() {
+        var t = new eui.Image;
+        return this.btnConfirm = t,
+        t.source = "learningabilitychoosepop_imge_okbtn_png",
+        t.x = 171,
+        t.y = 219,
+        t
+    },
+    l.imge_txTitle_i = function() {
+        var t = new eui.Image;
+        return this.imge_txTitle = t,
+        t.source = "learningabilitychoosepop_imge_txtitle_png",
+        t.x = 37,
+        t.y = 3,
+        t
+    },
+    l.btn1_i = function() {
+        var t = new eui.CheckBox;
+        return this.btn1 = t,
+        t.label = "",
+        t.x = 36,
+        t.y = 80,
+        t.skinName = i,
+        t
+    },
+    l.btn2_i = function() {
+        var t = new eui.CheckBox;
+        return this.btn2 = t,
+        t.label = "",
+        t.x = 179,
+        t.y = 80,
+        t.skinName = n,
+        t
+    },
+    l.btn3_i = function() {
+        var t = new eui.CheckBox;
+        return this.btn3 = t,
+        t.label = "",
+        t.x = 319,
+        t.y = 80,
+        t.skinName = o,
+        t
+    },
+    l.btn4_i = function() {
+        var t = new eui.CheckBox;
+        return this.btn4 = t,
+        t.label = "",
+        t.x = 36,
+        t.y = 149,
+        t.skinName = s,
+        t
+    },
+    l.btn5_i = function() {
+        var t = new eui.CheckBox;
+        return this.btn5 = t,
+        t.label = "",
+        t.x = 179,
+        t.y = 149,
+        t.skinName = a,
+        t
+    },
+    l.btn6_i = function() {
+        var t = new eui.CheckBox;
+        return this.btn6 = t,
+        t.label = "",
+        t.x = 319,
+        t.y = 149,
+        t.skinName = r,
+        t
+    },
+    e
+} (eui.Skin);

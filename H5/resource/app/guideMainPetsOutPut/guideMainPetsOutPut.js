@@ -1,1 +1,74 @@
-eval(function(){function Z(Z){for(A=J=0;A<Z;)o<2&&(o=64,l=92<(l="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKwP:LZ=XVL`?KBJ;:^@l<:z<rB:ACZKnWokZ?khF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@AoP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBA^>m:_wi:bJkCZkHF<WJ[?UiN>Zw<=kP<?poV[lS:A_:WlR:;M:HHn:UU^l[>`s^I?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwB;nC^lsi:;S>:=@SkW:>VSFW:n<Av:<>SJDQ?sR[uJokwFDLGDfADZnwmI:eB_I]JL;oDP>=;eyrZu<RR?lt:B:@g;Z:t>::PnZa::shxYZ<ZL<kK<cXZ:Fcg`Z<NBoia=LBlHDCAJPRJ<LsIJDXY;BXEk?Z:RQZj^ZwMKqBKOO>DHtGJ>aA?TZ@V::eZN_CsMU>:BBgI:VorV:;>;;:E::Q^[a^Zi;xZkVK`?FHJ:Dk:D[et>aIpk@igDRnPSkV=kAlkZZ:c]kI]u:;BV=[FZ>g>:YH;ZV^kGL:g<@wHZ:Z:CPOAR:Ba:JCFzjShHebLvrQ[IPcSGSOV@J@cvH;ZkBNbloR^eicpmA^b;ZA[Qbi::ne]JZXElLj:HEc::m[<mAWsAldt::<cV=@fvj_;smicTWSJB;Icn;Rt;VBTL:V:Jhnea;E=c<qURWiJMsjayq?YZoVLzbwA=l>kD<sXqbT:S;o?JAwsl^euAuO]lIf]Z:oc[m@cX[Tf[IT:<Fk]]SednTfw=Mn:PKvPbVOmmYR^JVGRbZZ<LSD>HePUk;mA;j`[bvYiKR;zZ;k@ZVKBmFO;F?kJ[PT<P[lM_bkpTp]w=SGbKyAk:ofKkIqE<=]H<M^dHounhkaAqR?bUlBJIUcDZH;aJ:ubZi=V=u_nZ>Ks@@[ysn]`lIfSMuJt^`:Rs:CByiOIDCXymOWb:laaYSd>z`S`ANUKsSsJlM>kTlv@VWlYAv[Jvb<MN__mhk:;<g^z?KG?k:V>[w^wzm:fFkfZd<>DD?J]:c;ZH^LRwz=;`w[q<]WcCbPDt:AJDlr:ixccJZacMVFxIp<jxtroAJBIw_WsF]d=a<]D>kZA<]]dSB_mL><JPRRweHLFCT@E?@BLaO:`c[S`sE=mVodlhA:AKW<]YJ=>FkZ^@FREMAF<kWggenfA:ikv?g;lADdGkQIVF_rB[ggIVwfnjIgHRC;k_n_HqEmMf>`Ticpa=ez>ajTtSdc@sp==BrkHgWdU[jeEsH;CIUXhk?UnisBMhjisv^PF^RD;CF:A:z;:htqlUyhHwm:lCAvFXXovuPioRkU;L;R<cA::=oV=Y?:wXorbrpkqx<G]dD:n_G>ACBF@qkaqUtXjQxOVJ^Q[[DS]tGsiBqauVhwqp<QFnZD<l^aFPdU``ZeR:HlKpaHUlEZa::CmrZ:nD>yISDeirv<F]i;GLBEm_FkH?rZt=WkVJ:".charCodeAt(R++))?l-59:l-58),J|=(0<(l&(o/=2))?1:0)<<A,++A}for(var k,J,A,B,l,n=[],D=1,H=3,V=1,a=[],o=0,R=0;;){if(Z(V+1),2==J)return a.join("");-2&(B=J)||(Z(8*J+8),n[B=H++]=String.fromCharCode(J),--D||(D=2<<V++)),a.push(B=n[B]||k+k[0]),k&&(n[H++]=k+B[0],--D||(D=2<<V++)),k=B}}());
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+guideMainPetsOutPut; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = GuideMainPetsOutPutSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var e = this,
+            t = SpineUtil.createAnimate("sanzhuchong");
+            t.x = .5 * this.width,
+            t.y = .5 * this.height,
+            EngineHookManager.repairCanvasRenderDrawMesh(),
+            SpineUtil.play(t, "appear", this,
+            function() {
+                t.play("preview", 0),
+                e.addEventListener(egret.TouchEvent.TOUCH_TAP, e.onClose, e),
+                EventManager.addEventListener(ModuleManager.TOUCH_MODULE_MASK, e.onClose, e)
+            },
+            this, 1)
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onClose, this),
+            EngineHookManager.restoreCanvasRenderDrawMesh(),
+            EventManager.dispatchEventWith(AwardEvent.CLOSE_AWARD_DIALOG),
+            EventManager.removeEventListener(ModuleManager.TOUCH_MODULE_MASK, this.onClose, this)
+        },
+        t
+    } (BaseModule);
+    e.GuideMainPetsOutPut = t,
+    __reflect(t.prototype, "guideMainPetsOutPut.GuideMainPetsOutPut")
+} (guideMainPetsOutPut || (guideMainPetsOutPut = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/GuideMainPetsOutPutSkin.exml"] = window.GuideMainPetsOutPutSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = [],
+        this.height = 570,
+        this.width = 903
+    }
+    __extends(t, e);
+    t.prototype;
+    return t
+} (eui.Skin);

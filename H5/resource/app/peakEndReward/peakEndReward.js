@@ -1,1 +1,431 @@
-eval(function(){function Z(Z){for(D=B=0;D<Z;)C<2&&(C=64,F=92<(F="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B?_fyrQKmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNqkGoq>:U`NpHYJHJHlpRxIUYZ_^ouivM;Rs<Vfkil::Tk;K;B:`?vZXCv:<>SJDQ?sR`u><ksFDH^>wBeOP[s:ZVAHI]JL;oDP>=?eXrZu<RRAu>ZBbnkE::V]::ETR^szYu:g=l:=DpCR?`<CECzN]FM]]PsX:>k]>?riZNwy<JwQZE::kj;YA;sd[_MkT^DMbEN:e`Q>pQ:GY?I<:VQ^<?ETiJJI>J@do::[:=aUigbHlV?hWJ:K[vvX_bY?jg:sbtJlJ_BK[b[RZm:J_sI;q[CdiUPY>:KFZJ;CSF<WCFGMHqB:GMkEqedRcgAgX::Qjv[H?=dVtXABxAhTlmffKBP@L:IQ:rNlo<VP:;O:dBKrlXB;w];x:g:=]A=sHiecZ:g[ls_kNBXJ<llybm?cH;G^uXNGv<k:KUZ:=Zv=RBNhApub@Vi:QI:`r=GVw:S=o:;Nw=NIW;k[RV<^N:[dbaV[RGJx<pABXRsZ:<MZC:p;k`xOk:KZ:WZ:CazPcdMv?[o:jDwCn:SVBm^S]:;_>n]WGz<Rx:OJTRSday:;;:;dD;j`dOwc=yUs:AOCEyKLtqaOxCHZvsc<fJhOCzV[mofH:TlXAxjmvPOfbBX;HKkXw;rm;>xMi:pvFVtmC]h@o@CFgmGNg]Se_vYNAZ_REepf<SQDA:wRNlB`dHZ^ZH<Q<VPEI:ceqhC[zLF<]TB:S[cZ:P:;HIZLhDoe::RTdD]eTB:G^TwlxlD@?=:jQ;m=ADBW<F;fnAJRfW^q<Ko;]A]s<^CWR[]M;gmy::dI;Kb]XU?fyFxv::=NIA^<lREdm@mq=o@YApoA:C;ZA?YRi^:AdoKRRln;:Rk@heZ;PI[Lg;hezczYvnATReDe;aAzde^wRY;wkH>k<]xbyZ:yM:H=q:;eI@H@>F:^:s:;T<^M::A^k;ZJ?C]beVkI:`:cn;F=L^DgfZWo_l@a]NX>CJPANMKh:czJKRoEKi:TmQKS`i^djBXG@bBLgJ?a=[Z=kXComX?sFLROKCE:F:J@gNLVOc;>O`<@nBf`Cg<?UM?xkwvhvHWprzGl;]xaLh@DGDhe[>kGeDfynus:x>_OUk;:o@gTKDQi]WUnMi:OGpr:y;yaHsz^KIN@M`:FyjViCmBj:IKkJKq[R:;uY[NS:KiCLLYeV>@_;[f:IZ]Uq;pZpjIp=iL<ZKsBIo:>pF:BIZk>l^Z`@A^pm@gM;i;:Faw::D`zKiTEoGYm<]EXP=Ci:=y>BymScmfHp<UZrO_H;AkHzRglnQswrSEO;;N>J<Z=:H[AUQ=s::B[SEzYFJCm;fOnA:^__<HnV;ZPm:gAB@=cCzdZc>a;K=qrq=<B;G:F:MpL:uF[B=u<F>JZ]RcJZl=H@_EB;k]ZPTA=?c]:klZn:P:<GV=[n[:^i?N?sGZj[z;P@>V>:kvkw?zmkV<F>==BKk=KC:H>u^[kuZl:XY_IG;JRbBHdIsN;<luNI?:A]rkenY;s`:P__`=nY@FC:k:i>e:?G?J:She:<MxFaZ:xMo:ACmZ;lMN:>QT_<c@:?iAJ::[@:>XZk:=iS_o:AtiZ:FBo:?RlZ:KhH]S:k:;uT:;`MJ:qFu:=:WFaZ;RHN:DLluM:;<qQ_k:Qse:=JtJ:`Ce:;<ggaZ;KrN::wuZ;cto:D:;XM:=[qc:MHp:=>uc:VEWBAa:_HRmlp]`DeQNcdJghB:;]Rl^;@@D`KT]?OzcNOeZpFTt[hbNMqYx@]Y;zd^Ms=g]t[mTEAGFDVck^N@dhLe`KTtdnn`NQqOVatjnWbzBHN=Stfnr_YF;[=HtYm:OAGiYVo?[nBsbEiPwstoD^b:ciOV]]nmsNZjqRVatCmSbImziJOwjZJ<]KRBoKJG=T;ZFw`?D;@=`AkCdYWX`^KNAIotVZyBH<[QzoBVJZHuCaNNGe<JT[MSm?oIr>k_Js[C;gE_:cJJQ<?UT?oAk_kFm[?i:NDBiKN:I<LCwAsVpdec:[>NOwP;zxJJeeoU<;DL>=nuIU>JZNtCM>LK_bC;L]mpBTLZ?dALX_=C@KNdZT;L^[OnZf<?HDoLs<NiOgCI`P;:@DhcTmnqWZHQCjziJQGR_;PsHWYZv;W;TpBI?NJsJC=dP?hcCJyOuJSQDhoUk:Jn=pNk>pKkbOA[dUud<Ikspg^vOH;GN>Lp>^j=LEhVilp>Jc<S??>_HOTK@kvd?G_QB:v][B`oSN:w=dC@G@TDoMFbKiZkbu=LP>k[[]^:BCF@RVk?[E;P@gH:Hlh]UAqESEm^l[[gg<BBq=pk=Tj=<AkFOD]rQbcxMchm_BL^uGKDBJHklgKyrlBL?BlC^@;gd=mX_MCF;cTEFaU_GC;>y<GA:LL;:rKC^A@cM:BBzdSc=NDRxPJlJL`oGD;=W[pTodODF?Z>shMioBy]JkKB<:M<M>TRhW`SFTkNtXSMjg:ml^eEGW:ip]CoSad_KWIDuO]MFQw<lO^jZqEgJsdlE]r>aAL>aH:=Bndum]HGWBeh>nC`MAf=F]v>>idNSmFVHC]l;SFd?iMxohRup]o[cqCgnRPmhfJl[pEtIHUaXtalm_BofIPPFYn?;:j;UM@?wnPPJ;];w:JH:>:@cbrLDZF_mdo<Vbif>KGI[hkwq]Yy<VZ?SkZLQI:;_qhzJH_Z[uEVIFzl^ZPxHCU]tHBJLZ^hkJeaogF`RhX=]qOTKF:S<yWwwD=b<<d`WsudpncV>i^n<wNJAgFasDx]PC:fgrYRbxx:JIbgZyCSVxvbqMdbJih`:AJIsWse?dm=Ze;IZwrdVwBVhtKMXZ:Be?NDhk<e?>efAEiUguNEPJjK=ldM;<HA[nnVbBWs<lrOjfY?HJEUtr@EVKRdXPvuh<;e?w>TRLqWV;<J`ra[;N`SEmNNfOtSNUhDuQocSOLASx;M_=B@?:R;BVramaWKc`tN=h`jEtT<aKi<JF:;AuZ;@co:CEPZ:RYw:FcCZ;rKN:>yuZ:yyF::=aZ;mMN:?;mZ:?GExs:BEG:;jdj_k:enT:=<Fk:Twe:>;zZOp_x];bOCwIRIPygNN@lJRUShcn^RpBavxHto<JFEwQojUwB=ApjLGqj>rFLJGdDVVv_=J[IlYazDvFQond]dJ`yhwJfhFgvT:a=CUy;CffOm^_<=moeDinPl^=TaqCRBTqxh_:yrWgIQNIhSuiX=dpLk^OFZhPH:bWkaP;f=;@g>YHtW]uzxl?uZd?UN`oA:hp[KlGxoNZXo^pWpMpu?vwEpLZfo<GUolBAoMZbpQdrcyZ;ZIojplZdZhR:Gf;`[OZ];p[GZkFddBFcdnZSFU[k?A[b[_FbOapoFp>_<gFjO@?EoiWRJ_doJg:C:LFnGmG<;DGLK:p[ZeJTKUF@GWwZK_hfJ_:fgPGXK]FJ:HFiFXGo:yF;Fzdo:^?d=KGs<lK;;G>;;a<C;=G?G`GX=BJX<]KUZpxHg^F`GGKMG:dGhC?UkH:mKAWF:OKslcluN>:TtcVfh<lC>pkGSKdWZMCEFZWm;`dwpo[s]HVXW?hyWJBABZg[WY<i:xg:ByWtl^hkB]^XKOG:s]?`SWSn[s^U_NBoBFBgCP^VCwBP:fgVBcKkZ@Cy^btQtXhCxKKdwk;Sw`<HJO=Nh_k`xe:]pOxxGpx=xEJtwhwiJNgp=_k=wd]KO@pO]CNqodNEwlFxofw?On<V[>=>d_=wFUo[gF<PZg<HZV=Qpw<[ZKZ]<zpwC?Zm<ZGD<JGe<CdkF=ZU<@<pxsFpxwgkZx[hF>[vkzhb[nSR[jZtl<lF;sMs[>LCl_LGJoM<k@:]>y;VMolwMoMp;Y:V:_[LLNLs:<MDMV;f^]MTMmM<kFtf:N:_[Z:H;WSygLL;BuL@Lt<@NCN;LwMNLDLtVaL^;B?s:<::]k;AWat^Rc:KL<;qt_l@tO^p<XKm;cZ@J_;d`FLTKgLzBWMaFXKA<][y<[l;<bwl<Y=oZKMd[k;o:_[SMKWSgc>hg<CS:aww_hh;xo;[wc?EGfF_;UFw`Bhd_MC]BZhck<;uNgZg:agUwXVDBc;NJMBjMo:gnulGgcBzL<:axwmHgZm[wXRmm_]tc?cUG@Js;ene?YJt[fRk;FnNKkgD;vWRZIMP<<hm:uxR[rWdhJmG[=Rs;^S;mXRL=ok`[B?YMzMMZw_WRQREVs;c_JJCRy;ynCnO;HJSnzotmm<?mcCZnJnB?Omw;pnGmCS>^Wmdm[nzKB?@x`mv_Anxn=nY^tnVmOn<;fmN;UmdJIndno;Smz^rW?mLmrnEnzmUmy;;GZDCnAmjnL=BDnnDnawc>fnsDhn[;vn_ExmyxrWnnjMlnQZxnJEkDYmnhjLtLTsutc_mc_DDDNDkD^mBEMnhguDVE:D>EhmJD=nqEjmMmcD:ngDsDyDwDWn<DeDHDTDIKLDgERDpmdDtSW[M;J[B<xoW:E;nxDZBM`]d<M?O;E?xgs:HnfL[=B;FJJDXW^EeGz=:^ywPKKKs:O>gn_lZkc:p:`GFontF:[FGt:eyKaWTDwn=:T^oKUESEvDKGRJ:hkeb;;>?MbE>pQD>[rDZJd;^FenYDIKzEnt@cRRC;GsTBTcgokeIK]nLnBe;oINRfPEO:seeG;[>fee`mK<Nf?LZ]Gw<WFfzsc;joIKMZYDzE;?nsTBIkIl;?GsJtJfO:DmJmemufvw@fwhDDPfM<>fagFE`eifDJXeQDVkrE;eP;M[gcle<eCfF;@cDfZfLcDeBdkmunBm@mgmfEpeJDXBJ;:l]BADqeD:Qf?c?<a<i[aBp`@KJCGtB?`Cj[pd<lzDQRqkoReCm:j_IkacDCkRmcAt;>o^>oY>:`Z`k_c`wUFZfRq[UedfzdFU=_C;nsLdSfF;j`DfMDPnFdEWEDceUDGfAnN;PnEV:UM>V:s:@Dg;TC;?hGs[V;F:mdPT:fvetfuUm:WRQZp:q[o]sk>lemqUst@ZIeXTFJyUO:yC@[[TAKBh_eC:S;f::]hTUw<Bq[Pki;vc_:YevUdkHnukxTc:bTk:QUaCfJIUvUiUuepGXTJEzU:urTJvdl[TC:IJQKF:SfDf^=X;AmXJdKPMCMqMdMeMSMtL^eOLw:pLXJGLPhhLx]S^h]ZgG=xLc[=M^LgM>MO]TvWLTJfEG>N<;<RlpOAMwJMBQLrLIMB?Zl:nC>w`_^AhRmAKsmaKaB_nQUykonpkIJam:hC>GuZTRZZVmnGEhEg[WEG>M]=D`]cFs;[UO;jEOf>cjfRfnDEUo[ZlfTKZlUTsCTf`DJzJechk:uhKWnRsXSm::JF;^FN:JWwNSfLcy:uCieoeyfMeID<:h]PhjEwfzEdUSUCTxTw:hvUvjOvuafm:heM>e^QvKUlUF;E_dTVsV;e@ju:eDBOUGs<N?fN^WvAh=Ukv:tjfYfzfseAKdu@KQvkUo;BT@KcU>p=kp_bC^GetzD:uIuJfDKQRoSNvN^vGB><N@dzDo^DUqZDBqceBM@TBDC:SLfe@R@ovbtDDG=gv;LqM@L<utMv;]uxmmuTJGLquxL=L^LhZPvnMeufMrNXuvLyvK=O<nF[uXKQM?[Kvluc>GlhkH:dvTn?dcnQf:mcBgCcm>lSvo[DA`@Bs^=oZgAuAaAtetuN:?vrM_mOupthuZlGkWkaaOSQeqanEfkTBqahggCHaHTqnjUwDhDn]^vE=xDGFU<fupvi@peBv^TvEAv;AbuIKQvNe`M^ejZ_AgfoAle@UF;vtDdaT[FBd_bPa<ArB?b@e;nL@S=buPbNRa=bB:uPlQUfJOKclxSAff@bEGboeMe;eIE_aKeffzEGtzcDdNuBcN;?ctavvfaMUm:zu:]p:buslQeDAbTraZu_;IbaCxSqc?UGtJS;?tv>nubaCy?o[ZU]CHaYeze_;[aMBiaCl[aDOdKTP_;sQ<A>PyA@QoPEGob]CKAQTC@dAB>S@t@`F?@NepAgUm;aAn@BsIkecpQLd>SmTOdB?:;hhN:?`tJ:WPp::mUnoRdgm]deFWD]c_T^T_RTDflggXRYRWgQsTSStTiWsW_cSR>WThFM>Y?TJ;[e`YgG`WNSKcOTOYy[OUOTeZpSDgoXpV:@OxJ:PLO::BVo:=DxJ:ITx:::coU_:<@bJ:HVM:;<Do:A[x<IJ:=Tn:;PunpWGS]:FUKaFWFYFSig^aSeWWxcnIWTVEtRYij:MfyWucmdG:wh[XB^qXicHT<gr`HX`?SUZ;uViXvVxXBUiRd;@@lYXUlTyYT:d]cZoRqVAV;XAXmcD;i_UBkXSd=[Dc]^uUZ]vXA@QWiXPWxVECZ^Z]lWXVrYlW];rYDjrTHeaks:S=PlR<@iB^N<nDrgnBjRHSkX<e^WSc]]Z>@TtjjXggPW_dJzMAvTDUf_k?dlOdXS^cyXrU`ec]<jDYkxUVWRTZoUOca:pgP>cQpc]dxd[SpgQRYX]eKUGjJ>?SRxYhhjhiRsF^bEkX=ch`=hpeJuf=>yl=^jJ==jaVYVch_wPA>zWg_z^j]gMiMi[R>?gVnddAq<::".charCodeAt(K++))?F-59:F-58),B|=(0<(F&(C/=2))?1:0)<<D,++D}for(var J,B,D,n,F,m=[],k=1,e=3,d=1,o=[],C=0,K=0;;){if(Z(d+1),2==B)return o.join("");-2&(n=B)||(Z(8*B+8),m[n=e++]=String.fromCharCode(B),--k||(k=2<<d++)),o.push(n=m[n]||J+J[0]),J&&(m[e++]=J+n[0],--k||(k=2<<d++)),J=n}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakEndReward; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = peakEndRewardSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.adaptBgByScale(this.bg),
+            this.addEvent(),
+            this.list.itemRenderer = e.PeakEndRewardItem,
+            this.updateView(),
+            this._resize()
+        },
+        i.prototype.addEvent = function() {
+            ImageButtonUtil.add(this.btnGo,
+            function() {
+                ModuleManager.showModuleByID(8)
+            },
+            this),
+            ImageButtonUtil.add(this.imgTip,
+            function() {
+                tipsPop.TipsPop.openHelpPopById(172)
+            },
+            this),
+            EventManager.addEventListener(e.EventConst.PEAK_END_REWARD_UPDATE_VIEW, this.updateView, this)
+        },
+        i.prototype.reShow = function() {
+            t.prototype.reShow.call(this),
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            var e = this;
+            KTool.getMultiValue([123249, 123309, 124266],
+            function(t) {
+                var i = Math.max(t[0], t[1]);
+                e.txtLevel.text = PeakJihadLevelRulesXMLInfo.getTitleByStarlv(i);
+                for (var n = [], a = [0, 15, 35, 60, 85], r = [14, 34, 59, 84, 85], o = 1; 5 >= o; ++o) r[o - 1] < i || a[o - 1] <= i ? 1 == KTool.getBit(t[2], o) ? n.push(1) : n.push(0) : n.push(2);
+                e.list.dataProvider = new eui.ArrayCollection(n)
+            })
+        },
+        i.prototype._resize = function() {
+            t.prototype._resize.call(this);
+            var e = 1136,
+            i = 640,
+            n = egret.lifecycle.stage.stageWidth,
+            a = egret.lifecycle.stage.stageHeight,
+            r = n / e,
+            o = a / i,
+            s = Math.max(r, o);
+            this.bg.scaleX = this.bg.scaleY = s,
+            r > o ? this.bg.y = (a - i * s) / 2 : this.bg.x = (n - e * s) / 2 - 224
+        },
+        i
+    } (BaseModule);
+    e.PeakEndReward = t,
+    __reflect(t.prototype, "peakEndReward.PeakEndReward")
+} (peakEndReward || (peakEndReward = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+peakEndReward; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.ARR_ITEM_LEVEL_NAME = ["初入学徒-神乎奇客", "热血英杰-百战豪雄", "无敌猛将-不败战魂", "出世天骄-巅峰王者", "宇宙圣皇"],
+        e.ARR_ITEM_REWARD_INFO = [[[1717451, 100]], [[1717452, 50], [1717451, 200]], [[300697, 5], [1717452, 50], [1717451, 300]], [[300065, 5], [1717452, 100], [1717451, 400]], [[300065, 10], [1717452, 100], [1717451, 500]]],
+        e
+    } ();
+    e.DataConst = t,
+    __reflect(t.prototype, "peakEndReward.DataConst")
+} (peakEndReward || (peakEndReward = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+peakEndReward; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.PEAK_END_REWARD_UPDATE_VIEW = "peakEndRewardUpdateView",
+        e
+    } ();
+    e.EventConst = t,
+    __reflect(t.prototype, "peakEndReward.EventConst")
+} (peakEndReward || (peakEndReward = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakEndReward; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = peakEndRewardItemSkin,
+            e.cacheAsBitmap = !0,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.dataChanged = function() {
+            var i = this;
+            switch (t.prototype.dataChanged.call(this), this.txtLevelName.text = e.DataConst.ARR_ITEM_LEVEL_NAME[this.itemIndex], this.list.itemRenderer = e.PeakEndRewardSmallItem, this.list.dataProvider = new eui.ArrayCollection(e.DataConst.ARR_ITEM_REWARD_INFO[this.itemIndex]), this.data) {
+            case 0:
+                this.currentState = "canGet",
+                ImageButtonUtil.remove(this.imgGet),
+                ImageButtonUtil.add(this.imgGet,
+                function() {
+                    ItemManager.getNumByID(1717451) < ItemXMLInfo.getMaxNum(1717451) && ItemManager.getNumByID(1717452) < ItemXMLInfo.getMaxNum(1717452) ? SocketConnection.sendByQueue(41900, [71, i.itemIndex + 1],
+                    function() {
+                        ImageButtonUtil.remove(i.imgGet),
+                        EventManager.dispatchEventWith(e.EventConst.PEAK_END_REWARD_UPDATE_VIEW)
+                    }) : BubblerManager.getInstance().showText("很抱歉，道具已达最大上限，暂时无法领取！")
+                },
+                this);
+                break;
+            case 1:
+                this.currentState = "hasGot";
+                break;
+            case 2:
+                this.currentState = "NotGet"
+            }
+        },
+        i
+    } (BaseItemRenderer);
+    e.PeakEndRewardItem = t,
+    __reflect(t.prototype, "peakEndReward.PeakEndRewardItem")
+} (peakEndReward || (peakEndReward = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakEndReward; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = peakEndRewardSmallItemSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.dataChanged = function() {
+            var t = this;
+            e.prototype.dataChanged.call(this),
+            this.icon.source = ClientConfig.getItemIcon(this.data[0]),
+            this.txtNum.text = this.data[1],
+            ImageButtonUtil.remove(this.icon),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                var e = {};
+                e.id = t.data[0],
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this)
+        },
+        t
+    } (BaseItemRenderer);
+    e.PeakEndRewardSmallItem = t,
+    __reflect(t.prototype, "peakEndReward.PeakEndRewardSmallItem")
+} (peakEndReward || (peakEndReward = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/item/peakEndRewardItemSkin.exml"] = window.peakEndRewardItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imgGet", "imgHasGot", "imgNotGet", "txtLevelName", "list"],
+        this.elementsContent = [this._Image1_i(), this.imgGet_i(), this.imgHasGot_i(), this.imgNotGet_i(), this.txtLevelName_i(), this._Scroller1_i()],
+        this.states = [new eui.State("canGet", [new eui.SetProperty("imgHasGot", "visible", !1), new eui.SetProperty("imgNotGet", "visible", !1)]), new eui.State("hasGot", [new eui.SetProperty("imgGet", "visible", !1), new eui.SetProperty("imgHasGot", "visible", !0), new eui.SetProperty("imgNotGet", "visible", !1)]), new eui.State("NotGet", [new eui.SetProperty("imgGet", "right", 23), new eui.SetProperty("imgGet", "visible", !1), new eui.SetProperty("imgHasGot", "visible", !1), new eui.SetProperty("imgNotGet", "visible", !0)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakendreward_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.imgGet_i = function() {
+        var e = new eui.Image;
+        return this.imgGet = e,
+        e.source = "peakendreward_canget_png",
+        e.x = 304,
+        e.y = 29,
+        e
+    },
+    i.imgHasGot_i = function() {
+        var e = new eui.Image;
+        return this.imgHasGot = e,
+        e.source = "peakendreward_hasgot_png",
+        e.x = 288,
+        e.y = 36,
+        e
+    },
+    i.imgNotGet_i = function() {
+        var e = new eui.Image;
+        return this.imgNotGet = e,
+        e.source = "peakendreward_notget_png",
+        e.x = 309,
+        e.y = 39,
+        e
+    },
+    i.txtLevelName_i = function() {
+        var e = new eui.Label;
+        return this.txtLevelName = e,
+        e.fontFamily = "REEJI",
+        e.size = 17.978091852322,
+        e.text = "初入学徒-神乎奇客",
+        e.textColor = 3285801,
+        e.x = 12,
+        e.y = 7,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 72,
+        e.width = 237,
+        e.x = 9,
+        e.y = 31,
+        e.viewport = this.list_i(),
+        e
+    },
+    i.list_i = function() {
+        var e = new eui.List;
+        return this.list = e,
+        e.layout = this._HorizontalLayout1_i(),
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e.gap = 8,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/item/peakEndRewardSmallItemSkin.exml"] = window.peakEndRewardSmallItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "icon", "txtNum"],
+        this.elementsContent = [this.bg_i(), this.icon_i(), this.txtNum_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.height = 72,
+        e.scale9Grid = new egret.Rectangle(12, 18, 3, 2),
+        e.source = "peakendreward_smallitembg_png",
+        e.width = 72,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 52,
+        e.width = 52,
+        e.x = 11,
+        e.y = 10,
+        e
+    },
+    i.txtNum_i = function() {
+        var e = new eui.Label;
+        return this.txtNum = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 0,
+        e.size = 18,
+        e.text = "100",
+        e.textColor = 16777215,
+        e.y = 53,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/peakEndRewardSkin.exml"] = window.peakEndRewardSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "btnGo", "txtLevel", "level", "imgTip", "list"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.btnGo_i(), this.level_i(), this._Image2_i(), this.imgTip_i(), this._Scroller1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "peakendreward_bg_png",
+        e.x = -224,
+        e.y = 0,
+        e
+    },
+    i.btnGo_i = function() {
+        var e = new eui.Image;
+        return this.btnGo = e,
+        e.horizontalCenter = 393,
+        e.source = "peakendreward_btngo_png",
+        e.y = 548,
+        e
+    },
+    i.level_i = function() {
+        var e = new eui.Group;
+        return this.level = e,
+        e.horizontalCenter = 267,
+        e.y = 60,
+        e.elementsContent = [this.txtLevel_i(), this._Label1_i(), this._Image1_i()],
+        e
+    },
+    i.txtLevel_i = function() {
+        var e = new eui.Label;
+        return this.txtLevel = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.1115648999384,
+        e.text = "四位字符",
+        e.textColor = 16373062,
+        e.x = 322,
+        e.y = 11,
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18.1115648999384,
+        e.text = "当前月度竞技/狂野模式最高段位",
+        e.textColor = 16777215,
+        e.x = 40,
+        e.y = 11,
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakendreward_levelbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.horizontalCenter = -178,
+        e.source = "peakendreward_title_png",
+        e.y = 364,
+        e
+    },
+    i.imgTip_i = function() {
+        var e = new eui.Image;
+        return this.imgTip = e,
+        e.horizontalCenter = -298,
+        e.source = "common_help_icon_1_png",
+        e.x = 72,
+        e.y = 567,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 411,
+        e.horizontalCenter = 270,
+        e.width = 440,
+        e.y = 108,
+        e.viewport = this.list_i(),
+        e
+    },
+    i.list_i = function() {
+        var e = new eui.List;
+        return this.list = e,
+        e.layout = this._VerticalLayout1_i(),
+        e
+    },
+    i._VerticalLayout1_i = function() {
+        var e = new eui.VerticalLayout;
+        return e.gap = 8,
+        e
+    },
+    t
+} (eui.Skin);

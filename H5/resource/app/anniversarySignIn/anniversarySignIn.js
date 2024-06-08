@@ -1,1 +1,360 @@
-eval(function(){function Z(Z){for(P=E=0;P<Z;)c<2&&(c=64,A=92<(A="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DI:@bKws:LZ=XXL`?KBJ;:^@l<:zAAB:ACZKnWokZ?llF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aos:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBH@slFZCIEZCoF<RF=^:bNBJqv`;B?ZZwYhpoV[lS:A_:WlR:;M:HHn:UU[S[>`s^?`GgMWG[:@tOGQbo=_=gWKHnqnZELvIfiokPH>bDwC:P?^lZH=:<V=P:=DX::t]k:CBgYR:J^D;Lsj=>jJZPA[[LKdORtL@pO>DDk>[wL<JH[LkZRhQqwAJM=:JrBwNJB<RLAJ>DwE::Za;q_R:Blw:;FY::nFDyBElJ:PVk^Rts:;XV::g]:pFSK::^F;sK::RKRu=oBfkgJ:hZJx>SlI>xIm:Hl<Z<gJc:U::HI]cBoaoDaVETrN@rr]gpkLrPqrqdqihoHvq[zq;bOu[<@sp[]pPapsHrwuN:;_EzHWsdxaV=XYhKSEfgM`R=Y<=TRnX]n>SnoVWEjW<RfvXMnWMBVn?anNXfIU^QcAceAEWAXa`swv_znhWEtWxoef@yEdS?:xrMVQuSrew^iYngUv=XQXt^jVxxxrnTbavEfsQBzIlhG>vQ_yFvr_DIv;byvTQ`qNurj@xvneXjth[qOvWdyquOiyytp_XLSBK;URfi@T@kVyzRvi;fRQ]KF>rgyguNJKpA@guoAf^P;tYZHneIZPQ?sTlO?Ealh>VWHWswQlV@FNCq@VQPa?uEln?Ee[WA:Xuga=ed_A>R;rSkKKlcb]a[@yeC;_Y`lLawYCz@sYXD`aLlmbgN;>bkOCi`hdSTsXMCMb<S;UfiX[GbrauY@YcCX[KMtje[PC:Q_S?o_FP`x_RP`<O^g`[_SQHkO>P?S?lgS=utPtyQPRdJOSJCJOOQtdAoXOMNiLCdOhOdAQ=iSldCOSH?Ud`sPHJHwPWL?rPTOt]QdL;_rKK?mo;bDt;Ti:::mVJwbm:f<ZutZ<ZP_fL_DCp<eD[U<guAcbTDoe[TD=e]cxAf]eDbqa;h;::GT=::V]:te@::K?mQkzAw:CZF<RDJ]kJD:mksF<D>GCojo_JlA>]Ju;RkZ<IVdm;Csy;BI>w:gIew<yA:wLRH]]EBi:eECBJympChPeZicX;KA:L::;CaZ:DjRP:kfW:<]jl@aeE:ZD<Yn_GsOJe[kwLgb:whl<FsknEEJGJ<esk:<B:DfUUEY:gnkR]vUwL;DmfTjeacnj<yJejcIe`Il::JhRBGZxksF>@csI<HJB=lI>yh@hh[;SAwr;kD<GE_HEA:h=ZLV^HEslPzeBhJHEQBn<MQ=u_ZA:>EVi^[ENlFJiTvh;oku<b<kOg?>ZVVCqL?=L:rV;;yZE:<H_hYpsrFy>FM>^A:wtHcBAGGor:=IlCsB:_]I;=>k:ofbA<=rvDegZN:;e;xF?N:d<ePAerNDWSjyR=iR]F;;FHT>>sBERZ@g>sBk[RGebA]D:_PgZ:=]SlF=w_kH:z_@p;[a[aCwRPpJLTRIJ?=I:tde][@><rNa^lO;ypn^:ukVk`L@;zaBB>A;N=zMZIvEZEkVM_>UZ_UZodyMYLx>RGoscXUzo:R^>;pZ:=Nu=]Tp<FH=>]ABi=Zn_SBZ;J<P<mGFAkjHR;N:JoyGwQszl:KJ:BB^D:Zkc;^:BEclaN:p:g?;H^SKe]EJS_oWcuKk=J>@H:BJI:PcN<R;[BDWibWiuxrvbZJXw;nJV?y>YQqb=T@ZFbegYRQJk:xASbZM:[Sx]]Z:AlsAqAZHKV^[;XFVRZx:a^X:DH>F>oCsM=;XBOFeBHA]t@hItHowZBLU?WHti_AkE;s@VG@So]CNM?tp@ZU:[;L<SUEEsMcaKc=T`UGPWRFPcBV;B=;=Z>RRmkaEF?BQGqegk;=oMZfW:DW@[lAM`mLRs;b_@rBIeUTskZLmmZ?m::u`m::L[UD:?gBKV_;Y:fSB;j`ZA]Ie:yL:hfgHPXJ_aewmRr=^e]x?aEgQzPSh];>^hwK?FtZJYRWnI^ioXV_pCXgQ`jEMZNftIn<vzF;V<o?>EcPkj[R]t?CDFN_bCU]fSPZH<M?aRJvsC=aA]=sPcBHs;K[kAHRLYXL;hOZ?qcvHs<fC[:[a>Jmod<wQm]iHM:[q<Q[B>dY_=>UGB=?Dd=nKdSlyM_?HIbPPmgi`FmPQuxSu:[K;fn[jNGB;kqKF??@ZZMMKKld=P@`:>Uc_WpO`rAiQ:>a=r^j>WCG=hUSDbjUD`beGPAEZXags=:C;LGoUBa>M[I;o];=ZKO>Cs[K:RGkB>u;Y=UJsD<;tt;uuZZ^[zTu[RrL?]?B:<LW::otc:Utx:=vYc:YDO:<z:X^V@Z:E?N:<tuZ:kjN:AvXZ:@CKIR:McW:=Y]c:T=`:<Wdc:EaO:=vuc:FBn:;fmc:DU`:<bdc:GNp:<GL^AHsOTu>FHOGNXptBwbW:CHub>HZjNJ;RCZH:D]p@V^wXRCBHAj>K`wOcok[lh_;EoT:wdq:??D;PBRi_C^F=ZnFM=LlwGf@qIgRstlwKQAiIK]gnBUAoRlFEQ>_h:wb_f=fKupa@eEPkTeFrBJY;G`KH>IcC^;:^@gYRx=<lVGf:wY;AR`ZW]EMeEKbBpJMB>:g^SESzTCZ:<_lotAZm>lsjZ_aCvLUvfCwhwbpQhcASFOMuAk]r<owFjZcaR^RViBkhNTZM:@HJ_TI?rLN[w<kuNcN=cuIJ[RENydDk=Zc]LIsnhc=C_N<UW@xRhQoZWhqWR::h:`sfWAN]?`JMnSfEUo<FXs:JGdbbN@?]NFGuhKnn`bCHQz:nd^^HkmgMR]nx^@sc:k::FM:D=H:JdYIZnoIGi[lnMbuiRwRxUt^GjVXqpSrUkhT;ASHyWZt<qUjERiXJDBxEVFqYkrBZZ;]c[WX`<iDvg<`hrU:Osj=@]BV@Huv=zJwI?gbB;tV[S[[BrhV]x?ZZab<lhkER?shkQ>`mStfoi:hb;MejASHuWgvtqEfQMWOW@uWoAiIQkFxOuvqIhYSyfxZ;Mwo:G=iZ;`;F:HuD;Jp:>>ZmfZZFk?ZtnkDffQT[pSq>[;TYQr;ckfppFe?bt:LCt^BLrYEwPeXlGduP[buJaXqS?@n]WfnHWeqty=CWYHppUfrNX_x?uUrrd?wyxxrutWDspyfrQajhY]pMzfkrVJBJasP@Uug?j@?XthlTHr<A<:Nwok`ZEKUs_[XAcnmrnIHM][xlnaW:YdowyQYngIJjBx]t^y=HINj>zDxMmbjQuYFzTsP=bjITZ<xq]EpUpjdXBn`sWtQdrwehNudkAe`UxE=Q@hGWNC=;LNMh;z]NPjJPrX[S:<ceHN:<FDUJqB<JYgfQKYNm:TjTjI?>:X`:fS;YRTNNfYRVfHd:dQCGGCdDpD:JGDtEdSsO_C:UhEkX:VZE_N:<WF:>;<W?NEHVZSOD>KcMs>lTcFZn[>PAXXBBZ_:>HBWUZCuCKWBYpW:C:qGO:]C?Z=:f:hcOJI:rkV:CZ_ZltVZ`ZLZhZDcPHSOXZyHCZ`Z]hNNSo=Z]ZEZd:nGIZkk:J__BJb:oJZZ]JoZuJqJuZ[JiZ[Z`JukOZoNGoMJicUJaRD:TNXSVSYZkJn:U:_Jz:wJgJmJqZx_@J]WHJaZlJ[ZfvF@Hk[k[oXpL[WX:yFzHBO=T`I>?>RdGNQ:VZS:=ZUcHfMf::XZLB>;Ikuo<Pg?DDurs=mkc<q[GMq`t<F=k:cmlbd?KAL;J=:<QlkoZL>:?=`>LBCLcMbMy:p;zaD<>=>:uIu;eKo?eH>::<ck[wOAN]NYwS[OGo]FJw:jw>;i:RJ@`co_=G>q^I=f_K:w;=]]]e]::X;oSRzRZZLRFo=XM>AkKi<:Y_IJEiENEdF:XtGPIq<ZwBekj[LELP@B<HJ:X`x:;vnnjJW>:>dGJ:XyOzp::PMN:Aa?J:A:C:;IEo:=ZnJ:IuG:;CKN:?k<@HYRANAXYuYREsi:<:BNIsdZ:>bcs>ltN>gBeZyJm>lOT>jkV@;>ix:gG>n>r>k:XSW::zJF:@qpJ:WpgDL=[eLJ;TMuLB;KKaMPLz[qLF`J^E<XLEOyLsM>MUoQtKLzpgLVM:;RZo:=GfJ::=_ro?LeMuROMS:@MdJGM:MhMHLxLT<=MFZ^Lvo[JIJnL<kEp::ejo:?YxU>k:FJgRtJ[[Sj^P?q?H?xKi?T;<Zy?wS;?[>IKK?l>lK<kt>q^b<O?Q<rw]mH_j<]WUdvxQWSFqNo_j?Qxn]xZh`w:aJfNUN_Jy;qVzWHxA`:xZwOpJx;VBwKVcxlWRwbp::nrN:AEtYxJ:QBn::oMQ:n^IPEQ]CKNqUpqFK@D@K:s=n:Z>@m@rP@`ZLnkADPDrP@DPDqVGvM:AvNAPALVA`JyoHqHn;];l;lBrG?glUD;l[n[rTnYIJ;]GN@KlL?;k^=zBfIB>lq`Aq;KAeEe<SrLpTBFOc_Tne@aPOLzHW@`@W>joDMu;DMDQDMDkelR=cpN;JAVOk>RluPUruKTQDq@NfDiCMPPOEH^KRfTQRfJHCoB;NLSnBlP=sgiB>hMNZj;_xr;n>fRc_diOolt[kfaL]=_Nk:x=R[HG@pscNfoFsgRgRPRg@ORd@JFgqLFiO?>fFjsgPOi]gdUnKr_jFgCo]JVi_h_iVhgjipRlt`;E;oK;kmq;hr];EC_iUlgj>h]@Lq<cFJf<sc]iEn_dwhhmS^]h<cH;iILNeCcqg=cleP@QmPBgkpBceJcfeKoeTMohVefHzDSlFdVfgfZ@t`AKlqULTNdATlqLeHvMk<N?vDbQvEbPvm=ptqAB?r=q?p?q^k`o:<ZtGxJ:V<O::^Rn`o:>Z>k:P^`kG::X<l^^o=AOxm@etp@eAEvpAHacbHAqYJPeOq^IzP:pQEjHZp:P]lonjGmh_QiDV:ReaNy?kcgcwhA^yfaQolRqJf^Piq^Lucc:yfqJ:=wsUqfcoyethoZKga_`:^FbgiFnGQhEFQ:zhcpngx:gUHGMGnFrgfFKgZRnZa`]ULTMFhhXFfGOEo;nhgWYeS_t_EDdDah<UKgL:v]weXhN>w;MnHUzerEEDCTJTpgqFHG@TQhaT<UBUKhqUYhOTa`;UifeGS?KT??lTZTiT<VufhFD?K^mR:fcEHJWm][S^H?gRY]SCKUFT?UbhVU`UNVP;yK]UIBAJQT@UrTDUwTjTngr>I>x:usxJ^KNmP:>:kJWMVxfUWmK]G]v:UWjZOO]?UTwJXRc;I[guZJp;;Zs:rWN;uSRZUN@RBscRd:s;Zv;[pWo[wvONgo>oVp@RMwPv]>quV::t>`eRo^;Du[mpyueRiJz:wu<vnJh_;=nJlv;uP:XgvnivnJwDUch`OusEF:ZmKKC?BhHnON<;L?pn<OouEO`NUNVvx^TOB:g;TZ[:ivdvp:S;f:Btw;a`CJ=[thgo_pVpHEO;j_g?QvJoDpRtV:s[i;kgw>K[ZpquzvHuSSvWMul]EO=v]>_[pO]eg^k=B<b;e_DgeenZn^RDx=cTu[RUwfF:b]lToZRT=vfOON_KnTovO:oA@Agud]l:=<rOjmcsUNPn=T<:Qwp:;@DnF:]uLumuDus:evRZTuPUuuwU@vkfyAOOzms@<sHuaRanKApAREG@?uTS=Eo[Kv:sCu^sK@l@q^Su:>^@s[O@xA]?znZWLl:U[ABsbAnKzmk>r@??Ll`^X;`ut>xvdDpAbARDp;QuBswkN:RtNuGnovqms;oAnKfvi@Y=WAfAM:[@fAx@E^@Z?ZiK=tAAgb?D]W[_PtJ[i;hO@shRWRN:gfV<GgVUW>cK?:e;>;xhCu_]UZKVrUPb>RcKabgUMFqaoSm?i:;ala[aP;Kpdb:KlbF;K:m?ehqSVRg[>[uOhTD:GbwRV[@;upWm;:l:ASD[Vud_@ZaZP[M[qZw;H[_GqSt][[u`KZC[dZt[tw`ZrvO[fnWZWZhZ=Z^[P@EZETyaEW>bx=Q[r[xZr]>[?NF_Q[^hR[SRfRBKF:sQsZ>QOR_P@SNPBJ@:Oay:VPzZwPoQp;Y:V:_ZLQ_PxSmPp;DP=a]PTPmPBJy>U:N:_[Z:=nsZ^n]PI`TQwPy?NR_[aP;QPPDQV:IAs;JTAh]]s:a:w;f>KQ]]cSKb?bSaNS;[m;c[nJ_;kSh[FP>PpPmTGQkJcJhPgFi@gK?GVJjx=OLKPttONSg>`Z_ZO>:LzGkSPTMpbff:V_Mo@fJKyK:qaEJJ[KJr^EJKKKBqpwi:JqKVjDP:Br>raxUFRrNr@>Fk>q_ffD^JNrVqs:FkFrkRi<Vqi<<qi<Lqlt@s:qKVap>VOgMojU<lar:fjTqr_v_rHrYnPwXrUGdKyrHKbJ[qi:rKKqP:AJCqIJCq:;H<Wz_Oh_QEqz_AG`WZh`W_h`WkWtWxhog;WwWrWfhlo;WaWcxrhyGyWwxfrCWbwfrGWxhcN=WlxfWlxbWixn_?o<WxoUxeWwx^FPx_]UGbh^FSxo^BoOxw=x:Wxc=co>WzxcoJxbw^FIxt=coFxh=x:Dxn=lW_=coOWj=x:Y_F=yXz=m=o^c^a=blY=y=b=d=q=c^p=[^z_==t^v=[^^yJ^`yE^_^o=w^o=e^e=fx[=aGX^u^aGO=jUMv=wi:AhhQ>QDHRp>xOzAGpz:hpz>hpzWxggwhoshkmhjMe:>hggkWiNMZcz<tM:SoPW[FAaGsyBQ:S;JgPW^k[oPW]KWB=vF@Bo:ZPHfBE:>kSiZEAqj:@;xBMpilFErSZEFvNE`XZENNLEiwpadEnXy;XRCZGJ>EeEv<yX<XDXOEbaP]JftixEjHGJPEbEmZFfnElEiEZFISvBJaYRl<xaUdQdikT_;qncpJD:REilAH^=Rd?sGs;O]J:EEfq_Mc]JJzYODnfoWhHPkHb@[ienC_:ZO:Av<JXnlns^dDEwanqG?nqWisF;BgPWwZJgSoNLPEQaN>:UxOA;_UmcKOwZ<UiRfc[cja?wlUg@yP`dwatKen<EwHx@<JRAOuNv_d<kPvjfubPEkUqyZRSsT?gUhvubLUlqaU]nf:SoYUqOkn;SdPbUGUykO:FHsMHsAUb:S;R^isRA=kqWooUXggGoVZOWdDPA[E[vcta`CvpApvxvvfyRrmlvNpsbmae:LRGcJMNAybn:Cu<vqWjAeAtuPGTN=o>vytcJYXRqbbqpnBi`SvhAcQeUcR@Pk_HsPUsz?^wpCUcb^q_beJR@haiQ]J:@yQhyPu<JF;SoY_EQqAaffEzQnzCAsUZQ]JBInAuUwdxmyQggNLUXZ]fQbO`:Unx:QnfZYnskYmnC;UAC>f]ZBGvEiwcGmfojgGifefdG_jfSCGwjijhGpjJj`<mDz=`jpEIGaG=j_L]=^jghzjuG;j[:gsDjxd@AbQjpZjsdKvcr]IwZL?PZTIwr]ZDYeXAvjBlCC:RdhJFRTAvAiUqW]v]u?I^UZyH:::=PJQGPC=Z::>pfzrXdUjYm;eYe@zYm:bdaYZVih]gAKIzwDNIEfFuAB;<C]BhrRj]AkmC=VNXcrJQ[^kytGscqD<YZ:YqIkHZ?icjYviek`vspB;UjPIdgaqtt[AH@:yQ]zn:MXwB;RU;AfIqxLk<Qisr;:VEoyuhwcqJc=YhUogt_=Yi=qU:XEoWuLwmyPrOz]JCdsw<=i?:zYhJD^SpW>XzIH:NkIW^ExP;bY<XG@os>sxe@a:ZbaEoOe<<w;`Y>JPzk_@iFrsNIDZMflftJ<@o<ZlZX^qN@B<IVMYXGdcEati[wXxj:A_nLWsfgK;AjRZJtldsX=tXyrF;:a@pv:h_eQ:PZUnoGvo=^Xw:lkLkDJ?lh_qUZsz<>Gs@>xj;i:ylAsBB>;=K;JJn:?_BHt[=e@>zDBP_E_?o=_X]JdJTf;N@d<bDE:NN;_Fgt`=W;z:zJThqgnAhz;nzDbaBGDAvVn;?J]BMBDvs[Wt;VzKJXJ@q[Cd[RnJtkOarksUwiZKc:vD=>LKZCkRDc:vIq_y<Z[u<X:FAbk_RMBCxiFOE:H=:nRL:U[lMK@@l[FK@ZzZtkasTaQf^h;bJ=cPFE=^i<TG>omTCSH=pD@ScAJ?JpW?NEN@ZVU;LaHkP^oP?T[`[MZcjarl^JU<gyqkwoEgERkA<^[v]NsXVCgMDZf[ZBgMAVBy@S:b[sB?sJUAX>N]RZQkhc?Sny>iZ:K=kyG?ckJStdtXPsVZC<D[vJ^B[gBjj^In]>k<@[<kdRNZ;PAc]p[u:WcTZEmER]W[L:IRJLE@;>]xNCBmsYm@i@N^v[JT@_Vh]knXg@KR:T_VmBj]g^Y[zks]ErP;AzpJKQtBNGD:[?J^E;eZ:Y[DBGtL^tydjKq]ImBsW<g:=cKoWoHPu:x`TQ;JRTUN?<;=L;^csAFnn:La[Ui?UX>QnnaAq<ZlbK>FKkCO?V=kl_RfkMZBF?wR]T[JePcaHDAC^tXMIDA[aCptOhglwJycR@HR?axO;OUFFWJnE?zWclIZmQb@Cf>C^[[CJ]FYmBx;d]WuFBahj`nXmn<>[QRtBMqCNdtVV_zRlkbUmA>Hwy[]sskLFHy]G]AJNZwkTDHDty^Jy]Bpv`AnK?p;TB@z<AcP>W@yF=KWkEnZU>ntj<^JHYG@bx_URQBHyEUN<Qir:`Wh[yuJEqaImqKXpdJ_>]x]k@W;BMUFUcG<Sm:W<RLi:AcA<Lk?bUsM?qK>qj_OnrUJLD:avB]R[E]vkLxqe>q]PKHIRRM@CF>jWh[GRaNLxqX>n]NyErT>MXC@yS<KzAk_jlKC?>j]O;EZ`FM[CG>efeAJRbmMAqE>dLO;BsaeLDH[RC<WaqobthWCLczLQCEjBFW?Cl_wM]dEF`JWpC`_]^^lBo_SZ;Cx_z=`dF>bFWLCU>e=gKrob<CjCK_i]StGFbyLDH;cvmWSD<bSgvCG_vGctD]btgQCM_aGHtDs`<VCCJ_j^jdIW>SM:dF_o=[SI<btgkd_]><a;LLva;KK=UIAIebU>;^t[yR`Y]g]:aOM^wlRfJUaKjvbxSquQIF:kFn^Sl?y@:RsLZ@s:Yl[JhoJNHXLkA=]w[OaDMiyPyk><ZKq^M]_zpGcjwryUNg>Mp^f?ZBhdFBg<MXHZ?[wXdLJdcRyD>aqS;gENxkSsIr@t=DlUq<<XHBsd>=ulkJgRYjqrfX^ndbB@RQNI=upMilkR^mV[CJ?Pwh;QJwgJBEu>?=DXDotuPhC@?`=ZVmj<kQhFYUOL^docieTcG=fx]BSho]gW=FXakn<;<F_cN^HJLTxNSOsxhfNF`@Rmpldo`BV=IMSsmUdY:eTYWIu>ZnslwFmVRtkd`;`rloZbQZ[Bl`r^@[EOFuJ[ES`v]HS;scAhnCSmwm;DSFZPXxGX]R=D;TFfhZlCQ@W]:Susc@V`HJbH[SSqJjJNANO_kmzFVFpPYnEXbmxdJUoTaUWmxcgMxSzojFR=BE>gnHJUcVqSGBOaXp]ShgoaJvG@AlxsBIj>PTc<xcVMISlomPYDF_bBMzTOonBXnCm@>nfScVwsNNEYsNmElRRGqXqlsaCmgSIgyeWxGka;mclkVrkQbEi:?n>Svo`@MAFyZun_C:_]iRnD`bFmMShaPWbQF[ax=Vt:kduYUDM@HmkKEA?Ia:_v_on^qE_riRUDS_U]zSwULuP=Hi`mngtNFwXMnFbbqNBtZg^oFEFQa`n^qjoyaKEBVAfn^SeV`bD=EJ@W<gt`g`UcYHObAnemdw^PKBBQ_`nKSt>wPUaCGtOmVSt>_XJMBI_[mCtCF`iXMIXbHmkkqxLyV:iISonzK=FhXYrBra=mYdmcbXSbEr_YmRl^Vy;PAFJQemct>Jh;N:f^`vgTCewvqNUGx_>EsqocT;YEEi`>nD?yVcRWIF^`Z]d;;cmRKZd;`umzdLVyyQZgY_pnjTSg^HPzGBNx<fSV<cyJZg>PjM[?;rKIfsq^`QmJSAguKSQERQOmOq:VtKOZAl_wDVt@]vyOchP`zmSlwwesXBgRQAg>td]jiLbBNPH[i?ywgXJsdy_emMtJ]gyVEE>OWmPVtVblUZfwNfgIJZLg[LHC=dGmvSsLbKKMFp`Jxc`Lw_@MrI]PgDAtv<dyMxHAbPEW?xVr[OzG<Nzmsy>Lt;LvC^btD^?GvN;TiBLQLnAqqwpyMRjY`eEItBLyGa>hz`GET?XLklKBjjTWD=SCLiKPNcNNjkN`Jmw[SElh_<Eb?>m_KVqHW;YMJugJv;QYHl_mLjVKRs[Lcch`fDo`yJ^CXACqOuDx`;m`xbFexbZEn?_<eLTggt`wEG?O<vKRQIX`nnb`FLnxgkiDNYEL`?]hx^wcU_UEv`p<aXPuIIaZe<`QiDKUYE:NbM?`FDe<NcgiN=EO?jmidTFcTNjLZOwjQCMACW:jDcCC]f?OocPPCE`CVDqdLFixd^E@`qLtdTZjMAvDkOFJvlRmjaOJfVOQmsLXbFCQOEKtu]][YweqOwnA`kHIAbJjtOofGCUmaKV]GK>=nNt:AE>OgIO@T^=[qc_sUeIGMu^=KmPD_NmFBKa^uKUkeoQTdS>z=qKy?KoRhGtAELwDy]en]qFwQ;LhOocbOQDCuPXM=Oc?RpY]GGQA=]K`eg_SyBX?@^fKxetsKTDWPdfQOUB[oR<HtAH^>@WRplZDd^bpZ<`VBZuURHlNL;JpEDcMd@dl?s^x[gTbNPVBMP@:_pCcapVTFX>HeFpgJSpVadhAY<VpABnpYaePai^Nl;?DAaPeFQ?hZpwzPhX@cct>DC:akeGU]Bp>lf<KtehhXq]hOqeqFITooXahX>=egphchpUaet@zoJKKT[Q_P?bN;eodKc<?LDjXPjW`pXepxW;kUQKfapiuyGJXgMQPfU[CuaBELIGAbf@KJuf[<Hjh?^ewpWu`oJycx>J]ncdT`xLSFQQn=jpy<zOQ;rzOUeMOJ@]pL;cvOZU^peTe=RucjNiefpcu^pV[jZUrfsyJSJNS[dSvRUnCi@ykY[j_NFVf?Wk=WRqirP:TnOk@]sT;eIPqesGh@zhU;evQkTvKven_NuFbNIerJMvN:N@PYOWmNHY@d>UDEfNNVdOuuhNLKdrPLUmGoam^UCcZpdeuK]akWVdinPBUaGhup^T[j^tyf[>Gr<KKa=]NYfhOCa`WN?iBpGehKVTqnTLIgpkUeGWe[MM;hVqY=@GAaxMOufRqnmLpqxYnJSeG;?DJhBTgEMycRuODKG`aeELqfrOu]SG<PiMVdiLqP^Ep<@hMXHdJq?ftXvcjnXcJDp>VOt_DfxTOcBqzf?q_PwMW?hUOpUshmalEYCfvNdUPheaaxKdixOMfApc]jfXPjksrn^`pTaNL]E=O`UlHev<UTKdgrvevGtB[fRtiTqSe@GUPpUO`dwpZ^oGb@eCWhjbQsV^`hsZvJCePQFVE`?acpOSc_olTfhVPavQGgTqxenpEPlvLheJpXTXKqPj<[lcW;VUY@QqkEPKmFr=T^hdavGaihO@ZvehS@mARXhiooU?h<Hi=XtjTogUNWfqfwhdjOtuUP`HHkGWarYQvTaOlakbX?jktVDOKcaZ=OGherhfcWGkyUNphdoIUuWuPlbL^cEOw]kKDj@`LlrB=MEiWGAYAMPd@q<UMh;D_ASijCqQTShoi`GN`j`roU?WMqtAPhfKr?fhdHxEQMff@oFeyWceZbUeh@rFW[GdigMKWc[qPvHpFiqATXiVpEU>WpulrLxeupZ^rK?J`y;u@poXDlhkevrSycGq<uMhb_wnTMfGqMTThNaeAXAihoEUsW<ihnNfiXoMfph=uduDvhMrdvyhEAYQRWfxp@vICmLoQOOdEoNukxO@mIS;hhpDToh=innNvdSoFwbcAqtgXvcnpgWHx:Hj?V?Bep;vlWdXqEOMd[prUlxePnB:njfqWTpWuH]vd^i?ahuIWAAJUVOeQP@v:Wsb=yHWigq[udW?XvhMMifpqvTxNynEJriWq`=fciafPPvfMqruQxXqjvYnhxrAUzWo;hzX=iaqYuKx;yrzKIiIppvsxJ;qYOSke>rK:oN;`DTjeYrfvJHkHcjVAjYqc@DGOivzMUgkGAv[pLHuYJbjIoiucXK;hjMhd^KRER=IirIWriYp<VLWRigAKEfEpvuBx@;uIQMjzpgA:=SybpWHgBF`[X=rqaGEng>Ftuix<;bjKKrWAB@d=iyyfYjdzrm@Tx_ydJlpiwqCujmnXvZlcSBG@AFOqXoEQbgJG<VMWp;vYNIfJFHUE=o@[JnRU^rg@w==[iYTtmloDwQ=my`zOvhoHX@K=?;zGcAfwHL@Wx`HwkvBX<GoTg=f;wBwcYgHVAzO`yqBnkWVHZVgxmK_fOsVFFp@M=qKsYN>TRGP@zxRKd^LNXSpK@J=aT<uH:TeFSvSdc?@MdrhHQ:OiaR?YgKhEsLrxHdicCaFUmn[nCydsKN>>GC@_^MldmwBHXmeWu^@=g;q>JKkSxOBfGDa:bzeim:>rAKKN:BIfxgH`rmAlE:qXXcQB=q^[KZTJg?dLz?dwYlYb:q:;C[fvsk:AYHAiv<F``MUi]bV:;FRZPLBkMzRsfFLj[QspQwVCw>yLfO_oxUXgwjCKWkxqJbORH[tskWilbxEF:AchbfHlE=hLN:]lveLgUuao;;dOJG]@l;?;<Zx^GLylRVUN;J;@]CNZZPzlY^_=QSHj;sl`nN:<AmMV;mI^DSN?Z]AJB:eaMAGX]<]u?rsbn_<Yz@;WcipHUDXp_?GCLD@ZdpDKdkvtTW;ycqC:aTUXSqbxHhdl:asP_aV?=HoCa>LLUZ=i@u^j]^vhVdCQDpFMTZ=IHZ;J:]=ZVNZaA=<CNuWvQ^cq`MdkET;DZgy;wYNCTBy`ZBrJDYANlbnpF;Vwu:PIDVPXdnPLRMNd_gk]VyO;boMiqGJBsf=bKbCMjQ:EENY`G<AS?mdoRDaVO=da_:aSdpKxEtHkD;MZdeHAa<]:yo<;j^MzZAlpteV>nLdguPdlMHPs;nJtZWWaVdaCxwnjsvIZTUe:ybBdax:E=?FfGhbeVkP^kqRi[N=;x^zCmQ`A<xlKaWnQobooOhjF;ar^jS^VoT:nGSaQyctsCXHXgM?p[o?IFHQHW?:Eaq@ZdiNpPcOG_>OnIu^MiiUMF:Q;nJ?tkrPIrH?aJMltsEj?I]vNtOqdNvowKSfIraun;ltwsqXUs><PnFV^ww?lZHWax=`Cjwt[RbMRQ[nk?qOVFf:iMb[o]QPVwZbbGlb;MSCd<pqVMImDhH@?zgp[TrGz:WnJ]YUj[Tnv:a^n`:REe`CxFyMui`?g]owW_iVPB?h?dwl]RRhV;>CM?xwmSYW[@PP?RebgkHbzHwQOEvJ:Ln:h:joPCn>?eBISSC_kPsE^dpowZPcj]eJlxdh`WSTf?Hb^ltF`FWJnVPfh<kqiyu=<EECaP>K?Cl>luTLhN@LlFejmrDhA@@WKM]FpDqtqUA?S;KUc:EMuFFuBQwfm?mRpcOTjlPln`OdDxOSLjmwuf@dZ]iJ;gv[PMHoOjlLSlujyQwTSS:TkEGehiE_y^OZEXZ@eScxEP;kB::".charCodeAt(K++))?A-59:A-58),E|=(0<(A&(c/=2))?1:0)<<P,++P}for(var J,E,P,h,A,n=[],R=1,o=3,k=1,U=[],c=0,K=0;;){if(Z(k+1),2==E)return U.join("");-2&(h=E)||(Z(8*E+8),n[h=o++]=String.fromCharCode(E),--R||(R=2<<k++)),U.push(h=n[h]||J+J[0]),J&&(n[o++]=J+h[0],--R||(R=2<<k++)),J=h}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+anniversarySignIn; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.itemInfo = ["2_37_1", "1_1400152_6", "1_1725949_6", "3_31_1", "1_1725947_5", "1_1400153_5", "1_1726012_1", "1_1725947_20", "1_1400153_5", "1_1725949_6", "1_1400152_6", "1_1725947_5", "1_1400153_5", "1_1725948_10", "1_1400153_5", "1_1400152_6", "1_1725948_4", "1_1400153_5", "1_1725949_6", "1_1400153_5", "1_1725948_4"],
+            e.skinName = AnniversarySignInSkin,
+            e.grpCacheBitMap.cacheAsBitmap = !0,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.initView()
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                e.onClose()
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                SocketConnection.sendByQueue(41388, [63, e.curIndex + 1],
+                function() {
+                    StatLogger.log("运营活动2024", "20240607 周年签到（群星的礼赠）", "领取第" + (e.curIndex + 1) + "天签到奖励"),
+                    e.curSignItem.currentState = "hasGot",
+                    (3 == e.curSignItem.itemIndex || 6 == e.curSignItem.itemIndex || 13 == e.curSignItem.itemIndex || 7 == e.curSignItem.itemIndex) && e.curSignItem.once(egret.Event.RENDER,
+                    function() {
+                        e.curSignItem.imgItemBg.source = "anniversary_sign_in_itembg2_png",
+                        e.curSignItem.txtNum.textColor = 0
+                    },
+                    e),
+                    e.btnGet.visible = !1,
+                    e.curIndex >= 20 ? e.imgDone.visible = !0 : e.imgHasSigned.visible = !0
+                })
+            },
+            this)
+        },
+        i.prototype.initView = function() {
+            var t = this;
+            KTool.getMultiValue([121580, 201580],
+            function(i) {
+                for (var n = [], r = 0; 21 > r; ++r) i[0] == r ? (n.push({
+                    state: "today",
+                    itemInfo: t.itemInfo[r]
+                }), t.curIndex = r) : i[0] > r ? n.push({
+                    state: "hasGot",
+                    itemInfo: t.itemInfo[r]
+                }) : n.push({
+                    state: "normal",
+                    itemInfo: t.itemInfo[r]
+                });
+                t.list.itemRenderer = e.AnniversarySignInItem,
+                t.list.dataProvider = new eui.ArrayCollection(n),
+                t.list.validateNow(),
+                t.curSignItem = t.list.getChildAt(t.curIndex),
+                t.btnGet.visible = 0 == i[1] && i[0] < 21,
+                t.imgHasSigned.visible = 1 == i[1] && i[0] < 21,
+                t.imgDone.visible = i[0] >= 21
+            })
+        },
+        i.AnniversarySignIn_SignToday = "AnniversarySignIn_SignToday",
+        i
+    } (BaseModule);
+    e.AnniversarySignIn = t,
+    __reflect(t.prototype, "anniversarySignIn.AnniversarySignIn")
+} (anniversarySignIn || (anniversarySignIn = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+anniversarySignIn; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = AnniversarySignInItemSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvent()
+        },
+        t.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.imgReward,
+            function() {
+                1 == e.itemType ? tipsPop.TipsPop.openItemPop({
+                    id: e.itemId
+                }) : 0 == e.itemIndex ? BubblerManager.getInstance().showText("活动限定头像：西塔伦") : 3 == e.itemIndex && BubblerManager.getInstance().showText("活动限定头像框：15周年纪念")
+            },
+            this)
+        },
+        t.prototype.dataChanged = function() {
+            var t = this;
+            e.prototype.dataChanged.call(this),
+            this.currentState = this.data.state,
+            7 <= this.itemIndex && this.itemIndex <= 13 && (this.grpAll.x += 33),
+            "today" == this.currentState || 3 != this.itemIndex && 6 != this.itemIndex && 13 != this.itemIndex && 7 != this.itemIndex || this.once(egret.Event.RENDER,
+            function() {
+                t.imgItemBg.source = "anniversary_sign_in_itembg2_png",
+                1 == t.itemNum ? t.txtNum.visible = !1 : t.txtNum.textColor = 0
+            },
+            this),
+            this.parseItemInfo()
+        },
+        t.prototype.parseItemInfo = function() {
+            var e = this.data.itemInfo.split("_");
+            switch (this.itemType = +e[0], this.itemId = +e[1], this.itemNum = +e[2], +e[0]) {
+            case 1:
+                this.imgReward.source = ClientConfig.getItemIcon( + e[1]);
+                break;
+            case 2:
+                this.imgReward.source = ClientConfig.GetAvatarHead( + e[1]);
+                break;
+            case 3:
+                this.imgReward.source = ClientConfig.GetAvatarFrame( + e[1])
+            }
+            this.txtNum.text = e[2]
+        },
+        t
+    } (BaseItemRenderer);
+    e.AnniversarySignInItem = t,
+    __reflect(t.prototype, "anniversarySignIn.AnniversarySignInItem")
+} (anniversarySignIn || (anniversarySignIn = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/AnniversarySignInItemSkin.exml"] = window.AnniversarySignInItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imgItemBg", "imgReward", "txtNum", "imgHasGot", "grpAll"],
+        this.height = 68,
+        this.width = 67,
+        this.elementsContent = [this.grpAll_i()],
+        this.states = [new eui.State("today", [new eui.SetProperty("imgItemBg", "visible", !0), new eui.SetProperty("imgItemBg", "source", "anniversary_sign_in_imgtodaybg_png"), new eui.SetProperty("imgItemBg", "x", -8), new eui.SetProperty("imgItemBg", "y", -8), new eui.SetProperty("txtNum", "visible", !0), new eui.SetProperty("txtNum", "textColor", 0), new eui.SetProperty("imgHasGot", "visible", !1)]), new eui.State("hasGot", []), new eui.State("normal", [new eui.SetProperty("imgHasGot", "visible", !1)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.grpAll_i = function() {
+        var e = new eui.Group;
+        return this.grpAll = e,
+        e.height = 68,
+        e.width = 67,
+        e.elementsContent = [this.imgItemBg_i(), this.imgReward_i(), this.txtNum_i(), this.imgHasGot_i()],
+        e
+    },
+    i.imgItemBg_i = function() {
+        var e = new eui.Image;
+        return this.imgItemBg = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.imgReward_i = function() {
+        var e = new eui.Image;
+        return this.imgReward = e,
+        e.height = 49,
+        e.horizontalCenter = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.verticalCenter = 0,
+        e.width = 49,
+        e.x = 8.999999999999986,
+        e.y = 10,
+        e
+    },
+    i.txtNum_i = function() {
+        var e = new eui.Label;
+        return this.txtNum = e,
+        e.bottom = 3,
+        e.fontFamily = "MFShangHei",
+        e.right = 5,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.size = 15,
+        e.text = "00",
+        e
+    },
+    i.imgHasGot_i = function() {
+        var e = new eui.Image;
+        return this.imgHasGot = e,
+        e.horizontalCenter = -1,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_imghasgot_png",
+        e.verticalCenter = 0,
+        e.visible = !0,
+        e.x = 1.999999999999993,
+        e.y = 3,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AnniversarySignInSkin.exml"] = window.AnniversarySignInSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnGet", "imgHasSigned", "imgDone", "btnClose", "list", "grpCacheBitMap"],
+        this.height = 574,
+        this.width = 928,
+        this.elementsContent = [this._Image1_i(), this.grpCacheBitMap_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "anniversary_sign_in_imgbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.grpCacheBitMap_i = function() {
+        var e = new eui.Group;
+        return this.grpCacheBitMap = e,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image2_i(), this._Image3_i(), this._Image4_i(), this.btnGet_i(), this.imgHasSigned_i(), this.imgDone_i(), this.btnClose_i(), this._Scroller1_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_itemsbg_png",
+        e.x = 42,
+        e.y = 377,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_itemsbg_png",
+        e.x = 76,
+        e.y = 276.99999999999994,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_itemsbg_png",
+        e.visible = !0,
+        e.x = 42,
+        e.y = 177,
+        e
+    },
+    i.btnGet_i = function() {
+        var e = new eui.Image;
+        return this.btnGet = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_btnget_png",
+        e.x = 269,
+        e.y = 483,
+        e
+    },
+    i.imgHasSigned_i = function() {
+        var e = new eui.Image;
+        return this.imgHasSigned = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_imghassigned_png",
+        e.x = 209,
+        e.y = 496,
+        e
+    },
+    i.imgDone_i = function() {
+        var e = new eui.Image;
+        return this.imgDone = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_imgdone_png",
+        e.x = 209,
+        e.y = 496,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_btnclose_png",
+        e.x = 886.0000000000001,
+        e.y = 18.000000000000007,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 307,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.width = 640,
+        e.x = 42,
+        e.y = 177.00000000000006,
+        e.viewport = this.list_i(),
+        e
+    },
+    i.list_i = function() {
+        var e = new eui.List;
+        return this.list = e,
+        e.height = 306.151,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    i._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalGap = 13.5,
+        e.paddingLeft = 28,
+        e.paddingTop = 18,
+        e.requestedColumnCount = 7,
+        e.verticalGap = 33,
+        e
+    },
+    t
+} (eui.Skin);

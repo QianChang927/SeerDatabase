@@ -1,1 +1,4127 @@
-eval(function(){function Z(Z){for(k=B=0;k<Z;)G<2&&(G=64,H=92<(H="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B?_fyrQKmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNqkGoq>:U`NpHYJHJHlpRxIUYZ_^ouivM;Rs<Vfka;:C_=lRxheLPeLMvYQutO^`Bc<BKw?T]X=cC[ZYfI<UVI:FG@RPRV:<q[=Zka>r=D;Lsr=:Y;:R[C[JZA?sGM:p`>M@Pt@XFJSk`<IbJe@oCK:HatbQ;dIu;:Sc]TnGSE<F:<CVAFCZfM?mXUtyVEK>EWD?KY`TTm<XCmI>iA:`@;zD:_>k<QcNSO]PE<^ez;BvJviVCmEZshkHAk<GnPVgbiJJ@cp>[fEk;:k^EgzKmzBMJhmB`::HSlH;ZQlhSD>:Ad@;ttu?_tZF?@gb?T`i]dONrklAx@`__fhd>JA[@Rev:pWt?cgKs;=_sMD^]jSo:?Pi:?>kAFUJe:HEtuhhLc><:ZC=k>=lTkJTCcCZ??ZtwZDzSW@pvC[v@WFoLMwaR:<F`EPA<R<:KZ:>l>AZKZ::ma>c<ex]k<c@?;F?D^ZDeBJeTSeegK::BK;dZA<X>XL=V<:J[@=yDUadTk^kQLXk>;FInT]:a<JQkA;fBRN@VXJrdkEg?AJPBIZ>A:><JQcR_LMyX]:QZXk:>RbZ:pbgF_J::EAcx?FHJF[DQ:L::GJaQkcZ<N[O?w;TnluE[Iu[;dgZLJ:fAcya@VSSaNdZ>>qMlo>TOkGsH]ts_J::v:Ra=uYFWKeIFpKwIdFeCV`ylX<kROkAgwLB<:M;BHZ;[Mc;TOFZJY=sR;K>cEXi::AmJLJA;@IOVJtfZ:<oO>sWk:;ga:^K;o>F<;BryV[[BgilBNtQZE:He>Qs:FlMPGd[fE[A:F:?d[GXpo>_:W::wvOfLaEB@L:K`BGGOADPdepMgGcrBLJQ`rVS?qNUgGrXJxvNqJdnpk<:eajN@QqrYWYoZJ=rrrRKcAaI?T]CScqZ]H=_H[Hp]Hkk`u]ST`zdOTMT^O:hiPfXVI[BDKz;FGmjETf<I@=M<t[gS;bKELKnEhB;zGYats>nUHfkAQgw@PNX=dBW;D^zQck:VAZwLLUS`cHYncLx;:?E_V@pOFCZc[:rcAA]M`X]^hNbtM^yK=AUgohojxVhk:]YRZuRsMdQcmTVS^BX;nvYgLdUTR@Gk_A<AkeAcYAItCr;jgWc[OJZOa<e^ZeBq;;k<:J::mhRHCDKkL;f:JK]OxQhY_=w;S?a:PmHqBx@pCaBU[AR_F:?CsDFwJ:@Cs@:^MM<:XSvE[^ia_UP=EoqxT=>vexHFKMFu<_kZFENNVW[:klJBJo[sDZeaRBt:^ybZHCk::Zail]=KlItiKlTqJKlEL::H=]NNJEYoZ]:jZIw:AJC:W;Ky;;OCEJ:ABZ;Y`]<@e`Kv^k:=Ck>BB]H::;S=Z;OmvBCR:BNBx?BZl=]B_AJ?Z_v==i<VJBb[w;BA]I:?Z:;[>wgKs]R@vZfL:P:Mur>i;kz_X;i@wB>K=BKXxLDp;RX_CTIk:;<u;y?B:sHCUZ<c[ueJ:?S^pI?:?:[=s;J;l@Ji:EZYZc<Z@cPw<c;<Akg;VXsA=GAc;oLk::>gSGJD]=u>=sDBcqV;EUHJ_:NW:D;msV>KDZPC::`SVtWm;tbJ;_ykK^d[RCkSRtcE^>_iEVMa;wr^s]y=R_RTNWoo>jno:eJ:Qye:;dnJ:Bt@:>k`=lPgx:z]oahVBnL`DhEZHok:fWT:?`tYdZns^=Do`dVSu:PbcHaJeJ:LVREB@NBSSBmrD[AF:NM@olt^_:QAZ<tOnt[l@BVOAsBL_;e>iWM:_JVj@:`IG@:CHRhAPAEcnH:>Lu[DKn>bSVk:s^c@BL:?Zww<lKb]I>@?VEV@><m:PUZDMUuyklM`VZtVl[wB:GEEZQ?_j[RkN>cHQAk[Vb]D:eLkO]ts`Vq;cLsAZ::Qb:XB::K;dEEJlw::CBsaKOcuwCkP::?N<[B?KY>V?fWdOfM?XJTOYBV;]deibLOoewmmjJIDdOV^OQeiY]:Uac^]bkgKV]g:t:a;eAeU>EKwwCNg<uDuMXMh[]GA:>ujOpKFnYF]RtCHNeSOmesCT`OdspP:`hJiXkZ[K@_I]FO>[newmieoAHAGXT^>aGDSITXgx_NXG=ghCamW]_^kgY>;V[R`cI]^WO@GlfsragMVeupZBP<P]]VqAZR[SODLN]ZF:<D_P?hmUvQpBTq;ZfxFP]R@UHJD_:=TaZ;ruF:I^aZ;JzLvJTaGJVYAgHi=efNH:K>MeWfJe:kBqsq`eAk=PPgWUYip[lTCs:Ek<;E:JNyYRDkvZvi<wWZTK<]<R]lA@VG^D]OVdCQLPV_K@<ohez_T;OB?Dy@:GOk[M:KO_d[uHj;zE_=hiaRJL[i=_cQ;k?iXLb_`Mk::GNOa<m]Zp;cZMVh:Z;ZoZ>:>tc@<S:cGVkuxbUf@Z]p;ZV;zchM>>UJk`W@[k;l=V`ywu<occD<z:sNspIDVZedxM]VlAxbadSkufN]:K]VmSRRdartf]F:]r:He`ff>KczEnvxQNGPu^ZIeS@_tHSTeWCeE:`=shNfvI[Q;bZJ^ckkc?:;?;o=di;TK:];B;BaVImTYMNW_aJYkKjoDz@JR:VKoSkAHBlZ;@Oo:A?mZ:=XN:;MeZ::Vo:BjlZ:Jho:<jPZ;hPF:EKmZ;BVmas:?:M:::<R:EwO::m>R:E^`::kzkXk:g?u:=ZOJ:gRe:?QcfhcK^DKNWJi`pUeIPy=ZGubFjfzNHdDTqxEHNt[FlKQ_]XR;gNIWYfZr;^fVA::`JJ<XlN_:ZPe>cRRTRugGTTmpfWK]=pxXPs:=<G::n:R:N@O:<[]c:I`G:<a]cGJ:Owe:>HvJ:tQu:=VxJ:DABNw:@pHZ;::l@s:Idx:<i=ZWk:diT:<A`J:;Ne:?AWJ:=neRw:@VeZ;:YswWag[XTfhEerTP`:JDCO<is=yKH_UYKw=KjcUZ^P<n;fTu];N;v:;[@R:GXO:;vQc::DG:<>Oc:XAoCi:@GhJ:mru:AMjJ:Tde:>T`IUZ;hyGPs:MaO:<m]WEefc[arREXu?MvVvPs><oWIXBLZ=XE?Typ[NZ:DZo:FfuZ;SCN:?MaZ;^mF:B<dhjAXUV:?ZCZ;bKK?s:Q<O:;gTNWk:IJtvV:IYDCYGi:AcnJ:S<e::;ok:ZS@tw::AuZ;wYv=s@gJLjwqEdKRfqQD;mqjYA`I@Xu:ttt^fXR;hL:apExIHqvs<>y<jl^>D^ZtVU:cAB>>pQmsN@y^o?IyQgz^WMwQmqtYpTpypdppjeAiyIxMlms_d?Z<:Vos:I>Mwp:nwExf:fwUw[NvxhWWV=KYJfoq>AZC:>WAoCxvGR_MsNgogFhT;<[gg>Zwg<gkNhBrBYkpcccWVzkUBSWVoN;bw]pQxtxvhf;OV]ghOK;@R_:`BJ;UsbKzxTZlZ`CM>x;y:>:w:VkV;sNm?[_hWo=d?UoJp?ZzGyJV<BKbogGyZIZj[roRFzpYpGSzpRGW=GFZG][JGkF==VkcFTkRGASsG>GkpO:ZRoGBcdCuCBxDprga[Tssww`@g_::VZVJVkVBVcWRVVFwFV:<F]Gk;LGM:x;xVto^VFxoVgVwVLW:;bkF:>JWJ:PoNmWHWGgTW:;WyN:>AcjAJ::LFShHWpheVaWaV=h:::YN:@bGJ:MypFVdWE=lJbRbx^Gq<LpH<OVpWgdS<vkdxrh@[m;dZeNc:h?QtGl_=>RgdoFtCsBTGO;uGe[@G:KEs<;ftUs`:oSo]^]fs_:UsvtVBHBPFqFONHG]c<[XGvKyFpdztu<YkSFKFGWBClFdGY][FtF;^rKMJEtN;>JEws:p:b;_CAt^^M]v]YkxZhGF:WGR[xGbs<kq<bsnFjkpFeBOFu:pG>RGGvFP;AGUFp[eM]MM:IF<MjFk;YGY:V::g]Z^:fcJhVLkg=BidXdos[B@MshkC>h_gH:<Oo;rhFhlJm=sZD<s;<h]hLhmghCDhV=sWF[ugx;@hk:NW^WHhXh;hKhChSg?gOgGhhhxh^gipngCChMHKp^W[o^Nwg]MWnWfWvVbVrVjWYV:wJxlwf<Bwxxs[:^RwNO<;>wLFNxF^owMVVw<wLwmwAWDwTx[V@xawqwHwXw;x[wlxkLmKCxH=wLtwP<kO^>kmOwToGxYwRKzw?Kz=Po=xHp^xMxnxEwC:><_=FlAxLmK]>mrwen:<epOxpwB=unhw:<cxltZ<q[o:k<A?B<HnR=s=UxvxysN<O=AsF<H>okW=;^f=B;w<NZx[BC]tmlcLk;RLp:L;<<SM]<ggvS?Mf;wh`Le<T<u<@<y;ZhARL[[]SxK]CZdwC^X<EB;<[<K=K?ioC<d<S<t<?<Vox:JBWnP>p<v;H>_]QZN^=nrJXtx=c;Qo^=YZM=n<n<Yo:GkwR`v<]EDlqtb=Ipzml;r=hK[Zj=y=oGY=x=s^A^qGYSHFr]yGQs<;f:q;i;DBJBhBccCFCGW[mGGCh^<Ew<m=okWVJCc>KcbG:soEfpF=m:qOBRHNs:iOyJtZP;yO;NKNG_wE]mw<v<yEb];EQ]XFyFCDj^BBY^BBhBkMaDnJd:RMR[sMo;>LYl]tIc]:kfhZeBp[:Efhw:<d[mDpPoh<V::;p>>V:iXSsC:PdHD[Q=Z]gg<oS<<_]D<pL;qVIP<mJuJeCK<lJtSO<^FEFW:NBUZUpVLDYYR<JSgj;:[:ZB[V:lJDZK:?:=:AJILkBSHSDnzVVt?;RgFz;@l>[SVv_UZ@Tow@gvzIF=>=TgVqgqCNJMFYRBq>TaZ=:N=Fg<ZFugTyZKZCxRcBJFJSkTJPJ;kKJI:=k=JEJRNPD>kVkSkJBWuk@usWkOJUDQ_YkDkN@sB:kWsD:MB;[CBYsGBTu[@y[UBHgQJlgNc<W?o@cWBUDKcScOcWcH:McUcBqYcCTVy@V>RVRDRU>;RCR?RGRGMMRURMRYRJs=<`LjVusUlYalsSoFBUFGxQsLup@icJk_>:gE@kRluj:@>:]uHYg?sG>=>JkU>I>VLJ_:GQJ_q=X<>H_DN@N?_G_GF=NWa:NFJIN>NNV<:LNL>^wHNKNTPGNDqyxANHq_VI@_oSua]SsToPoI^YJ>PzPkR_cMoY]NHnFYoKBbZFqFFUZ<F?ZDF@FHF;FHutFJ_@fSoh:vFX]rVIs?BDuuPlkeg=iXP]>ZJBqwN?oGgJ]jmy]:VBVXqj@bZX=EwF:@VA`XV?s<:CVHkOVWVBlUVLiagYVJwRw<@Fw<wDBDw@wHw;wIRCwUZ?wGwFqvirwYwOnJ<R<F<ETP<X<AHS<P<WqxdE<QR>ZPeJ]VCV]:uQHim:_X]=ZK]S]VGIaM]U]Rk=]B]:LBLETUk]LDLKLyLYmI@WLMLALIL?=NmVm;P=sumVkSy[mCm<^<:=mS@AmVmG]:uBJQy[LoDCTVDML@DJk=@=DTaCHLeTkD[aaUDQDYDJeOsge:]P[bh:]MeKeA:FNxeU[mEIeTypnWuTTVTHZLT=u>LFJ<qL<Pa>[waxTMT<DvZQTYTWMWqNuYuIuDuPTU;[uPPJme@EwNKfTP@B@IuYeJ@AuR@YuM]<;clu@E]BZYK[@C@H;p@REL[xJU@VVL;ZaG@RaM@Da?D=[_CfDR[tTKK[a>];FOaMNVGMaMyAaImYaPJd?CaRPJ]W]T@<PB;nqPPXPDmByZuWPV]^]O;ysZoBq>qM]>FODLqTqPqH?Ler:fwOqWqQi`NEqCuOyzuBHDe<HFH:Z<HSmX]CBNJHHDcKHSH<yecBpMHTHAHUZIHVB:i<WBiU:TsNi<iDi@iHiOn;iCiYSpiQs=iEiVIQi?BYi:ZJXTgfz<VlX;MAX;M;qjk>c=>]J:Ja=QJRyFwy]OJMpG]JJIRm[DSM;L@VlVXPJpYGJS?<[CTBJ@[J]i[EBK[JJ:_QVran[HKA[HBKKHvRKJ=VKHkeKQlPxPKXKY?kKJOVCGKJPv?zlJCI[YKVLH``B@VmhET]VdlCCKlTd=lX`g`axM<d`rKOtFCUtd]u]akiCIR;CSl>mpCF:WCM:ECACIC:dLNCggFq:IGQ`edWlPEVo;dRk<SDSWdUdKSJt?SFS<m=SLSESPSYSCS?SGSXpnSGdQS?papstNt:JPt:Z=tTtJGsG[t?ZM^?tNC=t;_UhWK<Z@yEZL<H^SOpO]OU>Z:=PBOkLXmB^mJ`PmZOJmOkPs?uhI:^H<D^HlB`Q]<GMMPm[z;MULO]QMUomnSnUxMnSQNEXEWEU=BfTypWMU[l;fUnapJB=N<P`]P:DbTMNw;dWYZghpNfI]=k>KJJ<u]o<u^tO@;R<F^kAFLGYKD:oF=Z;nA[:F_b=J@g@_:_;=Mn=ckqMn=Lep`k;[>k=wktH`L]AOm>::AcYlT=;dx[:JCqdquGJNFrJFuGCrbZBH^ks::;GCsIZ@WtsHWqF>:XFN=q=zZ;NK?PpVNJOxBVxpCGJOx<m[glhMx@SrtG?B`GLk>WpMpH:UDsmTmcNCHFhyBFR>^I>kVzlTcXHkFNK;N<W[VnSsRB?qDZVc<cVnZxzPVnT[tbzXhKgv^yVo:w:`Vu:ngi:vg^V`[>pamvY:ix<w`n<y:ViRrPmmWTNWBS^ivG^d:=^]GE?]n]J?G;^qndqHGNp;GKOBW?G@pUDD]r:aCHO]JEP<?dMwFaILhcWuhqhZGitFC@tOEwZVGphb>@GftFOPG>pXv:EiWsEyhfZIwR`]wLEpiRKU^ZWiIRWoW`EcGetWE`fgCEEv>rE`eflIncfZWJEepNfxB;:X:XvQKUOEZO^?cA:;VTFIfgpXOYEjhYnZU_fh?WOCLQK=]J>DUpCY_HUhJ;UZEtUsvhUcE^Uk>EU`ZIwQU`ZTUZvyUkflUfZ<xBpFv]p<vpGWBJg?ZOLJCLUyvzUqUdvzhCUy`^vkWBUmvxBR>>^:Aiv[v_Acvtv_v]ApAwvuAvvp`QKNXPwVlPKBginzD`zFR]glMf``MighMlhAOoVnMlVmtPiAMa:fguzJniGjZ;^z>fnq?ADE?QMDgUZMVES;^wZ?;FR;V<O<XK=e:<O;VSVR[D:I[BCOy?;MVSVUOKnqBUE`;CZA>TeGKOJ^nav?^rQzQdBNK>WYQtGqB@BM>dcCTAFUZUEz>jCIQb>F<ifyEkWotjM@hxHRJ>m;NIx[N>mUExhrGtWCpDB=rjhoVyfehzrqhyGicSTA>Khirf:<zIvPw?rv>hrrq=rfrzhbr[fdEjHBI_IgI]IvGeI^^>:PIzQyIqElIlEtIpSxn_O]JUQp^l?W^opmfowkZIRC^qvAQv>^rmNCHKmuIkLpm^sxmhTAyMNrJbg??s]qPaoYZNk^]QYcbjJpPm=<XvcTOkGNoO]vJ<J=]nLU]pPcsiRQ>@hvR;;XBvr^v;Eoriv@FpB^;dLpPixb<[L[clN<i`BP[B=qsnW=i_IT_Zd_jvy:G_R:ICF:rI^d;fiV_<zEs?kJV:VkLuYKFvkO:TsJBToJ:;CHQLJ:GwyZ:YUx::yNe:;YZBwJDZKVZ:RbOFV=:k:CoHZ:UwO::<:m=KiFZoKrB:>J@J:C=@Z:HdMT_rAV;EwMUvKxkV;aH:@F@j;lxa<ViJViPMEJ^`RirEOMbz`dsTVJ<]tUMiqOotf_=H];MVjg<FRRG:JcrH:HGlR;gGF;u:U:UZCKMs<^>K:oZKJCcAo=_sn:pZVb>s?V=::Os>WS;;cZqd:znRk^hsZ@aX]<MpWJCNOetIMxIVLM]a?s[wbVb[cDtS^VFeR:MY?KlrloxRi@LDBVtlQcS<p;<yUBTq]oANwW;KJv^fx`g@@<c<fIYMinnF>P<pBOZh:Whno:L=BBNZgjhx[QJ>:t;<Zx:>cI=mO=<euZjTbNFbBox@[]pYecGPQC@=q[utEcSa>ZTx<D:jrYvfcbvBO_mmVkucQhJmLBdOBtJbQ;cDZ;Jgm_pkplIrpmev:x[a_QtFK_OEA=S[SIXRP@Pgvn;U[]c>l:wGUKJ;]otAH?^`PkZ@Ziyy`:eFMJs=P:YH:WV:XT>nKn;f:vEJZ<pMTcWN_[XTUeZhOADE=[eg:NTfJ:afZ=dexnHTZymT?NwB<Tp;RVmGqfo]=eVLJ_FXoZ:rOT:_hBsdLIHdrO`sNBX=<xK_;m:?:BEEufspo;zNn:r]T@as:N:ZpOKN:=k;=Ow;JoQ:FGD:<>A[eBpgZZcwgH^MKRt;vetzPif^Nr^spvH?:Ba_o;T:pZHZTxDaZF?df=;KZ;:LR=F=a=FpskfGOnHnLq:[NiT;kLThVAH<o^[Pa;Cs:IO?dg]@KXNCX:xPIEbkYHCJ;q`N:n>eNdP[wIt]Irc]P;<:ok@J<k<f=rkzkWvF?`g[]st<P[=];?`JbCcjd^K^<CPfc<>;K^FD`EI?jk[dS>hkwtbUj^]mdT=]`>hE:gQ]HpK]gx>;]Lg]R_XAl:c:GZllIRZDZ@hyPv]:pFcGRD=_PP]sgB]`=y>ZOl]r;GQ>:[uun]uHzmEKB<a;LZdGiNDUOEnm:?SZXTCjWwM`=K@]:R;urUAbN:B==lGRE:;Ai_>Z@IVNXRIOv]_IXsRxIiPIWODZ:Z_N:cCmI@:PxkDukM;imT@A[JA]<ZL`cT>ic;[HZ@BLsCAELx=qBlA_MJXerXO=tkjsYphJ<LV:FZFseKKJHl>w<VVBYDm_L<Q:;N_eKOCY_dF`>IZ?eZJMIFZFP:<J><pAu_k<:IkJcIG:lE=:MkwJ;O<k;N_t[bZwJQpHaAIDsKzBLZPYb_^@:g:U]uAVL=I:b[h:s:gDF:Ell?KmCf:vl<L_fJ;C`RtD;zNoA:;T[l_=L<SBlB:=OjJ:>[DZ:U`h::?Ne:;ICo:=NLaJInnh?<VNiIQ;_DIA]JMlLVFwN`PfDt=k:WT@cVj_Dbt<@[bEOhDNGl<r<q[XbDzBZQE^NclZ]ASebePKm[L?JZ:HvWVwZ:JdgSgZ:Emx::Mu_^S::z>T::QpGUnwt]VY:QUBW]HndMW[`ZnsRMN<Ku:f]JU<gOP@<bGSHd_NqDR`HLadModuKMDTmnY^vlVdgbTv?NDQ>?MU;XJseJgED`e[<[`NwX:Lp]<jledHQOsLnre_L;@dnNpeWoDkMv<uZK>g<PhEiuUZH:nE@sfY:^M[:jlRsfZE=I[ar>zlAmU^AZ;X<?xo:eu=SHi]>v[gVSuhSo=pOXl;CGeRrQp;c=Qnn:mS>kMwUqBN`R]NKYsoVR]IS_s]SlcRS@JLGV[WOtPdBnJPGm@e<;yKspEaOGKDbDVNlcglgN_CS?hO_l;p=_PLHSAV]MeJ@DPKB`EdLpC:p:PuhQJU=]]:uF:OuhDFV<m^=Zwc_BFR<OAe]ZZ^ZSqP=Qe;g:WKUgq@eEOKSBpMKTG=gSTE?AS]wTiR[oQN<W>_pQKtGWoN;ade=:uTIcjoNnNGl;];ccRnaiwCKbl]SS:hHFPV;?drGGSDRdtiaIglflmtUnUXACGr[wm^sW:>yEr<^<mBbCV:Sz^hnclp]F>_X?VMB=KJ?[QsfVq?G`lU@IkY:y@>LcbbJ=LdsLxlT[HqBlfcha><BaK?kZA@YM;NYsbXCB`Sb^]GtJsr>XDZ:`YWpNXL:zaB:>`I`tLEtNLOJKz:LSB>u`Ky>h<u:pWOyKtNJGH`bMwVtHyUQLNMILK<VhoHuIk:e>:=hkR:AMxJ::qaZ:;<G::^=epCiXZtOW[HrjJFVQqi:?jZ>K@@idryJKJW`::psEZc:fw?Q[DaQ=VS`kN:EC@`Py`<cnHjQL]Q[HAJTCgc?wymevoACkgSsvVv>[GOY`>Ks:rkkKVB@J]^xJqfQLKKpng=rW?PFUNJ<d>KMwZTqo[@fbkADMhn`_P;YQd@bmv@wllJEI[Einn==^V<;Vqx>RdFQM^RaxEJ>GCpVlddHqoAB?`frAtk:aS;l:lYdOvtFnhtgfDD[SGx^MmUNbU@faW=V[D;w?_SOpFBQk;hnr]LgTCSzn]PsnRN]Li:;dLVOjmhRE<TgJJn_Uk=g`K>Cw@rE:;=pMJR=EPeQkzuyxfm<DDBIZ`[KB:I[u@><E?@LPyw[<te?:ABE:nEMoFTo=dMNcBOltaBi_u@?Z=k;GKcHZ]aH[wMkmB[X>u:KkU>]h:DZVkdkK<HZ?Z[tBFBams^[J?LOhnbyQ<iM^kj>^SWJ`UwsKL_O>QBKzJ:hFfabJB<dhR_EEQ@M`AXnM?cyJwyCLIHm^ed^`BwyB>b<]f?Em:dLtmKNcnAN_G`A:LMcMLPOkdO`LZDL@]N;<OB>_aJPSP>elQ;w^>C_?ZFAk:v<:?JSqC:HCAgnh;kO@]FCO<cE:OD`:::IqSP`J`TU>P`JardPHMcOpkCJAC:[N<KKyuJE?Yu;lNJfwOK]<:BLgzTV`mJ`BDjeAlFZZ;ZySDv_IRjg<c;lOxj<?N]GJ;zR^BJVJPSVilB?B>Z;R:g<LHsusBNoZwsXQkfokN^^SpBjHQR=d>`m=e]gphETcA`Z:z`TLlpM]<vMfOHKqpH:;fFo?Tm^eIBougDGic;nmuEe^:DUF[:ZgESNZDNXxOh_yFYe<cb]>vB<=u^WsDc`qOeHw;Xm]p@ckoWa<=aCeFZLwsHJxKh>t]Zo[G;cFuGCdi^DTwVnoNFAdey^@T:RhHVg:n_v:gtrGOaM@GtcFgIH<RaPI=Q?c?[upFhWxDaenfJ[RJEWWPi]=c<R[hTyBIPcv>Geq^^TxBSqfD:hcu_<JUFEqcD@?<yovKMhK_CXj`:dktkAh@xJ_nReqoAp[cRqjvMG=IpZuQcNH_u>M>KprJNW>H[wOx=<W>uBRSHebQMel[sklJCFGK>hfGOsTKW=i<icfcFNqZuub@eqgUeepau[?OiZB@A=zfuubW<V?H;veXl?kDsGVGo<r;H>xk[:TX`dII<Q[cLLxXwBy@u:UprknBUXby;:::JZBc>LP<f>PUSl`RD><yd[>m=RJUuQ=Xy[KAu[y[buW>J]azQZ?Ypb@aBQ]IzMsm:FScQ>_;hC<qEZG?B:mmD=:oBfuGYB]=CPIZoeUcGGBP=H;ft=kSqFZcK=KT?>kkU_FscaQRC_`@cU_locsMXKe?cDZB:]cCNG[[O:d[oFTcaa]EFp;VnwF;LI=BKZG?FUBJCcm^TKbG=_TFF?@oF=T?Bqq]iRp@W::u>W:]fbKEcpoYKcxABmHFM@tP[fTsk=ZmFI@:VXlZtdX[Y[b@ZqrQGRlK]>loR_Pf@=xOl]HGthJMX[^JkmoUT>hDoJkFF@yRglUp]M<VF_oq<dF;R@MHFA<@mS]kdkXMDPArNe=Xk]aY@CMTf<c[`GDDigXm?NoG[:STaSg;d`U;gRqkJkEMNKHonWZIUia:VP]ZA:@SoF[a<NNSfKJaSMF>s@VHSifZnZbpssbYWSdj>_vUFmslnPiIQ>U[vFPsvuVtbyDiT>:UalVeGTQEMAbwFl`VkGDAEhA[mBiyqqlRPFUbzG`DQVp;IPGvahdyt;NYpJuiLB_RltUR^Y_AEK<ppTCqEYgJc]AAyEB:XqgwaueyUfnpWNsyB>YCkaFLcXy>c<SsAHbTd>[mrS;QClz?H=gNHsU;WA`eOltH`VuB[NgMBNrtD?p<q[YJcsNjc`pGcCPjjrru]BQoi@l][mnZ@gLfyV=?:QYkv;jwK`FLfzf>=sLBZa`l_Tc:dMgo`^ODDNFY]lowOCkJ;T?AtHP;iEn?[qtemQVigda^`YO_iZGLVilCiELxiFp><nBl@yEixYsiHLXNk;M>t<<lR:HKq;NL;wqqCTY];`=ZwJhwlZVkHo=_SZ:ncpzJN^Z=`[aJFlbD_T>>c<Jz;pZbVVCS>cxoccdx@LZRPbdLNHeF`@`GMDYhmQqG<`wX_zTR>[Pwf@Opk?:QC>:ZQvQNxLlj^bdTPHTCBvLZ:vYeuPy:yPYLpdS?<@OJ@>yi<wZHFhiS@k_ZA:@SNzgzr<eJ:LZGHhxLjt@;HsyZ:ZA=`nN_@m=;ZDZlzit;@kERyq]hQs<Ocf:KOpp@jOCkTMR[Z:PgSWKMDR<e:kgPAWE?x`oElF_PdUKaWrihPENvONiztQ:;`r<CCSwTppTnBxOFujOGe[Jqrh[Je@JpTgwGS@gdsd^hSjBc]gajpa`[=SXgs^XUIweSereFctJAUEnNHnzemcjNKeCENy@mpsG?ZveD;cym^K^Tz=NABVHVv^TsVk>?ACWA?[RtITjcAqeM_FpzK=mKRHbESf^fklqVeWUfhbQWxtpUkFP]KPQNco[KBXeBtidOdbkNJ@hIWOfMa:uoUp_@g_<XcWfbeQpthGHdULzQPpjTYu[qgyi`:ip`ZUhIidycn<=AvpycP^VT<`:DMEJB@ySMuA:omlq^I:T=T;hZplo:k<@zaX@@dCdpcke@fH[[hndRT<ulzJ^LQOgG<^cxK@eoW^KUO[mdJx><^TfLcpa;quWcy^Rd]RqITPGkxG^KiAAdr@duKsQ^YINQdHw[Gex>MTy=>q:aWuNajX^CgIdbo?GLBNyjCdNpQoVBhxB]GwkYfzJbuh>OyizLJl_KqBrxOn>?=sZ:F_sJ=TnK[^:SZlk=q_D^@Y?VoBG]aW^EnVt;wqXJzGi=UfJJr>QOUJhS=PDGsq]q[FhhwPuNy?<LodUqOtN<EX`<mppJ<h_PI[[p=pG<`[@JoYfPOjepuGtcDdlK`H=ep]F@he^ITFpcoShUh@APjK[soFRMTrczPwl^RogUiFZReFN@:sqxFkkQ@V=GlgGe=InUmRCFRZrspPq;FBnwSga@>kOFKFJhiqaCjj>HrYfh:LMBkGn=HpwkEhJgTvTE?mSmTIR^qkdjcQVrMBLaTgYYdNkGZpGDJWMVqBol;rGGvR>H`q?=d>]XlRWYMD]:^d@T[l_WmRFScKMKqS;ssFnWxTe=MZsvx<mnYARQ@E^>vWanV:thk<HTNuONpHag;VpkCovUaLVPtbk@FHIFPWqGGbVlEfeo[ok?ViiQnfl??]kFnVo^iub;U?=DoEXZg<cTBOn;rNZfRQLkA;S]vls>ic<n[O`qNB?t<ilhNk_lTuvxt;ik`dfgn@vmFKTiu`cUiGofWyiL>wrL[Dhq:ZUWT]LkmVRAf>BsZM:=^bg=MeIwg:__sE@yfOHj>pJHxGH^yUN=Zh:Jz?eS=<?KMzC`p=wGH_<oh[mKdJ]fSp^vbCPz_x:V`j`io[WmDQsKKlEZrvll=pvEOvJCPc:X^u:Pk:D[pSNCkHGU@ZoHe;]lykRjngdlx?tTFg>Y[Z:`BasF:@c=s:VJAszwUy@:aplqvfg=iZQ^][h<>^bEM:FQ]gQE^NE]>Wy;O?:=]isC@NC<`QafkptJ:IFCAN<kCTqMTcc:Q:RlR]^n;nV`Bhijb_ubhroVefROtrVSV:GXuL?i<Oy>D_JBSBT?msH[K_]?K;uGyBXd[HAjDUxP^y;@si]sQEbk=fyG^CIMmXkmsS^EXLNmySRqLl:wxYzXTzo>:>tK]xtRRexRjDj:=>Rc:awYnGQarc]fz<JurW>tb`ZM]uXlcIF>QT>WwD[O[utznsFj;x;>APIGlbNamhPOZB?yFh@mmrO;N@L_=DIfj=M:Cx`BvsMBGbp<WS<CNQ??wUI^=;yEP`QRKB[MTE;fEHGJjR>;u]XSfZzVULx]aFsZ;X=z;xcBBX>Gf[K=`UGYebol>b>WOP:DDigg:<Onc:=UhIfDaLam::yyF::FLhoN::dXjF_:=Hmer_hmDQpEYdIUB:>sEJ:AU@YG`rAbbaL:;?tN:<:<SdRiiRN_KJKO>TBZgP@qXSK?s@klUEeqQJUKhv>L`@<hEds:x]P?<XDGvNCd=TZCaQBXUoD@O=nee_WEFoGmnxesTvpQZbxjkQsZDx=>ewnlcjaWsQnWwu@>zHoOZorVqCG;WI<kPnEoWoXR[WTeEmEKe?cnb[Ypo>PgE`Q@kq;^GhuvVPa?tKIQFDguPux=<:mm[lIbBL[Ejg=[OYFf?<LQ`HPGwdJLDkInBBPe>kDr=<OTkYEAwz<eB<WgcdN?VEIO;Zdy=T;@fo;nrVJeZ<hQqfmsMekAhuiFDwKr]^[?RhDhUnMUXwmyvX;gQvkv?uJ;lWVg:^qEKNCXiv@QdTdvnyxEkIwOy>;:c;a`;URLTwiUTR:I`VDUtPIir;fsg>Dss[Cc`:Gnkg?_eus<S=fUd;ZAl_=akqGWq^DNN@LOy?ErOv`kc:D<Oy:`SF;oertZJFt>]fQ:cepfgLE`QN=aQwQRBH=rDiob>]m:i:A]DD_=WcWtgwfjW<ZHC;POfQG:GF;odkcEvVEk:dejMDzYB<rDLFPu>=hQgdh:gTU_i_cweJSi?[f:R[qu[<K?:@r:;N^rkCc@khSrhvfZeHxwGPNoIiOW=usHK[vj=:y=D_byUy<ofTdG`z>JZAZ=wVQ_b:ZMosF>xwVc;F:_^ID=j=HQQRE`JTpKycwL=@sJHtkPXWSYQvrxAqWq<CupOShPBWAI;iRAkYoYorm:B[_lwnV^fs^qef_UEjdYZ:xoKSi[jpLcXmvyKgkp[h><ASjInOHb_ivdx]O^jlnAnduyicbWfbCrAvzHdiRKJng]uF>RnjMDozE^_d>PQWg]wF>MSNCynr:GmDSD;jMqV`cDfw;CaE^bH]BZJIFLIes:zEgJDGi>ap[H<BqOAynaXu<fq=YmtoyFkaVccrJC`J?zZC?<z@t:H`nso]_G[`outuR??JmFtrFep[uEilKWt<mQRlS`rgPWxolJ:ub=jqG_=@pymsczjd;oyX=[N@Ak[QdxhNoeHc=sx<XlIC@>D_GE>=s=QIVOv^ik:wy[gE>tZfnhJHwuvR>ny?>DrCQg<]evl:ZVHG[P:vXPJHU]o=dtv:xx]jlJ:]:_CDXAw:AIx:nmdh]erXNeij`TfiwA:wpVGBk:jqESAeym[JjDO^d;OmweOWJHnQYeFYMIjxu:fCQjniBr>fYZCsYZgwyy:U>xi>]PbvWhdmLIPWuQcrDAIPPm?d@[r?[t:HGuosaXJ;qZwWioUFtCUnIO>]nkQY_uJLfIvA_F=CGIEol^nFQRplQM]wgVRQDvJ]IwQQXUXM^<PliwyycOx[<chONnn?M><Z=uewAlJJac@ub_[jckRUspUk<>IdjMkb:?vikTUq>SerHBM:;L<MXicNrJnl_OZ]fY=g^=RT]VeRWeAKf^e`[jPY[igFp@CK_ZDqWafVGoAwp^gZ@`PdW`y@J^ackBtvH^e`eA:GTjqLTFeGa^B^El[PawTtphfAKATuHR_RdcqZIKGGYhVbDAPS@PTRu^ab_VbQZ=dpAbBcz@DEbQbMrmDFiTnhYHtj^TyUnFRPz;JGm`bdUnHn?lQAf]`cxFuEOxRa<pj_PxU`<sqzJjsQHrfUayyQRUghiAvKUj>R]XJypmt@@iCeHZ?AuvvTZ]cTvfLwzoJjR_<cTv`:?dVV@uZ=ijTkVD]AKVTQsJH<fJ>lAdGPHkufBnLCbOkJnIFW]mA_`TR[`nn`:Kzb]A]=[;CAAb[PZMPicyYcisv[G_UenvJWR:EbtHB]hFysZhRTkGGC?tlPat::mYA>t::nkUxszVlHFTXGF:=jmiXZRi@RvcD:YPAk@[iB[mjomDdf]yz@pPsNYsrSukcc;kc<kd>nE_=mZ>FLLEO>qVTpy@u>M^BQQy]M;GGpNCoXi>k<Shqqu:w_X?>r<TWqRPnXfii]Pvd;CuzJLgCormUqhvu>g:g`PrlUrptQVfXSjdwxUmk<pLBxZXLrmUlWzqxQY=ji@HvvpsazxXdjM<mvxrVHw]SrjHrt[NxuywAXVXE:UaB=wkb:yxjcI`vy=zcCJyAjQr_Amiv;wJdW>J<;UzWvHxcwYjnrjvy=u_lBzVY:rYKNqtWgV;RNrbNKDpwdxiq?bSxdhyGtZ?MH_vbZS?M`=atB=YRvBESHSas;xKMCrnZe?>=@;M[WIi]YMvG:lBXw^BAu@=^VM:QLzmM:jwCs<?<x@uVhH:>ZH>xrNTyQIKdr[b>wM^kKTDYuWOCftF]oRMZHYCr`siagVyaAQI^]Uv;J@:ZHjR:T@OhzKauBI`]Fo@S=A;aR^k]lkfwHftyu@zhYyauHBSvNViYcHaji^>k<N^>o>sqeCIxfy]lTPxtTFi@QvsK`rk[yW[Ew=Ly?wTCNjFJ>Z;`ymytYwj>osfyQs]wVqAnVjr?<`tUw>F<<NdOEByJAjI`[vvtFLN;lzCD]zDeZMQtZ;dVoQnZ]_cZkR`N`V::UqUmF?dCo`uL=CK_aaC;?F`Z;nCf@Y]iZ<g_qLs:<eHmK=azoiLk:U_iFCtGBH]SB>U_ImQtQJ;;MxLiopA:eAqblL_dQL?DP`BY;o]<J>L?MlTuLQK>[YDNxOkpID^:=LXVwLm?bd;uLD_v[K:EZ;Ad<eQzFedFcMy_qdWzoGBFwMEkDx::P=`::=PoygJ:=J^J:?::k:<YWJ:AazJ:@eBk:=W?J:=PtJ:>ltJ:;StTTN::kiNqkXgOj>:;MiN:;njo:;Ujo:;VALHke:k:<G^J:<ct<TPa`?d<lrJhvU=aLhsYiIM<dws:;^[L[qrSJGt_NvKdql`S==dmd_TSPkMd`fkJkIzgp=YdoDGNrS_PxOeSLX?d_P:XaNg=OJO_MBwWeIWQrW=eDxn^Of=Pxm=hKKShQMNb=CxpVGIeWklhd?K=xo:wpKMxrW`hK:=rwFZIH@`fOk^F=o=`@pDBmYFPkP=o^`sI;BnCc_IAc?vONIGBoANF^JFOANV^A=lq:wIQaZBxiyB^oE`>lKWQDGv^OB<eFHZyxqOcsJL^KrOGTE>;TG=pB_@IO?OTSpd;i^FRpYNwuMo;aFvpQxQaFK^Nqb@FrpWqbO:;^KRGp;[^Iq]PG:uDo@rsp^KoA=cQz@=Kx;x^;H]=;>GNB@HGBkFsondoGHZ;ndNkANakp<uM^Nu<UUPsqEcVZmREm<mGFyAKgykAslcoAT:>qvciaHV=OdQZ<dKAdqG<>qEccM@X`I:yG;XZ>psM?X^QdKGEX_RooMTMJIdenRy^QFrhCVkk[<M=MOpGLMUMPcZxGD_mFouM>nNSGnG=s_goKBG_p:RvGM_lu?c@ETkZ:yM<m:?FUBBNkkSYGB@AwoCMBEKqowcPNkcS?hVC`]pDR=Fq`=a@SEORSChENmeZWMHyapw=M:KaGG]hFok_SyhLomepBaQUOhGYMKfLWFPhMK_`ZeBAK_upIMUq?uoYMXfMxGsRBUOap^BRFrF;iJf;<VRIJruAapcn@l_wR?hXFpwROh?u=PoNnDEMMF`MSNHhGuRQbOnGNcBvJtZMhBglLSLnWCbEFKRACb?[enD>C`[bhXgk?FORNd[UFxRQvQUGMRXdZh[ZWXu?;puFJEkQhBWMdaAFmkpPb[o;:JS_bGksTVpKpRsXVqaSFWDRlQG_sQAOn[wsMVmqRv:AS`Coxn:wprFzXRi`IGIISSqiSEnKbMFF=e<^rjFeICx@]GuuUbO`SNkuMpMg;WRgL?p_LJjrmN?P?y=<lIsUy?zZdCP;@:KJ>V;?>kc>@;@z[s>=xnEWBENQJJWPo;b]QCm>K<r`pyI>imv>PMIXP>xGtFlK=BGCAQJJ]Dv>Mm_w@IHVJgc:_:joQ??H?VN[?x;XJ>r?A>E?OVKWlHlMr`tl<O]I_H?<E]HcKSE?KLJBAWOa^shPBd?pSG?UVNc]T_Rpa_ga_;pZhSH_Qd:HJ[_>S=hSnPCpZO;t_TpZ_^O_WS>xSh_ISA_]^_TZbxSn_Wf^[WhBwG_^So:<Oaussq@YnIREq@sZrSN:@x]jlvqHx]YRo:px[k::HB=^^xBNMmnBt_q>sZJscHDv[n:rBxp:w^JNS=[z:::Dayw>qNE]GVoqMG^fsk`YG[vRLqRmoTsNyHVJUSBc`ha]]HqGyM]^>oQh_L]DyOanyJp::?<;JJN;=[Y?PU?::J;o:ImE<KDcf:=`OjqUZAvVy=WC?nRXXXd<D]<kVQkJ;msQq:nSc>E;kH?ue@eENWueM:@T]UsWiNvSqcwLlV_>:AeEu^lqQ=_lCVHHWZGNdl?uqQR^>V;<_dOqWW]u[T_G=`Iw[oM=aktoZF=aX;_sGWA]:`BTk>HNBNQmEmgrd@^`SgEci:=<c^chTBQR`qHv@q^BBQTEQRzNEe>[K=cpTCH]S:FuB_WVHIw=>s]S@uEi^hNOmEmgHBTV[X]iXDerT^oNHemWo[X>Q[YZlX<Q]`sSXHQZOs`X=DrOtGXMykbsxFDY_egsNM@BRtufBQZYBlXN`:dJeN@`=dJ@NC`>K]pB>zpFcXN<mZ?K[N<`pb>`vPCLTxyXA@GlJhv?:nWo<kSenrgqf=emugXfIemd]s:Fz>>:bvMZodgqv<pMTWWsUHr];kBfD`vgGRwrZGsNcBUkB`qANEZR^SPC]D]tTi;lrUtc[Pv`[VqiFG`_OgiBmGKx]iXAnh^mi;qHAobRafbkVIdO:mL]g`MqG[V>QAEaLZwiPAnKx:szo?_;OB=[Mm_ElAZ[:[:HXpai:NDVB=e_M;McOvCzRnA^qW=jNX?DgU]MHGZ=ZDN<_j>OaIHH`:<sdm>q>:SNiFrC`i<araCJfTPHrs?rUE_HslXXQ_Osc:;V?Y[dZUO;H:SiKpAE^LEGfq:_[=EG;a?usnBMnJkD><<]Znf>rM[x<YHcALVH?GkF;V:?R?lC`S?MlJd_BvNw;PhcvJcOr^]E?HBI]=DQK?Ld^spqI^kYyHF_GlHdCF]ElLwAobMBuwKj;UlqwRj<vkywJY?AlZmMyLn]>:nkDP>F:v^`UB^wRiESsXmVkKjpefTv?vsAgQGaggCk:dooBjTNyqI`OjOHDbp^saJnl`;mYyMQJZ?Io?C`ixSR:Acpr:<noGdWTHoY]GRhn[n_H>Dn[gtO:]Z?vsy>ryrVNvAHkaFhXyEIM:;J=Lmmi=Bx:Tku<>kRTmyo[yVNK[:G?=go;oa:IZApJWwO::];UBTwns:VkDC=gBcxMsFah:oA>;Rdrx?f;jsiDI_G]J;QHX@`?obMtll;i:;eF<liHQ^_`pwLGc>`pJ=IZAwLyHBn=_tjqN:oC;>Rw:=jJcZSyApsIqW_ZLMz:TB@wh;cic@sVwACTpxZU_I`];KJ=>?>V_MIBHGWVBAWpnvwY`IC@G]NAW_[WpBsyPD:GgxGiOFZg_drp:GeQFIb<M:_kVa<L<kNCE]G>JSV<]:k_DEk_:F_cDOuMYtTv:@Lk:NSEN:LOFI_aLl_xd@c=eVXuBFds_ZL?rZd_m<<]Nkm:CGaL`oXSFPM[_>=>L]<:Qp<A_t;OKZuMfiODa]VPQY:^kl>NUll<VzAQ<@p]AHWlLp]NcTdKkL`oIC:Xk>N@EPdCXB=]<[LYEHXnjKeR>HMeFyk<<=F:`:GM=F;dcFk;esUR::<[ysJ?Il`XcvD>OCtsF?CL[qZL?C[McNu<=[L<U@oJ;SzeO?IycFNnzL@KyRCH=RZouCBHb;v@GlE[g[<I]lQJ_ULwpK[eNvMoOx^x;N=q:Ak@`EUwXu;dZ=ZyY?yA?Lk?DOEx:VbPODMZAoNH;::TNqLKCRpxPVqbhKYVQkS:acIe=[kKNnzJ:;ACZAXLYZTk??F`cRpBgl[:FpGW[A?QoIB:UNipCg;GNiZoz;h?IZ@xL`Y;pHDWmUUKraCWA<dpdg=A;WpeWMAJXqs:V:?[:l:AcE>^okt;LCCi_u@EK@A[fDTYQmMVL?D?J:N_zn@J:qF@o=lJu@U>_nLmmAGEnLvgUE:F^`PLN=n]cNsJ;uZ_:RJ::ss:GT<M[A:HOQEMiZDhGokVLJn=fL>w;hG]:aocC;UMpVEArUMHovhCz;XodH@>KN:BDOJ:x:D:;wgacD:?pwacO:=P;[>JWIoK[oxGEALM_qYAfMwoaWEbLqobmkvLiobhEPZMBB;>@ZhB:;?]MFOQ>^kVt;GTGLJVcFz<a:ACSf;p?sZSH;k:V:IJ;l:VJIJ=_;T_HJQvVBRdG@:_OoAD:E:vJJ[G>;sZAe;uZc_S_^zMVL:=GR;o:R=CR;JFrO@s:BF[N<ZmRFi=BJm_sL<;aOsZGR<Jn^BE=`JnEW<@AxNaRHJL;J?k?B=Zd]JCH:J:Fx=W<n:OoqvoI[mxQ=>Ipty=CK>clDO::_cYkDL[_ctDF^>qhuBX>[KkIlAml@Zp:?K[n;AbMpl[gsUMlHxVfRjo;KhLD;MAc[sbQC=mgL:;C@^>Bswh`JGfmN:on;>LYin`CL<PyKAgImFXoY`CvHw?bgSCVI=>nK>roAEoMf?J`vpgP=J^=Kh<RjlIZjkDtCiMN:HtC`xTtICB<KtsJA@;lYRNAA;lBVCa>QSsZ?;?H;msHpqtcdkUtBn?hWKoNLCUsN[>T:NcH?NqSIeNr:lkVVQA:DBL]FcZtkD]@cbeC@]=b<B=::PVM::P>ouVSc]dlP]=c[uBy]AHAGxmDWo`<`=bGXGH?O;VsLsBX<:OpaBHp;R]PBO]GR_^JGd?>Zl:fgywIb`tF`mZmN`yMma_k[FYs^>lCFOvG_ltvUg:h`fmPw[YtRZus_l`ABLkqoleo^GGlBgodW<wk;Y>D[CCfFKiMK[DLDaba[sVtn=dCceK__Y<PLG_bwkwJURqtBIrNE=Q:^YTE<>[oVgNaaN_gInFAgKCBECOBLgFf;pkGL=[LkBrZjg^k=HdUfAul[gVU@aktgCU=PkhgHTMhCAQLDASnbLRub[?y>qx:IBoggwZ^xfeYvD<dvmAjmBCyz@yNAxKvTZ`cCu<LLKtBzDX;Fr]as_e_scaRVe^U<vDTebZcueXJZTcx:FS:EdSVn<]FSyRtMF?^ED>PCgc?V_YZXmiFCvHtCj]NM;wcYgvRnyn:eH>_;nGDJACB;kOYu;_tWgiMZZ<?HNHpLcFeAs<mcV:jZ@Gn`VNrEsCBDRJZecRDFO=ZdTeTR]Jc`<CrHWnl>gr_bsEXHukc;oyPr[lNvYII]LWZNcjbpsLyHPFBVrRZI_C;`_wIZm^uy:L_UssyIDHMsH_xI_ntPwlrbUm?AIyLvnIXCiFbnc[Lj]AnTyMDE?V@`<YFz^cslECGtwFGfBFKqW>F]AoeiNH<k:HBY?FABLBQG^:lo:Fu>wBhx?MlF[ROS`C?_>nGH`mNngI@qF_Ewxc?tMmHY`DwLtxRnMdGEXRwGCVJ:PBMQF^@LOBlCQNPnEKhmtBanVn]bVKJNZjNqpFPZU:PMpD<yZL:hcklN]W]Ow^>OOC`MxXXQlcStcCZ=H[g_pzDR;WxXn:YJ@sCZABkci<pM?wdkSGEWLL:R`QFZP:Bu?pwKcW>pdGO:Xtr[>ERG>[:ZS`Ow@RErwpZgk;CJOa:?xWIGL>qSF:SGFVSuBVCkBFTQWd=llwV>U==tpVFJhZZFBJ:=A?;w@=t::;MM::G]NeVMb:@l::E>omVPZN::i>o::mIM=sH:RI^Ck`E?rBLKZXKp=z?VwZvEOkGVJzEA?XyEPGdp`>fY^Bcjh<IK`RMmMKDcKTaCP^G[TDAsHZkny<JrgLTMYK^ahsBOIOvnoxSTmVVN]<mmomk@GXbo[x]PE?FnbbH@mbok<sjQmO=:HK^k:GxBrkH;WxWd`F`=x>CMNkw:?`I]:B`JtBeDvxCJqjp^EDzMslAxBkA@DTiPTAZ?eL=]=@EIx;`QDOYxG_n_[eLRmq:G@`GdBJFB=CoAVmsiSdHqLX`H:AZFiMBSLHEIsx:q[[[<[>`PD;B@c==Wz@>cIgOMZYJmx;I_qCo>;qZ;y=R[Z<y@lLBH]anE_JvFh:gBciUCnEBswNyT?uDWNvQk@Erw^NH:[l]_F<iEd;QHpPgvgJorcVRwoF@ipv]Yl]wwEJYC@^hb_jlkd:Dx@jBl?W:naOjgEUSipv^GCWJHdxgRkQ`lK=AVZ@A^ckNXGC]CseXCb^J]wqDwJ[NJZ?H]tqXbnZ;JFiX@POpNGuDMZtLgZgsm[oCNdOEk:B:Kksdq=dEX]bZFJbH^cRgogUJF[AoNr>:KD:BbBUsgHkbBAk;Z:]DkDTwJ?_abMe_sCYUPE`G]A>JHl??AIJ^ng<?SIJJQBBB`PO=NALt?AIWSeE_K^NWSI_QNFEeMBDMNZZyxknOkZaqKYV>nGxmwGjSOqJL<R:VhQzWZ^YNP:xnKYqQMD@p<oMy=PpREkD<:?;=qD<Ew[HLx>;p?HQgwgIPcE=?uZmFQkx<^HilDF_lK;BI<ZjBwFcxet;wrcwp>GHqU_ZBe<p:]tm>]EG]O`JiqB[CtRGlb_SrXXMfVns>=qQ_oEW<B_xFBt<Fz`qrK<FI`utAhoGg@_>erjgEm[Xlo<AmulLGoiLtykTK_j>KrCVG_MjOy]FkChpvt@wlD;QKO=>KrNOfXA>;@^aQIlk[OZoypCT[E=RYbRVk`K<jkEcDgWq=sh_x:@AVhRI;o;:v::aQ]:VDaXIke^WH<h]Wl`<o:a;m:K:]oJ?NMV@hpSuGDHZt]Dah]<_e_a;nj;T_rq;pWsZO;k?;oZ=]h;Oq_ESHYZVkOyAGJ]oCOmBfkDf]hGWe_fppx[]DkB:D;:OKp>^tRczCHi;pNNLgC;lDlSPWxfAPBARe?DZtGcmJ:P?AC<>OHwfS`_K>qr=kW:n_jo<trLGnGOcrDpPF=BPF<EQDA>FBig<ZZ_FiT<kmbJlQDZ<YmcD[AN>xp^Dj:aFioGkp<krw<ZZkBC?>gmgBDnNBZiNJwFRZvklzWjrYNMEEBTBgefDupPgeIDapToKI=TJPBrUNPmccHvNtI?BrD=jKWBpM_AIRFQP:uZ]FP<DaZn:[T=cl>^lw<CmwlmbE=kaVhYFtmshlj=wbRLrf?F:pVg^DaXC:?n:wfDSA:g`m_<IdsLB`Thsx]vC@`EgarTwgGpgE@imznOW=<DJ^EUH`PoKwBkl:o>]BwM`:Bv>;l?s];PAiGiewBsC?<JOVGO;@KZHGwJu^]cdwMD]YB_dpUhIDZqHQNil?pkw]`QEYGAm<SXDFTLIFaseL]H_ZtoUSkARpok;>TbLiKeVc[DIrnwcdyB=]QsZtn<sNBlqI]KkshYB=taiRG]x^v_AqDut>slyCh]EWE@d=]eiFHH]tuTyB;^]FiSad_NsZQqISfHXVPGOK@RZXH?tKXDer?tCXTQ``slsgaGOsDRZ<id]VJPaCp]uZQj_h^dy@YqW:cfC]osgP@>e;sgzkI]rPfulBLlheQsNLpRh^:Iw:sgeU@LlNggOWd>VE:::lg`EWdONgDj;N<gDYTw`PvKUU<q<]hAEHv<]hQEDqqPZTc_dkyhYXIvAhnlcdmNa]qcizH;eicyTGu^o:=GZR:j]W@Id]guf@FlKSTmDkRgRfOy=]gc:;DlJJ_f?DnLh`XWPemgVf<ZAaeAT^PDS`Iex<PC`MBrbn?sg_?;:ugH?<y<MeswHeHmV@E>THR[sZQ:;F[k>HGbgflFjlO>JEwqC@>VD:>@oTE^BPZ:[gyFD@rGWlx>:gKJRLm?M[EN<^bNKM;ZKtNX:HZ?_o;n?Nix`^:CNmZjOMe<epQYSJsOYM`[bwzcf:;WxBZpwR:od<>vZZoqpC=Mpd;tPxLw<uk;lgBovZkqJxA:JnRLsolaneWl=JR[P:OuzPjfm=XN<jS:UXI;nUnbX=jG@>d[UjGQmLTeYFAneyRYEURRcfDEAmayUlB?fdwzQ`bnvXN[jnsxFY@PEte@aRhxs=wdOKfsKwZahrnay:Pgvs`:baMUVHLlmdifhuuqoG_WuhaqGgrHOeaxD]K?:=xEDoV<CPeZmqu[<e;egDj=gBmo:[PegrLc<aWCexbrf_?mtSkZh`mbTiPeb]:ioKR=m]=@fEgZBue>wfe^QPfhLPNwcb?fetiotfpNKB`I:Isc?EZ=EgK?>ZT<>p[A:fc>QXCQfwQTyqVfUvGwejgImzJHpJQvRdMzEmBQ[D:foE><i>LkD_]dtV]BEP;JeTab:eI;vNiImdVC_g]eAWo:Ly>fwTvWJA:fqaoOJce@Lu]eWLtkX]iQ;@DnV>gFg:ELeRTlQDSAofkDfKkc:wDeRLqK<DcrmT[;cLZk@dNzXYHWsHBGm<ftm:RtiqNPDow=RfiDsyfse=BqX]>e?a_]hShCDuLeT:EadLdsfcyGLii:GDg_;aUhwuIZeOvaahazLp:vOLcfR_Q<A]U_wqJ>WK:Po?MXMhmuXO=VeaChnSDlII?pVf@YV[GywONCNjWh=sWmiTVcT[jQTWq>jmfVUTsAdmOc_rRBeoFxkwlg;?Wexlj@VI:iDc^Oj:l;HLfWSOFdfhjZv`cmfCK?kpnEBZpxowG<pHBHEElPsegfOlPgecm<=SBNJZw>NzsHddwZ^qPCd@edBqTfykOBnTfDZ^ehvDJlQBkADyesVebO[ewVfjGCm`taZE`PyoKtp^WKlc:>TgEXQb`dxXqdowN>^h;R:peg^Zqfj>ETdv_kmO;E`oyIJwdwUHlSQP<DHrC<ISElINCdjEwadlMie?l;uiQ?Po@?_T:sPIF;V:jPvVKz:yByuBD^ZT[wKD^blV@jXg=O:N]e^YkJT;z:MB<TGT^dcfHha^icjHju]vlBeBmKueJB_GEvf:pOShbZ?pdqt>@rLpTW@xCohJMgiFACDFMT[d:H;?JE]khehZIw?N;Hup<iKEYn:ekbwqFG]o<ZrToJ?_hIT[N?fkeVSj=xeITyLkO:dgNxeUk`EBSJ=fh_J::qgaxh=e@QHmo^fpcuHcRg`WHHeR:>usidmZ@Rz_j<hh@eDqffTuyigUf`kODmSJPunDqcOquic=QUGT^lPvpmYDGhvtmfLKFzJg:EXfe:p@wLA;hsZL@oF;BLn:Mn;raenHbsEup@lh;vFcQLWMcZRi?q>jk?zCsRNVmSr:JpcLM>ZZIFIRAxm[DKY[PDA`FzkE;VqOQ;LSlzYzGdMsFX<?SNW:S<;kGFi<CBvMtH_DaNlTFXSHpl^]l>;zsF`TICoujYCI=uNgVtNKogcoebl^MebXGIeWrJ>J@wK;qp^DB:B;YijIS;u[PiAfKuoK;n:<:TFAB;_>I^Ba;U;QLKGME:ALk::LRMopEtL`=DAKCA>?;]OgiQp@_:a::e?xKUOTk?LJ:I;uoGJ_sAnfwvKiQ><[cBisMkgZcZGKN[?DqiXcQepcGwDI:KQ>:;U<bqJh=o;m:Cm=x:fENK<pD?LiEhxZ>i[E]Luq:Xo=LuP:=EemucTAEhL>x?M?bSm[qmG@[WiLealJTuUG;eFVaUE;jW:VuS@Ofmjv:YPwvYHgC:<u_:;V<<usZQoLCVKqmEck^civNig:tqXEcGN;iuh]@vNieTE@vfkWO>euDJOBJfT]o>s=N;Gcrk=Xg^];uq<Wjf;V`yhZ]BC=dFGRcul]ExDJKEb;<@lnjmOiu`[I[uEvHKehs?@sqmNUwH`KhzUp@[qnmu=iznf_K^iovd<uEiuu`;ufigwgz>MOAKcC:YDqE`JL^@^JnrW>>]WexURelDfIWqPp`gtTNmZBBeeyPm=lfdJZZOih_IeADi]<<pPBCL=sZmOfzVLe_gcG>oZmec]GgZwQfG_TejBDUDpPnhK^_LZ`=oM`WPvggkxg^Jpdufw^BVgoFKmwphSUKe[g:YGeI@Slp;Ia;pij<jnSSqs[UbU:AZ]:q]hpSujPeXAhmI_FXM<:=erlg>wJaZyOHeZar<oienmgCjmTBao=_J?OsfNaBMo:FIcNC]x>RAsGG@zArr^DsloJchoZD]mfoK>xlMEpV@qjfquKlNONOSeQSj>:;CUmdlTQL<gRucZRI[uZiyhlmB[t_ZdepO<Dm<jgJ:?:g;>gYowSB`OBDai=_:^CHRAeUm@rWmNWNb<?JnTuLvsM>OZcJpllfOPLtfFmj>o;mD:p]vO?TTojRDCPL]@b>;Qf_gjIfInItAbJtRXaiSJfn?<LYf:;YNNQq:`QutQq`LIuui@wfkz@tq^xuBNkbyVfoppAcM:?>?l:NWLNr<DC::L:M::LuFYkFb<llHVWDPbTzQIR?dm;zVZZSnvtKyQpnCQUZi[;qDEYPcoqVkjcDZrH;M<CdTsTz[k?Rq:kCcMaS?bgfKN>lzcyKqXsHotvPPvbgIlX;yR?tuuPzbcLeC;t?<?uf=ODh?uvrAQfMNbeMDg?TSXeBGydtXzDiEN]meOiL<YrPOch>hXygeN@guQBCOT=XyBmvOGPkZipUPefgckxeZfegn`VIJVgT=MPz=oWuyXw^ohTleupijfUPgwHAoEk[^oWTnsPgQEVf]mWilBtWEVgLBdrQVfb_h]oGiwU?WH<COo^wZCcMuo]aldI[z@`IcMUFPjXHY]myic?b^yJ@eG@gnsJndzsy`@SQ:J`:L:SMwYtTABcTZQRaNrK^VF?kO:wwSj>:;tuo:;Moo:;>Roll::Jah::;pGe:k::dQJ:;^hJ:BhwT[dI:mOFAYyfaOt_dJ<ZAP[a:YJm@>y:TuA>;Zx>::CKKaAR?WjgvuMBOJ?KWi<jjfFE?[_^@PA:y:RJsAMsrRRj]sZDyERM[;dT?>AeRPYa_;EJ:Sp>O<JFupmvhip_dmTbmqGflVBKolMlueUAwgAv]a`=izgkKv?^zgCZU=ivuD;uSgz^fmIMfskS`<?QaLszR]fRfFs:zfZ:zqGu`xZ<:Ix^qcuKrq@ONBO<Yholjyo]cO;p:D]HYhEJBShXMFORA[@^m[b:@Q:_NAyP>Kj_]ze]VkPZ_gwnWHdRUskO[c_R]LKyxam]xaK^hLbu<fB;nTMPydj:vuO_asVJvUbSMg`phNU[maJmKhGi[RjwEGjB^Vqv[qow=K[N:ETjL^mcqVjD_`ey@P:Adm<fZmqkCw<jKvEb>@Er?FQ^EtSKFfw<iPwej`UkIUQeOU@m]HNGvPmdehg@Hmh=rTeXmeriufymrecDGvXgpfT<xZ@]h@UcxMJBOJCNM:@E@uDogXQ;ml[Z<Hcn>dk^E@CNWJASB_Z@gYEAPlr:>h>@l^gSUA@ZYM]L;xyIgRZgCaVB;AAOvA::U[mKhtMzS=AL>NcKTKsqDrvUK`gQB;cZA>=X?Dl_Sfcf`laoY[SD>PlcMgbRTThj?ncm[?OE?mRk?[]ZXp:<Z:JRtHAsgDHI::R>AlrMln:JB;ZOAJGDysd]:@;CwSn;V<r:K::>OSH>_e<_`::R?plJC?YAhiP<Sis@;JsKZb_sHA[y>^wLQlR:wXAF:Ctw:;ZNdejlar^ka@q:]RntQdL]kBKNu^xHATD:TfcYK:HGT>[xoZIXd;h?mAhhz?QAR<MPgUsXwSn;EsFdBrUCx<m^sbPU:<T:aVk><X>b<f@eInUVlDLUmghBRLV=[DeoipkAPSP]^qBiCiwV[KEsLKHeVyiWHrH^GCb]R]WZ:hcAtKJcBw=sKIYH_njSBHAX`ga>HBDIxT`QKTe:B^CvLWFJp:@d@wKbC=LggbfCfRht@AkvUeY@<HALXExeb@eBFaHujDqY@MC_R:ca?<@mS@:nCj`:ga_:DmRknOxAmVGkUsYmTmb_dq]SgaJdqDV:bLfVLRs;kdbBW]KBdjDq]a_HoeU>aJCyDX`@As<J<];F:Q=:_;NKGmAcCC_`:;Ra<:G]URgYBmLSw]JBFTVdWMZLTBQ;wDjIJg;hivLVF:BdpUi?E<iXeRFcMFas=C@aK?FKsa<qvl:uahNUeXDaXlL?:ab`dueW^MO:YLTwxndyDRd@dzQTRHcXC]TRyfqdtDWK>TlUUiz@Sdz<hobOdqpQiZGdruYLKSdyLPwJiZAD:b[o>WmLbx]><X@gtLf>C;YAzPmm[fUj>DEkO:e;J:;h?J:<_OJ:<lzk:>rsk:;b>nj?lawSz@TdbDSj@RwKgO@B=>G]kQs]]ZPSrHC>kZLaCr;U:dcuV<aXd[TSv>JEF^[_a:Sps<?DcdkjMTkzgGDSm[wd]P_<adukDSMe_draVk;zEUl@RasNBTW<[aj=]RpJVk<<VVKSCcs^usSCz]XZadYBqVHxBBLTY;xMSpamJaESz]WJb:_@qRlxFCdr[kaw:KLYtbE[b>Apb?PDeY<tSPILYPajIV<VORAd`mThAMk?VXKKEsIqRc^rdwZ:uarBRuYB;NK<M<ubhiiQ_Dt[S`TW?a[soHT?oTs:W>rW:dlB^@]pcMxHwKCSwmS`aFdZDXwJ?Svl<Obfwzph;JCFMmq]sDSGni@:<_=:;f]kN>S:QMQgeLNzM^PKuVXeBKK?:gcNzQ]TMa]dy]Xt[mTAgQGbjPmuT=b[x>HYBwjIGXY]bPtiClcCbC];mbblsXwWoJyNI:>mua::uSHbCBwZ?n^`tlTXqt:tuaerbOdquTr=kY<waqa=tsM><bCtuHWQ?fiKCDR;>_l??jbotiClDkAtrs[xbQsav`YbbysHRza]tyz_HwkeQyU@]k>RyWlfMtml@it=qU<Txa_t^HV@[R?dySv>ASxXS?aEkJiSrajtkyHi?:_XDWfbdS^S:Ua<dbe?PJTlLoR]fZ?rK=[RE>Pw>ZQNKRM<_kOtpJ@WaESq[T?EItx;THOj[?[Xqaq?xDVmaCTAe@B>C?j[Wwentk[V;]Vk@s`>Q=t]KXYbrSzA[j[w:C;RQgBiUXRQZvdrAZxbE?ox[fbNdhKXgaXcPfhkQOPY;R>PP:B[Vxb^?wKYZQ;Sxp:NaGthyTetTdg^`ccC::yTz[FSyR@LbPdkDRpaVcEPRknqCcs[e]Edz]W<Pp:GT@xbC?mZ;mQf?im`gQOdwPT?o=trs]lwvtlzQQ@;dnPX@bASVg=utV`lth<tQSqzihbVl:@anbq`gdUgsD`ZiSiao?wBSoPn><>PARc:WIbqa_t^eSOapcGfe][jdbgNde[`aiQYbK`hTRRP??wdCzaTtlDTk:rBWaTfTg:IeAUajBn:AB:ydy=[J;_HPtXwPIPl;FjZi`[XRV^F:NtXwKNKAe>cQO:SjFqPAbTdm;b^B>@Shtsde@WnvRSiFA[b>S_lKKauS`DT`br?ZeSz[m:FtSN_;N=@YdbAmYK;dOiHc;;_cZ>HdTZQqSvHSe^<`]CXJQh`i[WN:e`dpcIav`fuRTPo`p]Xpag`hdVDseOz]Tlfi`aYDDP;`v`T;QvDHlUm[<xJ;YsQEsU>`aQxXXSWr>Id`PS:ZqidyPDPyOu`SgPN?bSY_PFU?pokP^`gTHyQGxThgiPAC`:<Zsb`gpTJsU`itVbbbdwGMXQmiL;TDa^Oe;UyQs?ZORpQm`fOUdQm:N?STNjI@YF[QJc@@Ul;RO[N:Ka_Sqw>KQQ?`?Yfbp?tWQKQFOx@UZQVOlaRCPLOs`WCPyS`XToT[L`gMmualqgSUACluVYZ:DKiVT>F?ldT<QAy?x^lV=fkE^qvopl^VTr@eloPMRwli=^oUQtZU^lU>^ljGlI@sKc<Fj@_ZKNAF<:NX<Sz;sCnwXM[fiGTAZahBX<UV[sCkTAZaccX<T:KsC]M:R?IYS<RkbBB;ZJD[JzW<V[J`pg<S^g@A<Z:fbNuk`XpJQOv^ipJqO^CTm:KdxB:bPAlUdYJ>jprK:uQ>RrK;tQPUTvb<QyCuv^VZYp]AkZqcc<=T:JBG]M@uPxplqT:qQtmqS@wMpfxSn:JGlthQ>y`oB@NaVQOLY:?pCsNcUP:N>OS@QYObOUv;:J=xTqa=OqxSCPf``:>vazgRK;vaEqYiTC`=?eZ]pJ]uqZ^AaCt`mXUCA:tcLa^Q:^ZU`tLGnxRyQtu[x?MbLOlSSyQMdpJ@zPjOsSSxPt?wSXcqF?p[XHPj`o`UhPM:dkEF=LGhkIIb>?aMWk;YkAm_HbOStXTZPZ>KzMFPEdqKYcQv?l[RJQCc?KUoqrB:nT>q^GoMRbPnGuv^Xa?Oh:oyP:TqnRY`h?p>NVrs?yWYBqGGhnY?PIGyWWor=OjnSIb[GokE>qE:]MRLrEGi]SgqId[]WsQRhdnUHbW>VCWVql`jSWpQkYELALrNurnXXPbdZEXV=lGvqqvpnG[LVDrfGynTHbvGfuUVZDh`MWoKkGhMTqPc`p;UerhGwAnVZahdDSTqvqYnSUJKG^fUmqih`sAFrkGjfV]qIduETNqYsNURJQ;cKEWdQGGqUV@;=jRT@wqFhpfVk=ph_nVuqaSVnUHqxhsfXMavGgfWz:KhyEWoKcGmUX;PShxnYqP>?eD>PqM`nEUkQghsnWmq@SEURa;nGu=Ryq;hinTNqLgGSU@qP:P=T;rKO_ASLqkWuv]:KBWzMRXrRWkEWFrwhnAqWPBhnvRub=h_uVlrzh`ZAZqwW]^VirJWyfUWbfbHvXTrcWblRdqGh[AWXrfiX=WKrUGofRlrVsy;VJqT?zHVcqhGuvYTwgdtKYcq`hZQSXPphbET<qCGiQWdrSGzfV`rTq^AR_kgW[;WuPThrSTtqthhqVHQZ:bnVpqqhvQU[rWWlAYFrfS]QRHrSDNrYGr^p`qYSq_hqfShr`W]@O@xW>NbXPqWdxfXXrGhpvYxqdYErTyq@CrrY]rFGwvXarhOdQWJ?PNM=WCret`UTmqRxyAX<roxjfX_diSpPXnPsbNlYPPVGerYxPGdgEo[aJpa?WK>Bpy?XKa<>C?TlQPAN`Tla=oMElmwwj:fqDxFSnB>Tkt<H?QLJgdd?TntoprwAzZCFOaUHQ?t]M:NrYkDD=MbNKEL=PPwp[WkEQ@l]XaU@ileVVO;mpqVYb@ZBqhWoPVhw:[UPcZMVSshqpdcQ?`alJwUWvbnBWVzDCA<wW=JlpxwRR>JCD@OoJ@;O<O:I_sL@KB`J=exUe:UpdDTcbvp]ESAwIYCdYLPP`rPTPaw`uLVNawGwGg`:<G^LMNa:PMTRnqTdZbRqbBNO[UVQspliVEqw?c;T_;VJ<YdX>VeYTVwbjCfo?mb@R;GXmb]`zCUnafduCYWKR`t?UfaH?rZwybF:JT=HQbp^:ts_J=xXYsbk=dJxSgc=j]ONIy`bgP:Ic=yQT>HD=fnloHG=mHTEqmKFU_[?XC?qRPPd=tBSv>O=gZyibfWkbXtrI:GQYcI;WyuNVKv=ukzz[exqkw;SE=aKROrHWtkxhrnJJBzdCmWnktAVB^m;RubTqcUWHbxxpJ>IqClhgYIrv:LzTfQfxjxaG^VvJ>cwTouOhXYqWl^hY?pH>dJoDH;pa^qzr>qwwTP[KpuwTlN^pfOLBa;AKwWx[zlfSNY@>OP:uWx``OSLbw=`?]f@]GVK]ScbI`g;>qxqjG:zSQF`hxXidL`jdYARPAFWXeVEEX?MfKp^rqApUsk=SNuI_sF?cwKXoURvQlFlcl>qOo:;ZLHIVia>?PawurRsiIJC[N;iIN[BLAPHPA<ssHHGZXstqIn^y?LiI=^s>gbBM^rsvHIEXdsyiIZMssy?B_s=sxy]:MfRv;IA^zRw;HQ^u>xiIM^`>wiHcMnaXHHSaE>zyI[^x>vlIViyL^kH@rS[>BrXTR^YmPQGsBsQV@O]SRb`s[bVeKUDx`PWLQS^`xSpb^SrHXuPDBp=U=qM]UdSnb_NIxXXOKMb:yPIy=_qRVHlOoJw`PJ:V>MIadxOlAa;Qo;pPAShCukwtIs?kNsUqU@=TTlOZpu@UUqdzEC@Q;[s<O;vroS_fAArvX;NAEZYk?r>:;gSo::kAK`NYkN`MbrFZ;YUNmZ>DiT:KyG^uREqc?ofAZQxOXNw;a^Ma_cAWhde?W=PsS^jT^PVk@GUjRNpzjULwyUIf@WHQVJPo::onG@AKU=ozaK::GxFc?QosSbTsCaV@ZPSsf<wPLhaEUCrSMkfbdIx=fITiqEkLSUv_?=D>dBldOjMAMsWMgERuaYD?PSz:ydvUcHWcnngt=qVxwdF^r:d`pVfrdDAvR^Iy=uNuhqaMgBs>Isd`HWfUm:@JuNrzsWPXtIt=_^`x[i`msyjIDdaNt<afnkIRir_h^TUmJM=[ZzsQVvYgxQ>w_HBtgIs?awuYIFxlQTvH[ENsAYHY?c;TzIobQF?H:znfeTZQ^d_DUjHfWe^W=rV_J<@qa`MpL;OIE>XSCV;ospZyF[REzGdwIex_FvbWwpm[>EQ^xshWIqmpnByUSDpfqSmHw^]cw=OnEL[AQAAxhhWDHqEjpN;EHEdT@eIrXZH[zrZCIzW:CflzsY>Z@;NdoT:mCmjforK_TRve:]deD?MabpwwstP?^uPa`Hwx<_s>weMcZuBqL=ZJxbIYObVyqgjhjNzuaxFSdSojP`uu^`H[MmZ>@QQEaLwGaw`zfgARvSfJxN:lMjF>>IGts<t<I?M`mVMaGMbTBiazSll<rqrBDB;NjtOnZtgi`GzkvViqn]mv<iCOeHR[[VEpVMOIchWuhAIoWiyYZQIEfDtYHjIMmsZiWIY:A_Bf>IgwH?jne:@sxFpKVMzHccMm[PPn`fuRYaJBPjR<iYEiW@<jB`wZtqQ[fZg?>Is=f:=cBccP;WQrC^yosHq>EbYRTQiIYJP]wi=LLYsIhfc<z@jYOgDkqbtE]@SahftbdeZ;iFUZuI;rix:=haJ`euwP:wdd:?ijKfa`W<i?rKuvwaQff=]mvK=wLY[CrOrGUTceEdT;ci@D>zWEPF^]hTjr?lrBwzIe]_^>DIiEdzTq:Qx[@uuWwv@BRzqetRwU>iu^rzRTIzxuwXsV@;U[pIvzlZswKHX^iLusG?EloNtxMDbMpCiK^pHgY__=krT][Igp:zgjo=lmxpauMoNwaik:ImtPHvgGRziII^gMZ[[Q`Bz;yHCfjss[IbKuLWlHQ_a>v[I_MzsyLhAirmsR>cZ=l;wdZHWsw`i>M`atnc`Cz:tNaMEa_vFi`^vVveb<x?_u=W>PjVctHofgwxtit^pxTVjdT?mzsbiAUdYCjgcDNvmhKUpgyKJrfnOXYIZxoBygjgErgvxNPfvNzbaLfqmyqu:vzTwVI@xfnqsWMMu?U=QqxmGRKQixh@XlQ`fu`o:;YGo::r`DfHwOqgtcCZ><M=HP@WzuCIHgtbgL=ii:Let^iGdniw]HAWgTHcCj>BeTAjJnxVtHrnEnHy>Hp:Ruy_bxnuJxrrdW^qw@aEn^igYIyCk<srivnyTXDQYneXsFHIGhwukjVfqzY];cEuHoVCHadHSLQUGhHtv?:Ep<ynqkEoutvIm^lHtZiUnuyy;HAkfvWPjOSZ<tJi@MbiuwxG`PeubwkKB]IkiG_C;<BjOenSOBikhpeWsP^dw]uJi;SsPw^jjOuHtCJWUiW@HiFAobSkPC:BeXQs@`cuYEiFtbmXvpGfv_dqjgtjTsUrgNRuusGsd]@DmvcjPWE^PH?puvcX;Sn[z>HUfruyj;FAxMXkYyAx[V>YnfqCVci=xu]uIqBUi]u[iSld]x[iTpy@vxhFUtlmsj]^h@vsiFUoSq^hypnzRe:QnNwY?KJHLLuj@?qpcyM[IEl<RwgjEPaylJtE]XcE;uUi:twqrkk>>Qa:>:AmRbhEyRtxiL`oHx?IQAg:?kIwGsmtISyekB?dHhnc;zB:fEvguWi>[x_xjjrUimtQjyUj_s^ji`eFswjndUdYVhIEV^bjH;S`mwYiinxktowcEdesjiKn`DwNqMdxDzmY=Ms@U^HM]TZusYSStWKCPFOoixRWvGf@SnI;UNPk`hdUPPkhl?E;ovfjqZJT>CQCBdMWz[nW]ezritnqHsQIEWKVM:YTFl<_TjrvtsKZiqf]eygHCFJwx@K>^fL<IIjDX;XDXjEUiwLXAU^nUiYsLIbTLapSs[s]q]AfvViYLOh[yj;cjEuyXiXAqLYsHZQla;;XfWw?w_Xzf_gPnakb[ty?j^fgCznrY]VZ>_k@`xLzSjjW`PT]Z>E^TsQBhfv??sX:f[[sLX^ffnlHjPAcKsijcQbuzHizpg?yijuQfEjUHJfZuu?DuQquy_YIUN@tP;tAug>[jo^tKyGWaEuhWo`pAeSUud`eXzXoXXE_csL;KaapMP?s:POy>j^AfXAli][wW_gX:=hwWhJppg<VpJwCuO:nJ?EtH?AKbZWlsLalcl:ywY_=`IStigbkCwkIXCpmypiR`ImwFjgQDCupoRbus@Bq`dmdzbHYBfds>YH?iPRXr@=fk?Zmiva>PBiICfmTKQYCtuw_Iof^psLsKAeURtX=xr;uaiCSbnRojRpwGvMY[vntYQqOSswu;EkXlR@]xxEqE:dPJbhSwgibbdpcSrSFCMTfYUcVussXT=v[tdYvfnCsViQQhG@`JnhpmxhK:GiVOGYFoY`Vh;;Oj[vvXRQsKsXYlAxDXtY<x:@xObofZpsXXoEnSsGXWblZygJ;ePl=B^stip=zHvvrqS::eOsGsqYKrqxuIXdO_xuBKQefVNbXznrksmYdnaWwT:xrdysoJzr`yz^iBKOxvIXrexG?bXY=bw=wHIOyWyUYgf^nVhXp`DGtYXOQ^VMXeNIjwsLHYrr`x_XkUZOvil?AsOsjqOAvBv[j^RZFi]eyiiOxKjhllOxrAy?u^xRtTIxOxlj;pfOwj=QcrOyj@capnmO:DD_pu_eSD_]SBaTcuptajF:I?stifGaMuWY[rvqs?jurkenusgGjcstWv:RkA[IpfDmdgeWVJ_uOj:fi:AIPLMhPvCHGU]Tu`jKoC>sOjkMucHOjJvpPtz`pUw_w]YaXuqswssbdhzhiR`m`vbjhd`CvSIQUxQTk:SIntwti>EdduZPiMnqttIHOtmztIQEz^s?HDDoNzVjXOjqXXUkbpmzMsTc[Ws<iDb[CzrYebw;vmibezJLZ:NjexvkzO:?EwJyef^nYsz<AwiTQXBrtWN<aNrbZvcIkhnauqEVNbgKPTia[tyniIGcUyUqC:KFzGHNnsixKaFnv?WMQAqHR?LlvCdUss;NgYovP[k>BRMMagSdiyr^TvzovfIPSby>LPSi>NWexlKt;uyQm:OS@rrHdwZ=HXCvxmzjYkf_yVRIbelVbOITsXHY>aSD[dvbrZX<vv?@YvcuUV[m:J>_LI@q<M<fbs?dtd_e:Io<u:yKIdc?Cr];Rhs_Yqjxc;ZQFO_yu`YE>Mvz_:_cAvw_fR=VCuMa[KsAtJ:fjbDTXjijf[XB?yb]EugroYsdUmzRd[fzdQPr`kzSymHXXtOb?vcWvtiKrf`XKJdru<cDyFfgQwKztnofxwQ]BmFiyzOesVtMiNfmbx?AeYoAzzHqYiOVtyzOqFyJz__[FxUq<vi?WMIongJwlzC=dbvckvMkDTla?paSuHyPShvEiQpYmvtzjNKYtT`ywkTfXDz:IlEyKK@hsyzXzmj]>NyzS`yWtezabzaXLHLNHKvLIilu@umHPEm^yRyce_m^czXEl^vDH`efMbYrqIuVflinJVLsZh@^xMoX^rBpwXwbrl]MyMZPU[N:HWsCpDZR>jFF:zXM>CsTEmgq^`Z>IPEQk]U:b]CzjxBb_s=CGYA_:[N<wmq_g:t@Ll_pjzM^sCuiGj:U]K<X^g@;DYL:HOscxWH;==L:s;DAOClzGX?JHeB_yy^eMvhYoZKXSJIzAiExQiAcaeGuQJGhpuYzwjpmxUbQzv:z_b:vl:@e]HYZmzVz_m^RoGQiY;T^hewEA_MVdEdFSe<hTwt=h_xKO=Z;e<hvFFyiEWhI]UWWIa;SYwCSxYO[gWTDbEW^U`Sw>MeZdEjdjZmFGux=ecJWcbffd]GfZ;>:Qfxxrd]c>:WQ;brgeVDjZiKoT=@:tZC:gUvcegwIbAx=xhLJe:LrKGdZzwAb__wYBZzwkr`UwXjdt?nOehwS:WThX?ivwJYapGyBFmxLr]jFou>@xzY_^xVxj?GuieF:U`eLhO?fJV<dZ:gHt`rFqGak`XtiatT:BIGpV>rWc>GCJy:<:ZzkAJJhBBCgMtfHZ``GR;vlet:XCcmsVE[MwZY[fwQPfkgij^owy=i>;G:SQxrNDB=iYa>V_RbnwO?apxC=bp:rk`TgcHEkht:NtFJ]iWwJZMMwi=bMwBZOwhU=]lRizaKksZQtxbbiN=rNDMh>=b>glcdpxjveupXj`Shtbgmh_df:<KYcgVargcWr_ZiwouCIWYI]BWAUdHtZj__GJjZjW`ndwhqZX_wRz_EwjUfmWKY_?Wjzgodi`^HWQEcw`vo:F<YYix>SY[gwtY[xwLBiyxA>DrF:Y`JxHSa@stZM?xySabJFvaowkO^bVq_bbV_ni@hEMhTV_OgR<C=hSGY]Bql_paQV@``^Fa;B:;khoHyGSldNwno=HZSku;OVmiXSnpi;fV@=iW:B=y]tnXXbGZ_kaEk]q@BF`qnHMjaem:K;PkEpJykFcHUwQjJn:Ilyes_CyCkIFq:LlBP]=qT;`Xqsumml[yCtrQq=wocPbDQu;Xjn>;>v`z>TBGz:N<@SyW>o?;mXkl;t:<yB`noZZg[k<XLblmXXR:`HnYKYZHkHFyUEn@i^[lDyH]rmi<joP:NZAXLtkCs;wkD];nC;@y;jn;qQa;X;ormEiQXnayhjnEi<?mla:<;hZN_::JhWobqy_]bwFypy:RBIlPGUJUi_aAgq]wqz<CPkbHeTmG;yLnxyASlUXOJDWTJQlWi>kBT;`>rhyLLmT;`kCT;QJG`;tR<PHbznBsZ@moHZkEhi<MmLX<RDLahLmHqfDl`;LkF=yXRA?yVGQtPGj@O;YQ=jXqZG`yfxnIaFmnaPycGLiCoqPP_tnPPIyLuPmBCo;;mo^qSmmbea]mRqV::hPheo<]Gem]HfENWPjYkGqOapWPjmkt;ILlG;vMoGyHBAhqQy^GHdjlaypcFy;DJCy;sIry;ZnmWysBFQqaTrQqpXrCPc`bmPMRF^;Rgr];p`mSPSRHQi]bof;jhoDsP@lL]Mepmyb=JU;IsHC;HOp=ydxoAHHB?`P_>Fv;oQn>PDenePKcIOPfrn=a=U;A;MVlzya:AA;@JGb;OeoXPhepPqrZqnTYDnuqDsFk[TsFxP=kB=PPsIpP_rlGymSmh;oTlEid_quXPIpyqGjpvqHDktgarqj;^@lHaWsEi;IzpYykkCbiMkDe]GNMe;NcIJ[pUMn]JcFuaa`nl;AsH?y@RCu;SA:aqr`nnXBhqO;GNJaqk_G>HgRHbVwRChX]RFPi[iqcBTVpZ[bJBf;<Qqz;mD=N[fGZmLQur::rLmbyTkBwigzpDXz>qZXH?oq;^]lf]QgnYy?xpViTdpVi:p;y:XMlryZNIsahCN;DJ>Gg[B>D?oLdmp;>YlIwoYli;@ZHsidMqJ[AakmLtBGR;EpQIX=_DzieRFfq@i<NqP_;xquND>BHQmhqqB=VuVZ@xJR:>cHs:Aradk<;uLzar]DRCXLOkBHqt<kY_LnnS;@tqVTxR]OcuNCV[l?npycrn;qRoBXZljnr;mSrX;GdklyeDkoPB<AR[uFpIHiDmbwYYnMP`sHSaCrpuiQmrD[<BHjB]mJr;^kBwqCoE@L?cIr;=>EMHM>FhymoHQNYN=fH:nk?;Fnmq[rcIfikwkV;Y>DV;uNDw[wNEG;uVOm[sYqH;tvqisEw@bZWBFTXVM_PyINp=;c`aisLzoFPz_Dm[KHpw[mzlVP[kD`POBI;[i]AFJY_DzXN`<PX<FCRgZNEK[E[rLVBFEIaiFEXepr?nJ]D<<uoFDKP=HraXSNC_[KcH<[?FE<HNyaR;PcFDi@dqisy@:gPGwqgHkLlHaiynv;mY^<[ZsC=XtoKQ]pFBCyRFEd[?wkJ;dObtLHAku;_gBK;hCP:gggBYXrBqrui?At;JREC@hCLs;nJGsPKNpG[ANlDk`nnKXU_Al;uNH][=e_;[E[lW[L[^Ky:<lVatgDD[QNCN;pgFS;iVQKXmzAS[TsBnXj`oKX@_Eo[RkE^;rNDF[vnp[yg_IzaGjph[AJGuaO=lfX?pnqiqZM=;SEmY;<vZdXAamdXqorp]lEKU>E^Jd;EAoWJgJryX?pliJD:;;XiVIj;=VEZ:_EkLXfVBrXJi]y;Ks;?swC?D[hk;MJMjAkJpUJJiVE=KJMj?RkwC:TPw:;hLaT>?JR[bpsz<>:mgppdyrpnv[js?gHY:BMyKTov@L^nBycfpNX>fmcy^EJdTqGmPZDGqnyh?LWD;^LSTGU[liKYosyCYkCi>`kZ;O^o>yenKYZ=:bsyfYm>yKflKyyJaAyezpJ:_bnoqpzkaH[io:se`oTPhznZ;D_IWJQfk:;pCmwyhhlwy[RCY;mMp^[;_I^[?_G]ynfqN[G_CP;f`lPTNm@uPxQow[TQrWX@QoXTPQkKyO<H?P:>FZ[:NEj@SMoDyLQqt[VWnlyXNDyylIpPemWpL[eBbLiC<DqJSoDc[ScC]:sE?a[yWrc[bXoR[GcCv[f>EP[<rm@XTQ_tkZ:?ZOJ:=eqasOIcXo;AtIzGPY`:h:HH`Wuj[k^GbgpxyJJ<J`cLR<G?^UxkZTl<yc@bFYA_B^D>SK=^M[KOfcMB^nYjW<HBRhx_K<hwgZN>JGjfh<hjZ:ZJnhLtxj[igEkMu<xcOFVn`_c=GY]c<NtfWwLe;E=Aj_CZJ`]xxakJV=PkNf=?Yfk^YjaMxHkY>^JZUShlF>gwsYfJ]aZ@v<k^j=xNY]U<otZc^C=ZlGqBOk^JRQ_]b]:N]>Y_><wZKvwO:QR^NZMJJUYhU<oAak^dYjf<rj[yWkBOL=w_LfxB?gN]<ZOq<c?]nFIOffxQ>R@g^Y]rgtcX@hUcKUx@_KshIo_c^R_DU<AY^c]Tq]vx[F@vxZZUo]Yhc@WUbaZ;e_X[Ws:<P_JzdF]DJWe<X>Ko]b_QF]f_Vc<kZSU=UGZogl?fAwJUZKxyQcbwnx]Dxo_@DxPEibxmP_Z:AxjKxoUespE@_wJ^A[lwT^`lxgBi:<SZFMVDz^rwyzd[:;zcrw[zcL]KzZe:WubQxbKbMW_s?xo>iD:^UQhQGvQd:^k>QN;okOy=L=iuxDOhogDNQzx>u[d<BbdUVD:Qux;:RKJOGauxM>T@x_ZLl=p:M_^Ol=@wP=j@xOecawNfjo]u=cqwVkSN<KZNEdxBR_GssY>g_kY<KHcOw_w>Sy=fBV>w[S]AVmH;ohzEiT]>>Se]KBWNhK^aN^u`cd=?ZPT^^IjWWb`Bzw;qjP=P>Ug<grg=hpb[F^BE`DhqkQDgRBOBVXkTggsYZH<CNQ=NoBVTgE``_<vCdThv`hThNoRShtkKggLBJW<ZU^xGYNPg]hkMi<dj^W=S>QW=t>VX<oOeX=QcRhxtxg>]XBUX<J`ZP<<sOnxckKFgrkLu]?ZY?xWEfg<?JX??zkYlGIO^jV[OiDVA_WqWJIaq<SO[q=OY]n<d=gegGV:[=p`ZqkloVwcTBJb<M`eH<FBTTgooOH<CkQ[<tkRK==Sgi]VoNdgwoMqBDBXLxMJMnxH@[s^h_PP^W_SP]CT>agToLc^enh>^<O`ahm_VNgXNKN=iJKZ^YqiC=hd[S=Z><>g>Qbfw_QdLwNQjm=M`bwwFBVJBv`ZYF]u]WFirZLxTrfJxJQjJx]Q[G<aAdLwPAhhFusW?tHsJHwLQdJ:]FXWV:oY^gW`aK^RQhr<qj[j<;sTc<]ZNZ;uFOj<JNL_VWsUKVxsTKx@EcY<DIacxIP]BGue;AogzZexfsJC^j[_C^tZ@]^AsK]^bsP:=u^^]^B:SIxndDrx?P@Cx;zioV?JIedOFPc:Z=dbpuNTbNpLECwAoF:[c>Pm^rNYPwEUdLVIIdJ=]=eD^UNPc:DFKnh@M[Z]=JP`<R>YZ^qNKu^bBRNx]>JAGrQjuhINXP;zObq]oyEfxXO_]<ccOec;MfV[i`g``CYht^l_T;=Q_PltxlhaoaZBY[pMac:BoWXwhbiC:OoRMKnd=gxuf^Z;xbdEdR:BVwEvgVx<bhRWK_FqV[>Yt^<oPT<Bt`B^QZXrg?cUTVmvjUwoj@VFYkAp;M_UwJzJMx=_xc<^F:Bi]:fc?^K>TBVLoSs^Sjdp]yxix<?JB::?so::QCubBrYS>fPZ]Ov@QRbMJFsRfUrtvq@l]eZxustjOJ<MJ]SRnRix?XBao>yBfFuHbTj:ys:aUfRq=ufE=T?YUQg?AUU>>uzC[?GRux@UiOf@PZyxAXBnFuERsDB:_Sv@URhv?dkjysIm>vRU:iGAxczivfcu;ScYNyulnWE@th@VtxUViuqklq@YR`dvKR]T?QcgBvuePx@?rBA>rR_A@UJ[N=GsJ:=nlc::AyEdl^HDUk=HB@lrAQ:JWSmh[bmp@JNQp[[SNI;y__HDPtm<alQbbHJSHEGyVqCfKWqDk:<c:fkZ:AAsar<o<KQ@DsZJBnRJ::Ldc:;dKJVDZ::SpJ:<Wdgf]`VUJCGgGn[KU;aknVLGZid<G[:::;mcko::`_T::V_p::;^mZ:Au`D;L::AR=::CKDdmDCPjNmsuSUpF[LVDyqHqFFKrOnVZrjr]lLPBwqmPNO[wJAKlWcomlwPHgH_triyiVMJXqwFBysDBRiFGnsllwD=TQfPKiH^kRyRaEnl[y<eHk:GFXkupsycB]ditcmqJSGqby_;lgXPaFh:QsquHLc:?@rYnIyIaoQiMDDgqBLDoig<Hu;SJkvljuIzyZeGxXiJngleh>_DByG];YuEUKRKm?@Z@Hi;Z]GWKrTD<X]PIsal?QLyaOpVihXDO;XyETLXMoClNNBJyZuEZiYeFLld]Hl[THELlwXDPZ>>Fv;r:FPKeyHDPqyF^lRHqBeyXq@lpgC?;hgIQHBmGvKRuCjl?BE^lHUNmlDnP_qxBHD[:DB?y>xZlPAUqDPyyFGa<HFRDnL__KeHG:CWyI:C=yBW@Pm:JXFFEPZnSoJCuWmIlKHFr;RHpni:HGEKpqIalCj_PlSkl:ZzPD]KlR;_cw@C_[jxoLHZa>^H[HGylCHI^HamH_KOqF`lwrmHKrPFWHMHF_CEHHSl=HD_Cg[H_CfcCiBvcFbybjaxlD`myBupnN;IkFY_JmFyPN`?QHEMkJye;BH<FXE:C@PBYlnx@yKILGyK?kIx[prpG[R]pAiIokjll[Hz@LtraiZaAk[R>EXKomFyKxmEx[QmLtl[ik@imU=:JjHC@JscCGqWwoURQw<bHyArRl@XGr[CTqslqXGMyz@CElLo:KKOwDOX@KCR:oaBaelYnFXIAnY[XflfyCplVX;eZR>IuE:gQXBSKp>nNi>Pq>kslpSKO_CvKP;ntKHQrsapKBw[d:DJKbbqvsZUr?KPLFcHW@qR[CUq_;fLEIaweE^XfkbRHLUnQ[eUnOK:gkXgNVC]NmEkGN_XqDkN_Dk:WgCUa`VofXTVpJlqVDklnVGCXP@FRX^J@RXqDA]aSVBFg?VHqeBYOEltwGU>rUrRXKl=QXxVmU[=UoQXE>IU[ETHjkUQmv[::aqurKIhK@oquCzInD[]uIMlRDDLCx?qMytAnLCiXFfV@v]mCcaCmCDCHARyKFbD_pLDCHflDCMKqAVqaGeC`>q_m><DgqAqBNyL_DwlYhlDVp<IBebMQmXwoqJ;gJ:`i;:IJ;iaBFyahmFyCgqVy_>leZ;CqtC=bm@yqaGaRYdr;;A];:J=>oVq[nQk;q:D`ii:Ggyq:FOi=bkxKJ;nXNrwG<JW]@XJOxo?[j>pk;;ULk;yTlOCBuZz[Bv]UlWTIlPZ^`wqjNlzZgCniHvCCQR[:@B;QCEgyDCnOCOoJpC_@LpCHB;pCPPIqa;dB?RFP<glK`lglkeDblSw?@KK<HFCAeCFaBuI`;k;D^:Um:F;tVnoqUFE`y]K=XJqdDOwzdHoaZSHZCzgHa;_<H^KJiDCCj;FjK?;CVHBdB>Ch>DqKvXm<JheQCJdOZnRLo:::P`k:VkB[kDoWD]I?bw=QcVV]ojIF[dbcN=jfic<SAZ_MRLSl^_]NbxBNSLF^sULFFrG@shb;Y=<wXqh?mJU?`mU:CoNTCVtFWlxwLRd^rsNrwZ>Vb;@Q:S]_d^ZhXwJyZEmMYxIFKS^XZUoMlwP@MCwTSWvFNF=o>Jj^fE`CxjbidVmAhfwIFTT]XoSj^H``rW@>Wm^S::`]]jjwLGJKH]VvANxj[;;=S_UeWTjc]<JDVRL=b>iVf>Ww=M:JgMuY[cgMBVi=ofbFhm<XW<kWibllVJX<t>N]g=taX=HBQs^PAIup:_Q:;zMeghSFI<=eVUCJ;gVWx;c>rWUkR:M@Q:O^hufB;C:Rx<y=^i]t:MH<gZQ^whJO:x<Ece]BBSzVkhjF]Yvee^gDJWg^hg<^tr;HMxZ>::".charCodeAt(C++))?H-59:H-58),B|=(0<(H&(G/=2))?1:0)<<k,++k}for(var J,B,k,V,H,s=[],K=1,w=3,c=1,F=[],G=0,C=0;;){if(Z(c+1),2==B)return F.join("");-2&(V=B)||(Z(8*B+8),s[V=w++]=String.fromCharCode(B),--K||(K=2<<c++)),F.push(V=s[V]||J+J[0]),J&&(s[w++]=J+V[0],--K||(K=2<<c++)),J=V}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(e) {
+            try {
+                u(n.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                u(n["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function u(e) {
+            e.done ? r(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        u((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
+            case 0:
+            case 1:
+                o = i;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                a = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (o = u.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                    u.label = i[1];
+                    break
+                }
+                if (6 === i[0] && u.label < o[1]) {
+                    u.label = o[1],
+                    o = i;
+                    break
+                }
+                if (o && u.label < o[2]) {
+                    u.label = o[2],
+                    u.ops.push(i);
+                    break
+                }
+                o[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            i = t.call(e, u)
+        } catch(n) {
+            i = [6, n],
+            a = 0
+        } finally {
+            r = o = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, a, o, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t._isclick = !1,
+            t.timeArr = [60, 150, 300, 480, 720, 1080, 1500, 1800],
+            t.skinName = PeakJihadLeisureModeSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initBtnClose("peakjihad_leisure_mode_title_png", this),
+            e.prototype.initBtnHelp.call(this,
+            function() {
+                var e = {};
+                e.titleSource = RES.getRes("PeakJihad_rule_title_png"),
+                e.data = [{
+                    tabName: "基本规则",
+                    id: 143
+                },
+                {
+                    tabName: "段位规则",
+                    id: 144
+                },
+                {
+                    tabName: "排位规则",
+                    id: 145
+                }],
+                tipsPop.TipsPop.openMulitHelpPop(e)
+            },
+            this),
+            this.adaptBgByScale(this.bg),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breakLineSynchronizedData, this),
+            ImageButtonUtil.add(this.ima3, this.match, this, !1),
+            ImageButtonUtil.add(this.ima6,
+            function() {
+                PetManager.updateBagInfo(function() {
+                    t.startMatch()
+                })
+            },
+            this, !1),
+            ImageButtonUtil.add(this.imaTest,
+            function() {
+                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain")
+            },
+            this, !1),
+            ImageButtonUtil.add(this.none,
+            function() {
+                BubblerManager.getInstance().showText("敬请期待")
+            },
+            this, !1)
+        },
+        t.prototype.match = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t = this;
+                return __generator(this,
+                function(i) {
+                    switch (i.label) {
+                    case 0:
+                        return [4, this.checkReward()];
+                    case 1:
+                        return (e = i.sent()) ? (KTool.getMultiValue([16625, 100689, 16626],
+                        function(e) {
+                            if (e[0] > 0 || e[1] > 0) {
+                                var i = SystemTimerManager.time;
+                                if (e[0] > 0 || e[1] > 0) {
+                                    var n = 0;
+                                    e[0] > 0 && (n = e[0] + t.timeArr[Math.min(e[2], t.timeArr.length - 1)]),
+                                    e[0] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
+                                    function() {
+                                        t.next1()
+                                    }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
+                                }
+                            } else PetManager.updateBagInfo(function() {
+                                PeakJihadController.getFristBagALLPetLvIsFull2() ? t.next1() : Alarm.show("请在出战背包内放入6只满级并且满状态的精灵再来参加巅峰战哦！",
+                                function() {
+                                    ModuleManager.showModuleByID(10)
+                                })
+                            })
+                        }), [2]) : (Alert.show("请领取竞技模式赛季结算奖励后进行匹配",
+                        function() {
+                            PeakJihadController.isBird ? Alert.show("您当前未解锁竞技模式，通关巅峰初阶试炼后可解锁，是否需要前往？",
+                            function() {
+                                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain", AppDoStyle.HIDEN)
+                            }) : ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN)
+                        }), [2])
+                    }
+                })
+            })
+        },
+        t.prototype.next1 = function() {
+            var e = this;
+            SocketConnection.sendByQueue(45137, [1, 1],
+            function() {
+                ModuleManager.showModuleByID(43, {
+                    callback: null,
+                    thisObj: e,
+                    fightMod: 1
+                })
+            })
+        },
+        t.prototype.startMatch = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t = this;
+                return __generator(this,
+                function(i) {
+                    switch (i.label) {
+                    case 0:
+                        return PeakJihadController.getAllBagALLPetLvIsFull() ? [4, this.checkReward()] : (Alert.show("请在出战背包放入至少六只精灵，并保证背包所有精灵为满级满状态再开始对战！",
+                        function() {
+                            ModuleManager.showModuleByID(config.ModuleConst.PET_BAG)
+                        }), [2]);
+                    case 1:
+                        return (e = i.sent()) ? this._isclick ? [2] : (this._isclick = !0, KTool.getMultiValue([3307, 16625, 100689, 16626],
+                        function(e) {
+                            t._curStep = e[0],
+                            t._isclick = !1;
+                            var i = SystemTimerManager.time;
+                            if (e[1] > 0 || e[2] > 0) {
+                                var n = 0;
+                                e[1] > 0 && (n = e[1] + t.timeArr[Math.min(e[3], t.timeArr.length - 1)]),
+                                e[1] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
+                                function() {
+                                    t.next()
+                                }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
+                            } else t.next()
+                        }), [2]) : (Alert.show("请领取竞技模式赛季结算奖励后进行匹配",
+                        function() {
+                            PeakJihadController.isBird ? Alert.show("您当前未解锁竞技模式，通关巅峰初阶试炼后可解锁，是否需要前往？",
+                            function() {
+                                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain", AppDoStyle.HIDEN)
+                            }) : ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN)
+                        }), [2])
+                    }
+                })
+            })
+        },
+        t.prototype.next = function() {
+            var e = this;
+            0 == this._curStep && SocketConnection.sendByQueue(45137, [1, 2],
+            function(t) {
+                ModuleManager.showModuleByID(43, {
+                    callback: function() {},
+                    thisObj: e,
+                    fightMod: 2
+                })
+            })
+        },
+        t.prototype.checkReward = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return [4, KTool.getMultiValueAsync([124799])];
+                    case 1:
+                        return e = t.sent(),
+                        [2, 1 == e[0]]
+                    }
+                })
+            })
+        },
+        t.prototype.breakLineSynchronizedData = function() {
+            var e = this;
+            KTool.getMultiValue([3307, 1046],
+            function(t) {
+                e._curStep = t[0],
+                1 == t[0] && 1 == t[1] && (ModuleManager.hideModule("peakJihadMatchWaitModePanel"), ModuleManager.showModuleByID(43, {
+                    callback: function() {},
+                    thisObj: e,
+                    fightMod: 2
+                }))
+            })
+        },
+        t
+    } (BaseModule);
+    e.PeakJihadLeisureMode = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadLeisureMode")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(e) {
+            try {
+                u(n.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                u(n["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function u(e) {
+            e.done ? r(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        u((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
+            case 0:
+            case 1:
+                o = i;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                a = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (o = u.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                    u.label = i[1];
+                    break
+                }
+                if (6 === i[0] && u.label < o[1]) {
+                    u.label = o[1],
+                    o = i;
+                    break
+                }
+                if (o && u.label < o[2]) {
+                    u.label = o[2],
+                    u.ops.push(i);
+                    break
+                }
+                o[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            i = t.call(e, u)
+        } catch(n) {
+            i = [6, n],
+            a = 0
+        } finally {
+            r = o = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, a, o, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(e) {
+        function t(t) {
+            var i = e.call(this, t) || this;
+            return i.data = t,
+            i.skinName = PeakjihadfirstpageSkin,
+            i
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            e.prototype.initBtnClose.call(this, "PeakJihadFirstPage_title_png", this),
+            e.prototype.initBtnHelp.call(this,
+            function() {
+                var e = {};
+                e.titleSource = RES.getRes("PeakJihad_rule_title_png"),
+                e.data = [{
+                    tabName: "基本规则",
+                    id: 143
+                },
+                {
+                    tabName: "段位规则",
+                    id: 144
+                },
+                {
+                    tabName: "排位规则",
+                    id: 145
+                }],
+                tipsPop.TipsPop.openMulitHelpPop(e)
+            },
+            this),
+            this.icon0.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId1),
+            this.icon1.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId2),
+            this.spine = SpineUtil.createAnimate("dianfengshengzhanbeijing");
+            var i = egret.lifecycle.stage.stageWidth,
+            n = Math.max(1, i / 1136);
+            this.spine.scaleX = this.spine.scaleY = n,
+            SpineUtil.play(this.spine, "animation", this.group_ani, null, this, 0),
+            this.addEvent(),
+            this.updatePanelData(),
+            PeakJihadOrderManager.init().then(function() {
+                "sport" == t.data && (ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN), t.data = null)
+            })
+        },
+        t.prototype.reShow = function() {
+            this.updatePanelData()
+        },
+        t.prototype.addEvent = function() {
+            ImageButtonUtil.add(this.icon0,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId1,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.icon1,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId2,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.freeBtn, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn0, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn1, this.onTouchTapImageButton, this, !1),
+            ImageButtonUtil.add(this.rankBtn, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.awardBtn, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btnJingjichi,
+            function() {
+                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsPool", AppDoStyle.HIDEN)
+            },
+            this),
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateItemNums, this)
+        },
+        t.prototype.updateItemNums = function() {
+            this.num0.text = String(ItemManager.getNumByID(PeakJihadController.itemId1)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId1),
+            this.num1.text = String(ItemManager.getNumByID(PeakJihadController.itemId2)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId2)
+        },
+        t.prototype.updatePanelData = function() {
+            var e = this;
+            this.updateItemNums(),
+            KTool.getMultiValue([3315],
+            function(t) {
+                return __awaiter(e, void 0, void 0,
+                function() {
+                    return __generator(this,
+                    function(e) {
+                        switch (e.label) {
+                        case 0:
+                            return this._roomId = t[0],
+                            [4, PeakJihadController.updateBird()];
+                        case 1:
+                            return e.sent(),
+                            [2]
+                        }
+                    })
+                })
+            })
+        },
+        t.prototype.onTouchTapImageButton = function(e) {
+            switch (e.target) {
+            case this.btn1:
+                StatLogger.log("1023版本系统功能", "巅峰圣战", "点击【6V6模式】按钮"),
+                PeakJihad2016Controller.getIsTimeOutNum(function() {
+                    ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN)
+                });
+                break;
+            case this.freeBtn:
+                if (StatLogger.log("1023版本系统功能", "巅峰圣战", "点击【自由模式】按钮"), this._roomId > 0) return ModuleManager.hideModule(this, !0),
+                void ModuleManager.showModule("peakJihadFreeWar", [], null, "PeakJihadRoomPanel");
+                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadFreeMode", AppDoStyle.HIDEN);
+                break;
+            case this.btn0:
+                PeakJihad2016Controller.getIsTimeOutNum(function() {
+                    ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadLeisureMode", AppDoStyle.HIDEN)
+                });
+                break;
+            case this.rankBtn:
+                ModuleManager.showModule("peakJihadRankPanel", ["peak_jihad_rank_panel"]);
+                break;
+            case this.awardBtn:
+                ModuleManager.showModule("peakJihadShopPanel", ["peak_jihad_shop_panel"])
+            }
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseModule);
+    e.PeakJihadFirstPage = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadFirstPage")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e._isPlanner = !1,
+            e.skinName = PeakJihadFreeModeSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.initBtnClose("peakjihad_free_mode_title_png", this,
+            function() {
+                ModuleManager.CloseAll(),
+                ModuleManager.showModuleByID(8)
+            },
+            this),
+            this.adaptBgByScale(this.bg),
+            this.addEvent()
+        },
+        i.prototype.addEvent = function() {
+            ImageButtonUtil.add(this.sJoinBtn, this.onTouchTapImageButton, this, !1),
+            ImageButtonUtil.add(this.cBtn, this.onTouchTapImageButton, this, !1),
+            ImageButtonUtil.add(this.dJoinBtn, this.onTouchTapImageButton, this, !1)
+        },
+        i.prototype.onTouchTapImageButton = function(e) {
+            switch (e.target) {
+            case this.sJoinBtn:
+                SocketConnection.sendByQueue(45139, [1, 3, 0],
+                function(e) {
+                    var t = e.data;
+                    t.position = 0;
+                    var i = t.readUnsignedInt();
+                    0 != i ? KTool.getOnlineUsersForeverOrDailyVal([i, 100859],
+                    function(e) {
+                        e > 0 ? Alarm.show("策划活动特别版本未开放！") : (ModuleManager.CloseAll(), ModuleManager.showModule("peakJihadFreeWar", ["peakJihadFreeWar"], null, "PeakJihadRoomPanel", AppDoStyle.DESTROY))
+                    }) : Alarm.show("目前没有空闲的房间可加入,请稍后再试！")
+                });
+                break;
+            case this.cBtn:
+                this._isPlanner ? Alarm.show("策划活动特别版本未开放！") : (ModuleManager.CloseAll(), ModuleManager.showModule("peakJihadFreeWar", ["peakJihadFreeWar"], null, "PeakJihadCreateARoomPanel", AppDoStyle.DESTROY));
+                break;
+            case this.dJoinBtn:
+                this.onGoBtnClick()
+            }
+        },
+        i.prototype.onGoBtnClick = function() {
+            PopViewManager.getInstance().openView(new e.PeakJiHadFreeInputPopView)
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    e.PeakJihadFreeMode = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadFreeMode")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.achieveId = 0,
+            t.skinName = PeakjihadladderAchieveItemSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.get,
+            function() {
+                SocketConnection.sendByQueue(41908, [2, t.info.id],
+                function() {
+                    BubblerManager.getInstance().showText("获得新成就"),
+                    EventManager.dispatchEventWith(PeakJihadController.PeakJihadController_GET_ACHIEVE_REWARD)
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                var e = ItemManager.parseItem(t.info.rewardinfo)[0];
+                tipsPop.TipsPop.openTitlePop({
+                    branchId: e.id,
+                    ruleId: e.num
+                })
+            },
+            this)
+        },
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.updateView())
+        },
+        t.prototype.updateView = function() {
+            var e = 1 == KTool.getBit(this.info.id < 5 ? PeakJihadController.achieveValue: PeakJihadController.achieveValue2, this.info.id),
+            t = !1,
+            i = 0;
+            switch (this.info.foreverType) {
+            case 1:
+                i = PeakJihadController.curMaxLevel;
+                break;
+            case 2:
+                i = PeakJihadController.battleTimes;
+                break;
+            case 3:
+                i = PeakJihadController.wins
+            }
+            if (t = i >= this.info.value, this.currentState = e ? "got": t ? "get": "go", this.achieveId = ItemManager.parseItem(this.info.rewardinfo)[0].type, this.icon.source = ClientConfig.getAchieveIcon(this.achieveId), 1 == this.info.foreverType) {
+                var n = "go" == this.currentState ? 0 : 1;
+                this.title.text = this.info.title + "(" + n + "/1)"
+            } else {
+                var r = 1 == this.info.foreverType ? ~~t: i,
+                a = 1 == this.info.foreverType ? 1 : this.info.value;
+                this.title.text = this.info.title + (" (" + Math.min(r, a) + "/" + a + ")")
+            }
+            this.desc.text = this.info.describe
+        },
+        t
+    } (BaseItemRenderer);
+    e.PeakJihadLadderAchieveItem = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadLadderAchieveItem")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(e) {
+            try {
+                u(n.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                u(n["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function u(e) {
+            e.done ? r(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        u((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
+            case 0:
+            case 1:
+                o = i;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                a = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (o = u.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                    u.label = i[1];
+                    break
+                }
+                if (6 === i[0] && u.label < o[1]) {
+                    u.label = o[1],
+                    o = i;
+                    break
+                }
+                if (o && u.label < o[2]) {
+                    u.label = o[2],
+                    u.ops.push(i);
+                    break
+                }
+                o[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            i = t.call(e, u)
+        } catch(n) {
+            i = [6, n],
+            a = 0
+        } finally {
+            r = o = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, a, o, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = PeakjihadladderAchieveRewardSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.close, this.hide, this),
+            EventManager.addEventListener(PeakJihadController.PeakJihadController_GET_ACHIEVE_REWARD,
+            function() {
+                return __awaiter(i, void 0, void 0,
+                function() {
+                    return __generator(this,
+                    function(e) {
+                        switch (e.label) {
+                        case 0:
+                            return [4, PeakJihadController.updateCurLevel()];
+                        case 1:
+                            return e.sent(),
+                            this.updateView(),
+                            [2]
+                        }
+                    })
+                })
+            },
+            this),
+            this._list.itemRenderer = e.PeakJihadLadderAchieveItem,
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            for (var e = config.Pvp_achieve.getItems(), t = [], i = [], n = [], r = 0; r < e.length; r++) {
+                var a = 1 == KTool.getBit(e[r].id < 5 ? PeakJihadController.achieveValue: PeakJihadController.achieveValue2, e[r].id),
+                o = 0;
+                switch (e[r].foreverType) {
+                case 1:
+                    o = PeakJihadController.curMaxLevel;
+                    break;
+                case 2:
+                    o = PeakJihadController.battleTimes;
+                    break;
+                case 3:
+                    o = PeakJihadController.wins
+                }
+                var s = o >= e[r].value;
+                a ? n.push(e[r]) : s ? t.push(e[r]) : i.push(e[r])
+            }
+            var u = t.concat(i, n);
+            this._list.dataProvider = new eui.ArrayCollection(u)
+        },
+        i
+    } (PopView);
+    e.PeakJihadLadderAchieveReward = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadLadderAchieveReward")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(e) {
+            try {
+                u(n.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                u(n["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function u(e) {
+            e.done ? r(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        u((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
+            case 0:
+            case 1:
+                o = i;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                a = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (o = u.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                    u.label = i[1];
+                    break
+                }
+                if (6 === i[0] && u.label < o[1]) {
+                    u.label = o[1],
+                    o = i;
+                    break
+                }
+                if (o && u.label < o[2]) {
+                    u.label = o[2],
+                    u.ops.push(i);
+                    break
+                }
+                o[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            i = t.call(e, u)
+        } catch(n) {
+            i = [6, n],
+            a = 0
+        } finally {
+            r = o = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, a, o, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.groupName = "PeakJihadLadderReward_Group",
+            t.skinName = PeakjihadladderRewardSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.close, this.hide, this);
+            var n = new MenuData;
+            n.root = [1, 2],
+            n["default"] = 1,
+            n.groupName = this.groupName,
+            n.adapter = !1,
+            n.data = {
+                1 : {
+                    title: "段位奖励"
+                },
+                2 : {
+                    title: "赛季奖励"
+                }
+            },
+            this._list.itemRenderer = i,
+            PeakJihadController.getLadderRewardState().then(function() {
+                t.menu = Menu.createMenu(n, t.rbGrp, 0, !1, 300, 172)
+            }),
+            EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this._onChangeTab, this),
+            EventManager.addEventListener(PeakJihadController.PeakJihadController_GET_LADDER_REWARD,
+            function() {
+                return __awaiter(t, void 0, void 0,
+                function() {
+                    return __generator(this,
+                    function(e) {
+                        switch (e.label) {
+                        case 0:
+                            return [4, PeakJihadController.getLadderRewardState()];
+                        case 1:
+                            return e.sent(),
+                            this._onChangeTab(),
+                            [2]
+                        }
+                    })
+                })
+            },
+            this)
+        },
+        t.prototype._onChangeTab = function() {
+            this._scroller.stopAnimation(),
+            this._scroller.viewport.scrollV = 0;
+            var e = ~~this.menu.selectedValue,
+            t = config.Pvp_reward.getItems().filter(function(t) {
+                return t.group == e
+            });
+            t = t.sort(function(e, t) {
+                return e.type - t.type
+            }),
+            this._list.dataProvider = new eui.ArrayCollection(t),
+            this.desc.text = 1 == e ? "玩家在竞技模式中达到对应段位即可领取奖励": "赛季结算后根据玩家赛季当前段位发送奖励"
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            this.menu && this.menu.destroy(),
+            EventManager.removeAll(this)
+        },
+        t
+    } (PopView);
+    e.PeakJihadLadderReward = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadLadderReward");
+    var i = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = PeakjihadladderRewardItemSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this._list.itemRenderer = n,
+            ImageButtonUtil.add(this.get,
+            function() {
+                SocketConnection.sendByQueue(41903, [t.info.id, 0],
+                function() {
+                    EventManager.dispatchEventWith(PeakJihadController.PeakJihadController_GET_LADDER_REWARD)
+                })
+            },
+            this)
+        },
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.updateView())
+        },
+        t.prototype.updateView = function() {
+            if (this.levelIcon.source = ClientConfig.GetPeakjihadMiniLevelPath(this.info.type + 1), this.level.text = PeakJihadController.RATINGS_NAME[this.info.type], this.currentState = 1 == this.info.group ? "level": "season", 1 == ~~this.info.group) this.setStatus();
+            else {
+                var e = ItemManager.parseItem(this.info.rewardshow);
+                this._list.dataProvider = new eui.ArrayCollection(e)
+            }
+        },
+        t.prototype.setStatus = function() {
+            var e = PeakJihadController.ladderRewardState[this.info.type];
+            this.get.visible = 1 == e,
+            this.go.visible = 0 == e,
+            this.got.visible = 2 == e;
+            var t = ItemManager.parseItem(this.info.rewardshow);
+            t = t.map(function(t) {
+                return t.state = e,
+                t
+            }),
+            this._list.dataProvider = new eui.ArrayCollection(t)
+        },
+        t
+    } (BaseItemRenderer);
+    e.PeakJihadLadderRewardItem = i,
+    __reflect(i.prototype, "peakJihadFirstPage.PeakJihadLadderRewardItem");
+    var n = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = RewardItemRenderSKin,
+            ImageButtonUtil.add(t.icon,
+            function() {
+                if (5 != ~~t.info.id) if (9 == t.info.type) {
+                    var e = config.Profilephoto.getItem(t.info.id);
+                    BubblerManager.getInstance().showText(e.name)
+                } else tipsPop.TipsPop.openItemPop({
+                    id: ~~t.info.id
+                })
+            },
+            t),
+            t
+        }
+        return __extends(t, e),
+        t.prototype.dataChanged = function() {
+            if (this.data) {
+                if (this.info = this.data, this.num.text = "" + this.info.num, this.mas.visible = 2 == this.info.state, 9 == this.info.type) {
+                    var e = config.Profilephoto.getItem(this.info.id);
+                    1 === e.type ? this.icon.source = ClientConfig.GetAvatarHead(e.icon) : this.icon.source = ClientConfig.GetAvatarFrame(e.icon)
+                } else this.icon.source = ClientConfig.getItemIcon(this.info.id);
+                this.cacheAsBitmap = !0
+            }
+        },
+        t
+    } (BaseItemRenderer);
+    e.RewardItemRender = n,
+    __reflect(n.prototype, "peakJihadFirstPage.RewardItemRender");
+    var r = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = PeakRBitemSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        t.prototype.setDesc = function(e) {
+            this.txt_desc.text = e,
+            this.cacheAsBitmap = !0
+        },
+        t
+    } (eui.RadioButton);
+    e.PeakRBitem = r,
+    __reflect(r.prototype, "peakJihadFirstPage.PeakRBitem")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = PeakjihadfreeinputpopviewSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this);
+            for (var t = 0; 10 > t; t++) this["btn" + t].name = "btn_" + t;
+            this.addEvent(),
+            this.roomid = ""
+        },
+        Object.defineProperty(t.prototype, "roomid", {
+            get: function() {
+                return this._roomid
+            },
+            set: function(e) {
+                this._roomid = e,
+                this.id.text = this._roomid,
+                "" == this.roomid && (this.id.text = "请输入想要进入的房间号")
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t.prototype.addEvent = function() {
+            ImageButtonUtil.add(this.enterBtn, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.delBtn, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn0, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn1, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn2, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn3, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn4, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn5, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn6, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn7, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn8, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn9, this.onTouchTapImageButton, this)
+        },
+        t.prototype.removeEvent = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        t.prototype.onTouchTapImageButton = function(e) {
+            var t = e.currentTarget.name;
+            if ( - 1 != t.indexOf("btn_")) {
+                var i = Number(t.split("_")[1]);
+                if (0 == this.roomid.length && 0 == i || this.roomid.length >= 20) return;
+                return void(this.roomid += i.toString())
+            }
+            switch (e.currentTarget) {
+            case this.enterBtn:
+                this.onGoBtnClick();
+                break;
+            case this.delBtn:
+                if (0 == this.roomid.length) return;
+                this.roomid = this.roomid.substr(0, this.roomid.length - 1)
+            }
+        },
+        t.prototype.onGoBtnClick = function() {
+            var e = this;
+            if ("" != this.id.text && "请输入想要进入的房间号" != this.id.text) {
+                var t = Number(this.id.text),
+                i = this;
+                SocketConnection.sendByQueue(45136, [1, t],
+                function(t) {
+                    i.roomid = "";
+                    var n = t.data;
+                    n.position = 0;
+                    var r = n.readUnsignedInt();
+                    0 != r ? KTool.getOnlineUsersForeverOrDailyVal([r, 100859],
+                    function(t) {
+                        t > 0 ? Alarm.show("策划活动特别版本未开放！") : (e.hide(), ModuleManager.hideModule("peakJihadFirstPage"), ModuleManager.showModule("peakJihadFreeWar", ["peakJihadFreeWar"], null, "PeakJihadRoomPanel"))
+                    }) : Alarm.show("输入的房间不存在或者已经被其他伙伴加入了，你可以继续尝试或者换个房间加入！")
+                })
+            }
+        },
+        t.prototype.destroy = function() {
+            this.removeEvent(),
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (PopView);
+    e.PeakJiHadFreeInputPopView = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJiHadFreeInputPopView")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(e) {
+            try {
+                u(n.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                u(n["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function u(e) {
+            e.done ? r(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        u((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
+            case 0:
+            case 1:
+                o = i;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                a = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (o = u.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                    u.label = i[1];
+                    break
+                }
+                if (6 === i[0] && u.label < o[1]) {
+                    u.label = o[1],
+                    o = i;
+                    break
+                }
+                if (o && u.label < o[2]) {
+                    u.label = o[2],
+                    u.ops.push(i);
+                    break
+                }
+                o[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            i = t.call(e, u)
+        } catch(n) {
+            i = [6, n],
+            a = 0
+        } finally {
+            r = o = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, a, o, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e._isclick = !1,
+            e.timeArr = [60, 150, 300, 480, 720, 1080, 1500, 1800],
+            e.skinName = PeakjihadSportsModeSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this),
+            this.initBtnClose("peakjihad_sports_mode_title_png", this),
+            t.prototype.initBtnHelp.call(this,
+            function() {
+                var e = {};
+                e.titleSource = RES.getRes("PeakJihad_rule_title_png"),
+                e.data = [{
+                    tabName: "基本规则",
+                    id: 143
+                },
+                {
+                    tabName: "段位规则",
+                    id: 144
+                },
+                {
+                    tabName: "排位规则",
+                    id: 145
+                }],
+                tipsPop.TipsPop.openMulitHelpPop(e)
+            },
+            this);
+            var n = egret.lifecycle.stage.stageWidth / 1136;
+            this.bgGroup0.scaleX = this.bgGroup0.scaleY = 1 * n,
+            this.icon0.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId1),
+            this.icon1.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId2),
+            this.adaptBgByScale(this.bg),
+            this.leftGroup.left = Math.max(DeviceInfoManager.adapterOffSetX, 11),
+            this.rightGroup.right = DeviceInfoManager.adapterOffSetX,
+            this.spine = SpineUtil.createAnimate("2024dianfeng"),
+            SpineUtil.play(this.spine, "standby", this.bgGroup, null, this, 0),
+            this.spine1 = SpineUtil.createAnimate("2024dianfengbg"),
+            SpineUtil.play(this.spine1, "standby", this.bgGroup0, null, this, 0),
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateItemNums, this),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breaklineSynchronizedData, this),
+            EventManager.addEventListener(PeakJihadController.PeakJihadController_GET_LADDER_REWARD, this.updateDot, this),
+            this._list.itemRenderer = e.PeakjihadSportsModePet,
+            this.updateItemNums(),
+            ImageButtonUtil.add(this.icon0,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId1,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.icon1,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId2,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.task,
+            function() {
+                ModuleManager.showModuleByID(211, {
+                    type: 2
+                },
+                AppDoStyle.HIDEN)
+            },
+            this),
+            ImageButtonUtil.add(this.btnJiangli,
+            function() {
+                ModuleManager.showModuleByID(211, {
+                    type: 1
+                },
+                AppDoStyle.HIDEN)
+            },
+            this),
+            this._list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.touchPet, this),
+            ImageButtonUtil.add(this.suit,
+            function() {
+                ModuleManager.showModuleByID(27)
+            },
+            this),
+            ImageButtonUtil.add(this.reward,
+            function() {
+                PopViewManager.getInstance().openView(new e.PeakJihadLadderReward, null)
+            },
+            this),
+            ImageButtonUtil.add(this.btnMatch,
+            function() {
+                PeakJihadController.isBird ? Alert.show("您当前未解锁竞技模式，通关巅峰初阶试炼后可解锁，是否需要前往？",
+                function() {
+                    ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain", AppDoStyle.HIDEN)
+                }) : PetManager.updateBagInfo(function() {
+                    i.startMatch()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.achieve,
+            function() {
+                PopViewManager.getInstance().openView(new e.PeakJihadLadderAchieveReward)
+            },
+            this),
+            this.update()
+        },
+        i.prototype.reShow = function() {
+            this.update()
+        },
+        i.prototype.update = function() {
+            var e = this;
+            PeakJihadController.updateCurLevel().then(function() {
+                return __awaiter(e, void 0, void 0,
+                function() {
+                    var e, t, i, n, r, a, o, s, u, h, l, c, _, d, p, g, f = this;
+                    return __generator(this,
+                    function(m) {
+                        switch (m.label) {
+                        case 0:
+                            return e = config.Pass_reward.getItem(Math.min(PeakJihadOrderManager.orderLevel, PeakJihadOrderManager.maxLevel)),
+                            this.bar.maximum = Math.max(e.exp, 1),
+                            this.level.text = PeakJihadController.getTitleByLevelScore(),
+                            this.icon.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.curLevel + 1),
+                            this.curLevel.text = "" + PeakJihadOrderManager.orderLevel,
+                            this.curExp.text = e.exp > 0 ? PeakJihadOrderManager.orderExp + "/" + e.exp: "已满级",
+                            this.bar.value = e.exp > 0 ? PeakJihadOrderManager.orderExp: 1,
+                            t = PeakJihadController.isInAcTime(!1),
+                            this.btnMatch.visible = t,
+                            this.cant.visible = !t,
+                            this.updateDot(),
+                            i = PetManager.getBagMap(),
+                            n = [0, 0, 0, 0, 0, 0].map(function(e, t) {
+                                return i[t] ? e[t] = i[t].id: 0
+                            }),
+                            i = PetManager.getSecondBagMap(),
+                            r = [0, 0, 0, 0, 0, 0].map(function(e, t) {
+                                return i[t] ? e[t] = i[t].id: 0
+                            }),
+                            a = n.concat(r),
+                            o = config.Pvp_ban.getItems(),
+                            s = o[0].name.split(";").map(Number),
+                            u = o[1].name.split(";").map(Number),
+                            h = [],
+                            a.map(function(e) {
+                                var t = 0;
+                                return s.indexOf(e) > -1 ? t = o[0].quantity: u.indexOf(e) > -1 && (t = o[1].quantity),
+                                h.push({
+                                    id: e,
+                                    quality: t
+                                })
+                            }),
+                            this._list.dataProvider = new eui.ArrayCollection(h),
+                            t || (l = SystemTimerManager.sysBJDate.getTime(), c = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3), _ = Math.floor((SystemTimerManager.sysBJDate.setHours(18, 0, 0) - l) / 1e3), d = c > 0 ? c: _, 0 > _ && 0 > c && (d = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3 + 86400)), this.time.text = TimeUtil.countDownFormat(d, "hh:mm:ss"), TimeDelayUtils.setInterval(function() {
+                                d--,
+                                f.time.text = TimeUtil.countDownFormat(d, "hh:mm:ss"),
+                                0 >= d && (TimeDelayUtils.clearAllTimeByThisObj(f), f.update())
+                            },
+                            1e3, this)),
+                            [4, KTool.getMultiValueAsync([124799])];
+                        case 1:
+                            return p = m.sent(),
+                            0 == p[0] && (g = config.Pvp_reward.getItems().filter(function(e) {
+                                return 2 == e.group && e.type == PeakJihadController.curLevel
+                            })[0], SocketConnection.sendByQueue(41903, [g.id, 0],
+                            function() {
+                                f.update()
+                            })),
+                            [2]
+                        }
+                    })
+                })
+            })
+        },
+        i.prototype.startMatch = function() {
+            var e = this;
+            if (PeakJihadController.isInAcTime()) {
+                var t = PeakJihadController.getBagALLPetLvIsFullAndNotSame();
+                if (!t) {
+                    var i = this.checkMost(),
+                    n = "" == i ? "请在出战背包放入至少六只精灵，并保证背包所有精灵不重复且为满级满状态再开始对战！": i;
+                    return void Alert.show(n,
+                    function() {
+                        ModuleManager.showModuleByID(config.ModuleConst.PET_BAG)
+                    })
+                }
+                this._isclick || (this._isclick = !0, KTool.getMultiValue([3307, 16625, 100689, 16626],
+                function(t) {
+                    e._curStep = t[0],
+                    e._isclick = !1;
+                    var i = SystemTimerManager.time;
+                    if (t[1] > 0 || t[2] > 0) {
+                        var n = 0;
+                        t[1] > 0 && (n = t[1] + e.timeArr[Math.min(t[3], e.timeArr.length - 1)]),
+                        t[1] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
+                        function() {
+                            e.next()
+                        }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
+                    } else e.next()
+                }))
+            }
+        },
+        i.prototype.next = function() {
+            var e = this;
+            0 == this._curStep && SocketConnection.sendByQueue(45137, [1, 3],
+            function(t) {
+                ModuleManager.showModuleByID(43, {
+                    callback: function() {},
+                    thisObj: e,
+                    fightMod: 3
+                })
+            })
+        },
+        i.prototype.breaklineSynchronizedData = function() {
+            var e = this;
+            KTool.getMultiValue([3307, 1046],
+            function(t) {
+                e._curStep = t[0],
+                1 == t[0] && 1 == t[1] && (ModuleManager.hideModule("peakJihadMatchWaitModePanel"), ModuleManager.showModuleByID(43, {
+                    callback: function() {},
+                    thisObj: e,
+                    fightMod: 3
+                }))
+            })
+        },
+        i.prototype.updateItemNums = function() {
+            this.num0.text = String(ItemManager.getNumByID(PeakJihadController.itemId1)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId1),
+            this.num1.text = String(ItemManager.getNumByID(PeakJihadController.itemId2)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId2)
+        },
+        i.prototype.checkMost = function() {
+            for (var e = [], t = 0, i = PetManager.allInfos; t < i.length; t++) {
+                var n = i[t];
+                e.push(n.id)
+            }
+            e.sort();
+            for (var r = config.Pvp_ban.getItems(), a = 0, o = 0, s = function(t) {
+                if (a > 0) return "break";
+                var i = r.filter(function(e) {
+                    return e.type == t
+                })[0];
+                o = i.quantity;
+                for (var n = 0,
+                s = i.name.split(";").map(Number), u = 0; u < s.length; u++) {
+                    var h = s[u];
+                    e.indexOf(h) > -1 && n++,
+                    n > o && 0 == a && (a = i.type)
+                }
+            },
+            u = 1; 2 >= u; u++) {
+                var h = s(u);
+                if ("break" === h) break
+            }
+            return 0 == a ? "": "背包内的" + (1 == a ? "": "准") + "限制级精灵最多只能携带" + o + "只"
+        },
+        i.prototype.touchPet = function() {
+            ModuleManager.showModuleByID(10)
+        },
+        i.prototype.updateDot = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t, i, n, r, a, i, o, s;
+                return __generator(this,
+                function(u) {
+                    switch (u.label) {
+                    case 0:
+                        return [4, PeakJihadController.getLadderRewardState()];
+                    case 1:
+                        for (u.sent(), e = config.Pvp_achieve.getItems(), t = !1, i = 0; i < e.length; i++) if (1 != KTool.getBit(e[i].id < 5 ? PeakJihadController.achieveValue: PeakJihadController.achieveValue2, e[i].id)) {
+                            switch (n = 0, e[i].foreverType) {
+                            case 1:
+                                n = PeakJihadController.curMaxLevel;
+                                break;
+                            case 2:
+                                n = PeakJihadController.battleTimes;
+                                break;
+                            case 3:
+                                n = PeakJihadController.wins
+                            }
+                            if (n >= e[i].value) {
+                                t = !0;
+                                break
+                            }
+                        }
+                        for (this.dotAchieve.visible = t, r = !1, a = config.Pvp_reward.getItems().filter(function(e) {
+                            return 1 == e.group
+                        }), i = 0; i < a.length; i++) if (o = a[i], s = PeakJihadController.ladderRewardState[o.type], 1 == s) {
+                            r = !0;
+                            break
+                        }
+                        return this.dotReward.visible = r,
+                        [2]
+                    }
+                })
+            })
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            this._list.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this.touchPet, this),
+            DisplayUtil.removeForParent(this.spine),
+            DisplayUtil.removeForParent(this.spine1),
+            this.spine = null,
+            this.spine1 = null,
+            ModuleManager.hasmodule("peakJihadFirstPage.PeakJihadFirstPage") || ModuleManager.showModuleByID(8)
+        },
+        i
+    } (BaseModule);
+    e.PeakJihadSportsMode = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadSportsMode")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = PeakjihadSportsModePetSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.update())
+        },
+        t.prototype.update = function() {
+            this.petId = this.info.id,
+            this.numGroup.visible = this.info.quality > 0;
+            var e = this.info.quality;
+            this.num.text = e + "",
+            this.txt_id.text = this.petId + "",
+            this.txt_id.visible = window.DEBUG,
+            this.head.source = this.petId > 0 ? ClientConfig.getPetHeadPath(this.petId) : "",
+            this.imgAttr.source = this.petId > 0 ? ClientConfig.getpettypeticon(PetXMLInfo.getType(this.petId)) : "",
+            this.currentState = this.petId > 0 ? "have": "no"
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseItemRenderer);
+    e.PeakjihadSportsModePet = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakjihadSportsModePet")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.groupName = "PeakJihadSportsPool_groupName",
+            t.skinName = PeakJihadSportsPoolSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initBtnClose("peakjihad_sports_mode_title_png", this),
+            this.initBtnHelpById(146),
+            this.adaptBgByScale(this.bg),
+            this._list.itemRenderer = i,
+            this.icon0.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId1),
+            this.icon1.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId2),
+            ImageButtonUtil.add(this.icon0,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId1,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.icon1,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId2,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateItemNums, this),
+            this.updateItemNums();
+            var n = new MenuData;
+            n["default"] = 1,
+            n.groupName = this.groupName,
+            n.root = [1, 2],
+            n.data = {
+                1 : {
+                    title: "限制池"
+                },
+                2 : {
+                    title: "准限制池"
+                }
+            },
+            this.menu = Menu.createMenu(n, this.menuGroup),
+            this._scroller.right = DeviceInfoManager.adapterOffSetX || 33,
+            EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.updateView, this),
+            this.once(egret.Event.RENDER,
+            function() {
+                t._scroller.left = t.menuGroup.width + 20
+            },
+            this)
+        },
+        t.prototype.updateView = function() {
+            for (var e = ~~this.menu.selectedValue,
+            t = config.Pvp_ban.getItems().filter(function(t) {
+                return t.type == e
+            }), i = t[0].name.split(";").map(Number), n = [], r = 0; r < i.length; r++) n.push({
+                id: i[r],
+                quality: t[0].quantity
+            });
+            this._list.dataProvider = new eui.ArrayCollection(n)
+        },
+        t.prototype.updateItemNums = function() {
+            this.num0.text = String(ItemManager.getNumByID(PeakJihadController.itemId1)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId1),
+            this.num1.text = String(ItemManager.getNumByID(PeakJihadController.itemId2)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId2)
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            this.menu && this.menu.destroy()
+        },
+        t
+    } (BaseModule);
+    e.PeakJihadSportsPool = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadSportsPool");
+    var i = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = PeakJihadSportsPoolItemSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.head,
+            function() {
+                PetManager.showPetManualInfo(t.petId, 1)
+            },
+            this)
+        },
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.update())
+        },
+        t.prototype.update = function() {
+            this.petId = this.info.id;
+            var e = this.info.quality;
+            this.num.text = e + "",
+            this.txt_id.text = this.petId + "",
+            this.txt_id.visible = window.DEBUG;
+            var t = PetXMLInfo.getName(this.petId);
+            this.txtName.text = t.length > 6 ? t.substring(0, 5) + "...": t,
+            this.head.source = ClientConfig.getPetHeadPath(this.petId),
+            this.imgAttr.source = ClientConfig.getpettypeticon(PetXMLInfo.getType(this.petId)),
+            this.rec.visible = !PetManager.hasPet(this.petId),
+            this.cacheAsBitmap = !0
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        t
+    } (BaseItemRenderer);
+    e.PeakJihadSportsPoolItem = i,
+    __reflect(i.prototype, "peakJihadFirstPage.PeakJihadSportsPoolItem")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.need = !0,
+            e.groupName = "PeakJihadTrain_groupName",
+            e.skinName = PeakJihadTrainSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.initBtnClose("peakjihadfirstpage_train_title1_png", this),
+            this.adaptBgByScale(this.bg),
+            this._scr.left = 161 + DeviceInfoManager.adapterOffSetX,
+            this.adaptRightContent(this._scr),
+            this.need = !0,
+            this._list.itemRenderer = e.PeakJihadTrainItem;
+            var i = new MenuData;
+            i["default"] = 1,
+            i.groupName = this.groupName,
+            i.root = [1],
+            i.data = {
+                1 : {
+                    title: "初级试炼"
+                },
+                2 : {
+                    title: "中级试炼"
+                },
+                3 : {
+                    title: "高级试炼"
+                }
+            },
+            this.menu = Menu.createMenu(i, this.menuGroup),
+            EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.updateView, this)
+        },
+        i.prototype.updateTab = function() {
+            var e = this,
+            t = ~~this.menu.selectedValue,
+            i = config.Pvp_StageConfig.getItems().filter(function(e) {
+                return e.index == t
+            });
+            if (i.length > 0) {
+                var n = 203890 + t;
+                KTool.getMultiValue([i[0].UserInfoID, n],
+                function(t) {
+                    i.sort(function(e, i) {
+                        return~~ (t[0] >= e.order) - ~~ (t[0] >= i.order)
+                    }),
+                    PeakJihadController.curBirdValue = t[0],
+                    PeakJihadController.curBirdTimes = t[1],
+                    e._list.dataProvider = new eui.ArrayCollection(i),
+                    e.need && e.once(egret.Event.RENDER,
+                    function() {
+                        gsap.killTweensOf(e._list.$children),
+                        DisplayUtil.setScrollerItemIncludeInLayout(e._scr, !1),
+                        gsap.from(e._list.$children, {
+                            x: e._scr.width + 350,
+                            alpha: 0,
+                            stagger: .1
+                        }).then(function() {
+                            DisplayUtil.setScrollerItemIncludeInLayout(e._scr, !0)
+                        })
+                    },
+                    e),
+                    e.need = !0
+                })
+            } else this._list.dataProvider = new eui.ArrayCollection([])
+        },
+        i.prototype.updateView = function() {
+            gsap.killTweensOf(this._list.$children),
+            DisplayUtil.setScrollerItemIncludeInLayout(this._scr, !0),
+            this._scr.stopAnimation(),
+            this._scr.viewport.scrollH = 0,
+            this.updateTab()
+        },
+        i.prototype.reShow = function() {
+            this.need = !1,
+            this.updateView()
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            this.menu && this.menu.destroy(),
+            gsap.killTweensOf(this._scr.$children)
+        },
+        i
+    } (BaseModule);
+    e.PeakJihadTrain = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadTrain")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(e) {
+        function t(t) {
+            var i = e.call(this) || this;
+            return t && (i.info = t),
+            i.skinName = PeakJihadTrainFightPopSkin,
+            i
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.start,
+            function() {
+                t.startFight(),
+                t.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.close, this.hide, this),
+            this.updateView()
+        },
+        t.prototype.updateView = function() {
+            this.title.text = "试炼等级" + this.info.index + "-" + this.info.order,
+            this.desc.text = this.info.monsterName,
+            this.tip.text = this.info.bossIntro;
+            var e = ItemManager.parseItem(this.info.firstReward)[0];
+            this.icon.source = ClientConfig.getItemIcon(e.id),
+            this.num.text = "*" + e.num
+        },
+        t.prototype.startFight = function() {
+            var e = this,
+            t = this.info.fightMonsterIndexs.split("_").map(Number);
+            if (0 == t.length) return void BubblerManager.getInstance().showText("请至少选择1只出战精灵！");
+            var i = this.info.id;
+            SocketConnection.sendByQueue(41907, [this.info.index, i, t.length, t],
+            function() {
+                e.hide()
+            },
+            function(e) {
+                console.log(e)
+            })
+        },
+        t
+    } (PopView);
+    e.PeakJihadTrainFightPop = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadTrainFightPop")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = PeakJihadTrainItemSkin,
+            e.cacheAsBitmap = !0,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.touchGroup,
+            function() {
+                return PeakJihadController.curBirdTimes >= 20 ? void BubblerManager.getInstance().showText("当前试炼每日挑战次数已用完") : void(PeakJihadController.curBirdValue + 1 < i.info.order ? BubblerManager.getInstance().showText("请先完成试炼等级" + i.info.index + "-" + (PeakJihadController.curBirdValue + 1)) : PopViewManager.getInstance().openView(new e.PeakJihadTrainFightPop(KTool.clone(i.info))))
+            },
+            this, !1)
+        },
+        i.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this.data && (this.info = this.data, this.updateView())
+        },
+        i.prototype.updateView = function() {
+            var e = this.info.index,
+            t = PeakJihadController.curBirdValue >= this.info.order;
+            this.pet.source = "resource/assets/peakJihad/pet/" + this.info.monsterId + ".png",
+            this.done.visible = t,
+            this.touchGroup.touchEnabled = !t,
+            this.not.visible = PeakJihadController.curBirdValue + 1 < this.info.order,
+            this.desc.text = this.info.monsterName,
+            this.level.text = "试炼等级" + e + "-" + this.info.order,
+            this.levelName.source = "peakjihadfirstpage_train_levelname" + e + "_png"
+        },
+        i
+    } (BaseItemRenderer);
+    e.PeakJihadTrainItem = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadTrainItem")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/PeakjihadfirstpageSkin.exml"] = window.PeakjihadfirstpageSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["static_bg", "group_ani", "bg", "bg2", "noticeTxt", "group_guanggao", "imgTitle", "freeBtn", "btn0", "btn1", "rankBtn", "awardBtn", "btnJingjichi", "icon0", "num0", "icon1", "num1"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.static_bg_i(), this.group_ani_i(), this.group_guanggao_i(), this._Group1_i(), this._Group4_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.static_bg_i = function() {
+        var e = new eui.Image;
+        return this.static_bg = e,
+        e.horizontalCenter = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "PeakJihadStatic_bg_jpg",
+        e.verticalCenter = 0,
+        e.visible = !1,
+        e
+    },
+    i.group_ani_i = function() {
+        var e = new eui.Group;
+        return this.group_ani = e,
+        e.height = 0,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e.width = 0,
+        e
+    },
+    i.group_guanggao_i = function() {
+        var e = new eui.Group;
+        return this.group_guanggao = e,
+        e.visible = !1,
+        e.x = 4,
+        e.y = 57,
+        e.elementsContent = [this.bg_i(), this.bg2_i(), this.noticeTxt_i()],
+        e
+    },
+    i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "PeakJihadFirstPage_bg_png",
+        e.x = 3,
+        e.y = 0,
+        e
+    },
+    i.bg2_i = function() {
+        var e = new eui.Image;
+        return this.bg2 = e,
+        e.source = "PeakJihadFirstPage_bg2_png",
+        e.x = 0,
+        e.y = 1,
+        e
+    },
+    i.noticeTxt_i = function() {
+        var e = new eui.Label;
+        return this.noticeTxt = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.text = "系统公告：这里是系统公告公告公告公告公告",
+        e.textColor = 16777215,
+        e.visible = !0,
+        e.x = 30,
+        e.y = 5,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = 0,
+        e.left = 0,
+        e.right = 0,
+        e.y = 300,
+        e.elementsContent = [this.imgTitle_i(), this._Image1_i(), this.freeBtn_i(), this.btn0_i(), this.btn1_i(), this.rankBtn_i(), this.awardBtn_i(), this.btnJingjichi_i()],
+        e
+    },
+    i.imgTitle_i = function() {
+        var e = new eui.Image;
+        return this.imgTitle = e,
+        e.source = "peakjihadfirstpage_imgtitle_png",
+        e.x = 53,
+        e.y = 94,
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.bottom = 0,
+        e.height = 340,
+        e.horizontalCenter = 0,
+        e.left = 0,
+        e.right = 0,
+        e.scale9Grid = new egret.Rectangle(148, 0, 166, 340),
+        e.source = "peakjihad_anniubg_png",
+        e.width = 1136,
+        e
+    },
+    i.freeBtn_i = function() {
+        var e = new eui.Image;
+        return this.freeBtn = e,
+        e.right = 251,
+        e.source = "peakjihad_btnziyou_png",
+        e.y = 143.216,
+        e
+    },
+    i.btn0_i = function() {
+        var e = new eui.Image;
+        return this.btn0 = e,
+        e.right = 250,
+        e.source = "peakjihad_btnxiuxian_png",
+        e.y = 222.216,
+        e
+    },
+    i.btn1_i = function() {
+        var e = new eui.Image;
+        return this.btn1 = e,
+        e.right = 72,
+        e.source = "peakjihad_btnjingji_png",
+        e.y = 96.216,
+        e
+    },
+    i.rankBtn_i = function() {
+        var e = new eui.Image;
+        return this.rankBtn = e,
+        e.horizontalCenter = -441,
+        e.source = "peakjihad_btnpaihang_png",
+        e.y = 259,
+        e
+    },
+    i.awardBtn_i = function() {
+        var e = new eui.Image;
+        return this.awardBtn = e,
+        e.horizontalCenter = -239,
+        e.source = "peakjihad_btnjiangli_png",
+        e.y = 259,
+        e
+    },
+    i.btnJingjichi_i = function() {
+        var e = new eui.Image;
+        return this.btnJingjichi = e,
+        e.horizontalCenter = -35,
+        e.source = "peakjihad_btnjingjichi_png",
+        e.y = 259,
+        e
+    },
+    i._Group4_i = function() {
+        var e = new eui.Group;
+        return e.right = 60,
+        e.top = 0,
+        e.visible = !0,
+        e.elementsContent = [this._Group2_i(), this._Group3_i()],
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.right = 168,
+        e.y = 12,
+        e.elementsContent = [this._Image2_i(), this.icon0_i(), this.num0_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_item_num_bg_png",
+        e.x = 0,
+        e.y = 3.171,
+        e
+    },
+    i.icon0_i = function() {
+        var e = new eui.Image;
+        return this.icon0 = e,
+        e.height = 55,
+        e.left = -1,
+        e.scaleX = .7,
+        e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon0_png",
+        e.width = 55,
+        e.y = -6,
+        e
+    },
+    i.num0_i = function() {
+        var e = new eui.Label;
+        return this.num0 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 15.5,
+        e.size = 16,
+        e.textColor = 13887988,
+        e.y = 5,
+        e
+    },
+    i._Group3_i = function() {
+        var e = new eui.Group;
+        return e.right = 7,
+        e.y = 12,
+        e.elementsContent = [this._Image3_i(), this.icon1_i(), this.num1_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_item_num_bg_png",
+        e.x = 0,
+        e.y = 2.108,
+        e
+    },
+    i.icon1_i = function() {
+        var e = new eui.Image;
+        return this.icon1 = e,
+        e.height = 55,
+        e.left = -1,
+        e.scaleX = .7,
+        e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon1_png",
+        e.width = 55,
+        e.y = -6,
+        e
+    },
+    i.num1_i = function() {
+        var e = new eui.Label;
+        return this.num1 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 15.5,
+        e.size = 16,
+        e.textColor = 13887988,
+        e.y = 5,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadfreeinputpopviewSkin.exml"] = window.PeakjihadfreeinputpopviewSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["InputBg", "btn1", "btn2", "btn3", "btn4", "btn5", "btn6", "btn7", "btn8", "btn9", "enterBtn", "btn0", "delBtn", "bg4", "id"],
+        this.height = 388,
+        this.width = 538,
+        this.elementsContent = [this.InputBg_i(), this.btn1_i(), this.btn2_i(), this.btn3_i(), this.btn4_i(), this.btn5_i(), this.btn6_i(), this.btn7_i(), this.btn8_i(), this.btn9_i(), this.enterBtn_i(), this.btn0_i(), this.delBtn_i(), this.bg4_i(), this.id_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.InputBg_i = function() {
+        var e = new eui.Image;
+        return this.InputBg = e,
+        e.height = 388,
+        e.scale9Grid = new egret.Rectangle(43, 33, 13, 34),
+        e.source = "PeakJiHadFreeInputPopView_InputBg_png",
+        e.width = 538,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btn1_i = function() {
+        var e = new eui.Image;
+        return this.btn1 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn1_png",
+        e.width = 146,
+        e.x = 36,
+        e.y = 82,
+        e
+    },
+    i.btn2_i = function() {
+        var e = new eui.Image;
+        return this.btn2 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn2_png",
+        e.width = 146,
+        e.x = 199,
+        e.y = 82,
+        e
+    },
+    i.btn3_i = function() {
+        var e = new eui.Image;
+        return this.btn3 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn3_png",
+        e.width = 146,
+        e.x = 361,
+        e.y = 82,
+        e
+    },
+    i.btn4_i = function() {
+        var e = new eui.Image;
+        return this.btn4 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn4_png",
+        e.width = 146,
+        e.x = 36,
+        e.y = 152,
+        e
+    },
+    i.btn5_i = function() {
+        var e = new eui.Image;
+        return this.btn5 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn5_png",
+        e.width = 146,
+        e.x = 199,
+        e.y = 152,
+        e
+    },
+    i.btn6_i = function() {
+        var e = new eui.Image;
+        return this.btn6 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn6_png",
+        e.width = 146,
+        e.x = 361,
+        e.y = 152,
+        e
+    },
+    i.btn7_i = function() {
+        var e = new eui.Image;
+        return this.btn7 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn7_png",
+        e.width = 146,
+        e.x = 36,
+        e.y = 221,
+        e
+    },
+    i.btn8_i = function() {
+        var e = new eui.Image;
+        return this.btn8 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn8_png",
+        e.width = 146,
+        e.x = 199,
+        e.y = 221,
+        e
+    },
+    i.btn9_i = function() {
+        var e = new eui.Image;
+        return this.btn9 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn9_png",
+        e.width = 146,
+        e.x = 361,
+        e.y = 221,
+        e
+    },
+    i.enterBtn_i = function() {
+        var e = new eui.Image;
+        return this.enterBtn = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_enterBtn_png",
+        e.width = 146,
+        e.x = 361,
+        e.y = 291,
+        e
+    },
+    i.btn0_i = function() {
+        var e = new eui.Image;
+        return this.btn0 = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_btn0_png",
+        e.width = 146,
+        e.x = 199,
+        e.y = 291,
+        e
+    },
+    i.delBtn_i = function() {
+        var e = new eui.Image;
+        return this.delBtn = e,
+        e.height = 58,
+        e.source = "PeakJiHadFreeInputPopView_delBtn_png",
+        e.width = 146,
+        e.x = 36,
+        e.y = 291,
+        e
+    },
+    i.bg4_i = function() {
+        var e = new eui.Image;
+        return this.bg4 = e,
+        e.height = 40,
+        e.source = "PeakJiHadFreeInputPopView_bg4_png",
+        e.width = 470,
+        e.x = 38,
+        e.y = 29,
+        e
+    },
+    i.id_i = function() {
+        var e = new eui.Label;
+        return this.id = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "请输入想要进入的房间号",
+        e.textAlign = "center",
+        e.textColor = 13097725,
+        e.width = 198,
+        e.x = 173,
+        e.y = 41,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadFreeModeSkin.exml"] = window.PeakJihadFreeModeSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "sJoinBtn", "cBtn", "dJoinBtn"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.horizontalCenter = 0,
+        e.source = "peakjihad_common_panel_bg_jpg",
+        e.verticalCenter = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = 0,
+        e.y = 65,
+        e.elementsContent = [this.sJoinBtn_i(), this.cBtn_i(), this.dJoinBtn_i()],
+        e
+    },
+    i.sJoinBtn_i = function() {
+        var e = new eui.Image;
+        return this.sJoinBtn = e,
+        e.source = "PeakJihadFree_sJoinBtn_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.cBtn_i = function() {
+        var e = new eui.Image;
+        return this.cBtn = e,
+        e.source = "PeakJihadFree_cBtn_png",
+        e.x = 308,
+        e.y = 0,
+        e
+    },
+    i.dJoinBtn_i = function() {
+        var e = new eui.Image;
+        return this.dJoinBtn = e,
+        e.source = "PeakJihadFree_dJoinBtn_png",
+        e.x = 616,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadladderAchieveItemSkin.exml"] = window.PeakjihadladderAchieveItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["title", "desc", "icon", "get", "got", "go"],
+        this.currentState = "go",
+        this.height = 106,
+        this.width = 721,
+        this.elementsContent = [this._Group2_i()],
+        this.states = [new eui.State("go", [new eui.SetProperty("get", "visible", !1), new eui.SetProperty("got", "visible", !1), new eui.SetProperty("go", "visible", !0)]), new eui.State("get", [new eui.SetProperty("got", "visible", !1), new eui.SetProperty("go", "visible", !1)]), new eui.State("got", [new eui.SetProperty("get", "visible", !1), new eui.SetProperty("got", "visible", !0), new eui.SetProperty("go", "visible", !1)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.title_i(), this.desc_i(), this._Image2_i(), this.icon_i(), this._Group1_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "pea_jihad_achieve_pop_achieveitembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.title_i = function() {
+        var e = new eui.Label;
+        return this.title = e,
+        e.fontFamily = "REEJI",
+        e.size = 22,
+        e.text = "S1赛季猛将 (1/1)",
+        e.textColor = 12834813,
+        e.x = 40,
+        e.y = 28,
+        e
+    },
+    i.desc_i = function() {
+        var e = new eui.Label;
+        return this.desc = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "玩家在S1赛季竞技模式中首次达到猛将段位时获得",
+        e.textColor = 16774235,
+        e.x = 39,
+        e.y = 58,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihadladder_reward_itemnumbg_png",
+        e.x = 460,
+        e.y = 17,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 50,
+        e.width = 50,
+        e.x = 471,
+        e.y = 28,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return this._Group1 = e,
+        e.x = 561.65,
+        e.y = 30,
+        e.elementsContent = [this.get_i(), this.got_i(), this.go_i()],
+        e
+    },
+    i.get_i = function() {
+        var e = new eui.Image;
+        return this.get = e,
+        e.source = "peakjihadladder_reward_get_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.got_i = function() {
+        var e = new eui.Image;
+        return this.got = e,
+        e.source = "peakjihadladder_reward_got_png",
+        e.x = 4,
+        e.y = 3,
+        e
+    },
+    i.go_i = function() {
+        var e = new eui.Image;
+        return this.go = e,
+        e.source = "peak_jihad_order_task_panel_go1_png",
+        e.x = 38,
+        e.y = 13,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadladderAchieveRewardSkin.exml"] = window.PeakjihadladderAchieveRewardSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["close", "_list"],
+        this.height = 431,
+        this.width = 753,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this._Image2_i(), this.close_i(), this._Scroller1_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "title_pop_2022_imge_735x431_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "pea_jihad_achieve_pop_title_png",
+        e.x = 36,
+        e.y = 1,
+        e
+    },
+    i.close_i = function() {
+        var e = new eui.Image;
+        return this.close = e,
+        e.source = "high_ladder_rank_reward_view_close_png",
+        e.x = 707.175,
+        e.y = 1.229,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 377.215,
+        e.width = 722,
+        e.x = 14,
+        e.y = 42,
+        e.viewport = this._list_i(),
+        e
+    },
+    i._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.layout = this._VerticalLayout1_i(),
+        e
+    },
+    i._VerticalLayout1_i = function() {
+        var e = new eui.VerticalLayout;
+        return e.gap = -6,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadladderRewardItemSkin.exml"] = window.PeakjihadladderRewardItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["level", "levelIcon", "get", "got", "go", "_list"],
+        this.currentState = "level",
+        this.height = 90,
+        this.width = 789,
+        this.elementsContent = [this._Group2_i(), this._Scroller1_i()],
+        this.states = [new eui.State("season", [new eui.SetProperty("_Group1", "visible", !1), new eui.SetProperty("_Scroller1", "x", 466)]), new eui.State("level", [])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.level_i(), this.levelIcon_i(), this._Group1_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihadladder_reward_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.level_i = function() {
+        var e = new eui.Label;
+        return this.level = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 22,
+        e.text = "白银",
+        e.textColor = 16514895,
+        e.x = 102,
+        e.y = 34,
+        e
+    },
+    i.levelIcon_i = function() {
+        var e = new eui.Image;
+        return this.levelIcon = e,
+        e.height = 45,
+        e.width = 45,
+        e.x = 41,
+        e.y = 22,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return this._Group1 = e,
+        e.x = 641,
+        e.y = 22,
+        e.elementsContent = [this.get_i(), this.got_i(), this.go_i()],
+        e
+    },
+    i.get_i = function() {
+        var e = new eui.Image;
+        return this.get = e,
+        e.source = "peakjihadladder_reward_get_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.got_i = function() {
+        var e = new eui.Image;
+        return this.got = e,
+        e.source = "peakjihadladder_reward_got_png",
+        e.visible = !1,
+        e.x = 4,
+        e.y = 3,
+        e
+    },
+    i.go_i = function() {
+        var e = new eui.Image;
+        return this.go = e,
+        e.source = "peak_jihad_order_task_panel_go1_png",
+        e.visible = !1,
+        e.x = 38,
+        e.y = 13,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return this._Scroller1 = e,
+        e.height = 72,
+        e.width = 312,
+        e.x = 322,
+        e.y = 9,
+        e.viewport = this._list_i(),
+        e
+    },
+    i._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.layout = this._HorizontalLayout1_i(),
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakJihadLadderRewardSkin.exml"] = window.PeakjihadladderRewardSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["desc", "close", "rbGrp", "_list", "_scroller"],
+        this.height = 550,
+        this.width = 1005,
+        this.elementsContent = [this._Group1_i(), this._scroller_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.desc_i(), this.close_i(), this.rbGrp_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihadladder_reward_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.desc_i = function() {
+        var e = new eui.Label;
+        return this.desc = e,
+        e.horizontalCenter = 88.5,
+        e.size = 16,
+        e.text = "玩家在竞技模式中达到对应段位即可领取奖励",
+        e.textColor = 6388143,
+        e.y = 501,
+        e
+    },
+    i.close_i = function() {
+        var e = new eui.Image;
+        return this.close = e,
+        e.source = "high_ladder_rank_reward_view_close_png",
+        e.x = 961.436,
+        e.y = 4.604,
+        e
+    },
+    i.rbGrp_i = function() {
+        var e = new eui.Group;
+        return this.rbGrp = e,
+        e.height = 300,
+        e.width = 172,
+        e.x = 6,
+        e.y = 48,
+        e.layout = this._VerticalLayout1_i(),
+        e
+    },
+    i._VerticalLayout1_i = function() {
+        var e = new eui.VerticalLayout;
+        return e
+    },
+    i._scroller_i = function() {
+        var e = new eui.Scroller;
+        return this._scroller = e,
+        e.height = 416.892,
+        e.width = 790,
+        e.x = 190,
+        e.y = 74,
+        e.viewport = this._list_i(),
+        e
+    },
+    i._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.layout = this._VerticalLayout2_i(),
+        e
+    },
+    i._VerticalLayout2_i = function() {
+        var e = new eui.VerticalLayout;
+        return e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadLeisureModeSkin.exml"] = window.PeakJihadLeisureModeSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "ima6", "ima3", "imaTest", "none"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Scroller1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.horizontalCenter = 0,
+        e.source = "peakjihad_common_panel_bg_jpg",
+        e.verticalCenter = 0,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 575,
+        e.horizontalCenter = 0,
+        e.width = 980,
+        e.y = 65,
+        e.viewport = this._Group1_i(),
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.x = 126,
+        e.y = 65,
+        e.layout = this._HorizontalLayout1_i(),
+        e.elementsContent = [this.ima6_i(), this.ima3_i(), this.imaTest_i(), this.none_i()],
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e.gap = 30,
+        e
+    },
+    i.ima6_i = function() {
+        var e = new eui.Image;
+        return this.ima6 = e,
+        e.source = "peakjihad_leisure_mode_ima6_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.ima3_i = function() {
+        var e = new eui.Image;
+        return this.ima3 = e,
+        e.source = "peakjihad_leisure_mode_ima3_png",
+        e.x = 308,
+        e.y = 0,
+        e
+    },
+    i.imaTest_i = function() {
+        var e = new eui.Image;
+        return this.imaTest = e,
+        e.source = "peakjihad_leisure_mode_imaTest_png",
+        e.x = 318,
+        e.y = 0,
+        e
+    },
+    i.none_i = function() {
+        var e = new eui.Image;
+        return this.none = e,
+        e.source = "peakjihad_leisure_mode_none_png",
+        e.x = 616,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadSportsModePetSkin.exml"] = window.PeakjihadSportsModePetSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["head", "txt_id", "imgAttr", "num", "numGroup"],
+        this.height = 74,
+        this.width = 74,
+        this.elementsContent = [this._Group1_i(), this._Image4_i()],
+        this.states = [new eui.State("have", [new eui.SetProperty("_Image4", "visible", !1)]), new eui.State("no", [new eui.SetProperty("_Group1", "visible", !1)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group1_i = function() {
+        var e = new eui.Group;
+        return this._Group1 = e,
+        e.cacheAsBitmap = !0,
+        e.height = 74,
+        e.width = 74,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.head_i(), this.txt_id_i(), this._Image2_i(), this.imgAttr_i(), this.numGroup_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "pea_jihad_sport_head__png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.head_i = function() {
+        var e = new eui.Image;
+        return this.head = e,
+        e.height = 70,
+        e.horizontalCenter = 0,
+        e.verticalCenter = 0,
+        e.width = 70,
+        e
+    },
+    i.txt_id_i = function() {
+        var e = new eui.Label;
+        return this.txt_id = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.stroke = 1,
+        e.strokeColor = 1320013,
+        e.text = "9527",
+        e.textColor = 16777215,
+        e.touchEnabled = !1,
+        e.x = 5.443,
+        e.y = 4.962,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_sports_pool_imgattrbg_png",
+        e.touchEnabled = !1,
+        e.x = 35.066,
+        e.y = 1.934,
+        e
+    },
+    i.imgAttr_i = function() {
+        var e = new eui.Image;
+        return this.imgAttr = e,
+        e.height = 23,
+        e.horizontalCenter = 22.5,
+        e.source = "peakjihad_sports_pool_imgattr_png",
+        e.touchEnabled = !1,
+        e.verticalCenter = -23.5,
+        e.width = 23,
+        e
+    },
+    i.numGroup_i = function() {
+        var e = new eui.Group;
+        return this.numGroup = e,
+        e.x = 0,
+        e.y = 41,
+        e.elementsContent = [this._Image3_i(), this.num_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_sports_pool_numbg_png",
+        e.touchEnabled = !1,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = .5,
+        e.size = 20,
+        e.text = "3",
+        e.textColor = 16776257,
+        e.touchEnabled = !1,
+        e.y = 6,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return this._Image4 = e,
+        e.source = "pea_jihad_sport_none__png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.PeakjihadSportsModeSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bgGroup0", "bg", "bgGroup", "level", "icon", "btnMatch", "time", "cant", "rightGroup", "icon0", "num0", "icon1", "num1", "exp", "bar", "curLevel", "curExp", "task", "btnJiangli", "reward", "achieve", "suit", "dotReward", "dotAchieve", "_list", "leftGroup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bgGroup0_i(), this.bg_i(), this.bgGroup_i(), this.rightGroup_i(), this._Group4_i(), this.leftGroup_i()]
+    }
+    __extends(t, e);
+    var i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i.thumb_i = function() {
+            var e = new eui.Image;
+            return this.thumb = e,
+            e.source = "pea_jihad_sport_exppro_png",
+            e.visible = !0,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    n = t.prototype;
+    return n.bgGroup0_i = function() {
+        var e = new eui.Group;
+        return this.bgGroup0 = e,
+        e.horizontalCenter = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.touchEnabled = !1,
+        e.verticalCenter = 0,
+        e
+    },
+    n.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.alpha = .8,
+        e.horizontalCenter = 0,
+        e.scale9Grid = new egret.Rectangle(195, 147, 801, 374),
+        e.source = "blurry_base_bgmask_png",
+        e.touchEnabled = !1,
+        e.verticalCenter = 0,
+        e
+    },
+    n.bgGroup_i = function() {
+        var e = new eui.Group;
+        return this.bgGroup = e,
+        e.horizontalCenter = -150,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.touchEnabled = !1,
+        e.verticalCenter = 50,
+        e
+    },
+    n.rightGroup_i = function() {
+        var e = new eui.Group;
+        return this.rightGroup = e,
+        e.height = 640,
+        e.right = 0,
+        e.visible = !0,
+        e.width = 637,
+        e.y = 0,
+        e.elementsContent = [this._Group1_i(), this.cant_i()],
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.height = 640,
+        e.width = 637,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.level_i(), this.icon_i(), this.btnMatch_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_sports_mode_rightbg_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.level_i = function() {
+        var e = new eui.Label;
+        return this.level = e,
+        e.fontFamily = "REEJI",
+        e.horizontalCenter = 161.5,
+        e.size = 22,
+        e.text = "圣皇",
+        e.textColor = 16383837,
+        e.y = 344.96,
+        e
+    },
+    n.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 192,
+        e.width = 192,
+        e.x = 385,
+        e.y = 144,
+        e
+    },
+    n.btnMatch_i = function() {
+        var e = new eui.Image;
+        return this.btnMatch = e,
+        e.source = "peakjihad_sports_mode_btnjingji_png",
+        e.visible = !0,
+        e.x = 383.93,
+        e.y = 398.26,
+        e
+    },
+    n.cant_i = function() {
+        var e = new eui.Group;
+        return this.cant = e,
+        e.height = 180,
+        e.width = 180,
+        e.x = 392.336,
+        e.y = 405,
+        e.elementsContent = [this._Image2_i(), this.time_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "pea_jihad_sport_cantbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.time_i = function() {
+        var e = new eui.Label;
+        return this.time = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 24,
+        e.text = "00:00:00",
+        e.textAlign = "center",
+        e.textColor = 16514896,
+        e.width = 120,
+        e.x = 30,
+        e.y = 116,
+        e
+    },
+    n._Group4_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.right = 60,
+        e.top = 0,
+        e.visible = !0,
+        e.elementsContent = [this._Group2_i(), this._Group3_i()],
+        e
+    },
+    n._Group2_i = function() {
+        var e = new eui.Group;
+        return e.right = 168,
+        e.y = 12,
+        e.elementsContent = [this._Image3_i(), this.icon0_i(), this.num0_i()],
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_item_num_bg_png",
+        e.x = 0,
+        e.y = 3.171,
+        e
+    },
+    n.icon0_i = function() {
+        var e = new eui.Image;
+        return this.icon0 = e,
+        e.height = 55,
+        e.left = -2,
+        e.scaleX = .7,
+        e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon0_png",
+        e.width = 55,
+        e.y = -6,
+        e
+    },
+    n.num0_i = function() {
+        var e = new eui.Label;
+        return this.num0 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 15.5,
+        e.size = 16,
+        e.textColor = 13887988,
+        e.y = 5,
+        e
+    },
+    n._Group3_i = function() {
+        var e = new eui.Group;
+        return e.right = 7,
+        e.y = 12,
+        e.elementsContent = [this._Image4_i(), this.icon1_i(), this.num1_i()],
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_item_num_bg_png",
+        e.x = 0,
+        e.y = 2.108,
+        e
+    },
+    n.icon1_i = function() {
+        var e = new eui.Image;
+        return this.icon1 = e,
+        e.height = 55,
+        e.left = -2,
+        e.scaleX = .7,
+        e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon1_png",
+        e.width = 55,
+        e.y = -6,
+        e
+    },
+    n.num1_i = function() {
+        var e = new eui.Label;
+        return this.num1 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 15.5,
+        e.size = 16,
+        e.textColor = 13887988,
+        e.y = 5,
+        e
+    },
+    n.leftGroup_i = function() {
+        var e = new eui.Group;
+        return this.leftGroup = e,
+        e.height = 605,
+        e.left = 11,
+        e.width = 453,
+        e.y = 14,
+        e.elementsContent = [this._Group5_i(), this._Scroller1_i()],
+        e
+    },
+    n._Group5_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.height = 605,
+        e.width = 453,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image5_i(), this.exp_i(), this.bar_i(), this.curLevel_i(), this.curExp_i(), this.task_i(), this.btnJiangli_i(), this.reward_i(), this.achieve_i(), this.suit_i(), this.dotReward_i(), this.dotAchieve_i()],
+        e
+    },
+    n._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "pea_jihad_sport_line_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.exp_i = function() {
+        var e = new eui.Image;
+        return this.exp = e,
+        e.source = "peakjihad_sports_mode_exp_png",
+        e.visible = !0,
+        e.x = 10,
+        e.y = 499,
+        e
+    },
+    n.bar_i = function() {
+        var e = new eui.ProgressBar;
+        return this.bar = e,
+        e.rotation = 270,
+        e.visible = !0,
+        e.x = 16.19,
+        e.y = 598.28,
+        e.skinName = i,
+        e
+    },
+    n.curLevel_i = function() {
+        var e = new eui.Label;
+        return this.curLevel = e,
+        e.fontFamily = "REEJI",
+        e.horizontalCenter = -80.5,
+        e.size = 30,
+        e.text = "0",
+        e.textColor = 16777215,
+        e.y = 549,
+        e
+    },
+    n.curExp_i = function() {
+        var e = new eui.Label;
+        return this.curExp = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = -167,
+        e.size = 18,
+        e.text = "0",
+        e.textColor = 16514895,
+        e.y = 547,
+        e
+    },
+    n.task_i = function() {
+        var e = new eui.Image;
+        return this.task = e,
+        e.source = "peakjihad_sports_mode_btnmeiri_png",
+        e.x = 216,
+        e.y = 516,
+        e
+    },
+    n.btnJiangli_i = function() {
+        var e = new eui.Image;
+        return this.btnJiangli = e,
+        e.source = "peakjihad_sports_mode_btnjiangli_png",
+        e.x = 324,
+        e.y = 516,
+        e
+    },
+    n.reward_i = function() {
+        var e = new eui.Image;
+        return this.reward = e,
+        e.source = "peakjihad_sports_mode_btnduanwei_png",
+        e.x = 163,
+        e.y = 411,
+        e
+    },
+    n.achieve_i = function() {
+        var e = new eui.Image;
+        return this.achieve = e,
+        e.source = "pea_jihad_achieve_pop_btnchengjiu_png",
+        e.x = 259,
+        e.y = 411,
+        e
+    },
+    n.suit_i = function() {
+        var e = new eui.Image;
+        return this.suit = e,
+        e.source = "peakjihad_sports_mode_btnzhuangban_png",
+        e.x = 67,
+        e.y = 411,
+        e
+    },
+    n.dotReward_i = function() {
+        var e = new eui.Image;
+        return this.dotReward = e,
+        e.height = 20,
+        e.source = "dot_png",
+        e.visible = !1,
+        e.width = 20,
+        e.x = 226,
+        e.y = 416.544,
+        e
+    },
+    n.dotAchieve_i = function() {
+        var e = new eui.Image;
+        return this.dotAchieve = e,
+        e.height = 20,
+        e.source = "dot_png",
+        e.visible = !1,
+        e.width = 20,
+        e.x = 321.831,
+        e.y = 416,
+        e
+    },
+    n._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.cacheAsBitmap = !0,
+        e.height = 334,
+        e.width = 250.5,
+        e.x = 27,
+        e.y = 57,
+        e.viewport = this._list_i(),
+        e
+    },
+    n._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.itemRendererSkinName = PeakjihadSportsModePetSkin,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    n._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalGap = 10,
+        e.paddingLeft = 4,
+        e.paddingTop = 2,
+        e.requestedColumnCount = 3,
+        e.verticalGap = 10,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadSportsPoolItemSkin.exml"] = window.PeakJihadSportsPoolItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["txtName", "head", "txt_id", "imgAttr", "num", "rec"],
+        this.height = 136,
+        this.width = 111,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.txtName_i(), this.head_i(), this.txt_id_i(), this._Image2_i(), this.imgAttr_i(), this._Image3_i(), this.num_i(), this.rec_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_sports_pool_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txtName_i = function() {
+        var e = new eui.Label;
+        return this.txtName = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = .5,
+        e.size = 16,
+        e.text = "精灵名字最多",
+        e.textColor = 9025023,
+        e.y = 110,
+        e
+    },
+    i.head_i = function() {
+        var e = new eui.Image;
+        return this.head = e,
+        e.height = 100,
+        e.horizontalCenter = -.5,
+        e.verticalCenter = -13,
+        e.width = 100,
+        e
+    },
+    i.txt_id_i = function() {
+        var e = new eui.Label;
+        return this.txt_id = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.stroke = 1,
+        e.strokeColor = 1320013,
+        e.text = "9527",
+        e.textColor = 16777215,
+        e.touchEnabled = !1,
+        e.x = 5.443,
+        e.y = 4.962,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_sports_pool_imgattrbg_png",
+        e.touchEnabled = !1,
+        e.x = 68,
+        e.y = 5,
+        e
+    },
+    i.imgAttr_i = function() {
+        var e = new eui.Image;
+        return this.imgAttr = e,
+        e.height = 23,
+        e.horizontalCenter = 36.5,
+        e.source = "peakjihad_sports_pool_imgattr_png",
+        e.touchEnabled = !1,
+        e.verticalCenter = -51.5,
+        e.width = 23,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_sports_pool_numbg_png",
+        e.touchEnabled = !1,
+        e.x = 0,
+        e.y = 77,
+        e
+    },
+    i.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = -40.5,
+        e.size = 20,
+        e.text = "3",
+        e.textColor = 16776257,
+        e.touchEnabled = !1,
+        e.y = 83,
+        e
+    },
+    i.rec_i = function() {
+        var e = new eui.Image;
+        return this.rec = e,
+        e.source = "peakjihad_sports_pool_rec_png",
+        e.touchEnabled = !1,
+        e.visible = !1,
+        e.x = 2,
+        e.y = 2,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakjihadSportsPoolSkin.exml"] = window.PeakJihadSportsPoolSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "icon0", "num0", "icon1", "num1", "menuGroup", "_list", "_scroller"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group3_i(), this.menuGroup_i(), this._scroller_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.horizontalCenter = 0,
+        e.source = "peakjihad_common_panel_bg_jpg",
+        e.verticalCenter = 0,
+        e
+    },
+    i._Group3_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.right = 60,
+        e.top = 0,
+        e.visible = !0,
+        e.elementsContent = [this._Group1_i(), this._Group2_i()],
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.right = 168,
+        e.y = 12,
+        e.elementsContent = [this._Image1_i(), this.icon0_i(), this.num0_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_item_num_bg_png",
+        e.x = 0,
+        e.y = 3.171,
+        e
+    },
+    i.icon0_i = function() {
+        var e = new eui.Image;
+        return this.icon0 = e,
+        e.height = 55,
+        e.left = -1,
+        e.scaleX = .7,
+        e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon0_png",
+        e.width = 55,
+        e.y = -6,
+        e
+    },
+    i.num0_i = function() {
+        var e = new eui.Label;
+        return this.num0 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 15.5,
+        e.size = 16,
+        e.textColor = 13887988,
+        e.y = 5,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.right = 7,
+        e.y = 12,
+        e.elementsContent = [this._Image2_i(), this.icon1_i(), this.num1_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_item_num_bg_png",
+        e.x = 0,
+        e.y = 2.108,
+        e
+    },
+    i.icon1_i = function() {
+        var e = new eui.Image;
+        return this.icon1 = e,
+        e.height = 55,
+        e.left = -1,
+        e.scaleX = .7,
+        e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon1_png",
+        e.width = 55,
+        e.y = -6,
+        e
+    },
+    i.num1_i = function() {
+        var e = new eui.Label;
+        return this.num1 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 15.5,
+        e.size = 16,
+        e.textColor = 13887988,
+        e.y = 5,
+        e
+    },
+    i.menuGroup_i = function() {
+        var e = new eui.Group;
+        return this.menuGroup = e,
+        e.x = 0,
+        e.y = 48,
+        e
+    },
+    i._scroller_i = function() {
+        var e = new eui.Scroller;
+        return this._scroller = e,
+        e.height = 558,
+        e.left = 237,
+        e.right = 33,
+        e.y = 65,
+        e.viewport = this._list_i(),
+        e
+    },
+    i._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    i._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalGap = 10,
+        e.verticalGap = 10,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakJihadTrainFightPopSkin.exml"] = window.PeakJihadTrainFightPopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["close", "title", "num", "icon", "desc", "tip", "start"],
+        this.height = 285,
+        this.width = 481,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.close_i(), this.title_i(), this._Label1_i(), this._Label2_i(), this.num_i(), this.icon_i(), this.desc_i(), this.tip_i(), this.start_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihadfirstpage_train_popbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.close_i = function() {
+        var e = new eui.Image;
+        return this.close = e,
+        e.source = "high_ladder_rank_reward_view_close_png",
+        e.x = 439,
+        e.y = 0,
+        e
+    },
+    i.title_i = function() {
+        var e = new eui.Label;
+        return this.title = e,
+        e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "试炼等级1-1",
+        e.textColor = 16514895,
+        e.x = 32,
+        e.y = 8,
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "提示",
+        e.textColor = 4187130,
+        e.x = 21,
+        e.y = 83.56,
+        e
+    },
+    i._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "通关奖励：",
+        e.textColor = 4187130,
+        e.x = 171,
+        e.y = 192,
+        e
+    },
+    i.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "*100",
+        e.textColor = 4187130,
+        e.x = 274,
+        e.y = 192,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 22,
+        e.source = "peakjihadfirstpage_train_icon_png",
+        e.width = 22,
+        e.x = 254,
+        e.y = 190,
+        e
+    },
+    i.desc_i = function() {
+        var e = new eui.Label;
+        return this.desc = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "试炼描述试炼描述试炼描述",
+        e.textColor = 13820671,
+        e.width = 434,
+        e.x = 21,
+        e.y = 45.05,
+        e
+    },
+    i.tip_i = function() {
+        var e = new eui.Label;
+        return this.tip = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "通过技能技能技能可以有效克制地方技能技能技能，来达到XXX的目的一次扩大优势获得胜利",
+        e.textColor = 8757203,
+        e.width = 434,
+        e.x = 21,
+        e.y = 107.56,
+        e
+    },
+    i.start_i = function() {
+        var e = new eui.Image;
+        return this.start = e,
+        e.source = "peakjihadfirstpage_train_start_png",
+        e.x = 173,
+        e.y = 213,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakJihadTrainItemSkin.exml"] = window.PeakJihadTrainItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["pet", "levelName", "level", "desc", "done", "not", "touchGroup"],
+        this.height = 541,
+        this.width = 320,
+        this.elementsContent = [this.touchGroup_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.touchGroup_i = function() {
+        var e = new eui.Group;
+        return this.touchGroup = e,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.pet_i(), this._Image2_i(), this.levelName_i(), this.level_i(), this.desc_i(), this.done_i(), this.not_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihadfirstpage_train_itembg_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.pet_i = function() {
+        var e = new eui.Image;
+        return this.pet = e,
+        e.height = 495,
+        e.width = 280,
+        e.x = 21,
+        e.y = 23,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihadfirstpage_train_txtBg_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 403.526,
+        e
+    },
+    i.levelName_i = function() {
+        var e = new eui.Image;
+        return this.levelName = e,
+        e.source = "peakjihadfirstpage_train_levelname1_png",
+        e.x = 39,
+        e.y = 26,
+        e
+    },
+    i.level_i = function() {
+        var e = new eui.Label;
+        return this.level = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "试炼等级2-1",
+        e.textColor = 7923711,
+        e.x = 46,
+        e.y = 66,
+        e
+    },
+    i.desc_i = function() {
+        var e = new eui.Label;
+        return this.desc = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "试炼描述试炼描述试炼描述试炼描述试炼描述试炼描述试炼描述",
+        e.textAlign = "center",
+        e.textColor = 8431332,
+        e.verticalCenter = 190.5,
+        e.width = 240,
+        e.x = 40,
+        e
+    },
+    i.done_i = function() {
+        var e = new eui.Image;
+        return this.done = e,
+        e.source = "peakjihadfirstpage_train_done_png",
+        e.touchEnabled = !1,
+        e.visible = !1,
+        e.x = 20,
+        e.y = 245,
+        e
+    },
+    i.not_i = function() {
+        var e = new eui.Image;
+        return this.not = e,
+        e.height = 507.667,
+        e.source = "peakjihad_sports_pool_rec_png",
+        e.visible = !1,
+        e.width = 290.724,
+        e.x = 14.361,
+        e.y = 11.607,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakJihadTrainSkin.exml"] = window.PeakJihadTrainSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "_list", "_scr", "menuGroup"],
+        this.height = 640,
+        this.width = 1256,
+        this.elementsContent = [this.bg_i(), this._scr_i(), this.menuGroup_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.horizontalCenter = 0,
+        e.source = "peakjihad_common_panel_bg_jpg",
+        e.verticalCenter = 0,
+        e
+    },
+    i._scr_i = function() {
+        var e = new eui.Scroller;
+        return this._scr = e,
+        e.height = 542,
+        e.left = 226,
+        e.right = 30,
+        e.y = 63,
+        e.viewport = this._list_i(),
+        e
+    },
+    i._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.itemRendererSkinName = PeakJihadTrainItemSkin,
+        e.layout = this._HorizontalLayout1_i(),
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e
+    },
+    i.menuGroup_i = function() {
+        var e = new eui.Group;
+        return this.menuGroup = e,
+        e.x = 0,
+        e.y = 48,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakRBitemSkin.exml"] = window.PeakRBitemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["txt_desc"],
+        this.height = 63,
+        this.width = 171,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.txt_desc_i()],
+        this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "visible", !0), new eui.SetProperty("txt_desc", "textColor", 8036825)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "help_mulit_pop_bg_down_png"), new eui.SetProperty("txt_desc", "textColor", 15857151)]), new eui.State("disabled", [new eui.SetProperty("_Image1", "source", "help_mulit_pop_bg_down_png")])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return this._Image1 = e,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.alpha = 0,
+        e.height = 63,
+        e.source = "help_mulit_pop_bg_down_png",
+        e.visible = !0,
+        e.width = 171,
+        e
+    },
+    i.txt_desc_i = function() {
+        var e = new eui.Label;
+        return this.txt_desc = e,
+        e.fontFamily = "HuaKangXinZongYi",
+        e.horizontalCenter = -1.5,
+        e.size = 20,
+        e.text = "段位奖励",
+        e.verticalCenter = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/RewardItemRenderSKin.exml"] = window.RewardItemRenderSKin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["icon", "num", "mas"],
+        this.height = 72,
+        this.width = 72,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.height = 72,
+        e.width = 72,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.icon_i(), this.num_i(), this.mas_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihadladder_reward_itemnumbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 50,
+        e.horizontalCenter = 0,
+        e.verticalCenter = -5,
+        e.width = 50,
+        e
+    },
+    i.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 5,
+        e.size = 16,
+        e.stroke = 1,
+        e.strokeColor = 1712696,
+        e.text = "99",
+        e.textColor = 16776958,
+        e.y = 53,
+        e
+    },
+    i.mas_i = function() {
+        var e = new eui.Image;
+        return this.mas = e,
+        e.horizontalCenter = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "peak_jihad_order_task_panel_itemgot_png",
+        e.touchEnabled = !1,
+        e.verticalCenter = 0,
+        e.x = 1,
+        e.y = 1,
+        e
+    },
+    t
+} (eui.Skin);

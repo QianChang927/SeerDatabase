@@ -1,1 +1,779 @@
-eval(function(){function Z(Z){for(o=J=0;o<Z;)P<2&&(P=64,G=92<(G="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<VfkxP:s:<_wH;ka>:g:=aoks>nZnQNXk:[@N<`lX@CX[;nb=<c^LelmcGW>^kCOb=s_>[X<`[:lTbhsHZa@;yac:EB:JJ:@`::<c:LJS:?>:FeR:<F::R[CKs:;AC[sX=gj::PkVCZ:EAk:;lwJN:CZgTZB:@gw<k:ABZKPRTTYAtz:A:oAZm?wkogFOLPbgkBQFt<NENqbxLBlHDCQLPRJ<HsbFuXY;BXEk?Z:RQZj^ZwNkTBKGN^=q@e?^wU]mUZeY]b[:lGC[A=hQBKfku::TfwChOEH_JI?s^nI]kz=Qo_lpI?Nk:KQkZTf[RSAXvKyhG`gSfAkbZpWB?W:cVZ>=]op=b:;>AnZN::Ofxzc<ZO;p@<BNHcCiN?;=k;ePhig:Xyljkyrs?=rU<Z?KjXlo<ZJOm@:JZw::BlJBOF@L<ZjlzJKTp:qws:ZfOcGZ[=n]pS=IpJWoU_?>^o^JkC`<fHcc:UH;tNtWG;J:W_?SO`Lss<@BGI;]ORn::@ShJ:O[>j^D;HYNsa>b^[PO:;HTLd?@F:J:k<?<:DO;[Dp::qSMqENi<H=_RLKHOJmdFzVmt?GVp=o:GxG:<wjJ:SOo:VEW=kFR]NBRg^jo<GSImR`]qFsv^;Q>hL;D>xFlDp>MOFzPMtIMKLUENzGk<oqBk?oj;xIMBn`BpXmEBBDmUG?LfAEGBx:@wxJ;Z^PwrndI<n_j;RAVxn::xF>MC;Y^vKFi:JI:ZQBB>VFtPBPCuy^D<uyB;kcW:R_R[TbH@PBR_kXUaCS;_:;`HKREcSfa[Tl^Zgx`iqt^PH>V[WgubebksHMXhrYWna@oUoA@mudiix:@Q:YOd`wAJoiy^E[@bAGcovUhXmkMFpp>S>g>dM`tK:PT:<>aAJ>sP::OJDC;m=KtTidujZgXeAAwQHNKJ^qRRwAMDlOggI;p:BN?pABHO[W?w[tb_[UKWlVCTb=:a]UZNbmTsTb;Edfh`dkH:_ANRbo;R:<ZPS`WoMlL;na?Ua_HV@^v@N>Mx;]jS_LFAfCiaZ:C:rp<YBPu`ax:^j`Q>y;RM;HUqQfbmIJ;iPo:<eO:;Yck:sFm:rua_kI_a]GB>hWdx`GCR:Zi^:XOMeGGPNrpUZp:DRPTq=ePCS?ySdYg?[zVGyPO_Og_y;O_amRdciWY];btL;RrMY:]rw]hoJ@JsXBa;JL@P?Og:WlkF?OzQ`;i@IA=]TCc=^?Ix;nu;JxW_Auh[wCoXGTdabCybqXMTzJJPU>TRH>hsvowELH:MCDlBnsgf?yTgluTkzjMPgV>MR:=?s;k::?tzoh`aNJYcuJJ<gGXF:G[^KFA`::A_kFDSJk:H<wkZ;:w:wcxtZ[Ic:SQp:<mLc:C:G::cGc:AZO:;VVgDQmy[kv:GafjNHt=tM>lgCmNVzZbcKP>CJ_NW<@Al<RMBLiU=PmA_::UmZ:GyF:BNqZ;BVo:Hr;Z;ozN:FqlZ;wMN::uaZ;tlF:<?ivtksbQHdW=ZsGktrJXjn;TEoreGMzB:JAylAoFRK:]>>[h=gFIB:X^G:;_Dc:<Gh:=c:LD=l<oj>QLieAYlxp`@fOXfhIwZ;SGF:AEmZd:<W=jkk:yIx:QziBAVkSi;e]K`:dPnxOUerAcZrPm<o?MKkIk?d;=y[P;ABC@kVd?J>::AnH@S@mE_jByLTC]Ucp[<L=@:<atJ:`CeiF:CzTZ:FBo:BMP^^:;Iic:XUx::Nfc:@Hp:;[Vc:FtOB_@@]WcyCvLKMWDA]IH;UwCtBIL<Z`Ze=S=^GkW^NaG[S[flT;=J>B<sCFA[QFWX@;t?wZsDZHLY[zCP<<i[SJPdlCVMOHCYJtEDP][TMw[Br;qEWIyNzJ?zL>ATp;KJV?ok_;T>?BjU>fGBTsABBMDBr:uf_?PKmU_zB:<oomJ<nIaJsGKG<L;kcKO]t?qwdA_=KK]l?qDU<sjlM[UZKED:_hcfLtNTd`JocdVeW]e_P_PcCL=SsqBq_CA_J:KLRA:>Gr:XEgK>[eRkGebSk@N@eYJd``BP;TTMH<[>k<LB[Asgiu;:JAaeIcx_aJMu:?dRk:=bD::J^J:yNcWJ_>H>VgKlntebDmly;:R?xIZXzU`JmkNaq@[SA;Lww@Akrb:UGixw=l>bR]syu;kn^gr]]kpXn`pekNNckms_qPWhuTz:SYTduRNyi`?oEM_JVmt^nFi^hnqgN?dEMivVdRmmMAiIg>CBSZ@[jF;Po<=p:eIUMA`WK]dV<ZI?C:kfOmgmjMA@xWRyTN@ZsydiAVlTjgviydoZ__=mno;qfh[uiPZYvL;MuiOGETNDcoRegA`sUebYc^WCxkBwZJ:ZNV=[N:kqX>ZLypwc<B:J?:PW;;N<r_;:UXyhkc:HPej>IZ[sZCFbNHcNVA:wsq@rFTLadpMdvdBw;g^bx[_n:?JJK^X<WPReKLlspie_NsflJLvZ`?ASqiWZusmEeiEgQdM<r>fM^Q[qNWtkJKAE<T[BfTw]ngHCVKsgudEoOWr>Uq;QAcvFM<A_:F[mZ:xAN:;TDZ;YZF:GlDZ:ASL:ZOkfZ;ICo:HJ@GQ::orc:?E`::;KeOiMKZPR]?>;mbhBEWRg<ji<Z:s^[OwUsw<di<qBLSK=D:M<GHeZZ`<f<La`ED;N=[^:nTqWct[X]x_bo:ILyZ;<uEHR:AR=rkUUZ?D@NV;OhvUFAy<thrD<DYDRXJ:xwe:?HtJ:RKa:=Q`WwV:Qg@>:Ye_;cWBYtBsGkLAEASoB;:;jW:ufQewq[BvKMf>=guCRYc_yZ;ruF:@:uAq?GOPys:I`G:<a]c:@R=:<Zmc:GFn:<Emc:PQ`:;qz[wzJQn?g>ATQZGwZcc>f<:tmrht@ds^VIH<i?NqSgqXlZhlAeuVokva^s[AJ<pXvqKu^d:uHWiRz]G^ekiIs^suHvgzX;]mVNuyq>kwWHaWgutnnjbWbMOJwGNtynSejOPh^S?tJFUQOe]?JuhNPcy;Kt>aR?vyZkw;VFfAppv?MBHjRae;I]i@Qyeb_EtNvTcu]s<[>@[XkKDEDZAgD:Usrn<<e?:YRIRsZytnP^GjYSeuG=];<UQu;N@^IJGr]JMCMdFZ:>cF]ZBaVu]R:=Lo`@p^ZbB;gYE@iwRpvp_:YRr@d^vXaFE_e<:<TN;HMg[tEIlFjgaM@^@nm?YkspztiZV^PVNS:^_?Qwq]VmscuqFiF:NXk]yvBA:A:hFcV=BTHX:^R?RRTlZTch_JeD;B_FXZcP;mNacq;mcgqJ;BPbalD<PwTm]s>XVeRa:s;_;o;Sw=RiZlZkc?Zm_GRDo<o`;gJN:kcp;>;N;sFlF=;RHn;ackcU;D]b;ds`>G;z;cVZ[YZk[?ZP;s[sN_[N:l>F[W;GwJ[M;L[Pcs[mqE:eqa:tDs_K:RHZc?Zl<kBd<g]qk`[]m]mZc[_K:d[waFmL:VmHqLJRHHcY_VPVTcN`:?;yTgJj;h;:[H[B[ZcB_D[A;cKdsI;a[_K<[i[aclXwae[<K_>sKg[x;eKoKiuaKwKeRu[iKP[w[^;oK[_;[Dqr[x[SZ^[Tcf[s_gNp[JBh[?<=K^[PcmcEKUK`:A[Q[<mqkwXU;YyV:nREkUTbyOkoR>lNl>kZ;Beus@oPosNg]t:yoP:>]iisFg]w]]]^odLYsJ>hRao>>IgRmeqPlaJa:ReH:>eB:NeWNuJVeumLebsJleqkZdlY:cs[:uZFZGZ>w:icyqw[>Cu:u`aZeY:=lMlElo_vl<eYBmep>rlr[aeccoBR[o_?lN:[[Glql:NLqWK<mYlhRRCMBG[S<?<^oC<hCwcykqPB;WgpXu:Xku:=XkZhJOwm:KFN:JBdkNqu:SZy>;:w>]>jCzsPKdKhqO[DJcqCg>q>>wdsd_dtkodViuDBdRdF>>d[>a:oBod>[qKwdglVsIyOCGCW[EF]udJrJ<@UC]mV:rFrCod_ow:NqtZud[du:Ed?dryxZ;XmlV@xd<@`BZXkFQ:jees;XJTBTRT>TNTY:lZ[_Asp>_P`Z;;DlcZkk>lET_ssRv>C>qeM:@TD:PTXl[LXT;TV:KTXmCTFJCwZ:pze:=s<R:GyDZ:dE@peyL[;JBn[n>zt[REL[bc^?=Pk>]K`iRsJyeo<?=l_q=;e[fpbCbKdTZYZ<:t`kS];e:?_MZn>K[Yut^_:LSG:V:q;^`sB=U:cYnk=mZV<Y:JB_ZxDUtvAraI`k;^uvvxtZ<=v=t:[^CAsMvMursEvEup^vbjsxBL=AbK[b`n:q=`]O[DnM][=V=bk<sUfv:L<P^Y<Q]qZZ^r]J]D:K<k<B:c:R<u:ckr=A[PZ>QQ^qZI[]lsQP[Q[q^>O=[xbV:b[gP>OFPJZF:wQoNq]FPVQe<BU<=v=B];[S<C:;J_<YZ]S;^S<t=;RMaR[:@O<gmpZxLG=G<h=h=c<W<Hbs^o]==<==<^:><M:n;n:E;E:f<[Jv=U<U=v<A;=aI<=aPbq<r;kPX^I<j;[;v<@Al;Z^QMI<TLl:w]NmV]R<[Q[PnLKPdZlPVZF<Vlw;CNJZdPlNT<klC;SOKOYatQe=tQdQ[<?NtPVZv]q:c;C;wu]]OQKPtN<KrcSOGQ?QOP`Ps:>;Qnk;zJ=Kk::=ocTX:N@nc;:Jpf?=?A?=cJsX@jNoJwcZaPk<O>kt:opc`gpn?<pOtKJRZPFDBH`m?EtJw`CncFF]kLJOwlFRqGPs><agZV:GPc>Vwq>u:EpFwUpJNnpDayC[Cr[GP[[bpR>_qZcBGvpu[GPbddsPcoG^q_>wGQdc]Da=CGPsDu<V:P<jpgimd_qDGiGE:wi;GzCGsJd>>;G>@dgtuGPGGDasqRGuGCgwisGDaOGu_XNh@KNe:oGFZSGkdfG[sp@yNH_x@IGxGXGi>MGKGHdVGUGboo@jG:dtGNGDa]h>hLRL:kuhG=RD:GPyg[gUpuZZ>YpwkhGulHo^Nth>>@l?<ohzDPZEpkLINMhn>Vh[syCOlKi<mxhOaZhsNZh@GNDoh:?RmVahRygBya:[_mcfl?:mqwJi:JcFKeXhR;gn>vX;:BFPJP:lZhRhp^>URhR=pV>Mp[Wuos@QpIw=pOJ?WWROWdgIptWo_[[nWa>Fw_GZcUWuJP>=pPcrW?:=C:xWJ@G@<q<kxPl<FdghWo_khQGRh>xo@>xCkZVFxa><ozWTxIW<oQWPxjDT<ND>x@GBytWSZcJg`kR;:cR]uAgyBKZr`JSfd<qTZ;WIPVqUF_:P:ZODBoct:ZDOBH>zcK<uJhpq:hk_WZ?P:FWFe:pZoJhA:wc=tdgoc<aGsQWlhWwY`>B;sYR::ufn>bLD=D`>=JfVCXQOH>BVCGeQJEclAhY;j]?zLw=zPcIzJhgQWJoxP:lB;:qF]RVd>Dj>jpA:psBZt;]QPQKZqVXJ:bNbVe?eBByJ<JplDbXJCXLC<C;JqDDxWQSGazRJSHNkuwDGQzU:Z:nLBJirWzII=[GkmFA:?AXCDS>BzxCZAKTX;X?hP;HCRl:rS=OBvVEBnZCZ>svV<JlcqJmRMlCRCJzQWRvzAJtXckowFkmRqks:tRnrQsnxQRvkpZD>mssGPsmXHX=GWsrGTjW_q:aUGBo>m>wsocuCAS@cuC<D=>qDDrYcvaL:WzLRqGbF>HHRo:vPBRQRsOC:uJlBCXXC@ufVHbReAq?bOk=bLRCyB<fjNQWKDW<:A;:U;grQYxPLN>EQORU>tYf:fjYJsRm_wRvzX_lRpFjRpARSDcv:oX<NtsylXNwlNy=>A;@;<UKBANlb^A[B<JnDiJyoqc?:GgvgoZCVo_tzMVmkyJE<kU>FtRyJ?oAqC<jDEFasvv:<BjhX<m>T::?dV;:[bts=LF^MI;w]`Pc:?m]Lr:LbRBa@eI>aAZQUQSQD:;RzxBxgXG?fXoFsKbil:ckFLV<o=Z=m;<LZHaG<BcmJvAT`<opZO<pgOh:=Jgc_yzMou_vzP]oZ;]pF[iGeoVo_Ik;BG]oIaTI]sXBLm:FLw<DLmk;Lw<GLvLnQ:mpdFmwoqmoKCmrVRXFD<^KB>Dp:Po>DBSHDtDvVGDzaADngkeoTVem>yOC>lewSWclrJxJ]zew_vorVqRykp_u=K;CKGTowlFxlDwwBywtwDNpsvX=svrP=MNs>kJw>yCFD:FVcmC:otXVdASE>yqv[AekRlzNJg]q_uPl_qTm;AatGgKGPr_tZBuaeqwwNoqtwsKTqlNvslPycSqlBIeKePapqsbV>sd@>oD:NmovSCeoIOoniWHoRm]zori?<@PsIMLQRy<t>nSBczFtbWbXregxKB<djSgu[B<]C;IXVufFeB[s<iC;IM=LXrjQNC[zgxCC[wDB[wTn;wBDVuuG;tHxooPsTukzHkwshiiwd=:kqnilsqNkXnwn=YwuXnBxqtZ@e<CDcs;pFtFqVz;tKqykTvVvKufDTklksvPu<rpDsyswqpwllt<?:C[mHEy^lrNqCAXp@[OHelO@Cv:][uywj?Cm]zVwFnPrkzBummludrixX;dsyGdp=AdrlkSq<uCFe:FSXRDDSyKv:i[tSrZhSrHvCykzSpZBtsNr:lwylrXBXttvdk>o<ntyatcodo?m?qcC[tjOVyyvHmPn?kiw:lJ>Ov_kdrkyC>dximtm`nst[t`vlxXliwJuC:CpauHqDE[lCpSxKxCuRlOzKvPE[vOssspwtw`mqu`tlk^XprNvARSqhmCn>SekKoGt?mGnSrKwFy_:KxGlFkpotmdzGydshtdqps<lprBxppe<SApten<ngkUFOs]nHwPqcFTrCnTwgv]kuoumuo<@ulupLnLvVALr:Euomw<<mz>bZHmoS:am@xkjkZBZDy^n>FDx@qDm<n?:ari>azDqaCXrtn>VotXOe:OoTaZaITX;?w:Yhx?vG:=x<S^W^TWktwltWvimpsXuIO^XILhrlpZWpxl@etXRucBv>yXfhuno]vxyJ?ysFvyrNHXaFpARegxt>wdDcu;sgy;rqC;r;v:cSD[v:il>YSEWkQUnEMR:vx[p]rnRDVDRKuvynRfmVqxs<`UmnkkmfnKqGlnv?yin>JFNppWzinWsy?MWlypwCyeubPSufEUoAxVufvSt]yisHlWoNwpkhnskb?x=xGttpwd@ey>ue<Cpcqc:nKMNfwAnxuAvbsimIYUnkPirOz?vGkEqlmQwEzUyEtpwsNdmJw`FSvMu`E>xeVvpvmOp?yOyAtOlSgMUnz?znoQvAqtzAsA:jtQsJsS>xm`C>yuhhyvmfNjxxlyynozXjwWxYtvpjzNsQo`sEwItlmzl;@IsJqonwux?:i@vGIhcnIKMoPyqYWjcWomTNSBFqjGWao;KvEFDk]RWj;<>k<Dd=Xt:TIbGmzvQVqq>:]jipoy<E;]cT:^:Xo>OKZ<p:Vx:eGnLZ@`WOXujAx_zkc=o=KTX_AQ[Fnmsa?;HVn?::grJ;EFjoSjIH`;pZKe[fXegSLBvlODJKAXEG<XinNs?oRxB@AQzccExsthcPZDTJObqR>k=liWbLI]C=k@=wpHVYBZOk<MvrVNyJQPZSJ>;Km==;Dz@MajkatlWKB=M@IZJHg@AgmyTZlZYzq<S>Gpi_M;jZnlR:D<<qNvWkPAoYsMWcLgJhzZ`qNuvxz;yzAl_rqIt[==B_zYZMIrsTTg^yVJe^]Ap@sWweiQYCr^_OvtKoGi@Jnz_IoB>^wu[cJaGaYl`uR;EyiZig?KZoZ]pp;lNCZJ_He@bdBFkJgPazr>^phE;fbR>HtpQe==HT=:[XdoC^drhFqBbTCjoGCcXxDqRkhbejmL?AWeiPZehi:nvvjx>i^UOcJ>CzvDp[LbJmQbXq:?:Vq]gMCXasCH?e;P;bI<ZG;[s?wFF<_MJWgoqGs]=MXiWGS[VmxukV@BunI=[SZN>_WdBKzW>SFGGZz=>KUjSsKHloAdxScBcRsSNBHsa<wyGkeI[zri?P=g[[vKIZ<okSyVBPFUYr[VrD@LVz[]JZAhsB>?r=PHxBdRJYm=[U[MkLxMcWQk]ApxL[xjEvcPrC>Ix:KhJh>P_BAuS<A[=Bbtf_GX>?=r[DS>Mjfru@R]mKUYDcU:FvvK=tVevTsRoCrsh=[KrnMM_YnpAW<EyVzV:S;[yAEwXK>kbiZfNG=>ZrydzP_NDFPAH]>yZRz=A_Gi@GGk[iko?f>kH>eo?KwJjoSTCeAs^yTi>PRUsIk?T]KKfQEJTwF:@GGX]WY?dZ?opRfonKxzQyZ<FpuMoCDpU;R=ZrJ=sGlyRUHxamC`KJ^K;Dn<JKUpO^T[AXJuP[evnEuiw=TKgTi_gDC@[VKlTR]cXTBd@X=M;Gk]`@@IZS]GeTwkO;`;`edk;o@xrGgXr_v@>GilfBmBQDFpf=culSQ=kPVEZ@p=lladUVTBmJSL:hTh=YigboaRhFc[NsroNeGH>e]h]ihWwMkli><^a[WB]FVgE?>jZMlEB[vg>ky?NxhJ?zMO^HDGfn]JCestNNqGk`n]ZJW^CfdyFZkn^@BboYwRCoNU=hGPsNSVWmG:bz<;aU:tBL;:rcZ]g:PcG_WarB=x]RKtjEQ[UPR]vK`us_yNEB_WsHpt:rjSqd;ZQ@GldC__rsPlGKRYVMPMRz>[gNT[qGRXwIYpemlKvb;ZiiIE:Dt=V]:;dHN:;:A^^k^TS;wXcfPG_Mm`T_xSPtIKOianS?H<xCHo<[:yGOvzWWCT_fchPmFaFgMCmIW`[SDV_AKJqRUJOgtD^TiLsqlI<GdtHMTJ`DX^MGN=oHVUnwMRw_sDVRIQ>j^c[w_hza^o?A?wq[Hc_eOS`^@pMsl;YPNYoFS^DL<CxRdwX;DubKk@[>nMK`XmMc^LzH]eF>KpEARvomdcrKgXkI:kvpXCC[XDXekTU<M`a>ABVJl@GRBWClPoEqeh^_`ypMuUrITQGCKT[Mpyt:DDQuoKs;gnCJcRn`mrqL:;Moo:<BldV_VLHMU]XIGDM@km_XLSPHNpG_elv>r^y[bh>YFWBoa>L^Pq_w<W=FZU@?BdIfTDJxGF`lLQdBUFGi@nybK_KPZFxmLMl;bXLwdm^OeN?pjAmLiKkrMLYuIrck_<:Oku<OAOT`y=<l_Rkz_pDo:hL[HFUJmHJ:kBZ=Cdt:C^_OE?;;p@Z`oc]RhH]@Jd@Zgk[oY;D?uGLBN[xOsXl>fA[G^B_M@S_sHIeJGSSR>dgNUEsS=Mui@cloJ[G?AamzyxrHd[l:?_VJX[;gxdb:AJcaF?eykB::".charCodeAt(C++))?G-59:G-58),J|=(0<(G&(P/=2))?1:0)<<o,++o}for(var k,J,o,s,G,B=[],R=1,c=3,l=1,w=[],P=0,C=0;;){if(Z(l+1),2==J)return w.join("");-2&(s=J)||(Z(8*J+8),B[s=c++]=String.fromCharCode(J),--R||(R=2<<l++)),w.push(s=B[s]||k+k[0]),k&&(B[c++]=k+s[0],--R||(R=2<<l++)),k=s}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveJiehuangPowerup; !
+function(t) {
+    var e = function(t) {
+        function e(e) {
+            var i = t.call(this) || this;
+            return i.MAX_TIMES = 10,
+            i._requireTimes = [4, 8, 12],
+            i.skinName = PveJiehuangPowerupSkin,
+            i._curType = e.type,
+            i
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.initView(),
+            this.addEvent(),
+            this.updateData()
+        },
+        e.prototype.initView = function() {
+            this.title.source = "pve_jiehuang_powerup_title_" + this._curType + "_png",
+            this.img_pet_1.visible = 1 == this._curType,
+            this.img_pet_2.visible = 2 == this._curType,
+            1 == this._curType ? (this._itemId = 1714414, this._skillId = 31253, this._tokenId = 41049, this._characteristicId = 2697, this._bossId = 3463, this._bossName = "时空界皇") : 2 == this._curType && (this._itemId = 1714415, this._skillId = 31239, this._tokenId = 41046, this._characteristicId = 2698, this._bossId = 3460, this._bossName = "幻境界皇"),
+            this.itemIcon.source = ClientConfig.getItemIcon(this._itemId),
+            this.txt_itemName.text = ItemXMLInfo.getItemObj(this._itemId).Name,
+            this.icon_token.source = ClientConfig.getMarkPath(this._tokenId)
+        },
+        e.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.itemIcon,
+            function() {
+                var e = {};
+                e.id = t._itemId,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.helpBtn_png,
+            function() {
+                var e = 0;
+                e = 1 == t._curType ? 3 : 15;
+                var i = config.Help_tips.getItem(e),
+                n = {};
+                n.title = "活动说明",
+                n.str = StringUtil.TransformLineBreak(i.tips),
+                tipsPop.TipsPop.openHelpPop(n)
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                ModuleManager.showModule("petBag", ["petBag"])
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnFreeze,
+            function() {
+                return t._angryNum <= 0 ? void Alarm.show("当前怒气值为0") : ItemManager.getNumByID(t._itemId) < 10 ? void Alarm.show("你还没有获得足够数量的" + ItemXMLInfo.getItemObj(t._itemId).Name + "！") : void Alert.show("是否消耗10" + ItemXMLInfo.getItemObj(t._itemId).Name + "降低1点怒气？",
+                function() {
+                    t.send(8)
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                return t._dailyTimes >= t.MAX_TIMES ? void Alarm.show("今天的对战次数已经用完了哦！") : void t.send(10)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFast,
+            function() {
+                BuyProductManager.buyProductBySocket(2 == t._curType ? 251485 : 251480,
+                function() {
+                    t.send(7)
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnPlus1,
+            function() {
+                Math.max(0, t.MAX_TIMES - t._dailyTimes) <= 0 && BuyProductManager.buyProductBySocket(2 == t._curType ? 251484 : 251479,
+                function() {
+                    SocketConnection.sendByQueue(41738, [2 == t._curType ? 8 : 7, 9],
+                    function() {
+                        BubblerManager.getInstance().showText("购买成功"),
+                        t.updateData()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                ModuleManager.hideModule(t),
+                ModuleManager.showModuleByID(65)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_token,
+            function() {
+                var e = {};
+                e.ins = t._tokenId,
+                tipsPop.TipsPop.openCounterMarkPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_skill,
+            function() {
+                var e = {};
+                e.id = t._skillId,
+                tipsPop.TipsPop.openSkillPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_characteristic,
+            function() {
+                ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], t._bossId, "", AppDoStyle.NULL)
+            },
+            this),
+            ImageButtonUtil.add(this.btnPlus,
+            function() {
+                BuyProductManager.buyProductBySocket(1 == t._curType ? 251469 : 251470,
+                function(e) {
+                    t.buyItem(t._curType, e)
+                },
+                t, 1 == t._curType ? 1714414 : 1714415)
+            },
+            this);
+            for (var e = ["专属全能刻印", "专属特性", "第五技能"], i = function(i) {
+                ImageButtonUtil.add(n["btnGet_" + i],
+                function() {
+                    return t._winTimes < t._requireTimes[i] ? void Alarm.show("累计战胜" + t._requireTimes[i] + "次" + t._bossName + "可以领取" + e[i]) : PetManager.getPetInfo(PetManager.defaultTime).id != t._bossId ? void Alarm.show("请将" + t._bossName + "放入背包首发位置！") : void t.send(i + 1)
+                },
+                n),
+                ImageButtonUtil.add(n["btnBuy_" + i],
+                function() {
+                    return PetManager.getPetInfo(PetManager.defaultTime).id != t._bossId ? void Alarm.show("请将" + t._bossName + "放入背包首发位置！") : void BuyProductManager.buyProductBySocket(2 == t._curType ? [251481, 251482, 251483][i] : [251476, 251477, 251478][i],
+                    function() {
+                        t.send(i + 4)
+                    },
+                    t)
+                },
+                n)
+            },
+            n = this, _ = 0; 3 > _; _++) i(_);
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.updateData, this),
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateData, this)
+        },
+        e.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([8631, 8632, 11123, 11124],
+            function(e) {
+                1 == t._curType ? (t._petState = KTool.getBit(e[0], 9), t._itemState_0 = KTool.getBit(e[0], 10), t._itemState_1 = KTool.getBit(e[0], 11), t._itemState_2 = KTool.getBit(e[0], 12), t._winTimes = 255 & e[1], t._angryNum = e[1] >> 16 & 255, t._dailyTimes = e[2]) : 2 == t._curType && (t._petState = KTool.getBit(e[0], 13), t._itemState_0 = KTool.getBit(e[0], 14), t._itemState_1 = KTool.getBit(e[0], 15), t._itemState_2 = KTool.getBit(e[0], 16), t._winTimes = e[1] >> 8 & 255, t._angryNum = e[1] >> 24 & 255, t._dailyTimes = e[3]),
+                t.updateView()
+            })
+        },
+        e.prototype.updateView = function() {
+            this.txt_itemNum.text = ItemManager.getNumByID(this._itemId) + "",
+            this.txt_fightTimes.text = Math.max(0, this.MAX_TIMES - this._dailyTimes) + "",
+            DisplayUtil.setEnabled(this.btnPlus1, Math.max(0, this.MAX_TIMES - this._dailyTimes) <= 0, !0),
+            this.txt_winTimes.text = this._winTimes + "",
+            this.setAngryNum(this._angryNum);
+            for (var t = 0; 3 > t; t++) this["flag_got_" + t].visible = this["_itemState_" + t],
+            this["btnGet_" + t].visible = this["btnBuy_" + t].visible = !this["_itemState_" + t]
+        },
+        e.prototype.setAngryNum = function(t) {
+            for (var e = 0; 3 > e; e++) this["fire_" + e].visible = t > e
+        },
+        e.prototype.send = function(t) {
+            var e = this;
+            SocketConnection.sendByQueue(41738, [6 + this._curType, t],
+            function() {
+                e.updateData(),
+                7 == t && BubblerManager.getInstance().showText("快速击败成功")
+            })
+        },
+        e.prototype.buyItem = function(t, e) {
+            var i = this;
+            SocketConnection.sendByQueue(41738, [2 + t, e],
+            function() {
+                i.updateData()
+            })
+        },
+        e.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.updateData, this),
+            t.prototype.destroy.call(this)
+        },
+        e
+    } (BaseModule);
+    t.PveJiehuangPowerup = e,
+    __reflect(e.prototype, "pveJiehuangPowerup.PveJiehuangPowerup")
+} (pveJiehuangPowerup || (pveJiehuangPowerup = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/PveJiehuangPowerupSkin.exml"] = window.PveJiehuangPowerupSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["BG", "pet_base", "imgBtn_pet", "imgBtn_cure", "txt_winTimes", "win", "img_pet_1", "img_pet_2", "fire_2", "fire_1", "fire_0", "angry", "btnFreeze", "btnGet_0", "btnBuy_0", "flag_got_0", "icon_token", "token", "btnGet_1", "btnBuy_1", "icon_characteristic", "flag_got_1", "characteristic", "btnGet_2", "btnBuy_2", "icon_skill", "flag_got_2", "skill", "btnClose", "title", "helpBtn_png", "top", "txt_itemName", "txt_itemNum", "btnPlus", "itemIcon", "item2", "txt_fightTimes", "btnPlus1", "item1", "btnFast", "btnFight"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.BG_i(), this.pet_base_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i(), this.win_i(), this.img_pet_1_i(), this.img_pet_2_i(), this.angry_i(), this.btnFreeze_i(), this.token_i(), this.characteristic_i(), this.skill_i(), this.top_i(), this.item2_i(), this.item1_i(), this.btnFast_i(), this.btnFight_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.BG_i = function() {
+        var t = new eui.Image;
+        return this.BG = t,
+        t.height = 640,
+        t.source = "common_ui_bg_1_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.pet_base_i = function() {
+        var t = new eui.Image;
+        return this.pet_base = t,
+        t.height = 291,
+        t.source = "common_pet_base_png",
+        t.width = 421,
+        t.x = 146,
+        t.y = 330,
+        t
+    },
+    i.imgBtn_pet_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_pet = t,
+        t.height = 57,
+        t.source = "pve_jiehuang_powerup_imgBtn_pet_png",
+        t.width = 57,
+        t.x = 33,
+        t.y = 241,
+        t
+    },
+    i.imgBtn_cure_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_cure = t,
+        t.height = 57,
+        t.source = "pve_jiehuang_powerup_imgBtn_cure_png",
+        t.width = 57,
+        t.x = 33,
+        t.y = 310,
+        t
+    },
+    i.win_i = function() {
+        var t = new eui.Group;
+        return this.win = t,
+        t.right = 0,
+        t.y = 547,
+        t.elementsContent = [this._Image1_i(), this._Label1_i(), this.txt_winTimes_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 66,
+        t.source = "pve_jiehuang_powerup_txtbg_png",
+        t.width = 772,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 26,
+        t.text = "累计战胜次数：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 409,
+        t.y = 11,
+        t
+    },
+    i.txt_winTimes_i = function() {
+        var t = new eui.Label;
+        return this.txt_winTimes = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 26,
+        t.text = "00",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 598,
+        t.y = 11,
+        t
+    },
+    i.img_pet_1_i = function() {
+        var t = new eui.Image;
+        return this.img_pet_1 = t,
+        t.height = 446,
+        t.source = "pve_jiehuang_powerup_img_pet_1_png",
+        t.width = 505,
+        t.x = 137,
+        t.y = 93,
+        t
+    },
+    i.img_pet_2_i = function() {
+        var t = new eui.Image;
+        return this.img_pet_2 = t,
+        t.height = 489,
+        t.source = "pve_jiehuang_powerup_img_pet_2_png",
+        t.visible = !1,
+        t.width = 410,
+        t.x = 157,
+        t.y = 63,
+        t
+    },
+    i.angry_i = function() {
+        var t = new eui.Group;
+        return this.angry = t,
+        t.x = 0,
+        t.y = 461,
+        t.elementsContent = [this._Image2_i(), this._Image3_i(), this._Image4_i(), this._Image5_i(), this.fire_2_i(), this.fire_1_i(), this.fire_0_i(), this._Label2_i()],
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 90,
+        t.source = "pve_jiehuang_powerup_firebg_png",
+        t.width = 836,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "pve_jiehuang_powerup_fire_dark_png",
+        t.width = 31,
+        t.x = 388,
+        t.y = 18,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "pve_jiehuang_powerup_fire_dark_png",
+        t.width = 31,
+        t.x = 345,
+        t.y = 18,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "pve_jiehuang_powerup_fire_dark_png",
+        t.width = 31,
+        t.x = 302,
+        t.y = 18,
+        t
+    },
+    i.fire_2_i = function() {
+        var t = new eui.Image;
+        return this.fire_2 = t,
+        t.height = 52,
+        t.source = "pve_jiehuang_powerup_fire_png",
+        t.width = 40,
+        t.x = 383,
+        t.y = 13,
+        t
+    },
+    i.fire_1_i = function() {
+        var t = new eui.Image;
+        return this.fire_1 = t,
+        t.height = 52,
+        t.source = "pve_jiehuang_powerup_fire_png",
+        t.width = 40,
+        t.x = 340,
+        t.y = 13,
+        t
+    },
+    i.fire_0_i = function() {
+        var t = new eui.Image;
+        return this.fire_0 = t,
+        t.height = 52,
+        t.source = "pve_jiehuang_powerup_fire_png",
+        t.width = 40,
+        t.x = 297,
+        t.y = 13,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 26,
+        t.text = "当前怒气值：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 133,
+        t.y = 28,
+        t
+    },
+    i.btnFreeze_i = function() {
+        var t = new eui.Image;
+        return this.btnFreeze = t,
+        t.height = 40,
+        t.source = "pve_jiehuang_powerup_btnFreeze_png",
+        t.width = 110,
+        t.x = 449,
+        t.y = 481,
+        t
+    },
+    i.token_i = function() {
+        var t = new eui.Group;
+        return this.token = t,
+        t.right = -29,
+        t.y = 96,
+        t.elementsContent = [this._Image6_i(), this._Image7_i(), this.btnGet_0_i(), this.btnBuy_0_i(), this.flag_got_0_i(), this.icon_token_i()],
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 135,
+        t.source = "pve_jiehuang_powerup_iconbg_png",
+        t.x = 0,
+        t.y = 16,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 37,
+        t.source = "pve_jiehuang_powerup_title_token_png",
+        t.width = 99,
+        t.x = 34,
+        t.y = 0,
+        t
+    },
+    i.btnGet_0_i = function() {
+        var t = new eui.Image;
+        return this.btnGet_0 = t,
+        t.height = 42,
+        t.source = "pve_jiehuang_powerup_btnGet_png",
+        t.width = 162,
+        t.x = 238,
+        t.y = 29,
+        t
+    },
+    i.btnBuy_0_i = function() {
+        var t = new eui.Image;
+        return this.btnBuy_0 = t,
+        t.height = 40,
+        t.source = "pve_jiehuang_powerup_btnBuy_png",
+        t.width = 160,
+        t.x = 239,
+        t.y = 79,
+        t
+    },
+    i.flag_got_0_i = function() {
+        var t = new eui.Image;
+        return this.flag_got_0 = t,
+        t.height = 57,
+        t.source = "pve_jiehuang_powerup_flag_got_png",
+        t.width = 110,
+        t.x = 245,
+        t.y = 46,
+        t
+    },
+    i.icon_token_i = function() {
+        var t = new eui.Image;
+        return this.icon_token = t,
+        t.horizontalCenter = -96.5,
+        t.source = "pve_jiehuang_powerup_icon_token_png",
+        t.verticalCenter = -6,
+        t
+    },
+    i.characteristic_i = function() {
+        var t = new eui.Group;
+        return this.characteristic = t,
+        t.right = 2,
+        t.y = 236,
+        t.elementsContent = [this._Image8_i(), this._Image9_i(), this.btnGet_1_i(), this.btnBuy_1_i(), this.icon_characteristic_i(), this.flag_got_1_i()],
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.height = 135,
+        t.source = "pve_jiehuang_powerup_iconbg_png",
+        t.x = 0,
+        t.y = 16,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.height = 37,
+        t.source = "pve_jiehuang_powerup_title_characteristic_png",
+        t.width = 100,
+        t.x = 34,
+        t.y = 0,
+        t
+    },
+    i.btnGet_1_i = function() {
+        var t = new eui.Image;
+        return this.btnGet_1 = t,
+        t.height = 42,
+        t.source = "pve_jiehuang_powerup_btnGet_png",
+        t.width = 162,
+        t.x = 238,
+        t.y = 29,
+        t
+    },
+    i.btnBuy_1_i = function() {
+        var t = new eui.Image;
+        return this.btnBuy_1 = t,
+        t.height = 40,
+        t.source = "pve_jiehuang_powerup_btnBuy_png",
+        t.width = 160,
+        t.x = 239,
+        t.y = 79,
+        t
+    },
+    i.icon_characteristic_i = function() {
+        var t = new eui.Image;
+        return this.icon_characteristic = t,
+        t.height = 56,
+        t.source = "pve_jiehuang_powerup_icon_characteristic_png",
+        t.width = 64,
+        t.x = 98,
+        t.y = 41,
+        t
+    },
+    i.flag_got_1_i = function() {
+        var t = new eui.Image;
+        return this.flag_got_1 = t,
+        t.height = 57,
+        t.source = "pve_jiehuang_powerup_flag_got_png",
+        t.width = 110,
+        t.x = 245,
+        t.y = 45,
+        t
+    },
+    i.skill_i = function() {
+        var t = new eui.Group;
+        return this.skill = t,
+        t.right = 32,
+        t.y = 373,
+        t.elementsContent = [this._Image10_i(), this._Image11_i(), this.btnGet_2_i(), this.btnBuy_2_i(), this.icon_skill_i(), this.flag_got_2_i()],
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.height = 135,
+        t.source = "pve_jiehuang_powerup_iconbg_png",
+        t.x = 0,
+        t.y = 16,
+        t
+    },
+    i._Image11_i = function() {
+        var t = new eui.Image;
+        return t.height = 36,
+        t.source = "pve_jiehuang_powerup_title_skill_png",
+        t.width = 99,
+        t.x = 34,
+        t.y = 0,
+        t
+    },
+    i.btnGet_2_i = function() {
+        var t = new eui.Image;
+        return this.btnGet_2 = t,
+        t.height = 42,
+        t.source = "pve_jiehuang_powerup_btnGet_png",
+        t.width = 162,
+        t.x = 238,
+        t.y = 29,
+        t
+    },
+    i.btnBuy_2_i = function() {
+        var t = new eui.Image;
+        return this.btnBuy_2 = t,
+        t.height = 40,
+        t.source = "pve_jiehuang_powerup_btnBuy_png",
+        t.width = 160,
+        t.x = 239,
+        t.y = 79,
+        t
+    },
+    i.icon_skill_i = function() {
+        var t = new eui.Image;
+        return this.icon_skill = t,
+        t.height = 60,
+        t.source = "pve_jiehuang_powerup_icon_skill_png",
+        t.width = 57,
+        t.x = 100,
+        t.y = 42,
+        t
+    },
+    i.flag_got_2_i = function() {
+        var t = new eui.Image;
+        return this.flag_got_2 = t,
+        t.height = 57,
+        t.source = "pve_jiehuang_powerup_flag_got_png",
+        t.width = 110,
+        t.x = 244,
+        t.y = 45,
+        t
+    },
+    i.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image12_i(), this.btnClose_i(), this.title_i(), this.helpBtn_png_i()],
+        t
+    },
+    i._Image12_i = function() {
+        var t = new eui.Image;
+        return t.height = 51,
+        t.source = "common_top_bg_style1_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "common_close_2_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.height = 36,
+        t.source = "pve_jiehuang_powerup_title_1_png",
+        t.width = 245,
+        t.x = 112,
+        t.y = 7,
+        t
+    },
+    i.helpBtn_png_i = function() {
+        var t = new eui.Image;
+        return this.helpBtn_png = t,
+        t.source = "common_help_icon_png",
+        t.x = 361,
+        t.y = 9,
+        t
+    },
+    i.item2_i = function() {
+        var t = new eui.Group;
+        return this.item2 = t,
+        t.right = 20,
+        t.y = 11,
+        t.elementsContent = [this.txt_itemName_i(), this.txt_itemNum_i(), this.btnPlus_i(), this.itemIcon_i()],
+        t
+    },
+    i.txt_itemName_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemName = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "时空之砂：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 0,
+        t.y = 6,
+        t
+    },
+    i.txt_itemNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemNum = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 89,
+        t.y = 7,
+        t
+    },
+    i.btnPlus_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus = t,
+        t.height = 26,
+        t.source = "pve_jiehuang_powerup_btnPlus_png",
+        t.width = 26,
+        t.x = 137,
+        t.y = 0,
+        t
+    },
+    i.itemIcon_i = function() {
+        var t = new eui.Image;
+        return this.itemIcon = t,
+        t.height = 30,
+        t.width = 30,
+        t.x = -32,
+        t.y = 0,
+        t
+    },
+    i.item1_i = function() {
+        var t = new eui.Group;
+        return this.item1 = t,
+        t.right = 218,
+        t.y = 17,
+        t.elementsContent = [this._Label3_i(), this.txt_fightTimes_i(), this.btnPlus1_i()],
+        t
+    },
+    i._Label3_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "今日挑战次数：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_fightTimes_i = function() {
+        var t = new eui.Label;
+        return this.txt_fightTimes = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 126,
+        t.y = 1,
+        t
+    },
+    i.btnPlus1_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus1 = t,
+        t.height = 26,
+        t.source = "pve_jiehuang_powerup_btnPlus_png",
+        t.width = 26,
+        t.x = 166.325,
+        t.y = -3.907,
+        t
+    },
+    i.btnFast_i = function() {
+        var t = new eui.Image;
+        return this.btnFast = t,
+        t.height = 50,
+        t.source = "pve_jiehuang_powerup_btnFast_png",
+        t.width = 174,
+        t.x = 369,
+        t.y = 546,
+        t
+    },
+    i.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.height = 52,
+        t.source = "pve_jiehuang_powerup_btnFight_png",
+        t.width = 176,
+        t.x = 179,
+        t.y = 546,
+        t
+    },
+    e
+} (eui.Skin);

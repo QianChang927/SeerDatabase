@@ -1,1 +1,373 @@
-eval(function(){function J(J){for(F=B=0;F<J;)_<2&&(_=64,D=92<(D="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKwP:LZ=XVL`?KBJ;:^@l<:z<rB:ACZKnWokZ?khF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@AoP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBA^>m:_wi:bJkCZkHF<WJ[?UiN>Zw<=kP<?poV[lS:A_:WlR:;M:HHn:UU^l[>`s^I?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwIZj?[YmqS:Qd=v:<>SJDQ?sR[uJokcFD>GDf?yJqs_I:oB_I]JL;oDP>=;eyrZu<RR>@BkPVKaznZqH>:`<KCCZo]FM]]Ko?^dBrido<t:dYk;FFKRDec][V<V:AF]XJdQ;o::KK:=I<]Z;<pZ:V]::ESkUZ:B_yQ;yced:IB:<NoDUTBNSZgEMM=JW@hSK=ODF:wDxbewBFOo`:YTxm<;sj>:DE:HEc::m[<mV=:r>WTZ:TfvCiJclacpe:<dJKOKZ=D[Thsk:aZCZpk:FCB=Z>H=Hd:liGpkZAD?RWGSps:PQyBA`R>ww?wV@O<;:M<Ju=EG[Jsk:KZ:fPZczR^QPm:=PSU@WaQp[JtAr;:I:>>_@cldZ::k<V[sDNgOdk>YQdhsO:AdZJB:Blw:HqR^]kRsdbD<c:CBg:ozmc:Tk^wbRE<=dFHBN<@qR<FBcJyHZe=T<Bc[Y:JA:Q]awmd]BcM[GmOlw`:^UGeqvTW]kP<ki<V=OH_v>he[M@Q:wYElIR^JVGRkftA<ZasT@HUkEeA<lhl<SCb>DSdZgP@tjaKR`iP`RphqhKgLkMR]OlgRwSSQE;]dnkE_Z?^]UmGn_?C=MnGRbZZ?]H>>BKxEVHeg^Y[kwJEZCykL=TQlaZupCBBcO<B<Z@:u?t^nwFThfYITQ=hhTlPdPOuPie>r:a]OjnhZkxPOTOZcodZc][FBjSc``G:RF_[:_?u:otYJ^:]b<lK<@Bn^LEB=]D<kAZT?cHZ[FRS]XORGnEVsZMiDcQn>YsXpiF>;^[<mPLCFGeK^O:aKg^_NoDYl;>B[xZl]`u`@GFodlhA:AKW?<YJ=>FkZ^@F;;MEFwmEFgenfA:ikv?g;lA<lGkQ=m;PXJMtkj@wRKw:pONWR<BEMYleDJElWG?@BY?_]]sdc`Z@E;W]GKsbJ;DFeLJn_GX:kujea<@g`Wez@cuOTewSRAZF[fogEnEITmqJVZCfv>ntd?s>ZwMk=SNulI>waz;nWmsrRb^sDUtgGdUV=l>?BQwtSWLGXZ[Ss?EEtXgq>Rr]kJXR@PTZ=A::<e;KBCHV=M[AJYM_TRYl:FNeifvzlsH@_RGgvwL[XJqYdven_N?Q_XuicF^P>TB<M<:TfeoyhXp=BTsocP_lkA>DB?t@P_caC[iHl@oRHNnIoVpd_AJKHgxTRa=LuTaSRV:;<dTXJSU^:q:=LNTO`@=U^?ePdQsPjjk:qVhEgoM`wFjcv^gQVxldjmTd]DgzYqEZZvqAO`uCyEx:vuZB>tDX=gC;eJob:ELGhKKErb]jUym=Rlr^tf]IZV?xnmbO>kW:dkP<ClGiJQ;V;w@[Q<gl<LI_cAynEFoW;Fo`Dp>EfJi:u`Rm`lGaU>XIWK[s<_eIEoHV<:DlB^ZEL:;pGNq[=KkAb`B=]V:c:Dk;EO:q]=yA:EG=:ykQ=uTXbL<`PZS^F::=xv>LA]Es>::;eN<Qc<]kIBE>@Boh::Jzs:@ax=KiIyh:g;U^=J:Ac:<gZ;<To:EZuZ;OuF:C=z>=f>KIp::I`]LJH:Fc?M_>AgIOJW<L`l:B;QUHiVaAtMtAr:XJwsZPE?;D;u]O<_^:eTcXNY[JsV:^EbIZc[akE=o><CwINjUR^SbULiZmVsg<`EsnBoh:<n]R:;hG:;vwR:NiG:<oViJJoonqteas::?]YGr@Sr:tbnJPNFtSenz@@]qQgktKmM_WnwCVutaCSbFraMNdtY]g<jCqJVwZNE^`cOHMwetWMdvHH_Z?OdAGB><CJKIH_;MSJxIsRBi:ILe_=FXODH_ghzUhakM;H[P?CsKQ:ew:sLNqdGJP>fLRvSFek@mhiS[r_v;w<D^RdeuNDe]jG;mpsvSTehN`P`:>EODUhPtWpQeykcM^Oc:xNTkSXP=NabFqTt>?cm=_:cJJeo^]T@oEc:kqpn<AQqZcSp`oc:X?HfsVuEZQOJ;<=WUPWo_Zp=pU[BGfpV]:iDDnSa`KoPSFJc=?cBFkTdZ[joF_FGKZM@aAF<_LkPucmB;gERaFx]AAeQ^:O[GvRgDXDMWs?FqQabLg<Rp=GcKnCD@nXG:`HTJ>F<FYt^=wJd>C:eC_`JlTelRCELNFgPq?=oML?PTg[:F_bLEPufpi:g:B_BDh^h^Rin]@vOHOgoQO<IK]FifhrTXlAMv:S=J@n_;x:JI:TsN;:NwX_=]BkIpYdzSFrqG]:tZHY@IQyI>@NsrfKBWXwwfq]@BW;F[?<i=NHMfI<iJVdKfbJ<k::RbZDBjgi<?ZsFoA:[RJ;e=JuJw[`=ruFUZ;[m[q@YtsWp:Kc^nxWKe;>[K`ZO@TGoRRmJx^n@i<gT_llf=LWiGXbksK_^S@zoN>cxKo]>aqFDYrMvYMFae?DWkmdr^TbMsB;>qCrMxA^HRVFv]VBwA;NL@oyC[nwaMGcdD:JLRTdLCtQJH:IdRZY<h]@H_OMz@H<<S>bcEoy:d?oaQEsXFA:dMYqU?DBo::aCwyP:=FMs::Vk>mi::_bJ:GHT:@yYJ:yru:Am`J:jkAeoGB:PhG:=xYigvSvQii:=ZOJ:xwexV:DF@Z;PlN:G;mZ;Dto:@rTZ:ptN:;@qjQwtXAZADIN<V`Fqan]a::sdhbVTsdkAbqC?i:oPD<lYNp>IJuP>lSSmp`ZfKQLgOXezOtfUQ[QWSPnxffkqlhMUas:L:M:<QK]hwKDQNDTfKBRC`_kTNM`JHvPVwt?lb`QCiUVqGEmAaIIKi:aHC;Q`jIXKwt:miAjYCyX:Is=lzZ:_;?w<H_XkQJ:[C<U;NEcM]ILlhfD?O`P`OmxDVoy=^;R>ZHHUHyaVx<xn`>z=CQV>aJVRveWMjbVivNTvd@c^:Mo@h]JNdGhVSqsgzU[rpVbUHx?AQUtEG>XgoUfw@rxKVY@;[XHR;gL@[k;JhJX[cbKBI:ZVZ::qR<WKWLfUWuU^rqqTLPv::WzN_xQFrhw]]qLD@TqLKns?Cx[=AHVTNrJ[[zGQGpJKmm]OEwAKHbL^muZ>owdBi?LegO`dDONrMEDk]we@zOLOQJBYzh?PWQOQpL:Hvg]ufLH@`uqJcqEl^WxC>Yp>ryL;eoWcbKopc_[`aq@iU>R?dKag>huFmrc?qE^d?yG>?>oJYuFacKx];RL;kAFwcQ[Z@b<^A^^Z_k<zr];zpZbzo:H:BR@u^s=zlM@ZEZbN?w;k<L:JB:G]<:HJI_MJGZI<:kDJE?[QAFP::s>_JZ;Y>BDkH:CbJ@<L=ZHcGJOcGkBB<F<D]c[C;Ja]MZ<R=k<ZA?_Ja]OvrT[QLJ>tMQON@]?p<J>G@q=:BZC>I`_OaO`bMKQvOvMwAiPElv?x_>Dd<P<LARFEbTq;Mna?PwQ:P?Pn^_Gx[k=ZAY:=ok:^oiOx_<r]?k>k@:a:aDk^px[d:>M^:B@:Lm<k;FAzNPLZ=k;K?F?<=brS>>:L][<AKjJbPC;?`N@n]]CJrTJ?nsIB=qra<R=N=LDbOCPh`i?@?T=k::<wi;Jg_:@kskNkcFC:tCwhn`]hIB:^xJXCZ^u]slhdo[<sc^d>B]mOK^l?E=t;c^[:bOFwK]w:V]oKCJw]]t<^eFL^GRAW<sb;IBc[F;R_eVq]j<f_E;Fwn=g]v_;p:krx:lw^skJ;yt:Kh^m^Vsx]C;HZXC]FxJMRtC=J[l]F<W`_::C;kxP<JA:Tcicb]RDCcb]?c`w<JMx@cmNJfMmN?=S<?=tBt=>nBSySgGcR<PC::MZuImlDowbVFwHwEwCHHwHHFnqaDiF;NvOPB=?sDE_XHXGDC?]wM:LL>eDyIJ;yGp=yH`_;H;D`=;Ek:[E?`eF`>enlCXP<P:a]PDmLMLM`G;JCErqCECIHJdDuB_@dCk<wHDqHIB:HDKIB=_a:_GIHB]_tDI`bMd<RHkCJGk=RBsHcn:@sFtB>GbJB@>DQLs=>F_IB@_G_I_B@A:Cn<NG?A=ENBvJrp?@K@oGt_RMoGbJFIJ<FFGAJ;]ATqik>m>pU@EDWlipFCUAJAToEIJ@:ZfEslR@gmUENrpoUHgCfBU?gHLkVD`<VImq:[=bL?GFkAHJWDx;uD<C<F@I<Gk^Rq:_aGxZ:qQCYQJ:U>aG]I]CCNt?[oALYkJptGy_c>QCSFQ^SEiHWERqIF=?@AvFAHAFwZB>l=Z;CFDF_LjDuJ`JOm`;J@s<uDuImnsAmllM?`xCJa`a<[MAJ<ZAO=qk>CCGoPPM`EABbH:c_@hFw^_]KBiCfIIGh_jEPBDDDDqDrMC:]BT:yIYNB@:o`?:okjAG:[HG]J:ASi]N;X]wnSmXB[]D;umpmRhDnLmKC;DfhDnxVhnAMO:;D`^f^V]HLA]b]TKUmj?z>[Mu^KMlL:LZLl[JMkMbm?MF;oLC;FM=K::sHN:?[nJ:JeO::EGMqN:<BtJ:K_p::RYw:AcnJ:F[NN_r`W`:;wYypIlHc^pBhFDk^pRiRdcgzPzQcdhFa?TA]<NJ:EN@Sq_gWqUC>hU:BckLBgNeE[jGXD>jLj]nEF`>eFsExBQP<b:?p<Z=NkU@J[d:>Ir<l@JjFB_<:q]dLgRjmohE_Z^ndFnnpnBmmgN[iISEX@jD_pNgDjUEBqcjDgZgG<ef:;efNr@:I<Tht`Tf`Bud:lhBHH:[CGuiVB@gIJ:orE_hSE@ejImBqHDHaffavHchqjcc]cHHDk]f_^Rcsg<EuCsf<ENcUE>hpofHgq;fLhacGm_h;_IQfDQFicjHiiBitCNcDjsd]@:aci?DoeJAyF`Eoi`BFiKDFdFiXM;N:<dnJ:NzW:;?Yo:;qzISJ:M?M:;vuCVg:AYcvmnSJ:UnW:;OYN::svJ:X<G::Z;Z<d]?pDCC<eY=<c]dXeujB=]f::LeLeug@h;cJ;@j;;mcahihBcXd;iUHgqcjXiHjudyesjuBKGsjbDg^Rrmr;eZ;KeJA[d]GLeZ;hjOfTKPCifmeaiqHKBZcQLw?pAN[R?eeBpee`?eeJ<R;oMN;Jgw[`cRehGTGhGTFnrhiNgWjWctZNepetBnhjFyFohyGli`]h<^<^::<_sBtLNLoLULnE::O:Eeo:<EhLm_P^VcDhcYE>_p]eIO]^<mDi]qPyPlPy^PPZszEW]y_so`Ptg^gfHnPysvqu<QP]@c^=gu]e>g:Pcyci>tchcFfPCSwzqe<aJ?ToH`ZWTnT`eqHhe`H_qa@x:HeSomJZsB::".charCodeAt(G++))?D-59:D-58),B|=(0<(D&(_/=2))?1:0)<<F,++F}for(var Z,B,F,c,D,k=[],H=1,o=3,C=1,E=[],_=0,G=0;;){if(J(C+1),2==B)return E.join("");-2&(c=B)||(J(8*B+8),k[c=o++]=String.fromCharCode(B),--H||(H=2<<C++)),E.push(c=k[c]||Z+Z[0]),Z&&(k[o++]=Z+c[0],--H||(H=2<<C++)),Z=c}}());
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+reconnectionPanel; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.openPanel(),
+            t
+        }
+        return __extends(t, e),
+        t.prototype.openPanel = function() {
+            var e = egret.getDefinitionByName("reconnectionPanel.ReconnectionPopPanel");
+            try {
+                this._view = new e,
+                this._view.addEventListener(PopView.EVENT_DESTROY, this._onClosePanelEvent, this);
+                var t = PopViewManager.createDefaultStyleObject();
+                t.maskShapeStyle.maskAlpha = 0,
+                t.ignoreMaskClick = !1,
+                PopViewManager.getInstance().openView(this._view, t)
+            } catch(n) {
+                console.error(n)
+            }
+        },
+        t.prototype._onClosePanelEvent = function(e) {
+            this.onClose()
+        },
+        t.prototype.destroy = function() {
+            this._view.removeEventListener(PopView.EVENT_DESTROY, this._onClosePanelEvent, this),
+            this._view = null,
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseModule);
+    e.ReconnectionPanel = t,
+    __reflect(t.prototype, "reconnectionPanel.ReconnectionPanel")
+} (reconnectionPanel || (reconnectionPanel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+reconnectionPanel; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = "ReconnectionpanelNewSkin",
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.connectTime = 0,
+            this.loadAnim = SpineUtil.createAnimate("loading"),
+            this.ani.addChild(this.loadAnim),
+            this.loadAnim.play("await", 0),
+            this.labelTween(),
+            this.addEvent()
+        },
+        t.prototype.addEvent = function() {
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.reConnectSuc, this),
+            EventManager.addEventListener("reConnect_times", this.reConnectTimes, this)
+        },
+        t.prototype.removeEvent = function() {
+            EventManager.removeAll(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        t.prototype.reConnectSuc = function(e) {
+            this.ani.removeChildren(),
+            this.hide(),
+            this.dispatchEventWith("event_close_panel")
+        },
+        t.prototype.reConnectTimes = function(e) {
+            this.connectTime = ~~e.data + 1,
+            this.times.text = "（第" + this.connectTime + "/5次尝试）",
+            this.connectTime > 5 && egret.Tween.removeTweens(this.loading)
+        },
+        t.prototype.labelTween = function() {
+            var e = this;
+            egret.Tween.get(this.loading, {
+                loop: !0
+            }).call(function() {
+                e.loading.text = "重新连接中."
+            }).wait(400).call(function() {
+                e.loading.text = "重新连接中.."
+            }).wait(400).call(function() {
+                e.loading.text = "重新连接中..."
+            }).wait(400)
+        },
+        t.prototype.destroy = function() {
+            this.removeEvent(),
+            egret.Tween.removeTweens(this.loading),
+            ReconnectPanelManager.removeView()
+        },
+        t
+    } (PopView);
+    e.ReconnectionPopNewPanel = t,
+    __reflect(t.prototype, "reconnectionPanel.ReconnectionPopNewPanel")
+} (reconnectionPanel || (reconnectionPanel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+reconnectionPanel; !
+function(e) {
+    var t = function(t) {
+        function n(e) {
+            var n = t.call(this) || this;
+            return n.skinName = "ReconnectionpanelSkin",
+            n
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.lostC.visible = !1,
+            this.lost.visible = !0,
+            this.connetTime = 0,
+            this.addEvent()
+        },
+        n.prototype.addEvent = function() {
+            ImageButtonUtil.add(this.imgbtnFix, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.imgbtnCompose, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.imgbtnFix1, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.imgbtnKf, this.onTouchTapImageButton, this)
+        },
+        n.prototype.onTouchTapImageButton = function(t) {
+            switch (t.target) {
+            case this.imgbtnCompose:
+                this.hide(),
+                StatLogger.log("20230818版本系统功能", "断线重连", "断线后可重连情况下玩家取消重连"),
+                core.gameUtil.ReloaderGame();
+                break;
+            case this.imgbtnFix:
+                StatLogger.log("20230818版本系统功能", "断线重连", "断线后可重连情况下玩家选择重连"),
+                this.hide();
+                var n = PopViewManager.createDefaultStyleObject();
+                n.maskShapeStyle.maskAlpha = .8,
+                n.ignoreMaskClick = !0,
+                PopViewManager.getInstance().openView(new e.ReconnectionPopNewPanel, n),
+                OnlineManager.getInstance().reconnect(!0);
+                break;
+            case this.imgbtnFix1:
+                core.gameUtil.ReloaderGame();
+                break;
+            case this.imgbtnKf:
+                core.gameUtil.OpenUrl("http://kf.61.com"),
+                core.gameUtil.ReloaderGame()
+            }
+        },
+        n.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        n
+    } (PopView);
+    e.ReconnectionPopPanel = t,
+    __reflect(t.prototype, "reconnectionPanel.ReconnectionPopPanel")
+} (reconnectionPanel || (reconnectionPanel = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/ReconnectionpanelNewSkin.exml"] = window.ReconnectionpanelNewSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["ani", "loading", "times", "load"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.load_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.load_i = function() {
+        var e = new eui.Group;
+        return this.load = e,
+        e.horizontalCenter = 0,
+        e.y = 243,
+        e.elementsContent = [this.ani_i(), this.loading_i(), this.times_i()],
+        e
+    },
+    n.ani_i = function() {
+        var e = new eui.Group;
+        return this.ani = e,
+        e.x = 58,
+        e.y = 100,
+        e
+    },
+    n.loading_i = function() {
+        var e = new eui.Label;
+        return this.loading = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 20,
+        e.text = "重新连接中...",
+        e.textColor = 15924223,
+        e.width = 116,
+        e.y = 118,
+        e
+    },
+    n.times_i = function() {
+        var e = new eui.Label;
+        return this.times = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "（第1/3次尝试）",
+        e.textColor = 15924223,
+        e.width = 138,
+        e.x = 0,
+        e.y = 142,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/ReconnectionpanelSkin.exml"] = window.ReconnectionpanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["txt", "imgbtnCompose", "imgbtnFix", "lost", "txt1", "imgbtnKf", "imgbtnFix1", "lostC"],
+        this.height = 210,
+        this.width = 442,
+        this.elementsContent = [this._Image1_i(), this.lost_i(), this.lostC_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 210,
+        e.scale9Grid = new egret.Rectangle(3, 3, 2, 2),
+        e.source = "alert_BG_s9_png",
+        e.width = 442,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.lost_i = function() {
+        var e = new eui.Group;
+        return this.lost = e,
+        e.visible = !0,
+        e.x = 41,
+        e.y = 57,
+        e.elementsContent = [this.txt_i(), this.imgbtnCompose_i(), this.imgbtnFix_i()],
+        e
+    },
+    n.txt_i = function() {
+        var e = new eui.Label;
+        return this.txt = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "与服务器连接丢失，是否尝试重新连接？",
+        e.textColor = 13820671,
+        e.visible = !0,
+        e.wordWrap = !0,
+        e
+    },
+    n.imgbtnCompose_i = function() {
+        var e = new eui.Image;
+        return this.imgbtnCompose = e,
+        e.source = "alarm_btnCancel_small_png",
+        e.visible = !0,
+        e.x = 28,
+        e.y = 66,
+        e
+    },
+    n.imgbtnFix_i = function() {
+        var e = new eui.Image;
+        return this.imgbtnFix = e,
+        e.source = "alarm_btnOk_small_png",
+        e.visible = !0,
+        e.x = 198,
+        e.y = 66,
+        e
+    },
+    n.lostC_i = function() {
+        var e = new eui.Group;
+        return this.lostC = e,
+        e.visible = !1,
+        e.x = 31,
+        e.y = 57,
+        e.elementsContent = [this.txt1_i(), this.imgbtnKf_i(), this.imgbtnFix1_i()],
+        e
+    },
+    n.txt1_i = function() {
+        var e = new eui.Label;
+        return this.txt1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "未知网络连接错误，请尝试重新登录游戏。",
+        e.textColor = 13820671,
+        e.visible = !0,
+        e.wordWrap = !0,
+        e
+    },
+    n.imgbtnKf_i = function() {
+        var e = new eui.Group;
+        return this.imgbtnKf = e,
+        e.x = 38,
+        e.y = 66,
+        e.elementsContent = [this._Image2_i(), this._Label1_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "common_btn_bg_blue_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "联系客服",
+        e.textColor = 2976172,
+        e.visible = !0,
+        e.wordWrap = !0,
+        e.x = 27,
+        e.y = 13,
+        e
+    },
+    n.imgbtnFix1_i = function() {
+        var e = new eui.Image;
+        return this.imgbtnFix1 = e,
+        e.horizontalCenter = 85,
+        e.source = "alarm_btnOk_small_png",
+        e.y = 66,
+        e
+    },
+    t
+} (eui.Skin);

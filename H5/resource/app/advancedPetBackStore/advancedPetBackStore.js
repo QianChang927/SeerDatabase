@@ -1,1 +1,2656 @@
-eval(function(){function Z(Z){for(B=O=0;B<Z;)h<2&&(h=64,F=92<(F="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[wP:LZ=XuL`?KBJ;:^>m<P:Y[U_:=_kBtiVRJ<sPa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:FP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBA^>m:_wi:bJkCZkHF@lJ[?UiN>Zw<=kP<=osV[lS:A_:WlR:;M:HXn;UU^l[>`t^I=G?MUG[:@spWQbo=`VsKJoMgw=EDvHUyokPH>bDwCZJLS:wPETT_ZpLKYAtzQDgVd?:K<I]fNMkW;FF<=?uMUZg;^cn;n=Z:PoBXa>r=D;Lsr;:Y:sR[C[JZR?spM:G`>e;Pt;XFJSk`<IbJe;oCJsiatAJ[dF@;:Ss]SECPlZ:KE[tdGtPRiMnYIn[TB[QdJeEwfMPX[eiKs`ksFcJItJ>ZaAd=DxDgLlROhQ:UL:vQf[HKVA?i@:y:KiTmOdZwHJJHdp>ZUEk;:l^AhYKmzFCiWmB`::HSlH;ZQmhSD>JAd@;t`u?otZV@@gb?Tai]d?FJBd@=@`__fhtAxU^@RdvYOWkSsW?]I:BVb<CNVGuc]::?N<:?>kIGuYD:HEtuihYc><;Xy:ZXBqBSKG;F:cgAI_XNAMfozTcYTnaOMwaR:<F`IPUJVFR:;FK:gFR::FS^DIDjRgID[]JW;]csFe<Amaaedf>J:<>ZTR@:b[X_Zr:V>BlZz]aScPgBV?ojg;<MEwPcVCZ>?w@:ul@C;AA_ETxdvHKN?]=s;;k;:>AuDCs_zjcUJgIg:;@ds:GTjfBs_:<lmQ:]CxeZt:mBdV;B::pDSY<]IlV<BSKY=a]wyZsMycMePC>::DlLRSB=@PS?agX;WbVO;ftVEXxdiXC:=g[]R:S<mpHc<nVFBY:@RoG[CL`;lX<k>OkIgwLB<:M;BHZy[Yao@OFZJY;sPo[>cAXi::AkJLJR=@>pVJtfZ:<o`ARWk:;ga=^X;N>FF;srI>[@RgalRQtJFxe[?y:=FgqMPRuksUPW;;PRfOWO;C;AJ:I?p@od]mI`yQG`?DTdurMaG>pBLJ;`@LSOoNQgWozNZ;AzKlnnIQ:B:eTxZSYYWjpWV;:IYUtC_Zo^uQ_B`@[T=cBZJp=cLBvhK:CXcqQeD`aHSKMeQEJOcK@<FI[B<Kz<cD@acuA<r>^U<?]gK;AJ=FKnBZ:KU>kltRAnQH<vzYgV?POuxeBO;e^zYck:VAZwJLYS?dHNEcJxFX`BVV@uPRDBJIuHlRbtYccudTBQsz_JdpvAEWBDrKQPNX>GIuFa`E_wAS]iQKLL]@a[^V;;TNcP[VVzcbV>BMkk?SjDcvmiGtkV:Z>::FcqE]]_V>Zuk>FRdY`tQt<z:PKSZGgnhhfdARJ=NcKdJJsKbe:U;kI>FmuJ:J]:e:eVQGT?M[ngagf_:QFvCL^guLyaonK@gvkDM<:kGLDtrYSe:Fjl^pZv?eH:R::BCmEdoY[HYE<Qvdq;<HJ:<LvzdhzFwwKOn:=]::gBW?BZl=]B_W>:ZodA@iHVQyzxF=hr[DYJRblj[Grd=NIZqhWUuoBQfW]u=B@t^r<rYX[:y<En>BlS]HZC;:l>[d<LH_xD=@E[kTXi_:=<Q:Q]JbB:vXB:;pQsH;yA>NN`I?Lr;GBzZ:;kJNobJtgfRRv_AaDnXyfF`ls?l;V<JwKY:Z;oS=XB:;O?Z;:w:t[XI>IyuSkZwKzFCIZl[p?:^nHZIybKNda<][:PLW>C:Hk:N<::F[kFwIxVJt]d_<<yY[^<]AN<:?sL::;mB;^AuA`BIECe:KtQobhIPXfJKZ:?_Y]n<mLSXNgB<;pB@>UVB@M@atImMSBdwJ[u`GA[IXKOMs=_::<DuKy>Z@RrMtL[>>];<HjWObYqH:wS;gMsaCEJSc`q?<JLsCcQO>[l<WT_BoYPDcmxivJ^kAk<_S>ZlC@I[JmgnVTkbDiS<UZAGK<FEt=c?@Y_qAiN_hgyB:kVlpCR<:IF[>;ZG;DLFUJws_;lD[QXUZwd:=@pc:<bO::?Lc:Qr^::]gR:;Eh::kzs:Wy^:<kQc:M:O:<:zsyLkU>;=I=xEB?LIxs^:QgIsyBt:z>:@_s;SLd]<h@IsJ`[FkWr<uBladxKkFcVFV;;kP@wQk::LeiRiJfWETcVHI@kp]k:_QsNZI:R=;>g:J:sZpu:fvrk@KN`LVnV:f@>DSA?Q[VMeAA^aD:wdMCs?FjD=JWsPPErZJ<eF@tAt]QJ=QVkjtXtv@=[hIZ:;HRCo_B=:Pwd>easg^]uKWV:JKzewb@FWJ:GKO[uOR[`Xes>dEyM@JGF:UK<KhM[QVJ<hNk;kSJPfWQufwNTZZCenNPehMTfZxfvlyHWTuyKAfiUXhxQ]WJkUJr[frKkVG_TVnKjqRqHGWx>rIpFGg?mkZn<Sfs<GIGv=hB@PEP`LOkFIB[DwbKBx?`^;Sdi]>_TzTynmNtJJU`jEyNwjfRqfpQ^pA^gWOHaWtfi<PihY`PpLvAPfi:@u^WQeYQmbtQig:lvp;KfL^@_chJfpIqMUXhG=uJalJzP:]OwGZUDC<Vc]=Zlo=aLwOaduyUgr<RZC<u?gEsN?_UbRx:DEK]ulFd]u?OG`bu_nDzXsdl_@dEk?uI:::j>XXnf_ipG`ZRyJBlCZ@:AZNdt:a=e=FU>;hrdCLybx=kW;QsBBsPVD_eytoG=`c@J>^ZhJweeTKTDyF>[kiuJPeU<sT[OFkStQmrL<@KO]jw@`_oykB_?[Vqt[RVJtbSClVNsXkno;if@LFDS]QSbnFgj;yBy[NjzmjcwpaHBVnk=_IcB^DD::TGMcalVWNiE`gQ[M_AoUFyRRqA;pJqOh]USUo:Oh]vNIlIbvJ`V@y`nkLCKj^Ue^`q=yZs<xniDOmPC`rBL;ekoyfzM;``C@SNiXt:q_zTTYdxSL=:]Hh]xSrtAViAJ<Z>VjsrmnbgQKnwwNhbk;rF>:wdt?g<:boKlPD[QnwAHryR<fNrukQ]N_gyQZqCcjzWazGipA;AQfUWLh[;I_@ZMGw?`doJjRZU<ZaT;kAvRmz;lQJKwzoocQ:ZjgH:?oP@hdk@fwmk[gjEUZkOkOJ<G^aAB>hrEwKE<rd;zNIsIDblW=kI?Tdt;VKSFNsKWby@A@kcKM=`MDENfcRVG[yWXA?oHfwJ:DPEiFACIi_`zSKVpifC`>yI`xIFFstiiPIDP]:=QETPfTt:Efp]u;^:Z=FEz<SZokSs@F;k@jOU_cjAB=PkJLK<B>?`rsXN<jyYwcfTrnjNSs^l@s=_dZtV<lmaUvQjiJzPV::_IEKtbycR<isC:aybvIy_^X?wzkaP`BzGXGzyfQwjkv:m:;]F[h<QurnjwY_zxz@NIorajCynzYzBFzZVA;?e_<;t`tb:>WdnbteyitEDc^hlj`=d_^AdagcZdgh=a:VEd:So>_HJbDhZe<AIjZd^d^iZbSjVcwiU@:<M`r@M`PGJdMjg]@:<_l><hkENDk]mHkdC?Z?GgIHnZhbs^njBbnimjUAlfy=D^Cifdf]QeHic^kbkiZETgBiDDB^:dBfZ=]I]@CBc]c[;?acH=U[Uf;bkG?AgByg;bkCd=:XCBPgvfNCyjbd@?t_wdZ;ReX=RbRZs_s]s`M@o;sORfRjRcs]IAsMYhZQ?azeU^Q^NbUZP=mdSDZ=WdhbWjc@K;ZAC<x[kT^F==qjabqbKA:@C`RSCaygCfdeg`a@ZNSh=_:]:a:b=h^aBC`]PFMZoY`:djvjNT:j`G>cJ?_AIacHFIR<k;p^F`^au>jD]dOet]FGxab]KFb_piNeFg=iFQZ?ph_goeRiR`a=N@`;oXZ?oNd^oP:joJoAiH]HJ>TZZHG^Z@pdFPLA<BV^Ze^cB<JKVjf@JU^cB<:=JQqAJSw`oBkMS`L<kNkeKAljM[k_NK@@THR][dRH_CZU>C>W:OBJ;icRZRVUoVVKvjv`<fr`n>VScQ^=VRZIVRgVfigDP_u;B<jZs^Z?T^a=Z>u]`AcAk=F:gAPhTdF<VRKAsbzF]gIFAhxfmTw=H@`CNK=ZVJS[gfNYR?EZoIF=R>oPu@B>VJDSRf];kD:ih]VcvjLASjo<Ci_Fl_a]@@[gO<eKk=R?HZm:kA`:JCQ<FGwF]=]c::<dZ:ZxT::OLc:B:@Z:;Eu::Dt[Lc:BmTZ:dE@:;Rzm@aO_<;TVzGUH><F:eRw<F=TRoATUj@n:Y:S]FQ>;gV=ID;P]begN=evjaPFWFdgVoacEVYVPpdZFPJFePR=^IF=jPJs:wQIEPKLQVOqRgNqLPLgPqPpbqOLWpbPSLOqWi;k;kB_>HLqLHLpagTvdqWcEHYHJJEqUc_ZHhcRgRamZWi]Vw>u<jfB=ZANicHgeneIfoeXPwHXWc?XWz:xb`fpZyK:>ySXW@=XUYg:@jgzhjdzBiGyLyVXYYcz^Z>;MjdyP;UyP>GkCIIReZ=NaO>uhob>Y>@OAcHOah_iNFaPXqWNccGaGJ<Z;ZEcBSaaQkFgRKTHV=gHYKLiXPY:ByD>HL:KJ=]lVKY:C]BpglTpbI>aKaIgDU?JBZ;KYS]_@P;J;CMJ;ZAPEwgN>BDT=:GBEBBsDKLc>VE^FDA?EXbVGRB>?dOR?:HVHs@cA`EmIsFSPsF>BR;w?:C_=:ew^CP_ACVtW:h_>dW^[X[j=V_<FuRoFo=PHo>neUAo:F>FFB<F@F:J?FEFIFBgFgDgHgCQ`g=g?g:V=NPaSVDaXVAV:OR>CyP>Bw`lVp_CWNjg:jHX]oUwXeWq>qGVdjIOS:=j<n=aRJBYAJ@wbD`SMf<kHIIkj`>XTB]d:FCrciYxdOTiY:HI>k=RBBZFGmXcEqNt`O]R_B>MIZOtO_E:]kI:d=iZNeYmCgY>I:<kIkeXE>I>BpMVbSaoPfhKVZaWNZ;WQ>GWS=EWWaRTV]KJ@XG@HZGe_mVcX?=lfsa:Hc<=TmYkG?;t@`I@KI_VV_i_?k=zE>E]IkaFAX;uB^X_;hQFSR^a:FJ_S^SD=yG?F;CdFc[tGa_wR?O^<k;^Q:?^M^QaD`BAEaVWReLF@VTGMwS:GCRJIg:_cdZhXZDV<kGRZN>ZG>N<BdHZ?WK]aC:nLv;BIZFOCnYxL@Ak@EQa;EOEMESgYEX_BfLkEHTVAyHZfIEsE>^aIv[]_bg;;;F;;hB::jlZ:d<@:=VhfuVojDB:AeXZ:e=@:=UwR:@ldZ:Dz@:;VujvR:Hr;Z:Twe::c<R:<AuZ:Feu:;@uYpB:CoHZ:rse::B=AP^z=FB:IIPZ:>HT::wbc:D=DZ:]:m:<Jlc:ANdEDP?H?qdTDzCwtH?CeCyr:Is@ooNY:PVYcH::Ru<ep>dzC;CLaJdZXcdjcah>;XwgdDJxNeVXhvi;hGsKhghdh?:th`hA:k>ThRZhhu:xh^hA:nhfhAhIhYhh?kWsWoWVWLWTWaWiW;WKWZ:mAD:;uHc:CtHZ:;kSpqGpdMuEZ<s]]Bs=nZse:=TgR:<ZuZ:vwe:;CVc:?ZCZ:>_u:;J=B:DHuZ:=ne:=LVc:;[@Z:o:m:;;Sc:?MaZ::Ie:=oDc:DYKZ:yNe:<z:J:=cg=Ne:<mLc::AuZ:]ju:<i@LZs:FfmZ:FObgNuofpdMupk<@pV=@pmoasDpDoENq;Aq]:bpbpDSHoscipipXqyryrrqKolqoNCodoSrSrtq::jUc:DQ@Z:hE@::HVc:mm[BBdBhVhON?nUJgtDByjXBtjSBxjMBqUQBossGRcwclYXYSYScnYMcuAQcozNRuzPRpRvRkrYRyJBsohRGWfQDMnPaNnLnPnO_baIWODH^fGHZH`Vw@O>ZI^KJ?s:FFGTGQ_xeQsjj`rKF^rOMMMQMWNvNHZ=>FsruC_@oQNANmGKBDVEI@:GdhNLxW=a_wsoNqpWr>xOyAF^RGeMs:oj@;`ZpTBDt<FHV>qKgh[KZ?:?<j_`kI>Fo]F>]hUDti^KFjcErQk>Vu?LYjcF;<G@c[;GagaWaJP@oJBGaPu_Noc@BFD_iAHQEP_n]FVmp_hUBjBhk;wpwzMRWXZi<t<xKDi?>Im:Nlu=yCd<vVc^<HZ`xgnS^W^Q]tnK=grLZDrK:yrW[LZDonrY:e>;xiC<:q:@:qrW:z:wZyZxZzZwJyJxJzJokuktknkkBoBv`VZc=XcF=T=UT`_?Z:l]oOwK;EGA:Hg<fholcH:@:azh^XWJmAVCFv=TKPFkgCZGMYDO=_eYIJgyBH_@Gh=T=QlBJAZBd<ZCZFtAk;FcJE@<:DThjY:EeT:bYeoAFdWQsC=Xuv=JVGjCyKB@pehLVicVtbFJV@IQmNokO^ITNaDTFXIQ:eB?cA:EUJUMa>tAyHv^;c@fI=R<ZBRCNrkIPnI@FIR>qmquB;qzcic@FIcHJEMXqpmcB[]a:AUFaJZ:Z=qnS:<ZmzYHz<iIRCGZgDiEHzHyJIkei=__iDiGe]ob>T:[<zka:ZPEPrk;:tFySi??uHXz`:PHFEHoabU:JZP:N<nByrw<ykZ@yylI:=B:NDXlkGmJF;O<kCNrdc<wORuldfxO_s[Uauw:V;BIBwsuhTKYCOCOKQ;sBAKWlOOXF[[sGThXlSlMGNKPpjlKOWKwCUguCXCU:CCUJ@oUCUN=[vJEtOFW<<BHBCB;dQB:c>c;sCcGcIdWlHR>SXSLSJc@SKSM:;sGSUsESUCzSO:<>>tLtW_HlltSlrhTtMlkqE@Z?XfX_F?No<oIw;o?oC?TTM?Q?KFGF=]<`Y@@`NJ;gC`Xeh`RV=Fow<aJusB;BI[uONtL^jwk<Idw<@wJPFSp<>cE<:^`rD]H]C]>RGcJL;a<u=S_wgpS<AL?DC`EDC@@aHeEm?eBDFD<HCc[:CD>jFOumBr_bIHDeHOpnGeEe<D;jFTDT:tCTGT;BGS<>>uB?jg]N;u>Gsqda>IJ@<we@GkH@C@G@E@<`caAJFa;aHmC_D`;=_<YiIwHtN<IhmrI?kaHjEOpcbK@jF`rqHHBH:BFH:T:OyHIlpy<:EHD[IHCN>uDir:HiCi=]fiIJMPBXFX>ZCsKXG>GXEXIXByIg>neyHyFOyxlq[k:;FH];=EHfE;CZ[b>[=;AEH[C[Ag<J:p:KExPK>W?hzpvKADhJMM^cBE;l?l<RB;rlBqcC=h=<SCIaa>i=FdC=@dIahdAKGyaCgfGuES;RIpvPutIa`tHEk?Bx;R<?Aai?DhBOIaf?>R@MEM?ybuEO;c=`IMCfoO<OH[SOGHGOBUp`IOI[=p<QipCpGpFQgecGDMttyxAG?GAJ=G;xFC<C>h:`dfn=?h:AmMGkIh:k>W<WCx=ECKAx=W:hGy]fkMG=?yGvnhA=>=Ax>GB=E_L=ASICHbn=ClDMAlbx>^<C;BVMC^G^HCr^:VBEsMFMA=:rn`GM>Uw`CME`;fp;wx[pVK:a;n;e@kMn<RAn?gHq_EITb<en@E;E>E?yGEGnxv>W:<LkCEuf=h;fCK?fCekUBt=[FUDUBM]w`U=UE_Xyt>_vIgdHGHHvCvCxwe=v>xAvIxBAEOHADA:JHACAADa^]lkX:<VP]_MlM[dkwXVVEHH>;n]TBwsq:JBBQ;E[`kDsOVMn^Q=f[c=@sYk?i@rAjsRC>VIVIi:I=csFOeehO@n?j:TcrWLZ`rRdf^]Atvk=]Kw?BCjoe=_;iL;:TUCdAjZUZM:zNJ`ilAu[ipqBpG=mGRP:ZXKOXb:iE::>pX;z:s=:RMs;xpp>TZpJJRK_?V=dgA_IZPo@F<<<GckZ`q[BE>>JJC;a_RkWcI_?u<`;k>NW[h:wZL<yuv>CkKBBVAL=jsF@LTjXPUCNWm;w:JgcgPEZMOsBqp<[=dkHdANtPgnK:GN[WKrOu>sZWDi_?VER;VLR<UN_LNmK:dLLN]A?IIQj^g:QFhZAxZP@]LB;o:x^WBH?auMTpR[dpY:HxNidYO[VLJZZR?lHfFla[ApDu^WKA]BV=sHhGz<^QpTdCNT:GFlBeo=Jad]sEFLUfNFLL;ddayANRQ]PWTh?^sR^<KhEOwRMsFqthDyE?a<TeSMucMOK[YQNSQoh@hxJHh>oYeoO::YMu:;Q;qFSjpkuZ:Fy^::ckSqFochEH:ILrb::]PPAnJyiB><<?CyNnLOk_xZKDeRcg:e?d=_^Z:^l]sLv:S;obqE=<W[r^IRLUMwTvo`T>EXKeVEhcQ<acOkyN;cqjfTFvu=kzKjD?XAj<VuZ:T=`::bTStpq@gWJ:HbuYkgLckCMU_:oqACMGdhKnRw_wq_xJNZPl?C?hYJsdI_aPkfSOhl@GUYp[qoUTq:PqNAOa@HlZnc^ck`UUNJirvSB;;qB:RWeHkvRMhPZov:J?ilGAu;?qwsSWbZ=yvfhp:avHW]TCrSvg=qKvJZ<XnZ;bgEqNvYp^Xkgnrg_:tJg:Ayk:sYg`Zfa;xa@I^@uKrqJAQkAZ?:vZWARicd:<ZKpcXGlTXBeK^jOe=apA]GhFsLcodA[GTKWkrKcwDS?j=saXWJ:@DeZ:HYOyKmUKVDanb^dgS]PUNd;DIN=^pwqz]Jhb^LlZ`g`K[pVhaC?O@;cfqacbFIHpUSu]Hq[cvh_uEvSVc;qJv>W[BCh@OkvKJg;oMuHUREgquUc^oThPxAUhWqyvJxgXnpB[]H:gRexd@EjUtJNlMvHFTyrM>RtIqmRaFTaF:_OK:HC_EFMaF@eJWcHTm:sajKE@LoY@;BZsUBlR<qo`Z?TKK`Y@pDc`l@wD?U>?ab:sKwCocli:J<aJB;LctNDy?KOVDB]AVlx@gKLFF[N]TKhkeCZzNSAF]qlS=J:GHTsWTic:=YMJ:@aSZ:KXO::gAD:;IvKSJ[FAT`kdIEVBoTTJXCX^J:A_T[DJ:<KmZ:Gv`::udcqGzTN_iLR:=IBmLR::Q^J:?mXZ:Mbp::uOvkx_qwcT`B:=:W<uCoAmZJ:j:_vM:::AB::lEHkZZ[LBBY_pe<@]jZ<?HV^eMjBlIFMFMsZreXN;W::=ob_x:Dp>:;wdc:=]tJ:=F;`WDLR:?`tJ:AUywcWZPV]tRwg@PV<W;>HFqfZGtkelCCIdZc`kdzVzBG:HuZETW;jKh:UZ@pFxnDRV<L>GPjlncZg:L:BP?bI]QT`DR;ZBomQBZ:J<o;;>f:Fd_J>@bys?dVPC<HdaD^?l[NalC:Fc=HLD>OB:]BKEJ>D=R`sZCe::Bfq[ngL]OKBRQMBCLrmOi?xBcmpDNLV[CCI>aLQw;FN]HVp>RHiPvEOB_qZcyNB:AazJ:HIlZ::r`::GrD::Jho:;OLc:@m`=mX?@wab]qZZNsDT?I<aKMWBoNncE?GuMlL>KjPSDP`BmahK::Mve::RvN::BKiANSL:;vtN:<bVikkDa:;Mwo:=JviAN::Ldc:;nnS`IgAoLYh@dTBG?ZJGXD>?uJAlJzeJJOavNI_;rUtF_FSvy;H<yTLLH>ZCen>rFV]TX;<p;mE>eRjoiTRKAy`t=:S;JyN=XCD@z:`eRRmcJZ@eAL`p>UlUZ;t:M]q?J_Fa<f=]K@@>orFUWSeNZKPJJsudRccaaUCNZPnu_OgnBSoMy`;g:SR<B@VvDQTimm[AgecXlNn:Aw]>BkCV>m@:dHdWBqhAoDsppcqm[dzGNyeMLf=:mm;I?FV[=FPB^<u[qLBgV[BrecMwKo^=<Yspa:^BVk]^XeNML^`MnFaHBnlfgEE@>]DlLhAY=IIGlOmWwOwR<BjHufqhi[maQsCgGln<p]VQJra]YCTlDpENVPSaFIrkMmZ::OZF=YbK;MFWs::BvJcc:h@NxFBpCRCnMSw]?HLhQeAdnSdJoyqYmAm@XcwtfcZiXvIz@XnjS=VpRN?lja=`T;mURy?y;LME=vkEdC>DN]UE?KHgzwvd?:>N[;dRmTJ^uJUZIJ:DW]tdTRLp[n;n<?[@UBlCkdn=ugaCiqHvFs;;anOPDDSObFW_JnXZFqZ]crEu@LCZ;Ugqq>RRBhLEUREc>>OOB@pvkm;JqChCGDi=[JygKs[kdPh[IzB]FK[`RpM=[B@LXhv>C]jpilA^T_WzN=]vpfurVUxR@?GFxKQBAn]yDE>l>SKQB?N<OGJg`cUZ=ci=UuDtT[]slLZ>bmRLE?i>_zjelgQZ;zmA]dlLYl@?igr?uZACOshM^u;oJ`MJCKJ=Y_g:ItUcr>D_DeQjnfNWLn:FQAN:=:s:SRp::FEeQ<sVNpL^yMNBc;igu`lfQcKak@QGErsiBYOdFcZEMEm:NJQw<sjL;nEK`Td=TCdApR?E:av]`nBsdDQPEn?h]vCYggwNQ;zPwUNSPVhmQgKJVfWOMAa=x:V;aZH:BlUt<LPR;v``>t?>whH<jDMPEJiBAunz;:Zp`<mqCYoeTOk;a_YsW];_^oO@Dygu<@CQcfE>CDI`d]hJC_fgQ:;ucc:v?VVemNOd]`?may>D][e?ELOBDvy<FcPNrE=`rmqqTB_XQvFQ`V<lCOS]SO=MY`UDZ?UoFifHDxF;ZFlO[CHN_e@O?mo?TuodPvD]`_etlP`?KN[gmlsUGwXh_;QCDSOuZOjEfNo]OETZM>_CYsd=:KOVVniTOAZ:i[=F^OBq>pYg==LaK?aWCGs;B?>O>OPwXMYR;R]MK]t;iJLu=DRJXKPeK?bVs^[BjzCLEMgL@B>ABc?JDDN]?xHvGge[euel`df=vcw`@<h:cljsg<YyD@Ru=?;QNI:;vmnOe_ZJQ:[JYcFq:XxqPL:Wm<jkGQk^Z`WedGWha>;afXZ_[>GU@cLb@fqpVZ;pUf`iJifisy?:BMlNxPRpjOu[W:Auh_PFEEVgBP>GTfWO[ekS]Bx>hBjHlxeTSw]uv>cdGNdeWOHuC^;I_pNnZgprsuFU@FEOlSW;GTohQS:gJOfoZOTikLPffOAnft@SONgumUbyspOc<Bs[VN@CsBCpfSEiKqPbET;XtDLJUGo_A`QmVaYufFdpNGBzeVa`VakGQDj[bmOsJc`>TN^_=Z:U:uUIWKR`db`S^SksyReFNA@RE^tH@j=Ud;a]<o[ZcTmWX@erN=C:DayTiMigP>N:aCbo[;?leZowU[w_?<w^;Oo[<U?p<BgMJuib;u:jkwc@k:FAFls:>;XZ:>N<FSTWoU:rWAw;BB[?fhtJoNSdEp_DMoDKG<NrfEr=OkGes:hmSrDfaWkYstwbCYMMwcSRZ^^GUMORIPjVZe:edggb?:DpBS_FgdO=OsR:@W?J:BUDM=AaXkqsRcG::]FSsGXK^sFdMz@E[J;WNoLOVIY@E]fZbLxJOoiJAWBw;tJQ=J:;lqZ:YM`::[MT:;BVpt>dpaNk=@JGmk]rmZcht=PEJ`iLog;NhNfMEW`dt@StQsA?S<etadCsOZ[rLU=]lkNdy:NG[OJ^aBhsfhSemPlVA;lJ>eZnl?hAU^P=C>fJnB:QA=:AdqHufTdDSr?LjlnFd<VhDcbQL[CkW;LVE:<bHM_s?yoTW`HrZOMZ=e<<TWADqRDBPtOE=KVc>ypABBkAILaWu;pJ<nbU]gt[Oo:hbRoiTcVv=;KZnbCD^O]P=iW[c@OUR=tnq;yWJi@qqs<?m<t[WmeSqwKMOPL@h?T;SbTZXpNi:RTP;jOGZKGI@ey==mzZmMP=FSDg_PLUCNBJF?vDYMF:Qaj;:Z[qe_t=HqJH;CmNT>x=nefJZRKoCgmEF^:lwPbNoCpqYNxWJkve]FCPuJkAsompdXodX;WDX`omjdYDAWlZ:OBJm_v?=O@O:CEpwS@FEUfeQugUWs:TtOupmQLfWuxsC]I>?k<D:hgE<DV@Z;g=L;NNfD``Rd__MlvhVQTzc=GC;b_miVY]>k]h];;]Ub<TqGhQh^e]gKBkBFqcA>KNkC>fVzkL=ViL_qLDc<<ae_BXh<OpJ_Zei=mDp@Ck>;WVB:JTDIcR=Des`HdGwO@mNP@h><GJ;NF]^:;vc<:OHv`Yv`tQIEQ`vm_lQWKrpDRxxzmz_Ceg?Qygs:LXiWJXMZ:jDz:u<Py>Aj=rofBxQ]w`PAfhp@BG:X]e?J_<R:[cZkVDbfB]cL;rw=WcZ>zMr_nrbur`bDszYNZXPDSxx?yZOV<dIu?^w>EhN:PoAVDedVKBwpXXIDC>PoH:>EKKacAbfPmwLqJfHJvCn_?=ppnHbUXJ>fD?`wOIPBrH_P@kUS;pYz<_>BiqlmKE:;iJkB@dtLBM[[a>qV[<qdQQvUxLTXzRzdmvkth>ry]IJVfCOw:R=PXjtXmcJHRe_=:k?:kRYtOau^:zf?zYR=YqzvBOfwZRG[Jw]key:wDqCN]gZIe@x=SykksYgyNy@s=[[mzSZYCOvoD=QH;OQ_dgI;vrxq[_?WZXQeTKGB<V:kEBR]FDAcxIMI:HM=JG@@^xGD]jUw;J;tAz=OaLtX_:D=c:L^vLew>Z>SEc:`k=ZE:A_gBNtZfsc]?tP:=BNsR?oWeDIEd<Bk_SY:n<LckU]rJNSWB[u@^AK[ao=MCKeAI<[EiSDZogHZZTvXhjws>V^hqqgVggT`rg_perBL^aEdHpo:M^bXwvRloipBtmDUADEbWfiHDO>WO:j^adL_<IsrhJZFMbdLyoa;dHcHomZ>>;o=Nq:BHs>q=eouJvjD<t;syP=OqC;AhmH`ec?MKoeRFWlREAYbe]e=;wWwOKDetozT_voeikED`MeprtNZiKO;bRi=DcvAuH?:hbMJI@vtWlJncKS`Z>YbF<=sf:_Pi>]?og:decimsyBeFOz:J[RJbR]fhcBBbCJ[pMQOgVw:RAy[rpDnIAEP?jNy[UJbufnd_GgEZ>XCLRUN>B`@blwJGPRMRAa?X[[G?Rz[JDHtogAM^U;lzIHi?mER^>XGYeDQ>iDs[vxR:Oi``=?k^;LxAdia>R;R<dMIa_S]<D`HdedLYkV:EG>R=eLs;I:V:MR[H;@@xGZTnKcQ=R:@Rl:Awws>kHB>m<?C::GHT:;wVo:<PLc:>ptNLR:;YNtd:o<jAH^RZYMY@RwooZXKMGfhRqCSAUHJWb`>nDSg@?r@=bUKNvAw<GA[fDCTTBoYN:HUEIm[::`CfGblnaJLVpqSvF;mQTyc<HG_r`UBoG[A@_l@kDBGUpoCPegZpPBB@DLkapk]CbLIi@wMzTZ:U^_PKARvgV_liI[buLkcZVTDB^asNNH>xS`WIM`AM^?K_dXVLeGSQE]GKQDENTqYnAu^HqKcxVQiCZkA^EKKsh<piYIAEMFEGs`Wd<Ij@H]flYctwR@GTKj^JlzsfwMadz@eSwpjv<<Xyp:KC^jqs>zx_;Bs^JLJHvsrFY;GS]C@fW?th<PIHjIfmP:[]Va@LIH?DLul^t[gKdHU>YbsaJgjHc:;ABk:C[DZ:?y^::V@UOpv@HKZZDhQGlaPEErq?Y<SAN<fNiu_yLaeb:kOw;:GdlRwyVMU`>>HxZ`MWMrDJqZ?IFkiBgO[iJL>LJPeH]Z@@IA[Do_Z]sH:>k:UoUZJq>vDLcN;@?J:fN=JA:TnLGJC:<k_QQmwWdqp]a<kgOkugWqmiv?OFHB?nFO>HvKQzl?OsbIbisZP;bVY;NdFQitmglXVbH>h:QZi]KZ`Ni:UpLHhG]gJifV:AeuQiPk=Q@wpXQICU^L[h;?f?ZOtFOWqI:tdGk:DGUd=HlGcewgKXBa::WnNuxDsZVJsK=EpPsUG[>SjSVMHhPs;phXxBhQjsHpvbaCezJI?_m`TE;cjpzjLThPK:ZRfVOmlF@pDJ@_K:ROuA@[fOEcCrE[>R=YxnlCZTf]^d_NqkR<g=mZfs;S=ReRKiPuJkVliUTZ:PoL;ESmqxRzWju_avh^@uwKL=`MbnC^^xCkBQ:?HpHb@mplyovVWRsrTsMb`CszJ;XIDNr^:bWLdwS>vY@Ih:c>BIwSyoJaZMW`FAN=f;GlgOU=`Feb=hVerUsMNHd>lWlKIaVTauHoDd]XlrW;VWoOI>sMgCF_ujNCCvnfg;mdUADMrJu_xoFSoVrcG^CiefV`QZgau;dhfbSN;tpImXMzHj_zpJ?G<bK?zDCHVKiql_UOeFiwBJW[tKYkB>ipDAKfeAlREGMiipNzfjNFFq`M`[vNsFGpGPuDx;i<MW^UADYMwg:eKpF`ZnTomK[idC`gTIUrifHUj@Z<ijZ>qjtcpF]yimhYth@uhf=CwSEhRYmmUKvwawXvif@GMqZJIWb<[Fl^vD;Y>A:<ekcSsDig=vLhMBxUgwh[mZekxBAAoiuRD[N_XuB>Ep^O;FUftEVZ^NgqqAEnLlykuLts;Oe<;Z?G;v>XCSzj>@zv@UAFDYY``J@jkxttLM]`NaippCxBr]WdIo`@Mf@zh@mJtCFT:;SKN:<VgOmERTw]ME]GGr;rKJ:MFAyHDMMLk@ooB<C:Pxu[so@><yUaOUW:ELSfFrb;<_Oatt^kY`<l`>dMa^`_ATPZQ;?WzZ?[rrYy?NI:KYas>JctSSuZGT@aMa[mkZ=[UXPzPp;h?e@oj<_hDPraXGemotUJAih<LuIIE?Fos:mPHz?H=k_[hpaPLOSe`=rgDZoa^^[:>zVLajrx:H^aeQctJR@HshK^_UPGjLraHdhTN;;wdY`=BIeTT`eH[ZwFb@MTDi=ymLRnne:::HN:;oeMRrBVGmf?p^_ZzzRh=CSjKn^hSdKBqUiI[:b^yN@_qx?yHQveNJCnpieaJFJbRMsULRvLowFRb<_h]NdRs_eLUuT_`Cq_ukVsHvCqMhyZNuDW<Gw>v^H@ooDu_bpZvN;lu`hDbe=@XdJcISrUBhv`KvxTAG>p<b?=HOSqxlwZFhGP_jEwcvN>RQ`<iX?:c:xeEqJwJaeglb?zG]s=EhS]nQmofFK_ZWGyVGfHvw]xZRe]pnHw]:ooxO@W>wt;NEajk=tpwxk;:jZRyRoEHcsH`AMPRyfGtl]us:rHOdnlh?k_=CVg;IbNsU?t<vriQITQ?EqZFmzGgojfbPEbtwWGHaTgm`RGqW^NZF[K@zkC<=G`wt?XEEio>>>T;a>?Yd:dQcf^zODcBJQBFqmouOogiFAmiKOJBSOnDxFpwkCQJf[:Gewk<TJKcXfxSxVrz[J;Q;yeo`]YVIh]jUQeMKTeowWXYqEtyk=?Zr=wM^lYZlVPiVR@nJUJYkiTGP]N;z=^K_Qo>BCnowSahU::F<e:;R?OX>[p::F[Akmu@aFmmR:A?`<Oc::@EYaJOD_aj=::x@T::m?OlL::v=pmryicP]p@?e?KGJmCPRLVd?dwkwZUK]PphHwvkZi`ZoP:e[@uPBZX`ILIJL]UG:AI>nxiE:u<;Tcd;FQybDC>?pMEIO``GAHJNNiUBBOo[lMAQmNlaTnCcTw^juIxJ:HJ@EDRtytbN;;bCsvKktkGGo^S=Mb^K^osck_<_jfb=ne`rN<tXRi@QjEpaAjYq`spygLdnSqVEldO?sI[tqSchKwVHjccT]ApoxLUXHcZru:>Gq_b=Vip?rBWqGngAO]CioJwcSGyawnVtiwr[U_hqPwDaLLerhU[hkR<kzJhtZgEWhk]qb^WiE;@oXaZHuZIbMEdcvuuOk?iaMj>fovmGrHy:n>gFRLvdZ<itJ;fjkEgcnWzDHrVvVxrAH<aVomdbAjkodvwxnmF::orc:;LtJ::?@W=Pxqywc_XSArwDRsJGUjY?KTCu?XzWyw:zjImQzvgPnyzKYViJIHEw=m:uZyWMUvsiYME?zWXIqGcFtfOgusc<OHlNI^wyo<=Lwq;jKaKxpxsub:Hi_jnfYEtuxbS?XoICQl=oeJLxxj`>OQfQKutg:cXGcWQtpZfNPcHiuj=JlNmozDyhXtnvQgqdps@zDBXjTkhC`pw@wVUYQPAjl@[QD[s;=f:s>TFca][KjT;CAiUlI=`nli;u^Mw^n]]cwSiQ[qUrGzauEYFGLrtUt^mwCfYpj@r>E;iClsvcR:XIbUl?`BBgADBCFkMBWqCvAXLXCrGZKuMCwNJUJd;lERkAn=g]^oAInDdnwE]YXiY:_vb^xxty:VTIFkY:SWuisbA<_hIoshi^ivw;uX=ru:BxrOtIWbjXKObqns:;]OLxnXv]xjqVa<QbgousB?SXQZ=^eVC`vKcwylNiQhpxOt@:?YYAMZZ`Zpxux`XCYAIuQqgISwJKccJrpEsEyTxwylQBkvEwExOVCAKYMQ`fkACOzcCLjHQzfwUsOxRD>jgvnbp:XtzqIojajjQlNUOyHznY<:IEkUz?wHjUYOjsyQps`xyzMYqpXRqHEtCcVHwT:OHom=PG_O;Ualz=fKMxgwTNvd@qIkg:csdykSrGdiklpvZr@G^;h_PkbyGieNdUAlnLfESocslIh]hkmc<Y_vTqc:@hamcrz;qurSMlYZn_UY?hyO_M;QO>tmtODPqUHqCjAU?JCoCNQHmOB_wvWKX_bDWvhabOgXxiwpYUMGbUTng=jguJvbHkrSAXtIWOXMlHJQUNm@e^FleIZkNrsBAjyrs:cH=HyhKG`UOVveizHzDVEjAn]vtioil[yGqDaIz]eUh<CGeAfgDFG@mJeg>GGecJ;VG:^Kxmzw?M=UXllH[KEXL@;K;ioMZ`;=KiRZ?em_Xo>DCs^iZIac;]BSC;qtB:QU]xCeBIb]TSSZv];aZL:h:TZLDaeLCzSbaBh@NuJHa>jYDeowV]:uiPb:OXT]edA:F:DPhRiFsePr>aZslFh??qDYad_=qEaeJc]B@n:J?]zu^]ssiiuTXJX:eDn]_d:wZE]lciEMe]WU>[Sf]Mce[SU]QUFTDhaP?]d:sPOcgXE^gbScKRNPjU<KUi]S?[ili;Bk>yB;]fse;mY]>R_lTreI?ZaDVPQvAyCgPj?d;EwPkAGaC<PV>[iB?]uN?T^MkWL=;^b_<J@dtX@nKDB<ZPyI`HE;sKJcjMwqP:ELSNNk?[c?L]@bdHDJPlUA><`gz:BR?E]CZP[UBPHcaqlP;@?fiCa]?ccsAsPEZMHmQ]vZNim_PTvHKR^;jZYuBj]JRbKRY]RRclTrgcJYyCd]gJK>@ZLgRag>S]:`Z_>Jgk`g_@?]bOCXnIRmi;;sAmO^i:uQaN`eDcJmPwjqJ[]Adip<ec[:LcJLXC:KcKLBaQEcKN;u]=l=Owgr@GlJ@Bk>k?JDx;gLLF@yN>=CRqY`gnRJmatB_:DinFBGMpFaNdV=N:>t=R=D:og_g;xTGUc::Khc:=c:M^CXLI_gP<;LWyAY][LIsH?CBFZ:;LikW=Zm::Zx>::O<@Z^:@BJHJ[gktco;MFsTIME[JfNCL]::v>e::=TUh]Z:H`uZ:I^znL=UMzXK:Xw@rLSCGw@mXe]Aw?i<XkB<?e@XJL<A;PFQ]x^BqSc:kSkD^gduZk[COhrDkTH::]@_q;ZE^teX[JYN@yZlI^hnmZxBRm?F[Z::uaZ:IHCo_c:=GgOpeiP[cLrBRqvVhi<xBKl;r^^:Ls=z;rsVZ`::zk;v=N[J:z<<j^rkHLGi<fZqjiLmgo`EE^L=mkRSYThm`lHrEa[qpaiKP[^lI^R[PL>cP>@aQ`]P>yPWz^lcV@Xq]FEnoZwjjSU_yZ]R=;BqC_h:^JfNAZ==eMeeHd<]nRYBZq[Qe`q@C:yZfQsu:aTj@ltFuTixJnZ]tcpsKPi<cDBHRTH]FkGFaG;HBhFZPionNohGGa^ugqSjom=aJnHYuc[IBSFnRcTNFZ>EX;JFhsR;fQbHszZa:MqSw:QsKy@AoYsXsB=o;[@huz[rsXRJs;q]:o=OBlqEq>BwWb>c@es@o>H>^[bTZ[@J:sgDf]TJfNIwK`sMe]J?nkN]crnV:m:LT^]s`Hcw]]NO`?_^mFg>Va=kKHHhqeesZsVH@HeXi>K;=N]p>K?uNd>Uhv:RAOeS<dkvhj?LoKN;A;Ax[BoIg;Y[D>PlAN@gZDC>s>wsLK?IXVhB@twKGoE<<<KO>XJ:I;xycrTk[U;fiMv_Adjp=ecQZ_V:[gX_XeZq>rwEd?I;P]hVLwD>FdoT_D?k?hfzmNl_bCJ:o>Y:;J:vi:F;J:M_YVMzmNTDyJl:>FcBZtPpsYD;>HHDDS;e:W_VR^[ckZ@D@x_M_OT?@i<V@Nfbk]LFt>_DrKat>v@A_XZ:oDw]Gt?nkY_YN[J:`GDX?ooBNR:de:bBQ;c[gADC_Zq:xyhTdTDop^pSCmhlC??=aUNYYcg[rNYislLjNRZ<C<zNTS:^Kyb`n^^K<:IpAYkMNMZ<fFADFh@fF?o=G>ERwoQN[K:zNKs=fKBUCG]gsFqDG>NmHoL:;vKVPIk=SRsNOTAxK;SiN@PBzSFp>q:sTD`AYkuNLx>s:Kfgc^_:<G:l>qqM>Yg:gKe>UV];JED^;?J>B><mAMwzWdjvGq;iDrT?R;p_[[NZDa`An`wH>I`e?TesFOe`TesAMmBs`N`otxTH>=[:J:o_c::Tqj]]cmLV_JZ[cuFTU;C:PoM?D;iB[:GSZ:jc@I;Z:DB]I=HFsw?U=<HN_KG;My<_UhCU:mZDZ;G_wOCUJBJX:WK@VKlah=?U:ukGE>RJSkABDuJED@c=JHrRKi<v:VuZid[cYsFw]Pk;>O=>^Lk>E=@<K?ZDInF;Tki^JNgvGGgvDN@f>J[s;q:HNnt]CE]]@Qy^M?c>NyFy<mkpKbMHX?SaASZF<IKGsQvAtJxsOFnii<f>emkoN:JEKBuCJ<Nlliif@l=ugaLE@kf[mL[JsPgUC?TnIDuZETmTJvf_ulBqW;dKDcqc@htRJT>sQ<@O[Vw<FD>L;RUQAFexVX^TGlAVekS^_fRSp^h[@aCr?S<WVTnKj]=VRqAoZsRVR]K[HLG@@l[wRRa@fZmRTaAd[aRWa?tFXRQa<W[F:KulTygyeeeMl_UG@nEuVU:Y@CggA?Zfnoc:QFTZP_Y]DE`lhGeESsVOC`hdnqBkFz?Sy<FQI<ty;_UnR?yzG_Qv<q;bDES`ynqcCkmqMZHxdDKYlZrvGynZ@fTPNZAarvGyNCbfTuVR<K_:ka<Hiem[qZzaUUlR?hhSn[Nu>Yo:MyMbGIt>uUbIItXV?HavUNu=HZnSfyXOELT_<:wQI=UyO:cgmilqH<US>CACcYtWNBR<Yvg<>L@>BCqYwWN[ETqLDr[Iy`ZGDT:_gdZQR@yJ:WQS`qHcR:ADaa]YY>@yjeiRZZgFBA<;h@fXB@ZiK;NSZ<x@>XIoUEc;njyM=@beAc=_RYe:@[oDd_FNJKcE<iFDCBfXCR_x@sX<Hs>RDuDn[HC<hes_vcXu?s`vcE:=FTbcCufRZRcow:>_Q:G]V>_=@GVcsbfcBlgD=_RUf>_`=ioLY>bXu?Dic<?CDLO>RIB?X[qUOcjLGA?`[QwNISr_hTDjRXZXZFR:g:ST^N`Zoze<Y^KlVLYD<dLB^gr?g@ip]ob;aeFMBdu:UjEZ;n@]Od@;tFyOZpR?Z_YeFbMefG<hdjlf<Sz@=qumMi[tFjwOkbOB:<KTAtyMAE^]ZCKrI<RJCYYflmZg?YexfOyIlbQs@N:C_ZbhyfYi<RcCHhhdlsCrYfZbkulhemToZJz]JbcacziJaFK`<QUTMyyC^Iv>ueO@MeEyM<KLTgCxH^vRVCMH^nUVC`:av>LHAH]^erBbCe:A]CzChYvLClmY:;M[aGBc`Ru_JbZ`eC^Q[c`uunf;QRgddWe:A[mH:>k<QK:k<odhDALgveeajLiE]swroTN`oejyjvf^D^a=m`wdE:<AfVdjDO>=wd<m_gfxoVeLe`edjyaeL=J>Z`e_DdcmZJ:E<oqEy=_:fhFe`@d<m]TbPaVZiT`ioyLfvdl@tm^Ldp[owX;fxlHDKPAYKGcLFDlD>FbNe[P;jZ@`P[EL_mT>THsVFfHdjy`>SrDm;^wd;@;ycZSYD<TSktCdu;dRT?@;GIDaed]eK<fzuXVheb[<c;Z]c[gb[iZ];@e;j:S`@C[]k;a@YDda`:eO[il=;aFTP:lii=gOZe@CeaFRaAN;H?JLEFoHgMZdBwJ>gf;VTHZo=i>PSZrTOPLk^a=yCyNR>asR@LYR`SC?TH>_MZ_LYu]lC;uBn>`C?sUNbe:RyGX@GCZxiF_vcRy@o_MZMXGoaO@FJ?Y:bdZn@Mtgl[v`MDf:Jw`skJHChD^R@_L>[fAc:PgWNE^JR:De[h@OD_ia?K?OFO@`KowHOAOB`NJ??igHLCf?M@E<[A>hRZM??@=Fk^ZR=mZggPV:B<c@MkfE<Vee_`G_KNSK[XKI_Q:<BSWEaulI_`hIO@gD?:GaT_Vq@M>;G_iP]KaVDS@S;_NSo@OK``KG@QK_oD:MH_kvdu@MobgSRnBFkPBsnEm@I[buLjCV;>wcNeDF:VUN?A[Ca[olb[kZ>HZZ:qBPdsKBkMZLA>[@Nb^DyL?BOL>[LGBTp=i[JWFm?g[d_<J`KKA:<HTI[zBX`D<[`D=Rk_[u:CSb_[:NdLAN[CF]t`yZ=uPyapcZt`t_FmeFc::^YbdEySZPJME;SGaK;;qSBT=olAdMuM><lSZcMD?zXL[@w>]Bd:OwAn:H[DeAN;I>;h=[Sig?><T[:PGe>T_cZBT@kDUmeTAFBgxcIRJm^lA_cxFslZ:;JOK@NflH>ZWLBr<_MGBAG]VZY>m::rrD::wBStoKMZrL]LZ:FcCZ:HuDIcYu>gcxcJP<H[[IgAZi[bB@u>F[^aOu@y[:RWGf<Fv^DnvBB<GZ;dWlJofy`Ay`kL[EQ;wyjeLjSpK;lJECjwC^MEC[O`n?sNcmMLaUCfwJbvjlQhfgbryBkD=`n_]JBVbgqF]QlMb@qYiBcQTB<QMS<qpmLQtfT_<XwSICg<QEUkCxYiw_zCzqgrtYCPh[MaRCQY^Z`RC]CbV_aVZ]PmSZdZA]It_CPC[J_sa^b?Is>agz_vRXV=<PLUEyE<TjsRduz`]bctPzb]`yNY<S?T>CUHM^[<oB]RTK_dVeCBb<uU_TF`hRSOa::OPWDVc`RBe]SzveCi]TmbeaKW[UaVdhWffK:ZD:D:[qZuZ:DaHubLhjMWDBeTvd]d^iJP;J:AaDNaytniTFcH@Vmgo]=Jj]Ji`SBCD^Daag=iQ:;HtAa>e`aCoXYRfk@BK_UfndF]Be`dtY[]aaiyA;:b_aJLXMTaadteKRB^<JXLQazuheLZ=qdIsHJ<aTvfesLvlTdZJDKNmnDdd>qt]Dra<cWiSA_W@z@YD;[]RaQLtqT[e_iekRn<e?>xC^uYNbQ[EuJStKSGd]qeCL:]Ztcaea]`?USSMe<TfKl`AiAJgShJEkc=ut@VBtHduZ>yJZmKxbrCyCeXV:<S@ZFPYmL>ByisM^PMeejfHmh]]@[EPJyJg[TH;<Z@f<@VZ;fZ;efpgaeikosEI`vtoNNYaftk;XId=CsyTjbZ?D]jecqezT^QcJ?yXiE=Lcq>Pz`sKbrBJ;furyTS;EPLmZKAZ:Q:dd;OsSTcQZR?Y]ZBRViGV?zbZ:IyMQ[=t`@StA<S?NYt?oiCyLTf`Ks:=y=FSI]gJPg?R:HkObtQ;LOANSj;OO><?:[_BOZ:>>Fl_oT?:HjcXJSyYz_iTzJGH:XJnTfTeYPmT^ZNjt;aXz`>?E;XjdL??;ObdDDVP;t<o?Euaid:?CegkN_?U;PJNV?QKaJfiKJaQ;_]SY;R?@CB:ygcN]?E<aBOP?d;Uz_y?N@MGJkSV[J[`;?][UQfD?e[Lkfe?lyL>Ovtb;RCbV?:KYBN;KDKQW^FS?yOY`VNzI[J<wDqXKDciyE_HBvJ?:[jj`k?lKWh^L?XKUBNw?LKJcQS?L[KgkOcdKY@n`?zqCNOS?NXMb_ItVTNzassi;Yg<jti>Uf]Ytp[OsQT?cJBB?moEqTBbft^;UQd=c=_Y@mlBA:<d:rtulURvaocH=xCIS[CFT>WSM;aTAWSgHXkT^>b;b_ci>Xl<NvyguLa_UTe[lVVOTydlPjDdFt]Zmkb<pRiLC^HT^;G`Ia^RZmEjaEBch`toPNc:=_ac::ueWQK<mQkhwCGo<^ZSfVHUM@<B=a_BdFUO<x_HR]OJw;NU^B]eBj>=c]fcd]CR@`^bWbkqnKjyfcBdlSgPRTrZfRfN?CZF_Rtc:>L_Tz[Vt^BEfuQ:ZRNZJv>Dhuz[otfy>^Ju]F;;Y[ejEx`CPzqQ`RkBJHPg_ctzrFpSDoPmS=_vCFiPHLutVwIf_OPKmWuact?lc:bbC[YjMastIYbZb:dLiT<b>CAHL?KVtphjSmkdp<JEaBdlCZjuiqjb@]_LtAh[kbv:M>:_=nZ;e<=nzVp]=z<R:>SXT<M:oSSw]l`Iw:k<vFY:CfE<sesA@N@gi:>_=S`gJEaNzkySMZ:BuaSNPOd`ED`XCC:aH?PN``:d]z;S`tHGPPt<tSJe=^RgKT`BECr_P>B>:eNcbTuJmWhAvdyt@Zg:Sqxn`><sZL:De:C`M[`@O=`u:<HN_T;:@bRM`RJ_NlEk@wA^J<VzXXAC[<FUFaZa:wcG`syHzhFevyoHjfHnyoPfeZ=yoo=aTPoNoZ:zDeZvRXaTPgL]?_UOTig:bfKJur]FBaJfG@:Z>:eVOZ<=ZtRGi=n:Aa<BQ^Z=uD><Ft_cF?mzabhfnMg<TZ?:;JOEmic<kO@AZ`Re`P?KtZLCck;yN`lQtQV:reXTbXciDY><;EVP;T^KOluYtJ;NL:J?VR^tJc?X=L^N>?QCK]Fg?TTSJ:oLE_MwOyf:a@XFk>B?@aamfdCQugWtMCQtDF=jCO;NZ=^CNzT;a@CPDRi?MGuY_YqPBn>OkxD=LPiIsD<fh?wKYsNeJw@Ut?;?ta>k;J:>`OC_z`iXdZ=z`xG;B;EDG?PeJiDu`NCOyJP`XrbbmH`LeNyOC_FKNSLWyI_]U>TdID:pBWyBTCrZh`^ddr:x]CS]qgG?W?@:::Ha::ZS@::doThTsMhnDg]]PR:<mK^nESi[yQV:MayFfy:naBoGa[DBaeMDu]<Wk@eLniL]Wz:TOXR;CQHsq`Y[PECb^FKO=tcmPbtf`@Yfi[O@D:BFNmilZ[tPqg[x?^eqKNs<Du;KX?Nu;zS[?Xc:LCLfchQLlz:;fL_OP:GHSnO^`JbfMalE@tPzZA_An:L:Td:LlbOxn]Z=gOmT@;Na:lr@BkUJL`XP;]Fa_;xOmNkONZ;WOddaXP?XV?PdQhOUpVhNxOepLeOuOzC[Q<cLiB@m]TsQgc^NuB[`MKPt?S`Y_NPOZKOO?nFHuB@]MOdkHQ?XORGSsnYOrOYtPetjOUz=xOzCdKNgPWujp=zKLOU>QMNMdgGQf`iu?ws[>WEZtNU;x?Qw<R:zN;h=FpwpK[OzOQOLhOj:YqQxP[OsNH?QsZVR>qJlOVOMa:COHl<q^BpWpVQ?R:WpV`NQ:FdUCaVSwcAMtqX?OS_=uBI[>qL`Bzs[fPOOj_hHUz`QsX@vGOa:?WN@RJGUssNpHnZ?QNpFGSf_<yvj^stYk=^@V<b:<GX^PgpkdZS>VpcpO:=SX?OdGQiOUOPc;mOrhXcTINpGXhPUOoOgDsvO??YhQOOKpNlNs:pOQWOEDOf`WQ_:GpMMKr:U?L;QIOI?Sll]FA_=xQGpb^<G;hp`:AxQjOV?WaAiyfM]=Ndp`:<rNJp`GNglyphGSfadFRWQ]:cpD:F^NoOHhL^NRpDX:_OW?O`U^Ome;GJtO>p]GXdO]FbWXbOt;aWO=OxO]aIdN[;O?P@BfpNWNGP^`BpXHPvcmo^nPMOzGO>AzFCGXEPt>jWOEO=:JOU_KmpyN:fPKOmhU?QgouhQV:EpihXTm@OXhKSZ@pOWW??FyWhKUNg_KZID:qpYkDZoWa=hMHUKJnhOa^QOUhVIQQ`QhQzPuONxNJD;pOMfHk[pFxY=Prpf_PnQRqgWNzQlpujcbOwpEj^KQCpRhND]DOlxLpabpohW=ONGQVIjROPx=YMNYpUJDEPaOTxXSPPOh@KJeaRL:?JfSBcyLLDWX=`Kgc^JVpJSZj`R_@INypOGPYNop?xNUBpFZ=jJp=tspUK_xwW`TvJLOth>RoHGFyMDtcXBhSgeiperiJ=KJK=VaMD`_R;bSdJ=SQaQh`E;OqPiKISN`Sx`LDBHOT`DZKSUK:FtQHPC`]tN_q;FDp=TnC<HtXfKVd^aBXOSDLJ:e<Q[ZpIvMaoDZJyOJog:SNprmZ=jNr_@Oh>orvok>>ormFGMXc<ACIqi_:@O`f;t<>gBk]QPR:qT=xu:O=pJrOVOs?Y@mk;QWS[QJOH?TdNBOe]V[QMqe?PaMcOSLQFp<GSBFB`Sp]nMbNyu<U<Q@vOC?RSPhXWkA@`r:BnJLmiOFfgc^NofhKs[pp_nKlPGpfpSsk]OaOaBk:p[uP=K??:`X=Oxpa>]c@eOkxKpOk:Y`TRoMpt^YvO><NRHTC^:DGYoo`lTriJ:H<=OMBqgPbxLnQFGY[O^QDGcaUkebFX:ISNXGvxM]ph:^?UyP`pk>?BDGtWG;<qzGC^KbPypVEXBpxZXpRSND`XEOR_>hbKJNQW?KKR_]_htER:cL:hnSVrbOMnFJripRNJ<rw??=J:pyJKnK?aDhx=P?NKOLhW?QZG;MC:oKB<=Uy;zK@PK`_xa@PS@ufXKpW?ASchfUTosG[qHZrPpRRZuqMajs:sDUDm]EDrAOdWUTpr:LmZsDipf`JYPXFjxS=P]GtxQa=uO[WK=twhj[MBPkSqGRNOoicVPX@MOBnU@rbOFpOzO:`LgVsmghCxXmoKh?^O@pPGF`]cALG[WUmoKBNWQu]u_WEiUMBs>yHaqohhf<SOEDQsQWOe_wfK[QfOoEPmpaGlUWbOop[WSwkohM`PFp>GFfhaqjGk?XwrMGEpSxO_pwnTINZh>w^k@oSTvW@bWGaGH<rwG_EXMQDh_URO=_dNWJaqC?axJ?>qOW`PzNwGzfYjP_p]aDrPvG=p>PrzplvSYQE;pxJPf<p;eJcpGRuxQ;aMXtziSM?@v^KDrOprT=qqth@vJPr<GUvSJqPG:WPJRUh`UKVpMhJyQPr_i^^RqpiGEUNtQLhFfhaZ[LfhXFrwGUfA_lkWXnVLa;O_RFHrBWlnQ_lcW`fAqtzhBnW?<eBxvVSNyB_AVSNaOX]czd=FN:<j[QpE?_CNq:^yhwqgOUnNxNEhMWUarvoNbKIChGQWONqWXJxYio]WQvPCo[g_bOKqjhZvXyr_:PbUacuW>bMX=>OHRG@<nO??TCpXZ`hRs^HhhhVIQ[@OhIdoetgEVPrkh>^VdoI:gUaVqfp:ANcr:WZpDIaDWLWVgdAOGpQrJiW@wZw<LpsUNSrXWQEUtqb:Fo:?pbhAKRaooDbQ];qiW;x;?pH<OWMWNjGz=Pdoq:vbYgoVhLAWJp_@w^ERqSWaGRDoPOBQJ?A`W>QVsCWhUhPWO;GiZ<eP[GESM@PG`_MSqNH:rSUqQQy:tVTPmCXqcgJDCRJ`HOdGqk;_rC`orN>DnWrLIGo=:PtL<_O:itMytKqWWZMM?GLkDNrmZpKY^P:DtrQs_vcQMKN`XuR:^`axBzhHNpxC>m@yO:ZeEJWPYFknTqoD`Dmh?RmWb?NynVOS]SWpWp?rMi`UhlnYWofhQnOrPjWluUo[kx]aAwoRSbe[F^EG]?Uc<P:D?JnSUG_IXsaOWGASINpWIbONNrWzeB@^FWCVKs[zhqEWKQagSk?aCV:rTDSdCO<kha[JOig=dPruKe;Z:?FD:Gk:ZRp[FLmTJsVMPrshU]JMQYOYGQKPmGDGWVqLhfUQMrrhL]FwqTd;aBMr>xB^N`qVhSd;MoEdHuGBpqWOERfrmxSjVEQ=p;LLk=CC?`LyoXWtJWOq`h=APNbrWCjWdoDxLxVnr]ZUIQyp=tGjQUrOKUxKUqFxJrAXrvhY?MfoBWR^PMpVhtnSTm;h@hDUp[xzvNF]:WLUJ[aeGQc;coaJNZCXaxBzK<w:[xQ?ZfqTJ=OLFoioI]:S]BxbXGAq@WFhR:p`hufKFaThwhWepKODhK:rda@hJnorpuGNToeBLOSaJQLAT;>Z^xV:@uoXJurgSOH<thVUP::YZu::vqa::Dha::k>cHh=bKZpRG;RDupOO^hYyND`YvSLpretYVmr]OxYStpuxVYLC^SebjPUqKpyEXXoUpD^Ud;eGiYXcpiCCy>QrZW@hQe_@G<fK^qQxMjVPqmpnYR^obsUYV:oWxR=TfN@hWzTSpXxLORIprOZt`jpHWq=YIpZoX=W?=PiZnVYq[xGxYp;L`tpLlPJWzN@FphOnqApo[GRJa>qh`krLFSKGRrM>oMWzSR_pNdV:AB_aJ_tT_qn`mrJiPfWPdWkGB:@W^hrH`XrJNrv`KMK:ebWCtUke;cQMUedGGq^MR;WG[L_oqdD:m>oocyA:CcFx_h??DasZHZpIDhGqgUooN:QrPvP<`JBEVr:JlAKFpnhgbL=onGwuJMQJxSLUedWpHm[CavcAZn]fz_ebNfLu=JJqDcBSAZoRH[=nNe>FvsPITgqsxunY^q<u<Zo@ZHxOQOtruxrV@sFtZGIOZ;m`G?QroFOOnRJG?=mjNtQHpHUPulX=TJmMraGxAUOrAGie[vqB==zKONqg`JvDey=k:vKr_:xJyMrAG[Lf_HR:Vvgbrrx^GOQODxIfSTs_Wl=VsBGOxWYHoi=]vPJTe=DIQa:]OcGRLemP;xidpAhCULXqixthDcG==Ofb@pl?]^RLo]SqYXcqSBa^NVFv=?QJtOLhIAJ@o^JYvStQbxa`WoH_xEjJ]pP=rSaVF<SMQW`pQ=UzMbqr=XYLzBjmta?<FeJ_kDZ;J^yAJbfBgxvMHp`WKDf]fY=njJVFG=iUOcI::JkxIqqWRkoJH`WTYLI:SxKEWVFYxcyY]HrhwKeoSM=y[DvQH<cDZS[A<[n`]FS=GzO_G_@iZoFIKJIAVjNq=tBz><N^cBkN=Z^p<[mHM]bJ>]H`pSAUlrH<gQP>HyKGJvfqBWjkzoGs^k`@VpP=OGE:qY`zjRpoQ=nQOLGZ^GkxDIAD<@NwHhh;crDoW=EiWFdV^KbQoFdWqvLodu^DYTLIj=hfD;Ac^_w]iLd=Xkw`o@xF`gpEoGVGXAPPiYvW:r==^zYmpRWz;R_]Gh`@?Cbg^@w`FUe^FYKyrGxXxCz;bGNRrIN:^>ZFDI@^MzO`oQhfzSDHP^a^Qs]d^FyUppzS:rX>q``BrU^mJSgMQZ=lGW];kFP`qdQw<@t<rQkIdGZZkwQ[eddXReU`XMUOnvW[MVWqm=ltJzR[?qgRxpSCbXIvLh?VZ<xoIdCejvMfuIsIiHqDvMUKMfu@o>XIZ:e=[BNi@[Zp=Lz?asrY_M?QMVFNccMMT=]T=BCSnZYWYMRQOPiSpX_<OxQfRsHIOkITenE=F`e=][=hCSF<lRVJzbSfGmU>_GlqtlJcOv=Ucq@HthcHIJpwG_AMKNE=nZq;ImWCyOaG:hwIKsISaVyVRZJxjKT_Q_MisocNX=;sprQfuTIRt]qDjWTTUfutGSlHqDnvTTSigjlWKI^?:lK>GJoEswI;vhPjLiF`KqRkrqlxPcyuG^?y@beHz^Ft^VpzWbAOaqipHUS<rxh[UQCHt^oxORFlW_jYmrIxJfSXrC^HR=zrm^YcvkocpTd:T_px_PKMvBxg_pYqGxefX:FiMNp@VpTh]hSrpuhwOMrr>^EJrXfmGyhT`OR=MS<iT::G`aUxMfSZoihP:quqHphOX@tMh_knQQ=pPszB=iMB:xYoDM@>v`G==y^R<F<hBBwar;?vKcBQVG=ByHrB^J>pdI>GDKh;oNMZ[Y`Fx=R:uvrhM:[`:Ic:B=MepWxyfL?H@hDOVREKMwcGG]dLoq:`GPpLNwtp@pq:wP=MaozTpuppsYYOIeMtJmvMrhMNt;p<<kxNlHWMIkn]IT^;skpoO^kBpPI>hG>mNQfuuKKso;hFpNc];GQCX::CWsxJOHT^SosdGq?uQXOIaMaYSSIOMcKJxFKWC:kWHmh;a@XFi^Ioqepb^`oqSHO^EzUWFpML[X=FHOAURUOJnUotJOZ:[vR`rknnYOlGBnwUL^FPMh@V_OrMqq@_NKWot^lpe_fooWHwMVFzCHzM@>tcO_ntko?qQ=ONv`GonWNuuaF^:UOy@ipnFyKpr^VtIUo[^aJkVQLnJkn^H;WuYNcospL@OEGA?xBwEFGM<cmwI@hNvKgfSc::n`A<M:m@nGoW[nVrrO?xyYJqM=AUXfr>GUhGQqoeR_vB:ZmtglLJR:TfJl`inQ?CerALH?dZ=zK>klArMhq_meIJMg>mWIR^TfSPDY^bJ>FFyGd_yMIQMeFo>Nk:hckKpunUh?prmhp:wqGo=ZrTaPF=;STGqW^U:k_pfW:skP:LaNVLHF<=_SNBHV=yiUQG@:FsmpKn^oZkiFGBVZpstQWG]hN^yoPOZFK=n;:GoRv^HScEZ[gDZqSUY^`ZuHoq=:>mfr`xVpX_=sMc>soMmWh<agGJhN>lO>X=r_WoUnGYUT>GmPXNo>ZfGw>k_HBMPl`grUnoVxmG?MjBvTT`MBcsGOT`pGbVG;caVmWNfneByAHKxS>vEFw^rESTkXBKpRNH<pTAc=FNnkFvK_^tx^USIH<^FkypU=UP;vH[^nwneF_ND_sSQq^eGNTFkEeVtMHbF?cnLF=nj_MzH`py<nWPTxvOPIHc:AgzFDv_;R@eqAnyWTAPFGA_;:i?ptfT?IFP<jW:j[xfkF`;E:JbWOSDOu`KBgInKbP;dgEpOjJo<WGs>CoaW:]oZ=]WXbL<reOe]x@BTEGsAdIkW;_wSqaxX]yZ<PWpbYLrwEoRiZFEMa:oGkPxG]oPI@=>ELYFmETpSUIMpM]wTpPErvREN]^uwlwpEheIJ^prKNwlOoTWBUV>hiEvFx@q@OJzK>]VxrIQWJCPYIUJ<<xAc@vLAov>Hc^Ma?=gfFN^eglO>^tOeFQpNEUhSWQznENwIQSaNuDuU[EXkxpHs^GLvaRhKY_yro;Mg:xrqCOckq?FrpRgqGFQ:MnNhGG_OSbPTGaNJ;FhfaP:nRgvx_[L`IvxrSfqTvMaoxfIUMmBoLI>GHUNVGaP@<rEFMmSwwoGeEWu[@sC^j[NaGJ:kxHTD;KXNCGQWhM_kB=;GkccQHh^SSVkI`nVMSGpx^XYhN[ZtiBEkIM`z:zHPGnssq=DzERZyrF?VbVsWrqtrVoXObW[IJyHwSjZlIFmSAMQDcMn>mKIHNMFDfXGH^K]AIHp:OZtMK>GLwotOioOpPjG:xZLvlO_Mddhfry=saTrZ[EjLN^pNMW>yiGiMz>yq`kM^DJ[H<]L>s^ZRONYW>i@MYksQQ>fK<uTHOMkfJqrUprwlsqOx]QdNisMHNtMpy=k<ozGZxzeBVgf;ZhMKNbxK:rJhU=[L[vIcMP<yOqhs]VmSPM=`YYRIrh;gvy;xigvL;INfRlLTjgfFaSCHYKd@OoF]fykqeoD=Ve`TiLfjFqTGen=URmhKCJgvVdfEWEQTjGMDezkpgSP@MCFGEMYMpFl:FaYpH=MZNr:H^Mc]<ZHMMcNbjos=[zXnofEFTyWPhOl=V@q:=;YPmhdfQ_laggfj_rV=yMc=UeptfrLkPgdOwLmmfn:czLSPq_?o`IoKi:MQur=EwcFjrfxCTmhIsGOGHPgIGFpVSQ@nufW]gXn^LxeFNMmyWagk=bTpogTp_Nn^IKKfkaau::=ttnM^bURivxwmuPi>GgTvGQqMiVxUrVfYeqThQDxi`uF_^dJvKP`xfJlPiYuO:swgh^=:l>pF=SVyGoYEv:pQIv@cGIwhEWJDoaNZfs]f;ikosDsAUtGdc?rFT?CrNiHDZgwvKLoD]DpY:jWRATooK@QMQNc>f<YPKNn=dDmWPCX?Ds=pH=@wu=qO@HmzsHd=WDxCFBxRAM>FK@rZuygQnqIQmjVu:em`lyZA@sqg[Os:qSRufj]zwm=J>>;?Fc=?eTpub[;AhaZVWpfM[atoZ:?tXZ:EtiZ:?nDZ:IjewPc:<reUHhh:rANOp_^MFm?DGtWOLtr;^KFn>ht^HJvZiY`=awc^SczAONBcpmxTVgwnDgrnFBSy:CEeZoG<jDgJWXeWa^_:hONTiGkI@ruiREUKgdFyE=GMYQmGGTYbbPfCJsEP<<HURZgdUXmul`ZWwat`g?e;=K?Fa^cTxDiyKsPmgTkocAWNTzxUJwab@@[KiJIH<wPpdge^V[[k<vEB<vtoJgdNpQPJEzn=OhQMNenWHGU;la?o<UoTs;h`=CpYuHJW>Ih?<HUngvf@jfT>lsis^KZlOgDxw^O`IWcWG?hh:UG:owg=:x:oGpZUdVlqHJUrRtwhOn^zgHF:fcsw<ijUxLH[iwC>Zv]SL=oDzenQyVDmXQ`GgicKiKf>HzD;igWMS=jDoftU]iACh??xAr>>wl?AQKMMK=ENUOZsFqfn?:<FqMhk>pFpE=wbU=iKU;wusj<UwJqOZrnyA?gr_vnPqyjvUqcsnibG;WX[oIfWnQhG=EjAQ[GNfVbSwpY=;wmmrgfyULEi[hcJq<oKE^vXgG=Uaes]oP]DERQQchaEK`hB=mVw?g?EcPm=F_hNDHDoTp;enyiqfP[TSepfJelYo`UB<nKhR:pUTDI]^zFuDruvh_vrKMhAUJuhhM_VNeqiU_RCihzMsHoUdhfvLlqj=MkNxqhAfCfKs]aTNXtTqIG_orTrqhoms`HnEOayuozXGGGuq>vxnJ@pWWtimIPLvOikfj@MKpY_h]^[LnDjOKiaQO?`EaUPAHUEDcxEgTfAFyThJvZXu:g`lWit[psZxUTI`GhSXkehzWvUPbiyGE]sgo@EpAKeF>OEHzApP=RvJyh>v<TlwILWE@uujtv]aGlH]OevTTUaogATCFvhfGD>FJmQelUjfvwiwriTvJBnGhdnONWXo@vOnTAFsMLyt>htZnvNriYhjLnypnx?ylOFrMJKRZiuGNALeHvvUyraFGG=wcbFRWhUWrjRW<kErhsWGXqvi^GFkt;p_W;a;KqvhnHx[QXnNG>lqXUCVTloIfAAYSIVWnnK;;rOL]lYDN:[]<Z<aENbXdQNAV:EJVXn=;uRjjvT]y@A`lYTtLoVAjsGhithKytZW>Oc;mk:Jm[Bzei[nhnKlrrhTA]ZgoowkkEi_vJira;Apr@na:<AddgojYKzNVYhfvm[qYj>OQ]nKOl^LxP^NVxpdaT`=f<kjQb`MtmsqrUnGZ<S:Rc_kBMQh=eeqcWP[y[pUHtKOcRbF`vhPm?h[f^iqcY;KVjQyiFpCqlBXhhhXlqp?UWoOcYQK@uyahGEVKzVMxKiulojmZieDi=KsIwErpOhzjNTrEEyyWGZ`A`uxjrCMLou`FSSe]AHUrG`EMRjsZ>y<Z<@vyPsdjmGNfQ?jWa];tgcRhhTzbIxWW:zg;:::".charCodeAt(o++))?F-59:F-58),O|=(0<(F&(h/=2))?1:0)<<B,++B}for(var J,O,B,N,F,G=[],c=1,K=3,D=1,a=[],h=0,o=0;;){if(Z(D+1),2==O)return a.join("");-2&(N=O)||(Z(8*O+8),G[N=K++]=String.fromCharCode(O),--c||(c=2<<D++)),a.push(N=G[N]||J+J[0]),J&&(G[K++]=J+N[0],--c||(c=2<<D++)),J=N}}());
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, n, i) {
+    return new(n || (n = Promise))(function(a, o) {
+        function r(t) {
+            try {
+                c(i.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function s(t) {
+            try {
+                c(i["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function c(t) {
+            t.done ? a(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(r, s)
+        }
+        c((i = i.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return i([t, e])
+        }
+    }
+    function i(n) {
+        if (a) throw new TypeError("Generator is already executing.");
+        for (; c;) try {
+            if (a = 1, o && (r = o[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(r = r.call(o, n[1])).done) return r;
+            switch (o = 0, r && (n = [0, r.value]), n[0]) {
+            case 0:
+            case 1:
+                r = n;
+                break;
+            case 4:
+                return c.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                c.label++,
+                o = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = c.ops.pop(),
+                c.trys.pop();
+                continue;
+            default:
+                if (r = c.trys, !(r = r.length > 0 && r[r.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    c = 0;
+                    continue
+                }
+                if (3 === n[0] && (!r || n[1] > r[0] && n[1] < r[3])) {
+                    c.label = n[1];
+                    break
+                }
+                if (6 === n[0] && c.label < r[1]) {
+                    c.label = r[1],
+                    r = n;
+                    break
+                }
+                if (r && c.label < r[2]) {
+                    c.label = r[2],
+                    c.ops.push(n);
+                    break
+                }
+                r[2] && c.ops.pop(),
+                c.trys.pop();
+                continue
+            }
+            n = e.call(t, c)
+        } catch(i) {
+            n = [6, i],
+            o = 0
+        } finally {
+            a = r = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var a, o, r, s, c = {
+        label: 0,
+        sent: function() {
+            if (1 & r[0]) throw r[1];
+            return r[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n(t) {
+            var n = e.call(this) || this;
+            return n.initPet = 0,
+            n.arrAssets = {},
+            n.initPet = t,
+            n.Init(),
+            n.addEvent(),
+            n
+        }
+        return __extends(n, e),
+        n.prototype.Init = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return SocketConnection.sendWithCallback(41804,
+                        function(t) {
+                            n.rollAllTime = t.data.readUnsignedInt()
+                        },
+                        [0, 10]),
+                        [4, this.getInfo()];
+                    case 1:
+                        return t.sent(),
+                        this.LoadImg(),
+                        this.init([{
+                            panelName: "advancedPetBackStore.MainPanel",
+                            isMain: !0
+                        },
+                        {
+                            panelName: "advancedPetBackStore.DetailPanel"
+                        }]),
+                        [2]
+                    }
+                })
+            })
+        },
+        n.prototype.LoadImg = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, e, i, a, o, r, s = this;
+                return __generator(this,
+                function(c) {
+                    switch (c.label) {
+                    case 0:
+                        LoadingManager.instance.showloading("正在加载资源，请稍候！"),
+                        t = 0,
+                        e = n.taskId2petId.getKeys(),
+                        c.label = 1;
+                    case 1:
+                        return t < e.length ? (i = e[t], [4, RES.getResByUrl(ClientConfig.getPetAdvBackPath(i) + ("compBg_" + i + ".png"),
+                        function(t, e) {
+                            s.arrAssets[e] = 1
+                        })]) : [3, 9];
+                    case 2:
+                        c.sent(),
+                        a = n.petAdvCompName.getValue(i).length,
+                        o = 1,
+                        c.label = 3;
+                    case 3:
+                        return a >= o ? [4, RES.getResByUrl(ClientConfig.getPetAdvBackPath(i) + ("comp_" + i + "_" + o + ".png"),
+                        function(t, e) {
+                            s.arrAssets[e] = 1
+                        })] : [3, 6];
+                    case 4:
+                        c.sent(),
+                        c.label = 5;
+                    case 5:
+                        return o++,
+                        [3, 3];
+                    case 6:
+                        return r = n.taskId2petId.getValue(i),
+                        [4, RES.getResByUrl(ClientConfig.getPetAdvBackPath(i) + ("pet_" + r + ".png"),
+                        function(t, e) {
+                            s.arrAssets[e] = 1
+                        })];
+                    case 7:
+                        c.sent(),
+                        c.label = 8;
+                    case 8:
+                        return t++,
+                        [3, 1];
+                    case 9:
+                        return LoadingManager.instance.hideloading(),
+                        [2]
+                    }
+                })
+            })
+        },
+        n.prototype.initialized = function() {
+            var t = this;
+            this.service.updateValues().then(function() {
+                if (0 != t.initPet && n.petAdvInfos.containsKey(t.initPet)) {
+                    var e = n.taskId2petId.getKey(t.initPet);
+                    t.service.openPanel("advancedPetBackStore.DetailPanel", {
+                        petId: t.initPet,
+                        allProgress: PetAdvanceXMLInfo.getTaskInfo(e).AllProgress,
+                        progress: n.petAdvInfos.getValue(t.initPet).curProgress,
+                        taskId: e
+                    }),
+                    t.initPet = 0
+                } else t.openPanel("advancedPetBackStore.MainPanel")
+            })
+        },
+        n.prototype.getInfo = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, e, i, a, o, r, s;
+                return __generator(this,
+                function(c) {
+                    switch (c.label) {
+                    case 0:
+                        for (t = PetAdvanceXMLInfo.getAllBackInfo(), n.lastDate = new Date(t[0].desc.split("|")[1]), e = 0; e < t.length; e++) n.taskId2petId.add(t[e].TaskId, t[e].MonsterId);
+                        for (i = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("advancedPetPanelConfig")).root.Task, a = 0; a < t.length; a++) o = t[a].ID - 1,
+                        r = i[o].Compone.Name,
+                        s = r.split("|"),
+                        n.petAdvCompName.add(Number(i[o].ID), s),
+                        n.petAdvH5Jump2Get.add(Number(i[o].ID), i[o].JumpH5),
+                        n.petAdvFlashJump2Get.add(Number(i[o].ID), i[o].Jump);
+                        return [4, this.updateAdvInfos()];
+                    case 1:
+                        return c.sent(),
+                        [2]
+                    }
+                })
+            })
+        },
+        n.prototype.updateAdvInfos = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, e, i, a, o, r;
+                return __generator(this,
+                function(s) {
+                    switch (s.label) {
+                    case 0:
+                        t = PetAdvanceXMLInfo.getAllBackInfo(),
+                        e = 0,
+                        s.label = 1;
+                    case 1:
+                        return e < t.length ? [4, SocketConnection.sendWithPromise(41803, [t[e].TaskId, 7])] : [3, 4];
+                    case 2:
+                        i = s.sent(),
+                        a = i.data,
+                        o = a.readUnsignedInt(),
+                        r = a.readUnsignedInt(),
+                        n.petAdvInfos.add(t[e].MonsterId, {
+                            curProgress: o,
+                            ct: r
+                        }),
+                        s.label = 3;
+                    case 3:
+                        return e++,
+                        [3, 1];
+                    case 4:
+                        return [2]
+                    }
+                })
+            })
+        },
+        n.prototype.addEvent = function() {
+            var e = this;
+            EventManager.addEventListener(n.OpenDetail,
+            function(t) {
+                e.service.openPanel("advancedPetBackStore.DetailPanel", t.data)
+            },
+            this),
+            EventManager.addEventListener(n.RefreshStore,
+            function(i) {
+                return __awaiter(e, void 0, void 0,
+                function() {
+                    var e, a;
+                    return __generator(this,
+                    function(o) {
+                        switch (o.label) {
+                        case 0:
+                            return e = i.data,
+                            [4, this.updateAdvInfos()];
+                        case 1:
+                            return o.sent(),
+                            EventManager.dispatchEventWith(n.RefreshPanel),
+                            e && (a = new t.HighlightPop(e), PopViewManager.getInstance().openView(a)),
+                            [2]
+                        }
+                    })
+                })
+            },
+            this)
+        },
+        n.prototype.destroy = function() {
+            EventManager.removeAll(this);
+            for (var t in this.arrAssets) RES.destroyRes(t) || console.warn("销毁动态素材资源失败：" + t);
+            this.arrAssets = {},
+            e.prototype.destroy.call(this)
+        },
+        n.OpenDetail = "AdvancedPetBackStore.OpenDetail",
+        n.RefreshStore = "AdvancedPetBackStore.RefreshStore",
+        n.RefreshPanel = "AdvancedPetBackStore.RefreshPanel",
+        n.RefreshGoods = "AdvancedPetBackStore.RefreshGoods",
+        n.rollAllTime = 0,
+        n.petAdvInfos = new HashMap,
+        n.petAdvCompName = new HashMap,
+        n.taskId2petId = new HashMap,
+        n.petAdvH5Jump2Get = new HashMap,
+        n.petAdvFlashJump2Get = new HashMap,
+        n
+    } (BasicMultPanelModule);
+    t.AdvancedPetBackStore = e,
+    __reflect(e.prototype, "advancedPetBackStore.AdvancedPetBackStore")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n(t) {
+            var n = e.call(this) || this;
+            return n.coinBCnt = 0,
+            n.skinName = "AdvancedPetBackStoreBuyCoinPop",
+            n.service = t,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.adaptRightContent(this.grpRight, 75),
+            this.addEvent(),
+            this.onItemChange(),
+            this.service.registerItems(1724859,
+            function() {
+                t.onItemChange()
+            },
+            this)
+        },
+        n.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                t.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.btnGoto1,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "获取途径界面-点击【VIP每月礼包】按钮"),
+                ModuleManager.showModuleByID(137, 2).then(function() {
+                    PopViewManager.getInstance().hideAll()
+                })
+            },
+            this, !1),
+            ImageButtonUtil.add(this.btnGoto2,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "获取途径界面-点击【VIP专属特惠】按钮"),
+                Alarm.show("赛尔号互通版《巅峰之战》暂未开启该功能\n请前往网页版体验")
+            },
+            this, !1),
+            ImageButtonUtil.add(this.btnBuy,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "获取途径界面-点击【直接购买】按钮"),
+                t.buyCoin()
+            },
+            this, !1),
+            ImageButtonUtil.add(this.btnBuyCoin,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "获取途径界面-点击【直接购买】按钮"),
+                t.buyCoin()
+            },
+            this)
+        },
+        n.prototype.onItemChange = function(t) {
+            void 0 === t && (t = null),
+            this.coinBCnt = ItemManager.getNumByID(1724859),
+            this.txtCoin.text = this.coinBCnt.toString()
+        },
+        n.prototype.buyCoin = function() {
+            var t = this;
+            if (PayManager.canPay()) {
+                var e = {};
+                e.type = "product_diamond",
+                e.ins = {
+                    iconID: 13,
+                    productID: 260409
+                },
+                e.caller = this,
+                e.callBack = function(e, n) {
+                    KTool.buyProductByCallback(260409, n,
+                    function() {
+                        KTool.doExchange(14208, n,
+                        function() {
+                            t.onItemChange()
+                        })
+                    })
+                },
+                ModuleManager.showModuleByID(1, e)
+            } else Alarm.show("赛尔号互通版《巅峰之战》暂未开启该功能\n请前往网页版体验")
+        },
+        n.prototype.adaptRightContent = function(t, e) {
+            void 0 === e && (e = 0),
+            this.parent.addChild(t),
+            t.right = e,
+            t.top = 24
+        },
+        n.prototype.hide = function() {
+            this.grpRight.visible = !1,
+            DisplayUtil.removeForParent(this.grpRight);
+            var n = new t.StorePop(this.service);
+            PopViewManager.getInstance().openView(n, {
+                useStageBg: !1,
+                maskBgStyle: null,
+                maskShapeStyle: {
+                    maskAlpha: .85,
+                    maskColor: 0
+                },
+                effStyle: {
+                    showAniType: PopEffStyle.CENTER,
+                    isMoveToCenter: !1,
+                    horizontalCenterOffset: 0,
+                    verticalCenterOffset: 0,
+                    relativeToPoint: null
+                }
+            }),
+            e.prototype.hide.call(this)
+        },
+        n
+    } (PopView);
+    t.BuyCoinPop = e,
+    __reflect(e.prototype, "advancedPetBackStore.BuyCoinPop")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, n, i) {
+    return new(n || (n = Promise))(function(a, o) {
+        function r(t) {
+            try {
+                c(i.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function s(t) {
+            try {
+                c(i["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function c(t) {
+            t.done ? a(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(r, s)
+        }
+        c((i = i.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return i([t, e])
+        }
+    }
+    function i(n) {
+        if (a) throw new TypeError("Generator is already executing.");
+        for (; c;) try {
+            if (a = 1, o && (r = o[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(r = r.call(o, n[1])).done) return r;
+            switch (o = 0, r && (n = [0, r.value]), n[0]) {
+            case 0:
+            case 1:
+                r = n;
+                break;
+            case 4:
+                return c.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                c.label++,
+                o = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = c.ops.pop(),
+                c.trys.pop();
+                continue;
+            default:
+                if (r = c.trys, !(r = r.length > 0 && r[r.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    c = 0;
+                    continue
+                }
+                if (3 === n[0] && (!r || n[1] > r[0] && n[1] < r[3])) {
+                    c.label = n[1];
+                    break
+                }
+                if (6 === n[0] && c.label < r[1]) {
+                    c.label = r[1],
+                    r = n;
+                    break
+                }
+                if (r && c.label < r[2]) {
+                    c.label = r[2],
+                    c.ops.push(n);
+                    break
+                }
+                r[2] && c.ops.pop(),
+                c.trys.pop();
+                continue
+            }
+            n = e.call(t, c)
+        } catch(i) {
+            n = [6, i],
+            o = 0
+        } finally {
+            a = r = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var a, o, r, s, c = {
+        label: 0,
+        sent: function() {
+            if (1 & r[0]) throw r[1];
+            return r[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n(t) {
+            var n = e.call(this) || this;
+            return n.PosX4Arr = [ - 430, -240, 197, 365],
+            n.PosY4Arr = [324, 370, 370, 324],
+            n.PosX5Arr = [ - 430, -240, -17, 197, 365],
+            n.PosY5Arr = [324, 370, 370, 370, 324],
+            n.skinName = "AdvancedPetBackStoreDetailPanelSkin",
+            n
+        }
+        return __extends(n, e),
+        n.prototype.beforeAdd = function(t) {
+            t && (this.data = t),
+            EventManager.dispatchEventWith("hideActivityCenterLeft"),
+            this.initPanel()
+        },
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.init(),
+            this.adaptBgByScale(this.imgBg)
+        },
+        n.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnPetInfo,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "精灵界面-点击【进阶详情】按钮"),
+                ModuleManager.showModuleByID(262, {
+                    type: "pet",
+                    data: e.data.petId,
+                    isNeedShowAdv: !0
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnToBuy,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "精灵界面-点击下方【前往获得】按钮");
+                var n = new t.StorePop(e.service);
+                PopViewManager.getInstance().openView(n, {
+                    useStageBg: !1,
+                    maskBgStyle: null,
+                    maskShapeStyle: {
+                        maskAlpha: .85,
+                        maskColor: 0
+                    },
+                    effStyle: {
+                        showAniType: PopEffStyle.CENTER,
+                        isMoveToCenter: !1,
+                        horizontalCenterOffset: 0,
+                        verticalCenterOffset: 0,
+                        relativeToPoint: null
+                    }
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnStore,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "精灵界面-点击【商城】按钮");
+                var n = new t.StorePop(e.service);
+                PopViewManager.getInstance().openView(n, {
+                    useStageBg: !1,
+                    maskBgStyle: null,
+                    maskShapeStyle: {
+                        maskAlpha: .85,
+                        maskColor: 0
+                    },
+                    effStyle: {
+                        showAniType: PopEffStyle.CENTER,
+                        isMoveToCenter: !1,
+                        horizontalCenterOffset: 0,
+                        verticalCenterOffset: 0,
+                        relativeToPoint: null
+                    }
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnStartAdv,
+            function() {
+                PetManager.updateBagInfo(function() {
+                    if (!PetManager.isDefaultPet(e.data.petId)) {
+                        StatLogger.log("2023运营活动", "神谕进阶返场", "精灵界面-点击【开始进阶】时首发不对"),
+                        StatLogger.log("运营活动2024", "神谕进阶返场增加两件套购买", "首发不对触发提示弹窗");
+                        var n = "请将<font color='#ff0000'>" + PetXMLInfo.getName(e.data.petId) + "</font>放于背包首发位置";
+                        return void Alarm.show(n,
+                        function() {
+                            e.service.showPetBag()
+                        })
+                    }
+                    PetManager.checkPetInfoEffect(PetManager.infos[0],
+                    function(n) {
+                        return n && 0 != PetManager.infos[0].effectCount && PetManager.infos[0].hideSKill ? void SocketConnection.sendByQueue(41803, [e.data.taskId, 6],
+                        function() {
+                            EventManager.dispatchEventWith(t.AdvancedPetBackStore.RefreshStore);
+                            var n = "经过你们的努力<font color='#ff0000'>" + PetXMLInfo.getName(e.data.petId) + "</font>已完成进阶！可以前往背包查看进阶效果！";
+                            Alert.show(n,
+                            function() {
+                                return __awaiter(e, void 0, void 0,
+                                function() {
+                                    return __generator(this,
+                                    function(t) {
+                                        switch (t.label) {
+                                        case 0:
+                                            return this.service.backToMainPanel(),
+                                            EventManager.dispatchEventWith("showActivityCenterLeft"),
+                                            [4, wait(50)];
+                                        case 1:
+                                            return t.sent(),
+                                            this.service.showPetBag(),
+                                            [2]
+                                        }
+                                    })
+                                })
+                            },
+                            function() {
+                                e.service.backToMainPanel(),
+                                EventManager.dispatchEventWith("showActivityCenterLeft")
+                            })
+                        }) : void e.Try2GetPet()
+                    },
+                    e)
+                })
+            },
+            this),
+            EventManager.addEventListener(t.AdvancedPetBackStore.RefreshPanel, this.initPanel, this),
+            ImageButtonUtil.add(this.btnPetBag,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                e.Try2GetPet2()
+            },
+            this)
+        },
+        n.prototype.init = function() {
+            var t = this;
+            e.prototype.initBtnClose.call(this, "jinjiexiangqing_png", this,
+            function() {
+                t.service.backToMainPanel(),
+                EventManager.dispatchEventWith("showActivityCenterLeft")
+            },
+            this)
+        },
+        n.prototype.initPanel = function(e) {
+            var n = this;
+            if (this.imgBg.source = "detail_panel_bg_" + this.data.taskId + "_png", this.adaptBgByScale(this.imgBg), this.data.progress = t.AdvancedPetBackStore.petAdvInfos.getValue(this.data.petId).curProgress, this.data.progress < 0) DisplayUtil.setEnabled(this.btnStartAdv, !1),
+            this.btnStartAdv.visible = !0,
+            this.grpBuyComp.visible = !1;
+            else if (this.data.progress == this.data.allProgress) if (null != e) DisplayUtil.setEnabled(this.btnStartAdv, !0),
+            this.btnStartAdv.visible = !0,
+            this.grpBuyComp.visible = !1;
+            else {
+                4 == this.data.progress ? null == this.jinjieAnim && (this.jinjieAnim = SpineUtil.createAnimate("hakensa_shenyufanchang4"), this.grpAnim.addChild(this.jinjieAnim), this.jinjieAnim.x = -14, this.jinjieAnim.y = 39) : 5 == this.data.progress && null == this.jinjieAnim2 && (this.jinjieAnim2 = SpineUtil.createAnimate("hakensa_shenyufanchang"), this.grpAnim.addChild(this.jinjieAnim2), this.jinjieAnim2.x = -14, this.jinjieAnim2.y = 39),
+                this.grpBuyComp.visible = !1,
+                this.btnStartAdv.visible = !1,
+                this.grpAnim.visible = !0,
+                MainManager.stage.touchEnabled = MainManager.stage.touchChildren = !1;
+                var i = (4 == this.data.progress, "hebing"),
+                a = 4 == this.data.progress ? "jinjieAnim": "jinjieAnim2";
+                this.jinjieAnim && (this.jinjieAnim.visible = !1),
+                this.jinjieAnim2 && (this.jinjieAnim2.visible = !1),
+                this[a].visible = !0,
+                this[a].play(i, 1, 0, {
+                    playEnd: function() {
+                        DisplayUtil.setEnabled(n.btnStartAdv, !0),
+                        n.btnStartAdv.visible = !0,
+                        n.grpBuyComp.visible = !1,
+                        n.grpAnim.visible = !1,
+                        MainManager.stage.touchEnabled = MainManager.stage.touchChildren = !0
+                    }
+                })
+            } else this.btnStartAdv.visible = !1,
+            this.grpBuyComp.visible = !0;
+            if (DisplayUtil.removeAllChild(this.grpComps), 4 == this.data.allProgress) for (var o = 1; o <= this.data.allProgress; o++) {
+                var r = new t.AdvancedPetBackCompItem;
+                r.setData(this.data.taskId, o, o <= t.AdvancedPetBackStore.petAdvInfos.getValue(this.data.petId).curProgress),
+                this.grpComps.addChild(r),
+                r.horizontalCenter = this.PosX4Arr[o - 1],
+                r.y = this.PosY4Arr[o - 1]
+            } else if (5 == this.data.allProgress) for (var o = 1; o <= this.data.allProgress; o++) {
+                var r = new t.AdvancedPetBackCompItem;
+                r.setData(this.data.taskId, o, o <= t.AdvancedPetBackStore.petAdvInfos.getValue(this.data.petId).curProgress),
+                this.grpComps.addChild(r),
+                r.horizontalCenter = this.PosX5Arr[o - 1],
+                r.y = this.PosY5Arr[o - 1]
+            }
+        },
+        n.prototype.destroy = function() {
+            EventManager.removeEventListener(t.AdvancedPetBackStore.RefreshPanel, this.initPanel, this),
+            e.prototype.destroy.call(this)
+        },
+        n.prototype.Try2GetPet = function() {
+            var e = new t.NecessaryPop(this.data.petId);
+            this.service.openPop(e)
+        },
+        n.prototype.Try2GetPet2 = function() {
+            var e = t.AdvancedPetBackStore.petAdvH5Jump2Get.getValue(this.data.taskId),
+            n = t.AdvancedPetBackStore.petAdvFlashJump2Get.getValue(this.data.taskId);
+            if (e) if ("yinzi" == e) ModuleManager.showModuleByID(15, {
+                type: "7",
+                petId: "" + this.data.petId
+            });
+            else {
+                var i = 0;
+                i = Number(e),
+                ModuleManager.showModuleByID(i)
+            } else n ? Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得") : (IS_RELEASE || console.warn("页游也没有获得途径！"), Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得"))
+        },
+        n
+    } (BasicPanel);
+    t.DetailPanel = e,
+    __reflect(e.prototype, "advancedPetBackStore.DetailPanel")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n(t) {
+            var n = e.call(this) || this;
+            return n.skinName = "AdvancedPetBackStoreHighlightSkin",
+            n.taskId = Number(t),
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var n = this;
+            e.prototype.childrenCreated.call(this);
+            var i = PetAdvanceXMLInfo.getTaskInfo(this.taskId),
+            a = i.AllProgress,
+            o = i.Advances.MonsterId,
+            r = t.AdvancedPetBackStore.petAdvInfos.getValue(o).curProgress;
+            this.appearAnim = SpineUtil.createAnimate(5 == a ? "mark5": "mark"),
+            this.grpAnim.addChild(this.appearAnim),
+            this.appearAnim.visible = !1,
+            this.bg.width = egret.lifecycle.stage.stageWidth;
+            for (var s = 0; 5 > s; s++) a - 1 > s || DisplayUtil.removeForParent(this["star_" + s]);
+            MainManager.stage.touchEnabled = MainManager.stage.touchChildren = !1,
+            egret.setTimeout(function() {
+                n.appearAnim.visible = !0,
+                n.appearAnim.play("jindu" + r, 1, 0, {
+                    playEnd: function() {
+                        MainManager.stage.touchEnabled = MainManager.stage.touchChildren = !0
+                    }
+                })
+            },
+            this, 200),
+            r == a ? (ImageButtonUtil.add(this.btnGoTo,
+            function() {
+                n.hide(),
+                EventManager.dispatchEventWith(t.AdvancedPetBackStore.OpenDetail, !0, {
+                    petId: o,
+                    allProgress: a,
+                    progress: r,
+                    taskId: n.taskId
+                })
+            },
+            this), this.btnGoTo.visible = !1, egret.setTimeout(function() {
+                n.appearAnim.visible = !0,
+                MainManager.stage.touchEnabled = MainManager.stage.touchChildren = !1,
+                n.appearAnim.play("jindu" + (a + 1), 1, 0, {
+                    playEnd: function() {
+                        MainManager.stage.touchEnabled = MainManager.stage.touchChildren = !0,
+                        n.btnGoTo.visible = !0,
+                        n.appearAnim.visible = !1
+                    }
+                })
+            },
+            this, 440)) : this.btnGoTo.visible = !1,
+            this.tips.touchEnabled = !1,
+            this.title.touchEnabled = !1,
+            this.title.pixelHitTest = !0,
+            this.imgPet.source = ClientConfig.getPetAdvBackPath(this.taskId) + ("pet_" + o + ".png")
+        },
+        n
+    } (PopView);
+    t.HighlightPop = e,
+    __reflect(e.prototype, "advancedPetBackStore.HighlightPop")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.skinName = "AdvancedPetBackStoreEnterPanelSkin",
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.update(),
+            this.adaptBgByScale(this.bg);
+            var n = t.AdvancedPetBackStore.lastDate.getTime() - SystemTimerManager.sysDate.getTime();
+            n = n / 60 / 60 / 24 / 1e3,
+            n = Math.ceil(n),
+            this.txtRestDay.textFlow = [{
+                text: "本期剩余时间",
+                style: {
+                    textColor: 14515020
+                }
+            },
+            {
+                text: n.toString(),
+                style: {
+                    textColor: 16758856
+                }
+            },
+            {
+                text: "天",
+                style: {
+                    textColor: 14515020
+                }
+            }]
+        },
+        n.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnStore,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "主界面-点击【商城】按钮");
+                var n = new t.StorePop(e.service);
+                PopViewManager.getInstance().openView(n, {
+                    useStageBg: !1,
+                    maskBgStyle: null,
+                    maskShapeStyle: {
+                        maskAlpha: .85,
+                        maskColor: 0
+                    },
+                    effStyle: {
+                        showAniType: PopEffStyle.CENTER,
+                        isMoveToCenter: !1,
+                        horizontalCenterOffset: 0,
+                        verticalCenterOffset: 0,
+                        relativeToPoint: null
+                    }
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnTips,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "主界面-点击查看【规则说明】"),
+                tipsPop.TipsPop.openHelpPopById(171)
+            },
+            this),
+            EventManager.addEventListener(t.AdvancedPetBackStore.RefreshPanel, this.update, this)
+        },
+        n.prototype.update = function(e) {
+            this.enterBtns = new eui.ArrayCollection,
+            this._list.itemRenderer = t.AdvancedPetBackStoreEnterBtn,
+            this._list.dataProvider = this.enterBtns;
+            for (var n = [], i = PetAdvanceXMLInfo.getAllBackInfo(), a = 0; a < i.length; a++) {
+                var o = PetAdvanceXMLInfo.getTaskInfo(i[a].TaskId),
+                r = i[a],
+                s = t.AdvancedPetBackStore.petAdvInfos.getValue(i[a].MonsterId);
+                n.push({
+                    taskId: r.TaskId,
+                    petId: r.MonsterId,
+                    allProgress: o.AllProgress,
+                    progress: s.ct > 0 ? -1 : s.curProgress
+                })
+            }
+            this.enterBtns.replaceAll(n)
+        },
+        n.prototype.destroy = function() {
+            EventManager.removeEventListener(t.AdvancedPetBackStore.RefreshPanel, this.update, this),
+            e.prototype.destroy.call(this)
+        },
+        n
+    } (BasicPanel);
+    t.MainPanel = e,
+    __reflect(e.prototype, "advancedPetBackStore.MainPanel")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n(t) {
+            var n = e.call(this) || this;
+            return n.skinName = "AdvancedpetbackNecessaryPopSkin",
+            n.petId = t,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.taskId = t.AdvancedPetBackStore.taskId2petId.getKey(this.petId),
+            this.moduleStr = t.AdvancedPetBackStore.petAdvH5Jump2Get.getValue(this.taskId);
+            var n = t.AdvancedPetBackStore.petAdvFlashJump2Get.getValue(this.taskId);
+            this.moduleStr || n ? this.goBtn.visible = !0 : this.goBtn.visible = !1,
+            this.addEvent(),
+            this.checkState(),
+            this["init_" + this.petId]()
+        },
+        n.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.close,
+            function() {
+                t.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.goBtn,
+            function() {
+                if (StatLogger.log("运营活动2024", "神谕进阶返场增加两件套购买", "提示弹窗-点击免费【前往获得】"), t.moduleStr) {
+                    if ("yinzi" == t.moduleStr) ModuleManager.showModuleByID(15, {
+                        type: "7",
+                        petId: "" + t.petId
+                    });
+                    else {
+                        var e = 0;
+                        e = Number(t.moduleStr),
+                        ModuleManager.showModuleByID(e)
+                    }
+                    t.hide()
+                } else Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得")
+            },
+            this),
+            ImageButtonUtil.add(this.oneKeyFif,
+            function() {
+                PayManager.canPay() ? t["buyFif_" + t.petId]() : Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得"),
+                StatLogger.log("运营活动2024", "神谕进阶返场增加两件套购买", "提示弹窗-点击【一键购买】")
+            },
+            this, !1),
+            ImageButtonUtil.add(this.oneKeyEff,
+            function() {
+                PayManager.canPay() ? t["buyEff_" + t.petId]() : Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得"),
+                StatLogger.log("运营活动2024", "神谕进阶返场增加两件套购买", "提示弹窗-点击【一键购买】")
+            },
+            this, !1)
+        },
+        n.prototype.checkState = function() {
+            var t = PetManager.getPetInfo(PetManager.defaultTime);
+            this.condition_effect = t.effectCount > 0,
+            this.condition_fifthSkill = !0;
+            var e = SkillXMLInfo.getAllHideSkills(this.petId);
+            return e.length > 0 && 0 != e[0] && (this.condition_fifthSkill = null != t.hideSKill),
+            this.condition_effect || this.condition_fifthSkill ? this.condition_effect ? this.condition_fifthSkill ? void 0 : (this.effMc.visible = !1, void(this.fifMc.x = 306)) : (this.fifMc.visible = !1, void(this.effMc.x = 306)) : (this.fifMc.x = 156, void(this.effMc.x = 466))
+        },
+        n.prototype.init_3704 = function() {
+            this.goBtn.visible = !1
+        },
+        n.prototype.buyEff_3704 = function() {
+            var t = this;
+            KTool.getBitSet([9319],
+            function(e) {
+                1 == e[0] ? Alarm.show("已有同名精灵进行过能力提升\n请检查背包首发精灵是否正确") : KTool.buyProductByCallback(260538, 1,
+                function() {
+                    SocketConnection.sendByQueue(41950, [38, 1],
+                    function() {
+                        BubblerManager.getInstance().showText(PetXMLInfo.getName(3704) + "已成功获得专属特性"),
+                        PetManager.upDateBagPetInfo(PetManager.defaultTime,
+                        function() {
+                            t.condition_effect || t.condition_fifthSkill ? t.hide() : t.checkState()
+                        })
+                    })
+                })
+            })
+        },
+        n.prototype.buyFif_3704 = function() {
+            var t = this;
+            KTool.getBitSet([9320],
+            function(e) {
+                1 == e[0] ? Alarm.show("已有同名精灵进行过能力提升\n请检查背包首发精灵是否正确") : KTool.buyProductByCallback(260539, 1,
+                function() {
+                    SocketConnection.sendByQueue(41950, [38, 2],
+                    function() {
+                        BubblerManager.getInstance().showText(PetXMLInfo.getName(3704) + "已成功获得第五技能"),
+                        PetManager.upDateBagPetInfo(PetManager.defaultTime,
+                        function() {
+                            t.condition_effect || t.condition_fifthSkill ? t.hide() : t.checkState()
+                        })
+                    })
+                })
+            })
+        },
+        n.prototype.init_3670 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3670 = function() {},
+        n.prototype.buyEff_3670 = function() {},
+        n.prototype.init_3388 = function() {},
+        n.prototype.buyFif_3388 = function() {
+            this.buy_3388()
+        },
+        n.prototype.buyEff_3388 = function() {
+            this.buy_3388()
+        },
+        n.prototype.buy_3388 = function() {
+            var t = this;
+            KTool.getMultiValue([6879],
+            function(e) {
+                1 == KTool.getBit(e[0], 2) ? Alarm.show("已有同名精灵进行过能力提升\n请检查背包首发精灵是否正确") : KTool.buyProductByCallback(250583, 1,
+                function() {
+                    SocketConnection.sendByQueue(43258, [6, 1],
+                    function() {
+                        PetManager.upDateBagPetInfo(PetManager.defaultTime,
+                        function() {
+                            t.hide()
+                        }),
+                        BubblerManager.getInstance().showText(PetXMLInfo.getName(3388) + "已成功获得第五技能和专属特性")
+                    })
+                })
+            })
+        },
+        n.prototype.init_3514 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3514 = function() {},
+        n.prototype.buyEff_3514 = function() {},
+        n.prototype.init_3507 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3507 = function() {},
+        n.prototype.buyEff_3507 = function() {},
+        n.prototype.init_3954 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3954 = function() {},
+        n.prototype.buyEff_3954 = function() {},
+        n.prototype.init_3724 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3724 = function() {},
+        n.prototype.buyEff_3724 = function() {},
+        n.prototype.init_3716 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3716 = function() {},
+        n.prototype.buyEff_3716 = function() {},
+        n.prototype.init_3705 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3705 = function() {},
+        n.prototype.buyEff_3705 = function() {},
+        n
+    } (PopView);
+    t.NecessaryPop = e,
+    __reflect(e.prototype, "advancedPetBackStore.NecessaryPop")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n(t) {
+            var n = e.call(this) || this;
+            return n.coinBCnt = 0,
+            n.skinName = "AdvancedPetBackStoreMainSkin",
+            n.service = t,
+            n
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.adaptRightContent(this.grpRight, 75),
+            this.init(),
+            KTool.getMultiValue([123350],
+            function(e) {
+                0 == e[0] ? SocketConnection.sendWithCallback(41804,
+                function() {
+                    t.update()
+                },
+                [0, 1]) : t.update()
+            })
+        },
+        n.prototype.init = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                e.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.btnBuyCoin,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "商城界面-点击【+】按钮");
+                var i = new t.BuyCoinPop(e.service);
+                PopViewManager.getInstance().openView(i, {
+                    useStageBg: !1,
+                    maskBgStyle: null,
+                    maskShapeStyle: {
+                        maskAlpha: .85,
+                        maskColor: 0
+                    },
+                    effStyle: {
+                        showAniType: PopEffStyle.CENTER,
+                        isMoveToCenter: !1,
+                        horizontalCenterOffset: 0,
+                        verticalCenterOffset: 0,
+                        relativeToPoint: null
+                    },
+                    clickMaskHandler: function() {
+                        PopViewManager.getInstance().hideAll();
+                        var t = new n(e.service);
+                        PopViewManager.getInstance().openView(t, {
+                            useStageBg: !1,
+                            maskBgStyle: null,
+                            maskShapeStyle: {
+                                maskAlpha: .85,
+                                maskColor: 0
+                            },
+                            effStyle: {
+                                showAniType: PopEffStyle.CENTER,
+                                isMoveToCenter: !1,
+                                horizontalCenterOffset: 0,
+                                verticalCenterOffset: 0,
+                                relativeToPoint: null
+                            }
+                        })
+                    },
+                    caller: e
+                }),
+                e.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.btnRefresh,
+            function() {
+                e.freeTime > 0 ? (SocketConnection.sendWithPromise(41804, [0, 2]).then(function() {
+                    e.update()
+                }), EventManager.dispatchEventWith(t.AdvancedPetBackStore.RefreshGoods)) : e.coinBCnt >= e.refreshPay ? Alert.show("是否消耗<font color='#FF0001'>通用神谕之证*" + e.refreshPay.toString() + "</font>，刷新商店？",
+                function() {
+                    SocketConnection.sendWithPromise(41804, [0, 3]).then(function() {
+                        e.update()
+                    }),
+                    EventManager.dispatchEventWith(t.AdvancedPetBackStore.RefreshGoods)
+                }) : BubblerManager.getInstance().showText("通用神谕之证数量不足！")
+            },
+            this),
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.onItemChange, this),
+            EventManager.addEventListener(t.AdvancedPetBackStore.RefreshStore, this.update, this),
+            EventManager.addEventListener(t.AdvancedPetBackStore.OpenDetail, this.hide, this),
+            this.goodsArr = [];
+            for (var i = 0; 6 > i; i++) {
+                var a = new t.AdvancedPetBackGoodsItem;
+                this.goodsArr.push(a),
+                this.grpItem.addChild(a)
+            }
+        },
+        n.prototype.update = function(e) {
+            var n = this;
+            this.coinBCnt = ItemManager.getNumByID(1724859),
+            this.txtCoin.text = this.coinBCnt.toString(),
+            KTool.getMultiValue([123350, 123351, 123352, 123355, 20387, 123357],
+            function(e) {
+                n.storeInfos = [];
+                for (var i = 0; 3 > i; i++) for (var a = 0; 4 > a; a++) n.storeInfos.push(KTool.getByte(e[i], a));
+                n.canBuyInfos = [];
+                for (var i = 0; 6 > i; i++) n.canBuyInfos.push(KTool.getBit(e[3], i + 1));
+                n.hasBuyInfos = [];
+                for (var i = 6; 12 > i; i++) n.hasBuyInfos.push(KTool.getBit(e[3], i + 1));
+                n.freeTime = t.AdvancedPetBackStore.rollAllTime - e[5],
+                n.payTime = e[4],
+                n.freeTime > 0 ? (n.imgRefresh.source = "advanced_pet_back_store_main_imgRresh_png", n.txtRefreshCost.text = "免费(" + n.freeTime + ")刷新", n.imgRefresh.x = 10) : (n.imgRefresh.source = "advanced_pet_back_store_main_1724859_png", n.refreshPay = n.payTime <= 0 ? PetAdvanceXMLInfo.backRefCost: n.payTime * PetAdvanceXMLInfo.backRefAddCost + PetAdvanceXMLInfo.backRefCost, n.refreshPay = n.refreshPay < PetAdvanceXMLInfo.backRefMaxCost ? n.refreshPay: PetAdvanceXMLInfo.backRefMaxCost, n.txtRefreshCost.text = n.refreshPay + "刷新", n.imgRefresh.x = 18.5);
+                for (var i = 0; 6 > i; i++) {
+                    var o = n.storeInfos[2 * i],
+                    r = t.AdvancedPetBackStore.taskId2petId.getValue(o);
+                    if (!r && !IS_RELEASE) return void Alarm.show("!! 不存在的backid " + o);
+                    var s = PetAdvanceXMLInfo.getBackInfo(r).PerNeedCoinB,
+                    c = "";
+                    1 == n.hasBuyInfos[i] ? c = "hasGot": 0 == n.canBuyInfos[i] && (c = "notYet"),
+                    n.goodsArr[i].setData(i + 1, o, r, s, n.storeInfos[2 * i + 1], c)
+                }
+            })
+        },
+        n.prototype.onItemChange = function(t) {
+            void 0 === t && (t = null),
+            this.coinBCnt = ItemManager.getNumByID(1724859),
+            this.txtCoin.text = this.coinBCnt.toString()
+        },
+        n.prototype.adaptRightContent = function(t, e) {
+            void 0 === e && (e = 0),
+            this.parent.addChild(t),
+            t.right = e,
+            t.top = 24
+        },
+        n.prototype.hide = function() {
+            EventManager.removeEventListener(t.AdvancedPetBackStore.RefreshStore, this.update, this),
+            EventManager.removeEventListener(t.AdvancedPetBackStore.OpenDetail, this.hide, this),
+            EventManager.removeEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.onItemChange, this),
+            this.grpRight.visible = !1,
+            DisplayUtil.removeForParent(this.grpRight),
+            e.prototype.hide.call(this)
+        },
+        n
+    } (PopView);
+    t.StorePop = e,
+    __reflect(e.prototype, "advancedPetBackStore.StorePop")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.skinName = "AdvancedPetBackStoreDetailPanelCompSkin",
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        n.prototype.setData = function(e, n, i) {
+            this.imgCompBg.source = ClientConfig.getPetAdvBackPath(e) + ("compBg_" + e + ".png"),
+            this.imgComp.source = ClientConfig.getPetAdvBackPath(e) + ("comp_" + e + "_" + n + ".png"),
+            this.grpUnlock.source = ClientConfig.getPetAdvBackPath(e) + ("grpUnlock_" + e + ".png"),
+            this.grpUnlock.visible = !i,
+            this.txtCompName.text = t.AdvancedPetBackStore.petAdvCompName.getValue(e)[n - 1],
+            this.txtCompID.text = n + "/" + t.AdvancedPetBackStore.petAdvCompName.getValue(e).length
+        },
+        n
+    } (eui.ItemRenderer);
+    t.AdvancedPetBackCompItem = e,
+    __reflect(e.prototype, "advancedPetBackStore.AdvancedPetBackCompItem")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.skinName = "AdvancedPetBackStoreGoodsItemSkin",
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.shuaxinAnim = SpineUtil.createAnimate("refresh"),
+            this.grpAnim.addChild(this.shuaxinAnim),
+            this.shuaxinAnim.x = 7,
+            this.shuaxinAnim.y = -15,
+            this.shuaxinAnim.scaleX = 1.02,
+            this.shuaxinAnim.scaleY = 1.23,
+            this.grpAnim.visible = !1,
+            EventManager.addEventListener(t.AdvancedPetBackStore.RefreshGoods, this.playRefreshAnim, this)
+        },
+        n.prototype.playRefreshAnim = function(t) {
+            var e = this;
+            this.grpAnim.visible = !0,
+            MainManager.stage.touchEnabled = MainManager.stage.touchChildren = !1,
+            this.shuaxinAnim.play("shuaxin", 1, 0, {
+                playEnd: function() {
+                    MainManager.stage.touchEnabled = MainManager.stage.touchChildren = !0,
+                    e.grpAnim.visible = !1
+                }
+            })
+        },
+        n.prototype.setData = function(e, n, i, a, o, r) {
+            var s = this;
+            this.idx = e,
+            this.cost = a,
+            this.taskId = n,
+            this.imgComp.source = ClientConfig.getPetAdvBackPath(n) + ("comp_" + n + "_" + o + ".png"),
+            this.txtCompName.text = t.AdvancedPetBackStore.petAdvCompName.getValue(n)[o - 1],
+            this.txtPetName.text = PetXMLInfo.getName(i),
+            ImageButtonUtil.removeAll(this),
+            "notYet" == r ? (this.imgBuyComp.source = "advanced_pet_back_store_main_grpNotYet_png", this.txtBuyCost.text = "") : "hasGot" == r ? (this.imgBuyComp.source = "advanced_pet_back_store_main_grpHasGot_png", this.txtBuyCost.text = "") : (this.imgBuyComp.source = "advanced_pet_back_store_main_btnBuyComp_png", this.txtBuyCost.text = a.toString(), ImageButtonUtil.add(this.btnBuyComp,
+            function() {
+                ItemManager.getNumByID(1724859) >= a ? Alert.show("是否消耗<font color='#FF0001'>通用神谕之证*" + s.cost.toString() + "</font>，购买<font color='#FF0001'>" + s.txtPetName.text + "</font>的组件<font color='#FF0001'>" + s.txtCompName.text + "</font>？",
+                function() {
+                    SocketConnection.sendWithPromise(41804, [0, 3 + s.idx]).then(function() {
+                        EventManager.dispatchEventWith(t.AdvancedPetBackStore.RefreshStore, !0, s.taskId)
+                    })
+                }) : (StatLogger.log("2023运营活动", "神谕进阶返场", "商城界面-点击任意【购买】按钮时道具数量不足"), BubblerManager.getInstance().showText("通用神谕之证数量不足！"))
+            },
+            this, !1))
+        },
+        n.prototype.destroy = function() {
+            EventManager.removeAll(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        n
+    } (eui.ItemRenderer);
+    t.AdvancedPetBackGoodsItem = e,
+    __reflect(e.prototype, "advancedPetBackStore.AdvancedPetBackGoodsItem")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+advancedPetBackStore; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.skinName = "AdvancedPetBackStoreEnterBtnSkin",
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.levelupAnim = SpineUtil.createAnimate("lever_up"),
+            this.levelupAnim.play("jinjie", -1),
+            this.imgCanAdv.addChild(this.levelupAnim),
+            this.imgCanAdv.touchChildren = this.imgCanAdv.touchEnabled = !1,
+            this.levelupAnim.scaleX = 1.05,
+            this.levelupAnim.scaleY = 1.15
+        },
+        n.prototype.dataChanged = function() {
+            var i = this;
+            if (e.prototype.dataChanged.call(this), this.imgPet.source = "enter_btn_" + this.data.taskId + "_png", this.txtPetName.text = PetXMLInfo.getName(this.data.petId), this.data.progress < 0) {
+                this.txtProgress.text = "已进阶",
+                this.imgProgress.source = "",
+                this.grpHasAdvance.visible = !0,
+                this.imgCanAdv.visible = !1;
+                for (var a = 1; 5 >= a; a++) this["star" + a].source = ""
+            } else if (this.data.progress < this.data.allProgress) {
+                if (this.txtProgress.text = "", this.data.progress + "/" + this.data.allProgress, 4 == this.data.allProgress) {
+                    for (var a = 1; 4 >= a; a++) this["star" + a].x = n.starPos4[a - 1],
+                    a <= this.data.progress ? this["star" + a].source = "advanced_pet_back_store_main_imgProgress_star1_png": this["star" + a].source = "advanced_pet_back_store_main_imgProgress_star0_png";
+                    this.star5.source = ""
+                } else if (5 == this.data.allProgress) for (var a = 1; 5 >= a; a++) this["star" + a].x = n.starPos5[a - 1],
+                a <= this.data.progress ? this["star" + a].source = "advanced_pet_back_store_main_imgProgress_star1_png": this["star" + a].source = "advanced_pet_back_store_main_imgProgress_star0_png";
+                this.imgProgress.source = "advanced_pet_back_store_main_imgProgress_png",
+                this.grpHasAdvance.visible = !1,
+                this.imgCanAdv.visible = !1
+            } else {
+                this.txtProgress.text = "",
+                this.imgProgress.source = "advanced_pet_back_store_main_imgProgress_canAdv_png",
+                this.grpHasAdvance.visible = !1,
+                this.imgCanAdv.visible = !0;
+                for (var a = 1; 5 >= a; a++) this["star" + a].source = ""
+            }
+            ImageButtonUtil.removeAll(this),
+            this.data.progress >= 0 ? (this.grpLook.visible = !0, ImageButtonUtil.add(this.btnMain,
+            function() {
+                EventManager.dispatchEventWith(t.AdvancedPetBackStore.OpenDetail, !0, i.data)
+            },
+            this, !1, !0)) : this.grpLook.visible = !1,
+            ImageButtonUtil.add(this.btnShowInfo,
+            function() {
+                StatLogger.log("2023运营活动", "神谕进阶返场", "主界面-点击任意【放大镜】查看进阶详情"),
+                ModuleManager.showModuleByID(262, {
+                    type: "pet",
+                    data: i.data.petId,
+                    isNeedShowAdv: !0
+                })
+            },
+            this)
+        },
+        n.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        n.starPos4 = [44, 92, 140, 188],
+        n.starPos5 = [20, 68, 116, 164, 212],
+        n
+    } (eui.ItemRenderer);
+    t.AdvancedPetBackStoreEnterBtn = e,
+    __reflect(e.prototype, "advancedPetBackStore.AdvancedPetBackStoreEnterBtn")
+} (advancedPetBackStore || (advancedPetBackStore = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/AdvancedpetbackNecessaryPopSkin.exml"] = window.AdvancedpetbackNecessaryPopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["oneKeyFif", "fifMc", "oneKeyEff", "effMc", "goBtn", "close"],
+        this.height = 411,
+        this.width = 779,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 411,
+        t.horizontalCenter = 0,
+        t.verticalCenter = 0,
+        t.width = 779,
+        t.elementsContent = [this._Image1_i(), this._Label1_i(), this._Image2_i(), this.fifMc_i(), this.effMc_i(), this.goBtn_i(), this.close_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 411,
+        t.source = "advanced_pet_back_store_main_zu_2_png",
+        t.width = 779,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.text = "需要拥有该精灵以下组件才可以进行进阶",
+        t.textColor = 16769417,
+        t.x = 230,
+        t.y = 95,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "AdvancedPetBackNecessaryPop_title_png",
+        t.x = 300,
+        t.y = 22,
+        t
+    },
+    n.fifMc_i = function() {
+        var t = new eui.Group;
+        return this.fifMc = t,
+        t.height = 162,
+        t.width = 168,
+        t.x = 156,
+        t.y = 148,
+        t.elementsContent = [this._Image3_i(), this._Image4_i(), this._Label2_i(), this.oneKeyFif_i()],
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.source = "advanced_pet_back_store_main_buyCompBg_png",
+        t.top = 0,
+        t
+    },
+    n._Image4_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = -.5,
+        t.source = "AdvancedPetBackNecessaryPop_fifsign_png",
+        t.verticalCenter = -3.5,
+        t
+    },
+    n._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.left = 8,
+        t.right = 8,
+        t.size = 16,
+        t.text = "第五技能",
+        t.textAlign = "center",
+        t.textColor = 16771293,
+        t.y = 6,
+        t
+    },
+    n.oneKeyFif_i = function() {
+        var t = new eui.Image;
+        return this.oneKeyFif = t,
+        t.bottom = 0,
+        t.source = "AdvancedPetBackNecessaryPop_oneKeyBtn_png",
+        t.x = 0,
+        t
+    },
+    n.effMc_i = function() {
+        var t = new eui.Group;
+        return this.effMc = t,
+        t.height = 162,
+        t.width = 168,
+        t.x = 466,
+        t.y = 148,
+        t.elementsContent = [this._Image5_i(), this._Image6_i(), this._Label3_i(), this.oneKeyEff_i()],
+        t
+    },
+    n._Image5_i = function() {
+        var t = new eui.Image;
+        return t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.source = "advanced_pet_back_store_main_buyCompBg_png",
+        t.top = 0,
+        t
+    },
+    n._Image6_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "AdvancedPetBackNecessaryPop_effsign_png",
+        t.verticalCenter = 0,
+        t
+    },
+    n._Label3_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.left = 8,
+        t.right = 8,
+        t.size = 16,
+        t.text = "专属特性",
+        t.textAlign = "center",
+        t.textColor = 16771293,
+        t.y = 6,
+        t
+    },
+    n.oneKeyEff_i = function() {
+        var t = new eui.Image;
+        return this.oneKeyEff = t,
+        t.bottom = 0,
+        t.source = "AdvancedPetBackNecessaryPop_oneKeyBtn_png",
+        t.visible = !0,
+        t.x = 0,
+        t
+    },
+    n.goBtn_i = function() {
+        var t = new eui.Image;
+        return this.goBtn = t,
+        t.horizontalCenter = .5,
+        t.source = "advanced_pet_back_store_detial_panel_btnToBuy_png",
+        t.y = 362,
+        t
+    },
+    n.close_i = function() {
+        var t = new eui.Image;
+        return this.close = t,
+        t.source = "title_pop_2022_btnclose_png",
+        t.x = 703.34,
+        t.y = 68.73,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreBuyCoinPop.exml"] = window.AdvancedPetBackStoreBuyCoinPop = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txtCoin", "btnBuyCoin", "grpRight", "btnClose", "btnGoto1", "btnGoto2", "btnBuy", "grpItem"],
+        this.height = 542,
+        this.width = 983,
+        this.elementsContent = [this.grpRight_i(), this._Group1_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.grpRight_i = function() {
+        var t = new eui.Group;
+        return this.grpRight = t,
+        t.height = 33,
+        t.visible = !0,
+        t.width = 149,
+        t.x = 824,
+        t.y = 10,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.txtCoin_i(), this._Image3_i(), this.btnBuyCoin_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.alpha = 0,
+        t.height = 87.287,
+        t.horizontalCenter = 0,
+        t.source = "advanced_pet_back_store_main_img_di2_png",
+        t.verticalCenter = 0,
+        t.width = 225.159,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "advanced_pet_back_store_main_img_di2_png",
+        t.width = 133,
+        t.x = 13,
+        t.y = 6,
+        t
+    },
+    n.txtCoin_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0101510119682,
+        t.text = "99999",
+        t.textAlign = "center",
+        t.textColor = 12834813,
+        t.width = 99,
+        t.x = 28,
+        t.y = 9,
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 32,
+        t.source = "advanced_pet_back_store_main_1724859_png",
+        t.width = 32,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnBuyCoin_i = function() {
+        var t = new eui.Image;
+        return this.btnBuyCoin = t,
+        t.height = 21,
+        t.source = "common_btn_add_png",
+        t.width = 21,
+        t.x = 128,
+        t.y = 6,
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 600,
+        t.width = 983,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image4_i(), this._Image5_i(), this.btnClose_i(), this.grpItem_i()],
+        t
+    },
+    n._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "advanced_pet_back_store_main_zu_2_png",
+        t.visible = !0,
+        t.x = 0,
+        t
+    },
+    n._Image5_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = -35,
+        t.source = "advanced_pet_back_buy_coin_title_png",
+        t.y = 36,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 900,
+        t.y = 83,
+        t
+    },
+    n.grpItem_i = function() {
+        var t = new eui.Group;
+        return this.grpItem = t,
+        t.height = 385,
+        t.width = 780,
+        t.x = 114,
+        t.y = 111,
+        t.layout = this._HorizontalLayout1_i(),
+        t.elementsContent = [this.btnGoto1_i(), this.btnGoto2_i(), this.btnBuy_i()],
+        t
+    },
+    n._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = 22,
+        t.horizontalAlign = "center",
+        t
+    },
+    n.btnGoto1_i = function() {
+        var t = new eui.Image;
+        return this.btnGoto1 = t,
+        t.source = "advanced_pet_back_buy_coin_btnGoto1_png",
+        t.x = 102,
+        t.y = 137,
+        t
+    },
+    n.btnGoto2_i = function() {
+        var t = new eui.Image;
+        return this.btnGoto2 = t,
+        t.source = "advanced_pet_back_buy_coin_btnGoto2_png",
+        t.x = 356,
+        t.y = 110,
+        t
+    },
+    n.btnBuy_i = function() {
+        var t = new eui.Image;
+        return this.btnBuy = t,
+        t.source = "advanced_pet_back_buy_coin_btnBuy_png",
+        t.x = 558,
+        t.y = 68,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreDetailPanelCompSkin.exml"] = window.AdvancedPetBackStoreDetailPanelCompSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgCompBg", "imgComp", "grpUnlock", "txtCompName", "txtCompID"],
+        this.height = 160,
+        this.width = 210,
+        this.elementsContent = [this.imgCompBg_i(), this.imgComp_i(), this.grpUnlock_i(), this._Image1_i(), this.txtCompName_i(), this._Image2_i(), this.txtCompID_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.imgCompBg_i = function() {
+        var t = new eui.Image;
+        return this.imgCompBg = t,
+        t.height = 105,
+        t.horizontalCenter = 0,
+        t.rotation = 315,
+        t.scale9Grid = new egret.Rectangle(3, 3, 48, 49),
+        t.source = "compBg_4_png",
+        t.verticalCenter = 0,
+        t.visible = !0,
+        t.width = 105,
+        t.x = 41,
+        t.y = 17,
+        t
+    },
+    n.imgComp_i = function() {
+        var t = new eui.Image;
+        return this.imgComp = t,
+        t.horizontalCenter = 0,
+        t.verticalCenter = -3,
+        t
+    },
+    n.grpUnlock_i = function() {
+        var t = new eui.Image;
+        return this.grpUnlock = t,
+        t.horizontalCenter = 0,
+        t.rotation = 315,
+        t.source = "grpUnlock_1_png",
+        t.verticalCenter = 0,
+        t.visible = !0,
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 28,
+        t.horizontalCenter = 0,
+        t.source = "advanced_pet_back_store_detial_panel_compNameLine_png",
+        t.verticalCenter = 47,
+        t.width = 204,
+        t
+    },
+    n.txtCompName_i = function() {
+        var t = new eui.Label;
+        return this.txtCompName = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 18,
+        t.stroke = 1,
+        t.strokeColor = 5791135,
+        t.text = "灾雷魔刃",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.verticalCenter = 47,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = 0,
+        t.source = "advanced_pet_back_store_detial_panel_compIDLine_png",
+        t.y = -2,
+        t
+    },
+    n.txtCompID_i = function() {
+        var t = new eui.Label;
+        return this.txtCompID = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 18,
+        t.textAlign = "center",
+        t.textColor = 16766545,
+        t.verticalCenter = -68,
+        t.x = 79,
+        t.y = -98,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreDetailPanelSkin.exml"] = window.AdvancedPetBackStoreDetailPanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBg", "grpComps", "btnToBuy", "grpBuyComp", "btnStartAdv", "btnPetInfo", "btnStore", "grpAnim", "btnPetBag", "btnGet"],
+        this.height = 640,
+        this.width = 1290,
+        this.elementsContent = [this.imgBg_i(), this.grpComps_i(), this.grpBuyComp_i(), this.btnStartAdv_i(), this.btnPetInfo_i(), this.btnStore_i(), this.grpAnim_i(), this.btnPetBag_i(), this.btnGet_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.imgBg_i = function() {
+        var t = new eui.Image;
+        return this.imgBg = t,
+        t.height = 640,
+        t.horizontalCenter = 0,
+        t.verticalCenter = 0,
+        t.width = 1290,
+        t
+    },
+    n.grpComps_i = function() {
+        var t = new eui.Group;
+        return this.grpComps = t,
+        t.horizontalCenter = 0,
+        t.top = 0,
+        t
+    },
+    n.grpBuyComp_i = function() {
+        var t = new eui.Group;
+        return this.grpBuyComp = t,
+        t.height = 50,
+        t.horizontalCenter = -6,
+        t.visible = !0,
+        t.width = 400,
+        t.y = 557,
+        t.elementsContent = [this.btnToBuy_i(), this._Image1_i()],
+        t
+    },
+    n.btnToBuy_i = function() {
+        var t = new eui.Image;
+        return this.btnToBuy = t,
+        t.height = 46,
+        t.source = "advanced_pet_back_store_detial_panel_btnToBuy_png",
+        t.width = 134,
+        t.x = 265,
+        t.y = 0,
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 45,
+        t.source = "advanced_pet_back_store_detial_panel_jjzjjkwcjj_png",
+        t.width = 260,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnStartAdv_i = function() {
+        var t = new eui.Image;
+        return this.btnStartAdv = t,
+        t.height = 57,
+        t.horizontalCenter = -10,
+        t.source = "advanced_pet_back_store_detial_panel_btnStartAdv_png",
+        t.visible = !0,
+        t.width = 180,
+        t.y = 551,
+        t
+    },
+    n.btnPetInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnPetInfo = t,
+        t.height = 74,
+        t.right = 40,
+        t.source = "advanced_pet_back_store_detial_panel_btnPetInfo_png",
+        t.width = 83,
+        t.y = 155,
+        t
+    },
+    n.btnStore_i = function() {
+        var t = new eui.Image;
+        return this.btnStore = t,
+        t.height = 72,
+        t.right = 45,
+        t.source = "advanced_pet_back_store_detial_panel_btnStore_png",
+        t.width = 72,
+        t.y = 60,
+        t
+    },
+    n.grpAnim_i = function() {
+        var t = new eui.Group;
+        return this.grpAnim = t,
+        t.horizontalCenter = -15,
+        t.y = 287,
+        t
+    },
+    n.btnPetBag_i = function() {
+        var t = new eui.Image;
+        return this.btnPetBag = t,
+        t.bottom = 45,
+        t.left = 50,
+        t.source = "common_imgbtn_pet_png",
+        t
+    },
+    n.btnGet_i = function() {
+        var t = new eui.Image;
+        return this.btnGet = t,
+        t.bottom = 45,
+        t.right = 45,
+        t.source = "advanced_pet_back_store_detial_panel_getbtn_png",
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreEnterBtnSkin.exml"] = window.AdvancedPetBackStoreEnterBtnSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgPet", "txtPetName", "imgProgress", "txtProgress", "star1", "star2", "star3", "star4", "star5", "grpLook", "imgCanAdv", "grpHasAdvance", "btnMain", "btnShowInfo"],
+        this.height = 468,
+        this.width = 281,
+        this.elementsContent = [this.btnMain_i(), this.btnShowInfo_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.btnMain_i = function() {
+        var t = new eui.Group;
+        return this.btnMain = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.imgPet_i(), this._Image1_i(), this.txtPetName_i(), this.imgProgress_i(), this.txtProgress_i(), this.star1_i(), this.star2_i(), this.star3_i(), this.star4_i(), this.star5_i(), this.grpLook_i(), this.imgCanAdv_i(), this.grpHasAdvance_i()],
+        t
+    },
+    n.imgPet_i = function() {
+        var t = new eui.Image;
+        return this.imgPet = t,
+        t.height = 467,
+        t.width = 280,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 37,
+        t.source = "advanced_pet_back_store_main_imgLine_png",
+        t.width = 280,
+        t.x = 0,
+        t.y = 5,
+        t
+    },
+    n.txtPetName_i = function() {
+        var t = new eui.Label;
+        return this.txtPetName = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = .5,
+        t.size = 20,
+        t.text = "天马",
+        t.textAlign = "center",
+        t.textColor = 16769933,
+        t.visible = !0,
+        t.y = 14,
+        t
+    },
+    n.imgProgress_i = function() {
+        var t = new eui.Image;
+        return this.imgProgress = t,
+        t.height = 62,
+        t.source = "advanced_pet_back_store_main_imgProgress_png",
+        t.visible = !0,
+        t.width = 281,
+        t.x = 0,
+        t.y = 406,
+        t
+    },
+    n.txtProgress_i = function() {
+        var t = new eui.Label;
+        return this.txtProgress = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 30,
+        t.text = "X/X",
+        t.textAlign = "center",
+        t.textColor = 16573348,
+        t.visible = !0,
+        t.width = 120,
+        t.x = 81,
+        t.y = 420,
+        t
+    },
+    n.star1_i = function() {
+        var t = new eui.Image;
+        return this.star1 = t,
+        t.source = "advanced_pet_back_store_main_imgProgress_star0_png",
+        t.x = 20,
+        t.y = 413,
+        t
+    },
+    n.star2_i = function() {
+        var t = new eui.Image;
+        return this.star2 = t,
+        t.source = "advanced_pet_back_store_main_imgProgress_star0_png",
+        t.x = 68,
+        t.y = 413,
+        t
+    },
+    n.star3_i = function() {
+        var t = new eui.Image;
+        return this.star3 = t,
+        t.source = "advanced_pet_back_store_main_imgProgress_star0_png",
+        t.x = 116,
+        t.y = 413,
+        t
+    },
+    n.star4_i = function() {
+        var t = new eui.Image;
+        return this.star4 = t,
+        t.source = "advanced_pet_back_store_main_imgProgress_star0_png",
+        t.x = 164,
+        t.y = 413,
+        t
+    },
+    n.star5_i = function() {
+        var t = new eui.Image;
+        return this.star5 = t,
+        t.source = "advanced_pet_back_store_main_imgProgress_star0_png",
+        t.visible = !0,
+        t.x = 212,
+        t.y = 413,
+        t
+    },
+    n.grpLook_i = function() {
+        var t = new eui.Image;
+        return this.grpLook = t,
+        t.height = 16,
+        t.source = "advanced_pet_back_store_main_grpLook_png",
+        t.visible = !0,
+        t.width = 84,
+        t.x = 183,
+        t.y = 392,
+        t
+    },
+    n.imgCanAdv_i = function() {
+        var t = new eui.Group;
+        return this.imgCanAdv = t,
+        t.visible = !0,
+        t.x = 141,
+        t.y = 234,
+        t
+    },
+    n.grpHasAdvance_i = function() {
+        var t = new eui.Rect;
+        return this.grpHasAdvance = t,
+        t.fillAlpha = .56,
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnShowInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnShowInfo = t,
+        t.height = 34,
+        t.source = "advanced_pet_back_store_main___png",
+        t.width = 34,
+        t.x = 238,
+        t.y = 6,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreEnterPanelSkin.exml"] = window.AdvancedPetBackStoreEnterPanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "btnStore", "_list", "_src", "txtRestDay", "btnTips"],
+        this.height = 640,
+        this.width = 1472,
+        this.elementsContent = [this.bg_i(), this._Image1_i(), this.btnStore_i(), this._src_i(), this._Group1_i(), this.btnTips_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.height = 640,
+        t.source = "AdvancedPetBackStoreMainPanel_bg_png",
+        t.width = 1472,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 102,
+        t.horizontalCenter = 70,
+        t.source = "advanced_pet_back_store_enter_title_png",
+        t.width = 554,
+        t.y = 0,
+        t
+    },
+    n.btnStore_i = function() {
+        var t = new eui.Image;
+        return this.btnStore = t,
+        t.height = 72,
+        t.right = 45,
+        t.source = "advanced_pet_back_store_detial_panel_btnStore_png",
+        t.width = 72,
+        t.y = 17,
+        t
+    },
+    n._src_i = function() {
+        var t = new eui.Scroller;
+        return this._src = t,
+        t.bottom = 52,
+        t.height = 510,
+        t.horizontalCenter = 70,
+        t.viewport = this._list_i(),
+        t
+    },
+    n._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    n._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = 22,
+        t.horizontalAlign = "center",
+        t.verticalAlign = "bottom",
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.bottom = 18,
+        t.horizontalCenter = 40,
+        t.elementsContent = [this._Image2_i(), this.txtRestDay_i()],
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 18,
+        t.scale9Grid = new egret.Rectangle(232, 0, 4, 16),
+        t.source = "advanced_pet_back_store_enter_line_png",
+        t.width = 656,
+        t.x = 0,
+        t.y = 4,
+        t
+    },
+    n.txtRestDay_i = function() {
+        var t = new eui.Label;
+        return this.txtRestDay = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 12,
+        t.size = 24,
+        t.text = "本期剩余时间xxx天",
+        t.textAlign = "center",
+        t.textColor = 14515020,
+        t.visible = !0,
+        t.width = 257,
+        t.y = 0,
+        t
+    },
+    n.btnTips_i = function() {
+        var t = new eui.Image;
+        return this.btnTips = t,
+        t.horizontalCenter = 310,
+        t.source = "common_help_icon_png",
+        t.y = 65,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreGoodsItemSkin.exml"] = window.AdvancedPetBackStoreGoodsItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgComp", "imgBuyComp", "txtBuyCost", "btnBuyComp", "txtCompName", "txtPetName", "grpAnim"],
+        this.height = 173,
+        this.width = 236,
+        this.elementsContent = [this._Image1_i(), this.imgComp_i(), this.btnBuyComp_i(), this.txtCompName_i(), this.txtPetName_i(), this.grpAnim_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 173,
+        t.source = "advanced_pet_back_store_main_buyCompBg_png",
+        t.width = 236,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.imgComp_i = function() {
+        var t = new eui.Image;
+        return this.imgComp = t,
+        t.horizontalCenter = 0,
+        t.verticalCenter = -7,
+        t
+    },
+    n.btnBuyComp_i = function() {
+        var t = new eui.Group;
+        return this.btnBuyComp = t,
+        t.height = 31,
+        t.visible = !0,
+        t.width = 229,
+        t.x = 3,
+        t.y = 138,
+        t.elementsContent = [this.imgBuyComp_i(), this.txtBuyCost_i()],
+        t
+    },
+    n.imgBuyComp_i = function() {
+        var t = new eui.Image;
+        return this.imgBuyComp = t,
+        t.height = 31,
+        t.source = "advanced_pet_back_store_main_btnBuyComp_png",
+        t.visible = !0,
+        t.width = 229,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.txtBuyCost_i = function() {
+        var t = new eui.Label;
+        return this.txtBuyCost = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 16777215,
+        t.visible = !0,
+        t.x = 95,
+        t.y = 9,
+        t
+    },
+    n.txtCompName_i = function() {
+        var t = new eui.Label;
+        return this.txtCompName = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.stroke = 1,
+        t.strokeColor = 5317399,
+        t.text = "灾雷魔刃",
+        t.textColor = 16777215,
+        t.x = 80,
+        t.y = 112,
+        t
+    },
+    n.txtPetName_i = function() {
+        var t = new eui.Label;
+        return this.txtPetName = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "精灵名称",
+        t.textAlign = "center",
+        t.textColor = 16771293,
+        t.width = 220,
+        t.x = 8,
+        t.y = 6,
+        t
+    },
+    n.grpAnim_i = function() {
+        var t = new eui.Group;
+        return this.grpAnim = t,
+        t.horizontalCenter = 0,
+        t.verticalCenter = 0,
+        t.visible = !0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreHighlightSkin.exml"] = window.AdvancedPetBackStoreHighlightSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["tips", "bg", "imgPet", "title", "btnGoTo", "grpAnim"],
+        this.height = 400,
+        this.width = 1366,
+        this.elementsContent = [this.tips_i(), this.bg_i(), this.imgPet_i(), this.title_i(), this.btnGoTo_i(), this.grpAnim_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.tips_i = function() {
+        var t = new eui.Label;
+        return this.tips = t,
+        t.horizontalCenter = -10.5,
+        t.size = 18.0332489329782,
+        t.text = "点击空白区域关闭",
+        t.textColor = 11435610,
+        t.y = 400.194,
+        t
+    },
+    n.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.height = 400.891,
+        t.left = 0,
+        t.right = 0,
+        t.source = "advanced_pet_back_store_highlight_bg_png",
+        t.y = -9.697,
+        t
+    },
+    n.imgPet_i = function() {
+        var t = new eui.Image;
+        return this.imgPet = t,
+        t.horizontalCenter = .5,
+        t.touchEnabled = !1,
+        t.verticalCenter = -40,
+        t
+    },
+    n.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.horizontalCenter = 71.5,
+        t.source = "advanced_pet_back_store_highlight_title_png",
+        t.touchEnabled = !1,
+        t.y = -55.697,
+        t
+    },
+    n.btnGoTo_i = function() {
+        var t = new eui.Image;
+        return this.btnGoTo = t,
+        t.height = 66,
+        t.horizontalCenter = .5,
+        t.source = "advanced_pet_back_store_highlight_btnGoTo_png",
+        t.visible = !0,
+        t.width = 187,
+        t.y = 327.194,
+        t
+    },
+    n.grpAnim_i = function() {
+        var t = new eui.Group;
+        return this.grpAnim = t,
+        t.horizontalCenter = .5,
+        t.visible = !0,
+        t.y = 359.194,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AdvancedPetBackStoreMainSkin.exml"] = window.AdvancedPetBackStoreMainSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["txtCoin", "btnBuyCoin", "grpRight", "btnClose", "grpItem", "imgRefresh", "txtRefreshCost", "btnRefresh"],
+        this.height = 542,
+        this.width = 983,
+        this.elementsContent = [this.grpRight_i(), this._Group1_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.grpRight_i = function() {
+        var t = new eui.Group;
+        return this.grpRight = t,
+        t.height = 33,
+        t.width = 149,
+        t.x = 824,
+        t.y = 10,
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.txtCoin_i(), this._Image3_i(), this.btnBuyCoin_i()],
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.alpha = 0,
+        t.height = 87.287,
+        t.horizontalCenter = 0,
+        t.source = "advanced_pet_back_store_main_img_di2_png",
+        t.verticalCenter = 0,
+        t.width = 225.159,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 21,
+        t.source = "advanced_pet_back_store_main_img_di2_png",
+        t.width = 133,
+        t.x = 13,
+        t.y = 6,
+        t
+    },
+    n.txtCoin_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0101510119682,
+        t.text = "99999",
+        t.textAlign = "center",
+        t.textColor = 12834813,
+        t.width = 99,
+        t.x = 28,
+        t.y = 9,
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 32,
+        t.source = "advanced_pet_back_store_main_1724859_png",
+        t.width = 32,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnBuyCoin_i = function() {
+        var t = new eui.Image;
+        return this.btnBuyCoin = t,
+        t.height = 21,
+        t.source = "common_btn_add_png",
+        t.width = 21,
+        t.x = 128,
+        t.y = 6,
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 600,
+        t.width = 983,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image4_i(), this._Image5_i(), this.btnClose_i(), this.grpItem_i(), this.btnRefresh_i()],
+        t
+    },
+    n._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "advanced_pet_back_store_main_zu_2_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n._Image5_i = function() {
+        var t = new eui.Image;
+        return t.horizontalCenter = -35,
+        t.source = "advanced_pet_back_store_main_title_png",
+        t.y = 36,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 33,
+        t.source = "common_pop_btn_close_png",
+        t.width = 33,
+        t.x = 900,
+        t.y = 83,
+        t
+    },
+    n.grpItem_i = function() {
+        var t = new eui.Group;
+        return this.grpItem = t,
+        t.height = 385,
+        t.width = 780,
+        t.x = 114,
+        t.y = 108,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    n._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t.horizontalGap = 18,
+        t.verticalGap = 14,
+        t
+    },
+    n.btnRefresh_i = function() {
+        var t = new eui.Group;
+        return this.btnRefresh = t,
+        t.height = 50,
+        t.visible = !0,
+        t.width = 178,
+        t.x = 704,
+        t.y = 487,
+        t.elementsContent = [this._Image6_i(), this.imgRefresh_i(), this.txtRefreshCost_i()],
+        t
+    },
+    n._Image6_i = function() {
+        var t = new eui.Image;
+        return t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "common_btn_bg_yellow_png",
+        t.top = 0,
+        t
+    },
+    n.imgRefresh_i = function() {
+        var t = new eui.Image;
+        return this.imgRefresh = t,
+        t.height = 32,
+        t.source = "advanced_pet_back_store_main_imgRresh_png",
+        t.verticalCenter = -.5,
+        t.visible = !0,
+        t.width = 32,
+        t.x = 10,
+        t
+    },
+    n.txtRefreshCost_i = function() {
+        var t = new eui.Label;
+        return this.txtRefreshCost = t,
+        t.fontFamily = "REEJI",
+        t.height = 25,
+        t.size = 20,
+        t.text = "XXX",
+        t.textAlign = "center",
+        t.textColor = 10180889,
+        t.verticalAlign = "middle",
+        t.verticalCenter = -.5,
+        t.width = 139.453,
+        t.x = 34.29,
+        t
+    },
+    e
+} (eui.Skin);

@@ -1,1 +1,720 @@
-eval(function(){function a(a){for(F=A=0;F<a;)G<2&&(G=64,N=92<(N="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;BD>eP<?poV[lS:A_:WlR:;M:HHn:UU][[>`s^D?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwIJJ=[J:FQg<o;B::mA::tb[S]:Q_[xZ;<Fc?E]wFLxBTR;@?S@`O^`JSy?AZG>LAlBC:u?E<;]pYUkW;FF;swZ>:=P>B:V]::ESkM::BZ:D`xYjwwB<JX=BW<:Feg`]wZL[PbokTK@ClKBu<n<:LQ;u;MnsC=lX:g:=<w?wVA]uCl]Cs;FZP@dWmiyhJ[iGVQGV>hwNwB?CtFBqc:ojmHGxmD<sHZ:ECFC:?:;e:TRV@sKZ:^::aMF:OZ:n::HI^SZ:FyVnaYF@DKV;eMDRbD`X?;E::B];f>s^@Qn<GMj>ik:CPJ:VMHa>na;vpSp>Eku::cg:sj^JhfTiJ:>UUoAeI;KH;BRXEzbzM<kghw?WfqGJ_=Kg=_UndqFVXBCi<r`Z^VRnCVqLZPGlbU:;OB>`nsPhvO>B>s?QC;vlRKws@Y>:p=NX=>D^@GMJx::[TkHPtU[XJBGKXP>VZJA]XBYrJB?<<mG=X?;P`mA=?cV:Rn^l^:op[mZY_:>>S[pE[MLJ=Z<@DRJIZdYSNNF?sr_vPBmIEUGgk:X]fAMgnnD^VIJY_w?BvOA<`Tl@^ZM_nHtF;_GJtw<;gZ]:<`pB_TGMIFxF=]rJVik:LQ]DCFAjQ;I=ZI:mKP:;T>JxEZ:gWB:G^E=Dgin::PMWo]RGJ[koyLWQiNtxJQSWOpz@pw_l;oB;tT_JgtO<<DRW;M[RF<<]J@]uD=HdhrJFpdG_u=UNTwJQr@aL:cNsF;ALFR<:bW:u`HU]`lJvVN@hP?FrqEck;uJ_g;ZbJagVW;=ZJUZqcufeXfuiE;j]UZw<FQ`s>aV;s]ZQ_:@ch]a[e_LTf:C@<ulKrPgs`=EIK^fk;uC:BCgPnUMhf@;x::;sc:gKhapU=girlaWOb>AupcqcAJWFV[Z>BI;xdtDwE;yju:VSfSm:JHER^:CB^?FCM<NF=@gYCrAZWKn:w::I]bWD`>nWD=<>DWOUk=QhT`=[N@SI<i;XQ>aQO:;pKVV=a=[HNBWGVgnRgLmFIGVe>ISm?kHCi<igJC<D_f?j_sxSFe;vHhr?:bBYCwMC<`[@][O::eSA:H>aVwR^Bk:DZo:>EW:=xjJ:@CN:L_p::WMJ;RHN:Sh^:;[zk:Zgo:GxG::IMJ;Oao:FBn:=Q`J;MuF:GNp:>T`J:n`N:JAyeEs:;qTaad:M;K?<YRJAB<>_`mvL:>swk>I:p:B@R?_sjX=uI[RjJsOZKYjF;aNIhKi;:<H_<^hAi=WqYK?KXY?yQpYNwk;jUFaxjR?ArjYRys<ntq=GCYQwT>UtrkPBzSyNVk@bnNC:^;EsRAl_MAZ>DgKHJREBZPD:aSVd`ZfAaUFt=x[_BcOJzF==u?J:E?JxDawdv_I`EmJ:GGsZmZF=Q_?Wmu:AUZk:uYdNQ<AZIZQF^fT`NC^FaHGDSYMx[y>Vst>UBonFBTaC;RLe?[j==TVxb]j@Til@Ft:lnLNa=wRPf?GSMrLi`DXtRy=_@x]P>gNw=^YOyewIaZ^aS<oM@[FPB;M<[;_V_JZ>Jdnv>pefD:yk[A:q>AsORAlWLOKiHJNH`duesae?zJ_ENN^v==;@:Tj_wAC`MHaEFiS<k`bECPHVOoLZmlNKMUgu;Xna;[dci@q]g=M[qGP>urK`CCCLNfJskGFb`Eu>f:aM[LURruYgH:WGlaFnkFnOa;;qRc>kFMISJMzdZ>;]=Bt@]WdvJHdXD:gLmc^:ecw<JwKz^n@v>AH<<?^nHLM[[E<kDu`sNBgKE_uSmDNPcj:M_A;OkFLRfS?sSos=PC@?lWoj?yMwN>gCFLDoD<LJagN<_CFjbu`yRoYtzd:mp:yT>UZ;?S;kAYCy?:;kC<<ayA:Is^KKJ;b?;<@RNC^mD<cBZ?:@:W;tHyQkQ_bk[N]c;HDg>_fdN=N?VDNORcWPLaIGBbJJd[N]aGKDDOoB@:PcpWTvOhexNEkr:VO>ecg]CA]T_EVrfpJt>RGGHg:Zl:kNe@NfVQ[NtG;TDVWcV;H]nFCIo<>Jkga^:aGF;q]l`]fAPAgfRHkhZ;HOXVMtfcU]oifNwOLvlx]M:[I>AHi>gPP]Q@;>Da;aoC=UW@=hgJio[JRBjIZZuoDWivXcQkH:_]Mf:GH_DgvV=;jARitWMBU:c<LF:=ZX;sZJ@jCisWFuPKfrWKHiBNunoffNAHZZIGv<Qn:;bALV:a;s<Z;XpHH_=OPeGLurOodSM_@]CmC:jCh[xhUSFM]`fGO]i;<TiplsSJJ[DQTE>_UwLnKC@LO`tDu]ze`NgFPjCWmZ`sTGXTg`X>Z<ZGaQ[jGU`FRRqk`^kLqF?Zsv`E^Gn:UwWORlcmefPH:n>vmK^uN;Gwp_mCe:KRtGgXNsdnXDb:RTVNtaFgabm?uSotaYMORHFt[FwlbMkbf`wkcPSeM>bm?LVRtf>n<aUGgXFyCv^ZFdsaWsxtkM;;XAonHHlpOcQo<VR]kVun_Pc;LY]ytyETbXMlXoq`ZtiaJhSTwt`[@NQnFlRDyJiEPQ>hSXLp`bECPrRpRSbtsf@pZjxbLFXHmTs<<a]s?_E:C[o[NTZ?N:e?;TGLJP_GuclAm:LY_FGuU_PtjO;]R@vBadumLoZBRDhXcUZo[^FeLcHsxl=TknGO>IB@qYhN>xTFyquJF]@:GjVMZLRs?]e<A:P;oeTlCZJOx@VyMedJ?:;:ne_;J@_[DD:=vcKJ>@qc?Zp@LUGj]EZDVO=gk_k]hX<JrSVVmCr@GVUg`Mi:cilRhsprm<rUZIWkvPslhNhXlBWvfRjiR:E:PIv:HXKegQ<=hJ<kaG`aoj=gToZCiByKlB>tSnHTszBD^xAQIgXR>rd`VZXSGs_qvHkwZb<E<>xaqMoGg>DWQTzURyRKOuXITrEG`bt:BcNFriJUFuOWWelplBWfrCYlWSuqiRk=iYGFVamGic^amAnW=sCe:iNBzMVVraCIVYtGdzLBtcgaXD<HVrfbeIRYWH?tawQnFdYAFt_fwQlIgXgz?xMzQjIlYocpz^lQtjKYszVDvqQ^jFY`h@u>Irjah===_seSMteOilkqvNAUj>=YszS]WrE^a`t?VKOnCaVZNxjSswkBfjrbQijkEejp]ZN;TXWuapiK^sy[zCdAxYxeoSHxbV[egteozeXowQwpDF;x[n^aBfjxjLB=aedTe=i=d=]T^=be`:::?tF:CsktBvmZL=Dss;M[O[euDvsv=ue:IuasJnatMuPsrSjtotD^qvd:ItHtguYSR<XBRmwt:vJ?Zt:RJtJsJZB?kuoELuR?DuAfcvdMVsL=UsAv_=W[RvIue=Ku_@`CGLQTPENtnuQkEuo?Eshvls?[ftgkUtVmL@Vs?^S[vvL@>@ysc=yuUKbuxR[vd<jucLIuKsoKgBKv=D>vHAK^^uYv_@J<e?NtPvzvT@:?F>Z@g?F^g?J?<ckAV?kAJukvA^B@c@Ct<>_nfvbE@>]?css?O]S^s?Xs>s^uFRlvy?`BPte>[AN>:ArtgDFA:>g?Z>lA:tk=l?TcwAkAC>Jt_BS?R@]>sA]?ettKXtmA@t[tpsO>e@zunvntpAEtwmtKHsKLtL?ZPA?>_kbs;vqA;uQtp:y@dL`uFSptIvX@ov`@Mu;@n?N@cJ:@gtG?M[KAZ?jdwth>WABTC?w>x@d?cAx>gm@AS@DvR@s@?>a>>?At>Ai?M?Q>zuN>oup?[ApAE@r;:AgvG>wsJ?j@V@k@w>g=w>dAd>R>cu=@R==>a@^@Av^>^sdtDARRnAk_T@qtBaE?gStZf@R;t^vsU@AvAsq@bt;sQs;eoub?i@]TX?JaA>k`auO>NAO@r?rS[>IAc`I>h?R_V?l?V@W?YAs_z>c?zA>amu:_Ds_`t@Z`?@w`Jb]_Msm_Fbm_B`r>g_N<]TG>ebI@h>s_C?s_>_Judvz>Zb_bHuR<N_mA;`JaHShsq`_@mbQ@Fbn?HbWvmRV`XniuP?M[a?UAw_v@<`xU<bN?Gtrvo?J<K`b>juotGvMAYt;>nsD_o>ATIUDbF@eaRaj>T_ZtTaYAX`u`dAc>ms:abC@A:a__?>Pa[_`A>A?`obbSmb;@p_EAHb?ai`GbibealAhasbW@B?hvya_a;`L?Tt^A[`[sttKbD?O_rAPuTAnaCaeRVb:EdM_=?[XtilmAZSS`q>taH?Quos``]`DRLbm@N:z`M`YtO@n_HaDbpa=<GaK?eah`fbh>Wa:Zu_yaz?>`x`S>a_=?a_^bZaU@:PFRbaO`ZNp_JOp_IRu?p<>OE_VsfbkQj?BN;ZcNz>tsv`a`vb;atLIaXtN`Abls?ubbobb`l`Q_Ca^tgTUkVailMmI_`]AsjaS_WUSbbut`H@ouxu?_E_<P`ae<A@xv>Nna_P[?JQ[@I@Z>haJ>FNU`C@BAubcQ<@RPUuabcusO;_Jb^bi><N@Plbqb@NNOISTNoNR`g@f`POXaU`ks?tgO]>L?;`tMVPAa:OOt`ZZN;?kbq`F`T>aQduXS`^Cb?]mQI_SbP?DNY_eOY_A@osbaTONN@R:QbAN?>PkbO`zuB_aNkNMCoPPPXbT`WaqNxbz@HNt>ZaiNsvsP>siRdP<QM_yQZOyNFt?auS;Q;`kQWPTbPQY@B>`vKNs?MlUsfNCPwOCQ`udNlbdQZPSQQb]P:lOZV_J_XulQU?`NHAv?:QNATOz`O^pO`bjPbOq`nOhQyNWQG_[QoNxPW_KNd?qPx_HQ@`HQRNiOs?sPP_>Q_BYvGNQbnOo>EarPc_KA;QK@[QZrBOxOktYNvO_`Mk^AaAvuCNM>Wty>Ro]QFbSPg_rPfuc_iut[Tsyu[_IPDPq@;v`PjPA>`txsiTi?X>zPcK]rXQbO@P:qAU:raPZpfQfb[NqOkvJq=Okr=Q=`BpiQ^P`A_DFqqb<PyPDrRqpNt^EOWQRbfNTqUO_q<@@atActMlZ`lO`^_=t[oooaptzQaoQQlagqu@qRc`es?^]>yovlNa;`IO<ojOt_mqruYP]`LquNrvcpao_PhPHbhOc`G_eq>pZoHqxPJoJvTqip=O=_sN@p^NcoMP`T;qtopAtryQp>NDqqfQqrer`qTod>NBkrHPvPXrUvXrTtyoD@Gshq@Qe>[oWpgpHSLO?[VPyplqIQjaCpvACrjuiAMRiR?b<:SpjNmqarKbzNDrhpDq?qkNPPxqBNUPubxN@_RPuqpqBp^qJaGr@rt]nqnOQqJPEosrg`sqI?qphaIqHrIp_pyaioZ_Xo^>Mqwqm?wPqTK`mohOn@]P[or_rQdJVaSKtZlp^AlpUqv?<`eQN?inAA_Dz_bq]qQ>tpnphp:FrrsoZo`pepJIxpHpJo=QOrjo^rabBp^`P`oIzrmptpgGPri@TnWrrqJFY>_oOoLFNqBFNbBGMrQQ_DLGRGn`]OOvEQ?ojAVIDGFP_od?Z:OsNpO[Noa@fow`]IANxtuHRqPqNNuFnlZFe_aFX``oJo=oJtZ=VDqHS^qG;aTl?[HIWZDNiHqSFFQp;q:I_NEO[qXUu>yG?oJFBQaGW?;Hk:oG[FKIUtKolI;b_a>uESiIFpSQ:Gp<ERVaTlVPtJwOwpNB<o<b<pU^lUvoxFAD=tiAlT]_ERACAq^F`Tz_MFFnOO=FABYQMG[S]opQSepTdqEH?SxHfKSR^IxHpU^GvFFmTm`vlUfHAGEH=FUGJ:TQApJaxFpFPrQqmHxIEOMkKHaFIptIFPBAlUeF`I;_t^isKGP?OF=FIF:pIHXIlTSGjTI?jHDHtHFQtGwFJuzIkH_bkga?Vs?^_;`[d_XQ=IZgdGQQ=HjIjIyGxq;FchJ;chx_BIzGf?VOsh@qe=lRO`FqIFmGJh^G_gBh[PwFkFd@oj<AohetVb>IFgzqggABRFVgJhVg;NGFmiwieqYGBjYGkv<j<HRh;_d`Xl?Qa?ZaZg`SGQFF:ILHdIIFAC?ZehVGehIqcOTgBqvQzIr`vulPlGa>yprInG>gPg_jnHqgYGDIeiPHcgACzGevLN@tmP[_jbXi:PbGMPRIiHJiDifGAGtOSFVsuj;iBgHgz?Hhioih]g?O?]liXi@gyhfGyigHPjVhfG;gNgwGNi<j[g`TKi]HmAKruiChSUbpbaho@HsFShEFVqkgeatjGhYG[gogKjcha_uhVqvuhH_Fsixj@hAIL`CG=h_N;ipRKr:pMh>o;FeF?G?i]hRjKqtM:gOIfgAuUhEIghahLGpjvhAHZFMhGbAi`qNhbjNgQgRgFiHFrhfhTsIg^ubHmgjjuGvh]OJWGgbhzgPHeH:XEjzG>IXDrgIQZYOhAHpj=jpH^i?TBXzghjzhhhng?Ripoh:WeuUkMrshsVQF>WkV^ibFkhAj_hBY_VcYbj^BoV]hoVN_Un_:cFOIa?KrFWKUuOmj>jkVAEXGYgtjVW_VnicV<Y=rHiR;EhM[Mn>HjaOgCgY=gfNsRRg:A;::".charCodeAt(Z++))?N-59:N-58),A|=(0<(N&(G/=2))?1:0)<<F,++F}for(var _,A,F,t,N,s=[],b=1,u=3,J=1,o=[],G=0,Z=0;;){if(a(J+1),2==A)return o.join("");-2&(t=A)||(a(8*A+8),s[t=u++]=String.fromCharCode(A),--b||(b=2<<J++)),o.push(t=s[t]||_+_[0]),_&&(s[u++]=_+t[0],--b||(b=2<<J++)),_=t}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var _ in t) t.hasOwnProperty(_) && (e[_] = t[_]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+taoleFestivalLoginPanel; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = "TaoleFestivalLoginPanelSkin",
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            KTool.getMultiValue([121538, 201511],
+            function(e) {
+                t.sumSignDay = e[0],
+                t.todayHasGot = 1 == e[1],
+                t.initEvent()
+            }),
+            this.bbg.pixelHitTest = !0,
+            EventManager.once(ModuleEvent.OPEN_MODULE,
+            function() {
+                LevelManager.appLevel.getChildByName("sp").addEventListener(egret.TouchEvent.TOUCH_TAP, t.onClose, t)
+            },
+            this);
+            var i = new Date("2022/11/25").getTime(),
+            _ = SystemTimerManager.sysBJDate.getTime();
+            this.todayIdx = Math.ceil((_ - i) / 1e3 / 60 / 60 / 24),
+            this.update()
+        },
+        t.prototype.initEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                e.onClose()
+            },
+            this),
+            this.hasGots.touchEnabled = !1;
+            for (var t = function(t) {
+                var _ = t;
+                if (ImageButtonUtil.add(i["reward_" + _],
+                function() {
+                    var t = e.todayHasGot ? 0 : 1;
+                    if (e.sumSignDay + t < _, e.sumSignDay + t == _) {
+                        e["hasGot_" + _].visible = !0,
+                        e["reward_" + _].filters = [];
+                        var i = e.sumSignDay + 1;
+                        i = i >= 16 ? 16 : i,
+                        i = 1 >= i ? 1 : i,
+                        SocketConnection.sendWithPromise(41388, [54, i]).then(function() {
+                            e.update()
+                        })
+                    } else if (BubblerManager.getInstance().showText("您的签到天数不足，暂时无法领取该奖励哦！"), 7 == _) {
+                        var a = {};
+                        a.ins = 42295,
+                        tipsPop.TipsPop.openCounterMarkPop(a)
+                    } else if (13 == _) {
+                        var a = {};
+                        a.ins = 42294,
+                        tipsPop.TipsPop.openCounterMarkPop(a)
+                    } else tipsPop.TipsPop.openMultiItemsPop("3_1400152_1;3_1400153_1;3_300697_1", "第" + _ + "天签到获得")
+                },
+                i, !0, !1), i.sumSignDay + (i.todayHasGot ? 0 : 1) == _ && !i.todayHasGot) {
+                    var a = new egret.GlowFilter(16766720, .4, 8, 8, 7);
+                    i["reward_" + _].filters = [a]
+                }
+            },
+            i = this, _ = 1; 16 >= _; _++) t(_)
+        },
+        t.prototype.update = function() {
+            var e = this;
+            KTool.getMultiValue([121538, 201511],
+            function(t) {
+                e.sumSignDay = t[0],
+                e.todayHasGot = 1 == t[1];
+                for (var i = 1; 16 >= i; i++) {
+                    var _ = i <= e.sumSignDay;
+                    e["hasGot_" + i].visible = _,
+                    e["reward_" + i].touchEnabled = !_
+                }
+            })
+        },
+        t.prototype.destroy = function() {
+            LevelManager.appLevel.getChildByName("sp").removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onClose, this),
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseModule);
+    e.TaoleFestivalLoginPanel = t,
+    __reflect(t.prototype, "taoleFestivalLoginPanel.TaoleFestivalLoginPanel")
+} (taoleFestivalLoginPanel || (taoleFestivalLoginPanel = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var _ in t) t.hasOwnProperty(_) && (e[_] = t[_]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/TaoleFestivalLoginPanelSkin.exml"] = window.TaoleFestivalLoginPanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bbg", "btnClose", "a_2", "reward_2", "a_3", "reward_3", "a_4", "reward_4", "a_5", "reward_5", "a_6", "reward_6", "a_8", "reward_8", "a_9", "reward_9", "a_10", "reward_10", "a_11", "reward_11", "a_12", "reward_12", "a_14", "reward_14", "a_15", "reward_15", "a_16", "reward_16", "reward_1", "reward_7", "reward_13", "rewards", "hasGot_2", "hasGot_3", "hasGot_4", "hasGot_5", "hasGot_6", "hasGot_8", "hasGot_9", "hasGot_10", "hasGot_11", "hasGot_12", "hasGot_14", "hasGot_15", "hasGot_16", "hasGot_1", "hasGot_13", "hasGot_7", "hasGots"],
+        this.elementsContent = [this.bbg_i(), this.btnClose_i(), this.rewards_i(), this.hasGots_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bbg_i = function() {
+        var e = new eui.Image;
+        return this.bbg = e,
+        e.height = 616,
+        e.source = "taole_festival_login_panel_bbg_png",
+        e.width = 1002,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.height = 33,
+        e.source = "title_pop_2022_btnclose_png",
+        e.visible = !0,
+        e.width = 33,
+        e.x = 960.59,
+        e.y = 30.69,
+        e
+    },
+    i.rewards_i = function() {
+        var e = new eui.Group;
+        return this.rewards = e,
+        e.x = 149.26,
+        e.y = 169,
+        e.elementsContent = [this.reward_2_i(), this.reward_3_i(), this.reward_4_i(), this.reward_5_i(), this.reward_6_i(), this.reward_8_i(), this.reward_9_i(), this.reward_10_i(), this.reward_11_i(), this.reward_12_i(), this.reward_14_i(), this.reward_15_i(), this.reward_16_i(), this.reward_1_i(), this.reward_7_i(), this.reward_13_i()],
+        e
+    },
+    i.reward_2_i = function() {
+        var e = new eui.Group;
+        return this.reward_2 = e,
+        e.visible = !0,
+        e.x = 211.74,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.a_2_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_2_i = function() {
+        var e = new eui.Image;
+        return this.a_2 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_2_png",
+        e.width = 63,
+        e.x = 24,
+        e.y = 2,
+        e
+    },
+    i.reward_3_i = function() {
+        var e = new eui.Group;
+        return this.reward_3 = e,
+        e.visible = !0,
+        e.x = 332.74,
+        e.y = 0,
+        e.elementsContent = [this._Image2_i(), this.a_3_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_3_i = function() {
+        var e = new eui.Image;
+        return this.a_3 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_3_png",
+        e.width = 63,
+        e.x = 24,
+        e.y = 2,
+        e
+    },
+    i.reward_4_i = function() {
+        var e = new eui.Group;
+        return this.reward_4 = e,
+        e.x = 453.74,
+        e.y = 0,
+        e.elementsContent = [this._Image3_i(), this.a_4_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_4_i = function() {
+        var e = new eui.Image;
+        return this.a_4 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_4_png",
+        e.width = 63,
+        e.x = 24,
+        e.y = 2,
+        e
+    },
+    i.reward_5_i = function() {
+        var e = new eui.Group;
+        return this.reward_5 = e,
+        e.x = 574.74,
+        e.y = 0,
+        e.elementsContent = [this._Image4_i(), this.a_5_i()],
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_5_i = function() {
+        var e = new eui.Image;
+        return this.a_5 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_5_png",
+        e.width = 63,
+        e.x = 24,
+        e.y = 2,
+        e
+    },
+    i.reward_6_i = function() {
+        var e = new eui.Group;
+        return this.reward_6 = e,
+        e.x = 54.24,
+        e.y = 132,
+        e.elementsContent = [this._Image5_i(), this.a_6_i()],
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_6_i = function() {
+        var e = new eui.Image;
+        return this.a_6 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_6_png",
+        e.width = 63,
+        e.x = 24.5,
+        e.y = 2,
+        e
+    },
+    i.reward_8_i = function() {
+        var e = new eui.Group;
+        return this.reward_8 = e,
+        e.x = 296.38,
+        e.y = 132,
+        e.elementsContent = [this._Image6_i(), this.a_8_i()],
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_8_i = function() {
+        var e = new eui.Image;
+        return this.a_8 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_8_png",
+        e.width = 63,
+        e.x = 24.36,
+        e.y = 2,
+        e
+    },
+    i.reward_9_i = function() {
+        var e = new eui.Group;
+        return this.reward_9 = e,
+        e.x = 417.38,
+        e.y = 132,
+        e.elementsContent = [this._Image7_i(), this.a_9_i()],
+        e
+    },
+    i._Image7_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_9_i = function() {
+        var e = new eui.Image;
+        return this.a_9 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_9_png",
+        e.width = 63,
+        e.x = 24.36,
+        e.y = 2,
+        e
+    },
+    i.reward_10_i = function() {
+        var e = new eui.Group;
+        return this.reward_10 = e,
+        e.x = 538.38,
+        e.y = 132,
+        e.elementsContent = [this._Image8_i(), this.a_10_i()],
+        e
+    },
+    i._Image8_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_10_i = function() {
+        var e = new eui.Image;
+        return this.a_10 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_10_png",
+        e.width = 70,
+        e.x = 20.36,
+        e.y = 2,
+        e
+    },
+    i.reward_11_i = function() {
+        var e = new eui.Group;
+        return this.reward_11 = e,
+        e.x = 0,
+        e.y = 263,
+        e.elementsContent = [this._Image9_i(), this.a_11_i()],
+        e
+    },
+    i._Image9_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_11_i = function() {
+        var e = new eui.Image;
+        return this.a_11 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_11_png",
+        e.width = 67,
+        e.x = 22.74,
+        e.y = 2,
+        e
+    },
+    i.reward_12_i = function() {
+        var e = new eui.Group;
+        return this.reward_12 = e,
+        e.x = 121.59,
+        e.y = 263,
+        e.elementsContent = [this._Image10_i(), this.a_12_i()],
+        e
+    },
+    i._Image10_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_12_i = function() {
+        var e = new eui.Image;
+        return this.a_12 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_12_png",
+        e.width = 71,
+        e.x = 20.15,
+        e.y = 2,
+        e
+    },
+    i.reward_14_i = function() {
+        var e = new eui.Group;
+        return this.reward_14 = e,
+        e.x = 363.15,
+        e.y = 263,
+        e.elementsContent = [this._Image11_i(), this.a_14_i()],
+        e
+    },
+    i._Image11_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_14_i = function() {
+        var e = new eui.Image;
+        return this.a_14 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_14_png",
+        e.width = 71,
+        e.x = 20.59,
+        e.y = 2,
+        e
+    },
+    i.reward_15_i = function() {
+        var e = new eui.Group;
+        return this.reward_15 = e,
+        e.x = 484.15,
+        e.y = 263,
+        e.elementsContent = [this._Image12_i(), this.a_15_i()],
+        e
+    },
+    i._Image12_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_15_i = function() {
+        var e = new eui.Image;
+        return this.a_15 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_15_png",
+        e.width = 71,
+        e.x = 20.59,
+        e.y = 2,
+        e
+    },
+    i.reward_16_i = function() {
+        var e = new eui.Group;
+        return this.reward_16 = e,
+        e.x = 605.15,
+        e.y = 263,
+        e.elementsContent = [this._Image13_i(), this.a_16_i()],
+        e
+    },
+    i._Image13_i = function() {
+        var e = new eui.Image;
+        return e.height = 120,
+        e.source = "taole_festival_login_panel_zu_4_png",
+        e.visible = !0,
+        e.width = 111,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.a_16_i = function() {
+        var e = new eui.Image;
+        return this.a_16 = e,
+        e.height = 20,
+        e.source = "taole_festival_login_panel_16_png",
+        e.width = 71,
+        e.x = 20.59,
+        e.y = 2,
+        e
+    },
+    i.reward_1_i = function() {
+        var e = new eui.Image;
+        return this.reward_1 = e,
+        e.height = 120,
+        e.source = "taole_festival_login_panel_r1_png",
+        e.width = 117,
+        e.x = 84.74,
+        e.y = 0,
+        e
+    },
+    i.reward_7_i = function() {
+        var e = new eui.Image;
+        return this.reward_7 = e,
+        e.height = 120,
+        e.source = "taole_festival_login_panel_r7_png",
+        e.width = 117,
+        e.x = 168.74,
+        e.y = 132,
+        e
+    },
+    i.reward_13_i = function() {
+        var e = new eui.Image;
+        return this.reward_13 = e,
+        e.height = 120,
+        e.source = "taole_festival_login_panel_r13_png",
+        e.width = 117,
+        e.x = 236.74,
+        e.y = 263,
+        e
+    },
+    i.hasGots_i = function() {
+        var e = new eui.Group;
+        return this.hasGots = e,
+        e.x = 164.46,
+        e.y = 200,
+        e.elementsContent = [this.hasGot_2_i(), this.hasGot_3_i(), this.hasGot_4_i(), this.hasGot_5_i(), this.hasGot_6_i(), this.hasGot_8_i(), this.hasGot_9_i(), this.hasGot_10_i(), this.hasGot_11_i(), this.hasGot_12_i(), this.hasGot_14_i(), this.hasGot_15_i(), this.hasGot_16_i(), this.hasGot_1_i(), this.hasGot_13_i(), this.hasGot_7_i()],
+        e
+    },
+    i.hasGot_2_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_2 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 212.27,
+        e.y = 0,
+        e
+    },
+    i.hasGot_3_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_3 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 333.04,
+        e.y = 0,
+        e
+    },
+    i.hasGot_4_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_4 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 454.04,
+        e.y = 0,
+        e
+    },
+    i.hasGot_5_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_5 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 575.04,
+        e.y = 0,
+        e
+    },
+    i.hasGot_6_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_6 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 54.54,
+        e.y = 132.1,
+        e
+    },
+    i.hasGot_8_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_8 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 296.73,
+        e.y = 132.1,
+        e
+    },
+    i.hasGot_9_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_9 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 417.68,
+        e.y = 132.1,
+        e
+    },
+    i.hasGot_10_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_10 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 538.88,
+        e.y = 132.1,
+        e
+    },
+    i.hasGot_11_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_11 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 0,
+        e.y = 263.54,
+        e
+    },
+    i.hasGot_12_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_12 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 121.46,
+        e.y = 263.54,
+        e
+    },
+    i.hasGot_14_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_14 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 363.47,
+        e.y = 263.54,
+        e
+    },
+    i.hasGot_15_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_15 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 484.47,
+        e.y = 263.54,
+        e
+    },
+    i.hasGot_16_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_16 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot_png",
+        e.width = 77,
+        e.x = 605.47,
+        e.y = 263.54,
+        e
+    },
+    i.hasGot_1_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_1 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot2_png",
+        e.width = 77,
+        e.x = 90.54,
+        e.y = 0,
+        e
+    },
+    i.hasGot_13_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_13 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot2_png",
+        e.width = 77,
+        e.x = 242.9,
+        e.y = 262.36,
+        e
+    },
+    i.hasGot_7_i = function() {
+        var e = new eui.Image;
+        return this.hasGot_7 = e,
+        e.height = 77,
+        e.source = "taole_festival_login_panel_hasGot2_png",
+        e.width = 77,
+        e.x = 175.2,
+        e.y = 132.1,
+        e
+    },
+    t
+} (eui.Skin);

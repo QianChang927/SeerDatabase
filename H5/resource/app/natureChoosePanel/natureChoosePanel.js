@@ -1,1 +1,689 @@
-eval(function(){function w(w){for(M=L=0;M<w;)C<2&&(C=64,m=92<(m="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;BL=kP<?poV[lS:A_:WlR:;M:HHn:UU^;[>`s^F?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwCSYCbZ:RKkH=Z>H:n>:jC=v:<>SJDQ?sR`uJokoFDVGDfADZnwCJK[Z_I]JL;oDJ>kZRhQqwAJro@e]ZwOwB>NRNdpHZN>mVNLHZgkZ>`kXZNwy<JwQZE;yw?wVA]LIKFCswI:>=ZmNB:aXfoeYATFkP:=NwDw:EDZ_::VnZR>w_h]:;?><:a>[o:;`@kcVR:Bk:OfKe[MI<:<SUOJKhSs_A[N:;f>o>TF:<O;wKJvPKgCecnkwMZpJgt<sImJZGnkb<ifN;iGdchOchu::_]l@e=NDP<rRP?QChmk:CobL@PPyYWMcDVspthSSY_NMN;zMoBmP>u_IbKswC;Ha[lfB@<NM<FIoD?i::[PKkBoVXCHi:A<J:HLyjryCS;RFNO>JD:kHbtRsrAk:;>blNey:C:[yV;BHJnvZQ:YmJV<cBkV;;ks^H@DciaaEODB<CRA]JT>fNdCoHLECZC]`:c<ka::>k:Dlw`:JCB;ZwAYA:=RmZ:h::^AmwR=Fy:<qDdVK;vucNZEfKZF:][?KZmK=>bB>Gmxs^`VZc=AZ;K;bZ:;XodRYDy?rEdGn_Id[aKeSwMveKDLwfNt;F@c]tkGqpM[<F@tuLk;_:DE:A>u;CE[y>GaCtdk@XM=cDVE::Dc?E;B=lI>[tpCuu=]`k<;s@:Rbx[JQ::<cV<oH<lY?]QCOktN>EmxNPcpDQdQZaQSU`t=tXDlS:]p;RgGOhQhJ`LNdLp;lW@:IKD]e:bvA:::wcToQ>To:GLvRe_;RENK^:PTR;e?:k@vQ:d^v<FbkLSZSoQOWGpw``wK[K?::m[;SCTj=bQ:BkMTZH=YLkcI^D`IkC`:`N:BBnDGONpX=:=]wmXLuF@oAGcMyJ;av_I:R_VH?_HKXSVu]?GbOVGpg?_lMV<BkXSAv:hLqJ<hTqUXtN;oQh;o>NelodDWtqQWWhrrTMV=_tMsOJrx^KlB=V=:u=uFJmfoHkz=LFcytTHpO^GOeE^ju<@K[FuJDG`:iZhcF^MgB`?S^hqHJniioinatLLcpJ@Cp^ysmCsHs;Ihat^qGPr^@=ioN[qBb]rl]iZ`QZIPt<IQ:xo=ilb>j^lFc:AsOmF;;eC@Y^:OWk[@:Cd]<TGbbXUtlv>sDbWLhqDYsWn<CwlhPp<nhV=vPb>i>DWv@o@xVg^F:[;sCuD:MmQu;LXQio<SZKxkIU:QPUAsquzMFpV>Ixt]oWcUv:J_k@X=z]cCb>Ntq:xS]=sJB[^d>@^wBeCNlB@:JIpG]F?LsBOsih::=FB?L>;Z:V@n;:KDbdGuP[GCwPgt;ulG[U@kWgPZH<M>ed_UZk?:=joR:L:M:<QKc::r`:=I;c:JF^::qwR:G@O::[Uc:VZG::w?i[YRa?;S[k^ic>@:ki^vASdT@izkXn:N:ARXZ:gvJsR:F;pfee:EfhR<Q=:;@lc:E^`ffNC]::FMTA?W:MF]>Zk:>fL_e^>UZXw::TKcYdG]u:srXB:CEJCrbjQ]k[[:@H>R:W;O:=szw;IZoOFm[r=ZmSm?sRn_;:@cHip[znCD_Y]C:uMcnHMCCJLKeM<aP^s<RLZBLmuwMqAmY:HRwnQ`j<ZY;wNfJhDj=XHwh<kEVLJ^CF>V>ms^DZfCW<cJ=]X_`G@YR:<s;:Bc<:sTV:x=iOuPozdbLTmP]n=aWd:nJBMEY?FgSXxC_cM;=FcaZNUEU]b>IXV?;w`ilQ:LWVtwhnq;rAiJdiO^mbZfGq;wt:U`ZgGCFM:X:B]k;zAuBsjmJC=H_dVa<_DEb:bp=<aSr;oPBKlW;C:=;<QbHJeLn:c[S_RLO@dEB]KJk_>?imWLqKV[m[KFNFJi?D^sQV`sSgMJP]bAT<Y>XLdy]Ra><FFR;:d]nAaBgSRelp[k?q=gER;kNQXlO@YYOInxNT^X@>YRfw>]NBVLwF:NcJedJUCZLpwKfNP`hYTlp=;TOwAWSTMp=Sp<y;k>_IpWfRZHg=PcRGHJu:yf=J@rqvdv<RAJSZl;jeGU[fZC@rq<`akoj<:a]G^eZqs:BDWX:;:TdZ=U::X^Z>kI:U?wo>=fWV_`g`tB=ABG>FLL;ZEU;WWT^hODirtfjbmv`?Jz;]@B[nOmcoKDnA:GMNuB<k@`Q]V;WSCShqEkk?::Lyu_vc<Z:l>xGgc::@SEpEk:<lrgIJ:M]YPXZL]<rpAiIL;:xvuEqzhIO:C]Qu:;gQu:=gQu::VQu;Drg:pXZL^v>GEk>];p=[u;EZVkqX[]IvZCzjIJ;k^J@@BBWBpX[]DADGEqRb;e=i@^qkTRkCOxM@@DYd:hEBxquXF_SslKb^G@XIgSXdW=xYAQc<JBnlZL:bQcRY>p:A=mb@IDSRwdy=NaCF]X_odiMeatIeU_tdiMRbyGVXNz[bMlAUI_YgrdmuxAn=UEZAZFoH:g;FLR[axmfxs]s>k;yl;E?rCsk_`=:Zc<cRKPFBEDT:_c;O=Vg:ZeFQ]e`PLraWmiuZMSWLlJB^LPNhEfBkOgfOvfoOYV_KyxGQo[>XYJpcfJ@IohUeFO_fHQ@hhRR[prqJ@aB=TBu;_UJ@BI^TjW;eUTAei`Weqpyf<rXhBX@mhpfL@lgUVuqKvf[QWhNYunhkUOAtgxVqrKtU?r=hoYPnWovTACgbXDnG`vUQajjTcsZZUVbYijPHkxkMzrEfQRHoJpubqZYLSymWiMyrKdmV;y=b^xqNXjPqx=munqgWJ=Xv^y=BH^pZwKzdcbqAmVszKlCzApH^pJvdtlcbyAaYBxCwtwv^HLYiQsq^okcK@NTLojLzc?lA`q:d<=O_hC>jCWXJzSNdf`KGjB?GLQs?;ZL;kHtnnrbYItZBI]H:nugUS]OpfL_t;b>R?;@T?:r;frQdRjXu=>@y<HtRZCQ_>[erY=UFxB`NZVOJ@^P<D:bcnJ[tR@TXC>Zc]R:nKBTV]Yk]e:rLkMER_tXCBOme?sUl@qe=OuZrEuQGp]LV:Uahzin_BL=w[>Ig`kw?P?SbeIFYwnlzjWXu=ySdnriYNC>yJZ;fdRqWbuW<dVzatOwQeQp?O`tMAmPLjIjewe`fxlXjCS@x[w@hBAYT[cylzBIAtxc@@CxwkGX]keYAhRRbvH=FozwzDuEr?<oujPLETJujoRHijGZhEwpwzVGx:xkR@xJwRBR>fo^wHwC::gZhtGHxF;voBF[xm;dlbpZ<vw]G^htWKsSxrxscjw?wYwuFzxhVIG:=_<J=Tok<mthxwgc<_:R<`ss<Mx><V:Z<N<o<F=dltFV<Kw]Gtg<=`c]=OVIx<sLxOg`tfpD<:<g;T=YSpw:x@<B==waw]FH=wki<X<sxN=o<fxoF[xV<ZG`gl=XRC<twGW?xvwnpvo?=e<`=Z<O=J<p<uwG=a<h<ZFW<>=gk_=Q<iw^<_xZhcGM=[<ZGIhE=?WQx<xC<L<S=EgQob=WWx<r=u<I<hwj<s;Wxc=h=^xW<:^i=`<nxJGy=F;;xUxB]_GRVR]wxGKs]U=jxS<gG>?N]T=Q=YWF^Gxs:a=V]P<q==oz=m:x=L^D^m^^=wGe^O:ihAxgBos@]<xSwd=L=FKP^rp=tU[zxb=o^i]Txk=Zx;]<^s=K^]^o]m]D]M<S^v<^pw<Vx<<s]O^>^txp^_^zoH]Q<exr=X^V]V]w^P<M^H=n^l^nwf^k]U]]Gphu^f=O]_^Uh=oaCI]x^O=Y^y]:L[]noK]l]Z^=<D^wGJGBLZGhgRLb^]=IxsMU^JG_M`=x]@=I<^]Y=R=<^z=:gL^VLy<fxeG<M[xS]Cht]EC?^RLQ^U=m==oBFTLi^NM=^B<aMq<PLn]qLE]wLiLBFXLn=dg;MTSA^@^b]DMQ]v<]GcGCMj]X]SMG<kwZL]]`Ml^HMJ^fp>?pLT]tghMbwWM`^mMd<=LlMrpt=h]e<o^TMdMp=@MEMY<?LVLN<kLiMgF]L_FE<A^l<mL>^xMKLG^]VMLu<=]JnSLknaMM^Bm==cnJ^iLsmoGcM>mf=_na]m=onoGFmF^gm@MVnw^km<mJMVM]nF=@BpLmmgFLMDnR^WMILp^=LqheMzM?<NLY^nMj<wntMqmUMHnC^vMALymwFLhLM[mNmjLonr^noh^wk:nH^MLang^JnPnwnZL`nX<J^infpvo[<yL^hQLdxrLrwWnKmYM]F@muLg]y^z^^]qnfn:^UmD^foBFbnU^mGQnwCrma]sMjMonmGYnZnamEMEm?mJEqLkDfxvp>>B^bmfhRD[Men>Dxm>LwGA=CnW]ZmSmVmFE:MZEfMJD=<vMinix<EcDDnCwsD_nhmTmr^DEno_LTE:mdMuEoDtnFE[]BmHnVEJ^voOmGLbgLDQw;EmDP^xm;BCLlDMmgnuMnmPmaDfmPDVD]mOnvnAnpnaFpEsDxMWmhE[D;C^LxDj]=Ezmz]EmMDgDnE`LindkBDcE]hc^;m`]In;Dlm_GbpNECD^E@EFMqxgEzEEEyw<DUDaW=:kf[MNmbEcEq]rEdmnL@EdDYESE?nPEMwC]D^iwcDzggfXELEhmESIBjnoZtFzxPlzZk;lZ>:>;bRI>>xwkieq[XfyeJR:;GBTfQDV[]QjO_cEUj@z:ko=KIUgu=STizY^Hmz]^owZ?ehJGe]ZY^MehZUegTZTuTnCFuoTjetqDThTswf:HTjmdT`:pTskqZfTpuNJvDtFZucuicJMNu]:beiu_@JThT_Tg@wTx:;ucwqTyTlNlTlrWuhTZJumr_]ANAATegte[HJ@v@e:T]sTaua@mue@ga]umTeudul]C@jJhu`Tx@sEL<asoMQ@cVjTZ@m_oM>@wuw@x:L@oao@uai@qal@pup@Zkbn?a^TxaaAMawDyBbad<suaAYaquq@sP]JT@gPy@aTrR`u[TvZdaeeqPnunT_YXACP]JpP]]caaMMPwa]@eujPkPZqbRhBsqt@oquPwqzQNBt=DqpJCAPqzuZarauM;]SqgPbPuuoP^q]Pcq[awsgqyI<qcHhaf@pAVHz@mqJapAPHkPyHxqq@nqiabqlazqyI=u_g^x;Pmu:VlexLvamHhPc@^ARivPhqeadHlumP_qp:ain:Hivgw^XTvuvAIHhiZieHvAUi]a_PZPwitHvqpHdNxHoX`a[]<=?ITqpuGvEVqXpeyXjAKXpqmalHpXZX`HePtTeegXuV;]SxGrAHuMQu`iympJXqjDiMIotXfPdXrPjiay[@iycXfXnHwXl;GyeXsb@X^wryqgxPrM<ycPriuyyuhXk:eihH_Xu;ty]<licxA]dzGwrTd;xi[qiMNLk;`q^;ey`Xv;qyxXyy`:k[l]N=H;Zy]MSiw[j]j@_ykugyv=W;oio;`[w;h[m;Z[kHwXwz>[bLl;`Pu[jyuMQLy[iHn;t[aap[r;^X`@[y^HyKkDlrVZKKxyab?K`QS;cLlqpmfK_ibKc;jKuKZlx[aPoluz<z<ldooHuMNDfym[pKiX^ilqaDvRgis;[HrKwPzKtukljqsln:M[uxJYIl_[nDsye[gCa[ZA:edlbid[plyCxllCnlZH`alwZLMCelZwalbyhK`;nitnJw_;f;mycdeKkqaKrqsX`Cdyuz;wfCyssCcKrCoywCz^@HeCmKfd^diC]ikXzdfXcSuxN=>Hcaa<[eZKdesKkiZA:;lSod]Kndgdrd^lqKkS`axCieZA;FwSfamS_KuS[twK`l[[tS];pS_XcSlwfSrbKdzTtdylrb=t_dftb;]duth@j<d]BJ_wQZ?QUh?Z:sB::".charCodeAt(a++))?m-59:m-58),L|=(0<(m&(C/=2))?1:0)<<M,++M}for(var Z,L,M,n,m,u=[],o=1,k=3,x=1,J=[],C=0,a=0;;){if(w(x+1),2==L)return J.join("");-2&(n=L)||(w(8*L+8),u[n=k++]=String.fromCharCode(L),--o||(o=2<<x++)),J.push(n=u[n]||Z+Z[0]),Z&&(u[k++]=Z+n[0],--o||(o=2<<x++)),Z=n}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var r in t) t.hasOwnProperty(r) && (e[r] = t[r]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+natureChoosePanel; !
+function(e) {
+    var t = function(e) {
+        function t(t) {
+            var i = e.call(this, t) || this;
+            return i._data = t,
+            i
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var e = this,
+            t = new i,
+            r = PopViewManager.createDefaultStyleObject();
+            r.caller = this,
+            r.clickMaskHandler = function() {
+                t.hide(),
+                e.onClose()
+            },
+            PopViewManager.getInstance().openView(t, r, this._data)
+        },
+        t.prototype.destroy = function() {
+            this._data = null,
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseModule);
+    e.NatureChoosePanel = t,
+    __reflect(t.prototype, "natureChoosePanel.NatureChoosePanel");
+    var i = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t._len = 25,
+            t._selctNatureId = -1,
+            t.skinName = NatureChoosePanelSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.initialized = function() {
+            e.prototype.initialized.call(this),
+            this.updateView()
+        },
+        t.prototype.initEvents = function() {
+            ImageButtonUtil.add(this.btnConfirm, this.onTouchImageButton, this),
+            ImageButtonUtil.add(this.btnClose, this.onTouchImageButton, this);
+            for (var e = 1; e <= this._len; e++) {
+                var t = this["grp_" + e];
+                t.name = "grp_" + e,
+                t.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchGroupSelect, this)
+            }
+        },
+        t.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this);
+            for (var e = 1; e <= this._len; e++) {
+                var t = this["grp_" + e];
+                t.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchGroupSelect, this)
+            }
+        },
+        t.prototype.setData = function(t) {
+            e.prototype.setData.call(this, t),
+            this._myData = t
+        },
+        t.prototype.onTouchGroupSelect = function(e) {
+            var t = e.currentTarget.name;
+            this._selctNatureId = ~~t.split("_")[1] - 1,
+            this.updateView()
+        },
+        t.prototype.updateView = function() {
+            for (var e = 1; e <= this._len; e++) {
+                var t = this["select_" + e];
+                t.visible = this._selctNatureId + 1 === e
+            }
+        },
+        t.prototype.onTouchImageButton = function(e) {
+            var t = this;
+            switch (e.currentTarget) {
+            case this.btnConfirm:
+                if (this._selctNatureId < 0) return void BubblerManager.getInstance().showText("请选择你想要转化的性格");
+                var i = this._myData.petinfo;
+                Alert.show("确定要将" + i.name + "转换为" + TextFormatUtil.getRedTxt(NatureXMLInfo.getName(this._selctNatureId)) + "性格吗？",
+                function() {
+                    t._myData.callBack.apply(t._myData.callBack.call || t._myData.caller, [t._selctNatureId]),
+                    t.hide(),
+                    ModuleManager.hideModule("natureChoosePanel.NatureChoosePanel")
+                });
+                break;
+            case this.btnClose:
+                this.hide(),
+                ModuleManager.hideModule("natureChoosePanel.NatureChoosePanel")
+            }
+        },
+        t.prototype.destroy = function() {
+            this._myData = null,
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (PopView);
+    e.ChoosePopView = i,
+    __reflect(i.prototype, "natureChoosePanel.ChoosePopView")
+} (natureChoosePanel || (natureChoosePanel = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var r in t) t.hasOwnProperty(r) && (e[r] = t[r]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/NatureChoosePanelSkin.exml"] = window.NatureChoosePanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnConfirm", "btnClose", "select_1", "select_2", "select_3", "select_4", "select_9", "select_10", "select_11", "select_12", "select_5", "select_6", "select_7", "select_8", "select_13", "select_14", "select_15", "select_16", "select_21", "select_22", "select_23", "select_24", "select_25", "select_17", "select_18", "select_19", "select_20", "grp_1", "grp_2", "grp_3", "grp_4", "grp_9", "grp_10", "grp_11", "grp_12", "grp_5", "grp_6", "grp_7", "grp_8", "grp_13", "grp_14", "grp_15", "grp_16", "grp_17", "grp_18", "grp_19", "grp_20", "grp_21", "grp_22", "grp_23", "grp_24", "grp_25"],
+        this.height = 550,
+        this.width = 1005,
+        this.elementsContent = [this._Image1_i(), this.btnConfirm_i(), this.btnClose_i(), this.select_1_i(), this.select_2_i(), this.select_3_i(), this.select_4_i(), this.select_9_i(), this.select_10_i(), this.select_11_i(), this.select_12_i(), this.select_5_i(), this.select_6_i(), this.select_7_i(), this.select_8_i(), this.select_13_i(), this.select_14_i(), this.select_15_i(), this.select_16_i(), this.select_21_i(), this.select_22_i(), this.select_23_i(), this.select_24_i(), this.select_25_i(), this.select_17_i(), this.select_18_i(), this.select_19_i(), this.select_20_i(), this.grp_1_i(), this.grp_2_i(), this.grp_3_i(), this.grp_4_i(), this.grp_9_i(), this.grp_10_i(), this.grp_11_i(), this.grp_12_i(), this.grp_5_i(), this.grp_6_i(), this.grp_7_i(), this.grp_8_i(), this.grp_13_i(), this.grp_14_i(), this.grp_15_i(), this.grp_16_i(), this.grp_17_i(), this.grp_18_i(), this.grp_19_i(), this.grp_20_i(), this.grp_21_i(), this.grp_22_i(), this.grp_23_i(), this.grp_24_i(), this.grp_25_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 550,
+        e.scale9Grid = new egret.Rectangle(335, 487, 335, 1),
+        e.source = "nature_choose_panel_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnConfirm_i = function() {
+        var e = new eui.Image;
+        return this.btnConfirm = e,
+        e.source = "nature_choose_panel_btnconfirm_png",
+        e.x = 438,
+        e.y = 491,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "nature_choose_panel_btnclose_png",
+        e.x = 962,
+        e.y = 3,
+        e
+    },
+    i.select_1_i = function() {
+        var e = new eui.Image;
+        return this.select_1 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 92,
+        e
+    },
+    i.select_2_i = function() {
+        var e = new eui.Image;
+        return this.select_2 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 122,
+        e
+    },
+    i.select_3_i = function() {
+        var e = new eui.Image;
+        return this.select_3 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 151,
+        e
+    },
+    i.select_4_i = function() {
+        var e = new eui.Image;
+        return this.select_4 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 181,
+        e
+    },
+    i.select_9_i = function() {
+        var e = new eui.Image;
+        return this.select_9 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 91,
+        e
+    },
+    i.select_10_i = function() {
+        var e = new eui.Image;
+        return this.select_10 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 121,
+        e
+    },
+    i.select_11_i = function() {
+        var e = new eui.Image;
+        return this.select_11 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 151,
+        e
+    },
+    i.select_12_i = function() {
+        var e = new eui.Image;
+        return this.select_12 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 181,
+        e
+    },
+    i.select_5_i = function() {
+        var e = new eui.Image;
+        return this.select_5 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 216,
+        e
+    },
+    i.select_6_i = function() {
+        var e = new eui.Image;
+        return this.select_6 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 246,
+        e
+    },
+    i.select_7_i = function() {
+        var e = new eui.Image;
+        return this.select_7 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 276,
+        e
+    },
+    i.select_8_i = function() {
+        var e = new eui.Image;
+        return this.select_8 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 306,
+        e
+    },
+    i.select_13_i = function() {
+        var e = new eui.Image;
+        return this.select_13 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 216,
+        e
+    },
+    i.select_14_i = function() {
+        var e = new eui.Image;
+        return this.select_14 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 246,
+        e
+    },
+    i.select_15_i = function() {
+        var e = new eui.Image;
+        return this.select_15 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 276,
+        e
+    },
+    i.select_16_i = function() {
+        var e = new eui.Image;
+        return this.select_16 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 306,
+        e
+    },
+    i.select_21_i = function() {
+        var e = new eui.Image;
+        return this.select_21 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 342,
+        e
+    },
+    i.select_22_i = function() {
+        var e = new eui.Image;
+        return this.select_22 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 372,
+        e
+    },
+    i.select_23_i = function() {
+        var e = new eui.Image;
+        return this.select_23 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 401,
+        e
+    },
+    i.select_24_i = function() {
+        var e = new eui.Image;
+        return this.select_24 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 431,
+        e
+    },
+    i.select_25_i = function() {
+        var e = new eui.Image;
+        return this.select_25 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 471,
+        e.y = 461,
+        e
+    },
+    i.select_17_i = function() {
+        var e = new eui.Image;
+        return this.select_17 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 342,
+        e
+    },
+    i.select_18_i = function() {
+        var e = new eui.Image;
+        return this.select_18 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 372,
+        e
+    },
+    i.select_19_i = function() {
+        var e = new eui.Image;
+        return this.select_19 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 401,
+        e
+    },
+    i.select_20_i = function() {
+        var e = new eui.Image;
+        return this.select_20 = e,
+        e.height = 12,
+        e.source = "nature_choose_panel_select_png",
+        e.width = 12,
+        e.x = 961,
+        e.y = 432,
+        e
+    },
+    i.grp_1_i = function() {
+        var e = new eui.Group;
+        return this.grp_1 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 83,
+        e
+    },
+    i.grp_2_i = function() {
+        var e = new eui.Group;
+        return this.grp_2 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 112,
+        e
+    },
+    i.grp_3_i = function() {
+        var e = new eui.Group;
+        return this.grp_3 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 142,
+        e
+    },
+    i.grp_4_i = function() {
+        var e = new eui.Group;
+        return this.grp_4 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 172,
+        e
+    },
+    i.grp_9_i = function() {
+        var e = new eui.Group;
+        return this.grp_9 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 83,
+        e
+    },
+    i.grp_10_i = function() {
+        var e = new eui.Group;
+        return this.grp_10 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 113,
+        e
+    },
+    i.grp_11_i = function() {
+        var e = new eui.Group;
+        return this.grp_11 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 143,
+        e
+    },
+    i.grp_12_i = function() {
+        var e = new eui.Group;
+        return this.grp_12 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 172,
+        e
+    },
+    i.grp_5_i = function() {
+        var e = new eui.Group;
+        return this.grp_5 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 210,
+        e
+    },
+    i.grp_6_i = function() {
+        var e = new eui.Group;
+        return this.grp_6 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 238,
+        e
+    },
+    i.grp_7_i = function() {
+        var e = new eui.Group;
+        return this.grp_7 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 270,
+        e
+    },
+    i.grp_8_i = function() {
+        var e = new eui.Group;
+        return this.grp_8 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 297,
+        e
+    },
+    i.grp_13_i = function() {
+        var e = new eui.Group;
+        return this.grp_13 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 207,
+        e
+    },
+    i.grp_14_i = function() {
+        var e = new eui.Group;
+        return this.grp_14 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 237,
+        e
+    },
+    i.grp_15_i = function() {
+        var e = new eui.Group;
+        return this.grp_15 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 267,
+        e
+    },
+    i.grp_16_i = function() {
+        var e = new eui.Group;
+        return this.grp_16 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 296,
+        e
+    },
+    i.grp_17_i = function() {
+        var e = new eui.Group;
+        return this.grp_17 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 333.96,
+        e
+    },
+    i.grp_18_i = function() {
+        var e = new eui.Group;
+        return this.grp_18 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 362.96,
+        e
+    },
+    i.grp_19_i = function() {
+        var e = new eui.Group;
+        return this.grp_19 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 391.96,
+        e
+    },
+    i.grp_20_i = function() {
+        var e = new eui.Group;
+        return this.grp_20 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 550,
+        e.y = 421.96,
+        e
+    },
+    i.grp_21_i = function() {
+        var e = new eui.Group;
+        return this.grp_21 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 334,
+        e
+    },
+    i.grp_22_i = function() {
+        var e = new eui.Group;
+        return this.grp_22 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 363,
+        e
+    },
+    i.grp_23_i = function() {
+        var e = new eui.Group;
+        return this.grp_23 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 392,
+        e
+    },
+    i.grp_24_i = function() {
+        var e = new eui.Group;
+        return this.grp_24 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 423,
+        e
+    },
+    i.grp_25_i = function() {
+        var e = new eui.Group;
+        return this.grp_25 = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 28,
+        e.width = 433,
+        e.x = 60,
+        e.y = 452,
+        e
+    },
+    t
+} (eui.Skin);

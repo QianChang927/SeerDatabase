@@ -1,1 +1,360 @@
-eval(function(){function J(J){for(D=Z=0;D<J;)K<2&&(K=64,R=92<(R="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B?_fyrQKmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNqkGoq>:U`NpHYJHJHlpRxIUYZ_^ouivM;Rs<Vfk_;RPI@:sF:CkTk:SMk:AFP:;C?[v:<>SJDQ?sR`u><kVFDH^>TBeOLKs:ZVAHI]JL;oDP>=?eXrZu<RRAu>^kgJ:hd<igR:>J:C]Z:@R:HlJ:<FvEsvF?Jc:E::@DP<Z<grB:U<DlNDySmtJ;H<PTe=DoNwrb]sP]srefNLZOm`Q@uPmiP@uqahPVlPmv_apP<wrTZPVeNqmNmyPHkIX^QTrQufpqyODgFympJColsFHtFC]FLZ:VJc=ng?gYMDWhTY^;VMiR`RTEcRfPT^GUMWTx`TZpYF>ZB:@gw<k:ABZC_>Z<<bqyjryR<;cB[E>;jSR?bBBE:TZ:k];N=Zs::[K_:PK:T_wPtrBsByzJMHIa@[NcgcPdhIu_K]VNLr=k:a>JZixo<Mlw<JXCs;RWWs?wH;s_kE>X;eYwM_:vVw;:g<BEZD=s`IR`LNBQxTbB>;sb]:;KAsP=w:^o^vK_:=Nw;XTdk_HLt:HBg]DGKO[mbZoK_JCL`kKj>>xmRW:M[R:;O:c_<B_]wEe::^W;kDJ=Z<AsH=eb>VZiAQWMGHRZJmMsRLJ?>rWlF_aMNI_yC?IB?LP::VMZJKhE>J>H?JUhrIQE[b`sw[GBLQWf::KLRH;cis<O;KtUGgnsBl?KtSWN?dL?sa]:;eJOn>woK:QJQk:;_H;;NLkABWLJPsW`::Qsk;L>F:U`h::e`YpHPfNNii`GoyJZJ:E?N:?np:=xjJ:@CN:<Az:;EzJ;wFo:>EW:;tIJ:=PF:LAyON:FBn:=Q`J:TUrSQEz>mg;gfmkO[?mx`:>dGLU:=OGJ;@dQSQwC@Hs>kQ;S`I?dF=o;De=FASNR<;VosKPsA`F<VEuk=X]?IgSH:PJLTB@>OL@QhdP@IgKwZ>TKbDcZR;EoX[fAsXSNv<UcI_LWXqWgTSQ@DXKeCO]B=@RYdnvj=ZQ[OrVw[mE]RR:<OLIv::KN]KUsBeHUCb@w<S>>@Wr>>JcsP`N:CW_I]yAszZ;D:<?bD:ynGt_`C;U_p;R>>KQ`faVYJ@CymRKbR[]:EpITDOk^ZSubGNhn[a:JZw<N`:vo?=DgdSZ:yM;zLN;``R`fZC==_rBsCXwx?M_>::`S?[u=m<n]HczjNC[A<PdTvzHs_HiQ@jbJ;]Q`Zb^sMst>g>d:;d::O=ZH=_oMo:ICZ_:DH]J<JPD^>?M`tPn;xzOQeO<ivx>K?DUd_KRRln?xjROz^g:x`mrDk@>I:^<rm@k<NSSp>oUKK>TD<xAS>ts[:TkBcwTgZsAcRRk<P;W<F@:NkGV;=JoddZPy;ZAua:j_c?ZUwh=V>zeOPBIwZRZrJ>:taQJk?FoK]:u;g=x<RBoGZr;rxqJg=T=XC:C=D@JG:X:o[A;e>pnqFFC:[:X@Bl?[yQsjkcS^bpdH:>PFsTBrZVBlct;zu`Oa;kFHHOq^I?X=?OJBsk;Z::Wv?:j?`Z>Oe]Bwiwww=eEZIq=Z>le^kEdixS_tkOA=:biiR<wJKly@@FWLaO^bB[rEiAAHa:dLJrjZO>Zxwhs:;sOvkDO_Q>igsmsOq]RDHCLxM<CGJT_aHs<osSo]WbDHLLo?Co?=Q?]t:S>M_GhH;KN;RR^rzhR:@EL=SM[bHx?ZbMSnWB:N:oBr;Wmm=Z:X=ZwKds;nq;BYdV^qbomIcBDZ];n?;FJZwYZihlk=I_SgtdCnp`=Eb>xDSXhPa=BNJkUZxnM_UH@SZNJGWx^B[qMJ=:mK<:_>BbwjSiJWsBaD>BFJn[d<m:VBcI:A[uAT?o:RRkS[`lP@i:]tkZKr<e<w@kQkz[gOi@<:RVBUsg]C>;T_>?N;FZY[mBk<?KJYm`=SSNAL[>]PG@TDoWcV;HZAnlIoIgDC[==<;dF@RVk?[E;P@gH:Hlh]UAqDl:<pln[GoHViQOSkx?j=sDwet<]RMTJ=jlI>r?w^c]hQ;?>H_ytJmC<LXi?BN[NbV]y?>BO?m=aACZGSUMfaJZSZiIgU]nlk:j?X@wTZvkIbJ>yApWCc<FjYG_AJ?Zf>@dU][G<VJFCRLvbT[>FD=bBQwX[L<gKgCigNhK<ZA>[TNPFgFYGW[vChhhKRr>_;;CXjFdSTmQ;UCmJsct=Cs]C^ZA]EEG`H`w`Jnl_ITsLZ<[e:BGFXRt:[ts@rUi_wwksZFqIMZylyVD>gb]=QIJgMOrFkC_cDmL_VtZ<I<k<mjkOniN[?zGZjG[:[KkFscXaJ@cWN::ddZ:gvN:<mTZ;t[N:?^zZ;zLF:<cTZ:mXLXbc<@MvH>>lB@y^xQuYopJbZ;oeJAe]ZY:t;x_F@>HBV:@BPmAtL^N:?OyZ;QzOiLSY<WVeohrNL:IlAlKBkLD]um_hkqC<Ww<CoRWgmuGjfblicloYdzO]ALhKwaJdsIsAmSCHaB@>UL;JNnoK^FCMPBKOVTZKn>bB?>QDa:XJw`zEz;S>nBTwiygEEMV:@:wa[<StxoJL<D`<sKLnNJL:CP]nKVEVP];w_LlStEbeD:wnthLJPQ?m;]o`hEKWtTyE`COgmGP@ghRupGT@sqdhnSsmh^UHqBcOq]DS@vC_avm:irJ=ped`WVu<bBJGcUbho=XnT=>iid`<CeA:Cd;aB<Hq<XvNhjsV;OhVEEYqupZuWI<SjL:_DT[[?yAS?:CuXk<:M>SGiTWnCpqI?m]efXTbMgkQXsNfvXFXiR?ytmVkjqht];wCd<:RqRjDpbYHafR;hTR:FclL]:OB@Z^zXZOUKEi<zRDjgCL_?ilv>[r:<:bBk>oM[mw;A;;GSBsCD^sP@H>;Rt=]HN:dNk<?okZt:bikx^>wkeMwb>:XMNsgvMiWR;gBFxem^sKfHi=gzOdnvbs::;]C^[nstORMoB[>Cjirut_CkKZJWpmaMF`UnClABrZEY?S?nS@[cNJnKJcET:u:qoVyf^nn_[g=wF[ahmQaQIWtgtt:Xn_YDyVBAtXCeQFfdV<xBDYg^ZfDvk=`^eVL]?tJoCcEJM[<d?P:AcRe;]Li`XFDRa]?QP>gVepOu:WZTfxneqMW[xNxsC>TgBXkAgC@VQytsC^R]_L_i<M:Bzs[^x>[Ie<ozkJF<yQkCYjkOwnzNEsA:LJhyMvZDjjYi:PNUuInjw>ybf:c<LF:=Zx]B:I]jpIrYIRylC>jr>UYvyUxEUbt@=g^k:DtFs:=o;]lg]s;:s;kXVXVs>T]st:oJMBv<PkwyRyw;vm];nB_TKw`eaBQDO>i_Da<quJbyFks:u:LJk;@LegxgccFuWHViDcCiMBDc@LlVkFcFccxa^au;QqHscBH:P:]cmN[>=qwJi:a:]cYBQqV:D:ks`>;:@HPJP:CZuJz;lBSgpJtZ[>QwgJh;Ke;]t:ZP=NYw>mDNC[M:eZZBv_^XjkLkvBx;OP^;vBiLD:BcxsjsG[W[=[weM[nXE[mg=;DcR;qgDcgXos^PRBSgBm@L`[pZOgN:hgxgj[EkyBh[S[:Kdu]kkKf[]FTgDcNJBc::hGa;_Ych_YRXZBsY_JpBNNmFNTDB:bk;NONO_YsQNR>JoUzDvHv<eCsQ:GsODCoTRUNYNVsXkPkS_=Ga:<D@FQkAsM_MoQ_VsOkUB>J_FO>`sQkG<HWEgFgS_KFJSZpBJfkNR>VLgXRVkekjI<D;g<VMNU_NrcoVfGkWgTDFFWsRVVBE:dbdyBBFgg]BRCqjrhu^LHaecGcNZ@UIh^rFub]:IgwTc<tAF>k@cC<UubSai:BNsFiFBL<DBUBV`;B?BMBQBViBcR^FEDcOkHcK]^MdO_NL<EcVqbNFkUEj>HmOxikUmU=d_^kXZHmSq>o_oPfI<SCg]NwD]XJ<Hb:G]XacDJkJLOq>LA:::;eR:lnebnlk::<THdms>KWP_XZmgK<K<K`gUCTK=gnaFLmsjL=skeYsQCwuNdLu:uyBgdpKeZ<dLdZknCwHViTdBkV:B[P:Hc[CUJX:::QZmYIHiFE?B]uL?;eWeUeXaYeNTOaJU:N>LFaSKDaVi;LMZCZG@KB?>CZGaHJCeIPJqRqJqWaBe>uMeLuNojmRRGDNW]gPO<:>dBcR@L]H_HkP@NdDV<V>m@tgi?oCK?f_HD[Eoim:X?fc<Bd_Q;@YTP:C@SZAD<TKaVTQeLZEaLTY@JLIDFi?GZ==D:vHDKwOgTVCuMbhuL]QuYDLCBeVyFeVmSwTV@@P;^iJaSK>aLaXo@NOaJJBXS;KeTXOqBng^gVav[TLUA>Vpgf>=<<>yQTViIaQZBPP;RuSbEgUb@aWPRDAPNqOKYPX`;BEofKWUfk=NRiEy@z]Yfjc:JYg:T:J[Q:C:URW:Ozb:XTJZS<IZLZO>@ZXm;ZQq:j[FDvZweCYHBi:]YT_JPO_udPaJY[?xdJWFGJUJXmH>itCkJyJJDQI>DSL<HbFw<eFt:S;d<FTDGs]eISdiGiAiBXFXGCNBK@VLOZADAm;D?xaPSZCeCm;BX_=LVcMJPcVE>mKJ?::eXD=]?xatM@`X>X@cDDT>B<JJ=a]<Q]@<QvgHTc>`SyL`TdKPcW^uLgJ@WyYLB^c[W>WRCTY>PUFf<_M[OPNKXJFuRyAyH`KtS`VXFyJWZCEuOoXJH]Sf?]JpLHKJ>GMi<GRa^V:uPaYpKBG?QLQ?SK:`QNHOMyhmD`L<ZeRT<WKbZeKD:DX_FSLDKWWE_DKSMWRxMSQ:<xVdDd:tSd;xSJB<DZAFFLEw<`QcJGPOJeVWOOUr=DQOSyVHVXOeNXWaLXN^TTJ=<pPpVpgm:J?pXpgiGPKDCm@qYmIBTuX=SyXWO=N]UqQDYOPacpO;YeSaJXMaT^UlX^LCM>T[OTKUB^=^UTQ^MpQmDqQKNbFESKWKRqV?PMSJ?WPGR]TySGTRQMO<JnW;LnL^S;XnN[RdOnNphTQnU^RkVKWNeKY^KPNMTEWuDMNobWYEX]BfU=MygHRKAWP@RnLZFnJ^Q;NpPTV[NUGnXpVt;ID_REJuTuCe@qMa:lPuPSVxWqOuMOPyOGLfM]UyO_a<G;HvXfWvPnRf^fPwepRAX[VLY<h_^mWpXAODCATEMe<EYXWSKbIUWOKGNvTC<vVmPxWbNnT^U;QbNn[nYvQfP[J_Vf:jgwDAVUOQMQQpKPSeIQQyISRSHxJbLyNbNfW_TbMyKJ>jRtWrSvUrTnOfYbK^VQLFgtGBBtSIYTWPN`BeHJ=DBzNzRzOaUocDEPVzSzRzMUQyCoZ=PI<Z@:COMqUOQDYxR=R:z=X@UiMm?DDMV^R^M;NYTPYRdLWDHURMPqWUJzOzVzLES>]w@c@oIrH_GsfmMEPJujXGM=QDPO<B[rKJGsZ;QtLLU:zYYD?aMBGRCf<Js`JX]ZIqWkyC<=Vx>o`:Ikr:BBnkw:sbTrQDKBpByC?:s;Y@RaNZ<tEX:`HJIiUV;lAq<<@OBZ?Z;?YebcrU<IBaizViI:::BvKLG=JMXninZLTlvQkGsO>ZTHCfiR=NddFOq>gOv;::".charCodeAt(O++))?R-59:R-58),Z|=(0<(R&(K/=2))?1:0)<<D,++D}for(var B,Z,D,L,R,N=[],k=1,s=3,C=1,P=[],K=0,O=0;;){if(J(C+1),2==Z)return P.join("");-2&(L=Z)||(J(8*Z+8),N[L=s++]=String.fromCharCode(Z),--k||(k=2<<C++)),P.push(L=N[L]||B+B[0]),B&&(N[s++]=B+L[0],--k||(k=2<<C++)),B=L}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+anniversarySignIn; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.itemInfo = ["2_37_1", "1_1400152_6", "1_1725949_6", "3_31_1", "1_1725947_5", "1_1400153_5", "1_1726012_1", "1_1725947_20", "1_1400153_5", "1_1725949_6", "1_1400152_6", "1_1725947_5", "1_1400153_5", "1_1725948_10", "1_1400153_5", "1_1400152_6", "1_1725948_4", "1_1400153_5", "1_1725949_6", "1_1400153_5", "1_1725948_4"],
+            e.skinName = AnniversarySignInSkin,
+            e.grpCacheBitMap.cacheAsBitmap = !0,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.initView()
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                e.onClose()
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                SocketConnection.sendByQueue(41388, [63, e.curIndex + 1],
+                function() {
+                    StatLogger.log("运营活动2024", "20240607 周年签到（群星的礼赠）", "领取第" + (e.curIndex + 1) + "天签到奖励"),
+                    e.curSignItem.currentState = "hasGot",
+                    (3 == e.curSignItem.itemIndex || 6 == e.curSignItem.itemIndex || 13 == e.curSignItem.itemIndex || 7 == e.curSignItem.itemIndex) && e.curSignItem.once(egret.Event.RENDER,
+                    function() {
+                        e.curSignItem.imgItemBg.source = "anniversary_sign_in_itembg2_png",
+                        e.curSignItem.txtNum.textColor = 0
+                    },
+                    e),
+                    e.btnGet.visible = !1,
+                    e.curIndex >= 20 ? e.imgDone.visible = !0 : e.imgHasSigned.visible = !0
+                })
+            },
+            this)
+        },
+        i.prototype.initView = function() {
+            var t = this;
+            KTool.getMultiValue([121580, 201580],
+            function(i) {
+                for (var n = [], r = 0; 21 > r; ++r) i[0] == r ? (n.push({
+                    state: "today",
+                    itemInfo: t.itemInfo[r]
+                }), t.curIndex = r) : i[0] > r ? n.push({
+                    state: "hasGot",
+                    itemInfo: t.itemInfo[r]
+                }) : n.push({
+                    state: "normal",
+                    itemInfo: t.itemInfo[r]
+                });
+                t.list.itemRenderer = e.AnniversarySignInItem,
+                t.list.dataProvider = new eui.ArrayCollection(n),
+                t.list.validateNow(),
+                t.curSignItem = t.list.getChildAt(t.curIndex),
+                t.btnGet.visible = 0 == i[1] && i[0] < 21,
+                t.imgHasSigned.visible = 1 == i[1] && i[0] < 21,
+                t.imgDone.visible = i[0] >= 21
+            })
+        },
+        i.AnniversarySignIn_SignToday = "AnniversarySignIn_SignToday",
+        i
+    } (BaseModule);
+    e.AnniversarySignIn = t,
+    __reflect(t.prototype, "anniversarySignIn.AnniversarySignIn")
+} (anniversarySignIn || (anniversarySignIn = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+anniversarySignIn; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = AnniversarySignInItemSkin,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvent()
+        },
+        t.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.imgReward,
+            function() {
+                1 == e.itemType ? tipsPop.TipsPop.openItemPop({
+                    id: e.itemId
+                }) : 0 == e.itemIndex ? BubblerManager.getInstance().showText("活动限定头像：西塔伦") : 3 == e.itemIndex && BubblerManager.getInstance().showText("活动限定头像框：15周年纪念")
+            },
+            this)
+        },
+        t.prototype.dataChanged = function() {
+            var t = this;
+            e.prototype.dataChanged.call(this),
+            this.currentState = this.data.state,
+            7 <= this.itemIndex && this.itemIndex <= 13 && (this.grpAll.x += 33),
+            "today" == this.currentState || 3 != this.itemIndex && 6 != this.itemIndex && 13 != this.itemIndex && 7 != this.itemIndex || this.once(egret.Event.RENDER,
+            function() {
+                t.imgItemBg.source = "anniversary_sign_in_itembg2_png",
+                1 == t.itemNum ? t.txtNum.visible = !1 : t.txtNum.textColor = 0
+            },
+            this),
+            this.parseItemInfo()
+        },
+        t.prototype.parseItemInfo = function() {
+            var e = this.data.itemInfo.split("_");
+            switch (this.itemType = +e[0], this.itemId = +e[1], this.itemNum = +e[2], +e[0]) {
+            case 1:
+                this.imgReward.source = ClientConfig.getItemIcon( + e[1]);
+                break;
+            case 2:
+                this.imgReward.source = ClientConfig.GetAvatarHead( + e[1]);
+                break;
+            case 3:
+                this.imgReward.source = ClientConfig.GetAvatarFrame( + e[1])
+            }
+            this.txtNum.text = e[2]
+        },
+        t
+    } (BaseItemRenderer);
+    e.AnniversarySignInItem = t,
+    __reflect(t.prototype, "anniversarySignIn.AnniversarySignInItem")
+} (anniversarySignIn || (anniversarySignIn = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/AnniversarySignInItemSkin.exml"] = window.AnniversarySignInItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imgItemBg", "imgReward", "txtNum", "imgHasGot", "grpAll"],
+        this.height = 68,
+        this.width = 67,
+        this.elementsContent = [this.grpAll_i()],
+        this.states = [new eui.State("today", [new eui.SetProperty("imgItemBg", "visible", !0), new eui.SetProperty("imgItemBg", "source", "anniversary_sign_in_imgtodaybg_png"), new eui.SetProperty("imgItemBg", "x", -8), new eui.SetProperty("imgItemBg", "y", -8), new eui.SetProperty("txtNum", "visible", !0), new eui.SetProperty("txtNum", "textColor", 0), new eui.SetProperty("imgHasGot", "visible", !1)]), new eui.State("hasGot", []), new eui.State("normal", [new eui.SetProperty("imgHasGot", "visible", !1)])]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.grpAll_i = function() {
+        var e = new eui.Group;
+        return this.grpAll = e,
+        e.height = 68,
+        e.width = 67,
+        e.elementsContent = [this.imgItemBg_i(), this.imgReward_i(), this.txtNum_i(), this.imgHasGot_i()],
+        e
+    },
+    i.imgItemBg_i = function() {
+        var e = new eui.Image;
+        return this.imgItemBg = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.imgReward_i = function() {
+        var e = new eui.Image;
+        return this.imgReward = e,
+        e.height = 49,
+        e.horizontalCenter = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.verticalCenter = 0,
+        e.width = 49,
+        e.x = 8.999999999999986,
+        e.y = 10,
+        e
+    },
+    i.txtNum_i = function() {
+        var e = new eui.Label;
+        return this.txtNum = e,
+        e.bottom = 3,
+        e.fontFamily = "MFShangHei",
+        e.right = 5,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.size = 15,
+        e.text = "00",
+        e
+    },
+    i.imgHasGot_i = function() {
+        var e = new eui.Image;
+        return this.imgHasGot = e,
+        e.horizontalCenter = -1,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_imghasgot_png",
+        e.verticalCenter = 0,
+        e.visible = !0,
+        e.x = 1.999999999999993,
+        e.y = 3,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/AnniversarySignInSkin.exml"] = window.AnniversarySignInSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnGet", "imgHasSigned", "imgDone", "btnClose", "list", "grpCacheBitMap"],
+        this.height = 574,
+        this.width = 928,
+        this.elementsContent = [this._Image1_i(), this.grpCacheBitMap_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "anniversary_sign_in_imgbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.grpCacheBitMap_i = function() {
+        var e = new eui.Group;
+        return this.grpCacheBitMap = e,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image2_i(), this._Image3_i(), this._Image4_i(), this.btnGet_i(), this.imgHasSigned_i(), this.imgDone_i(), this.btnClose_i(), this._Scroller1_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_itemsbg_png",
+        e.x = 42,
+        e.y = 377,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_itemsbg_png",
+        e.x = 76,
+        e.y = 276.99999999999994,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_itemsbg_png",
+        e.visible = !0,
+        e.x = 42,
+        e.y = 177,
+        e
+    },
+    i.btnGet_i = function() {
+        var e = new eui.Image;
+        return this.btnGet = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_btnget_png",
+        e.x = 269,
+        e.y = 483,
+        e
+    },
+    i.imgHasSigned_i = function() {
+        var e = new eui.Image;
+        return this.imgHasSigned = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_imghassigned_png",
+        e.x = 209,
+        e.y = 496,
+        e
+    },
+    i.imgDone_i = function() {
+        var e = new eui.Image;
+        return this.imgDone = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_imgdone_png",
+        e.x = 209,
+        e.y = 496,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "anniversary_sign_in_btnclose_png",
+        e.x = 886.0000000000001,
+        e.y = 18.000000000000007,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 307,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.width = 640,
+        e.x = 42,
+        e.y = 177.00000000000006,
+        e.viewport = this.list_i(),
+        e
+    },
+    i.list_i = function() {
+        var e = new eui.List;
+        return this.list = e,
+        e.height = 306.151,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    i._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalGap = 13.5,
+        e.paddingLeft = 28,
+        e.paddingTop = 18,
+        e.requestedColumnCount = 7,
+        e.verticalGap = 33,
+        e
+    },
+    t
+} (eui.Skin);

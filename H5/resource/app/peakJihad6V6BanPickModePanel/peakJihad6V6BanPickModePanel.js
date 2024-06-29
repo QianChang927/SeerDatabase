@@ -1,1 +1,2145 @@
-eval(function(){function Z(Z){for(B=p=0;B<Z;)P<2&&(P=64,N=92<(N="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;BL=kP<?poV[lS:A_:WlR:;M:HHn:UU^;[>`s^F?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwEgJ:@g:DMklyB:GZ:Tc<:>BZPSsO;Y:<mAA]V;a_EZLAq:>BmZNiEklEo[dZgRNW@B]KNeb:wKkwI>B::@M<Fi=fH=IC[BC:AY@@>Ry=_u?BPRJFPfvX=cC[ZJTe::esl`:>>:=CJ@N:LO[:??F:;qH`<VZ:SNpLgp:@>SO::<CekoDg@aerefPR:;F:?R=VUMKUfSe:@BDZ<eLd`nipfjpeaxtghFmO<c:ai@rOAD=tS^Cf=FsHZ:ACF:<qa::n:URA::BtFI=k;OZWd@YQu_jumGwWhowmeD<>AszM=cZ<FtVEB<];XEZIElpnX>EfEMN;:ABD<wkLvv:zseZBQk@XS:utnrk:OjwJI>Lw:Lk:^L?eT?YJgBi<@zVgBL[VPLkTK@ClB_r;s:BkZ@jVdm;Csy;BI>w:g@Tw<yA:wL>ektJwA]s:JDmcc^;;^kLDZF?kQ>]?kF[wLX<iL:<cJR@pHJ`sZ@cu;ZZ:ta<p]@bmV;oQNhvgP;Cuz;XwKa`kMJV;mV;ZHJ[;Pa:B<MBHBuFU:X<Z>Z[=lBJB<r]ZsmsECebvGmnmj;:OfBYguaGH:u:mjHfDeHliSHJipJ<H_N<naiEb_@t^bHOtWbcEsaZXLSEljA:vA]iJNOZGkJtk<P=>yYS>c>>`MAlI>af:A>u;DcJPLmUkwPtc`n`ZBOlPCKeac:>fXKJQ<@i?qOCPp;:SKJN;SS?hQ_ISLlXJ:o^DA=LR?iTkim;M:]iM;wNRCThc<t[_^kCLP:ZX=gMZu=ke[u;GiR>Z=AZu;ef>[SXOWE:rV<X<jBxt<r_[QnTLw[fP@kH=nFx:;XDAPX?ArQXZxNgAsk][:^s?Q?;oHkpZHrODB[cV=<iRLLkEkRQ`sa?j>dPGA>?N:<ni_HpG`clQ;ZCdDt;ZJg`Pbd;_cU<qTtfpR>sr^u:>oMqBg<MSd_lMtQCWMfeiZ:AGMjQ_?kNQ^>ku;z<kvAP?kv@<rkkhYI^Q=]sNNgmqOOImsfLiiaf@jHOfu=yfP^M@uUti>vJOiQeMtHqmwxjDsnuJikiUgn?arisqUcgPzvQ=PwA`H[xkhIozeMFg::]^Pu=GMG[UlmERgdtEZYLybVjV;C[S^Z_TdPiJXUmdeN;ebakCe^DQWm`:zdeZ:sZ:>^DTgg@VV;e]kk:rQ:ooXoWZ]p>E<XytUeVpnU@VORrnYlDrvXWp:nPTZeOeCeesn=qI_zMvIwyEv>DyAVWtXCtQlGvrQWggtoqd_fSqE;l[?M:??JiGp^Ucp[C<>:U_tD;rKfEJ;IgRS?M[_TVRScCeT[`CYFoskwlt`^@fEu?>Yc==Y:=R]kFw;Zr];=>:Zhk[A;K^VMurpYdoF;ckt[f<oEt@C?[L:i>N^v<a^GC:VoMeEMkFhC:epi=fOU=eUTu>CU:M>CRO:_dHdk=NCZI:?oE<^QcN==Zf=i<RnoXJCZT[s^BLwc<C_uS=@l=N<J<JFxR]jmQ[zGXr:P=g_tAk;_M[I?Z<FMscZ<cS;Z>EDGA:A;C^V::>L::k^J:uTT:<YWJ:mru:ApnJ:ZIySEsIRoJy>i?qAOZ[C:A:HUNQtCLK@vL_TVBX?;=eQO[cEbTC^L_pMo]G<]^DDBpJH@Q@uWkgSn_C_]Bk`^Hmg`BAB^_??M:zpDT?]LZZ`ZL=SE_AwZ:P`PP:L;bNACKMOcGDi;;CKe;NM`Sma;MbbCwZRqCr^adO[fI:Pt^?zBMCHS_USMJ;^gPs:Zr:t;_:nPLeg^<^mk=IIuSLYeWKv_ceXLweD::XH_ulZNED]@<aBa;F`o_mSoaS_?i@xBVejRuRCo:GDY>gbKkm]DLbZctV:JOm<ABQDGStGog`J?dNRBVd[d_>LZhBCwsxBMl;J?ms_knnCsQdRKMkq_RJecL<Z?dh?T[<^Fh[Wc>[kdZ<<jg:Z_kUf>KP@BAkAGFbL<TQ:G`E;F`u>LX:?CP[o`SF::UmyM:=nYc:YW^:::Vc:PQ`:<Onc:Gip:<Vmc:PNM::BKc:YDO::kzs:E^`:;[Vc:D;p:<n]R:Myp:=LKfagGZ;uFo:E;mZ;vtN:DWmZ;iHN:;ODZ::;F:?yDZ:MTo:BMPZ;KrN::wuqM::[UiNjZRLHL<rq?JvsylrOk>mY:GJUJqEgjxMBqTJN?dB<P]hGT@oIKTG>M]RSWCoKH:i]J@dgmu`V=GBotdYCTB]>KbHvu]vS=Ei]=WQpPvdcvjacctKe^p>bgeWcnOR[ErQev<JM;jwCT^N:`lJiV;OASqd^eIZupMrEH@R@tCeMJqSCvMarGZ:eVo:Hr;Z;ozN:GxmZ;OXN:<IKZ;mjo:IXXZ:kCN:?IDZ:WZF:CKDZ;H[o::ua?MdpB<>:lQOIL@bXhGUc^dcKtPpB_<@mRM`o:c;aAf=OtueJobdBmCkEBGlRdHMWUMXhKcV>`DZKVMB`<SIxS__LYk:JZb;C<@RMtMdk;VCSd>XgdN:@dX<bDAFB>EaMYCuomLdyxMoQdjKN`Nz>_^<<qO@P_^MZPWIJfd?mU<P:RcJ<YPVA:Vks<EpXESN^@L>>=:HNV`;fJk=nmuIe]fx[nH?ag;p^Zcxt[HD`]K>_ow^lk<A;Lf:bNPSul[L:Cf]=_?FMTkGsOMtnFoaav>L`VqcPEXPsVpUB;pgg>utcPLfVkEUf_Uio=[up?iU>ZMDLF_tBc<D_ZYoUKeimJBncjT`:<;XAZ=gEg`fyZJzFHoI:K;RNsAND@dqJt:M<:]zg<JQrNLvY;LxZ>UrtZYY_Sd`:Q>`MzTJ=lIvNFj:g@akJPnR;vHR<YPxH@;F=fgQ_LCVw:CDYYXKEZ?RBQBgPEuxVxfxIm<EkBAZAaa:k::=sLmyFc?i<lHH_=MU`kfxOOpuXuwBIfp_`ZhmBnsAWH:[SaifTVLsZCxo<=IXcXtmwKIdBc=__jJgTds]meZqXn<sZGYrNbCZTrhiOjAD<dHE]fWi:>sxtCRbrjtErQxt?mrWrt?vcILccxfR`T:yCF=^LP`qUQTh==jZiXZf^;RAkejR:<<zYZC:wRR;fCs<JGRSKT^E:goflnWfOcy=Cz>ebfrlnhYhzypgBImmL^TjFQ=[AjZ_WfcmT^xAaIgWNxW=Gn:_zIV_u<gpQkND<<AZQ?l@bw;W>PH[?kBzMHvHgbSwOEb[pXYNIttXBEe]FEhc@:@Ea;;B?MCEfTae=Ebfcf]faf_JHUZJIq?fcYfE]UcfcUezdZYEhZKfeZMwCU]rZGbUfAfa:Gjs;QanDIer>j_=Zs]Db:>Ybh`Z<FFx=<Fzj>DkX<ZWZh]F?WaI_Oh=eOiOfZ?O^OdFBVIO^c?pgSAp;R`:Yp[WcGgGacDGfrj>Bda;>S=ZEC=aEWDcXJQC>?BROJNIen>ZDJXId^<N?oF`GebkHoAL@D:LdR@H;H>P@D<?]?iB[:<kG>^JNZ?AjP@:Eg@sTc<ZAfEZ>cCE;nHZAcJRSJTcV;EgIcI>Ua>_P:HRT_KCZ^H>GbZV:sMoG[BRBRLRYCDcJJFsKi?H[iIg<k:L`>Q>HlEZBoUsYsL:DR_R<kDRIg<:HJGfZL_HALFL_J@:L?doGoI];kCZF;>FToUZDVa:C>ZV;k:LidCsSHIg;kCoTBI]>_?gYpjW@>NR;kIoKgLoM>MZ>cAN:_U_Oo@_KVYcIVUaBwKkD>i>Z^IQ];ji_c_x[;]PDQ^]<jaNKS@w;=A:?^dJ=IE`iiDtHt<?;:L=agfC?Eg?HiHW?qHog^B`csgsg[Ad]Ai`g_C`fwJcjwP;_QbL::CkZavMy@@<i?s:B:dLF^R`v<]<gbNA=sfZuMVkc;wm=^u^c]P?TJ<_>=uL@M@Lf:z[L^v:`AsZiAp@i@:^Dsg:W?y@`:nARMW>X>b>qtb?x?w;nAu[C:@a@@uKL_wn]Ly=>KKK[@v>>dp=K?h>s<vAvAs[B<R:>=bAx@=>y=c:H`jDR;B=f:`^DtZ:_<=>CAQESMy[DLXL=>q[qZH]T[P[ZL=@>;a]J^qRyb=^H@W@[:LSQePat^PbL_cLtb;_s<H_GZ_<`aR:Z:lbNLp`KK`aN;xSPa<bObq`pbHKb>BS><;bx_W`;AW_Oax`qbha=_GZmea<h`;_[_E]W`J<Mbc<Oaq_p_f`k;b@i]E_^be:d@WUTvDuR<^A^?s<yADTcZVksLN;wbTJ>;U`<bP<aJL:HvBLi[MCocDfVCYal<i^>`Rm_a]ZNbts:a?teBUKo]TBF?`sHCL;XE@Dpv:O;AYClCD=N@RPzEzDp^EljC=vsOp^nbuBcOe<QMpS_t;UJeKUu:`ZXEBNzE@B_;KE]bw_jax`wlD;eRtRoQtRdJFOFPsPgO>;=[FOIaL`O_wNsNNOzEOZ>OUE>PDP_Q[A_NgPNNPEeR<NETi^<=u=Nk]NNQRNTOlBDN:e>QfZePPOb?aQXCNNuOtREUdMu=i^@PTNgZlEaN_OPOauIayOqQXNHQTQwQHQJfNkc_scLmcfcejBE[>dXO[D?]<Ks@aueJPBZf_fkAef=Zcab:h:s<T]ADqaeJBlzaeSO>rKKsZNp:yKxT[>G^@=x?Db?S<:G?s:>eiZ:;NPlssHlptY[CP`_>Z_y[[sw?>Cwxoz>`:rHlodoY:udX:LZksXZuB[P:Zt:NJ?tvcBPX:::dGMGpNH>H>v<FHyR<@E]PB<GpR^j<cohoAZ::ILKOrBGPb>G^e<T=T<u;ekU_MPQ]^kT>pl^TzN^<cERB`J[kOKlJCMML?QcmCM^;;[a^^lJ;Z]T]^kxlZCwn^PMQgtV>UlSR=KIaGPGZhPu`x:G?Z;WPxQpQxQX@MA<==PlM_;^PtZ:pMNqsnOJ;nNbJB]EOK_fO=[fNUN^=UO=]vOZ<AQAPbPUNQOQNrOrNBfW;Z:jQaU;?_pYOT=^TFMD?sq:r:rtKa]ZrLRJr?McDSmkrOMkr>LBpmZcpcoRpRpt[ZEGKP>@r]J@dY=gCs_FcIcg=ipTLXo>pY:ZOTf?S__><GA[BV_yLj_cK;of]@?[>_flrM`CpB:dpGO@;v;JuO=KEYEwcm]<et]A;gae=WRt>b_V:_=cQeL]Oe<_]NoJ:ea;AeL_oYOZ;i@Llibh?FoA?ubI:K@lat]@]c]o=V;tP[:wav[^oMoR;MoUPv[xCC<aE_<dbq]H[];nrc=laT<CaMRE>WlJ=@Zm^?>hpabHbeJCrl<SrSqYSE>X`v?=Qdoq_c;roXqt[b>Q@F^ktd:=LrrrrYqYN>=]fqUV:V;w=Str`k<O;g_roSpYrc;[@E>r?WQ<<vrvphtC`wLe<UrdaS`rC:IBHcFT:uo];RtB:Vm=qJ;A?jpOaYr;oZI[@Jtj?vqfqAqXLe:bpboTo_IFFcHZIZGwMu^]tRHVHsFE>>IUr>GBH<G_IYPDUpoFHqb:G<HIor?doN:?Oqo`NYoSPCDmJ^=eU[dKe:<J<R:CW@Z:FQD:;NVc:B@XZ:?Du:;xIc:DsH[TiTZ:W[u:;Sq_ss:HZeZ:yIwOCOB^<uG?QuFcJ]_WZVb;O]OBUCn>kVkC=cTfKRU:DekmfJHUQ;>qASF<ICogFQKhav`tImF?FTFEb?F=_E]KDpGWZBQuUODN=tGSogGgZnc^=;ALNwnS?KH<@>al<zb[:[FbDqSuHFF]b[:Uk??ypudV<soVrsrXoZOZbJvafh<w[wf?J`pqd`ow`G`mKq;@?W=GqHARL;Au^WAA?_qG>>e=?xoX_g;XbRKn>Z<x@Q@cSvoEpy=Mow`mKlbYGEpZLFOKqlIlBLPZhWGVQjpk;wkvpgaAFpqEAYR^?^A<=ma==:=N]o^>U;ctSSCNT:<AWdXPlaHass::XaZ:enUWfSDMcLTndzH^LfqF[mJmFSb<<sim@SDxdiGKe:=O>OP_slspLs:ArKZ:Wjvte:;daR:BjDWEsLgug=w=DkME>NTxfE:RkRcRuEbnq=Q=Y>V_j=[<;kg=HdSnW==KudoW;:nn_:IdpnQWKZ;:zKV]JoTxV]Oc@fBRFcC:EfRx_^KxV][ftxrsHfzfb_ufZRQftaRMlO>n[SK^LkQEI^O^Z:dx?iH::uwjaa@aH^Dqss>w>x;^]=jTFk^K>u[HhQk<<nqBrLJ;<nq?CW<nCWRB[`j>bAvB_q[hR;[a_zM;_u^iP>yU_rCFiWNzkFqANkmU]GmJLRvblHOVFsPmAec=@qPtFyke>BenmNSS<srY<pwKmAAJG;iUA<:GRDbNJ=nVXpa@>VpP;B]wVlkF]u]D]sO[]l:?]sSdmuRt__LmLqLuspLnLrDlom_:VBmuummljUT?jXmpyz]xmvmt@ZDtP_DvaeDlDo;yCjDoMSik]mex`C;lut@u@<JCubaT]C_`Xe>uQKkSG[mo_b]qK^musp@iDpDxDs:;htZ:CWAtcohiI<i:::uPlt[pHh[u;pJnJy;wmofanJaBa@BIwruuereweo@lYPTl:=Z:oMZCgYOYnHZ<XqXtxJwzg=ZCoVVRRRSqVMZGg>ffXbdtSxXwBkTbl=ZG:k^E[weuupX[@teyYMmKSywNttcyuUdkG;aBSsRSH;?her@P@zevCoa;fOXuXscnfTg;Cr:EJl:>kC<m`oSukzoNkD@wdpBkTzYAkqxYdpSwtx<DBytwsLOkaPOs`zCpOstu`txXJu:J^B?kSw?qZyuRXx][?pa??oP;?hcrN<ir@mH:amRz;l@d@`Rt_a?ZrWtaGvaG?t?h?fRrlysl:=snLzakooilQLPyFuOKPxixPlKTVuNS:?ZDsXuFfiZESCoYgvAXjXiWOw?mR?mVeK<JyXnXZCnOAaD?Npg_iI`qVPR>fe>I>yqm[__z><_t[blG[[_qP<HIPpRU_nq==zHOqC=wtDHExtpy>UD]MnNyHzNoFaB>qJMyMkOyg>nlpkOyol>ecB;QHyoZiwA`^FiqFy>r@rL?Fu;kNVdfFvCcHuI`n=<z>:gl^BipHrpvYMiTHnXvbYbOZ;BBv]:AOaijE[E:oXSABN[I>>@<kIEil<w<YA=D?HJ;UpUnUrUzII=:V@fxHKfzPRVoctJs=mFFvxUsW@vkvtvktpHJfnvrHQvy`mBJ>KVFAuvm[HvxNFMW][iXfqHUAxfWc<k;fJqkbVDKPsl=npFhEsm]kCfGfEfIfBUHAQOR:qNoZ=Aki?fzoY]EfyJIfsUoo^WBNDUy<XUtGLvuAubyAthVbyIzUz=?IuImAvUlIlvlbwomrqrriOpzvkblgovkjmbvIybsZkftbKjq`npzbXrQjtX@IojsYq;kZuclzTYnbyrpjnfJQx>nirWmF[JGB;K@:<O<skOkq=AadrLGBG[pH=r<:?VrL;;JcwQ>=Ya:DgC_ot@CzDkaYoZ@a_u]LJ:r[gOWCIpILqdUofuQxEv;YPA=NfZ@mZtd`hucJH=aK^=L:;@Oo:;lVc:?=Rk:@yaZ:Jdh::_HSHGmoZ:MhFr@iTJ:B[@Z:@v`::wPa::iVo:;oXa@]gT?cb@kALM;j=iK?xXmjMNji_AEsnFi_zh<J?A=Z;ikIRfXSQZEq@Jrp>:B:KTCZICcuxc_jYY<IrlGui>nXJYYY^InMvLSdyWzEkYIljuEwkyDz:EjALg>q=QyazHIhc;><Oh[iREPhb>D[U?xf:MYHcIzr:;:<yJc:yp[:Bmu;ws;`;XuBZB]@Qh=L[RFBgJn<AvdU;R>JBcOoTCGV=uN^LP>KnwtZJ@;@LMCFkIRAV<X;O^J:?X;Z:KxoVqofRJXBH_?m<?;iUOlgcHG[`w;ajI;EIcIeJpxyidvKjfzonvFxU;nOXkQfpw:@wb;ljJYesHAvi<:[;zIkXVFhu;=`y^jAkN>He:Kw^qqk]BXYpoMtpWy=kisJzpDAgxU;XYOpAk@rRGoYy^>WBR:H:ANtOudJgaZbrUc?=UcKJuk>ZCmA`<@kvQBEeXleAv:H[sTOZSkGs>==[[yrNJSBG_Am=E@[TYUfFDCehOB:rKYNAFNpBZ:<N^v>n]:;hRJ:_ZA:Bk<:AuEgGWPN^HcI@<Lu[;t[gvNDCAnP>c]r[MO<M?Eno?nF<sKV>i;k@E=oxgiIBDKBRKSMwp>JV]VsEeFz^u^NJUGDy;G<Z:z:pJswTy?:;E=:ZLkbk[kJVB[t@w;yQ:BYd:><EDhj[xzKfbuDw?S_SHZRwIjg<^mO>XXNX?r>R?InMsLVjiEICHrwEJ`PJ>RaIDRLqt?Z>wOcCI@v`Xnl^ow]RZI@;;v<;kcw>XH:DV[v<ytCktRPgNP<V;psZFxqIsZQb:ll]sRTXPY?MbbmJCCq?uK_<:<N;s^F_<TJ:Fsyssk:HzDyTOU_womK^cNoZ:LHG::zQsXG::hZT::VpM=MoS<oZaNdCH[@Uz_:utP?x=K>Nl<:y:HLQCBC`dKu:BPES;C:lmtRM^dlgs_EIHFQACcXoZ:Y]G::EuatchlHsi^AiB>kA]<q:j@c=C]fub]]BtsxxCXHj@r^LlBHFA@UZi[DSDyWLYlAI:Q[;BH:Xc^RWe]_JN`@wnXNY@r^ymWtiwLqIj:I[F:yKSXpXLh[c_bTf;giZK<M=AJt;``pZZKYRX??eA[BfoE:KgiJ;Y:@^@JlchXAt^_Jn:EKOcaoQTCAZMlEJ::WQv[coOCJRLyG[P_bnOQk[cas<Y`n;u^SCtc[NCTHh@q]fJxcloKI`F_a^nCm[YrCZ>b<rZDciI>YGQa>]HLSC[_wZFcOjk;Ka<j;@B:tIW[HL:d>AYLTTE_JeMCsN:=LMD=Ke]^>kEN<DPSB<_LMPJgNwmU<<xSeZc:gBVR;uoqfA]=;VaFwYm;>;iNPP=:WmhxoUcF;r>Li?eQzM;SuLzC;_ZoLVaF`tL:dw_mmRdCg`qLmk:oreN?FanfpJdFqMDO?Gu_lMidVNwZ:`INaTLc:TN^DKGEG>tLMC_NzmUpBDa[Z]dCNgeQXaP@IdboV>aeJSMo=V;KlZ:BFp::HXS[d::?He:;`BlAL:[Z:ZBJ:CnuYTJ:@BP=TVh;H`vJV=JKa`YGB:<lzpUfWoofKREXpZVLRSEo;n]NS;cuEIg>>@kNWJFFpUegQdRl<Edmcq<Jd`eas_`Kga<;EC@ZK?kG[csZ_KkF:<nCiapnL<<L_[T:WHPamMc[TNtNme`WI_mjdyB?OY>[<Fm>Z=aPacy_JL<^;H;UBnKJUioQJ;V]sVzrYR<cr<sNNL:znTMemqZu>GWS^Jb;_YQDubo^PgJvzdtJaEsWG:[AMp]Kph`lVe;sUFy;UIIf:^>[GUSqYfGTv@mQSnQFqXvEsTD^cCWLX:V]Brv[pJBdfT:RR?nep?Q<GG:z=VKwCy?SSz>rRAk>SAR<rifBx_RJFtA>=gBIBj_YoN`Z^gh_jd>Z>V<NR?xjkiRQwHw<k_L;BtGiE]>VpV`=CRtgg[HU=adfi?`SAdCadbHjLEtVtVlYHPmHA_=>iKSVz_JoDvacJTtK:HiKzkK[jgkZfVzO::FFDpOiL^z?sQ<E^a_`Q<V:FE`gDpcaVs:tbIMaMLF;k;M:Xz?w>O=JMJp_cph>REULDeJo_T^hW@d^Pldtk`XbGNHbFIj_HgbtIYXk?C@g;L^^tN<vR?lEK>rg?KBJ_a]ZDvfrVntPHLyRyLkPt=SthwpydZeoZInc?w:OyQ:AY_AlItONUyVErhfBpNTZ<`qavPJSZEjT><g[Li:cQIn>J^JXRI:gEu>EoKu`S;X>`QuToiubIFHKOFgJ<BU>;kc]SAQ:ch^XVPRTvD_K`J^ZtTJsUAef>`fJGdkJsQ=>H?:K=[TLY:WoIe=dZqD=mdrQK>olysx`cyVcwaeNrJ?TJW[]Vndc]:J=P=e[A]teh_rmuyDDT@b?kjg>^EWoaTbMEIhvkwP:]n>PkTM?:;TR:^iiTKF:jLNxvGFe[cgSCW_fFM:_c;yB<tjg;XuT_baJpEgewGbCjwc[TKTa;yEnewZN:@Je>W_BBQ_Eg?]d?i`Vr_JB<UZhoUJdor:A]Dj?^=?zcog]?ZJnLY:Q:VuJB?dmQuz[AobuJiEVL_:OuVF_J:c?<^e;UEMFiDGr`WDg[FB[CPNE<BCwhHBkWiRP@D?nDt<IrO:YsgDNp<y:iQA:;W;qOQca:C:RfcADT?Ap]ifJeGdhJ`bWDf`xLi>JFcouc:EZ^mttUiOXQjOV[RL[dUiOiOw;]kycKkDZAq<?Z<NN:PXRP<t@cJc:KZJg;QH>aR;sZC:D]<<hGaXJeBTN[@>qPS=B>[aHwkKQ:cI`G_kcefCD?Gl;mfpVc^J;R:ZilLihVcO<^Z@zF[ePoRT=<ae:FbhdGKPcXVU;^p?NA<fichNMb[fNUdp?>XHwLP:eeD]CBnNcAIZI:Zn>jn?OG<tOKzHs<RC>T[cI;:J]BMa[L>t<<oCJ`sLoCzcL]o@H=:H>wDo[bLuibIqIsnEL@wcgM]wIStcE_pqDMCL>jdSXxr?VmhGL;o:TYDgpuTydYwHENWGktXjP;VBcNkUkH>cJUZ;<:t]bKqJ`B@>dIZW>`ZBJNB@>AtaK:j:vP>J<g=J>Qc_n:ZOsnsDC:wmZ[ipIaQhTyAvOa]Hp^cqWUtZQNcZ_:hD;hSHjWl:ZSpraGWR]>QOB:@:r:AWPC>wmfftpKu^WSZ?><Bk>yO:K:<Z:k;KpvH:oRWLyjc<F:OXlJDMDA[Z=L;S:=ZKJFhQQ_zNJZlZFk;R]g:r:JGnZJBHs?N=osZmp;?kA;i<:@;kZzsEBB_=YN:GgNN:MBB;;m:zfn;jVlWdN;PMd;uVJ]`cDV@hMM>c``JJRFF?@:M;dZVk;RFRrZPf:PJikAR@_d_BOLEZ?N]l<ChDnUnnpoufn=qf[=fe;p@BMNOrlPT_[DG?B:nEL<]JaREqfBYBjbKt<pf;J`B>N?B]r`Bp?JDc?FAe<x:a[RkpcJqRu;M:X[UGIcLo;<h==HTokFRQo@`Dwon[VkggNCYPo<ctplqfR=g@q@U=WZim=GRgAEKv;yJr_Ls@]It=eBp]]<MRrV;y@<_aLnk?uruYX;R<IZRJHNxw:F<z;jgVGC@s<D;;rb>Jh<w>V]CK:I`ZNd>Ruv[:phZ[GT_BgJD]<EGN@W^rgKRZZBd@NZSO@Bn>O];lAjmwJSeZ_NKKDNURxGSLd_VmDO][ELDlcaC:D>?<]ZmfD:LP[>eMaKCekgelyMCDq:eJ@eFNvJNf?zIONOKNcuNHtADd@^aosRDey[Q=Oe]TehJqemH<k?pPpJcpse_OLG@qqMJG?=qD_c<OZdUJb?tXIaeW?flCR_KrG?>h=?X^jJNLwuEsDO=y[PC;>>Tm@C^iX[RC]cjDeaWk^K]Jo=tteei@b<yp:CuR>VWe<k<RbWtdmLjUyGj>SrzlaW<gSPDf=n]f<uy;gIPEnfURPeaWUecQRv=:Lf<M;QgOJJnfz^@pxsxVXQPnfe<@<RsVVOQTqqJk;kGW:<MHG[`n]:uR>lVNi?EiGqvlMWnHcyDe`IZWk;srVQiIr>A^rkpdnw:CA[IYZ>LMKWi[C][Z?pifbWEVGi@vev]QlfshwBXEvgRZsM:_ZXjNLAeKsauZsZis;D:^nZomc>n_TrQ:_[eO>IhNGH[XuhUTXfjO[<R[IuccLFJwW;Hz[:k]s;FBLWU<HhMjHUo[e]WvXcK<cfLnRJFgoW<<cxaZfeBsD_v>J:;hGOaCuaTaYjUR]eLY_?[U]=mb>bOkdu:xmwBIL>bmDKCGxr]>ZDHEmK?Bm_>>tS?;BNO<nedh>GdIHn?aQLZW>ecpSeFR^nB?k>m<jhMfeKYv`sqp>Cd`=KBt?ZGPmHudsQWQP;W_ymKpPVZiKQCUNHq[fg][]dscFNvmMtGfFocPN`DdIN`GzjCKg>BNwqT?FfJXdBcJ=iDG?I]aVZ@OQh=m=:z?Jjb^>Setq_ZxL]rQpUjTKeGODm@NrZ_WN<]dOBT`OJac;hlabYh>`hMqdANneAfeB<QLXdfd:@:GFyHzSEVsoLTGG?a^nK?cmoOT@h:q[UJWcXo:u>WHH`dA]VwWru=pDibQKeAlxgHmYVXbW:=^RFSS@xDJ>fQpBmSBgxx:V?gID@zo@uIpAc@VIh]]w_@MNQ;^Z=X@pWmIMhhqklv:CVFy@ClNKZoIkVDFXTP^Bl`RmVSXFZaNM?[lbM>nY=WyauPy]YrmEDePH`EDpdApKpOyM`EMEKPs<?Sv;R[Kd;BJvkdRugd^Kf<k=ErbSHgQe;Jfp[NCW:[ghaBqiC?GcMR?kXHYUC<ZPn=AK^=@^UCkLy=UR:wlyYZiJTPk^AAOSqERucNVKo>]@_Ke<[qIn@>t<lIRvvAqB;mBu_DcHIv==ZFoksGwVDUYGk?rkRs[kFCUQ<gTk;=UilaRsDHoRdlNsAwVv<QGl;ZCk>g<ueI:HXPd^etXkK;W:hxaGns>=Vw_Br@`JBERao<H;;b=SZzlgthBryEZGn^zntT;VOH>:g;A:DPtolCqRt?@HWmitjZiugz>PFnk;t_l:@[gVP>tFhSt>wXYfEaB[FnsYVkdccgqG_KtsCxs@P<]Q^XF:UHWfVPjDKDUmoBPw`>^jEC<vkxsuCDsJYEohcEFMtMCHHY?KGXGq>aL]ZWYAWQyH:bxwMvC:@?I;Ir@NwQR[NzB_jk?:xRGyLUEGhdkl=B<EkT:i:?ZDdkVefB?QCZ>lIB?<<tCbooYaMIKBQwE:AFu]Ywd_aYZnyXb@zaSmgsjwbHX_vz^FEzslBJ;EHdj`?nDbL<l[KpY:GLBVOf<OlvNrs_alyaEZHlvZ_HVHGm>[<GqUsnoRemL>;^isY?[oiumD?RnGiTRqcMaHT?RBH[IZG_JyDO?un=vQ_b^nvFibMtJ[dHPsJwClUotz[Y]MTS<BHghZ_KRXQ>NySvaTuHLjRAc>mDC?SLAlYWdm<`u?RIoYVzTPQct:=RT]UW;c_oPiEi_hLQKAcboJ@ByaQqigawfFQQcIFO]ilSQELLN=fWFkdvVU`H=o;>QBiPRsg;k?HKH^SSLJOkZJAkQf_Unpf>iUTnmsrEtmMf;p>fBXSD:D;:?gl>uro<<QInyKNB=VXdBkNLkfcR>heYPqPKGh`ZH>`g_KBvTIcxmLtH]PJGUCHL`FrknnmTFLBP^N`iATqAdBDQkLECG_[<otCvgXnrMGw`>n?BIabEKZqNi]mU_D`SSF?pk_oJeDbABEpKPXUNdkO=o=L=w_ocgchD`ecy^=PkLghbbfEgiamgZTHMaPF[x`r:PCTqKSNeVNm^ax`^bI_Z>;VmU:O>;`LSc``uOtSMV__fnNG_]:MSKwK`WrCf`>`iTb?NMoIChQKqAOzMhboTiNxXfpIH::GUVNCPI?KZ:weqLv_Q@nm?tFRfQGwC<;`VZBQ]ia:qs_PeEa:J>AcAoMUQxH>XFB;iqcSkGAEmqtmwH;[BwwYmwvAXQWXFgsKMEoHhgUVSdEkNnnx`O<dmLzszPp:d`F?bZV;K>N:ee`LBRzE;THNkevKkLjKMo:Zg:UU?LL`RQVgwNyDuLQLbKP>cRNWSs`O@ohiL?:raDI`<@wdQ;iqNmDoGoD`^Y<c:avdqv:@mMVUcZqzDJKX:;=T<e_qJeaGrEA=SVdrM@dmGrMV=WwcNqDkQGuannXFJkquU:h]D`?JtZo@se[DGZrs]E<dOVn[S@p@L[CHtOlVGeC[TinmckU@uttC:[LNFvTDb]FeH_EM>bU`tKwL;at@wbogIPzxYGv@oKHlS@RaJdaFPi_:D:DqeMEH;n>s<VkiSCw`uZxWXjwn;qfFv>NEH?[qslRp:VPCRQea[ZpOZ=]<rBUgG`a<;aL[kS]xgPwD=OaTJINTZ@Y]<XocwIGSAJ]@_kLpWe;pBu]WMHf_:?T;]dPdjbieBdZBuhDf`fPmOZpoZzpLT_=LrI^DnTyNP[YQ:Xozna?:<tqg:g;qZD`aMsPW;rM>NWw>Oo:uCMMMudX?<kht`ag=lfhprdeu_Kiz>@UgvNJgohWirEQHdvQ?ThpIimfPL[epQeHxjdNJhAjaSxT]nJqhIWpc_ltvZ<KXokfz_HpP?expqbbANSVDhvrXnqzNaJXUqRJe]lv]oR_mC<Pa=xFOK_dUsIpUqrlr`:q@qRoWmu<lDi[wMffXmYyj`icZ]GsPIbV[IWPXJIQl=W>P:BxAOc<pyUbV:PQuc?ZT:ZvfoM`lUYDpBlsROV^Pyxf<usJqElep@]T_EioQPOeIby@^zobzQYNSfLAE=FO<toZUiVnfxt=;NRywQ`GN@=n:`H`:_Timw@G:a=_JloXCoGADLspiWXmvoGayh^pd[NnRRamOHw^^qYkqFVTGMAWQMckpqVW;ni@U^k[`>u<VIoYAcJ>?dsuRSqI^HMxFOMGmitnWjV<rKZKRogT:;BHJVRiGr@Q^QlcslHs^F]b;^<hjQQ]?>;>^Og?Aa^lvUNkFaBsMin_nvIyEcbJtSyOQBBGfxob[MDbdFteT^HSb?M:waGRbTS@cCC=dSzadN?iPffA`zJio?EsnhQ>=ptdwUW?v]xuBiZmcmFYoscIgASts]RJ?eDUFeAVFASjT_yswLSHwp_tiXXx?p?R;XWwKUVriT><kfqQOtiwpqD<HlAk^fnjIM[VUOgbQmY@rSVR`cqxbVEJyVepyX?mNP`tEmlD<`=jhYUcsrxaFOCRNhePhEFcmcI>tLWOP[ABetaOAAFWyPZfKlgDodSgVSPp[y]C`mOSumaQFb=nXYNNuN<_b<QGMd`ryYV]@]M?kDpmSJM;PiZem[<qlRqPVPAtI?`phCrWTHnjP;mgCpBo=RDIZq>fctPvE?YKhnblMjZIGmMUXGNq@UEG]FEnS;Fb?lU?dt>kfSOgHbWUQSw_CUROlJxrMtBu_pLHxgwFMgCq?tGhG^t@iwngWbNo]JXAdqHZr>`N]?u`gEbuvMn]<GKXTNxqy=n]uaeThz<gKAIQHbXqIBIgoE[Ehx[yllUS@mF?Ei_?Ls:sojyQYNP[wDsBu]iPQxABG?mrSWBWHQrEsMfLx>s?fXrbbYhzUG?X@jLH@RYFdKki<mAecn;RWmKazS^jXQbAA^jho>tMiXrj^mMb[o_WmJHOcZLpz?pNvajm`q>EMesKotxVTia^^oaSpBOU=mrsK@n]moFWlPSKe=F;aRvVskGnfJfiqJJ;wsUp=Qa=ByUyufYqHbun?oU^hYn:MWBgWv`lwektPR]JIvz<z]Trl<tWrrYrLAF<eNtLiAr_Mk^lyx]VJFl@hUqKwABBwNXDXZBpRHDH`@FXAargcuuKVasQhZNWfpdmNyFSVg`iDrGU`w]>xNPRiirRxsWqwUAWIQqUwv^uzEUuZUiREVDvZyXujWriY[EtnuPyu>xk]SZYkbWd@dgpEvB=faeYXARK=ohkA^xzxr[tWINsIMfhd@tSrxHwFSRHGkyYlviYDI>n]BPMnzXOG_roQ`=zHKPWlXqX<QwBg<OPVdX]IsKTaC?vaQdj@XsQ]benoDwVx=xrIWYYHrtvQvdqqbhWhFqNlpAwLnF>wtn@truVG[HTeTwGWq>eT;C[ktAFVFx@b=cVBz<sSsFbvQ=Uy^kZmhBguhWYifnLZI`T]MsX=Y;RRnfxiPDODFw[tn?UqGvPzklSjZp[ekhw;@Ywzvb?SBQoqo>OYFvgaFQO<Z`rgJHjMzElnsd<QTxXjIYOoNVBx@ODr;pz@sSVBay:ydjIkzkN=z@wfwVbgmovmNi_HMYU[xzTKSai@jVYsKXrmAkWzMvPIdb<Txvq^ymPYwhSBrF>MKd^PLncKefS:YzY>OIi@KcE??UDCXNQXHANmaAlZBwNEDV;nSCDmSlLg_<h`nf>pwVeAYo=PrbJvcRLEs@HG;;Rkw_SFDd?D<uQcHdBKcGPpT<D:aUivpQmOqXkn;[@OBJNg<Q[=ijbrmHbpvvu=YzjSkoAo^ui?qzZYVTlrp=uX@oIE;CjsCRMyrtPnBSPyZat<rN>khgQsB]bn<idycEB;ncl]>nxK@JEFOAjcCNNi@ip<`VYmrwpTvsZh<>I=f]Qz]Cu?>^E@JkxpusnC>M=DK[TTRPXvO^TyWtXivPBSlXwdeer>LjRWxz<[PyzjQcZieGulzMXBYRIzoR^uWxizHInIiAxjq^wizgYjkgYp_iqxZK<rH;iC>Uy[PQDBzwYibtYoSy?<HtszoWf<DvcFXgkHBoVOExuA>]lodBwRKLBN>o]OYWBkSQNPS>=>StAByXSZ?t@En;Kxv_NQCpusrX_cg`nReaj>acVZ^Q]zfPuTc[eDzefdeD:vLK__w=ci:o?i;D:<:KSCPLL_fSDXROc^w;u:u:NGDR;codt^H]`jcVnH<Ckhjuy]erjrtmJcR[vktmBR^J>z<sRjW<K]<kh@CwaNuc@U=TlmFPD;sky[B[Rs_X@k@WaO?^aCt]zCZPC;a<R_eRcLmsI`:O]^R`PBp]sX>P=p]TZVP=w:S`dIfqauXBuTaa]yE>S=]Bsbbt^]wTCHBn]Vsh?[Y]es[iEU]isjiDA]Dj=Ye<mONhNRQ]B>>[B<RWsZyDbuSZTyCP;As^R>dcjsZ;C:L^ZP;EH;_>_omruvZXMDWBOsb_^BLtR;wUZswK^]JXqj[^jdjkXycKD<@Tn<KCjP]KBTRj:ld]wSZ:tdfKExsOdZlEgHiME^CgLWtdnnzDHae>Zi]Z_^HuvDnk@CBtLtbZJ>DLp_gdDIkuo]`BIkcw=dDTZQNZWBxLSciV<;iCSaZAELt_cJ>^LWc^ZAxZy:Vg@=LZkOZ?J:baIGDALSc]tDcJv_dtD[XOlftBn;Do`GEATgoakLA;gkQetFiu:PhCCL@o`hDhJu:QhEc;loie=?LdNde:<mMQj>>;@JhjOCo:^Nj=ClBvNapCo:fNh<AXBokO`DxLwkKpDE;:kVGC=;q:T<<s;PkWV>f;ikVJ@ZZ^kMV?lapZE`ee:xkS_<_[t__hB>[:NawACLeNbCnULqkUpBz;vBPTCz;doc<A:[EyjsUkLWoZxCa;EoixCYLku=xEzLJF]=CZm>F_PtlByFbhKZg]FdGMBmYJP^BY]@Fe];RmHF[c[D[[FjDkO@VJRD@rLPJQ>>?uWF^W:FmSZNnDgmvFZBDVmrFfnEwmAP]XEQLKajK:uyWL@jtLmME^EBhoMrHpMJ_u:AlT><egilThoIK@R<TmM=^UBEiTf<_uHZ:V^KuZeUgadmyy<cLYeymBfftlXgDRSDtd[ofcytXmpgjvsC[_A@`B?[aYbKu[mrcPrDvyMmjjtUBIVjRJhozVdXRdmr=doK^mwK[IEIyq:Dzu?mTVgQEy><w[QC^P^BD_=ZTcLCjEXPocIPA=DmBgjBlmURKdkW[[x_IBaVcw]rKSmzRNmD=[;VfID^[z^dzv`mLwdJJfmosPWtn[lEZi>w@Xwfa:AmiIawfRDVfci;sD_YdytRsWwg<tqNnw`Tcie?h@ufJH<GE:sgDMh>:eBHuxbVtRHIhIeeUyzsM:d<DA:<Bf=qL<]o?Y[V]]y@MDhmiy>G>?wenvQm[:]JfFo@EfMtBKZ>S:tPoTe_jUZKDx`;>VDZ^IVvkKWe_K?BDm>Q:cATF]f_DIm_][m=LDi>P:?B:>:QeZ>:my_Iek;qQHkK?;edaRKTDvP=ccbNo=D^]@Do=Cu;cso=HRePDp]fRcqDBsHu<HDaFEIfQD_pdhtaytZBgvsyDs;>dtFKT[S?ReST[S?DHmresLlDSxg;t=P>z[Jnd>omics>yr_W>DU:BPA_dpR@LjS@;KTK@NciK:E_SspDtb<OvnyI_Todx>yLfu?NyqNDwd<K@QEEC=DMIgjCSKix[]CPKz_MS?Vyq:iTLwyy:g`SV]TOhgc::N>qMvD[mjXvigRj[oc:<`I^oej[iJbVfBe^RT]cAypmiwf@yLY`wczDuYjLe:eK:GKu?[fDbl=ZeHY[p>QDYcS`A=KzLfECBe=mZGAG[BNHh>Cy]NXOAse>JCZ;>eCDaLcaV?Dd@?NeGDbLfYH^D_J=FeeRYGAV:vDjzspPrnhmewwnybe^wek]cDfoeGq]kUK_cbd`;ju:m>mnLe@h@xcJlO>TueOu]xfxekHPea:^:u:mDfskloNGwKrBdeje=XX`e^U^HeGeeEEqedXcue:KlFJ[?zwFTcRMVK[=aonSeYAg?mVwT:hS@hwtTjLvGyxO`pTZ;Wq]Pf[KbjgbsEXEFQIsVlzBUxAOee>Su?xJxTcqczcET]Z=@gxb`B>mTOujCcre:ucc;IeBubs;i[z:C_^LT`s=ASmTYT[ifDlr:QiemTVuif?BZ@u`idbeGWgUAPldgJHebe[gSU?elEgSOUreFrj]=TlQuj[feJbufJ<t:juZB=zenZ>;dm:<Z>QRX:Z=ZR;JTO?E;di:<Z:[cRTN:;s:cTjZ@[eBTa@hjEOTqJBA>yJK@Z;=S:cVXKfq>uahKdzw=J>o=oTUJ;o<yPE@_F=Fov@ZJ;M:gkIF<E:mkAleuT:aiW;<TbheCeeRsaed[:wyVVi<M:LqE>:UFDJ>;sk:m_GI@mJtVRK^[lB>HlCjgFNF;<betKIF<?Z[:C][qBDjCy:Z:TagAZJ:bl;RCZ:pZDB<oJV_<w:l:iB:^:^gCBDB:Z:CBFdZvJrBefnQlhwLg;@:aLEZ=n:_kC_]a:MwT>:jlCJHz@u:bwSKcIu=]I>;V:V:A>My:P_Dh:S>`_?N;baYZ;B;cC^y]V^u>I:?:kmlh><g:mVE>Fw^kDlJ:k:pikZFD]S:Mkf]Jk:U_DA<y:=VUN=nlN:<kamJU<P::flrD;Kfbl@afXvn[>:@XSjgmNBzB<:XkE:bblmNEIfvFS>V:_;>`_=D:r:ac:q=W:aLDI;qkj<SN:>:F:_Z;BmH>?>;c:qg?<^_:hDIjU_<ykFnLzlyn;XJtmuk?<uiZTw[W;HR@EIuZEudZ>t[:CuL<tZIlu:D:`f:K:H]<JFbzZd[gBS]EDZ@NIY>Z`>inV[k:HcMeEPMV:_wenn@:MBfE]AcXk>B:QJUe=y^oZXZ>iZJ:BhAFKs:buGJ[q@V=GM;u:UvABZm:A__Z<fPZxBQZ@:<tAk<BCEk@hK=ZcJGN_J:vcAc:GCy_=e>[R^:W>bWZaLYoMosRSeh=xCHc:b?mB<kAN;fcTZ?t<@]pwLg`Jl]uCC:=:VmJ>dCy;Z@mKn>@mM:Sw:RLQFM=[vdFf^^>jB`VbE>FLXg<hLIK?q:F:u?<w`v:RZ=uLi>FmQg`k:Fx@mJZgAmXg=cZA::k:MCmiEmE=_>mPmEsR;`EY?=>BmMuJMC`LWw::dr:FwbXCIfB]`GCgDM>_Bd^LSOTw]ZXHNacdQkH]apolfcL`B:gDJXKYCHDNL_nPtZ>g`e:DmSItsucJEmDnPlfggbBsTmP;<bCPmYm_vCVFAw_no?k<EEw:J?]zAgL<VhH=v[bJ:F:oJGwR>Ka_uDXu;iCQR>cbdB`J:iK]ZwsToafJvLOq:e:<tAc=GixBCo`BCchFdZODHVeTKEDY:=uLrlLDQc=a_lNAc<TXDN>J;JdXkAs`j:lDYoKjgZTOFmUCXZBbEECsTQD^udWsYDu]:ZLJR<W@R>B:bPBB<Rab]sDuIH?XC=Gi><SBHoC_ZV_Gk;k:B:>:Ix:dNo_Hg;y_STUX<nJLw>d:FTqk?N[jghJCUZ>:AkBvAveCgJdecZLa`C>eTFgdKeulzu[TbTTu:<L[aRY:<Hb@RzxF;;`Nd:WEA<ZW:DD:LCFAcsbamSx@i`C[@S@u<GVRfeP<GVTNaaTGVqCiOUt_NMAC<wo<oauT>>^LGZvflco=`fMLBI@=nrJtPdy;Z:^Vf@_?lJ>BB<NZsgReZ_JIP[K;xT;wbV<ONQPeK:BJjP][:EdTgHl:V:oo@dBCaDCZLTgZ[SBl:AJdZde<IZMHB]<Ca_gGfSeJuJIV=s:hsGOJcSuOH[a^BrnI`^uqT@NK_N:C@JfZrJgP=n]>So=B_Drqq?Bl<rdQk;l;oS_EBJ<wSTgHd]n@BqGfUeJJaJb=u:I@Jb=wSv@SzctR:k>wKBkXgYO^DSVl>qa]C<wOI?pdz>CHayqyc<H`XiqQAycOCOP`kauC=@jdaRkv>jBTdCbq>]_?CxtAL;pCc]Nrcwsvy@ASNcoWdqbHlfs?:=u>`s;l<gSpq^t<IZe[GlbSRuL@C_T>qhdUcN:JPVmeOabyELRpa?qAPUj>^bemUeJ>PSpZoZWmA`aIgmU[:MvL::;ekZLc;h[lsKxE`_TSw_AYSbTFJF?EAseVhV_UPTa>k<rZJ]cW[qDNPC_^_:ZqYu^?:s?aB>@VbtbO_Q@CPPf=nZv>:e=c:MJDASOaTPPqkFaJN>Vm;:;JIM[t]u:;O`OS?lbhcr:IG>O_GS=;i<Eu>wuco=ASxPML;ZJKZDf<tsl>@Z;Y:De:J:DZwJD::OPFxhyUfJARGFa?CBh?jBmVLMA@fd:eO?tagsmpDtZWdOgRXfyRLPKl;=ZcPP^DySgHQAT;S_p<?bdqv>@?_uFsbfuvuZjqV<MxCfcHKUd:LPNh`uTCTeCbe>:aOK_uFnPSGZQTiHWGnsttU<H<HSMLTP=xCCR@t`r[MDVdZIPTaJwJpo@k[SaElXaXT^@SlaRB?=:`sb>fTS`aTkbPSteC^:?wcZIS_icjW>t`D@[LTtbGdRHSt_dSIaM=aXl:PJ^`CqqHLn`pi:q>qEBCFp=MaUawPPf=Ci[W??uFJDsOW=l:Tg;M_JtePKn]fSaPXGaZw_pDmSXt?]GGbyaiqSObOSPr>YKXtoUBna]cC;]F:IFupcKT^JQPMp_ERYPW?]=S`]XKRnS[RAG_ESznFUbOaZXMn^fSiRChbtaHqQhalt^_>W_Xt`sPW_oT?qYCdQSEXPFe`]cqVetzsKtb;CnDWqJx_TDMqPBSjSAqXKnT>BZ=xb;XzqYXL:tc]QWecR>rcUaNtLi>t]ctSiR]:RtkPXl;BtOiL^aatgW^U?vteICU`lRSqan`KFKHJj`kFdHRl<ytliRn>N:^iXC`?a>q_ASCtGeH<^HRpyUavqiqiOn`H]CLUn_Rg:iS[E<tPKIyT]taciEauSFwYdbLt[aLS`WwwiM@bGmn<OSbW:eiVY?]:aiYbkFdbBEf_iSYHVrBXS@yW=_elKgQt`kttyO^`QtMFE:NIgWiO?`jtHPE?`ot<PP_DiXJyLNnWtf_iA`It_p;j_OtIy?Q`SSBXSX;[t=PKA_K<=>HO_lt;qQAaXJ<XNpbtZMHLbb=muXLRlStTlZOZqDzPYbbycuwH_<nSwqRh`ytGCZA_L?w];ha^DWXRRJGtD[Nr`q:zZEWbaRsySr_sCdqXpKDiNdcXRP>Rp]I_eagoGsPjSvqSxbqRFyVB;ntYqYo`EtgTLj_Zt;qi=b@tR:?j_btQTUj_Pt[yQ?^AtG;Kv@btYa:kPQtHHJ:PQVfMcM``ZlHLNaIttHTBQP?fyYVLV?hHJdbYta[Vb`ztpiUOu?_k;SOTZ?[LX:Qn[_;NEay@r[Y<<G:RiRf_LtL;OEac?FiLsALKwiOH]R?CEhZQDti;RD<RkdwQACR:xH:mRn:k:@c;J:KP_i>qsEiEr_w?DFco;V?v@Si@dt[:_nLnoZagzEOZ_BFAUP:xK:IAImn;E>ty:aLIg<ocs_]l=V:SkTg;McOKB];K:sk@mLNZmi=?mU<hlXZ=r?bySftp:EsBo=FtXp@LaYdjs:Eb^?<]alvfZAyeF]foSSBKU_`MEb:=r]VJ^aM_VqOdzfFgsi=AsBSA:>[bLsLSi]NFSWJC[aG:q@RJ<jZy@QMaw`FmDKb_SrCT[`Yt^@YF:L`u:Dla]`A@T<migdu]MskXv;Lg`m`n@UW:NS]i;]Q]`HdReQlSiGgmPegOCKJ=w`FF=[b<`XdU`LiSLzjVLfoRej;aBSm@ODPNS[PDday@c^fJ;GyUl?yeoSiSjwavahsDX<o:F<ZW:j:Q@hrAkDXgOXBF`?Odidw:cZ>?<XdmlJU_c;SOcmQ[:<KHaQa<Kj]XaF`AJ;R=CNI<Mn<]oY:BVPAJ_c?PJqdoa:cdzKe>JYD<?e[<E@KkE;UU_h?uZH:=?JJAac<x`H<B;>aoP[<M@MSQJHqPCSMKLzb[BNn:qeRReZBr;fcEkA=;DlnuSGJpNZZIv@MowSJUAS?zaKf?Ee=bhBOHXxgXv?HlVHVXdilytSXPreIgRyc`li@Z>ud:JVVKd`lS@ej@OlJ]WQ?d<hVVo;hR^VLrMx:f@er?^:vVSldWlI@eu^wTPk@wOZV`TgI@CRcwR`^^lYLNuZC:uLAG=DtG<_@;eZa:H[PBC_k?[NwCgJCe<sO=:IXdw:r<YP_sOTc=qPs:LJGKQBJS?QKN=`=?KKQ[:M?TKPsOMEGR:c:LJFS`VOh?Jy_=:LJCKO<OE?YKNs:YdCa`ytMp:iP=JAs:J;INYH@C=QZWs:y;IZSP[y<;LNJBP<Ueqk:KPROe`J<=eOKP]OfIZfs@y_U<QwY=<[s_[jK:]SAsF];E:LJ::a<J?LC_]nSb`JbToNb`V`JXOOs``LXO=ODcLlSb`LtC[Ou[CtNTSZ_>H:lORsDu:COB:I?OQ]n;D`PSBcC]?OBavdQuZC`Ki=?N;sBOOG^?OFOTcL<JLOJaPCON:COOXORs>^apOcNdtQTshOVcKLsy@M?Q`a[OUOOOoIOUDMSObh>=JKOtBRGOe:c<Mv`k:CcbhUNkGlNu^l:i:;XJxqTg;IJEZVF@OTLJlN?;e@tjRGl@lSLHON;M@:qE?_vOJ=iL?AOu[<WOzNza:WQHkgdCWQeJI>C<UvOr>RxNDafc<WOmcruLv]zd<YBScOLulWD<YJLWcR<mtXa]GJpZt:@e;^ZU_:=O=:[iQUa^:UJ>k]LJG_VO:aJyc@d^@tXtNmTQZNZHeBjZE:Et:UeSlNbTbZTZ;NPsCl^G<<cpVFH^NP:om?:;vOjRFxSZpgN;=PlSgGKB;dBEF<=:cpfY@^Ne_i<X]NRpQWchOD>D:DhQc:upUMOkkPpKJ<nSxpNAU[N]hKJ:;OkGJWdSNApYMN@Z<hL=QE?dCIWcJpNGNV]kp^>EG_Bpp[W^OY::;><<?Ta`TOc;S<hOU_PB>hE[ZL:vt;^QMBj`Y`^FpcGOQS@poGW<LS`orH?JBprGV^OkkGGMIAjBegC^QNap;KU>Q`uHWvQ;RWBD?_PB_<?h`KpC_;?]:ZZBHJ<XZBSOL@TqkGLnQypeZFUNkpkWVDZ`p?hO^PMeGhODAaOP`J?`epuWKB=UNBhXyLiZHcEAOXpSDEvQupnKcUPe:Lc>]aapLhNJRBpQJA==yZKsEr^j_aLCY<TZpc[N[VpLGUnPKpzGUMQh:dm>v;eRAXaaTZBjySL]SB]g@jNnR>_Bo^h:TH=e;rpfcFRfipdR;?d?ps_iiUAOXhM>>@psGTc:VppWT?Nn@u[:^Ot_rGQ<NB:<K@O`p>>Z<:ph:R=J_LCZN=TF<MOTwBZr[paxX?=UpoWTV]okgWTG<wJ_=XJ=MZTaEl:BG[=KR^j_S]jbPHkyxWF]KOZ=QFT=pQxVINzpt:AzQiSuJAJoUaM]F:q:kg=JZ=ZGiRC:o]pF=SNAwGw=TZrBGloDZoUpYGPT:<pa:AM:^Zl=Li;k:;=NJpsGD^TJreG?=Me;NG]gGfPe:<sBkrOXrxPnPzpu[;INN:p`;R[cGg^YBpvpCRGM:?pt=JcrPD_;;EQ?JohO_;R:WJQN<lO;yLfOyGpOMWOapxOR>r<c_qFxQaRcCi>rlaQCRMN[Gt[NU^[GHqE>pMRPhTzQyGypPQN^p_GRAPPGY^XONAtWWYANGp;Pc<=Gp=hUj`SGvWOhLBGAhJRrmJkMM_ogG`WNAQgGwhR`N`GraOUPGpWhVOchppMWOQHpAWJcpWpopRornZDOVRouBDRiQOtGChWQOMG>`EV;N?SMKt^xG?`M`DxZRMLFppGpF@sq]p;]cordOFnPB]aSwnPIOGC;MK>rE@oxSC;npywQr[NcmxTjQTN[xXq:bpP:C_]HFZ:Hl@Z:E:eYnYwoQpU;?YNGlhxYYPIpWMXu;`ZMxLP;iGom=>qYpC^VkpaGt:?VoxdpWT<UrGgxYIQIGaLE<=yZ[c@F;uk>pAZ:QpEF<Zo`Z[WTG:YGBhSkT::sWe::aWe::lHe::sPvNkBES_;ZhvJ:Vq:ZHcEYNiGLgFYQMBVMY[`bGKU;VqtGUMMVp]hxH;UQsG^]Vcoc:<=NcpN?qyLNN;SVfOk<pGqpDu<:ZWBHJ<UJJfMJoupmMV]qnGNfTortGLnNUZBpGTJhbe]dR=Lru>NpMe:ihF^OjOmGHxUe;Dkn^KB;nO<pXuqMG:X;Do__eEM[:Jp@EP];EG:X=]rikXERjP>hlES<=gJSEKYQmsRF;XMAp?qfLMiZXUJPrthQEM>:wh?tB<<tuXULvNDGgETEODkUhTDrdG?fXVqaG_UKQNqhAMS]OMRrMTnZCpiu_bObt:=Kk:ypXnWhLAGvt<P;DGom?QK[hc?;@oE`f=KRrOpOW@APXh@=WurKpV`]P=yhchYar]pGiCspjRapUspO>QJ;ONdGpOXxPCGbMWFqQh;qe?E[GEOX>phOmC^epQhY^XPRdGI;H>qxO@MWF^yG`vLopchFfNgp?Gk?DgqPpunNU@UGZnWWPZWifYNpJGYvKXonhVnWDrhhgTT>oZ:vpP;rTNxWJqRUG?MYUPPOJnO[rkW]g@eoQNYWMfO[G:AQvOcW]nKqpGGGvWqqgZjMXNqOGlAWWPvGOyTFqDkGUKJpNWOBRHRcWOfP]rKhGnT?Elh^nJjNjGac<jOeZ?EOGNAGvnOaqYG?q_<p:hlUNb=QpSUQYNuZ=xMLr^h<EJT<IhMUSDohhwvXCpRh[y?CqChODFao_hTUSGNQph^OurqGLgBToohaUTm;eW^ETmoVhPbTPpwh:fYmp<hBfJT=IhiOLCoPW:WJloRWA=XLAhOwfX;qDhTfT=]TGLfXeor`uHS?rlGwALWKUhhC;h:ah_nKypaWsULSUoWOWRlrtaHAKB:HhdkFP=NhG^SBpR:kUXjNwpW^MuqbBWxWiq;hPbHppzhQvXOqnh`QLkpPWGQMkLqWMnNap>h^bXaoPB`EOBriZi=WtrShaOAza?hPrR?rLJsEXProkLgCPpIpWURoozhBrT[rPhVQKJNW`;nbOpSWKKYqq`?b=VHowWWMYeoNWdRCHr`ZfpKx^SGWALkozWriCnOBGLbYeoqGevWbPvplfJ@ooZ<pWM;tpE^KRfeGN[@i[E:cE;IT@o`pTzNRxwJ>=MKWVvXnPEh^AM^p:oWiJnP:xg_EKp=pRrP]oNx<iU@`VpfQPaSZxAQKAOfhw^Tu;?W?]Ippda<INzNPDGEL^rfccEF:sb`XIMWPjpcjSnM]xZATqoEhVl^VpLx_x]R]r:VtUk:JpUuP;:LOI?PlQLO:<Y:;mO<`Qi<]OD`Y[pJW[AJFpOGUs=dQK:y`T:bsO:kBKQalYMKUpUGO`Ky:qOZuO^:X;OFYVMHO=_@tPSBZOQONO?Z<X?MyOCWMtO_cqOXWOn@kpPiTlxM]@OPbh;yV`PpOmnYtPKGnOOMZSOqfQ`OXO;OJaO?OOsggT`O<ST;pdxGOV`NGOaYJi<pOEOYAptxbOTz^WOb`UpOhxzOLQqkK[hBrrWxiIPGPPK^KOGP:ZFpPf:wx;QWH;uoA^PhPAhghVXq<JsMRnQe>NMQxMjp?pPyq;LSpO?NFG@zNRoUxovKjqboe:>xPExWIUXpl?cJ?xNu:?eGe]OegGTc:ExtrTCpmxkARlq<JDvSppiWIfLENJWSjY>;spMV=eo=`:u]MOJ:SGKMPmsOGQm=fhWGTzOExVlbxrNxEpf_pgG=IR^PYxvIWzoSpkhR^pehDpJXoUOVzT>repoUFfNUxUWKjqTp;pSW;BWdWYxp:WuAWWqWGnri;psWHGUUPixFAMgr`??xTvNiGbhJT:dpW:oZHgpEzRkF_idD:fRYxUIS=olpiAYANThHKYAUDpTWQgqSppGSZotpTHIbP?pom;JHmxwvTzrlWehUQPg=dMQzpGpKAWgphpBvJ[oxpZbKS[>@yIMMpmx>rVRF[pNxTgonp<UMGqmWwbLtoJxaZvjQvphEOaoZB@rTYQbp>JxdpvWXbJSoiGg?Boq=hAxJRH>x<jYzOfxVl^kr>JY=JBqvS]=LBpkGiR:Zo]pffLZq`=ZJn:HvpH=WdLDhS=Vepk:P^R^quGt:GJqGGb=L_Io=VjTZGF=WJ;oG:GenRNG]GZ^JNHwGc^Q_F`=EQOGNO=@:vBHDGhJmcpeG<kmeqR:xJoVoh=UJx^rQOeJyRrd=lIPU^Zxgko>IjBV`_sq@Wf^QiqLpQ^NXpapKMLjqRWtzNQbMGt:t>oIhHYU>otOXQKjrtaxkyRP[hizRqrO:G:nfOr=nZwZHQWpQXsFbhA:A?NgWODC;oV=AAWgopGhZyFo<=eZ?FpNxM=LsH@=sZulfa?QMPRFxG<BtRHPxbAMgq_WhZrd?IpBzSFp[GMzM?phhOrKBF>^DOQ<GgW;AN]HHprAK:IUNmbYnqkhXZuwFF^;ITIQ^ppWX`QMWFbNjOmWUnJYPeWxEQz_TW:EMhouW>EYdpJhqp=<oC=lbLoKsaRBuBHPWscslrRhQZkwpqW;EQGqdh<rKB;EWP:Fprm^IbReHbpnEXmqVhoJo?qo_zERDrAWsQRRqY=sfLDFs^gQS<Hx=UxN`qX]DQRgHSWuQLgGdWPGRcFA`zaAbp_W;fNTpoZq^SZ:DuaMXTov=<nT@Fg^whQTqfG=QNuoH^BILZrhWu:nBIA=HcAuoohIIRGoupzkraGi=RRnh[L^yEJtrP^nbLdqgZ?]h>GNcPrYap?hAcvhorpyrL:[AWoEYlpS^xUJT=E@;czFp@=RRrVp>^IURaIo?ZvLxqw^a:@HqYWdrQWO;^sBq]ox=[RvfefTenTtqR=@vKh=UhvtEiriGyvMIq>=I^UVFdx^kkwFpOtvMXr[GxvKjqaW;qf`q;^;qfOqYhbsnWqNxjvL<FY^LspOrhGNBzyoDhoRq`o_GFRqkIPpvAORHHpVAT]Iw=WBuKpR^DEV@GF^;Rz]IQhqAXmF_^oAOUoN^vpURI_WE^ULHSGGAQ;FJ^<>yqFoWO>lRFoMtBwgp_WV`c^oH=zsuqI@^NBtCpa^iEUsFm^zZshpDW[nPhqyWLck<qTWRsqeIwh_EXVIkh^MTSq]MpnWSrYRWrWsILWQRpTH_hjRunrcGgZuVZXWqvRdIH^rnTuF;WT_krA;WIcvPpy^azPiRK^<MQaFf^tsptGtxm>mZ<JGe>l`rl^<Zx`pbtk>zM^tW;]iJ;?WgsxaGzhSQQtGs^VGNPHjsxfPV<GWnfOFHO^AfNVGO=vmAYQVxgIJGqu=nRoKHPh^By]p]MvRpGqLMIZxDIW^t_yLpmMD=Lhpx^urOwp=^BsxhoiM>slPrb=CrTzObWTNwmI_M?svWrg^asn`pUxQJ=iHw=UcB<:YW>vRopAxCzVXH@^@jVYoDakIPNGLG<gHcrQ^p_x=r_:IIY=qS^LIWZHj:eIMC?PGYYXEqIJcfNxHb?qozFpb^NoqzP^OSIWxpvMAqGOIGhccoT::nJIPymFxcILWHO=AIOnokxwpOdlQM]INf<<xDPIWF]xBpRtvIM>;EJqRnRjXxGt^Qol`Gx=XFxEoexqhXZ=n`@jKy;TxOaVCPuxF`JUodSw`MP<DOCjXiPQZNX@yauOWjRSPHxl`VXNjdGiGSN=dtwQSNyxU>TF^yxf`VR;;xcYUl_VJI`MzaXOLPJ`N`tMJ<?OGBJLLQpTnsOKHfT`S@UeOV:b`TuNV`iOStOP`ZdU[`nkxHCtQjtRpOXBVkZSOY_@l;gml`PtZzOHOMOLpRl=^xEx[krMxNhUIpj^I_>nQN=`zRyNpTIpWwSulxzSJ;[n[FoMpc=niTFpc^`kkJFmpBVlJ<Ix;qZfF_=BaPoNvx;q_vHo:IhKjpFS[gulbJM=zVBIR^CsqBHMMlFo=PnMNNuNNPthMLbGpGArX]G=>VaUQI>MxVv]HGngaM<:VJRWNnqbNhCHJ;oZ[_YBFxGVoqY`tnAVnZIkn<pTFKUhu^QmG@hVhA<rUniczO]W=BZtxGCnRRzUFBpbVtrNiGGEYZFj^aVrEQMVIyX>pCS]zPoqz=n:tROZ:gMUfIfx;q[QHL`<MJWeanbCL;IaR`gnTOsSgNxJHGGu:BzFYMiMPqF;MF<poNA=>ZFSFP^fNotrhM`_pprKperRYPTKjNt_[iFznR:=eqc:::tc:;RaeeFGlhCAL:XZW<vHH^>=ZwzGkEv>nVpCSswxvG^>SNk^GEPBhWhLS^IVxr<;p]:rQFvMd>llF_iVWVLFwMb:vKHnSjZ>o:ExhZs<=v^IVlRP`tU>kkI=n;ByfIPcyNpBq<Mo]nqrNMV]rlI?t]]tzGvGIINRhpGqRuENxnPCT]Qfx]VrgGJ^M]v?_Bp`wozNuZGUMYG;nfszYHN:UMK;GPGPgxQI;EZWN=IaWBFztH=:l]ulqaEQBxNrosm]uxrXE=]o_I[Ef<qCrpM:NosiW^grLaphM@UQLq=^`qhJgM^WxR<:XZUhQNrv^`Npo^m`ZRlGG_MMVrzG@nz>bIFU^fVk?_WEsfPcFfnWMR<<n^HcIjG:ENQM_gGnULqmOi`wMLrFIWW;X^_MEXQRFjL`?UDFo^EE^PFiGGR<oDNJEfvToiLErorgjPny@JgiCpLmqYabEhdN:HjW?wrhT^EywmQFR:SVoVgrGEmkSmuROslIIQNmkr:<o_Jq=L;OqTebwZR:eULZ=V:i@E[]o_eH<WJc_`hJjH`?bmohHSNGyMfSD`ewpdkWqOUPbHjpALpQGMEJwnFj>SUgkeQRtb<mZo@DvcHJ=xH>NzIHxEiyJLjRtmwyghehYgzkiSW=ML@PNnujW@:onyk>::".charCodeAt(_++))?N-59:N-58),p|=(0<(N&(P/=2))?1:0)<<B,++B}for(var J,p,B,O,N,o=[],R=1,L=3,c=1,G=[],P=0,_=0;;){if(Z(c+1),2==p)return G.join("");-2&(O=p)||(Z(8*p+8),o[O=L++]=String.fromCharCode(p),--R||(R=2<<c++)),G.push(O=o[O]||J+J[0]),J&&(o[L++]=J+O[0],--R||(R=2<<c++)),J=O}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var r in t) t.hasOwnProperty(r) && (e[r] = t[r]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihad6V6BanPickModePanel; !
+function(e) {
+    var t = function(t) {
+        function i(e) {
+            void 0 === e && (e = null);
+            var i = t.call(this, e) || this;
+            return i.TOTAL_TIME = 70,
+            i.SELECT_DISABLEDTIME = 25,
+            i.SELECT_DEFAULTTIME = 20,
+            i.SELECT_PLAYTIME = 20,
+            i._canPlayPetNum = 3,
+            i._requireArr = [0, 0, 30, 20, 20, 0],
+            i._isJJ = !1,
+            i._maxNum = 6,
+            i._pretime = 0,
+            i._alltime = 0,
+            i._isJJ = e,
+            i.skinName = Peakjihad3v3banpickmodeSkin,
+            i
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.adaptBgByScale(this.bg),
+            PeakJihadController.isDraw = !1,
+            this._rivalisdisableOther = !1;
+            var i = new Date;
+            this._startTime = i.getTime(),
+            this._pretime = i.getTime(),
+            this._statusTimer = new egret.Timer(1e3),
+            this._statusTimer.addEventListener(egret.TimerEvent.TIMER, this.onStatusTimer, this),
+            this._statusTimer.start(),
+            KTool.getMultiValue([3306],
+            function(t) {
+                e._fightMod = t[0],
+                e.initItem(),
+                e.initView(),
+                e.breaklineSynchronizedData(),
+                e.initEvent()
+            })
+        },
+        i.prototype.initEvent = function() {
+            SocketConnection.addCmdListener(45143, this.onrivalUserDisabledMyPet, this),
+            SocketConnection.addCmdListener(42284, this.onTimeOutJingyong, this),
+            SocketConnection.addCmdListener(42282, this.onTimeOutFirst, this),
+            SocketConnection.addCmdListener(42283, this.onTimeOutPlay, this),
+            SocketConnection.addCmdListener(45140, this.onQuitRoom, this),
+            SocketConnection.addCmdListener(CommandID.NOTE_INVITE_TO_FIGHT, this.noteInviteToFight, this),
+            SocketConnection.addCmdListener(CommandID.NOTE_READY_TO_FIGHT, this.noteInviteToFight, this),
+            SocketConnection.addCmdListener(45148, this.onOverTimeQuit, this),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breaklineSynchronizedData, this)
+        },
+        i.prototype.breaklineSynchronizedData = function() {
+            var e = this;
+            KTool.getMultiValue([3307],
+            function(i) {
+                e._curStep = i[0],
+                e.synchroData(function() {
+                    e.update(),
+                    6 == e._curStep && e.noteInviteToFight(null),
+                    0 == e._curStep && Alarm.show("战斗已结束！",
+                    function() {
+                        t.prototype.onClose.call(e)
+                    })
+                })
+            })
+        },
+        i.prototype.onStatusTimer = function(e) {
+            this.stTimeTx()
+        },
+        i.prototype.stTimeTx = function() {
+            this._serverPassTime = SystemTimerManager.time - this._serverStartTime,
+            this._sectionsurplusTime = --this._curStepRequireTime,
+            this.timeTx.text = String(Math.floor(this._sectionsurplusTime)),
+            this._sectionsurplusTime < 0 && (this.timeTx.text = "0")
+        },
+        i.prototype.onStartFightBtnClick = function(e) {
+            e.currentTarget.name.split("_")[1]
+        },
+        i.prototype.clickHandle = function(e) {
+            var i = this;
+            t.prototype.clickHandle.call(this, e);
+            var r = e.target;
+            switch (r) {
+            case "closeBtn":
+                Alarm.show("你已经跟一位玩家匹配成功，为了尊重对手，你是不可以主动退出此次巅峰战的！", null, this);
+                break;
+            case "reportBtn":
+                KTool.getMultiValue([3325],
+                function(e) {
+                    0 != e[0] && t.prototype.onClose.call(i)
+                });
+                break;
+            case "exitBtn":
+                KTool.getMultiValue([3325],
+                function(e) {
+                    0 != e[0] && SocketConnection.sendByQueue(45147, [3],
+                    function(e) {
+                        Alarm.show("退出成功，未获得任何评级积分及胜利点数", null, i),
+                        t.prototype.onClose.call(i)
+                    })
+                })
+            }
+        },
+        i.prototype.showTitlePng = function(e) {
+            void 0 === e && (e = 0),
+            this.titlePng.source = 0 == e ? "": "PeakJihad6V6BanPickMode_titlePng_" + (e - 1) + "_png"
+        },
+        i.prototype.initView = function() {
+            var e = this;
+            this.showTitlePng(0);
+            var t = new ClothPreview;
+            t.show(MainManager.actorInfo.clothes),
+            this.myInfoGroup.addChild(t),
+            this.name1.text = String(MainManager.actorInfo.nick),
+            this.id1.text = String(MainManager.actorInfo.userID),
+            KTool.getMultiValue([PeakJihadController.levelForever],
+            function(t) {
+                e._score = t[0];
+                var i = t[0],
+                r = i & Math.pow(2, 16) - 1;
+                e.level1.text = PeakJihadController.getTitleByLevelScore(),
+                e.icon1.source = ClientConfig.getPeakjihadLevelPath(r + 1),
+                e.myStarIcon.visible = r > 3 && e._isJJ,
+                e.level1.visible = e.icon1.visible = e._isJJ
+            }),
+            ItemManager.updateItems([PeakJihadController.itemId1],
+            function() {
+                e._itemNum = ItemManager.getNumByID(PeakJihadController.itemId1)
+            }),
+            KTool.getMultiValue([3308],
+            function(t) {
+                e._rivalUserID = t[0],
+                KTool.getOnlineUsersForeverOrDailyVal([e._rivalUserID, PeakJihadController.levelForever],
+                function(t) {
+                    var i = t[0],
+                    r = i & Math.pow(2, 16) - 1;
+                    e.level2.text = PeakJihadController.getRatingsNameByScore(i),
+                    e.icon2.source = ClientConfig.getPeakjihadLevelPath(r + 1),
+                    e.enemyStarIcon.visible = r > 3 && e._isJJ,
+                    e.level2.visible = e.icon2.visible = e._isJJ
+                }),
+                UserInfoManager.getInfo(e._rivalUserID,
+                function(t) {
+                    e.name2.text = t.nick,
+                    e.id2.text = String(t.userID);
+                    var i = new ClothPreview;
+                    i.show(t.clothes),
+                    e.enemyInfoGroup.addChild(i)
+                }),
+                OtherPetInfoManager.getPetInfo(e._rivalUserID,
+                function(t) {
+                    for (var i = t,
+                    r = 0; r < e._maxNum; r++) {
+                        var n = e._rivalItemArr[r];
+                        r < i.length ? n.setOtherPetInfo(i[r]) : n.setOtherPetInfo(null)
+                    }
+                },
+                1)
+            });
+            for (var i = PetManager.infos,
+            r = 0,
+            n = 0; n < i.length; n++) {
+                var a = i[n];
+                a.level < 100 && r++
+            }
+            for (var o = (i.length - r, 0); o < this._maxNum; o++) {
+                var s = this._myItemArr[o];
+                o < i.length ? s.setPetInfo(i[o]) : s.setPetInfo(null)
+            }
+            KTool.getMultiValue([3323],
+            function(t) {
+                var i = new Date;
+                e._nowTime = i.getTime(),
+                e._serverStartTime = t[0]
+            })
+        },
+        i.prototype.update = function() {
+            var e = this;
+            KTool.getMultiValue([3309],
+            function(t) {
+                var i = 0;
+                if (1 == t[0]) {
+                    if (e._rivalisdisableMy = !0, !e._rivalisdisableOther) return;
+                    for (var r = 0,
+                    n = 0; 6 > n; n++) {
+                        for (var a = e._myItemArr[n], o = 0, s = e._myPetdisabledCatchTimeArr; o < s.length; o++) {
+                            var l = s[o];
+                            a.catchTime == l && (3 > r && a.setStatusFrame(a.DISABLED), a.isCancel = !1, r++)
+                        }
+                        null != e._myPetdisabledCatchTimeArr && null != a && a.catchTime != e._myPetdisabledCatchTimeArr[0] && a.catchTime != e._myPetdisabledCatchTimeArr[1] && a.catchTime != e._myPetdisabledCatchTimeArr[2] && a.petInfo.level >= 100 && i++
+                    }
+                } else e._rivalisdisableMy = !1;
+                e.update2()
+            })
+        },
+        i.prototype.update2 = function() {
+            var e = this;
+            KTool.getMultiValue([3307],
+            function(t) {
+                e._curStep = t[0],
+                2 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(1)) : 3 == e._curStep && 0 == e._rivalisdisableMy ? e.showTitlePng(1) : 3 == e._curStep && 1 == e._rivalisdisableMy ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(2)) : 4 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(3)) : 5 == e._curStep && (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(4), e._sectionsurplusTime < 0 && (e.numbg.visible = !1, e.timeTx.visible = !1), e.touchEnabled = !1)
+            })
+        },
+        i.prototype.initItem = function() {
+            this._myItemArr = [];
+            for (var t, i = 0; i < 2 * this._maxNum; i++) t = new e.PeakJihadPetHeadItem(this._fightMod, 6 > i ? !1 : !0),
+            t.x = 15 + i % 4 * 112,
+            t.y = 6 + 136 * Math.floor(i / 4),
+            this._myItemArr.push(t),
+            this.myPetHeadGp.addChild(t),
+            t.addEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onMyPetHeadClick, this);
+            this._rivalItemArr = [];
+            for (var r = 0; r < 2 * this._maxNum; r++) t = new e.PeakJihadPetHeadItem(this._fightMod, 6 > r ? !1 : !0),
+            t.x = 15 + r % 4 * 112,
+            t.y = 6 + 136 * Math.floor(r / 4),
+            this._rivalItemArr.push(t),
+            this.enemyPetHeadGp.addChild(t),
+            t.addEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onRivalPetHeadClick, this)
+        },
+        i.prototype.onRivalPetHeadClick = function(e) {
+            var t = this;
+            null == this._disabledRivalPetArr && (this._disabledRivalPetArr = []);
+            var i = e.currentTarget;
+            if (i.otherPetInfo && 2 == this._curStep) {
+                for (var r = 0,
+                n = this._rivalItemArr; r < n.length; r++) {
+                    var a = n[r];
+                    a.setSelect(!1)
+                }
+                if (i.setSelect(!0), i.status == i.DISABLED) {
+                    i.setStatusFrame(i.NO_SET);
+                    for (var o = 0; o < this._disabledRivalPetArr.length; o++) this._disabledRivalPetArr[o] == i && this._disabledRivalPetArr.splice(o, 1)
+                } else if (this._disabledRivalPetArr.length < 2) i.setStatusFrame(i.DISABLED),
+                this._disabledRivalPetArr.push(i);
+                else {
+                    var s = this._disabledRivalPetArr[0];
+                    s.setStatusFrame(i.NO_SET),
+                    this._disabledRivalPetArr.splice(0, 1),
+                    i.setStatusFrame(i.DISABLED),
+                    this._disabledRivalPetArr.push(i)
+                }
+                2 == this._disabledRivalPetArr.length && (this.touchEnabled = !1, Alert.show("你已经选择二个禁用精灵了，确定禁用吗？",
+                function() {
+                    t.touchEnabled = !0,
+                    2 == t._curStep && SocketConnection.sendByQueue(45144, [1, 1, t._rivalUserID, t._disabledRivalPetArr[0].catchTime, t._disabledRivalPetArr[1].catchTime, 0, 0, 0],
+                    function(e) {
+                        t._disabledRivalPetArr = null,
+                        t._rivalisdisableOther = !0,
+                        t.update()
+                    })
+                },
+                function() {
+                    t.touchEnabled = !0
+                },
+                this))
+            }
+        },
+        i.prototype.onMyPetHeadClick = function(t) {
+            var i = this,
+            r = t.currentTarget;
+            if (null != r.petInfo) {
+                for (var n = 0,
+                a = this._myItemArr; n < a.length; n++) {
+                    var o = a[n];
+                    o.setSelect(!1)
+                }
+                if (r.setSelect(!0), 3 == this._curStep && 1 == this._rivalisdisableMy) {
+                    if (r.petInfo.level < 100) return void Alarm.show("未满100级的精灵无法出战！", null, this);
+                    if (r.status == r.DISABLED) Alarm.show("此精灵已经被对手禁用了，无法设置为首发！", null, this);
+                    else if (r.status == r.DEFAULT) r.setStatusFrame(r.NO_SET);
+                    else {
+                        for (var s = 0; 6 > s; s++) {
+                            var l = this._myItemArr[s];
+                            l.status == l.DEFAULT && l.setStatusFrame(l.NO_SET)
+                        }
+                        r.setStatusFrame(r.DEFAULT),
+                        this.touchEnabled = !1,
+                        Alert.show("确定选择该精灵作为你的首发精灵吗？",
+                        function() {
+                            i.touchEnabled = !0,
+                            3 == i._curStep && 1 == i._rivalisdisableMy && SocketConnection.sendByQueue(45144, [2, 1, i._rivalUserID, r.catchTime, 0, 0, 0, 0],
+                            function(e) {
+                                i.update()
+                            })
+                        },
+                        function() {
+                            i.touchEnabled = !0
+                        },
+                        this)
+                    }
+                } else if (4 == this._curStep) {
+                    if (null == this._myPetPlayArr && (this._myPetPlayArr = []), r.petInfo.level < 100) return void Alarm.show("未满100级的精灵无法出战！", null, this);
+                    if (r.status == r.DISABLED) Alarm.show("此精灵已经被对手禁用了，无法设置为出战！", null, this);
+                    else if (r.status == r.DEFAULT && "cancel" != t.target.name) Alarm.show("此精灵已经设置为首发默认为出战精灵了，无需设置为出战！", null, this);
+                    else {
+                        if (r.status == r.PLAY) {
+                            r.setStatusFrame(r.NO_SET);
+                            for (var h = 0; h < this._myPetPlayArr.length; h++) this._myPetPlayArr[h] == r && this._myPetPlayArr.splice(h, 1)
+                        } else if (r.status != r.DEFAULT) if (this._myPetPlayArr.length < this._canPlayPetNum - 1) r.setStatusFrame(r.PLAY),
+                        this._myPetPlayArr.push(r);
+                        else {
+                            var u = this._myPetPlayArr[0];
+                            u.setStatusFrame(r.NO_SET),
+                            this._myPetPlayArr.splice(0, 1),
+                            r.setStatusFrame(r.PLAY),
+                            this._myPetPlayArr.push(r)
+                        }
+                        this._myPetPlayArr.length == this._canPlayPetNum - 1 && (this.touchEnabled = !1, Alert.show("你已经选择" + (this._canPlayPetNum - 1) + "个出战精灵了 确定出战吗？",
+                        function() {
+                            if (i.touchEnabled = !0, 4 == i._curStep) {
+                                for (var t = 0; 5 > t; t++) if (null == i._myPetPlayArr[t]) {
+                                    var r = new e.PeakJihadPetHeadItem;
+                                    r.catchTime = 0,
+                                    i._myPetPlayArr[t] = r
+                                }
+                                SocketConnection.sendByQueue(45144, [3, 1, i._rivalUserID, i._myPetPlayArr[0].catchTime, i._myPetPlayArr[1].catchTime, 0, 0, 0],
+                                function(e) {
+                                    null != i._myPetPlayArr && (i._myPetPlayArr = null),
+                                    i.update()
+                                })
+                            }
+                        },
+                        function() {
+                            i.touchEnabled = !0
+                        },
+                        this))
+                    }
+                }
+            }
+        },
+        i.prototype.onrivalUserDisabledMyPet = function(e) {
+            this._myPetdisabledCatchTimeArr = [];
+            var t = e.data;
+            t.position = 0;
+            var i = (t.readUnsignedInt(), t.readUnsignedInt());
+            this._myPetdisabledCatchTimeArr.push(i);
+            var r = t.readUnsignedInt();
+            this._myPetdisabledCatchTimeArr.push(r);
+            var n = t.readUnsignedInt();
+            this._myPetdisabledCatchTimeArr.push(n),
+            this._rivalisdisableMy = !0,
+            this.update()
+        },
+        i.prototype.onTimeOutJingyong = function(e) {
+            this._disabledRivalCatchTimeArr = [];
+            var t = e.data;
+            t.position = 0;
+            var i = (t.readUnsignedInt(), t.readUnsignedInt(), t.readUnsignedInt());
+            this._disabledRivalCatchTimeArr.push(i);
+            var r = t.readUnsignedInt();
+            this._disabledRivalCatchTimeArr.push(r);
+            var n = t.readUnsignedInt();
+            if (this._disabledRivalCatchTimeArr.push(n), 2 == this._curStep) {
+                this.clearLocalStatus(this._rivalItemArr);
+                for (var a = this.getItemByCatchTime(this._rivalItemArr, this._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
+                    var l = s[o];
+                    l.setStatusFrame(l.DISABLED)
+                }
+                Alarm.show("你由于超时没有禁用对方精灵，我们随机帮你选择了禁用！", null, this),
+                this._rivalisdisableOther = !0,
+                this.update()
+            }
+        },
+        i.prototype.onTimeOutFirst = function(e) {
+            this._defaultCatchTimeArr = [];
+            var t = e.data;
+            t.position = 0;
+            var i = (t.readUnsignedInt(), t.readUnsignedInt(), t.readUnsignedInt());
+            if (this._defaultCatchTimeArr.push(i), 3 == this._curStep && 1 == this._rivalisdisableMy) {
+                this.clearLocalStatus(this._myItemArr);
+                var r = this.getItemByCatchTime(this._myItemArr, this._defaultCatchTimeArr),
+                n = r[0];
+                n.setStatusFrame(n.DEFAULT),
+                Alarm.show("你由于超时没有选择自己的首发精灵，我们随机帮你选择了首发精灵！", null, this),
+                this.update()
+            }
+        },
+        i.prototype.onTimeOutPlay = function(e) {
+            this._myPetPlayCatchTimeArr = [];
+            var t = e.data;
+            t.position = 0;
+            var i = (t.readUnsignedInt(), t.readUnsignedInt(), t.readUnsignedInt());
+            this._myPetPlayCatchTimeArr.push(i);
+            var r = t.readUnsignedInt();
+            if (this._myPetPlayCatchTimeArr.push(r), 4 == this._curStep) {
+                this.clearLocalStatus(this._myItemArr);
+                var n = this.getItemByCatchTime(this._myItemArr, this._myPetPlayCatchTimeArr);
+                Alarm.show("你由于超时没有选择自己的出战精灵，我们随机帮你选择了出战精灵！", null, this);
+                for (var a = 0,
+                o = n; a < o.length; a++) {
+                    var s = o[a];
+                    s.setStatusFrame(s.PLAY)
+                }
+                this.update(),
+                this._myPetPlayCatchTimeArr = null
+            }
+        },
+        i.prototype.onQuitRoom = function(e) {
+            var i = this;
+            PetFightModel.type = PetFightModel.PEAK_JIHAD_3V3;
+            var r = e.data;
+            r.position = 0;
+            var n = (r.readUnsignedInt(), r.readUnsignedInt()),
+            a = r.readUnsignedInt();
+            ItemManager.updateItems([PeakJihadController.itemId1],
+            function() {
+                var e;
+                e = ItemManager.getNumByID(PeakJihadController.itemId1),
+                i._addItemNum = e - i._itemNum,
+                i._itemNum = e,
+                KTool.getMultiValue([PeakJihadController.levelForever],
+                function(e) {
+                    0 == a ? Alarm.show("一位米米号为" + n + "的玩家掉线了，恭喜你获得了胜利！！",
+                    function() {
+                        t.prototype.onClose.call(i)
+                    },
+                    i, "战斗胜利") : 1 == a && Alarm.show("一位米米号为" + n + "的玩家退出房间，恭喜你获得了胜利！！",
+                    function() {
+                        t.prototype.onClose.call(i)
+                    },
+                    i, "战斗胜利"),
+                    i._score = e[0]
+                })
+            })
+        },
+        i.prototype.noteInviteToFight = function(e) {
+            var i = this;
+            KTool.getOnlineUsersForeverOrDailyVal([this._rivalUserID, 3307],
+            function(r) {
+                var n = null;
+                null != e && (n = e.data),
+                null != n && n.model == PetFightModel.PEAK_JIHAD_FIGHT_WITH_FIGURE ? (PetFightModel.type = PetFightModel.PEAK_JIHAD_3V3, PetFightModel.enemyId = Number(i._rivalUserID), PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : 5 == r || 5 == i._curStep || 6 == r || 6 == i._curStep ? (PetFightModel.type = PetFightModel.PEAK_JIHAD_3V3, PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : (Alarm.show("如果你在打巅峰6v6弹出此框是不对的！此时this._curStep为：" + i._curStep + "ready.model:" + n.model + ";对方3307为：" + r, null, i), t.prototype.onClose.call(i))
+            })
+        },
+        i.prototype.onOverTimeQuit = function(e) {
+            Alarm.show("由于超时操作，对方结束了此次对战!"),
+            t.prototype.onClose.call(this)
+        },
+        i.prototype.clearLocalStatus = function(e) {
+            for (var t = 0,
+            i = e; t < i.length; t++) {
+                var r = i[t];
+                2 == this._curStep && r.status == r.DISABLED && r.setStatusFrame(r.NO_SET),
+                3 == this._curStep && r.status == r.DEFAULT && r.setStatusFrame(r.NO_SET),
+                4 == this._curStep && r.status == r.PLAY && r.setStatusFrame(r.NO_SET)
+            }
+        },
+        i.prototype.getItemByCatchTime = function(e, t) {
+            for (var i = [], r = 0; r < e.length; r++) for (var n = e[r], a = 0, o = t; a < o.length; a++) {
+                var s = o[a];
+                n.catchTime == s && i.push(n)
+            }
+            return i
+        },
+        i.prototype.getItemBypetId = function(e, t) {
+            for (var i = [], r = 0; r < e.length; r++) for (var n = e[r], a = 0, o = t; a < o.length; a++) {
+                var s = o[a];
+                n.petId == s && i.push(n)
+            }
+            return i
+        },
+        i.prototype.clearPet = function() {
+            if (this._myItemArr) {
+                for (var e = 0; e < this._myItemArr.length; e++) this._myItemArr[e].removeEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onMyPetHeadClick, this),
+                this._myItemArr[e].destroy(),
+                this._myItemArr[e] = null;
+                this._myItemArr = null
+            }
+            if (this._rivalItemArr) {
+                for (var e = 0; e < this._rivalItemArr.length; e++) this._rivalItemArr[e].removeEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onRivalPetHeadClick, this),
+                this._rivalItemArr[e].destroy(),
+                this._rivalItemArr[e] = null;
+                this._rivalItemArr = null
+            }
+        },
+        i.prototype.synchroData = function(e) {
+            var t = this;
+            KTool.getPlayerInfo([11, 12, 13, 14, 15, 16, 17, 18, 19, 50, 51, 52],
+            function(i) {
+                t._myPetdisabledCatchTimeArr = [],
+                t._disabledRivalCatchTimeArr = [],
+                t._defaultCatchTimeArr = [],
+                t._myPetPlayCatchTimeArr = [];
+                for (var r = 0; 3 > r; r++) t._myPetdisabledCatchTimeArr.push(i[r]),
+                t._disabledRivalCatchTimeArr.push(i[r + 9]);
+                t._defaultCatchTimeArr.push(i[3]);
+                for (var n = 0; 5 > n; n++) t._myPetPlayCatchTimeArr.push(i[4 + n]);
+                t.clearLocalStatus(t._rivalItemArr);
+                for (var a = t.getItemBypetId(t._rivalItemArr, t._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
+                    var l = s[o];
+                    null != l && l.setStatusFrame(l.DISABLED)
+                }
+                t.clearLocalStatus(t._myItemArr);
+                var h = t.getItemByCatchTime(t._myItemArr, t._defaultCatchTimeArr),
+                u = h[0];
+                null != u && u.setStatusFrame(u.DEFAULT),
+                t.clearLocalStatus(t._myItemArr);
+                for (var c = t.getItemByCatchTime(t._myItemArr, t._myPetPlayCatchTimeArr), m = 0, _ = c; m < _.length; m++) {
+                    var d = _[m];
+                    null != d && d.setStatusFrame(d.PLAY)
+                }
+                null != e && e()
+            })
+        },
+        i.prototype.destroy = function() {
+            null != this._statusTimer && (this._statusTimer.stop(), this._statusTimer.removeEventListener(egret.TimerEvent.TIMER, this.onStatusTimer, this), this._statusTimer = null),
+            this._curStep = 0,
+            SocketConnection.removeAll(this),
+            EventManager.removeEventListener(SocketEvent.SOCKETRECONNECT, this.breaklineSynchronizedData, this),
+            this.clearPet(),
+            this._disabledRivalPetArr = null,
+            this._myPetPlayArr = null,
+            this._disabledRivalCatchTimeArr = null,
+            this._myPetdisabledCatchTimeArr = null,
+            this._defaultCatchTimeArr = null,
+            this._myPetPlayCatchTimeArr = null,
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    e.PeakJihad3V3BanPickModePanel = t,
+    __reflect(t.prototype, "peakJihad6V6BanPickModePanel.PeakJihad3V3BanPickModePanel")
+} (peakJihad6V6BanPickModePanel || (peakJihad6V6BanPickModePanel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var r in t) t.hasOwnProperty(r) && (e[r] = t[r]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihad6V6BanPickModePanel; !
+function(e) {
+    var t = function(t) {
+        function i(e) {
+            void 0 === e && (e = null);
+            var i = t.call(this, e) || this;
+            return i.TOTAL_TIME = 70,
+            i.SELECT_DISABLEDTIME = 25,
+            i.SELECT_DEFAULTTIME = 20,
+            i.SELECT_PLAYTIME = 20,
+            i._petList = [],
+            i._requireArr = [0, 0, 30, 20, 20, 0],
+            i._maxNum = 12,
+            i._pretime = 0,
+            i._alltime = 0,
+            i._isJJ = e,
+            i.skinName = Peakjihad6v6banpickmodeSkin,
+            i
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            PeakJihadController.isDraw = !1,
+            this.adaptBgByScale(this.bg),
+            this._rivalisdisableOther = !1;
+            var i = new Date;
+            this._startTime = i.getTime(),
+            this._pretime = i.getTime(),
+            this.timeTx.text = "30",
+            this._statusTimer = new egret.Timer(1e3),
+            this._statusTimer.addEventListener(egret.TimerEvent.TIMER, this.onStatusTimer, this),
+            this._statusTimer.start(),
+            KTool.getMultiValue([3306],
+            function(t) {
+                e._fightMod = t[0],
+                e.initItem(),
+                e.initView(),
+                e.breakLineSynchronizedData(),
+                e.initEvent()
+            })
+        },
+        i.prototype.initEvent = function() {
+            SocketConnection.addCmdListener(45143, this.onrivalUserDisabledMyPet, this),
+            SocketConnection.addCmdListener(42284, this.onTimeOutJingyong, this),
+            SocketConnection.addCmdListener(42282, this.onTimeOutFirst, this),
+            SocketConnection.addCmdListener(42283, this.onTimeOutPlay, this),
+            SocketConnection.addCmdListener(45140, this.onQuitRoom, this),
+            SocketConnection.addCmdListener(CommandID.NOTE_INVITE_TO_FIGHT, this.noteInviteToFight, this),
+            SocketConnection.addCmdListener(CommandID.NOTE_READY_TO_FIGHT, this.noteInviteToFight, this),
+            SocketConnection.addCmdListener(45148, this.onOverTimeQuit, this),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breakLineSynchronizedData, this)
+        },
+        i.prototype.breakLineSynchronizedData = function() {
+            var e = this;
+            KTool.getMultiValue([3307],
+            function(i) {
+                e._curStep = i[0],
+                e.synchroData(function() {
+                    e.update(),
+                    6 == e._curStep && e.noteInviteToFight(null),
+                    0 == e._curStep && Alarm.show("战斗已结束！",
+                    function() {
+                        t.prototype.onClose.call(e)
+                    })
+                })
+            })
+        },
+        i.prototype.onStatusTimer = function(e) {
+            this.stTimeTx()
+        },
+        i.prototype.stTimeTx = function() {
+            this._serverPassTime = Math.max(SystemTimerManager.time - this._serverStartTime, 1),
+            this._sectionsurplusTime = --this._curStepRequireTime,
+            this.timeTx.text = String(Math.floor(this._sectionsurplusTime)),
+            this._sectionsurplusTime < 0 && (this.timeTx.text = "0")
+        },
+        i.prototype.clickHandle = function(e) {
+            var i = this;
+            t.prototype.clickHandle.call(this, e);
+            var r = e.target;
+            switch (r) {
+            case "closeBtn":
+                Alarm.show("你已经跟一位玩家匹配成功，为了尊重对手，你是不可以主动退出此次巅峰战的！", null, this);
+                break;
+            case "reportBtn":
+                KTool.getMultiValue([3325],
+                function(e) {
+                    0 != e[0] && t.prototype.onClose.call(i)
+                });
+                break;
+            case "exitBtn":
+                KTool.getMultiValue([3325],
+                function(e) {
+                    0 != e[0] && SocketConnection.sendByQueue(45147, [3],
+                    function(e) {
+                        Alarm.show("退出成功，未获得任何评级积分及胜利点数", null, i),
+                        t.prototype.onClose.call(i)
+                    })
+                })
+            }
+        },
+        i.prototype.initView = function() {
+            var e = this;
+            this.showTitlePng(0);
+            var t = new ClothPreview;
+            t.show(MainManager.actorInfo.clothes),
+            this.myInfoGroup.addChild(t),
+            this.name1.text = String(MainManager.actorInfo.nick),
+            this.id1.text = String(MainManager.actorInfo.userID),
+            KTool.getMultiValue([PeakJihadController.levelForever],
+            function(t) {
+                e._score = t[0];
+                var i = t[0] & Math.pow(2, 16) - 1;
+                e.level1.text = PeakJihadController.getTitleByLevelScore(),
+                e.myStarIcon.visible = i >= 4 && e._isJJ,
+                e.level1.visible = e.icon1.visible = e._isJJ,
+                e.icon1.source = ClientConfig.getPeakjihadLevelPath(i + 1)
+            }),
+            ItemManager.updateItems([PeakJihadController.itemId1],
+            function() {
+                e._itemNum = ItemManager.getNumByID(PeakJihadController.itemId1)
+            }),
+            KTool.getMultiValue([3308],
+            function(t) {
+                e._rivalUserID = t[0],
+                KTool.getOnlineUsersForeverOrDailyVal([e._rivalUserID, PeakJihadController.levelForever],
+                function(t) {
+                    var i = t,
+                    r = i & Math.pow(2, 16) - 1;
+                    e.level2.text = PeakJihadController.getRatingsNameByScore(i),
+                    e.enemyStarIcon.visible = r >= 4 && e._isJJ,
+                    e.level2.visible = e.icon2.visible = e._isJJ,
+                    e.icon2.source = ClientConfig.getPeakjihadLevelPath(r + 1)
+                }),
+                UserInfoManager.getInfo(e._rivalUserID,
+                function(t) {
+                    e.name2.text = t.nick,
+                    e.id2.text = String(t.userID);
+                    var i = new ClothPreview;
+                    i.show(t.clothes),
+                    e.enemyInfoGroup.addChild(i)
+                }),
+                OtherPetInfoManager.getPetInfo(e._rivalUserID,
+                function(t) {
+                    for (var i = t,
+                    r = 0; r < e._maxNum; r++) {
+                        var n = e._rivalItemArr[r];
+                        r < i.length ? n.setOtherPetInfo(i[r]) : n.setOtherPetInfo(null)
+                    }
+                },
+                0)
+            });
+            for (var i = PetManager.allInfos,
+            r = 0,
+            n = 0; n < i.length; n++) {
+                var a = i[n];
+                a.level < 100 && r++
+            }
+            var o = i.length - r;
+            o > 9 ? this._canPlayPetNum = 6 : this._canPlayPetNum = o - 3;
+            for (var s = 0; s < this._maxNum; s++) {
+                var l = this._myItemArr[s];
+                s < i.length ? l.setPetInfo(i[s]) : l.setPetInfo(null)
+            }
+            KTool.getMultiValue([3323],
+            function(t) {
+                var i = new Date;
+                e._nowTime = i.getTime(),
+                e._serverStartTime = t[0]
+            })
+        },
+        i.prototype.update = function() {
+            var e = this;
+            KTool.getMultiValue([3309],
+            function(t) {
+                var i = 0;
+                if (1 == t[0]) {
+                    if (e._rivalisdisableMy = !0, !e._rivalisdisableOther) return;
+                    for (var r = 0,
+                    n = 0; n < PetManager.allInfos.length; n++) {
+                        for (var a = e._myItemArr[n], o = 0, s = e._myPetdisabledCatchTimeArr; o < s.length; o++) {
+                            var l = s[o];
+                            a.catchTime == l && (3 > r && a.setStatusFrame(a.DISABLED), a.isCancel = !1, r++)
+                        }
+                        null != e._myPetdisabledCatchTimeArr && null != a && a.catchTime != e._myPetdisabledCatchTimeArr[0] && a.catchTime != e._myPetdisabledCatchTimeArr[1] && a.catchTime != e._myPetdisabledCatchTimeArr[2] && a.petInfo.level >= 100 && i++,
+                        i > 6 ? e._canPlayPetNum = 6 : e._canPlayPetNum = i
+                    }
+                } else e._rivalisdisableMy = !1;
+                e.update2()
+            })
+        },
+        i.prototype.update2 = function() {
+            var e = this;
+            KTool.getMultiValue([3307],
+            function(t) {
+                e._curStep = t[0],
+                2 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(1)) : 3 == e._curStep && 0 == e._rivalisdisableMy ? e.showTitlePng(1) : 3 == e._curStep && 1 == e._rivalisdisableMy ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(2)) : 4 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(3)) : 5 == e._curStep && (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(4), e._sectionsurplusTime < 0 && (e.numbg.visible = !1, e.timeTx.visible = !1), e.touchEnabled = !1),
+                e._curStep >= 3 && KTool.getPlayerInfo([1045],
+                function(t) {
+                    e._serverStartTime = t[0]
+                })
+            })
+        },
+        i.prototype.showTitlePng = function(e) {
+            void 0 === e && (e = 0),
+            this.titlePng.source = 0 == e ? "": "PeakJihad6V6BanPickMode_titlePng_" + (e - 1) + "_png"
+        },
+        i.prototype.initItem = function() {
+            this._myItemArr = [];
+            for (var t, i = 0; i < this._maxNum; i++) t = new e.PeakJihadPetHeadItem(this._fightMod),
+            t.x = 15 + i % 4 * 112,
+            t.y = 6 + 136 * Math.floor(i / 4),
+            this._myItemArr.push(t),
+            this.myPetHeadGp.addChild(t),
+            t.addEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onMyPetHeadClick, this);
+            this._rivalItemArr = [];
+            for (var r = 0; r < this._maxNum; r++) t = new e.PeakJihadPetHeadItem(this._fightMod),
+            t.x = 15 + r % 4 * 112,
+            t.y = 6 + 136 * Math.floor(r / 4),
+            this._rivalItemArr.push(t),
+            this.enemyPetHeadGp.addChild(t),
+            t.addEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onRivalPetHeadClick, this)
+        },
+        i.prototype.onRivalPetHeadClick = function(e) {
+            var t = this;
+            null == this._disabledRivalPetArr && (this._disabledRivalPetArr = []);
+            var i = e.currentTarget;
+            if (i.otherPetInfo && 2 == this._curStep) {
+                for (var r = 0,
+                n = this._rivalItemArr; r < n.length; r++) {
+                    var a = n[r];
+                    a.setSelect(!1)
+                }
+                if (i.setSelect(!0), i.status == i.DISABLED) {
+                    i.setStatusFrame(i.NO_SET);
+                    for (var o = 0; o < this._disabledRivalPetArr.length; o++) this._disabledRivalPetArr[o] == i && this._disabledRivalPetArr.splice(o, 1)
+                } else if (this._disabledRivalPetArr.length < 3) i.setStatusFrame(i.DISABLED),
+                this._disabledRivalPetArr.push(i);
+                else {
+                    var s = this._disabledRivalPetArr[0];
+                    s.setStatusFrame(i.NO_SET),
+                    this._disabledRivalPetArr.splice(0, 1),
+                    i.setStatusFrame(i.DISABLED),
+                    this._disabledRivalPetArr.push(i)
+                }
+                3 == this._disabledRivalPetArr.length && (this.touchEnabled = !1, Alert.show("你已经选择三个禁用精灵了，确定禁用吗？",
+                function() {
+                    t.touchEnabled = !0,
+                    2 == t._curStep && SocketConnection.sendByQueue(45144, [1, 2, t._rivalUserID, t._disabledRivalPetArr[0].catchTime, t._disabledRivalPetArr[1].catchTime, t._disabledRivalPetArr[2].catchTime, 0, 0],
+                    function(e) {
+                        t._disabledRivalPetArr = null,
+                        t._rivalisdisableOther = !0,
+                        t.update()
+                    })
+                },
+                function() {
+                    t.touchEnabled = !0
+                },
+                this))
+            }
+        },
+        i.prototype.onMyPetHeadClick = function(t) {
+            var i = this,
+            r = t.currentTarget;
+            if (null != r.petInfo) {
+                for (var n = 0,
+                a = this._myItemArr; n < a.length; n++) {
+                    var o = a[n];
+                    o.setSelect(!1)
+                }
+                if (r.setSelect(!0), 3 == this._curStep && 1 == this._rivalisdisableMy) {
+                    if (r.petInfo.level < 100) return void Alarm.show("未满100级的精灵无法出战！", null, this);
+                    if (r.status == r.DISABLED) Alarm.show("此精灵已经被对手禁用了，无法设置为首发！", null, this);
+                    else if (r.status == r.DEFAULT) r.setStatusFrame(r.NO_SET);
+                    else {
+                        for (var s = 0; s < PetManager.allInfos.length; s++) {
+                            var l = this._myItemArr[s];
+                            l.status == l.DEFAULT && l.setStatusFrame(l.NO_SET)
+                        }
+                        r.setStatusFrame(r.DEFAULT),
+                        this.touchEnabled = !1,
+                        Alert.show("确定选择该精灵作为你的首发精灵吗？",
+                        function() {
+                            i.touchEnabled = !0,
+                            3 == i._curStep && 1 == i._rivalisdisableMy && SocketConnection.sendByQueue(45144, [2, 2, i._rivalUserID, r.catchTime, 0, 0, 0, 0],
+                            function(e) {
+                                i.update()
+                            })
+                        },
+                        function() {
+                            i.touchEnabled = !0
+                        },
+                        this)
+                    }
+                } else if (4 == this._curStep) {
+                    if (null == this._myPetPlayArr && (this._myPetPlayArr = []), r.petInfo.level < 100) return void Alarm.show("未满100级的精灵无法出战！", null, this);
+                    if (r.status == r.DISABLED) Alarm.show("此精灵已经被对手禁用了，无法设置为出战！", null, this);
+                    else if (r.status == r.DEFAULT && "cancel" != t.target.name) Alarm.show("此精灵已经设置为首发默认为出战精灵了，无需设置为出战！", null, this);
+                    else {
+                        if (r.status == r.PLAY) {
+                            r.setStatusFrame(r.NO_SET);
+                            for (var h = 0; h < this._myPetPlayArr.length; h++) this._myPetPlayArr[h] == r && this._myPetPlayArr.splice(h, 1)
+                        } else if (r.status != r.DEFAULT) if (this._myPetPlayArr.length < this._canPlayPetNum - 1) r.setStatusFrame(r.PLAY),
+                        this._myPetPlayArr.push(r);
+                        else {
+                            var u = this._myPetPlayArr[0];
+                            u.setStatusFrame(r.NO_SET),
+                            this._myPetPlayArr.splice(0, 1),
+                            r.setStatusFrame(r.PLAY),
+                            this._myPetPlayArr.push(r)
+                        }
+                        this._myPetPlayArr.length == this._canPlayPetNum - 1 && (this.touchEnabled = !1, Alert.show("你已经选择" + (this._canPlayPetNum - 1) + "个出战精灵了 确定出战吗？",
+                        function() {
+                            if (i.touchEnabled = !0, 4 == i._curStep) {
+                                for (var t = 0; 5 > t; t++) if (null == i._myPetPlayArr[t]) {
+                                    var r = new e.PeakJihadPetHeadItem;
+                                    r.catchTime = 0,
+                                    i._myPetPlayArr[t] = r
+                                }
+                                SocketConnection.sendByQueue(45144, [3, 2, i._rivalUserID, i._myPetPlayArr[0].catchTime, i._myPetPlayArr[1].catchTime, i._myPetPlayArr[2].catchTime, i._myPetPlayArr[3].catchTime, i._myPetPlayArr[4].catchTime],
+                                function(e) {
+                                    null != i._myPetPlayArr && (i._myPetPlayArr = null),
+                                    i.update()
+                                })
+                            }
+                        },
+                        function() {
+                            i.touchEnabled = !0
+                        },
+                        this))
+                    }
+                }
+            }
+        },
+        i.prototype.onrivalUserDisabledMyPet = function(e) {
+            this._myPetdisabledCatchTimeArr = [];
+            var t = e.data;
+            t.position = 0;
+            var i = (t.readUnsignedInt(), t.readUnsignedInt());
+            this._myPetdisabledCatchTimeArr.push(i);
+            var r = t.readUnsignedInt();
+            this._myPetdisabledCatchTimeArr.push(r);
+            var n = t.readUnsignedInt();
+            this._myPetdisabledCatchTimeArr.push(n),
+            this._rivalisdisableMy = !0,
+            this.update()
+        },
+        i.prototype.onTimeOutJingyong = function(e) {
+            this._disabledRivalCatchTimeArr = [];
+            var t = e.data;
+            t.position = 0;
+            var i = (t.readUnsignedInt(), t.readUnsignedInt(), t.readUnsignedInt());
+            this._disabledRivalCatchTimeArr.push(i);
+            var r = t.readUnsignedInt();
+            this._disabledRivalCatchTimeArr.push(r);
+            var n = t.readUnsignedInt();
+            if (this._disabledRivalCatchTimeArr.push(n), 2 == this._curStep) {
+                this.clearLocalStatus(this._rivalItemArr);
+                for (var a = this.getItemByCatchTime(this._rivalItemArr, this._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
+                    var l = s[o];
+                    l.setStatusFrame(l.DISABLED)
+                }
+                Alarm.show("你由于超时没有禁用对方精灵，我们随机帮你选择了禁用！", null, this),
+                this._rivalisdisableOther = !0,
+                this.update()
+            }
+        },
+        i.prototype.onTimeOutFirst = function(e) {
+            this._defaultCatchTimeArr = [];
+            var t = e.data;
+            t.position = 0;
+            var i = (t.readUnsignedInt(), t.readUnsignedInt(), t.readUnsignedInt());
+            if (this._defaultCatchTimeArr.push(i), 3 == this._curStep && 1 == this._rivalisdisableMy) {
+                this.clearLocalStatus(this._myItemArr);
+                var r = this.getItemByCatchTime(this._myItemArr, this._defaultCatchTimeArr),
+                n = r[0];
+                n.setStatusFrame(n.DEFAULT),
+                Alarm.show("你由于超时没有选择自己的首发精灵，我们随机帮你选择了首发精灵！", null, this),
+                this.update()
+            }
+        },
+        i.prototype.onTimeOutPlay = function(e) {
+            this._myPetPlayCatchTimeArr = [];
+            var t = e.data;
+            t.position = 0;
+            var i = (t.readUnsignedInt(), t.readUnsignedInt(), t.readUnsignedInt());
+            this._myPetPlayCatchTimeArr.push(i);
+            var r = t.readUnsignedInt();
+            if (this._myPetPlayCatchTimeArr.push(r), 4 == this._curStep) {
+                this.clearLocalStatus(this._myItemArr);
+                var n = this.getItemByCatchTime(this._myItemArr, this._myPetPlayCatchTimeArr);
+                Alarm.show("你由于超时没有选择自己的出战精灵，我们随机帮你选择了出战精灵！", null, this);
+                for (var a = 0,
+                o = n; a < o.length; a++) {
+                    var s = o[a];
+                    s.setStatusFrame(s.PLAY)
+                }
+                this.update(),
+                this._myPetPlayCatchTimeArr = null
+            }
+        },
+        i.prototype.onQuitRoom = function(e) {
+            var i = this;
+            PetFightModel.type = 1 == this._isJJ ? PetFightModel.PEAK_JIHAD_6V6_JJ: PetFightModel.PEAK_JIHAD_6V6;
+            var r = e.data;
+            r.position = 0;
+            var n = (r.readUnsignedInt(), r.readUnsignedInt()),
+            a = r.readUnsignedInt();
+            ItemManager.updateItems([PeakJihadController.itemId1],
+            function() {
+                var e;
+                e = ItemManager.getNumByID(PeakJihadController.itemId1),
+                i._addItemNum = e - i._itemNum,
+                i._itemNum = e,
+                KTool.getMultiValue([PeakJihadController.levelForever],
+                function(e) {
+                    0 == a ? Alarm.show("一位米米号为" + n + "的玩家掉线了，恭喜你获得了胜利！！",
+                    function() {
+                        t.prototype.onClose.call(i)
+                    },
+                    i, "战斗胜利") : 1 == a && Alarm.show("一位米米号为" + n + "的玩家退出房间，恭喜你获得了胜利！！",
+                    function() {
+                        t.prototype.onClose.call(i)
+                    },
+                    i, "战斗胜利"),
+                    i._score = e[0]
+                })
+            })
+        },
+        i.prototype.noteInviteToFight = function(e) {
+            var i = this;
+            KTool.getOnlineUsersForeverOrDailyVal([this._rivalUserID, 3307],
+            function(r) {
+                var n = null;
+                null != e && (n = e.data),
+                null != n && n.model == PetFightModel.PEAK_JIHAD_FIGHT_WITH_FIGURE ? (PetFightModel.type = 1 == i._isJJ ? PetFightModel.PEAK_JIHAD_6V6_JJ: PetFightModel.PEAK_JIHAD_6V6, PetFightModel.enemyId = Number(i._rivalUserID), PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : 5 == r || 5 == i._curStep || 6 == r || 6 == i._curStep ? (PetFightModel.type = 1 == i._isJJ ? PetFightModel.PEAK_JIHAD_6V6_JJ: PetFightModel.PEAK_JIHAD_6V6, PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : (Alarm.show("如果你在打巅峰6v6弹出此框是不对的！此时this._curStep为：" + i._curStep + "ready.model:" + n.model + ";对方3307为：" + r, null, i), t.prototype.onClose.call(i))
+            })
+        },
+        i.prototype.onOverTimeQuit = function(e) {
+            Alarm.show("由于超时操作，对方结束了此次对战!"),
+            t.prototype.onClose.call(this)
+        },
+        i.prototype.clearLocalStatus = function(e) {
+            for (var t = 0,
+            i = e; t < i.length; t++) {
+                var r = i[t];
+                2 == this._curStep && r.status == r.DISABLED && r.setStatusFrame(r.NO_SET),
+                3 == this._curStep && r.status == r.DEFAULT && r.setStatusFrame(r.NO_SET),
+                4 == this._curStep && r.status == r.PLAY && r.setStatusFrame(r.NO_SET)
+            }
+        },
+        i.prototype.getItemByCatchTime = function(e, t) {
+            for (var i = [], r = 0; r < e.length; r++) for (var n = e[r], a = 0, o = t; a < o.length; a++) {
+                var s = o[a];
+                n.catchTime == s && i.push(n)
+            }
+            return i
+        },
+        i.prototype.getItemBypetId = function(e, t) {
+            for (var i = [], r = 0; r < e.length; r++) for (var n = e[r], a = 0, o = t; a < o.length; a++) {
+                var s = o[a];
+                n.petId == s && i.push(n)
+            }
+            return i
+        },
+        i.prototype.clearPet = function() {
+            if (this._myItemArr) {
+                for (var e = 0; e < this._myItemArr.length; e++) this._myItemArr[e].removeEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onMyPetHeadClick, this),
+                this._myItemArr[e].destroy(),
+                this._myItemArr[e] = null;
+                this._myItemArr = null
+            }
+            if (this._rivalItemArr) {
+                for (var e = 0; e < this._rivalItemArr.length; e++) this._rivalItemArr[e].removeEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onRivalPetHeadClick, this),
+                this._rivalItemArr[e].destroy(),
+                this._rivalItemArr[e] = null;
+                this._rivalItemArr = null
+            }
+        },
+        i.prototype.synchroData = function(e) {
+            var t = this;
+            KTool.getPlayerInfo([11, 12, 13, 14, 15, 16, 17, 18, 19, 50, 51, 52],
+            function(i) {
+                t._myPetdisabledCatchTimeArr = [],
+                t._disabledRivalCatchTimeArr = [],
+                t._defaultCatchTimeArr = [],
+                t._myPetPlayCatchTimeArr = [];
+                for (var r = 0; 3 > r; r++) t._myPetdisabledCatchTimeArr.push(i[r]),
+                t._disabledRivalCatchTimeArr.push(i[r + 9]);
+                t._defaultCatchTimeArr.push(i[3]);
+                for (var n = 0; 5 > n; n++) t._myPetPlayCatchTimeArr.push(i[4 + n]);
+                t.clearLocalStatus(t._rivalItemArr);
+                for (var a = t.getItemBypetId(t._rivalItemArr, t._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
+                    var l = s[o];
+                    null != l && l.setStatusFrame(l.DISABLED)
+                }
+                t.clearLocalStatus(t._myItemArr);
+                var h = t.getItemByCatchTime(t._myItemArr, t._defaultCatchTimeArr),
+                u = h[0];
+                null != u && u.setStatusFrame(u.DEFAULT),
+                t.clearLocalStatus(t._myItemArr);
+                for (var c = t.getItemByCatchTime(t._myItemArr, t._myPetPlayCatchTimeArr), m = 0, _ = c; m < _.length; m++) {
+                    var d = _[m];
+                    null != d && d.setStatusFrame(d.PLAY)
+                }
+                null != e && e()
+            })
+        },
+        i.prototype.destroy = function() {
+            null != this._statusTimer && (this._statusTimer.stop(), this._statusTimer.removeEventListener(egret.TimerEvent.TIMER, this.onStatusTimer, this), this._statusTimer = null),
+            this._curStep = 0,
+            SocketConnection.removeAll(this),
+            EventManager.removeAll(this),
+            this.clearPet(),
+            this._disabledRivalPetArr = null,
+            this._myPetPlayArr = null,
+            this._disabledRivalCatchTimeArr = null,
+            this._myPetdisabledCatchTimeArr = null,
+            this._defaultCatchTimeArr = null,
+            this._myPetPlayCatchTimeArr = null,
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    e.PeakJihad6V6BanPickModePanel = t,
+    __reflect(t.prototype, "peakJihad6V6BanPickModePanel.PeakJihad6V6BanPickModePanel")
+} (peakJihad6V6BanPickModePanel || (peakJihad6V6BanPickModePanel = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var r in t) t.hasOwnProperty(r) && (e[r] = t[r]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, r) {
+    return new(i || (i = Promise))(function(n, a) {
+        function o(e) {
+            try {
+                l(r.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                l(r["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function l(e) {
+            e.done ? n(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        l((r = r.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return r([e, t])
+        }
+    }
+    function r(i) {
+        if (n) throw new TypeError("Generator is already executing.");
+        for (; l;) try {
+            if (n = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
+            case 0:
+            case 1:
+                o = i;
+                break;
+            case 4:
+                return l.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                l.label++,
+                a = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = l.ops.pop(),
+                l.trys.pop();
+                continue;
+            default:
+                if (o = l.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    l = 0;
+                    continue
+                }
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                    l.label = i[1];
+                    break
+                }
+                if (6 === i[0] && l.label < o[1]) {
+                    l.label = o[1],
+                    o = i;
+                    break
+                }
+                if (o && l.label < o[2]) {
+                    l.label = o[2],
+                    l.ops.push(i);
+                    break
+                }
+                o[2] && l.ops.pop(),
+                l.trys.pop();
+                continue
+            }
+            i = t.call(e, l)
+        } catch(r) {
+            i = [6, r],
+            a = 0
+        } finally {
+            n = o = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var n, a, o, s, l = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+peakJihad6V6BanPickModePanel; !
+function(e) {
+    var t = function(e) {
+        function t(t, i) {
+            void 0 === t && (t = 0),
+            void 0 === i && (i = !1);
+            var r = e.call(this) || this;
+            return r.status = 1,
+            r.NO_SET = 1,
+            r.DISABLED = 2,
+            r.DEFAULT = 3,
+            r.PLAY = 4,
+            r._isCancel = !0,
+            r._fightMod = t,
+            r._islock = i,
+            r.skinName = PeakJihadPetHeadItemSkin,
+            r
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.goToWarIcon.visible = !1,
+            this.firstEpisodeIcon.visible = !1,
+            this.prohibitIcon.visible = !1,
+            this.selectPng.visible = !1,
+            this.prohibit_png.visible = !1,
+            1 == this._fightMod ? (this.lockBg.visible = this._islock, this.showGroup.visible = !this._islock) : this.lockBg.visible = !1,
+            this.showinfo()
+        },
+        t.prototype.showinfo = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t, i;
+                return __generator(this,
+                function(r) {
+                    switch (r.label) {
+                    case 0:
+                        return this.bg.source = "PeakJihad6V6BanPickMode_headBg_png",
+                        this._pinfo ? (this.showGroup.visible = !0, this.head.source = ClientConfig.getPetHeadPath(this._pinfo.id, this._pinfo.catchTime), e = PetXMLInfo.getName(this._pinfo.id), this.txtName.text = e.length > 6 ? e.substring(0, 5) + "...": e, t = PetManager.getPetInfo(this._pinfo.catchTime), this.imgAttr.source = ClientConfig.getpettypeticon(PetXMLInfo.getType(this._pinfo.id)), this.checkMost(this._pinfo.id), [4, KTool.checkHasAdvanced(t)]) : [3, 2];
+                    case 1:
+                        return i = r.sent(),
+                        this.bg.source = i ? "PeakJihad6V6BanPickMode_headBg1_png": "PeakJihad6V6BanPickMode_headBg_png",
+                        this.touchEnabled = !0,
+                        [3, 3];
+                    case 2:
+                        this.head.source = null,
+                        this.showGroup.visible = !1,
+                        this.txtName.text = "",
+                        this.touchEnabled = !1,
+                        r.label = 3;
+                    case 3:
+                        return [2]
+                    }
+                })
+            })
+        },
+        t.prototype.setPetInfo = function(e) {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, i, r;
+                return __generator(this,
+                function(n) {
+                    switch (n.label) {
+                    case 0:
+                        return this.bg.source = "PeakJihad6V6BanPickMode_headBg_png",
+                        this.petInfo = e,
+                        e ? (this.showGroup.visible = !0, this.catchTime = e.catchTime, this.petId = e.id, this.head.source = ClientConfig.getPetHeadPath(e.id, e.catchTime), t = PetXMLInfo.getName(e.id), this.txtName.text = t.length > 6 ? t.substring(0, 5) + "...": t, this.imgAttr.source = ClientConfig.getpettypeticon(PetXMLInfo.getType(this.petId)), this.checkMost(this.petId), i = PetManager.getPetInfo(e.catchTime), [4, KTool.checkHasAdvanced(i)]) : [3, 2];
+                    case 1:
+                        return r = n.sent(),
+                        this.bg.source = r ? "PeakJihad6V6BanPickMode_headBg1_png": "PeakJihad6V6BanPickMode_headBg_png",
+                        this.touchEnabled = !0,
+                        [3, 3];
+                    case 2:
+                        this.head.source = null,
+                        this.showGroup.visible = !1,
+                        this.txtName.text = "",
+                        this.touchEnabled = !1,
+                        n.label = 3;
+                    case 3:
+                        return [2]
+                    }
+                })
+            })
+        },
+        t.prototype.setOtherPetInfo = function(e) {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, i, r;
+                return __generator(this,
+                function(n) {
+                    switch (n.label) {
+                    case 0:
+                        return this.bg.source = "PeakJihad6V6BanPickMode_headBg_png",
+                        this.otherPetInfo = e,
+                        e ? (this.showGroup.visible = !0, this.catchTime = e.catchTime, this.petId = e.id, this.head.source = ClientConfig.getPetHeadPath(e.id, e.catchTime), t = PetXMLInfo.getName(e.id), this.txtName.text = t.length > 6 ? t.substring(0, 5) + "...": t, this.imgAttr.source = ClientConfig.getpettypeticon(PetXMLInfo.getType(e.id)), this.checkMost(e.id), i = PetManager.getPetInfo(e.catchTime), [4, KTool.checkHasAdvanced(i)]) : [3, 2];
+                    case 1:
+                        return r = n.sent(),
+                        this.bg.source = r ? "PeakJihad6V6BanPickMode_headBg1_png": "PeakJihad6V6BanPickMode_headBg_png",
+                        this.touchEnabled = !0,
+                        [3, 3];
+                    case 2:
+                        this.head.source = null,
+                        this.showGroup.visible = !1,
+                        this.txtName.text = "",
+                        this.touchEnabled = !1,
+                        n.label = 3;
+                    case 3:
+                        return [2]
+                    }
+                })
+            })
+        },
+        t.prototype.checkMost = function(e) {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, i, r, n;
+                return __generator(this,
+                function(a) {
+                    for (t = config.Pvp_ban.getItems(), i = 0, this.mostGroup.visible = !1, r = 0; r < t.length; r++) if (i = t[r].quantity, n = t[r].name.split(";").map(Number), n.indexOf(e) > -1) {
+                        this.mostGroup.visible = !0,
+                        this.most.text = "" + i;
+                        break
+                    }
+                    return [2]
+                })
+            })
+        },
+        t.prototype.setStatusFrame = function(e) {
+            this.status != e ? this.status = e: 1 == this.isCancel && (this.status = 1),
+            this.goToWarIcon.visible = !1,
+            this.firstEpisodeIcon.visible = !1,
+            this.prohibitIcon.visible = !1,
+            this.prohibit_png.visible = !1,
+            1 == this.status || (2 == this.status ? (this.prohibitIcon.visible = !0, this.prohibit_png.visible = !0) : 3 == this.status ? this.firstEpisodeIcon.visible = !0 : 4 == this.status && (this.goToWarIcon.visible = !0))
+        },
+        t.prototype.setSelect = function(e) {
+            this.selectPng.visible = e
+        },
+        Object.defineProperty(t.prototype, "isCancel", {
+            get: function() {
+                return this._isCancel
+            },
+            set: function(e) {
+                this._isCancel = e
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t.prototype.destroy = function() {
+            this.petInfo = null,
+            this.otherPetInfo = null,
+            this.parent && this.parent.removeChild(this),
+            this._pinfo = null,
+            this.head.source = null
+        },
+        t
+    } (eui.Component);
+    e.PeakJihadPetHeadItem = t,
+    __reflect(t.prototype, "peakJihad6V6BanPickModePanel.PeakJihadPetHeadItem")
+} (peakJihad6V6BanPickModePanel || (peakJihad6V6BanPickModePanel = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var r in t) t.hasOwnProperty(r) && (e[r] = t[r]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/Peakjihad3v3banpickmodeSkin.exml"] = window.Peakjihad3v3banpickmodeSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "img", "titlePng", "numbg", "timeTx", "myInfoGroup", "enemyInfoGroup", "infobg1", "ima2", "ima1", "name1", "level1", "myStarIcon", "icon1", "id1", "me1", "me", "infobg2", "ima2_2", "ima1_2", "name2", "level2", "enemyStarIcon", "icon2", "id2", "other2", "other", "myPetHeadGp", "enemyPetHeadGp"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i(), this.myInfoGroup_i(), this.enemyInfoGroup_i(), this.me_i(), this.other_i(), this._Scroller1_i(), this._Scroller2_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.horizontalCenter = 0,
+        e.source = "peakjihad_common_panel_bg_jpg",
+        e.verticalCenter = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = 0,
+        e.visible = !0,
+        e.y = 11,
+        e.elementsContent = [this.img_i(), this.titlePng_i(), this.numbg_i(), this.timeTx_i()],
+        e
+    },
+    i.img_i = function() {
+        var e = new eui.Image;
+        return this.img = e,
+        e.source = "peakjihad6v6banpickmode_img_png",
+        e.x = 17,
+        e.y = 0,
+        e
+    },
+    i.titlePng_i = function() {
+        var e = new eui.Image;
+        return this.titlePng = e,
+        e.horizontalCenter = -4,
+        e.source = "PeakJihad6V6BanPickMode_titlePng_0_png",
+        e.verticalCenter = -166.5,
+        e
+    },
+    i.numbg_i = function() {
+        var e = new eui.Image;
+        return this.numbg = e,
+        e.source = "peakjihad6v6banpickmode_numbg_png",
+        e.x = 0,
+        e.y = 274,
+        e
+    },
+    i.timeTx_i = function() {
+        var e = new eui.Label;
+        return this.timeTx = e,
+        e.fontFamily = "REEJI",
+        e.horizontalCenter = -2,
+        e.size = 48,
+        e.text = "22",
+        e.textColor = 16777215,
+        e.y = 330,
+        e
+    },
+    i.myInfoGroup_i = function() {
+        var e = new eui.Group;
+        return this.myInfoGroup = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 0,
+        e.horizontalCenter = -454,
+        e.scaleX = .6,
+        e.scaleY = .6,
+        e.y = 176.822,
+        e
+    },
+    i.enemyInfoGroup_i = function() {
+        var e = new eui.Group;
+        return this.enemyInfoGroup = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 0,
+        e.horizontalCenter = 511,
+        e.scaleX = .6,
+        e.scaleY = .6,
+        e.y = 176.822,
+        e
+    },
+    i.me_i = function() {
+        var e = new eui.Group;
+        return this.me = e,
+        e.horizontalCenter = -234.5,
+        e.y = 59,
+        e.elementsContent = [this.infobg1_i(), this.ima2_i(), this.ima1_i(), this.name1_i(), this.level1_i(), this.myStarIcon_i(), this.icon1_i(), this.id1_i(), this.me1_i()],
+        e
+    },
+    i.infobg1_i = function() {
+        var e = new eui.Image;
+        return this.infobg1 = e,
+        e.source = "peakjihad6v6banpickmode_infobg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.ima2_i = function() {
+        var e = new eui.Image;
+        return this.ima2 = e,
+        e.source = "peakjihad6v6banpickmode_ima2_png",
+        e.x = 50,
+        e.y = 64,
+        e
+    },
+    i.ima1_i = function() {
+        var e = new eui.Image;
+        return this.ima1 = e,
+        e.source = "peakjihad6v6banpickmode_ima1_png",
+        e.x = 49,
+        e.y = 13,
+        e
+    },
+    i.name1_i = function() {
+        var e = new eui.Label;
+        return this.name1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "用户名用户名",
+        e.textColor = 16777215,
+        e.x = 53,
+        e.y = 39,
+        e
+    },
+    i.level1_i = function() {
+        var e = new eui.Label;
+        return this.level1 = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 35,
+        e.size = 20,
+        e.text = "宇宙圣皇4",
+        e.textColor = 4967167,
+        e.y = 88,
+        e
+    },
+    i.myStarIcon_i = function() {
+        var e = new eui.Image;
+        return this.myStarIcon = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "PeakJihad6V6BanPickMode_myStarIcon_png",
+        e.x = 260.306,
+        e.y = 82,
+        e
+    },
+    i.icon1_i = function() {
+        var e = new eui.Image;
+        return this.icon1 = e,
+        e.bottom = 35,
+        e.height = 75,
+        e.horizontalCenter = 78.5,
+        e.width = 75,
+        e
+    },
+    i.id1_i = function() {
+        var e = new eui.Label;
+        return this.id1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "959595959",
+        e.textColor = 16514895,
+        e.x = 53,
+        e.y = 87,
+        e
+    },
+    i.me1_i = function() {
+        var e = new eui.Image;
+        return this.me1 = e,
+        e.source = "PeakJihad6V6BanPickMode_myInfoPng_png",
+        e.x = 9,
+        e.y = 31,
+        e
+    },
+    i.other_i = function() {
+        var e = new eui.Group;
+        return this.other = e,
+        e.horizontalCenter = 233.5,
+        e.y = 59,
+        e.elementsContent = [this.infobg2_i(), this.ima2_2_i(), this.ima1_2_i(), this.name2_i(), this.level2_i(), this.enemyStarIcon_i(), this.icon2_i(), this.id2_i(), this.other2_i()],
+        e
+    },
+    i.infobg2_i = function() {
+        var e = new eui.Image;
+        return this.infobg2 = e,
+        e.source = "peakjihad6v6banpickmode_infobg2_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.ima2_2_i = function() {
+        var e = new eui.Image;
+        return this.ima2_2 = e,
+        e.source = "peakjihad6v6banpickmode_ima2_png",
+        e.x = 221,
+        e.y = 64,
+        e
+    },
+    i.ima1_2_i = function() {
+        var e = new eui.Image;
+        return this.ima1_2 = e,
+        e.source = "peakjihad6v6banpickmode_ima1_png",
+        e.x = 223,
+        e.y = 14,
+        e
+    },
+    i.name2_i = function() {
+        var e = new eui.Label;
+        return this.name2 = e,
+        e.fontFamily = "REEJI",
+        e.right = 49,
+        e.size = 20,
+        e.text = "用户名用户名",
+        e.textColor = 16777215,
+        e.y = 39,
+        e
+    },
+    i.level2_i = function() {
+        var e = new eui.Label;
+        return this.level2 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = -80.5,
+        e.size = 20,
+        e.text = "宇宙圣皇4",
+        e.textColor = 4967167,
+        e.y = 88,
+        e
+    },
+    i.enemyStarIcon_i = function() {
+        var e = new eui.Image;
+        return this.enemyStarIcon = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "PeakJihad6V6BanPickMode_enemyStarIcon_png",
+        e.x = 113.933,
+        e.y = 82,
+        e
+    },
+    i.icon2_i = function() {
+        var e = new eui.Image;
+        return this.icon2 = e,
+        e.bottom = 35,
+        e.height = 75,
+        e.horizontalCenter = -77.5,
+        e.width = 75,
+        e
+    },
+    i.id2_i = function() {
+        var e = new eui.Label;
+        return this.id2 = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 54,
+        e.size = 18,
+        e.text = "959595959",
+        e.textColor = 16514895,
+        e.y = 87,
+        e
+    },
+    i.other2_i = function() {
+        var e = new eui.Image;
+        return this.other2 = e,
+        e.source = "PeakJihad6V6BanPickMode_enemyInfoPng_png",
+        e.x = 261,
+        e.y = 31,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 426,
+        e.horizontalCenter = -306,
+        e.width = 466,
+        e.y = 186,
+        e.viewport = this.myPetHeadGp_i(),
+        e
+    },
+    i.myPetHeadGp_i = function() {
+        var e = new eui.Group;
+        return this.myPetHeadGp = e,
+        e
+    },
+    i._Scroller2_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 426,
+        e.horizontalCenter = 293,
+        e.width = 466,
+        e.y = 185,
+        e.viewport = this.enemyPetHeadGp_i(),
+        e
+    },
+    i.enemyPetHeadGp_i = function() {
+        var e = new eui.Group;
+        return this.enemyPetHeadGp = e,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Peakjihad6v6banpickmodeSkin.exml"] = window.Peakjihad6v6banpickmodeSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "img", "titlePng", "numbg", "timeTx", "myInfoGroup", "enemyInfoGroup", "infobg1", "ima2", "ima1", "name1", "level1", "myStarIcon", "icon1", "id1", "me1", "me", "infobg2", "ima2_2", "ima1_2", "name2", "level2", "enemyStarIcon", "icon2", "id2", "other2", "other", "myPetHeadGp", "enemyPetHeadGp"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i(), this.myInfoGroup_i(), this.enemyInfoGroup_i(), this.me_i(), this.other_i(), this._Scroller1_i(), this._Scroller2_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.horizontalCenter = 0,
+        e.source = "peakjihad_common_panel_bg_jpg",
+        e.verticalCenter = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = 0,
+        e.visible = !0,
+        e.y = 11,
+        e.elementsContent = [this.img_i(), this.titlePng_i(), this.numbg_i(), this.timeTx_i()],
+        e
+    },
+    i.img_i = function() {
+        var e = new eui.Image;
+        return this.img = e,
+        e.source = "peakjihad6v6banpickmode_img_png",
+        e.x = 17,
+        e.y = 0,
+        e
+    },
+    i.titlePng_i = function() {
+        var e = new eui.Image;
+        return this.titlePng = e,
+        e.horizontalCenter = -4,
+        e.source = "PeakJihad6V6BanPickMode_titlePng_0_png",
+        e.verticalCenter = -166.5,
+        e
+    },
+    i.numbg_i = function() {
+        var e = new eui.Image;
+        return this.numbg = e,
+        e.source = "peakjihad6v6banpickmode_numbg_png",
+        e.x = 0,
+        e.y = 274,
+        e
+    },
+    i.timeTx_i = function() {
+        var e = new eui.Label;
+        return this.timeTx = e,
+        e.fontFamily = "REEJI",
+        e.horizontalCenter = -2,
+        e.size = 48,
+        e.text = "22",
+        e.textColor = 16777215,
+        e.y = 330,
+        e
+    },
+    i.myInfoGroup_i = function() {
+        var e = new eui.Group;
+        return this.myInfoGroup = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 0,
+        e.horizontalCenter = -454,
+        e.scaleX = .6,
+        e.scaleY = .6,
+        e.y = 176.822,
+        e
+    },
+    i.enemyInfoGroup_i = function() {
+        var e = new eui.Group;
+        return this.enemyInfoGroup = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 0,
+        e.horizontalCenter = 511,
+        e.scaleX = .6,
+        e.scaleY = .6,
+        e.y = 176.822,
+        e
+    },
+    i.me_i = function() {
+        var e = new eui.Group;
+        return this.me = e,
+        e.horizontalCenter = -234.5,
+        e.y = 59,
+        e.elementsContent = [this.infobg1_i(), this.ima2_i(), this.ima1_i(), this.name1_i(), this.level1_i(), this.myStarIcon_i(), this.icon1_i(), this.id1_i(), this.me1_i()],
+        e
+    },
+    i.infobg1_i = function() {
+        var e = new eui.Image;
+        return this.infobg1 = e,
+        e.source = "peakjihad6v6banpickmode_infobg1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.ima2_i = function() {
+        var e = new eui.Image;
+        return this.ima2 = e,
+        e.source = "peakjihad6v6banpickmode_ima2_png",
+        e.x = 50,
+        e.y = 64,
+        e
+    },
+    i.ima1_i = function() {
+        var e = new eui.Image;
+        return this.ima1 = e,
+        e.source = "peakjihad6v6banpickmode_ima1_png",
+        e.x = 49,
+        e.y = 13,
+        e
+    },
+    i.name1_i = function() {
+        var e = new eui.Label;
+        return this.name1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "用户名用户名",
+        e.textColor = 16777215,
+        e.x = 53,
+        e.y = 39,
+        e
+    },
+    i.level1_i = function() {
+        var e = new eui.Label;
+        return this.level1 = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 35,
+        e.size = 20,
+        e.text = "宇宙圣皇4",
+        e.textColor = 4967167,
+        e.y = 88,
+        e
+    },
+    i.myStarIcon_i = function() {
+        var e = new eui.Image;
+        return this.myStarIcon = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "PeakJihad6V6BanPickMode_myStarIcon_png",
+        e.x = 260.306,
+        e.y = 82,
+        e
+    },
+    i.icon1_i = function() {
+        var e = new eui.Image;
+        return this.icon1 = e,
+        e.bottom = 35,
+        e.height = 75,
+        e.horizontalCenter = 78.5,
+        e.width = 75,
+        e
+    },
+    i.id1_i = function() {
+        var e = new eui.Label;
+        return this.id1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "959595959",
+        e.textColor = 16514895,
+        e.x = 53,
+        e.y = 87,
+        e
+    },
+    i.me1_i = function() {
+        var e = new eui.Image;
+        return this.me1 = e,
+        e.source = "PeakJihad6V6BanPickMode_myInfoPng_png",
+        e.x = 9,
+        e.y = 31,
+        e
+    },
+    i.other_i = function() {
+        var e = new eui.Group;
+        return this.other = e,
+        e.horizontalCenter = 233.5,
+        e.y = 59,
+        e.elementsContent = [this.infobg2_i(), this.ima2_2_i(), this.ima1_2_i(), this.name2_i(), this.level2_i(), this.enemyStarIcon_i(), this.icon2_i(), this.id2_i(), this.other2_i()],
+        e
+    },
+    i.infobg2_i = function() {
+        var e = new eui.Image;
+        return this.infobg2 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "peakjihad6v6banpickmode_infobg2_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.ima2_2_i = function() {
+        var e = new eui.Image;
+        return this.ima2_2 = e,
+        e.source = "peakjihad6v6banpickmode_ima2_png",
+        e.x = 221,
+        e.y = 64,
+        e
+    },
+    i.ima1_2_i = function() {
+        var e = new eui.Image;
+        return this.ima1_2 = e,
+        e.source = "peakjihad6v6banpickmode_ima1_png",
+        e.x = 223,
+        e.y = 14,
+        e
+    },
+    i.name2_i = function() {
+        var e = new eui.Label;
+        return this.name2 = e,
+        e.fontFamily = "REEJI",
+        e.right = 49,
+        e.size = 20,
+        e.text = "用户名用户名",
+        e.textColor = 16777215,
+        e.y = 39,
+        e
+    },
+    i.level2_i = function() {
+        var e = new eui.Label;
+        return this.level2 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = -80.5,
+        e.size = 20,
+        e.text = "宇宙圣皇4",
+        e.textColor = 4967167,
+        e.y = 88,
+        e
+    },
+    i.enemyStarIcon_i = function() {
+        var e = new eui.Image;
+        return this.enemyStarIcon = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "PeakJihad6V6BanPickMode_enemyStarIcon_png",
+        e.x = 113.933,
+        e.y = 82,
+        e
+    },
+    i.icon2_i = function() {
+        var e = new eui.Image;
+        return this.icon2 = e,
+        e.bottom = 35,
+        e.height = 75,
+        e.horizontalCenter = -77,
+        e.width = 75,
+        e
+    },
+    i.id2_i = function() {
+        var e = new eui.Label;
+        return this.id2 = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 54,
+        e.size = 18,
+        e.text = "959595959",
+        e.textColor = 16514895,
+        e.y = 87,
+        e
+    },
+    i.other2_i = function() {
+        var e = new eui.Image;
+        return this.other2 = e,
+        e.source = "PeakJihad6V6BanPickMode_enemyInfoPng_png",
+        e.x = 261,
+        e.y = 31,
+        e
+    },
+    i._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 426,
+        e.horizontalCenter = -306,
+        e.width = 466,
+        e.y = 186,
+        e.viewport = this.myPetHeadGp_i(),
+        e
+    },
+    i.myPetHeadGp_i = function() {
+        var e = new eui.Group;
+        return this.myPetHeadGp = e,
+        e
+    },
+    i._Scroller2_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 426,
+        e.horizontalCenter = 293,
+        e.width = 466,
+        e.y = 185,
+        e.viewport = this.enemyPetHeadGp_i(),
+        e
+    },
+    i.enemyPetHeadGp_i = function() {
+        var e = new eui.Group;
+        return this.enemyPetHeadGp = e,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakJihadPetHeadItemSkin.exml"] = window.PeakJihadPetHeadItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "lockBg", "txtName", "head", "imgAttr", "most", "mostGroup", "prohibitIcon", "goToWarIcon", "firstEpisodeIcon", "showGroup", "selectPng", "prohibit_png"],
+        this.height = 136,
+        this.width = 112,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.bg_i(), this.lockBg_i(), this.showGroup_i(), this.selectPng_i(), this.prohibit_png_i()],
+        e
+    },
+    i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "PeakJihad6V6BanPickMode_headBg_png",
+        e.visible = !0,
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    i.lockBg_i = function() {
+        var e = new eui.Image;
+        return this.lockBg = e,
+        e.height = 129.052,
+        e.source = "PeakJihad6V6BanPickMode_lockBg_png",
+        e.visible = !0,
+        e.width = 103.6,
+        e.x = 4.312,
+        e.y = 3.319,
+        e
+    },
+    i.showGroup_i = function() {
+        var e = new eui.Group;
+        return this.showGroup = e,
+        e.visible = !0,
+        e.x = 0,
+        e.y = 5,
+        e.elementsContent = [this.txtName_i(), this.head_i(), this._Image1_i(), this.imgAttr_i(), this.mostGroup_i(), this.prohibitIcon_i(), this.goToWarIcon_i(), this.firstEpisodeIcon_i()],
+        e
+    },
+    i.txtName_i = function() {
+        var e = new eui.Label;
+        return this.txtName = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 4,
+        e.size = 16,
+        e.text = "精灵名字最多",
+        e.textColor = 9025023,
+        e.y = 104,
+        e
+    },
+    i.head_i = function() {
+        var e = new eui.Image;
+        return this.head = e,
+        e.height = 100,
+        e.width = 100,
+        e.x = 6,
+        e.y = 0,
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad6v6banpickmode_imgattrbg_png",
+        e.x = 69,
+        e.y = 0,
+        e
+    },
+    i.imgAttr_i = function() {
+        var e = new eui.Image;
+        return this.imgAttr = e,
+        e.height = 23,
+        e.source = "peakjihad6v6banpickmode_imgattr_png",
+        e.width = 23,
+        e.x = 82,
+        e.y = 0,
+        e
+    },
+    i.mostGroup_i = function() {
+        var e = new eui.Group;
+        return this.mostGroup = e,
+        e.x = 0,
+        e.y = 73,
+        e.elementsContent = [this._Image2_i(), this.most_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad6v6banpickmode_iconbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.most_i = function() {
+        var e = new eui.Label;
+        return this.most = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "3",
+        e.textColor = 16776257,
+        e.x = 9,
+        e.y = 5,
+        e
+    },
+    i.prohibitIcon_i = function() {
+        var e = new eui.Image;
+        return this.prohibitIcon = e,
+        e.source = "PeakJihad6V6BanPickMode_prohibitIcon_png",
+        e.visible = !0,
+        e.x = 63,
+        e.y = 79,
+        e
+    },
+    i.goToWarIcon_i = function() {
+        var e = new eui.Image;
+        return this.goToWarIcon = e,
+        e.source = "PeakJihad6V6BanPickMode_goToWarIcon_png",
+        e.visible = !0,
+        e.x = 63,
+        e.y = 79,
+        e
+    },
+    i.firstEpisodeIcon_i = function() {
+        var e = new eui.Image;
+        return this.firstEpisodeIcon = e,
+        e.source = "PeakJihad6V6BanPickMode_firstEpisodeIcon_png",
+        e.visible = !0,
+        e.x = 63,
+        e.y = 79,
+        e
+    },
+    i.selectPng_i = function() {
+        var e = new eui.Image;
+        return this.selectPng = e,
+        e.height = 136,
+        e.scale9Grid = new egret.Rectangle(7, 7, 92, 111),
+        e.source = "PeakJihad6V6BanPickMode_selectPng_png",
+        e.touchEnabled = !1,
+        e.visible = !1,
+        e.width = 112,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.prohibit_png_i = function() {
+        var e = new eui.Image;
+        return this.prohibit_png = e,
+        e.height = 135.441,
+        e.source = "PeakJihad6V6BanPickMode_prohibit_png_png",
+        e.visible = !1,
+        e.width = 110,
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin);

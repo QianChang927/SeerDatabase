@@ -1,1 +1,349 @@
-eval(function(){function Z(Z){for(B=A=0;B<Z;)L<2&&(L=64,R=92<(R="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<Vfka;:C_=lRxheLPeLMvYQutO^`Bc<BKw?T]X=cC[ZYfI<UVI:FG@RPRV:<q[=okasSJDQ@sR=sA=>lFD>;:j;eR;gc]RmrBnl]xH>cKwu?JH[DA?oQFusCCzJBxI>^HSmqF:<CVAFCbDnCniUsyNEKBDxD>KY_TLno=OmI>iA;`@;zD:_>kxIcNSN]TE<`esGTJEUWVCmEZshkJAk<?mPVgbiJJHdp>ZUEk;:l^EgYXmzFBiOmB`::HSlH;ZQlhSD>:Ad@:ttvt_tZF>@ob?D_i]dORpki:Bd>JTa__fklABv^@RevIOWzg]NKs;;_sLD^]jKo:?N<:?>kAFfQD:HDtmhhLc>P`BX:ZXBq<=KG;F:cgEI_HQvEdPjSFIRnuPMgaR:<F?EPB>kA=@::M>JX=@::=@Rm[mfqLCmcR>?JJeH;Dj;Vcd]eel>::[:@a:ZCsbdBGkA;<FRQtCeTtf<E;zJZAg;:M=wacVCZs?w<:Tl@;;AA_=TWev@K_?]=s;;k;:sAuDCs`YjcztsAg:;@ls:GSvGC>::<nuEK>;FHJF]DQ:L::GJaQkc^wQ:<>NQkSfIIcq?Ye>uamHC:<gy^uRSl`aKLa;ZUSr@JXdQ=QbTf`]K::=g[]RIdwlpHcwnOAky`G=RLNdYgQZgH?V;vI>]:Z>kL=cBRNvzi`^B>AkiAzZKD:rfZ:;ws>_<:l]GQ>PTs::h;KPAV::UCZRpZS;=;:PG:PBPanCgT?XOs<kWe[;y:=FFoMPRTnRL:=<;PREPWS;C;AJ:ICp@pCgm;_Z>SL<nKKLaeXhNu^XG]>_Gt=r@OWt@vAWI`ISphbmTxV:Z<dvo;^xxqIJ=J?:vx^rsV;?ZCXcLOT=cB]Jx=cLWV^wHCKcqOdUuGQ_ycpKEY`uoQ=sL=>YkM;V^maekhlkok[RfAZSoDp>NmvMzcEAviT;VqnewKpvEK`aXbT<@JTcZIuF:A;sI>>`qXT^a<u>jJJHLd@;fOM<RDBBIuHlR`tYccvO;HNtY_JdqvEEhD:kfUSx^v?A[;`;=uBa?ERqASZiUdLL]<a[^VH;k[wF[e@CpyDVkYvV@Co;@SmeHVd^PVA:B;::=DGZscdA;B@g;=@?QGWpyJIltZPR;UFvR]uUNcJdkJsMqHZqvcGFwlvG[ngh]UtknkqhT=?eCh@;BnHgm_kZFENYjhjo[lhZ:_j>U?<CsP=gPc;:eLh:;mB:siVolhaI>ze;Qhwg:BQ>TFYdw:=w:A=;piY=:a:ZA=:k<bFBi`BZl=]B_QJ`ZNv=<HIVFsb[w;BA]I:?Z:;[RwgKMsxmOd:VsiwC=cCHCZj_X:V?sFBO=R[[>PTw<rdRWBB:P;@:fic?TV::<e;J_<X<BQ:::Z^kb>j[rKm[k>k=ZKN:;PDoglB=NYXM[?;i?s>rAFCZuZBnlA]IZv;wKq>uCsLbByF]Vk:<>fkb;RFBy[l]E@:a_;kFLY;LA=<sIZd:r^rJdqQF:HBu::<mr<J:t^:DTJZuZGJs=<K>Z:u^wAJ>]j[ZA]D_jDt;w>:;_lZOqQ?:<KTLC>:<N::]N;T`Ak_LNnV@STZqEgQ:Klu;b@iG>LX=luJ^DG?wRqAZR[gbZA]G>`ZgLwkT;DaCODEwc_lE]XJJlhMSAqG]LgcyE:i]u:jeFdX_dB`DGDb:@SVnsbT=bHVyB`ni;mbG::TMZ=R;VH:i_HAJADIZwcr_YDyMwlcDdE:k`D_ZIZ>]cmpBs;QPkD;m<pHQ;Q;VpLlZ:>pon;ksR<JlwKS>:=Nw:j@eH>G;OlF@>dCPL]Ra;L?kDZF<WiOdT[w<p^fIPQEWUgOBLURcoCjtaks_@GDKR<;vk=aPAVbWE@pPW^ZFJ^?aBu;k:^RmB_rBLJeZewZWmC^uBsBRj][:w<DKJCZCmq]uZ?AJF]s:tfENND@Uwgp;:EOPgwXZGeY;GmInZIgfcUV<;aEJ?zEFTl:M=B_>unpEffPSog?]Gg::GLCKMZoVAB=aW:=wbvudA]Y?HZBKs?i@E>@Bq;UNK[uY>ehP:tL:=uYJ:fZu:=oWJ:t:T:<lziNC_O_SenJVbGXT`nqAkQYBhzxLrd=k=]EFEEuo@dGP:O:tl:`_fmjZfZ<:w<r^nLIFs;KVfV:ASavGiTql^jW@PuWFuD;SZFXc;VgMm=k;l;kVCS^u@sIxDZn:ms>:B?c>YQDquwdn?>Qa]KEG:FB:kIRakXn;_N@EY>O;Q?h]JQB?zXB_DPURJ<aaKwRRp:b>KP:GKpJ=QK[yFw]:xtm:mGdbYCZGVwkdrTH;;P?oP:@KufZ;PS`[<gNWA:CZT[U?nHXLID:]`R`JAJE>jhgcisaNn]SHNN;p:r]oR<KxCfbqjc@Wyb;C?x]oPFCdIZpLoPQjJGN[k]A;?Z@B[i]CsAWrvfU?tb:swqnM;j?Hx:CxGGTGP]nY=oDtKnfaYXFk_NSBuKnbKM:@eATd`fLIQoaK>Mb>=Fi@w:]::LA:H:ePiXgy:LLw;ZAkWko:;;AFC=nENzF>lB_H;oBILO>RX>T;_E@HND`jZ:>Vw=zHMQNN_v_M_J_`ADLFx[k=?qV>LdMUC:pfAocTspdfspXjHG[SHXE<<=rBDL=TVqlJirofcZUB:[hwasUpUszmMgdklbeQ?:ZvZoF<DTQtVkU<Ff@LvD[pD:W?NTF=p[awnhw>Dpa>fSPDhfIaY:KcUJs=pSRBptfKNk;hVyCpvJeOTaCF@rohxV:Ir[B:@Ch@aH:<CyfWArfeEcdsNEDP[@s=ggL=nEbv:_<ghywl?<Sac<Z=:Kne>I>>AD>Xsi^?]s<zFXwYI`YezN;]UQswCX]:Ajg>qw<g]C>`LP<ZSj>>t>R@=ygdJl`H[eH_QDFHP[OZu<K_q;x;^<@@DF:Z_kS[n:P>g?RoTW^U>qIgJs_IA[NckMV<AmYA]H^<AgC]<JtmQcfEBtVZ]^uR@nqT<RXXHul>EoY;ZKiy=`_fr:Tj<nV;C:UtPCjKXPws=hrQxj;XiyG;g<ZCBjDxUxufsIfyVWkZMwvoYUj^Wgs>;QPiZ:xHCj:N:UsfJB@jhQ;iItYrBG>A>L:OJ`tPaQwZ;zruYlPe=otESKnbb;r=[OAH=OYqSsgCBwd?CS^zDERwCvUe;:>^l:?ncEey;G;:>@T@Bje:@dn`e;d:>k?Z;:@ld:Aqcc;:?XC]K:@vSIfZe:^YCvdyTR==LTMgL:[FMl<s=Y[YZULwm:^@LosKC[d[JKBa:lcEdO<YuuDZ?J=w@pd>@@U<AO=KkqvS=BE@[v<fkQ=mtb=LcW[e::A<@IvnS]<<dI:j=bZLU_;LRtZeAx<w>pcL<pkxDs[bkL:c:B<Qmr<NSSZN>o>@fFlk::<Vy]Hgi[fkV:^uURt:^a@:EqD:r:pajFpamT>ZDy]BTua:LiURqRLKmNuZVa<uHaL;>ZCkuZG[sJTZZ[Mu@[:es:>:P:Ra;[c;C[SKQ<B;Mut[BkUJX:::Qa?CuIZ[>ba=RQlAaFXioSoOldRI_JT^ZAH>BNR<NS:HNQcSjiJ?NQrH_@BRRZoPJVsOZFGH;>;EVDFSKeoQ`IoQ`?oTsX>cgAZFn;oRVXoApG?EVAJJkOyH;FG?W[B@kNzA`CkRVQ`=kX_EC]BR<?:D:Oy;BSzf@g<UP^ZQ:@<Ss_>aCF<KRHZFFUwScMWhcTNWFQsJRNRJO:gT[aq:oSRLV=]CJLkRoUgPoNZ;VUwGy?JNFXY:<Ny_<KFP=e]OFUsYcPcIFL`aNLFA:HJOZ?y>;GS[BAVMZCZ>;FG::;mr;K<F?<b_:ZvF>X@r<j>VAZSS;R<=]nfneEdG;Ja`[RaFadMuSIeB?uasbte;daaVvpdkao`e;J>u`Z=?AF`_C`?gan?RbO@:ZHbc>f@w`fAYZrA<_unr?;b_:ma<`D_L:ZuL`qaN:@bHabBg`i_O@LTWCX_w`waR=F@r<l@ffb<CAc=C??ad?J<nCIne@SAzClfHdPfATr>[a]b]`L_L:mai>Zt:MIA=Ak?@SwABai^Cbcbg`n?IdXbd:xaB?y`Sai>]bW>m`Y[[_Zui@=RadR=z@`S_bv?B;?DITfa@a`f=?J:U_hA__v_q;vaC`T@i`=anAA`v?DUUav`Q[XaB`hZOeQ_cbQbi_@>vaIK^ba_OcG?W;tMouInoBZtm]KEosOm^:r^?TwbOa__b`UaN`W>_aXfGAb;:KUAS@S:C?he:<kDc:HfTZ::HT:=yeR:EdmZ:OAC>PBPGfUd;Eh;Y^=MKLgO:KY]nUKbS_sQ=Ac>Y_=`Yadb_<zb@MzbP`G;:O[LZOsZlZC?JNkNjUkNMTH?S`:Li>RQb;YZh_tUOchcWcxe:<L]c:A;a>:Z:uPT:<HybKS_:lRP;sVG>;;DLlMy?lLlQ@T<NmNaRCMFS]XaM]QNE@ZoQaY>RPVPWdjFACfwhdfdhDSZ;sKhClYDSZHt?dQ@K<YlTLBHWyPaQFaCUu=wGufaTjZPUCbaa?P_P`OPM?XqRkSlVFYZS<KtOXMcNCSuQtSs=<KJcOQ>VON_TOTPYOO?O_X@WyCgO@R`MJUnfc:RYY]gAg>::".charCodeAt(c++))?R-59:R-58),A|=(0<(R&(L/=2))?1:0)<<B,++B}for(var a,A,B,C,R,F=[],J=1,k=3,_=1,s=[],L=0,c=0;;){if(Z(_+1),2==A)return s.join("");-2&(C=A)||(Z(8*A+8),F[C=k++]=String.fromCharCode(A),--J||(J=2<<_++)),s.push(C=F[C]||a+a[0]),a&&(F[k++]=a+C[0],--J||(J=2<<_++)),a=C}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(t, e, i, n) {
+    return new(i || (i = Promise))(function(r, o) {
+        function a(t) {
+            try {
+                u(n.next(t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function s(t) {
+            try {
+                u(n["throw"](t))
+            } catch(e) {
+                o(e)
+            }
+        }
+        function u(t) {
+            t.done ? r(t.value) : new i(function(e) {
+                e(t.value)
+            }).then(a, s)
+        }
+        u((n = n.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function i(t) {
+        return function(e) {
+            return n([t, e])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, o && (a = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(o, i[1])).done) return a;
+            switch (o = 0, a && (i = [0, a.value]), i[0]) {
+            case 0:
+            case 1:
+                a = i;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                o = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (a = u.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                    u.label = i[1];
+                    break
+                }
+                if (6 === i[0] && u.label < a[1]) {
+                    u.label = a[1],
+                    a = i;
+                    break
+                }
+                if (a && u.label < a[2]) {
+                    u.label = a[2],
+                    u.ops.push(i);
+                    break
+                }
+                a[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            i = e.call(t, u)
+        } catch(n) {
+            i = [6, n],
+            o = 0
+        } finally {
+            r = a = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, o, a, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & a[0]) throw a[1];
+            return a[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+petGetPop; !
+function(t) {
+    var e = function(t) {
+        function e(e) {
+            var i = t.call(this) || this;
+            return i.petId = 0,
+            i.ct = 0,
+            i.skinName = PetGetPopSkin,
+            e && (i.petId = ~~e.id, i.ct = ~~e.ct),
+            i
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.ani = SpineUtil.createAnimate("huodejingling"),
+            this.aniGroup.addChild(this.ani),
+            ImageButtonUtil.add(this.close,
+            function() {
+                e.onClose(),
+                EventManager.dispatchEventWith(AwardEvent.CLOSE_AWARD_DIALOG)
+            },
+            this),
+            ImageButtonUtil.add(this.best,
+            function() {
+                AwardManager.pause(),
+                PetManager.upDateBagPetInfo(e.ct,
+                function(t) {
+                    ModuleManager.showModule("oneKeyTheBest", ["oneKeyTheBest"], t, null, AppDoStyle.DESTROY)
+                })
+            },
+            this),
+            this.updateView()
+        },
+        e.prototype.updateView = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, e, i, n, r, o, a, s, u = this;
+                return __generator(this,
+                function(h) {
+                    switch (h.label) {
+                    case 0:
+                        if (this.showGroup.visible = !1, this.title.visible = this.best.visible = this.ct > 0, GameInfo.isChecking && (this.best.visible = !1), t = PetXMLInfo.getName(this.petId), this.petName.text = t, this.attr.text = "精灵属性：" + PetXMLInfo.getTypeCN(this.petId), this.img_attr.source = ClientConfig.getpettypeticon(PetXMLInfo.getType(this.petId)), this.groupTag.removeChildren(), e = EffectIconControl.getAllEffctByPetId(this.petId), e && (i = e[0].kind, null != i)) for (n = i.toString().split(" ").map(Number), r = 0; r < n.length; r++) o = new eui.Image("pet_bag_tag" + (n[r] + 1) + "_png"),
+                        this.groupTag.addChild(o);
+                        return [4, RES.getResByUrl(ClientConfig.getfightPetPng(this.petId + ""), null, null, "image")];
+                    case 1:
+                        return a = h.sent(),
+                        this.pet.texture = a,
+                        EngineHookManager.repairCanvasRenderDrawMesh(),
+                        s = this.ani.play("kaiqi", 1),
+                        s.on(5,
+                        function(t) {
+                            "appear" == t.data.name && (u.showGroup.visible = !0)
+                        },
+                        this),
+                        s.on(3,
+                        function() {
+                            u.ani.play("changtai", 0)
+                        }),
+                        [2]
+                    }
+                })
+            })
+        },
+        e.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            EngineHookManager.restoreCanvasRenderDrawMesh(),
+            DisplayUtil.removeForParent(this.ani),
+            this.ani = null
+        },
+        e
+    } (BaseModule);
+    t.PetGetPop = e,
+    __reflect(e.prototype, "petGetPop.PetGetPop")
+} (petGetPop || (petGetPop = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/PetGetPopSkin.exml"] = window.PetGetPopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "aniGroup", "pet", "img_attr", "groupTag", "petName", "attr", "best", "title", "close", "showGroup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.aniGroup_i(), this.showGroup_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.scale9Grid = new egret.Rectangle(4, 6, 4, 1),
+        t.source = "pet_get_pop_bg_png",
+        t.top = 0,
+        t
+    },
+    i.aniGroup_i = function() {
+        var t = new eui.Group;
+        return this.aniGroup = t,
+        t.horizontalCenter = 0,
+        t.verticalCenter = 0,
+        t
+    },
+    i.showGroup_i = function() {
+        var t = new eui.Group;
+        return this.showGroup = t,
+        t.height = 602,
+        t.horizontalCenter = 0,
+        t.verticalCenter = -7,
+        t.width = 1063,
+        t.elementsContent = [this.pet_i(), this._Group1_i(), this.best_i(), this.title_i(), this.close_i()],
+        t
+    },
+    i.pet_i = function() {
+        var t = new eui.Image;
+        return this.pet = t,
+        t.bottom = 66,
+        t.horizontalCenter = 164,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 124,
+        t.width = 268,
+        t.x = 114,
+        t.y = 369,
+        t.elementsContent = [this.img_attr_i(), this._Image1_i(), this.groupTag_i(), this.petName_i(), this.attr_i()],
+        t
+    },
+    i.img_attr_i = function() {
+        var t = new eui.Image;
+        return this.img_attr = t,
+        t.height = 17,
+        t.width = 17,
+        t.x = 249,
+        t.y = 68,
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 36,
+        t.source = "pet_get_pop_namebg_png",
+        t.visible = !0,
+        t.width = 268,
+        t.x = 0,
+        t.y = 23,
+        t
+    },
+    i.groupTag_i = function() {
+        var t = new eui.Group;
+        return this.groupTag = t,
+        t.height = 0,
+        t.width = 0,
+        t.x = 17,
+        t.y = 0,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    i._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t
+    },
+    i.petName_i = function() {
+        var t = new eui.Label;
+        return this.petName = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 6,
+        t.size = 22,
+        t.text = "精灵名字最长九个字",
+        t.textColor = 16777215,
+        t.y = 32,
+        t
+    },
+    i.attr_i = function() {
+        var t = new eui.Label;
+        return this.attr = t,
+        t.fontFamily = "MFShangHei",
+        t.right = 20,
+        t.size = 18,
+        t.text = "精灵属性：光明 暗影",
+        t.textColor = 9628671,
+        t.y = 67,
+        t
+    },
+    i.best_i = function() {
+        var t = new eui.Image;
+        return this.best = t,
+        t.source = "pet_get_pop_best_png",
+        t.x = 935,
+        t.y = 518,
+        t
+    },
+    i.title_i = function() {
+        var t = new eui.Image;
+        return this.title = t,
+        t.source = "pet_get_pop_title_png",
+        t.x = 0,
+        t.y = 115,
+        t
+    },
+    i.close_i = function() {
+        var t = new eui.Image;
+        return this.close = t,
+        t.source = "pet_get_pop_close_png",
+        t.x = 1029,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin);

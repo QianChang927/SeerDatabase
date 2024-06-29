@@ -1,1 +1,2982 @@
-eval(function(){function J(J){for(Z=N=0;Z<J;)S<2&&(S=64,B=92<(B="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<Vfkb:s_@k:SI:;nA=c:<mQ=kI^q:>BmZNiEklEoBHWcROW@C_KNej=kCNE^s_>[X<`[:lTbhsHZa@;yac:>RVHJ:LJ:BdZ:Bk:SZ:A::@O`<VZ>:=PX;R:=_J:;UVsL:=LM;:E=y:<>J;k:CeeZ:LwgO:@O[Lk[D?mSMyd>Rb?>hkw:C[Im^jVndtw>[sj:P:;[X<yH=lM=cb[Rm;RNb=;obCqc?piiCXi:yyDX>=ska>HqpVZ]j=cFTiuU:H;Dx<Xd=oi=V:=g?VgDMs:<BV>ZCO;;Mez`:TTec=RinZqp:Mic<iZN?;pBeurk:xOl:Ds@;Z@=[drNBD:<cVB>Z>QM;Ok:b<VDpWId>=l>;=vuBW:Xf[SIkSjtZWJWsg>>wNFzl:<];SRu:BTdk_HDsbKdK:q^Z:;OWKnp]YpPADJGK;GD_B?a=ZCNBRSs:BMs<m:ypJF<VZjpzHB:BJzBNL=K?__BIR@J`>:z_EC[o;H?ZcBDC;LI]XCNne@`]mzDW>C[S=NIuQVU<r?ZPIbCFS[:@leaNR:H=kXBB;`=WIbB@_a;g==s[TW:`Kg=p_mJ?W;Ps::a:;P::PXniNVjZyPbFKWBsYMsZsUwc]^;OPHsO`PNtXnbFwgMeG[FK[]RP<YJ:GPMCZA<:kxUQo=LhBZ:;;@Jk:`:NIZaUZuo:BEG:<dnJ::YN:I`G:;[zk:UNo:Wy^:AlnJ;JzN:JAyulmswy<R[L`QRn^iEkQ]jo>Zn]lgI::<gw:OHD_CbDMoCNiL?E:CLSENzEhGwzM=HFiSMBk<mfIlPmACVhmRewwLTG>QNH?QH:UmsSs_Eb;B:AOglk=<gBBVhbISW`iPtI[^?SXmyAgrSm?kHCi@woK]j:Ffh:sLeuo:Cxp:;^hJ:>Bo:BTW:;TnJ:onN:VEW:<:@LWFX@V@?mQ:mJ?Q=VhlrIV=nsV^zlqp]xj]J[p?wDG;YJBAV<ea<sEZAb`HXC;Ck[U`=mpwBx=mnMhHlofmjleeueTheifuZT^mCRUaGRgTHDsLUdjsqU[CRPmpc_aVPYbKWN@QMbporUVOYrJ][d@[rliWb]yB>^FISkYWp@xpu<bN:[dbaVZpnkEHVzNV[t^]MONuE]m@J>eh;hhuHqDWf^stadI]pJL`;>luRji?lLHzZRe=lhhFvW@qIaua[IrXEXly@SiVqV=sqC[vwmPF^yjvVU]TPvWhiP:JYt:QM[EK:KBlqJ:P^xdY[`Rx;oeJMEz>D^]k?j?[@bBVwddgD:N:?]JIS:VX:dMj^C?xNo>;iJ:=tF:e<H[:FTGBTJc=:ArIT=w@KYrJ:eJHpJOtf_m?OJ:?JT:;<rJ:]FT::k^J:[GT::WMJ:gAD:@URze;Z^eu>n:JTJRC;J:=?^vo=cCkkZI=Ok<B;?Z=PY:C@:_kXJBy_^KL[rN>eX_Z>umMaQHct_:;eRR:wk?z??>k<Nk[n>^rYF;Hs>RLECNO`KWTh?dJd=q;aNKL;X@mD_TmIR?xF=QknDn:HxwjdIlY[BGyMKIvYpz`w:;V:Z>ZBDH:ioE;F;kBJQk>:x>u^;ISZzVCtSBbjl]KBEcw:<lZ:LN:e:^JYKqbT>>zq;Lk_SPDXJDCAw@^`FZ`NadysJAbarjg=F[]CM@GFSZ>uj>AtDanEGYCmx<bhGYeNbd<]ybnZ@NZO_<ds^g^eQZqBWdABY^e>RpgcOm<EZBAZG;tliLR?mSsL_K]M>L[f;JBl:;A>NYkUa>AiLZG_nml`jBaKwftWK[_DPBM>O@aKF;vKHEeCczne]uEf::X_V^=@@_sFkdBV?X;:u;sNL?]=>M:WS:<PLc:MQ_T>FIoAPQKT[NQcgOGNIZMClRm;g<vHVu;jnmJXRbWBAhKD@Z[<gUCw=vB_>Gf^<eONLRNldZnCaEonurl<KnEacWXTeqmg;NBr:OKrGJEiOPcnm;m`<]eWNPcqmD:]E:K:D:F<VI=:wJJ=SIZz>>L<?ZRBJ;qfUBu^NA;hL[Phhk=sQlY]LH=T@[ZwT:pCf_T<Aka;K<[AFQsv>O:IPo?mLJ=FlTT:R?mGecc:Z[:p>_GBPJ^[QNe>H?cAJig^<a:g?R:VZKPrxfHHsGJQZq<yAwGRJWkK==[AG?_KBSToZN:QSTAB^;Tqw?hDNPh`JSl^CuVoOcMMH^W:KGLJRk[[]^:BCF@RVk?[E;P@gW:Hlh]UAq<;KoZJEZyfHEVYxjvb]j=<Ak;GZU_rSd:C<TVu;b@HCx]N:FyvTC@:FWSJLlBu<__qacCSYhAvhF:gR>doLG_OFLWgiXKmYLr<uPNnS`Mha:IrEKqBxApasDRpKudfAWbvFHYN^^SAibVVczoz^JnCJDNsyKwMPmyGNTJFt:Vdcc;w`>sl]MEA`HeRd?LD:]FhFNVNngpMkbn;klFxliCzxyHg`:X:iMRbRbUb]OCdn=ZQHFUgngktlD<:yRqQtz^yak?;>otof^UazvaTwzBRnoQtHlRwrd[EN;qM;WgytzymNblb^Z:`rRzBgly@FDB<PehlKLbo;B>>d_N<FT;BO;_ccc=M>DeDUwrk[:>@Ojc=PsKDhwler:Hft:@hF<Tlgvs=B:<DUPc;e_DaF:@QP:=]APigxX@pOzVRqChMSaxlaNN?GhD`PwhpUadni]]qtpvfrkxi^V`HGyfA;@hk>Rk:DJS@iD<=Bc;:^@::ELZiplviqy:^XeqxcvbrdjYRqPi;_QQJXT]up:I[rtvhnYixhdvEqsXpRypxl^N?dZUR:>e?LSGyD:[N`JF^aqiGN[IWg`U<ChGWqKfLq]GHTqJRBZMMYJGTzVlqx;iIBCe=GJUcHigfSujkRS]EqAf;;nGkCcHmz`p;_GIZspTsOsU_:TTMV@x=UazGyk>MDxEUNVhuJAYOgrY?HhL[@ok@UQB;JLZI<T@oD]JkCZfI=dbNs<IUZR:XAAMs;w:JRxJ;<HwYQPTnXkTrY;wyqB_KUfKAijkR[^KJEJ[BLr@YJpJ:x><?__GcTkrJ@TqphXaK`DOyueheiU@ygpybbQSjm;hvDVUZYDTY:PzAsfjG;UvWWtOwi]h<zT:pcxxifrgsYVm=xos:IAUZzWf=rqdIJJcybxAYN<W]YdrCxMy;uYaXcMSsJt^?=lXwqUQeupmAHrjZogfoAp=Nan=Z`nO`i=aoPrTlPnPoqktrzrxNMOGq:GyAal?<^J;`^Oi=HkimilZGinZD[kJF:Bbn=QhNO>^PWLkB_=yk;m;l;r;pzmXk:FYq:Cynk=Q<R=k;;?;pR>CMn^Kp?:lmlllnlnTkXnzlRDJDhlw=n[P[R?;lM[R=sM]=y?y:b?i>dldndkSmSlSryrSmBD_FZmfp_CZZDr]=Z>D[d<aan@F^t_CKUl`m`kvo>?Wlvm:kpoJCFD:G_CVCuMAq_GFIGq>KBCbphoENZAVDQlWlQnWnZrfK><rm_;rpUQrko>vK=lvQ=kjkN@^nIn^qw>bQmFVAjptmQLWlQMeADBrJLHJnrNlA>ALAANT@IKH?IJeKu@l>jNK@jK@A@<a:k]YON[YLBAP>q:zOq:H?vnH=zQOo>:_>wIH;:nX:Ym<GwCZqYrQlnkKAnrQreBxpJpnoZAJmM;M@I;C?VMkkF[oKS:t;t<mnANd@gGgGg;F=f>:@OxJ:PLO:;YZF:@m`J:EAz:;tuo:=qpJ:<;O::EKN:=oWJ:VZGW?PKCkul:;IvN:@_^J::xG:;Oao:AxtJ:<`WRM:::clyFKGKG;F[G[Dj`S:Z:Z>:<j:k:Tf^:;iNo:@z?J:NYp::gvN:;Y:k:QlO:::HNSEf:g<XHY<y`j?R<k@F::=Ry:ggyKiJ;L;J=Jlhb;q=H=i<H;X<P;xJKJ^JXVc;F[ppyVx:]BYpv;bJdcRlIKjKRZzKFR>JJlQ>pW^L=?clrJsk>kn]<J[dr>JoVkwk<k]kLkmlDlHKcOGVakc;`cpFw:c:CJH:c:::jOZN;>VBfVVIsEOWYKh:^YO>HSPF:nXNX=FFw<wW:N`UuYw<]PTCw?w=qWwT?;HTPJ<ADUxPl>ow<L^;PAoK=OuMTN@U<VZQ<Y<VgCgaR_]F]IwL]@ojIQCK]UXKqQXDXOi<O>LY]NyLLFjTLUT;NQTYT?LJuYPALILQ]Fu>mFmTuTmHuCmOmO_P@Su=FoJ@SAyJDRDNRKNVg<DDD=mPwdlNJCD?DPBBdKgzGAPW[YVdO?XNq;e?e=eAeG[LlHo;iHViH;VzXCV`Z;TST;NEwbqFJAgnVyL>PAVpLRJWLYV[wsw]uNwmmVwsHXuOmU_LNf<puWuMuFgru<LYuXBPP>@HRF@<@D@@@H@;@DN`@G@AZM@F<j@:aGOK_k:::M::OUF:<ZWKaOVrqKXIOPmUaN:jaU`TPXKFP:Z<PW:DPVVf]yPIwdPELpPWPMPB<bDQPC;<L`O@eL<]q@<uqT?X<qV]XJOKV]Z=qW<yJl@M@Q<qLEVZ]bkSLB]_]ZeF]cm>weuD]qu@]mwhm<gYK:mXFV`<EBEK]gyS]kNRNbuPZJc=]f]rgw@UZ;j:Ly@EEPNsJO@CJ^@:jAwwZXlGDR^>pQD;m_eSO>qSmwqT<eqHiNX;<vmjXVOImsgEq;XEF^LkpVHRX=mgX@HCiAm`<mT`Z?HC:GHM@MHUHQHYHJiQHNi?ZViUTmi@kTiBFsTqgoTpTwTaXGZMi?LgJGXXK:XDk`F@unmwXXut<]TcLPXEu?u`efFmLhX?NIsYFqufmjupq:@iTJyJK>@zlTyQOOdB^Sy=d;^>EQEYn;EEx;:UZMC>JMTC;?;;t=;FDlLU;Q;Y;BVc[>[Hg<[C`C[O[:TIR:Z<RUFDFM[V<QkYHOCNJAkV@@;YJGuuaf;Eu?:KNHPRJ::A_kA?CB@t:[>k:`jkddi`hNE`dB@wQ_NNN;@NLr?NQNLe]oKiFS<SALjtemhLMq;d@x>?=q;?fZ:Z?SA?hv_`jB:Y[`fy=`gOjS@NApixgGjJ@Gcj=NM_AGc>>hcB=oPQ>mg?cV:F:djJQ_OdjeMR:Sg_cdLe_:<z?T[J:Idx:;Q;rcN:Ab>l[J:Jvha?:;=Vo:=XtG[;qdq`qqJGqymYJO_St=PvVrqbPbJR]_HnPjTFH]HoquHnKPHi_DqaqdHvDpHdZO;WHvqnHj;UHk[QHdakioi]iuiiiliuqH<ulCRpewmfggyQRrCBJ:CDySdHyAqhdE@hS?E<JNESM:EXXjZWCHyjO?SCyanUyAMCMB;IS;BBMRtJobCAy^@cdSypnQdS^R;h^LnNS<OHXw;CsP;P;M_BZO_KmLB]:Wc>ajR>:X;W_KOAew<caFaPLlLtLaT`dSXHTrFvLfPDNq;>:OxWBW:@BD:XLDNK?T`V?F:?snlPkN^G;ZPvD]kXmF?LKiq[kE[]ZA[x:I[hvVZDBG_MPHgqqtHkKiojmx;[kE?U?W_J`WBHX>NzwYK`t:XLl^ZNN]KkleKw;FkO@=ZG?F:=?VtO@UDog]`@li`K`H[X[?`G`Wlnlvlb`I`?LJOV@RONO?:;@mO?Vg:IZ<>F:<lJQ<pF>F:qpSNfZbZpZMjTZ?QUpXRzjWRoZwZ:dpNxNkBbkoZeYDdwBiYBhHBZlpBSYNdpYWrWTRc;hSBrrGBcJJIMBczQhPsPzFzSkTSmzXIRcrB`IHWGRldu=EIURpzSexz@VNj:nYc;;r^FVEuW^VsTwtmSmM_EEJtmMSMNtfK]tn_@D@trM>;kMXtwtmt^m?td;s;D:P?O];tmtmNbtyEYS^MB?n_TgN?gEGMJnPKntn_RFa?xELnL?Z:M`i=Yd:RLnSA?IKYg]]qlV@OlWSAlYg]LqCTJ:zckUCRCXiSz^lh[V<k[UdX]]lTSYLlSRKYCXyVSU]qSXmgmnlRCS;YtY]Qmn:>DpCYCX[YB;g>m]oY?HVZf@FmVB:Tk=VBuYDVWFeUPTAllhkJTXpmTW<GRCnObnhrTSuRk;]GQJuUQruVLHxlLCUQxp@RImvK<@ImaRAPMpaUxRDEALDCjo=WDCPSeEhXeGpBh@m>WSxaD>EoHFTFIOkMTET:u>uBjJ@?uCjJ@BYOE_P;@GP=@EYJaEZ;q<zKAFX:WCUBPHfXPCX?PE<DYnZmqYqDMTJ]HIwJkrHDC>iBRaiD?;?>OB_?JIJGO>kEp:G@pIQHZ;^VQN:[h>GHUGxOGGW;WFhGxAIiJ`hHbGfUQT^=GFrVmhxAWDknfEDpnA]An>E@E:x?E:ecf;;Wf:U==FwLZ;yLs@v<v:a?<ZAAa@A?A?MIMHzB_?ai=_oeGJ^ayffEABc_:eGEfRmjUEIi<fbYDdkZV>AFB`QTWAZzz<L>bFZ;VJR^ijbI[gXh>bJzqTq`<iAgBfrC]gIBF^]cccLdi[gaLcXat@`C;cYB<]<[<`YI<_]bg^ssQ^TjzBuip]uh:gcV_cZc@gh`ZePjBuJgcsIZ<hP[cyZK_bXcO:HaBeJO]jH_KksychQ?cfV_K`miJbmgDdR=RdDj;_;a;_kwejsh[b[`gt>gTj>cNuVfOMyF:<PMTaJ:THWuAafoTaABItewmvKWEjUxE=E^DDCMDukHnRZP@fEoaUESIvEtHVRe@nRcDOIrDctRTDIds=tdfcipEqSaAEDRHsE`eWsGHTjNDheWfaexe]st<^f]sMenfp:EeffbrRIpICtGINDkuNUgKEsUs@j``AuB`_hsAlQvG`GAG:hx[GcLUcfhBovtkFujcV>gu<?ufGuRZm>e>JaP>q>xRhBK?i?I?l?;>op[ZI>j?;?F;d>AIPE]ei:HDECthFcQtUkCKaB>[aKm:y>@JGhGJpkc:pleWqVcCWJ@Wd[jkpksSHKACoQoe;scuy;RRmYLYLYWZgb^l^vt^MuA?]HuCLKr?QiYjC>zjY?z?c@OjFTpj=Q:@nGyGMao_UviYJ`XYgTRhQvHPVQWjg_Q_gmzuyXdXXGUarakA[Xr?a^DJcuqKAB]:RFgrgJ]As?=Jb;iJx[qKR>c:xZc;W?W?TBH;F;AB::eRKeHrKY;j;tt=ZGRCrhmVtRkHgBlD:O`D:GlqtR?N^icRby_StD:HgzSkCvsk:HvW:;k<k;DKHcOSJs<lN:<ctV>k:H;O::L_l_ff?<<CJ]rwVm><RSOSf<SR:]VtL[i>;FUFX]RFjtM]Ty[?K:=?LcxLYLVmT>AZOS:cXDwNycWC`<s]u]vjC]u=ZGKmtTuUEGKmThMt`hQASR:kG<[DSELxJIR:qwCGWpqrxrsb>IAMKTUGqTYpXhohRBX]FeHuRIu>MeF@YvP@YWYUJmFIqxVaR`>w]LnJchY]bK[hSoR@LG]zp]Cu_sqYM;G^i[Jkdha]KuFm;aqUl@wyZHUBRIoMjL=?AowsSx<Pr@CU:DqbuTR_gMaDuh?]wlCs>qn:khhJo@nYdiqrPZA>iq^KAhiXkiBsRf]VvY=:eMXnH;`yL:MNcT@tlngT];dHoA[lB[AgGqgREWhTPTdvhJk=UWWiTOWCP_X;hgEoha@jTrhzL=vJF_r`YTZWgDgsEFhB=E;LtcTI^:^Z;?ksT<qm_>JeIl;rRnZoNjZUs;k=y:>OLkNGHg=Sk]^VZDPZ:<LW::GHT:;jbo:=vYc:Am`B_jP>:=>uc:>`?J:GQ;Z:Hgp::[geB`::qz@:;MKML?S=g[Z:BrM::ziUiNt;fS<<I:<mtv?jmISA]bqJACB:<Bkt>ycsDBue<dmdBCEZloV@z;@ZVJXV@SNO]]<E;foQwcf::fq<qi]?TUdpkqcsBiZBGAiZKQ;dbWzkvAVgHm:f:KKCiOQ=fftN;c;`kRBG;Yds>YSDl>VD:HROGnPcBphH[cM@AZ<Cf=:O@rRCTIBN;KrBA_RZGsWk:[=uWjT>OBngB=Cd?V^R_zNfetL@cA:]TkBfqZloB;F[>:B:FQ@j@s;JlABSm<>QHqud><e@vNJ:;DDZ:F;oL[Z:Ii^::QAD::onF:<EmeQN:<l]jO>:=Mag_F:;cmjp:iAEVPR?N<@[j<p[v;MHwOVmB`LstPVNejBPDC^:;uYlbHkIOndlQVvG<DeOOUn[?>w[yWoR_bVmfFBDuAZI[j=XdBg?y?KwpZuklLD]IK@R]jcqBx_E]HBdm]]eYoCNT=r;sWBKw@mCZMs;flpt;DYBS@=mDnCLVs:yc[e^eIeu[]MN;ZRe>LFbu_]DKHJa_JmHS?g^HKrB[[jYNqAfkPyhiPHdwHL[a]A_C:LsLWMnC_s_V?HDbEMbdmFtaVfHJkbz_H@zOeiCkl@bw:s:Zpj;CSIkJ>Ew?OJJ[pt<BM>BL?C<uklJbBR]N:<W=cmLyD:::zN:=hkR:AMxEsc:=hzJ:>UuZ:J:G::_FT::u`B@[w:dVw]LL`E]f[F[kcaENJ=@KR=OlHupR=l@P>gEk:F:QkJUGm<:deV^[]kxgKv:onW^^_jZzkRd><@=]k[cJ_VQ>FL@B`CliJygBNCbv[W::ncet<vJSRyk:hQw=y?iF_;CU=:QPk>s]<ER`TaqIPeb<^F:>bkQqC:_=^Z[s>sVYS<]?JMllg>zBJNDd[okNC[sx<Q>:f@MSU[mHNvAWZqmQRlZpqFR:JNBbG^Pi=k[uZY>mmNMXlk>jTD;Eca>g@CM>gVM;Bm?M^sC;Jq[ZdLs`cMXKCV=<QlHkbYlT<ZHRA@=Z[nk?]CvQAwPKFKdJ:Rcgck<WKCNaoL[lRJl]THHZ_d<WCV>igBNF:<Nac:?Rok:B:uCWBmUALnE`^hD`R_vGz?KnctFVvPNJ[hblkL>bgrpPbcuQduW_rwtuQcX_>OufWCXExOQhK[HRcGfuRj;y[EnZUTS;XWnHeX_Z[:JZAmVm;SBB?S;qZV_n_>[f:ZhsZ:fsOwP]Ho=k=kBJ:>JCs:k=:;Tx<:JYPqeApoJZ:ByJD;tCZ:Mup:OdlRGTKhIVRh:V:jYFOAxpq_d;xdE:JuPsmI[B;RZR:CB<k@alB:y:n_=[]J:mR_;XNbYPCjAA]SbL_aZ_TuPhHs:Z;sLkZ<k@_kmTAZ]Nj=SsVPC;JJ[fJw<Sm=soy>a]C:_YUTWGFk=HJjd[cX@TcmE>smJNE:Np>E_hKtGb<nQC:IjqvkuguqXfNz_IZa?QwYKBKTzjYkhRK?twGfMdgvbhR<nsqDB:S__Lzud>YyRnYzeA_:?EF:qBuPIF@n:?:=`aN:[Wii]^RS;Rq]JNPU<>MTvd_q;uO:ParJ>W>Ldq:_NEankArc[]K:sheybYM_<d]pJws>Yli<o=ALx:o=@b[jvF<h]f:ssbK@b:V<CBrU;Uf]>kmw=VF:ZyN]Hq>>L;ws<cKJb>;NDD[p<YkVJUHpcvL=`qgZ^JJcDoAD=I;h>Mdbg:x_a_]tCvGob]:xCu=oZOvQobXnHA`ZDkaEPcD@PU:?:?JwSCJ`::J<e>:>zm:=_H@n=:VG<ip>mNpqZuEOILdsVwCX@j<Ylvk`SSwDy<zZH=yB=SU`FobJ=FJ[JnZ_yj>kIa<[LtMK<ZDYHPZC:a:Igl>>y<y^_;WJKkUF:gQL;QmKJd_Aq`DrN=s;N:WJMlFw=KJq:v[q^=F;zCjbYmEkYwcLA:=y:]Z;>DRF`jgGS=cgAKI^<;OzBDmzmkJFDDO[F@dmo;Scpwom=rBs:TGW>@R>[Xl;P^_EiTwJQ:G]aFnd;e?S<yOdJdRPYmT?ec>RA:>>KFD_RXDJKP:jYam;;Jp<e;MZjzb_;EJ]<zaH:f>NLEG@?CCmAPM^CD>>sAcTFEG>kOF:Y@f<q[XJ?I_jCW?yNt=]k:s;^:FCtwlmbpO[@=Ne[@Z[yCkLd;F[Y:HLGhgAIH;tdHTrGBm^c;nmiolTRRXVBAAz<R;m:aE;oZzE_<R;O?kk;:HtZmMGpsknhBCKvK<OZ:k`P:VZF@P]PsJ_ZU_PHc_ea[TFN`B:GCPrJZ:WpF`qL]CWPAmNH:_Z_NRdN_fkU`ED`chW_Ic?eNNJB`_dKdU>fkThEL`U_=dTrO?fHJX`@ZNCQojB:XK;`nLl@:_eLOHKl`JLlmIc<<Q]`d`<kHdXJ;]]EDh@BmyaW=APOODDkPmedSm?qPnEk`t:EE>VfmNDB_`=cwtTEQKSQEKTptPtO_faQEDvZFLdB:gdXP`EbB?jKqe_caOioBcQma?KrQLQWEo`NmrdYVft;AD:OCLyaVtAkTJeD`XkLkc_f?mzDu`gFBtPLh;QomwNXnT;A:=FPAgNsesBy<@ao=bnEudBBXhiNB;:kP:JgjCBkqa>y[rcNcPRTKbPshM>@REWM??btscgZ>yaWMF^Aee]NaewzOtBg@`NQ;mdMN^OhOGyRDf=FzNqHZIA;TmGE[LjLeKhm:SLfsPl_^qAw?w:dle_fBC@XV;K`WoEZMs;lic=hQ?[s:=eh@FuhWPZdIOVkSD?IPE:;ebOKaRGL^G_T[fjOje`ZIugWQUCvBkTyGYY==OdlOTiBL_H<nAt>;Vp;]YGRejAvJ]bDZ:>^`::gjCd=LusQGOB:?r?J:?c;mJjsgp>:=rmc:?HtPVK]Q<`g]PpUTteB:?HZd>]qhC^l=::sVvOp::wBRWf::gsa::@ooAOz?RDAJibhJ?kZs:qOqBViJpG=A[]OONwuFUCnWbp`lmrJiwimhVMx=hmZkkZ?_?@?flj>ogMdGw>D^NsZJGXHU;u;`;p_ckT:JNFmgB:s:`ehuZ]jXi@AI:k:ONMWJs;k=aFD:V@vJ?yGUAA=bCz`UsMdqTc[N=H_OC^gW;Rv_OnHRcn^[XJX]T]vHQZ^u:ON;ui^EJSOONQlNUm<O>Rn_UNPCPTfZU?Bw:@FZP@`[==ApF@igF[cJqlpKG:iPlOCMCZKMcdVzUwdVCbaRM>istILiE>`]bLMDkFFRMu:a?tWhRW`><ZO<_pDVmiU`Uubg<k>s[I?g_zugg@i`YZpdu:<kBnmF=c;B>hA>>Jln;@v`^Hd?B^PllBpb__e_c]^YS=SJN_SKnO:M_yP>t[Krmx_VN[?ft;NU>c[NuM`^N:e@Tbi;gJEbRdVe=OOHDkVBGzOf:tCY>x_@TLJrhv<:eZB:YRESdasUOiiBGIfZWJE^vN[i@>_UaGlf^cgAC<klsRxMeteeBHLzHaYVHz?=T=sApGRV]HrBYN[s_qh=NtHLS:ptsxQF@jmDy]Jp`hC>x=PhgO<dfbOIBfpV`=S:>G?ite]eVpGlc<giPJfYeKtiZJAWmT]xLaeWrJ=bVpu`rKa^WqSdrV@>=r:T=`cZ<Ve<Dcx?K?AJoLM[v]x?:UPGMgoAkNpZTzwJj=Hre:qJY:HFTTFbtEf::FZu::Eao:;Rwc:==Bk:@hiZ:D=`T>KHr>iJb;EoCacZ:X^G::S<e::v=pSCEeqKKHk:I^z_k]ydAEKcaLEOhqbEIWj`NSRbhyrX;BZbrEAVeT=AOXjMJrcOJwu:Hpag=eFrTKkW]_LALUP[olosWsdPMdOlPrMUNDNThGTWinOlEEhGxTvMej?OrTog>iv`bhnbTjTtWvqtXcfeq>QVVueida]nQivgohWRHcGDAN>K^o=W_xHAKP:Kpko`[dk`AW@e<fpVFWVLvAXZb:tHN<WCH]bWMhdos`uWRCKbTnctpVvPKjHzbUio?pEWhOg=QOOLr<nZB^Fviq^dvcD^mvIhrqtQOWo=rzUZxJHoIT=dpo^ocxNHgqfAet=V[sxbsorYhhPqIO;t]cKLN;Iv?;<YC_>fLR?CD@B`::?HemTLuZ:P^`SloNzVWlCF_AeSH>Rn^PedGPTeAW^XdrJd_`QFhdOl_[zY<mpN<f@dnyqOQedhNrMvBOf>sdueyZiDP:U]j;Gk<r<s;LBGBJ<<PcpQkg`iQyauYpC?sf>C:@qANBcPL^n:=LjBzR>Q?L[s:QZIXiaijQecbNm=EkSR<UeC=oebJcRbWLKmjeEV@dBidjMErr:hvBgBjJC@OGzrV@QxePEUeve?RZAtXQ;avUeihO<wN@LoaIePgGNDwK=V[gJrDfsGkgF=I^W:oSbNIrpK=:;[JpmoOPZA<@K[rydcWFHhLCWWNwr^Efs;HxF_[cCBFBkEN^LyOueopLGHNIeeFBJDiCU]DB;dF=s`icGPMH^uyAdO]hFkKhKMrUBQOoKqlecRkF^LW@_TsvM@hLHXA?OwKfBwafZNtAopXKvQ]ZX:HSADyNcTj^>;WONcg:JMXjem[h:p@s:WKx:HagTFocuyBM;jcbpG:NcGFZMO`I_VGP=@eJklvco]_oJVDD:;[t[KJ:W:lD:aIKsK_>RDORc::dB[fe<uEtPUBO;UYJeHU@a`qDTwhm;Wv]WZmd=Y@XPhufLULRKyyMSRHspvKXGA:Y^XHN>o^=[Gca]q[CgGDDTsicZvD;rrN;Ww:SIYKCfu:Avl;zl<Y<><bZ[GJadsZFq>sWgVqBkil>B=ZAT?yaJbzduCa>rrq;_AkOxYkIZ>?Z[;PB_HTvLkeoJs:q;nt`VsRBmTT=FbW;cwWszqMZ;wTs::a[xQwXs=If;>fukeHygzQYe@JjuzxRme:pSZNGJoQ_twXyFNKY^o@q=RZ<rOv@yM<:EWKtNdbfwTSLVyJebHNDe?Ft=FgdamSSbB?S<mV[J_cQM`e?z_lf;opnFt_qsqaNK=dhfIVEunIVbzCh?EErkXgzyQfHPM_MaU:=RnN:N:Jbb:?DnpSwuMPW_:=IdaxS<:gPNZBTBam?^T:_xCaoh_J:X]i:qxAUFB??g@=MgwhdPoc?o<vMQgihbYFRAahG]b]myeAFvU[mi;_VrhjQEM:=g<:nqh<@c?Y_L[esUBYROP:Cvw[aBR:JNGHXVZV[lL^lHHhHU[r;`;;NoC:GHYS;HKN?zBG?gR:[;w[nnuM<wum=`E=glJ]VwZHRL`TP?K@W[UHSBGn`Sa`q:iFxWQDN@bgO;OurWYioEbH`znhVuHJrFz=UnlmiwliWuNF?y`vqpkvZ=m;=Cjhak_fTObrpXEzl;kJA?FdIGuvMnJM>qq=cPNQ_```tWs<gcyAQ_p_Y@PSYpVDU::F[RZ>cXcQk^T;tpr>v?uiCXrRgYBDNKdy_z[lZhxE@XoY@VaUf_acNjk_t_@c<H;?sN?h[bQnY]GcvWNCyM`XlXOogGR:Y?`DQxAP:W<QKO@RgLN?kA]=w>KJLJNJ@<<s=F[vlfBHVt]pFhaJbEDOF`_XAWEn[QN>ZHiLe?Q<X=y:LK>NXlpBqPVvBQ`mN^T>lZlT[HEtXES?@[[<:XKpynEM@I<=A^jTdsZLXXI<]P:>xd>f>zl><kZpVGcBhLp?KFs;TnHS`sEKDH]gNUImzA?^cCqYD[JrmRbM?e`dTcSQFcPPs<e=dFrxNnGJp@LOGh_gUOShrVXUX?Nv[EU]f;qlubI@=@zuVliqtTojhev;lpfxxCMJ`oagmP_WQQOHDpcurxW=ebPomPQ:f^n:es:_A_;Segp@;dkLKKfWI;R=QLkuToj:<tdu?x;vWkiqkmfnwlRQE<;GFVzo=VHAW_>ri_v]jMxozT:xyFGQNIfSeIV_>Ry[K;IjppMuEToxXHj>=SJtK]hQxDy^_ZhtPwRF>F[rbOjq;PTeU`j=[hOcWtvLukAgNm?@OSKAMItoJM:EGFygb=fdrGquQPP];lTrtTRTLsjjGrYCloTHk@l:AVpPGAd]tkN:::oZJVqJyHJgB;RJP:PsCVtkZpjOl]Dj:@rEV?ggQ:nUwJLkCWYTq=WUfbc;liPLddEa]sVB:kCUUnMPqzJkkHqkvXWjQQyiCpG]zmTxjkShfwh]tBfUMp:QZkiTELGFiAUs[escJGlBvXE][r^e@>nNj]<^glrdfVWvx``]n?ucVlrs;:>MMq>A<^uc`_]CETLgG<_FT@Dyi_aJIi[mNs:;yCa:L=K;tXRmk>STEq^P]]O=of>QQVkI;nqZ>W]NCxcyJ?QXEzCwqqL;abD;bKMbBAcrnW>q:kXV:GU`uHsmVmzKMBJL[t;R=k_:UWtY=Ezc@hSK`OzbSe`nKtcu:OZkhDdKrPvpBqjhO;rvWWnw=Fp<R>uk:BeDZ:BqG::mACJ`::b_sk_auXDndM<jo:zrYWYxzrLffKh;uJAwJ];s:;djJ:<`m[CP<ac;IPqNNA<G[QUrPKhxuzhJ=];s::;ok:B@KU_IIhLN:;g^_HhC>f^a>Z:Y>oDuMBk:DUa>=q<ji??ecIeAu=`@tZsa;ev>lg>`FRmCEdGoFkS=limTJgOPDsZG]jEJM?ojaUa=W]G=fpoUa<Pd_wxlXuRaQiaIOvwJAl]Z=CMCpKXk[sku=TebZrp:?[BfEhkBRl@@xemXJqS[clpLrGuJ;lkcr]F;AEFlZPN]@iu_vUXdb_KauPYLMNrR>E:IR?YYSh`LB@@kTyrxmu_gVXdeiEyfca_FVq^>@q>tem_q=;eZ_iMeynXX[K;wAEGop`Fg>[`iFMZCoc@Wik[=pHYJXMddsLUKHwJFMSCi>lnTthV>pdakWCZFx];=Hd]vKncnRkn=[Hx@ADEl`m[wTMa[EGYWRnRs`:YBayqn`je]XCG^ILMzY:y?yADgqZBJBZJlmTJtGn:PMip?lre`R=FQ[[f?x]s;<@[gaYs=ZM_nR@tGoakZOFrCdjl`lIb<gftqk@:KhG>DvMCzMosyVwYIaf<G[FKjRLgcVmHnWzOaJzntbPgryaS_PMaRGbHg[aRShh=ED^IS>MwwSlPSA_MHEGsnSKEwtaUZASau]jSkc>VOMTh?nSCSa=Waqh_ObwqxgaguFOB@M>eqO:tgkqnUGymXSbS`z?sgw?[n;QOJ@o;zRK:tC;nP@>Vx=RZ;[csBgZEC@@ZBlI;g_wVywpD@V<s@NtYRBiGbC::oeoBXVbwu;XIUZPfLfCjpscBhB:QkQPwbw;XfZgN:pASufcPkTSuiC[U@@t<qP=PAn:u=>kLZlZzefs;E<aUp>FWU`g`r>TpAA=K[lNj[Oef;@Zwbt<ID;T@fscw^OXLX[hPur^tKDppW>tKKZmYOmsJzVUDrvOO<axENHOgf=PhE?TzEVdkFXcU]rdp^Tbw;p=nVk=fBXjKcVWo:Aax@PW_<EmYo;Hh=Z;q?bOIDrICsbt_;SBTAupw;qZAewxzF^w<@[fmvX`vMEf[gLH<DLiuZrJxit>v[xPGzPH=CB;Z;GvG@lnZeGriP[rK[xnoQQ_RmbqqwZ`Cu=YSAV[]xKGycxVfWHEyIzu[vgkksRZR]wbByjI:;QF<Gn:ZOwh?ZFc?@i:;U:o::tec::GtLBMMgCpheCpnNTDQ_F:;`Xc:=mGJ::ODZ:FE`PNvCxlQN;PGU@ukil_@fmSLsTUdR@Q:>rT?BI_@grjxrjWyvnW[^OI[UZkFZUHGm;MX=le[c::^xJ:HcCZ:IgGacEAcbPqg:<Fac:?CRn^mQKsy:;cHN:<mTVCzLePiuZPDbRwpAT[EeOp[YBKoMgn?VUOGmQWMYscNzTTKGHdy=RXCNwNApIzx[a`dsEWu;wogWF[pf:cWEp>UT=^Mk:sAp:IL>Z:E;pTc^C;ntPfnt>q;cXNxKsDjZ]LPqJCl]Z=[yOviIX=DaAWvBHgFkF=rW[hzT]oBw;@;s;bkdT>UTIVFeyps<`Hm?fvoczrcM>MtFSR==A?jIKmsqvrL:yXS`Ymzw=gVb:^IEbJeQduOYhhICQNlTxWJOGXYFbntbphNtxLAFJinNmQ]RET[WYHa<=aHfOZEDS`xsoQF[FG=xzkIe;tZAdoAoLwxFyavJrG;BI^;@:WbF:]IZD;F;KzynCwW:AlYI`tVX@NZI[ac_@Rrk<iFJ;SaI_PYTC]ii]OgexAark>?h[]hSohgvBUGine;nF`gvu`OWv;oYmIp]G;dx=Y[:VTInyREvyF]z:V=:IqoEzb=Ly@J@ZKpN_A`xLhRZcjdQsSKk:UctYNj^Qs=Z?<q:N:LJC;E==OyDyAQW`wB;UsGxTyOYJY:VdL>=^Rd=vNSHwkJ@lMZyrQwkVJMBe]:LZpRPk:Qt^wtb_;jYM:WpkT;<j_z;Z;uVGrPMjHv[?ZLJTuLRI;]B`]NbKxjdnXQEPQukZPK>jTdp<Sy[^aJMEB]J_xGEyLWS?HExqORC@uZx<r:>VYS:jgD:ysY_k[lQ`xDb@pK;iBt_l;?AozKPBYlPZUZZBlzgrpjOIwQVuZc:gzwMlKsDNEzeZSZNBGBBPDPAM]LlFpqc<Z:=y?z<Uf:<gMWz_:@sSfw=ZsnyN:>kmLvriXceR;^[tZARWg<;pi<TFx[YE?_zHXUnwZIRBz_YuFwCz_qlby?z`z]cNBzhZ<r:X>Fvvb:@?`:=ryGoczvIypSHr=Q<Rs;cJL:a^;P;v<hk=zvYFp]:YvUk_zgYtrmR:Wj<Qy:cGYu;khzgq;B;YV_zuJyEsA]Zkka:PaJYy:L<t=s;a:H]mTRp]<mljPmh]:@j:Sz[h^Se`zhIsH:o:WZAsmJ][B:zyrB;rBmDD:?D<>VIYi>dxy`::r<AB]zfsmp@wrd_<u;oUeVDHTaBAq[>;HZN:A<;t:OkMby`:Oz^N;V:QJ>hZzRCq<l_IRE@KxZzv<xBLZGB@ztR;@^;_Zw;z:Ym;Sy[ZM><u;S:TYtq;rkArnvZ_ZVclnX^^_R>m;:cAZ;l_SnF]lEXDrZ<Mhw`DC_<rZdREXv]_oNEHUD;bzZmkgamEGRZdF<C_B@CqDhfR?e:s:QHmrHAZjk;QynZJZ?QB]c;q;WZbZO:=X;YJQNAg;z;CcmKJnnBVSGshJS@fny=JWyKvgFJLo>H;UJKUcuZTJU:>ry<:Jk>c;n:KjBF;vzfBAHJsd>r]A@_F@el@_JDhR@G;BZR];q;sZWueC;LzbsB?DTJScmJkNP<mUgZT<fV<WyTZJ;:T;RdHIvUkeaAc?J:VJX;<vBez[^C`yj=FR?Jm`ZCR@Z[GkRgA:PmkYR>DJO:Og@o;<:K@JNZNS=@Ml_]S<D;W:zZPF@r:nYhicgTgZPV>gaFkYm:J[wJW<>E;`Z_g@Z;gJVm?N;QJIy;wB_cAz:ocFT=D<[Jah]D<ZsQ:Aw;eZX:IkKrBaJQ>db;IKbP:qX[H[HeMe:CIkLG@KJKanBDORBLlwgbz_`Zgapt>]?[;VBTclK;k:VoA_:_BJ_>J;m^@TA<gbJX_?m[vE:NANcWRCVULXUcWx=?;XEEe>dPb:TZd]gpJLT?oeiZARA]<WcEUu<a[jhfs>:^jh[lk;fj^FsXyqDENl?F@d:T=yyZYjmM]yLIeAsWaGM;kL?FTdDk=]<FY_UCWgJtEH;pm?v>>Z@ZmYdK;;wx^DDK?yK^CbuwFz=A:<SyY^;>Ac:KYbbs=[E:AI;=[ApB]KO_@wZJ;=[nkZ]MpZAg@AMM[P@]k=qJJsWpl=[h_CbtJyYTH_;pyvI:rtp_OBTrvhyWJIwAWyG?dc>Z[<_BIsa;qZLJ>k[WSFJ>DJ<BJy>GkRBMX@I[f>Bt=r[?TBwACJpsMslJ:jsXc<MyvsN;AI[W?aZ?YkrsT[Jn[o>KhLzPXZS[cRNmsQ;?p:Zs=<Afyaz_OSquUCbjur[OsT]?g[uBKm>f;PBRs?vD?>HQ<zV`l^:>o;w:Rq=GZjJXq=i;Iv?s?i;vRBh<XHz;D_ULB]lAVcmkP_<rsoKhBMk>F[yz[Iu>KfoHm@];WZTo@oVY>RWvc:O>Xnn<KMZWg>FKsS?@J>[oSE@JC_GoartQFER=L:N[qF`hEBmSkKKAzZJF:kfUee_Sclo[kJQzv]Kqw;T>q;@BQCAJBQJXd?[_yBMFt>[X_S`^]_[_NV@leSkSzvYy^_V]>DJRBW>>_KaBTl=R[W>Ls>YgYm=WD=;YvAo@EJM:?>:^mfBDdZ[KI>KSAwKp_NC><NB_Jc@KK^BJr;Y[fBOCA>KF_TK>CK^ZM]AoKvv?@LdKf>O::SKvR;L;[DvRBtZ[K`_JC>qKP^@?@HKtkSm:ZgK:N;@=ygNJpA[y>ZRs>s;uE:t@AaYEDXAe;tsV<>is=VHDLcKy>Tl:OZyoKy?k:bBFW>q[EBMX>h[zsFW>GkuEHWAF[B>MsmuF>PEWAUkpt;[>a[n_Jd;vKhNJEdCqv_TgAmKT_U]>TKj_RL@uKCBQfTgZtBL?>s;I:W<lKK[oSCAzKMJR=?_KUJL=@hKnRH=>uKlBMWDEJNJ;d[Y[ZcFS?klsoYL?YK;oTW>clhXZ=?lKA_XQ[RlEZU^AyKNFOo=qJgFR>>M;=_L<k::N>J>QKgoST>R[?oWm?rZYBO[;Y:ZcYD=<[]cDD>D>>cOD>m[@JXV:NgF:SmR?NPHi;mTlmHEu?tKsdBt=v<f_EV<D[rl;qfUoSWHQMe[dgRN@Y:qcXDKOZefFFem;^_F@?DonnFYL?NcdEM>nZo_YV?e:RgQTA]XrgX>dH[IBXZ<Ll:cQP;<[BcPD?DlocM:@elVL_`]D[sd;e?qlygRvAHlOnCkAqJLE=k@@lOFLWArKYoQM?cl=FN=@XKnFQ]?TKY_S=>rL:NDcn_l[EBQ?]K`:;W@_;BgQ??;laFKA?KlogMA@mlVVRf@DZmgNb>i[LP>mSTlNPGI?ulqcLV?@lXNTb@n@[FGOsFBGgWu?T[CJNv?u[b:NU>w;e]_t>SNE^DItnK:VWT?V[kVLY>DFTJYrAw[ZwUAAmlwVPI@ClsAFbAelrcML^VZd^;b>l:qwQu>tl=E;FAcgqJLmSAlLFQ::YKSVQvApK?wRn>AFGVP=?pl>FY^AzFdk<S?;;fVKO??DlwR;ASeQVPt?lKJ>OJ@YydJMk@zyDZOruUKtS;X>vKvoYy@CwbRPx]YKX<JIv<lK<YG>BCDh_Z_yKD<Q^>;KdBKk;VlA:XOAM;OFSwCW[jgPQCP[jVYCAVFn<NutH[h_@WcC:AIEV:IB<J:p^k;QsIkKoZfcHc_L:WB@:=I][]Na::T[N:J:Iin>C^eQafx=>kq:`]Ui;m:>k@o;yZW]Sg]w[=wLmS=lB:AE?z:<gXD@jlG`bZ[jVS]UD?el<cUFUY>zlF<MZ_oCA<Ln[rcVO=z:uLAP=SDwsAz>y[=gWm:egUgQDmTFT?[O@T]X<P;ALCkVbV?];]oS^>Y;Df;JbcguoTc?b[h<Wh@fc:z_x@CwjRL_@wF]>QbugC_<J^=`CzgKJ>RlkFLp>i;M>Yo>X;jRIq<y;B]XF>NlqgJB?WCtDHQskCF]TE?QlTkN_AZBbKdgAClEL`zAG@BMA_?SC:<PLl`;E`[N>;BOJSZ:p;zzbobfC?LOTAVCvJQu;H[smMo?i;:kMFbzgckXM@M;c_OM>M[GS>F`kCOLNwAQlBDPy=j;VLfVafa=E;h@:[PoLR:AkG@Eo`INw:Io_ICksLVlICkmUC?OltXD[KnkakN`?YCYmMw`gKzv>R[z]G@HM>HKvVKv:YNRDYM?VCKDJVmcNAp@LbW;@_SF_gKZkVFAhZhDJWBgd=DJ^@Q;hBIG;E[A<UV>jCADLfRkKFeP_?oZMg;D=AD?XAkceKSNYqMNKgwXL`wdrmWFbNdBkWDbBKa<RXA<KgkN^LLBfDKQAgdcmSt@nVjr>u@v[ZBCZ;OZh>Um`[_zDOL`=;UZVP<zPBNRXA]VpmW=;M;IzcVbPdnkcJ`mduFNpAUCdk^@`d;UeOZ<XdQ_T=>ydKeSp?<d@wf;A;dZ_Wie[dywX]kKdnj?@`[;Ezj]bZd=kWNbmCm^IF;d;I>O?^qKJDKB;Bd;:><@cdx<OXAZKITTl;tKUoOX>pKGsVb<dkyoKv<qJqDWx>=df_Q@aOl^eNn@YC@_Vl:]ZRsAn;J:mNDzuRCfTKOAhlCoRHbOdUDY:_Dd@TW^@i;`DVTbydzv?>;l_@a=iaw;vgVt:Wm:mMOAblBmJa`^C;eQkaK_:]RaJ>P=uWXKmgKcT>?LdapHH`AdxeLXaEdbDVpedkIDWt@FKqTRDbxZrQ:ybKJSTLy_sdNuS;aOC[DM;aDd@pES:BSaTVq<fdGojh[B:@w^REZk=uXm;Y;LhD@?acSzd@?w:oRSfvDyi:I@AlXENVaAiy;cCvv_>mcDe;KcFTGHk]ZqRNAtt[@I`^veisT:uZ]SO;HCbdBb]][^O[:Od;R?_SNZqAZ:MRVAkMBeNKkAuSYk>l@B_:EA::NcIRUg`x[JsUc_?yqO>H>E[VsXhe^[bVHHAoPUsBiABKesTb=f[kVCiAe:GY[a<ddAgRrv_:`ePiRLqMLMJbrZrTPobjKJuTl:WCv]:S_^mXZSV^xZsBMGAAKJ>V`bd:oDO;>RdnkjhAcKtZKjtYaiZG[AV<izhVJAdWeQ[aGKV:?J?=Km_XuaeKmuOaaQdHTXlA[_Q>R;^?K[TTG@V;^DVQ>LKi@YD_>SSuKFbBSjmQo>@KXoJO?aKUeaG>b;UTWR]zBTPXybsSbuNubYBePRe:_StuUu`QdiTRSaRC[NSk?KJmZL;`MKdP;F]MCsqY@`GSpwK``vwAmWy`BSQPL[bzg_mXM?QSBJPLn?lqPRxb>CWTWQ?_C[cVvnD;ATOq`T;CoQqafcJgYhAaSkliR@^SE_YO_MSHqNn>[SsD`uaBSa_Uy`glGo_BbnC`BRGafaLPEib]CX<N^_ZtwoQBbOlxwOE>yCMwJ>_jl_cPzAH[_LUUAi[[FB:=ojc:<?oR::_wc:=GqdjAuFtmTV?tC^gSW``dCLWRZctTmOha;lPmYP_kcFaDl:NcymQD@dPKmTk>kkiDI]^VZSmYU>vlzcYeAm[R<Vvl:t;<S^_R[C<NhAsmWLKO@HJ[mOJ_:[bTL]`T;ZZTHa;dZ]GHbu;JJIM_Ql^iRa`;tA[gG_BlVf==bXt`sTl;j[@F]gactYiYC=wJZXLW>lKrVJubRt]<KpaYSBkQuatdVmJ>@]CJJJt@ZS>XSoUqtIVPfavST>Vb`BcAmJVbS;]cQoRUlyJSE`atXECVbhmb:O=:w;xmP;`a;DiY?AISsXQN@ASoqOxanSn>Qo_:dMn@h_sd<>TIajCneXnnjSreJQbFKKXJ@_qdZBB;aJtvVJObm:BXK<bCJnkWzDJK_XUBA]VI:J]`z;oPV]_hCVPTVEcdeXLm`ctlwKv=cdeyTX__dQo?I_Nd[XLWaSS>mAL_bFseQi`NlnDSr:ptHXXIbet]GGmaUt;HVWbWSGDX:P]dV;O:PA@ef=:Oadw[I:QJSiXRK`CdLsLeab:CkHeb@[aeWK>udQ^<dAudPyKX_Z?@;TT`cNLsKTa=SOeSP_jZSyUPaJdsXRH;GdLqPRbNt`FXq`ItQiLz`ktpNKHb?ZT@X<@vK]PQ:;AK@DM[`fyuHJd;jdqXLJPB?pVYbbK_RVHiaekauWPL`t<mLGbYt][K;`zt_qPWUUNJ;RT_ntCeXq;cSEVKVkw;P@MH`k:joYRP_?NqV:Nvtc;MX`rd:oWn@IdxyMsQNlu[J>N@?LuKxag?BKXkNxKZAHID>PSXMnA:SKlZJPXkkVFJNYd<KU;ab<l@TZP_Sl[PiaNSp@KZA_lx@RQ?FSsRPc<gSv@U@>HyI@QK?wSWL:CbRctzCHm[JYjh>:t[kY[Es?[qIa@[x?A:?HlSmoYed`vcuaJbvp[jF<bvj>BY<UbpZBY<i>U?>m;d]B_k:?H>?ydc?S_W@GaVt`dtyYfbvvtzRPVQI<IaWhKySes>?_v[PeXubv[@R;?`hyNPWJbItgPQBNCSuPMgQVZyoSgQ:`HlRkbltV:A`blSMsTcPCtWSIgPe?BuU<@@RPPWafZ`uyJY`?SQ;T]QXeMoS[>OSPz^[>GgX>QO_<?^PVpbwKfPOZ=hSLKXZQYSBkKl?xSd_QwEaKzPRd>`Kh_Me_L?`NKHT:`[KWhb??S;Sa<:`TJRkQidSkNRNdKTuX`AzgUYe:bbSR[Ul?;;pt?<mAlOFL<O_`RySYaU?cdUxkL`LKODOdKjvEDNOZLZJeNg`mqR@AiJ_HQ^bAlBYED`c[luNNQT`RCUeQgwydLkP@`bNWp@SRddY`@;;?qUBAQ_^_C=aY?U<QX@T`fmXJ=[HsoSDQhKodVTOx;>k?=l@RtdOAlzV?XNIbNlVuRuOJSndXK@N`ElWLNudVSSykC`gS=uOSKHNQo@=d]qKTNS`UCW_cV`JqPBaL?_<ObaVCy[R`@X`wSNTNO`zvEp?=m>KPQa;`;r_qNw?QCRgb:gOFJ]PK`zyKJ=v?DTNPOlDmfEV:Y:Q^A@KrZmR;u:NJY``I>@`jSWuQzg<CJP_^KGb<>@e`sSMcQw`tCRs@stAdJMagl=VJjtuqSHVmQd`LdRX@NtzXXJaitFKX<mT`^HVLbq[OBAY>Llr]ME?yCBwN>aVtDgLu?KCvcTbkSwPYBt:?wRC<Ql`wjHW__`;iLKP=tCb:Tt:KKddUUbXe=dNK?H`Z[KYaH;ctUN_t?;IBobY?F[UwNJ`joMXA[;rLTckRdSZOcOQ`f>IsOu?ySS^?@?WCUI`wFd]@yQ`tBJKBbC;emMoa^tJ?LNO;tXmVr`m[viPrb;FAXTU`SljXP@arCPSTF?n`=[KhKYZn[Sp`g?xCQIbb?Z@RjbJ?G[OVNr`PdWYAn[EeY^_O?B`PsNUmJTJ@PD`DqSJaKdy`RJPxm[`R>ODdm>SJOed@eUkfo?SkPDQN`n;PZNnSA`N[?>?WSKyOb;`ePOAMKWiSeO[tkFVq`Kth`KvbGCn?Yq`e?e[PWAD?qwDQ@dtL[TbaT?]BUlO`OkORDO;?DuLRQO?PuKCQV`yuJr:OOwKWqNCOf[WX`x;huYXb_luE>y_l?CVJtOK`dSOylx`QNJHQd?mSB;anu:HQ_OD?zONtPq?M[XNOAS]OVGQi?suSsPRSXKM[`UO>yOGM;kd`PKbhO@uVmap?_KYNNOKhqP@>gS;c?@AuyFRYUtVS<RUl`iyrKUSURccZcFN;yNaLAumSlEbsKomtRQFPA><lUPAnmAQ^d_f?podqC=[f_[^NtyYs`gPQ?ilQH@SNyGSnT>piGThERp[GVt;?y>w:VPQ?Dk[k;=[GGSwDr?;YgTCsB]k;q>_mZPYP=FpWRCpO@S::WVB;SMlKJ:[SUlX_:Y?lsNONlSjY[<Qc`euF=a^dpGTcNBtdkbMQvKlPQc@`STziO_>y`PY;[>`GPQAD_`?pV=>hSmtMLNg?t@TROgRtBSl>^`I`RqQdV>tPGAP?POTKNHOiOWQ@edp;Qfmr:gOXG@ltg[K>Tl_`OJd;J`pKAM_wOpeSqBnOwtTVDW]GpSNNNSxpS@eJ?_KSXNot_<U@at`=PRtO<OLKOUQO?BYBh;oSpqQVaOtMBO<?_OWNKKPetNBXE?XCEHS;QyCZLJb?kOIHNV`t<ABgmJFHP`Jv?v<]Pf__?O[lav>k?LhM`OZtk?NC=NpUdXu_GCtHPXPq`X;JlPXtgHYCCk`w_]fNiLsWLtCmpg<fs=rd]>LMNMd[GOjPfL]XKR>sdf_fAO@Ot>gt<Cp[WLbNg:zdO_PECGBWTaSRGxL?NUN^cTtQbd^xPRNXk[mEZQZCaOOYQSpt?QaN<``yM^NIpWpR:r?ZB<<:pTF`XQyEOpeFUbOftIxOrKvOEZJ:oqplRFHOP?LyUL<>pu=XQ@RGVWMY>Jgi=JZAsGO@ThC>GZRM_O<NryVYQGOF=LMOkGOKYWO_GZ@LkoilhJTYOYpEOYBmzpfOP@MoGARAko:dHKQj?gG;xKqQnd<;SkqDGr=VbP:GF^S>NiPI:YKa>;ONK^_VGnNJQQkGU@?PPtK<qS>PipHDPfO@G`pUXCuqu^WUNFGlR>BbcS>NLt;S`@hTIaXpNxYDkN?McScn]VW?Th`L?^?PjPcNdyPlNBmqCW>qeFPF]OawFPuOzbPddyLUQpt]G=YawChpMkoBGb;XTbBGvVNnQR`w`QQ`yGlMP?Q[ls?NrPyCEWKnb^lvwUf`]g]cR:=IZJdLV]YWXUbHlYE=KQ`d[wSDackfGUd_HO<`NDPRmUGL@<r:nHWA?gtfWV>_Mltk@@P;FuR[mDWGZ<Woqr:jMPvbxG>]N_rw?dMYQQQl[Rd^dOG^WMFr=lnwTI@kO<nJ>^GGgljwL::<wT::sgdfGHcKgrj`qo_ePTFqnMZ_=GdPMsqMp]`LBOH[yOTqN;po[K>oli?[JcPhmZXQnN]G`yQnOHGAOW<q?GXKR:?qGL;JEO`ZmENzNoSaKJgbqJSWTxQFS>RKxOgSQpKl`l[YpSoN:peRNuRPafddbDZpklWCbByRYZmoiaOdjw]kpafadbly]GO;StBDGQd`Oy;:CSbpZ;]ee<n[WR?DropSlSLTB_u]b>=A?bKeMOxCiGLcmlOJsN_UOBafJuAuhOBGepb?_K_SZuhCKe^cmhv?UCQc:FfTF?PhFJH>t=[dfOToH[ffOL;HhGlNi?r?QGSVNU[;Y`=tb?BsPVO^[xR<Yb<pWJDEPq`shMkPKS@RBAN`OoCJHbvKmfLMaZKTCM`bSOeXKfOgOOTMX>bt@>MfPumL;`O_=alCUOaAyaEWQ?apoOQzNi;IVgZAxm`CgIBF`jPYUQp`LdNGAG`W_RgbhleUKvP:hJdTaoddUJ;_?U`L:=iQiqWmJ=_lt>EQA_PFmzZs:dt:>SAQuDQ<aJdvpt:ADokhnUL_pQ;i>D^_AGhcXA`]hqiTubE`fcWn`lDNkRe@X[PLL_`z:TLK_`Z:fnWb@>giVKB<A[jtN>>>g[wLhA?lWHNXpB:=WSA>JOhMW;OhpGnSXpnlqgNUtn:;OHV`JkuE:o_YhZM?lvVXfvUj>ilJJNNaA@lA`M?mht=U:appXWNZP>W]WJqpxmVJ:IC=mZ<[lAfhh<aGQXOAULvN_GPvJlpWZOUQspmh?ANJQxhnUQKqTKGwaJdd`bnPG>t?:ORY;=mQARdQn[e[EloIyMUUKo^mVbQoA_ll?LxPXl^BV=_:hJ[V=Ayp:RKwqg`?NM]fJtVvNANDCuDET_RdifTaPTpdcE?NkhdfQ]PvGObS]PuWO?VBNl:zhR>qEC>N@DkChFhTONvppfKLZvpckLtqGO>=MQOJGhtYbNg?v`RWO]OYZSRQ=pKcWCN@;A?W?oRGg]PNp:hF`P?outPJO[Px@@`YJ]bCP?OE_uOzXQdOt?qCZ]rUOO`UBmoGE[XSP]OzmWcoqOaWM]aqWqQKJpRtc^R_RPheXZdqGhpAJCoeWYegGpdeZ@UV_z;>]Jto;t>xQdoSGyn=trxtUTOENz?JQNapk:PxSQN_gxbOFU`y_QS:_t`_=SJqMSqMRMbTKlHLyO_[eQSyq=SM_DlqqOZgRx>^GXQMkbMG^wKVrgtOnJopQhi<Q;oV:FwKfAkWwwUXtBWDAJmmD[ETf]JFu>iSeAWtUnYBp;;LxNT??G;fSxqAGk[JTp?WpvLOppZ;DCOocxUvRSpRCv_BI`t?nbJprqGnbTGpNWGo[GoV?EfUGquGNpU`_=hDrNn>l`_N@V@^`ECeSqItsMYHp=WUISfPHhps>tot@avYgn[HZXKv<qWKAKg_EdrxVbfMWnecnrwWmbKkPxWvIKOAnWlwLckDxmrStpB?CjWX<kd?XR=`[GexPErxyDBSfN?WaJCirqh@XTy?oxQuJ`oAOlXXCPIW_`VN_SWClKlNexnmSgasx?jLvrp@;IPdPn@vXXOqWtmIWdNegOmMOrNxW`Rtd[x;DQ?pRhYLMZpphkKOFad?@wctcEtSTNmbS@`fOvoSGxefErTxLbQo@<WWYWQo:dVrYyPaZdjKtre:`yYEpPxjbUV`b;ZQQJavWLCJy>QKPxYgn=@zsSYPy?i[SqP<OrjRyQwCWrTM_;xBTYB@;xrQYjsMxHIVXr:lIrTn`zWVnWVqGGAWL=pZxHgK=qBWIkM=p>xwIM]LBxaAKU_>O?XO^rAWj=GbopdWWYjqfWUfJMqQh]cLMpUlSIYu@cWJMOMoOK_bWso<Oo=RprI<sOMvPo?NOWe_lOXeRQqhWDKKSOtdQ;TXP`KKMOPbWxjYRq_Zh]dLqaxhBjYUoPWirTlN:K=VHcQj[jOM<qpOnoOWPfZAjWj=wO<zQ:IlW;HOBrkhTERpOl?g:vbq@?LKSKouxMYLIEsP@KThN<Gq[Tl;xOBZuKp]=IjNGPtdcpNkqm;>pW>NUOW[VcGRGdkhpmCp]QUa_X?_KK[bX?SpJNNmWJdSHbQOEQSBqaGE^Pk<IOfxVxPA@hqPc:?hSjMrpJdAaOz<kdWyLSoVZ`:wONvWUyQ]_YtV;QipZSjyJRGNGIyR:PH=qyVQrR=BeKK`dpfxWRpZSbyX_pyGg;Y::a=jjP:Oz:YsaD`PG>eRoQjOBcCxQ<yWjdl_uyGENa?ohIKQ<sjaHEaySS[JlX=P^?_GX]vh=qEf[TwhanCPA[m<GSdap_LlVd<cp`lV@qQ?cUQP=[hSlPEUf?kYBfRmh`M]Vlf=B:B]LhHSfLgFnHaklF[OHe^ATpv=]hh^Q?ZRhf^OU=e^E^Pc:^aJA`f=n`UT`qhziUTbehyKRwOb?TsJ@qyhXneRZLh`lYCUgP?kpk<B_gORH<ehdlL<G`P=aYP;J^Ez]iAU[BhViO]p?:;EOY?O:saqHx;>TAOCSyoMsIdhvhK]azPJCPLF;tUjKwFAtBQQaoyFLBzkNr[^BrSrTpP>YfQOSwl<LPOhyJsZ_phe:lZG[_>G_OZsPiEhi`qpz;?qrHpTQMmQNlYQVKqlWDZs_Ng?kcp:<]^W[@d[xK@aIW@dORbRvOPKocq<ob;lyJ>GdGmZvsqDOCyN>G`dM_EHq]xp:t>HVOoJp]al=]GI>IV=cZkNIfTlJycH`=>;Vr@O=UrM]`t=<JvYQB?bV=uGhWA`K_GL:H;R@Gs?:nYZa_^K:ssAypvB?F@<xjhQUr[=BzQ]HgJPxL::MdyoTZ:V=FCURFLGa?d]vRPbJvR=[_qNU`?BGwRqqQwZ[RvsHQtN=Ck>OZa@O?^=xfLKAQF[avSb_khekw<NU=cCQw<b=N:;LGKp^BR;rD=cnUo[bGjrO;PQGF?R=oKCDVNMrJHZ:GlDZ::vDnzXwrD`;wO:FD=V:>cotp:rJGNO?ecyeHp^t^MPQ:Gq^Xv`<xe=WVFnH?BvmGq=Usp@KIBDJyROXHTcnPIzkon`@J:d@IVvmBldP@HI`^^V[gHCpGso;FEy]hZOJIdHJwDNM^qknQpyGWkpHGE`jrCzAQW<>v[REyCkp_Iw>>PTxrb;y^UL=VxtjUQqkdQRsYAIdRJxEPt^aRIARIKNBMjNbKRzJY;]qavM[FnxudKlFkM<hhynGWZctPF:Mhszz=v=>k>k?G^gckWpzFZ?OxqE^cAMNqnGxMOn_U^;>se@>H[C:XGcx>kVXHX=dszIrDGQSVRoe^ORt=RmMsS>M>VZK_R;bI^:L=>NZM[xSyGwMKkz;HqMBcs[FXMR>kt@s]udTKGb=P>sdP<MX>ynk>MK[NKG]^H>rZHqKm:xmNseOFLPGh^pwTZ:FMSTX<dq^HBl>FWlnBYhoe?uPSVI=^Fn^jNsMdrUHI?MXzV;qH;[zVrNJWwnPYqU^KmW:tkHK_x[oaMHKOsINlQ:tSHExeZkMblM@csM>TR[mDM@d`:DTtG@xuqXOH]MdWjd@yMo_s[Iv=gJD[GgWA_zDHexD^Rpor=eop]u:Ml>s?ITGs>m?Gq`RNrSpXM^VhWFLMW;M?Iv`G_qhI>M]Ns>>NMFcq`GqOtBl?GY^x`UyHLMzswWIqMfkkY`:`:DYS;oOr:MxGN^YolLSN^KoxPHbMGBy?FhliAJJ?TWR@UxTvMsYPfq=Wdk^^GBnW_k?HcnFot>NGs?<M=F<;[:yTH=hKD<JHUGS:nDFx^tbU]Hl?tOM<rpOKK]kFj[OOTPIBltRxWrw=eERdFxOqw>cFX^Lcrbao`CJq>OFWvUP`PV;HZmSriMU:sD=kne?@NO:nN^JxO`ZW@UVaJMR@ShP[^ujR^M@=YsuRHcSlpKRGX??NOGOrKwFsKGyMCoqDFm=DpJ<`D;BJXr>g^aNyAaF^gxOZ<CTwiNIpgn[NkXbM^inaRsLZmvXIrF[@xQCUwJ_teHIYgfclAGHnVNmvIqMBY@E;T=sPMkQzhgZKLJKKvVR<FlnmiYHGeMKnjgt<FNnWNrbGDszxpf^H_mrb_:jBEm;itjB>@?KJKIV[rBWfvUlncgORGVa[<TdUMblnxNm;o=lKzRrFbxusurIhnX=GXJKJ>pMrGACA=aqcgcdIOb@=nORG_@Yy=_JFpp;mVohH`iLVylUKMveNYAHnfoqDH^;>FlxIIW`iQZkHKOw:Frv=dwuouQnP:AZ>O^kFw^FCM]h_`GV;b:OY<VZwm]vaA@?C<ueb;zNmmHsnHYJh>wx]`Y:i;n:L<AFgMqrPlFAdVjWApH^DvVm@wM]Vkkd<gTVyk_SnLKPGHp^HVrZ;tnBTSHQB=nRym[sE_woVpsER?NiFnnWMJ=ohne`X:iEnbVmjG;KDwXuA:=QXMjFz;kws@@^pH<J;q>Ef<rrApnmsxkjGnvWPm=wEmwsBjWnB]ooT::NrD::duRWefG>^qSlHLSBhxtJSPQOAnXYcB@rMl`Y<FRFtvY[Gwgr<Fa;k:ahf;qiED:@e<XE`<pbH_nO`JzG`t@zR@AswI:PzIO=SEUNGv:J::".charCodeAt(l++))?B-59:B-58),N|=(0<(B&(S/=2))?1:0)<<Z,++Z}for(var K,N,Z,O,B,k=[],_=1,R=3,P=1,A=[],S=0,l=0;;){if(J(P+1),2==N)return A.join("");-2&(O=N)||(J(8*N+8),k[O=R++]=String.fromCharCode(N),--_||(_=2<<P++)),A.push(O=k[O]||K+K[0]),K&&(k[R++]=K+O[0],--_||(_=2<<P++)),K=O}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+holyLightMonica; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.bossID = 13801,
+            i.skinName = t.KuangBaoYaoHuangSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(77, this, "hlm_kuang_bao_yao_huang_toptitle_png",
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            this.adaptLeftContent(this.grp_btns),
+            this.addEvents()
+        },
+        i.prototype.beforeUpdate = function() {
+            return Promise.resolve()
+        },
+        i.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnadd,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254205, 1,
+                function() {
+                    KTool.doExchange(11824, 1,
+                    function() {
+                        e.updateValues()
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnyijian,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254204, 1,
+                function() {
+                    SocketConnection.sendWithPromise(43300, [12, 2]).then(function() {
+                        Alarm.show("已完成狂暴妖皇。",
+                        function() {
+                            e.service.backToMainPanel(),
+                            EventManager.dispatchEventWith("UpdateMainPanel", !0)
+                        })
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnback,
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            ImageButtonUtil.add(this.btnhelp,
+            function() {
+                tipsPop.TipsPop.openHelpPopById(77)
+            },
+            this),
+            ImageButtonUtil.add(this.btncure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnpet,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnfight,
+            function() {
+                var i = 3 - e.service.getValue(t.AttrConst.daily_level2_times);
+                return 0 >= i ? void BubblerManager.getInstance().showText("您的挑战次数不足！") : void(e.isclickFight || (e.isclickFight = !0, FightManager.fightNoMapBoss("", e.bossID + e.curimgNum)))
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            var e = this;
+            this.isclickFight = !1;
+            var i = 3 - this.service.getValue(t.AttrConst.daily_level2_times),
+            n = 0 >= i,
+            a = this.service.getValue(t.AttrConst.forever_level_state),
+            r = this.service.getValue(t.AttrConst.forever_level2_damage);
+            this.curimgNum = KTool.getBit(this.service.getValue(t.AttrConst.forever_level1and3_state), 5),
+            this.imgkuang.visible = 0 == this.curimgNum,
+            this.imgqing.visible = 1 == this.curimgNum,
+            this.damageText.text = r.toString() + "/50000",
+            this.timesLeftText.text = "剩余挑战次数:" + i.toString(),
+            DisplayUtil.setEnabled(this.btnadd, n, !n),
+            a >= 2 && Alarm.show("已完成狂暴妖皇。",
+            function() {
+                e.service.backToMainPanel()
+            })
+        },
+        i
+    } (BasicPanel);
+    t.KuangBaoYaoHuang = e,
+    __reflect(e.prototype, "holyLightMonica.KuangBaoYaoHuang")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+holyLightMonica; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.service.setValues([t.AttrConst.forever_pet_state, t.AttrConst.forever_level_state, t.AttrConst.forever_level1and3_state, t.AttrConst.forever_level2_damage, t.AttrConst.forever_level4_turn_1, t.AttrConst.forever_level4_turn_2, t.AttrConst.forever_level4_state], [t.AttrConst.daily_level1_times, t.AttrConst.daily_level2_times, t.AttrConst.daily_level3_times, t.AttrConst.daily_level4_times_1, t.AttrConst.daily_level4_times_2, t.AttrConst.daily_level4_times_3, t.AttrConst.daily_upgrade_times]),
+            i.init([{
+                panelName: t.ModuleConst.MAIN_PANEL,
+                isMain: !0
+            },
+            {
+                panelName: t.ModuleConst.LIQIN_YAOWANG_PANEL
+            },
+            {
+                panelName: t.ModuleConst.KUANGBAO_YAOHUANG_PANEL
+            },
+            {
+                panelName: t.ModuleConst.JITUI_MOZUN_PANEL
+            },
+            {
+                panelName: t.ModuleConst.TIANZHAN_FENGLING_PANEL
+            },
+            {
+                panelName: t.ModuleConst.UPGRADE_ABILITY_PANEL
+            }]),
+            i
+        }
+        return __extends(i, e),
+        i
+    } (BasicMultPanelModule);
+    t.HolyLightMonica = e,
+    __reflect(e.prototype, "holyLightMonica.HolyLightMonica")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+holyLightMonica; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.holyLightMonica_CMD = 43300,
+        t
+    } ();
+    t.CMDConst = e,
+    __reflect(e.prototype, "holyLightMonica.CMDConst")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+holyLightMonica; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.MAIN_PANEL = "holyLightMonica.MainPanel",
+        t.LIQIN_YAOWANG_PANEL = "holyLightMonica.LiQinYaoWang",
+        t.KUANGBAO_YAOHUANG_PANEL = "holyLightMonica.KuangBaoYaoHuang",
+        t.JITUI_MOZUN_PANEL = "holyLightMonica.JiTuiMoZun",
+        t.TIANZHAN_FENGLING_PANEL = "holyLightMonica.TianZhenFengLing",
+        t.UPGRADE_ABILITY_PANEL = "holyLightMonica.UpgradeAbilityPanel",
+        t
+    } ();
+    t.ModuleConst = e,
+    __reflect(e.prototype, "holyLightMonica.ModuleConst")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+holyLightMonica; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.bossID = 13803,
+            i.curAbility = ["当前能力：每回合全属性+1", "对手无法使用属性技能", "对手每回合全属性-1  自身攻击必定致命一击"],
+            i.curpetCount = [6, 3, 1, 0],
+            i.skinName = t.JiTuiMoZunSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(78, this, "hlm_ji_tui_mo_zun_title_png",
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            this.adaptLeftContent(this.grp_btns),
+            this.addEvents()
+        },
+        i.prototype.beforeUpdate = function() {
+            return Promise.resolve()
+        },
+        i.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnadd,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254210, 1,
+                function() {
+                    KTool.doExchange(11825, 1,
+                    function() {
+                        e.updateValues()
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnyijian1,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254206, 1,
+                function() {
+                    SocketConnection.sendWithPromise(43300, [12, 3]).then(function() {
+                        Alarm.show("已完成击退魔尊。",
+                        function() {
+                            e.service.backToMainPanel(),
+                            EventManager.dispatchEventWith("UpdateMainPanel", !0)
+                        })
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnyijian2,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254207 + e.beatTimes, 1,
+                function() {
+                    SocketConnection.sendWithPromise(43300, [13, 0]).then(function() {
+                        e.updateValues()
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnback,
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            ImageButtonUtil.add(this.btnhelp,
+            function() {
+                tipsPop.TipsPop.openHelpPopById(78)
+            },
+            this),
+            ImageButtonUtil.add(this.btncure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnpet,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnfight,
+            function() {
+                var i = 3 - e.service.getValue(t.AttrConst.daily_level3_times);
+                if (0 >= i) return void BubblerManager.getInstance().showText("您的挑战次数不足！");
+                switch (e.beatTimes) {
+                case 0:
+                    PetManager.getlength() <= 6 && 0 != PetManager.getlength() && FightManager.fightNoMapBoss("", e.bossID + e.beatTimes);
+                    break;
+                case 1:
+                    PetManager.getlength() <= 3 ? FightManager.fightNoMapBoss("", e.bossID + e.beatTimes) : BubblerManager.getInstance().showText("出战精灵数量不满足条件！");
+                    break;
+                case 2:
+                    1 == PetManager.getlength() ? FightManager.fightNoMapBoss("", e.bossID + e.beatTimes) : BubblerManager.getInstance().showText("出战精灵数量不满足条件！")
+                }
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            var e = this,
+            i = 3 - this.service.getValue(t.AttrConst.daily_level3_times),
+            n = this.service.getValue(t.AttrConst.forever_level1and3_state),
+            a = this.service.getValue(t.AttrConst.forever_level_state);
+            this.beatTimes = n >> 8 & 15;
+            var r = 0 >= i;
+            a >= 3 && Alarm.show("已完成击退魔尊。",
+            function() {
+                e.service.backToMainPanel()
+            }),
+            3 > a && (this.txt_name.text = this.curAbility[this.beatTimes], 2 == this.beatTimes && (this.txt_name.x = 10), this.beatTime.text = this.beatTimes + "/3", this.petCount.text = this.curpetCount[this.beatTimes].toString(), this.timesLeftText.text = "剩余挑战次数:" + i.toString(), DisplayUtil.setEnabled(this.btnadd, r, !r))
+        },
+        i
+    } (BasicPanel);
+    t.JiTuiMoZun = e,
+    __reflect(e.prototype, "holyLightMonica.JiTuiMoZun")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+holyLightMonica; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.forever_pet_state = 104483,
+        t.forever_level_state = 104484,
+        t.forever_level1and3_state = 104485,
+        t.forever_level2_damage = 104486,
+        t.forever_level4_turn_1 = 104487,
+        t.forever_level4_turn_2 = 104488,
+        t.forever_level4_state = 104489,
+        t.daily_level1_times = 16921,
+        t.daily_level2_times = 16922,
+        t.daily_level3_times = 16923,
+        t.daily_level4_times_1 = 16924,
+        t.daily_level4_times_2 = 16925,
+        t.daily_level4_times_3 = 16926,
+        t.daily_upgrade_times = 16927,
+        t.yue = 106472,
+        t
+    } ();
+    t.AttrConst = e,
+    __reflect(e.prototype, "holyLightMonica.AttrConst")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+holyLightMonica; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.LiQinYaoWangSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(76, this, "hlm_li_qon_yao_wang_toptitle_png",
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            this.addEvents()
+        },
+        i.prototype.beforeUpdate = function() {
+            return Promise.resolve()
+        },
+        i.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnadd,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254203, 1,
+                function() {
+                    KTool.doExchange(11823, 1,
+                    function() {
+                        e.updateValues()
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnyijian,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254202, 1,
+                function() {
+                    SocketConnection.sendWithPromise(43300, [12, 1]).then(function() {
+                        Alarm.show("已完成力擒妖王。",
+                        function() {
+                            e.service.backToMainPanel(),
+                            EventManager.dispatchEventWith("UpdateMainPanel", !0)
+                        })
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnback,
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            ImageButtonUtil.add(this.btnhelp,
+            function() {
+                tipsPop.TipsPop.openHelpPopById(76)
+            },
+            this),
+            ImageButtonUtil.add(this.btnfight,
+            function() {
+                var i = 3 - e.service.getValue(t.AttrConst.daily_level1_times);
+                return 0 >= i ? void BubblerManager.getInstance().showText("您的挑战次数不足！") : void(e.isclickFight || (e.isclickFight = !0, SocketConnection.sendByQueue(CommandID.FIGHT_TRY_USE_PET, [859 + e.curBos, 0, 0, 0, 0, 0])))
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            var e = this;
+            this.isclickFight = !1;
+            var i = this.service.getValue(t.AttrConst.forever_level_state),
+            n = 3 - this.service.getValue(t.AttrConst.daily_level1_times),
+            a = this.service.getValue(t.AttrConst.forever_level1and3_state);
+            this.curBos = 15 & a;
+            for (var r = 0 >= n,
+            _ = 0; 3 > _; _++) {
+                var o = 5 * this.curBos + 5;
+                15 == o && (o = 20),
+                this["img_" + _].visible = this.curBos == _,
+                this.turn.text = "当前目标：对战" + o + "个回合后撤退"
+            }
+            this.timeLeftText.text = "剩余挑战次数:" + n.toString() + "/3",
+            DisplayUtil.setEnabled(this.btnadd, r, !r),
+            i >= 1 && Alarm.show("已完成力擒妖王。",
+            function() {
+                e.service.backToMainPanel()
+            })
+        },
+        i
+    } (BasicPanel);
+    t.LiQinYaoWang = e,
+    __reflect(e.prototype, "holyLightMonica.LiQinYaoWang")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+holyLightMonica; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.MainPanelSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "",
+            function() {
+                t.service.closeModule()
+            },
+            this),
+            this.addEvents()
+        },
+        i.prototype.beforeAdd = function() {
+            StatLogger.log("20211022版本系统功能", "圣光莫妮卡", "进入圣光莫妮卡面板")
+        },
+        i.prototype.beforeUpdate = function() {
+            return Promise.resolve()
+        },
+        i.prototype.addEvents = function() {
+            var e = this;
+            EventManager.addEventListener("UpdateMainPanel",
+            function() {
+                e.updateValues()
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                PetManager.showPetIntroduce(3711)
+            },
+            this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                e.service.closeModule()
+            },
+            this),
+            ImageButtonUtil.add(this.yijian,
+            function() {
+                if (e.txt_yijian.visible) {
+                    if (!PayManager.canPay()) return void Alarm.show("暂未开放，敬请期待！");
+                    if (!PetManager.isDefaultPet(3355)) return void Alert.show("请先将莫妮卡设为首发精灵再开始圣化！",
+                    function() {
+                        e.service.showPetBag()
+                    });
+                    KTool.buyProductByCallback(254201, 1,
+                    function() {
+                        SocketConnection.sendWithPromise(43300, [11, 1]).then(function() {
+                            e.updateValues()
+                        })
+                    },
+                    e)
+                }
+                e.txt_start.visible && (PetManager.isDefaultPet(3355) ? SocketConnection.sendByQueue(t.CMDConst.holyLightMonica_CMD, [11, 2],
+                function() {
+                    e.service.updateValues().then(function() {
+                        e.update()
+                    })
+                }) : Alert.show("请先将莫妮卡设为首发精灵再开始圣化！",
+                function() {
+                    e.service.showPetBag()
+                })),
+                e.txt_up.visible && e.service.openPanel(t.ModuleConst.UPGRADE_ABILITY_PANEL)
+            },
+            this),
+            ImageButtonUtil.add(this.btngo,
+            function() {
+                StatLogger.log("20211022版本系统功能", "圣光莫妮卡", "点击前往获得前置形态按钮"),
+                ModuleManager.showModuleByID(19, {
+                    monId: 17,
+                    isclosederectly: !0
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btn_1,
+            function() {
+                StatLogger.log("20211022版本系统功能", "圣光莫妮卡", "进入力擒妖王关卡"),
+                e.service.openPanel(t.ModuleConst.LIQIN_YAOWANG_PANEL)
+            },
+            this),
+            ImageButtonUtil.add(this.btn_2,
+            function() {
+                StatLogger.log("20211022版本系统功能", "圣光莫妮卡", "进入狂暴妖皇关卡"),
+                e.service.openPanel(t.ModuleConst.KUANGBAO_YAOHUANG_PANEL)
+            },
+            this),
+            ImageButtonUtil.add(this.btn_3,
+            function() {
+                StatLogger.log("20211022版本系统功能", "圣光莫妮卡", "进入击退魔尊关卡"),
+                e.service.openPanel(t.ModuleConst.JITUI_MOZUN_PANEL)
+            },
+            this),
+            ImageButtonUtil.add(this.btn_4,
+            function() {
+                StatLogger.log("20211022版本系统功能", "圣光莫妮卡", "进入天阵封灵关卡"),
+                e.service.openPanel(t.ModuleConst.TIANZHAN_FENGLING_PANEL)
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            for (var e = this.service.getValue(t.AttrConst.forever_pet_state), i = this.service.getValue(t.AttrConst.forever_level_state), n = !!KTool.getBit(e, 1), a = 4; a > 0; a--) {
+                var r = i >= a,
+                _ = n || r;
+                this["beat_" + a].visible = _,
+                this["btn_" + a].touchEnabled = !_,
+                this["btn_" + a].filters = null,
+                4 > a && !r && DisplayUtil.setEnabled(this["btn_" + (a + 1)], r, !r)
+            }
+            this.txt_yijian.visible = !(i >= 4),
+            this.txt_start.visible = i >= 4 && !n,
+            this.txt_up.visible = n
+        },
+        i
+    } (BasicPanel);
+    t.MainPanel = e,
+    __reflect(e.prototype, "holyLightMonica.MainPanel")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+holyLightMonica; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.skinName = t.TianZhenFengLingSkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(79, this, "hlm_tian_zhen_feng_ling_toptitle_png",
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            this.adaptLeftContent(this.grp_btns),
+            this.addEvents(),
+            this.setmask()
+        },
+        i.prototype.setmask = function() {
+            this.maskjindu = new egret.Sprite,
+            this.maskjindu.graphics.lineStyle(0),
+            this.maskjindu.graphics.beginFill(16711935),
+            this.maskjindu.graphics.drawRect(this.jindutiao.x + this.jindutiao.width / 2, this.jindutiao.y + this.jindutiao.height / 2, 250, 250),
+            this.maskjindu.graphics.endFill(),
+            this.maskjindu.x = -125,
+            this.zhen.addChild(this.maskjindu),
+            this.jindutiao.mask = this.maskjindu
+        },
+        i.prototype.noOpen = function() {
+            Alarm.show("暂未开放，敬请期待")
+        },
+        i.prototype.getTurnData = function(t) {
+            var e = {};
+            switch (t) {
+            case 0:
+                e.percent = .9,
+                e.progress = 25,
+                e.fail = 0;
+                break;
+            case 1:
+                e.percent = .8,
+                e.progress = 20,
+                e.fail = 10;
+                break;
+            case 2:
+                e.percent = .7,
+                e.progress = 18,
+                e.fail = 15;
+                break;
+            case 3:
+                e.percent = .6,
+                e.progress = 15,
+                e.fail = 20;
+                break;
+            case 4:
+                e.percent = .5,
+                e.progress = 12,
+                e.fail = 25;
+                break;
+            case 5:
+            case 6:
+                e.percent = .4,
+                e.progress = 10,
+                e.fail = 30;
+                break;
+            case 7:
+            case 8:
+                e.percent = .3,
+                e.progress = 8,
+                e.fail = 35;
+                break;
+            case 9:
+            case 10:
+                e.percent = .2,
+                e.progress = 5,
+                e.fail = 40;
+                break;
+            case 11:
+            case 12:
+            case 13:
+            case 14:
+                e.percent = .1,
+                e.progress = 2,
+                e.fail = 45;
+                break;
+            default:
+                e.percent = 0,
+                e.progress = 0,
+                e.fail = 50
+            }
+            return e
+        },
+        i.prototype.checkfinish = function() {
+            var e = this;
+            FightManager.isWin && this.service.updateSomeValues([t.AttrConst.forever_level4_turn_1, t.AttrConst.forever_level4_turn_2]).then(function() {
+                e.curturn_1 = e.service.getValue(t.AttrConst.forever_level4_turn_1),
+                e.curturn_2 = e.service.getValue(t.AttrConst.forever_level4_turn_2),
+                e.btngather_1.visible = !(1 == e.group),
+                e.btnregather_1.visible = 1 == e.group,
+                e.btngather_2.visible = !(2 == e.group),
+                e.btnregather_2.visible = 2 == e.group,
+                0 != e.curturn_1 && 0 != e.curturn_2 && Alarm.show("两位圣光精灵王已完成凝聚圣力，可以点击法阵开始凝聚圣力，若对凝聚成功率不满意可重新凝聚圣力！")
+            })
+        },
+        i.prototype.refresh = function() {
+            var t = this;
+            this.service.updateValues().then(function() {
+                t.update()
+            })
+        },
+        i.prototype.addEvents = function() {
+            var e = this;
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.checkfinish, this),
+            EventManager.addEventListener("refresh", this.refresh, this),
+            ImageButtonUtil.add(this.btnyijian,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254211, 1,
+                function() {
+                    SocketConnection.sendWithPromise(43300, [12, 4]).then(function() {
+                        EventManager.removeEventListener("refresh", e.refresh, e),
+                        Alarm.show("已完成天阵封灵。",
+                        function() {
+                            e.service.backToMainPanel(),
+                            EventManager.dispatchEventWith("UpdateMainPanel", !0)
+                        })
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this);
+            for (var i = function(t) {
+                ImageButtonUtil.add(n["btnadd_" + t],
+                function() {
+                    var i = t;
+                    return PayManager.canPay() ? void KTool.buyProductByCallback(254212 + i - 1, 1,
+                    function() {
+                        KTool.doExchange(11826 + i - 1, 1,
+                        function() {
+                            e.updateValues()
+                        })
+                    },
+                    e) : void Alarm.show("暂未开放，敬请期待！")
+                },
+                n)
+            },
+            n = this, a = 1; 2 >= a; a++) i(a);
+            ImageButtonUtil.add(this.btnhelp,
+            function() {
+                tipsPop.TipsPop.openHelpPopById(79)
+            },
+            this),
+            ImageButtonUtil.add(this.btnback,
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            ImageButtonUtil.add(this.btncure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnpet,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btngather_1,
+            function() {
+                e.group = 1;
+                var i = 3 - e.service.getValue(t.AttrConst.daily_level4_times_1);
+                return 0 >= i ? void BubblerManager.getInstance().showText("您的挑战次数不足！") : void FightManager.fightNoMapBoss("", 13806)
+            },
+            this),
+            ImageButtonUtil.add(this.btnregather_1,
+            function() {
+                e.group = 1,
+                Alert.show("重新灌注会覆盖上次灌注使用的回合数，是否确定重新开始灌注？",
+                function() {
+                    var i = 3 - e.service.getValue(t.AttrConst.daily_level4_times_1);
+                    return 0 >= i ? void BubblerManager.getInstance().showText("您的挑战次数不足！") : void FightManager.fightNoMapBoss("", 13806)
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btngather_2,
+            function() {
+                e.group = 2;
+                var i = 3 - e.service.getValue(t.AttrConst.daily_level4_times_2);
+                return 0 >= i ? void BubblerManager.getInstance().showText("您的挑战次数不足！") : void FightManager.fightNoMapBoss("", 13807)
+            },
+            this),
+            ImageButtonUtil.add(this.btnregather_2,
+            function() {
+                e.group = 2,
+                Alert.show("重新灌注会覆盖上次灌注使用的回合数，是否确定重新开始灌注？",
+                function() {
+                    var i = 3 - e.service.getValue(t.AttrConst.daily_level4_times_2);
+                    return 0 >= i ? void BubblerManager.getInstance().showText("您的挑战次数不足！") : void FightManager.fightNoMapBoss("", 13807)
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnfeng,
+            function() {
+                StatLogger.log("20211022版本系统功能", "圣光莫妮卡", "在天阵封灵中点击封灵按钮"),
+                e.service.updateValues().then(function() {
+                    e.curturn_1 = e.service.getValue(t.AttrConst.forever_level4_turn_1),
+                    e.curturn_2 = e.service.getValue(t.AttrConst.forever_level4_turn_2);
+                    var i = e.getTurnData(Math.abs(e.curturn_2 - e.curturn_1)),
+                    n = new t.GuanZhupop(i, e.service);
+                    PopViewManager.getInstance().openView(n)
+                })
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            var e = this,
+            i = 3 - this.service.getValue(t.AttrConst.daily_level4_times_1),
+            n = 3 - this.service.getValue(t.AttrConst.daily_level4_times_2),
+            a = this.service.getValue(t.AttrConst.forever_level_state);
+            this.curturn_1 = this.service.getValue(t.AttrConst.forever_level4_turn_1),
+            this.curturn_2 = this.service.getValue(t.AttrConst.forever_level4_turn_2);
+            var r = this.service.getValue(t.AttrConst.forever_level4_state),
+            _ = 0 >= i,
+            o = 0 >= n,
+            s = this.curturn_1 > 0 && this.curturn_2 > 0;
+            this.curProgress = 255 & r,
+            this.btngather_1.visible = this.curturn_1 <= 0,
+            this.btnregather_1.visible = this.curturn_1 > 0,
+            this.btngather_2.visible = this.curturn_2 <= 0,
+            this.btnregather_2.visible = this.curturn_2 > 0,
+            this.timeLeftText1.text = "剩余挑战次数:" + i,
+            this.timeLeftText2.text = "剩余挑战次数:" + n,
+            this.turnText_1.text = "" + this.curturn_1,
+            this.turnText_2.text = "" + this.curturn_2,
+            this.progresText.text = this.curProgress + "%",
+            this.maskjindu.y = 119 - this.curProgress / 100 * 238,
+            a >= 4 && Alarm.show("已完成天阵封灵。",
+            function() {
+                EventManager.removeEventListener("refresh", e.refresh, e),
+                e.service.backToMainPanel()
+            }),
+            DisplayUtil.setEnabled(this.btnadd_1, _, !_),
+            DisplayUtil.setEnabled(this.btnadd_2, o, !o),
+            DisplayUtil.setEnabled(this.btnfeng, s, !s)
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.checkfinish, this),
+            EventManager.removeEventListener("refresh", this.refresh, this)
+        },
+        i
+    } (BasicPanel);
+    t.TianZhenFengLing = e,
+    __reflect(e.prototype, "holyLightMonica.TianZhenFengLing")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+holyLightMonica; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var i = e.call(this) || this;
+            return i.itemId = 1717759,
+            i.markId = 41363,
+            i.bossId = 13808,
+            i.skillId = 32519,
+            i.state = [!1, !1, !1, !1],
+            i.skinName = t.UpgradeAbilitySkin,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.initOldPveBtnClose(80, this, "hlm_upgrade_ability_toptitle_png",
+            function() {
+                t.service.backToMainPanel()
+            },
+            this),
+            this.adaptLeftContent(this.grp_btns),
+            this.service.registerItemUpdateForText(this.itemId, this.itemNumText, this)
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnadditem,
+            function() {
+                if (!PayManager.canPay()) return void Alarm.show("暂未开放，敬请期待！");
+                var t = {};
+                t.type = "product_diamond",
+                t.ins = {
+                    iconID: 1717759,
+                    productID: 254216
+                },
+                t.caller = e,
+                t.callBack = function(t, i) {
+                    KTool.buyProductByCallback(254216, i,
+                    function() {
+                        KTool.doExchange(11830, i,
+                        function() {
+                            e.updateValues()
+                        })
+                    })
+                },
+                ModuleManager.showModuleByID(1, t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnaddtimes,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254215, 1,
+                function() {
+                    KTool.doExchange(11829, 1,
+                    function() {
+                        e.updateValues()
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this),
+            ImageButtonUtil.add(this.btncure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnpet,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnback,
+            function() {
+                e.service.backToMainPanel()
+            },
+            this),
+            ImageButtonUtil.add(this.btnhelp,
+            function() {
+                tipsPop.TipsPop.openHelpPopById(80)
+            },
+            this);
+            for (var i = function(i) {
+                ImageButtonUtil.add(n["btnfight_" + i],
+                function() {
+                    var n = 3 - e.service.getValue(t.AttrConst.daily_upgrade_times);
+                    return 0 >= n ? void BubblerManager.getInstance().showText("您的挑战次数不足！") : void FightManager.fightNoMapBoss("", e.bossId + i)
+                },
+                n)
+            },
+            n = this, a = 0; 3 > a; a++) i(a);
+            for (var a = 0; 3 > a; a++) this["btndui_" + a].index = a,
+            ImageButtonUtil.add(this["btndui_" + a], this.exchange, this);
+            ImageButtonUtil.add(this.icon_1,
+            function() {
+                var t;
+                CountermarkXMLInfo.isminMark(e.markId) ? (t = {},
+                t.ins = e.markId, tipsPop.TipsPop.openCounterMarkPop(t)) : (t = {},
+                t.id = e.markId, tipsPop.TipsPop.openItemPop(t))
+            },
+            this),
+            ImageButtonUtil.add(this.icon_2,
+            function() {
+                var t = {
+                    id: e.skillId
+                };
+                tipsPop.TipsPop.openSkillPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_3,
+            function() {
+                e.service.showPetEff(3711)
+            },
+            this)
+        },
+        i.prototype.exchange = function(e) {
+            var i = this,
+            n = e.currentTarget.index,
+            a = 20;
+            if (PetManager.isDefaultPet(3711)) {
+                var r = ItemManager.getNumByID(this.itemId);
+                r >= a ? SocketConnection.sendByQueue(t.CMDConst.holyLightMonica_CMD, [15, n + 1],
+                function() {
+                    i.service.updateValues().then(function() {
+                        switch (n) {
+                        case 2:
+                            BubblerManager.getInstance().showText("您已成功兑换专属特性！");
+                            break;
+                        case 1:
+                            BubblerManager.getInstance().showText("您已成功兑换第五技能！")
+                        }
+                        i.update()
+                    })
+                }):
+                BubblerManager.getInstance().showText("兑换需要20个自然圣力，请先获得足够数量再来兑换！")
+            } else BubblerManager.getInstance().showText("请先将圣光莫妮卡设为首发精灵！");
+            this.update()
+        },
+        i.prototype.noOpen = function() {
+            Alarm.show("暂未开放，敬请期待！")
+        },
+        i.prototype.update = function() {
+            this.itemNum = ItemManager.getNumByID(this.itemId),
+            this.leftTime = 3 - this.service.getValue(t.AttrConst.daily_upgrade_times);
+            var e = this.service.getValue(t.AttrConst.forever_pet_state),
+            i = this.leftTime <= 0;
+            this.state[0] = 1 == KTool.getBit(e, 1);
+            for (var n = 0; 3 > n; n++) this.state[n + 1] = !!KTool.getBit(e, n + 2),
+            this["imgGet_" + n].visible = this.state[n + 1],
+            this["icon_" + (n + 1)].touchEnabled = !this.state[n + 1],
+            DisplayUtil.setEnabled(this["btndui_" + n], !this.state[n + 1]);
+            this.timeLeftText.text = this.leftTime.toString(),
+            this.itemNumText.text = this.itemNum.toString(),
+            DisplayUtil.setEnabled(this.btnaddtimes, i, !i)
+        },
+        i.prototype.destroy = function() {
+            this.service.unregisterItems(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BasicPanel);
+    t.UpgradeAbilityPanel = e,
+    __reflect(e.prototype, "holyLightMonica.UpgradeAbilityPanel")
+} (holyLightMonica || (holyLightMonica = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+holyLightMonica; !
+function(t) {
+    var e = function(e) {
+        function i(i, n) {
+            var a = e.call(this) || this;
+            return a.datas = i,
+            a.service = n,
+            a.skinName = t.GuanZhuPopSkin,
+            a
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvents(),
+            this.update()
+        },
+        i.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                PopViewManager.getInstance().hideView(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnadd,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(254214, 1,
+                function() {
+                    KTool.doExchange(11828, 1,
+                    function() {
+                        e.service.updateValues().then(function() {
+                            e.update()
+                        })
+                    })
+                },
+                e) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this),
+            ImageButtonUtil.add(this.btnguan,
+            function() {
+                var i = 1 - e.service.getValue(t.AttrConst.daily_level4_times_3),
+                n = e.service.getValue(t.AttrConst.forever_level4_state),
+                a = 1 == KTool.getBit(n, 9),
+                r = 1 == KTool.getBit(n, 10);
+                return 0 >= i ? void BubblerManager.getInstance().showText("您的灌注次数不足！") : void(a && r ? SocketConnection.sendByQueue(t.CMDConst.holyLightMonica_CMD, [14, 1],
+                function() {
+                    e.service.updateValues().then(function() {
+                        var i = e.service.getValue(t.AttrConst.forever_level4_state),
+                        n = 255 & i;
+                        e.curProgress < n ? Alarm.show("恭喜你本次灌注圣力成功，封灵进度增加了" + e.datas.progress + "%",
+                        function() {
+                            EventManager.dispatchEventWith("refresh"),
+                            PopViewManager.getInstance().hideView(e)
+                        }) : e.curProgress >= n && Alarm.show("很遗憾，本次灌注圣力失败，封灵进度下降了" + e.datas.fail + "%，请重新凝聚圣力后再来灌注！",
+                        function() {
+                            EventManager.dispatchEventWith("refresh"),
+                            PopViewManager.getInstance().hideView(e)
+                        }),
+                        e.update()
+                    })
+                }) : BubblerManager.getInstance().showText("您尚未击败两个boss"))
+            },
+            this)
+        },
+        i.prototype.update = function() {
+            var e = 1 - this.service.getValue(t.AttrConst.daily_level4_times_3),
+            i = this.service.getValue(t.AttrConst.forever_level4_state);
+            this.curProgress = 255 & i,
+            this.timeLeftText3.text = "剩余灌注次数:" + e,
+            this.turnText_3.text = 100 * this.datas.percent + "%",
+            DisplayUtil.setEnabled(this.btnadd, 0 == e, 0 != e)
+        },
+        i.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i
+    } (PopView);
+    t.GuanZhupop = e,
+    __reflect(e.prototype, "holyLightMonica.GuanZhupop")
+} (holyLightMonica || (holyLightMonica = {})),
+window.holyLightMonica = window.holyLightMonica || {};
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/GuanZhuPopSkin.exml"] = window.holyLightMonica.GuanZhuPopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnClose", "timeLeftText3", "btnadd", "times", "btnguan", "turnText_3", "progress"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.btnClose_i(), this._Image2_i(), this.times_i(), this.btnguan_i(), this.progress_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_guan_zhu_pop_bg_png",
+        t.x = 375,
+        t.y = 59,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "hlm_guan_zhu_pop_btnclose_png",
+        t.x = 737,
+        t.y = 55,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_guan_zhu_pop_5000_png",
+        t.x = 354,
+        t.y = 91,
+        t
+    },
+    i.times_i = function() {
+        var t = new eui.Group;
+        return this.times = t,
+        t.x = 450,
+        t.y = 509,
+        t.elementsContent = [this._Image3_i(), this.timeLeftText3_i(), this.btnadd_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.timeLeftText3_i = function() {
+        var t = new eui.Label;
+        return this.timeLeftText3 = t,
+        t.size = 18,
+        t.text = "剩余灌注次数：3",
+        t.textColor = 16247179,
+        t.x = 33,
+        t.y = 8,
+        t
+    },
+    i.btnadd_i = function() {
+        var t = new eui.Image;
+        return this.btnadd = t,
+        t.source = "hlm_kuang_bao_yao_huang_btnadd_png",
+        t.x = 184,
+        t.y = 0,
+        t
+    },
+    i.btnguan_i = function() {
+        var t = new eui.Image;
+        return this.btnguan = t,
+        t.source = "hlm_guan_zhu_pop_btnguan_png",
+        t.x = 460,
+        t.y = 432,
+        t
+    },
+    i.progress_i = function() {
+        var t = new eui.Group;
+        return this.progress = t,
+        t.x = 431,
+        t.y = 393,
+        t.elementsContent = [this._Image4_i(), this._Label1_i(), this.turnText_3_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_infobg_png",
+        t.width = 300,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.text = "本次灌注成功率：",
+        t.textColor = 16777215,
+        t.x = 32,
+        t.y = 10,
+        t
+    },
+    i.turnText_3_i = function() {
+        var t = new eui.Label;
+        return this.turnText_3 = t,
+        t.size = 24,
+        t.text = "100%",
+        t.textColor = 16772183,
+        t.x = 196,
+        t.y = 8,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/JiTuiMoZunSkin.exml"] = window.holyLightMonica.JiTuiMoZunSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["petCount", "beatTime", "txt_name", "timesLeftText", "btnadd", "btnpet", "btncure", "grp_btns", "btnyijian1", "btnfight", "btnyijian2", "btnhelp", "btnback", "top"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this._Image4_i(), this._Image5_i(), this._Group1_i(), this._Group2_i(), this._Group3_i(), this.grp_btns_i(), this.btnyijian1_i(), this.btnfight_i(), this.btnyijian2_i(), this.top_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.percentHeight = 100,
+        t.source = "hlm_kuang_bao_yao_huang_bg_jpg",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.percentHeight = 100,
+        t.source = "hlm_ji_tui_mo_zun_3683_kb_png",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_3683_png",
+        t.visible = !0,
+        t.x = 35,
+        t.y = 0,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_li_qin_yao_wang_juxing_14_png",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_li_qin_yao_wang_tuceng_1_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 486,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 790,
+        t.y = 325,
+        t.elementsContent = [this._Image6_i(), this._Image7_i(), this._Image8_i(), this._Label1_i(), this.petCount_i(), this._Image9_i(), this._Label2_i(), this.beatTime_i(), this._Image10_i()],
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_info1bg_png",
+        t.x = 7,
+        t.y = 7,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_jx_15_kb_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_info2bg_png",
+        t.x = 10,
+        t.y = 6,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.stroke = 1,
+        t.strokeColor = 14657142,
+        t.text = "当前可出战精灵数量：",
+        t.textColor = 16777215,
+        t.x = 56,
+        t.y = 64,
+        t
+    },
+    i.petCount_i = function() {
+        var t = new eui.Label;
+        return this.petCount = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "6",
+        t.textColor = 16772183,
+        t.x = 288,
+        t.y = 65,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_dot_png",
+        t.x = 21,
+        t.y = 60,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.stroke = 1,
+        t.strokeColor = 14657142,
+        t.text = "已击败次数：",
+        t.textColor = 16777215,
+        t.x = 57,
+        t.y = 25,
+        t
+    },
+    i.beatTime_i = function() {
+        var t = new eui.Label;
+        return this.beatTime = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "0/3",
+        t.textColor = 16772183,
+        t.x = 198,
+        t.y = 25,
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_dot_png",
+        t.x = 21,
+        t.y = 20,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 362,
+        t.y = 59,
+        t.elementsContent = [this._Image11_i(), this.txt_name_i()],
+        t
+    },
+    i._Image11_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_infobg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_name_i = function() {
+        var t = new eui.Label;
+        return this.txt_name = t,
+        t.background = !1,
+        t.blendMode = "add",
+        t.bold = !1,
+        t.border = !1,
+        t.cacheAsBitmap = !1,
+        t.displayAsPassword = !1,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.italic = !1,
+        t.size = 20,
+        t.text = "当前能力：每回合全属性+1",
+        t.textAlign = "center",
+        t.textColor = 16047567,
+        t.x = 80,
+        t.y = 11,
+        t
+    },
+    i._Group3_i = function() {
+        var t = new eui.Group;
+        return t.x = 447,
+        t.y = 595,
+        t.elementsContent = [this._Image12_i(), this.timesLeftText_i(), this.btnadd_i()],
+        t
+    },
+    i._Image12_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.timesLeftText_i = function() {
+        var t = new eui.Label;
+        return this.timesLeftText = t,
+        t.size = 18,
+        t.text = "剩余挑战次数：3",
+        t.textColor = 16247179,
+        t.x = 33,
+        t.y = 8,
+        t
+    },
+    i.btnadd_i = function() {
+        var t = new eui.Image;
+        return this.btnadd = t,
+        t.source = "hlm_kuang_bao_yao_huang_btnadd_png",
+        t.x = 184,
+        t.y = 0,
+        t
+    },
+    i.grp_btns_i = function() {
+        var t = new eui.Group;
+        return this.grp_btns = t,
+        t.x = 23,
+        t.y = 413,
+        t.elementsContent = [this.btnpet_i(), this.btncure_i()],
+        t
+    },
+    i.btnpet_i = function() {
+        var t = new eui.Image;
+        return this.btnpet = t,
+        t.source = "hlm_kuang_bao_yao_huang_imgbtn_pet_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btncure_i = function() {
+        var t = new eui.Image;
+        return this.btncure = t,
+        t.source = "hlm_kuang_bao_yao_huang_imgbtn_cure_png",
+        t.x = 0,
+        t.y = 72,
+        t
+    },
+    i.btnyijian1_i = function() {
+        var t = new eui.Image;
+        return this.btnyijian1 = t,
+        t.bottom = 10,
+        t.height = 100,
+        t.right = 11,
+        t.source = "hlm_kuang_bao_yao_huang_btnyijian_png",
+        t.width = 100,
+        t
+    },
+    i.btnfight_i = function() {
+        var t = new eui.Image;
+        return this.btnfight = t,
+        t.height = 77,
+        t.source = "hlm_kuang_bao_yao_huang_btnfight_png",
+        t.width = 239,
+        t.x = 304,
+        t.y = 518,
+        t
+    },
+    i.btnyijian2_i = function() {
+        var t = new eui.Image;
+        return this.btnyijian2 = t,
+        t.height = 77,
+        t.source = "hlm_kuang_bao_yao_huang_btnyijian1_png",
+        t.width = 239,
+        t.x = 594,
+        t.y = 518,
+        t
+    },
+    i.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image13_i(), this._Image14_i(), this._Image15_i(), this.btnhelp_i(), this.btnback_i()],
+        t
+    },
+    i._Image13_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_main_panel_up_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image14_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_xz_1_png",
+        t.x = 96,
+        t.y = 49,
+        t
+    },
+    i._Image15_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_title_png",
+        t.x = 107,
+        t.y = 11,
+        t
+    },
+    i.btnhelp_i = function() {
+        var t = new eui.Image;
+        return this.btnhelp = t,
+        t.source = "hlm_kuang_bao_yao_huang_help_png",
+        t.x = 244,
+        t.y = 9,
+        t
+    },
+    i.btnback_i = function() {
+        var t = new eui.Image;
+        return this.btnback = t,
+        t.source = "hlm_main_panel_btnclose_png",
+        t.x = 31,
+        t.y = 6,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/KuangBaoYaoHuangSkin.exml"] = window.holyLightMonica.KuangBaoYaoHuangSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgqing", "imgkuang", "damageText", "timesLeftText", "btnadd", "times", "btnfight", "btnpet", "btncure", "grp_btns", "btnyijian", "btnhelp", "btnback", "top"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.imgqing_i(), this.imgkuang_i(), this._Group1_i(), this._Group2_i(), this.grp_btns_i(), this.btnyijian_i(), this.top_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.percentHeight = 100,
+        t.source = "hlm_kuang_bao_yao_huang_bg_jpg",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_3686_png",
+        t.visible = !0,
+        t.x = 46,
+        t.y = 0,
+        t
+    },
+    i.imgqing_i = function() {
+        var t = new eui.Image;
+        return this.imgqing = t,
+        t.source = "hlm_kuang_bao_yao_huang_qing_png",
+        t.visible = !0,
+        t.x = 829,
+        t.y = 116,
+        t
+    },
+    i.imgkuang_i = function() {
+        var t = new eui.Image;
+        return this.imgkuang = t,
+        t.source = "hlm_kuang_bao_yao_huang_kuang_png",
+        t.x = 829,
+        t.y = 116,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 362,
+        t.y = 59,
+        t.elementsContent = [this._Image3_i(), this._Label1_i(), this.damageText_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 40,
+        t.source = "hlm_ji_tui_mo_zun_infobg_png",
+        t.width = 412,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.text = "已累计伤害：",
+        t.textColor = 16047567,
+        t.x = 84,
+        t.y = 11,
+        t
+    },
+    i.damageText_i = function() {
+        var t = new eui.Label;
+        return this.damageText = t,
+        t.size = 30,
+        t.text = "50000/50000",
+        t.textColor = 16777215,
+        t.x = 208,
+        t.y = 5,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 447,
+        t.y = 518,
+        t.elementsContent = [this.times_i(), this.btnfight_i()],
+        t
+    },
+    i.times_i = function() {
+        var t = new eui.Group;
+        return this.times = t,
+        t.x = 0,
+        t.y = 77,
+        t.elementsContent = [this._Image4_i(), this.timesLeftText_i(), this.btnadd_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.timesLeftText_i = function() {
+        var t = new eui.Label;
+        return this.timesLeftText = t,
+        t.size = 18,
+        t.text = "剩余挑战次数：3",
+        t.textColor = 16247179,
+        t.x = 33,
+        t.y = 8,
+        t
+    },
+    i.btnadd_i = function() {
+        var t = new eui.Image;
+        return this.btnadd = t,
+        t.source = "hlm_kuang_bao_yao_huang_btnadd_png",
+        t.x = 184,
+        t.y = 0,
+        t
+    },
+    i.btnfight_i = function() {
+        var t = new eui.Image;
+        return this.btnfight = t,
+        t.source = "hlm_kuang_bao_yao_huang_btnfight_png",
+        t.x = 12,
+        t.y = 0,
+        t
+    },
+    i.grp_btns_i = function() {
+        var t = new eui.Group;
+        return this.grp_btns = t,
+        t.x = 23,
+        t.y = 413,
+        t.elementsContent = [this.btnpet_i(), this.btncure_i()],
+        t
+    },
+    i.btnpet_i = function() {
+        var t = new eui.Image;
+        return this.btnpet = t,
+        t.source = "hlm_kuang_bao_yao_huang_imgbtn_pet_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btncure_i = function() {
+        var t = new eui.Image;
+        return this.btncure = t,
+        t.source = "hlm_kuang_bao_yao_huang_imgbtn_cure_png",
+        t.x = 0,
+        t.y = 72,
+        t
+    },
+    i.btnyijian_i = function() {
+        var t = new eui.Image;
+        return this.btnyijian = t,
+        t.bottom = 10,
+        t.height = 100,
+        t.right = 11,
+        t.source = "hlm_kuang_bao_yao_huang_btnyijian_png",
+        t.width = 100,
+        t
+    },
+    i.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image5_i(), this.btnhelp_i(), this._Image6_i(), this._Image7_i(), this.btnback_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_main_panel_up_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnhelp_i = function() {
+        var t = new eui.Image;
+        return this.btnhelp = t,
+        t.source = "hlm_kuang_bao_yao_huang_help_png",
+        t.x = 244,
+        t.y = 9,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_xz_1_png",
+        t.x = 96,
+        t.y = 49,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_toptitle_png",
+        t.x = 107,
+        t.y = 11,
+        t
+    },
+    i.btnback_i = function() {
+        var t = new eui.Image;
+        return this.btnback = t,
+        t.source = "hlm_main_panel_btnclose_png",
+        t.x = 31,
+        t.y = 6,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/LiQinYaoWangSkin.exml"] = window.holyLightMonica.LiQinYaoWangSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_0", "img_2", "img_1", "vs", "turn", "timeLeftText", "btnadd", "btnfight", "btnyijian", "btnhelp", "btnback"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.img_0_i(), this.img_2_i(), this.img_1_i(), this._Image2_i(), this._Image3_i(), this._Image4_i(), this.vs_i(), this._Image5_i(), this.turn_i(), this._Group1_i(), this.btnfight_i(), this.btnyijian_i(), this._Group2_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.percentHeight = 100,
+        t.source = "hlm_kuang_bao_yao_huang_bg_jpg",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.img_0_i = function() {
+        var t = new eui.Image;
+        return this.img_0 = t,
+        t.right = 0,
+        t.source = "hlm_li_qin_yao_wang_3698_png",
+        t.visible = !0,
+        t.x = 1087,
+        t.y = 2,
+        t
+    },
+    i.img_2_i = function() {
+        var t = new eui.Image;
+        return this.img_2 = t,
+        t.right = 0,
+        t.source = "hlm_li_qin_yao_wang_3709_png",
+        t.visible = !0,
+        t.x = 1052,
+        t.y = 40,
+        t
+    },
+    i.img_1_i = function() {
+        var t = new eui.Image;
+        return this.img_1 = t,
+        t.right = 0,
+        t.source = "hlm_li_qin_yao_wang_3704_png",
+        t.visible = !0,
+        t.x = 1052,
+        t.y = 36,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.left = 0,
+        t.source = "hlm_li_qin_yao_wang_wmm_2_png",
+        t.visible = !0,
+        t.y = 18,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.percentHeight = 100,
+        t.source = "hlm_li_qin_yao_wang_juxing_14_png",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_li_qin_yao_wang_tuceng_1_png",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 486,
+        t
+    },
+    i.vs_i = function() {
+        var t = new eui.Image;
+        return this.vs = t,
+        t.height = 264,
+        t.horizontalCenter = 2,
+        t.source = "hlm_li_qin_yao_wang_vs_png",
+        t.width = 202,
+        t.y = 187,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 40,
+        t.source = "hlm_ji_tui_mo_zun_infobg_png",
+        t.visible = !0,
+        t.width = 412,
+        t.x = 362,
+        t.y = 59,
+        t
+    },
+    i.turn_i = function() {
+        var t = new eui.Label;
+        return this.turn = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.text = "当前目标：对战5个回合后撤退",
+        t.textColor = 16047567,
+        t.x = 425,
+        t.y = 70,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.visible = !0,
+        t.x = 447,
+        t.y = 595,
+        t.elementsContent = [this._Image6_i(), this.timeLeftText_i(), this.btnadd_i()],
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.timeLeftText_i = function() {
+        var t = new eui.Label;
+        return this.timeLeftText = t,
+        t.size = 18,
+        t.text = "剩余挑战次数：3",
+        t.textColor = 16247179,
+        t.x = 33,
+        t.y = 8,
+        t
+    },
+    i.btnadd_i = function() {
+        var t = new eui.Image;
+        return this.btnadd = t,
+        t.source = "hlm_kuang_bao_yao_huang_btnadd_png",
+        t.x = 184,
+        t.y = 0,
+        t
+    },
+    i.btnfight_i = function() {
+        var t = new eui.Image;
+        return this.btnfight = t,
+        t.source = "hlm_kuang_bao_yao_huang_btnfight_png",
+        t.visible = !0,
+        t.x = 459,
+        t.y = 518,
+        t
+    },
+    i.btnyijian_i = function() {
+        var t = new eui.Image;
+        return this.btnyijian = t,
+        t.bottom = 10,
+        t.height = 100,
+        t.right = 11,
+        t.source = "hlm_kuang_bao_yao_huang_btnyijian_png",
+        t.visible = !0,
+        t.width = 100,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image7_i(), this._Image8_i(), this._Image9_i(), this.btnhelp_i(), this.btnback_i()],
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_main_panel_up_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_xz_1_png",
+        t.x = 96,
+        t.y = 49,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_li_qon_yao_wang_toptitle_png",
+        t.x = 107,
+        t.y = 11,
+        t
+    },
+    i.btnhelp_i = function() {
+        var t = new eui.Image;
+        return this.btnhelp = t,
+        t.source = "hlm_kuang_bao_yao_huang_help_png",
+        t.x = 244,
+        t.y = 9,
+        t
+    },
+    i.btnback_i = function() {
+        var t = new eui.Image;
+        return this.btnback = t,
+        t.source = "hlm_main_panel_btnclose_png",
+        t.x = 31,
+        t.y = 6,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MainPanelSkin.exml"] = window.holyLightMonica.MainPanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btngo", "btn_4", "btn_3", "btn_2", "btn_1", "beat_1", "beat_2", "beat_3", "beat_4", "buttons", "btnInfo", "btns", "txt_yijian", "txt_start", "txt_up", "yijian", "up_bg", "btnClose", "top"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this.buttons_i(), this._Image3_i(), this.btnInfo_i(), this.yijian_i(), this.top_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.percentHeight = 100,
+        t.source = "hlm_main_panel_bg_jpg",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.bottom = 15,
+        t.right = 0,
+        t.elementsContent = [this.btngo_i(), this._Image2_i(), this._Label1_i()],
+        t
+    },
+    i.btngo_i = function() {
+        var t = new eui.Image;
+        return this.btngo = t,
+        t.source = "hlm_main_panel_btnget_png",
+        t.x = 87,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_main_panel_img_j_png",
+        t.x = 39,
+        t.y = 81,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.text = "进化必需",
+        t.textColor = 16372604,
+        t.x = 0,
+        t.y = 56,
+        t
+    },
+    i.buttons_i = function() {
+        var t = new eui.Group;
+        return this.buttons = t,
+        t.right = 95,
+        t.width = 240,
+        t.y = 75,
+        t.elementsContent = [this.btn_4_i(), this.btn_3_i(), this.btn_2_i(), this.btn_1_i(), this.beat_1_i(), this.beat_2_i(), this.beat_3_i(), this.beat_4_i()],
+        t
+    },
+    i.btn_4_i = function() {
+        var t = new eui.Image;
+        return this.btn_4 = t,
+        t.source = "hlm_main_panel_btn4_png",
+        t.x = 0,
+        t.y = 300,
+        t
+    },
+    i.btn_3_i = function() {
+        var t = new eui.Image;
+        return this.btn_3 = t,
+        t.source = "hlm_main_panel_btn3_png",
+        t.x = 0,
+        t.y = 200,
+        t
+    },
+    i.btn_2_i = function() {
+        var t = new eui.Image;
+        return this.btn_2 = t,
+        t.source = "hlm_main_panel_btn2_png",
+        t.x = 0,
+        t.y = 101,
+        t
+    },
+    i.btn_1_i = function() {
+        var t = new eui.Image;
+        return this.btn_1 = t,
+        t.source = "hlm_main_panel_btn1_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.beat_1_i = function() {
+        var t = new eui.Image;
+        return this.beat_1 = t,
+        t.source = "hlm_main_panel_beat_1_png",
+        t.x = 17,
+        t.y = 12,
+        t
+    },
+    i.beat_2_i = function() {
+        var t = new eui.Image;
+        return this.beat_2 = t,
+        t.source = "hlm_main_panel_beat_1_png",
+        t.x = 17,
+        t.y = 115,
+        t
+    },
+    i.beat_3_i = function() {
+        var t = new eui.Image;
+        return this.beat_3 = t,
+        t.source = "hlm_main_panel_beat_1_png",
+        t.x = 17,
+        t.y = 215,
+        t
+    },
+    i.beat_4_i = function() {
+        var t = new eui.Image;
+        return this.beat_4 = t,
+        t.source = "hlm_main_panel_beat_1_png",
+        t.x = 17,
+        t.y = 315,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_main_panel_juxing_16_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnInfo = t,
+        t.source = "hlm_main_panel_btninfo_png",
+        t.x = 25,
+        t.y = 548,
+        t
+    },
+    i.yijian_i = function() {
+        var t = new eui.Group;
+        return this.yijian = t,
+        t.x = 237,
+        t.y = 546,
+        t.elementsContent = [this.btns_i(), this.txt_yijian_i(), this.txt_start_i(), this.txt_up_i()],
+        t
+    },
+    i.btns_i = function() {
+        var t = new eui.Image;
+        return this.btns = t,
+        t.source = "hlm_main_panel_btnyijian_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_yijian_i = function() {
+        var t = new eui.Label;
+        return this.txt_yijian = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 36,
+        t.text = "至尊圣化",
+        t.textColor = 16777215,
+        t.visible = !0,
+        t.x = 51,
+        t.y = 22,
+        t
+    },
+    i.txt_start_i = function() {
+        var t = new eui.Label;
+        return this.txt_start = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 36,
+        t.text = "开始圣化",
+        t.textColor = 16777215,
+        t.visible = !0,
+        t.x = 51,
+        t.y = 22,
+        t
+    },
+    i.txt_up_i = function() {
+        var t = new eui.Label;
+        return this.txt_up = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 36,
+        t.text = "能力提升",
+        t.textColor = 16777215,
+        t.visible = !0,
+        t.x = 51,
+        t.y = 22,
+        t
+    },
+    i.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.up_bg_i(), this.btnClose_i()],
+        t
+    },
+    i.up_bg_i = function() {
+        var t = new eui.Image;
+        return this.up_bg = t,
+        t.source = "hlm_main_panel_up_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "hlm_main_panel_btnclose_png",
+        t.x = 29,
+        t.y = 6,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/TianZhenFengLingSkin.exml"] = window.holyLightMonica.TianZhenFengLingSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["progresText", "jindutiao1", "jindutiao", "btnfeng", "zhen", "timeLeftText2", "btnadd_2", "txtright", "btnregather_2", "turnText_2", "turnright", "btngather_2", "btnregather_1", "timeLeftText1", "btnadd_1", "txtleft", "btngather_1", "turnText_1", "turnleft", "btnyijian", "btnhelp", "btnback", "top", "btnpet", "btncure", "grp_btns"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.zhen_i(), this._Group1_i(), this._Group2_i(), this.btnyijian_i(), this.top_i(), this.grp_btns_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.percentHeight = 100,
+        t.source = "hlm_tian_zhen_feng_ling_bg_jpg",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.zhen_i = function() {
+        var t = new eui.Group;
+        return this.zhen = t,
+        t.horizontalCenter = 8,
+        t.y = 117,
+        t.elementsContent = [this.progresText_i(), this._Label1_i(), this.jindutiao1_i(), this.jindutiao_i(), this.btnfeng_i()],
+        t
+    },
+    i.progresText_i = function() {
+        var t = new eui.Label;
+        return this.progresText = t,
+        t.height = 24,
+        t.size = 24,
+        t.text = "100%",
+        t.textAlign = "center",
+        t.textColor = 16772183,
+        t.width = 62,
+        t.x = 92,
+        t.y = 290,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 24,
+        t.stroke = 1,
+        t.strokeColor = 13399583,
+        t.text = "封灵进度",
+        t.textColor = 16777215,
+        t.x = 80,
+        t.y = 255,
+        t
+    },
+    i.jindutiao1_i = function() {
+        var t = new eui.Image;
+        return this.jindutiao1 = t,
+        t.source = "hlm_tian_zhen_feng_ling_jindutiao_1_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.jindutiao_i = function() {
+        var t = new eui.Image;
+        return this.jindutiao = t,
+        t.source = "hlm_tian_zhen_feng_ling_jindutiao_png",
+        t.visible = !0,
+        t.x = 7,
+        t.y = 8,
+        t
+    },
+    i.btnfeng_i = function() {
+        var t = new eui.Image;
+        return this.btnfeng = t,
+        t.source = "hlm_tian_zhen_feng_ling_btnfeng_png",
+        t.x = 70,
+        t.y = 64,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.right = 183,
+        t.visible = !0,
+        t.y = 459,
+        t.elementsContent = [this.txtright_i(), this.btnregather_2_i(), this.turnright_i(), this.btngather_2_i()],
+        t
+    },
+    i.txtright_i = function() {
+        var t = new eui.Group;
+        return this.txtright = t,
+        t.x = 0,
+        t.y = 116,
+        t.elementsContent = [this._Image2_i(), this.timeLeftText2_i(), this.btnadd_2_i()],
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.timeLeftText2_i = function() {
+        var t = new eui.Label;
+        return this.timeLeftText2 = t,
+        t.size = 18,
+        t.text = "剩余挑战次数：3",
+        t.textColor = 16247179,
+        t.x = 33,
+        t.y = 8,
+        t
+    },
+    i.btnadd_2_i = function() {
+        var t = new eui.Image;
+        return this.btnadd_2 = t,
+        t.source = "hlm_kuang_bao_yao_huang_btnadd_png",
+        t.x = 184,
+        t.y = 0,
+        t
+    },
+    i.btnregather_2_i = function() {
+        var t = new eui.Image;
+        return this.btnregather_2 = t,
+        t.source = "hlm_tian_zhen_feng_ling_btnregather_2_png",
+        t.x = 13,
+        t.y = 39,
+        t
+    },
+    i.turnright_i = function() {
+        var t = new eui.Group;
+        return this.turnright = t,
+        t.x = 3,
+        t.y = 0,
+        t.elementsContent = [this._Image3_i(), this._Label2_i(), this.turnText_2_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_infobg_png",
+        t.width = 250,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.stroke = 1,
+        t.strokeColor = 13399583,
+        t.text = "凝聚使用回合数：",
+        t.textColor = 16777215,
+        t.x = 40,
+        t.y = 10,
+        t
+    },
+    i.turnText_2_i = function() {
+        var t = new eui.Label;
+        return this.turnText_2 = t,
+        t.size = 24,
+        t.text = "00",
+        t.textColor = 16772183,
+        t.x = 205,
+        t.y = 8,
+        t
+    },
+    i.btngather_2_i = function() {
+        var t = new eui.Image;
+        return this.btngather_2 = t,
+        t.source = "hlm_tian_zhen_feng_ling_btngather_1_png",
+        t.x = 13,
+        t.y = 39,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.left = 180,
+        t.visible = !0,
+        t.y = 459,
+        t.elementsContent = [this.btnregather_1_i(), this.txtleft_i(), this.btngather_1_i(), this.turnleft_i()],
+        t
+    },
+    i.btnregather_1_i = function() {
+        var t = new eui.Image;
+        return this.btnregather_1 = t,
+        t.source = "hlm_tian_zhen_feng_ling_btnregather_2_png",
+        t.x = 13,
+        t.y = 39,
+        t
+    },
+    i.txtleft_i = function() {
+        var t = new eui.Group;
+        return this.txtleft = t,
+        t.x = 0,
+        t.y = 116,
+        t.elementsContent = [this._Image4_i(), this.timeLeftText1_i(), this.btnadd_1_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_numbg_png",
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.timeLeftText1_i = function() {
+        var t = new eui.Label;
+        return this.timeLeftText1 = t,
+        t.size = 18,
+        t.text = "剩余挑战次数：3",
+        t.textColor = 16247179,
+        t.x = 33,
+        t.y = 8,
+        t
+    },
+    i.btnadd_1_i = function() {
+        var t = new eui.Image;
+        return this.btnadd_1 = t,
+        t.source = "hlm_kuang_bao_yao_huang_btnadd_png",
+        t.x = 184,
+        t.y = 0,
+        t
+    },
+    i.btngather_1_i = function() {
+        var t = new eui.Image;
+        return this.btngather_1 = t,
+        t.source = "hlm_tian_zhen_feng_ling_btngather_1_png",
+        t.x = 13,
+        t.y = 39,
+        t
+    },
+    i.turnleft_i = function() {
+        var t = new eui.Group;
+        return this.turnleft = t,
+        t.x = 3,
+        t.y = 0,
+        t.elementsContent = [this._Image5_i(), this._Label3_i(), this.turnText_1_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_ji_tui_mo_zun_infobg_png",
+        t.width = 250,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Label3_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.stroke = 1,
+        t.strokeColor = 13399583,
+        t.text = "凝聚使用回合数：",
+        t.textColor = 16777215,
+        t.x = 40,
+        t.y = 10,
+        t
+    },
+    i.turnText_1_i = function() {
+        var t = new eui.Label;
+        return this.turnText_1 = t,
+        t.size = 24,
+        t.text = "00",
+        t.textColor = 16772183,
+        t.x = 205,
+        t.y = 8,
+        t
+    },
+    i.btnyijian_i = function() {
+        var t = new eui.Image;
+        return this.btnyijian = t,
+        t.bottom = 10,
+        t.height = 100,
+        t.right = 11,
+        t.source = "hlm_kuang_bao_yao_huang_btnyijian_png",
+        t.width = 100,
+        t
+    },
+    i.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image6_i(), this._Image7_i(), this._Image8_i(), this.btnhelp_i(), this.btnback_i()],
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_main_panel_up_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_tian_zhen_feng_ling_toptitle_png",
+        t.x = 107,
+        t.y = 11,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_xz_1_png",
+        t.x = 96,
+        t.y = 49,
+        t
+    },
+    i.btnhelp_i = function() {
+        var t = new eui.Image;
+        return this.btnhelp = t,
+        t.source = "hlm_kuang_bao_yao_huang_help_png",
+        t.x = 244,
+        t.y = 9,
+        t
+    },
+    i.btnback_i = function() {
+        var t = new eui.Image;
+        return this.btnback = t,
+        t.source = "hlm_main_panel_btnclose_png",
+        t.x = 31,
+        t.y = 6,
+        t
+    },
+    i.grp_btns_i = function() {
+        var t = new eui.Group;
+        return this.grp_btns = t,
+        t.x = 23,
+        t.y = 413,
+        t.elementsContent = [this.btnpet_i(), this.btncure_i()],
+        t
+    },
+    i.btnpet_i = function() {
+        var t = new eui.Image;
+        return this.btnpet = t,
+        t.source = "hlm_kuang_bao_yao_huang_imgbtn_pet_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btncure_i = function() {
+        var t = new eui.Image;
+        return this.btncure = t,
+        t.source = "hlm_kuang_bao_yao_huang_imgbtn_cure_png",
+        t.x = 0,
+        t.y = 72,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/UpgradeAbilitySkin.exml"] = window.holyLightMonica.UpgradeAbilitySkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnpet", "btncure", "grp_btns", "btndui_0", "icon_1", "imgGet_0", "a", "icon_2", "btndui_1", "imgGet_1", "b", "icon_3", "btndui_2", "imgGet_2", "c", "btnfight_0", "btnfight_1", "btnfight_2", "btnback", "btnhelp", "top", "itemNumText", "btnadditem", "icon", "righttop", "timeLeftText", "btnaddtimes", "righttop_2"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.grp_btns_i(), this._Group1_i(), this.btnfight_0_i(), this.btnfight_1_i(), this.btnfight_2_i(), this.top_i(), this.righttop_i(), this.righttop_2_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.percentHeight = 100,
+        t.source = "hlm_upgrade_ability_bg_jpg",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_upgrade_ability_tuceng_19_png",
+        t.visible = !0,
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 460,
+        t
+    },
+    i.grp_btns_i = function() {
+        var t = new eui.Group;
+        return this.grp_btns = t,
+        t.x = 24,
+        t.y = 257,
+        t.elementsContent = [this.btnpet_i(), this.btncure_i()],
+        t
+    },
+    i.btnpet_i = function() {
+        var t = new eui.Image;
+        return this.btnpet = t,
+        t.source = "hlm_kuang_bao_yao_huang_imgbtn_pet_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btncure_i = function() {
+        var t = new eui.Image;
+        return this.btncure = t,
+        t.source = "hlm_kuang_bao_yao_huang_imgbtn_cure_png",
+        t.x = 0,
+        t.y = 72,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.right = 34,
+        t.visible = !0,
+        t.y = 15,
+        t.elementsContent = [this._Image3_i(), this.a_i(), this.b_i(), this.c_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_upgrade_ability_juxing_12_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.a_i = function() {
+        var t = new eui.Group;
+        return this.a = t,
+        t.x = 74,
+        t.y = 91,
+        t.elementsContent = [this._Label1_i(), this._Image4_i(), this.btndui_0_i(), this.icon_1_i(), this.imgGet_0_i()],
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "专属刻印",
+        t.textColor = 16777215,
+        t.x = 157,
+        t.y = 8,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_upgrade_ability_juxing_13_png",
+        t.x = 118,
+        t.y = 41,
+        t
+    },
+    i.btndui_0_i = function() {
+        var t = new eui.Image;
+        return this.btndui_0 = t,
+        t.source = "hlm_upgrade_ability_btndui_png",
+        t.x = 140,
+        t.y = 57,
+        t
+    },
+    i.icon_1_i = function() {
+        var t = new eui.Image;
+        return this.icon_1 = t,
+        t.source = "hlm_upgrade_ability_icon_ke_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.imgGet_0_i = function() {
+        var t = new eui.Image;
+        return this.imgGet_0 = t,
+        t.height = 22,
+        t.source = "hlm_upgrade_ability_imgGet_png",
+        t.width = 110,
+        t.x = 0,
+        t.y = 45,
+        t
+    },
+    i.b_i = function() {
+        var t = new eui.Group;
+        return this.b = t,
+        t.x = 74,
+        t.y = 249,
+        t.elementsContent = [this.icon_2_i(), this._Label2_i(), this._Image5_i(), this.btndui_1_i(), this.imgGet_1_i()],
+        t
+    },
+    i.icon_2_i = function() {
+        var t = new eui.Image;
+        return this.icon_2 = t,
+        t.source = "hlm_upgrade_ability_icon_wu_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "第五技能",
+        t.textColor = 16777215,
+        t.x = 157,
+        t.y = 6,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_upgrade_ability_jx_13_kb_png",
+        t.x = 118,
+        t.y = 39,
+        t
+    },
+    i.btndui_1_i = function() {
+        var t = new eui.Image;
+        return this.btndui_1 = t,
+        t.source = "hlm_upgrade_ability_btndui_png",
+        t.x = 140,
+        t.y = 55,
+        t
+    },
+    i.imgGet_1_i = function() {
+        var t = new eui.Image;
+        return this.imgGet_1 = t,
+        t.height = 22,
+        t.source = "hlm_upgrade_ability_imgGet_png",
+        t.width = 110,
+        t.x = 0,
+        t.y = 45,
+        t
+    },
+    i.c_i = function() {
+        var t = new eui.Group;
+        return this.c = t,
+        t.x = 74,
+        t.y = 407,
+        t.elementsContent = [this._Label3_i(), this._Image6_i(), this.icon_3_i(), this.btndui_2_i(), this.imgGet_2_i()],
+        t
+    },
+    i._Label3_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 22,
+        t.text = "专属特性",
+        t.textColor = 16777215,
+        t.x = 157,
+        t.y = 6,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_upgrade_ability_jx_13_kb_2_png",
+        t.x = 118,
+        t.y = 39,
+        t
+    },
+    i.icon_3_i = function() {
+        var t = new eui.Image;
+        return this.icon_3 = t,
+        t.source = "hlm_upgrade_ability_icon_te_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btndui_2_i = function() {
+        var t = new eui.Image;
+        return this.btndui_2 = t,
+        t.source = "hlm_upgrade_ability_btndui_png",
+        t.x = 140,
+        t.y = 55,
+        t
+    },
+    i.imgGet_2_i = function() {
+        var t = new eui.Image;
+        return this.imgGet_2 = t,
+        t.height = 22,
+        t.source = "hlm_upgrade_ability_imgGet_png",
+        t.width = 110,
+        t.x = 0,
+        t.y = 45,
+        t
+    },
+    i.btnfight_0_i = function() {
+        var t = new eui.Image;
+        return this.btnfight_0 = t,
+        t.source = "hlm_upgrade_ability_btnfight_0_png",
+        t.x = 127,
+        t.y = 554,
+        t
+    },
+    i.btnfight_1_i = function() {
+        var t = new eui.Image;
+        return this.btnfight_1 = t,
+        t.source = "hlm_upgrade_ability_btnfight_1_png",
+        t.x = 280,
+        t.y = 554,
+        t
+    },
+    i.btnfight_2_i = function() {
+        var t = new eui.Image;
+        return this.btnfight_2 = t,
+        t.source = "hlm_upgrade_ability_btnfight_2_png",
+        t.x = 433,
+        t.y = 554,
+        t
+    },
+    i.top_i = function() {
+        var t = new eui.Group;
+        return this.top = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 1,
+        t.elementsContent = [this._Image7_i(), this._Image8_i(), this.btnback_i(), this.btnhelp_i(), this._Image9_i()],
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_main_panel_up_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_kuang_bao_yao_huang_xz_1_png",
+        t.visible = !0,
+        t.x = 96,
+        t.y = 49,
+        t
+    },
+    i.btnback_i = function() {
+        var t = new eui.Image;
+        return this.btnback = t,
+        t.source = "hlm_main_panel_btnclose_png",
+        t.x = 33,
+        t.y = 7,
+        t
+    },
+    i.btnhelp_i = function() {
+        var t = new eui.Image;
+        return this.btnhelp = t,
+        t.source = "hlm_kuang_bao_yao_huang_help_png",
+        t.x = 244,
+        t.y = 9,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_upgrade_ability_toptitle_png",
+        t.x = 109,
+        t.y = 10,
+        t
+    },
+    i.righttop_i = function() {
+        var t = new eui.Group;
+        return this.righttop = t,
+        t.right = 264,
+        t.y = 10,
+        t.elementsContent = [this._Image10_i(), this.itemNumText_i(), this._Label4_i(), this.btnadditem_i(), this.icon_i()],
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_upgrade_ability_img_di1_png",
+        t.width = 190,
+        t.x = -15,
+        t.y = 0,
+        t
+    },
+    i.itemNumText_i = function() {
+        var t = new eui.Label;
+        return this.itemNumText = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 18.0101510119682,
+        t.text = "9999",
+        t.textColor = 16039779,
+        t.x = 110,
+        t.y = 2,
+        t
+    },
+    i._Label4_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 18.0101510119682,
+        t.text = "自然圣力:",
+        t.textColor = 16039778,
+        t.x = 30,
+        t.y = 2,
+        t
+    },
+    i.btnadditem_i = function() {
+        var t = new eui.Image;
+        return this.btnadditem = t,
+        t.height = 25,
+        t.source = "hlm_upgrade_ability_btnadd_0_png",
+        t.width = 25,
+        t.x = 150,
+        t.y = -2,
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.height = 37,
+        t.source = "hlm_upgrade_ability_icon_png",
+        t.width = 35,
+        t.x = -8.547,
+        t.y = -11.606,
+        t
+    },
+    i.righttop_2_i = function() {
+        var t = new eui.Group;
+        return this.righttop_2 = t,
+        t.right = 34,
+        t.y = 10,
+        t.elementsContent = [this._Image11_i(), this.timeLeftText_i(), this._Label5_i(), this.btnaddtimes_i()],
+        t
+    },
+    i._Image11_i = function() {
+        var t = new eui.Image;
+        return t.source = "hlm_upgrade_ability_img_di1_png",
+        t.width = 200,
+        t.x = 10,
+        t.y = 0,
+        t
+    },
+    i.timeLeftText_i = function() {
+        var t = new eui.Label;
+        return this.timeLeftText = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.size = 18.0101510119682,
+        t.text = "00",
+        t.textColor = 16039779,
+        t.x = 156,
+        t.y = 2,
+        t
+    },
+    i._Label5_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 18.0101510119682,
+        t.text = "今日可挑战次数：",
+        t.textColor = 16039779,
+        t.x = 19,
+        t.y = 2,
+        t
+    },
+    i.btnaddtimes_i = function() {
+        var t = new eui.Image;
+        return this.btnaddtimes = t,
+        t.height = 25,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "hlm_upgrade_ability_btnadd_0_png",
+        t.width = 25,
+        t.x = 185,
+        t.y = -2,
+        t
+    },
+    e
+} (eui.Skin);

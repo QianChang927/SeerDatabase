@@ -1,1 +1,583 @@
-eval(function(){function Z(Z){for(k=J=0;k<Z;)c<2&&(c=64,C=92<(C="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[wP:LZ=XuL`?KBJ;:^>m<P:Y[U_:=_kBtiVRJ<sPa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:FP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBA^>m:_wi:bJkCZkHF@lJ[?UiN>Zw<=kP<=osV[lS:A_:WlR:;M:HXn;UU^l[>`t^I=G?MUG[:@spWQbo=`VsKJoMgw=EDvHUyokPH>bDwCSYJd:_:;>J@k:SMk:AFP:;C?Z:CZ:=?<:Fnv:<>SJDQ?sR[uJokeFDi^>iBeOO>PDkBlwL<Jj;LkZRGQqwAJM=:Zk_e@SR=aA;;w=_a;[Wn@;@;RB:D[lsZ=F>]:BlrW`ZF::PLsiAtwctzp]uc_;::pZF:ABZ:<q?oyTFyYk;Bc[oE[wF;;dR``<^HSZo]FM]]PsEfoJbidrHbbkLA]w;R:@?sEssI>VTlmgLgNSuLG^ZwJuZkl@s^@sAAsdsY`LTgByH<ML:JQ::>CFW<b?Z:OJDLABBA]wPd?::Ki[coZH:K;=Om?kcwIKtRTYggQ[FB<U:os<UKQZnVeJCxTq;m:JOrP:?CTkJZM;sV]px:e`]sU^<:=NVcs`yjVAJSwYyrA<iOecsCZB<n[JztbdZA<ZUNN;BBJ>[sE>Cc:>cyb:w;h;BleP^wzl:e<WdsX<L?w::oiDA:W^XLdF>Z;J:@cz>kV=VFRFdJZ:f=<:=gFcPBLKK]@cztV^m=[CHZlZk[Rt>VCKAvcAP]@:dyf>m^<@_:@mVYlLTP[]c[e>Dhf]dDG^L_]_bLYgbKZGos=RgR?]E^<ymTJ:YAZylI_yekS`cH^@FCAD]Um;<;gS;@aJ<Y;JL:XmACJV>GHJ_fc<:QE:AZwMcVwfl=>kOs:BDDZ<NTNLZmUsc@M=e@`V<:i`gMVRycM<@pY::DE:A>hsv^Pu@WhqrPxJ:Fj;VMcYsqAYGTy?Zd<gBB]Gxv_::>_OZCJB<sB:HD@`:cf^EwKN:Cdw:C^s_ZtP;Ifh;:ZHcUSs>ZhMLDTu[ydsBQn@CV[w;lZR]UxRNjZVgbmWKh>FNlE?gSlI?wKWX`s]NkPDe?s_vGCS>NOKbtDXZD`y@l@_khdA@uY_eG]AZ<;YS?RcL`DLCBb:N_PHda=:LJ::grFV<JabVy^bBZyCk[eEOxPGQ@ENAA:fpkDNQJE]R?[hDtA`ZGtMtZFBOuTGcf@]t^zp@UBCbFnRgOwI?;leE;w@dUs@Qn?`HOh<wUlkBOt:`P:SNOUJXDfIH=`CBvmNL=XNTt_OY^c:VhMLr@gil<UroRyEti^CUNQPvUxi[@pdYJKPstWj>DpYZ<wgY>@^k^?QGWsWl]UNy]aBrV_[=v?P:oG_qQ=IKqOXxfN:sgEhbtJGlmHWwLZBVDZXeYiOE:jFa;sybPGZ:BfFVlr<wnD:<VQ?wFRwEkbkLHQWNPXK_MMNQ::K>Dipb@zY=duGrCvbBFH>>r:rtEQ[=<FyNB::VZ:CCo:=MaZ;jbo:IhyZ;wdN:Ew;Iwru:?ypJ:RQe:=xjJ:=>dRF:CoHZ;jlN:=Z>Z;vtN:@>SZ:ptN:EZ>Z:qdo:B:@Z:Jho:@eTZ;@dPsc:BrM:=ytazWevOmuOafEPBXnSKt=KvHHDXjl>:Z@[bI;XONl;bqtam=_WtV:_;ZScdySt`:G^vAq?:qtWm=KjC<;cHtN:gP>:XA:A;C]]_mD:k:ICu:>gbFyZ:BVm[@YJ:duT::;xJ:ote:=tMJ:Z:a:;[zZ:ICoXw>:j==^T::VZ:FJB:J@M@>eMrD:AYck:V@T;F:E@DZ;MVp]J:XZLXZWmIw_JkZF<Rglu>`MxN:WR`Zh]q:HDVLshlFKJ@:@wrJ:Raa:>dGJ:=eT:<dnJ:[rT:@URk:Sme:>;zcKsKml]FAcqDKvRS>MnnZJEyu:O>Ip>FowlUMEAv_uWoyl^syaiIVPzJ:MvfoHsTgoK:wC?UCA^gwXV^;n][GDoXR_l^_cmveVdZd^nbhDgSy@luNX`rHoIoltlL[a:?OxJ:ngeoEcWk`S?Rzs:F@g:o;s=B>kBJLZ^;P<w?>GBPJk:rrD:A[=<[lMTAFIRWkZKvnpaYIfGwpgjnilvCg:F::QbZV>QZQJbGCCZNJcKYn_@mdZD>jFGEgMIdRI:uZ<:n:PHJ=VXe=Qe:bIR<>L?MNR^PML=SQn[t<dXfgmic;odZ::@D;nGGDfZe^xC]=HToq?OnsOWFKUVllDDAa=EY`Jk:vV@:AMxJ:ECe:Aa?J:R[RNF:I[aZ:D`pB^DX>==XNoZUdaRFZKm<dp]HbH:vVMbuGvaxMNVS`;zZtEp@ha:rstJJ>ci]Uxx=<oUNzFq;;`;VqAYyAKH:L:VNoX_V<VRL=^_S]kTDG[PoEjUYXMhrU?AJkAPqlNAUQv=hQXitJUxM[:gO<sZWUwY=MozBXfWqWiK[QVddMWR?hojn^?qnyrxx;AiYfibhYUo;jkyD>UZWSS;k;OI>P]X[`NnLsE[@o;??cH_N;>P:];Ddy:nGVVsY:rsP`ab[Poq@>M_=JpTD^PAvJB`PQuEsu@tfNXRz<;ZU@VDVTRy:[OUN=[R]c:KqZ^U`rdA>nJ=:iKkO?:>>BKyF;rdm:N>c=kKgW;u>F<RVkWlf<;>VFsRnUZR:X;`MsKH:JEGJ;<;wW^=AFFEPsw]LuLWfeJ:i<VZL>:z;]=WCy=o:P^N::pKKJA;DDMeLcc<@[U>eJ>CZrtK>o^<E;NKsKSXZS`g^NJHCSYNj`hEa_rsP:_<WNuoQRjlSaHFETdoM<wptZ=IZjGhN<`TrkA@u:RFA<kgt^=wovMZBrZoQ=gb<Hu>UeKw^kq;GiY:QKlU^A`gHZat;xeYADHiU@kuQ^?@HIfRHk]RMk[KFHPatCacoaD:rY_skKMj;`F]A>CBWMdahGA:<j]YMd[DhqT<>sDkN;n^i@>hsQkz[nFZwVoBGUyqTHB[K<xfnPCYFjRCBdZEOpZhF[S@?^TPoWfvNHgWFuQUuF^Tsy:hTyVaSaKzjpbwJryHbSKnQDUy@tG>UavV;UAI_YVWPwEoUQHXfr`RwW`n>jiGATKzEcM]fEj[oZBxf:WqoZIWtsK[M]xQhD?NpB@J@ab:zRoAxjMK[:W@Y;mS[JRHBXPT[qk@AnjAVHVFH>EoPK>[LSpn;D:aJYJt@XsUscHI?uO<ibyXc^Ka]b>k[oOP=_yZ=<@FB>RJcd]nAaBgSRelp]LLq=gER=g;WI@BpaPs>ZmpGnmawFB]IlWosW;txArVYFWme]NYnDRXv_`E;IP_W;uMi]CveSolcnMI<Oplc]C>qJZ;nA:Be;;<UObNGD:NzQCyX[=xuUBYc;:O]H<K]hHRQdta^E@PB<RtNHMM<_YRGYmrq?==YmF;R]k`_dDIjTZDcuhBbwi_?I=IIk<VgjDjHj?k?jCT=j:_AjBYEv<lDY;Y:DGYEYIYG^cS>z<Xjy[zEBBV^z=Q;VZGIiI>BJHcEs=a=Q::HeBJu=gtvUDsHZpnfLUMUKvJAKAMOT>dGMzkZ]:D_dZBHZNdkCBCcDRC_Sof>C_U_ENEoDVeVCVCjlI[YLBKf]JZtKK;ZlI[jkwf<Dqe>:O^weLBzEHdZAx]=ZDDxfJnyds^eB]kindMQla;uEJDi?dJZ=@;J[a=@CJchBPDN>DJBdqDxEKc=Cy;jnXCyB;B[BKBlElDe[CDNLh<R:SCSBtCtC?D`BOEODe[pCw:GCGE;>keQE[A[eKABfHBlel@^DMDnDEB>ea>>=aA]E:AUEP>]cfc_?b;H>Jd;e[>WC[crCKAp>l@ZBjCsfe>]CwdW@P?Hd^lxAZ>:cV:rcZd=A>Z^>N?^Ac:K?BdKdM?ce;DRcsejCVB>ezl<A>fv[]A_dJCLANem>sB>BD?jn_Bgdge;BVegCeA@Ah>]BQupuYuy?lkv]p]ItsAjtGli>Z<J_g=Jbzt`[qf^[aJAZV=F^qCWemsz;J;aKJ:>:>KJ:==ZD>_:ZT?vET>a]uAK:@?jlJ=e=B_gvd:w[afaLg>bR]v^RCv_=OTpSlSJ:GSGU@=^]obo`K;a=euO<R:o`BKL`Zk:<_NBrFFcjsuJhCdo>eOsPNCCELnko>DeL>Fct:ydX:[dLBEc>dL>NBtd[:`dD:ocEcDZ<dTsHdE:_eDeFel>TsPCHCvwyCL:`CGZlCdCtC=cN:ReQdX:X:FenCfCldqdidCdTs[cM:Cct:gJFJnZGHLqSqwBPq>PNPFPkd]PmPsdPd]d<JoJ`PpSAdeS:k]>WRZsjeI:ueae:L`qyZvdCcSdhC@SPSHSP:TPFcUC?:hC:tE:ESUSFer:Fc@eFBFcA>NB?V=SCcxdwSQ:YdPS;:qCR:iCJigocSsSRBSCr@SCL>wB]SBB>thJhCPtL>JtqSaJXS<yZaaqzCcc_PJdwP?SZBOS_tGSX[xSk?TsPtFt]_VtuB]taeA>wB`qldOT=NfwXmj[BCOXBkD?bTbaRZ=T__:KruMTluHuduXu=[zTk@AFwus?WChSNJsuFBa]A[guE?:KmuU>ZKB@[;qc??>@EuIud?Yuqc__Y>`upukDWuyZ=uHs_;[uAFv_hdH[=?l?;;S?K;Z@_@k@fuc@t?s@;uo@g@w@ite>hS@>ZqRiU;]y:BitIHp:FqVCwqkSbHciySf`LyTsJ]gdKZX?dJiH=]raqBDy:;tRWBfy;yJk;sFydctcAtUae>_ks:wJit:ZCRTy@yPy^oiyTOEVNiu:soesEkW_V:R_>Zb;m>VPskx>bNjkN:Aem>skwPZBccKNiobNTOHN=JwkGg:RV:;HcPYiRXiZ`Z?RM`?TnSo?>BFejXy_Qa?[Zeo]w:JDINGCjdL>bKamB;keg]PdupTsHlOoaHkaUyDe<Rz:;JCe[eleye[e<kVJitpeXZkCsJspsC=Z^JA:t_Cm<pqpnempA:INKNcOuCuJ:GINGV[OPJNodO^Bt:?OOOGOWO=OMOqofOvOldQObpGgtRfpF@jgOstNCcuZQ:jN``v`Bi]OmOW`EcaiQo=Xn`wO[SO`ICwiOGR:DOL>FiMGDH]iUXbttqeiOq@iKyzi>_DJxqkXcXqJ;iONNXz`FXlBwXsTMJEJDXh_x_jJzJZkkkymXXQB[XGZDkTkK:@kSXvF?X]N=GZJ`kphxZWkWhtcyNRJyk_k:kwJE]AslOVRbNERsBa:Uh<JbhhRrhgJjhsB=:]eY:BWu>IhYh@ZjZH:LJFWZVRWwWh;i:sXNWDWVWsB;shZD:LJk:A:qN>::cHWTWXWyc:kLJqW_oeWV:sW<WaWlZUwjB;tx]`L;GlCnc;:`LE`jC=cMc:kt:oJCcL:?P:Wvhbh:xv;<Bkxj`QX<hmRJkVXeCZ;sspWgks:u:LJfWYRWtS@NwNsBsV:P<Mg=JP<w]yuW>VwOxZs_;WxS@P`MxUwNwZDN`cDr>P<S_WRBBfxS_rxS@B:Ues:QegOvSP<FS_e_=S@KCrxR?C?X`K;;`zTldH:V:cBH:P:a_u_ldUhwJTcSwa_hwss]gTsjN;:@wPJP:J?_wzxX:^sldlxosV:SCM=ssqoe:wk`Bu>Fcv=ut?:w=:^]=yWVRXxrg;NOsGTc<e=_@Ow_^;Gt:lF;hu>mkMCZBr=kVR:stnxa=BBq=IwLttyyNL^D^;XT^KhUx=xgwJ=Uw?dELxLFcC^IgYgt^xpLkO^ExW^=^D:M^E^N^m^bse^b^c<vxalbxfxj^SxdKn^XkJZd^U^T?g`Muw^JN]Mo^kM?^cMp^E:x[>@NM^d^^gM:MS^PMA^u^>;h^P<oMxL^L<Mf^aMu:BMu^r^GMKMY^CM=MZMv^[hRM@lPlE][M;dbMgckZwM]^LMVRc<P`IwuM^MJMnMqM`MW[GxKmI^AMFMRnrMSMLn?MO^OMunvMBnPnn^HnU^tMYMl;;mSkknMdPnxM_nMMEM;n:n_M@nCnz^>n@Mm^mM_`hu_kVnMn]nEnzMXMTnWnlMqnkEjM`^RE^xAnxnz^tnnnmnQ^:lKnS@hMCMXkSZcJJpCyRskhVdUpV:=BBPKHTZ;xSCgpn[JOP:kEzDtE[HfBs;BBq:WkytZSXC]qdtCCtt_S<BN:pEEC[x>ZNJHct:t_Xy=VE=dxGEMy_:=EInME_OzmJsdxAEicAWJSjEKCzEE:?t?CNwoZwfcfEHt:>fN<a_Wkt_wBwwzPZRQ=I=t]z=]s]f:PMXIMP^j=HgTfFaa^EfY=Pfcky^q=a:LtWk;=TcC=Xy`fa:wBGf>Zt_Fco<LU=dfkCGLkku?xKm^=?V=ViU<fX;wekENGnEcPb=oVBUFZGZqCPiFaTofJX:seecIkco:BxUUfA=[UMUR:EUUUL:AUWU^RUfhE>DdUInYU:vxsvUbU^R?UNypsqO::hB=BuqcFByumPnrF<vhIFEOBiumoBk<AI<@lDtdCd@pgatZ<iO<AVHJqTIX?JueEp<RHez_wchl:BwknRygnyzoMVzyzavyqi[>k<rI:;y_EzYzWym;l]QQ?;kxjmhqsBn;Im`<>[vN<:uvCuhub:HqO[pDveRKz;nC[qrqBfD[tOfDugtKV;yHsI_epuocuelLwXtIAKkNyr;WJ@RXUezlbml@SXQBt;yTrVG>n`XDtDxDuuB@BVt;xisUhrdusmpoNXk?igT_qXvlpmzlnmsCzewCwTsH=X@CoaKBCCkobV;Dr@vClizgcVcdsloWUimeydzulJGsm@rdoXV@NCkDtXND<<EVxyyCtStgpCz@rSqebCpLqwl;r;mtmdwekgqlmmtdvRP;sFpzL@lZpZpZEnE<CmnekSmXNSs?lLYwm<fXKTpSr@x@o;BiWXz@z<HJHipDtZ<izXktn;wtluu`s>y`tPx;k<AzMdsD@@pZI<<pvtkCyOuXkToTp@PS<DlSyJBptZFJnSqe]pyS:[Q?mv=R>`kGmlrvFGpIeGwWntuOwXKlZ?sTsDnXR:vOnhllAD=Xz<GeZtx?`oPHuWqdkG;dlBI`kRpZ<O]OxmrWpT:xwhoDxiLk@hqDlhx`@e;=xCp<=ptpnD=^sWvxkGC[odqcjLqWpX;WumD@kOvXldC=zdx=kLKOsxtXJ^o^lTthy^z@t^vTqej<;xkr=[yui:nuZaNMk@]Ms=vPF=y_:Eq:z[yqMWp=ztsnr=nXMEq::ZI[uxxCl:hnk]GxkrG:pD]Ew`yEyto=ttvNBUzEvlu=y@p:fMrtreshwSp@RUk^pfm^sJo;IUl^yamanD>asPlKpKwPwduUkgwAoZF=yJ=N[ueT<xHS@z>e;uc<@FF]PhCZlTmLXD[VFOveCxPjEXtmkQr:HO<_aehlA<GlDiQV<HOq`>A;KTmHPQt_JAxlGlEZtd;plDxlAhvXx:Zur^Uc@swu;P;QRrXbRbJJDrXrR@OrRO=rMQYrMnLkHnSnYuPIKIWgBAKvSFHJEIOlajrSQtYtc?L?P]PRVTOjMF=jQjPz:^rzOZZ^viNzwySaKOgTRytJxJqyrJnuOkHGnBuM`xeCcB^cHNnB]GwPchRT_LlweqpEwxZ=Mac:YsFFMX_vGE[trRuSVAmFeIyb`qUThhSqL:DFEp?m[lgtiSQXvgfmXt__SNfI<Macr^Bz:L;xsFZRWqYtBKJylIW:NGok>SVCLB:z:YqoBAdK];d:nP:vratN=bX`QDFcyJxsxJ`ZM:gJTkB_>HWk;c:oQbLls?DGByNjH]_HK=TlxsyL:KIgbpMtJ_FyX:<pjqn;uR;oqqY<sDaqEvn;<yArYHesGEsS>qZNBLjfsCfsL:uySPYEB>Fm=:o<BQTPkRRpfuS:PyUJGj[rk=sWW?;;J<_<kG]:y=fqJzFleIq^fppVunWCH^IkV:uhtyX:KY`oaQvworFb`EFdjobcvwSuDzPcLtmwmbwpu?B<z[oLjvHZUyLkHzhYQctRCSaKxIxjYPmuYoYuRrP=`FCg<jx@mgSXRYqLP?JZg>AC=zaJlJ;IhWuIzXwHyrSCZ;p:B^Dzez:_RzFS@z?:x:crH@QFsPpnNZ`]oqUBgRPhkbCcVqHSBgiaEkjS`Vr<RtVI[NEHCeNmaRSkNaw`TsJgp[Sj<iHOkyl_wDy>r<Y[Wk_RQ<FyRB^BKfk`S[FB;R:^KaJB`?fwqaUr=js>Bbdd]GXUZg[[^kh>W<oK@ZhVasBp>SwGd>R]_KoBv>L<`l@bGlakBuKbwr:uV^LKinX_RFB>fN^aKSnUsYLCKARgPKSBh_O]FS@m]ZKXE:`fu?Z@d[s;RCF`d?MN:V_i;RjAJQvArUR`p:yZqc;mQIRmWCPQzSxfgGcRYgBPJ:qc<zPWA_:?HUcjsS>nW?xVsHA=Dva:DJ]X`CNZRhVD[qMCq`^[=bNNVc]o>MgrH@:wr`ZFWAoVYH?BH:H?]Euu[olnPWkKJIds[`e;Bb<?i?kWBbFcihbUb^Dk]ZRg=KqZ[FUkDMAw=oZP`GFMw:n?S]=kHRngYaDOsm<aX?CREfVpEApVWiFQQaHJ=I[M^dlFsuVWl;uuoWhHVRd^ednGuLwEXvcjxaqCJ<S]wlrRjFUWnv?[_`iG:eX@SlA@KWfHob@EhPI]sV][amspnglk`su^_lPb=yZ<qr>W]xlvRrFSBFc>kw]lOQ:NNFkjA`]flfQWf`PFHuy]ulwRtwPiGYAG]MqGZVU^lotUd^Wl@>rwMqFI?Hx^lEjBOehrze`]CPv>LVUHFc`bltlrI=]HikU[>`AlDQNbiJACvR<^iJZaWeBIL@tKiiq>bVMqIrAz]<lgI@ZPSAsT`^nBjFJIc@;MDl_sCDskUZYk?dhVDTUGOsGMLJ^a]omCcRFRi;hs>=;qI>hcAlHnAh]gCS_`:AyHbl@[Re:>qb>l]ItVo@;LZhBXBG]ve=ML<_dwTiHUkfwOgT_kz[dBtev`hCNtEwKSDv>sLwlFOHY:PGVdHLjD>bLwQ@nB_HhgXiIMmK;PwbFMC@m_^UEK_<aHMZduz>o@?EhBKM;CoNn`f?D_?msZdLO>DVtB]vZMNdhvWDLanI^JBtHzORYhBpAvv:Z::".charCodeAt(D++))?C-59:C-58),J|=(0<(C&(c/=2))?1:0)<<k,++k}for(var B,J,k,s,C,t=[],M=1,l=3,w=1,R=[],c=0,D=0;;){if(Z(w+1),2==J)return R.join("");-2&(s=J)||(Z(8*J+8),t[s=l++]=String.fromCharCode(J),--M||(M=2<<w++)),R.push(s=t[s]||B+B[0]),B&&(t[l++]=B+s[0],--M||(M=2<<w++)),B=s}}());
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+nationalDaySignIn2023; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.currProgress = 0,
+            t.hasSignToday = !1,
+            t.currMonth = 0,
+            t.currDate = 0,
+            t.skinName = nationalDaySignIn2023Skin,
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var n = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.btnClose, this.onClose, this);
+            var i = SystemTimerManager.sysBJDate,
+            a = i.getMonth() + 1,
+            o = i.getDate();
+            this.currMonth = a,
+            this.currDate = o,
+            this._list.itemRenderer = t.NationalDaySignInDayItem,
+            KTool.getMultiValue([125071],
+            function(t) {
+                n.currProgress = t[0],
+                KTool.getBitSet([1000625],
+                function(t) {
+                    n.hasSignToday = !!t[0];
+                    for (var e = [], i = 0; 6 > i; ++i) e.push([n.currProgress, n.hasSignToday, o, a]);
+                    n._list.dataProvider = new eui.ArrayCollection(e),
+                    n.updateState7()
+                })
+            }),
+            EventManager.addEventListener(t.NationalDaySignIn2023Event.HAS_SIGN_TODAY,
+            function() {
+                var t = +GsapUtils.clamp(n.currProgress, 5, n.currProgress + 1);
+                KTool.getMultiValue([125071],
+                function(e) {
+                    n.currProgress = e[0],
+                    KTool.getBitSet([1000625],
+                    function(e) {
+                        if (n.hasSignToday = !!e[0], 10 == a && 4 == o && 6 == n.currProgress) n.updateState7();
+                        else {
+                            for (var i = [], r = 0; 6 > r; ++r) i.push([n.currProgress, n.hasSignToday, o, a]);
+                            n._list.dataProvider = new eui.ArrayCollection(i);
+                            var s = n._list.getChildAt(t);
+                            s.updateState([n.currProgress, n.hasSignToday, o, a])
+                        }
+                    })
+                })
+            },
+            this),
+            this.addEventDay7()
+        },
+        n.prototype.addEventDay7 = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnGet_7,
+            function() {
+                SocketConnection.sendByQueue(41950, [33, 1],
+                function() {
+                    t.currentState = "hasGot",
+                    StatLogger.log("20230928版本系统功能", "国庆签到", "点击“可领取”状态的奖励7面板")
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnDefault_7,
+            function() {
+                9 == t.currMonth && 28 == t.currDate ? BubblerManager.getInstance().showText("礼物9月29日开始放送，<font color='#ff0000'>请明日再来</font>", !0) : BubblerManager.getInstance().showText("登陆天数未满足哦！")
+            },
+            this),
+            ImageButtonUtil.add(this.hasGot_7,
+            function() {
+                BubblerManager.getInstance().showText("已领取奖励")
+            },
+            this),
+            ImageButtonUtil.add(this.btnTomorrow_7,
+            function() {
+                BubblerManager.getInstance().showText("明日登录即可领取奖励！"),
+                StatLogger.log("20230928版本系统功能", "国庆签到", "点击任意“明日可领”状态的奖励面板")
+            },
+            this),
+            ImageButtonUtil.add(this.yinziIcon,
+            function() {
+                var t = {};
+                t.id = 2400129,
+                tipsPop.TipsPop.openItemPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.avatarFrameIcon,
+            function() {
+                BubblerManager.getInstance().showText("可获得头像框“星璨K13”")
+            },
+            this)
+        },
+        n.prototype.updateState7 = function() {
+            28 == this.currDate ? this.currentState = "default": 6 == this.currProgress ? 10 == this.currMonth && 5 == this.currDate && this.hasSignToday ? this.currentState = "default": this.currentState = this.hasSignToday ? "tomorrow": "canGet": this.currProgress > 6 ? this.currentState = "hasGot": this.currentState = "default"
+        },
+        n
+    } (BaseModule);
+    t.NationalDaySignIn2023 = e,
+    __reflect(e.prototype, "nationalDaySignIn2023.NationalDaySignIn2023")
+} (nationalDaySignIn2023 || (nationalDaySignIn2023 = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+nationalDaySignIn2023; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.TXT_ITEM_NUMS = ["x60", "x3", "x80", "x5", "x100", "x6"],
+        t.DAY_ITEM_POS_Y = [44, 5, 49, 0, 44, 0],
+        t
+    } ();
+    t.NationalDaySignIn2023Const = e,
+    __reflect(e.prototype, "nationalDaySignIn2023.NationalDaySignIn2023Const")
+} (nationalDaySignIn2023 || (nationalDaySignIn2023 = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+nationalDaySignIn2023; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.HAS_SIGN_TODAY = "NationalDaySignIn2023HasSignToday",
+        t
+    } ();
+    t.NationalDaySignIn2023Event = e,
+    __reflect(e.prototype, "nationalDaySignIn2023.NationalDaySignIn2023Event")
+} (nationalDaySignIn2023 || (nationalDaySignIn2023 = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+nationalDaySignIn2023; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.skinName = nationalDaySignInDayItem,
+            t.cacheAsBitmap = !0,
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var n = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                SocketConnection.sendByQueue(41950, [33, 1],
+                function() {
+                    n.currentState = "hasGot",
+                    EventManager.dispatchEventWith(t.NationalDaySignIn2023Event.HAS_SIGN_TODAY),
+                    StatLogger.log("20230928版本系统功能", "国庆签到", "点击“可领取”状态的奖励" + (n.itemIndex + 1) + "面板")
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnDefault,
+            function() {
+                9 == n.data[3] && 28 == n.data[2] ? BubblerManager.getInstance().showText("礼物9月29日开始放送，<font color='#ff0000'>请明日再来</font>", !0) : BubblerManager.getInstance().showText("登陆天数未满足哦！")
+            },
+            this),
+            ImageButtonUtil.add(this.hasGot,
+            function() {
+                BubblerManager.getInstance().showText("已领取奖励")
+            },
+            this),
+            ImageButtonUtil.add(this.btnTomorrow,
+            function() {
+                BubblerManager.getInstance().showText("明日登录即可领取奖励！"),
+                StatLogger.log("20230928版本系统功能", "国庆签到", "点击任意“明日可领”状态的奖励面板")
+            },
+            this)
+        },
+        n.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.day.source = "national_day_sign_in2023_day" + (this.itemIndex + 1) + "_png",
+            this.grp.y = t.NationalDaySignIn2023Const.DAY_ITEM_POS_Y[this.itemIndex];
+            var n = (this.itemIndex + 1) % 2 == 1;
+            this.itemYinzi.visible = n,
+            this.item1.visible = !n,
+            this.item2.visible = !n,
+            n ? (this.itemYinzi.iconItem.source = "national_day_sign_in2023_yinziicon_png", this.itemYinzi.itemNum.text = t.NationalDaySignIn2023Const.TXT_ITEM_NUMS[this.itemIndex], this.itemYinzi.initBtnIcon(2400129)) : (this.item1.itemNum.text = "x1", this.item1.initBtnIcon(1400152), this.item2.iconItem.source = "national_day_sign_in2023_item3_png", this.item2.itemNum.text = t.NationalDaySignIn2023Const.TXT_ITEM_NUMS[this.itemIndex], this.item2.initBtnIcon(1400153)),
+            this.updateState(this.data)
+        },
+        n.prototype.updateState = function(t) {
+            28 == t[2] ? this.currentState = "default": t[0] == this.itemIndex ? 10 == t[3] && 5 == t[2] && t[1] ? this.currentState = "default": this.currentState = t[1] ? "tomorrow": "canGet": t[0] > this.itemIndex ? this.currentState = "hasGot": this.currentState = "default"
+        },
+        n
+    } (BaseItemRenderer);
+    t.NationalDaySignInDayItem = e,
+    __reflect(e.prototype, "nationalDaySignIn2023.NationalDaySignInDayItem");
+    var n = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = nationalDaySignInRewardItem,
+            e.cacheAsBitmap = !0,
+            e.addEventListener(egret.Event.REMOVED_FROM_STAGE, e.destroy, e),
+            e
+        }
+        return __extends(e, t),
+        e.prototype.initBtnIcon = function(t) {
+            ImageButtonUtil.remove(this.iconItem),
+            ImageButtonUtil.add(this.iconItem,
+            function() {
+                var e = {};
+                e.id = t,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this)
+        },
+        e.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        e
+    } (eui.Component);
+    t.NationalDaySignInRewardItem = n,
+    __reflect(n.prototype, "nationalDaySignIn2023.NationalDaySignInRewardItem")
+} (nationalDaySignIn2023 || (nationalDaySignIn2023 = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/nationalDaySignIn2023Skin.exml"] = window.nationalDaySignIn2023Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "btnClose", "_list", "btnDefault_7", "btnGet_7", "hasGot_7", "btnTomorrow_7", "dayBg_7", "day7", "avatarFrameIcon", "yinziIcon", "day_7"],
+        this.currentState = "default",
+        this.height = 610,
+        this.width = 963,
+        this.elementsContent = [this.bg_i(), this.btnClose_i(), this._Scroller1_i(), this.day_7_i()],
+        this.states = [new eui.State("default", [new eui.SetProperty("_Scroller1", "height", 400), new eui.SetProperty("btnGet_7", "visible", !1), new eui.SetProperty("hasGot_7", "visible", !1), new eui.SetProperty("btnTomorrow_7", "visible", !1)]), new eui.State("canGet", [new eui.SetProperty("btnDefault_7", "visible", !1), new eui.SetProperty("btnGet_7", "visible", !0), new eui.SetProperty("hasGot_7", "visible", !1), new eui.SetProperty("btnTomorrow_7", "visible", !1)]), new eui.State("hasGot", [new eui.SetProperty("btnDefault_7", "visible", !1), new eui.SetProperty("btnGet_7", "visible", !1), new eui.SetProperty("hasGot_7", "visible", !0), new eui.SetProperty("btnTomorrow_7", "visible", !1)]), new eui.State("tomorrow", [new eui.SetProperty("btnDefault_7", "visible", !1), new eui.SetProperty("btnGet_7", "visible", !1), new eui.SetProperty("hasGot_7", "visible", !1)])]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.source = "national_day_sign_in2023_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "national_day_sign_in2023_btnclose_png",
+        t.x = 926,
+        t.y = 37,
+        t
+    },
+    n._Scroller1_i = function() {
+        var t = new eui.Scroller;
+        return this._Scroller1 = t,
+        t.height = 400,
+        t.width = 630,
+        t.x = 36,
+        t.y = 186,
+        t.viewport = this._list_i(),
+        t
+    },
+    n._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.layout = this._HorizontalLayout1_i(),
+        t
+    },
+    n._HorizontalLayout1_i = function() {
+        var t = new eui.HorizontalLayout;
+        return t.gap = -5,
+        t
+    },
+    n.day_7_i = function() {
+        var t = new eui.Group;
+        return this.day_7 = t,
+        t.x = 664,
+        t.y = 152,
+        t.elementsContent = [this.btnDefault_7_i(), this.btnGet_7_i(), this.hasGot_7_i(), this.btnTomorrow_7_i(), this.dayBg_7_i(), this.day7_i(), this._Image1_i(), this._Image2_i(), this.avatarFrameIcon_i(), this.yinziIcon_i(), this._Label1_i()],
+        t
+    },
+    n.btnDefault_7_i = function() {
+        var t = new eui.Image;
+        return this.btnDefault_7 = t,
+        t.source = "national_day_sign_in2023_default_7_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnGet_7_i = function() {
+        var t = new eui.Image;
+        return this.btnGet_7 = t,
+        t.source = "national_day_sign_in2023_btnget_7_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.hasGot_7_i = function() {
+        var t = new eui.Image;
+        return this.hasGot_7 = t,
+        t.source = "national_day_sign_in2023_hasgot_7_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 2,
+        t
+    },
+    n.btnTomorrow_7_i = function() {
+        var t = new eui.Image;
+        return this.btnTomorrow_7 = t,
+        t.height = 420,
+        t.source = "national_day_sign_in2023_tomorrow_png",
+        t.visible = !0,
+        t.width = 144,
+        t.x = 3.5,
+        t.y = -2,
+        t
+    },
+    n.dayBg_7_i = function() {
+        var t = new eui.Image;
+        return this.dayBg_7 = t,
+        t.height = 34,
+        t.source = "national_day_sign_in2023_daybg_png",
+        t.width = 96,
+        t.x = 24,
+        t.y = 53,
+        t
+    },
+    n.day7_i = function() {
+        var t = new eui.Image;
+        return this.day7 = t,
+        t.source = "national_day_sign_in2023_day7_png",
+        t.x = 51,
+        t.y = 39,
+        t
+    },
+    n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 100,
+        t.source = "national_day_sign_in2023_iconbg_png",
+        t.width = 100,
+        t.x = 22,
+        t.y = 111,
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 100,
+        t.source = "national_day_sign_in2023_iconbg_png",
+        t.width = 100,
+        t.x = 22,
+        t.y = 231,
+        t
+    },
+    n.avatarFrameIcon_i = function() {
+        var t = new eui.Image;
+        return this.avatarFrameIcon = t,
+        t.source = "national_day_sign_in2023_avatarframe_png",
+        t.x = 30,
+        t.y = 239,
+        t
+    },
+    n.yinziIcon_i = function() {
+        var t = new eui.Image;
+        return this.yinziIcon = t,
+        t.height = 92,
+        t.source = "national_day_sign_in2023_yinziicon_png",
+        t.width = 92,
+        t.x = 26,
+        t.y = 116,
+        t
+    },
+    n._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "MFShangHei",
+        t.size = 20,
+        t.stroke = 1,
+        t.strokeColor = 2702752,
+        t.text = "x140",
+        t.textColor = 16776165,
+        t.x = 74,
+        t.y = 187,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/nationalDaySignInRewardItem.exml"] = window.nationalDaySignInRewardItem = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["iconBg", "iconItem", "itemNum"],
+        this.elementsContent = [this.iconBg_i(), this.iconItem_i(), this.itemNum_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.iconBg_i = function() {
+        var t = new eui.Image;
+        return this.iconBg = t,
+        t.horizontalCenter = 0,
+        t.source = "national_day_sign_in2023_iconbg_png",
+        t.verticalCenter = 0,
+        t
+    },
+    n.iconItem_i = function() {
+        var t = new eui.Image;
+        return this.iconItem = t,
+        t.horizontalCenter = 0,
+        t.source = "national_day_sign_in2023_item2_png",
+        t.verticalCenter = 0,
+        t
+    },
+    n.itemNum_i = function() {
+        var t = new eui.Label;
+        return this.itemNum = t,
+        t.fontFamily = "MFShangHei",
+        t.right = 6,
+        t.size = 18,
+        t.stroke = 1,
+        t.strokeColor = 2702752,
+        t.text = "x60",
+        t.textAlign = "right",
+        t.textColor = 16776165,
+        t.verticalCenter = 24,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/nationalDaySignInDayItem.exml"] = window.nationalDaySignInDayItem = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnDefault", "hasGot", "btnGet", "btnTomorrow", "dayBg_7", "day", "itemYinzi", "item1", "item2", "grp"],
+        this.elementsContent = [this.grp_i()],
+        this.states = [new eui.State("default", [new eui.SetProperty("hasGot", "visible", !1), new eui.SetProperty("btnGet", "visible", !1), new eui.SetProperty("btnTomorrow", "visible", !1)]), new eui.State("canGet", [new eui.SetProperty("btnDefault", "visible", !1), new eui.SetProperty("hasGot", "visible", !1), new eui.SetProperty("btnTomorrow", "visible", !1)]), new eui.State("hasGot", [new eui.SetProperty("btnDefault", "visible", !1), new eui.SetProperty("btnGet", "visible", !1), new eui.SetProperty("btnTomorrow", "visible", !1)]), new eui.State("tomorrow", [new eui.SetProperty("btnDefault", "visible", !1), new eui.SetProperty("hasGot", "visible", !1), new eui.SetProperty("btnGet", "visible", !1)])]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n.grp_i = function() {
+        var t = new eui.Group;
+        return this.grp = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.btnDefault_i(), this.hasGot_i(), this.btnGet_i(), this.btnTomorrow_i(), this.dayBg_7_i(), this.day_i(), this.itemYinzi_i(), this.item1_i(), this.item2_i()],
+        t
+    },
+    n.btnDefault_i = function() {
+        var t = new eui.Image;
+        return this.btnDefault = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "national_day_sign_in2023_default_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.hasGot_i = function() {
+        var t = new eui.Image;
+        return this.hasGot = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "national_day_sign_in2023_hasgot_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 4.999999999999972,
+        t
+    },
+    n.btnGet_i = function() {
+        var t = new eui.Image;
+        return this.btnGet = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "national_day_sign_in2023_btnget_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnTomorrow_i = function() {
+        var t = new eui.Image;
+        return this.btnTomorrow = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "national_day_sign_in2023_tomorrow_png",
+        t.visible = !0,
+        t.x = 3.5,
+        t.y = 0,
+        t
+    },
+    n.dayBg_7_i = function() {
+        var t = new eui.Image;
+        return this.dayBg_7 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "national_day_sign_in2023_daybg_png",
+        t.x = 12.999999999999972,
+        t.y = 55,
+        t
+    },
+    n.day_i = function() {
+        var t = new eui.Image;
+        return this.day = t,
+        t.horizontalCenter = -2,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "national_day_sign_in2023_day1_png",
+        t.y = 46,
+        t
+    },
+    n.itemYinzi_i = function() {
+        var t = new nationalDaySignIn2023.NationalDaySignInRewardItem;
+        return this.itemYinzi = t,
+        t.horizontalCenter = -2,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.skinName = "nationalDaySignInRewardItem",
+        t.verticalCenter = 2,
+        t
+    },
+    n.item1_i = function() {
+        var t = new nationalDaySignIn2023.NationalDaySignInRewardItem;
+        return this.item1 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.skinName = "nationalDaySignInRewardItem",
+        t.visible = !0,
+        t.x = 17,
+        t.y = 111,
+        t
+    },
+    n.item2_i = function() {
+        var t = new nationalDaySignIn2023.NationalDaySignInRewardItem;
+        return this.item2 = t,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.skinName = "nationalDaySignInRewardItem",
+        t.visible = !0,
+        t.x = 17,
+        t.y = 198,
+        t
+    },
+    e
+} (eui.Skin);

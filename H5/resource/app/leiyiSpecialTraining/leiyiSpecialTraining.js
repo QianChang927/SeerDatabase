@@ -1,1 +1,726 @@
-eval(function(){function Z(Z){for(s=R=0;s<Z;)U<2&&(U=64,k=92<(k="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DI:@^[xo:LZ=XXL`?KBJ;:^>m=o:YbM_:=_kBtiVRJ<sg:UMZ;WI[C^c:bif^mcaLp;hqAewe]ucJuQdGWv@:Go:?wy?=lfI:;`HpJw><J:?M:JI;RFZAF:UZ;<S^SoM[swFO;BH>l<x]tiFKf]fZZwXh?JyAJaF;RPw]msW::KQl;ep`eXCQEk<;SgY:ByF>k:;N@:PK:P>:@kYgApx:;C?ZJHU]HhbUrm:;G>><R_W@Lw:?gxAFvirf:L:=g::SFC[xbZvgdZ;kBK:R[lN:;fJR:RLsE?cCQB;=ZE=i:<?f:;?C[kNbVGAjWvUHvABU_::m:??^Z;GRtJSB:CJ:ZgV:ACJ:=]MHLN;]mKtmJ:e^>y>RfhhWb;xZw>>wQaxIiS@]Oi@:lCSo;kv];fCZ^HSED[ij:PFSM=`na;i;NB@GEQkH@=veFyBsZM_:@k:I]ZHLZ:@dBwB^LTnKch=c:AvC^^_X:ZHvL`Z>I;S=@oyrpRJPLZqg;qhLTUMVOIdnISrItkibIn<NgZKHp[hkEFtjF?i;?xj<AB:TPLA:sL:Hu:qnqD:=N_iL^:;@:<g::tZQkhvjpziWk<:>nArV:SZj:B:E=YGrkZk;HBAIbNMCcw:r]L^@oraa:SSC>ZA=:<ea;t><SR=HZEtja<K[;cuneifFRm;iiJB[]:HJZG@[cBIsgAkVy::w`vfcTt:ZP;>?tHiHJ:>TSc]cKs>KB:[dZJRnC:rcZdZ_vMfHgAsbZY[Z>[tZZ::hCiRsVWkA=NUKs>f:ln@gT>cKk>ZHBh>Kpeqf]u;@<:d[_Q@u;CHSd]eNZcAeS;^>gQqU@uLJV<X<;r=oAJE=<D>JN@G<gBw]ZR;eGcA::HvV::KB:vx@:;DDZ;ZHc:vqa:?=mZ;xoR:QAD:@aSZ<Emc:ZIwCQkidp@B@kagwV=QFeyklU?GOrAO[CohkP?;KObtuaBMEZYT=PrAV[=eEse:sBGd_:HcLMc<NFb:NLlI>]Jd@_@MS::RjaH=c?Bc>sZ`BQ[A@:>P`TtRaYTOp`]sA:qNZ?d;h;`vJTXbrJO[Y;YWWTboNX>Z_TynuRG;X<[INHJLFhepl@Z@o^K;Z[NBZD:REc@[Z>xMqqBB<PKG>]FC>_eMdC_E;SBmDo_yhLJcq:drJwMTpByMPpNp_==V@ndFUKMqrNtZvJW^_UfcnJ@:EBJC;_:J_^NC^zaOTN:[<GKF=LEB=]D>BAZp^cX]@;TSZILs;GuwsZMi@cQ[gEsz[P?UkL@H>F;k::AiZiCr:Jgj>DJ]mLGvjhsZJ=;evk:ZGApnMheB<iX?k;=c@:M:R;kDlJu[Uex;_>;uGtH<m::wf?E<fE^W[KWRr<;LJj;@<kd]D<rx_tGPiI@c>]Zsr^ZK`icIYsrRa:Rf?>;[;>WIgqMaqNx_yMKqNc[i`NexloNCK?qo@xH=t^`yRgkZF:frm=EwKYRc]@Mw]:bmRI=xFVsjkhS=>Wwg:BI`MQ:IB<=]QJGLWJ_?cCk:u?YAco:c;[nxZJQJ?[LnXKAcI:ab[w;B=iAT?>aSYSrA@=jDejso@xkkOGI:q=VAsHA>YC:Cx<<`Z_@JgXr`hfc=EhZpRs?wMc;R<]Rur_Y=AkObkT<R]]SnmZ:J;aL:Q;Vqm<s<LD:c=e@deWBJBVgkZANHZY>PK<Jl;>Q:K[]gaCS?EFVT_:lwKFAJFT?Zod]]n]nAVFlt:aEwDIGATehNN;Fql=ZHDfOqfP>ueXLwptK:CLmA^;Dy[Mn;Q<:fDlG]s;qBVOkSlO<TCrAVVbElE;nmyG>D>ZCLdU^GQDTReK<Ft?<qtiOMoE;b[B=s>hHX:hHSEqdbhEB;pmcwbNHcBRA:RZq;JHJ::>bLC_zBXedDoKJCZu[MLymQAZH:wNXecGAc>=FV:R^;G]_JmRUK_ufIPQ:MSqnu^[=qXZikt:fay;iOgotdLrKs>=[HDVFstn:C]BFUZK[Qmr`I;yR[NkyEMnPCgLdDdm<`kB>VUZkCLnn=mA_H:KZZLa:RA_W:gGm:Y<m@F^>utm=:>BAZC]D:Ct`]DOLsoaWdcvAdVHL<IwC;_cdQ:NwpETPVdV_mz[ZfPOMLS;m`:[<cECB>G=Y>g[ufyDyA=Ed=M?>]nKf:=@h;gTgDAbNpy<x@bS?djNhyteG?;MtdeupqeXSoAhOTgpMfKU;MACEIOogg:Dr`]ADPDgcvlrOhFQwqgS;m:N>cJqLSW:[=GhW?qUZ?:qpW`:=k=gY;y:nPae:BJISkCxZZkHZTD<XpEKANGoDRtu?>@fTX?mJsHnM[bEHHWJ[tpa:QQclW_Q`ofhQ=ZhVU:Gq>>rI:AWquhnAGrCtOKAb_EgFIYS;FCvUHbi>YaPfXat:D@@rZgEGtAcUNqlHrnys]BRT_wy]lEtW;ZUmj>rgBS`ZBGz;yMwQvno?_uzd;ojsS=E=sYyZ=Z@ZI:KRD;MvX[Oj=jvImgV[:=lQVBf;H=VKsEv:JgtQtxunAxJytWU=F?NDkkBq[Wlu?aCJP[g^A<i?r;sK_z[Z]H:s`cqB]K]kH`gl_QB[Kyuc:BAqcWRcu;OAeDmCctHH]x>@DFLR^l?^LnCqd;_BNiGOb_;J:ZE:Jks:ohJA:Nstl:_DWxa:Fi<:>=:jJ::=JRDXVw@bDUTRsEdg:sbF;@SFqSgsA;EHa^oLePnxb;^HUcCXVwp^`LSFVM_plyMOHv?ubPjlUND_r<KWNhOAN[[WL;BgoyY;siqIgN``lXL<ahiuBBNd]dVjv:f::sydPa?w;agGK?ykr>xYJ:mJZsVOLQ>@B;x:Zrm:wZS=mE_@kc:cZSFV?>ssFjbEQ_dLUZM<=nKRIEN`fujR[`sijPROJ^:CN:BAaZ;CKN:F;DtN>e:<jNk:fDu:AMMJ:D=SIV:FDDbrQirV:F:iMqFe:=pIJ:_t@:<M>_AcI:<Nac:H=GbgCNW;?V:vkZ`lNLc:Cxp:=hkR:WIo>eK`lPc=B=kjTmJ;DRLF<O::;Kc:Qs=::kzs:XyO:<bVc:SLG:::yc:@R=:<Zmc:NzG:=Jv]nIL;`hj]WqkJYU[rLYXnBZ<P?wkfi:@OtJ:qNdIRZB:C^M:<?y_xk:b_sTuXs:U`G:=Y]bfkrMr:=s<R:Ffp_Vt?Kq:WAnO>e:>K^J:@>T::J^J:yNd`N^<kBkCI^imQQ?M[DZ:xAN:HJ@Z:w^N::ODEFN``V@m?isZr[hdpl@GndUfzrvgaoWM^V;me`EN?k=^HCvbEBB@HAh_;t[Up>;O^COQg_pUVYeDvnGBmw>^?KD?tml:;vCosUjY:WhxYB@CZSu;yM;WoY]M^]<gEf`rC@FcsJ=Kfw=bk=<kRVCsJB^k>:OYgtcQsj[jNTw@yCXUv_pjN:fhB>Cprbj@q<IxuHsIj:_R:J^z?qI]Y;pdwh[p:twt;]hplblEkOwXd<oISGxhxGlWxwBRkE[=wLOYpi__;:`RBKZUCi:]wQ_p_r`U_W`swih_sqRXKF[r[F:sZFZs;_hI;T?D<IZr`>c_;f;o:jRtGh?w_NKFFI>D<e=pFJt;<I[m;COqNJ;HNtN^lm<tta=oVC<y<DFvKKNt=Oc?=m:jSF;GkZlflp=c[G=nKDChkDwxGt<e<[NwkKN@B;:g[HZxF>J_ZC`gt`Jtl^[YSrZq<E<I[OZS;f:hKv;Mc@:s;v=;[A<K>Q<oZ;[gK;ZI<s:j<MNw:?<z<nK:]<:bgZJPSNF^NF?s;^_scnwL>=sEsGNgx@Rlxg=KZw<^ol;jCQ_G_I`mxN_N_@F=_@^r`h_]]X:@[^wL]yFg;cCt[:lJkP:VZP:<B?RfhH=AwC]Xxl<kt=to<t?:_d;UcnCPteV:;uJbFcopS@FYKuSu=i<jDvHsPRvjRJNkDki`;`IRjx<c`f@uLgNm=iU]Xs^:pRriPmOiNs[D=j;iLsus]JuODJqOCR[p;XOR]gDg=iDmLpYRlsleIwCuAswkPw>F?ZSJFlFsfZ:jMjHResas_OWVN>RL:?FL<LYkSRhyE:kRN]IZJ_js[z:_c>wJfnDO@OE`JLV_oLJRR;T_m>Zsdso@GwK_msjsisI>]syRa`Tk`:>ZTF>JYJPwN>:vNZU]PwCi;DEBo>NB[ko<LBsoTBvmP<XBlBoJxsOBZB^sBBsJOJ>HWJYk[JycYJA>[DDN^>@Nc_iNqsecN_cLYtI_zKD_^s`Rmcy_g@VNe]S_vousro_OA_cFk?NF[>[sn:]Fi<DFk_wPFFq_gYJ@YsBZXrKr>tKDJ:PkG::VpN::GtJ:@HprW::kiN::h?J:<sMWW:;TuF:?=?J:MiomcQxydK;jBLw[?v`?_q]F>bLnJ?=i^<GD[Y_==_^E<>m@NcBn=ELG;z=>dhZP<jlmc^k^lK;Cnf;dNv[x;L`jCpn`me[U=jCILs;Gl]L@N:nXLNmwoonI^Fm@L?CYs_:AmfmBRmM_nDLrmTLcMImcnjnxMk^=Mb=^Lr<VJM[I=j<G<e=fMo]bhpksx?_`NONT`?CrmxoItChxSZo=OLG^OWpAOxo<DeD]ElFPSQO>MrtiSXSDErOxpIOlRYOs>BtmpZtDoLp>GBt@:^py;nokpapyxPpNtotFt^Lb;ioy^XoP[yp[:Ls[oesTsOKlp@s];atPtSpHs?poGytV^OoP?ppltCthoV[RdLVsc=ZFJo[YRaKdK^[F:vDwJAD;ZbDr`QE^Z@;qZy:YDOJzDrDG;Y:V::sJfbDs;zDBfV;[DZeRekf^[gKC`v;F:kcvZB;cBNeQEkfIoFZ:t_foxRfseCd>fqxv:jFk;MFh]mJw:S?js<:h^JEgwuECxZFP;m;jSrZAwqtIDdMRcTEqEHeZGjsSmpsapM?eBUouFn<]eetk;o::sfgE>bg_;FDH_vnhe]SMkbgvm=fyGEl=ewMMfyGUkneFJfeH`H=UeILAek:AfH=Gl=ereH_k:Ie>dH=^eILzek:zfH<EeILJTk:JUH<Zl=ecUIeRTYejRxevZxek:xeaCWZbgqhGfjevnjfGFP;IGO`_Vn<V:OdCwXCUlXFD:vDv[V;F;plplEkZkn<xB>^MB<:oKvKMBEK<_gZc;P[[<D:wT<Up:yUu[M;JZ>F>>_>mZCR]GMEEDs;Apfsp:E>yTSnRNY`fE@fm:@w`TR>XTb:mlZ_YF::jEZSu?>Nm<<L@U>PeonM:CBkMGyRM=yD:OPZ:DrN?_nEANaD;>NhgtdP>[`TD?dol?dyLyOa>perPpi?fphuAVmon=gGc_;Chwor?j<ShMin^k=Gjh<L:=igokA_^EAomk?VnE;wnCh]nEAG;r=E;SgyAhASjGetjxm=JUrQ??c?gO]Z:UpI@vfQDvjtfFGqgAjBBAdAiM]HjAd>Fj?bcc=jIbebd>Gj:QgO^jEQdQgfP?iAje=FEvjLLkbQgwOq;IfTlIhzCIdliveh?TFIiO@AjOjHoZ@^ebaphpdy@YPKKnfnchehdP?_`]rB>Y:_:B=hee>Wh_PWjM[>ng>H[_rDZ_AG<=AI<[`JkYc@>biYejLpeR:_>ziZJE[zhGjGcEc:XEhj:YG:WhiuAheZT>pZWWjzkJV@=NJoOfdoDr;ZpJmqfOg^hYgrQYjkSpjLQ^ib[>GCIs=:RZRWc>qZRQ[Wit`>r>mZ=sVJUE@oH;bB@FHzrJUN=Ac^heCYdT<>TE[>VBUZk_VQflD_RzO_RRSZTWMtjX<m=jIRXxc_AzGgB_<oT=@oYG@Y<dJZCsUN<J@kR>WFUkRBU>TzcMd>GI;MhcUegZY_VRXVSRUNRAcoWwUdgsYQ>nh<Yi=lB]XFWkS^cgW]TBXgRrdDTLY:UcWLX_JNRq]NTNMCQVSmVYHjHoUwR<Vk<y];;:TnhTDJ@QdkT^fFRzeeTgYBFjAeRVULTVS>omU@RwTJXuXZpmYuWI:neDTQjsUDVaX]W>XOA>XbjHcPVTU_XTYLS>kuUlIPSxi?KQGuUdjwVsRyarAB<y^JW@TrcaV>SHVgXOhQeiSLSiWP]WgNTRXNWPUQeuToVyUoIqUlB;V]UYjFS]UHU]SeXDSij;YcTPS[XVRXRl<XTwSXSuVoYXYuWjAQ:;AB>j@Y=yRkWrgHVmlFVlW^f=j>WMhCcH_k?j:;@oTfg?Shidhdgj@r@Y>sShgUfSctj=aF@MaXdIeyjOVbjrhOXQipS=^:<=AOUrdvgc:UqY?jeDUOTFVtYDX>R_=^hlWOWOH_XKJ?Tk:Sc`R[?dj:EJToIYPJVk>j=oWudJ<UhPeOUUiM_kUZ?pSGYiijerf?eDX^Y@RlTaVeSlXeS_XiVVSCSPWNSKcdUxShjG@=hJr^XhUvmtYMU[]_EobHS=bieLYHAh;q_Y]cQG:LZq;qaHPq<m@aKPZqU?YEij=:Wnee<y^E?x[xZWh_`_]qEbRqXbYJ=K?:[PAQ<=>r:DS`ScUfh`YoYiAKTHT;ReXlR@:UVQiWYgSnXCWTW[YTWVVuRsVdY`HdXqTndoVk@r?SUN:pVfWYqfSHRWXeWOVr<LUMfCcxUE>`Sk=ddSSdY:H=WoRUh=VOWUfibUgfJUoMU^Tx_r@jjkztfjckXkstTfWhTlWHYIWlXnR[WnUjRmREXmXYXEU`TDWXfBs:scypcS=fTJ:jVO`XiUYGfUYX:vRWivWvXdZAUk<AWwo]JzQAR@ShiQWbYbVQTbU=`QXnbXTrWj;rVsVrArWTEi>Bw;T]WITcwOgWS=`FwCTTT[STTL=TXd[VUVVXTuXwUXRDVsXzVhWDShXHVgy:xaYpVLSWRZw?RSioSZvZxxXoCEUdir@yX=ROXUc^Rku^RUoBvpRc?yijepTiHMXmwssAHssnXcunXLTCWiXPXRREYbgKYxVzUEUNAmzzUDu<vhVS=ss>z>Dxb<vE;UYJ?>z>uvSvWEa_wAVfj_xAXl<NwbR_?NsL^bRQW_]QTotb;osrUosFs=TFzqR<zBuuwct;Yphgw@xctewVviWWfCUZ<ETwsJszYG@r<dL=Aj:IY;hDyDCHttTwrN=uz;j:vWUdgcaZuxWZtxRJyY<JuLtLtJxSjLzJtORvjLNGXrg>ux`^WAh^XBvN@^RlzFytReyguesTUcxjXVzjWVwmUOTTwLxTzuxMXIRgyuxsuRbfSgvmyly>xUYUYRB_savvS_v_vCcNvASGcbSNwPCPzNzPwotxaozQVrXrXY?rSoHFxJni;Sw<tIXuvHz]VQjaSWRdyiy]@[RRziVYRwtRuXyqVywzXr<@R;<pxzTCvMT:xtXtwOZGS;xwq]s[tde[zZxmVLwj:dgKv=SUgtgmvKyO:;;Ig[ijcluMRIX^VMsuxyzpxHtaXj]isVshuVz_KdxtfdzksSvRsIXMuntuF:wgstutt:wUTx]==tt@s?wvV_wazvXas_@AR@Uavn<`yNwOuk=`vPsquOuqtOxqzOwFvWzi:xxStCvIUCx<wQfUxGwPWevnUithzCVwudW?QYWwy<VQwEWfxbESwct<x;Rc;KjxwZz;s_?]y[yqW[wyV^s_=Lz=SKytj^s=;hkLY;@hYPGUsxMPuLR:OYkpcpgfHYETfcQmTf?wQHSY:hcTofs;gaXb;CydvkUuxVYXzQHl[B@@u^W;XsrDMfrp_snWlXJz;U^ElbRMwGHLrMUaipotewGX;r:x_^KytpxmiTzIf_^QguJg]yhrSKjWoXvAwY@YfAnZ@qr<Q[m:xGRfi_bGRk=uy;jIIhzMGtB=EXpIK^dI]Z<y;oslJ>PdZCTvD=AuJBQZWYpQvk<TH]:_JVZE>?DCFaKOKm<RDERCVeyfKG@fnMNAw<v;nY<ZEsH>AoVx;yU:kUsFw?ooGXkfN;eoJjfy<zidIIfap`<?NwLyyZZu@gQZ=K<gBjfVoA>DDSQo_[HYTSdakruDlYmsAQyaJmJ<?oBBJ=JO=Jqo@H=W;aJ_M>N]aZZKVJ:kLJTylIuYhUkkfO?[]=Fts<G;?JyzfNn@>p=L@yWXcKJmT>ZGfq`IQY`UpWccdIDzJjocFFD@U[Kq=mT@GfPue`[weVOVDdOL]fOOh;=OY;gpPDdhN[LIL=yGpOudXlyemH=mjSK@fhNQ[rFUe`GPr]M:xsVpQm>gaM[EOOZDpGTZ`:qcWB]_YpI`<NmXnFcbgmBm`>MPM]KVg:ArLacf=YsFoaTmVQz^AqOR:=Z[YZrEfrQSS>VCTZ`DPcB;`diZg:t?:aHVowKy=]XV:krb]kgKn=VuWJ[cNAOPAawb;WQSK[vLxcUGYTX:Yq[JmSv<Zkui:`Yb:EjvYoVKJfSwDRPnfn=zuZW:Sfup]vU[<a:UE<EX>N?bZcyTAPIe^mktAoMu]B_y[]B?LH^j>ncpljmb:>P<;ZDcjQ^YrD@OVf@;YGcLZGEteBq@SZwoEBCwA]df;g:s?dcDGvaClNuJxRX>GWdH]aihs@iZ@pI==<]aEccv`lqL><=<;KRhFMWk`>IhrH[zHr`BEXS;ZvkbnNIf@CR;y^^iSJ`BRJHSLO^K;pRpngma]>t]<[zfOc]uBv>`]ilSRcBRf:b?x^lKXzVJJYkXtAw;[oZvJ_qFWvK^xHI=L;Ec;>Tb<VZJ::".charCodeAt(f++))?k-59:k-58),R|=(0<(k&(U/=2))?1:0)<<s,++s}for(var J,R,s,c,k,_=[],S=1,V=3,A=1,B=[],U=0,f=0;;){if(Z(A+1),2==R)return B.join("");-2&(c=R)||(Z(8*R+8),_[c=V++]=String.fromCharCode(R),--S||(S=2<<A++)),B.push(c=_[c]||J+J[0]),J&&(_[V++]=J+c[0],--S||(S=2<<A++)),J=c}}());
+var __reflect = this && this.__reflect ||
+function(i, e, t) {
+    i.__class__ = e,
+    t ? t.push(e) : t = [e],
+    i.__types__ = i.__types__ ? t.concat(i.__types__) : t
+},
+leiyiSpecialTraining; !
+function(i) {
+    var e = function() {
+        function i() {}
+        return i.getData = function(e, t) {
+            var n = this,
+            r = PetManager.getPetInfo(PetManager.defaultTime);
+            return r && 70 == r.id ? void SocketConnection.sendByQueue(CommandID.LEIYI_TRAIN_GET_STATUS, [PetManager.defaultTime],
+            function(r) {
+                i._today = [],
+                i._current = [];
+                for (var a = [], o = r.data, _ = 0; 6 > _; _++) i._today.push(~~o.readUnsignedInt()),
+                i._current.push(~~o.readUnsignedInt()),
+                a.push(o.readUnsignedInt());
+                KTool.getMultiValue([15870, 15871, 15872, 15873, 15874, 15875, 6909],
+                function(r) {
+                    i._today = r,
+                    i.allover = !0,
+                    i.get6909 = r[6];
+                    for (var a = 0; 10 > a; a++) {
+                        if (i.get6909 < 31) {
+                            i.allover = !1;
+                            break
+                        }
+                        if (a >= 6) {
+                            var o = 0 == KTool.getBit(r[6], a - 5);
+                            if (o) {
+                                i.allover = !1;
+                                break
+                            }
+                        } else if (i._current[a] < i._total[a]) {
+                            i.allover = !1;
+                            break
+                        }
+                    }
+                    e && e.call(t || n)
+                })
+            }) : void Alert.show("请先将雷伊设为首发！",
+            function() {
+                ModuleManager.showModuleByID(10)
+            },
+            function() {
+                EventManager.dispatchEventWith("LeiyiSpecialTrainingFight_close")
+            })
+        },
+        i._today = [],
+        i._current = [],
+        i._total = [60, 30, 20, 20, 10, 20],
+        i.allover = !1,
+        i.get6909 = 0,
+        i
+    } ();
+    i.LeiyiSpecialManager = e,
+    __reflect(e.prototype, "leiyiSpecialTraining.LeiyiSpecialManager")
+} (leiyiSpecialTraining || (leiyiSpecialTraining = {}));
+var __reflect = this && this.__reflect ||
+function(i, e, t) {
+    i.__class__ = e,
+    t ? t.push(e) : t = [e],
+    i.__types__ = i.__types__ ? t.concat(i.__types__) : t
+},
+__extends = this && this.__extends ||
+function(i, e) {
+    function t() {
+        this.constructor = i
+    }
+    for (var n in e) e.hasOwnProperty(n) && (i[n] = e[n]);
+    t.prototype = e.prototype,
+    i.prototype = new t
+},
+leiyiSpecialTraining; !
+function(i) {
+    var e = function(i) {
+        function e() {
+            var e = i.call(this) || this;
+            return e.skinName = LeiyiSpecialTrainingSkin,
+            e.cacheAsBitmap = !0,
+            e
+        }
+        return __extends(e, i),
+        e.prototype.childrenCreated = function() {
+            i.prototype.childrenCreated.call(this),
+            i.prototype.initOldPveBtnClose.call(this, 0, this, "leiyi_special_training_title_png"),
+            this.adaptBgByScale(this.bg),
+            ImageButtonUtil.add(this.btn1,
+            function() {
+                ModuleManager.showModuleByID(233, {
+                    "goto": 2
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btn2,
+            function() {
+                ModuleManager.showModule("leiyiSpecialTraining", [], null, "LeiyiSpecialTrainingFight", AppDoStyle.HIDEN)
+            },
+            this),
+            this.updateView()
+        },
+        e.prototype.reShow = function() {
+            this.updateView()
+        },
+        e.prototype.updateView = function() {
+            var i = this;
+            KTool.getBitSet([9042],
+            function(e) {
+                var t = PetManager.hasPet(70),
+                n = !!e[0] || !t;
+                i.imgDone1.visible = n,
+                i.btn1.touchEnabled = !n,
+                i.imgDone2.visible = !1,
+                i.btn2.touchEnabled = !0
+            })
+        },
+        e
+    } (BaseModule);
+    i.LeiyiSpecialTraining = e,
+    __reflect(e.prototype, "leiyiSpecialTraining.LeiyiSpecialTraining")
+} (leiyiSpecialTraining || (leiyiSpecialTraining = {}));
+var __reflect = this && this.__reflect ||
+function(i, e, t) {
+    i.__class__ = e,
+    t ? t.push(e) : t = [e],
+    i.__types__ = i.__types__ ? t.concat(i.__types__) : t
+},
+__extends = this && this.__extends ||
+function(i, e) {
+    function t() {
+        this.constructor = i
+    }
+    for (var n in e) e.hasOwnProperty(n) && (i[n] = e[n]);
+    t.prototype = e.prototype,
+    i.prototype = new t
+},
+leiyiSpecialTraining; !
+function(i) {
+    var e = function(e) {
+        function t() {
+            var i = e.call(this) || this;
+            return i.index = 0,
+            i.skinName = LeiyiSpecialTrainingFightSkin,
+            i.cacheAsBitmap = !0,
+            i
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            e.prototype.initOldPveBtnClose.call(this, 0, this, "leiyi_special_training_fight_title_png"),
+            this.adaptBgByScale(this.bg),
+            this.mainGroup.left = DeviceInfoManager.adapterOffSetX || 22,
+            this.mainGroup.right = DeviceInfoManager.adapterOffSetX || 32,
+            ImageButtonUtil.add(this.bag,
+            function() {
+                ModuleManager.showModuleByID(10)
+            },
+            this),
+            ImageButtonUtil.add(this.cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK,
+            function(i) {
+                if (FightManager.isWin && t.index > 6) {
+                    var e = ["极光刃", "闪电斗气", "元气电光球", "雷神觉醒", "雷神天明闪"];
+                    Alarm.show("已获得" + e[t.index - 7] + "技能，可以打开背包查看")
+                } else if (FightManager.isWin && t.index < 7) {
+                    var n = ["体力", " 防御", "特防", "攻击", "特攻", "速度"];
+                    Alarm.show("挑战成功！" + n[t.index - 1] + "属性增加")
+                }
+            },
+            this),
+            EventManager.addEventListener("LeiyiSpecialTrainingFight_close",
+            function() {
+                t.onClose()
+            },
+            this);
+            for (var n = function(i) {
+                ImageButtonUtil.add(r["r" + (i + 1)],
+                function() {
+                    t.index = i + 1,
+                    FightManager.fightNoMapBoss(10187 + i)
+                },
+                r)
+            },
+            r = this, a = 0; 6 > a; a++) n(a);
+            for (var o = function(i) {
+                ImageButtonUtil.add(_["l" + (i + 1)],
+                function() {
+                    t.index = i + 7,
+                    FightManager.fightNoMapBoss(10193 + i)
+                },
+                _)
+            },
+            _ = this, a = 0; 5 > a; a++) o(a);
+            i.LeiyiSpecialManager.getData(function() {
+                t.updateView()
+            },
+            this),
+            this.leiyiAnim = SpineUtil.createAnimate("lytx"),
+            this.addChild(this.leiyiAnim),
+            this.leiyiAnim.touchEnabled = !1,
+            this.leiyiAnim.touchChildren = !1,
+            this.leiyiAnim.x = 563,
+            this.leiyiAnim.y = 318,
+            this.leiyiAnim.visible = !1,
+            egret.localStorage.getItem("leiyiAnimPlayTimes") || egret.localStorage.setItem("leiyiAnimPlayTimes", "0")
+        },
+        t.prototype.reShow = function() {
+            var e = this;
+            i.LeiyiSpecialManager.getData(function() {
+                e.updateView()
+            },
+            this)
+        },
+        t.prototype.updateView = function() {
+            for (var e = this,
+            t = 0,
+            n = 0; 6 > n; n++) this["tx" + (n + 1)].text = i.LeiyiSpecialManager._current[n] + "/" + i.LeiyiSpecialManager._total[n],
+            this["d" + (n + 1)].visible = i.LeiyiSpecialManager._current[n] >= i.LeiyiSpecialManager._total[n],
+            this["r" + (n + 1)].touchEnabled = i.LeiyiSpecialManager._current[n] < i.LeiyiSpecialManager._total[n],
+            4 > n ? (this["done" + (n + 1)].visible = 1 == KTool.getBit(i.LeiyiSpecialManager.get6909, n + 1), this["l" + (n + 1)].touchEnabled = 0 == KTool.getBit(i.LeiyiSpecialManager.get6909, n + 1), this["done" + (n + 1)].visible && ++t) : 4 == n && t >= 4 && ("0" == egret.localStorage.getItem("leiyiAnimPlayTimes") ? this.playAnim() : (this["done" + (n + 1)].visible = 1 == KTool.getBit(i.LeiyiSpecialManager.get6909, n + 1), this["l" + (n + 1)].visible = 0 == KTool.getBit(i.LeiyiSpecialManager.get6909, n + 1)));
+            i.LeiyiSpecialManager.allover && Alarm.show("恭喜你完成了全部特训内容！",
+            function() {
+                e.onClose()
+            })
+        },
+        t.prototype.playAnim = function() {
+            var e = this;
+            this.leiyiAnim.visible = !0,
+            this.leiyiAnim.play("animation", 1, 1, {
+                playEnd: function() {
+                    e.leiyiAnim.visible = !1,
+                    e.done5.visible = 1 == KTool.getBit(i.LeiyiSpecialManager.get6909, 5),
+                    e.l5.visible = 0 == KTool.getBit(i.LeiyiSpecialManager.get6909, 5),
+                    egret.localStorage.setItem("leiyiAnimPlayTimes", "1")
+                }
+            })
+        },
+        t
+    } (BaseModule);
+    i.LeiyiSpecialTrainingFight = e,
+    __reflect(e.prototype, "leiyiSpecialTraining.LeiyiSpecialTrainingFight")
+} (leiyiSpecialTraining || (leiyiSpecialTraining = {}));
+var __extends = this && this.__extends ||
+function(i, e) {
+    function t() {
+        this.constructor = i
+    }
+    for (var n in e) e.hasOwnProperty(n) && (i[n] = e[n]);
+    t.prototype = e.prototype,
+    i.prototype = new t
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/LeiyiSpecialTrainingFightSkin.exml"] = window.LeiyiSpecialTrainingFightSkin = function(i) {
+    function e() {
+        i.call(this),
+        this.skinParts = ["bg", "l1", "done1", "l2", "done2", "l3", "done3", "l4", "done4", "tx4", "d4", "r4", "tx5", "d5", "r5", "tx2", "d2", "r2", "tx3", "d3", "r3", "tx6", "d6", "r6", "tx1", "d1", "r1", "bag", "cure", "l5", "done5", "mainGroup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.mainGroup_i()]
+    }
+    __extends(e, i);
+    var t = e.prototype;
+    return t.bg_i = function() {
+        var i = new eui.Image;
+        return this.bg = i,
+        i.horizontalCenter = 0,
+        i.source = "leiyi_special_training_bg_jpg",
+        i.verticalCenter = 0,
+        i
+    },
+    t.mainGroup_i = function() {
+        var i = new eui.Group;
+        return this.mainGroup = i,
+        i.height = 546,
+        i.horizontalCenter = -5,
+        i.left = 22,
+        i.right = 32,
+        i.y = 58,
+        i.elementsContent = [this._Image1_i(), this._Image2_i(), this.l1_i(), this.done1_i(), this.l2_i(), this.done2_i(), this.l3_i(), this.done3_i(), this.l4_i(), this.done4_i(), this._Group1_i(), this._Image10_i(), this.bag_i(), this.cure_i(), this.l5_i(), this.done5_i()],
+        i
+    },
+    t._Image1_i = function() {
+        var i = new eui.Image;
+        return i.horizontalCenter = -32.5,
+        i.source = "leiyi_special_training_pet_png",
+        i.y = 62,
+        i
+    },
+    t._Image2_i = function() {
+        var i = new eui.Image;
+        return i.horizontalCenter = -45.5,
+        i.source = "leiyi_special_training_fight_pet_png",
+        i.y = 515,
+        i
+    },
+    t.l1_i = function() {
+        var i = new eui.Image;
+        return this.l1 = i,
+        i.source = "leiyi_special_training_fight_l1_png",
+        i.x = 1,
+        i.y = 37,
+        i
+    },
+    t.done1_i = function() {
+        var i = new eui.Image;
+        return this.done1 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 161,
+        i.y = 91.93,
+        i
+    },
+    t.l2_i = function() {
+        var i = new eui.Image;
+        return this.l2 = i,
+        i.source = "leiyi_special_training_fight_l2_png",
+        i.x = 1,
+        i.y = 146,
+        i
+    },
+    t.done2_i = function() {
+        var i = new eui.Image;
+        return this.done2 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 161,
+        i.y = 200.56,
+        i
+    },
+    t.l3_i = function() {
+        var i = new eui.Image;
+        return this.l3 = i,
+        i.source = "leiyi_special_training_fight_l3_png",
+        i.visible = !0,
+        i.x = 1,
+        i.y = 254,
+        i
+    },
+    t.done3_i = function() {
+        var i = new eui.Image;
+        return this.done3 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 161,
+        i.y = 308.202,
+        i
+    },
+    t.l4_i = function() {
+        var i = new eui.Image;
+        return this.l4 = i,
+        i.source = "leiyi_special_training_fight_l4_png",
+        i.x = 1,
+        i.y = 363,
+        i
+    },
+    t.done4_i = function() {
+        var i = new eui.Image;
+        return this.done4 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 161,
+        i.y = 417.392,
+        i
+    },
+    t._Group1_i = function() {
+        var i = new eui.Group;
+        return i.height = 471,
+        i.right = 0,
+        i.width = 389,
+        i.y = 0,
+        i.elementsContent = [this.r4_i(), this.r5_i(), this.r2_i(), this.r3_i(), this.r6_i(), this.r1_i(), this._Image9_i()],
+        i
+    },
+    t.r4_i = function() {
+        var i = new eui.Group;
+        return this.r4 = i,
+        i.height = 130,
+        i.width = 192,
+        i.x = 0,
+        i.y = 37,
+        i.elementsContent = [this._Image3_i(), this.tx4_i(), this.d4_i()],
+        i
+    },
+    t._Image3_i = function() {
+        var i = new eui.Image;
+        return i.source = "leiyi_special_training_fight_r1_png",
+        i.x = 0,
+        i.y = 0,
+        i
+    },
+    t.tx4_i = function() {
+        var i = new eui.Label;
+        return this.tx4 = i,
+        i.fontFamily = "MFShangHei",
+        i.right = 23,
+        i.size = 20,
+        i.text = "--/--",
+        i.textColor = 16514895,
+        i.y = 59,
+        i
+    },
+    t.d4_i = function() {
+        var i = new eui.Image;
+        return this.d4 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 16,
+        i.y = 82,
+        i
+    },
+    t.r5_i = function() {
+        var i = new eui.Group;
+        return this.r5 = i,
+        i.height = 130,
+        i.width = 192,
+        i.x = 197,
+        i.y = 37,
+        i.elementsContent = [this._Image4_i(), this.tx5_i(), this.d5_i()],
+        i
+    },
+    t._Image4_i = function() {
+        var i = new eui.Image;
+        return i.source = "leiyi_special_training_fight_r2_png",
+        i.x = 0,
+        i.y = 0,
+        i
+    },
+    t.tx5_i = function() {
+        var i = new eui.Label;
+        return this.tx5 = i,
+        i.fontFamily = "MFShangHei",
+        i.right = 23,
+        i.size = 20,
+        i.text = "--/--",
+        i.textColor = 16514895,
+        i.y = 59,
+        i
+    },
+    t.d5_i = function() {
+        var i = new eui.Image;
+        return this.d5 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 14,
+        i.y = 82,
+        i
+    },
+    t.r2_i = function() {
+        var i = new eui.Group;
+        return this.r2 = i,
+        i.height = 131,
+        i.width = 192,
+        i.x = 0,
+        i.y = 188.7,
+        i.elementsContent = [this._Image5_i(), this.tx2_i(), this.d2_i()],
+        i
+    },
+    t._Image5_i = function() {
+        var i = new eui.Image;
+        return i.source = "leiyi_special_training_fight_r3_png",
+        i.x = 0,
+        i.y = 0,
+        i
+    },
+    t.tx2_i = function() {
+        var i = new eui.Label;
+        return this.tx2 = i,
+        i.fontFamily = "MFShangHei",
+        i.right = 23,
+        i.size = 20,
+        i.text = "--/--",
+        i.textColor = 16514895,
+        i.y = 59,
+        i
+    },
+    t.d2_i = function() {
+        var i = new eui.Image;
+        return this.d2 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 16,
+        i.y = 81.64,
+        i
+    },
+    t.r3_i = function() {
+        var i = new eui.Group;
+        return this.r3 = i,
+        i.height = 131,
+        i.width = 192,
+        i.x = 197,
+        i.y = 188.7,
+        i.elementsContent = [this._Image6_i(), this.tx3_i(), this.d3_i()],
+        i
+    },
+    t._Image6_i = function() {
+        var i = new eui.Image;
+        return i.source = "leiyi_special_training_fight_r4_png",
+        i.x = 0,
+        i.y = 0,
+        i
+    },
+    t.tx3_i = function() {
+        var i = new eui.Label;
+        return this.tx3 = i,
+        i.fontFamily = "MFShangHei",
+        i.right = 23,
+        i.size = 20,
+        i.text = "--/--",
+        i.textColor = 16514895,
+        i.y = 59,
+        i
+    },
+    t.d3_i = function() {
+        var i = new eui.Image;
+        return this.d3 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 14,
+        i.y = 80.79,
+        i
+    },
+    t.r6_i = function() {
+        var i = new eui.Group;
+        return this.r6 = i,
+        i.height = 131,
+        i.width = 192,
+        i.x = 0,
+        i.y = 340,
+        i.elementsContent = [this._Image7_i(), this.tx6_i(), this.d6_i()],
+        i
+    },
+    t._Image7_i = function() {
+        var i = new eui.Image;
+        return i.source = "leiyi_special_training_fight_r5_png",
+        i.x = 0,
+        i.y = 0,
+        i
+    },
+    t.tx6_i = function() {
+        var i = new eui.Label;
+        return this.tx6 = i,
+        i.fontFamily = "MFShangHei",
+        i.right = 23,
+        i.size = 20,
+        i.text = "--/--",
+        i.textColor = 16514895,
+        i.y = 59,
+        i
+    },
+    t.d6_i = function() {
+        var i = new eui.Image;
+        return this.d6 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 16,
+        i.y = 81.99,
+        i
+    },
+    t.r1_i = function() {
+        var i = new eui.Group;
+        return this.r1 = i,
+        i.height = 131,
+        i.width = 192,
+        i.x = 197,
+        i.y = 340,
+        i.elementsContent = [this._Image8_i(), this.tx1_i(), this.d1_i()],
+        i
+    },
+    t._Image8_i = function() {
+        var i = new eui.Image;
+        return i.source = "leiyi_special_training_fight_r6_png",
+        i.x = 0,
+        i.y = 0,
+        i
+    },
+    t.tx1_i = function() {
+        var i = new eui.Label;
+        return this.tx1 = i,
+        i.fontFamily = "MFShangHei",
+        i.right = 23,
+        i.size = 20,
+        i.text = "--/--",
+        i.textColor = 16514895,
+        i.y = 59,
+        i
+    },
+    t.d1_i = function() {
+        var i = new eui.Image;
+        return this.d1 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 14,
+        i.y = 83.11,
+        i
+    },
+    t._Image9_i = function() {
+        var i = new eui.Image;
+        return i.source = "leiyi_special_training_fight_attrtip_png",
+        i.x = 0,
+        i.y = 0,
+        i
+    },
+    t._Image10_i = function() {
+        var i = new eui.Image;
+        return i.source = "leiyi_special_training_fight_skilltip_png",
+        i.x = 0,
+        i.y = 0,
+        i
+    },
+    t.bag_i = function() {
+        var i = new eui.Image;
+        return this.bag = i,
+        i.source = "leiyi_special_training_fight_bag_png",
+        i.x = 15,
+        i.y = 475,
+        i
+    },
+    t.cure_i = function() {
+        var i = new eui.Image;
+        return this.cure = i,
+        i.source = "leiyi_special_training_fight_cure_png",
+        i.x = 102,
+        i.y = 475,
+        i
+    },
+    t.l5_i = function() {
+        var i = new eui.Image;
+        return this.l5 = i,
+        i.horizontalCenter = -32.5,
+        i.source = "leiyi_special_training_btnchallenge_png",
+        i.visible = !1,
+        i.y = 447,
+        i
+    },
+    t.done5_i = function() {
+        var i = new eui.Image;
+        return this.done5 = i,
+        i.horizontalCenter = -32.5,
+        i.source = "leiyi_special_training_haswin_png",
+        i.visible = !1,
+        i.y = 453,
+        i
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/LeiyiSpecialTrainingSkin.exml"] = window.LeiyiSpecialTrainingSkin = function(i) {
+    function e() {
+        i.call(this),
+        this.skinParts = ["bg", "btn2", "imgDone2", "btn1", "imgDone1"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i()]
+    }
+    __extends(e, i);
+    var t = e.prototype;
+    return t.bg_i = function() {
+        var i = new eui.Image;
+        return this.bg = i,
+        i.horizontalCenter = 0,
+        i.source = "leiyi_special_training_bg_jpg",
+        i.verticalCenter = 0,
+        i
+    },
+    t._Group1_i = function() {
+        var i = new eui.Group;
+        return i.height = 498,
+        i.horizontalCenter = 22,
+        i.width = 846,
+        i.y = 104.172,
+        i.elementsContent = [this._Image1_i(), this.btn2_i(), this.imgDone2_i(), this.btn1_i(), this.imgDone1_i()],
+        i
+    },
+    t._Image1_i = function() {
+        var i = new eui.Image;
+        return i.source = "leiyi_special_training_pet_png",
+        i.x = 0,
+        i.y = 14,
+        i
+    },
+    t.btn2_i = function() {
+        var i = new eui.Image;
+        return this.btn2 = i,
+        i.source = "leiyi_special_training_btn2_png",
+        i.x = 432,
+        i.y = 244,
+        i
+    },
+    t.imgDone2_i = function() {
+        var i = new eui.Image;
+        return this.imgDone2 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 674,
+        i.y = 392,
+        i
+    },
+    t.btn1_i = function() {
+        var i = new eui.Image;
+        return this.btn1 = i,
+        i.source = "leiyi_special_training_btn1_png",
+        i.x = 432,
+        i.y = 0,
+        i
+    },
+    t.imgDone1_i = function() {
+        var i = new eui.Image;
+        return this.imgDone1 = i,
+        i.source = "leiyi_special_training_imgdone_png",
+        i.visible = !1,
+        i.x = 674,
+        i.y = 148,
+        i
+    },
+    e
+} (eui.Skin);

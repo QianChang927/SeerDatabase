@@ -1,1 +1,1928 @@
-eval(function(){function Z(Z){for(B=_=0;B<Z;)X<2&&(X=64,k=92<(k="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKwP:LZ=XVL`?KBJ;:^@l<:z<rB:ACZKnWokZ?khF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@AoP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBA^>m:_wi:bJkCZkHF<WJ[?UiN>Zw<=kP<?poV[lS:A_:WlR:;M:HHn:UU^l[>`s^I?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwE]sF:;nTk:`XlkV<cA::SQJj_Dyk:[@N<`lX@BX_GFA=<^cl@]D`OKF]s;VY>Z_=cNgB@=Oxj;o>kkBFC:J:GR=:;mB::hj]:DBjAvzJA:g>Jy>gN?F`ZPNCNaa=LBlHDCU^]rK<LsIJDXY;BXEk?Z:RQZj^ZwOKfADHHK[ZdBridrOBEkPdpye;gQ]b[:KCC[@>:bLBA]B=Nu::JhxZxSJRLs?vTZ:^Usyaf_>:gI<RN?e:Sk:<e;LJbZGgJ:ZeaqRUi::]?sgQtF?F:En@E:f]UxeR:^HbFmxVkuuadf=A_ubPlJNrZ:HEnC[eSIlXDunQlBY^oXpVYe@L=]j^e<Gigplhs<hw::FTyA_ybTbUVsQLtQARjsxjT]r`WrpXyL=kDXyCzIIZ:>_mqyH;ZmRW;M[RQhwrxSV_kDGJ<=sE>VLJZZSZPVZ:;Nw@Jf=SkPHB::_s<JGK<I=B=`rUWg:=RYQ;Qk:;_H@yF<kABC;qFfJ;YZF:;Eh:;JIJ:rEo:P^`:@Ax>wDk:C`I@LSIU;L:@RLB:O_:;hG:@N>k;rKN:IUO:=SMJ;jbo:YUx:;djJ;hhN:YAG::[zk:T>o:JY^:>[zuM:@N^J::YMkt=:<Gok;zVlUVBT[x><J=:]<cDsP<vmAX:j@:EtNGGROi<KV:NNBZ:pI;QZ:PKMNDjZE?os::>NJ>:a<JW;kPg?;l`^::fPZNjq>RmoSN>l^g@eNABWe@LE<]l_kVZ::sy>mvEC^m`Z<esg=o<:`Z@[MO;cq>V[]CREEQ_OOsB:_U_j`y:><<;F:JPRsN:M]ft<B>RK:hCR=JI:m=cD]y<[q]>>zrsG<NhlGDg>arEwgscf=MD[:DeebesAedeF;ThfS:SMf:nZX@yfKkTp@@gTCcPAUdj;ke?eP`TqAPnTv@qeTxfXJuXKHz_Eg?L>i>tDCYdfH;vhoCvjKXZfkcyjGceMI:qPyD:?gLzCoOLm:JXCeTSfamARa[qAedgHf@iTZtNRufegYp]KyflZblh;obSc[]b`c[TaNhdiBLVSZvm<Hr`MjHmu[NDQrYZ?lvYP?n`sdRW:GR[y<cv]W:PFBEBjbw>HyMHZNfgDHI<gnzqVu=f[wv:D;gla>e]lkn_c<:qiVeZS`glm[PnN;pJP<RG`m?]@CF<wX;m@yW_Vk`rNiA]dRZG]G`aKvnraXHfH:stsNmzBI:tsQh_nr=cDE;x`bOyEnaP>r]aWtv`D^wEhb:zInX;arqyffR^^<dsvtyH>wLdEsECXL]_OEePojdRmt`fEqPVhCJ:qz@:?G?J:rET::e`J:rAD:;`QUm:NOJq_X;BXBx[@ZV@g<TKP<Bl:`NB@y>:pZcfk=S;kXD::lOcFlk;CoYDg<HutNnI>e_ZIZO<<:oEcKE;[M<s<gE:HkbNYZ_kjaY;qY[KB;<e`h=VVZ[<@^n@gHuMoJOk[[@sF@PJV:VcVA]COH:;l`tykYijJc]Ze<B;JF^ToOl:]:FyIRvHvGVtV@I]jBiz]LvG_Xfk>yBMAv<ZRC>sC=]:a@?>D>RJ;l_JiCc;ZSB[:L;C_mPsyZ^:_fcaD>BFJn[d<m:VBc?ZAZG;T:l:RRkSZ^tP;i=NtkZKr<e<w@kQkz[q`i@<:RVBgcg]C;mT_YCN;F^m[mFNw[KJAe`;DW]J@LRy_uHTDVGcV:H[W@KAo:RJl[:^=@:JDRglt]E@PDgWRV;WZv<q:VBsb]UZQ=kOsisvmbZj=X@><BN:J<M;:GjEsNmwbd;Z<<g?gJk<t=PVgkJsdO]]<`ELLcioP;lFFAF=ZUC<:qH>Gk:@R:y:Z>l>]]:A;>L]>TGRNJM:O^_;X=>K>^oY=c;;;]NJB:FL[:uGLZZWD@OFdP>R<gi;t]M:fDR=`cJiNwdDImkPJe`_J@SMRwJP]i;k<N@:Ykc:_;F;gJRYTI::R`=w;BRpdfAcUOkA>UZA:y:>>Xgm`Ra:w=C^N@yJVlJ@;@=q;hG`YZoadE@QEAlj[P]JfL;J@:R>XLlcKRg^ilJeNTeD@B=?ZkfPtfZGLM?X;i;@@DAgJOT?y]D^>AZ;:r:k;bCk=Df?UkVBr>t@:XR[eDkM[^Ugzc;:B:XZGI>Tk;oc[c>ZZFUst:Pnv>uBTzRM;x[bE:Bmyh^UF=hZdXg=Za:J;@;__J?ZK[Mma<N;PIG?R==bgjOD`hA;SOu<fC_HOTk]=J[WSZ=Zy^]JZ<>>RWgBUWNj@>Aaa`yk<<M@r^m_:a;Mlw:sHgJktv_I_=hQ:IRJ@Ep];w@W<:dsx:>UZ;:WgXZ=ogAqE@:o=Cx]_RZ::?^oC;dZr>J<lbBZ:TasrkB@Ces;rd:rkXBXex=JbUD>;^S]B;eMoHlaJQ@_<wRdVwR=tZoFQcRpk:crVs:mVBk:WaTXl[RhJp:E?jil[`?afFA=uQdopyl<>koeiZIJPu=oqRrL[Ux;uzoc;fEZ::YDX>ZA:^<;U]GwQ::;T>=bvi=oNkD`gx?u@:mOLydj=RZa<BSonA:RdfJ[UiNh`xEd[p^JZs:kFxB@JiKRjLJXfdZ::w_Q`B[eSKltMuaJFoUcuO[hDPojrdBBdn^t>HgTUmvpw]juGIBXXBGc>=C[gicazGd:FqSCv;uod[U_Pxhw=Fw[WJa[h:]?Pm:WUlqeh>=HrShJpayuyYNISkfMbxaPbzUkNvbEY:wfKP[y]Y:h[eWI;o:RAc_<FfT:XeAPupDbjjVqphfQDK?i`:CopWuEoe:orcR:A:w=l<BuCwMoBcX[@KHLk=feNEtW>BWd:XZ_GbK^bc:@WT@rh]B>pjRofboocop^shZlBgZV<ftjJkU_IBM`uRTM_@_]]==JRUZZ?AomhjMkWgIdfrRxdAfvZF`ksO^J[POEZJH:B:ZD<TkUCRkV<JHg:ZK[AYHxWpjX?eUhZwzKVUkRGKN`icy?>lCRLRJ:qpV]E:;UO_ThEVf:u;CRVl^CAJ<__@C<kwJoYK_EBluRAjbsaCkVMu>O?:F<N_AlbnCP:xVAu^w>TZWGeHBnd=M@_=oVeSfOPxq]Q>uJgKcziArmMy;cjis;gZ;:_Es>D`Md;wUwID:lFH>=kE@?:a;eVwIB=xCgR?FtUsB=jjY_b=z^]v?aDDe:lw`a`iPGxGSf:A_U<a?gGzNlMZs=HAXBi;r`k_c^ug:Gjfjj]GYcb=ACj:bGAFbDb=s[bCAiQcseQ@M?l@Qaj>_aQ;Q?Q=QAQ:rCm>r<r@rBA^uhrErIr?Z>I;BDI;m??CI<kGIBhGY@m>j>>fsfZP>gz;kYj>EHu]E@?HxC?;E?xCg^l@WBYjZBJ^kg?Dx@EHBQqCBX_GwDucAd;^uf=apiqA:Fd>c<MaM[:;;E@?:P:CY>PdM<v@h@v?cFy^[C_CPB::UmZ:OHT:<bKc:C=aZ:nU@:=sac:<?i[_i_Z:FWe::BKc::j@Z:CQD:<:zmqAc<majhR;jec;:KY`:YjfigRVi=ugYbx@Ya_SYh:XX:YFx<?DBK?=;;BYH>H<k;kEidJNY]Y<_XY_NYj_[f_Mn<Yb::NS:OY`CZcLBPxCNSx=NNaE@>kGR:oN]c=BG?w<F:sSFCPB:ARXZ:CW@::Khc:HZ;vRdsililZ:qf@::cHc:@BlZ:]ce:;@lc:I^zCsZXW]fFu;X;P;t:bHmsV_iuL@ZXS[?[O[]ongeoGF]lM[vD?RZ:hE@::HVa>R:I`DFKZ:vV@:=dyiqB:CoHZ:xQs<KwL:=n]Q>Mu=u^H:@E>CvHADgC@cFXNVFXEDcPFX_;FOFKwMFPBAFNgFwMZFy]gKgWgQgQgNVPVOVMVQLMe^ZPY;j>wLwPUjC@XHrF`@B?wLZCRNwNv?MARKhB<VsT<K<W<Y<MgL]P]S]Mz^]PcA]Q::LX>>LTNVEDLVcONKLJ[HcYNKDNf>=C:I]=u]<@Z:mHFC;=FC;<p?i^cNLAcJRK;gA[:G_TRNkHRMDMwMRYwYRVmSF><Qs;PHsWsYsN>JSD>S>U>Ji_ihoF=FRCdZO]k@p[B>?f?^ZBVElaV[Wcocw]kDREIcLj>;R>REPQNDkEcIg=u[cQr::L<GmCl]ZFTGY^uhLUXDVFo=ZAqO:RHUigHSFMgWqXHSHJHS_QkD<;kDZ:m>P]kLw@TFwYDH@::BeaeafV;FUhZ:<Vdsiuu@lSFPi::ZtZ^KLKEK[K@K;ybKjFdyCwfKUtFt`sItOydsykXBreztc]AseRN:q]l<pZCs;iyk>Z<Bm_Wd?<cZodQk_SYlfgLdgSwS`R?lNCgC<CPd@CPCEXQSRtjSgoNtvKEXBt<tO?zSKch?gtGC=?>tp?mtvtt:iC[cKd=eJ[M>JcAw>Frwjwc___o_V_<_L_F_e_a_i_[_d_`_h_^_E_Z<A_Z:<:kR_ka:;fmc:BZFY_IyLRj?yC=F[CJya]d`[dNoS<AV[T>io:kDcDsD[eGJY:BSL@b`D?tckFJZsHY:UJHXJSLT:uQJv`:F`DcZF@V@qZB:qqy@gal@XTKZM@WwT;j;MwVdp[A;DNdZ[aS@?@_@wObHsTY:eOuO<L=lY;qOu:rFbtV:iwXO;O>:F_f@JSP:COb<?s^<FVH:iwYVaJa:?RZ:GHSPL::DTTVR:?^z?Rr@XNi:YN:kr:T_L@iZr@?R::x<hLX::GBsJV:ysEJtMiSs:SJXZbb`fVAr@SO<_Hm?J;ZH^P=pQW@vmI_nATdVJIOks=PoA=P:;MVc:DXa_pFpVpjZH:]pI:V_MSX@up@pV_Csk]c]NNSoWOb?Kc^TBwfe^m?uUPNGpH=eJZa:gwVyIliwp>CNr:;iJ]p<PsmGKTLtuGslVtJZBPHuV:DHK:wpsGSRNJmpdsVPZZtsfGiuyGpGB]hG>gDG=Gpd?:BtL@E:khV:x>C:QGHFjGDp:hywkhL@ch?OWldwcLPOWpwoKTU>@tKRrTnO^@m_vO^`QOFVhwTRamH:fdvdu:bdSONyeVP]jZB:yD>;[<UJzm;oM:Ie?hR:h<_wKBh:uBr<lumi_T?`Qma]Ed@tUhAhW`_ddJ[miSyhoL@;?wMlf:Sh:orTnlfJYZgXDm_@u:VPymIcT@tZTRL@UJJ?R:UPBkCSi:`B?S=dBuHkR:tZ;uXWNXKhag<o::@am>ZGKFiCLaufyiJ@vKcHZEjDW_MQIDMMrHMLuiJFMPm>;<O:V?ieXG<CZ>kEnhkGyjcVd<?egFBEKahg;P`=ZCZDfPh:uGkCMJRQ?eg;hXujg=ZDnNk>cBe?PWcDBH<ZqSKbjQIBYQk?s@qJdaAbZGliYJ:?MicC?A<QUV<JGnl_skIvrkHBGVss:cGcFs<RHILLZWOy[>^Xd<=@aPOq;TC>DuDSrqaBoLpxZLBgCgBVBHoDB^]ztd^WmeEa`]@Pbt[wGk<=M>]Amk@llI@mImHSteECqgIJPuBMu_^@a[=V;qmqCQN@oOtVlOsE=HDk<iEGJXCeZr=XBSP<a?:aItpCDSm>JEcP]VFB^TfOf[dxpR:L<>ZDH_^_Zd=]vL[==I?]]gZV]`tHH@r<]Snvopv]]LF^AO>BKUlxByNUEsLRMRKXL?G>Konvq>KsH>F:;yOMBk:kbJxSSHlCmcu:h=^`=XqJHZ?Z]RE=;<jh]sYojXYCImx^P^zMrKUcBMu^NgE:bJNmIh>B[yp`Kd@^jm>Zmnh`ZXNgYLtWGBToa:icIsLVE;<:X:VuOwVyJ>YLJsxMYuN=SHuLTNyBeh[DI:ttvnttk>axhOSGpZ[xGngnWn;=wJTLfNuJp;ZpFJn<I>_klZxDaJfugpFn=Md=fMz@h;fu@pgpz:=JhNJawEFJNWfJXZ=>KaSE]_T_ZetZamB:EdKR;:kRqwSRTZvKZN;^d]Soyx<yZWQkl^:dLM`XDwyxnkJDp:[LR=a^z:?RLKU^RLf^cxmMCwyx:NwLI;n^Q:VLFf<fM]DLcE@Lp^PLP:GJND]T;f[L]DLmzqDD?L_ZOLVZ<ZDDxLi=iZnLCZtZQLAL<ZAfkmN:AZYLQDZmEZbfN:BJNTVmqJwTFmsU]J?f@TDmpTu>uJPm^JHmVTymqSKmzJBX`S?mOmyDhmZsxmK:@kPknmXk[kjMbmTnKw_fnk?e>XOOGpNBgBvpeX<XFlCJpTDXYWyBBkNnJNsM[:_MaDxBgMCXzES^E:npYopXRcWXBOgmVcbMX:nXIe_fvX^cQXRyJn`feXMh>MW^@]f=xcavXcqvi^kgQhFyN=rELyJWY:L^w;wsL^DV=JD;BxpORx>F>v;Wy;`VpVhVxV^VnVfVXMWTfDIV_EW;fJ=;Rwn;NwwlyxiwQ;Iv^llhxSTxtsZ`=v];MvwJEvm;IBe;^Uuf[WuAeAGOlh;;:Al;kAovYFLnydY?NoCCL[N^clFhhJoZA:F[LRV[lJdBnx_:XmwfbvhpagNJox@NQk?yZL;:?WdDvppWJS>Z[x:hXxCNeLRE]ToyBkXCYhwk:WmyyoV:cWt:sW_Wfi[LuBMT^A;d;Cetk`v>c`j>?RZ_>`:<J<F`c<<`><m`o<T`U_v_a`Rp?li_[`z_LWTnI?MAS`fkI^HBAvMUa;uA?nwwGwNQcn;<v=C<<QZF@MtCF^Vy_]T^]^iAD^lQwNdQno[vUXq^C<?vvey^[^TgfkYE]M_vxAR>[>O^Rfh^jM^^CA:fZL?AtwQQzF<kQ^TN[Z]X<UZFr^YU@X:vqX>M_@eZKXE:VMQBAQ;WsreMVv;QD[V>GKeZ>>pZRAcZ=C<lgSfCZ:ZS>Q@::apfdB:HZepl?rLQdAawBdeZSHsdZX^vMlwJp<JH>t];::uhjGc;xwGqKtfDGyCtlGKoJN;uJO:HGyA<BFLLB>FKTKlq:rZE_rrfbTCw`v=sv>PhCq:ECmkEIY^m<up:NsKE[Bnx[?hHNpSd:z>Ac<F:<D<a:I>BYO^nu:=y[kZNbDyqbBTh=tHtjI=rb?ZN^s;mJPJT;uc;guwHN_kzQcilF]D_e:rUokgm::Frn=izSYLcUzdmUq;CFohnOy_@MdZ=NoaIdldrSwlvh;^sUyfv<oMmf?FcMWEvyvOSMxMvMpEIMxgrCk:KWI]BVx`=A<VqVmI=`SVxVucEny::EoYNCzo;jQI[IM`<l>h:okh?hq:tbznsYVU:vnj@I?;u;OrN:oS_c=uZJ=yARN[_SgBHhXJArvX]ioa;<vxKPEGKbuw?bqjQhJWYa>WLWPWRCaPecGa@W@:<Qlk@xSTq]bMazP=PfP:yGvjEzYXjjBI`>@u<Iw=UGLwohQZ<YucBYnr=rthPInv?oQx@jWkvJbMT^NlW_qWs?M<k_:ZyTAMP?:pr]gpO:cBFFfj;uUN_YeJpD:M:Cv^fNB:?l<g@A[dSog@PMEJFDmmRRaBn>QEXNAXrTt=WHivzIaFDr?:?CacUmEEcGnORkwLXdAIUbI;OSTglH[JMO^hmLLR;WP^nL:EJHmM@g>ohJRJNN]ffPgWNF:Hp^N_WRsG@_EfG=DoaxS;;A:TZbdANAuJqc:ZkUNG_<`[LiOBqoDSmb<]y<lh_cSLO?:tL]UzC?JiDM:I]_CKbJo_]bLpjM]nKaZTNce=WHD]cEH?]N]e>Afm`OJoGeoBeUO@DaSKrwWVnuHO:e]OMT:ON:eWOGsDpJqglFEk:p>TbHdadZu`e=hhN?m@<RANYV?q^k>SkXcjuTRAJbu^[lPgZoc@FG<`:>d:d_oQkOG<RGGRW<BuimLkTNb^UNcVoJXKmcbaoC`cDosJu`DP[><JF@oMTRQ:<bqZWcv:QTAhCPAvJdd;o[:>W>Z=AJMdcZouIMAH]nCW:OoTuFO?i^T<vcJ:yuJxFX`Kk>s^V>iIQIX]jKE=UoUu@B;y[B=yS?uNnJ=Dp^LKZRU>_@=ZG;`ZnVcse;X?=FPmokRRgFH@LfB`NBn>S@F?@D^=WbcmFRPFU@UUDd`ll<SPg`H?s;C]_khOtF_qSMDdZJk_]hFyOKnFOZFmFRMF[ZCv;x[XkyZYFpZSv<p<SAuRQFtNWnCtZUMXRrgjBjZIwH]n;RZ@sP:Q??as[r_V:<PIRHg?@ktSM:aP<f@^^mk?R;KCPFf=eHTn?gTgWP=MBpb@mcsJFFqEf@_ZHlMR_:zPYDczOikURGK`PEUDn[amCRAKYPDQ>IKPmi^pgQaEoRuGqnvSeKKqXHeW`dZPSV@pqRFT>AilUSnFbBpvESbM>HSWFnBoBEx]aUw:EukJu>Lg=><ZtkVtZ;=?=`HTnJ]JwHQxB[ZqkcsNKLkmc@E^nK>^wV`uOfFM`Cn_s_FPJcMGM_?KosDNm@GpHjKSmH^qVUeCHGn^tCUdyVZiWA<EZ=A=hCV@a@QEmDOkDs<:Li?Q>@MOkTsX:qiMsSf]dcj=dJdiVrH>>hlBdfVq:@sAUZWlHsQVUiRh[v]xlj^SwYJpc:A^tBpoNZRX:Z:qmR@MgRwfUJCb`mwA<Z=cZFGd`>k_:jlqqivNRO>l[JiOsNFR=mbqBdnXNzXJkBJHiDVex=Noq>Z@@][]c`]YNfHO>PKaLcWO[eKRD<AZAZ<lKf:oZH:<X>F:O[aC;JPD:[mdu?:Mk?OIdDVnbLLWwkI>Yo;]>S@mR]eJSGjhpQDddNlCmYLLWl:s:mLK:V_k^@pPoCv_ATIc<JCCCD]yp;sQ:VLXJ:o_EKMc@BVn]lER`c:HCD:PcAlGR`EtN:E_qsGSD_smVb>T_]LWIKMvc:vCBZ;mYlEJ<<MeXU_lmO?GREyLi:KwLLLK?_=ZpHCs:PyET_L_g;NdPZMk<Z>mb@MYCL:FmK<AB<bFecuVVRLdlD`tMkT_[Grge@AA?MCCcYCl<SEw`<M:_`Nf<MOFVfhZnuBk@R=BAJ;EcqJc=UDWpGm`dMCRMNboI^QC?[tsuZeGcJkLEKMoSuYnFrg`;D<tsudgo[T:jlID<k^sKobDUIMmtvMTdowTbjOC<bAMckdoxTXkMbmvlcCT>n?;[IF?iNNZH>_k`tOkao`NCwXR]T?PqA[Nzd:FHROKCtLe;TCcZK^:lB`kOOdy[pBhFWLe]bNw[xETk@k>aAp`d>V:TXAg?oa?OUTNME:HhqN`LkH<Hk<x=[mM]UkZXB]>A_ck[us;]HR>sI`KrzUBx`XBAAD=u;PaCoIZBNlzam:ybTw^;P>xmhtQk`w`swK>vQeKGqM_LS]`>e>V=ZLeBm_e?Fq_D^IqfcnRswzA@JJ=lac:<SXKIaDxP>;_nmFyg_ID;ODerl=:F_GL<^bJ:bx^oJZ;HahC<_`pkuNg[W^EIM[mmZSzozgKWmOacd:eRslb@=H^JJnYd[:IC[YP]dTnh:NRd:AKDBnVwb:CNgeN<GrsENIu<^CNUDBqfDKnVKwA]HUMEdGw<wun?ZBABUbD]<w<@QWGbCrJhN?C^`;PcX]N<@mSyBNn@JN>XasnwSk@@L@XLRmb[iFB:NaQEaJdFSvSUOUFiDCWbR`?g=FdBHqAq=OnPT;:T=;PMT=Ono@r:>::`[vscKHka:G@UImELFgz:DvWp>c;XaUMTXMTR:SdIf`VJ@_qZChAc:zbMojtbuSiTrIzasFaoDuUUCZ@NZhNUTlOOM>R@Jc=SVK^g_PYvCXCtWf;sHOI>?J]Sf_GmPtEZ=iP?<@MsZ[tRwh@=IDQ`fm?T<v]k;TlzRw:=:ChFLLJ`nk]SowAW=IGI<^JkV>ZTqP;AX`DJttcoBn>Y<ydIOD;c]biCZ=_^DJuBm?E[PxBNOBSHddNwmYE]oQhLi:XSSDWIQe`pgrZxNjD@c<I]rM<ZC]sHiRg=<pnpmdWGcEcdschmb?JVplQElLtnK?XhAOAiJP@fXDmXQkIlL^lOstJMkB:m^fsft`DwuHV]z>;P@<Ozh<<wLpAiGm]Ng<RXy;N>Cm;R]V[WJH>VCO:=y<?ElZ@NM_Aw<<Pw<R`]IICJNeDN`Dm`ic<dONemNdD?XVLzlNr;TOhEe`mLqdOyp<QWEa`tLmdQw<]N@Fm;rFo:Sl?usqGr>:rTO_FccPWE^TA:pSWkEc<ehfedAYZT__>?HNyiBZ`B<Tr>?ahT::krlZBADJm<d:FZXpcs:NAZFa_DZxpbcCxR?m[_uZjphs:@LT<K_ZD=ddF`>?Kg`qFUWG?RD@AScG_LUXc<alT;vB=_[eMG]Va@<^:CZokYGjFNESCSA_dUEqLwZfTphTirmLhZND^L[n<?iLFJSB@dQQE_Nz`G?@hqlLH=b;KDGkPLZdJkM<ZIZeBQsC]@gd:[>TCBT>GL>K=Y;^D@BSD_yAmcZ[Re`BPeafJS<WNZsbBUT^m>[:ENvZ^iGT[DAqdN_tJtp?NG<<XdT[jeYpBoEc=;cJKEJ]GHAA;aW=W_rJ]tTfGT<FefPjDxS;xL=ExLcadTVh:yPaACtTowklh<iHPAhdHorTEcAq^<ex;[ocuB>HH_bMA=Sowu:sGaJiAfdGo<kbWAiaERAc^oCuLf?X[jKW]I[Mu?xGwIJ<z<joIuIxB<D:mCRGcZskFctJ[@kmRKL@H>Re@F<xfFFXJt>P^`p`c]LFw_m^>@EckhNwKJSUHRLDkn<Sn:ZsdTSLBNk>]yFWBdU:mDynF]PeUBwyb@Dn@l^Fl`aE_Qig?@iSWRccbx=mEwmGeDtdSB:JeC`@``OKLP=oYXap?^SVgMDYNMaIokUSmgju[v?YOelo;Pg`c_oTp`hAWSitaHCFOi]zNa^gtIcmFQ:c=AESeFL@gNP@HNkK]tgfHKU<WZt>:EToqBtFYAOMAbSnp@RxvAKin??RZGyR^IBPF;nNLmllZFA;=]fAJtTlVHW?:qDKkGdalTHOgS^Zv?EempIRvmeiiA@osocxHVVNnbs@gsSldOXVT[FQ>D]wFfRhVX<Fr><;SVwiVnIiHB`A]>PCskr@XIpm@sDp_G<r?U[hlI^vVQsprHv_xmj]YVf`YrFAFVe[sYJB>]k?ges:JMEPVXQFfGlaAnVbauX:l@>lPt=hxd@rEUZ_rB>?oUc_]@K:g=LUnhqaHjKjBIqlD@wMqbXFxgO;qbq`ywOcNfLI]rTOU@i?sF:E@Azkn[taEPe:=Z?e=Y;fk[y?fPphb;bK<_KcKuKph^;WUTZP@Jz?:?ovp`UqU>_O_a:@rQZvk;AGx_KnZ<xT]oIgK:iJ?p:_J]knB<VCmAWul:VBb@JR]Eop[]wRs>jWxh_d`tI?p`j][dRNiDN<my`>mgvMSJpuAl=io^LP>aq_B<VD:zAO^eEARtSF[kWV[_GAGnBpFYNgqvqgGhc;@[xuZYKvMnFp]kvkuPwKY?>A@:GdW:BP;EB?Nk<DZ`:F_:k]Lk=EVSo:<?EAQFgDZ]`mNkFwrhEFkbdkOqwg]HJKBSoem>pugmp^=Fn`ZF>SLFlqL]@Wvd:Oh:;BUXK=Krl;Ad=:QW=C<@`=mo?dZ;B]SO]tk:EhgRPyDZfs;q^Xta<hDh>i@Nap_sA]mqbUCTdhOeSK_laQ:N;v:xcKvFmA`nEqNtEbhcP_CXQ?@PYUl`OL]w=vpW`kD>?phM;Qh`Pb>_]LZlQQJTJGodKa@uvTmZUjwrcLn;f`U<Unc;bkuORnDlHXudM_cJmNRZUhK^J`pumTuMjPdfEhTqfUNW@:NUQ_GOqAtskinPI^i[hlQc_]p^W:`:;P^<Zc:tuulfW;Tqmkp:GREsJIjZ;=uKx[JFYJg?apHEskRyqYRY]ZT=T:DjUWBE=frof__kVyBFGR;V=sJ^xpyYC:J>Ylzc@Z<kSz@P>`BnUUxwkEYDw>gmF_rxOb=D:Q^pdFuu`tFNqfUgGMquFKNif]?jEs;rno:c=JkCUcKu?K]uc;vJJ@oJImxoHiHvh>eJNtL=U;aDPijQKapnUxHzhFbFSmS[aVEHpZDHhSkK:];x:HZKKN`[IpgZnx?yqVDyMrmb[Ng@;blLtnz`IfvmOvIMfvQBH;pM?BWFHhq_gvKoFoZ;erUzHVQ`o`Zieu?WWB<ppp=`qwd=?`ak=f:okz;ZIVcUlpGwqg]@?J:BbSkQ[_WFy?@e<>Oqhu;X;HogMxcVtREsxrjIQLM:y`Cv=JyxFe;<>zeSV^qunIQR>TEKZcbKzHyjTBUrB^T;XVw=ggMf<mds>=][d:xUgzbULFJqbPc:Mq^tvFsyKnKIdSHMtdVfa=;q;dVmIfUuuyAB;jec<Jt^lS<B:XD:ZBAZO[j<XZ<:EGQrdUoqJHxScr:neFixv:e:;jjjLw]?x]yZE>DS>Upsp@=uHYYjFRVr^R@iB:kJ[BMiCr<;LWywdFBYj_v?AjNzX_yBIfQ^=uk_DyhJ?::T^SJ<:M:=ZCjjz<jdtx=]TsyY?iI=uf>`]PWDwSI<omtwiyvZzjcc<AukMfEV]BKa;Gg[JMYKV>vN>[HBbF]TXuEjOpBL;s:Wx<LfbBkLqKlmiuAOKZLX>EETaxwiwZEBrPqLxX:qq_R>crqqAU^hdqzkyWgiqMtEXHQIKIqnoUZs=@K^KbV>emrMkXiZZ<JMc@PPV=LXaKkc<DUi]MV^`FrBcNbaw@yOB:f@o_pba<fxmRalXXCgDT]bMlxihXA>x=hN<NNV:Zq]vhWc[Zgmp:UFwA`vjPGyuFhnHwi@xeTQ;vP`>m^AgEmCFrUbq];XvShh`F<@<szipCMKn@Nyae`DcArdfrY^HVjsfbWnjz<_f:CSDw`V;>dLZLeOR>@`REaGP<BuJBiIyFBGfq^Suxawx:gBoUqhvFNha`jVScFmTqAtxHuk<Ib>YL=uWr=t`EribdwHUG?SlI?vXMrJ:t@TBGnXb`iahJHwWaClbjYAqHU`AnaeY:yhVl@=>GO^orYIam>@Fvohnclaj[J@At=OKyr@?Y;J@`^Y:LuKy`opZWJIUAcZKHuVzgUCpCZPxfcHCHFMbLEbxa<hNwHVSQ]Q@;JQloYXIf@=lKhsZCxslVRQpQ@`xQ:AsrNKZgnvzk?sAkGZHYbFhPPK]W`_JEbZEUXPJdzrYDUQtnkKP>dqgzZ_R>yvCqRS`ZHKXORKCdMdAAZPuU<JADxPTN>?N_=;Pa<enbenGDeWZaCgD:mUCc>]jT:SgoclmUGiV]lQQC]BLkI?Jw]XK>fmqG?ws@LcVR^Fk^N[gBIg?ZkC;boDYURMoPn;:KF:C`gMCFAFjHfEEJ>;Z<_^s<embEuZF@__AViVZfEb`r::g`VgyPzEiEOmSZ@wf;PZBXdtT:VfVg=cIE=dZDtDZQolwpc@pNnbZ@Ap]Z<:@pRCL_nb[dF^w__iO=SXqGaPwfLf:eqD?kQXeJwZFRCbUojUd:Gig]W:>_>`L?AakZ<TZbD`_Ck:naH:E:>S^N]AtRFwJQ:CZ@@iAt?WAB@H:J;RCS:g:CZT?DLQU;J:NwqyjdHhWj[=wXsqpiqT>=shWFU>iYQvCDqBae;usfoGTqa:Bbs[Zu@OjXex@Bbo[NfLL^ssjdiHJQq^zOx:B<XL`Gnm:d<MKNR[mUBQUfBtlo`BVXi_`]CNY;:oY;Wc=Pg:x>MKTF?T;s;ukia=oEe<MZJcoUU;:b^^Ulhh:sge]wZ@GRaicqCJDcTZihRy_ZNAfSb?]BuE[jZg??I_nc=A@RMg[AekpADFkZlZpZmBlsBy@:@KjkE<waGz>Hq:hrI?]>at:hYL:Ohk:]PGkcn>dAc^b_[?=Y<g;wrIBUOraPLqZafSrMoJ^Fx>GL>l^CR:q@BKwN[@d<Fn_;Iaym:J:RoXhdFYJ_OzmxpiLjq:rfuOoH``R@:tPDfDwPWdja]=MoLfh`wezvcwTtUefgXPeoFAehhbInRcOeypRf:mEWso_QefZ=ni:BKmo_HPhC:oELKlkZquLFyM;KWPDkW[ihWpYeE`qPvr]KCSb@_^VVnco_AexLrL;BrjZZpn:<hL_OC[DUfxNTDX=LcbuN:gphekhTMZhCcNZqaLIhXOlAQ;:Cp[UfokiiN;OvxGiux=UFu=TQfp_k@w=TIZnP_swprM>jXPiCd;hGpbTmhXijIrFEBHzTsY^dgdtrPcGe:>zVIiJqowMGbpDYYq`K:Eva:APxYUaiEqRsmxlGDhTzgbva]WW`;ujZvgQAYvGGmuwZs[gZmshc=dukO=Ijzbrfw?nso[SR:z@;x@yx<p_gZWcrEvfhpJEQR@;:I<ANGs[y:vcRN;qA<GqpD]RIkaM??N]]JDJbc^^K[?Vxayz:uPjtCLLTx^TscxX^DJFAL=pu>lZoXp;VvXp`Ky_:EjxOxAExnKkO=NZuIm:BtLlrENgWQP<cx>HluLLFmPHG<`^eixXAQisID:L^n[yUoSgaVnHgGzTRIXAgmKnU[XGuwGJyiBPU^w:Ibj>AygL:Cv]]xgGBzIjinmUE=zyuLQNV>IzAK=kCnua<XpMJbP:ARi_xjoXZs:ttDVBvkXjobm:Go?qGy?cOw:oeAMseXJy]XNIIfrlwYY:=QgFH^sDMcn:d:;jFI??tt<rM_uoWyHgu:MeZwNyXg[IyfJxf:Fd=`hOHN:hMwPwT:TWNZabh:Iw<Z?IEhInbM@Edp>tPNZP>ER?u[nwYZ;fQ[bmMgb;GU@VmJCbxhlKWMWRVypAeiwXSxOgDWEIm:EGtM@nRc;uICSbGrM=nVCKktyUZh_z<ETmQF`lUPGaHFMS^ZJcsgV_APlYbf:mqWUChprA@ZR[eKSUcoVw]GR_YkD^Fo^o@oRw;YtH?bBEuJq<xSi:LD:nE^aoY<tjc;sQYG]g:ET?jY;NQ]G^@t]s[;B;VUHEasTG@N^_;TQnlTPqUTI]_iXBUJFwdBjU=DKCbm_;`xszgWZJEAfEs?xkuDV_HkBS=utn>ziWYQOxw:WKmwzIhujWoWEwClux;jPInQe?KSlmtDV;TeLVtCkC>xHFrIXJc?xaH;XQr^vUAffm;olbWbYIetbnjtvRvxYeaJAOfcGtMC=Vo_krfp]GzTt^VIIsrVtCCyYUN^DENrsnjtmTuOd:jzQvEa@mgxebWIBrjkTGm<?^YBQlxGtbReX>a;OjBAGU`qo=TaXFiOJ^U`lpax]qPjJQXU_WhrjqSWjnxWnghsuviH=j[rcvn:>lafbYHSBttTWuc=VYnjNwxprGyqy=VN:G<KUpWlJxiWNIhrVgXc`Pu[F]InvN^ihyax;gXItWnUvGxXx;XwHvrj<DwIEgYXPbZ<dv?V[B>hILo>Iv?A<>y]R;=rTDc^tLIKAMXMixQBG`N<BduERH@UfU_yxX>[Xp;]IaVKxpysxVSIlA_vwwZlxZVEqvv<=[yyBGCD^JbAfoVwbRw^=n;cuR:WynGhPib[EAWKFMoa:oEjqzvFvb^w;sQVti`rhvl<TF=PY=qDb[XDFEgzeVaW@bnM_tqosuYhHfbCUrdv>zuWHis:JnfYTwz@ijoIbQni`zezzXDYyImbexwYXPX_IOb>hnSvdyeYuYxb[bktwStf<bHnIbMwGnrjQVxiV:YUa[kFvZ=IHAI?GhtwtzfYbrCbsMgxtJ<>xPVjZGpg^sistW?XKISxgdnwuOWeKEUBnfEx:zICDjuB[vqqnfSRVYvCZQycph<`otYq@r:rmxnqpwxZjNsOAmZEdoYWUZ:<YQlGA[;J:grf:VrgMkqwPxk;`jervnuGyBVUXhj_>TfpDylhB;;cSnA]LZ:J;Gqdd;JJ_@Wyy:wMMZTZDSStsDZv>Wj:UhhztsvWqifI=fanrVTLDo?xrW>HPuJ[_[^IjAob^vyKvwwqjiQhJTMsywvX`jXrtUpYW=wMVAipBuMo[FcdaVeZtIFIwfpxz[xwHXhxKSAvxtYWxHBEeyhlp^zXTdjSUlfpTuOuIj>I`rWBCxnotdzPXuYWluZjJsmx^iqjrn`Thsyvhk;]YebkGydwBI:uXHyBAmL^vyxUi:Y=mdQzivCTb[m:dsA=xwwBxWlxASQqQsxY;Y_KCjp;KxkDu?XBiKQmEjw;Dzd;eiob@fwwzfYIE@rFZxrb]PhA`YXz<PSEasXUU@XQ_Crcnh@t:u_VmK`QDf[qxHxTTw:nHbhiDlSWwhKQ>fjhcrHJw=iSPGicWyHs_dGGgI]fqkPHzSUmj?yef:k@euCUtN;F@fPdkz<pY:;hQ^:?RMeuQVaC?qDkSrTLH:EA^LKnyjWbiEpUstTYmbKaS<iITTymqkVgxiYABsswDHOvpsXMsWVDqWFhvLdeh``nrg:IpzFjo=lmz:wTXaA[jeyvBvZVfz>ArAuutRwuiPHni^z[cxEsFVN;nyNb_lrUGSwIyKjbr_>vmyrIeftwyzrZEtJ:pC?:n<yzsDtuMiKja=RoH::U=vPi;a:^uB;^v^OuzHuG[]sbXVfj<]:q[GcL=s;iEa_vDi^Q_tvJH<:LzvB;CI[Kvmu_raWkkXIS=Z;kXtP][tCirnbevdHUAfYRsibAecs?Jm^eRtlZIY^zsDXX=ex=DHdj]Yu_yT:MxuPXR:XfsJ;pCE@=c:E:=:@FHN=ZZAk<Cj[ntPi?j_Z<MXiZM<vwiVEfnUqycf]]vxPPLcLsmquM]IkYFT:iVL;yu:Evv=Nzjj<]i;dh^gKdHcI^fRdHdvZ=U[HrniBuZqZz[m=AyRrcR@MX>JVfta;rG[R@_B=jaDvHyH:S^Ss;CGc=Sq;ufc[uS:IZNl[Pqm_Fd;eJ>v_[tcootD>AXHQzfJ?aynG`mv_yp_gT<ki]JJ]vC;OZNvsq;_ffZ?Rigf`_?cqHJLntt;JY`esAiTM[fUui@f]kABXpyALtoJRJUMSu;k=fBAp;>EiZAPyEJRDtC;LEe_?W;>ZHEUfHY<`ES>iHuCNseqLhjEUn:at=s@Nico@XKFXBzHq=X;kY^i]?;[v]N?`;okKN>cXd<<psoqLY[vS]ZQhj?RSyIh[vZty:W[`U;qmoE`S?y=O;AT`yoWiQt`P`Yb<AW><BQQvyFTWfmSGP?:DrtE:qWcrT^yUB?rRZuGWZ_=l_szZITMy;v`IT^PMQgGTfNeyGYvgXz:TjuIqKzfzTUyOSgWTvyi`bR:AyZ=fN>f;R=dKsJHqZOYtEyGzam?ryI^jzs];[QbYc]XFbezS<;rzam<PHNjdRvmZwS?ssGiy=^B?^XQIhv<Z;NUditcyUvgKuT;O]gBtKy>cJquOXFdHnvE;Rrcu?Y:pQ^L@@iVhi]sS;jJLJ@_qM@HJ@HXOGdF?oi`t=T@Yu?WIFmGqZrjzU=X[cVJsLw_rcrTIiGv<JCgLTM@`dOy=O<Qupmh<AGvK[yrja@JJTrjzS?[Dr]P?K;XrZu<UXlRJEe`HlrfoAi;?RCWvQXuJWDsXZ>sAZEhZDfj::::^eT[jg<sDvZxkXc::JBHVh_J>XZnRNxsjX_ZPeA<[KcV:>a[pIaT@ji@j_EvMuBj]IRnmrn_lZ>ylj[e@E[]RJo>JX>ADR>L:hjhg>d;pZTERiyCkPvv=;P:AfUuqfZVq@X;QkFw@^;dE@AubZ>YZm?q[UQb[sHqAbfo]YqlsMXvYXSsOEtNy]ZPi@oyVUejdT[PI[fTWXMVe=Ru[aJ?P>@;dsYavwH?BNGLU;Wjio@Hykhbg@ei=sPV?Q;FhcQZeqGkVN@^J`EivtW@RpB:=EYc:=utc:;kDc::jS[d;Y[VT=esM;WcK=ulyOh_ltsyttFevNizkXvRdyJBPbuHPcBObvZ[DOgNStyoBRQuVPtwFlRpy]BNZ:lqDBRlRuKVy@_mR[pDBrvdqnOdbShyqWj@:=yYLFL>=yFg<QMLJ`dhQUxq>`^L;mBOo>_cnZJChL>LqNpfIuN;JNVm?L[fBRhTm[^U]e@mogg;zs?@Ppj?Ab[^zgt?HD`^at@XHH=dyS<ZxZFR=>HI_SP;qPQOgqKPi^[ivJrBiDdP;qKZ<@<RbZ_aAUBGodNM`@OZY_XOL_mrBK<c]cHzeWSvyRKZYs@[yZPdtJK@beTAWitcN`vcyWl`yScP@Q`ytq[_n^c?lK<RS;?_ySsY@<R;^RMDvy[qJTi?^KusK:?JPjpdyvn>KGboAmiu>Le;Iy>>NG@fKX>J`>@DI_`Z?cqIcKq?bK;:P^U`;Yz<[tM[UoY^RN;OGZZ>zqmoT<sl;ukQmuQ[tZPo>v;hsO_cA;kx`guiyPniV>FXH];k=Q;EkXq:TqsMhfUFKnsTX=wKBYaLlTqHI`F@E_rkUF@MiHIiJ=MyEhZ:;JsJT`>U_q>MWAm;SsMXR`og>Y?ucy>oPyukuFoU:@BXQkOx>NlxAZ=SPqQ:WssSKJAhW@byRcRo?LlvPcx>o[Npg@AHXDf[Ytoi[AZ<?mK:kF<AdyY`gd?yqiY`<>?ygBOdAQJKdZeSe:[O`AUuKmBTSTc[tgQDTPlHPhU?Cq_>`]>qgHBPLSPK:k?bRWypNWXZMTrPhC<WT;:I>=qKQ::Itjyo_BW@xyq]DZ=KlBChX:pqv;^R<V@o_>L@:BkybYfLJgHeL?DyOBP=co[M@ALA;K>peG<Diop]m?w;_NOlvvqbBQ`JWKijEm>xKmWjQsO:?_Wv>QZyBXruLcfH?zmkNA_WKsplw^`?AsH<cJI>ooh<?svSK[cHpUtKnNKP<hKhe_B;GKfy>O>]LyNNPZsee`dP=KKo_HJv_[LZKT>TyH:DAJH>M:?;MIcDQfIcGKTwT<s?KHWcJ;zwB_ip@UqrM=pAw[fFQRCm[Urgn?mykoJftaHR>Cq:yL]kCs>]q[kNHtlXTvhnACXIliY@>:nC?Y>nZOU[:`Ck>ICJ>kCYn`IA]oFwMEAayi>V:bBa^ccI>UKIJOhAx;O]]WA>;p<TvUTlIeDbvniY^HSAR[^O^v?s[p_JL>WyX<TB[?lBwX?@plxxcB@ZC`^bk`UZgwVpRtK<wXj@l:ENVxthK^NRz?ElawXOMUltNLdUE:=WehTAlUpgYAkKzIc[?MKnl_=kpZN:FwT:axwRj>UlEwOHKjl;p[zAUqithzAxKzzg=@:ChoLJ`zlc<RysRCFV?:bTXilE:bIi[]X:A@CkyeR_:aKNXZ`Y:bZOZ_MPH<T=RLC;<Ks`>CTkRo>dCd<Bx@UKqEix>oCLkDWAUKPgUC?FCw_N?Lvq_@?l<Aywigu?VHWJTD>F;:QcV@`lTG]_uOltG[fAk;_cYIU<C:ZOLKlK<cW?@PHbPhpc^C>qiA?wX<sJe>vuaNJe@buuVN[;qHIyiB`dKLNOe>sHfh`l:Uu[<N:?:CBX:FaVlV<Pfubl>:JCEMkpcNBvd>Z?F>@MH^h^MUOC:oLu@VymsVPtVlCmMn>TytmT>c?:u:<Z=viCJWwt<DsJ?l<^CwZEg_ycYkIu<V:?dCGtZd^vfpfmuTP_U]MupW`Rdt<kp>w?k;jkL^?^gwMHD;UCOC[FaCH>DNovJdA:E<bc;RVVo?bLpsF]bYCR:@]aTeZaFGJmJPZSFtdH:kQ]`H_=mMs`qX:<QB@qiV>Qh>BKzUeje>BkK_L;SZyve^RFXd<:l=MiPlbI<=T:eYJ>nZgJVebQZWAfTAzKfxHvBMioY`XMYH_]^obEyFcYQ@GiXM^FaCKFmPzuPHVVMzvha>lbe>ZdYDQ_tdCXmOs_Z;ioKivvK>LRWAwlPZXC>QKPlc`>XdVI^zAXCbOdZ>o[q:L_vR;_=bev_:RjbLsE;LePxC^keeMu]Zl^JQ>>qy_FVDsW;S>QX>NKxZU^@aqZ_JKuudShdoaR:Z]_<awd=eNXA[dbE[_`b[MTYaah;[TTKA]it>RF>_iyJK^>mJ]feQ?ui:GdQ?v[]ePkmruPTTqaPyu:Jb@WdPkO=>r[bJLP_zZEk;a<ogguG:vA;lEiP_j;Z]gcf=dXA]_vwDhhdFssl[DJgbbuLmTLb@[U;[kSBJKmT>_]dK]PDa:yTVUXbsJbvgBsFX_=bCKmd]]eX<oifeMbAn:guPu?Z:mRMzcldZQjK:;;MQ]hKsXoYa[>v>XA[:LK[LkG@A=XPNa;bl[ZoKmtC[u:La>yLTRRjZS[rDX`enDRLFS?gZXPgPKp[[RMP>AXu:DP@;N`:HPAUXdDOlaAXBMf_abXIs:xv=NfRO_czKFsSGmwdgHfH_Id;y_scjdjIa>bD;>LXA?KCt]Tuu]lc^apv;dm_<Ta>d@mLqamS>`]=cDS<QiG>BCsyg[AU[^>UX<PqkTLNbCySLUf>DKYJZ`SXPKgS<?;qdgV>cqlSYeORHl^?eSAhlbgMe^WlEYhk`xl?RBA>raoT>rSLc;MDA>ilGWc_eHKZ<B;uhKHsAz^fy:]SdsLqUQ_m>N:DM]ccEyRNUo`^lxVMg`=CJcNr?HCYBSN`;_eZ=ga@SmsUyRNCjcOJbbK:kMuaCX<<KjcGJTZ:EAWC=U_D>hdSz]isjKaJXW>FJijjAvkDTGfkA`SNg=E<lSNmPB`CK@><F_ilqcR_efSzDN`>zq<cX`_vi[qO`apCEeSWAES<o=C_hS=jCW`?c^v[u=skOR]>aDSUuX>bZqWqQxSRyDp>;_fN<:VFbrdfmMntaSYeV[TzCzmO^sEK_gJNnQSymNF=d:@>DSbkC=n[h`Ryana[aeDcGZmaktQeY=_N:=DN^_YC<<W^bYS<@OkADJEh[[>vSZHQ=_bu]LcM_blbmTIf>XyvjOtcKUlAzsE[nPQ=`jClmRn_BCN=C:?U[ZqPHs<DXsLf@ZqJFRKbdCwuRo>U;<JVibWdikLPa=;=ZKvuXyUsNC`yyCGZM?aqtEHAvOdKaB;@[[_veobXHKqUH`^S;mPH<bS]gTM>ZZU:Me:cXboMKJNl`da[vMZaAhys:S>jatv?;tiUU_rZ`iQE?b[KqP:bqtf:YOe@:UiNE@it=AivbcXQiR;>x[nhjOv]yHAaG=CiF_Rtb_:bhjg;:::".charCodeAt(F++))?k-59:k-58),_|=(0<(k&(X/=2))?1:0)<<B,++B}for(var J,_,B,c,k,A=[],R=1,N=3,C=1,K=[],X=0,F=0;;){if(Z(C+1),2==_)return K.join("");-2&(c=_)||(Z(8*_+8),A[c=N++]=String.fromCharCode(_),--R||(R=2<<C++)),K.push(c=A[c]||J+J[0]),J&&(A[N++]=J+c[0],--R||(R=2<<C++)),J=c}}());
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+energyResearchStation; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e.skinName = EnergyResearchStationSkin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            var n = this;
+            t.prototype.childrenCreated.call(this),
+            this.adaptBgByScale(this.bg),
+            this.ani = SpineUtil.createAnimate("nengyuanzhan"),
+            this.ani1 = SpineUtil.copy(this.ani),
+            this.aniGroup.addChild(this.ani),
+            this.ani.play("ani_zhuangzhi", 0),
+            this.aniGroup1.addChild(this.ani1),
+            this.ani1.play("ani_nengliang", 0),
+            ImageButtonUtil.add(this.tips,
+            function() {
+                tipsPop.TipsPop.openHelpPopById(116),
+                StatLogger.log("能源研究中心", "20221223H5新道具回收系统第四期（搬迁）", "打开Tips面板")
+            },
+            this),
+            ImageButtonUtil.add(this.recover,
+            function() {
+                var t = PopViewManager.createDefaultStyleObject();
+                t.maskShapeStyle.maskAlpha = .8,
+                PopViewManager.getInstance().openView(new e.EnergyResearchStationRecoverPop, t)
+            },
+            this),
+            ImageButtonUtil.add(this.exchange,
+            function() {
+                var t = PopViewManager.createDefaultStyleObject();
+                t.maskShapeStyle.maskAlpha = .8,
+                PopViewManager.getInstance().openView(new e.EnergyResearchStationExchangePop, t)
+            },
+            this),
+            ImageButtonUtil.add(this.img_get,
+            function() {
+                var t = PopViewManager.createDefaultStyleObject();
+                t.maskShapeStyle.maskAlpha = .8,
+                PopViewManager.getInstance().openView(new e.EnergyResearchStationEnergyPop, t)
+            },
+            this),
+            EventManager.addEventListener(e.EnergyResearchStationManager.EnergyResearchStationManager_UPDATE_ITEM_NUM,
+            function() {
+                n.num.text = core.gameUtil.ConvertItemNumView(e.EnergyResearchStationManager.itemNum, 0)
+            },
+            this),
+            e.EnergyResearchStationManager.getItemNum(),
+            e.EnergyResearchStationManager.init(),
+            StatLogger.log("能源研究中心", "20221223H5新道具回收系统第四期（搬迁）", "进入活动主界面")
+        },
+        n.prototype.destroy = function() {
+            DisplayUtil.removeForParent(this.ani),
+            this.ani = null,
+            DisplayUtil.removeForParent(this.ani1),
+            this.ani1 = null,
+            t.prototype.destroy.call(this)
+        },
+        n
+    } (BaseModule);
+    e.EnergyResearchStation = t,
+    __reflect(t.prototype, "energyResearchStation.EnergyResearchStation")
+} (energyResearchStation || (energyResearchStation = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(r, a) {
+        function o(e) {
+            try {
+                u(i.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                u(i["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function u(e) {
+            e.done ? r(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        u((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, a && (o = a[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(o = o.call(a, n[1])).done) return o;
+            switch (a = 0, o && (n = [0, o.value]), n[0]) {
+            case 0:
+            case 1:
+                o = n;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                a = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (o = u.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === n[0] && (!o || n[1] > o[0] && n[1] < o[3])) {
+                    u.label = n[1];
+                    break
+                }
+                if (6 === n[0] && u.label < o[1]) {
+                    u.label = o[1],
+                    o = n;
+                    break
+                }
+                if (o && u.label < o[2]) {
+                    u.label = o[2],
+                    u.ops.push(n);
+                    break
+                }
+                o[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            n = t.call(e, u)
+        } catch(i) {
+            n = [6, i],
+            a = 0
+        } finally {
+            r = o = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var r, a, o, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+energyResearchStation; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.all = 0,
+            e.skinName = EnergyResearchStationEnergyPopSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this),
+            this._list.itemRenderer = n,
+            this.energyMain.visible = !0,
+            this.exchangeEnergy.visible = !1,
+            this.ani = SpineUtil.createAnimate("nengyuanzhan"),
+            this.aniGroup.addChild(this.ani),
+            this.ani.visible = !1,
+            EventManager.addEventListener(e.EnergyResearchStationManager.EnergyResearchStationManager_UPDATE_ITEM_NUM,
+            function() {
+                i.num.text = core.gameUtil.ConvertItemNumView(e.EnergyResearchStationManager.itemNum, 0)
+            },
+            this),
+            ImageButtonUtil.add(this.close, this.hide, this),
+            ImageButtonUtil.add(this.go,
+            function() {
+                return i.all < 1e3 ? void BubblerManager.getInstance().showText("你未拥有足够的回收道具完成提交！") : (i.energyMain.visible = !1, void(i.exchangeEnergy.visible = !0))
+            },
+            this),
+            ImageButtonUtil.add(this.no1,
+            function() {
+                i.energyMain.visible = !0,
+                i.exchangeEnergy.visible = !1
+            },
+            this),
+            ImageButtonUtil.add(this.buy1,
+            function() {
+                Alert.show("确认消耗100000赛尔豆兑换？",
+                function() {
+                    e.EnergyResearchStationManager.send(201, 0,
+                    function() {
+                        BubblerManager.getInstance().showText("购买成功！获得1点纯源能量！"),
+                        i.updateView()
+                    },
+                    i)
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.buy10,
+            function() {
+                Alert.show("确认消耗1000000赛尔豆兑换？",
+                function() {
+                    e.EnergyResearchStationManager.send(202, 0,
+                    function() {
+                        BubblerManager.getInstance().showText("购买成功！获得10点纯源能量！"),
+                        i.updateView()
+                    },
+                    i)
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.go1,
+            function() {
+                var e = i.checkOutPut();
+                if (i.all < 1e3) return void BubblerManager.getInstance().showText("你未拥有足够的回收道具完成提交！");
+                for (var t = [], n = 0; n < e.length; n++) t.push(e[n].itemid, e[n].count);
+                i.go.touchEnabled = !1,
+                i.buy1.touchEnabled = !1,
+                i.buy10.touchEnabled = !1,
+                SocketConnection.sendByQueue(41901, [0, e.length, t],
+                function() {
+                    i.energyMain.visible = !0,
+                    i.exchangeEnergy.visible = !1,
+                    i.ani.visible = !0;
+                    var e = i.ani.play("ani_destroy", 1);
+                    e.on(3,
+                    function() {
+                        BubblerManager.getInstance().showText("兑换成功！获得1点纯源能量！"),
+                        i.go.touchEnabled = !0,
+                        i.buy1.touchEnabled = !0,
+                        i.buy10.touchEnabled = !0,
+                        i.updateView()
+                    })
+                })
+            },
+            this),
+            StatLogger.log("能源研究中心", "20221223H5新道具回收系统第四期（搬迁）", "打开【能量获取】面板"),
+            this.updateView()
+        },
+        i.prototype.updateView = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, n, i, r = this;
+                return __generator(this,
+                function(a) {
+                    switch (a.label) {
+                    case 0:
+                        return [4, e.EnergyResearchStationManager.getItemNum()];
+                    case 1:
+                        return a.sent(),
+                        [4, e.EnergyResearchStationManager.getExchangeNum()];
+                    case 2:
+                        return t = a.sent(),
+                        this.monthNum.text = "本期限兑：" + Math.min(50, t) + "/50",
+                        KTool.getMultiValue([e.EnergyResearchStationManager.dailyExchangeNum],
+                        function(e) {
+                            r.dailyNum.text = "今日限兑：" + Math.min(20, e[0]) + "/20",
+                            DisplayUtil.setEnabled(r.go, e[0] < 20, !0)
+                        }),
+                        n = ItemManager.getNumByID(1),
+                        DisplayUtil.setEnabled(this.buy1, n >= 1e5 && Math.max(50 - t, 0) >= 1, !0),
+                        DisplayUtil.setEnabled(this.buy10, n >= 1e6 && Math.max(50 - t, 0) >= 10, !0),
+                        [4, e.EnergyResearchStationManager.getLockArr()];
+                    case 3:
+                        return a.sent(),
+                        i = this.checkOutPut(),
+                        this._list.dataProvider = new eui.ArrayCollection(i),
+                        [2]
+                    }
+                })
+            })
+        },
+        i.prototype.checkOutPut = function() {
+            for (var t = e.EnergyResearchStationManager.unLockArr.sort(function(e, t) {
+                return t - e
+            }), n = [], i = 0, r = 0; r < t.length; r++) {
+                var a = t[r],
+                o = e.EnergyResearchStationManager.getXmlById(a),
+                s = o.OutputNum,
+                u = ItemManager.getNumByID(o.ItemID);
+                if (0 != u) {
+                    if (! (1e3 > i)) break;
+                    var h = Math.ceil((1e3 - i) / s);
+                    h >= u ? (n.push({
+                        itemid: o.ItemID,
+                        count: u
+                    }), i += u * s) : (n.push({
+                        itemid: o.ItemID,
+                        count: h
+                    }), i += h * s)
+                }
+            }
+            return this.all = i,
+            n
+        },
+        i.prototype.destroy = function() {
+            DisplayUtil.removeForParent(this.ani),
+            this.ani = null,
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeAll(this),
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    e.EnergyResearchStationEnergyPop = t,
+    __reflect(t.prototype, "energyResearchStation.EnergyResearchStationEnergyPop");
+    var n = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = EnergyResearchStationEnergyItemSkin,
+            ImageButtonUtil.add(t.icon,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: ~~t.info.itemid
+                })
+            },
+            t),
+            t
+        }
+        return __extends(t, e),
+        t.prototype.dataChanged = function() {
+            e.prototype.dataChanged.call(this),
+            this.info = this.data,
+            this.updateView()
+        },
+        t.prototype.updateView = function() {
+            this.icon.source = ClientConfig.getItemIcon(this.info.itemid);
+            var e = Math.min(9999, ItemManager.getNumByID(this.info.itemid));
+            this.num.textFlow = [{
+                text: "" + this.info.count
+            },
+            {
+                text: "/" + e,
+                style: {
+                    textColor: 16777215
+                }
+            }],
+            this.cacheAsBitmap = !0
+        },
+        t
+    } (BaseItemRenderer);
+    e.EnergyResearchStationEnergyItem = n,
+    __reflect(n.prototype, "energyResearchStation.EnergyResearchStationEnergyItem")
+} (energyResearchStation || (energyResearchStation = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+energyResearchStation; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = EnergyResearchStationExchangePopSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this),
+            this._list.itemRenderer = n,
+            EventManager.addEventListener(e.EnergyResearchStationManager.EnergyResearchStationManager_UPDATE_ITEM_NUM,
+            function() {
+                i.num.text = core.gameUtil.ConvertItemNumView(e.EnergyResearchStationManager.itemNum, 0)
+            },
+            this),
+            EventManager.addEventListener(e.EnergyResearchStationManager.EnergyResearchStationManager_UPDATE_ITEM_Exchange, this.updateView, this),
+            ImageButtonUtil.add(this.close, this.hide, this);
+            var r = e.EnergyResearchStationManager.xmlVersion.sort(function(e, t) {
+                return e.ID - t.ID
+            });
+            this._list.dataProvider = new eui.ArrayCollection(r),
+            this.updateView(),
+            StatLogger.log("能源研究中心", "20221223H5新道具回收系统第四期（搬迁）", "打开【本期兑换道具】面板")
+        },
+        i.prototype.updateView = function() {
+            e.EnergyResearchStationManager.getItemNum()
+        },
+        i.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeAll(this),
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    e.EnergyResearchStationExchangePop = t,
+    __reflect(t.prototype, "energyResearchStation.EnergyResearchStationExchangePop");
+    var n = function(t) {
+        function n() {
+            var n = t.call(this) || this;
+            return n.skinName = EnergyResearchStationExchangeItemSkin,
+            ImageButtonUtil.add(n.Buy,
+            function() {
+                Alert.show("确认要兑换此道具吗？",
+                function() {
+                    e.EnergyResearchStationManager.send(n.id, 0,
+                    function() {
+                        EventManager.dispatchEventWith(e.EnergyResearchStationManager.EnergyResearchStationManager_UPDATE_ITEM_Exchange)
+                    },
+                    n)
+                })
+            },
+            n),
+            ImageButtonUtil.add(n.icon,
+            function() {
+                var t = e.EnergyResearchStationManager.getVersionById(n.id);
+                tipsPop.TipsPop.openItemPop({
+                    id: t.RewardID
+                })
+            },
+            n),
+            EventManager.addEventListener(e.EnergyResearchStationManager.EnergyResearchStationManager_UPDATE_ITEM_NUM, n.updateView, n),
+            n
+        }
+        return __extends(n, t),
+        n.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this.id = ~~this.data.ID,
+            this.updateView()
+        },
+        n.prototype.updateView = function() {
+            var t = this,
+            n = e.EnergyResearchStationManager.getVersionById(this.id);
+            this.icon.source = ClientConfig.getItemIcon(n.RewardID);
+            var i = ItemXMLInfo.getName(n.RewardID);
+            this.itemName.text = i.length > 7 ? i.slice(0, 7) + "...": i,
+            this.num.text = "" + n.RewardNum,
+            KTool.getMultiValue([n.UserInfo],
+            function(i) {
+                var r = Math.max(n.ExchangeNum - i[0], 0);
+                t.xd.text = "限兑：" + Math.min(i[0], n.ExchangeNum) + "/" + n.ExchangeNum,
+                DisplayUtil.setEnabled(t.Buy, r > 0 && e.EnergyResearchStationManager.itemNum >= n.SubNum),
+                t.buyNum.text = n.SubNum + " 兑换"
+            }),
+            this.cacheAsBitmap = !0
+        },
+        n
+    } (BaseItemRenderer);
+    e.EnergyResearchStationExchangeItem = n,
+    __reflect(n.prototype, "energyResearchStation.EnergyResearchStationExchangeItem")
+} (energyResearchStation || (energyResearchStation = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(r, a) {
+        function o(e) {
+            try {
+                u(i.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                u(i["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function u(e) {
+            e.done ? r(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        u((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, a && (o = a[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(o = o.call(a, n[1])).done) return o;
+            switch (a = 0, o && (n = [0, o.value]), n[0]) {
+            case 0:
+            case 1:
+                o = n;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                a = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (o = u.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === n[0] && (!o || n[1] > o[0] && n[1] < o[3])) {
+                    u.label = n[1];
+                    break
+                }
+                if (6 === n[0] && u.label < o[1]) {
+                    u.label = o[1],
+                    o = n;
+                    break
+                }
+                if (o && u.label < o[2]) {
+                    u.label = o[2],
+                    u.ops.push(n);
+                    break
+                }
+                o[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            n = t.call(e, u)
+        } catch(i) {
+            n = [6, i],
+            a = 0
+        } finally {
+            r = o = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var r, a, o, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+energyResearchStation; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.init = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, n;
+                return __generator(this,
+                function(i) {
+                    switch (i.label) {
+                    case 0:
+                        return t = "Attirerecycle",
+                        n = "Attireconversion",
+                        [4, config.xml.load(t)];
+                    case 1:
+                        return i.sent(),
+                        [4, config.xml.load(n)];
+                    case 2:
+                        return i.sent(),
+                        e.xmlData = config.xml.getRes(t).Attirerecycles.Attirerecycle,
+                        e.xmlVersion = config.xml.getRes(n).Attireconversions.Attireconversion,
+                        e.xmlHash.clear(),
+                        e.versionHash.clear(),
+                        e.xmlData.filter(function(t) {
+                            return e.xmlHash.add(t.ID, t),
+                            !0
+                        }),
+                        e.xmlVersion = e.xmlVersion.filter(function(t) {
+                            return 1 != t.Platform ? (e.versionHash.add(t.ID, t), !0) : !1
+                        }),
+                        [2]
+                    }
+                })
+            })
+        },
+        e.getXmlById = function(t) {
+            return e.xmlHash.getValue(t)
+        },
+        e.getVersionById = function(t) {
+            return e.versionHash.getValue(t)
+        },
+        e.getItemNum = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t;
+                return __generator(this,
+                function(n) {
+                    switch (n.label) {
+                    case 0:
+                        return [4, KTool.getMultiValueAsync([e.itemForever])];
+                    case 1:
+                        return t = n.sent(),
+                        this.itemNum = t[0],
+                        EventManager.dispatchEventWith(e.EnergyResearchStationManager_UPDATE_ITEM_NUM),
+                        [2]
+                    }
+                })
+            })
+        },
+        e.getExchangeNum = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, n;
+                return __generator(this,
+                function(i) {
+                    switch (i.label) {
+                    case 0:
+                        return [4, KTool.getMultiValueAsync([e.exchangeNum])];
+                    case 1:
+                        return t = i.sent(),
+                        n = 255 & t[0],
+                        [2, n]
+                    }
+                })
+            })
+        },
+        e.getLockArr = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, n, i, r, a, o, s;
+                return __generator(this,
+                function(u) {
+                    switch (u.label) {
+                    case 0:
+                        t = e.xmlData,
+                        n = Math.ceil(t.length / 32),
+                        e.lockArr.length = 0,
+                        e.unLockArr.length = 0,
+                        a = 1,
+                        u.label = 1;
+                    case 1:
+                        return n >= a ? [4, KTool.getMultiValueAsync([124140 + a])] : [3, 4];
+                    case 2:
+                        for (o = u.sent(), i = o[0], s = 1; 32 >= s; s++) r = 32 * (a - 1) + s,
+                        1 == KTool.getBit(i, s) ? e.getXmlById(r) && e.lockArr.push(r) : e.getXmlById(r) && e.unLockArr.push(r);
+                        u.label = 3;
+                    case 3:
+                        return a++,
+                        [3, 1];
+                    case 4:
+                        return [2]
+                    }
+                })
+            })
+        },
+        e.send = function(e, t, n, i) {
+            var r = this;
+            SocketConnection.sendByQueue(41901, [e, t],
+            function() {
+                n && n.call(i || r)
+            })
+        },
+        e.itemForever = 124086,
+        e.exchangeNum = 124087,
+        e.dailyExchangeNum = 203113,
+        e.itemNum = 0,
+        e.xmlData = [],
+        e.xmlVersion = [],
+        e.xmlHash = new HashMap,
+        e.versionHash = new HashMap,
+        e.lockArr = [],
+        e.unLockArr = [],
+        e.EnergyResearchStationManager_UPDATE_ITEM_NUM = "EnergyResearchStationManager_UPDATE_ITEM_NUM",
+        e.EnergyResearchStationManager_UPDATE_ITEM_Exchange = "EnergyResearchStationManager_UPDATE_ITEM_Exchange",
+        e.EnergyResearchStationManager_SELECT_ITEM_RECOVER = "EnergyResearchStationManager_SELECT_ITEM_RECOVER",
+        e.EnergyResearchStationManager_UPDATE_ITEM_RECOVER = "EnergyResearchStationManager_UPDATE_ITEM_RECOVER",
+        e
+    } ();
+    e.EnergyResearchStationManager = t,
+    __reflect(t.prototype, "energyResearchStation.EnergyResearchStationManager")
+} (energyResearchStation || (energyResearchStation = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(r, a) {
+        function o(e) {
+            try {
+                u(i.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                u(i["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function u(e) {
+            e.done ? r(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        u((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, a && (o = a[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(o = o.call(a, n[1])).done) return o;
+            switch (a = 0, o && (n = [0, o.value]), n[0]) {
+            case 0:
+            case 1:
+                o = n;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                a = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (o = u.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === n[0] && (!o || n[1] > o[0] && n[1] < o[3])) {
+                    u.label = n[1];
+                    break
+                }
+                if (6 === n[0] && u.label < o[1]) {
+                    u.label = o[1],
+                    o = n;
+                    break
+                }
+                if (o && u.label < o[2]) {
+                    u.label = o[2],
+                    u.ops.push(n);
+                    break
+                }
+                o[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            n = t.call(e, u)
+        } catch(i) {
+            n = [6, i],
+            a = 0
+        } finally {
+            r = o = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var r, a, o, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+energyResearchStation; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = EnergyResearchStationRecoverPopSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this),
+            this.rbGroup = this.rb_hs.group,
+            this.rbGroup.selectedValue = this.rb_hs.value,
+            this._list.itemRenderer = n,
+            this.rbGroup.addEventListener(egret.Event.CHANGE, this.updateTab, this),
+            EventManager.addEventListener(e.EnergyResearchStationManager.EnergyResearchStationManager_SELECT_ITEM_RECOVER, this.updateView, this),
+            ImageButtonUtil.add(this.close, this.hide, this),
+            ImageButtonUtil.add(this.lock,
+            function() {
+                var t = ~~i._list.selectedItem,
+                n = e.EnergyResearchStationManager.lockArr.indexOf(t) > -1,
+                r = (n ? 2e3: 1e3) + t;
+                e.EnergyResearchStationManager.send(r, 0,
+                function() {
+                    return __awaiter(i, void 0, void 0,
+                    function() {
+                        var t;
+                        return __generator(this,
+                        function(n) {
+                            switch (n.label) {
+                            case 0:
+                                return t = ~~this.rbGroup.selectedValue || 1,
+                                2 != t ? [3, 1] : (this.updateTab(), [3, 3]);
+                            case 1:
+                                return [4, e.EnergyResearchStationManager.getLockArr()];
+                            case 2:
+                                n.sent(),
+                                EventManager.dispatchEventWith(e.EnergyResearchStationManager.EnergyResearchStationManager_UPDATE_ITEM_RECOVER),
+                                this.updateView(),
+                                n.label = 3;
+                            case 3:
+                                return [2]
+                            }
+                        })
+                    })
+                },
+                i)
+            },
+            this),
+            this.updateTab()
+        },
+        i.prototype.updateTab = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, n, i;
+                return __generator(this,
+                function(r) {
+                    switch (r.label) {
+                    case 0:
+                        return t = ~~this.rbGroup.selectedValue || 1,
+                        this.bg.source = 1 == t ? "energy_research_station_pop_recoverbg_png": "energy_research_station_pop_lockbg_png",
+                        this.itemGroup.visible = this.lock.visible = !1,
+                        this.empty_tip.visible = !1,
+                        this._scro.stopAnimation(),
+                        this._scro.viewport.scrollV = 0,
+                        [4, e.EnergyResearchStationManager.getLockArr()];
+                    case 1:
+                        return r.sent(),
+                        1 == t ? (n = e.EnergyResearchStationManager.unLockArr.concat(e.EnergyResearchStationManager.lockArr).sort(function(e, t) {
+                            return t - e
+                        }), this._list.dataProvider = new eui.ArrayCollection(n)) : (t = 2) && (this.empty_tip.visible = 0 == e.EnergyResearchStationManager.lockArr.length, this._list.dataProvider = new eui.ArrayCollection(e.EnergyResearchStationManager.lockArr.sort(function(e, t) {
+                            return t - e
+                        }))),
+                        i = 0,
+                        2 == t && (i = e.EnergyResearchStationManager.lockArr.length <= 0 ? null: 0),
+                        this._list.setSelectedIndex(i),
+                        this.updateView(),
+                        [2]
+                    }
+                })
+            })
+        },
+        i.prototype.updateView = function() {
+            this.updateItemDetail()
+        },
+        i.prototype.updateItemDetail = function() {
+            var t = ~~this._list.selectedItem;
+            if (t > 0) {
+                var n = e.EnergyResearchStationManager.getXmlById(t);
+                this.icon.source = ClientConfig.getItemIcon(n.ItemID),
+                this.itemName.text = n.ItemName,
+                this.haveNum.text = "拥有: " + ItemManager.getNumByID(n.ItemID),
+                this.desc.text = ItemTipXMLInfo.getItemDes(n.ItemID);
+                var i = e.EnergyResearchStationManager.lockArr.indexOf(t) > -1;
+                this.lock.source = i ? "energy_research_station_pop_jiesuo_png": "energy_research_station_pop_sduoding_png",
+                this.itemGroup.visible = this.lock.visible = !0
+            } else this.itemGroup.visible = this.lock.visible = !1
+        },
+        i.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeAll(this),
+            this.rbGroup.removeEventListener(egret.Event.CHANGE, this.updateTab, this),
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    e.EnergyResearchStationRecoverPop = t,
+    __reflect(t.prototype, "energyResearchStation.EnergyResearchStationRecoverPop");
+    var n = function(t) {
+        function n() {
+            var n = t.call(this) || this;
+            return n.skinName = EnergyResearchStationRecoverItemSkin,
+            ImageButtonUtil.add(n.touchGroup,
+            function() {
+                EventManager.dispatchEventWith(e.EnergyResearchStationManager.EnergyResearchStationManager_SELECT_ITEM_RECOVER)
+            },
+            n),
+            EventManager.addEventListener(e.EnergyResearchStationManager.EnergyResearchStationManager_UPDATE_ITEM_RECOVER, n.updateView, n),
+            StatLogger.log("能源研究中心", "20221223H5新道具回收系统第四期（搬迁）", "打开【本期回收道具】面板"),
+            n
+        }
+        return __extends(n, t),
+        n.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            this.data && (this.id = ~~this.data, this.updateView())
+        },
+        n.prototype.updateView = function() {
+            var t = e.EnergyResearchStationManager.getXmlById(this.id);
+            if (t) {
+                this.icon.source = ClientConfig.getItemIcon(t.ItemID);
+                var n = ItemManager.getNumByID(t.ItemID);
+                this.num.text = "" + n,
+                this.imgLock.visible = e.EnergyResearchStationManager.lockArr.indexOf(this.id) > -1,
+                this.selected || (this.bg.source = n > 0 ? "energy_research_station_pop_haveit_png": "energy_research_station_pop_noit_png"),
+                this.cacheAsBitmap = !0
+            }
+        },
+        n
+    } (BaseItemRenderer);
+    e.EnergyResearchStationRecoverItem = n,
+    __reflect(n.prototype, "energyResearchStation.EnergyResearchStationRecoverItem")
+} (energyResearchStation || (energyResearchStation = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/EnergyResearchStationEnergyItemSkin.exml"] = window.EnergyResearchStationEnergyItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["icon", "num"],
+        this.height = 75,
+        this.width = 75,
+        this.elementsContent = [this._Image1_i(), this.icon_i(), this.num_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_haveit_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 60,
+        e.horizontalCenter = 0,
+        e.verticalCenter = -3,
+        e.width = 60,
+        e
+    },
+    n.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 3,
+        e.size = 14,
+        e.stroke = 1,
+        e.strokeColor = 1712696,
+        e.text = "9999/99",
+        e.textColor = 16765477,
+        e.x = 16,
+        e.y = 57.9,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/EnergyResearchStationEnergyPopSkin.exml"] = window.EnergyResearchStationEnergyPopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["dailyNum", "monthNum", "buy1", "buy10", "go", "aniGroup", "energyMain", "_list", "no1", "go1", "exchangeEnergy", "close", "num"],
+        this.height = 507,
+        this.width = 804,
+        this.elementsContent = [this._Group2_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n._Group2_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Group1_i(), this._Image11_i(), this.close_i(), this.num_i()],
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 6,
+        e.elementsContent = [this._Image1_i(), this.energyMain_i(), this.exchangeEnergy_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_energy_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.energyMain_i = function() {
+        var e = new eui.Group;
+        return this.energyMain = e,
+        e.visible = !0,
+        e.x = 27,
+        e.y = 68,
+        e.elementsContent = [this._Image2_i(), this._Image3_i(), this._Image4_i(), this.dailyNum_i(), this.monthNum_i(), this._Image5_i(), this.buy1_i(), this.buy10_i(), this._Image6_i(), this._Image7_i(), this.go_i(), this.aniGroup_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 267,
+        e.source = "energy_research_station_reward_png",
+        e.width = 218,
+        e.x = 253,
+        e.y = 0,
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 108,
+        e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        e.source = "energy_research_station_pop_re2_png",
+        e.width = 722,
+        e.x = 0,
+        e.y = 294,
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        e.source = "energy_research_station_pop_re1_png",
+        e.width = 722,
+        e.x = 0,
+        e.y = 260,
+        e
+    },
+    n.dailyNum_i = function() {
+        var e = new eui.Label;
+        return this.dailyNum = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = -206,
+        e.size = 16,
+        e.textColor = 16514895,
+        e.y = 378,
+        e
+    },
+    n.monthNum_i = function() {
+        var e = new eui.Label;
+        return this.monthNum = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 183.5,
+        e.size = 16,
+        e.textColor = 4187130,
+        e.y = 378,
+        e
+    },
+    n._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_re3_png",
+        e.x = 131,
+        e.y = 261,
+        e
+    },
+    n.buy1_i = function() {
+        var e = new eui.Image;
+        return this.buy1 = e,
+        e.source = "energy_research_station_pop_buy10_png",
+        e.x = 425,
+        e.y = 322,
+        e
+    },
+    n.buy10_i = function() {
+        var e = new eui.Image;
+        return this.buy10 = e,
+        e.source = "energy_research_station_pop_buy1_png",
+        e.x = 531,
+        e.y = 322,
+        e
+    },
+    n._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_img100w_png",
+        e.x = 539,
+        e.y = 298,
+        e
+    },
+    n._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_img10w_png",
+        e.x = 432,
+        e.y = 298,
+        e
+    },
+    n.go_i = function() {
+        var e = new eui.Image;
+        return this.go = e,
+        e.source = "energy_research_station_pop_go1_png",
+        e.visible = !0,
+        e.x = 68,
+        e.y = 322,
+        e
+    },
+    n.aniGroup_i = function() {
+        var e = new eui.Group;
+        return this.aniGroup = e,
+        e.touchChildren = !1,
+        e.touchEnabled = !1,
+        e.touchThrough = !0,
+        e.x = 362,
+        e.y = 130,
+        e
+    },
+    n.exchangeEnergy_i = function() {
+        var e = new eui.Group;
+        return this.exchangeEnergy = e,
+        e.visible = !1,
+        e.x = 27,
+        e.y = 91,
+        e.elementsContent = [this._Image8_i(), this._Image9_i(), this._Scroller1_i(), this._Image10_i(), this.no1_i(), this.go1_i()],
+        e
+    },
+    n._Image8_i = function() {
+        var e = new eui.Image;
+        return e.height = 108,
+        e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        e.source = "energy_research_station_pop_re2_png",
+        e.width = 722,
+        e.x = 0,
+        e.y = 302,
+        e
+    },
+    n._Image9_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.scale9Grid = new egret.Rectangle(4, 4, 4, 4),
+        e.source = "energy_research_station_pop_re1_png",
+        e.width = 722,
+        e.x = 0,
+        e.y = 268,
+        e
+    },
+    n._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 263.565,
+        e.width = 693.643,
+        e.x = 16,
+        e.y = 0,
+        e.viewport = this._list_i(),
+        e
+    },
+    n._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    n._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalAlign = "left",
+        e.verticalAlign = "top",
+        e
+    },
+    n._Image10_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_energytext_png",
+        e.x = 114,
+        e.y = 272,
+        e
+    },
+    n.no1_i = function() {
+        var e = new eui.Image;
+        return this.no1 = e,
+        e.source = "energy_research_station_pop_no1_png",
+        e.x = 458,
+        e.y = 314,
+        e
+    },
+    n.go1_i = function() {
+        var e = new eui.Image;
+        return this.go1 = e,
+        e.source = "energy_research_station_pop_go_png",
+        e.x = 99,
+        e.y = 314,
+        e
+    },
+    n._Image11_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_numbg_png",
+        e.x = 564,
+        e.y = 50,
+        e
+    },
+    n.close_i = function() {
+        var e = new eui.Image;
+        return this.close = e,
+        e.source = "energy_research_station_pop_close_png",
+        e.x = 770.036,
+        e.y = 0,
+        e
+    },
+    n.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "99999",
+        e.textAlign = "center",
+        e.textColor = 16772909,
+        e.width = 70,
+        e.x = 682.55,
+        e.y = 58,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/EnergyResearchStationExchangeItemSkin.exml"] = window.EnergyResearchStationExchangeItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["icon", "buyNum", "Buy", "itemName", "xd", "num"],
+        this.height = 173,
+        this.width = 146,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.icon_i(), this.Buy_i(), this.itemName_i(), this.xd_i(), this.num_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_buyitembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 60,
+        e.horizontalCenter = 0,
+        e.verticalCenter = -18.5,
+        e.width = 60,
+        e
+    },
+    n.Buy_i = function() {
+        var e = new eui.Group;
+        return this.Buy = e,
+        e.touchChildren = !1,
+        e.x = 4,
+        e.y = 138,
+        e.elementsContent = [this._Image2_i(), this.buyNum_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_buybtnbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.buyNum_i = function() {
+        var e = new eui.Label;
+        return this.buyNum = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "999 兑换",
+        e.textAlign = "center",
+        e.textColor = 10181146,
+        e.width = 98,
+        e.x = 26,
+        e.y = 7,
+        e
+    },
+    n.itemName_i = function() {
+        var e = new eui.Label;
+        return this.itemName = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 16,
+        e.textColor = 14543359,
+        e.touchEnabled = !1,
+        e.y = 7,
+        e
+    },
+    n.xd_i = function() {
+        var e = new eui.Label;
+        return this.xd = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 0,
+        e.size = 14,
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.y = 117,
+        e
+    },
+    n.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 12,
+        e.size = 18,
+        e.stroke = 1,
+        e.strokeColor = 1518417,
+        e.text = "1",
+        e.textColor = 14543359,
+        e.touchEnabled = !1,
+        e.y = 93,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/EnergyResearchStationExchangePopSkin.exml"] = window.EnergyResearchStationExchangePopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["_list", "num", "close", "endText"],
+        this.height = 480,
+        this.width = 750,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this._Scroller1_i(), this._Image2_i(), this.num_i(), this.close_i(), this.endText_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_exchangebg_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.height = 374,
+        e.horizontalCenter = -4.5,
+        e.width = 630,
+        e.y = 90,
+        e.viewport = this._list_i(),
+        e
+    },
+    n._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.itemRendererSkinName = EnergyResearchStationExchangeItemSkin,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    n._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalAlign = "left",
+        e.horizontalGap = 15,
+        e.requestedColumnCount = 4,
+        e.verticalAlign = "top",
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_numbg_png",
+        e.x = 524,
+        e.y = 44,
+        e
+    },
+    n.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "99999",
+        e.textAlign = "center",
+        e.textColor = 16772909,
+        e.width = 70,
+        e.x = 642,
+        e.y = 52,
+        e
+    },
+    n.close_i = function() {
+        var e = new eui.Image;
+        return this.close = e,
+        e.source = "energy_research_station_pop_close_png",
+        e.x = 716,
+        e.y = 0,
+        e
+    },
+    n.endText_i = function() {
+        var e = new eui.Label;
+        return this.endText = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.stroke = 1,
+        e.strokeColor = 1533851,
+        e.text = "本期结束后更新",
+        e.textColor = 4187130,
+        e.x = 272.547,
+        e.y = 39.589,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/EnergyResearchStationRecoverItemSkin.exml"] = window.EnergyResearchStationRecoverItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "icon", "num", "imgLock", "touchGroup"],
+        this.currentState = "up",
+        this.height = 75,
+        this.width = 75,
+        this.elementsContent = [this._Image1_i(), this.bg_i(), this.icon_i(), this.num_i(), this.imgLock_i(), this.touchGroup_i()],
+        this.states = [new eui.State("down", [new eui.SetProperty("bg", "visible", !1)]), new eui.State("up", [])]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_selectit_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.horizontalCenter = 0,
+        e.source = "energy_research_station_pop_haveit_png",
+        e.verticalCenter = 0,
+        e
+    },
+    n.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 60,
+        e.horizontalCenter = 0,
+        e.touchEnabled = !1,
+        e.verticalCenter = 0,
+        e.width = 60,
+        e
+    },
+    n.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.right = 4,
+        e.size = 14,
+        e.stroke = 1,
+        e.strokeColor = 1712696,
+        e.text = "0",
+        e.textColor = 16776958,
+        e.touchEnabled = !1,
+        e.y = 58.739,
+        e
+    },
+    n.imgLock_i = function() {
+        var e = new eui.Image;
+        return this.imgLock = e,
+        e.source = "energy_research_station_pop_lockit_png",
+        e.touchEnabled = !1,
+        e.visible = !1,
+        e.x = 54,
+        e.y = 1,
+        e
+    },
+    n.touchGroup_i = function() {
+        var e = new eui.Group;
+        return this.touchGroup = e,
+        e.height = 75,
+        e.width = 75,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/EnergyResearchStationRecoverPopSkin.exml"] = window.EnergyResearchStationRecoverPopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "rb_hs", "rb_sd", "icon", "itemName", "haveNum", "desc", "itemGroup", "empty_tip", "_list", "_scro", "lock", "close"],
+        this.height = 480,
+        this.width = 883,
+        this.elementsContent = [this._Group1_i()]
+    }
+    __extends(t, e);
+    var n = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "energy_research_station_pop_huishou_down_png")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.percentHeight = 100,
+            e.source = "energy_research_station_pop_huishou_up_png",
+            e.percentWidth = 100,
+            e
+        },
+        n.labelDisplay_i = function() {
+            var e = new eui.Label;
+            return this.labelDisplay = e,
+            e.horizontalCenter = 0,
+            e.verticalCenter = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "energy_research_station_pop_suoding_uo_png")]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.percentHeight = 100,
+            e.source = "energy_research_station_pop_suoding_down_png",
+            e.percentWidth = 100,
+            e
+        },
+        n.labelDisplay_i = function() {
+            var e = new eui.Label;
+            return this.labelDisplay = e,
+            e.horizontalCenter = 0,
+            e.verticalCenter = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    r = t.prototype;
+    return r._Group1_i = function() {
+        var e = new eui.Group;
+        return e.height = 480,
+        e.width = 883,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.bg_i(), this._Image1_i(), this.rb_hs_i(), this.rb_sd_i(), this._Image2_i(), this.itemGroup_i(), this.empty_tip_i(), this._scro_i(), this.lock_i(), this.close_i()],
+        e
+    },
+    r.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "energy_research_station_pop_recoverbg_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 57,
+        e
+    },
+    r._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_recover_title_png",
+        e.x = 35,
+        e.y = 6,
+        e
+    },
+    r.rb_hs_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_hs = e,
+        e.groupName = "recoverGroup",
+        e.value = "1",
+        e.x = 0,
+        e.y = 91,
+        e.skinName = n,
+        e
+    },
+    r.rb_sd_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_sd = e,
+        e.groupName = "recoverGroup",
+        e.value = "2",
+        e.x = 0,
+        e.y = 180,
+        e.skinName = i,
+        e
+    },
+    r._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_detailline_png",
+        e.x = 601,
+        e.y = 168,
+        e
+    },
+    r.itemGroup_i = function() {
+        var e = new eui.Group;
+        return this.itemGroup = e,
+        e.visible = !0,
+        e.width = 259,
+        e.x = 601,
+        e.y = 87,
+        e.elementsContent = [this._Image3_i(), this.icon_i(), this.itemName_i(), this.haveNum_i(), this.desc_i()],
+        e
+    },
+    r._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_pop_haveit_png",
+        e.x = 7,
+        e.y = 0,
+        e
+    },
+    r.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 60,
+        e.width = 60,
+        e.x = 13.64,
+        e.y = 7,
+        e
+    },
+    r.itemName_i = function() {
+        var e = new eui.Label;
+        return this.itemName = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.textColor = 4187130,
+        e.width = 163,
+        e.x = 86,
+        e.y = 6,
+        e
+    },
+    r.haveNum_i = function() {
+        var e = new eui.Label;
+        return this.haveNum = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.textColor = 12834813,
+        e.x = 88,
+        e.y = 48,
+        e
+    },
+    r.desc_i = function() {
+        var e = new eui.Label;
+        return this.desc = e,
+        e.fontFamily = "MFShangHei",
+        e.lineSpacing = 6,
+        e.size = 16,
+        e.textColor = 8631282,
+        e.width = 240,
+        e.x = 10,
+        e.y = 96,
+        e
+    },
+    r.empty_tip_i = function() {
+        var e = new eui.Image;
+        return this.empty_tip = e,
+        e.source = "energy_research_station_pop_empty_tip_png",
+        e.visible = !1,
+        e.x = 231,
+        e.y = 205,
+        e
+    },
+    r._scro_i = function() {
+        var e = new eui.Scroller;
+        return this._scro = e,
+        e.height = 366,
+        e.width = 502,
+        e.x = 66,
+        e.y = 102,
+        e.viewport = this._list_i(),
+        e
+    },
+    r._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.itemRendererSkinName = EnergyResearchStationRecoverItemSkin,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    r._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalAlign = "left",
+        e.verticalAlign = "top",
+        e
+    },
+    r.lock_i = function() {
+        var e = new eui.Image;
+        return this.lock = e,
+        e.source = "energy_research_station_pop_sduoding_png",
+        e.visible = !1,
+        e.x = 647,
+        e.y = 387,
+        e
+    },
+    r.close_i = function() {
+        var e = new eui.Image;
+        return this.close = e,
+        e.source = "energy_research_station_pop_close_png",
+        e.x = 851.657,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/EnergyResearchStationSkin.exml"] = window.EnergyResearchStationSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "img_get", "tips", "recover", "exchange", "num", "aniGroup", "aniGroup1"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.horizontalCenter = 0,
+        e.source = "energy_research_station_bg_jpg",
+        e.y = 0,
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = 160.5,
+        e.y = 30,
+        e.elementsContent = [this.img_get_i(), this._Image1_i(), this.tips_i(), this.recover_i(), this.exchange_i(), this._Image2_i(), this.num_i(), this.aniGroup_i(), this.aniGroup1_i()],
+        e
+    },
+    n.img_get_i = function() {
+        var e = new eui.Image;
+        return this.img_get = e,
+        e.alpha = 0,
+        e.source = "energy_research_station_img_get_png",
+        e.x = 501,
+        e.y = 500,
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_title_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tips_i = function() {
+        var e = new eui.Image;
+        return this.tips = e,
+        e.source = "energy_research_station_tips_png",
+        e.x = 346,
+        e.y = 13,
+        e
+    },
+    n.recover_i = function() {
+        var e = new eui.Image;
+        return this.recover = e,
+        e.source = "energy_research_station_recover_png",
+        e.x = 566,
+        e.y = 139,
+        e
+    },
+    n.exchange_i = function() {
+        var e = new eui.Image;
+        return this.exchange = e,
+        e.source = "energy_research_station_exchange_png",
+        e.x = 566,
+        e.y = 201,
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "energy_research_station_item_bg_png",
+        e.x = 508,
+        e.y = 475,
+        e
+    },
+    n.num_i = function() {
+        var e = new eui.Label;
+        return this.num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "999999",
+        e.textAlign = "center",
+        e.textColor = 16772909,
+        e.width = 70,
+        e.x = 630,
+        e.y = 480,
+        e
+    },
+    n.aniGroup_i = function() {
+        var e = new eui.Group;
+        return this.aniGroup = e,
+        e.touchChildren = !1,
+        e.touchEnabled = !1,
+        e.touchThrough = !0,
+        e.x = 250,
+        e.y = 333,
+        e
+    },
+    n.aniGroup1_i = function() {
+        var e = new eui.Group;
+        return this.aniGroup1 = e,
+        e.touchChildren = !1,
+        e.touchEnabled = !1,
+        e.touchThrough = !0,
+        e.x = 615.956,
+        e.y = 536.842,
+        e
+    },
+    t
+} (eui.Skin);

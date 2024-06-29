@@ -1,1 +1,646 @@
-eval(function(){function h(h){for(V=T=0;V<h;)g<2&&(g=64,Z=92<(Z="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKwP:LZ=XVL`?KBJ;:^@l<:z<rB:ACZKnWokZ?khF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@AoP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBA^>m:_wi:bJkCZkHF<WJ[?UiN>Zw<=kP<?poV[lS:A_:WlR:;M:HHn:UU^l[>`s^I?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwEOZH:;`Of]<HEv:<>SJDQ?sR[uJokcFDH^>gBeOO>wAJM=:Zl@I]JL;oDP>=;ecOKuF@_K]VNLr;R:a>J_i=o<bbkLA]w;R:@?sEssI>RTlmg]KjWM_nN<mqQ>iQ:XY?I<:VQ^<ALTiJ?b>S]:Qf]:BloZ<]QlRu::g`eJ:;nH;ZVZZXElJplW::@NBPPhr::KCws?:<AwP:<P?Bl]kfO:p?es>[IJCoiDhOUGWeswfk_VfaEJoaco[yY_sQ;ei`pUGVztsfsJFCoknKMVpQRmxfwsEsTB<CFwH[lNfTj?vFbcxkOPBY:<B=exDedH][raQawC=FjfxqN@nJGxZ:^U_:TrqsvZ>::MGIofHkIIbewBFjOk@Zk:lI:Pb=cNDeirl=_LjiNO:tpn@huK?KsC:A:[foKBNEo:exVrP@WsIbV[BFT=[f;AOGT_jO=BrSW:L@Jc=hQNV:bQBX::?gH<yQww?SYwwH:_<FoS;hoIaTlPn;BNur:h=v:kultNO@cOQLL=tqklp^MG?[EPhD]s?cfstCWGosZxUoj^xKws[=KGYN^UORpO;FknZXVVERoCi::BO_H:MJsXBa;J:tvly:n=>>D[>;J=:W:>kBy?obnpn]VZOo]zss_x@hi;xGWsdR;[_cYDE=?>NC[:HD>:dc=;__BR]EpZJET?m:NyGs:J[=>Sld?_;l?;R=kG<oX>=@FFkE:<@sqiVJCr?NEkq?wYkf<@sB=A<V_g_LNfN[bD;F_dAC@?ekhTODAT_KANJEIeKda`HGcs:uEccMu:R[a>>RlZBDSSbaKS``PWRs?qARhZHW^umXROFli:TkIHKWr^s?EYH;@<BO>D>g:KchxcE<cz;DD?=:_U?VJ_k_Nbq>_FNeVZ<=r:R:=_J@ci;F?]pE:n];mH=_UseSdOJQ;iWf]MZG>mVPnTW:g?OJcUVO@F`M`iO]I_>V[V;cKeYRv`;ilaK`x`dO`FL<YlA=m=kT]ELZ;:w=:;dm@:JZw@r?;F;pM:OgcFEOOGwrEVNd;UYhlq@SIOqSn<Z;CT]`BVd[o?H?Z:?N<^xvxzqrW:P;YGx;<OoKFzY;L`ChLqgyd^ZnMNGat<xPFWOfZ;q:;e>SXUg<PiFk_WkZ_jZBu^aHswMl^UQhOIos:VMkEsa=NIZVs:JKJCRDSk=[C]xJ;ino::Ap:>K^J:FBo:F;p:?b>k:vYo:SQp:?_`J;hyF:Ffp:;[zk;uFo:F[O:=gIJ:gvN:YAzRln^L<uh@ps_BC@AgH:GB:AOinT:]jdUDN:ELMnZGIKD:Z[BG@sdr><>_iuLmpirA]HVGRVKkVCU];gylo`v`TTHgVi<=nx^KH]V:?u@qOFU:]MdmcN=RVT?LT_s:FLRdZZJx_bB:`VitMmugRdSMLdQCBz`Df?LlhZzZ>OaS;]_Q??aE;S@CQgf=UD@Ox?dNkE`YDyl<cDD<`Z@cA=VDPHehh=@KJ@c]A>CB?eVZ?<<:u_VMJq[W<xKFHR>TgpA:[EV=:=k>oY;yA<N>D:BJ?ffJdG_?Th]FZdFL=OClxNLZkNe>W>uZRnch>ihWF:rJOSrNlBxNR>ld[nAO>gE<Qo]:U<qAxIR[l`>Q:[a=:[JF@SJn<==TKP^sRALDFfL:DGCbhbmV]D>=FgJDaRJJ:_W:pT_o@CRJZEtYTR<;=e:T`FTSokS_nQmXWo<Vk@;R:PJgmMCDPZJT_hCJDTnl[DQPwhXLwM[GFiwDpxZZoBOwbPNdY`mblaJsq:lin^?SE?;muVHKBASb:UZCs::VH?kdYnaPB;XpcK[T?Q[jAX;wMsQljZz?yAw<NtDTaeM_uD:McDv_UEw`Rp:i_JHZ=_Q:g[RrL;TF:TZc;do=CC<ZrsGEROOGILggJ:;eX;Q^RJ:GB:;NH:V=x`TNoA_<ZecO>kM?KZ:=F::@U?::PVk<FL]vBBIg[N[mZJufpJTkP=`iku<FGTwkXcy:MQx<ZVZuDEMMMqJF;NGRqEDHAZuBogmaOBlOggsa?<s;NBA_bSGcxPNRhbcLoJlD`t_fQduEXXw^tbmjbYCyUxIu`jMKBEZTDFNVhg^rLH`=ysoBELbONH;cknln_gn:>p]v_::;E^dVAZGJhK=O[p]GKE?qDOJaG<<<wZ;Ko;HoxB:U`h::OLc:?y^:;kSiS<a^KF=Y>T:F<oh=m=Tf:?e:ZbJk=NOW<w;mytz:?;QLeSWN>?[jf:nF<=dR?pB=NG;hJwCHNgCnQacWJwKrd<x]]sFW[gt`f>Kt?mtczvEpQ_K`:QdwGHJhE@BkrdYPP_xAg?=umypxqcJbRWBxISapktXYZHVS]<pzgdX<^=?JRDGa[kWrAFHwYL?DgHE;H[hfU@B>MddLIDLfOd`M@?rDc>lLXH:`fdHcYvUaiMfugFN<x[UOwvtpGpPSTPPKr:xKgYBOSx=wb_uDYgqUKnjhf_iR;PsxnvGQ_bZgylbyHaUKmhMTu;cq_D`TXiKdVZVxbKnk:>ca]Z;mSoRVHLTiG_eb_::KDgjT>iDMBw`doeQrJODZYu@;V<dteAF]P?Z>wj^llbcBk@Z_chmAyX<U@Dh=;TU>nTJphAms^bqAZ;:pCBpl:hEZ::I::Ga>Gg]:k:H;sA];:;Xs;eE_XfR:NYp:=X@R:E[G:;_Xjhk:OwcuahWTk:tQu:=uYJ:fZu:<z?QX]Ox^YgeUoM:pepivWN<ZFFi:pgGkUgBWUpCW[UTy>ZQUQrfOAV?eL>vSqEhQSzUWfo^rQgYUlzxsAcH=]^jHxSVgFfVDaP^=XCV@]p@gq]z<RqrtyAl@R[nd:]Ty`Trk:HT<STSl]uJ[XFQD<KBDeOvaV][?o_KZppk_Rx=uCzb`ulPg_iC;OW]EOx:B:diEFnV<fpyfm<@dGFTj:de_=ais?Tqp=fkjMXSO:PG;mZLXhpNvdUzfo<;i=QLFGyeC;Kd^TuiGsi;cPvZ@e^O<UJrp:Mt@^ZoUIJSuhm:QKAmkQ_:npbmRhj<bRX<wQWwzg<:HmW_<@VkX?KkgUubutEXqxScc>A`IjhMXYCSRGi:kquz?aAprjFKnDhe@OSbxOTwCVMxkUIsuLUV@_Hv_naQfHHF=esuyZr_ap_@`MJhb[=<GDhYLxkMEMbo=SWmkOcfCPmgOVOLjafHfUi;fJiXzWL?EEL?sWfAoT;GDP;X;K;RqEZDYRUPmWFRKSmL^BgLKLtUDTtKJBeDl>DFrVDBlEKAbDtGzQKMDMKBFJlFSBFQWFl<lTZDlGCGBRYXl=:UCGgRcKeGl@:=lGeUlMeIlAeJkBC:T@T<CFCJT@JeCUkDTHC;kKC<BStMTWZhT=TUBAZieRc;>LS:dHYPcFG>d<uWc<APuYc@dCuXdGuCdMuGRGdAu=dTIYuUdFrQdMtV@MtEbT@FZcF<SACG@S@HjG@YCIkJ?E:I@OSF[BaJZ>aJbFaN`EaPaXaKa;ZiBPt@_=wRv>PUBFPBgS;FrUPO_At@N;PAY:SJLTPFcm?<cr_:zE`U=?Z;?C?EsQ=EhW`A?I?MoK`=MNJE:izTQ?mGmR^T^MB`ZVjJzWBSfRoMiRc]YHRhG:RqMVzA^>QONDOEccMJ^FR`:RRtbE:]RqZ[DHEAnM^YG;MMRxBFWX=YrHrL:;a@WOwXWKWR=OWJPWWOLEWAWQDYWJxRxVxTxPxO;;xCxFFOxWxMxUxQx:RQGJ=<J=so=?WK=L=O>a=CgH=;=;RS=QhGResZE@s]ZDOTtD:RtAHKxQkSoJjF^CIMo>wTp>wEvYUANU?J:<LW::TVo:@yYJ:YUx:;wdN:?y:qFMoJ:B`x::mXN:=iEJ:Wi=:;ozN:AuzJ:<Az::TUo:;]tJ:G^M:;Puo:>[z_Nk:McW:;jlN::J@J:NG^Et::oSN:<GxJ:J:G:;>;_:>[^J:HdL_>[^>hUgg<ACf:ktehi;gOhpjGMxfGp^f]]omLMkA]^ceLQKTM`CuM@MaMfNutfN:;HE_j_cN_N]NaN[N`Nk:L=_hMWMkd=L^M::RvN::h?J:SQ_ULAMbLuKQM@hWFOtCZILjLYM_nRg:m<LFF]MJmrwc;fNBml:cmTLEJuM<wjKfNvNNmom;M[Mkcgn:;vCNtHOF:::tEN_Nk:SLGGsgn:;VCKylhF:<Gok:YrF_>J<mF:><:Z?lJk>B>M^R<h>^BfBWVnBy:`wHmo=?^Dxhxw>xx]?FBa^EGE^imk<fwm>isF=K?x^g=jCXVP;GkzBp=P=T;]=j=O?YBD=gdsEe<:]s[u=M]Vcwc<cOSw^`cU>H<v?h<g`A?X<xc?`uwD;M<a[L_E<Uce`f<AdU<Qc@`rcLNP_b=q`hZr<i_lhn[JO;_Y<kNz<k[xZik>[OtbWogXKxKssktF;SEs[tDfJc<`DOD@;Vcy:hEfJWDktmCV:_[=DIpR[`DMDZ>V:hdxDEE^Dvpf:N:_[MhngB:;nADfDODDRiR_ZAE?DYDUEY:vD@Gs;zKoK^F:;u;;I:IoYmuDr:aKTEUBwZTBT]@FURWLyLtDfKPKUBgBZkdlBRBu@BwLSc]ZNtFgCRCB;^;nLqTqW:>N[epI>No_eZwDDODYK;VkNWH:GzM:YUDVsqEgXBQ:SqANLpYURqTFOLCo:ZJORoCoIe<wAGANBIGQBEUqDq;cMThb>qQjQqYTsq=efH>ufRwX;:]OI:>VNkNB>]ptJJU:b@Ekg?KBltVaD:WTcIAYDWD@HDwZAG=ucb<JFWJTsTZV]JLDg:RnM:=fQmLOTELOVq::DnN=cr;ah@FqGA:Q@dk@Wayk@]]@[k@[s][hf?TeThygbQhk;eR=k<;egl;iLBUlqeTeV:@b;en_k=hMxDthT=k::<w[N?JHJbKfKF;m::;P>t=ZDD[a;@a;UVS@eajThJFFPF<JFT]Tv?>wLpFarar?DuX_Oesuj:IuiaqwJ@s@svI^ATZtPsNR:Tbajaii:Pg:RPoPd:VPtThc::P[`f`cOj[dZFunZCOgwMGcO:^>pc@[pcCilOSFGfhPMIiQd=HjY;dfEQyihcSeSeN[Sgl<NrMbkDWitjY<@fMf;g?d?iG=?c`c=hfahL=i[j`h[gOf=gKg^j_>njJ?^glipjHkadI=f``c_;sa`ghPHKGhN@uiiinjMOneQAnhheLHEdCDiduotdfgxffihlxgUiW`AhUcdbUf[eOc^iKe`OE[zK^cpgAjB>beajMcz?sAnimEd@wfZ@ghFf<gx:]jIfZ?]cScLc@:B<LgaHiMLcmemfNc@:oga:kfLaZTt]DjK_??DiSK[KaDeet_p?eiF>x@NpNks;TjsrMZ^>?bBRh:>k_l?E?J`L`JB;cVVmn`RSxZO@iQThKMSMZ;?EiGunuhiCWgfg[h@iAcChfaahadJAdaG>Pe?KPdF=PegkqhicHiyeglI:ih?Q?N`QMb_:oXG]oTN_hOoXqfRTniFYhd<msUvCgRj=Aba@bbNUicXjNBDHXeBgZ=waNLEeydychhdeXEwChiSiHn;h>TkA>UUd=gjcYDUrvir=KclepjN@leW=lcaflqChCcbjmWf?FTh;oX<SnehdQgSfQgye]R[dI;ahrexjfgIfxgkAxdI@`dI?IdJ:J<k=fbWf]Rvh=fob=gLUvIkrCEhP`ilMfZAjLRMhtjuVGdYhbiWroXRVQc@HQfjAniVY`fN:<WO>RRFV=;rjB;CibgGghKIA=B_=aj_YJ>NXPiG?PgrdR;Nou:gWe;kocRaVVXqfcYK?x:oX<Of;BVyUDTQceSqTeR]YQe@;EjXWBUHRfd]RTUIj]TvdZLLSHRyRs=aY^g_T@jKSCe[eYiW_uYMhN;yUko?_qWVknO<Ydh[VEfhfSc>rklKX]T@fCS[cjelUZClSdTcYvcYjaTCYqnCRiVGcdhGccX=:_rdR]qqY<WSY[Yhg;YZ<tR[htT:X@Wx?@T=<gYvi?VOU?VCYldtUmRGcDYqqGeDSnQFV[TqX[WOTh:<WeStjeR@W@?fixhxh]=T;I=hLuYAec_@jfa=e@RLTGSlS_@r@^:CTAghUhKp;xSs`fZTVdhvrHiWRSSOWQf[VyhgTLXpStdp@`f=Vxdtd_V@YtS@VKe?SnTnjGXMSAff^hKMilQAinRWjgWnVheSUndSYWUSVgVsTJ=EetitSp=tc@afVfhfRlX^R?U@WnTHjvSUU^fURCjeXfjCUtdvYd<Z=qWVTOY;>;L@PAYB?IRHV]RAo=_HKbjHYmYCUCYiRPePi?OXWk[nMhLyYB@qEsR:w>Yqh;XIUzYIVXD;PSREhAY[VxVfi`hpVlRUSZPb[KeMYB:PWbU=WCS`TdV:xsRlLZuHZESAUZ>HVKSqEHUtVOew@c`cZOX:toWUSYUCYCgBx:vnXOWWVEUOXES>YZnEVQXGiQYfRGVKh:vRsPVhNvR_;CeadhYCR@Y:jYgSgzcFe<dzhwhgcBA<jg<:S:Y]iecZUme=;ZT]>mdRrZU_eJYFumEJWKaDgkV]EVKkVehe@ecBVXTBT:slJ>YAKsRn^vCI@<vCCpA<vvHhKRqG`KT@d@hO;kuadahO:zRNTzXNSb<<Tqhk`jUVVoVWR:tISVUN?DYVVXgDCwVe=Xg@J<St]<VASZyjXeW;iWc[d@ffVvfJs^hLVYgP;ljJ@mT_TCcNxYVsxPSDzqYNTTujVeSjWDsxRYYUqYYksDYYU_VzTNSXSNXAlnQDsHjws;;:wQK;VByDUZ?DWav<YszZteYTttiJu^R_zjDGRktLTktkuaUmRswDRniByHtssjVSXTzaxTxSfXScuWfcz[cRuRu_;RukvPvYTsxHyixZz;srhe>>S>uk>hM>t[t^VFa_yrXPsS]QlrVk=_vmTNwGhNsZugmWYKtTuEUTz]vMUCSQ^rjxTIiYVCxQTGRVo;CF`CtkyhNdRDU_unXIWjTit<W;t[RPzqTPutuTRIc=V`hIcPXMIqrrXYf>zLwXVmtqwid<zHcHtFVZzyWe=vjCHDtnP`c:xhyhM:wBxhv`zDTAU;xSs[thxEh<xlwk@lPNzttusYIWwyuCWAjrSChpxyx`RTugrzT;yZvawOwlvj:XwffhKxW=w_yOjMad_m>^whTbfmYqoiRDUSEWzxzHdaz`vMvWVcvAUxvGundWbEitX=yXyuzns^hfzUtEzUS^udyyzPzHsWxBwjSisctOytSntvzpWXwF[jiEt_uCUEv@tlQKRnYhYyvUzvdWtMvBvsxbtUuBsIzvF=yvuuuQwGSQsAwIuAxrUf[Az^xYjg_;gzjq<::".charCodeAt(U++))?Z-59:Z-58),T|=(0<(Z&(g/=2))?1:0)<<V,++V}for(var R,T,V,c,Z,J=[],f=1,D=3,S=1,k=[],g=0,U=0;;){if(h(S+1),2==T)return k.join("");-2&(c=T)||(h(8*T+8),J[c=D++]=String.fromCharCode(T),--f||(f=2<<S++)),k.push(c=J[c]||R+R[0]),R&&(J[D++]=R+c[0],--f||(f=2<<S++)),R=c}}());
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+pveSorensen; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            return t.call(this) || this
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.openPanel(1),
+            EventManager.addEventListener("pve_sorensen_change_panel", this.changePanel, this)
+        },
+        n.prototype.changePanel = function(e) {
+            this.openPanel(e.data)
+        },
+        n.prototype.openPanel = function(t) {
+            switch (this.desPanel(), t) {
+            case 1:
+                this._curPanel = new e.PveSorensenMain;
+                break;
+            case 2:
+                this._curPanel = new e.PveSorensenFight
+            }
+            this.addChild(this._curPanel)
+        },
+        n.prototype.desPanel = function() {
+            this._curPanel && (this._curPanel.destroy(), this._curPanel.parent && this._curPanel.parent.removeChild(this._curPanel))
+        },
+        n.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            this.desPanel(),
+            EventManager.removeEventListener("pve_sorensen_change_panel", this.changePanel, this)
+        },
+        n
+    } (BaseModule);
+    e.PveSorensen = t,
+    __reflect(t.prototype, "pveSorensen.PveSorensen")
+} (pveSorensen || (pveSorensen = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+pveSorensen; !
+function(e) {
+    var t = function(e) {
+        function t(t) {
+            var n = e.call(this) || this;
+            return n.skinName = PveSorensenBossSkin,
+            n._type = t,
+            n
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.img_first.visible = 1 == this._type,
+            this.img_final.visible = 2 == this._type,
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                FightManager.fightNoMapBoss("", 1117 + t._type),
+                t.destroy()
+            },
+            this),
+            ImageButtonUtil.add(this.btnGiveup,
+            function() {
+                Alert.show("离开挑战将重置当前进度，是否确定？",
+                function() {
+                    EventManager.dispatchEventWith("pve_sorensen_giveup"),
+                    t.destroy()
+                })
+            },
+            this)
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this),
+            this.parent && this.parent.removeChild(this)
+        },
+        t
+    } (BaseModule);
+    e.PveSorensenBoss = t,
+    __reflect(t.prototype, "pveSorensen.PveSorensenBoss")
+} (pveSorensen || (pveSorensen = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+pveSorensen; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e._isFinal = !1,
+            e.skinName = PveSorensenFightSkin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(28, this, "",
+            function() {
+                Alert.show("离开挑战将重置当前进度，是否确定？",
+                function() {
+                    e.onClose()
+                })
+            },
+            this),
+            this.adaptLeftContent(this.grp_btns),
+            this.addEvent(),
+            this.updateView(),
+            KTool.getMultiValue([3084],
+            function(t) {
+                e._isFinal = !!KTool.getBit(t[0], 1),
+                console.log(e._isFinal)
+            })
+        },
+        n.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                Alert.show("离开挑战将重置当前进度，是否确定？",
+                function() {
+                    e.onClose()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.help,
+            function() {
+                var e = config.Help_tips.getItem(28),
+                t = {};
+                t.title = "活动说明",
+                t.str = StringUtil.TransformLineBreak(e.tips),
+                tipsPop.TipsPop.openHelpPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                ModuleManager.showModule("petBag", ["petBag"])
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                PetManager.showPetIntroduce(2e3)
+            },
+            this),
+            ImageButtonUtil.add(this.img_fight,
+            function() {
+                e.openBoss(1)
+            },
+            this),
+            ImageButtonUtil.add(this.img_finalFight,
+            function() {
+                e.openBoss(2)
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.updateData, this),
+            EventManager.addEventListener("pve_sorensen_giveup", this.onGiveUp, this)
+        },
+        n.prototype.openBoss = function(t) {
+            var n = PetManager.getBagMap();
+            if (n.length < 6) return void Alarm.show("必须携带6只100级精灵出战");
+            for (var i = 0; i < n.length; i++) if (n[i].level < 100) return void Alarm.show("必须携带6只100级精灵出战");
+            this.hidePanel(),
+            this._panel = new e.PveSorensenBoss(t),
+            this.addChild(this._panel)
+        },
+        n.prototype.hidePanel = function() {
+            this._panel && (this._panel.destroy(), this._panel.parent && this._panel.parent.removeChild(this._panel))
+        },
+        n.prototype.updateData = function() {
+            var e = this;
+            KTool.getMultiValue([3084],
+            function(t) {
+                e._isFinal = !!KTool.getBit(t[0], 1),
+                console.log(e._isFinal),
+                e.updateView()
+            }),
+            console.log("updateData")
+        },
+        n.prototype.updateView = function() {
+            this.img_fight.visible = !this._isFinal,
+            this.img_finalFight.visible = this._isFinal
+        },
+        n.prototype.onGiveUp = function() {
+            this._isFinal = !1,
+            this.updateView()
+        },
+        n.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            this.hidePanel(),
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.updateData, this),
+            EventManager.removeEventListener("pve_sorensen_giveup", this.onGiveUp, this)
+        },
+        n
+    } (BaseModule);
+    e.PveSorensenFight = t,
+    __reflect(t.prototype, "pveSorensen.PveSorensenFight")
+} (pveSorensen || (pveSorensen = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+pveSorensen; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = PveSorensenSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(28, this, "",
+            function() {
+                ModuleManager.hideModule("pveSorensen")
+            },
+            this),
+            this.addEvent()
+        },
+        t.prototype.addEvent = function() {
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                ModuleManager.hideModule("pveSorensen")
+            },
+            this),
+            ImageButtonUtil.add(this.help,
+            function() {
+                var e = config.Help_tips.getItem(28),
+                t = {};
+                t.title = "活动说明",
+                t.str = StringUtil.TransformLineBreak(e.tips),
+                tipsPop.TipsPop.openHelpPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight_1,
+            function() {
+                StatLogger.log("20210618版本系统功能", "索伦森获得线（第二阶段）", "点击【超进化形态】按钮"),
+                ModuleManager.showModuleByID(88)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight_2,
+            function() {
+                StatLogger.log("20210709版本系统功能", "索伦森获得线（第三阶段）", "点击【完全体形态】按钮"),
+                ModuleManager.showModuleByID(92)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight_0,
+            function() {
+                StatLogger.log("0409版本系统功能", "索伦森副本第一阶段", "打开索伦森初级形态面板"),
+                EventManager.dispatchEventWith("pve_sorensen_change_panel", !1, 2)
+            },
+            this)
+        },
+        t.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this)
+        },
+        t
+    } (BaseModule);
+    e.PveSorensenMain = t,
+    __reflect(t.prototype, "pveSorensen.PveSorensenMain")
+} (pveSorensen || (pveSorensen = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/PveSorensenBossSkin.exml"] = window.PveSorensenBossSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["img_first", "img_final", "btnFight", "btnGiveup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this.img_first_i(), this.img_final_i(), this.btnFight_i(), this.btnGiveup_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 640,
+        e.source = "pve_sorensen_boss_bg_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.img_first_i = function() {
+        var e = new eui.Image;
+        return this.img_first = e,
+        e.height = 488,
+        e.horizontalCenter = .5,
+        e.source = "pve_sorensen_boss_img_first_png",
+        e.width = 823,
+        e.y = 48,
+        e
+    },
+    n.img_final_i = function() {
+        var e = new eui.Image;
+        return this.img_final = e,
+        e.height = 487,
+        e.horizontalCenter = -.5,
+        e.source = "pve_sorensen_boss_img_final_png",
+        e.width = 861,
+        e.y = 49,
+        e
+    },
+    n.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.height = 69,
+        e.horizontalCenter = -110.5,
+        e.source = "pve_sorensen_boss_btnFight_png",
+        e.width = 275,
+        e.y = 531,
+        e
+    },
+    n.btnGiveup_i = function() {
+        var e = new eui.Image;
+        return this.btnGiveup = e,
+        e.horizontalCenter = 127.5,
+        e.source = "pve_sorensen_boss_btnNormal_png",
+        e.y = 513,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveSorensenFightSkin.exml"] = window.PveSorensenFightSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnInfo", "imgBtn_pet", "imgBtn_cure", "grp_btns", "img_fight", "img_finalFight", "btnClose", "help"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.grp_btns_i(), this._Image3_i(), this.img_fight_i(), this.img_finalFight_i(), this._Group1_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 640,
+        e.source = "pve_sorensen_fight_bg_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 626,
+        e.horizontalCenter = -252.5,
+        e.left = 77,
+        e.source = "pve_sorensen_fight_pet_14587_png",
+        e.width = 477,
+        e.y = 13,
+        e
+    },
+    n.grp_btns_i = function() {
+        var e = new eui.Group;
+        return this.grp_btns = e,
+        e.x = 31,
+        e.y = 322,
+        e.elementsContent = [this.btnInfo_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i()],
+        e
+    },
+    n.btnInfo_i = function() {
+        var e = new eui.Image;
+        return this.btnInfo = e,
+        e.height = 66,
+        e.source = "pve_sorensen_fight_btnInfo_png",
+        e.width = 66,
+        e.x = 0,
+        e.y = 152,
+        e
+    },
+    n.imgBtn_pet_i = function() {
+        var e = new eui.Image;
+        return this.imgBtn_pet = e,
+        e.height = 60,
+        e.source = "pve_sorensen_fight_imgBtn_pet_png",
+        e.width = 60,
+        e.x = 3,
+        e.y = 0,
+        e
+    },
+    n.imgBtn_cure_i = function() {
+        var e = new eui.Image;
+        return this.imgBtn_cure = e,
+        e.height = 60,
+        e.source = "pve_sorensen_fight_imgBtn_cure_png",
+        e.width = 60,
+        e.x = 3,
+        e.y = 68,
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 267,
+        e.horizontalCenter = 242.5,
+        e.right = 117,
+        e.source = "pve_sorensen_fight_label_png",
+        e.width = 417,
+        e.y = 116,
+        e
+    },
+    n.img_fight_i = function() {
+        var e = new eui.Image;
+        return this.img_fight = e,
+        e.height = 155,
+        e.right = 36,
+        e.source = "pve_sorensen_fight_img_fight_png",
+        e.width = 274,
+        e.y = 485,
+        e
+    },
+    n.img_finalFight_i = function() {
+        var e = new eui.Image;
+        return this.img_finalFight = e,
+        e.height = 148,
+        e.right = 36,
+        e.source = "pve_sorensen_fight_img_finalFight_png",
+        e.width = 269,
+        e.y = 485,
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image4_i(), this.btnClose_i(), this.help_i()],
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 50,
+        e.source = "pve_sorensen_up_bg_png",
+        e.width = 145,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "common_close_2_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.help_i = function() {
+        var e = new eui.Image;
+        return this.help = e,
+        e.height = 38,
+        e.source = "pve_sorensen_help_png",
+        e.width = 34,
+        e.x = 133,
+        e.y = 7,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveSorensenSkin.exml"] = window.PveSorensenSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnClose", "help", "btnFight_2", "btnFight_1", "btnFight_0"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this._Image3_i(), this._Group2_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 640,
+        e.source = "pve_sorensen_bg_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image2_i(), this.btnClose_i(), this.help_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 50,
+        e.source = "pve_sorensen_up_bg_png",
+        e.width = 145,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "common_close_2_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.help_i = function() {
+        var e = new eui.Image;
+        return this.help = e,
+        e.height = 38,
+        e.source = "pve_sorensen_help_png",
+        e.visible = !1,
+        e.width = 34,
+        e.x = 133,
+        e.y = 7,
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 170,
+        e.horizontalCenter = 1,
+        e.source = "pve_sorensen_img_title_png",
+        e.width = 1052,
+        e.y = 346,
+        e
+    },
+    n._Group2_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = .5,
+        e.width = 969,
+        e.y = 518,
+        e.elementsContent = [this.btnFight_2_i(), this._Image4_i(), this.btnFight_1_i(), this._Image5_i(), this.btnFight_0_i()],
+        e
+    },
+    n.btnFight_2_i = function() {
+        var e = new eui.Image;
+        return this.btnFight_2 = e,
+        e.height = 83,
+        e.source = "pve_sorensen_btnFight_2_png",
+        e.width = 279,
+        e.x = 690,
+        e.y = 0,
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 47,
+        e.source = "pve_sorensen_btnNext_png",
+        e.width = 53,
+        e.x = 631,
+        e.y = 18,
+        e
+    },
+    n.btnFight_1_i = function() {
+        var e = new eui.Image;
+        return this.btnFight_1 = e,
+        e.height = 83,
+        e.source = "pve_sorensen_btnFight_1_png",
+        e.width = 279,
+        e.x = 345,
+        e.y = 0,
+        e
+    },
+    n._Image5_i = function() {
+        var e = new eui.Image;
+        return e.height = 47,
+        e.source = "pve_sorensen_btnNext_png",
+        e.width = 53,
+        e.x = 286,
+        e.y = 18,
+        e
+    },
+    n.btnFight_0_i = function() {
+        var e = new eui.Image;
+        return this.btnFight_0 = e,
+        e.height = 83,
+        e.source = "pve_sorensen_btnFight_0_png",
+        e.width = 279,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin);

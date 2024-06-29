@@ -1,1 +1,70 @@
-eval(function(){function Z(Z){for(B=J=0;B<Z;)_<2&&(_=64,w=92<(w="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[wP:LZ=XuL`?KBJ;:^>m<P:Y[U_:=_kBtiVRJ<sPa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:FP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBA^>m:_wi:bJkCZkHF@lJ[?UiN>Zw<=kP<=osV[lS:A_:WlR:;M:HXn;UU^l[>`t^I=G?MUG[:@spWQbo=`VsKJoMgw=EDvHUyokPH>bDwB;nC^lsi:;`UvcVSFW:n>Av:<>SJDQ?sR[uJokoFDVGDfADZnZrA[s>K>[wL<Jj;LkZRGQqwAJM=:aIB;::pZF:ABZ:<q?k:shxYZ<w><JP=oAx@Lk;D?DWM;d>Rb?>fdEFB;IWMiWIIZ_I?s<k:FEkQlkXCBx>kee];?R@c<M;zWJ=H::OJDL>wXh]:>>PA[PYfi::]A;F=]zW:Z=Z:Ek=B;RApx;l@NNkt::f::e@f_LRzQ;DamCpIdb;kI:YA=w@pqlpsSre@JqXPy_I[mIKe:ZWMqV<ymkdI^BqAOVZZXEl:<]k=]u::FcJgb:kEcIdMm::O=^GA;^]VfwUqvN:<LZmvWFniQ@pL:s;>>u>OatRu::g`@J;wtsI[rXdnHsbIi:yZokD;I]kEtjgiHvv`:=v^::BjT_s^`;Udz::oeXHcQ`X<f[CT:<Fk^[<FlkIDejkGIFiSxeT>^>LeZM_@K^JV=RbZZBLlD>EXsvrg;c?Z:l[=eEse:Uhlu::Hdw^cUeMH:ct]XJqeMiFYmBPus`iZ:L^;N:kJ:_aum_V`l>uwTyzAkDmA=^dyosG=ywvzj>Z?k@SR>JJXo?kJ[L@cWq?;bd[ps_cKcMV::JfBf_:LZ;kL?mInzB<kDZ]<]ZKE:]:c;Zi^DcwZ]y`w]PwjmeQlWmLOw]`Zela?KNwg`:cZZkr=pSOdP<dZc][FB;kBhDPLCF_[:_Ha:qm^_^=@]]lK]?K`MRiBuKX<ktAGDVUMc;oQJBbo:l=FBBl^:JNmnIF]nEDguncEgHlU:VKnQHV`moY`WmjVxElj@>ymSZ_A<MHJfsj@:yc^jTXaRAxwJ:o==`Zl===WQkkGnZ^X_TEsH;CD^cHlH=@G<UZ_rBv^uGofRD;CF:A:z;:::FDIkz^>Go]DLL_wnV:>t^lI@Euw:>@iR<cA::=oV=Y?:=B=:JRgCJpOOGNDBf_G>fCBEuqnJv=<jhWOBE<ZFKft=GVrMKNPB=ZLKBpBeuRmvFs=c>_lZP:PKR``ZLR:CmFyaaUlEZa::;kynvcM^W_wcrjgK?IR>?Ck?LGC=@?_hsHJKg]IgJ:".charCodeAt(F++))?w-59:w-58),J|=(0<(w&(_/=2))?1:0)<<B,++B}for(var k,J,B,l,w,o=[],c=1,s=3,D=1,A=[],_=0,F=0;;){if(Z(D+1),2==J)return A.join("");-2&(l=J)||(Z(8*J+8),o[l=s++]=String.fromCharCode(J),--c||(c=2<<D++)),A.push(l=o[l]||k+k[0]),k&&(o[s++]=k+l[0],--c||(c=2<<D++)),k=l}}());
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+guideSuitOutPut; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = GuideSuitOutPutSkin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            var t = this,
+            e = SpineUtil.createAnimate("huodetaozhuang");
+            e.x = .5 * this.width,
+            e.y = .5 * this.height,
+            SpineUtil.play(e, "taozhuang_appear", this,
+            function() {
+                t.addEventListener(egret.TouchEvent.TOUCH_TAP, t.onClose, t),
+                EventManager.addEventListener(ModuleManager.TOUCH_MODULE_MASK, t.onClose, t)
+            },
+            this, 1)
+        },
+        e.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            EventManager.dispatchEventWith(AwardEvent.CLOSE_AWARD_DIALOG),
+            EventManager.removeEventListener(ModuleManager.TOUCH_MODULE_MASK, this.onClose, this)
+        },
+        e
+    } (BaseModule);
+    t.GuideSuitOutPut = e,
+    __reflect(e.prototype, "guideSuitOutPut.GuideSuitOutPut")
+} (guideSuitOutPut || (guideSuitOutPut = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/GuideSuitOutPutSkin.exml"] = window.GuideSuitOutPutSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = [],
+        this.height = 590,
+        this.width = 899
+    }
+    __extends(e, t);
+    e.prototype;
+    return e
+} (eui.Skin);

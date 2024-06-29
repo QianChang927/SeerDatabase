@@ -1,1 +1,1773 @@
-eval(function(){function Z(Z){for(B=N=0;B<Z;)c<2&&(c=64,H=92<(H="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B?_fyrQKmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNqkGoq>:U`NpHYJHJHlpRxIUYZ_^ouivM;Rs<VfkZ<FSO:;f:??Z=[v:<>SJDQ?sR`u><kcFDH^>gBeOK>c][EAHI]JL;oDP>=?eXrZu<RRAuEAB;=ZR@:X?J>_du::T]:_>lvGk^:;@:;F:@SyJ:@IZwzawZ<VkftjB:E>D:DkwuQaBnVZQVv`]uOwOQegN:WapTcp::t[QD;J:qHOamoPaoPZqVwoPopHmoLhpucPXnbDv`m]oisNPZOu]QVjNKioK]F@aGuorlgPvI^_j:gI;yBm]GJZStB:;mB::hb:x;Cdbas>Z:FBGRR:PK:uVfyT>;<UuUoJEk=;vKZ:K:;nXs=on[AGOkg`ggOeWp`]GVZ:@MZk@fbGUpYUbSR;[BbFka=kZtACnA>xnyTEdYEt<rhYfDvQpXt=trnUrX;BrDICyAcv^]aE<[>LCExC>FKlB_r;s:Bk[<D>r::>DmEL=SF>Zu:IZqA=lC[V=v;Bm?YAw:DD?J]:c;ZHZQIVZKw:HbkZ=wzkVHJC>gPKA:=gBLAFTl:BFGk:bVSZc][FBylJdKG:RF_[:_EN_^NGKx<FDktK?:BJ[]Fso]m:s][s;s@[TI<;^@@R?Z;GVKbHB>v]e?sU<yIsO[qV>;ZYDKUA:c]KLJi:oDR:?pL`CdRExA:sPZQ:lD_[:>]vZya;FUt:E_<`Ns=^Sevf_ZatMa`c`gVy;O?YaiNLI`fudX`Q?`UOL;j^`?[BNKxvnjP?@k?Kh<oQVCkFJpZbgJy<uGElXlJcRRNBd?[KCU?R@CKBjmFfw;R:<dJ::ehF::]:<<qqz?:=UAJ:_ZPN=MFW;TzFiCNSXlM;eI>j[kG`OQhWNXnfXiE=cCGP;kUCTakQKkrQBldPSYwVJZzPjAwTxkbklksaLWCkNJvJ<adFdyFRE_]rZgNib]CB;`m:cZZaRVa^TEc`_aHR=aXRsbGi=:AZiMsYZwo>N:[H>_?SB_[GDX_>jJM_@btA<lJENfLE[VdEaGFofMhA:bMW@]:nJgBkm^:J_knAF<lE<gTlk=gqmUIg[mQ@Vkl=JwGnJpvMkj@wY<RzttH;T]kNk]A>BKPfZn[O<P:LC]qDpA]W:>ehZkNhwuRrb:TPVPGnPOWP:=DqVgE`km>::RbZR<GCZJC<iZVNCK;N<SIEHZP:[AhixVb^s>ZwMk<kGUk?xwL[SAGMdHaaUO:BuJZI>wLBw=pM[Arx>=zI>VllfVwSiZRn=xFuvBXZRxB;k`EVFrDKkuKAV:`:D:OO:OvO`:X=?_H;Mc;JCz?ZJtXCEkcAaI::;lXDa:LteAMA:IT;J_<X:bf>Ru@S]lYPs>lM<nSj[c?@;k::OiaA:M:J;ZHN_HHRvpF@e;Qj>@gJxsZsZZKa@;i[k?p>ZOkwZGB<;s>yAbB>bBhsyo<HJC[uxxtTM^g?IH;BffRDAA:S<M;o:b;RFZj:e<aAgEeHwDyolsdwAahML_pCTMo[k;k<Rd^o<cLACjA[<>O>Z=NKcfKQ;WAuGQcRwZl]ls_bs;Ry_OBTKo_wD>suPCA@iCMbgEcR:X^[qbZY>cA]j@THoQsuK:MzmzmA?WPBlR;k:@dfBPCE[kAswN?nI<o[LT<m?f::>NqKgasGDM_ldHK<]tCm:Jt[k_hHgW>hKMBPMWI^ADDdek]:TIX<Bg:MRP<XDdHJDSOp?nc=nALTc?Bv>M@qd_Q;Z:brN:Hr;Z;ozN:HIlZ;`;F:HuDZ:RYw:E;mZ:gXN:E@DZ;<TpiP:]JvpIel@SDmW_Y>yDuQ<BRPceSF<V^qEm::Y>wIRE:D_OGGggYRqMp@tGwLZZdU=`E;Gf_HA:ZZEAlmVHFeC>ZdaZhaNTFNldx[_cdXgnSR;m:B=kHLx:;RH;G^NF[Py;;i;xIG@D;SPxVKw?lWsjC[D=>_ejhQPJu;qPNdbeBLgp[HOeHtY>=ZXfeuTPs;R^Kp[S[sKTHZ:pPnr[F@hQFY<@:qapIeQsU_BRbKq[eQNk[mFP;GD]]o[BUMH`k@uUozdZnHM=E`DFbOZDIdYNSX<mLsK<ESg[LbXOe]wNyCoVeZCeeP=AOQhhQyx[n>ufpJucpCeJ=P=GPk<pHefNqfWYTjFQDZbHivQT^pZUsfV;xJDCo;c:pXgTUJJcsUs]KeuM?PG:my;=Es;TSG;wxE_<;XaaSaUBNtdvfDkZv^<qDcCQcc`ZMZ_:<NH;R^fUioJbeZpniTSL<GALOoxEuXinWLdQrmErORi`yuooZeIXDsJt;V;l:vPyZ:ohh=Znvp:m@g>yf>==i<];SBPCZlRx;TbZ:JM<u:vkJSgWgyD@UlrFhSQkY<R;Y<?=oEmOFC@bqgA]AcHNqTPbc?qY>TBG_=ql=IK<wx;:wqLBA`CjHOE?@>kH:ZJChAC_FTIXHmFXcELEHNhdy`iakQuW^FSxBdbuIMBgz@O`kZFsJ:;AZXBoBUHKEcxBPyV:AnzPdPBcJ[FuDoIgANN:RDsOG`kHJRguRCN<ZY[JPn=DxF]bt@DDL@b:_pnfcoNqVw<<prf`ZREm_yAlJ>RJRKD;@v=HNbVVEVZ;?AeX=k[=FJUNhUeE>@BMkD_=Z:DJ=Z;_ZL_`KGFg<KL]VfDQX@VHesBifc];JnP<__LfLqIURRt:HH:g[f<tJA<k=ZlRq[B;Hk`pXD:Mi^=:I>FVKZ^=PbQNuUNLUm=db>p>FRoq:<oB[n<VbqAN<RnSgERWy:_Bt]@X;^DewF?UB]@gqPTlKmEvPP:qQJGpiRjP>HS>@mGueqmu?e:RXJX:?rpkgEoLIC=<?uNNudokybkxz;Bzq<_hC_:>uofcy`]naQSJBNF:]t?ls=ZRe<d:CB[tF;cRkuZeSm>?sFmBcHRd::CPJ`Lw<a;eoBpA;:GiJ;:BrOBFr^=y]rWuSEdZ^;s:;vuIR[p<;e@kz_[_FHJ:]ERJv:VlML`kADKNkrY:J;w=>J[>:C;UAqIkmBNBPUemMXqx:tUhQNVOYL;^]EUPkNWXNb^v<;IFW>s@y]obiPZJ`;cTn^FpHkwV=dukoX]x@wVAcVrxbf=:bVyLRURD`iMIXSozSvdci;JBLldE`?ZBH<mv=d:Wc]j`XRUOkjTIA;x]p@przIQ;;D_V<Gm^yfR;nVJ<JBrF:C:UVeah<@RN^i^:V?WuRWrbjjX>hxlgZIJlJz>dFdNzVkC:@INAIZC:@POE>tY=IYOI@LNEGEVnC`QNO`IRVYNM;BTBUZNPMfRdThNgLEAIXfNj@BRZykRrOUM::NBwD:MfN`=OEO@ZpAVhOZ]zIHD:C?WUD>CZM:QVKhTKQPQSEcUv:ZK_I:GJCJ:SIJNoBVM:CZ:AVY<SFnDY@DAN=NINYYWBFjDZjfRb:VQ;<dBVBU::X_eLR<@q>>fbL>YPYOJLsFk<A?sCBAcFk>RIENfQ]:FERIekwDAAVBRB_Nx]_JS=>q]:mQ_NBb>?sDN=mnz[Eaf?cAwEPoBDLCLBkAB<]@F:;rO@p;t=s@`;DDrMp=p<WnZ>zro@NaDPLEN^LBTp<Iv^g@HLMkn@]D]]^adQZNJQmOJAJMZ:RPkO]?kLWK_=k>BOJ@BMBKR:cLcOoBc?cKvodnvpQZtqCOv]klUOkPaEn<A::<wD?e>V]w]lKbxkklKXKD^Iw;;m;f;F;w]tK^Jhs_CNB[?N:AlHc]tNd;:LRz;hsRRv:bt@dFcY]VcyBKCoRu:cMJLgRCBVgSByctBg;T[R<u[z]mR=tDRNKxBS:uSA:@SMCaREC=;qRUBICXSiSUBeMySj:rC[RA:lRBZHscCg[dRoZD:tSgZgLR^sCcshCD[=sD:hRaZvNqZH[XV^SokMRnSlZdZUNUSf;gOvSASo:WZQS?GA[:LjSoVP]wtb[QZk[:tQdZtgLtVJckdR]:dcJ??yVTN_t=?NtotsdkCcKp;sd=dY;EWglrFiGnKNkSkx:;l::a[Om]]=o=uMs@g>>nh;Vb]>n>skA>::k^J:AR=:;IvN:@_^:V<VIofo:o=SPw:VJ:@YpknBnHJ=JRndKfKsn>mi;Zm;`::xhN::ZOJ:H;NomgmVmy;K:zLtKXKfK<mmk;l::_:nEB=@^Eo>^=s?fD]a=F:<txJ:G@O::qdo:>:=J:T=_HngnVm;FtJBl:m]n::gKnEHfBbIACbDMHJ^@;E[E_:@eBk:Kbo?n::roorDvCvB>mW@G@tArDAF:<SfFgr_Ho@FwsuVfZ;FqVZVHN?gk:NFNQnhnBn^J:EjnZn::AZnEB@Psl^D?AIIfBA>:AxtJ:<`W::QkF:?wOJ::=`:;jlOZivExBMM`<p>AH=F:;TnFgcNDgiFo<igjV:VJ:Jvh::;<GZjF@@:BAE`nbn`XaT`Tbn=EbM>f`U^WHtCZ_>>B^iE<BAaaBSpAbA_Hp]<bZgOeHI]vqQ`Q`_NLLpB_=r_uE[?bZcAG`=qE>UbfmwnNEgoRmM?v]I_n?Ib]AIbNLj[f;j^jZPl;Cy;YZs=Y[Y;T_z]b;z^zZ:L:MN;:OK[NjpDCO_Ngj;:hDNKL=q:OQlKEOjKOQgCFMFM@OgmoAgNVPVNLM`OmiEQmNDcc@<Kf?<O:muI:kboM`]Q]MAMnKeejMmjefELDdR<pOTeghQl<Z]PVi?quJO@t@`@>:eJKJ_AlCkGyoN<pP>GtQtN?P?O?M_:`P`AHC`MVJENqPjQmjwPCP@jONT?@cgJUMvNGQB@GOGQGONrhDagZlad]^acPePfq<vOWMhP>DWKWOhKcbac?@XB?<eL@mZ>eQAJh;SJPM@cmidaNknMZpnKlhHheeOJDe@gTej[wBFEKds=>>XcqPXhXdUMUOJ@Jn:p><;c[hvPdgWNAP;dcZA<[iXHG<Z:^>h?m^@NlhZpVOIOIKMaTCr`THNrLcdcaemhLkudVfonygPcKMk>onp;KO]GeEzaTf:@T`HBIq=nzaT_eMZ<Gm]:;qhApeA>GiGcXGGiDJhceLhjiB;q`@jpKInoxHxDF<eEWrhgVJd;vn:=d;X]s`<j<cDat<]jn;]eA=gAJ>eLfb]A[cLh:JmDA?=hmH@<];nh=iWjiFunEkQ=:cQQupKIe:L>sgupPg]D]=VDB?s<KPN_UhkD]<N@POPP>CqMqJHK]bZrDhHQHJA:iQBg:;RIGHjqx:EozS>kWBMirvMzVZJVcUJ:J;p::ASKXLyN:?E^EtJ:LHO:;:Yxs^o?vdJ=PLXeqJAgT<AeHOAfHK]?kN:<dnJ:L@G:;nKo:>GnJ:Gv`mE:;LPF:;`MJ:Ef_Q`:;ruGyN:?kWJ:OX^e?`uGNauu<XVKxB:CVxZWTw:SWFNQT^xxVBxnwm<wss;ShfxoJ[<UviNPBMZk:l=qC<:d<S<t<=J_ZP:O<bEjeo<RcrJEKdKrU?]yhD<Tp=<;h^=D_<:E=D_TxU<a<pNyNDO@]<;X=S@Doep[A@]I<<;J[ows;IFUES:vDL;EueKyvsdW`vuq;[uq]luQu;l:;CKN:=ZnJ:<Hp::Lco:=Cj<tJ:Ij^::@CN::WMJ:XVM::cHN::No`tJ::xG:;OapyQyQViOiVhwod:<k>S@:FUDJVhNFsRoFgn==nMXEJ_yDb@yB]g_if?u`NZ@[pC@_lbD^eZ[EK^[Bl`Xal_KElaKENZtHC^TWc?tDuClErKZ?d]F]CDSbF`S^CHg_SBN>aTZ=dGV]?[dC?aSBNeqlLAKBm=SFL;uXObtChDe@gfe??Cp[cV`GJRZAu;`D@;LRhZOHh]d?h_PQP>q<W`q:H=FjH?Ni;GiApEx]GCw^[EGC]BhE_LuCD?qUhDLZl<BmWIl@mdVrd;>db=>f[H_cfbT[VqPWZbZ]>=FgAZof]<ogbb`i?Ee=r_FcZPFe;^w>[OW[`jFiI]CYqXyqI]wdwgjaj^wk`Lh;sP<iy;^iDM]fZ@:PncmSwk<iy`hKJ>upFqdSlS_NdRSRahxgB;mjufehEPiiCdR=cYCcp_?q]OAgVMcYAK`?;n_ojQHc@jOYjMwgVGc;pUob<q@<J<pfJ@g@_AdAqMNJJlvqaBqGA^KoVQOOp^f<lAbLs@>BS;=UN^[>t@`?G<UbZr[oSfTj>>WYB@WRJ?WYWRd>xR_;H;T;k=xU]>UaU]<KhW=XmHVBenESR@Im^WLDfR?<nMlhORCeiihWfW_AfRkAhWMTCAMSWWJ=WSJ;nVqPxRETEYK@<o=XcUT@vT]Z^RTOhY_O^Y^W;kJlk<Jr<MMRnTnSAYjexYnWxRvqETU^iDTiQXKmBSEYITj^fVjVTE>PUYnQldjQUYEMR`vT[=n_VOFTVNwNVJB=TLi^RPG=p=`@><F:?<znZ<N:zLQS=M=YC;zLQMzP^OQOt?==h>=gw?w@aDcDrPG;rN;W>@@??f;MZqjoF:_@;P^rK?N:bb]=q_Q=tPXA]?qLdUq?zVcTZkQjNJ:vFSR<u@P?vU]MiXgWkN:@:xJ:Ki=:;dKN::J^J:YDO:;JqF:@rs[V_yZ:AKR>:AcnJ:F[O:;dfo:@s`J:PLO:::zN:;a:k:N@O:;Mwo:@[rJ:YAz[TWN[DOT=QscefSFBNx:s`k;]kCH;lkA::kAK_x_w:=tMJ:NoOfHQ`:;SBo:?y:k:@HptHpHGIbHrpQIbErIzqQ?SFPqEPpQ<TGP^>fsLtrceKIqAePp[=TUPpreWNQG[[Z_mci<`:rFIG^AfvqUiNvvx`EAAuM`buz:Cv::lhF::Owtt?tJ:XyO:;MiLLzNzIfTsZ;SdvO;gthShkOtiG:?:?ex@G=LuSfByZnZ<lgLMnOucjMHdmJDzYX@i_dYNezpKstezdiMY@dVqsuus_FH_J;:<ckLMt?uP>?TssAVmPvPtPtsv;eAPtgqv?;qs?=?AqtMVHy;PHv?cJ^>wP:<uNxiN:;djJ:?E`:::cn]tXQozFygzguVxvRmwZmmwwyYYo>Pxwv:AwxAhkP<weN@yf^T;@ImLaJYMZ?wGgV:;lGJ:?Pn:;dHN:=pINEr]BULEunk:GFn:;?tN:?`tJ:Hrw_YleTXuFuYI?GsninQEi]oqqvpmoLtPIW`eXxPC;tZs[d[t[`[zRC;nX[khPSZAYhXuJdC=YQrEfMY[e]sfYUGUXSZdlz:CcblkMwlnjtF^XEf;e]iTqCDZyOTJy:gtlwlJRTaPcj^=YS?[<tP_S`l<:gZeKz;S>gyGchdWc=cMcncEdfdUdvdAd`lHh`Fr?cNVPtTIeBQ?VKQCxQD:kQK_bWWS;@]nYgsgK@]s:YUsN^lyzp=@GHJJkVag<tsw@<:vib=fr;:IV<:jVPoYWsczW:<Cyx>B=uxB<NAN`Sd^;n;oKphdJ_NP:oOSVMkbayyH@[ViAgaEJD_OZX>ZsFjFp=geBpoNcHBrGQNk:KsWZ?[M_@GbhfAs]s^K>wG;lB:b[YJu:`NBCQQt=Z_;lM?:NR@iBeGaiHzQ:YZBe[d>pacz:Z;CLc?>:ZJlJPvaOn:<_<MVxPKm[J;cAB<i<YRK:UB=c?V>y:Xz:zhR<Ivc:MyD:KIg>_=uV<LP@zAZNJmjv<<Yw[zIzFYk:CL<HqmYHJWxZN>><[;gXTz>_;bU;hEq[JRJhFMJ=Y;=PvAEi`W:B=ngRqVUSC[XkfSQhq;c]:Z<crjUi=?@oDIC[wLyB:kgcbsQs]mQDRoKDagFNTGl?<>hZuagCFTBon[EGGVR_:Ys[op`[WGLR]gI_dfadZ=GwLJnSJ<FlSZ[:fBAF;SjS@e?wlbBxCXSdLNPUXJPLbVW_a]NtBR`PL_g;P?TKqR[k[L^EJtiDMpZ@kUykNVtcF?G[QGER]dHtgeMh]hoARMnWNgv?XRYF`>S`INfLlyR;kZsBBLHE>PdK[KJP:kec>VH<ZkdVHPBT?ab?[Ti`>ceZRL^b>KR=Z<sr>?ravrhte:NPiNCsKpLV<BKoPrJfiA;@sJogZL]V>xaI>@DuNWNpDSKDqnYUyxGPz`InCpbk=]Rr>kyVRPZmCRc[YX<YSRGf`:B>GXqwARGD@ZQJcW`ouAAdEm:@MRWBwX`Tr`;`KsbW>qav;A<tnS>sB>ByYCvdv^kss;S>::WNn=T;:RLFLjdh;q^vJ^cdoVuCW;i[rJAcMoEni>;ln;SRwackaAk:Olv:bya:Fr;BolKO;tFTz<ZFd`VJJ]jREXPbA:?_KC:E>[Bk`=M^Ul=>U[NhU?[gGt@l:?PNdGM:jpOc]sdJaAQiH_mzs=wxFP[MNHEb[L@]NNP=I:<j^K<R;i:JBQJTZLmSnBBwnHCFJBq:EAs=V[=MkT]][;C;uw<XIwDv`mmsFATXR>gXIlL;:=D<X>?h>qHVEX=ulGRIF@W`Mc>Gal[:OgJHFGmIhj;BZrzEXbznysh;EhN_SAaw@lt:;ShBVFW=:;n:CZCRhRIPIQ@U^Hlpv::TUQoEbRqZysZ[[TMAnO^^khRswPqBikU^v>;sggWAb^mhovlcsogUJJzAcSIclqJVOPpGTdt>Br:UsOBKX<WKI[imUsPNru[K<h[gJge?;IWte;NRLJv]<_E@[d=fwmnEBOmK;>w_w[jMYcMA>@@_WoZkkrP<Vpl?bG^R`nVqEFGiTE:?[=nSROg?P>jGUKvgEROwlq@@_rZXk<R=xbgMoSbZv@PBEw=q[QKF:J_[B<CENK]Ljc__eu:k:_[w:?COBCLOCIN<y:V:LJ=LXCFWATMVki:;P@dBF`TLfcHUTk<Z<L<EV[J?_]LWdHX@E[gRu_iBCdDV`PLMCX_kV;Kb=do[n<oTI:?:;V_>;n<vkh]?ApE^`lm:oJRg?W]q<mM^N>k=]HCJ]f?k_:DEB`hTJ@?NheR^dYG<SbE]O[?ZLJJVF>`Cf<FMg=[E><W]BEOLsRTe?ZjBpMdGLKefNyeS_MNZbR<wVZEeL:M=nk=@BBXFdGm:@`qOXJ:oszFGGQAAtldBo^Y`GFR^E?XwX:>v@Q[umRsGdJ^>Z^OHDdhLaBY`NC@H:l?k;Pda:Q[ZhbB;<MsZi:X?Cm>JfDJN]dRR@BsDs;S:g:LxE_f]_t:zkmP@CD;;Mb^dvGHgN:B@LgOt=zM[:ss=?_dQL@O:VdegJNj`FM[Jg]dGa>eX:AJ=`L;ki:>^Hw?HbILN:fob@Ji>y`PJx<?<RgHw@[_s=NgymPBHOIsb;Mm:CVKaM?:A=jKVcKZR<>vmR<e;qSH<:V<`GKTwm>BEFZPPnBtasB>m;:PVREltav;RS;>lL^r<cvjGxL[B;sXVkrR>mYs<fUxfgGSasdhSUVIKbpadbj;:KxB:DQb?]>lprs@s;Hhz@DKxMt:PWTeDwOs;LmNP>gnPULnG`i`mJN:QuJUCvs@`ySeZNqQ<rMTB:g:Jc<J@::iaCmkuCBLHZvEQ;[OrZJsD:<J^N=SoC:=lKHSeFc:JnrcBFkqPd_`ae;mtTZBHPh;@;h:w:;l=uLm;f;BkeJW;@mEWIi`][AdG_;sd[lgZjL_Rvos@>^>daTgedC;T@LcpklB:ttxh:k_jCichMyNewnO`e_r_R`VNBFZ@QcDA=p?T:HwgiKM^yaZn]RmsYrFvFj`u?WdJJIS[n?EaOLp@gwiTI<Hf`Knm:FVbPKUCfRnnv:GghHKAQha]KAS@N`qRjH<KFB<ZgwnqMS?mE][Nt=l;N<QGM:pg?tsVnyS:>^aj:MS[T;iRF@@cEnZ?;:HqOAK<dSnRungfyG:ej[n:gJJfFbBqoJPR;_?Zwn:@ZjTZRD@dvweiUZiG`LnYttgtXVBnBNNEFtfwCqRO<ZOCos?JJ;;KB?RNL;V]VUNo>QDsPPZX?tBSZbWOTbRDroKgaiMzFBNGVpty]z`;BjM`ZEbsp<aKQxEcOJ;Z_<:=OGhJdMFDUBD]osd[qh<TEi?yg=;TLZFNYm^?Qwz;VBfFOzmH<?ovqHJdgPNEXPx]m;NsdVN@D`?^vOHPcj:uVD:`dVoHRP_f_Km[?oVeCXUGh_CDd?RO;lQBfWblKI?m]uxaXpNQWnG?RcHoB>fM=WLMtcLdagRiz_]DrLxhRyYC@x]UgEdocRXYL>l;k:lJJFxnFUEMR<wF:yl?:Gk:=CAO[JqcSb<:cnbZE_`AwClVN_d;eJ@`GoxnIWIx:@ZP`VcINGl_oNtEH`Sw`R[YB>NJgM?WVc[N`>mOgD>o@]yseof]__mlttFmXWxGra?ccSWw]ZHvGIa^L[dVDjyASQralGt;Zosg?<cI_?EG_ocNyW]fNKmZwOiD<oB]fk@m:Et;waZL]dnfAtFOeDwb<gJRLbnGd?X<EAMCoPN;VNNDhtQZeL]KEG_Qm]dT:gLNJE=`oOGqTmf_:tmn`r]rB]Zj[MQELtgDrdLaruNKEO:Po]ED[<jnaDRO_edB@FjH`PDcm>ZQiMZ<oOyEM]lc=dJ<cDEkgQ[dRRw;mj[Q?[Q`lL_lRFgL^qovD[sHCSBjqQLDN`sejyCa:KNSESOwDMNCkjJOWEoOKLb;Xwc@O`D[`i:t?WRi?OODT?g]ctL@f@`bD_?nlTGVueKO`CiOvedGJDhpOcfCduTjSQRg=O]f>ulLNGK]jnOVEy_KTdtY]fZ<seOOspGOQmhDPOeztJeihWAJHPoEZpmWYORsgLdXDa`PLmGMTcXBP[[_QTr?BLfvQco;p;<sWXNhqPqElp=TmWNqfz^insu@Ld;Lz_oPfeHOrT_`OicOcvfyOT]JOJXd?NMfgpNuxqO=FjQhfv`:DqxNwdc?ie>pjDrWTyefPAmSdhTkxOJiIOYfMptDV`PqeW;fe:O?SRhPLcB=lek`Z]^pVaexQ_=S:jsIpSNc=QODZpL@wqEHgE_yDIga]n=V;ePa@Dy`sLkWTRfrNdei;Loq=KycJqHDdpG@hhQqQyNI>aGdVpTTgK<aIfkPs@ePSweZpLT@>k<cxcPq[?cswqIf>NScF?uTTY`EL[_STcXEV[^J@]oiLmcs<xSPGeex^TnHjbj;ekQm]ZiQ]gqRtZ?QJR@HeZLlB:A]:s;gGQ;E]^:J>HiVuPM]>JA>wswpQAC_;=RL``y<cHGg;KTN=n@G>cEhJthj_weL`Ds@yNZ=YPXUGNCRIKAtc<p;Ux]cPxTMS:]ptkMOOXE::H>S;QKdZZ:UO^::D=e:;tuo:<bdc:?mFk:@]TrBAtB:?u^J:@jDImQlaMafdlUpwgUQ_BEJ:oKfyJRaf[V^JtQu?[@GazhQSe`aSUwhN@xULJJwoYMjGCPhD@Oi<ps<khpP`iUOep;tg^<r:FNHRPmmMURhnuXEJuADEVZ@G;aosiT::qcEh?QTiiPPf:otU?GBublVigk=O_:GcwhuT<i;[Mn]iFkXdW<dKq@p;PMw^`V>_VLUUhpqqcWS;i]Q=OA>Y@nGMNhLOQkNuUTyOM@dfTRvwWMukbSliCq]E[eaHwbKKenP<U>ukLO:D>`dqVDlJu<`i=vF?b`k>B^_cmWtGo_>:zCxZHqN?B?a[MmssNmDJ<:_cIZNPVNeB:`EA:mM[CeN^QKk<ppM[gdOdS@O??hCvd<dVeReJ_EDb@:^deHkuNpKHaEL[kKV:TKCKxoKO`desteGD=xo?JtJBXug;TA=pB:xJoow`UAdkrlu:xG:sISviIl[vNxgZLISvgWcKN;d^]ATV@_fdV;xdBpWXKL[Eq:DMwvNfO:GBFB?uuxxFicHFegOQMHgSe[uNxIL=kumSAog?VM==bcvb`vo<`YLj;_NsuORFiiUqie:emq[Tgk];fH]?q:j`eZUhT;fkqCfpOfHaYfACJ:B:>tG_SHORhMblDFprHuOYbEcr?mX?eyiiXjfRrsUjt>HzWOXi?rQDZORX>?UreKrZeTqXHkYXvjZ<_e]sk;sde:RDZMvvTJXw:xP>rPNfnT>O;xY:TxoKNxJdDaTXZSBqR@<:_;s^JJ@broeT;V;kZljmJF_@ATCBSeHmg<Pe;VWTHvEJKesp>UGPSHg^PYjfPNU@prwRC=MfzQmfymALnjc:TloF@DpUHv^K^h<KVuH=IHiKYng?pwAH?CKJJx]pWeJESGaOAESuiBNwTN=?NTJoXgsHj[T`YwLbQHdLp[Z`=GykyKCLSpmTh=[@bJq]c_c@AsGK[mD^aeA:mDEpt[epX`g:pffHyT[]:rRVoHFAl=n;tkzvhVGCD>G?ueWMBhzPyAV]?SYkyCdGO;@>=;NQhTBTrrTAztkKugGD;]H]f^=b[aKU]fzQ@Zo^<ejlS_UoHkAJ^]h;kokTVFq@BeVc>ctyj]GBTS?[DjxT_VsOwZjmG;xckO:YPt@HGyKe:sZTuGl@M=Q[l:qqieG=@O^clkcxAeTIIe]WHy_bUcXT[uZt^v[bcuvGFHc@SO<urtSRVoNmZO=eZ>=OgSSrM@w=jeufYud_IX@?^tgO=WVR;OrUu^wolsszfmHH@<^@zN^PwYBoY@k=b[vspNSeG:T:MgZNAKjj_ovAbGX;r_>VTnNbA?tlLH>vsR^P=A@G@KpJljlmI`eJMfKg>x[iDGg@lpU[b>pwW_:Q@mlnLjktkcfCp@mMq@nWSFRZqvAqWi[hIW]VyHkaPMsTmslRSeI=Af=G:]RtLTaHZby;;:<oDDS[G<TCM[CeNlmVoPaUohxKbIJO<;HUu`MpCyq_TWDUoasGgKsskgR?pZ:S?fCqZimSLGuZvh:Dx;UYjAoaaoMt:SzPuJ_;qC_tfVs@HrFvbh;w]Ad[sbeAJrWvlt?FrzWqidQ>kutDSqPEhdArIngPmSromoR]IKKrp?H^No[dMfLf?=XdZNIwSnGdawnAm]b@yj^HBujdBWGAMIf`GzlzxzC`xRDR_HAnP=wuh_puVc<SaunrwrUJOiHr?UYGSqkEKWger[TUhwDYtO:FTrGUqhrPzfUm;yL:;>RqME^UQhFJTUJxFaQnUY`ePZ?UiK@HWwlxDl<_q=jfFf>rpKy]`Hki[o=BIMMSvzLqW`[Ve]O[T:ZqQLIFVNccdwjKSe[<NAnQtj[=UJ:U_RUn;xY<lyJYBHrBPRSp[vhL]RYqaa;MUuozJmWhGFbI=;JGJ>EgoQ=bipxtp>zaWvHGnwEGdoclsTbQRNP:UTxwuSigI`oJE[JFVpjcbIvUZEWWDD>WewrMbLhVt]fOWjd;Eb`yFPaBA>`RtdJuJ>wg:BXXKZrlpwBRTNEkn^RxmE`texN;uWmBDZ[^ocTwx]r:jUmG=nKwBvKUTHPQR`_CxZsRW_GNu[HU]xCV_Vk=YUH?:?KOKSSCdjnAtrSx>p;iZg@?pMQ;y[Kg`QZDDISqdcVpVX^GjbzEh;y<lsigjUAhx@CfXRtWANFQIpjHvZpYAVQc;bMiXKWKPPLhyPHnJs?XS`TXIDbV;>OuozljVG?PwMgO=UQyc^=cT[t?cXtSrpJjm:@fkC^^YlUqH<Go:EOamBOdHonbzG>`_EOCRd:mPIMNqxvSdYDDKZYhiKNnVSfYH=P;:L>OaQvIVaDLjCH_omJfjcjDuJdRN]DTx>y>h[tZHiyDR`FGpmM^WMp]r][BhqA<fWLoO@WVHM^qvFS^ib@VveTd]g;dXsylEGHDKkqCZ<opVN^TMo@oyldk;@l^SR=RrgGgogj:MUU?z]>USLI@vqC=Lb:NUlL<axMY;F?uNUCsjwRnYj?b^v>pGgTJGBdjx^oU=R`ZEnWdN?u:xMG`hFEWSiI]CZLXohOnVljc:Nxes]azEXMo?vtUBhukDfY?iU]`USLRIRrd@;@fQnzSEwgdAUribMJlFnzJ^izIBvHO[T>YP=ErbzbG_i;buJ;TWg>ekEY`FOeLeKjqrvTLGxFvcUKhkemUBWgIBASCT`ekvlRJ<pYEmpSbJZVFxPUYmQpqQDZhhnSIYhgp^QVEgVtjRUWrBqJxx;ydHLbHeonDt`mVeX<nDPPo;O`a[MSSRYx=mZW`x?heu?GRvd[IswkCHcDm>Lixb?iVmNs`W@HtbKfH?bgr[YXFiQyv@RO]qc;vjwhFkwOEmye@[o@aVnYtwXruYmItQqvgxfikjWBj?CIcR:UsH:>r@oTmVDKupSmXjNrbVNO?v<njW;GvrFp;xyXsjUz]brnv>heyqkjvEEU`y??^WUlUGF?bj`UWxytrVzjArjvs:QytYS>pMDFGxxZDymod;ZIVv_p[bPDqlFYrivd?zbWvUzPlayffLycvvTkXMqcG]GjyzZtZX>H_u?xy@yORs@OQY^sai]fOR=jNIJfH=i[tiB[GjriW;=cywkvzhgIo][a_mslisYf@zskWvXnKSmhceoU==prcYTzh=ZPA>kYysodAhzTyJbCyKo>W=jDIAnvoOKxx^Cj:D_?GKgN<FRzq_m>nYXr:WnTli_eDUYhrwsP^BFoeNGZykawmiCghcgnhO^lyZ<nhUTVvG=ZKn^Yv@j@KAF[gKxctw<NqtUN^ax]`i[pqf=MXRTCkMh]YwH[MTDvllcvbhFI]_uMmck`SWHEeuW@?s`QkymilmcAc^l[yByUP[qzpgcQmrVXZq;HJffMyCz^ReWTHsAm@z:p_xWIXQcW[ToRw>sgY^awhp^kamCTDoyTzG=uQsEw::;LOoKVt?iwjfP^<iIN]c:>dGGLwXW^THH;fzSJVzNvRPMEHMNmcTu>yg<?IaWlMrERtfqosHpULMb`?HTqWdJWbynktxWiHYKUvhc^VtpVv_jePIhtKHNIrIwFKeQb^@htucUnQEHhx:SmBnRz=hqIjEuuGdNsuzFMmYx?dqPlAVIaorrUV:G:s[Y;F[Io:WEhPlmwpjgre=yM^Cv[iYgeITA<MeayFxZWCpobzRqdrKdLHtInExlb@kDyngMqLbYSaara@>W?aHba^wOxNvn=LjfvZDuzTIWlMFj[bixfOm_wuYTHPpI[aOn=jsGAP?Qq@dOn>tOV^ILbZnb=PDueWzlnR;fh[Mu`mQaUgPSXOpoNzWVMQIQRU^SzGXqXvH=bKneETVv[X::RiJKXki_QuyBu^ubt<Pep?:Hy?G]xN<ViPbNUjgtmx^W]PkQ<Um?xCX[Vdi@hiIWGxVwqjkdIheEn_IsREXjI[nCs[wNBvEXfH;EopowKEVpWnQer:sV?sau[YCj>QTN;l`pgau::k^GUVTQqrtK@NBwhHBVQ@G@cHNpAUlVVT<QUK`hO]Xx]ETHptE_XV<ehhNiYni[mCmvUDWtZQr@WhKInKSYRUrrSXQxlwzzX^i;rx]H`WaXWYIiPbnldxvERjWHP<EFWOCtFw`Xb::rHMcRzDzdWjjBIMOu=znSxWWHzsGMg]tuTTX?cjrtfpytTtbjPjCbtvhhUo]NI=aT;P?tOmzYGHRbwIq^zpqqe=YyDJrCUaB<lvWWybmr[EjxpPx;YMjTrLU_tkisA<sx::_ABSjuhGnbGzVznVkv<r^ojhk;uAWzHpb:A]MuWe_wJiSIFEyfP`>NzDXGf@vtY]]vKYIHhIlUff>;vSiLqxIMa_Wy[a:yLq^I<paWrPxPgGitILvpWyiyKWrEdJHvjTo:sIYf@WUEMoxkNSpg_itJYSRQQ@UjVxuArGhxOl_x^jiIxQ^EiAhyyIk?XD:SXVfpGWz>hcejEbvnqtsBGZYFIyQv=ylxkxLjHILAqPu[xHDmPxM@AjEozWRx<jKb]hfflDuDwOaLICfkh<OsczNb_bpAbOvuuA:hfXj;TrmouuxY=Y[IcrnpwbcazsbS:@riSw@wsgl;Wj>U_MwHs;XQXzIwUonrHx_ySjEIZ:UUOfIUqqnqdvnXHYXr?roWryDizYIBrhruGlwvdHnPJQlbZEqSwUYjYIjk?qnlqsVwhEFQ@@tnzqwTwXYzbsIpnlEV[wL;Cr_bqAwxzFyfbJjTvl?nVwyrUiGIXv^=Q?tjH^b^rxagAs@X;X]QCItqmLpOjfXpTOnK[=fKVw:;yrhspQV^ULDZ:D^_CiZ:NU_CYd?AtH?tarBpytoQo`osuA_LU^fsihaSEjHiXLSWOprmJHAw_qDvfeixFHfeXilMrf;itDLCCGrzQnL:dTrV=UhoQVAWcYCrNPIpnhLqBCXt<JQd:?_rZz>OS?PAsD]MMsxrixeUAvl_l:JzRXCPzcE^c`vYWvNofZg:=ySzCyOq=ISjnnw`uu@CXyW]Qhw>xLxUyWf:DrdGjuPHxWc<qmsyUFqqpxXDizXry;aWzBSWFlHufI?Mkn?xS`?YKyvZ;YIv=h`hxVQV;NjaLvOAl_lYcE`_t^QGt^junsNoGbRtIZDkVW<:uS[g>TZUCorC=GhnTk>SlsZFbB<Pfqx:mHrCce]yrjEUqQlFzrgDQRAIUE:G];zyJ_YyJ=V?`ZERURugrdg^[iBIalsJHLrcmSpDSOhGtVHhOgY[hX>=]eURalrj?UqiQUjDfYTrCa`TYyfwHjuei[E_pn_JfOdaf;Bp<ZFUxmL[agS<@CQExTB;TWaUmzPqCg>[]HWM[OSgDlc:gsnXG:J:Ae@kn_`v`cKV<LuwFPbh=LIynYhUSCaPx][TCysYiRsm;u:>bv?ZQEcc?m;RXHyvV<u[iqSk:::?:Iq_DjJ?MqNC]tU?BS[bKcKe^Mcgum;NYiRv=HcbaoU:<TZTucIXgtiOfEPYI_?upTGehf:V:[<I<^OTMJEs?k:ltdFeTZlcDNLjX:sCm=a>kodasoy[a?hkF]nng`TF]:I_c@Z;>z]gvuXBvi_>i;]pas@QTAZMOfhi:JQF;y;u@^s@>BBJXD;lg>JKStK;FJVfuUiEc:D;C;DPg`]VaJHiwue;GZXc>sy;b^oAOZGThv=>ylb^nvi;FbjpstgSJUOe`;JJWN?[;WJTiUK;gJLdthiWb]o?h;YQa`uW;eO`utzy<r_Z?s@JZLJAVue:PR>gDHdgSTVaZKiZu:;z:SjssHFZgNn<;NkLSdKe>ZCLsjyj^^]dgiLZQOuT;VWEmuUqUhjZ>XiAIiosm@dZM<SXP`ZWoAz;zJM_?H;[IdnuUHRkNhT?;_kWs@;;tJQF?O;UUe>@p;wIZo@f;Gbg]siZdaizdeDvtaB>DHq@jV@Daq=ZWudyfs<Z?yigZ@DSg;v=akcAP<T;[TpaRBN`tcmHzbjvc:;z_YunyUtf_f^_bkO`uiHpEgkESyX:O;R`VXYhZSUwkBMZ?SytQAZ@A;=:Re>u[PFDV>m@E:LkE_;Q`ghf=akL;e?Z[NA]^dUwn:OY=I<M<`NTWeLCcQvbw[ZVDvRT=cVT>a;vBSL<jkkx_wshDweZlefyIdcD@I;yuhjuUgizif[][B:BYunH]?IYtaTsZOzctXjyg>[oFAzjHkYy?Y^ofT;I:Ua@q[HA]^doF^cQISW:e@dkcPZ@AasDbDSRXpsRu`v?P?X:vZfPA_Pp[g>]?[@:?u?I;Wv?qlh[YcJjtQktg;q@bDg:KJsuydpdEdv:J::".charCodeAt(D++))?H-59:H-58),N|=(0<(H&(c/=2))?1:0)<<B,++B}for(var J,N,B,R,H,V=[],P=1,k=3,A=1,E=[],c=0,D=0;;){if(Z(A+1),2==N)return E.join("");-2&(R=N)||(Z(8*N+8),V[R=k++]=String.fromCharCode(N),--P||(P=2<<A++)),E.push(R=V[R]||J+J[0]),J&&(V[k++]=J+R[0],--P||(P=2<<A++)),J=R}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+blackEvo; !
+function(e) {
+    var t = function(t) {
+        function i(i) {
+            var n = t.call(this) || this;
+            return n.service.setValues([123330, 123339, 123340, 5124], [202294, 202297, 202298, 15065, 15066, 15067, 15068, 15069, 15070, 15071], [25668, 16079, 27276, 27277, 27278, 27279]),
+            n.init([{
+                panelName: e.PanelConst.MainPanel,
+                isMain: !i || !i["goto"]
+            },
+            {
+                panelName: e.PanelConst.Level1Panel,
+                isMain: i && 1 == i["goto"]
+            },
+            {
+                panelName: e.PanelConst.Level2Panel,
+                isMain: i && 2 == i["goto"]
+            }]),
+            n
+        }
+        return __extends(i, t),
+        i
+    } (BasicMultPanelModule);
+    e.BlackEvo = t,
+    __reflect(t.prototype, "blackEvo.BlackEvo")
+} (blackEvo || (blackEvo = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+blackEvo; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.MainPanel = "blackEvo.MainPanel",
+        e.Level1Panel = "blackEvo.Level1Panel",
+        e.Level2Panel = "blackEvo.Level2Panel",
+        e
+    } ();
+    e.PanelConst = t,
+    __reflect(t.prototype, "blackEvo.PanelConst");
+    var i = function() {
+        function e() {}
+        return e.EVENT_UPDATE_MAIN_PANEL = "blackEvo.updateMainPanel",
+        e
+    } ();
+    e.EventConst = i,
+    __reflect(i.prototype, "blackEvo.EventConst")
+} (blackEvo || (blackEvo = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+blackEvo; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = "BlackEvoLevel1PanelSkin",
+            t.isFirst = !0,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            this.init(),
+            this.addEvent()
+        },
+        t.prototype.init = function() {
+            this.initOldPveBtnClose(0, this, "black_evo_level1_panel_imgtitle_png"),
+            this.aniGet = SpineUtil.createAnimate("bulaikechaojinhua"),
+            this.groupAni.addChild(this.aniGet),
+            this.aniGet.visible = !1
+        },
+        t.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                e.service.cureAllPet()
+            },
+            this);
+            for (var t = function(t) {
+                ImageButtonUtil.add(i["imgItem" + t],
+                function() {
+                    SocketConnection.sendByQueue(41810, [11, t],
+                    function() {
+                        e.service.getValue(27275 + t) && BubblerManager.getInstance().showText("已获得过道具，不会再次获得"),
+                        e.updateValues()
+                    })
+                },
+                i)
+            },
+            i = this, n = 1; 3 >= n; n++) t(n);
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                var t = e.service.getValue(202298);
+                FightManager.fightNoMapBoss(18509 + t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastFight,
+            function() {
+                PayManager.doPayFunc(function() {
+                    BuyProductManager.buyProductBySocket(260156,
+                    function() {
+                        SocketConnection.sendByQueue(41810, [11, 5],
+                        function() {
+                            e.updateValues()
+                        })
+                    },
+                    e)
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddTimes,
+            function() {
+                PayManager.doPayFunc(function() {
+                    BuyProductManager.buyProductBySocket(260157,
+                    function() {
+                        SocketConnection.sendByQueue(41810, [11, 6],
+                        function() {
+                            e.updateValues()
+                        })
+                    },
+                    e)
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnRoll,
+            function() {
+                SocketConnection.sendByQueue(41810, [11, 4],
+                function() {
+                    e.service.updateValues().then(function() {
+                        KTool.playRollAni({
+                            allNum: 4,
+                            result: e.service.getValue(202298),
+                            duration: 3,
+                            numRound: 5
+                        },
+                        e.setIndex, e.update, e)
+                    })
+                })
+            },
+            this)
+        },
+        t.prototype.update = function() {
+            var e = this;
+            if (this.service.getValue(27276) && this.service.getValue(27277) && this.service.getValue(27278)) return void this.service.closePanel();
+            var t = !1,
+            i = this.progress.value,
+            n = Math.min(100, this.service.getValue(123339));
+            if (this.isFirst) this.isFirst = !1,
+            this.aniGet.visible = !1,
+            this.progress.value = n,
+            this.txtProgress.text = n + "%";
+            else if (n > i) {
+                t = !0,
+                this.aniGet.visible = !0;
+                var s = this.aniGet.play(["easy", "nomorl", "middle", "hard"][[5, 10, 15, 25].indexOf(n - i)], 1);
+                s.waitPlayEnd().then(function() {
+                    e.aniGet.visible = !1,
+                    e.progress.value = n,
+                    e.txtProgress.text = n + "%",
+                    e.groupAni.removeChildren(),
+                    e.groupAni.addChild(e.aniGet);
+                    for (var t = e.service.getValue(123340), i = 1; 3 >= i; i++) {
+                        var s = 1 == KTool.getBit(t, i);
+                        e["imgHas" + i].visible = s;
+                        var a = !s && n >= [25, 60, 100][i - 1];
+                        DisplayUtil.setEnabled(e["imgItem" + i], a, !1),
+                        a && e.showAni(i)
+                    }
+                })
+            } else this.aniGet.visible = !1,
+            this.progress.value = n,
+            this.txtProgress.text = n + "%";
+            if (!t) {
+                this.groupAni.removeChildren(),
+                this.groupAni.addChild(this.aniGet);
+                for (var a = this.service.getValue(123340), o = 1; 3 >= o; o++) {
+                    var r = 1 == KTool.getBit(a, o);
+                    this["imgHas" + o].visible = r;
+                    var l = !r && n >= [25, 60, 100][o - 1];
+                    DisplayUtil.setEnabled(this["imgItem" + o], l, !1),
+                    l && this.showAni(o)
+                }
+            }
+            var _ = this.service.getValue(202298);
+            this.setIndex(_),
+            this.imgTimes.visible = this.txtTimes.visible = 0 == _,
+            this.btnFastFight.visible = this.btnFight.visible = _ > 0;
+            var u = MainManager.actorInfo.isVip ? 10 : 8,
+            g = u - this.service.getValue(202297);
+            this.txtTimes.text = "(" + g + "/" + u + ")",
+            this.btnRoll.visible = g > 0 && 0 == _,
+            this.btnAddTimes.visible = 0 == g && 0 == _
+        },
+        t.prototype.setIndex = function(e) {
+            e > 0 ? (this.imgSelect.visible = !0, this.imgSelect.x = [ - 22, 212, 444, 677][e - 1]) : this.imgSelect.visible = !1
+        },
+        t.prototype.showAni = function(e) {
+            var t = SpineUtil.createAnimate("bulaikechaojinhua");
+            this.groupAni.addChild(t),
+            t.play("changzhu"),
+            t.x = [ - 95, 69, 293][e - 1],
+            t.y = -258
+        },
+        t
+    } (BasicPanel);
+    e.Level1Panel = t,
+    __reflect(t.prototype, "blackEvo.Level1Panel")
+} (blackEvo || (blackEvo = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+blackEvo; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.petData = [{
+                id: 350,
+                name: "傲",
+                x: 18,
+                y: 56,
+                condition: "战胜对手"
+            },
+            {
+                id: 707,
+                name: "忌",
+                x: 117,
+                y: 45,
+                condition: "10回合后战胜对手"
+            },
+            {
+                id: 535,
+                name: "怒",
+                x: 56,
+                y: 72,
+                condition: "强化状态下战胜对手"
+            },
+            {
+                id: 527,
+                name: "焚",
+                x: 45,
+                y: 56,
+                condition: "BOSS被弱化时战胜对手"
+            },
+            {
+                id: 1582,
+                name: "欲",
+                x: 36,
+                y: 95,
+                condition: "5回合内战胜对手"
+            },
+            {
+                id: 1836,
+                name: "惰",
+                x: 103,
+                y: 0,
+                condition: "使用致命一击战胜对手"
+            },
+            {
+                id: 1154,
+                name: "暴",
+                x: 0,
+                y: 46,
+                condition: "满血战胜对手"
+            }],
+            t.skinName = "BlackEvoLevel2PanelSkin",
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            this.init(),
+            this.addEvent()
+        },
+        t.prototype.init = function() {
+            this.hasItem = !!this.service.getValue(27279),
+            this.initOldPveBtnClose(0, this, "black_evo_level2_panel_imgtitle_png")
+        },
+        t.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                e.service.cureAllPet()
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                var t = e.service.getValue(5124) + 1;
+                e.lastIndex = t,
+                FightManager.fightNoMapBoss(1495 + t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastFight,
+            function() {
+                PayManager.doPayFunc(function() {
+                    var t = e.service.getValue(5124) + 1;
+                    BuyProductManager.buyProduct(240580 + t + "_" + (2698 + t),
+                    function() {
+                        e.updateValues()
+                    },
+                    e)
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddTimes,
+            function() {
+                PayManager.doPayFunc(function() {
+                    BuyProductManager.buyProduct("240588_2706",
+                    function() {
+                        e.updateValues()
+                    },
+                    e)
+                },
+                e)
+            },
+            this)
+        },
+        t.prototype.update = function() {
+            var e = this.service.getValue(5124) + 1;
+            if (7 >= e) {
+                this.imgCurLevel.x = this["imgLevel" + e].x - 5,
+                this.imgCurLevel.y = this["imgLevel" + e].y - 4;
+                var t = this.petData[e - 1];
+                this.imgPet.source = "black_evo_level2_panel_imgpet" + t.id + "_png",
+                this.imgPet.x = t.x,
+                this.imgPet.y = t.y,
+                this.txtCondition.text = t.condition,
+                this.lastIndex > 0 && (e > this.lastIndex ? BubblerManager.getInstance().showText("已击破" + this.petData[this.lastIndex - 1].name + "封印，再接再厉！") : BubblerManager.getInstance().showText("未按照条件击败敌人，请再次尝试"), this.lastIndex = 0);
+                for (var i = 1; 7 > i; i++) this["imgHas" + i].visible = e > i;
+                var n = MainManager.actorInfo.isVip ? 10 : 7,
+                s = n - this.service.getValue(15064 + e);
+                this.txtTimes.text = "(" + s + "/" + n + ")",
+                this.btnFight.visible = s > 0,
+                this.btnAddTimes.visible = 0 == s
+            } else this.hasItem && BubblerManager.getInstance().showText("光明守护符已达到数量上限，无法再次获得"),
+            this.service.closePanel();
+            this.hasItem = !!this.service.getValue(27279)
+        },
+        t
+    } (BasicPanel);
+    e.Level2Panel = t,
+    __reflect(t.prototype, "blackEvo.Level2Panel")
+} (blackEvo || (blackEvo = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+blackEvo; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.skinName = "BlackEvoSkin",
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            this.init(),
+            this.addEvent()
+        },
+        i.prototype.init = function() {
+            this.initOldPveBtnClose(165, this, "black_evo_imgtitle_png", this.service.closeModule, this.service)
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                t.service.showPetInfo(2341)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCollect,
+            function() {
+                egret.lifecycle.stage.touchChildren = !1,
+                PetFactorCollectionManager.setCollection(148, !0).then(function() {
+                    egret.lifecycle.stage.touchChildren = !0,
+                    t.btnCollect.visible = !1,
+                    t.btnHasCollect.visible = !0
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnHasCollect,
+            function() {
+                egret.lifecycle.stage.touchChildren = !1,
+                PetFactorCollectionManager.setCollection(148, !1).then(function() {
+                    egret.lifecycle.stage.touchChildren = !0,
+                    t.btnCollect.visible = !0,
+                    t.btnHasCollect.visible = !1
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnEvo,
+            function() {
+                var e = PetManager.getBagPetsById(875)[0];
+                e ? SocketConnection.sendByQueue(43076, [e.catchTime, 68],
+                function(e) {
+                    t.updateValues();
+                    var i = e.data,
+                    n = i.readUnsignedInt();
+                    PetManager.upDateBagPetInfo(n,
+                    function() {
+                        Alert.show("布莱克成功超进化！\n是否立刻前往背包查看？",
+                        function() {
+                            t.service.showPetBag()
+                        })
+                    })
+                }) : Alarm.show("请将布莱克放入背包，才能完成超进化！",
+                function() {
+                    t.service.showPetBag()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnSuperEvo,
+            function() {
+                PayManager.doPayFunc(function() {
+                    return t.btnEvo.visible ? void BubblerManager.getInstance().showText("已集齐道具，可以完成进化") : void BuyProductManager.buyProduct("240580_2708",
+                    function() {
+                        t.updateValues()
+                    },
+                    t)
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnSkill,
+            function() {
+                PayManager.doPayFunc(function() {
+                    return PetManager.isDefaultPet(2341) ? void BuyProductManager.buyProduct("240589_2709",
+                    function() {
+                        t.updateValues(),
+                        Alert.show("成功获得第五技能，是否前往背包查看？",
+                        function() {
+                            t.service.showPetBag()
+                        })
+                    },
+                    t) : void Alarm.show("请将" + TextFormatUtil.getRedTxt("夜魔之神布莱克") + "放入背包首发位置",
+                    function() {
+                        t.service.showPetBag()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnSignIn,
+            function() {
+                t.service.openPop(new e.SignInPop(t.service))
+            },
+            this),
+            ImageButtonUtil.add(this.btnLevel1,
+            function() {
+                t.service.openPanel(e.PanelConst.Level1Panel)
+            },
+            this),
+            ImageButtonUtil.add(this.btnLevel2,
+            function() {
+                t.service.openPanel(e.PanelConst.Level2Panel)
+            },
+            this),
+            EventManager.addEventListener(e.EventConst.EVENT_UPDATE_MAIN_PANEL, this.update, this)
+        },
+        i.prototype.update = function() {
+            var e = 1 == this.service.getValue(25668);
+            this.imgHas.visible = this.btnSkill.visible = e;
+            var t = 1 == this.service.getValue(16079);
+            this.imgHasSkill.visible = t,
+            DisplayUtil.setEnabled(this.btnSkill, !t, !1);
+            for (var i = [], n = 0; 4 > n; n++) i[n] = 1 == this.service.getValue(27276 + n),
+            this["txtLevelItem" + (n + 1)].text = +i[n] + "/1";
+            this.imgHasLevel1.visible = i[0] && i[1] && i[2],
+            this.imgHasLevel2.visible = i[3],
+            this.btnEvo.visible = this.imgHasLevel1.visible && this.imgHasLevel2.visible && !e,
+            this.btnSuperEvo.visible = !this.imgHasLevel1.visible || !this.imgHasLevel2.visible,
+            DisplayUtil.setEnabled(this.btnLevel1, !this.imgHasLevel1.visible, !1),
+            DisplayUtil.setEnabled(this.btnLevel2, !this.imgHasLevel2.visible, !1);
+            var s = PetFactorCollectionManager.checkPetIdIndexIsCollection(148);
+            this.btnCollect.visible = !s,
+            this.btnHasCollect.visible = s
+        },
+        i
+    } (BasicPanel);
+    e.MainPanel = t,
+    __reflect(t.prototype, "blackEvo.MainPanel")
+} (blackEvo || (blackEvo = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+blackEvo; !
+function(e) {
+    var t = function(t) {
+        function i(e) {
+            var i = t.call(this) || this;
+            return i.skinName = "BlackEvoSignInPopSkin",
+            i.service = e,
+            i
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose, this.hide, this);
+            for (var i = function(i) {
+                ImageButtonUtil.add(n["item" + i],
+                function() {
+                    SocketConnection.sendByQueue(43106, [i],
+                    function() {
+                        t.service.updateValues().then(function() {
+                            t.update(),
+                            EventManager.dispatchEventWith(e.EventConst.EVENT_UPDATE_MAIN_PANEL)
+                        })
+                    })
+                },
+                n, !1, !1)
+            },
+            n = this, s = 1; 4 >= s; s++) i(s);
+            this.update()
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        i.prototype.update = function() {
+            for (var e = this.service.getValue(123330), t = !!this.service.getValue(202294), i = 1; 4 >= i; i++) {
+                var n = ( !! this.service.getValue(27275 + i), e >= i);
+                this["imgHas" + i].visible = n;
+                var s = !t && e == i - 1;
+                if (this["imgCan" + i].visible = this["txtToday" + i].visible = s, this["imgCannot" + i].visible = this["txt" + i].visible = !s, DisplayUtil.setEnabled(this["item" + i], s, !1), this["imgArrow" + i] && (this["imgArrow" + i].visible = n), this["txtTomorrow" + i]) {
+                    var a = t && e == i - 1;
+                    this["txtTomorrow" + i].visible = a,
+                    a && (this["txt" + i].visible = this["txtToday" + i].visible = !1)
+                }
+            }
+        },
+        i
+    } (PopView);
+    e.SignInPop = t,
+    __reflect(t.prototype, "blackEvo.SignInPop")
+} (blackEvo || (blackEvo = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/BlackEvoLevel1PanelSkin.exml"] = window.BlackEvoLevel1PanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnAddTimes", "btnRoll", "imgTimes", "btnFastFight", "btnFight", "imgSelect", "progress", "imgItem1", "imgItem2", "imgItem3", "imgHas1", "imgHas2", "imgHas3", "groupAni", "txtProgress", "txtTimes", "btnPet", "btnCure"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group2_i(), this._Group3_i()]
+    }
+    __extends(t, e);
+    var i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i.thumb_i = function() {
+            var e = new eui.Image;
+            return this.thumb = e,
+            e.source = "black_evo_level1_panel_imgprogress_png",
+            e
+        },
+        t
+    } (eui.Skin),
+    n = t.prototype;
+    return n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.left = 0,
+        e.right = 0,
+        e.source = "black_evo_bg_jpg",
+        e.y = 0,
+        e
+    },
+    n._Group2_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = 0,
+        e.width = 913,
+        e.y = 30,
+        e.elementsContent = [this.btnAddTimes_i(), this.btnRoll_i(), this.imgTimes_i(), this.btnFastFight_i(), this.btnFight_i(), this._Image2_i(), this.imgSelect_i(), this._Group1_i(), this._Label1_i(), this.txtTimes_i()],
+        e
+    },
+    n.btnAddTimes_i = function() {
+        var e = new eui.Image;
+        return this.btnAddTimes = e,
+        e.source = "black_evo_level1_panel_btnaddtimes_png",
+        e.x = 390,
+        e.y = 510,
+        e
+    },
+    n.btnRoll_i = function() {
+        var e = new eui.Image;
+        return this.btnRoll = e,
+        e.source = "black_evo_level1_panel_btnroll_png",
+        e.visible = !0,
+        e.x = 390,
+        e.y = 510,
+        e
+    },
+    n.imgTimes_i = function() {
+        var e = new eui.Image;
+        return this.imgTimes = e,
+        e.source = "black_evo_level1_panel_imgtimes_png",
+        e.visible = !0,
+        e.x = 488,
+        e.y = 506,
+        e
+    },
+    n.btnFastFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFastFight = e,
+        e.source = "black_evo_level1_panel_btnfastfight_png",
+        e.visible = !0,
+        e.x = 305,
+        e.y = 510,
+        e
+    },
+    n.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "black_evo_level1_panel_btnfight_png",
+        e.visible = !0,
+        e.x = 475,
+        e.y = 510,
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_level1_panel_imgpet_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 96,
+        e
+    },
+    n.imgSelect_i = function() {
+        var e = new eui.Image;
+        return this.imgSelect = e,
+        e.height = 430,
+        e.scale9Grid = new egret.Rectangle(50, 49, 1, 2),
+        e.source = "black_evo_level1_panel_imgselect_png",
+        e.width = 257,
+        e.x = 573,
+        e.y = 75,
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.visible = !0,
+        e.x = 118,
+        e.y = 0,
+        e.elementsContent = [this._Image3_i(), this.progress_i(), this.imgItem1_i(), this.imgItem2_i(), this.imgItem3_i(), this._Image4_i(), this._Image5_i(), this._Image6_i(), this.imgHas1_i(), this.imgHas2_i(), this.imgHas3_i(), this.groupAni_i(), this.txtProgress_i()],
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_level1_panel_imgprogressbg_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 17,
+        e
+    },
+    n.progress_i = function() {
+        var e = new eui.ProgressBar;
+        return this.progress = e,
+        e.height = 18,
+        e.width = 505,
+        e.x = 86,
+        e.y = 22,
+        e.skinName = i,
+        e
+    },
+    n.imgItem1_i = function() {
+        var e = new eui.Image;
+        return this.imgItem1 = e,
+        e.source = "black_evo_level1_panel_imgitem1_png",
+        e.visible = !0,
+        e.x = 194,
+        e.y = 0,
+        e
+    },
+    n.imgItem2_i = function() {
+        var e = new eui.Image;
+        return this.imgItem2 = e,
+        e.source = "black_evo_level1_panel_imgitem2_png",
+        e.x = 358,
+        e.y = 0,
+        e
+    },
+    n.imgItem3_i = function() {
+        var e = new eui.Image;
+        return this.imgItem3 = e,
+        e.source = "black_evo_level1_panel_imgitem3_png",
+        e.x = 581,
+        e.y = 0,
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_level1_panel_imgprogress1_png",
+        e.visible = !0,
+        e.x = 196,
+        e.y = 61,
+        e
+    },
+    n._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_level1_panel_imgprogress2_png",
+        e.x = 360,
+        e.y = 61,
+        e
+    },
+    n._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_level1_panel_imgprogress3_png",
+        e.x = 583,
+        e.y = 61,
+        e
+    },
+    n.imgHas1_i = function() {
+        var e = new eui.Image;
+        return this.imgHas1 = e,
+        e.source = "black_evo_level1_panel_imghas1_png",
+        e.x = 151,
+        e.y = 17,
+        e
+    },
+    n.imgHas2_i = function() {
+        var e = new eui.Image;
+        return this.imgHas2 = e,
+        e.source = "black_evo_level1_panel_imghas1_png",
+        e.x = 315,
+        e.y = 17,
+        e
+    },
+    n.imgHas3_i = function() {
+        var e = new eui.Image;
+        return this.imgHas3 = e,
+        e.source = "black_evo_level1_panel_imghas1_png",
+        e.x = 538,
+        e.y = 17,
+        e
+    },
+    n.groupAni_i = function() {
+        var e = new eui.Group;
+        return this.groupAni = e,
+        e.touchChildren = !1,
+        e.touchEnabled = !1,
+        e.visible = !0,
+        e.x = 315,
+        e.y = 288,
+        e
+    },
+    n.txtProgress_i = function() {
+        var e = new eui.Label;
+        return this.txtProgress = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 24,
+        e.textColor = 16514895,
+        e.x = 13,
+        e.y = 19,
+        e
+    },
+    n._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "VIP赛尔每日额外2次抽取次数",
+        e.textColor = 11432703,
+        e.visible = !0,
+        e.x = 338,
+        e.y = 569,
+        e
+    },
+    n.txtTimes_i = function() {
+        var e = new eui.Label;
+        return this.txtTimes = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 14,
+        e.text = "(9/9)",
+        e.textColor = 16777215,
+        e.visible = !0,
+        e.x = 503,
+        e.y = 506,
+        e
+    },
+    n._Group3_i = function() {
+        var e = new eui.Group;
+        return e.x = 36,
+        e.y = 453,
+        e.elementsContent = [this.btnPet_i(), this.btnCure_i()],
+        e
+    },
+    n.btnPet_i = function() {
+        var e = new eui.Image;
+        return this.btnPet = e,
+        e.source = "black_evo_level1_panel_btnpet_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btnCure_i = function() {
+        var e = new eui.Image;
+        return this.btnCure = e,
+        e.source = "black_evo_level1_panel_btncure_png",
+        e.x = 0,
+        e.y = 90,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BlackEvoLevel2PanelSkin.exml"] = window.BlackEvoLevel2PanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnPet", "btnCure", "imgLevel1", "imgLevel2", "imgLevel3", "imgLevel4", "imgLevel5", "imgLevel6", "imgLevel7", "imgHas1", "imgHas2", "imgHas3", "imgHas4", "imgHas5", "imgHas6", "imgCurLevel", "imgPet", "txtCondition", "btnFastFight", "btnAddTimes", "btnFight", "imgTimes", "txtTimes"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this._Group3_i(), this._Group4_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.left = 0,
+        e.right = 0,
+        e.source = "black_evo_bg_jpg",
+        e.y = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.x = 36,
+        e.y = 97,
+        e.elementsContent = [this.btnPet_i(), this.btnCure_i(), this.imgLevel1_i(), this.imgLevel2_i(), this.imgLevel3_i(), this.imgLevel4_i(), this.imgLevel5_i(), this.imgLevel6_i(), this.imgLevel7_i(), this.imgHas1_i(), this.imgHas2_i(), this.imgHas3_i(), this.imgHas4_i(), this.imgHas5_i(), this.imgHas6_i(), this.imgCurLevel_i()],
+        e
+    },
+    i.btnPet_i = function() {
+        var e = new eui.Image;
+        return this.btnPet = e,
+        e.source = "black_evo_level1_panel_btnpet_png",
+        e.x = 0,
+        e.y = 356,
+        e
+    },
+    i.btnCure_i = function() {
+        var e = new eui.Image;
+        return this.btnCure = e,
+        e.source = "black_evo_level1_panel_btncure_png",
+        e.x = 0,
+        e.y = 446,
+        e
+    },
+    i.imgLevel1_i = function() {
+        var e = new eui.Image;
+        return this.imgLevel1 = e,
+        e.source = "black_evo_level2_panel_imglevel1_png",
+        e.x = 179,
+        e.y = 4,
+        e
+    },
+    i.imgLevel2_i = function() {
+        var e = new eui.Image;
+        return this.imgLevel2 = e,
+        e.source = "black_evo_level2_panel_imglevel2_png",
+        e.x = 89,
+        e.y = 61,
+        e
+    },
+    i.imgLevel3_i = function() {
+        var e = new eui.Image;
+        return this.imgLevel3 = e,
+        e.source = "black_evo_level2_panel_imglevel3_png",
+        e.x = 179,
+        e.y = 118,
+        e
+    },
+    i.imgLevel4_i = function() {
+        var e = new eui.Image;
+        return this.imgLevel4 = e,
+        e.source = "black_evo_level2_panel_imglevel4_png",
+        e.x = 89,
+        e.y = 175,
+        e
+    },
+    i.imgLevel5_i = function() {
+        var e = new eui.Image;
+        return this.imgLevel5 = e,
+        e.source = "black_evo_level2_panel_imglevel5_png",
+        e.x = 179,
+        e.y = 232,
+        e
+    },
+    i.imgLevel6_i = function() {
+        var e = new eui.Image;
+        return this.imgLevel6 = e,
+        e.source = "black_evo_level2_panel_imglevel6_png",
+        e.x = 89,
+        e.y = 289,
+        e
+    },
+    i.imgLevel7_i = function() {
+        var e = new eui.Image;
+        return this.imgLevel7 = e,
+        e.source = "black_evo_level2_panel_imglevel7_png",
+        e.visible = !0,
+        e.x = 179,
+        e.y = 346,
+        e
+    },
+    i.imgHas1_i = function() {
+        var e = new eui.Image;
+        return this.imgHas1 = e,
+        e.source = "black_evo_level2_panel_imghas_png",
+        e.x = 179,
+        e.y = 4,
+        e
+    },
+    i.imgHas2_i = function() {
+        var e = new eui.Image;
+        return this.imgHas2 = e,
+        e.source = "black_evo_level2_panel_imghas_png",
+        e.x = 89,
+        e.y = 61,
+        e
+    },
+    i.imgHas3_i = function() {
+        var e = new eui.Image;
+        return this.imgHas3 = e,
+        e.source = "black_evo_level2_panel_imghas_png",
+        e.visible = !0,
+        e.x = 179,
+        e.y = 118,
+        e
+    },
+    i.imgHas4_i = function() {
+        var e = new eui.Image;
+        return this.imgHas4 = e,
+        e.source = "black_evo_level2_panel_imghas_png",
+        e.visible = !0,
+        e.x = 89,
+        e.y = 175,
+        e
+    },
+    i.imgHas5_i = function() {
+        var e = new eui.Image;
+        return this.imgHas5 = e,
+        e.source = "black_evo_level2_panel_imghas_png",
+        e.visible = !0,
+        e.x = 179,
+        e.y = 232,
+        e
+    },
+    i.imgHas6_i = function() {
+        var e = new eui.Image;
+        return this.imgHas6 = e,
+        e.source = "black_evo_level2_panel_imghas_png",
+        e.visible = !0,
+        e.x = 89,
+        e.y = 289,
+        e
+    },
+    i.imgCurLevel_i = function() {
+        var e = new eui.Image;
+        return this.imgCurLevel = e,
+        e.source = "black_evo_level2_panel_imgcurlevel_png",
+        e.visible = !0,
+        e.x = 174,
+        e.y = 0,
+        e
+    },
+    i._Group3_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = -24,
+        e.y = 71,
+        e.elementsContent = [this._Image2_i(), this._Group2_i(), this._Label1_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_level2_panel_imgpetbg_png",
+        e.x = 0,
+        e.y = 204,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.elementsContent = [this.imgPet_i()],
+        e
+    },
+    i.imgPet_i = function() {
+        var e = new eui.Image;
+        return this.imgPet = e,
+        e.visible = !0,
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "VIP赛尔每日额外3次挑战次数",
+        e.textColor = 11432703,
+        e.x = 113,
+        e.y = 522,
+        e
+    },
+    i._Group4_i = function() {
+        var e = new eui.Group;
+        return e.right = 36,
+        e.y = 104,
+        e.elementsContent = [this._Image3_i(), this._Image4_i(), this.txtCondition_i(), this.btnFastFight_i(), this.btnAddTimes_i(), this.btnFight_i(), this.imgTimes_i(), this.txtTimes_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_level2_panel_imgtip_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_level2_panel_imgcondition_png",
+        e.x = 6,
+        e.y = 128,
+        e
+    },
+    i.txtCondition_i = function() {
+        var e = new eui.Label;
+        return this.txtCondition = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.textAlign = "center",
+        e.textColor = 16046448,
+        e.width = 224,
+        e.x = 51,
+        e.y = 242,
+        e
+    },
+    i.btnFastFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFastFight = e,
+        e.source = "black_evo_level1_panel_btnfastfight_png",
+        e.x = 21,
+        e.y = 367,
+        e
+    },
+    i.btnAddTimes_i = function() {
+        var e = new eui.Image;
+        return this.btnAddTimes = e,
+        e.source = "black_evo_level1_panel_btnaddtimes_png",
+        e.visible = !0,
+        e.x = 174,
+        e.y = 367,
+        e
+    },
+    i.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "black_evo_level1_panel_btnfight_png",
+        e.visible = !0,
+        e.x = 174,
+        e.y = 367,
+        e
+    },
+    i.imgTimes_i = function() {
+        var e = new eui.Image;
+        return this.imgTimes = e,
+        e.source = "black_evo_level1_panel_imgtimes_png",
+        e.x = 271,
+        e.y = 363,
+        e
+    },
+    i.txtTimes_i = function() {
+        var e = new eui.Label;
+        return this.txtTimes = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 14,
+        e.textColor = 16777215,
+        e.x = 285,
+        e.y = 363,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BlackEvoSigninPopSkin.exml"] = window.BlackEvoSignInPopSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["btnClose", "imgArrow1", "imgArrow2", "imgArrow3", "imgCannot1", "imgCan1", "imgHas1", "txt1", "txtToday1", "item1", "imgCannot2", "imgCan2", "imgHas2", "txt2", "txtToday2", "txtTomorrow2", "item2", "imgCannot3", "imgCan3", "imgHas3", "txt3", "txtToday3", "txtTomorrow3", "item3", "imgCannot4", "imgCan4", "imgHas4", "txt4", "txtToday4", "txtTomorrow4", "item4"],
+        this.height = 352,
+        this.width = 748,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this._Image4_i(), this._Image5_i(), this.btnClose_i(), this.imgArrow1_i(), this.imgArrow2_i(), this.imgArrow3_i(), this.item1_i(), this.item2_i(), this.item3_i(), this.item4_i(), this._Label1_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 352,
+        e.left = 0,
+        e.right = 0,
+        e.scale9Grid = new egret.Rectangle(249, 79, 250, 5),
+        e.source = "black_evo_signin_pop_imge_sign_bg_png",
+        e.visible = !0,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_signin_pop_imgtitle_png",
+        e.x = 226,
+        e.y = 9,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_signin_pop_imgdarkarrow1_png",
+        e.x = 186,
+        e.y = 160,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_signin_pop_imgdarkarrow1_png",
+        e.x = 358,
+        e.y = 160,
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_signin_pop_imgdarkarrow1_png",
+        e.x = 530,
+        e.y = 160,
+        e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.source = "black_evo_signin_pop_btnclose_png",
+        e.x = 711,
+        e.y = 0,
+        e
+    },
+    i.imgArrow1_i = function() {
+        var e = new eui.Image;
+        return this.imgArrow1 = e,
+        e.source = "black_evo_signin_pop_imgarrow1_png",
+        e.visible = !0,
+        e.x = 179,
+        e.y = 154,
+        e
+    },
+    i.imgArrow2_i = function() {
+        var e = new eui.Image;
+        return this.imgArrow2 = e,
+        e.source = "black_evo_signin_pop_imgarrow1_png",
+        e.visible = !0,
+        e.x = 351,
+        e.y = 154,
+        e
+    },
+    i.imgArrow3_i = function() {
+        var e = new eui.Image;
+        return this.imgArrow3 = e,
+        e.source = "black_evo_signin_pop_imgarrow1_png",
+        e.visible = !0,
+        e.x = 523,
+        e.y = 154,
+        e
+    },
+    i.item1_i = function() {
+        var e = new eui.Group;
+        return this.item1 = e,
+        e.x = 39,
+        e.y = 92,
+        e.elementsContent = [this.imgCannot1_i(), this.imgCan1_i(), this._Image6_i(), this.imgHas1_i(), this.txt1_i(), this.txtToday1_i()],
+        e
+    },
+    i.imgCannot1_i = function() {
+        var e = new eui.Image;
+        return this.imgCannot1 = e,
+        e.source = "black_evo_signin_pop_imgcannot4_png",
+        e.visible = !0,
+        e.x = 16,
+        e.y = 22,
+        e
+    },
+    i.imgCan1_i = function() {
+        var e = new eui.Image;
+        return this.imgCan1 = e,
+        e.source = "black_evo_signin_pop_imgcan4_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_signin_pop_imgitem1_png",
+        e.x = 40,
+        e.y = 36,
+        e
+    },
+    i.imgHas1_i = function() {
+        var e = new eui.Image;
+        return this.imgHas1 = e,
+        e.source = "black_evo_signin_pop_imghas4_png",
+        e.visible = !0,
+        e.x = 26,
+        e.y = 58,
+        e
+    },
+    i.txt1_i = function() {
+        var e = new eui.Label;
+        return this.txt1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "第一天",
+        e.textColor = 14926335,
+        e.visible = !0,
+        e.x = 43,
+        e.y = 130,
+        e
+    },
+    i.txtToday1_i = function() {
+        var e = new eui.Label;
+        return this.txtToday1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "第一天",
+        e.textColor = 16775919,
+        e.visible = !0,
+        e.x = 43,
+        e.y = 130,
+        e
+    },
+    i.item2_i = function() {
+        var e = new eui.Group;
+        return this.item2 = e,
+        e.x = 210,
+        e.y = 92,
+        e.elementsContent = [this.imgCannot2_i(), this.imgCan2_i(), this._Image7_i(), this.imgHas2_i(), this.txt2_i(), this.txtToday2_i(), this.txtTomorrow2_i()],
+        e
+    },
+    i.imgCannot2_i = function() {
+        var e = new eui.Image;
+        return this.imgCannot2 = e,
+        e.source = "black_evo_signin_pop_imgcannot4_png",
+        e.x = 16,
+        e.y = 22,
+        e
+    },
+    i.imgCan2_i = function() {
+        var e = new eui.Image;
+        return this.imgCan2 = e,
+        e.source = "black_evo_signin_pop_imgcan4_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_signin_pop_imgitem2_png",
+        e.x = 40,
+        e.y = 33,
+        e
+    },
+    i.imgHas2_i = function() {
+        var e = new eui.Image;
+        return this.imgHas2 = e,
+        e.source = "black_evo_signin_pop_imghas4_png",
+        e.x = 26,
+        e.y = 58,
+        e
+    },
+    i.txt2_i = function() {
+        var e = new eui.Label;
+        return this.txt2 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "第二天",
+        e.textColor = 14926335,
+        e.x = 43,
+        e.y = 130,
+        e
+    },
+    i.txtToday2_i = function() {
+        var e = new eui.Label;
+        return this.txtToday2 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "第二天",
+        e.textColor = 16775919,
+        e.x = 43,
+        e.y = 130,
+        e
+    },
+    i.txtTomorrow2_i = function() {
+        var e = new eui.Label;
+        return this.txtTomorrow2 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "明日可领",
+        e.textColor = 16773475,
+        e.x = 28,
+        e.y = 129,
+        e
+    },
+    i.item3_i = function() {
+        var e = new eui.Group;
+        return this.item3 = e,
+        e.visible = !0,
+        e.x = 381,
+        e.y = 92,
+        e.elementsContent = [this.imgCannot3_i(), this.imgCan3_i(), this._Image8_i(), this.imgHas3_i(), this.txt3_i(), this.txtToday3_i(), this.txtTomorrow3_i()],
+        e
+    },
+    i.imgCannot3_i = function() {
+        var e = new eui.Image;
+        return this.imgCannot3 = e,
+        e.source = "black_evo_signin_pop_imgcannot4_png",
+        e.x = 16,
+        e.y = 22,
+        e
+    },
+    i.imgCan3_i = function() {
+        var e = new eui.Image;
+        return this.imgCan3 = e,
+        e.source = "black_evo_signin_pop_imgcan4_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image8_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_signin_pop_imgitem3_png",
+        e.x = 41,
+        e.y = 40,
+        e
+    },
+    i.imgHas3_i = function() {
+        var e = new eui.Image;
+        return this.imgHas3 = e,
+        e.source = "black_evo_signin_pop_imghas4_png",
+        e.x = 26,
+        e.y = 58,
+        e
+    },
+    i.txt3_i = function() {
+        var e = new eui.Label;
+        return this.txt3 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "第三天",
+        e.textColor = 14926335,
+        e.x = 43,
+        e.y = 130,
+        e
+    },
+    i.txtToday3_i = function() {
+        var e = new eui.Label;
+        return this.txtToday3 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "第三天",
+        e.textColor = 16775919,
+        e.x = 43,
+        e.y = 130,
+        e
+    },
+    i.txtTomorrow3_i = function() {
+        var e = new eui.Label;
+        return this.txtTomorrow3 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "明日可领",
+        e.textColor = 16773475,
+        e.x = 28,
+        e.y = 129,
+        e
+    },
+    i.item4_i = function() {
+        var e = new eui.Group;
+        return this.item4 = e,
+        e.x = 553,
+        e.y = 91,
+        e.elementsContent = [this.imgCannot4_i(), this.imgCan4_i(), this._Image9_i(), this.imgHas4_i(), this.txt4_i(), this.txtToday4_i(), this.txtTomorrow4_i()],
+        e
+    },
+    i.imgCannot4_i = function() {
+        var e = new eui.Image;
+        return this.imgCannot4 = e,
+        e.source = "black_evo_signin_pop_imgcannot4_png",
+        e.x = 16,
+        e.y = 22,
+        e
+    },
+    i.imgCan4_i = function() {
+        var e = new eui.Image;
+        return this.imgCan4 = e,
+        e.source = "black_evo_signin_pop_imgcan4_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_signin_pop_imgitem4_png",
+        e.x = 35,
+        e.y = 33,
+        e
+    },
+    i.imgHas4_i = function() {
+        var e = new eui.Image;
+        return this.imgHas4 = e,
+        e.source = "black_evo_signin_pop_imghas4_png",
+        e.x = 26,
+        e.y = 58,
+        e
+    },
+    i.txt4_i = function() {
+        var e = new eui.Label;
+        return this.txt4 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "第四天",
+        e.textColor = 14926335,
+        e.x = 43,
+        e.y = 130,
+        e
+    },
+    i.txtToday4_i = function() {
+        var e = new eui.Label;
+        return this.txtToday4 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "第四天",
+        e.textColor = 16775919,
+        e.x = 43,
+        e.y = 130,
+        e
+    },
+    i.txtTomorrow4_i = function() {
+        var e = new eui.Label;
+        return this.txtTomorrow4 = e,
+        e.fontFamily = "REEJI",
+        e.size = 24,
+        e.text = "明日可领",
+        e.textColor = 16773475,
+        e.x = 28,
+        e.y = 129,
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "每天签到可领取一个道具，仅可领取一次",
+        e.textColor = 11699175,
+        e.x = 212,
+        e.y = 317,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/BlackEvoSkin.exml"] = window.BlackEvoSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imgHas", "btnEvo", "btnSignIn", "txtLevelItem1", "txtLevelItem2", "txtLevelItem3", "imgHasLevel1", "btnLevel1", "txtLevelItem4", "imgHasLevel2", "btnLevel2", "btnSuperEvo", "btnSkill", "imgHasSkill", "btnInfo", "btnCollect", "btnHasCollect"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this._Group2_i(), this._Group3_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.left = 0,
+        e.right = 0,
+        e.source = "black_evo_bg_jpg",
+        e.y = 0,
+        e
+    },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.horizontalCenter = -10.5,
+        e.width = 1025,
+        e.y = 47,
+        e.elementsContent = [this._Image2_i(), this.imgHas_i(), this.btnEvo_i(), this.btnSignIn_i(), this.btnLevel1_i(), this.btnLevel2_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_imgpet_png",
+        e.x = 0,
+        e.y = 15,
+        e
+    },
+    i.imgHas_i = function() {
+        var e = new eui.Image;
+        return this.imgHas = e,
+        e.source = "black_evo_imghas_png",
+        e.x = 190,
+        e.y = 215,
+        e
+    },
+    i.btnEvo_i = function() {
+        var e = new eui.Image;
+        return this.btnEvo = e,
+        e.source = "black_evo_btnevo_png",
+        e.x = 191,
+        e.y = 489,
+        e
+    },
+    i.btnSignIn_i = function() {
+        var e = new eui.Image;
+        return this.btnSignIn = e,
+        e.source = "black_evo_btnsignin_png",
+        e.visible = !0,
+        e.x = 858,
+        e.y = 0,
+        e
+    },
+    i.btnLevel1_i = function() {
+        var e = new eui.Group;
+        return this.btnLevel1 = e,
+        e.x = 643,
+        e.y = 105,
+        e.elementsContent = [this._Image3_i(), this.txtLevelItem1_i(), this.txtLevelItem2_i(), this.txtLevelItem3_i(), this.imgHasLevel1_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_imglevel1_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txtLevelItem1_i = function() {
+        var e = new eui.Label;
+        return this.txtLevelItem1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.stroke = 1,
+        e.strokeColor = 4394844,
+        e.text = "1/1",
+        e.textColor = 16768031,
+        e.x = 44,
+        e.y = 106,
+        e
+    },
+    i.txtLevelItem2_i = function() {
+        var e = new eui.Label;
+        return this.txtLevelItem2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.stroke = 1,
+        e.strokeColor = 4394844,
+        e.text = "1/1",
+        e.textColor = 16768031,
+        e.x = 100,
+        e.y = 106,
+        e
+    },
+    i.txtLevelItem3_i = function() {
+        var e = new eui.Label;
+        return this.txtLevelItem3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.stroke = 1,
+        e.strokeColor = 4394844,
+        e.text = "1/1",
+        e.textColor = 16768031,
+        e.x = 155,
+        e.y = 107,
+        e
+    },
+    i.imgHasLevel1_i = function() {
+        var e = new eui.Image;
+        return this.imgHasLevel1 = e,
+        e.source = "black_evo_imghaslevel1_png",
+        e.visible = !0,
+        e.x = 5,
+        e.y = 11,
+        e
+    },
+    i.btnLevel2_i = function() {
+        var e = new eui.Group;
+        return this.btnLevel2 = e,
+        e.x = 616,
+        e.y = 294,
+        e.elementsContent = [this._Image4_i(), this.txtLevelItem4_i(), this.imgHasLevel2_i()],
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "black_evo_imglevel2_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txtLevelItem4_i = function() {
+        var e = new eui.Label;
+        return this.txtLevelItem4 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.stroke = 1,
+        e.strokeColor = 4394844,
+        e.text = "1/1",
+        e.textColor = 16768287,
+        e.x = 46,
+        e.y = 105,
+        e
+    },
+    i.imgHasLevel2_i = function() {
+        var e = new eui.Image;
+        return this.imgHasLevel2 = e,
+        e.source = "black_evo_imghaslevel2_png",
+        e.visible = !0,
+        e.x = 5,
+        e.y = 11,
+        e
+    },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.right = 36,
+        e.y = 556,
+        e.elementsContent = [this.btnSuperEvo_i(), this.btnSkill_i(), this.imgHasSkill_i()],
+        e
+    },
+    i.btnSuperEvo_i = function() {
+        var e = new eui.Image;
+        return this.btnSuperEvo = e,
+        e.source = "black_evo_btnsuperevo_png",
+        e.x = 8,
+        e.y = 0,
+        e
+    },
+    i.btnSkill_i = function() {
+        var e = new eui.Image;
+        return this.btnSkill = e,
+        e.source = "black_evo_btnskill_png",
+        e.x = 8,
+        e.y = 0,
+        e
+    },
+    i.imgHasSkill_i = function() {
+        var e = new eui.Image;
+        return this.imgHasSkill = e,
+        e.source = "black_evo_imghasevo_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 15,
+        e
+    },
+    i._Group3_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.x = 36,
+        e.y = 488,
+        e.elementsContent = [this.btnInfo_i(), this.btnCollect_i(), this.btnHasCollect_i()],
+        e
+    },
+    i.btnInfo_i = function() {
+        var e = new eui.Image;
+        return this.btnInfo = e,
+        e.source = "black_evo_btninfo_png",
+        e.x = 1,
+        e.y = 62,
+        e
+    },
+    i.btnCollect_i = function() {
+        var e = new eui.Image;
+        return this.btnCollect = e,
+        e.source = "black_evo_btncollect_png",
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    i.btnHasCollect_i = function() {
+        var e = new eui.Image;
+        return this.btnHasCollect = e,
+        e.source = "black_evo_btnhascollect_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin);

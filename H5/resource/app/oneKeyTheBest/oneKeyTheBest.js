@@ -1,1 +1,5884 @@
-eval(function(){function D(D){for(C=J=0;C<D;)N<2&&(N=64,B=92<(B="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKwP:LZ=XVL`?KBJ;:^@l<:z<rB:ACZKnWokZ?khF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@AoP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBA^>m:_wi:bJkCZkHF<WJ[?UiN>Zw<=kP<?poV[lS:A_:WlR:;M:HHn:UU^l[>`s^I?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwCZJLS:wPETT_ZpLKYAtzQDgVd?:K<I]fNMkW;FF<=?uMUZg;^cn;n=Z:PoBV@>kasSJDQ@sA=sR=>dFDo?spM:p`>B;Pt;XFJSk`<IbJe@oCM:HatAJ[SF@;:Sc_TnGSX<F:<CVIGCZfM?mXUtyVEsVEJeEwbMPRMlHKs`ks>cHItJ>ZaBL=DxD]LlRNWQsCEUvWn[HKVA?i?:y:KiTmOdZwHJJ@cp>[fEk;:k^AhYKmz>MJhmB`::HSlH;ZQmhSD>JAd@;t`u?otZV@@wb?@ai]d?FJBd@=Pb_kOkKABzfVBn?IUufi=I=cgKs;:NsMD^[jO>J::eGk:ca;t_D?J;lYIOpfx:ZJ>;BX:ZXEP<=KG;F:cgAI_;NAMd<zRZYSnda]TVNn::K]dWSA=:Bk:<R];RBk::SM<N;OqqK;N=;Zi<`Kk?O_BOGFpMPBZ:>C:okD;I?IC;i=:BJ^Az?FnJhRK>F@D;xZBLSYapGdcB]WS=;Z]Cm<xH:x]cq<l;w:Zs:ZT<xA>mMznoKkPAq::^Vw:@hx`_]::;Rx>R_xm;_SLs<J:;eNmy?>JLNCcj[nKXIKwIzNCGG_LL:?Rx;:JmJ@FgmEETD=UGsq=GDsXxvOV]LB::WZFM;jBPPcp:PU[[=sUmSPLpD=]w?ZBfZYSs_J>:a<JW:x?zKlFeS:Zy>BlkLCJ;xV::IaZ_Zc<FCes[nQ::?cTEkvZ:=SFA@e=RBRF=liXO<]KSM;cE<zD;bhNCYk:S`amUMAPY<c:RBEM?TffRCBRu:;sigq`FPKwjmtdc`MpBqaVlcap<L@wcmMHiu]xbiru_@BZ@BaX?us;:GLrg=UuAfyfekF;bvYCFoA_RmwZ_jNMKh;>LAcW<C@xeBKDp@mhJoelfEp;m`T<h<JkK[wC;mIs>;iOtUNsOs_URQFM]HZ@F^aJsR]`h[xnBIayW?k;zS@DgoxvKJq<O:;jKZ:sI;s]_imENVu=xKu<;DNccFud:M;K@;jJiB_zDx=AGDYlbYw]=HjRtXZ;QxDua^k]mjK_nsCDJxF?nxDLNJokFU[cILx=FI^zw_wRt<X=:fF?MA;Olg<=Z>:Z:;`TlVPN^Z_AP:Z^=E]iezBQs<mEF;h[WhhXkvBRN_nRGkZh:;dH;f@QA:s::BQgW;xbk`qMOGf;tuUXh;bMX>izv<KPYBad[:R@dJbxe;F^]KBW:gWDKbiNt:_wY:_A]X:P::RQIPCs_k=jMKjlthsYdyVJrtJkzeKGaHZN[Saj`VHyN:;]z=QF:HBu:_^Ym=dV;sg=s<sZs>Zl;m=NAG]eDBW;jwvs:?Np=l?wA:::ZanEyK=QUAl;FrBNGJy=TppjfE[XgiEYpGb:>g;;?TUmRfaYVfVB@>=s<v>cf?qB<ZK_ZFLU_dCuM>NRUL:[o]NHcU>::TbZOsTOM;KM_[cjgTxm<HrMAkEKH]D<l[:DILRV:s]La>@RfLR?EAWl@ERuas>y:sbl;CVZw:<;OmJP`IoswX=Yqrb]PFjRs:jnB[I>:e:pCdNnCAMF;L;:RGj^VVZX]T?@GXBkpXn<l>J?<JL<Cx[c`k?mNNg[dMb@iIVLkJ[GMHtPIeYFFC>[B_hETW:n;dMd;Jn:FiGlA^eaJ`WeJa;on__c?]H_haaMg`EI?<gxdTmv=_?cVITk::l<>_Cx`iZ@Wr;dsLl`B;]O:sdYwnMMraGRPttCe^d;aX:XSIMI@HGeE:H:H<w?BIme<islmC=?JTGwg;ixB?;p<GkMC>_:<mA;s[`NCIg<JqDs<OFaBcDZ]:N:R;oHwkBY:?K=lAaILXoxm<_jCJeXlMDQ^bGSOI;ct::<LQDKkN^tLmwXZfu;o:`Q:Y`ofdsqon:VNqODT:R@>PP<Z@eTPmjbh<>JdcR=L?_:sKJE:I:T<oFDXDC[n=H><;TdpGlr<e=mfmYkOZrQ;:F;w>yFJntC:;@_QOZTg]C=fFglgdJ]AHbyKJIDmEaZpbTDyUcs;y^x=QbHNR>ldZs_PFgORuks<v;q?g:sKk>NQ:uQR<kxDU^I<W@>UFf<z^Tf=X<e:AT<nKcHVN@>VCxDcbKC]Jk^n<M>[WiU?X_CuJa[`<mG_TRGMVk?@qIN;c?qL]QWyHN]ctSebQOeMWidW<^b^VTFJ]DEKP[h<f;oLs>`FCD;u:LMuYKlB=CUNFr;kmKa^E@XFlJ_moMQKaEF?SC?dh=N<@=OSPs=fWE@gVncMMuM_YVzg>s[k<;A=iwN:t^PzZsAH=<<tD[H`QAR=VPti<v`ZsXJZCsnlJojGXDBhtvmIaYIg=GvtInEfBk;B<K:]DZJZfhX<@VpScPIQcU<aKVB_:TgKO??>eC=OxISJ_zgPCgMtGcM]r>CF[QscCRLipOAKP_`dXL]`<RTLofdYLeFzEaNghSRu;gACHKV`dMmAaMCXV<a=>Dr^kdfND`dHD[[mTNqd^OTkLQVfKSRC?Re<;Lf`Ne^HTeYdTfpLB^p?eH;qeWPucSQe:o[ff:ybGDTW:SeYO>aBTqmoweFmq^hEu>a=dAJ;eWYfOoUdrK<m=RunbRTGWqj=R@zo[d:nK]=:HtZbHeL[^=De<rOjzPK[ptK@Gn<CWlfTZaPq]R_r[^^?DOGocdULkn@EMFEZvkMCnMNlaO[]=tZED__g>:]nSaE<PlhYnLlgnvTULgYHcJp^KEPHgy?yUZ>U>qPUnRK@=;`@qWgAUBHW_keVvhITmocqwWUc^;bfT=fO<HRVDRKm^bNaHVVX<CoSRdbZTW@OmTn^bIH;VU[?pEiQLipVCHprfdEdiYlPvhlCljJS[xoc>:AdDoXLe@]nqQgfL:Lwa>abJyjKXM[GGvkI]_@bz]U?eJ@::HK:E]BKskQ[eKAjuRm=KmQRfkDZ:RbJLsHtR:BByWMB[;im;YJ_Kmd_bItAZKynxZ>oFzc_dh]X:@dzYb:XB`jB?ZgcI:x:y=RNMDntRNjtXN@zHBTg[I`[g@sEZEQjdmml=<hl<:IF>wvmb;RHJZcL:a`JfcX:jX^XL_bIDRRsl?EjsSg>NhYRBpPe?MZHS<^[;?MGpl?:;Nd_[BqGv::>Ow=XqrzRdpGD]LwpdUnuqP<sFi=ZnJV=Ea^FDqBiCuxLbGk_Arm>;ONH<U_z[@?pZ>=k:d[a:PAB@Q;ZBB=ZEN@l^g;R;zo[KJFb@bkyQk@DbzpjLfp@?par^Ba_K=@Eo;MaJPOuNfqYrN;_@uNPPz[RPy=RJcFsKKlsPsIsPOqI_f;U[f>sIpoRa<OjqXOXN^[x?kEjacH;KRHOp_IPOl;LLqJmLmMN_BCBQ^lblYlR=YkzqvpvobZAmsAzlG:NKyqr]K@YbJ<zn:=n;DAp?oByLKNT:s;yPzZJlUq[JBPdb[LUoyPKNwFEoB<ZNlKCMVbCJH<]BB:=m=ksACNdJ[NpMw>aMoFSPSPpnSL?Qxo=lR>u<tPtA`NOOmG`ODD`QDCOLCAqAOOLIpLvJJkTGc;JkU<GLBGGK_=_:N>><hLH=l^hOs^F>UKxMV:N?WQ@DZ:w>xOw@xKV?xLZ;<:=OIam<TIE:^P=MTD[;DAJqBL;@MNT?MPE=Z:u<u?G^u:@<@=nM@:B<a?aAa@EQ^?EJ_rELq>fMq=:HYnfJKNUPyCYNpkOLeC`MpqGn>AGrppGpeN@NmnSbkb@^Z;B:_@:n^>sI:;n<R?Wp[Qr^c>IaI`PII_>=^l@=Z;[QJ<_=@:Y=Z<Z:_[dOvA]=ZNzZO?CHJJdC:<dCdCF^JAdFSHtKCECDZ<RA]<cKcLZ;E]wAZ>k@SB?D?C?G]=?B`EZ=tIB;SIm_?H?IoPdElKX;yP`GSG`FpDZ@pCAaOGOICBGG?Ca?v@?NDI?^pEOBhI`DhIJ;hFu=tF]Cn:KAB?fnIoB=N=IJE?]IBAWnZ>xqg?flLHcApMdPYmmDpk?QSK=E=GfqY>lPmBMBT>lAMCpmk;BOeIeD^GcAPI=NEBk@qBM=uFuD_@uBhMuHhN@GoAhK@FaD<>V;UIWMe=R=aIUExMUL^o^K=KL;pKvJCCm>R@Gk>AbPBrqB;Qe<HCT=T?HHQmnNiGnK@?iIiDEJE;EP@^XHqAJ?q@fLflyDUnyGfJ;IUQRFvQZkqEvOfAACeLAM=lAMeMAJl=`NbP@JC<C;W;eMbM^OQ_QNS?`?QNm?IKyo?@rQJnrP:dQQ`@MZQ;IPbPyqp>ZgjLBmG<`=jKX:YNx<zNW>Q?zHPQYNYMh>C>n;zKs=zO<===k:^<^;^?KE:nc@M<CAS=:eZk=N>BIAy<AHvN_@siJkYC^NbB:cQOU;Oqvako_hkoA@A;?AJkb?BlbABl[lcrQ>r<u<RmJlf<I=RrI>slj?J=j:@=slY<u<>mz@S?>o:^:@:_k<_l`bOZJ^>NnZKkJhO<Nlk^q=NpDooocaH^RfokR_^oFoNJc]P^Fml=s[B]grL[gp><obgnNNVk[]ilVnNMVneNamwqO^BdgbF=ooVaVbFJZ@<qNM<mXbF>]lXomp]nNQ]kL^JELld`e^dZXpeemlD^DZe]e]Tem[DoT[erDoerCnDnu[k>@[wc_napJaa^urToP]ukmrP`unTpCas>@nc@H[@rH[`[cby`iZP_amedapz?afqgamPlKaHrPr;]NbLh[]Z=qnwZHlii;[Hml^io@FipX[inCaTjTiLmDpLm;jLpP^efXlSbBBt]t^IOyp^aFAt]q>;qGa;lR??`>A?_V:[lb<[kdlO>e=x^>MmhO[_qHaKqsLs]DjkaG`<?Galoh^lph`Prha=<Cqz`z:x]xZcoCidrxZ;bdpLoSr=aM?So@QSomA^]tkwgnas=tlVegM`inb<?n]BQnak??qE``mf[f^fZ`oU^RNOqoIo^Orv^=b^CnG;FYI;DnLGleOqI^Ks@GJiIXrBDhplChro_^<_<K<zqN_]e:nSaWDL?=[xeVHWFWolCOO[>w?gHWH?Nz]s[xgLBhkjrJ;:;lQSEn=:AB<VChBTASGJ>Yn^f::MhhHX?^cB?=qWpWok<MDxrA[xrJ;=k@?[:^pdoqC^n=po<>@BDMlMm:MnknqOpGaS[hkmByJAg:OYaAf<FcD;=:@N[n;V?wa>J]PN]Z@Z^nja<R=N@EpxfaMQgQiQhQiN`IrpQnkFLYN]dIdQcnjIcjA]?fk:;`<:gZ<lX;IMXljLmMm:Qs::CP[KrAVGVRjEZ?yL_jFYqg?DyWBSLPJ;Bqow`>ZseTa;=R:;YGy[cRkB>;;yBZccc[YRj=HteW:V`Rj=@jgF`R[c>;cBNuk<[c>K:;:PZC[xBA:GJW[]Z:ZKNw`VkB>Y:<YC:V`W;xBNjNKi;rO@jF_o?B>IXnNmKlhWHnHvHZgIHuord=HhZ>ioj?KqCYoOxYd:rBROYOJYK>:WRE:VlmzWD<J?KfHe_rHzHfKci_i]LW:?yEZRAAFKHjNEF@hBB]K[YUJk:wZ;lhKtlnKkibKqCRmginKncYRH[b:;VSoq[?ZI:AjPBFK]ZW:DBD:HkV_^@prIoMBU>Qg::=KlKYhWBs:oYJ?fhTNZI]<_We<mUn=ZMm]rdgQYn:@Egk;Y]J@FQm]wVDEk>YAnhzq?Mmb`fTTU`l>uR=ms<ZAz?uTK:@T@S@VwXwRaRTVkGl;aYCAVbaTDUZOhExAYrt=Q:liN[J:ZIL=HVLFiRzoZXMlbgk<V[BRDWI@rCXXiWiYiVyV:];:uXdHJ?vluWH:zliWw];TyW;VPY;S_;QiZ]Z=:bySk?[UiYnq;XyTZ>mkIqrh];]>k;E_T?Fis<nc@>VSFGnemKf=eUe:@:QjLAmRCVlGPUDWCYCU:>dVMb<><UoCEomUEp_W<Uhi>Qq@FEvnFDAlAm^A]A]:cBPTPXuUsHFRD?ZIZFJHpWJBP=]:HXkCzA]=o@V]ZLEl`WFIJ>AqAqMoOXOVKUOSPV:awDJCJBJIWYZBGRkGzqGWp^oAV_DMr^s<hYvlhTs=hWAmYdOXNbJ;R@fBs:_ZIhYmiSk==U`WZW=Svp`R^Y`YhS^TWXdE^RMTYfZOzlMRFEMRnUnTnSfWhROVEYL@[[AZ:<gR<qu>GNq^<VrfQ;wgqY=T:AQQvrvxkjujM==fazv`ll[m?:@c;`lT>S[k@eqIwgrvAExA@VvxbQARbYJbuKq@ZlqC:@vkmzunLqLHMTMiMo:@Lc<ZJB@c@TAQ[prkbGrBaWqRb]vR_=qmMg@Iu[JMqIVKtTwOLSLGMKM^Mf:Oqtws:cIQqBabAIrhAjrxq`Q=q:Iz;MrJHErAMeMmvHZRHtLs:<IDJJqGqFuhrp@Q@jqLu?@T>cIeSTxTQhrYr_?zqlq::`=ZLiFOt;VZ>iGVGVM^gzPWe:J;s;o;e:GV:lGVKrSVPKSQ>RW`k`e?wdr`m`u``Z?^xK[`pcC`fk?`]pwBkOsZ]?VYWjUJyhmG[OrksK]ZyS]?=:FYOj==sxvy_RLWf?uWqWyWlWtW[xpWz_;=xxd=a^`=_iinhnegK^<xz_GKn_i_qxr_`Wm;hKv[_FNn[Zvhz_DXAF:R<kqqkr<r=HlkrgYRYjSLA?g:AMeC`orWp=alOCmRSVF<_R>dw]ji[Ze:AExGrhwGkYYzXKBnO<oiik[kdkqnLLI;yGlG]LIJJEcSdGlzSnNeche:>hrhCOwhm?YEUZAV?rH:C`kZL;h:NIAF>Del<fdZDf`:@fx_i`t=hlqCEJ;VOfn_;NJ:BEG::eVo::;xJ:I`G::RYw:;hMJ:Wy^:;wVo:?=xY^WDhUthgFxhhJ:RIUu<;>hxm^^xwEtvroXCik_iE_^:YIKHcfmc@qBdidjJ<^pKgEuC]EiCd>N^lM`Z;UxBUk=JvCIZAX:g?bkZ?mI?:`?:Pfdf[VYbk`K^UFwc`:v`KN<oD:FF`kVX=UuXJd[RGN@>P>d:IZP[@FFz=ZV`uk?:VZKrV[?y`yv_>mTDEahAl=vWfAjWgUt;YAmyyBRbhqMTebe^ifZiibroYHisx:hDLv^gHc`VxXe:M;psYx_kVgXCzqglLFFt>XDtGZMjNB<rmLGT^rnAqbvA[rzDCrqZBbpdhrz<EIabyfq^qCIrwR:Ic_K]>Im:VP=;f;xyuIrOPIrmFlXdlImtTt:t>NEE[?U@EgbSMJcUobW>FeC:X>_cFjqrbIyryCo^v:;jobtjmIpj[==jtLFl?Z<uFdR^mK`kcO^tQfvJlUd:SUhd>ziyBKy[>K_CdYVsfGBKE]E:WYmRYxs`Lu>RSe<Ts`UY<RqS[=[Wye=KzFYqBDIgp@zhVz^Anxdfo::YZZEjdboEu[YXBGYMBfDGJiwz<j^vpIkvGlaj^Kpb:DIfDJ:a_:py>yqLEushyw:ZH]ZBYdc=<X@:ayc]_jn?tRH];W:<Z?mUZci:CVSf_Ymut=xuHwyDd@Z[>?;?s:ZZ[VE:CsUGWoaaMUCi:D_A<gi;jk?:;DqDtnxeH<zKf]qqg:MlsqtE@[EJ_r=v:?J<c@Y_HAKvNxV;rjQIf^oWs>wIs]WH<<eoF@Bw;Z:_JZAZ;lTYFryUE@B<zOPmxdtXlEVdZXOo?Xw@iCWSkYbpV??wxZIIPc?sBvTe;F@wK:BJ?^N@bw[wlAD=cOlFSR;q;@WSCg>BtS>hiPP:=MZy<dRz;hH=rO^ZiJFsulX_wn?MdmnPR_hT[?EXcSX^m?rlBqlASYfJIE:<<[;<yTzaSoa>EZT;z;LIEq]jDYoH>j<AZ`MLSuWsM@[N:JglbRJd:h[;mRUi?OzufRdiu]Nq[kqFMrw`@J]=z`Anc?_=n:=]<JE;o_UXBNeY]Yg:>aJJ;?[XTBWDDwFRBiB?<W;ElDOOwLapMwyNYsOs?NDUBo_vIAC><E:Z[BjmMmSd:z`FMuZS<JkodHsPyMm=kNNQPKbkIB=sF_@K=OsF>JwEl[H[jnYD<ZoC@X?mKO=C>Fyoa<o^j_tBy[dX@S?YCPKwn?[akkQnV][KlXM[ZDC<Eo^]wj=OcCmI?@m^CuWw?_WRAbfnF`uxxQm<tnwEtJHHFQH:;tpzfwVCHB=F;chmYRkFJqh<Us@:A];<xB_aCKzGZBlv`xA;xj=laFlwSyG;cW^HkSvmXvqw[agm<X:F:k>EsIKeAJY_>OXuM:`;PM@[GcOz:jlPq;:DGiJ=r:hp?;jRI?;AmqSNlNluR[O`aG_Al^fLmfG]cRmBe=cl:KR^FQSkmTC]Vat?Nt^zMgtjG;uOJIZIPBOSX^kc^JpRRwpv<HW>]WRhFKaI];y``indBSdD:HEloDlwnQAZbJXULFEaN;QgYTpEnNkhlcyYgY`>A>A<b>BspYjVIE=IGWR?JxVSoAhk=;>ucpQZ;NlUe[teahM<t_sOUcR?ULDfVtfXHffr^PaWsqR>iDcDE]QLbwYZAiFn@xZmlndIFVRZE>F[DDGRho<N@Z`l]alDZsNDjobKOFTaME<HfqA@:B:>:A^;_F_mgSGBVk`MSsHJ<];?Cs:HR::CdoMf:F[JOd]`CL]wN:JS>FaNK`LK`eNh:@FfwOtK:_V]FeRFdUQDDd`D]__uX?aK_a<LwmTeEGAe]EBr_Lmk_gggCNAJW>MNpSVpEoPN:=?UN^SRRcuZ<<E>EVRlOg^FMSsYcvC=ZSRha?AE?_KmoXDGAdGJm]Nx]fg:sbHLT:E`oonzQc=aaiEf_<o=l:p_g@XDv_Do;tDh?wOfJe]UZStCj<q_Q:;cvmA_s><gIjD@cy]gBA=<];FMj_gJNuAwfH]d;M_uJN:DNFi^`=gOHJm?=W=eARJDOsoF?TN:X[P;AdDVL?=FHpEJdWM:DGuNoAd`keYcmDBJOhD[Hv=O;LDrc<]hPHceoOuDDCN=Ba;RcJRHDXBl=>BPE;TLXoZ`@gHPMJlHodJP@GxDOBA=sRn:Ro[W>dJbueODVp@GsEK^UmTOhkXsAL]laI<bZ=DOsBm]SJY;I[nDUs=w?SMWv]lUDx`Km^C_OcWZrDn`KMFd[]<eR<BY`=v:?J;[;OuB;aDk[l>]fIOnFlZE]E?LYMPStc]OGKF`P]]dNAeu_Ne``N@JtNEBdGWAEt[dc`NZgQ_<eZ?<ecZ?NBbOXeh?>TdbSvgkGPaGEI;c?J]crOIEApLXm=NGFYzGe;p=@f=NCeNpRT;WOF=nOpelpOYGp`XlfNag@pET^hLxZQJ:R[p<UFWaamIOne<pNa?WQPlARIeWpMUDx?qk:p?gCFEqTh_ydLmYe;kKujxL`_tKPecGHPPED[eTSRTD?UJEn<Kc:s[RuGM@h^N`]JsbDrgWuU=[CfktpR?GWRWMNG]opFV^YD_=^]h^stPT[HCqCnMCkwoYRzGLIBEJ>:FtJschLHGYZ`:qkHV<VCH=n^aUwtQDwV?Pcma?mTov:RiAP`Eas:ms=TcyBq^P<On@Ff[jIWQB<J>bMlfTFT>bjUPBdpLPkfg?YG=NbmJCfV[::XWX>c:`h`kNJVkPo>O<::?so:=]mc:>`jJ:HOyrD;N?zF:<Nac:@`RZ;R:;XnJ:>U@Z:VZG::I;R:DjtZ:Fqp::;bD:;gdJ:P:;jKN::BKc:>wbT;JZgza:;`XQJOPLQ:jkSIA:@Yajn^:<cIyJ:h:N:Ds?:<`;XZgSKsD:?l<hQ[B::_g:aaa:YBbNkHSY]E:AWUiIqP=Mc[CmyB_t;slNU^xdJd:aogO<]<D:>FeW@BN@FTtEx>a`B;NIy:pcE^Gk^j=Hf>;gLl[YZ^@JzFB:;[D:ZJxkUy^oQrknMvJLoCM@;:FN:dU<l]a[@Ri@Sy:?JO]g@><AmUc;J[Y_@cPAmY_jnGkUYV?I>mNQK:;@uJFJSmGz?^]RlkfTXfb[:Lshj<?soOir[aAWVS@;<UJTRle=LhyiVf=FNqkc:`g^[WmNJD^ki<Ao>`NJCJ?LrlL>c[Xy;RK^lCWAxDX`d;YdRl]DTSBVknsIZBFiTAeGX`BmwLYjBT<MEd`@GUWb@IaOe:w>NJGJFi>E=kBAkoj;NCgfUnUEW`^Jomf[Ao:TDvX^Q:wMuFWTN;s`<JTBFSomvLEaw_DOniDqz^PWwqcyKgWYCFvjEm:DL[RMUMWv`nSc]COsgw<bu^]DulJVK_]muSV;pazMBKHCE=EXt`X>YLR;hoJT>FH:V<S?VgkMSAsb[ULom:>fN:AE@Ny]ZiCseFQtwM?r<wlYsg<O=KBVFzKKVwe]=AnV@yLqwLZ<JLTwp??nXBF:=s;;<UlxMPyDX>JKLedOpORkIy@Z[VKGcZ>E]Ht?OPDfhOg>P>=g:dPwen>kLZdcLk]Op<VkjqD`J:Ac^wN>BpVceLOtF<a;JAZKB?u?[wrO?<e[M>gWPCDeOZ:EAyyLuJ=l[V[KU_^v?_LXJ>sjl=D=cuoetDIF:VNlfYwt:Aj?><mUKoAOIDdpVQ]^Qq;Np_DSlNB^k;dw_:oNNpPJjWNKD>Fre`:Euh:^yecZdZBGL@cc;H>:@TZP[>enL^>cDp@Y@V:eAVNFe_oQ]t`MscB;gfE?nsY@OPhNsRhIOniT[ayFBaxZaaTL]timIZ<W<<aLDO:;>iQNV^OpAswzIR>rPr^hplCNGUqA=PxsypuY>l_rrL;>Lmwd>_LJV=Bk_wqZndGVHyck:bfUlM[IxTkpdMpFKK@:RO@Y^=[K[A<`;KkEyjzQc;:GxMMwTOlYcg`mBs@d=O;dZrc_Jkpsqc?oBImUJB`R:D`K:<IlJ:eOZ:Y=F?JtTmhSNGNu_UIO<cJ::Xa<cJ^JJEjOPeKJkDfd@<BvnxwSDs]HwdkQE`V?G[:]?zjYFH_wNK<hooJFMDNM:kE[o_YLHXDVMCfcpHrQ><PcIc?et:a:`lRackJdfWGCTmDZsb[>sCO:RB^FP<EYlMdlqIxF>JokVuQGi:cZJnJJ@FrctM]Y:Wm@ecg=@]pkU_VZ::>Va:?sVRAX<C<Y=@SrkulB>`KAc]wJ^LLJczbmKs^lZm_Oh_Hqmk=:LH^lUVj@;jvdL^`qakhQtitL]:b<lHEXQNZJkyTzGsJ=lZpeI_DEWNEPhZYaeeqHDopZ_CkI]rGPXegui:VZFZ:s;W;<JODZ:DMoTE:[E?i=]mG]VxWa@CJgDhefblO]<RT`?hcOTl:Zb<I@]tBP?Wmz]b`m]b>hhAQcbTNPSqkvdWeK;hE[:h]d?Sok[TIZc_@n=?KT<lOGoVO<yY?JJoLE>fIhDEW?cNkHPd=OPmEQj@]c@TRf@uV:SiiAq;qN^<OsHyALjQCNjfUp=qwvVopnNjDeOoH]SK_cyMrUXw^qiijfaNpLZ_eXrOOVof?O<fFGJYYgHtAq<zZqWxMROLS?TZlJMay_UL=ndb;wuTgBepe>?gtq=;Gcsi]xYngkqhJkBBiid@;>OqLu;WL:LuCZ=OpmuB:zsOUZt^qsTfKpsDSt[DgGrVvXWZeyd[DhOrTK=WRiirMDfG=:;PczsWQRFZOpivEWsenrM?>GqTvzWBfPwKDfpr;vxBliqA^s]p[qoJ<nd?=JorjuBBCspZIldEhpZA;f@kqHTEW<N=mKGW?lFHB=b:[VJkBZ>F<@]E:]UJy:R>UL;h[ONlJy:zs::CnlxrR;V=dQKPc[hu::AHRA?ZHB;xUXh>Yy;@Zd=kkKZFYSIiAoef;xZPhjNrjL]=KsL_RVFW>;B`DvqJjZ=_QQneLquSkuy^M?je]:vvCWOukzRF`WobvzkwCQHiYgjrquxxp=@zWr=xrrvsLxMSzKEhYrQv=WlirwBGA@]UvXOEyxrWYdB<Z@nx>;zzO:YroveR=zsVT>zjZHvvc=K:P:vzckGQu_=ouYLCff^peCGcXrIOKUj=qmenZwes:=UepqjutOL:K;Dp>qZlKqxEi[ZyveRFg@pWBoJrOzhrowAIWzsF<:Id=pV@:xhssJrfh>I]@RxCinDZbgZ;Pky:M:SwLbeVCdvZ:@XfITzdnrj[^:fXnT;IipOw;GcQ>YwGdAt^pukBvXjZ<GAV^a:_ZM:YITsVEr?vOye:HvUq>JqZUok]ip:;IpIrXJzxr::xK;dWCbs?ctpWmHG:]FsUc^C^A:FyC:qo;G=jRGBvLZLIyAVG;uz=SyivqR;NZ<cJ:AoyZ:INwGTH:B:sfhTk`A::QIe:;T]DeG:AuTPT>@AsYLF>MMpEWW=S[j<Fe`>^bIP=Ma:BruJnBR>@QNc>wZMAK?zRSmEy:pvl@T^C;uDCt==qVFXpwJOeIfgM^uK^xDfMRoemxrHvKW_[oRGqiHFVAxBZ[kKdVXqHb@GWtlcsz>=pqIA;_n_YLFU@;Pjeg^CwsMViNZ=?;Owu:Azezg]IzgWSi:SCc:EAd[xba>CnY`rj`clJRcwCOJC>TZo_;N=W>kic];=:aFuDbKZ=WoT:qS@_GuBJRv_XZqe:<^]imF;fCk;uu?JZ:MY^::qqe::eHN:=eqZe<[IOAl:TOOuIe:oqNuvsbTysqNgoo]BLsA:UCEq=@Rj;BJFByB::AOYZH:US>Z:JUSCi:Q^Q>=rZL;JUm:::DOcJscpkCVD:EJ_sssdlZbAD:::>Om>kbS]OTRb^<cCshMSVFlBTPELZ;?k<l`wLMU_En<Q><J<wUc_@Om>jL<S]w;Wuk]pCjJ<r<wXCKyZnOaC<pYoDhPf;@oyqyxYuCwoPTspPTjz@@UFouURpB:MGU]@^dZJmn[SdlNGfENApba@uK:evZc>F>pKlBmZDLIwEkfHZgDhaDsOO@<^pKAqDY>B<s`iKy`JS:KUTJHS<Lo]c_owZgi;EgdtnbJ:tbCB`smc`C>_^FfaOOLfwGCPe>uSB?EB@cCm`SJmPT[uDH:umS_nW>qOBNE>d]h_hwzSBxLHMt]neQg]gLwa=`Lkz?VKW_:i`yLfd]TPcBVP<`dc`mRNvG?VP@=tcv][T>fQ?Gyl`d>d[t?DS`EL_Gd:]X[EDXw:hcAafTVwF>]NI_QyLQTcYDyP]b<DrmK>rh@lBo?YafG^:]cJ:<UPZ:JahL^Z:OkWJ?Z:>EW::WaT::g;HkP:;zXJ:N:D[Ec<k:BmiF`l`B::r`J:?lmF``sJe?sg<Q[EZ:=TnYtN`dLke=_gZE?E^D:;PdRogwdhEZ`_;NCV:<[gJSTkQLQnE^D>mqSTg>eQpEt`okHR>^=BdqEFoBkGlUsjwPs?c`]LwtTFh<Ps?A`]mxtTg@TPUEsOzLsSWVj@QRfK`mmntXgi[Qkf^`hDttRmikDsfQ`^LrtWRhZ;qEq_M]pdW<hsDBf[OqLrZhDgD[gf]OrDkCRTidPcfuOcLmpTmgCPpXBOfex:cVhHPQEKOzex:hTjhQ[fWOoTl?XNjZECfnOaTsGTgg^QyErOryVhWPhiP;fuOiTo`Yeh^QAEXpuDsWTDjAPDf:OnV?:=]I;P?fz?s[RpWuhMQ]?gpcTmWR>ijPXfypsmtxRqgtPhffpZeyxW_h:q^frpquqlYih^JbfZ::r_g?Z:YDO::]ceJE::RQCYmWEB<zwB:>uAJ:B=zoOo;VWStMBroUPGe;Yy=mikE]UYOi;PMVO:NqFUaGk:GyqZ::eNTUcpmunGTSgDZPUOGm;WnXqjsDyfEOaupQKfeAVdLdvU?Jo;JEoChmQsv`=vQCsBe:lqYI:NsBSsuERuIQKyAtfc`OlP;P:bqe]<Gie:EUMuYPzW^rdYLuCWhbSX`EEQs`:E_]riiOinnjGg`uXFdXzlhmzDT`jTxUhB@PuL^L<g=Q<PbKk?u=hU]zVWLrLL>ixsZROAvFT]SqzZ=ifiRvZJ?HvSCMDViuvfWkE;<wU`v^SfixrwNzV:XBI<Ah=k^_gnMWwXpn=C=NLXK=?XI?`ODMlIN`x?yEYWPdpCRp;?JWpg:BY`FZg;M:gLmZ>vTy`MONB:xykDZ<tTXf_xdCp=XieXrGTW?s;QWO:>AiEec[DJNXr=YAjqfdvnP[RIUSi:ErFROTkXmliIiucMUYadXvkmZ=TKTpCx[N@IRbhMqSvDj=JFvUg:Eqaxvx`Xyt@ziudfUP:utYcEcv>WlL<cZlj>ZP_LO`H;MXNY:>nGwhu[fRpoYRE^hK^r@]dARmG@Z^jTQO>]V_hZsxQ`F?Jo>S<?PeVBo`?L>LjKSlhPHLJKcgH[BUoTM@zqPOuEWhNKfrQEq[v:WrY>BuejrPEvZ=iXvYSc]EqAv>^bcXNrQjj]mM^MUXyPAOir]Vx>=x?h:xfZmIqEw^eyw:zbjDIvv`JkXp:wxNBSRAxcJ[s@IEilBN`m=y:DZs=<o<onU=[NUZwdTh]B;QSgVpSmeOtg@lbmd;IYkVs^a<KRt^NSlHs:c>R]eSdPog;JCEbcmy?zZ@iRN`<dFbu:DQ]NOrHDLtNtMb;edCIFh>nnY?ScdXY:grbb:WtqgeSIHnIbECclMwmuag`M>ACQSCmUozzGiM:EXNo<xtDD`bmNJ:NqV`cpZgb>n]Jc<s[?HJgU_oEgNbV`[YXCCMI]QhysOQZm`>PEmbk:eKFyP@Z[yoI_xcgOCYBk`md>uU>;]HbMcHDJhNgLgKZTbvcJD_RGW@pI[e^LfoZ?AeNpIuamppJ:E]<`ibJfcRCdq?LoGT=kenL<DncTL[y_>^YcpdkRYxB;ZRcZRDms@G]d;ZH_LCzdj?R<woMHah;abFn^=AWH_fXotD;@CuVK[XaknXTO@CV?xIclTNzdKorcB=IRkQZJSr@RmflZ[_<REDoF_M<dM>lqNCFB>V<IbG_mMm_SuFvmb[ANk_KVSqaP]F?LC_^VMFdFb];MFgnNnsehFdbTUhxbUSPSLPZmF=?mfktUBjFkEHrR?`Hi[Sja@eaUEee`OCSZGHPUAHXlyiieHPAebhoDk=OhQYCoT`pA@dpSdecoGqNUFh_an`e>GOT^H?iqPnxc[oUTgG`hbvOM:=gsu_vBOZinrcUg`uc^Al_fSAcIgkNxh]XepjWWJV[hy^;C[YNDRbMmV=G]^`;iRtMqF@ZbHS[CmFcVGAv@bDF=Bp;RJH>AA@<lfZsdRyVn`zE@X[ksbowaKADR>decsTTWG;afQDSfPkPTY_GafRZur<TiTtHNLHrHCeositkVQiVn^?frnCTFJTPeIF@adlosTfvZGIEOefk=?PhVQ:r<Q_fmBIwi:OtjHqAUmGViwo]sgdbZNQkO>CKMYtCCuAHCnGwnqbYBoo`tzXVJI?g]M=E@<P:dZqBGJgO<:::HN:;oeRtV:<;tc:>@O:;Jlw:<AWZkjLiVXP?K`emuVMWg=_IUiqwimULTrtETH>u>OfKqBg]:yutnP^eDWDLkVQsihyfcHWRCE<lGTkrZdChKnLU=Vgag`kDsNopC^N=HpJDdfd`qRAQN^ie:sbZ_nEVugAVSTKpcJ>;f:gMCsTKpB^@Sqn[B;EKRa[@Ap`yeZ?EYRaoK:ZdlNugxEQ^OHs:gHkAFxjlpksJVbLXh[?eJGBsJ^sxcu@>QRb>BjHvwsmAnncewLs^<_;ndiDDn_OTYHuHbksKCc_q@Yfklbu`wXEe^LN@WSkjm@dcWWLbBjY:JX@z_U[H>VNIOI:AtcwxXYN:ZsYw;eio]:J?jO[]YRhyoJfYhBv_GjRhzfoa@kBG[ajVRSfp=vVjQkk^sC;=J?YXKjR;:I:>cOSGnp^bH[yjNix@:b=x]G>KBLl?L?DjbScYbVcaTCo[iJZV>fkKq]ajTT^bY[kQlR@CoSyO^NZQ^qMj:yy]ktFoAuM]x__>jqZB=e@K:vbg;LwQDxZMltCJ>>P@RR?SswOE]X@j;NwMQdtTy^oSGXkw`qSxI`DT^QWDTnonf>ETBKjoqoYHGwazMYIIU:JVIhubpbY>h@a]s;?sJkjYmoyecfy`glArsR_<jlN[OsDMzXZ]DLccYOv>PQHH<ibnRNnwTqWoHjvIqgLCdOw^BLjqB]fn`fmo?U>:KPfV[[RHXFcRYDIyBEOjeq@yY[LI`kVvoMf[:sZncfULZ=PptJY@LBH?i^[qr:ekl<JV`<JyD>Yw<uvJR?L@I::dyBlfkWIr_hpLsegz@jVBE`jmrHW<hEk=rwg<xwD[h?@b^ZIvxv=Qj@`<AltXdveShTqzskxjhrsKQ[z`hNYlIpl?^wMGszqqsqH`>fyizoTlPfSqOeHVDZdlEiEZI><^es[Pz?NJIqjAE;fzUGazn>gIw^wCyRz@qeYxAuMxnzezUjqjy[YfwfyuAHzxjrw[>oxlWNW=ozuv`AwQy];OzaItxkpQ[slrXv]:?t<T^L`dl<wXb@:<tqK]@c:WD<@@:>IXfiIB<_Fm<CZ<UJzN><;jXyegZArX>:JLk>@yi^ZAd:Ur_G;u:js]Z?>;@:Y`<_;i:Ny]pky:XP:o;^rjB;Qe:>@J>N:?:VC:>;s:Xk>bkL@`jKV;^:PKLpkh^fe[g;T:NBAy@A?jy=V;hJ@xurJ;xGB?;:b=:kA_;M:Oc]KkY:EYs^:GYcjtI>`Cf@Ltk[:RB?o;u:Dztvybzi<[e;u:RmEc:jYfjuNPz:TZ?;:`ZWbsKyjziYuoouqZ:?zyGz]vtry<zbQvEydZYRA>;p=GR@E<eiDkAa;FZOXfH;Uz[Zvl;:ZR_>_;:Phs>fTpziIuQyZJMItu;kJJRAryKZTOca;R_d>@K@Px=>>Pyz]@_Ai;wZGNAY@vPjrtq;<JN>=G;QZLIuy;XJJ>@x;YVIc@YBcJRzv[;`JKo?G;kZYrSpTYYf>Ap;NZKF@m;h:DgnC;UJSJ;O;NkWo?byozjs?ly;JRFA?;kkXvu^;?JTiTK;b=ENAkX>bZgAd;uZPc<f;fZJo?>;@ZO_>x;HkKIuUT:kUhcF>pYHZLoy=m<s[<wIZEF:iBTN:k=SqKr;iCtqsw:QRIZ=:COnOVSWZZsjV`Wa;KYVYr>=lZwNICFcn:ZBVtu_JBBYLBdHKc`uJy_aIgS];_eS^Uk?ZHM]CCtHVS@KU`>ah_skvam_[NvmL[t^NLCao:ANvqXuIeXSQa^t:SDhHGS<SEx>YU[SDsFftbySh_zM`yTW_Qe=qKE>ze@Fs=_?neHLoibnbL:n_LT>?EA>]tFguScsN_[Rr>oNa>@RPflG[UCL;n]XLS>[?bz;mXHNiVvbaSn`Vu?LptgH[rLUt>wtOLFu>k^z_u@GwukNnNjwv=LZE^<ugiWBD<txLw?FX]JiRRW<sQc_RKN=kiW>=[KBiCTbGD>NuEghDh]D>ihB:RW?>;]FNqofD]gNeRIhD?BVaer:QHAQdeAyLa@AN]FiWLA[^mNkEgxDMZAEadLYL@`:l^TN:fbdK:mA@DDswRd`CDu<RFfhy:qNsaCC^DiLFZE^iN@f]d^MNgUfeu;NiaBMD[N=HeS[_moOCMB`eGFeC:qX__:nBPBhfh==qivaBEEXRqv^nDOmYF[usVmZH=usNmNP?av]m__B@trRkv]=L[iDpBO=SRiPEpJ?RzOFO]li^Cj@vOR^CbfBGReU]p[im@UZbBPmwq:GZ?iGgeG^qmsqHPsYNngbvEOiup@qvQNkVcqtZktsMhZ?R[>KqsbNrUaABQR^W]qu=irsJxZ[icva@ub>sv[x^CmvN^HtnieGFE:RocHFissoevh=]?m^v[q;VmHvaQCuX[vhQCakCvf^[bi;HHnMGmmiEXthmvo[rCIiZVGrE<ofvZJ:gsAv_ICLobH=ysdkjHIytDoNw_E^eoBiIIEToewbfLEmFA^lKkXkaZ[txk@iF[vfaii@[uWT@AZvKoil<CYBT]M?jYBL:]vHuSbsa:GhsL:Sc]z;fZDedRUUXGXZrfUXaoGhtUXY:=?<P@Te`SBwDY<bET:uji:j[z@k]cCtE<ct<Cv:ePL_IJtDBxCenxoHXAOAds@c]qR?DSBffv<gtn:Z^YDmi>ATGgBWj:mnVTEDScxVJQApka>:r?k;pg_MZqk?gJoQNc^KenCPlXVjmfG?MKpLcG>_<LoJanzZPxDhAOgVoMG>[g:oJh>vKhJChnvKBE;FBMKuoTWAAKYmZumlggr@;:AKQUAW@IKg=FdsbBtb?we`DImcxAKHsyA>uMapQiwDIwLbIUclqUcZsCl<xI:_nGyf^`fR_HA^_ZuD_tBcYsUyPz^=?>HgJdQmuRX:HjsC:PzejknkRXbyE_RjH^sR`HtCjsT;wzdgLUBT@xZolz@WDC]UJTBk:NR@eMFK_R<HR:;[c]evFNFSVlV@fbdFT@Sducg:?@_Y[s:h@dlcFoeK_[dwlGd;sLLZBZ:olyTjq?lfggyu[>cV:=@hGkLlXaelcVT>=[ksVTzTclfNHcqZktD:w>HU@gTxgSlc::NBgSMwrD]zTIkMFQNnO:GFNn?xedg@:<NL>a=ydolQK`cuUqUujM>__BgLFR[ZrBVl<H:vX]b@dl`;ZUUl:IgKVkVlw>;ldu:jFLnA:T?C`qnXlsVS;fSlBgKFD`loVUJ;FgrFP_sEsLBYATGVIfDBlEZ>ZFNv@g]^bR<kurVYk<jqqv_@=HHuH@:<ecDUGQ?z@WM>HSB:[gTQ:aDEx;k:tZqvCYlPeSKjlURDZ:GwyZ:Ihy:<c:=DKfxm^PZ:H:PZ:AvXZ:DsS:<bPUXuZ::jlZ:DJ[Z:GmqZ:;ODz@Id=YXujecEOXsoOtlYsTZBiUusRMF:L@:C<@:Luk?kIXlXge;EenB>rfHZK@geN<B:zKsSeJMbwl;EodhK;l<Z;:ch;CsZBCBBgkLxBzkYq<i[Cj_puFyXb^RAO[k[;k]]>a]?xv?XaP^]Cs]pQjBKRCq[=Zbk]T[>]D^wXmCBBYljQEwf?<=H^RKFex[H]J^]lsUR>N]moWC=KXA:EgflZYH?KsElLwXckfl^@:CTUlHwRm^sqZ:GyDcpiCTVq?wW;=QlxwNzAoK?sOd:nV<U@]nmJ]]RjAEl]wPcbflP<hj>:DH]TGUuP;]Rm]Qlv_EY@Il_m^B`mCZAaR_SNpgSW@nVyoWBbd:tcB>aUJuNERbDCiWDc`fl@]TsauCchiCUEP[]VR`yCkLQ=mvKenDgmkuoLNm=V:nibk=lCx]TjAeCn]Sc_DZU]TEUuPaLOs`@CI]LR_kwMWac]PCNHhC:OCD]JsbCCGLT_a::g_e:::Ye::SKT::rbe::Q`u::Eu`SCfLM_`MDQLcEns[VmggahB;McXULL^BMD]d_H<VN`X>]ab<ROD?FXYeD:nLh:As[g:Y:>k>[iigEoBs:Addl]^@B:;Qmc:<JtZR^<cFkB::Nfc:=gKc:<mKc:<z:SCUYCQ?]^T:dZ:@VelGcNTMw=<I<Tq_WmWkJICR:>wbGV^@D=m::>ce::_:a::hADoXEmJCUJdezAKMATj[aQ>;@IQ[VEmJX:>c=BdeDJi<FREC[mR<PZ:>yuZ:IGyUmQZeRqZIB:<kVc<aVqoDSMnF[VFJM@MT]kVo?uu`=bL_:]^@B:;MV_:cKPbG^lT::=eUgdrmR::lqcDaQCemfdmh<NBJZ>_:qeRxnQC?nBSmxB`oCh;k:v_>c:B[Wr>r@cljcA@COq^@B:=np^lT::qz@::F[AuCAGc:::uR:<;_SW<W:yN;:;X:`z@o:::t::=>d>aedee>TTkSldTedW:qekTXZ<hJZ:GelZ:<ZuZ:@BlZIB^S<PqTMa_wdZ:FqlZ:>:FrD?=tN;W]hYRZHJ]=W>D<<sBv]h:EiHK;dkiLYAezZdYFDb>HwFUvnP_lA`N;?qGDWDbICfCgmbwPvDSmbJDrDQm_<dns>N`>lKz`jsPd`=fTa`qyBXsuHdeBKxlidQeKs`ydZTPaa[dOVFP=KdgTQ@_Cd?[c:=WDR:=Iv]a`ddfNIa`<PWuTP_OdxNBb;u:lM^D_DZ>:B:=oSc:;_Dc:;qAc::`oR::Khc:=c:N@b[JCuX@aR:tuJZ;CdOuW;;rd=uX?<hJQeMMRAdZ:I^zZ:DIuZ:?bT_`c:;i]c:=hkR:=dyjy:Vav<fuU>B:jcr=DJM:GR:sZ;D;Z:SuadheRtB^XbPRTeUX^KaikKkEP_HqTBi?tbkEwE]<O]Zf?Il<:NaO=uSZ][h?;_@Ll[@<odFZ<]_zdMDJCT::@z@::[MUMdguR<bEPZeY:vGlCW;g?m;zsCD_eS^mMybmdLpi:cedTeSe_EdKeLoDFgyeM:L@d^J^:?udhsaT_>:`o@fdk:q_=T_rV]BSibB[quPxlc[UeQZcSCs<Z@bJSBTP@`bdFTR[aQdei_?dldT@Y`;Id;TNP`jd`TSy_egYVSZ;KXcTgpnGdtqiK=SkATNcSWdlaJubvFZuRAnpwLaLHaeSxDP]=^dPaUd`VdjDJSbZDZeW?tEdqFS]J;SpeXibrVHeY^As<MeW?_XdbeRoblSKuM;bCS_TT``BS@PT[addu@VyajdtTRObu:ruPHa:Sc@S;aCSu:E;_dS?uY@`USxuMh_tSa@MlSESX@RK`>SmpdKa::=TUNSrwAKa^s=@Nlbn:E@XZ;gSS>;la:Xq_Gl_MuY@Qx^hNGx_w=UXBaJ_;]S>aWCb=a@j;y_VLkDcv=l:DHYvSLgFdbDT><]diD=DaHIilaT>dLQefTBEgEKSCaG^;bK[kx??@RlaHRA@TelYT`yc^:@VOb@=aBkEwRNawO?Ik?k`:<UTwtA:?KBwttDOI?EZsiU<_eBKL?E_pltVUXBVla:Db@dlzchL>nSiYDdu=ybJ:yc=eC^@o;ATVHQPbkJ;]Nd]SCykDH`cd<cB::Kyc:=e<R:;x[c=kgaI?iCSAst@Ze<::^Ce::dE@Rq[Ge=kwdzeR::H=c:==yc=m::oABXtR``v`NeJ`e^T::sVu::R=dYm?qOWbfSTe[X_CdtDjzK:F^i:`>a:I_:o;Uyd_=K=nTqPXa_::H]k<ZwZ:A;aJ<c:<l]c:<ath<`dwITMfbqwyj[T;>[vNVcfhKjaPXZ;XQNKw[l]`PTqbmDlmKIMd:rKBokCelXAIaoufzFGu^XJjfaB]yMu;EspuBoDS:^>EgEn:`twyQz^mZye`Sum:u:Fja`Sd_Ch:::O=I<DlHCiZ:PtAG`[;GCUJ>z`D:`eSt<;SRigW`qtdqX;`JSluPhbkS@qX`blt<c?QaSdiTNxaXtd_;k;Neq@R::Jzmu`:DZ:IYDKyBZOuDI?c:<Jzs=m::GHRwPbGaw_Stc;W@bStTPUbaMqyXV:l?ttyTQaR_fTZe;nTo;R:;;`_ba::aruxSRpc:;uuR:<lsR::JDZCSR?ODdK_zSmi>^astsaWM<Yt=PQq`]dhkSF?m;eIIBP]dSaVgAJJZo>DbTta]eSb]dakPcQs<@[KZ<fFZo=fssC:iYsUT>ZChX:<:BCa<Uiu]C_D]FaFCeS:_wsx>sOBT^kg]UzZeCi]SNahVPY^Ra>oDlUvu;CevJ?l_VTn>Na@C_FToaRgYLSwanCimUVajCcmTrcnU_M=<aWL:?fOXrSgQs_]FMar]WK<M]V[e]mM`HUy:bD:j[;_Ylg_L<::cLiTS>amMaMX_L@gNKd_UBSaLOHrKNXUt_u_fm>QHMM^Vsv>cIfXT][=t[osqcQM`D>xHFcKyRm[Znce?m[E_]e@MHJ?e_=G>@cTFNO_JNQFuu[<nje@[LDn]iKfHdcT[RlLlZLwJU:in^[Rq[xBYTAb:dngUvQ_=MfXJ?LnMdu>YyrcKyMIHejewspLpB?e>O:JRUpDzHEN[u:C[e?;@Ah[l@G@@zH:od[=l[Nv^<OC[VCS[JaZ<EhGDRieE_RkVy@E`y]fLT=ZP?siPocLuvLlEdPAJRCb^lLp[ykjP?QL^RRF^G[ZmDq>gi@CKN=giQHRQEeNW@=xDFRzE^lL=[kfcSK]iRFaSKLiNFgC[M[Vfj=DDi=`AHAiN<sP^Dzi@F`R>f[HFiJKsmHa@aAuRPsOnsv[df^?JA[`f_XAPiQkaK@Q[qOGX@LKWsYtZI[TlduufR`O<y@]mU>J@vlJoVgl>^iwV[uP:K_U]fDz[TgcasORPgZatwaF>MGKkKfPHasWRdgjy@kkiU][@UNT>NPsRK;p?[A>KuFE[>hifgZK>;myqCvDWiTqDK?S?t>Q=<?`fp?K@rNs>DW[;isVZHtp`hqEqv;ijdYM;gK]Vdl@MiDVZ^MzRDGCbDEiRHFC?tmc_RMK?mO]ATNBso_SgDmKUK^QBPk]_JrBQiMV]sA@Fu_JMKNRP_PBfIiIVgIdjizVhA=@KQveSAVsjv[S>MmO_RE]eogwcQ:HK>A_t@fmE_VUJq;Sh?t?OHeAbz@Lgo`?[sv<UhB<c[ZRNRKs=lS?CZ<=J^TC??JTa:In=VDohbQK?KeHhI=_cQTiO?n@s]?O>xorkNImpKgxIOABC=;=[Odsc<E[v[>vNUpAxaH<Mp?wVgD;>uUKNMhh>jKO]RW>xgW?YqkIKf?MSnbK^?Lh>YKToOx?ZlSbAqRoOZFKlOIK:DZlSjDsFRYmJlWJNAsmeiFPssKSdWBnl@?iYGMscHwnIR>DODFJcQb;yxFGb>llzbz]eOxj?^>_laCBI_V:O=fN=]aPla`<kul@[ktD:GebPT]H][RoAhJp`PaT[DRJd>D_g<cHCURDn=g>ByOY_CBtL_IOhm]xC]LYobOCE]Rm^vljpeZe::NAD::<a_bltwVobSCd]P`fqyx<TIakBjQGz@zl`?jz>OgZ<Lt<e:B<LonJ>XfCulpOIfE:`Nkw<V<exDy?NImcCC?TmlCc@<MJJZcKL_Ik<TE<XJaj?Js^B^GXS<QF@>ChCOB[NC`?aBLoC:CJvuzX^<YrLxOZaek_pK@mD_]Taim?cJwCgkdx@]O:]Ont<CsrDB_`:?]VG?PCgHjR@XO:LLN`dkKLUB_`CqVIC`@lyLYC:IOwRE>a[HJz:V`MtPTCsN]Bjs;V`XSOmMtazujafVbuJxmKp_zdvmSw_zC:DV<aZdsDO<bwRvgQ<`wu]DWk]qt=DJe<RdiDY]a>daGJZTp:El^gSpaC:@BRlJaoCv?L@jyj>;FP?l`gRv@C[^MN=uWGXb@Q]fME=QV>_qYT_D?VqKxk<PJ`gJcgdZ:ArlZ::lDAAc::w<[P_A:`DXBbmJEaUe`iS;^h=Oe:baMLkJp@hYNlyS`oHt=iJV:Ch:[SCW`GaIVPuJ<EHd<cAibXd_OZ`_Z?duXh_rSo>:ab@pPPJxbddKTVybtS;qS^`YdWr:>[qtzuV;`:?S;LvOZ?UhKvPSSo>G:O?dV;S?URSUeR?ORDDXR:;Rw`zD::mjd=C:`ZMU>DTOUQamdZ:DXaZ:CSDZ:CfmDeR@eKpV@KJQJJHXTp;su?:IR?Neo;Wm^Yk:aORvGcZ><SPGVX`WdQi]i`Rg@VFs?OBNctz^HxNJ:j]IOaWtX[OQk=dGY:@:YumB?ldaOK`NUQapRPWGbnp_PLpnnSQeRQPdOIO_vPfSNWJ[aUSv_GhaIdY::PbvSxG`Pbzt;GR:QbSnhQQQZ?hqOYQrS^uNx_xPDWVx`HPaWR:=lTR:;VtghTsqAWVf[zS?BclbFSeTD=`gksHOlaUJ?[flaWpSiNC`xoHHKIP=<@HK^amShPJd`vVrTUcQPpjkVjO?q;`Vi`^S:yaia[SWeX?_aSDBO?avd<qNYPHPxKc:;cmeYOCStxKzQipfNEJrQpu@UYNjdhuTP_IpbuNzOWSExV:ObpvxMAP<GD@WzQcSMqKkqVGq@Lb`COTOOzD::ns@iOFHTB=JG:HQ:qgSpZ;M_uaQ@W;:cGT=SBNRGnTIQf^pF[UZpLSy=JDlwTB:TCb]SZGS:=:pykBMaXslHUJ<?:SHXeRPGHL?hueeqrhCLio;ZKkE]k_R<nbl>UHNMkCayk;EbaRqFBURroeZ<wUBlJxTD`ut]FQNm;wyMLDbs<IXMeJMB``QtvwZBySRPxZQT`gUst?LZ>rmaQ:<M_[GHHXM`Zt`HQeR@aEj@YZaaSd[TSPaGdbTTHanddlmiah<HuTXakeGuSwSWHYo;oLZSd@:dJwKHD<rofGNenFtA@G@UCGvHJaS?B^`RssvGwJETc@Gdy]F:ZOxcHg:Glfk>EP]dfVWFEhldmFAOWlZaMV:EVx^Jq]rGuH=VrSGS?CVmPepFFI>zGEl]<pSaiL>L;?BznP;OdkJVDzdha^rZOPCHFc^qSzKXc]Z^cFl;;NOWO:MC>JVcoKENPdaQTZoQSZ`tgoOzk=BL[v_:tEJj]g[HmXm>Y`QBUNuQaklMdD<[B`<ouL:UMaDAp_t_]>;n?LcRgPE>mlWqLf?cn[gQe[Z?cmP:NHcW;Su[BNj;Tb?lcPiJcPat<V>r?Xt;wKA_rlBwQA_ElU`Bi[cpXu?<[Wn`u@IHYlUu?jH:RY@[Z`REbwtZNNEa]PWLbCKD<GLFRN]PBNDCUqO:i@?<a?RNXdM]QsNEu@ws_NmE]hDyZqEd`kULlRJLvFNtRS<P;wORMGOkRvlX@[p[ilSWBDhpo_q@DTMEZxD>R]`Cq>w`stQmQYLYRNDPhkBdV=CVRcsX=EwR>sMDQPNVdMH?DioaFeOei]sPePTij`>GKf[yF[i>j:[igl=U[CfiMBa`VO<C<:k?dR`dP`fW`X?XiGsY`Mq`]YcuNXJndSt^Xi>PDy?]mbdJ`[=iIdUy@gKzsRfBKimg];@ems>UO[[`OPD@OK`DUihKdiGaI@PSiIP=aspie>NGZoJipDM;^RKZ>WMS`NqCPtsKnvQatO`WUgh^NKSSVnCt`?>O;rhiWSL;q[m=SQK?G`mF<qNhNvSKpLW`A>M=Jx`r>Qx^dm:tJis<KLv^bDsor:I^MriR_Siv?mhsWHPTk>abHQAi]tYQEbiC_CXsVoT_TrDU`OHHC@>CitQdAv`;_XytA`gV<S>^mStXSA^mmF_[=PKGtUS?nmV::jDHKoiIfMJXuweo;iKAYhV@BXth;yPAmGjZ?>VyjtL?>>hJ?U_OSGaz]JAZO>Z<k:V:D;CJ]_X`:Ck?`a;NMERBOnWHL[AeFZeAZ]DJb[BeROGNVp@sOYhhsKGKIh]pA>Ovh>Q[]et?KQ[chjoLNf<OzNN=>FOQLPG?wCz?STmSWQ?Oo_Gdz:_WPtgU?X]^:ePELNN:l@QTCQ:lfXD=>OWN`RckmOOkQ>AmOYWY>Eut`BCppclad?ssi]JB?dPxWjcC>?QelXHjNslBrK^u@OPzgQ^q;Q`XmmUVY`OZ:;O_Og?QNHmrKkuKO``NZA@l[uZJSwl@ujZUjuODcl]aJzbQ:;wlSyIR;ZJa;ZJU<:ODgB;iOigVjRAWDucQ?bewsZ:RIWyZ<embGWgJv@eHj=>tQkJTy_zagw^wCWogpMbLtpe:aB:wqM:MnYZBjGtN_u:WlAnT`=XTQnMr>pdrWQwp:hegCWpAWi^[J:aq`rM@puwoEY?Lj:Yabc=>xbrMcsQTCrJYdJhX=fld^l=v?=rqWYH><<kx<kDtpYFfwXFZdWy[?zAYsjyFNC`O_D<:K:COOK:MZ>hOO:_JCs<PZL@gYfA:a]xR:ipO;>bOY?q_Ou<UF]<T:pN>K=OBD:Ja]TxIeUucstjapp@yOjbGQZe<pU`NSTIr``cP?GNXhQ=OL[?hNB]HpV]DUOj<TOpxgt[IMebOXY<B``V`pSobQOPxEWNM;b`LekACswh?P@JgONsblOWLP_aZDTWYFayCd]QxrYOJLXNbnlW]Qo`OC@YUNbpCc<^hr=eELYbrIZ[=KxO[CXoVxNlCVLTQoCCTYKQodCP]WboZDu^QbphCA^Q]ojO[mR?AyaCmMH;DSHGYnOspwGPH`>pXDJLbwPKDMpv`ZAbTCLauThYLmJpMV?fNupMJ^jNadjaXoEySBo>?`Up==MjQPpBhYsdBpYmYUOdpI=SWb_?z=Ja_NHQhRyaypXPUa_?SZWY[:vxNRAjq>:;eNJ;:=CzJUObx`oDBTQxZhRkqGSWzTu_ESnzLhawG<^P`arSc[_a_CpiTQvOzx:WRzQ;pIuUBqpppqSZF<Gq:pzrcS]WSu_oqTWLZPRFTZ@u_jC:TTzQmGt:thaYxmTWvNk?HTYZNidCWXZOISm;NkH<=R>AZP:weWS?U:GR=X:c<PV<aPb?ptWOQQDdGWPzNdS`;UWbGphJDrOJ?j:t:r@ForPGo_;eZIR?^pjnYP`RGQ^RukyZNxMINnZC=UASWt^QHJp=dxY?Jq^SiB=:GoG?hV^qtwL:rUNESCxPZHjxY=Rcqeek^M``vSs^RJGLGl:mWb[pv:yZHV=uPS>FeG^qQJF:Gq<jzNxPgZy:p[Pg<iyazSTyM:q:tQLaRr[G>HQPSZJfXeulqGCPVCbDaH=J>miGFaXspMpS;fIP_GL`PsFhSR]@jN^St`WsIXujZxjOPpL`R>Iqpu^LzqStoWKJFCdckp>IddWuM>IzxK:rwmC=SqQBod=fhJgGXuJPggFRSPJycrRSu^XZP::drD::sFUsSZ:I]iP<fKu::gtuD=[ZxgBfD^rHgffC^@?XeJFoq[C<s[Ek>Z<ADOu[LKz=pCIuL:^TjGtexZ]K:R;N@bIF]Bd;NcDc;K;ABgGf@Gg=N=bkGt^UoqPG_HW;;]@h^VRlWpwHNB]HGnJwsqh=uHXoGSZQI@::e[@HWfle:ijIfm@wljDUlRtb^V^bXGFMN=N>tgdc>oDakMT]fWGRMU]FKGXea]Dw^LSb>qFt<MNoZQZ;nU@TdG:K[_qNatITRGN@Uy[mC`GjTRNr>VTbgNoz]gEWGqOGBwGNqLuDETvZAopyjgb[H[KUqU??[L`Y;shLMZLr>[lEKC=dH>ZCWoNhMKYL@h?MBUuHFhSMboQvaDAamo?_QESmpd>QlVTZ][l_`FQ][FlNFJ]hNfUDAHLF:;Dr=HFcTtBmhdfMgQMHBCUFtJPbS<aZeh[cTgsa[NNdVQa[HfOTAvHltBTrz>fT>u?i[?nbXKl^CN^wQPh`N]wvOLzcKwu;[QfK<P[[eCXX^ihZUSuozHV?=uqeZYfLGDk`NsmX=;hNo[a@s`sUMa?KhXRU@qsiKRY]tFNHogao_iTUKpvo`tEjDr]NyULmP?hERVmuILAfLK]jLuv[xBfZjRQmvv<WUVH>GhsfaHAGhofeqqkmwfZ^CD`n`<eNDRYUVi?TiPdX:Zu`yfdi@osTW]MDNmldYi>nh<OIHpb[tSWTQgmhdLuu?NxsXutH`MsX?^;JyvKuOlRQdVXommUOAuQbh:SOXp>JGvQtJJKsSO;?rhMvJUDjhwoHypBKQvJPPd`jvLW=?iZAV;o``dp?PsJWD>KvEpigAUS;_KfU_[pjNeAMKAcWyFF>b>knSJ=KFKG>rABW`]SJKrZBQ>Y=JwK@ViKrSmDveHN<WKG:lqM`CVb;:n`;vdQCAiPH:d@VWm_OXshmwhAXs?mYG>CpFJBbXCp]W[_SCr=mFh@IBDo:i>>bDWBAbS?eWxtSE]I`qbJfZUm?jUR@XKXw^t@Y`dOWyPRX_?byQoP=bGSq=Bg?Nv^XWmQjEU_F<y:GqcOkQWrKLDM<X?p>OiL_dnKWQRgpF?s;EPKQNOHEOfpNO`b<CO`Wb?W@mEKEYXx@rKY?TCNUKJoox@pDRowOq]tkYWG>xoyQQOpSWgYP]DwOKoOGIgOFowARQK_]JanpuPomlNnMBQE=?u^y:alnu]cv=?nq_tCFMuWFpvFQMCVig@tOJ<OC;`lxMJ`QQ]SsIJokqyZIokTDYoxotXlIMdIexGyyeQGJDoFeorhHqVlKRpp:epQ[xGtZRDdpcsC>FKBCMO`jPu>FySjdGQ@F]wFH[[kvQjgEPyUcF<QU[m]IpvuJeYN_`lOhLR`OHCZ:IXXZ:@;D@GeY@::Ki`=x]mQne=ptMMfS@^[AISt=Xdcy^>TOJQ_UdvVrHLxutowjjhqHHtRAJuqe?=atOxlRZHjpHBHILT<aukGOeFLeUISLlGxoxY?:FxoKNsMAWIrXzeW=UWh?<uJCDY^eolmiQR[s:ukHE;K?Tu]vGgZAFUAMVl[ZHK][:]IYsIqweIP];jGbVO^pxljVMfG[k[IX^]XPsEP><khXITLHLknjVEqHyqP`OuAOsjMz@LxQtMcBkXiBEEqOOs;D:bl:LjKumJCAfBpNTxnOOfphONQJkKux:?ViCXxzOOfpax][ECPsnl<XGP_CNa^^Fw[=jRVENCO]AUuixUwJk_tn;?KrFxnqkakbUOu[?kbvOIjNAqMMFomWQ[NSpVZZMVR]OWQtCILSrqOC^]UrpSx@G^^TqP;GfnFtOajZeC@pNeJjpqt;TXnFLG<uNQpdkNxNOpu:xFybrbnH]K^UNqhGfYIyCmgseJ;SMwxS`^dfwqnIjnyZ>QpjOr=[BaUV=Zxk;znIYRF`xx@GdnR]qp@QQrSO_ma=PuplzL:GTpiGQf=spQPR^OYCYmN<_ZdRDS<`>dxwz:<QJ?=`S`eSF<oCSjnCTNG`KCRzWk<lCrwvApW=Fs;ZhbnP<lYHJDAqTWTZEuNFJhAxlePJgB;?<l:;NEfmKwaoEDGJkjcpn<y:gInJP[kiWS^@E:jkEUYLNbHuYpN>J:po`?^NZkwDSo<eEu]sMQRdmzTMODpQIhAqCTPo;=riupibIpukw:nYqM=HuYsd]pc<`EPmp<hXo`qiwXgZi]EDf?RNYeM]wzF>p@aSH_VdYPQH_VqKDVZgHnozVEbyltDYoH=BVGW:hqtuLnd`uSzPRSad_eVrPaD:UMN>pDaccvZ;O=_MW;=wkocqjlaZA:bKLe:LMVeIla:KavG>:orNNq_VzkjxHGSScrra<:`cwIach=MVvGz@G[J[U:amoD<TLun[UzlrhU[KsNHEq@jsRy?]ibsOcaW>[n>[?iC]ReT:CI>LU_dYFPn?l?pCbrKoajs:mSrhDKSmRwaYCd_QkWqKP[QQZWcl]oH^OQVuG`?]D@uIux_`NLop?fk>@J=WYcvmANh=DB@GLL]Dm@GW?nEMoNV[HSC@H=?AETTo^?KNiFNC^xtdT]<hglJu^n?G__eAS^jtcgKt^QWB_<mh:tCXIM_;lNepA??RvRPf__NdeqUHplJ`Cr?pcNqGAHMlVq^@hncSaoxcbRnap@crRuH]x^bt:<N=^Yt>HFHhBsr;JdhffKHGJNrN`eiAc>Ei;KihyeyGDf^xuHiG[hwo`iHS[lCUyZsiG?BP@ULCRKLQA^pCOlMv<tskDvgfqcWXGLNhsqmQr^CUY@^V`D`<yIVivsvxDY^f@>H>]iIslDQ^[:>n=EM[<ffH?WhR>nqqe`DVHeORmesWeOui;FeHq@isO>TOMhT>lTunhzQ^TvRMLvMTNfhNtTuu>MdOHOJfhd>wefi`tvSKGAhH_sx]bhW>yy>QhJ>O@uZKeP<@OliU>syrpRoSLyrkKlgflHW`m>Yp]<M[Ubyo]Ma>N;qHmH>P;oBWN_zpZmMFAUPQmMtSRdFmM[qHCHeMrp;[qKmP_xuPuMYsXy?W`[AOx^>W]GEHtaMTG>HO<KiVb^KfiFHItGM`dV]lomKn_rC@FoLtOlpB:IATdAf`zAQKpyMh_niNuKEvg?FLWUHFXNOJdtUEKzi`tL^CDWFw]dpr`sAc`HTWn_MdphkTNqyPSM[Mh`IcXiNlIoPWEzIyNLOHC;Ne>XQbY;NOMlNOOHj:tE:kmpM`NXvT[W^Nn?oKWAw=fqSDMNrIKWM]QMpIRC`QP`qzMhQY=H?WgYM`pEMaUEhF[xgouGHAMI?KGIUMSokCQWVIot:AjySoYweBnUVt^ILOqFvrFLC`FJEHQMJgmdOnpphXdQXHwnCGrKoorWtg`nYHbhptFG;_Z=ImmbFzTFp`nDJmBBhebecjWFJ?:<VFC^`eH__<Pqc<QGlhQ?ioHO<>`iNlRA=LKdU<c<tNSUrnEJuSJsPw`j::GC<:=dUv_C`ixcu:@d:tU<CdOiy:@WG_ZpUWPx`[GUqVSOjSRVJFQJWUCPnLJ?sLgosPOU;:;Vq?UTifOi?xUEF?i[UcIMTelUJqs`hHlKPvOh=UNu]GhqluqrOg>:SPztQHOoqrOiy:^PqhjAUJqppjbUlPuTeoHqqsWivUuNCbHjB`?NONLx_D?EqLgJ;HOPZ>wjKQGOnHfDfppnP;CfosCMVupFhnd;@Z_:cwwy<BsCrVzZ_^O^QZIF>nJwzSgNCQJBvqWT@VrJ`ixFwpfrFCtjJWN>Omwtk`B:XpRAqtn[axdjUnp[;ArvnQ]wrpuUo_HwGfDnQIFdw]pZBo=bDhDeYRFFrHzgcMDblFZgznbwmIoF>IYFbmc:GmDyQwEZLWb:ixTj]ErvCRzYBdqEIGJ]_;ET]u_hWSLzLMPfxz@?fF;um]ecdNdl=WGpx=DxNd<Jsee[fjL@kPsZZdEtLq_gfxE<]m_VXKDPAdyUIZsb;;E>kk=FqpTBLkcn=cJrFFQpTJqedA=Tkr>Hl>KiQ<TCNeMFhlUySfAk=uHA:E=eNlMIE=eIgRBk]GgkrIBY=v:fHycmY=:j;gaxOaM:y<oBm_Fb]z:t^Rbjz=ej=mZOvd`EqZpvY]hR<Z^mr>:tewRXBmFuwOIJUky^Cj@Um[:m<qZhH=?omsF`o`iwHb_pFrWJo^=gibvi<nbce>iFRjAaZen=UzK>HA=@JyabKvvuO=tPlV:BLRqkzB@<ICvTBabgSv]K?biP]RBq]Co^eJbnnfCJjDQh]w<c<rhOvvXrQiz=Fs_riDZrymjLyJhXnR;Wv>_=rhyPTHSflF^EBnR;g^BykIn:eHXwhkZymnRvGrm@ByNI:t<=OeTNtO^QRS>^qk_oh<^ELqY:xG]=SM_WExXhoj^i?^>n_=EynTn`AGecyg:yoCh`I>dohdAk:fvnaqjggGRLzlRgDQ=T^UJdicxIilB>mnce`GsgteLFVPRGkV=tr;oIbyX^rh<=iGH<TZVLJFoAB^^?gMMU^RAd^L=_s^O;r]IVS`[cRq_AAMVDGL?`;zZVuaG;rl_`:lmUohm^_SgkXAGDcrqde^A;sz;VAwBrkXLAXxUUPUve<[nSRDs[yFg@^rQUBWiUL`UFhhBL[x>=uqfScgjP^;tIZAsmgwzxQq^NFUe]aUiEP>sm]`KP>=O?CEY<idaY@zmB[F^KV]g;^AtJCmBZGKuw;FhDAi@GSMyDt::<[FRze[l^OSImpC^`DuaINfcfQLjYaJnZmhM>MDytB?^VfYDiHoXUTPFkPllTep@[]?[eoUHOlXNAp^BesqF@hseoTqh^`tHqHahVemLjI_OfXAFy[zRruAefkCVHFn^BRLurJ`Xev<s@fMly<tl[CeqwYC[ZkDa?f^iROa?ci]acLPnLxepKLHfwUJXH`[KE[P@VZb?Ga;b^dfWap?^=RJmu;frVHmNI^msq@inZrRPyIw`pUM@h<ixUT=BLizsxDNdfvUPaiWhDfZdog:eF[;FtfzUW^D=h;Tyi?u`RvN[I@iD>yPjaiS?BX?nhxFbUGRMzmm>aLJUFhr;I[^TkKFH`K>pio_MkgfutWf=O?KHxfE>JHgDm=>w;?FMkSUXo^N_ut@QMfXuwp]l`UvNhKwMZ]xyoffu>QhL]MPumADt`KFIaPJW;uyxJ[mMUiDXbfm]FdFQfWSMqvCJ^SMXhRWq_uqNz[ggjdHIf[_yn;>WC_mKrjfSASygNWktMygoWYuzKpaBPvairFWLHDlqZUwtYC>VWnG;tHwWg@xtFTK<@paXWmm@riOFsJNyEMWkbvd[gmWq@lXNFbmh=S@lMebXdoI`d@oyQ_UXbXzsXKLAgSpyKdbYKjaWyNtSrJff@pvJqWChaY^::<EK;PnGN?P]D`Mj<iOIsyQHxlj_cQy@Jk<UbW;[NGMUNnIJWM>apIKLUxNW=jf]LQUpHNO]aqSj>B?awxASWn?Ym=rKVFxdjvMr?JhHYlpHwhIYK`QTSioODatSgZlpaw<dRn]yFIIwnorNrtpF>[vjNZe>gttjnW>kNtj;Av`UJ@H;>rNFG@OP?m[WyU@?ocQrO`J`hqgTiYJtN?F`?kksvW:PzxrdaCgXdnJh_ihUdxT]wKPSdelS^PT`ab?ySeOapShAJwSW]jpd?eXa_GfgQW;^KWO<M`Wm^QG_IY>;EbALgAFB=<[PAIcZuIXwrU_bnY^o:h^nEAIzGqXsz;EbKgzNBox_kAMrLQt`lnodnL`oiVBhyZHBg=CaYVnHZD@OQBiDvcmA^hxMUqzbFYU[VuRnYUFjKOQ:C<jP:`pOGVx:bexBHkrGZvL<VrFWONHnCgkvKjOZ_axkf:^jIboC>UvBvWN;GOcvWjWGP^nF]HIFWZ_wofhSnAjNkakvHOqB;EnYjLjI_vRzFMh=w_irrm?:`@rEgPEMqv^jMnY`ldhtghHxe<vnyN:ngQ<qQYAp_Q`=_bo<E<]LYI`x>]tbrOxB<fbpSO<mJQrOdIOz@:DvE`snHdCiGfQrXC=YUNJ]vgYOxNvQZ]lrqy:L]TYHiQOYYrq=x@puWWPEkf=RhACYBpIq<Ej]l?jPuJKm[X;=sLm:eKEwhRfNbv>:FfQUxsGTJjupyzP:FJ=XzRUNQxkPJ=Xrxuyke:IxjmNzqHpcXnjjv=r:zAPw=IzRP_>=Kytya:=FGochkrc:ltbZ=OGutbuVdeW:Hk=eGzJoUdkLkAhM=D:v^W_=Xkth`N=I:xzps=jzVP_lvJWSgF:?LJngG[=@:kEWpap:n`ao=x:wbP]=F;<kGg=FhqAjjxfNBMXs=z:pBG<=QeKBGern:mQPUJ_ZxBIRDyJzBHqPLZmk<`p`WWQOwrR;OcF<GHZn[Yg;UWJRH@GlZsg@X;SZlF>P=CPR;;HGhZrCb^vtiz>V;vgylsGKC;?miaeeOzKnYyv]:l^YqpBJmvY[vP:wcrJ?[ysW_LrLk<JILrPWnfYd=o;UzOHPiJs:oSpc=JNHZDlJp:q`=C^O]HO=scxNF>^@rcRo_^=LooIRG`BtCbN^ktZJqqnrJwsFcQgWkFHX=kktW=TJRkxYqdrkhXbVESBXuQXDGVxpAhrpgJyMWAS<JpEYU=TxzgFUryywVFoqdkqubeGaWJK`Qn;GZrXj=ka_RXhrC[pNH>AqrjNI>^`ZpZAP=rByAVkAYxp=sil>WlobqnNWxFgD?_xpWnMr@xTFICr`hTjirD@GtluZDqyy>Iv=LkmYX]GyqMjX?rBWVzN`r@ZznWd=XylQXXdL=m:cHlCJsEt`=l[rZWBGyBkWv>Aka^rVHqq]@AWuZYxqsqV^Xq^RFyGTz=U^PAE:Coo]^?;qDGaA>cuefjrAIf>piAB:>naCGb[oFgVt;k@eIFIGkEIVX:]twiVc^Oig:;;pnipp`_IR[vQa::Wqt=CEC]joaPvDMEP:::HTuPjDJ@`GtQwcAaMDoKteL@^_mmTIKrFmsNDxt?cw]rdAbQI_OtAafHP<?AEcwNWo]dKv<gOA_k>@JAbm<>]hNh=KroNB>^ZSoPsftK;oVoUQKnm@nAFel_=nATCz`H;LrDr;TO^SlWPF<fqll[TvAytIVO]fgS;DhI::CIg;gJ<J:i:TFH`@r^_BkeCZ;hItc?mCbLrMwDZF:H[>FxfZIMyc<y:H:>_=^I_nzuLs:Rt@FykRknulS=vLJ;CdnIkeF;BlksJ?gxMI]nse;^Bjq^Tdk:M:AZ:o_cX:J:qev<MTcsZDTemGk:zs?yBe_NJE];:^qkIowWIxnx@eIInnuA^?<NC>JLdQI=DA]s[LkDALOTQ?sPcUV>maXPR_m_::f:kjd?HdF>TjBBlk:>n=Z;R:^XgQ[gJwJEZ::J:ygWId:QC?]JcBRn?_;R:FxcPTbo>sCoBs:<Er:^_]mEruKF>nElOsU?gXGmA^inyIYD;FtabLyLal?aVyKZOfIYC]QoEnoMEokqbV:?ZlWI`::FaEna=Rj:>F?fVDYM>^fzTDHa^eseBH`LC>ehEmjJoeVErDzceyN@eR>jDK]neGcD]aPRzBRSeSms:MErKLhXJ]HrAbIBeEqkLjUEBmwOkgfs^dzTQ@s[NG:uHew=ujPHcPRajrD;B:eDc[cqZzBq]A_QDBDEpo[kBkfluyKZRL]S:yj?:DmycjE]:@ydFYE::;X:s_Z:jkm<=L?`ajJ`slkS_ye]RlJOXf?><Jqt:A]bZ`Uz`=Oj^T?_Ey<PZ`wk;TMZUk<XjQsi`=vI<nnFxAInL<Vy]j`nmmkrImL=TeUaA:>Be[sfnywxeZYMy@BWImvuiw?V_CI@^fkS;@rGm]REy:;psXy<LezsgEk:c[DqUo<HFcCUEXyieaZ_eMVsn?p:<UJnvpNB]HvvpNEYjyuZ:dZgDDcmXFckApxdBj]:HLLC>:<d^eNlia^N@Fc=Sfz^cj^D`rT<HjWegliOsw?]xR:lhQ]yuk[Ephuhun=<Z=_jXWi?<R;Fxb;xZuyy?jJVjneaBszjao;mw^TbE@xAojUAkY]VYkILjRwY^nHCVBYzAnkkgecWCaxGAG<Bl]RYzW_R=]YPlZVmLZLcFlXJY<:G;yq_rD@]BDZkAuLeMDVboekDYcmcCzvsL`c;;P<``xX:^jj[]V>;DOfIrRDZNJGm[Vssbz^k`HpbrXyfR:<j]ys:rD<nfaYcfkClPYLzcl^iYY_EXyS:x<E@R:D<frw<uYuISSyiYJQody[OC_::cHYt[btzlYtcN`zrj:<hR=Vcs[_B;lY_R<txSYvE@ucc:RQt^DFcE<g@cSYlQs?z@;Pbw]cJY^D=xfce:<heyvbBUyLKujaHfKzGY_HjhAKjQ]AOwLYHM>Bu]_v]jR[uYEjEz]DYl@fyxYvNAtM>TYRAmLdtJgQqw=yYwbrGz;Ys^fkkeYTbquJGuTrwumFbcrmOzPYqbxXzEoiQstwQY=QyN?DYpT[OyFcTQxRRIY<Qspx`YfvrWwGubruOwjjvedOxP;^DA:epY[QphySYpbmZ<eYDrsm[tY=[]GyJz?bwOwgeNbwBtYjoroOybBybvhzIYn@cWzkzabxdwUY:Iqtx:zfrzSzVcArm^zyY`rs`wzYkIk^wyY<iwtyIY@?gxz`YUvoe:eRU<h:cJzvIpxxIYdIpk;zYgLQg<KkQEoLJwjhcQz=wj?BZLfkYWAq]mijnI_<R]jbfni<voTZEayQKLjvKzQje[RqZy:zBAJZ>:RRiZ:xsTZB>Dqj_O;B:Hj^T@Lw>B`EpKzfVWArLz_]arFCyp:gIoWx>exEsu]aVprt<]kjuUquyTzRfxuyWyBYkYZmjhkB@xL_bQtOG[jXDbpyq_qHZ[ybooUrUzqjxjuSnXz@Un^zTzvyEfyWyCU:@yazsw;tuPzpjvUyljP:QIVCj:>;iVe_SAmvyNYx:R:uqYfAvWjrj=AmBcDXIYqfx>nM@yCz]jbY`:<qYKUweyejao>ayCz^Yb]<qT@rEGmbopZ<S<QwXDax>tz>Z?tzPjo><qxqjnYsuxxoBQmS=[zujxX<Kzt:IXxuzr`YXw;jTTKVZismXEeLVVJbFTU<cFUnR[s:CUzPahuX[nyOEyKoDKh<pjDHcGjO>nGjHrvzZFYJHzWQD=zDnnEYP^t?zDAuKZ>jtvoXztyzKnRCzDjvazPjvKZXjvoL:<:EzAt:kOGjuJc=jtWjEjtOeUbuxz=vMN_N`Mo:]Z=ZYLAL;zK:AyHHZ>^zURJfsVMtrzMjlFzEJJCzSzujzHF;L_A?:QBJJMSoCOts:Azvl>Yzs:JJ:>VHIyM;eF:@S:Hhv?ZL:?GjUrKqzTknGz=VtHj=xsgYUZA<TQZ>szYZ>@WYlnFTCzv[J?zvsZFJ>DZ<J?L:[w:m:iJ?zz::?e:zmcO@AzvZ:i=B^JUL:=uUrJue;jsdlSjvljSGsEY=^uc:pAurzOU=rzLB>q:zD;q:hzv]:mJ?JFOk@taWk@D:nk@fWJ:<y@R::uhlw;uZBZ;Bo>UXo:C<;LZCyJ;ZEIyAvlF;^L^F;T:G];Y_A];n?k=XKW@EXC>^B_OMAhyNR=R:AJGB_A^?R_SS[>;xZGpBMZIL;aEnV;<ZEwDHJD`Bqe^:ZLqp>FKJC]:@ZET:zZF<;Xe_UJyznOXSS^^Xo>=Z;t:<e;A:GXuAx^e;vzZT;FJBg;vQLRyyu^T;YJGT:bJBwRh>^EFvJBX;:kGv:JkFUJBkCL;^ZEL;oZFa;^T;kyDfmk:g:Fm;okDN;f@_::M@a::Jjpmwh;:th;::B:=Zd::GmaZoA[;mkCqRYZB<;JJEEFqkEOo<zlNNXZIZ;OXZs;cjkMRSkH<]Rzlly>zog;SBB=XUQmpXkUppX@HZCNzQnHyxApryl:EnyxXaMXf:F[R?BBj_OBFT;GBHi;VH]Z:Qqbd;afm=XHtlMyjQpS;@Ynt;Dx<@yhDZUyWXarc:y_[mnYpBoDVKZeFR_>ipvk?;qA[jyInoENaL@=]bYaJyAqkMy@T[EFHkFUJj?kQmatnsN<c;G;VZ=yXDh[vXGx<<oIUnw>HJ`q;FNLzgiEqC;N=^foLUklJkvqDycX=AXDnkaXqnkbXd^aHXuD`HXtnnbXjL;hNiD[hNIbLJe<yAmB]K;XXoJ:rXbnqrXQB]n;CNOX:iRGhBQs_;X[vpWZlvlRqdvk@:sEkjXPbmGyJAqjXWbncyNrlU;cYmlyrRBIkq_=U;cYpeq^Ap@:gzmk:Lr[ByuJ@q;lAqEknjp[Jfjlc;s^<Gyn:ITRvRCQ;lVm[oIjkr;lZIC>WAqoZusEcyv_:RylF@SPws_jZoW^mV<jlOy`zpAy@jmQ:^KprXjyAjyDjofy]W]cw@Da_yVZEZe@D_Y;_D:x;=YnnydzmeeTsFG;YtQj;DMpz;iB@Y;vRGY;k]QY;IWa>VzW]W;FhZO:_>Iz;QBHUyWGOC;pvm];>Yr:[qDl@:_>HZ[cYlaZi:EY;rWZaywd<aym>Efce>BCNZ]`zku>HIyw:DgFgNP=ypvqF;oJBY;x>BQFMsC^yA>GZ[uAp]:<>G?BL>H:_ncEJ[cX;zyn>FH;yi[a;jBHjXysG:[?kHs[;=:R[_D@B[zRF>[r]a>[`>HdBPIlc[IsCs[Pt_R[N_GnyyZBAox[ZN[JsCj;I:D?;Sg:Z[l_CQXY>Gd;pvn]FS>EZ[?>Fz;iSaz;Nd>_[:k@_[IJCyJao:cVZzmAXxIm^;Y:AAXonkM;ovmM;gvlsNpnkn;dRCsqEQ>V<yREXXAnmrXvMlE;MBHn;fkA]XyY:;X;vo:cKvpjHhJ;sNMRF[XkAoqsdx<RVYvqPugAl@]JArPyDn>g<]AkO:bd?QyO]KT[bM?e[LcHzXOoLT[XoOu[^:HuRvNEgyQND@[drqdBxTaERVEmtyjrnzXZAnzX[E?@[BAk:N`cHrwrH>V<eAkc:JBEbycJD;:osIVZ_sBc:VsBdXbYqdXkL_V<lsH`ytsGVHYErmwvNHN[x_Iwy@:EEy`ZFw<<Yl_[^jk_:?oBcyp:Hi[EubAgmrQQ;NoI<LusDZ:AoIq]PsDq[:zqMX>FDgLh_GF;UoDpyHjrjyLFC><i:DmJpYkhyjk=fyYZOO;EUlyJY[JQy:FBQ;kFCR;mDbu[xAmr;RFDr;SBGQcS==d[d]?C;GFEQyeE;K[xJEK[NYlFBnsBt[<U=e[_cGyoLYnm[cUnpXEoF?[RYnKRbBGy[yYnvc=FH];voBl[tYl@]:UlNNao<g[g_FboqgBd[OoB?Nie@AytB]PumoQR;mUmbyjU?[[mgFxXBcHvZsS^A;P:KUX=BBlNGa[PRhFEiRxc<[obBHq;eebB;wgD:[z^]O[X>IF;VJB>;h?rO[kZGg;cZIYybzqzyRBBw;J:GPuupmM[ekB:ZdJDZ;HZBUycBIZ;O_H=yfNBMRvNGOyGgEt[XR:?[vBDE[BgIKNRgC`;r@pMynFGSBMFDE[tH_<[_ybo;icEvcPFHh[BVFT;AoFl[cFI<L`Ypl[y:BC[[:DC[l:EOoIBCp[FNAC[vYrb;;gCbgGNFt[;LQd[_FFS[;VBU[Td?[[UFGt;ogGIcrVDjyvfqd;oYpd;XwDO;OVFS;hVHuyxVD`[YNHQ[mcGGX@>IZ;ZVDi]rFIH;jFFn>egFg;OoJp[P:Pp[dFCm]Mjnb[`oD;[[gI;JOf:syCgB^[XoJK[db>h[C[?k[[wCjyWgDrZcsGky^YpnFNcD`BUgD?[mwBryUF:Q:rgCO;t:?x[bLrF[nwHH;o<CQ[CVDT;HUr=[rNBsgNVDL;FVD`BAznQ:Qzma;]VBsVnppM[CJED;PVHB;AXaUyXVEvcMVGi[;wGj;pzrAyCwG?;R]CS[e;ZMyEgCf[:Haj[_gGi[V]GSB=wGU[CFIpoAVCK@FFEY[`BEj;lYmz[CNpBZSjlfycwChyswBH[BBDm]XzoByDK[b;:>CIyJ<Fc;wwG:K]wHKNVoE=yPsF>;^:DZK;xZ_VY]Ge;isBr[tgIn[bM;wKJflv[FJCJKyzad[NLIBND:?[X?wH`;D]HS;sUrMybJ>nyAjqGXl<B=[`<CXy^:CcKOkIa<MAqty]JFjmE<Gy;nZCn:@JHsNPJI_[A=`:NeZGsKxUkn[qZDIyo?MnyV:FF;JLGH;dLE=[QoIqyr[ZMyfkE::^kHu;kkH^[ckGL;WLBTKjzr;;gkGzL]BEPK]BH;iYuJ>gZ:=nhO;K<PJ:<n]Yu`::EjmZ:;moeJSYmPyupt>;L:wFPe::>;O::CsSZ:=oWT;KmpS:f>DJ:<:=B:;w;F::SQfjBt>ATCWt>kZxt@pt?>AjBb;LJZr:e::QsLgufdRmoc]=J?I^S`Nc::cqGog:`]z_J`_XKhXPZNDDF;sp^o::PCeQ=IKcTeY@lrrAB?dkZYJ^J=OJ>^VZAMZwB@<Bmc@R:O>l?BpM]jJsl@G:gd?mOC^u>gDdAC:[kA^:zs@m:[HAS:dH?L_UrJqe=OJRZhHAf:b>>k:[UnGzId@]BwC>oByC>LCH_@DBf;ABuEfuSBhIvmZbC?FkfK@mcgB@;ky@@gceK>szOo>PzV:=rzETAoZrm>iZwLviZgm>GzEPAu:ucA[J_WuKJuD@AI?mZiktF>QIKDAdZ[Y<SZwP@dJmvcSJkgASJZSvUC=CAtJmR;[cse@NPB?uaZ>?sOJgxsJj@[KEkcP@cgJTAGJlxutcdfvgZye@WJZX>xJaT>FBzX>tc_T?tceh>?cgT>ig:;KWkxTAKB[TAyBvxtfJtTAEqEg>b:p:;:Y=UuFcDxKvJ]aeHkfPAq@Ru@HBofDbJqVA:Bk@?NjF;AT^X:;rJowAVj<w?Os;QsZ^Np?Akri@aBwdAnccK:sk]lAskert^kzo@:JhlA_YLa?ncf@@ezV_KWkZwAXBtCAnJxVAyBdx@[BzXnveL;?jcsC@vZvdZKBni>`cia>oBji@WyDx@zkhQK[:aX?bceZ@ncfl?rkfG@gkySZFkgC@?cq;@Dcq=>mkkl@<Zh`?lBaK>vcnG>mkhCADBbOt:uVGurksh^EkqP>?BcD>DkpJ=;kd;A]YB=AYkmH?qz?p>gJk;AzJuW>QcvjtPk`x>FBux?XB=ZAkBjF:LBim?RRznsec[qAcByYuRBoP?EzYNniktX@Xku_ZvzR[@_Bzq?NRkH@akt@>UcazsVc[C?FYSUcwcad?gB^[?<ctd?NQWUd_cj[@Skvd>tkqL>]BeecUksi@lBgM>sRn`?]ZdZA@z=OsmRtItpkjOvfcln>hkt^>A:lGu;kqxATRy^AUchn?Wko=AiJDX>:BqXAiB_;AJRxU]okvX>BRhX?BRih>kBrx>HRh=Avk^=?@ZuKAwkaItbkl[ALRui@TcqNA:uN^A`cdN@;R`l>NBtGujkwE>aBojvrzAy>zJjyAZRggnuknl>BR<;>wRtf>vki;>=R`fA<Zpn@=:<MA:Z^;?XR]f>sBqf?J:Y;?UzB[@IkpMA_BqL>TRe[A<Rp@@]RnpuuR]KDTRgf>L:Us>H:snAlkldAEB_O>DZA[>p<GH?T:wc@<Bzy>B:rXAgZvU>wkrU@`krRLbkpv>>Rmf@yRsAMyRpvApRsZ?LRy:?Gz?v@nJ[x@yBtO>MRpOArc_Y=nJrv>yRpK>gZoAJDZexu[zUIuNRox>K:mbs`Btn?vRsS@]Zzl@@RiS@pB]R@<c]v?VBp^LtpVAuLcen?WBirs^JQiemJjK?P:n`[^Rms?>sbWA>TNb>z:z`>i:Z>?NssO>VHJ:;YTc:;nBrdlALIsKGaDC;g_F:;zLIYK;PE:[cVHT;x<IYKYHEtKYkF?l`HDPKpHBRV::>Z=VXg]G_YlRRfE:d::FqDy@Nlg:`aXKVhL>gZ:<zp:Ze::;p^::BZejDN::F<eptVr@::MyolTgw]B^c:;xHMzLIDJxlJ`^ELV<ZneZ:>WxJ:<nDeNSTwaU]AVR::;=qXKZI>::`W><PJ:<bKaw`;<c::Z;IGlxiN::ncfoXWxEhBsg:Nce`>FI;l?PjNfCmcvHA;Rl`>Dsac>=Bj^t=BhQ>^B`j@TsgRATsyd?<sjQ>]sp^MzBi>>BZd>@cZpOJETLn?RZ^RA;:sZ>^JOjtO:yn?GkAx>kssf@oZjD;Bs_GApkvC>;z=XADRly?ljXY>hzFD@K>=p>=:TF?WIPF>AILWsyceN?ycpF?CJcG>dJw`=OATk=[cfD?YIQD?QkrnfOMScujs[GAZeCG?pZyCloFGGAGZs=vGcxT@okch@ARch@GJgh>XR[hAzcch?sR]h>GJwCE=Jf=vk>vd[qYSAATcnXAJYNf>@clTAieMyniJLXAYjHZAB>t?L<J@PAIjV_]bUQh>fFBh>tZEZ:tZWhZN>pxuR>qhA[wCx;[zHns[DDfTF>ah@l:?ZaoeRZ_dBfgA:Y@ZaboEhAlUEUS<>lUs>:BN[F:=Z__>rg?L>rZaboQg><>vE:D>rg>tR;w=P:?J`zjHZ>=ZghAL>`X[a>dEv=U;J`P>qB:@>`h?ss[unfJ]kbH>xxv__<sCZYUdZUUCN<pvPxvnUDftTYIh?<H;[]=ch;AMR_W>>Y@j>nZo^uCRaW?izNGLzslW?OK@Qsfcdu@j_O]kFFSQ>Q:`P?hRnjmVvBX>AcZZAPB_x@iBx^?l>n^AfVShAZkd:bfZr:b>Rj?JpRpEA_uA^@a>gZalRw@@g>xh[IccoLg>xV?D>Z`=fZ[k`@>bc_H>dx@pvCx>;>u=vYc`SZtRgNAO>nb>iRpY@mByA>NDOCAecvn@UsiN?csjO>RsiIvtBzYAeR^Z?QcvB_Yk[^@]Z_=@WRg=@gR[EAbc[X>dRw^AfZl=AnFCa?wRcIucRg^?kRdn?oRsyAE>r=@`Rnn@EzXc_LkufAeBZ>b:skd?GRgq@:RmE?uRtbTzk`^AMkbf>VRysb`ZRqAvqSsbj>`>U=z?Y?`kk^mqBaU@EzXU>Xkg]ZfRbztfR[f>URcd@oRmK@UcfbAhssb?NBk>_bRqHAgBwvAxsgn>FH?H@rR[b>IRiGsGslY@j>os_YRfptz>hn@j>^Y?Ys[c_o_CB`<_iP?R;;jAZson^:_bfuZ_`a>c>if>ajRN`acfW?t>mk>e_ay?Z_jE@T_[w:lRiE@D:qs`JR[BaCBns`w>ds_SR`s_UkhE?R_gNAG>lRaqkqA>I>i=>DBwf@QkaG>Z__^?@_qobtRyN_ssZjtfka>`u_oN>WRt^?IRjkfB_]cac_cq@xg=xAsgBUAwR]q@^Rr>`YRgl>>_oA?>_tYvmRi=?ERk[?vsw_b^cjqAfRjuAxBtf?hsi[>WsaFbARqS>z:gv@VBZY>FH@v@y:nJ@WBj__:JCv@<_dobT_i_`E>j>bYRfE?ARc>`U>sALVvQCAR>]>buuCv@Zszd?h>mX?=_bMAVshnAIcfUmMkfjAnB]b?h_n_byOQHcgDJ:=V;c::R`MTKICH`lpaEhyv_<XlUHG>CU;BiXvdIJ;gCB_L^tIURjwDgFnYl@Zt:GulmPFe>`;EjKbM?VCY@D@qdqkI;uf;JleZ@YKrlGdCutBSCIHDVCnCHUCdqE^[USEfFDmIyK`tDvCAyM>Fwzo<;NwCNN[BrZ;UHBoCdCEe[TtDDlctCPCB?FoCeE>`CzdGOCsUlbCt?Dx[`?I`Ch=MDC[ZIcC=PmcdeiIfC^CGsdP[<RKpLECl:iGvliiI_;J]>kdOqHZZiqobllR<PwQGJPwzcIz:WXG_[U>G>KN?CYCcdCcdi@IORFzrJKg`BECVaGERY?Cx[suCFdwgE=;SzpuC=sAsdidFk;:ZIgdHR<zCt:GC[ufkc;WlEulZ?FsCTPHEkU?FYK:OGiqOPoZdEf@Zdb:Iwd^`IdCZ`DJdlLBbCECGRKu?D?KC`GRoDBCkdlJIfXy?Hl;K?GoKItIS[W?BcdWPGodDeIPsf[CxCgqExCK@B=CXD`Rdp;IcdABFclFN:UlaqGDqFOIwyyqG<dyqprCtHB?K@?CfX==b_d?qnElUJ@NdFN?NdgeCSlIm<odOOMbCdOFxCs^@kCK`HalC`DNKgaCQy>qoJ:kHEl;dKIZ;IBGFs:lDR:AOIK[NSCrKKpDzCd:B:ZG^QDCI`B:dp=^c;eSIDd^ODXdBOQmqWv;aC<U:zKEdHYK]<IZdY:BrCVCGydjOGUCeOF@dz`KyKaOCP;>:Cmd[?EhyC?Fod[OHdBf[EydBaCpCq@E?CVCD<dRYpB[jdILKGOHRdWOG`C=OHDdMOFHCQ?FTlI?IXdCpDnXZGBHlV[DcJjOB_d]mH_dil[PKkpHDqcpGflD`GJTqVBodFpGC;rM?KdHqIKdBtCnC;`CPRiGDalefnPd@eIalNubVJ=C>gdGXHgdO@GgdSZqncBlGodtlCrKklINFOlHoZOpGzC_@BwKxpBeKb;Cr;^dDDdv?CQc`hFiqqpFS[rM>hdIpDVCb>BClhGFJdatGWdBGCLdkiELd==[[;NGFl;aZG[d@`HBdA`C]]LGCsCdGEWdIlI@laGE[lphFYKqo:qC?PBGCXfredLWIJlwdDSK`GCe;tC@mkGGGcKL:;T;;WFJ:MGCvlEGDm;zhIweAGBqqQGI@d_pEtdopF^djBDWdKWEDdLpCPRDWF;;^gG`dFaIal[WHOd[EpOdXYrOdSM=@CqhEYCkL[DZddBGdtdChXhpDhC]sBXdb;DN[aPH^dGhFzgEuEiqsOBMRuxBnCmtEQdKWDudY`CBCGO`>djDGSCCaExdsGGPusDD=dWqG=dXOGe@nYpadRcGVCL_HnCtVHKd^OBjdXGFBlPeH`CaWGzddGBcl[lCTdr?IndkqlIdWGHud_>]y;e?Hvl<mEvlfGCfderMfdNiDNdg:BadjGF>KWDB?dUWCPRQxIWdX`I?dsdHuRzxH`dHEowuVhFEC<U<qd<:;qdO`Eqdg_IAdBy@YC_SHVdQoGfqc@HoZ<xCidr`HQdOFIGdC;DI;uwDnddxA>SN<BwCTZ=rd=p_]dnuI>SWSCEdx<Ec;v_FJSn<EClcGGjdDmHBN^xC[dlEpmdwGB^dS?CCdPxHNSd=FvdGdFrd^uBoSOOIldJ=GedFdDmCqGBsdnOGTd`<G_Sg=FxdJGI]qEkNoSR`Itl`WGJSpWEjdNd>kS]`E@dH=DUdy=FIlvxDR;`^E^d@GIod?=CPRx^I<CFhGcS:xIcSePqRSDhGRS]UqH;NlCwSVOFrCNlBfdD=D_dMLB[;==aaq]kIe[QGH`KakBUyWtDp;ZVDR;<pBMdcEAQleWHedM^FCd>UnS;stCRywdHzCE>GvesRB][SyD][FRIaXFNDbXjeBL[Ono=Kfk@=KNdEE;_k=D]TvkE;vyHE;oTBCdtD@qSyvoMKGRH;XgtkU;BBQMK`vmLK<HCjXSTDl[hrrVCzYp@]@;GXSnnGweQ;E;[ARHKNSU<cCvBG^:aZ>JCj@IP[^nB@[AnE<e>LJkCNEB[S?zqi]oEDsCs;BDRwzrNC@wFXaIIoUK=nIzKF[EcCzYnX]g;GX]ANDKSbx_GdO[DS[Xx@;Se<pNCTlCKSz=IsSUTFlB:AqQgz;G@KJ[B:N_K^<CXSDH[NsIAKFKGCXDCGwdtoH><ZYlI;DKBX[QppQKyQae<NxEHdUaF]F[KEl[lKDB;_CD>SdhHhCvM?PCDLFxywn;HCPsE<lGuIzKfpGQdWnGdSDECslEDF<Kyu[<dW^]zKElCzKkqByCpT^PCFLHLSRhCzdMfDpSU`EuS^^DelPLGpKHyDPRGrkHCZNE=CYuGslKWCpdNPDJCFPI:lYtB?SShE?;REIhCmFE:dqQKQ[@xEySk?IACZEC^N=fGmlpC<MSQMGLSPGHKNREFRd;GIf[ofGESqEH=SOSHclnHk:ld=F^SVCE;[ZCE^XBo:UlFyIzCufFc:uCCDqEnIZlEdF>lMnkvdgHHcSMgB:S@pDECRYoNlSCDq;?SFIyWUETd:vEZdTGHAC[HGwSxGHLyL:AcyD?DoSESGxdACGeSz`KxLP=BzmISB>KzCH>KA:HyS>UHbdTakbCl?BdKKeCGdLPCvSkvDGSR^arSxAqWC:aDnCO^EASaMDk:@NNbSlCEkKazpECyMFCXNMLQSQ^BASUqIY[BdGIdEeazSp]KxdUCBIClvGPu;uMISuVC`lF:IvCNWFnSKUIBSCUFuRYnIES:nFfSkfGySqrA:SZNIVZOpINdNWDR;HUGASrMBR;BAoDRWc<L:rfF:SjfElNOUB;SIAIbC]dHHCzuBJtK]G?ddpHsS?lB_tFUHC;:JGYSwKCQd@fFuRLUHhSbpQZllX?Y[abENtgoHKSz=DnSQAIKS_OH:y@bIRtlUFMd;UCfS>tIPduWH;oJbCgt<qG=CN=Ccl_FGQSBhIQSftG`SEUBwtv`FvS<SEidvvDhRWhEvyRJZ]L_OHASgWIydjlDgtsvC:t=^HkKiMCCCQgEECwvCflFAFdCpSIndzYo]ti`HJtQvEmtqFF<SOxHLd@AGFlPAD`BVPOktxqFjSKEqjSNCCZK_bFklobCwtgbCrKibG:lnvCR[JQH>SVuHAS;xIvS>QIMS[xDAyjU;BSffBxC<WBLtngEcSS`BPlCSHryNABIyrLG=SF?C<>BrCTt[PB>de^C@KrvHi]uACjdKvCPKLqOet?vCgl[AB[lEZ>FtFQEQSm<FPdG^ISRDEFct:bDP<d[PCSSfI`C^AE<;_nFWSM:GFtCAIWS:IDYRfrIylsUmVtCbDYRcbHUysxDl[khIXlUQFz[jbIYC[fBNtg_CFFYQEOSebFMShbFzSXarlSlbISRdED@tvjquRXx=FtpUBPl<IFJtLIHgSybGn:XIE;tDHB[tGAINthbGVtXWIVtQpFUSNrITtboH^C[EEUSyi[utHgCSlrUCltkvH_SiuazS[IEaCNjFgtdABY_XSBQyupE:tV@GbSuQHfloAFQSqQIfStzlrSVjCNSdWElSCQDUCyvEJd?QH?l[tGPucmLsTtrIktqVBSK:tD]K;M;Ct]jIWSlIGCSnIEkC_IDxt[hIbCgPE<;pJInSQABdtJICDlvBErcIjH`C_IDR;?IFsdUxDDKI]GGSKbBDtV=EIdGEEdSErFjdGLHSdcMFilA=`neX<ZFSptFSl=YqSl;OGllIvrMtavIbNIapDtXYC<SpMFEtf@aw;NMEktGtHn[x]I`lKLDhSdMEqt^CCUl`OGu;?yoaKvkHJoIJDLdYOCplaACPKKiCGl>:=?eX<`NgveN::U@adsZGD::<bOmFZCS::A:ejr>::x<e:w>?AJD=HcSsz]lUwk::RKc:;oollLZ:ADtPsSsclsSsck:=g?_CS::;DaZ:;nnJA]<?J:;ZEc::@WOfmOwPyLX<_::PDuuGLsT::PmG::=UlOzF:::^e`sewb`sm`@eeDj>_Br`bpVx:NzBQHaDssCA@wxQAEqLdbv_mf_fBb;L::DHhz_R::LXN::nWe::IBoHU:IcCwNongJLonSwRY]LDVAx`wJ;mHHLk=XaSHmAHQumW]J@nlmYi<laLrMaHRHwMwS@<SaOu^fwRa=]uAY]:oV`<JoV[Np:@z^Gr[z]=aJFmp;OP<LcJiZmcLa^ZC?O<FoSentcT<nUHW:MGiP?N<PTP^i<JZM@N?X]E;Jh]PPJWncPXh<a:SG<CHTcLeYhq]@PWh=v;V>LEZ]H<iPTH]XPW>MCoU>MZiM^nH@F_MrUD_MAcJ]Z?Yf>DSPKpmrFJ>mm<>NLf>Vem^]NjMgXLBnt]O=^hPVQ[WPJTm@>QdmceLJLJ_Lr^nPKn]GuSomwqRNDvaLunRiYALfHONL][Oum;;OHL[;JTxV_N@ntmXhmWuH@nN[JEmWoSVMsTMc]mRVdnD]Slm_qTamAqKBnlmPwLcuYFDIXSAnbHO:LRyVsma]RwMHXOLLaiUnnP[M>=aqLZgaFVu]smPl^OPPynCXQqnkiMRDciM]LX;Y?mZHRLLpXL`m?FTLLhXKZEFiPJ]xXVinIaUQmmaQsnNHNWnqLTnLUXWOmEFOnLuiMS];LLlmWDWzLG[Oln:LYSmX[Q]cN[J?^tLSe=xeJyLCHQXmNXVWdtHOVLZyMVLS[NaL@XKSnOsW`^u[YGM@[XSnUHWhmOVPoD`XXhkGHWgE;aUgEjLRFDrHQdgaKM_LSHPFDrFRqLJVSVDgXMVD<[KymWuVOntXYymyXPJnkcewEwmXwD?iUM<`iQHnhXJYwpFNFD=XWJ^L@ROmAz[?mkKQImfgSqLgeWqMAXRx^@iS>^lmYmDIsYMnrFVhLyHQx]PXK]Dt@Ye^tmPkRhJPn^boN<E;yY?MD_UbnlDVrmMKNQm[__YOLyKTDiyUI]PuMuEK_JImPZSr]ZlV>meaT@EPG:jmMVPEN^uejmGyW:d:XFJch_YlSfAgb][EEVG::;fTZDOJNZI<z_KxNi@Z:ACGHgOYmJ:<boJCSfyQYnLlPPD_w_ZEVDSZ:DwPZDTNSZDweVo]V;Nr]GiMQm<;Kr^iNVaDhVTaEL;OW]un<tO@aVZDpZTkDSwLcctwXom>KUFL_KPHLJI[mDhwYunSmVJntmJB^LRPu^d;JClINQFmskJgmUwMHwNkVcEAwTcEedceJG;NP<VcWcEDdgz^QlYz^HhB:MmcVREnrhO<x]PAwVzjRD;[OREhqKZMh<JNls:??cw::i^NPTvnAv;sDbTRH<LG;sD;[UBMSXKZMS<K<[sCJi^C<Ws]cZBYSNCSEMoCRhxRzbkMVPK?nr;QywsCXVw?oMwn_CPcsmCMP]uIbSxs_Ap:]R]rtRPMinU;Kp=qP:lD>CWLKzaJSn;v@CDNKKKDf;VN]aPJWxOcRmmg<PExPjceKHPRv<tvjn:loK>DncUN:CXJNDuA:lx:AjW<]NB_Daw:fw=CTFEvzcfsMYgI=E>NX]L]U;mw[KDDtoOKDgVLjK@RKl<=kM[<jCTAwD[WX=e[Ok=EPUTmiIgSm@[PGnJyQ_]P]KAnWlS?DMQjiEh]QoEQCUPnz[W[<XkJLDo[O^L;BLLEqsJV<xCLtDJCSKMeKSywXFVCE>CNMmLCKBskiSlma:VvLPHK;Ep[M?DBCY?EdmReKy[S^]iRYgDViWnn]dSSDpRNWF>LJ^MLRXEnsqL?niFL>^jqUDDldMiEVmVH^OXYGmOzaeDBHVhn[uL_SDNRtDXDYrwzKLUmJtGHEfuX<DTaLg]FU:vnclQ@wW>Rj][CQ::<CYd<>lYJ^LdYd=];YpLtlKktYN_?dqSZvnA=Gd;VuKI<`HVL<HaVKEAv:pETDXCEDdVpDPDTpD_PKCE:yNlmJyRuEiuR=Ez]Xm<XuN`mQKQZLECO]EDFPCnfBJYZTXOCnjHV^mFdTe]VBX^meZW;;ELY_EwdR@nqdSi<jYcLne[QWEeSOUMZSKzSwXNn=jeQODeSM^EPiQ^DAKN`EoPD=DueX=D<dKpEgVUmEN?i`D[KQtmjeJGE:iXLE;PX:]NmWDDk[@nEFmJfEcdMGECFQGmVaTeEkHJJ^`dLd^loPhDNdU^^SXMWExiQ]n^KNxEPG>WDHyU<DR:PWD]_YMEHSMhnqNKbneABvDAdUInESJktYN[JsrdMUELZKxDjdVKMIdP><QXNnDOv>vEaKL_nPKSlnwaBYSySJ>s?oK=DpA?=EYiOiDXXPfD>SXHLdTSHLGaRFmoSN=^>yY:<>aL;<i@KEE<SUtE]SLJ=lKLdm<[UnDD[XaMwPIMDzCYxDNtNgDiHUynfiS?DvKLDLXSNEDvHKe^;;JED?K@pEx]PMLJqTEDBmNqnvqSxOdSLymbCUQD;iT?n?SS<nA[UqkviOtmAiMGm`KSfDtgKwE]mNhDGKMwE<QcUDbsJVDGdLGmhdXA<=iKUEfXOOm?JGUDRKKWmvSWTEawVrEMSNInatKvECDPaEjSQPRzSNzDRcBAD`:VAD@wUCLUKMWn;v=rDuXRxm@XQADpA:bD<tXAD^tLccYiKFnotQeEtKQrDYgVuD[tRbE@:Uj]MlQbwmDVi=XdTt=JzgEnf]YE]sqRaLtSTH<Pc=lE_qWdmepIMD?[NxmDdKzRq?JnmIFS?LiCJN:J::AxddMi]y?MlE>?REEDSPIEuHXhE?RW<MdtRLDpGbIEXiUED>qRGmOtKYwO[LfDM<CGn^[PunwLVH^WtN^dpXPAxpKWwEhZTYEBLKYDA[OYDnSUtOUtLWmfgRzE`lSrnmyRB^vSWQnP?KzEseTkfjtOQMPyWvEQdPnGrdRlmZtYfcYdUC=k?Runs?SkfsSXDMPtSkel?LIE_tKzSKaSK]o?PEmF?Stn>XWnER?U=Df>Z_e_tKj<N`RVM?mVbnH<WRe[yR@E@yV@ESlQYDO_UbOe_inGBlXXnEKXiERlQrnw;YeEQSMV<];UhDxmRxET`OW]pa:oeqSdVFlEB:;lyExlh`bXKV<^;Ko<bXK[<`fmDOOLeq<`Kgt@Qhi@E@@OyDF::xEu::Ji]DAI^S:XGbOqS^EOx`Qjn:X@ldTwc:;OamUmimg;sZ::>^<sT::;i]mFc::dtN::UuRRqJ:;eac:;@dPv?tcfT:YRidK@QDByC[[Z;=DCJT<eEA?EDBb?JzDb?OLdM?C:c@OA=ZQ?TgkvtnMEQ?o?NIljGBZObMD>OgLfHyyLcBO:EFcldsiXlNnGIlwb^_?gNDPS=sdPSDNEY?_TBuXxDhz?Gjbz?KZge[J>dcNMb?;ynrpyRLk::N>w:P[KMAP[Sn:usxnHXycegHsaoGv:wIkEKPYr;SVeg]`F_hNsEECzX__gw?_;GasSU@FyL_fg?dkAW?DAoYXzfDtJHoEBRCeikZ;;bGObHrGO_KbGONc_STD_cO>tedcyubnEKYjkcwseeQcANDxOWbmxOQRDxOjRDxOO[DxOI[DxOBoAP[Qq]CS:ro[RTE<v;vej^RG>f<e[ZZu[uJ]KscAkO:ar==g>_=N`u<Iw;da`x[<r_o`zEGcOD]jZ:ArF<KYDiaCwn>?OusDXR<cCG[<k<>yQjkGyxTjaRwTjC;tB`MO:k<ROPTc<KbEmQK<Jft@yZiBk[ZciSB;FU;bDh=ZNJjutZ=_ssh::e?N:AjXjvIulRoht>cbqF:nbrKy<c:dSqIoT;=IoTy]uhPkz;IyOIbqZZMUrUoWSb>Fpa;lyvsFRk:np:ygbllyHro[J]bqASWbpPy:L]QOarl];yueXy[ufwZlui[dsTKwy?rHKyaug_yez_B:<Y][af?<`y:uj?Sj^M`yZJ:OyN:=bO@:@ZOXFfJpFw>Bwds=N:Rk;u;]k@]yFZHal]xIN:wfqJJ`flptZVEYOFLf[CUudPdefr;liVeRdaYnxyrjk@?DodB;XOD@?zudFZ@@cJdkBcVqLufgOT=I<S<c@MlZ:>ItJ:=q;c?<w@StM^wK@=ElMFm;JLUZnaVa]lpT@dJ<TAJKkQ`ESpYHecRNie;z]ieM<;NEXv@CwUpOieWpRyexpKnx`ZCye^pL=xOZTXfnpSXekGKSeBGYXfdX=Gw=I^SwfRNdSGIfle_:IcdmYc`x:hR;fZuP::JGME]rGQiehpM?tcGWElCYeDns[J[eX`i_LRLCJ:gGYlflI`[f?KU[fwGYPSmGRexARTKf<GKKe?qWKeb[OZeV`YKe>zZLLaGP]DwtTlecIileeSSlef=GlfXKP?fI?Pt]khLCekaLg]B@gl]wzg>=mOMBEtIHE;[pQL;KpLXxlpOVmEr^deKdSEmghJSe^pNSeoLTifta@SeGpXtflj`Se[Y``wkhRteQTgtev=DtffpU?eIGJi:ApWtfwYayfzGRmZ^hL?e=pOyfiV<XeqxD;eEhMyeshO;eVP=;e_hVSESYdX=wjD[fxGUdMVhM[e_:A[fHgAwJ]hXZ;]GTexLhQ=fDGJYxDhOGEb[MAE_mLSe@GXH=gaPbMGwV;wqGUGlRdYfEFiYknd?L]G=GXNeWoQpfX`Je:W@Yr^o@ODJ?;j:d[hYIDlhNdftI@o:dhKN:ShYP<thLRDdpVPfc[SDDOhOi=ihXk=^GNC^y]XiffGWxeBGYheUpUSfskISe:GVWfZGPrcnpPWfxZM?ftWXGxIGUieRZVyfVJDyfUIZxfOWQlfjpYMx`WSRdQhUnwZGTo:chWS^WWYMwYhYhgzhR`fypPDmMCKDnohWr:NKaEeT>K=eUHj`eRWPTw]GLOejDPOeEQ[OezqX^fehUkEtSW^euhXdDwWYomNzcMePhVMeHGTMfcHXMe^SQ:]eWM<eTWVCeuWJnfKGRGf[=gZdSGLGfMziu^lhX`;A:=nepsEP<:CKmffaRheLpXymlWXLBCWPn<dWLHmhkWhetWTve?WPc:jGNff[Ydnw^hPxeAWS?fGWLteWWOxfKxYfffhKIf@ZVUfMWQtfQE:?ejpVxezpQUfVDNvei_LveKrave>hYRZ:WY;eYWR[fZWK_MJWX[e]uVAen>TAe<GQ=e>WL<<cxV^fRxScfdWSbEXhWIwNxXZ]@hRID<WV]c]WXL<VxTh]DmYbentOpED:>QfH`QQnmkDQfsOSUn^iKQefgMnRqWNced;RdfKrg@;ekTO=PxXmehGVR;HxLEe;iMrfAH?MfyxKheMGMEeT>HSfEhQhflxRUffWOIevGMIfvWK?fMhKXe`xKWwshPjfq=SuxGxSRcnWMjfAhQjeuYh=xJhRYfrhU<EMxP^wIGUxfvaCvesGWveZWSDnvxRAfL@VzfvRO@:cWJOfRWXTxsWSAf<hTRTNWQT=YxRIewOQKf:=UrMZ=PbeYPQQ=FxTdxPhPIEqhU:TE?Jdt>=YDD=KUMeo=QhD;eSQfH?=ZTWRQQeElJJUfRFre[Z<JTGGT<wCpKredoOrf`hP=fXxUJUyFJIfMGUEfkGTkUpxMyeUWKUeZhXffAWJjfhWOXf;=OWfdZ:NUhjb^wQpXBUhxStSWxJtfxxWIft=QIf^xVqw`=PGwG_j?eIWSYejWL`eUxP`e_[L=fW=YDEx=TZ^QxKRTBxXZ]_WSRTYxLG^sxMcfdiXoEu=NC]VWTO`b=YlnQ=X:TgxS:TqhUbffQhsUV[RQephWMfXhTZUnXN>no=YhD?:Nne?JHnGA?Sf=TxJdfdaYCtp=AYf;_>k;AK[xmv=JtgmpTNC@oAvwXZQmldgMgTFpQT;GkCrhw@IG<XwGQKugX>;Y^XmlDpMpez@Uq[Zu^seywVPwzziPxHrdqZjKN]fPG=c`::GxmZ:A[=DSD::QnW::?nDZ:ArpJj@::PxMVuc:;HYN::uOupVty_yZvBMxj?ib@pELaz@ahQzui>a<eZGuZaxjKMkw>omoZlNi@uy?iLbzt_:dj@z@ihOucgiQPcaOQeDKh:MBeS@Mw`sAr:wY`W:x:<Y:wW`tek>@h:I>qA]<htOjGc<=J:YJA:^f[L_Ee?dvAztBBCR=hjDopWjNn<T]l`@[J[XPn<_wKOekDbBeLOPisQl@;B_FpxexsbDa^Npea]o@xZHs?^wbNrI:fNruabNr@apsPXWOa;QWFM=VDEFqgL?bAU:zoAs^EN?>A:ELz@s=sKauA>RuxpaOayItaaohvsauoq[DvcOGT]gomegOQmasK>Dc`>o?FLgqQ@^>oKav>qusr>p`jLoo>aa_C;ZlbO]TZLm::P;OSnUHTFJK?wqVhZ^fMVWEH`j[xXiKr<NMRqeuIaJf]VMiUCXji^?PW_ElsJuU]oUdcYz`DTg:;qn@iWVE?tM;^tOTGmZnXtEudWNDOOUND]PD?DuKRnD@>Wee=JULDa<L[^mnRglAnW`esiS^epHT;UxlKolJELXDiTf=n;zg;TQnOMEF`UMng`RbfOPByUNKT:UPnL;T`OYHMNca=^>EXn]=w@;TQSVZTURhoB[nUzEzD[f`qxCmT^@Q=MOJOJeY_GqTLENVEviJ=LDEOm^HPAinU^VZn>OYReHAAKT@EJKLkuRm]PuPlTIKVDUfHKrDh^QZnpeXPLTwQZmsr[;]wuN[UULQyUJz^CTjLOhkvqBXTPnLlewFOdT=wIDLE=BY^UDKdTNKUKfSEKt]h^Mrn?EV<eb>Wo]W>Yp:K>UwTQOTeTt?JMDw@<qf;n:bwnnOG<g_I=xK_HZ^rBB?n[dT_T<[Wj^mN>y]obg=chkOXdRfNIfYwV`UmKETe>fXLCvOX@w[xQklFfPGmIEVTe>fOl=ABVBEmNHp]]fON[?>QT]bwMa=zPYy=_MQu;sfM`TLfJK=NbaTe?wI>=afKL[efPOGTBUOT<cX`<bNUsBXMNBZ;rcpT_fVOUR_RoWZlew;vzdGTefMt<yfK]c;fQ@]<=H[=Xr^_BziUwUfOOGU_aRoVQwXOUw]T`TJaEpThnjpUblUlhYwKhUYJUmU]EK`TPfWGTNbjNOHfSrsAfMpT`fXWTOfSWThaN[cUfTGULIBpUgfQ]dHVRoV@PbGUHzF=UUNVhUSU=xTNDgGUGfQWTmnMRZwfRxUxfL_wFO[=UE:QJt_]@WUbJThTTdZ^UUfPGUhfMO[OI[uexnMi^qpJaUyZRTU_nS_E^nYSD]:R?UlvHqe`ELIMM^R`nk`U`D`hQQEx^XMU`sOi<jOOkeGu>yTMu:nE]w:@fpkN@fdUSjKdXSEUGu<G;^HS@eKURe=uIgfE@fPsTJVcET:MXhlqpXgM=EKPmhUUM=HdJf=Y^VETbxKX;H:FhGvzgET:rduKLzgu=^`?::sp@NUlqJpf_v>J<[hBktqULVTQuJr];xFv=YBPA[_UMufEUOHBH:=UUHz=ueTUPw<uUMo<AUQjJbUNZZQUJF:rUTwDaGWvTlBUv=M^RGDL:JV<HGePd]EQufkvWUTtPEUUGu=bE>vPc;_vWLKQUYIfrUPPSjUWK=^tQvUsTP:eSwRQUF:=pp@fOEUkWOUUBvXQUcvSjJ_SMjKAUL[=bUYQTYzjOeavMYJ?J:S=PvOlfqvYc<gBRS<ADFQUGuGcfHEM^xHH:ITcvSR<ZpYUTWYfQUNvNto@vKbUSvT;N?J@RMjMKpf`vYhLJcSxTy?>@;JvQEULvRITwq;QTAf>YUlvUK=CvPbUnvMIUIJOYUuuRjTvvTe<@wOf<<vUt<ucDzTc:>fUyvKAUxvTD<kpMzT_vKITNvOIUA=WG^FvQIUkpNtT`vK:vRXSQmpvUBx_UPfUNEU^DhtXgTU@LfUcEW@f[SRVL<@OZ>uxFKTDASi=WUSlmOUQnEV?P:TBW=@eMlO]f:vVKTipXL=RnSR=KAJemKsNnTU>XTUKnTJllnMTUCx<n]nnTBu?MTO_Z?VcfKdJkUldYrx_pKcf@fMKeSEXvUm:LeD?dMfE`gXpfrBGeEazZtp@fUeExAX]ThqQcuB[AReKnRqUIMMo=F=Kks@IFlsqI=UD^>c><f=;ALuwRpUFpSYlB=^dURyfqe:r`XTKXSHmu:YW[oP:LFrc]PlXpV=]SeS>Uw=OXDEwYFnjNJcDs:>cDOaYW[paNlM?UFAN@OOcDNcXNv`U<mfNFALsyWV:MGGN_Tk<UwnZuiDfZIfqeaoY@DbaVxwCCQCDOvDefLCKq^_`JFvIv@FuY<Wq^w?WyxPA<ztAOJi^waHh=ls;X:HbV]d`bO=GbjZSEiYhywtbJe;DpP>LRY?t=>BW[xpCWmmD:DJ^PAWHfmSMIRoMSEeUPV_eXFRISLXYVuOv;SEXKDpEqP<`Ta=MheP=Kg`jBLIfK=YNTMWQhwT[Uq=xbLWwybKBsSh^BT>y><vtjj@Df<X<vGI`FvcQUWe@^S<uIvEguhbP`wiB@SwRQU^xSji]vgQJ:c_QPP^pbMXwq^QSedbOq<ojff=DQLffeQQxw?jFAdwQUyfHY]]vNjhmZGOIkSPQNNTHQLnwWjFAd`xPYeBGS[wdjZ<vujdkT@QY@D]oR^xpDU>`XQODuJQO:eaQK`?uQVeuCA?q<tQTW=pQK]vBACmu@x=I=WQYmu?JGeuPQJWeDYjZfSCPxwYI`f=^QOZsIbNh=MQKdwpQRev:YhFuUQXRRpOITuIQVuu@x@eufxScTo]PFTF]UVvlATD=DpOBuvCRM=zJRrcwze><zMKLDlJP]U][TARBbQqfbnJSmT[TauQbVkfVrKNEeQRwucQVSnmQMauU@XLve[Ogum`R>]rbX?E_rXouP[WjTPKXumNrOoE_SJTL_bUVuqbWiKJCLEDiXPD=obO>uU@M>vXANpfHrXovHbXavtmYkmsmOALdbRqvGtWKLBEYFLXbPqvaGKPnlrMqv]PRISHnTe=M@S<fzAC=EynYMLT[QlTmiYMf=qK<EvtV`SR?@xRQE=<DexHdMaVMS]KcIqL=eVr]c?NsvXIc`L_@XOmF=JWDg=YlSSnMmSzSN:fZ`L:fosQ@LgsQZEaSOyvVrMbEdyXQe:IKktnVPSRArXdM`ALyusmNLTRILjRGtO_e;GYuDjTT<vyhQsfTuRiU[aFiU@zDiTHyRrLw@Wg=wmVAE=wVmvq`KzRhvRivWiRaDbbTKvxVYtOgfH[ubrOZDDTMf<VIKyv]rVXvjrK_n>ISXv_ITld::HqDZ:>powvbTe:BAhuGMAVigB@]XwEkYHZd]NqhnARixm`l_wDpTHbAbggPSrZmlcOMH]mQ?us^q=qTmNr@wxpBXg^qfW=r?jDl@mTSV^DRqK>AsqRSQoq:MqRX]bQyHVnqCDanoRasEqL_FjNmXtnq]ctMpP@Lm?eRxL`IRjuPWFNhriLn[r`i^^:@qxhqUsnWpE:MIudXuWqAs]xOKo]hrdX[bbfHzVPtXZZ_dXnErR]wo_Lacd?OiecP[X_xpGXcJ?;@jdPXms_oFHXdPgnGaSGDrgPc<c?QSkl>`O:lEbxBunpB@kMOOeXnqMTQxonwbyOXmq]odlPEqeXvd>P@IItpuELbpunbNA:B::".charCodeAt(O++))?B-59:B-58),J|=(0<(B&(N/=2))?1:0)<<C,++C}for(var Z,J,C,R,B,E=[],S=1,d=3,e=1,K=[],N=0,O=0;;){if(D(e+1),2==J)return K.join("");-2&(R=J)||(D(8*J+8),E[R=d++]=String.fromCharCode(J),--S||(S=2<<e++)),K.push(R=E[R]||Z+Z[0]),Z&&(E[d++]=Z+R[0],--S||(S=2<<e++)),Z=R}}());
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            return e.call(this) || this
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        t.prototype._initEvents = function() {},
+        t.prototype._removeEvents = function() {},
+        t.prototype.UpdateAll = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e = this;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return [4, this.UpdateView()];
+                    case 1:
+                        return t.sent(),
+                        [4, this.playTweens()];
+                    case 2:
+                        return t.sent(),
+                        [2, Promise.resolve().then(function() {
+                            e.completeCallBack()
+                        })]
+                    }
+                })
+            })
+        },
+        t.prototype.UpdateView = function() {
+            return Promise.resolve()
+        },
+        t.prototype.playTweens = function() {
+            return Promise.resolve()
+        },
+        t.prototype.clearTweens = function() {},
+        t.prototype.completeCallBack = function() {},
+        t.prototype.AKeyFuncction = function() {
+            return Promise.resolve()
+        },
+        t.prototype.destroy = function() {
+            this.clearTweens(),
+            this._removeEvents(),
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (BaseModule);
+    e.BaseView = t,
+    __reflect(t.prototype, "oneKeyTheBest.BaseView", ["oneKeyTheBest.IView"])
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = OnekeythebestViewBasicinfoSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this._initEvents()
+        },
+        t.prototype._initEvents = function() {},
+        t.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        t.prototype.UpdateView = function() {
+            for (var e = 0; 6 > e; e++) this["item_" + e].setData(e);
+            return Promise.resolve()
+        },
+        t.prototype._onTouchTapItem = function(e) {
+            var t = e.item,
+            n = {};
+            n.id = t.id,
+            tipsPop.TipsPop.openItemPop(n)
+        },
+        t.prototype.hide = function() {
+            e.prototype.hide.call(this),
+            this.clearTweens()
+        },
+        t.prototype.playTweens = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    return [2, Promise.resolve()]
+                })
+            })
+        },
+        t.prototype.clearTweens = function() {},
+        t.prototype.completeCallBack = function() {},
+        t.prototype._onTouchImageButton = function(e) {
+            switch (e.currentTarget) {}
+        },
+        t.prototype.destroy = function() {
+            this._removeEvents(),
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (e.BaseView);
+    e.BasicinfoView = t,
+    __reflect(t.prototype, "oneKeyTheBest.BasicinfoView")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            return null !== e && e.apply(this, arguments) || this
+        }
+        return __extends(t, e),
+        t.event_change_selecetd_id = "event_change_selecetd_id",
+        t.event_udpdate_Score = "event_udpdate_Score",
+        t.event_udpdate_Money = "event_udpdate_Money",
+        t.event_udpdate_PetInfo = "event_udpdate_PetInfo",
+        t
+    } (egret.EventDispatcher);
+    e.OnekeyEvent = t,
+    __reflect(t.prototype, "oneKeyTheBest.OnekeyEvent")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n(n) {
+            var i = t.call(this) || this;
+            return i._curTab = 0,
+            i.allPets = [],
+            i._getPetNum = {},
+            i.currPetId = 0,
+            i._info = e.DataManger.getInstance().curPetInfo = n,
+            i.skinName = OnekeythebestSkin,
+            i
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            var n = this;
+            t.prototype.childrenCreated.call(this),
+            this.rbg_tab = this.rb_0.group,
+            this._curTab = this.rbg_tab.selectedValue = 0,
+            this.rbg_tab.addEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            this.basicinfoView.hide(),
+            this._viewList = [this.basicinfoView, this.talentView, this.natureView, this.studyView, this.effectView, this.hpView, this.scoreView],
+            this.hieAllView(),
+            this.initView(),
+            this._initEvents(),
+            this.updateView(),
+            e.DataManger.getInstance().initData().then(function() {
+                var t = 0;
+                n.data && (t = n.data),
+                e.DataManger.getInstance().setConfigId(t)
+            })
+        },
+        n.prototype.initView = function() {
+            var t = e.DataManger.getInstance().curPetInfo;
+            this.showPetAnimate(),
+            this.tx_pet_name.text = PetXMLInfo.getName(t.id),
+            this.imge_icon_0.source = ClientConfig.getItemIcon(1),
+            this.imge_icon_1.source = ClientConfig.getItemIcon(5),
+            this.pet_info.touchEnabled = this.pet_info.touchChildren = !1,
+            this.tx_alert.touchEnabled = !1,
+            this.imge_flag_0.touchEnabled = !1,
+            this.imge_flag_0_2.touchEnabled = !1,
+            this.tx_num_0.text = String(MainManager.actorInfo.coins),
+            this.tx_num_1.text = String(0)
+        },
+        n.prototype._initEvents = function() {
+            var t = this;
+            ImageButtonUtil.add(this.imge_icon_0,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 1
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.imge_icon_1,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: 5
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btn_close, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.imge_btn_add_item, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.akeyjipin, this._onTouchImageButton, this),
+            this._rect.addEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouch, this),
+            e.DataManger.getInstance().addEventListener(e.OnekeyEvent.event_change_selecetd_id, this.onChangeView, this),
+            e.DataManger.getInstance().addEventListener(e.OnekeyEvent.event_udpdate_Money, this.onUpdateMoney, this),
+            e.DataManger.getInstance().addEventListener(e.OnekeyEvent.event_udpdate_PetInfo, this.onUpdatePetInfo, this),
+            e.DataManger.getInstance().updateMoney(),
+            EventManager.addEventListener(RobotEvent.SEERDOU_CHANGE_EVENT,
+            function() {
+                t.tx_num_0.text = String(MainManager.actorInfo.coins)
+            },
+            this)
+        },
+        n.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this),
+            this._rect.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouch, this),
+            e.DataManger.getInstance().removeEventListener("event_change_selecetd_id", this.onChangeView, this)
+        },
+        n.prototype.onTouchBegin = function(e) {
+            var t = e.target;
+            BubblerManager.getInstance().showText(t.name)
+        },
+        n.prototype._onTouchImageButton = function(t) {
+            switch (t.currentTarget) {
+            case this.btn_close:
+                this.onClose();
+                break;
+            case this.imge_btn_add_item:
+                if (GameInfo.isChecking) return;
+                BubblerManager.getInstance().showText("暂未开放，敬请期待");
+                break;
+            case this.akeyjipin:
+                if (0 == e.DataManger.getInstance().currentSelectedId) {
+                    var n = {
+                        petInfo: e.DataManger.getInstance().curPetInfo,
+                        fun: this.oncallBack,
+                        caller: this
+                    };
+                    ModuleManager.showModule("oneKeyTheBestPop", ["one_key_the_best_pop"], n, null, AppDoStyle.NULL)
+                } else if (1 == e.DataManger.getInstance().currentSelectedId) {
+                    if (!e.DataManger.getInstance().getIsOpen()) return;
+                    var i = this._viewList[this._curTab];
+                    i.AKeyFuncction()
+                } else if (3 == e.DataManger.getInstance().currentSelectedId) {
+                    if (!e.DataManger.getInstance().getIsOpen()) return;
+                    var o = this._viewList[this._curTab];
+                    o.AKeyFuncction()
+                }
+            }
+        },
+        n.prototype.oncallBack = function(t) {
+            if (null != t) {
+                e.DataManger.getInstance().curPetInfo = t;
+                var n = this._viewList[this._curTab];
+                n && n.UpdateView()
+            }
+        },
+        n.prototype.onTouch = function() {
+            this.onClose()
+        },
+        n.prototype.hieAllView = function() {
+            for (var e = 0,
+            t = this._viewList; e < t.length; e++) {
+                var n = t[e];
+                n.hide()
+            }
+        },
+        n.prototype.onChangeTab = function() {
+            this._curTab = ~~this.rbg_tab.selectedValue,
+            e.DataManger.getInstance().setConfigId(this._curTab)
+        },
+        n.prototype.onChangeView = function(e) {
+            this._curTab = this.rbg_tab.selectedValue = e.data,
+            this.UpdateTitle(),
+            this._onShowView()
+        },
+        n.prototype.updateView = function() {},
+        n.prototype.reShow = function() {
+            this.showPetAnimate()
+        },
+        n.prototype.UpdateTitle = function() {
+            var t = e.DataManger.getInstance().akeyBtnStateArr;
+            "" != t[e.DataManger.getInstance().currentSelectedId] ? (this.akeyjipin.visible = !0, this.txtLabel_akey_0.text = t[e.DataManger.getInstance().currentSelectedId]) : this.akeyjipin.visible = !1
+        },
+        n.prototype.onUpdateMoney = function(e) {
+            var t = e.data;
+            this.tx_num_0.text = String(MainManager.actorInfo.coins),
+            this.tx_num_1.text = String(t)
+        },
+        n.prototype.onUpdatePetInfo = function(e) {
+            this._onShowView()
+        },
+        n.prototype._onShowView = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return this.hieAllView(),
+                        e = this._viewList[this._curTab],
+                        [4, e.UpdateView()];
+                    case 1:
+                        return t.sent(),
+                        e.show(),
+                        [4, e.playTweens()];
+                    case 2:
+                        return t.sent(),
+                        e.completeCallBack(),
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        n.prototype.destroy = function() {
+            this._removeEvents(),
+            this.basicinfoView.destroy(),
+            this.talentView.destroy(),
+            this.natureView.destroy(),
+            this.studyView.destroy(),
+            this.effectView.destroy(),
+            this.hpView.destroy(),
+            this.scoreView.destroy(),
+            t.prototype.destroy.call(this),
+            this.rbg_tab.removeEventListener(egret.Event.CHANGE, this.onChangeTab, this),
+            AwardManager.resume(),
+            e.DataManger.getInstance().setConfigId( - 1),
+            e.DataManger.getInstance().ClearBindViewInstance()
+        },
+        n.prototype.showPetAnimate = function() {
+            if (CjsUtil.GetShowPetMovieClip(CjsUtil.GetShowPetId()).then(function(e) {
+                CjsUtil.removeAnimate(e)
+            }), this.pet.removeChildren(), CjsUtil.setContainer(this.pet), this._info) {
+                CjsUtil.disposePetCls(this.currPetId),
+                this.currPetId = this._info.id,
+                CjsUtil.init(),
+                CjsUtil.setContainer(this.pet);
+                var e = this._info.id;
+                this._info.skinId > 0 && (e = PetSkinXMLInfo.getSkinInfo(this._info.skinId).skinPetId),
+                this.currPetId = e,
+                CjsUtil.GetShowPetMovieClip(e).then(function(t) {
+                    CjsUtil.showAnimate(t);
+                    var n = PetXMLInfo.getPetOffset(e);
+                    t && (t.regX = n.x, t.regY = n.y)
+                })
+            }
+        },
+        n
+    } (BaseModule);
+    e.OneKeyTheBest = t,
+    __reflect(t.prototype, "oneKeyTheBest.OneKeyTheBest")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e._btnTxArr = ["提升等级", "提升天赋", "更换性格", "提升学习力", "养成特性", "提升体力"],
+            e._titileTxArr = ["等级", "天赋", "性格", "学习力", "特性", "体力"],
+            e.skinName = BasicInfoItemSkin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.setData = function(t) {
+            this._curIndex = t,
+            this._info = e.DataManger.getInstance().curPetInfo,
+            "1" == this.currentState.split("_")[1] ? this.progress_item.value = 0 : "2" == this.currentState.split("_")[1],
+            this.txtLabel.text = this._btnTxArr[this._curIndex],
+            this.updateView(this._info)
+        },
+        n.prototype.childrenCreated = function() {
+            this._initEvents()
+        },
+        n.prototype._initEvents = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btn,
+            function() {
+                0 == t._curIndex ? (ModuleManager.hideAllModule(), ModuleManager.hideModule("petBag"), ModuleManager.hideModule("oneKeyTheBest"), ModuleManager.showModule("pveExpTraining", ["pveExpTraining"])) : e.DataManger.getInstance().setConfigId(t._curIndex)
+            },
+            this)
+        },
+        n.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        n.prototype.updateView = function(e) {
+            if (void 0 === e && (e = null), this._info = e, this.imge_icon.source = "onekeythebest_view_basicinfo_imge_icon_" + this._curIndex + "_png", "1" == this.currentState.split("_")[1]) if (5 != this._curIndex) {
+                var t = [this._info.level, this._info.dv, 0, this._info.totalEv, 0, 0],
+                n = [100, 31, 0, 510, 0, 510],
+                i = t[this._curIndex];
+                this.tx_num.text = String(i) + "/" + n[this._curIndex],
+                this.tx_title.text = this._titileTxArr[this._curIndex] + "：",
+                this.setFlag(),
+                this.progress_item.minimum = 0,
+                this.progress_item.maximum = n[this._curIndex],
+                this.progress_item.value = i
+            } else this.tx_title.text = this._titileTxArr[this._curIndex] + "：",
+            this.getHpAdd();
+            else if ("2" == this.currentState.split("_")[1]) this.tx_num_2.text = NatureXMLInfo.getName(this._info.nature),
+            this.tx_desc.text = NatureXMLInfo.getDes(this._info.nature),
+            this.setFlag();
+            else {
+                var o = this.getPetEffect();
+                if (o) {
+                    var r = PetEffectXMLInfo.getEffect(o.effectID, o.args),
+                    _ = PetEffectXMLInfo.getStarLevel(o.effectID, o.args);
+                    this.tx_num_3.text = r + " " + _ + "星"
+                } else this.tx_num_3.text = "无";
+                this.setFlag()
+            }
+        },
+        n.prototype.playTweens = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return e = this.progress_item.value,
+                        this._progressValue = 0,
+                        this.progress_item.value = 0,
+                        [4, common.TweenUtil.TweenToPromise(egret.Tween.get(this).to({
+                            progressValue: e
+                        },
+                        500, egret.Ease.quadOut))];
+                    case 1:
+                        return t.sent(),
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        Object.defineProperty(n.prototype, "progressValue", {
+            get: function() {
+                return this._progressValue
+            },
+            set: function(e) {
+                this._progressValue = e,
+                this.progress_item.value = e,
+                this.tx_num.text = Math.floor(e) + "%"
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        n.prototype.setFlag = function() {
+            2 == this.getFlagFrame(this._curIndex) || 3 == this.getFlagFrame(this._curIndex) ? this.imge_flag.source = "onekeythebest_view_basicinfo_imge_flag_2_png": this.imge_flag.source = "onekeythebest_view_basicinfo_imge_flag_" + this.getFlagFrame(this._curIndex) + "_png"
+        },
+        n.prototype.getFlagFrame = function(e) {
+            switch (e) {
+            case 0:
+                if (100 == this._info.level) return 5;
+                if (this._info.level > 75) return 4;
+                if (this._info.level > 50) return 3;
+                if (this._info.level > 25) return 2;
+                if (this._info.level <= 25) return 1;
+                break;
+            case 1:
+                if (31 == this._info.dv) return 5;
+                if (this._info.dv > 24) return 4;
+                if (this._info.dv > 15) return 3;
+                if (this._info.dv > 7) return 2;
+                if (this._info.dv <= 7) return 1;
+                break;
+            case 2:
+                var t, n = PetXMLInfo.getAllEvById(this._info.id);
+                t = n[1] >= n[3] ? 1 : 2;
+                var i, o, r = [20, 21, 22, 23, 24],
+                _ = [17, 19];
+                if (1 == t ? (i = [1, 18], o = [4, 8, 12, 16]) : (i = [8, 16], o = [1, 18, 5, 14]), -1 != i.indexOf(this._info.nature)) return 5;
+                if ( - 1 != _.indexOf(this._info.nature)) return 4;
+                if ( - 1 != r.indexOf(this._info.nature)) return 3;
+                if ( - 1 != o.indexOf(this._info.nature)) return 1;
+                if ( - 1 == i.indexOf(this._info.nature) && -1 == _.indexOf(this._info.nature) && -1 == r.indexOf(this._info.nature) && -1 == o.indexOf(this._info.nature)) return 2;
+                break;
+            case 3:
+                if (510 == this._info.totalEv) return 5;
+                if (this._info.totalEv > 379) return 4;
+                if (this._info.totalEv > 256) return 3;
+                if (this._info.totalEv > 128) return 2;
+                if (this._info.totalEv <= 128) return 1;
+                break;
+            case 4:
+                var s, a, u = PetXMLInfo.getAllEvById(this._info.id);
+                a = [7, 32, 151, 30, 146, 3, 29, 65],
+                s = u[1] >= u[3] ? 1 : 2;
+                var c = this.getPetEffect();
+                if (c) {
+                    if ( - 1 != a.indexOf(c.effectID)) {
+                        if (65 == c.effectID) {
+                            var h = PetEffectXMLInfo.getEffect(c.effectID, c.args);
+                            if (1 == s && "精神" == h) return 1;
+                            if (2 == s && "强袭" == h) return 1
+                        }
+                        var l = PetEffectXMLInfo.getStarLevel(c.effectID, c.args);
+                        return l + 2 > 5 ? 5 : l + 2
+                    }
+                    return 1
+                }
+                if (null == c) return 1;
+                break;
+            case 5:
+                if (this.hpAdd >= 20) return 5;
+                if (this.hpAdd > 14) return 4;
+                if (this.hpAdd > 9) return 3;
+                if (this.hpAdd > 4) return 2;
+                if (this.hpAdd <= 4) return 1
+            }
+            return 0
+        },
+        n.prototype.getPetEffect = function() {
+            for (var e, t = 0; t < this._info.effectList.length; t++) {
+                var n = this._info.effectList[t];
+                if (177 != n.effectID && 1 == n.status) {
+                    var i = PetEffectXMLInfo.getEffect(n.effectID, n.args);
+                    if (i.length <= "这四个字".length) {
+                        e = n;
+                        break
+                    }
+                }
+            }
+            return e
+        },
+        n.prototype.getHpAdd = function() {
+            var e = this;
+            SocketConnection.sendWithCallback(CommandID.JAMES_ARMOR_QUERY_ABIBLITY,
+            function(t) {
+                var n = t.data;
+                n.position = 0,
+                e.hpAdd = n.readUnsignedInt();
+                var i = e.hpAdd;
+                e.tx_num.text = String(i),
+                e.setFlag(),
+                e.progress_item.minimum = 0,
+                e.progress_item.maximum = 20,
+                e.progress_item.value = i
+            },
+            this._info.catchTime)
+        },
+        n.prototype.destroy = function() {
+            this._removeEvents(),
+            this._info = null,
+            t.prototype.destroy.call(this)
+        },
+        n
+    } (BaseModule);
+    e.BasicInfoItem = t,
+    __reflect(t.prototype, "oneKeyTheBest.BasicInfoItem")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n(n) {
+            var i = t.call(this) || this;
+            return i.strArr_1 = [["此次精灵天赋的普通养成使", "", "的天赋由", "", "变为", ""], ["此次精灵天赋的高级养成使", "", "的天赋由", "", "变为", ""], ["此次精灵天赋的超级养成使", "", "的天赋由", "", "变为", ""]],
+            i.strArr_2 = [["此次精灵性格的普通养成使", "", "的性格由", "", "变为", ""], ["此次精灵性格的高级养成使", "", "的性格由", "", "变为", ""], ["此次精灵性格的超级养成使", "", "的性格由", "", "变为", ""]],
+            i.strArr_4 = [["此次精灵特性的普通养成使", "", "的特性由", "", "变为", ""], ["此次精灵特性的高级养成使", "", "的特性由", "", "变为", ""], ["此次精灵特性的超级养成使", "", "的特性由", "", "变为", ""], ["此次精灵特性的普通变更使", "", "的特性由", "", "变为", ""], ["此次精灵特性的高级变更使", "", "的特性由", "", "变为", ""], ["此次精灵特性的超级变更使", "", "的特性由", "", "变为", ""]],
+            i.strArr_5 = [["此次精灵体力的普通养成使", "", "的体力由", "", "变为", ""], ["此次精灵体力的高级养成使", "", "的体力由", "", "变为", ""], ["此次精灵体力的超级养成使", "", "的体力由", "", "变为", ""]],
+            i.strArr_6 = [["你成功兑换了提升精灵天赋1点！", "", "的天赋变为", ""], ["你成功兑换了更换1次精灵性格！", "", "的性格变为", ""], ["你成功兑换了添加1次精灵特性", "", "的特性由变为", ""], ["你成功兑换了更换1次精灵特性", "", "的特性由变为", ""]],
+            i.skinName = "OnekeythebestPopAlertSkin",
+            i._petInfo = e.DataManger.getInstance().curPetInfo,
+            i._oldValue = n.oldValue,
+            i._newValue = n.newValue,
+            i._popupType = n.popupType,
+            i
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            var t = this;
+            ImageButtonUtil.add(this.imge_close, this.hide, this);
+            var n = e.DataManger.getInstance().currentSelectedId;
+            switch (n) {
+            case 0:
+                if (GameInfo.isChecking) return;
+                BubblerManager.getInstance().showText("暂未开放，敬请期待");
+                break;
+            case 1:
+            case 2:
+            case 4:
+            case 5:
+                this.currentState = "state_1",
+                this.tx_desc_0.text = this["strArr_" + n][this._popupType - 1][0],
+                this.tx_desc_1.text = PetXMLInfo.getName(this._petInfo.id),
+                this.tx_desc_2.text = this["strArr_" + n][this._popupType - 1][2],
+                this.tx_desc_3.text = this._oldValue,
+                this.tx_desc_4.text = this["strArr_" + n][this._popupType - 1][4],
+                this.tx_desc_5.text = this._newValue,
+                e.DataManger.getInstance().updateScore().then(function(e) {
+                    t.tx_score.text = String(e)
+                }),
+                e.DataManger.getInstance().score >= 60 ? this.tx_get_score.text = "0": this.tx_get_score.text = "1";
+                break;
+            case 6:
+                this.currentState = "state_2",
+                this.tx_desc_0.text = this["strArr_" + n][this._popupType - 1][0],
+                this.tx_desc_1.text = PetXMLInfo.getName(this._petInfo.id),
+                this.tx_desc_2.text = this["strArr_" + n][this._popupType - 1][2],
+                this.tx_desc_5.text = this._newValue,
+                e.DataManger.getInstance().updateScore().then(function(e) {
+                    t.tx_score.text = String(e)
+                })
+            }
+        },
+        n.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            t.prototype.destroy.call(this)
+        },
+        n
+    } (PopView);
+    e.AlertPop = t,
+    __reflect(t.prototype, "oneKeyTheBest.AlertPop")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e._isOpen = !1,
+            e.akeyBtnStateArr = ["一键超级极品", "一键满天赋", "", "一键满学习力", "", "", ""],
+            e
+        }
+        return __extends(n, t),
+        n.getInstance = function() {
+            return this._instance || (n._instance = new n),
+            n._instance
+        },
+        n.prototype.UpdateCurPetInfo = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t;
+                return __generator(this,
+                function(n) {
+                    switch (n.label) {
+                    case 0:
+                        return t = this,
+                        [4, PetManager.UpdateBagPetInfoAsynce(this._curPetInfo.catchTime)];
+                    case 1:
+                        return t._curPetInfo = n.sent(),
+                        [4, this.dispatchEventWith(e.OnekeyEvent.event_udpdate_PetInfo, !1, this._curPetInfo)];
+                    case 2:
+                        return n.sent(),
+                        [2, Promise.resolve(this._curPetInfo)]
+                    }
+                })
+            })
+        },
+        n.prototype.initData = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return e = this,
+                        [4, KTool.getMultiValueAsync([13141, 13142, 13144, 13145, 13143, 3226, 3227, 3228])];
+                    case 1:
+                        return e.values = t.sent(),
+                        this.setfreeTimes(),
+                        this._score = this.values[5],
+                        [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        n.prototype.setConfigId = function(t, n) {
+            void 0 === n && (n = !0),
+            this._currentSelectedId != t && (this._currentSelectedId = t, n && this.dispatchEventWith(e.OnekeyEvent.event_change_selecetd_id, !1, t))
+        },
+        n.prototype.updateScore = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return [4, KTool.getMultiValueAsync([3226])];
+                    case 1:
+                        return e = t.sent(),
+                        this._score = e[0],
+                        [2, Promise.resolve(this._score)]
+                    }
+                })
+            })
+        },
+        n.prototype.updateMoney = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    return [2, Promise.resolve()]
+                })
+            })
+        },
+        Object.defineProperty(n.prototype, "currentSelectedId", {
+            get: function() {
+                return this._currentSelectedId
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        n.prototype.BindViewInstance = function(e) {
+            this._viewIns = e
+        },
+        n.prototype.ClearBindViewInstance = function() {
+            this._viewIns = null
+        },
+        Object.defineProperty(n.prototype, "curPetInfo", {
+            get: function() {
+                return this._curPetInfo
+            },
+            set: function(e) {
+                this._curPetInfo = e
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(n.prototype, "diamondNum", {
+            get: function() {
+                return this._diamondNum
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(n.prototype, "score", {
+            get: function() {
+                return this._score
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        n.prototype.setfreeTimes = function() {
+            MainManager.actorInfo.isVip ? (this._freeTimes_talent = 3 - this.values[0], this._freeTimes_nature = 2 - this.values[1]) : (this._freeTimes_talent = 2 - this.values[0], this._freeTimes_nature = 1 - this.values[1]),
+            this._freeTimes_effect_0 = 1 - this.values[2],
+            this._freeTimes_effect_1 = 1 - this.values[3],
+            this._freeTimes_hp = 2 - this.values[4]
+        },
+        Object.defineProperty(n.prototype, "freeTimes_talent", {
+            get: function() {
+                return this._freeTimes_talent
+            },
+            set: function(e) {
+                this._freeTimes_talent = e
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(n.prototype, "freeTimes_nature", {
+            get: function() {
+                return this._freeTimes_nature
+            },
+            set: function(e) {
+                this._freeTimes_nature = e
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(n.prototype, "freeTimes_effect_0", {
+            get: function() {
+                return this._freeTimes_effect_0
+            },
+            set: function(e) {
+                this._freeTimes_effect_0 = e
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(n.prototype, "freeTimes_effect_1", {
+            get: function() {
+                return this._freeTimes_effect_1
+            },
+            set: function(e) {
+                this._freeTimes_effect_1 = e
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        Object.defineProperty(n.prototype, "freeTimes_hp", {
+            get: function() {
+                return this._freeTimes_hp
+            },
+            set: function(e) {
+                this._freeTimes_hp = e
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        n.prototype.getIsOpen = function() {
+            return PayManager.canPay() || GameInfo.isChecking || BubblerManager.getInstance().showText("暂未开放，敬请期待"),
+            PayManager.canPay()
+        },
+        n
+    } (egret.EventDispatcher);
+    e.DataManger = t,
+    __reflect(t.prototype, "oneKeyTheBest.DataManger")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e.TABID = 5,
+            e.CHANCE = [10, 15, 22, 25, 35, 45, 70, 100],
+            e.skinName = OnekeythebestViewEffectSkin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this._initEvents()
+        },
+        n.prototype._initEvents = function() {
+            ImageButtonUtil.add(this.btn_0_0, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_0_1, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_1_0, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_1_1, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_2_0, this._onTouchImageButton, this)
+        },
+        n.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        n.prototype.UpdateView = function() {
+            this._info = e.DataManger.getInstance().curPetInfo,
+            e.DataManger.getInstance().updateScore(),
+            this.diamondNum = e.DataManger.getInstance().diamondNum;
+            var t;
+            if (this._info) if (t = this.getPetEffect()) {
+                var n = PetEffectXMLInfo.getEffect(t.effectID, t.args),
+                i = PetEffectXMLInfo.getStarLevel(t.effectID, t.args);
+                this.tx_num.text = n + " " + i + "星";
+                var o = PetEffectXMLInfo.getIntros(n).getValue(i);
+                this.tx_desc.text = o
+            } else this.tx_num.text = "无",
+            this.tx_desc.text = "无";
+            else this.tx_num.text = "??",
+            this.tx_desc.text = "??";
+            if (null != this._oldPetEffectInfo) {
+                t = this.getPetEffect();
+                var r;
+                t && (r = PetEffectXMLInfo.getEffect(t.effectID, t.args));
+                var _;
+                _ = 999999 == this._oldPetEffectInfo.effectID ? "无": PetEffectXMLInfo.getEffect(this._oldPetEffectInfo.effectID, this._oldPetEffectInfo.args),
+                PopViewManager.getInstance().openView(new e.AlertPop({
+                    popupType: this.popupType,
+                    oldValue: _,
+                    newValue: r
+                })),
+                this._oldPetEffectInfo = null
+            } else StatLogger.log("精灵养成系统", "打开精灵特性标签页", "2015运营活动");
+            return Promise.resolve()
+        },
+        n.prototype._onTouchTapItem = function(e) {
+            var t = e.item,
+            n = {};
+            n.id = t.id,
+            tipsPop.TipsPop.openItemPop(n)
+        },
+        n.prototype.hide = function() {
+            t.prototype.hide.call(this),
+            this.clearTweens()
+        },
+        n.prototype.playTweens = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    return [2, Promise.resolve()]
+                })
+            })
+        },
+        n.prototype.clearTweens = function() {},
+        n.prototype.completeCallBack = function() {},
+        n.prototype._onTouchImageButton = function(e) {
+            switch (e.currentTarget) {
+            case this.btn_0_0:
+                this.doTry(1),
+                StatLogger.log("精灵养成系统", "点击精灵特性普通添加", "2015运营活动");
+                break;
+            case this.btn_0_1:
+                StatLogger.log("精灵养成系统", "点击精灵特性高级添加", "2015运营活动"),
+                this.doTry(2);
+                break;
+            case this.btn_1_0:
+                this.doTry(3),
+                StatLogger.log("精灵养成系统", "点击精灵特性普通变更", "2015运营活动");
+                break;
+            case this.btn_1_1:
+                this.doTry(4),
+                StatLogger.log("精灵养成系统", "点击精灵特性高级变更", "2015运营活动");
+                break;
+            case this.btn_2_0:
+                StatLogger.log("精灵养成系统", "点击前往梦幻空间", "2015运营活动"),
+                ModuleManager.hideModule("oneKeyTheBest.OneKeyTheBest")
+            }
+        },
+        n.prototype.doTry = function(t) {
+            var n = this;
+            if (this._index = t, 0 == MainManager.actorInfo.isVip) return void Alarm.show("只有VIP用户才能使用此功能哦！");
+            if (null == this._info) return void Alarm.show("请先选中一只精灵！");
+            var i = this.getPetEffect();
+            switch (t) {
+            case 1:
+                i ? Alarm.show("这个精灵已经有特性了，不能添加！") : e.DataManger.getInstance().freeTimes_effect_0 <= 0 ? Alarm.show("今天的普通添加次数已经用完！") : MainManager.actorInfo.isVip && MainManager.actorInfo.coins < 3e5 ? BubblerManager.getInstance().showText("每次进行普通添加需要<font color='#ff0000'>300000</font>赛尔豆，你的赛尔豆不足。", !0) : (this.popupType = 1, this.showNoraml(1));
+                break;
+            case 2:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                i ? Alarm.show("这个精灵已经有特性了，不能添加！") : this.diamondNum < 30 ? BubblerManager.getInstance().showText("每次进行高级添加需要<font color='#ff0000'>30钻石</font>，你的钻石不足。", !0) : Alert.show(" 是否确认消耗<font color='#ff0000'>30钻石</font>进行1次高级添加？必定使其获得1个特性",
+                function() {
+                    KTool.buyProductByCallback(242031, 1,
+                    function() {
+                        n.popupType = 2,
+                        n.sendCmd()
+                    },
+                    null, null, !0)
+                });
+                break;
+            case 3:
+                null == i ? Alarm.show("这个精灵还没有特性了，不能变更！") : e.DataManger.getInstance().freeTimes_effect_1 <= 0 ? Alarm.show("今天的普通变更次数已经用完！") : MainManager.actorInfo.isVip && MainManager.actorInfo.coins < 25e4 ? BubblerManager.getInstance().showText("每次特性普通变更需要<font color='#ff0000'>250000</font>，你的赛尔豆不足。", !0) : (this.popupType = 4, this.showNoraml(2));
+                break;
+            case 4:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                null == i ? Alarm.show("这个精灵还没有特性了，不能变更！") : this.diamondNum < 25 ? BubblerManager.getInstance().showText("每次进行高级变更需要<font color='#ff0000'>25钻石</font>，你的钻石不足。", !0) : Alert.show("是否确认消耗<font color='#ff0000'>25钻石</font>进行1次高级变更？必定使其变更1个新特性",
+                function() {
+                    KTool.buyProductByCallback(242032, 1,
+                    function() {
+                        n.popupType = 5,
+                        n.sendCmd()
+                    },
+                    null, null, !0)
+                })
+            }
+        },
+        n.prototype.sendCmd = function() {
+            var t = this;
+            SocketConnection.sendWithCallback(45104,
+            function(n) {
+                var i = n.data,
+                o = i.readUnsignedInt();
+                if (o) t._oldPetEffectInfo = t.getPetEffect(),
+                null == t._oldPetEffectInfo && (t._oldPetEffectInfo = new PetEffectInfo(null), t._oldPetEffectInfo.effectID = 999999),
+                e.DataManger.getInstance().UpdateCurPetInfo();
+                else {
+                    var r = 2 == t.popupType ? "添加": "变更";
+                    Alarm.show("很遗憾，这次普通" + r + "失败了！请不要灰心，下次普通" + r + "的成功率将提升<font color='#00ff00'>" + t.CHANCE[t.lastNum + 1] + "%</font>\n请明天再来！")
+                }
+                e.DataManger.getInstance().updateMoney()
+            },
+            this._index, this._info.catchTime)
+        },
+        n.prototype.showNoraml = function(t) {
+            var n = this;
+            this.lastNum = 0,
+            this.lastFrame = 0,
+            KTool.getMultiValue([3226 + t],
+            function(i) {
+                n.lastNum = i[0],
+                n.lastFrame = 4 + 3 * t;
+                var o = 1 == t ? "添加": "变更",
+                r = 1 == t ? 3e5: 25e4;
+                Alert.show("是否确认消耗<font color='#ff0000'>" + r + "</font>赛尔豆进行1次普通" + o + "？（每天可" + o + "1次），本次添加有<font color='#00ff00'>" + n.CHANCE[n.lastNum] + "%</font>概率给没有特性的非融合精灵" + o + "1个特性",
+                function() {
+                    n.sendCmd(),
+                    1 == t ? e.DataManger.getInstance().freeTimes_effect_0 = e.DataManger.getInstance().freeTimes_effect_0 - 1 : e.DataManger.getInstance().freeTimes_effect_1 = e.DataManger.getInstance().freeTimes_effect_1 - 1
+                })
+            })
+        },
+        n.prototype.getPetEffect = function() {
+            for (var e, t = 0; t < this._info.effectList.length; t++) {
+                var n = this._info.effectList[t];
+                if (177 != n.effectID && 1 == n.status) {
+                    var i = PetEffectXMLInfo.getEffect(n.effectID, n.args);
+                    if (i.length <= "这四个字".length) {
+                        e = n;
+                        break
+                    }
+                }
+            }
+            return e
+        },
+        n.prototype.destroy = function() {
+            this._removeEvents(),
+            t.prototype.destroy.call(this)
+        },
+        n
+    } (e.BaseView);
+    e.EffectView = t,
+    __reflect(t.prototype, "oneKeyTheBest.EffectView")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e.oldValue = -1,
+            e.TABID = 6,
+            e.skinName = OnekeythebestViewHpSkin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this._initEvents()
+        },
+        n.prototype._initEvents = function() {
+            ImageButtonUtil.add(this.btn_0, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_1, this._onTouchImageButton, this)
+        },
+        n.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        n.prototype.UpdateView = function() {
+            return this._info = e.DataManger.getInstance().curPetInfo,
+            e.DataManger.getInstance().updateScore(),
+            this.freeTimes = e.DataManger.getInstance().freeTimes_hp,
+            this.diamondNum = e.DataManger.getInstance().diamondNum,
+            this._info ? this.getHpAdd() : this.tx_num.text = "?/20",
+            this.freeTimes > 0 ? this.txtLabel_0.text = "普通养成": this.txtLabel_0.text = "高级养成",
+            StatLogger.log("精灵养成系统", "打开精灵体力上限标签页", "2015运营活动"),
+            Promise.resolve()
+        },
+        n.prototype._onTouchTapItem = function(e) {
+            var t = e.item,
+            n = {};
+            n.id = t.id,
+            tipsPop.TipsPop.openItemPop(n)
+        },
+        n.prototype.hide = function() {
+            t.prototype.hide.call(this),
+            this.clearTweens()
+        },
+        n.prototype.playTweens = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    return [2, Promise.resolve()]
+                })
+            })
+        },
+        n.prototype.clearTweens = function() {},
+        n.prototype.completeCallBack = function() {},
+        n.prototype._onTouchImageButton = function(e) {
+            switch (e.currentTarget) {
+            case this.btn_0:
+                this.freeTimes > 0 ? this.doTry(1) : this.doTry(2);
+                break;
+            case this.btn_1:
+                this.doTry(3)
+            }
+        },
+        n.prototype.doTry = function(t) {
+            var n = this;
+            if (0 == MainManager.actorInfo.isVip) return void Alarm.show("只有VIP用户才能使用此功能哦！");
+            if (null == this._info) return void Alarm.show("请先选中一只精灵！");
+            if (this.hpAdd >= 20 && 2873 != this._info.id || this.hpAdd >= 32 && 2873 == this._info.id) return void BubblerManager.getInstance().showText("精灵的体力已达到满值。");
+            switch (t) {
+            case 1:
+                MainManager.actorInfo.isVip && MainManager.actorInfo.coins < 55e3 ? BubblerManager.getInstance().showText("每次进行普通养成需要<font color='#ff0000'>55000</font>赛尔豆，你的赛尔豆不足。", !0) : Alert.show(" 是否确认消耗<font color='#ff0000'>55000</font>赛尔豆进行1次普通养成？每次普通养成将会提升当前精灵1点体力上限\n今日剩余次数：<font color='#00ff00'>" + this.freeTimes + "</font>",
+                function() {
+                    n.popupType = 1,
+                    e.DataManger.getInstance().freeTimes_hp = e.DataManger.getInstance().freeTimes_hp - 1,
+                    n.sendCmd(t)
+                });
+                break;
+            case 2:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                this.diamondNum < 5 ? BubblerManager.getInstance().showText("每次进行体力上限高级养成需要<font color='#ff0000'>5钻石</font>,你的钻石不足！", !0) : Alert.show("是否确认消耗<font color='#ff0000'>5钻石</font>进行1次高级养成？每次高级养成将会随机变更精灵天赋",
+                function() {
+                    KTool.buyProductByCallback(242330, 1,
+                    function() {
+                        n.popupType = 2,
+                        n.sendCmd(t)
+                    },
+                    null, null, !0)
+                });
+                break;
+            case 3:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                this.diamondNum < 80 ? BubblerManager.getInstance().showText("每次进行体力上限超级强化需要<font color='#ff0000'>80钻石</font>,你的钻石不足！", !0) : Alert.show("是否确认消耗<font color='#ff0000'>80钻石</font>进行1次超级强化？将精灵体力上限提升至20",
+                function() {
+                    KTool.buyProductByCallback(242033, 1,
+                    function() {
+                        n.popupType = 3,
+                        n.sendCmd(t)
+                    },
+                    null, null, !0)
+                })
+            }
+        },
+        n.prototype.sendCmd = function(t) {
+            var n = this;
+            SocketConnection.sendWithCallback(45105,
+            function(t) {
+                var i = t.data,
+                o = i.readUnsignedInt();
+                o && (n.oldValue = n.hpAdd, e.DataManger.getInstance().UpdateCurPetInfo()),
+                e.DataManger.getInstance().updateMoney()
+            },
+            t, this._info.catchTime)
+        },
+        n.prototype.getHpAdd = function() {
+            var t = this;
+            SocketConnection.sendWithCallback(CommandID.JAMES_ARMOR_QUERY_ABIBLITY,
+            function(n) {
+                var i = n.data;
+                i.position = 0,
+                t.hpAdd = i.readUnsignedInt(),
+                t.tx_num.text = t.hpAdd + "/20",
+                -1 != t.oldValue && (PopViewManager.getInstance().openView(new e.AlertPop({
+                    popupType: t.popupType,
+                    oldValue: t.oldValue.toString(),
+                    newValue: t.hpAdd.toString()
+                })), t.oldValue = -1)
+            },
+            this._info.catchTime)
+        },
+        n.prototype.destroy = function() {
+            this._removeEvents(),
+            t.prototype.destroy.call(this)
+        },
+        n
+    } (e.BaseView);
+    e.HpView = t,
+    __reflect(t.prototype, "oneKeyTheBest.HpView")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e.oldNature = -1,
+            e.noPopUp = !1,
+            e._nature = 0,
+            e.skinName = OnekeythebestViewNatureSkin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this._initEvents()
+        },
+        n.prototype._initEvents = function() {
+            ImageButtonUtil.add(this.btn_0, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_1, this._onTouchImageButton, this)
+        },
+        n.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        n.prototype.UpdateView = function() {
+            return this._info = e.DataManger.getInstance().curPetInfo,
+            e.DataManger.getInstance().updateScore(),
+            this.freeTimes = e.DataManger.getInstance().freeTimes_nature,
+            this.diamondNum = e.DataManger.getInstance().diamondNum,
+            this.freeTimes ? this.tx_btn_0.text = "普通养成": this.tx_btn_0.text = "高级养成",
+            this._info ? (this.tx_num.text = NatureXMLInfo.getName(this._info.nature) + "(" + NatureXMLInfo.getDes2(this._info.nature) + ")", this.tx_desc.text = NatureXMLInfo.getDes(this._info.nature)) : (this.tx_num.text = "??", this.tx_desc.text = "??"),
+            -1 == this.oldNature || this.noPopUp || (PopViewManager.getInstance().openView(new e.AlertPop({
+                popupType: this.popupType,
+                oldValue: NatureXMLInfo.getName(this.oldNature).toString(),
+                newValue: NatureXMLInfo.getName(this._info.nature).toString()
+            })), this.oldNature = -1),
+            this.noPopUp = !1,
+            Promise.resolve()
+        },
+        n.prototype._onTouchTapItem = function(e) {
+            var t = e.item,
+            n = {};
+            n.id = t.id,
+            tipsPop.TipsPop.openItemPop(n)
+        },
+        n.prototype.hide = function() {
+            t.prototype.hide.call(this),
+            this.clearTweens()
+        },
+        n.prototype.playTweens = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    return [2, Promise.resolve()]
+                })
+            })
+        },
+        n.prototype.clearTweens = function() {},
+        n.prototype.completeCallBack = function() {},
+        n.prototype._onTouchImageButton = function(e) {
+            switch (e.currentTarget) {
+            case this.btn_0:
+                this.freeTimes > 0 ? (this.doTry(1), StatLogger.log("精灵养成系统", "点击精灵天赋普通养成", "2015运营活动")) : (this.doTry(2), StatLogger.log("精灵养成系统", "点击精灵天赋高级养成", "2015运营活动"));
+                break;
+            case this.btn_1:
+                this.doTry(3),
+                StatLogger.log("精灵养成系统", "点击精灵天赋超级强化", "2015运营活动")
+            }
+        },
+        n.prototype.doTry = function(t) {
+            var n = this;
+            if (null == this._info) return void Alarm.show("请先选中一只精灵！");
+            switch (this._nature = 0, t) {
+            case 1:
+                MainManager.actorInfo.isVip && MainManager.actorInfo.coins < 6e4 ? BubblerManager.getInstance().showText("VIP用户每次进行普通养成需要<font color='#ff0000'>60000</font>赛尔豆，你的赛尔豆不足。", !0) : !MainManager.actorInfo.isVip && MainManager.actorInfo.coins < 12e4 ? BubblerManager.getInstance().showText("每次进行普通养成需要<font color='#ff0000'>120000</font>赛尔豆，你的赛尔豆不足。", !0) : Alert.show("是否确认消耗<font color='#ff0000'>120000</font>赛尔豆进行1次普通养成？（vip每次只需要消耗<font color='#ff0000'>60000</font>赛尔豆），每日可进行1次（vip每日2次），每次普通养成将会随机变更精灵性格。\n今日剩余次数：<font color='#00ff00'>" + this.freeTimes + "</font>",
+                function() {
+                    e.DataManger.getInstance().freeTimes_nature = n.freeTimes - 1,
+                    n.popupType = 1,
+                    n.sendCmd(t)
+                });
+                break;
+            case 2:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                this.diamondNum < 10 ? BubblerManager.getInstance().showText("每次进行高级养成需要<font color='#ff0000'>10钻石</font>，你的钻石不足。", !0) : Alert.show("是否确认消耗<font color='#ff0000'>10钻石</font>进行1次高级养成？每次高级养成将会随机变更精灵性格。",
+                function() {
+                    KTool.buyProductByCallback(242027, 1,
+                    function() {
+                        n.popupType = 2,
+                        n.sendCmd(t)
+                    },
+                    null, null, !0)
+                });
+                break;
+            case 3:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                this.diamondNum < 150 ? BubblerManager.getInstance().showText("每次进行超级强化需要<font color='#ff0000'>150钻石</font>钻石，你的钻石不足。", !0) : Alert.show("是否确认消耗<font color='#ff0000'>150钻石</font>进行1次超级强化？超级强化可以指定生成一种性格。",
+                function() {
+                    ModuleManager.showModule("natureChoosePanel", ["nature_choose_panel"], {
+                        petinfo: n._info,
+                        callBack: function(e) {
+                            n._nature = e,
+                            KTool.buyProductByCallback(242028, 1,
+                            function() {
+                                n.popupType = 3,
+                                n.sendCmd(t)
+                            },
+                            null, null, !0)
+                        },
+                        caller: n
+                    },
+                    null, AppDoStyle.NULL)
+                })
+            }
+        },
+        n.prototype.sendCmd = function(t) {
+            var n = this;
+            SocketConnection.sendWithCallback(45102,
+            function(t) {
+                var i = t.data,
+                o = i.readUnsignedInt();
+                o && (n.oldNature = n._info.nature, e.DataManger.getInstance().UpdateCurPetInfo()),
+                e.DataManger.getInstance().updateMoney()
+            },
+            t, this._info.catchTime, this._nature)
+        },
+        n.prototype.destroy = function() {
+            this._removeEvents(),
+            t.prototype.destroy.call(this)
+        },
+        n
+    } (e.BaseView);
+    e.NatureView = t,
+    __reflect(t.prototype, "oneKeyTheBest.NatureView")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e.skinName = OnekeythebestViewScoreSkin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this._initEvents()
+        },
+        n.prototype._initEvents = function() {
+            ImageButtonUtil.add(this.btn_0, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_1, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_2, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_3, this._onTouchImageButton, this),
+            e.DataManger.getInstance().addEventListener("event_change_selecetd_id", this.onChangeView, this)
+        },
+        n.prototype._removeEvents = function() {
+            e.DataManger.getInstance().removeEventListener("event_change_selecetd_id", this.onChangeView, this),
+            ImageButtonUtil.removeAll(this)
+        },
+        n.prototype.onChangeView = function(e) {},
+        n.prototype.UpdateView = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t, n, i, o;
+                return __generator(this,
+                function(r) {
+                    switch (r.label) {
+                    case 0:
+                        return StatLogger.log("精灵养成系统", "打开精灵养成积分兑换页面", "2015运营活动"),
+                        this._info = e.DataManger.getInstance().curPetInfo,
+                        t = this,
+                        [4, e.DataManger.getInstance().updateScore()];
+                    case 1:
+                        if (t._score = r.sent(), this.tx_num.text = this._score + "/60", this.popupType) {
+                            switch (this.popupType) {
+                            case 1:
+                                n = this._info.dv.toString();
+                                break;
+                            case 2:
+                                n = NatureXMLInfo.getName(this._info.nature);
+                                break;
+                            case 3:
+                            case 4:
+                                i = this.getPetEffect(),
+                                i && (o = PetEffectXMLInfo.getEffect(i.effectID, i.args), n = o)
+                            }
+                            PopViewManager.getInstance().openView(new e.AlertPop({
+                                popupType: this.popupType,
+                                oldValue: "",
+                                newValue: n
+                            })),
+                            this.popupType = 0
+                        }
+                        return [2, Promise.resolve()]
+                    }
+                })
+            })
+        },
+        n.prototype._onTouchTapItem = function(e) {
+            var t = e.item,
+            n = {};
+            n.id = t.id,
+            tipsPop.TipsPop.openItemPop(n)
+        },
+        n.prototype.hide = function() {
+            t.prototype.hide.call(this),
+            this.clearTweens()
+        },
+        n.prototype.playTweens = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    return [2, Promise.resolve()]
+                })
+            })
+        },
+        n.prototype.clearTweens = function() {},
+        n.prototype.completeCallBack = function() {},
+        n.prototype._onTouchImageButton = function(e) {
+            switch (e.currentTarget) {
+            case this.btn_0:
+                StatLogger.log("精灵养成系统", "点击兑换提升精灵天赋1点", "2015运营活动"),
+                this._score < 50 ? Alarm.show("你的积分不足！") : this.doTry(1);
+                break;
+            case this.btn_1:
+                StatLogger.log("精灵养成系统", "点击兑换更换1次精灵性格", "2015运营活动"),
+                this._score < 20 ? Alarm.show("你的积分不足！") : this.doTry(2);
+                break;
+            case this.btn_2:
+                if (StatLogger.log("精灵养成系统", "点击兑换添加1次精灵特性", "2015运营活动"), 0 == MainManager.actorInfo.isVip) return void Alarm.show("只有VIP用户才能使用此功能哦！");
+                this._score < 60 ? Alarm.show("你的积分不足！") : this.doTry(3);
+                break;
+            case this.btn_3:
+                if (StatLogger.log("精灵养成系统", "点击兑换变更1次精灵特性", "2015运营活动"), 0 == MainManager.actorInfo.isVip) return void Alarm.show("只有VIP用户才能使用此功能哦！");
+                this._score < 50 ? Alarm.show("你的积分不足！") : this.doTry(4)
+            }
+        },
+        n.prototype.doTry = function(t) {
+            if (null == this._info) return void Alarm.show("请先选中一只精灵！");
+            switch (t) {
+            case 1:
+                if (31 == this._info.dv) return void BubblerManager.getInstance().showText("精灵的天赋已达到满值。");
+                break;
+            case 2:
+                break;
+            case 3:
+                if (this.getPetEffect()) return void Alarm.show("这个精灵已经有特性了，不能添加！");
+                break;
+            case 4:
+                if (null == this.getPetEffect()) return void Alarm.show("这个精灵还没有特性了，不能变更！")
+            }
+            this.popupType = t,
+            SocketConnection.sendWithCallback(45106,
+            function(t) {
+                var n = t.data,
+                i = n.readUnsignedInt();
+                i && e.DataManger.getInstance().UpdateCurPetInfo(),
+                e.DataManger.getInstance().updateMoney()
+            },
+            t, this._info.catchTime)
+        },
+        n.prototype.getPetEffect = function() {
+            for (var e, t = 0; t < this._info.effectList.length; t++) {
+                var n = this._info.effectList[t];
+                if (177 != n.effectID && 1 == n.status) {
+                    var i = PetEffectXMLInfo.getEffect(n.effectID, n.args);
+                    if (i.length <= "这四个字".length) {
+                        e = n;
+                        break
+                    }
+                }
+            }
+            return e
+        },
+        n.prototype.destroy = function() {
+            this._removeEvents(),
+            t.prototype.destroy.call(this)
+        },
+        n
+    } (e.BaseView);
+    e.ScoreView = t,
+    __reflect(t.prototype, "oneKeyTheBest.ScoreView")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e.skinName = OnekeythebestViewStudySkin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this._initEvents()
+        },
+        n.prototype._initEvents = function() {
+            ImageButtonUtil.add(this.btn_0, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_1, this._onTouchImageButton, this)
+        },
+        n.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        n.prototype.UpdateView = function() {
+            return this._info = e.DataManger.getInstance().curPetInfo,
+            e.DataManger.getInstance().updateScore(),
+            this.diamondNum = e.DataManger.getInstance().diamondNum,
+            this._info ? (this.totalTxt.text = this._info.totalEv + "/510", this.txt_hp.text = this._info.ev_hp + "/255", this.txt_spd.text = this._info.ev_sp + "/255", this.txt_sa.text = this._info.ev_sa + "/255", this.txt_atk.text = this._info.ev_attack + "/255", this.txt_def.text = this._info.ev_defence + "/255", this.txt_sd.text = this._info.ev_sd + "/255") : (this.totalTxt.text = "??/510", this.txt_hp.text = "?/255", this.txt_spd.text = "?/255", this.txt_sa.text = "?/255", this.txt_atk.text = "?/255", this.txt_def.text = "?/255", this.txt_sd.text = "?/255"),
+            Promise.resolve()
+        },
+        n.prototype._onTouchTapItem = function(e) {
+            var t = e.item,
+            n = {};
+            n.id = t.id,
+            tipsPop.TipsPop.openItemPop(n)
+        },
+        n.prototype.hide = function() {
+            t.prototype.hide.call(this),
+            this.clearTweens()
+        },
+        n.prototype.playTweens = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    return [2, Promise.resolve()]
+                })
+            })
+        },
+        n.prototype.clearTweens = function() {},
+        n.prototype.completeCallBack = function() {},
+        n.prototype._onTouchImageButton = function(e) {
+            switch (e.currentTarget) {
+            case this.btn_0:
+                ModuleManager.showModule("studytraining", ["studytraining"]);
+                break;
+            case this.btn_1:
+                this.doTry(1)
+            }
+        },
+        n.prototype.AKeyFuncction = function() {
+            return this.doTry(2),
+            Promise.resolve()
+        },
+        n.prototype.doTry = function(t) {
+            if (null == this._info) return void Alarm.show("请先选中一只精灵！");
+            switch (this._index = t, t) {
+            case 1:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                if (510 == this._info.totalEv) return void Alarm.show("这只精灵学习力已满！");
+                if (this.diamondNum < 100) BubblerManager.getInstance().showText("学习力超级强化需要<font color='#ff0000'>100钻石</font>，你的钻石不足。", !0);
+                else {
+                    var n = {
+                        chooseNum: 1,
+                        petInfo: this._info,
+                        fun: this.onChoose,
+                        caller: this
+                    };
+                    ModuleManager.showModule("learningAbilityChoosePop", ["learning_ability_choose_pop"], n, null, AppDoStyle.NULL)
+                }
+                break;
+            case 2:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                if (this.diamondNum < 150) BubblerManager.getInstance().showText("一键满学习力需要<font color='#ff0000'>150钻石</font>，你的钻石不足。", !0);
+                else {
+                    var i = {
+                        chooseNum: 2,
+                        petInfo: this._info,
+                        fun: this.onChoose2,
+                        caller: this
+                    };
+                    ModuleManager.showModule("learningAbilityChoosePop", ["learning_ability_choose_pop"], i, null, AppDoStyle.NULL)
+                }
+            }
+        },
+        n.prototype.onChoose = function(t, n) {
+            var i = this;
+            KTool.buyProductByCallback(242029, 1,
+            function() {
+                SocketConnection.sendWithCallback(45103,
+                function(t) {
+                    var n = t.data,
+                    o = n.readUnsignedInt();
+                    o && (i._oldInfo = i._info, BubblerManager.getInstance().showText("精灵学习力强化成功！"), e.DataManger.getInstance().UpdateCurPetInfo()),
+                    e.DataManger.getInstance().updateMoney()
+                },
+                i._index, i._info.catchTime, t, 0)
+            })
+        },
+        n.prototype.onChoose2 = function(t, n) {
+            var i = this;
+            KTool.buyProductByCallback(242030, 1,
+            function() {
+                SocketConnection.sendWithCallback(45103,
+                function(t) {
+                    var n = t.data,
+                    o = n.readUnsignedInt();
+                    o && (i._oldInfo = i._info, BubblerManager.getInstance().showText("一键满学习力加成！"), e.DataManger.getInstance().UpdateCurPetInfo()),
+                    e.DataManger.getInstance().updateMoney()
+                },
+                i._index, i._info.catchTime, t[0], t[1])
+            })
+        },
+        n.prototype.destroy = function() {
+            this._removeEvents(),
+            t.prototype.destroy.call(this)
+        },
+        n
+    } (e.BaseView);
+    e.StudyView = t,
+    __reflect(t.prototype, "oneKeyTheBest.StudyView")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(o, r) {
+        function _(e) {
+            try {
+                a(i.next(e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function s(e) {
+            try {
+                a(i["throw"](e))
+            } catch(t) {
+                r(t)
+            }
+        }
+        function a(e) {
+            e.done ? o(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(_, s)
+        }
+        a((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; a;) try {
+            if (o = 1, r && (_ = r[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(_ = _.call(r, n[1])).done) return _;
+            switch (r = 0, _ && (n = [0, _.value]), n[0]) {
+            case 0:
+            case 1:
+                _ = n;
+                break;
+            case 4:
+                return a.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                a.label++,
+                r = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = a.ops.pop(),
+                a.trys.pop();
+                continue;
+            default:
+                if (_ = a.trys, !(_ = _.length > 0 && _[_.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    a = 0;
+                    continue
+                }
+                if (3 === n[0] && (!_ || n[1] > _[0] && n[1] < _[3])) {
+                    a.label = n[1];
+                    break
+                }
+                if (6 === n[0] && a.label < _[1]) {
+                    a.label = _[1],
+                    _ = n;
+                    break
+                }
+                if (_ && a.label < _[2]) {
+                    a.label = _[2],
+                    a.ops.push(n);
+                    break
+                }
+                _[2] && a.ops.pop(),
+                a.trys.pop();
+                continue
+            }
+            n = t.call(e, a)
+        } catch(i) {
+            n = [6, i],
+            r = 0
+        } finally {
+            o = _ = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, r, _, s, a = {
+        label: 0,
+        sent: function() {
+            if (1 & _[0]) throw _[1];
+            return _[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+oneKeyTheBest; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var e = t.call(this) || this;
+            return e.oldDv = -1,
+            e.TABID = 2,
+            e.skinName = OnekeythebestViewTalentSkin,
+            e
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this._initEvents()
+        },
+        n.prototype._initEvents = function() {
+            ImageButtonUtil.add(this.btn_0, this._onTouchImageButton, this),
+            ImageButtonUtil.add(this.btn_1, this._onTouchImageButton, this)
+        },
+        n.prototype._removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        n.prototype.UpdateView = function() {
+            return this._info = e.DataManger.getInstance().curPetInfo,
+            e.DataManger.getInstance().updateScore(),
+            this.freeTimes = e.DataManger.getInstance().freeTimes_talent,
+            this.diamondNum = e.DataManger.getInstance().diamondNum,
+            this.freeTimes > 0 ? this.tx_btn_0.text = "普通养成": this.tx_btn_0.text = "高级养成",
+            this._info ? (this.tx_num.text = String(this._info.dv), this.progress_item.minimum = 0, this.progress_item.maximum = 31, this.progress_item.value = this._info.dv) : this.tx_num.text = "?",
+            -1 != this.oldDv ? (PopViewManager.getInstance().openView(new e.AlertPop({
+                popupType: this.popupType,
+                oldValue: this.oldDv.toString(),
+                newValue: this._info.dv.toString()
+            })), this.oldDv = -1) : StatLogger.log("精灵养成系统", "打开精灵天赋标签页", "2015运营活动"),
+            Promise.resolve()
+        },
+        n.prototype._onTouchTapItem = function(e) {
+            var t = e.item,
+            n = {};
+            n.id = t.id,
+            tipsPop.TipsPop.openItemPop(n)
+        },
+        n.prototype.hide = function() {
+            t.prototype.hide.call(this),
+            this.clearTweens()
+        },
+        n.prototype.playTweens = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                return __generator(this,
+                function(e) {
+                    return [2, Promise.resolve()]
+                })
+            })
+        },
+        n.prototype.clearTweens = function() {},
+        n.prototype.completeCallBack = function() {},
+        n.prototype.AKeyFuncction = function() {
+            return this.doTry(4),
+            Promise.resolve()
+        },
+        n.prototype._onTouchImageButton = function(e) {
+            switch (e.currentTarget) {
+            case this.btn_0:
+                this.freeTimes > 0 ? (this.doTry(1), StatLogger.log("精灵养成系统", "点击精灵天赋普通养成", "2015运营活动")) : (this.doTry(2), StatLogger.log("精灵养成系统", "点击精灵天赋高级养成", "2015运营活动"));
+                break;
+            case this.btn_1:
+                this.doTry(3),
+                StatLogger.log("精灵养成系统", "点击精灵天赋超级强化", "2015运营活动")
+            }
+        },
+        n.prototype.doTry = function(t) {
+            var n = this;
+            if (31 == this._info.dv) BubblerManager.getInstance().showText("精灵的天赋已达到满值。");
+            else switch (t) {
+            case 1:
+                MainManager.actorInfo.isVip && MainManager.actorInfo.coins < 6e4 ? BubblerManager.getInstance().showText("VIP用户每次进行普通养成需要<font color='#ff0000'>60000</font>赛尔豆，你的赛尔豆不足。", !0) : !MainManager.actorInfo.isVip && MainManager.actorInfo.coins < 12e4 ? BubblerManager.getInstance().showText("每次进行普通养成需要<font color='#ff0000'>120000</font>赛尔豆，你的赛尔豆不足。", !0) : Alert.show("是否确认消耗<font color='#ff0000'>120000</font>赛尔豆进行1次普通养成？（vip每次只需要消耗<font color='#ff0000'>60000</font>赛尔豆），每日可进行2次（vip每日3次），每次普通养成将会随机变更精灵天赋。\n今日剩余次数：<font color='#00ff00'>" + this.freeTimes + "</font>",
+                function() {
+                    e.DataManger.getInstance().freeTimes_talent = n.freeTimes - 1,
+                    n.popupType = 1,
+                    n.sendCmd(t)
+                });
+                break;
+            case 2:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                this.diamondNum < 10 ? BubblerManager.getInstance().showText("每次进行高级养成需要<font color='#ff0000'>10钻石</font>，你的钻石不足。", !0) : Alert.show("是否确认消耗<font color='#ff0000'>10钻石</font>进行1次高级养成？每次高级养成将会随机变更精灵天赋。",
+                function() {
+                    KTool.buyProductByCallback(242024, 1,
+                    function() {
+                        n.popupType = 2,
+                        n.sendCmd(t)
+                    },
+                    null, null, !0)
+                });
+                break;
+            case 3:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                this.diamondNum < 40 ? BubblerManager.getInstance().showText("每次进行超级强化需要<font color='#ff0000'>40钻石</font>，你的钻石不足。", !0) : Alert.show("是否确认消耗<font color='#ff0000'>40钻石</font>进行1次超级强化？每次超级强化将会必定提升精灵1点天赋。",
+                function() {
+                    KTool.buyProductByCallback(242025, 1,
+                    function() {
+                        n.popupType = 3,
+                        n.sendCmd(t)
+                    },
+                    null, null, !0)
+                });
+                break;
+            case 4:
+                if (!e.DataManger.getInstance().getIsOpen()) return;
+                this.diamondNum < 150 ? BubblerManager.getInstance().showText("一键满天赋需要<font color='#ff0000'>150钻石</font>,你的钻石不足。", !0) : Alert.show("是否确认消耗<font color='#ff0000'>150钻石</font>进行一键满天赋?",
+                function() {
+                    KTool.buyProductByCallback(242026, 1,
+                    function() {
+                        n.popupType = 4,
+                        n.sendCmd(t)
+                    },
+                    null, null, !0)
+                })
+            }
+        },
+        n.prototype.sendCmd = function(t) {
+            var n = this;
+            SocketConnection.sendWithCallback(45101,
+            function(t) {
+                var i = t.data,
+                o = i.readUnsignedInt();
+                o && (n.popupType < 4 ? n.oldDv = n._info.dv: Alarm.show("一键满天赋成功！\n目前这只精灵的天赋已经达到最高，不需要再提升了！"), e.DataManger.getInstance().UpdateCurPetInfo()),
+                e.DataManger.getInstance().updateMoney()
+            },
+            t, this._info.catchTime)
+        },
+        n.prototype.destroy = function() {
+            this._removeEvents(),
+            t.prototype.destroy.call(this)
+        },
+        n
+    } (e.BaseView);
+    e.TalentView = t,
+    __reflect(t.prototype, "oneKeyTheBest.TalentView")
+} (oneKeyTheBest || (oneKeyTheBest = {}));
+var __extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/comp/ProgressStyle1Skin.exml"] = window.ProgressStyle1Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["progress_bg", "thumb", "labelDisplay"],
+        this.height = 24,
+        this.width = 183,
+        this.elementsContent = [this.progress_bg_i(), this.thumb_i(), this.labelDisplay_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.progress_bg_i = function() {
+        var e = new eui.Image;
+        return this.progress_bg = e,
+        e.percentHeight = 100,
+        e.source = "onekeythebest_view_basicinfo_progress_bg_png",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.thumb_i = function() {
+        var e = new eui.Image;
+        return this.thumb = e,
+        e.source = "onekeythebest_view_basicinfo_progress_png",
+        e.x = 12,
+        e.y = 4,
+        e
+    },
+    n.labelDisplay_i = function() {
+        var e = new eui.Label;
+        return this.labelDisplay = e,
+        e.horizontalCenter = 0,
+        e.textColor = 16777215,
+        e.verticalCenter = 0,
+        e.visible = !1,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/comp/BasicInfoItemSkin.exml"] = window.BasicInfoItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imge_item_bg", "txtLabel", "btn", "tx_title", "tx_num_3", "tx_num_2", "tx_num", "tx_desc", "imge_icon", "imge_flag", "left_info", "basic_info_item_0", "progress_item"],
+        this.currentState = "state_1",
+        this.height = 55,
+        this.width = 457,
+        this.elementsContent = [this.basic_info_item_0_i()],
+        this.tx_num_3_i(),
+        this.tx_num_2_i(),
+        this.tx_num_i(),
+        this.tx_desc_i(),
+        this.progress_item_i(),
+        this.states = [new eui.State("state_1", [new eui.AddItems("tx_num", "left_info", 2, "imge_icon"), new eui.AddItems("progress_item", "", 1, ""), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("txtLabel", "width", 100), new eui.SetProperty("txtLabel", "textAlign", "center"), new eui.SetProperty("txtLabel", "x", 3), new eui.SetProperty("txtLabel", "y", 8), new eui.SetProperty("tx_title", "text", "学习力："), new eui.SetProperty("imge_flag", "source", "onekeythebest_view_basicinfo_imge_flag_1_png")]), new eui.State("state_2", [new eui.AddItems("tx_num_2", "left_info", 2, "imge_icon"), new eui.AddItems("tx_desc", "left_info", 2, "imge_icon"), new eui.SetProperty("imge_item_bg", "y", 0), new eui.SetProperty("tx_title", "x", 46), new eui.SetProperty("tx_title", "y", 2), new eui.SetProperty("tx_title", "text", "性格："), new eui.SetProperty("left_info", "y", 6)]), new eui.State("state_3", [new eui.AddItems("tx_num_3", "left_info", 2, "imge_icon"), new eui.SetProperty("tx_title", "x", 46), new eui.SetProperty("tx_title", "y", 12), new eui.SetProperty("tx_title", "text", "特性："), new eui.SetProperty("imge_icon", "y", 3)])]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.basic_info_item_0_i = function() {
+        var e = new eui.Group;
+        return this.basic_info_item_0 = e,
+        e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.imge_item_bg_i(), this.btn_i(), this.left_info_i()],
+        e
+    },
+    n.imge_item_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_item_bg = e,
+        e.source = "onekeythebest_view_basicinfo_imge_item_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_i = function() {
+        var e = new eui.Group;
+        return this.btn = e,
+        e.cacheAsBitmap = !0,
+        e.x = 340,
+        e.y = 12,
+        e.elementsContent = [this._Image1_i(), this.txtLabel_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return this._Image1 = e,
+        e.height = 34,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 105,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "提升等级",
+        e.textColor = 16777215,
+        e.x = 18,
+        e.y = 9,
+        e
+    },
+    n.left_info_i = function() {
+        var e = new eui.Group;
+        return this.left_info = e,
+        e.cacheAsBitmap = !0,
+        e.x = 14,
+        e.y = 6,
+        e.elementsContent = [this.tx_title_i(), this.imge_icon_i(), this.imge_flag_i()],
+        e
+    },
+    n.tx_title_i = function() {
+        var e = new eui.Label;
+        return this.tx_title = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "等级：",
+        e.textColor = 16777215,
+        e.x = 46,
+        e.y = 2,
+        e
+    },
+    n.tx_num_3_i = function() {
+        var e = new eui.Label;
+        return this.tx_num_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "精神",
+        e.textColor = 6481510,
+        e.x = 99,
+        e.y = 12,
+        e
+    },
+    n.tx_num_2_i = function() {
+        var e = new eui.Label;
+        return this.tx_num_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "顽皮",
+        e.textColor = 16777215,
+        e.x = 97,
+        e.y = 2,
+        e
+    },
+    n.tx_num_i = function() {
+        var e = new eui.Label;
+        return this.tx_num = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "512/512",
+        e.textColor = 6481510,
+        e.width = 100,
+        e.x = 108,
+        e.y = 2,
+        e
+    },
+    n.tx_desc_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.fontFamily = "MFShangHei",
+        e.height = 18,
+        e.size = 17,
+        e.text = "防御+10%  特攻-10%",
+        e.textColor = 6481510,
+        e.width = 254,
+        e.x = 46,
+        e.y = 21,
+        e
+    },
+    n.imge_icon_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon = e,
+        e.source = "onekeythebest_view_basicinfo_imge_icon_0_png",
+        e.x = 0,
+        e.y = 3,
+        e
+    },
+    n.imge_flag_i = function() {
+        var e = new eui.Image;
+        return this.imge_flag = e,
+        e.source = "onekeythebest_view_basicinfo_imge_flag_1_png",
+        e.x = 230.842,
+        e.y = 3.996,
+        e
+    },
+    n.progress_item_i = function() {
+        var e = new eui.ProgressBar;
+        return this.progress_item = e,
+        e.maximum = 100,
+        e.minimum = 0,
+        e.skinName = "ProgressStyle1Skin",
+        e.value = 50,
+        e.visible = !0,
+        e.x = 54.24,
+        e.y = 25.234,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/OnekeythebestViewBasicinfoSkin.exml"] = window.OnekeythebestViewBasicinfoSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["item_0", "item_1", "item_2", "item_3", "item_4", "item_5"],
+        this.height = 417,
+        this.width = 457,
+        this.elementsContent = [this.item_0_i(), this.item_1_i(), this.item_2_i(), this.item_3_i(), this.item_4_i(), this.item_5_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.item_0_i = function() {
+        var e = new oneKeyTheBest.BasicInfoItem;
+        return this.item_0 = e,
+        e.currentState = "state_1",
+        e.skinName = "BasicInfoItemSkin",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.item_1_i = function() {
+        var e = new oneKeyTheBest.BasicInfoItem;
+        return this.item_1 = e,
+        e.currentState = "state_1",
+        e.skinName = "BasicInfoItemSkin",
+        e.x = 0,
+        e.y = 73,
+        e
+    },
+    n.item_2_i = function() {
+        var e = new oneKeyTheBest.BasicInfoItem;
+        return this.item_2 = e,
+        e.currentState = "state_2",
+        e.skinName = "BasicInfoItemSkin",
+        e.x = 0,
+        e.y = 145,
+        e
+    },
+    n.item_3_i = function() {
+        var e = new oneKeyTheBest.BasicInfoItem;
+        return this.item_3 = e,
+        e.currentState = "state_1",
+        e.skinName = "BasicInfoItemSkin",
+        e.x = 0,
+        e.y = 217,
+        e
+    },
+    n.item_4_i = function() {
+        var e = new oneKeyTheBest.BasicInfoItem;
+        return this.item_4 = e,
+        e.currentState = "state_3",
+        e.skinName = "BasicInfoItemSkin",
+        e.x = 0,
+        e.y = 289,
+        e
+    },
+    n.item_5_i = function() {
+        var e = new oneKeyTheBest.BasicInfoItem;
+        return this.item_5 = e,
+        e.currentState = "state_1",
+        e.skinName = "BasicInfoItemSkin",
+        e.x = 0,
+        e.y = 360,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/OnekeythebestViewTalentSkin.exml"] = window.OnekeythebestViewTalentSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imge_btn_bg_0", "tx_btn_0", "btn_0", "imge_icon_talent_0", "gr_btn_0", "imge_btn_bg_1", "tx_btn_1", "btn_1", "imge_icon_talent_1", "gr_btn_1", "imge_titile_bg", "tx_title", "tx_desc", "tx_num", "imge_icon", "progress_item", "talent"],
+        this.height = 399,
+        this.width = 457,
+        this.elementsContent = [this.talent_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.talent_i = function() {
+        var e = new eui.Group;
+        return this.talent = e,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.gr_btn_0_i(), this.gr_btn_1_i(), this._Group1_i(), this.progress_item_i()],
+        e
+    },
+    n.gr_btn_0_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_0 = e,
+        e.cacheAsBitmap = !0,
+        e.x = 25,
+        e.y = 174,
+        e.elementsContent = [this.imge_btn_bg_0_i(), this.btn_0_i(), this.imge_icon_talent_0_i()],
+        e
+    },
+    n.imge_btn_bg_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_btn_bg_0 = e,
+        e.source = "onekeythebest_view_talent_imge_btn_bg_0_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_0_i = function() {
+        var e = new eui.Group;
+        return this.btn_0 = e,
+        e.x = 39,
+        e.y = 169,
+        e.elementsContent = [this._Image1_i(), this.tx_btn_0_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 35,
+        e.source = "common_btn_bg_blue_2_png",
+        e.width = 106,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tx_btn_0_i = function() {
+        var e = new eui.Label;
+        return this.tx_btn_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "普通养成",
+        e.textColor = 16777215,
+        e.x = 18,
+        e.y = 9,
+        e
+    },
+    n.imge_icon_talent_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_talent_0 = e,
+        e.source = "onekeythebest_view_talent_imge_icon_talent_0_png",
+        e.x = 16,
+        e.y = 26,
+        e
+    },
+    n.gr_btn_1_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_1 = e,
+        e.cacheAsBitmap = !0,
+        e.x = 253,
+        e.y = 174,
+        e.elementsContent = [this.imge_btn_bg_1_i(), this.btn_1_i(), this.imge_icon_talent_1_i()],
+        e
+    },
+    n.imge_btn_bg_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_btn_bg_1 = e,
+        e.source = "onekeythebest_view_talent_imge_btn_bg_1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_1_i = function() {
+        var e = new eui.Group;
+        return this.btn_1 = e,
+        e.x = 39,
+        e.y = 170,
+        e.elementsContent = [this._Image2_i(), this.tx_btn_1_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 106,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tx_btn_1_i = function() {
+        var e = new eui.Label;
+        return this.tx_btn_1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "超级强化",
+        e.textColor = 16777215,
+        e.x = 19,
+        e.y = 9,
+        e
+    },
+    n.imge_icon_talent_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_talent_1 = e,
+        e.source = "onekeythebest_view_talent_imge_icon_talent_1_png",
+        e.x = 15,
+        e.y = 26,
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.height = 145,
+        e.width = 457,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.imge_titile_bg_i(), this.tx_title_i(), this.tx_desc_i(), this.tx_num_i(), this.imge_icon_i()],
+        e
+    },
+    n.imge_titile_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_titile_bg = e,
+        e.source = "onekeythebest_view_basicinfo_imge_item_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tx_title_i = function() {
+        var e = new eui.Label;
+        return this.tx_title = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "天赋：",
+        e.textColor = 16777215,
+        e.x = 60,
+        e.y = 8,
+        e
+    },
+    n.tx_desc_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc = e,
+        e.anchorOffsetX = 0,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "        精灵的天赋是精灵实力的重要保障，每提升1点天\n赋，精灵的各项属性值（体力、速度、攻击、防御、\n特攻、特防）都会提高。  天赋点数越高精灵提升的属\n性越高，最多可以提升至31点天赋。",
+        e.textColor = 8631026,
+        e.width = 412,
+        e.x = 17,
+        e.y = 77,
+        e
+    },
+    n.tx_num_i = function() {
+        var e = new eui.Label;
+        return this.tx_num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "15/31",
+        e.textColor = 6481510,
+        e.x = 113,
+        e.y = 8,
+        e
+    },
+    n.imge_icon_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon = e,
+        e.source = "onekeythebest_view_basicinfo_imge_icon_1_png",
+        e.x = 11,
+        e.y = 10,
+        e
+    },
+    n.progress_item_i = function() {
+        var e = new eui.ProgressBar;
+        return this.progress_item = e,
+        e.skinName = "ProgressStyle1Skin",
+        e.x = 39,
+        e.y = 22,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/OnekeythebestViewNatureSkin.exml"] = window.OnekeythebestViewNatureSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imge_btn_bg_0", "tx_btn_0", "btn_0", "imge_icon_0", "gr_btn_0", "imge_btn_bg_1", "tx_btn_1", "btn_1", "imge_icon_1", "gr_btn_1", "imge_titile_bg", "tx_title", "tx_num", "tx_desc2", "tx_desc", "icon", "nature"],
+        this.height = 399,
+        this.width = 457,
+        this.elementsContent = [this.nature_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.nature_i = function() {
+        var e = new eui.Group;
+        return this.nature = e,
+        e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.gr_btn_0_i(), this.gr_btn_1_i(), this.imge_titile_bg_i(), this.tx_title_i(), this.tx_num_i(), this.tx_desc2_i(), this.tx_desc_i(), this.icon_i()],
+        e
+    },
+    n.gr_btn_0_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_0 = e,
+        e.x = 25,
+        e.y = 174,
+        e.elementsContent = [this.imge_btn_bg_0_i(), this.btn_0_i(), this.imge_icon_0_i()],
+        e
+    },
+    n.imge_btn_bg_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_btn_bg_0 = e,
+        e.source = "onekeythebest_view_talent_imge_btn_bg_0_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_0_i = function() {
+        var e = new eui.Group;
+        return this.btn_0 = e,
+        e.x = 39,
+        e.y = 170,
+        e.elementsContent = [this._Image1_i(), this.tx_btn_0_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.source = "common_btn_bg_blue_2_png",
+        e.width = 106,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tx_btn_0_i = function() {
+        var e = new eui.Label;
+        return this.tx_btn_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "普通养成",
+        e.textColor = 16777215,
+        e.x = 18,
+        e.y = 9,
+        e
+    },
+    n.imge_icon_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_0 = e,
+        e.source = "onekeythebest_view_nature_imge_icon_0_png",
+        e.x = 38,
+        e.y = 40,
+        e
+    },
+    n.gr_btn_1_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_1 = e,
+        e.x = 253,
+        e.y = 174,
+        e.elementsContent = [this.imge_btn_bg_1_i(), this.btn_1_i(), this.imge_icon_1_i()],
+        e
+    },
+    n.imge_btn_bg_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_btn_bg_1 = e,
+        e.source = "onekeythebest_view_talent_imge_btn_bg_1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_1_i = function() {
+        var e = new eui.Group;
+        return this.btn_1 = e,
+        e.x = 39,
+        e.y = 170,
+        e.elementsContent = [this._Image2_i(), this.tx_btn_1_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 106,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tx_btn_1_i = function() {
+        var e = new eui.Label;
+        return this.tx_btn_1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "超级强化",
+        e.textColor = 16777215,
+        e.x = 19,
+        e.y = 9,
+        e
+    },
+    n.imge_icon_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_1 = e,
+        e.source = "onekeythebest_view_nature_imge_icon_1_png",
+        e.x = 34,
+        e.y = 40,
+        e
+    },
+    n.imge_titile_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_titile_bg = e,
+        e.source = "onekeythebest_view_basicinfo_imge_item_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tx_title_i = function() {
+        var e = new eui.Label;
+        return this.tx_title = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "当前性格：",
+        e.textColor = 16777215,
+        e.x = 61,
+        e.y = 6,
+        e
+    },
+    n.tx_num_i = function() {
+        var e = new eui.Label;
+        return this.tx_num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "固执",
+        e.textColor = 16777215,
+        e.x = 146,
+        e.y = 7,
+        e
+    },
+    n.tx_desc2_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "		      精灵的性格决定了精灵属性值的基本走向，不同\n的性格对精灵的属性加成也是不同的。性格会影响精\n灵的基础属性，让精灵拥有合适的性格很关键。",
+        e.textColor = 8631026,
+        e.width = 413,
+        e.x = 18,
+        e.y = 77,
+        e
+    },
+    n.tx_desc_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "攻击+10%  特攻-10%",
+        e.textColor = 6481510,
+        e.x = 62,
+        e.y = 29,
+        e
+    },
+    n.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.source = "onekeythebest_view_basicinfo_imge_icon_2_png",
+        e.x = 12,
+        e.y = 12,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/OnekeythebestViewStudySkin.exml"] = window.OnekeythebestViewStudySkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imge_titile_bg", "imge_btn_bg_0", "tx_btn_0", "btn_0", "imge_icon_0", "gr_btn_0", "imge_btn_bg_1", "tx_btn_1", "btn_1", "imge_icon_1", "onekeythebest_view_talent_imge_btn_bg_1_png", "tx_title_45253", "tx_title_0", "imge_value_bg_0", "txt_atk", "icon_0", "gongji", "tx_title_1", "imge_value_bg_1", "txt_sa", "icon_1", "tegong", "tx_title_2", "imge_value_bg_2", "txt_spd", "icon_2", "sudu", "tx_title_3", "imge_value_bg_3", "txt_def", "icon_3", "fangyu", "tx_title_4", "imge_value_bg_4", "txt_sd", "icon_4", "tefang", "tx_title_5", "imge_value_bg_5", "txt_hp", "icon_5", "tili", "totalTxt", "icon", "study"],
+        this.height = 399,
+        this.width = 457,
+        this.elementsContent = [this.study_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.study_i = function() {
+        var e = new eui.Group;
+        return this.study = e,
+        e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.imge_titile_bg_i(), this.gr_btn_0_i(), this.onekeythebest_view_talent_imge_btn_bg_1_png_i(), this.tx_title_45253_i(), this.gongji_i(), this.tegong_i(), this.sudu_i(), this.fangyu_i(), this.tefang_i(), this.tili_i(), this.totalTxt_i(), this.icon_i()],
+        e
+    },
+    n.imge_titile_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_titile_bg = e,
+        e.source = "onekeythebest_view_basicinfo_imge_item_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.gr_btn_0_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_0 = e,
+        e.x = 25,
+        e.y = 174,
+        e.elementsContent = [this.imge_btn_bg_0_i(), this.btn_0_i(), this.imge_icon_0_i()],
+        e
+    },
+    n.imge_btn_bg_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_btn_bg_0 = e,
+        e.source = "onekeythebest_view_talent_imge_btn_bg_0_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_0_i = function() {
+        var e = new eui.Group;
+        return this.btn_0 = e,
+        e.x = 39,
+        e.y = 170,
+        e.elementsContent = [this._Image1_i(), this.tx_btn_0_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.source = "common_btn_bg_blue_2_png",
+        e.width = 106,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tx_btn_0_i = function() {
+        var e = new eui.Label;
+        return this.tx_btn_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "普通养成",
+        e.textColor = 16777215,
+        e.x = 18,
+        e.y = 9,
+        e
+    },
+    n.imge_icon_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_0 = e,
+        e.source = "onekeythebest_view_study_imge_icon_0_png",
+        e.x = 38,
+        e.y = 40,
+        e
+    },
+    n.onekeythebest_view_talent_imge_btn_bg_1_png_i = function() {
+        var e = new eui.Group;
+        return this.onekeythebest_view_talent_imge_btn_bg_1_png = e,
+        e.x = 253,
+        e.y = 174,
+        e.elementsContent = [this.imge_btn_bg_1_i(), this.btn_1_i(), this.imge_icon_1_i()],
+        e
+    },
+    n.imge_btn_bg_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_btn_bg_1 = e,
+        e.source = "onekeythebest_view_talent_imge_btn_bg_1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_1_i = function() {
+        var e = new eui.Group;
+        return this.btn_1 = e,
+        e.x = 39,
+        e.y = 170,
+        e.elementsContent = [this._Image2_i(), this.tx_btn_1_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 106,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tx_btn_1_i = function() {
+        var e = new eui.Label;
+        return this.tx_btn_1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "超级强化",
+        e.textColor = 16777215,
+        e.x = 19,
+        e.y = 9,
+        e
+    },
+    n.imge_icon_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_1 = e,
+        e.source = "onekeythebest_view_study_imge_icon_1_png",
+        e.x = 29,
+        e.y = 34,
+        e
+    },
+    n.tx_title_45253_i = function() {
+        var e = new eui.Label;
+        return this.tx_title_45253 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "当前学习力总和：",
+        e.textColor = 16777215,
+        e.x = 59,
+        e.y = 6,
+        e
+    },
+    n.gongji_i = function() {
+        var e = new eui.Group;
+        return this.gongji = e,
+        e.x = 14,
+        e.y = 66,
+        e.elementsContent = [this.tx_title_0_i(), this.imge_value_bg_0_i(), this.txt_atk_i(), this.icon_0_i()],
+        e
+    },
+    n.tx_title_0_i = function() {
+        var e = new eui.Label;
+        return this.tx_title_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "攻击：",
+        e.textColor = 12834813,
+        e.x = 28,
+        e.y = 6,
+        e
+    },
+    n.imge_value_bg_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_value_bg_0 = e,
+        e.source = "onekeythebest_view_study_imge_value_bg_0_png",
+        e.x = 80,
+        e.y = 0,
+        e
+    },
+    n.txt_atk_i = function() {
+        var e = new eui.Label;
+        return this.txt_atk = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "0/255",
+        e.textColor = 4187130,
+        e.x = 113,
+        e.y = 5,
+        e
+    },
+    n.icon_0_i = function() {
+        var e = new eui.Image;
+        return this.icon_0 = e,
+        e.height = 20,
+        e.source = "common_atk_png",
+        e.width = 20,
+        e.x = 0,
+        e.y = 4,
+        e
+    },
+    n.tegong_i = function() {
+        var e = new eui.Group;
+        return this.tegong = e,
+        e.x = 16,
+        e.y = 100,
+        e.elementsContent = [this.tx_title_1_i(), this.imge_value_bg_1_i(), this.txt_sa_i(), this.icon_1_i()],
+        e
+    },
+    n.tx_title_1_i = function() {
+        var e = new eui.Label;
+        return this.tx_title_1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "特攻：",
+        e.textColor = 12834813,
+        e.x = 26,
+        e.y = 6,
+        e
+    },
+    n.imge_value_bg_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_value_bg_1 = e,
+        e.source = "onekeythebest_view_study_imge_value_bg_0_png",
+        e.x = 78,
+        e.y = 0,
+        e
+    },
+    n.txt_sa_i = function() {
+        var e = new eui.Label;
+        return this.txt_sa = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "0/255",
+        e.textColor = 4187130,
+        e.x = 111,
+        e.y = 5,
+        e
+    },
+    n.icon_1_i = function() {
+        var e = new eui.Image;
+        return this.icon_1 = e,
+        e.height = 20,
+        e.source = "common_sdef_png",
+        e.width = 20,
+        e.x = 0,
+        e.y = 3,
+        e
+    },
+    n.sudu_i = function() {
+        var e = new eui.Group;
+        return this.sudu = e,
+        e.x = 14,
+        e.y = 133,
+        e.elementsContent = [this.tx_title_2_i(), this.imge_value_bg_2_i(), this.txt_spd_i(), this.icon_2_i()],
+        e
+    },
+    n.tx_title_2_i = function() {
+        var e = new eui.Label;
+        return this.tx_title_2 = e,
+        e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "速度：",
+        e.textColor = 12834813,
+        e.x = 28,
+        e.y = 5,
+        e
+    },
+    n.imge_value_bg_2_i = function() {
+        var e = new eui.Image;
+        return this.imge_value_bg_2 = e,
+        e.source = "onekeythebest_view_study_imge_value_bg_0_png",
+        e.x = 80,
+        e.y = 0,
+        e
+    },
+    n.txt_spd_i = function() {
+        var e = new eui.Label;
+        return this.txt_spd = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "0/255",
+        e.textColor = 4187130,
+        e.x = 113,
+        e.y = 5,
+        e
+    },
+    n.icon_2_i = function() {
+        var e = new eui.Image;
+        return this.icon_2 = e,
+        e.height = 20,
+        e.source = "common_speed_png",
+        e.width = 20,
+        e.x = 0,
+        e.y = 4,
+        e
+    },
+    n.fangyu_i = function() {
+        var e = new eui.Group;
+        return this.fangyu = e,
+        e.x = 244,
+        e.y = 66,
+        e.elementsContent = [this.tx_title_3_i(), this.imge_value_bg_3_i(), this.txt_def_i(), this.icon_3_i()],
+        e
+    },
+    n.tx_title_3_i = function() {
+        var e = new eui.Label;
+        return this.tx_title_3 = e,
+        e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "防御：",
+        e.textColor = 12834813,
+        e.x = 26,
+        e.y = 5,
+        e
+    },
+    n.imge_value_bg_3_i = function() {
+        var e = new eui.Image;
+        return this.imge_value_bg_3 = e,
+        e.source = "onekeythebest_view_study_imge_value_bg_0_png",
+        e.x = 77,
+        e.y = 0,
+        e
+    },
+    n.txt_def_i = function() {
+        var e = new eui.Label;
+        return this.txt_def = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "0/255",
+        e.textColor = 4187130,
+        e.x = 111,
+        e.y = 5,
+        e
+    },
+    n.icon_3_i = function() {
+        var e = new eui.Image;
+        return this.icon_3 = e,
+        e.height = 20,
+        e.source = "common_def_png",
+        e.width = 20,
+        e.x = 0,
+        e.y = 4,
+        e
+    },
+    n.tefang_i = function() {
+        var e = new eui.Group;
+        return this.tefang = e,
+        e.x = 243,
+        e.y = 100,
+        e.elementsContent = [this.tx_title_4_i(), this.imge_value_bg_4_i(), this.txt_sd_i(), this.icon_4_i()],
+        e
+    },
+    n.tx_title_4_i = function() {
+        var e = new eui.Label;
+        return this.tx_title_4 = e,
+        e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "特防：",
+        e.textColor = 12834813,
+        e.x = 27,
+        e.y = 5,
+        e
+    },
+    n.imge_value_bg_4_i = function() {
+        var e = new eui.Image;
+        return this.imge_value_bg_4 = e,
+        e.source = "onekeythebest_view_study_imge_value_bg_0_png",
+        e.x = 78,
+        e.y = 0,
+        e
+    },
+    n.txt_sd_i = function() {
+        var e = new eui.Label;
+        return this.txt_sd = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "0/255",
+        e.textColor = 4187130,
+        e.x = 112,
+        e.y = 5,
+        e
+    },
+    n.icon_4_i = function() {
+        var e = new eui.Image;
+        return this.icon_4 = e,
+        e.height = 20,
+        e.source = "common_sdef_png",
+        e.width = 20,
+        e.x = 0,
+        e.y = 4,
+        e
+    },
+    n.tili_i = function() {
+        var e = new eui.Group;
+        return this.tili = e,
+        e.x = 243,
+        e.y = 133,
+        e.elementsContent = [this.tx_title_5_i(), this.imge_value_bg_5_i(), this.txt_hp_i(), this.icon_5_i()],
+        e
+    },
+    n.tx_title_5_i = function() {
+        var e = new eui.Label;
+        return this.tx_title_5 = e,
+        e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "体力：",
+        e.textColor = 12834813,
+        e.x = 26,
+        e.y = 6,
+        e
+    },
+    n.imge_value_bg_5_i = function() {
+        var e = new eui.Image;
+        return this.imge_value_bg_5 = e,
+        e.source = "onekeythebest_view_study_imge_value_bg_0_png",
+        e.x = 78,
+        e.y = 0,
+        e
+    },
+    n.txt_hp_i = function() {
+        var e = new eui.Label;
+        return this.txt_hp = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "0/255",
+        e.textColor = 4187130,
+        e.x = 112,
+        e.y = 5,
+        e
+    },
+    n.icon_5_i = function() {
+        var e = new eui.Image;
+        return this.icon_5 = e,
+        e.height = 20,
+        e.source = "common_hp_png",
+        e.width = 20,
+        e.x = 0,
+        e.y = 4,
+        e
+    },
+    n.totalTxt_i = function() {
+        var e = new eui.Label;
+        return this.totalTxt = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "255/510",
+        e.textColor = 6481510,
+        e.x = 59,
+        e.y = 30,
+        e
+    },
+    n.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.source = "onekeythebest_view_basicinfo_imge_icon_3_png",
+        e.x = 14,
+        e.y = 11,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/OnekeythebestViewEffectSkin.exml"] = window.OnekeythebestViewEffectSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imge_titile_bg", "imge_gr_btn_bg", "txtLabel_0_0", "btn_0_0", "txtLabel_0_1", "btn_0_1", "imge_add_0", "imge_icon_plus", "gr_btn_0", "imge_gr_btn_bg_1", "txtLabel_1_0", "btn_1_0", "txtLabel_1_1", "btn_1_1", "imge_tx_343", "imge_icon_change", "gr_btn_1", "imge_gr_btn_bg_2", "txtLabel_2_0", "btn_2_0", "imge_tx_4444", "imge_icon_up", "gr_btn_2", "tx_titile_3434343", "tx_num", "tx_desc1", "tx_desc", "icon", "effect"],
+        this.height = 399,
+        this.width = 457,
+        this.elementsContent = [this.effect_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.effect_i = function() {
+        var e = new eui.Group;
+        return this.effect = e,
+        e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.imge_titile_bg_i(), this.gr_btn_0_i(), this.gr_btn_1_i(), this.gr_btn_2_i(), this.tx_titile_3434343_i(), this.tx_num_i(), this.tx_desc1_i(), this.tx_desc_i(), this.icon_i()],
+        e
+    },
+    n.imge_titile_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_titile_bg = e,
+        e.source = "onekeythebest_view_basicinfo_imge_item_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.gr_btn_0_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_0 = e,
+        e.x = 25,
+        e.y = 176,
+        e.elementsContent = [this.imge_gr_btn_bg_i(), this.btn_0_0_i(), this.btn_0_1_i(), this.imge_add_0_i(), this.imge_icon_plus_i()],
+        e
+    },
+    n.imge_gr_btn_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_gr_btn_bg = e,
+        e.source = "onekeythebest_view_effect_imge_gr_btn_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_0_0_i = function() {
+        var e = new eui.Group;
+        return this.btn_0_0 = e,
+        e.x = 168,
+        e.y = 10,
+        e.elementsContent = [this._Image1_i(), this.txtLabel_0_0_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 35,
+        e.source = "common_btn_bg_blue_2_png",
+        e.width = 105,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_0_0_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_0_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "普通添加",
+        e.textColor = 16777215,
+        e.x = 18,
+        e.y = 9,
+        e
+    },
+    n.btn_0_1_i = function() {
+        var e = new eui.Group;
+        return this.btn_0_1 = e,
+        e.x = 286,
+        e.y = 10,
+        e.elementsContent = [this._Image2_i(), this.txtLabel_0_1_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 35,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 105,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_0_1_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_0_1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "高级添加",
+        e.textColor = 16777215,
+        e.x = 19,
+        e.y = 9,
+        e
+    },
+    n.imge_add_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_add_0 = e,
+        e.source = "onekeythebest_view_effect_imge_add_0_png",
+        e.x = 54,
+        e.y = 11,
+        e
+    },
+    n.imge_icon_plus_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_plus = e,
+        e.source = "onekeythebest_view_effect_imge_icon_plus_png",
+        e.x = 8,
+        e.y = 4,
+        e
+    },
+    n.gr_btn_1_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_1 = e,
+        e.x = 25,
+        e.y = 248,
+        e.elementsContent = [this.imge_gr_btn_bg_1_i(), this.btn_1_0_i(), this.btn_1_1_i(), this.imge_tx_343_i(), this.imge_icon_change_i()],
+        e
+    },
+    n.imge_gr_btn_bg_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_gr_btn_bg_1 = e,
+        e.source = "onekeythebest_view_effect_imge_gr_btn_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_1_0_i = function() {
+        var e = new eui.Group;
+        return this.btn_1_0 = e,
+        e.x = 168,
+        e.y = 10,
+        e.elementsContent = [this._Image3_i(), this.txtLabel_1_0_i()],
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 35,
+        e.source = "common_btn_bg_blue_2_png",
+        e.width = 105,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_1_0_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_1_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "普通变更",
+        e.textColor = 16777215,
+        e.x = 18,
+        e.y = 9,
+        e
+    },
+    n.btn_1_1_i = function() {
+        var e = new eui.Group;
+        return this.btn_1_1 = e,
+        e.x = 286,
+        e.y = 10,
+        e.elementsContent = [this._Image4_i(), this.txtLabel_1_1_i()],
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 35,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 105,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_1_1_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_1_1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "高级变更",
+        e.textColor = 16777215,
+        e.x = 19,
+        e.y = 9,
+        e
+    },
+    n.imge_tx_343_i = function() {
+        var e = new eui.Image;
+        return this.imge_tx_343 = e,
+        e.source = "onekeythebest_view_effect_imge_tx_343_png",
+        e.x = 54,
+        e.y = 11,
+        e
+    },
+    n.imge_icon_change_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_change = e,
+        e.source = "onekeythebest_view_effect_imge_icon_change_png",
+        e.x = 8,
+        e.y = 4,
+        e
+    },
+    n.gr_btn_2_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_2 = e,
+        e.x = 25,
+        e.y = 320,
+        e.elementsContent = [this.imge_gr_btn_bg_2_i(), this.btn_2_0_i(), this.imge_tx_4444_i(), this.imge_icon_up_i()],
+        e
+    },
+    n.imge_gr_btn_bg_2_i = function() {
+        var e = new eui.Image;
+        return this.imge_gr_btn_bg_2 = e,
+        e.source = "onekeythebest_view_effect_imge_gr_btn_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_2_0_i = function() {
+        var e = new eui.Group;
+        return this.btn_2_0 = e,
+        e.x = 286,
+        e.y = 11,
+        e.elementsContent = [this._Image5_i(), this.txtLabel_2_0_i()],
+        e
+    },
+    n._Image5_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.source = "common_btn_bg_blue_2_png",
+        e.width = 105,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_2_0_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_2_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "前往强化",
+        e.textColor = 16777215,
+        e.x = 17,
+        e.y = 9,
+        e
+    },
+    n.imge_tx_4444_i = function() {
+        var e = new eui.Image;
+        return this.imge_tx_4444 = e,
+        e.source = "onekeythebest_view_effect_imge_tx_4444_png",
+        e.x = 53,
+        e.y = 12,
+        e
+    },
+    n.imge_icon_up_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_up = e,
+        e.source = "onekeythebest_view_effect_imge_icon_up_png",
+        e.x = 8,
+        e.y = 5,
+        e
+    },
+    n.tx_titile_3434343_i = function() {
+        var e = new eui.Label;
+        return this.tx_titile_3434343 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "当前特性：",
+        e.textColor = 16777215,
+        e.x = 61,
+        e.y = 6,
+        e
+    },
+    n.tx_num_i = function() {
+        var e = new eui.Label;
+        return this.tx_num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "精神",
+        e.textColor = 16777215,
+        e.x = 145,
+        e.y = 7,
+        e
+    },
+    n.tx_desc1_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc1 = e,
+        e.anchorOffsetX = 0,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "		      精灵的特性为进阶属性，需要在获得精灵后开启，\n特性会让精灵在战斗中产生多种多样的效果，合理地\n运用特性甚至可以扭转战局。",
+        e.textColor = 8631026,
+        e.width = 415,
+        e.x = 26,
+        e.y = 77,
+        e
+    },
+    n.tx_desc_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "特殊攻击伤害增加8%",
+        e.textColor = 6481510,
+        e.x = 62,
+        e.y = 28,
+        e
+    },
+    n.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.source = "onekeythebest_view_basicinfo_imge_icon_4_png",
+        e.x = 11,
+        e.y = 11,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/OnekeythebestViewHpSkin.exml"] = window.OnekeythebestViewHpSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imge_titile_bg", "imge_gr_btn_bg_0", "txtLabel_0", "btn_0", "imge_icon_0", "gr_btn_0", "imge_gr_btn_bg_1", "txtLabel_1", "btn_1", "imge_icon_1", "gr_btn_1", "tx_title", "tx_desc", "tx_num", "imge_icon", "hp"],
+        this.height = 399,
+        this.width = 457,
+        this.elementsContent = [this.hp_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.hp_i = function() {
+        var e = new eui.Group;
+        return this.hp = e,
+        e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.imge_titile_bg_i(), this.gr_btn_0_i(), this.gr_btn_1_i(), this.tx_title_i(), this.tx_desc_i(), this.tx_num_i(), this.imge_icon_i()],
+        e
+    },
+    n.imge_titile_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_titile_bg = e,
+        e.source = "onekeythebest_view_basicinfo_imge_item_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.gr_btn_0_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_0 = e,
+        e.x = 25,
+        e.y = 174,
+        e.elementsContent = [this.imge_gr_btn_bg_0_i(), this.btn_0_i(), this.imge_icon_0_i()],
+        e
+    },
+    n.imge_gr_btn_bg_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_gr_btn_bg_0 = e,
+        e.source = "onekeythebest_view_talent_imge_btn_bg_0_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_0_i = function() {
+        var e = new eui.Group;
+        return this.btn_0 = e,
+        e.x = 39,
+        e.y = 170,
+        e.elementsContent = [this._Image1_i(), this.txtLabel_0_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.source = "common_btn_bg_blue_2_png",
+        e.width = 106,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_0_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "普通养成",
+        e.textColor = 16777215,
+        e.x = 18,
+        e.y = 9,
+        e
+    },
+    n.imge_icon_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_0 = e,
+        e.source = "onekeythebest_view_hp_imge_icon_0_png",
+        e.x = 42,
+        e.y = 36,
+        e
+    },
+    n.gr_btn_1_i = function() {
+        var e = new eui.Group;
+        return this.gr_btn_1 = e,
+        e.x = 253,
+        e.y = 174,
+        e.elementsContent = [this.imge_gr_btn_bg_1_i(), this.btn_1_i(), this.imge_icon_1_i()],
+        e
+    },
+    n.imge_gr_btn_bg_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_gr_btn_bg_1 = e,
+        e.source = "onekeythebest_view_talent_imge_btn_bg_1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_1_i = function() {
+        var e = new eui.Group;
+        return this.btn_1 = e,
+        e.x = 39,
+        e.y = 170,
+        e.elementsContent = [this._Image2_i(), this.txtLabel_1_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 106,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_1_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "超级强化",
+        e.textColor = 16777215,
+        e.x = 19,
+        e.y = 9,
+        e
+    },
+    n.imge_icon_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_1 = e,
+        e.source = "onekeythebest_view_hp_imge_icon_1_png",
+        e.x = 37,
+        e.y = 36,
+        e
+    },
+    n.tx_title_i = function() {
+        var e = new eui.Label;
+        return this.tx_title = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "当前体力上限：",
+        e.textColor = 16777215,
+        e.x = 61,
+        e.y = 6,
+        e
+    },
+    n.tx_desc_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "		      精灵的体力上限为进阶属性，体力是精灵最基础的生存能力，提升体力上限可以大大提升该精灵在战斗中的生存率。",
+        e.textColor = 8631026,
+        e.width = 413,
+        e.x = 17,
+        e.y = 77,
+        e
+    },
+    n.tx_num_i = function() {
+        var e = new eui.Label;
+        return this.tx_num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "20/20",
+        e.textColor = 6481510,
+        e.x = 62,
+        e.y = 30,
+        e
+    },
+    n.imge_icon_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon = e,
+        e.source = "onekeythebest_view_basicinfo_imge_icon_4_png",
+        e.x = 15,
+        e.y = 12,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/view/OnekeythebestViewScoreSkin.exml"] = window.OnekeythebestViewScoreSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imge_item_bg_png", "imge_item_bg_0", "txtLabel", "btn_3", "tx_require_3", "imge_txdesc_3", "imge_icon_3", "item_3", "imge_item_bg_2", "txtLabel_2", "btn_2", "tx_require_2", "imge_txdesc_2", "imge_icon_2", "item_2", "imge_item_bg_1", "txtLabel_1", "btn_1", "tx_require_1", "imge_txdesc_1", "imge_icon_1", "item_1", "hengtiao", "txtLabel_0", "btn_0", "tx_require_0", "imge_txdesc_0", "imge_icon_0", "item_0", "tx_title", "tx_desc", "tx_num", "imge_icon", "score"],
+        this.height = 406,
+        this.width = 457,
+        this.elementsContent = [this.score_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.score_i = function() {
+        var e = new eui.Group;
+        return this.score = e,
+        e.cacheAsBitmap = !0,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.imge_item_bg_png_i(), this.item_3_i(), this.item_2_i(), this.item_1_i(), this.item_0_i(), this.tx_title_i(), this.tx_desc_i(), this.tx_num_i(), this.imge_icon_i()],
+        e
+    },
+    n.imge_item_bg_png_i = function() {
+        var e = new eui.Image;
+        return this.imge_item_bg_png = e,
+        e.source = "onekeythebest_view_basicinfo_imge_item_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.item_3_i = function() {
+        var e = new eui.Group;
+        return this.item_3 = e,
+        e.x = 25,
+        e.y = 268,
+        e.elementsContent = [this.imge_item_bg_0_i(), this.btn_3_i(), this.tx_require_3_i(), this.imge_txdesc_3_i(), this.imge_icon_3_i()],
+        e
+    },
+    n.imge_item_bg_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_item_bg_0 = e,
+        e.source = "onekeythebest_view_score_imge_item_bg_0_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_3_i = function() {
+        var e = new eui.Group;
+        return this.btn_3 = e,
+        e.x = 328,
+        e.y = 11,
+        e.elementsContent = [this._Image1_i(), this.txtLabel_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 34,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 63,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "兑换",
+        e.textColor = 16777215,
+        e.x = 15,
+        e.y = 9,
+        e
+    },
+    n.tx_require_3_i = function() {
+        var e = new eui.Label;
+        return this.tx_require_3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "需50积分",
+        e.textColor = 16765477,
+        e.x = 248,
+        e.y = 20,
+        e
+    },
+    n.imge_txdesc_3_i = function() {
+        var e = new eui.Image;
+        return this.imge_txdesc_3 = e,
+        e.source = "onekeythebest_view_score_imge_txdesc_0_png",
+        e.x = 54,
+        e.y = 12,
+        e
+    },
+    n.imge_icon_3_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_3 = e,
+        e.source = "onekeythebest_view_score_imge_icon_0_png",
+        e.x = 8,
+        e.y = 4,
+        e
+    },
+    n.item_2_i = function() {
+        var e = new eui.Group;
+        return this.item_2 = e,
+        e.x = 25,
+        e.y = 204,
+        e.elementsContent = [this.imge_item_bg_2_i(), this.btn_2_i(), this.tx_require_2_i(), this.imge_txdesc_2_i(), this.imge_icon_2_i()],
+        e
+    },
+    n.imge_item_bg_2_i = function() {
+        var e = new eui.Image;
+        return this.imge_item_bg_2 = e,
+        e.source = "onekeythebest_view_score_imge_item_bg_0_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_2_i = function() {
+        var e = new eui.Group;
+        return this.btn_2 = e,
+        e.x = 328,
+        e.y = 10,
+        e.elementsContent = [this._Image2_i(), this.txtLabel_2_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.height = 35,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 63,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_2_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_2 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "兑换",
+        e.textColor = 16777215,
+        e.x = 15,
+        e.y = 9,
+        e
+    },
+    n.tx_require_2_i = function() {
+        var e = new eui.Label;
+        return this.tx_require_2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "需60积分",
+        e.textColor = 16765477,
+        e.x = 247,
+        e.y = 19,
+        e
+    },
+    n.imge_txdesc_2_i = function() {
+        var e = new eui.Image;
+        return this.imge_txdesc_2 = e,
+        e.source = "onekeythebest_view_score_imge_txdesc_1_png",
+        e.x = 54,
+        e.y = 11,
+        e
+    },
+    n.imge_icon_2_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_2 = e,
+        e.source = "onekeythebest_view_score_imge_icon_1_png",
+        e.x = 8,
+        e.y = 5,
+        e
+    },
+    n.item_1_i = function() {
+        var e = new eui.Group;
+        return this.item_1 = e,
+        e.x = 25,
+        e.y = 140,
+        e.elementsContent = [this.imge_item_bg_1_i(), this.btn_1_i(), this.tx_require_1_i(), this.imge_txdesc_1_i(), this.imge_icon_1_i()],
+        e
+    },
+    n.imge_item_bg_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_item_bg_1 = e,
+        e.source = "onekeythebest_view_score_imge_item_bg_0_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_1_i = function() {
+        var e = new eui.Group;
+        return this.btn_1 = e,
+        e.x = 328,
+        e.y = 10,
+        e.elementsContent = [this._Image3_i(), this.txtLabel_1_i()],
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.height = 35,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 63,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_1_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "兑换",
+        e.textColor = 16777215,
+        e.x = 15,
+        e.y = 9,
+        e
+    },
+    n.tx_require_1_i = function() {
+        var e = new eui.Label;
+        return this.tx_require_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "需20积分",
+        e.textColor = 16765477,
+        e.x = 248,
+        e.y = 20,
+        e
+    },
+    n.imge_txdesc_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_txdesc_1 = e,
+        e.source = "onekeythebest_view_score_imge_txdesc_2_png",
+        e.x = 54,
+        e.y = 11,
+        e
+    },
+    n.imge_icon_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_1 = e,
+        e.source = "onekeythebest_view_score_imge_icon_2_png",
+        e.x = 10,
+        e.y = 6,
+        e
+    },
+    n.item_0_i = function() {
+        var e = new eui.Group;
+        return this.item_0 = e,
+        e.x = 25,
+        e.y = 76,
+        e.elementsContent = [this.hengtiao_i(), this.btn_0_i(), this.tx_require_0_i(), this.imge_txdesc_0_i(), this.imge_icon_0_i()],
+        e
+    },
+    n.hengtiao_i = function() {
+        var e = new eui.Image;
+        return this.hengtiao = e,
+        e.source = "onekeythebest_view_score_imge_item_bg_0_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btn_0_i = function() {
+        var e = new eui.Group;
+        return this.btn_0 = e,
+        e.x = 328,
+        e.y = 10,
+        e.elementsContent = [this._Image4_i(), this.txtLabel_0_i()],
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.height = 35,
+        e.source = "common_btn_bg_yellow_2_png",
+        e.width = 63,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txtLabel_0_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "兑换",
+        e.textColor = 16777215,
+        e.x = 15,
+        e.y = 9,
+        e
+    },
+    n.tx_require_0_i = function() {
+        var e = new eui.Label;
+        return this.tx_require_0 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "需50积分",
+        e.textColor = 16765477,
+        e.x = 248,
+        e.y = 20,
+        e
+    },
+    n.imge_txdesc_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_txdesc_0 = e,
+        e.source = "onekeythebest_view_score_imge_txdesc_3_png",
+        e.x = 54,
+        e.y = 11,
+        e
+    },
+    n.imge_icon_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_0 = e,
+        e.source = "onekeythebest_view_score_imge_icon_3_png",
+        e.x = 9,
+        e.y = 3,
+        e
+    },
+    n.tx_title_i = function() {
+        var e = new eui.Label;
+        return this.tx_title = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "当前精灵养成积分：",
+        e.textColor = 16777215,
+        e.x = 61,
+        e.y = 6,
+        e
+    },
+    n.tx_desc_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "1.精灵养成积分可以通过对精灵天赋、性格、特性、体\n力上限养成成功获得。\n2.精灵养成积分最多累计60点，当积分达到60点后，无\n法再累计，所以记得及时兑换奖励。",
+        e.textColor = 8631026,
+        e.width = 432,
+        e.x = 17,
+        e.y = 338,
+        e
+    },
+    n.tx_num_i = function() {
+        var e = new eui.Label;
+        return this.tx_num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "20/60",
+        e.textColor = 6481510,
+        e.x = 62,
+        e.y = 30,
+        e
+    },
+    n.imge_icon_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon = e,
+        e.source = "onekeythebest_view_score_imge_icon_png",
+        e.x = 15,
+        e.y = 9,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/OnekeythebestSkin.exml"] = window.OnekeythebestSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["_rect", "tx_alert", "Bg", "pet", "imge_pet_name_bg", "tx_pet_name", "pet_info", "img_item_bg_1", "img_item_bg_0", "tx_num_1", "tx_num_0", "imge_icon_1", "imge_btn_add_item", "imge_icon_0", "top_item", "basicinfoView", "talentView", "natureView", "studyView", "effectView", "hpView", "scoreView", "basic_info", "imge_leftBtn_bg", "rb_0", "rb_1", "rb_2", "rb_3", "rb_4", "rb_5", "rb_6", "imge_flag_0", "imge_flag_0_2", "leftBtn", "txtLabel_akey_0", "akeyjipin", "btn_close"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._rect_i(), this.tx_alert_i(), this.Bg_i(), this.pet_info_i(), this.top_item_i(), this.basic_info_i(), this.leftBtn_i(), this.akeyjipin_i(), this.btn_close_i()]
+    }
+    __extends(t, e);
+    var n = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Rect1_i(), this._Label1_i()],
+            this._Image1_i(),
+            this.states = [new eui.State("up", [new eui.SetProperty("_Label1", "textColor", 10729208)]), new eui.State("down", [new eui.AddItems("_Image1", "", 2, "_Label1"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.alpha = 0,
+            e.percentHeight = 100,
+            e.percentWidth = 100,
+            e
+        },
+        n._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 40,
+            e.source = "onekeythebest_imge_leftbtn_item_bg_png",
+            e.width = 143,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Label1_i = function() {
+            var e = new eui.Label;
+            return this._Label1 = e,
+            e.fontFamily = "REEJI",
+            e.size = 20,
+            e.text = "基础信息",
+            e.x = 30,
+            e.y = 10,
+            e
+        },
+        t
+    } (eui.Skin),
+    i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Rect1_i(), this._Label1_i()],
+            this._Image1_i(),
+            this.states = [new eui.State("up", [new eui.SetProperty("_Label1", "textColor", 10729208)]), new eui.State("down", [new eui.AddItems("_Image1", "", 2, "_Label1"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.alpha = 0,
+            e.percentHeight = 100,
+            e.percentWidth = 100,
+            e
+        },
+        n._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 40,
+            e.source = "onekeythebest_imge_leftbtn_item_bg_png",
+            e.width = 143,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Label1_i = function() {
+            var e = new eui.Label;
+            return this._Label1 = e,
+            e.fontFamily = "REEJI",
+            e.size = 20,
+            e.text = "精灵天赋",
+            e.x = 30,
+            e.y = 10,
+            e
+        },
+        t
+    } (eui.Skin),
+    o = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Rect1_i(), this._Label1_i()],
+            this._Image1_i(),
+            this.states = [new eui.State("up", [new eui.SetProperty("_Label1", "textColor", 10729208)]), new eui.State("down", [new eui.AddItems("_Image1", "", 2, "_Label1"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.alpha = 0,
+            e.percentHeight = 100,
+            e.percentWidth = 100,
+            e
+        },
+        n._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 40,
+            e.source = "onekeythebest_imge_leftbtn_item_bg_png",
+            e.width = 143,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Label1_i = function() {
+            var e = new eui.Label;
+            return this._Label1 = e,
+            e.fontFamily = "REEJI",
+            e.size = 20,
+            e.text = "精灵性格",
+            e.x = 30,
+            e.y = 10,
+            e
+        },
+        t
+    } (eui.Skin),
+    r = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Rect1_i(), this._Label1_i()],
+            this._Image1_i(),
+            this.states = [new eui.State("up", [new eui.SetProperty("_Label1", "textColor", 10729208)]), new eui.State("down", [new eui.AddItems("_Image1", "", 2, "_Label1"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.alpha = 0,
+            e.percentHeight = 100,
+            e.percentWidth = 100,
+            e
+        },
+        n._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 40,
+            e.source = "onekeythebest_imge_leftbtn_item_bg_png",
+            e.width = 143,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Label1_i = function() {
+            var e = new eui.Label;
+            return this._Label1 = e,
+            e.fontFamily = "REEJI",
+            e.size = 20,
+            e.text = "精灵学习",
+            e.x = 30,
+            e.y = 10,
+            e
+        },
+        t
+    } (eui.Skin),
+    _ = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Rect1_i(), this._Label1_i()],
+            this._Image1_i(),
+            this.states = [new eui.State("up", [new eui.SetProperty("_Label1", "textColor", 10729208)]), new eui.State("down", [new eui.AddItems("_Image1", "", 2, "_Label1"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.alpha = 0,
+            e.percentHeight = 100,
+            e.percentWidth = 100,
+            e
+        },
+        n._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 40,
+            e.source = "onekeythebest_imge_leftbtn_item_bg_png",
+            e.width = 143,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Label1_i = function() {
+            var e = new eui.Label;
+            return this._Label1 = e,
+            e.fontFamily = "REEJI",
+            e.size = 20,
+            e.text = "精灵特性",
+            e.x = 30,
+            e.y = 10,
+            e
+        },
+        t
+    } (eui.Skin),
+    s = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Rect1_i(), this._Label1_i()],
+            this._Image1_i(),
+            this.states = [new eui.State("up", [new eui.SetProperty("_Label1", "textColor", 10729208)]), new eui.State("down", [new eui.AddItems("_Image1", "", 2, "_Label1"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.alpha = 0,
+            e.percentHeight = 100,
+            e.percentWidth = 100,
+            e
+        },
+        n._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 40,
+            e.source = "onekeythebest_imge_leftbtn_item_bg_png",
+            e.width = 143,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Label1_i = function() {
+            var e = new eui.Label;
+            return this._Label1 = e,
+            e.fontFamily = "REEJI",
+            e.size = 20,
+            e.text = "精灵体力",
+            e.x = 30,
+            e.y = 10,
+            e
+        },
+        t
+    } (eui.Skin),
+    a = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Rect1_i(), this._Label1_i()],
+            this._Image1_i(),
+            this.states = [new eui.State("up", [new eui.SetProperty("_Label1", "textColor", 10729208)]), new eui.State("down", [new eui.AddItems("_Image1", "", 2, "_Label1"), new eui.SetProperty("_Label1", "textColor", 16777215)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.alpha = 0,
+            e.percentHeight = 100,
+            e.percentWidth = 100,
+            e
+        },
+        n._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e.height = 40,
+            e.source = "onekeythebest_imge_leftbtn_item_bg_png",
+            e.width = 143,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Label1_i = function() {
+            var e = new eui.Label;
+            return this._Label1 = e,
+            e.fontFamily = "REEJI",
+            e.size = 20,
+            e.text = "积分兑换",
+            e.x = 30,
+            e.y = 10,
+            e
+        },
+        t
+    } (eui.Skin),
+    u = t.prototype;
+    return u._rect_i = function() {
+        var e = new eui.Image;
+        return this._rect = e,
+        e.left = 0,
+        e.right = 0,
+        e.source = "blurry_base_bgmask_png",
+        e
+    },
+    u.tx_alert_i = function() {
+        var e = new eui.Label;
+        return this.tx_alert = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 37,
+        e.size = 17,
+        e.text = "点击任意空白区域关闭当前弹窗",
+        e.textColor = 12834813,
+        e.visible = !1,
+        e.y = 555,
+        e
+    },
+    u.Bg_i = function() {
+        var e = new eui.Image;
+        return this.Bg = e,
+        e.left = 93,
+        e.right = 25,
+        e.source = "onekeythebest_bg_png",
+        e.y = 67,
+        e
+    },
+    u.pet_info_i = function() {
+        var e = new eui.Group;
+        return this.pet_info = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 640,
+        e.horizontalCenter = -188,
+        e.name = "gr_petInfo",
+        e.verticalCenter = 0,
+        e.width = 760,
+        e.elementsContent = [this.pet_i(), this.imge_pet_name_bg_i(), this.tx_pet_name_i()],
+        e
+    },
+    u.pet_i = function() {
+        var e = new eui.Group;
+        return this.pet = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.width = 0,
+        e.x = 420,
+        e.y = 329,
+        e
+    },
+    u.imge_pet_name_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_pet_name_bg = e,
+        e.horizontalCenter = 24,
+        e.source = "onekeythebest_imge_pet_name_bg_png",
+        e.y = 98,
+        e
+    },
+    u.tx_pet_name_i = function() {
+        var e = new eui.Label;
+        return this.tx_pet_name = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 24,
+        e.size = 20,
+        e.text = "精灵名精灵名精灵名",
+        e.textAlign = "center",
+        e.textColor = 16770655,
+        e.y = 106,
+        e
+    },
+    u.top_item_i = function() {
+        var e = new eui.Group;
+        return this.top_item = e,
+        e.cacheAsBitmap = !0,
+        e.name = "gr_item",
+        e.right = 68,
+        e.y = 9,
+        e.elementsContent = [this.img_item_bg_1_i(), this.img_item_bg_0_i(), this.tx_num_1_i(), this.tx_num_0_i(), this.imge_icon_1_i(), this.imge_btn_add_item_i(), this.imge_icon_0_i()],
+        e
+    },
+    u.img_item_bg_1_i = function() {
+        var e = new eui.Image;
+        return this.img_item_bg_1 = e,
+        e.source = "onekeythebest_img_item_bg_1_png",
+        e.x = 187,
+        e.y = 4,
+        e
+    },
+    u.img_item_bg_0_i = function() {
+        var e = new eui.Image;
+        return this.img_item_bg_0 = e,
+        e.source = "onekeythebest_img_item_bg_0_png",
+        e.x = 22,
+        e.y = 4,
+        e
+    },
+    u.tx_num_1_i = function() {
+        var e = new eui.Label;
+        return this.tx_num_1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "99999",
+        e.textColor = 12834813,
+        e.x = 225,
+        e.y = 8,
+        e
+    },
+    u.tx_num_0_i = function() {
+        var e = new eui.Label;
+        return this.tx_num_0 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "99999",
+        e.textColor = 12834813,
+        e.x = 71,
+        e.y = 8,
+        e
+    },
+    u.imge_icon_1_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_1 = e,
+        e.height = 30,
+        e.source = "",
+        e.width = 30,
+        e.x = 174,
+        e.y = 0,
+        e
+    },
+    u.imge_btn_add_item_i = function() {
+        var e = new eui.Image;
+        return this.imge_btn_add_item = e,
+        e.source = "onekeythebest_imge_btn_add_item_png",
+        e.x = 302,
+        e.y = 4,
+        e
+    },
+    u.imge_icon_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_icon_0 = e,
+        e.height = 45,
+        e.source = "",
+        e.width = 45,
+        e.x = 5,
+        e.y = -9,
+        e
+    },
+    u.basic_info_i = function() {
+        var e = new eui.Group;
+        return this.basic_info = e,
+        e.name = "gr_bac_info",
+        e.right = 58,
+        e.y = 101,
+        e.elementsContent = [this.basicinfoView_i(), this.talentView_i(), this.natureView_i(), this.studyView_i(), this.effectView_i(), this.hpView_i(), this.scoreView_i()],
+        e
+    },
+    u.basicinfoView_i = function() {
+        var e = new oneKeyTheBest.BasicinfoView;
+        return this.basicinfoView = e,
+        e.skinName = "OnekeythebestViewBasicinfoSkin",
+        e
+    },
+    u.talentView_i = function() {
+        var e = new oneKeyTheBest.TalentView;
+        return this.talentView = e,
+        e.skinName = "OnekeythebestViewTalentSkin",
+        e.visible = !1,
+        e
+    },
+    u.natureView_i = function() {
+        var e = new oneKeyTheBest.NatureView;
+        return this.natureView = e,
+        e.skinName = "OnekeythebestViewNatureSkin",
+        e.visible = !1,
+        e
+    },
+    u.studyView_i = function() {
+        var e = new oneKeyTheBest.StudyView;
+        return this.studyView = e,
+        e.skinName = "OnekeythebestViewStudySkin",
+        e.visible = !1,
+        e
+    },
+    u.effectView_i = function() {
+        var e = new oneKeyTheBest.EffectView;
+        return this.effectView = e,
+        e.skinName = "OnekeythebestViewEffectSkin",
+        e.visible = !1,
+        e
+    },
+    u.hpView_i = function() {
+        var e = new oneKeyTheBest.HpView;
+        return this.hpView = e,
+        e.skinName = "OnekeythebestViewHpSkin",
+        e.visible = !1,
+        e
+    },
+    u.scoreView_i = function() {
+        var e = new oneKeyTheBest.ScoreView;
+        return this.scoreView = e,
+        e.skinName = "OnekeythebestViewScoreSkin",
+        e.visible = !1,
+        e
+    },
+    u.leftBtn_i = function() {
+        var e = new eui.Group;
+        return this.leftBtn = e,
+        e.anchorOffsetX = 0,
+        e.cacheAsBitmap = !0,
+        e.name = "gr_leftBtn",
+        e.width = 243,
+        e.x = 35,
+        e.y = 28,
+        e.elementsContent = [this.imge_leftBtn_bg_i(), this.rb_0_i(), this.rb_1_i(), this.rb_2_i(), this.rb_3_i(), this.rb_4_i(), this.rb_5_i(), this.rb_6_i(), this.imge_flag_0_i(), this.imge_flag_0_2_i()],
+        e
+    },
+    u.imge_leftBtn_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_leftBtn_bg = e,
+        e.source = "onekeythebest_imge_leftbtn_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    u.rb_0_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_0 = e,
+        e.groupName = "pve_minor",
+        e.height = 40,
+        e.selected = !0,
+        e.value = "0",
+        e.width = 143,
+        e.x = 28,
+        e.y = 85,
+        e.skinName = n,
+        e
+    },
+    u.rb_1_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_1 = e,
+        e.anchorOffsetX = 0,
+        e.groupName = "pve_minor",
+        e.height = 40,
+        e.value = "1",
+        e.width = 143,
+        e.x = 28,
+        e.y = 148,
+        e.skinName = i,
+        e
+    },
+    u.rb_2_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_2 = e,
+        e.groupName = "pve_minor",
+        e.height = 40,
+        e.value = "2",
+        e.width = 143,
+        e.x = 28,
+        e.y = 210,
+        e.skinName = o,
+        e
+    },
+    u.rb_3_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_3 = e,
+        e.groupName = "pve_minor",
+        e.height = 40,
+        e.value = "3",
+        e.width = 143,
+        e.x = 28,
+        e.y = 273,
+        e.skinName = r,
+        e
+    },
+    u.rb_4_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_4 = e,
+        e.groupName = "pve_minor",
+        e.height = 40,
+        e.value = "4",
+        e.width = 143,
+        e.x = 28,
+        e.y = 336,
+        e.skinName = _,
+        e
+    },
+    u.rb_5_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_5 = e,
+        e.groupName = "pve_minor",
+        e.height = 40,
+        e.value = "5",
+        e.width = 143,
+        e.x = 28,
+        e.y = 398,
+        e.skinName = s,
+        e
+    },
+    u.rb_6_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_6 = e,
+        e.groupName = "pve_minor",
+        e.height = 40,
+        e.value = "6",
+        e.width = 143,
+        e.x = 28,
+        e.y = 461,
+        e.skinName = a,
+        e
+    },
+    u.imge_flag_0_i = function() {
+        var e = new eui.Image;
+        return this.imge_flag_0 = e,
+        e.source = "onekeythebest_imge_flag_0_png",
+        e.x = 12,
+        e.y = 323,
+        e
+    },
+    u.imge_flag_0_2_i = function() {
+        var e = new eui.Image;
+        return this.imge_flag_0_2 = e,
+        e.source = "onekeythebest_imge_flag_0_png",
+        e.x = 12,
+        e.y = 385,
+        e
+    },
+    u.akeyjipin_i = function() {
+        var e = new eui.Group;
+        return this.akeyjipin = e,
+        e.cacheAsBitmap = !0,
+        e.horizontalCenter = -161,
+        e.name = "akeyjipin",
+        e.y = 476,
+        e.elementsContent = [this._Image1_i(), this.txtLabel_akey_0_i()],
+        e
+    },
+    u._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 46,
+        e.source = "common_btn_bg_yellow_png",
+        e.width = 156,
+        e.x = 0,
+        e.y = -1,
+        e
+    },
+    u.txtLabel_akey_0_i = function() {
+        var e = new eui.Label;
+        return this.txtLabel_akey_0 = e,
+        e.fontFamily = "REEJI",
+        e.horizontalCenter = 0,
+        e.size = 20,
+        e.text = "一键超级极品",
+        e.textColor = 10181146,
+        e.y = 13,
+        e
+    },
+    u.btn_close_i = function() {
+        var e = new eui.Image;
+        return this.btn_close = e,
+        e.right = 28,
+        e.source = "title_pop_2022_btnclose_png",
+        e.y = 50,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/pop/OnekeythebestPopAlertSkin.exml"] = window.OnekeythebestPopAlertSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["imge_alert_bg", "imge_close", "imge_tx_desc_bg", "tx_desc_0", "tx_desc_1", "tx_desc_2", "tx_desc_3", "tx_desc_4", "tx_desc_5", "tx_desc_score", "tx_get_score", "score_tx", "imge_head_bg", "imge_head", "tx_score_title", "tx_score", "alert"],
+        this.currentState = "state_1",
+        this.height = 499,
+        this.width = 1023,
+        this.elementsContent = [this.alert_i()],
+        this.tx_desc_3_i(),
+        this.tx_desc_4_i(),
+        this.tx_desc_score_i(),
+        this.score_tx_i(),
+        this.states = [new eui.State("state_1", [new eui.AddItems("tx_desc_3", "alert", 2, "tx_desc_5"), new eui.AddItems("tx_desc_4", "alert", 2, "tx_desc_5"), new eui.AddItems("tx_desc_score", "score_tx", 0, ""), new eui.AddItems("score_tx", "alert", 2, "imge_head_bg"), new eui.SetProperty("tx_desc_2", "x", 169), new eui.SetProperty("tx_desc_2", "y", 137), new eui.SetProperty("tx_desc_5", "x", 316), new eui.SetProperty("tx_desc_5", "y", 137)]), new eui.State("state_2", [new eui.SetProperty("tx_desc_0", "y", 113), new eui.SetProperty("tx_desc_1", "y", 135), new eui.SetProperty("tx_desc_2", "y", 157), new eui.SetProperty("tx_desc_5", "x", 274), new eui.SetProperty("tx_desc_5", "y", 157), new eui.SetProperty("tx_score_title", "x", 139), new eui.SetProperty("tx_score_title", "y", 235), new eui.SetProperty("tx_score", "x", 300), new eui.SetProperty("tx_score", "y", 235)])]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.alert_i = function() {
+        var e = new eui.Group;
+        return this.alert = e,
+        e.cacheAsBitmap = !0,
+        e.x = 240,
+        e.y = 99,
+        e.elementsContent = [this.imge_alert_bg_i(), this.imge_close_i(), this.imge_tx_desc_bg_i(), this.tx_desc_0_i(), this.tx_desc_1_i(), this.tx_desc_2_i(), this.tx_desc_5_i(), this.imge_head_bg_i(), this.imge_head_i(), this.tx_score_title_i(), this.tx_score_i()],
+        e
+    },
+    n.imge_alert_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_alert_bg = e,
+        e.source = "onekeythebest_pop_alert_imge_alert_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.imge_close_i = function() {
+        var e = new eui.Image;
+        return this.imge_close = e,
+        e.source = "onekeythebest_pop_alert_imge_close_png",
+        e.x = 439,
+        e.y = 1,
+        e
+    },
+    n.imge_tx_desc_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_tx_desc_bg = e,
+        e.source = "onekeythebest_pop_alert_imge_tx_desc_bg_png",
+        e.x = 26,
+        e.y = 68,
+        e
+    },
+    n.tx_desc_0_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc_0 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "此次精灵性格的普通养成使",
+        e.textColor = 12111615,
+        e.x = 169,
+        e.y = 93,
+        e
+    },
+    n.tx_desc_1_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc_1 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "精灵精灵名字",
+        e.textColor = 16765477,
+        e.x = 169,
+        e.y = 115,
+        e
+    },
+    n.tx_desc_2_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc_2 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "的性格由",
+        e.textColor = 12111615,
+        e.x = 169,
+        e.y = 137,
+        e
+    },
+    n.tx_desc_3_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc_3 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "0",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 34,
+        e.x = 242,
+        e.y = 137,
+        e
+    },
+    n.tx_desc_4_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc_4 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "变为",
+        e.textColor = 12111615,
+        e.x = 280,
+        e.y = 137,
+        e
+    },
+    n.tx_desc_5_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc_5 = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "冷静",
+        e.textColor = 16514896,
+        e.x = 316,
+        e.y = 137,
+        e
+    },
+    n.score_tx_i = function() {
+        var e = new eui.Group;
+        return this.score_tx = e,
+        e.x = 169,
+        e.y = 158,
+        e.elementsContent = [this.tx_get_score_i()],
+        e
+    },
+    n.tx_desc_score_i = function() {
+        var e = new eui.Label;
+        return this.tx_desc_score = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "同时你还获得了  点精灵养成积分！",
+        e.textColor = 12111615,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.tx_get_score_i = function() {
+        var e = new eui.Label;
+        return this.tx_get_score = e,
+        e.fontFamily = "REEJI",
+        e.size = 17,
+        e.text = "1",
+        e.textColor = 16514896,
+        e.x = 119,
+        e.y = 0,
+        e
+    },
+    n.imge_head_bg_i = function() {
+        var e = new eui.Image;
+        return this.imge_head_bg = e,
+        e.source = "onekeythebest_pop_alert_imge_head_bg_png",
+        e.x = 42,
+        e.y = 92,
+        e
+    },
+    n.imge_head_i = function() {
+        var e = new eui.Image;
+        return this.imge_head = e,
+        e.source = "onekeythebest_pop_alert_imge_head_png",
+        e.x = 43,
+        e.y = 93,
+        e
+    },
+    n.tx_score_title_i = function() {
+        var e = new eui.Label;
+        return this.tx_score_title = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "当前精灵养成积分：",
+        e.textColor = 8631026,
+        e.x = 139,
+        e.y = 235,
+        e
+    },
+    n.tx_score_i = function() {
+        var e = new eui.Label;
+        return this.tx_score = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 17,
+        e.text = "999",
+        e.textColor = 16514895,
+        e.x = 300,
+        e.y = 235,
+        e
+    },
+    t
+} (eui.Skin);

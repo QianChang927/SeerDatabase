@@ -1,1 +1,515 @@
-eval(function(){function Z(Z){for(A=J=0;A<Z;)C<2&&(C=64,B=92<(B="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<VfkiRs:Pk;`AAaxZ<>SJDQ?sR`u>AHkFDi^>oBeOQ;s:ZP@@I]JL?sDP>=?eXrZu<RRAu>Z:tbFaHc:ABZMvb:;>:<NH?xYjFcHZJ::^:=]?INxGi;::pbZP=LuS[aTmzidjeDPCSJZL]YpB^>sc`iAZ;FB[AVMaWII;YA::FEsC=lX:gM=kb[]Aaoi::LKRQQB[:hT:OdEPhQBbDtN=kgNyN::MHKZBJw?mNCZ:J;@IQ=BvrBqcLrPiCa_qlXDX>:Rf@>OF@[v=FP[Z;<u;RSeJA:BTHEaGeYAdAr=qbSoaUV<Zu[RdF?hMp:S:wK:ubJ:;`>HZnOkgbs:p:<DZt[Io`HSzI?wiPDjLrOmKlDO:iNkWlJxvHTuLTnSji]sDYm?nLUXu[ihllm=:I;LKkE::;>s;^O;QQW=Z:?_J;R>;LMZF;mAjPBk=@;:>@yH;o::=J:TZ^::qIRBLFStQ^ZiBa=:rkJ:HJ<PLkRk:@Ry:^IZ_kgI;^AdXC>;:CZ_AJX_h_shKnod<OnZ=@MePWYOdotM;K<MYKl?=?;xAdJ;F^N:BrM:?@Bk:AMIdVBBmoZdo?oy`::SpJn:=>MJ:yuBgj[qHgbLs=ok:jxQgk;yBo:TINEI<:FuKRC[F?cmE^MZNoReRUOEAL<Da=t<xp;zJGiKWFFFgdSBD<=>FkmZCGm>N`E]hmzEyQB?gN:kH;sZ:GPEC[n]MTfYmJJZC?=H;I_SMONGJtldKyPNwe@jZ:??Z=]W:>DJ`<oDbXB?ePiWyf]O=i;fPJs>LfU^rB@g:>?j^ae:sEae_:?Nc@iiVtfG::OD:nJ:<Jie_XKic]?ItHLXgwNRKnZWviPuwVkT=@UIZDxKoI]MU?iIAU@^qg;WACY=m?H]JYfyZ@kTnK<NH[f_XfpBaOiJp=NYKvUWiXQAaLtNs]YBF<QJii<l]dF<jhyzutf:gADONi:kEkP_iA]PbtcltU>FSxToTCf@gbqvgsBsBL_ABLTXSf;u:>oc::FJXl_eKWWuvUaeQp;`iP?RLSP:q`opPfk?teb<Jsf_n<@eS[ipPAD;plALIwtZT_tp:i`Zw>yQkRPm[H:C^?tp=T<KGna=?Pgk::@XATe@t@@fZCe<rTd;HgkCFDHKE::=xHz<i]usU`eawu[[HIHElrP:wu^fS?@NIJK@<@eVZ>=kFMxjhP?K;OR`BN=JCF@k>[msIsRRrNFRP<J@lJbqWVygTV[OC:PRH;^BMqacm>a=N<uk=:>:U=EZlEJ@>X[ZsO^=dMD@rBcvt<nbA<ZHV_vn?MibMHcCgv?pnZA<R;W?ZGQzDQ<ivWB;Wovhk<F;xi=Wk=:^HeaOyuo>A[pH:=:Nmd_k=JpDYW@dFET]k_XJ[F=^lQeLDXERSuOQkZjCXDwpuskr]BEXy?OLO=rcwKJC:g<R=N@Y<yOwUtv=jjpKy^>Qtjr@dzH:rxm<zrzc:^Zk<RvTa>H:xF[d:^_?xf>YqElRAHCeH_UlghtTY>OhNVasWc?V]=jeWl`Rj?ipG;vFC<Kz>Z`^Z@I:swc<__VRP:Z?sk=JNkBq:Hls^m]D_YIFFEdlvV;MI=@BmslL;_mFBhcklLMHZXZNRqKt?eEAX[kWuVKrdz<oB[XBr;>RFnPhNe_M;I^I[W@;;dk[gfCo^>PEFV:Ec>;fD@=Hu[>n`nVTAMlJ`@[n;gH_y;TREbq>YZsCcA:U;?[EA=P[pV_UpQZ@>lTqgqUvMZI^<JIFLU]o]O:uahGZu[:H_W:qwKKCu<FLU?_Npt]D:]E:K:=WW:JCi?qM?_^CcnrdDsvZrRSsF@dTLqNu_Uvv:[?JY?h:]edAQA]aZ@;V^KkmUk:JJZT]L@_EBKkHDO<A<o=cIJ[ZM=a?iGRJB_ef:V`OM:=kswY;fZ<@sRB[[k^e]mB_M`P^stJ>mCeAB^:;NkaDA<Xp<CeZBEeHITtEJM^hAJCoUc>Cy[]_[FBRRck<<M;aAF;RLkO^y[qGgMRykJsSbrZw`Gx[U^lEH>w?sUky:oh`B<=Xu:_LJ<[FuccMes>OAYDPm>n[oMhalE]?ByBO>vq@<DFNV_dJFjaB^XNRc;=DbUPeDp@dg]u>gHPEGb]hnlO];TOXHSUJUnfYCOh>[SpIIbTTCWOcUJYDUPPIZEcFscKf>kW:CkP<xGQgn=wpsU;w=QTBI:<;i<MMaNnO:KCCfPpOD@B_loSn_;J<HQ:::yM:::PVitVL::]zXfXSjuk=zg:sLX:<>NU^ot@D:Z:;dH:G[<O]ZxAZXB@nhvx@:;kL^>:Ecm=:Cw;eYkC^VAdItJ:mZa:AW?J:BPu:@wYBDZ:ANo:IHCZ;JqF:HIlZ:?GF:@lDZ:BYvZyQJ:OAD:>[zk:ZIyNcH;yZ><>lMYjPeoF:UcDF>Axic>ZOSREK^kHYLyG[[:oRZAKm^r:bKo`Fk;EoH:YK]`CFcLxQCsmcNFxNho^K>EJLQfq<RcmR]VV::UmZ:GyF:E;mZ;uFpT]uTRZ:DOo:Hl@Pa=;FWJ_QW^bA::BKc:E^_gjM>:EC@Z;vtN:ELlZ:AHN:F[mZ:xAPFc:HmFGIdV:@JeZ:@to:;MeOPTi:AlzkNfvdZ:E<ns@R:=e^D:goXOtk<oEn=];SucyZZg[U:@?iX>QHKg?fPl^ZVQF]VV:>?aZ:eVo::=uZ:yNo:==zZ:UNo:HzKZ;wVo:DAu`EaN_CKCZPSD@aUeA:<qK@S@UGX>T>a^xu;^=`nFHJLDbk::wZHkkAYkcgtSG[Obf>KtuD^WT^=]><AdSZlBZIk<j>kIARS;LNYoGS]^LgNYFwx=S`AcJx^BhKP?qEYHN:fEPWp>JcKush_Rwlp^gQHGwWLs:Sh^YjXpr?fOPHgVSskCBMOPCgte<pT[E@q^Bl[kPXix<uSF:lQGXVyi@xGZXTlSd^R?iGxT@rf[]fsShERqnhZvCq^BQRymLMsb;VD;;>eXNz<oN=s[rBkXBTIklRxKFEBqowXcIlIkRFYM`d^HLf<B;yV^A:<xIpW^EQlA@Gb[=MKsdtkLTyCwmX_JTsR_Co^TM>:jSY_YH^:r>N_N@::VmZg`VwAkJCZQCfbyXsCQNYkZ]EobBHjy_y[CwX]vsBECsw@d?CDPNdT`MCtnk:pMf=fdubUywpKg@AXc:ctvpZX_xBZUhutoglzSNQwlZB=^:M<M:;=vqzoyAymk<;pP[;n;pW==?Em[qU;EQKQ:lAlk>ZkJlEk=<YK=:IoDLC@Inu`Ims<eNHpeOjkKmKocqm`kCYp]?vr[oClKpQqok[AH@JlZEJ^Jkkmjq:lkqeLAbY=jmCnp<F:;?RMc@@=U@Q?RAJ?Kl>Bn]]=q=`ZBAN;_;g=jPG[UAJ=a]J[<qaKkEdm>=s:;AEam[w?qQqNHQJ@HOHQflMqXPiMXOUpWMINS_jPjLs<oF:]@`Y^qNyPl;O]P^<ryQwDRqIJB@m^<F;JpnWqpkC[ta=oGqGqh`GrGqy>hqhrL?hliN^nZ:KPgMN>K[@ZL=@^:?jaxmlQN>K[lMSOtMw:Uof>v:EQa<eCb_K`yrdK`Aa=dOTCHO>=ypSQAOGLL?e:hNJK@ChQtPfLD?p?D:fNe?WJ=:xLT<xMT:u<u?lZ=J@@=O=Q@<a;Ya^OBp^PkI^MZ;q<MKMki@rMrqiFz^<=q:a=?A]AHm_QS`G=aZX[W>k@XBL=XCJZyG]<yCW:R>@Es>;GJ_yHyBo?w;k<L>[Iza;C[G;pk?hQ;FKH[CW<M[g;J<L?Vr]:Z>f_lHKHlDvKR<L:lCl]lG[EKB>bZ:BHDMZ::Ac]]Gk?J<;aMmOdckl;oP;m;c[IZ_:CCY]Q]r^iMypXL?KQ<Lo?^S^BK`]^ogwkSmMdh?Z_Z;CV<iJP;;KuJu<``WMV=g_i;=LuWWM^LWMHkbxWxnLmcydI[JlUL[dbw=MHk<ZuJflKlHk<;qCmtlBrMoss;WMHKLKIMZn_CBlkmjMuJHwCBkSYGZCJCPs:;q@=F@SsyBQ:Oi@=SFg@XiBTCT:Z?UCT>kECFeK>FkNB>p@pDW?:m]@sltH:GhE=JGMoVgpkihE:Dl@lS@SgpKFgcTU:PsIsB<::ElQ@E=G<Pb@_fZ_>@JDAK<bHI;bGiAnB]bJ<ECQ;EHFAQAVCJ]M;=:]LFCg>IHmZhGIGzqWGrkjBAI=AhG=;jIUnzmPNYHD_=GYEe;=GIBg?xQp<Z=rEZ:IDF?YJ[<vGnLDIB::fvCr]E]IkS@v:r?`?dlg<z<A;A=AAB<]>k@sZ_?iObI:LGBvG>?:dnOX:ZhvHVqIDAB_<kfMGkhUbR`ApQCJAQFrHQHI?EIL<pCR:zFz=dlWI=>K=;]GCmJfDOAp@sd=<BdBivHDIILUFcesjsipHcgIoBIZglNJjS>_iA<xCccf`i=kj>fNApF>i_cv`Bez^N=b@tAfaZdC<NdICKpNeu@I@h`d?Q`iQd=Zah`y>day^Z=k:kg:GADu]Rc_:REYpxIZkkg]e:JqDMAE]M?AmM<M;ZpB`iAbHmNbHbITAB::?SUZgELCwfm::;HRmj]_wwws<]hOp@Lw<alD<lL]Z>LfZOL[F_<E:QosVhcI:VVswADtVxc::PZ^;kfNeSFk;CLy<ojN=kDs?mQmMJfoi^;DqmeJ<QFk`UZDhi:nDnCuhzEN;ejFhBNgcZiThAKKAUrAZug<eugk?ApbC@=uc@gt>qhmcFhZjNiacJhvAajIGockemgQFyd@cec_Aqdk>Xjkjp@hHW<_d:cgh_jB;get=gdTfeA[g`As:_?VjJAVcWDjaadwfwdA:<e<hufABbByi@gk?qeEbueuZmc]jTQd=skthsqsrQrB?]gmA]jT=LjmdZrRbRbmc[jB?iQ<j:LYrjIJ>KfegvIHdgMKcleihjDZ=`dVdQ>CgwdChwj=Zdi<eSinGi>]iag:AbfJ:NxFSG:;?KN:<lzdFS_dFIatdKl=Ra=SDtFdFJuqnJ:_EKFP@M<n:QqqtODuPi@twgmd@gu`@pPd:Xmuu]ZTodSUPhm^msavmZqzmkD^<_VzeaafTwTFP[a[e>qtDcNOtRNEeLiiRTiZPpiYDtDnqrFparjX_FenipqdVWqkPa=RPoPwPgq]wEFIJv_?:;ISFJmn:Fei]w;WokVPeqRyet@lehJ<]xPxB;XpLZ:c:wsDXzLg]TX]F<PhVkgsg^]bVfXxwp<cLZFAojovwme[Xno[PtXdP`@mu`gdHnwayo_OLl__d@TbgC<`yp<c@cefumPfuw;;yyPdXZCR]pXg]`Pqm[Hn@[eQof:Q@tXAP^HfmoakqrHcNVii]pzTTk:LmOYM:;DMPvcUeM?BbR]M@xhAosbocRXIiYc^BJV?JzfQjB:riziyQzdkWrc=cIi=iXhiKIiRcEHI=RhQ>sde`=GjeIDrc^B^<YeHdm[NW=CsYZJTdJU_gS_Mi>VxB:UZhygojyct:^I:YJgZT_SZYp<zFoYoTMoFTghKfJWFYNW=FcKkYlhpgngBSngdgSh<hGfUfYpAo::m^H[ripiN]SF`C]FCFJezLpiu;b<yjJcalI_jN>_i:>>q_y>y_[kH<p_vyW_Z^E_jhHN;N:NeBBN_Njsps]RWcqNI_aNeh@H;NoOMIEtWBONw:=V_kINuFhDS@RFhqgNVobCICDoRFx_<FVFsFCz?qhov_NeSopSngKLPbQNnPzeBtf;HFZFMedFo]H=WFm^EFpDx]?axBFyyK]yh]A:jKhK]ZDSz_Q]fSGlftgwQtuwQ]bHUwegeRmWIY?`S>WlmhHNjdqhSIJScByy[NGNgSZL@JW@d:OJxJZ;Vttt`]wyfVmyrVyLc<k?g=G;j?^JfKsSn_PB=N`@vsK`xwX_L_JNRkQRIZ?`h`n^Wdmo^RY[j<W:Bs_fN^X_Yw]`rNk;cF`culo;vS^Se:JO`Tm`A`j`oo:OkZVX`eE`rRLguge?uWYvBkCcgsKHhJTOlaB<ouZAMyyLrll;:<dFOL[RT<Rw<a[ulDtuiOelqTal_e?Omw<;fWO<Mpx:::WMiX[hxVeilYf`dR:MYgJVwRZj^iWUe>MWlVBAlWiKkYnfXe@iqiXd;dESQGzBDGoAmRO=p?QMeh`IhAuXKUU@OEKU?:lRpId;nXMSg>CRc;XRrEXTNWz?WWshvUnUdU>jjfSXSS?YtRtR?=s@tYfRQXpV>bHm?SSYkb?VP>`ShYrG`UZhpEyeOYPUD_oUOT;i>>pYQW];pRB=pY]:GWjR[XhKGUfG[RUIMJNeiihYAU[SQh^jsTzjvI^`WYWR^TPaxTMI^Xyeai:UahgRjWqTZ?=RVY=TSHI;^VnE^YZkMSdTbSMT:vsTFXwSlTnXdSlUvRuhXgEgyfEYPh;fdh[ifRZcDUsAEkhV<>Mc:`jjhU:jBv:tZesd>TdcEg@hdhET?>gTJtgWJc:<hp;OfmrdIDrkZ:BYbFdNrX@_@JImI;AkIjauC_SODgDb@RFBu:CzbWH=A_@j@^IKI]cOavf>niePU:CrIRFqA:lgONexfRrgnIH[q?AhnmQUPzbSaXDvuUf?f?bsZhAGID;:I;I`U^@NCMACeZ@nrqKotJnsZw;G@krZuYUduFb_jo;civHI@AHFqY@F@eiXulJou<UwAxTmULJ^TCI]rpIq[LeFamvBb_fm:_e_eau_e_kmfLCKwCfnUuKms>aal;TBlP@fHmjuEKxm;>fRS_jnm>iTjRtoqaebPFAxjw_rHAfYT]q@HuTKfLBCfzQtH_EnifKpQFfaHDrKeCecTJvRT:B=aJQLIxHAQy@bHADD;:XccV@gEa@ZvU`fbSAPDKqfuTdNIklDQG``QEq_iiHVdoYmd=jZIJYmI@JdlH;I<UoeIZqmcrPVA?BXpuJTYbM?CZTP?dfGbxDb@zP?JXoWKYmUIgXoIZY^ip:mY<iH;DXi;eX[Ykk:bUZ@YbKdfaYklPYFfqYuJxbq@<IuDXYio`Y?J;YD:g>]XmHjAQkLsN:k:eHVtODiRj=IZSvUZN:>:g;a@gaZBAe^uBfzI>fFeV>w?gAstvts@^n_j^b@[MXJX[Hj@WRUXJzODG<EkZz>?rdOss:UDU;_zFYlD:Bc:oyN;FzgyczKYm:<yFy:?_zMAVaTqp:<axZZ:".charCodeAt(g++))?B-59:B-58),J|=(0<(B&(C/=2))?1:0)<<A,++A}for(var k,J,A,F,B,I=[],H=1,i=3,e=1,_=[],C=0,g=0;;){if(Z(e+1),2==J)return _.join("");-2&(F=J)||(Z(8*J+8),I[F=i++]=String.fromCharCode(J),--H||(H=2<<e++)),_.push(F=I[F]||k+k[0]),k&&(I[i++]=k+F[0],--H||(H=2<<e++)),k=F}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+roomShop; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t.groupName = "RoomShop_tabGroup",
+            t.skinName = RoomShopSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.createChildren = function() {
+            GameInfo.isChecking && (this.tab_item_2.visible = !1),
+            e.prototype.childrenCreated.call(this),
+            e.prototype.initBtnClose.call(this, "room_shop_close_png", this),
+            this.adaptLeftContent(this._scro),
+            this.adaptLeftContent(this.group_bu),
+            this.adaptBgByScale(this.bg),
+            this._scro.right = DeviceInfoManager.adapterOffSetX + 26;
+            var i = new MenuData;
+            i.root = [3, 2, 1],
+            i["default"] = 3,
+            i.groupName = this.groupName,
+            i.data = {
+                1 : {
+                    title: "墙面装饰"
+                },
+                2 : {
+                    title: "地面摆设"
+                },
+                3 : {
+                    title: "基地房型"
+                }
+            },
+            this.menu = Menu.createMenu(i, this.menuGroup),
+            this.tabItemGroup = this.tab_item_1.group,
+            this.tabItemGroup.selectedValue = 1,
+            this._list.itemRenderer = t.RoomShopItem,
+            EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.changeTab1, this),
+            this.tabItemGroup.addEventListener(egret.Event.CHANGE, this.changeTab, this),
+            EventManager.addEventListener(RobotEvent.DIAMOND_CHANGED, this.updateDiamond, this),
+            EventManager.addEventListener(roomModel.RoomEvent.BUY_FURNITURE, this.updateDiamond, this),
+            this.updateView()
+        },
+        i.prototype.changeTab1 = function() {
+            this._scro.stopAnimation(),
+            this._scro.viewport.scrollV = 0,
+            this.tabItemGroup.selectedValue = 1;
+            var t = ~~this.menu.selectedValue || 3,
+            e = config.BaseShop.getItems().filter(function(e) {
+                return e.type == t && 0 == e.vipOnly
+            });
+            this._list.dataProvider = new eui.ArrayCollection(e)
+        },
+        i.prototype.changeTab = function() {
+            this._scro.stopAnimation(),
+            this._scro.viewport.scrollV = 0;
+            var t = ~~ (2 == (~~this.tabItemGroup.selectedValue || 1)),
+            e = ~~this.menu.selectedValue || 3,
+            i = config.BaseShop.getItems().filter(function(i) {
+                return i.type == e && t == i.vipOnly
+            });
+            this._list.dataProvider = new eui.ArrayCollection(i)
+        },
+        i.prototype.updateView = function() {
+            this.updateDiamond(),
+            this.changeTab()
+        },
+        i.prototype.updateDiamond = function() {
+            this.icon_gold.source = ClientConfig.getItemIcon(1),
+            this.txtCoin.text = core.gameUtil.ConvertToTenThousand(ItemManager.getNumByID(1)),
+            this.top_2.cacheAsBitmap = !0
+        },
+        i.prototype.destroy = function() {
+            e.prototype.destroy.call(this),
+            this.tabItemGroup.removeEventListener(egret.Event.CHANGE, this.changeTab, this)
+        },
+        i
+    } (BaseModule);
+    t.RoomShop = e,
+    __reflect(e.prototype, "roomShop.RoomShop")
+} (roomShop || (roomShop = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+roomShop; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = RoomShopItemSkin,
+            e
+        }
+        return __extends(e, t),
+        e.prototype.createChildren = function() {
+            var e = this;
+            t.prototype.createChildren.call(this),
+            ImageButtonUtil.add(this.buy,
+            function() {
+                if (RoomManager.curRoomFurnitureMap.length >= 400 && !RoomManager.curRoomFurnitureMap.containsKey(e.info.id)) return void Alarm.show("基地道具的类型数量超过限制（400个）！");
+                if (!MainManager.actorInfo.isVip && e.info.vipOnly) return void(GameInfo.isChecking ? BubblerManager.getInstance().showText("你还不是VIP用户！") : Alert.show("成为VIP才可购买专属装扮！是否现在成为VIP？",
+                function() {
+                    PayManager.canPay() ? VipController.openVip() : BubblerManager.getInstance().showText("暂未开放，敬请期待")
+                }));
+                var t = ItemManager.parseItem(e.info.cost);
+                if (t[0].num <= ItemManager.getNumByID(t[0].id)) {
+                    var i = {
+                        type: "furniture_buyItem",
+                        id: e.info.id,
+                        num: e.info.num
+                    };
+                    ModuleManager.showModuleByID(1, i)
+                } else Alarm.show("道具不足")
+            },
+            this),
+            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this),
+            EventManager.addEventListener(roomModel.RoomEvent.BUY_FURNITURE, this.updateView, this)
+        },
+        e.prototype.dataChanged = function() {
+            t.prototype.dataChanged.call(this),
+            (this.data || 0 == this.data) && (this.info = this.data, this.updateView())
+        },
+        e.prototype.updateView = function() {
+            this.item_name.text = this.info.name.length > 8 ? this.info.name.substring(0, 8) + "...": this.info.name,
+            this.icon.source = ClientConfig.getFurnitureIcon(this.info.id),
+            this.item_num.text = "" + this.info.num,
+            this.item_num.visible = 1 != this.info.num;
+            var t = ItemManager.parseItem(this.info.cost);
+            t.length > 0 && (this.buy_icon.source = ClientConfig.getItemIcon(t[0].id), this.buy_num.text = t[0].num + "");
+            var e = RoomManager.curRoomFurnitureMap.getValue(this.info.id),
+            i = !e || e.allCount < this.info.max;
+            DisplayUtil.setEnabled(this.buy, i, !0),
+            this.cacheAsBitmap = !0
+        },
+        e.prototype.destroy = function() {
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeAll(this),
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        },
+        e
+    } (eui.ItemRenderer);
+    t.RoomShopItem = e,
+    __reflect(e.prototype, "roomShop.RoomShopItem")
+} (roomShop || (roomShop = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/RoomShopItemSkin.exml"] = window.RoomShopItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["buy_bn", "buy_num", "buy_icon", "buy", "icon", "item_name", "item_limit", "item_num", "time_bg", "s30t", "time", "tag_bg", "tag_2", "tag", "item"],
+        this.height = 174,
+        this.width = 147,
+        this.elementsContent = [this.item_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.item_i = function() {
+        var t = new eui.Group;
+        return this.item = t,
+        t.horizontalCenter = 0,
+        t.verticalCenter = 0,
+        t.elementsContent = [this._Image1_i(), this.buy_i(), this.icon_i(), this.item_name_i(), this.item_limit_i(), this.item_num_i(), this.time_i(), this.tag_i()],
+        t
+    },
+    i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "room_shop_buybg_png",
+        t.x = 2,
+        t.y = 0,
+        t
+    },
+    i.buy_i = function() {
+        var t = new eui.Group;
+        return this.buy = t,
+        t.x = 4,
+        t.y = 138,
+        t.elementsContent = [this.buy_bn_i(), this.buy_num_i(), this.buy_icon_i()],
+        t
+    },
+    i.buy_bn_i = function() {
+        var t = new eui.Image;
+        return this.buy_bn = t,
+        t.source = "room_shop_buy_bn_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.buy_num_i = function() {
+        var t = new eui.Label;
+        return this.buy_num = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "3000",
+        t.textColor = 10181146,
+        t.verticalCenter = .5,
+        t.x = 65.9,
+        t
+    },
+    i.buy_icon_i = function() {
+        var t = new eui.Image;
+        return this.buy_icon = t,
+        t.height = 30,
+        t.horizontalCenter = -22,
+        t.source = "room_shop_icon_gold_png",
+        t.verticalCenter = 1.5,
+        t.width = 30,
+        t
+    },
+    i.icon_i = function() {
+        var t = new eui.Image;
+        return this.icon = t,
+        t.height = 80,
+        t.horizontalCenter = 0,
+        t.source = "room_shop_icon_png",
+        t.verticalCenter = -9,
+        t.width = 80,
+        t
+    },
+    i.item_name_i = function() {
+        var t = new eui.Label;
+        return this.item_name = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = .5,
+        t.size = 16,
+        t.text = "道具道具道具道...",
+        t.textColor = 14543359,
+        t.y = 8,
+        t
+    },
+    i.item_limit_i = function() {
+        var t = new eui.Label;
+        return this.item_limit = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "每日限兑：1/1",
+        t.textColor = 4187130,
+        t.visible = !1,
+        t.x = 30,
+        t.y = 118,
+        t
+    },
+    i.item_num_i = function() {
+        var t = new eui.Label;
+        return this.item_num = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 35.5,
+        t.size = 18,
+        t.stroke = 1,
+        t.strokeColor = 1518417,
+        t.text = "999",
+        t.textColor = 14543359,
+        t.touchEnabled = !1,
+        t.y = 94,
+        t
+    },
+    i.time_i = function() {
+        var t = new eui.Group;
+        return this.time = t,
+        t.visible = !1,
+        t.x = 26,
+        t.y = 29,
+        t.elementsContent = [this.time_bg_i(), this.s30t_i()],
+        t
+    },
+    i.time_bg_i = function() {
+        var t = new eui.Image;
+        return this.time_bg = t,
+        t.source = "room_shop_time_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.s30t_i = function() {
+        var t = new eui.Label;
+        return this.s30t = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "剩30天",
+        t.textColor = 16317183,
+        t.x = 16,
+        t.y = 2,
+        t
+    },
+    i.tag_i = function() {
+        var t = new eui.Group;
+        return this.tag = t,
+        t.visible = !1,
+        t.x = 0,
+        t.y = 29,
+        t.elementsContent = [this.tag_bg_i(), this.tag_2_i()],
+        t
+    },
+    i.tag_bg_i = function() {
+        var t = new eui.Image;
+        return this.tag_bg = t,
+        t.source = "room_shop_tag_bg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.tag_2_i = function() {
+        var t = new eui.Label;
+        return this.tag_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 14,
+        t.text = "8折",
+        t.textColor = 16777215,
+        t.x = 7,
+        t.y = 2,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/RoomShopSkin.exml"] = window.RoomShopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["bg", "menuGroup", "txtCoin", "icon_gold", "top_2", "tab_item_1", "tab_item_2", "group_bu", "_list", "_scro"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.menuGroup_i(), this.top_2_i(), this.group_bu_i(), this._scro_i()]
+    }
+    __extends(e, t);
+    var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "room_shop_tab_item_1_down_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "room_shop_tab_item_1_up_png",
+            t.percentWidth = 100,
+            t
+        },
+        i.labelDisplay_i = function() {
+            var t = new eui.Label;
+            return this.labelDisplay = t,
+            t.horizontalCenter = 0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["labelDisplay"],
+            this.elementsContent = [this._Image1_i(), this.labelDisplay_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("_Image1", "source", "room_shop_tab_item_2_down_png")]), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i._Image1_i = function() {
+            var t = new eui.Image;
+            return this._Image1 = t,
+            t.percentHeight = 100,
+            t.source = "room_shop_tab_item_2_up_png",
+            t.percentWidth = 100,
+            t
+        },
+        i.labelDisplay_i = function() {
+            var t = new eui.Label;
+            return this.labelDisplay = t,
+            t.horizontalCenter = 0,
+            t.verticalCenter = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    o = e.prototype;
+    return o.bg_i = function() {
+        var t = new eui.Image;
+        return this.bg = t,
+        t.horizontalCenter = 0,
+        t.source = "room_shop_bg_jpg",
+        t.verticalCenter = 0,
+        t
+    },
+    o.menuGroup_i = function() {
+        var t = new eui.Group;
+        return this.menuGroup = t,
+        t.x = 0,
+        t.y = 48,
+        t
+    },
+    o.top_2_i = function() {
+        var t = new eui.Group;
+        return this.top_2 = t,
+        t.height = 36,
+        t.right = 43,
+        t.top = 11,
+        t.width = 146,
+        t.elementsContent = [this._Image1_i(), this.txtCoin_i(), this.icon_gold_i()],
+        t
+    },
+    o._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "room_shop_img_di2_png",
+        t.x = 13,
+        t.y = 5,
+        t
+    },
+    o.txtCoin_i = function() {
+        var t = new eui.Label;
+        return this.txtCoin = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 5.5,
+        t.size = 18.0101510119682,
+        t.text = "0",
+        t.textColor = 12834813,
+        t.y = 8.101,
+        t
+    },
+    o.icon_gold_i = function() {
+        var t = new eui.Image;
+        return this.icon_gold = t,
+        t.height = 30,
+        t.horizontalCenter = -62,
+        t.source = "room_shop_icon_gold_png",
+        t.verticalCenter = -2,
+        t.width = 30,
+        t
+    },
+    o.group_bu_i = function() {
+        var t = new eui.Group;
+        return this.group_bu = t,
+        t.x = 171,
+        t.y = 64,
+        t.elementsContent = [this.tab_item_1_i(), this.tab_item_2_i()],
+        t
+    },
+    o.tab_item_1_i = function() {
+        var t = new eui.RadioButton;
+        return this.tab_item_1 = t,
+        t.groupName = "tab_item_group",
+        t.value = "1",
+        t.x = 0,
+        t.y = 0,
+        t.skinName = i,
+        t
+    },
+    o.tab_item_2_i = function() {
+        var t = new eui.RadioButton;
+        return this.tab_item_2 = t,
+        t.groupName = "tab_item_group",
+        t.value = "2",
+        t.x = 100,
+        t.y = 0,
+        t.skinName = n,
+        t
+    },
+    o._scro_i = function() {
+        var t = new eui.Scroller;
+        return this._scro = t,
+        t.bottom = 9,
+        t.left = 177,
+        t.right = 26,
+        t.top = 110,
+        t.viewport = this._list_i(),
+        t
+    },
+    o._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.layout = this._TileLayout1_i(),
+        t
+    },
+    o._TileLayout1_i = function() {
+        var t = new eui.TileLayout;
+        return t
+    },
+    e
+} (eui.Skin);

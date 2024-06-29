@@ -1,1 +1,2931 @@
-eval(function(){function Z(Z){for(B=m=0;B<Z;)g<2&&(g=64,e=92<(e="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKwP:LZ=XVL`?KBJ;:^@l<:z<rB:ACZKnWokZ?khF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@AoP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBA^>m:_wi:bJkCZkHF<WJ[?UiN>Zw<=kP<?poV[lS:A_:WlR:;M:HHn:UU^l[>`s^I?GgMWG[:@tOGQbo=_=gWKHnqrsCRvIfiokPH>bDwB;n=b^l[::tI:YA=c::]V::h`k:>Bm:=PVAq:>BmZNiEkl=o[dZNRNW@BVKNeeCFRRK^s_>ZW<`[:kTjhsHZa@;;ec<A:kF:wDZC@no::p>;BC^qU[@<J:VPyjk;JG;>H[VEZ:@?u]GHj;ZHmc<[GNZ:BlJHBJukn=Z><n_LNzYu:s?Zm>g@>ZX>e`ZGV^ei<Tg=TfpkYOJV>agoPerLqpm[pH`qe^qhIoybQyZ;FN:Tj`i`e`Gh`xcOniOgVxrhxic:n@bo;bJxaSQUtRv?TvrVPhNa_CPFyRlObfQQBzaRquKj>JAZ_GRcBDHkOkYRTrqBrb@kQamHllILzu=JK:Lk?yAVkrcsQ[yKKyICqGtEiI]kx_Cm:FwAs^DBp<:Q_Zz]:trcCUPLvA_qgR:EB:BB:CCz=Fs?z::cZ:Fbk[<ZPHE;uB]::FsMjdyzczby:@E_XNRZPXg>BR[XesKyQu>Q:zuxcXxS_TigTNN[mToY[ruzcll>gJHDt=iub@BPPcJIa>=CFcF_JlA>]MVIii]IjVdm;HJw::Fcs;k_nRektK>d]V=CBJyk:>KPSZ?apDZMEk<ku:nElt:gIlC:pHJUBV`m>[F@ccul:DJc]gBt<sA>r:>_L>^lIR^JVGRV=l:k>]HP:naiUlC<SNtVLtOyt;;L?V=tSs[NiPtCO`Kar=<D>MO<D>r;JfBQDZNkL=?YucAY=pV:ABCHTgRHta<?J]:c;ZH]Q:wZKw?SQk_XGBa^Yqmsb`SMQVDhJbURe==vR;d>MSZc^GJVaEMMJ@=qWtuKrUGx<FFSeC?:BJ[]Fso]m:s]Zg;s@[TA];^@@R?dP=VZIHB>v]e?sU<yIsFGiF>;]Y@Wuob_]VQcgLs;RZMyBYRN>;kBpOqmVm`I_;;oA]SZDoswCCvFPGvHDa[:mpYuO_PiCXcgkWQGAJPbGUV;;UwzeZgLHCmT]qn>jk`EJ?gY<VjCZft=]PPDhfWn_h[iEFjTvlSSuoec>ZdZ::gmSuZ:v@P?ehcaYcWiagLR::U:vP?u[vwR`iq;d;eTLL;p[mT[leUUXkTKdKqT:W;yv>]XpiL:Ofvtalkv<VCfbeR?lbXdRKT?uUhHE[sAHLKujvSRhnQ@uM[ATSvdZEWhk:b;r`tJGXIWrbrfYCjA>Z:>RjfIM:B@aJQgbrEjOr:UN^KftoUPi]ZjUJwoTRwz<gwUTiUSf>pffhUO]xEPhk<W^wrlh`rQYghqk=Gh<IP_<ZKwF<tACa]RcIpl<LAybB;JZ[ZSA>oGcQJ>FM=aA[f=;J@<FSJ:wF^AkY[g?;<Z<>VB<_g]C::MtV[L_V^jQmE]RcSF@@>ad^tS@=JaZh=T?jWNrK]Sx:@>FRJBlflM?aIFKRmlO^f=ZEgARPk=[A<iHV>Rdw`dr;NMVSsflrZK<bCFFVgJqZp<X_:ZlK^qLZCROxX;D>l<olSDw?LCp=;n:sH<JZkp[<lM:Mk>:Y:H=FCF[:F:[G@^P?>?:?RA`F^c]TZJp:m<l:V=lD>=cY]B:>A<P:LCoLw;@<gfZXR_kfDaA]T>KCmMK<dGoH_iDo;<RCLsA:CJB;z<ZA<]>QKI:<R`>BXJMdkcaeKP]^kF:Y:<;GP]LgM:X;m:Z=N@c<Vj:;:F<FAgLDEkR]GK@PJe:Ak^KZ?wDoD[no=`ACHP:TlC`O_`:TNN;lV;@KonuNw`tZkw<]aDAgXdaLj_]?>AZ;:r:J:]Ck<Nmci]::eGlsESLu?SVN`nM]x:B;:JNw:J=l@gCMDBT:a:?;R;wVZipx[wIq?:YRB^V`:d;L:IiZMp[h:s>RSFK:P;@<keRCJO`A?PJF?mb`KLBN@J?OSUSu:m`f<BB]UZUJk<X@bGk=ZJZ^;u_qXX?dk[A@[Iq:JLREs__egkGQF:ul=;VfsBecSV;dC<f>=sG_>:gCu<WQ:<:Xcx;h;RIgPXPERMvAWK:;qrfb`mPZHJ@JgxzJ:@dRpw<Ci?JO@ey=l;TS[@]JUS:Xc:Dlu<Z?@_:FT_=lg<VwWOt[EQVe=OkB`kdgrHdW[=Jh<lT[e:PBp<BNOVbhgvJVS@xT>LCJJ<:Aeu:x=:j`SZJh>MnKmcOO@iBAlV::=sgB_=:>RKOD;]Ps::EJTd`WkYqW_DrVcRFfHmbEiQ<=>BsE<hTQB=@?D>DW[hfp<jPB]TtW;HNThQOiv`C;zqa::=lUfECgeCKTLoOcpQuZGUuJPbgzV;cZ[UcryZZtPyxgAzLR<rTabp]@s=HaJzD_ZaA]rRTrVaIRF@gGB>BqmwkfTp=heJLd:szemHk`<AKokOAm;hjNIqvhVulGe>T_ycWcKLKDcdDg_[`MY=@hPDBLpzgNEa:sDT^c:ldmKBSPoA<NvVoVcWVNZm`KDrob=VmCGkd;QVdNCPjJk:H;sA]<uhG@UgEdFl:>pO>nnLH?>>ljJpVqJiMoDMH`r:xK><:rgTnUk]HaAglwoC`Uk[nfo;gkCA@<ia?<?`]GLKGHS:FGkE<k[`ddR?MkINxPyNHSR>pvZmRPdPM]fSU:GkH:B:Z=dTksCSsV<JHg:ZK[Kj^VaoyRlOnh^lWpMNSe_ngTQkhZ]S>Y^<TR]k@wocaMME>kNyLL_GJTKo=dEed@bsJJ@NFG[KwElC];`O>bQNN;jGxkWivO_gB;ZFLV:nW<W?zJuP;zi@LvQc<@_Nh_?L:[ujDFP^VMky:_=l@V_eE?gKs[@KgWMFmx`x[eDoQREAstVWlAlqKkb]afjNZ>H_Swu;lZstaCeD>u:P;D]J@TDaXdVrOleFhEs<KSu;Z[vlLgsCt;e@CREXEICqLVatCsBQUB;fl<@cpIEDJy=lSo`PW:]>H:Y>HMierr:fEC^^aPE<iTxMC_:;CHZ:TVo:GwyZ;xjo:I`DZ;YZF?`SJ:kAe:>UZk:oce:;^hJ:?ce:@OtJ:G<T:>As_IZ;H[o:GyDZ;iHN:=DiZ:^WIrR:;:S:=szs:K:SvvpSw[wF:TZHec?[???wD;m=P=viExBpYTwZAfyJPXzH::Lzcp=_<]CZSFEhVpw;aFwZ:Rhrp?DcDLo>D@[MmGjm<AIJH;<_BCY=hG@MZ@DwQ=iR@byZHYr=?yjKQty>:uy_`c?[@Ym<wKBBC@]C;:ZOz`zZG]Kx[o=JrqzcjqwJHwYX:i_qfoj_A:MBrBq:jDNiwJFisBViQsN:s;pZ;:e:N:miAkse];m;e;k;s;P;H;Di@qI_qDwJw>acE_qLENuHa_aHO;G;KNLJlylFP:WB_>D;[mNB[DdkE:::eZN>Z:gj>I>?L;JH:LADUiUdUhUim?@bUZv_v]vav`vbv_A]A[A^AZb]bibhbjb_Qc:H`aZ:HCe::B<R:HGmtX`Xj_@i:NBaWZgkj>zZSgMwhwA>V>L>EPKi[:xPI;WyV:z;u:Z[B[sss[_[I_s;wVV[jZ<[uyJiAkxi^imRnifiAiIi:XkXmoi[VXLXeXmoaXiX;X[Xt[Z:Caa:;i;fRJBIRYt?fZgA>AE@sTf=haiIfGsR[GpbsOFbkB>QkJBOkH>PBOJOBUNH:NBPc<UjhaB@Uj>OUc_LcT_X_KcO_WcU_OAj_JRNNNRTNXRR:AeXZ:Z?e`u:<JVc:@xmZ:udevLp?yLTsL<G>i?YZhAUUInh>@khMQSx@wA;@=A<@]@K?^@xvwvBe<=lR:=LoDA:<quTw>NJLLbs[mr:EgmR:HY:g[FlcZBkhl^[xNcNZckcx;NN[yjL@CBkiCOFXmAlfHzKIlcKJlzlcloKzHH_ew>mVK?i<lL[LKDKT[@Ka[qKH[aly[[KO_lKl[[XZ:ns@:;JHc:Hr;Z:uYcp?iMP<ft;@DfddD_nv@LyB_t]:J`J`]@Eka^n=usR;J^P;D^M]nnWuk[WR:s=k::VxdTColHdcZXdoCA:gCwClDOFmC^indwPPC=[PitCRN;C^NKCKydCdNkN=N`CnNXPOCz[QlJKBKRK=C>[ZCs;UybJEdhmRZXiJoDduyPZ;_[SD:xiWZu:eyM:ZcHSA:Zg[LOSjqE:bJgiE:hSL:SL]TBNB:XZmRxdSRvgZJXZO_OSZgGJskgw::ObcHZH>=SAkH;>g_xaUhRFrjrd;<<I;Aw>aUoMLPaYLK>RmX_H:Wz[Z@n[J?s>j[Z@YdXOFi>BkPYAN=XTtFwgMjaTBEe^:<:BR]yHm@FQkCthtftg;MthQ;kS::]GyKV]wFVe]c;VWZT_TgZj[_ZBu^a]ua@h`ikcxgx_cB<Ms<k>xhFCZB]<AHSB]@Y[YZjd:Mz]kFPNcJzjQgzeziz`>CziXSxB<XxdxgH>:KqGtdQeXYn`lW:U:XSDoenGEfEZFC=[q;ZTJUZYZOk>ZUCLkICXZYn_dLfbk>RFQGKYIeo?lMYaj_cUm<SP]=tElJ:VRfb<:KRFBAgAcHp>kEIEI<Z@:BlRedjazia@k;LUtIdCFG<b>`SB:HzKZ:gAD:<;_R:HIlZ:pze:;vwR:EWyaXZ:ZIzQ@gR=eROXdfUq>iKWesQ>QIS_QOmgUdCvEeKNu;Ll`ymJORZyMR`TuUt[`NnQlvkb^h>tnh]W]l;cvqKp?r>UvIDhQI@AKh@l^nnc<EnEk><gbpSs:=OGNL:hQs`Nm;lOnpRFeJLl=Z^XQ=Qc;z;F=Z[a`UaCRUmtd;lpSIc><MRL=V`PL:=oSc:@JewdZ:YMu:<i=`GMGOSE@]kE@`S;:>=R:FfuZ:g_e:;hMc:B:@Z:PIyzOeJyMQ[iKm;u]=D>;s:XPMLfeFcBqm;Bo>=C]cqvZRrR;RrCZF;s;RrTRso>;bu>rcoc;xnQdw:Z]>=EBZ=P==AqAc=kLXJRpK>]Ng:[lRKqL<=c;RohUFqgom:Vrz@wZwr?cc=wrLAwvlk]nR:_=ymfds;caB^R=_qNrpRgo>;gomoK?mqwqDpSbwuM?w;`]uq<:Yfkrfff;F_g:Z`or>of<NoF:Z<NppR_=C]ffko<ogaE:XoFq;q]o<qMA[raKQfnahMhLWLc;mkvniAjkb]wmI>>SMLznrKy<NsRtq<LuhAImvmskwncKmnrmbJj>MLjm`oQKQKrfYn>n:CV>d;aDp=horEVNJD:dzJm<kDH=kBZlVRcDPdJl>Ckk;<RDsCBnX<cnMqRl[=uDS<oCbEaEfrS<xqFDcsbRqDO;gEd:VDG=G<cfh;wDR]<D===<^:M=M=iCLEP:f=AdmCU:DCv<A:EKF?I<?qzqS^eETEjSuCjkWPD^snvU=K>mJ;AUvUrDbT_vbRQ<QS^>rSrUkue:c:B=c=JeGnaMOl:sZvwKZtmlu^Js=<hJkQUrDLeKcszrI`CDotss>tdJYbVNR^>mMJd:NsFGTKFFssgHFtdMFtcIr_XJ_FQn^O`p_FNFWU]FVtVvl:wv;@]NutNnhu>:`omQmNv^c<Dt_?s?t_VGJEEPxvPaJ`SrG?vb@Hs[]:N>WsptpsGs?=c=GuhtOn]HWvHG:_g<=tB==u^v^uMuN>L@g?o@?Qd<w^Km@tOO?oL:g@oAc=g>R_bvVAY@A`zAAaSaioWJY<qGc^O<=PH@`aM;bttHlHY>Aaz@VobbDo<tF^w=lSbvvOSKk=UuN[v_;>SFpFS`Dr^Awv^:j=k^P:?G>[DbvQebgqT`g=TaYbi_@`F;@a=LabaaPbPaq``ZH`=ncai_EGTdX`^:y`BbMnTTvHY`;bp>pQ`LhP>`^CnFaG_apNN_CaOOpErbWHdaxISIxHyIw@^Ig_C?V`E@waf?T>t?[t<_?@@?u^aAPA]a:<ogR::tmZ:[GT::HdceXnSFlk;eOeX<S<JhcTXs]TXZ@TKTKL?TYQdgkI:IHvHVmRzgn<Q<NVs]QuLAILrRt]VNm@VwvVl@YVs@M@XOBUj@T^^oSwkFQLO_mFM_kEMI[@@FxMEebFKmRcUUg_TcP_XcS_X<sDQcW<ngU<tRORXDR::=uZ:ote::RKc:HaaGKBkq=i=y=R@deLZR?>:z;v`b`ypj`ksbsrB>SdMcOHmO_Z:`_e:<Twc:B^@`fuE_OZ:nU@vJXSXRyUmim^vNB:K[z:V;cLpta^SDhm]tWFdaLjd_zGPog:uKv]DinAm@Vbegw`Thw`f>JhtA<_khkgai`@:;yrc::lDGKH_A:xXnmfcEkC_yOwJSd::]gDFD@GXUDwU@EU<<AdXmyRI?[ul^OtUYij^uztYut?B@q?R:>yuZ:RKa:;fmbe<]s:E_SZ:TCfcjQ@QG=P[`fOrI>_IHVhII<i]hOFxGLipHmjpF:;DTNnJMM@CmfGUTfm[@fmlqfzCul_Eyfqlcd@XKfwEdKZ:`Iu:<rvc:EilZ:rSsp>vNJ^XjICANbQP;bPikit`^ykin<=HhRJ>Neh:hpiTgf>ug<_U@BV]aSucVWh?tRWsX`u:;jdc:FcCZ:vcdljQ?ijUvg[Rb;Qqta@::eqR:GCmZ:kzdci:=n]Q@s:==zEpZ:opu:=VLg]wQef[]KFpiocOFxR=FuZ@ysNn:tMCzIg;BHV@HVTXYO:I>AZEyDdQf:FCO`m?k?iQcCKvahKmvAkIV<Lw?m]OgkI:vH>C`GH@jBB>`lLFsykrjR<jgoLytugyLoZCLnTU?nLwQIiI]zeJVwmk]UuP_NIHOx@PRoyy?<yp@TuKyr@TwkaQkHPQ:IhTNvpuWL<B`ctRaWWBam;YqsHyZFHzKPHtHxHqpXQLUDC<FBiwirkIK`PpmopvmwyzmuysDx>qTGkG[ARXLLDxpxypwvyroqPpJWhySqSPeM]xFr]u_pkotmtxcatmgyZCtxtkuI>AtquCWB?mkF?u?y?t?r`yZ=?rTY?s`wn]`lTCW[`kMIkG`kLsgwgmLqLygpLmOz?oBGhsmtuWOwVw]OgmMoWw@WVlaAmkYaplVoDtpuDvpzpw?RGyKwGlKKwRPy>xPKSsec_oOB[BJ?_:;WKK@BEyJH;B[H;:;u;?:>eB[C;>e@<Whkyn]QhmpkWwnswpnM>qWvNKWqwxLByQkt^gWm_mM]N@uwELELvPKLperS:BRIi_HL[CZIi[Ibk:mjigQAdcpQMkWTGXpKQXl@XGpVbB@F@EoLR`>uAuhX?EHlsYj>P@A:CLb<w@bEoN_<vAS@:>cIifajajiZIEa[MZKQ:GQgwiJG<dFA:A>:WR<Rr;wAAuFe_eB?>AHL_BNhQht`:ExKkDR<IbxQkGRArsJ:Iq:>ImIqIxRE@bZH>;IbO[RAQmFBrwrucCjary<;rubGR?rxk=rxInG]hAIz>FIv@jDf@ZI>tXIk>`InNEIzIvYq:IYszojkJDjqEbX]tKw^hwsyByXm@zqjsExlye_Wb:Yl:@htQy`zWzeIlUnEw?@g:cze:BJ@=wB;AzEzaIm]<lc:_J:x:Ubqg:hsk;]:b:QYkYuExRojKKr[k;Wck<HyJRVZXjoEu>Ra;?:R:KZBwThk@<OjTbHLNmvqVoaI=AmHZ;]<zSWedADDC_;bl<t=BUsPB=>?ACDVpHgGLS=R;J;u;FLaJKYDo;<soVQRmCNQH__MJe<Co[AITgEkHe_V[itpD^^Kq>::p;R=JWVcl=o>l:=;R:BkTvZW^q`DyuLME<L>k;SpxeK`F:IPLY:>:yJX:GJ>cAnMil?eBYDtaAnPddwFut>WoEQ>b=plSkxZET_hPMs^NF[>Y?UeX;m@WlKsgZVX<BAEKepN[Jp?I^HrD?Qlq]iJrH=i=r:A:YB=fI;bH@X=vcw:[:h:N<?_:OgvkgWM:De_R>VcmoA<Hu`;rhlZpoPgGPGAoFJ<Hgtkk`<ZCBIyvx=w@VZaB:GNH?nZ:T::X`yfJ=ua_kpJCm<CcFp>JA:Gre>aD?d<P[LrWHi:m^shZgyQgAv:Q?u><pzaoklrdgCkR==]ZVf<F@<Ihfd:n[z:F:HEKB=Utk:sBBDZSAhmu?::<>Uyt::jz@::cHN:=:<R:>>>k:<?iZ:BTW::XcvTW:::AD::iWN::=xdTo::Nuc::>^J:ApdZ:PNOMHfdJQjhQZ<J[GJAMI>=VO=sI?a]UJ]T[K>uEW>@<UN=eEi;MewJou^W=T@JoI[tpQcCwTe]QMfcUK`iOwF[^QM:TKxsJ=W:oLX>zZhoYsp:OuCjPvfT^T:ixV;Gx:AfJB[uZFNXcZ^;ZMpBRu<PX^Z^;ncl]>X<KXZF`=>H;L>TxCACJ`FL:BbKG=H[;^rrcIC^uOtON?kZjewBiZpxYcEYK>Mro<:s]CyfClYcmB]:@k=yiZ?q;DC;;_o;gKT<:SI:J@exFoKNFZR_tc@CyRvHaFsUiwN@meTvEL;sUrSD:OS?zH;@m^@:xJxd;qCI^LBHkJsmRQGHI_qt`Zo]@syE`PaoZK[PedeKwB]FI?>FP:cHKPEl@M;mFe@wH@[F^^cSlF:@GHJKjM`RS>tuer=LmIzNRURsuV:iGwTBoyC:<P:EsCK]cntk<tp@hPXwhcnNfmOmsy^CQEdMOnVgts?^EG`QOVBqGsg=^<ZAIp`:A]JsOXClhTNUliFC:A^MKfN@wT_Mk<z^JCaI^xuN>JCsBGz<y>]RN;KX>MQRUN?DUP=RaMtELCy>U[gLs@vQWBFCI;;:W=>R:Bb=d=N:=:s:bGO:Dkr:ZgL@cO_MwD`<LM<[vquJ?:ZF>]CD[YlZCLLWCI:<Z?l@S_ps;SD]Zk>__l_t[b>:@fPLSCwJHmVo;k=moyTEjDmLlIFamMJ;iT?q>uPRaGk:dv_pjHI]c_ECzCG_kDJwIdeNNTB^stw`lHLR]<ngN?VbGNpiu`hVaWyUUif^L@`GmaWyLdhLKzR`gSPjnFwcooXvICPa^MNNRPpmbOL:LfhV<;BPqtFWTqmkp^f;mUSugh]rA=IFa:eDO?>PeE=?hVLXue_hNiEPS[OoCSEG]PtxYA[LkqS>wnadIUA`OqxDghdsehBeT[GSts_xXMI>_euQdul;Ei`ORTHDns:<^U;uNwQc:MZfqsBdJnTJFE^t@Y_>aVNhmWFGXk:nkdwNxmLUQhlTLs:NZA:EdHWEOlrkohAaj>=]kR`JSN_w@V=BceR^CZz>de?Woe_rWqdWM:S]k<uajtWe^rE?fRDgsqVvHPNf>?W?sTiVciAbEn^tkL:M_bkcIB?F^>[sQNfeFIIvj=k;nq_QRXPSA^k`eCcxfLaNbJC:[mufMRX@okf`hBW[]mBi=QISbhDSRAMTi@gabi^G]`ZmZS]Nsa]=CGaRmZS_FnLLk?L]knsSJhKG<UKK`cnfdOg]DW^Bh;wMWeQTReRyppv[`Ed=Fua=WCXR>nqXZo?:CnnEEKnZ]II>UiwkX_YF]qhC>aYynC`=Fs:BnTaVeOdajWfHvrAPSOpmtzWOSKQT`ZI@fZVhvHSIJt^OlHRc_:mlgrU^Vrqs[mNCSjEf]p;MbQW]qKt@ePPnbkG:Xd>AKRh;p;UgWsHEU:pg[r@`a>e]sdJ:<xiZ:NiFFwZ:N`^FPyVtvZhEXtELFLLgrAihEPTUM<X<IYqE@^J]s:IJJiEc;BAkb:[Pe?kvf<rCE_X_@t`IHf`YGw:s;UtNCFC:zIr?fNQtxPPiY?>x`RnnSMknXC:dhbLocSxga@MdEZ<<lbSLFxaavCJaiMUCo<tDMvH<fsmYScYSfgAF^CQMzdSo]HKOLuu^WNtUNkXKpC[@m[hisAXRd;kXckW@qifM^]GFFBEm`tdK<p^TleErNh[NBy^eumMUigrD@vR^b=pxR;N:qkOBGbs?=TKhcqTELMjc=:fy;AtzBGTZ:?Bfo@uBZ?[?pd:D<CTpCJ=CmP<snvVbiJ:FuDbBk:@OuZ:RI^::@pbTVkFbJ?m;:@jDbB::t::@B>:<:E<;>ek];EOoNUJ:BmT@wk:C[DZ:UY]Q?Z:PVM::Wju::xhN:=kHc:>dGT_P;Zi@yDlTibSucXo:;^]c:A;GJ:EuTLLk:DTDGf>nhhlMU:Zoq@U=<Man_:bcqsiTPGCReY`fNK_XZ?dNEprbdhSJaUUG`<?nUWEKVYLjVOReuKWGEXERwHYEBA>GO^V[ZVBLxHsMK=<:VJ[BPPAvBNs>Ks]z;_FDT@H?I[aJbsThrI=O=w[y=Qc[BD_@B^^[AW<ZB]FiAQ=Q[]pTkYBjg@CnJiOpR>Q[H:Q[Kr[nJocTbkqdpSRoXcV`AaHCZFd>OahM:<:Aq:Z;sosD@YaHPXLzNJ:RzI;JGQoNA]FOxtCgZLgB>:od:MBFdGFCw[_epeW_BZYrrlOLcTOO_D:<k=H:FeLOMD]?VD=:lgewOstE`MZJ;^weoTlGJORgi?<fdFOfh>XLF:?Qd;aOsNRlQS?FQaELOJeu>YNkd`Z]KTSmm>YZr>UZ>K`VBosXVfb<bDD:S^@tWDIbUKxz[x`B>Yg<KBafkOwe`yAJ:dc;lzTK:G>P::l@`GvVXBk:AKuZ:LeOW<Z:CtMm]Z:=op::OJbTW::xwe:;MiMITnmFePjNuTJc]^_EJtKMFl_OogTRLb]cfJLWUoBPvOp`=bVm:<hg@UsZO?AJPK>cH;fSoZykuJK<?_@P<b:`kzq?[:bDb`k:N:PpBF[SPr;Am]ctHebPVt@]WgHgENYTHI^Y]`cN^HW[G<QQIkWRdcxNLX>hALFauQwHoQz:XZC^e>nc_;IJ`iMxpYcbcZ@A:aN<y^__e<DX_@HBJ[]Q:VxVFL^>^@zeV>FRiwY@FveC]FZVR`FO:nM@BGeZCxEFXYOHLt]k_yRcKAYM>LIpC>tRpyfBb_Lp^?>rxOSKV?PQG^eeH]GsHqFINJFxgrR^SPCGiJBG=u^F]vFHHd<^^EBssmLJ::p^:YdIZ@Qr^[y`Wl__Z:Cen^VoMdSFGQEs;HlvLisswRJpw[vZpC^VCBBO`IAb^xROgTwQ=ammZUg_=suhWMZ>Sz]@V@RWwKxqm`oZGpaHNnNBkgq:MPVk>o<Wn`tleG[Vo>]QGCMZ`Pk?VL>cl][GEQcLf@P>bchhpkbNLLCIXOlisnUlXGch=XH]NI`:A;F_Oe@t;cy^E<fdYNzpPGE]hs_eTPCFqXwCZA_aDM`Ce_xLUWEhadJh:VJCjbZ=o`sfs:U_ru]d:KPIwe<^_bAB<Oj=_n]hKZXw=lHNpr[OG]iBUPIpH<XLXhYsdT_OfNqMTICLLUmRfOwaGN?h>qyw>?I^ZUTlhZqvUTr^QAqfTZuNyZ]gieeK?;XhjMwaBFgZFEdPM<ydb_nnOaGLdnm<depDeaFELSj^CNIOHTTGMU;UM?eRxBXpzhTdzHNDexh=vjUiTRLffBHME;YU]SIqnHUsk:=eM:UUaM];LcnQRUgLL;Mb]>oo?Z=Y>bTT@AkI>D@?BLbX]=;rYUAhjqw:[MEAbgDCtxUG^b;qUSJg_HaXVs[VLabchhtqEKTUSqP_swpdyQ:bgOkp_KE]ss<uaIQBduALhl]i_hLJe=a?e;PoSUiOylKo=maWuHw:a<O:ui_nByk?NDk@FJc>k:gBU^T;=Ouh_H:FJnl:lQ::q_ZsmstAMQozZP[zH^gE<Gvc>:NumWX==^CMeVEosR<E_W_@[=hpovj>E`Vm?WAxp>sjWXcRVeAiAn[vLWOHtkhRFMprc@WeHcrS=dR=SnMW:E=>fpBsNZg@qRE=^Z[nsNv>;WsdH_R:=dNd_R:@tU>QJQE?r?erLXogiQ^pI`ennt=gH:ALlu_=hsJFrEZ<Hoy^nWf:NvH:DoGrPX>nkurG`Ak;W]fh@iaixiKWDEP<gxWh<xtjrIM`cvmxBmp[Y=`foVu;dr<djUIEtoSsqxJ]epfTrjSEcnOVsLKPurQSXhapnmIm`P<NQvgO?ROVG`@l^TlhhHsOJ:A;aZ:NxG::gRcch::i=e:;OuBMSigK`UL]SKoiaOWDGSpAEdi`jsL=]<RZDVAQWkDKPKk<znTsYjhWCMcAxkELXJrib_wuiH[[=zNQ^QbBgT]O?BAUjFB;Z[KosuFzB^eACrcAH]p<Dc:=:WAlQPbwPMRZ`cLwCS>i]Qe=x]::WhoD?E]`euJ:AmaWLk:=F;Z:N@O::TSa:;?tN:;Y]dTo:<mwi_cmf`RuRob@JD@jgQTpTXCNsDaOHLEwxJZVoxYAMHEbnG[xmgwiPIgf_c_fe=gYWIiAOq]:diVyqUeHl]n^gOx]rPtXTFe?fVvRX`XHB_Yj:kuo[;Tpf[JgGtburaENOR@bFmRJuOZ[LV:]<PRIUVq=sw^Ztng@_wEaxfUOjSVQ?Cbh::Tde:;@dP>FhGU;s[l:@H`u^L@;mg[^SJcY<fDA]`T[cQ@o;<O[EB`NLpWEcRFGKs^=WTNklRSgFHAb=f[emHsV@<XAoKI[wcoGM[qYTliTKcWZjfatS@?iTyfsWKhy@?@`qHy`q>_SRHY`roihJ?@M^Of:kfBXBk:BeDZ:BqG::GGu::NiN::;KgA`ABBb>MZ:S=`::X^e:;ICo:=_;^VWgOmVgKV::@dah;e:::zLgH:;Mwo:=JvbxFGtjT:^AqweQgapswg^xS<bQXpmcOrMkZek>NzSAxtxlxZqP^?O]dlQyB;;eme[YPdIkvEWt_JzSU>I]?D;_kBQ>vUziq@MKxoOmte^<jQrY=w^AJltKL:U[Gk=ZsBopJTTN:hkQRXc?iITOWMHaM;ngDjewcH@qeQHaJ@pQzedGPJf[@k]Zu>Hf]EOes=DRomhOGGz@fKqJhN@ujU=tlnVko;cODTlcj<H:HDhPjgorlJ[qCkP@OA`fKCqK<nAq_gs>`^MBuL:Bk[G:ZETINfi:]KcCFLd`NFo<nXocgnPT<J_:xJihDguLrvGpaXC[LTwHoWjvhbAyCDbgtOnvGy;Zgstm`JkYtlF@Snyu=gw=HUI:`PngtngswBe]mc>;NtZwxiUbGWa>JOxRaAd_KQLbVnHDjUJGgPoV;=oKtdDKJCUHVf_;X<hVnyVZ?sDiucqpwlGjYFTdp:<<qfM=Ieog;@hZgTud]=T:NpZRX::kAeY:DOus:S:_`W`di?_m^OCDyopwjxFPfyVOes]z<GBj;aEOsumWUT_k=Hs::O;F`xGJ:H:rcD>KwgBmQ=fRhhHmAZ;:j;UuwtTja@?gMdD]iJ<utpKG=`]@lVuTuiTESiEdUfoyAFVolNI_gAe_n;RRxWicz^Gpug[e;B:S:rnzAsJa:>mya_a=aQWE?ciZFnCz^C^AK_@][G;iv@kUaG@R[mB[isLQp_OjJ:gVB`>JIoC>^KCR;PEYfsTulK@w^LdV:U_TqlSPTmqSVHKkNFkw>BJd;<gg=:UEkp=Dv><miJJ@:eXxDym>mjSQp:jwdBHOYZdk;]fpOr:AJ^Dgcc@fOOxkLZ<L:Hwy:WOmet;?wZktDgbkGespRz=GQ<_w:Pu[CJi?fuw:TRBTlVDnfmNt@t:TBH<<vEU;Nfh`^gOYA;lmOXBV^XPW:kTKy;Ape=B<O>l[liJ`Zua[ZoRrQI<>p:BXUFgvdXgeoJw]G:`Vh>:gzQaLfCWul:OYD:qxJbpr@Z=?;jEK>T:FQP:p]UmcEn:<GH:;@:nZlM=NwJQ:Ar>npNpoZzc<>@kOW;S:g:CZNw[rmyJ^Tc:scXR>?:G=_rLg;a[PVG?X>DSO`hlmcEr^CjDbIiB=HTyJ;dCgrc]AkCk=vCZCZ:s<IakZZWUJDnkHyotGJ>Rni=g[iJE_=AWt_lhOlR?cyP;Tr_r]PxDUpGhJEMTtjSLXUM:XS?MSZCe:qU>ZYLAIk:;XWTJN>e<D[fkjX>ZW@yfRpgP[PwpA<oA^Ub;o?<UKNL@GAMN<zRHCSFygiARdgo`TU>WrleaACj]FjfzrCHuvK;EKrmEtUO_dbWWdVOVv:hHHmGi[jBo<v?:>iz^MEip;RhFFialR>hsM>kv]p=wKKgd[aqyUrl:PuAX?gw[KUshZZidNofZ>Zc[^IP<Lgha^s;sUgUqtZ?WmMshs^sOuqqPUhPUAHdhySInTvQpGumIWwLaEYFZLr;vwiV:ZF=UEDNEJPhaXuvaokErO:N:PHvxaGhfrW>jGnXz=`vgLNORF`:mKdQ`k?:=Jtx]JDI`U[H_DC^gLujQVQgepAvEWxXlrT<CWruamgMFGGYrhYqpDIxcXx:w:XZ=zRmR@yyJEE=;MBAeZ?Hn:xQjaJsAUxb<i_;MivrNAzWpLdEWzhc?f:X:H@Ww;[_sHZafi@Xm]KjgGrxneWdytJtYjhreA>TWHyyNn<AsNUCZ_PtzVIiRI^vJ^oXlTAAgsmIUH:FY@r:jh^sARJwF;qEZce<Igv]kV[yUith]HGvbWfXqMG=dfkSAmGqN:A;b[vr@ArxcZZdQyjaHVAsxq;Ocwk=iaxANxfHHJEbg_HzhW?=:;RxipPHrZfxqlz=^njKHg:D=jikYRAjDIdUq`U:bsyjH`NxAqhlq:>IB=nrMAKhq;xRzZXAC>ASF_PH_wNWSHjAP`JPacu:V;kQR;=eDO[:]urr]lXGLdlJxUiCH>AW^ZSl=YcVSIoAn=nLakwFKg;]LAYYCwXVDVWHGsYMwZP_Kb]PwDv]W_KmFz>WCHTAtWw@rB@JVDHoAL^`dzFvxSEIqbkFnPkA@BWZHmkxdASsy;filHM@SHD[wVw_YWfsUNnddokuIhc>jbr=gY=Llbiuq;:UNQarBrelxP]fOOwTnZ:jtMPFbgpgqkhYwsQ=S@FHGTp>:qh`CVfd`bTlSRj?Y[m@FHRuw>_y[=:ktMatFcpPijZ:FdfK[uxZDZ=ykJwrEz]tJDZ:ikyQOzD:ITK?W=xVo>fuzZI@`WJ:ARVfeiBew[i<irV]feOtE`?WuZ?QafcYdbf`V^fWQpz?Oxmx[iejXQmoAZTJC=n:<ZkofZZB=TcB[sXpztV>DKlhXvNAQYp]jVFlki:qwaZGzvY:>;hr<UQ;zTwD@yxW:VMLe<vpokXxV^EbQUmzomAboQp`imLG`@vAA>T;IQMjhbmIvRChpdZvCGuJaMY^jurEUKWyas^bViFqUcm=;DqnWN:mrjbbEQtxNs_Wol;UkEetkIWoUc?SUwhjPBg@Ojc;OU@GvKpvRuY?IRQWx]qnMUUX]=sbUWwqkUXhi^;PZX:;qmt<WgiqqZ[uN;yJ?nYTj]bVsjqmZ:=jCFZvE_>Ho:ZYhdrbcGCKHzAXkAm;Arr:nppQWwUSmKarvyyxwKW^ziTLxdUxskUjlZYKD^MYxs[;ck;ZIrrWP=mP[YVNq_Izc<g:[sPQ:ZcvWWzdk;u<C=IEAChnhzwvdZYqyrcEZWkN:smhjBQXc@MP:xKCsYbrLvlaTBsLWAHlbvxxlt_wcywJ=J[mHqy^PPXuNSrFxpolwxrtQxrr;ni;kiuhj^HrrixoY?Q<IVXF?l?vz@sAXEXrjLrNPcYjv@zYwi^Icfc=t[ytXZYnIcfrG<SuAs=lUIpz;q:tuZ;OlbIfdhnm[sLpuiUIObjOotxwz@iFIfvoOp[=VzHYIIl>jOsSwkzsY=_JQaHxwQwzlqfQlcUxvTwb<sYEXrEuEvCtBxVXMbybuzeX_TVNXW@zAZtDDw[WHkVSfX>DS>yFwfq]Inx^^nRzmw:iD:zErhlsxwrNiDjJzL?q_KexRqgsPQonuluJU>XPjGMu<g_wVS=x<yCQvfnEZAYViejZtVMtsruVPYlj@mx^uiyaxpHGwcfyo`pxsx`YXjeroMo?BoxZIhQ_bcvtDtqwGf=bfQqdsdygybXSb_e]vtOuiy^s]Aan^lavbey]jvI^QiCtGzqxWjUuVraOtxwIgfYYj<ho:J>D@yik;A^sU`ztxmxMYcYJkPAzDz[zxjmj`rtAo>pdU]XUjcrjOu?z;wzHOrcnhvvGsuxTj[T]rgvnpyr;xYfyOQwxq:wWm@IeYlfk^l=yTxJzLIFI`bresTXQH`jrrfbuMvp^zXkiY=kqOhupYvHebiI]Qz^u`z@iEbtAiQs^zuxzYARciI[pot;zXXbjAUvQqpyvV>zKVKIj^nxtGx_z:pZIzKrHsXz@jgYPjwQzUw`y?XQI=gSryWsOxBy`Ygxdq;UyE^eyxQ@AbAkAuSw?XYYEbkqHnuyz@yXYdj[qIBxXWRKJAJje:EMuMyFySjeYv`qnx`wVz`jtQZ:BvXSjHE:;tzsvoYE]yAtMnApethwFzHIDYxfwAt`y@zTzwjZFBfvoWOltvt:popru_x=xGYknjtsAxpz;y=YIAfImMw^yMyTH`Icjxru]yxzBYtYkvxmtU[[zHY:RHqzd@CJVmPzDnfwlIR=^yl=APnjbrfSdDCzzYCzrO<IwryxYokCR:XWEvPvrU[aIKEmIwlYAzqsw@ANYkAV`BR:Fk;_LUdmRhGjLr[LwZkL:Eqxc:pIkk=PwMIkKxmj:Va_p>:j;nKweYKwALwg:`vkHxlbWEkjwuzQfmPFDk;zkh_bbS>[bgZsLCpWVSIUzrUhtIJvls=`IM:A]s[jP;NEWhIPIOoxe>@_[wxsvV:]cCZIUsa]xsv?pl_?^eTHrJJIzUs[wwmzYjkfwBoIzoB=XjR:LwtNkL?nNxSvLCkN<C<TZHQw;z;rreRe<;ZEAw=J@kCnxrY?i?Yw^hLCp]ws:AEns=Qj:kEBwGzRkDtwcX@^_J=SrLCnN<yp=JEdxqrIjraJoIC:>HxRZhpqHdWvRdMblI><V;S[JB@Y=oZ>LJY<ToYSUWrFZtlVZ@=[ZsOr@=[uIYqAhBVS:WLg[p;OMa[cgB<sNGV:nUkQNFqZ?iAw?:[TYpAkpYVZJlwPrJS`xVFjIJD<==jE<oa<Q:ZWr:BP_IxncwZx?:HFWY:a_^FxdZqZCZ=dbFBB=:BZc=mewmkMrohxk:cB_gwWZjAmF=]YQfmH=L:uXoRxxzVRFW:BI;BHQW^zYJGa<GnHz:P=mjTV_Dt`jNrq<W@IB[qg<cIX:=g<wj;kD=wzhKdby=XjJ>Ck;`s<kHDVplHYoc:NZ_QrdwjZtBEZwGrUBGz;EkYBFD<PP>cEp[WkHqke<^rScEt;BB@R>:;tuqJFUqXNaM:NPDG_::iVo::gXMp[E;AkLlg:VTDM<W[Z^ZDFVQRHInpgNZlYmTxg:xilL=<Jih;m<LJem:D<]Zs`:d<mZu_Ev[TJkFmg[EPJ:;q:k:>zhJ:@_^GGO;c_`H_N:;MTo::rIN:;BVo::Zmo:;ktr`BZTGoIW<B:OcEt=x;QcFbZib@`]kZ<AYvofsfvUrmZ:NZfzmQxeb;NGzwsk?m@O<wZpNEC=]Zt@od=mZbNBh;aZk:AxtJ::dQ=oBx=Fp:M`kthHB_Nd?::M]O::SqNopJ:<k>qD_VO::JqOjJbcDqFzJ`zqf_Zkd]l=<kAN>FhsorSrP[<dj:JI@Vyknc@>=TPMronpdz<JHjVWIRal_=j]FAr_=aLIV=Lxkr<RKQ=FIV:a^VJH@=nZw_j;EkBxTYCVFW:`aL=lR:K`CJBBw]vVK[vO>KQVCEJt:dm_q<?kZVHMxZZkR?i<QYEbmo:>LKD<]<RQ<>IERGkusCpxQTHsNK<iY>Z[Q=BQGVJqwMALZEQ<<:HsOY<V:kYmY;>Bw<BB<vZfbk^WcBorpZ^J:y<GX=hkv_;J^jZwSmr=ZHH:]k]jkZFA:Cs:@GpUw<bCzkAByAX^pw<NZjrm^<dj@FHsw]JrBGUk_kxNBy;GJb_AM<k:b]mg[::<Gh::W:=wk^oHspBUUcIboPkjGlcsbR>NGbgnr;oaY==kg]Ca=Rkq:IzxkZ]ub<sc:P>@;=rYJBQ>w;sXvoRGMk^sERwT:jApmR`a<<Ec^yVJo_J=PBzbrnxMA<wFV]CjD:IB^aYFaK@OrBhkItll`R><R^Ob?]Fg=lwIdqo<fkzLGq=ggMwI=wfzCZ<Z;>cl:EWldzDDLX=EXPwIxGNcr]GMwLcsFmm<`Js_FM<pJw_GM<hJ]cE^xCBvZ:AZE[;z]U<hwC:?vZfBFWrS:icZNFxGM;TYo<VrbLYpH<EYM>I=<sIQJF<=m:VeFF<skwz?e^;ByeCM=LZgLHp<CBtcGS<tLH_Jt=G?JTGx<TPY;kA[QMWKqR]bbVrmFWsByV`s;qvK?puhKfO?lehCfXk<lVtfQ?nW;wQLwOPhpfMTnCWwfQTlqlhGEw<j?TQ=AbdVDRFumZJEfSnLihlEPuqF;vf>I<fBOQDg^GVem:OmfBWQ=`JpVHO<pojskvDg]xVfBTV^mga:?urcgpeJ@kd`f;CGpMhp:w>@d]k:OGl`k^y?On::HRoZMGWiRko?B>;QYaDIswRsPGB><RgPHG:]R_:;VwG:JJZXhoRi`MS^`cKPGtNdN?PHXJ:ADOPPZSRtF=`]i:;PHXKNkED=K]^Rb`MtNGRx:AF=hRnLLZ:mkYPGocHO<g;G^ER]g=O^MRx:;R<URaPBWZARkqIJ:bI?qBtNbIWqFh]bI=w=_:Jw@PGnJzR^qCgwZseg[gxJsz@F`OBsbPCtWRsmqFFx_seg_Fw>stt>FwBsgaHt^:U?OMd]C<NiB^;@Rro@=G:UQxnxVsrHz>=W@a>I;zgFrP[qVWZJO@lnVpUDWqlhl@TVDzlSkixr@Cmr>UKzhG:Z:<[JZ;apLs@rDZmZScR]c?[]oi?b;SW>R`kaK^<_Q:@HdSsWiBc;:bSq:A^ErBhm_<tkvhM[`lgMJCb^TrP[AfWaU>^PedarB_`r^Nc`mBj^Wsy[rC:s::X<dgzgAaortm:B=Zk:>L<gZ]tbVQYOhdpy=DFjxNk<aBL;gcpZCZNEJJyF=[BAXuBKVRV;T^dV=u>C;Q^aQ?tJr]Uf=`mgZqJOu=;gTTDONKhVU>yF_<]U>XFc:ArXHnBMT:LwFHJBjP[nHWrrKe@cLAO=FrNosA?O]dZfBBD>UCdBTdm>MvV@mr_R[h<KHXJmlLDrhkP>^:;=kw?JP;Gt;>yKHkp?>em:fhO>uwrNLugVKDaxC>em<ws<:;P^LZl>dm[j^_lXyG<>arVVMw<VJlBEl<ocdTDF]=ZpF=p:zRqDFYxfcmkCX=v<Ou=Y^JBdIZW>TBnDHwLcZPg[R;fz:qEwLESA@K:<q;QLIRMJ_`YlZM@:`F<Z:vUUDHH<fj=KnoWzLPvqxwDvODDA=Jc]Sn_;WvGjkuVL_wCoowfrBXEI]@>e:@:Mo:TwIb<Z]XEmo=AkWdGc:Q>nsH<^t_=dFC=lkC:@rkp:FR>k;m::[p_VQA<;rWhXsmX=VVN_pj>`=y_nzkmMRJya>wMgBd:?M:qA=[nz<_>m]]XWcZ[XkkMAcf;B`FcRr;BSWw>y@IQ]AOG`mr^L>j@lNLcUE[Ir^TZJXCjWnsyxqyBi_wCGRLRj?^okxm_iioTdy>sk>>LFnXr?>LxDRlIqxM>uKFUCG>pm@oM`Z=tIBM`cGKEs:ni??BKV>NglFB;E>sAaKLU>qXFVcAsllFkS@>s?CqMrkjSIq<=_pF=p^<N;CEHLpbN:Mtxm;BCHNM[AXTIY]AOMtELVTzRmFHLVcaCFz;s_s`>LLb[SCFI>kAFFB[LJBnCG<=qNrCImM?Nz;QeLnrFdDsLD_xWr@VDvRJBTLY:]JAyM[sjMoc:H__?D;LX_nJGw<ANpDE@MRkxGZd:d_aSEaLEJ;SDv]`_sxlPLPsGSCOMm;MSEjhh_kDGqxbBbQmmLlzBtIRVa:M[npMXNxSCOLwgX?liL;ZXf=olv_oumSWb_k[GXL_R_[D?LD>j@`yLpfP[Cb=P_ipHVMjrBOERLs:=[GHWD>q;@[LcaP?G_LM>o`DKLG_GA:_MLNx?EodFN[KClLDoz?BFM<NclDALyo^LQFLDNulCfVv>iXEdL@lSyFULRotvrg<PN[GIZ_vRrlCtLbzY`GUl;NwOHSM=jBOIV^NkFg?`Ls_azl>x_YBdE>xONhCGULfokmESMTBpF=mL[QGGIBd]_kpF]VcNbRFeMNzVpFn:ZaW>DTMMsy[BULrNw?HyCX_ppF@MrNqZA@MjNZC`xMt_niDk:ZorGnkV]bMZBzMBkqNE^MGNzSGzLc:RtCMMM_kdDi]LFxxDiMgoyS<X]qZ:hFmJb_h^KXMXCGtIEMlNmhDcM^sfMnfL>FvdFHKANr]NjM_FcB^UMTZD?CsMl@:i:>M[o^LJAM]NluCAMbg=?E_LgN]DobL[FuWHIG=>dmbbMNN_WICLyT?WGgLcGXlFUWGodlBYVGNrSBIMElXOqIM@FiDB<LSv<xC<LWoqrnY=fowOGjMtQ;xI`MbogXqR^`NmtHL^o_kEDL=r>_BHcmc_bOB:mMotOFhMshYdn:ntc]=EJ]cFs=DjgsFi[CEWe>C=BfWcotMEkw_FbRBxLyB]SCxL@NIpChhwFuIlJLJos^EYLBog^DzLxZ_?nLmuFpGCILE_Z<GRmAcx^GiLUhIi]Q^UuBhGsmLoz^EELvfDWGoLY_r[EyMTo`dB_mbrC`FkxaoiMBLnsvCMDY<RN^F=Nm?oafNomEF_`FQMWFgWIomCo`y`lMT:YKGFnSownD>;pFafLQLUFe`GQMvFxWBVLbF[`HrMQFzWDpLTFaHDtL?NoUFbx:_mCoHmBV_EB]MCNflDZ;Vo<EDYM:FqEI@nsgnxFLmr>asD[mogzxBDLQoaEHDnL_o=HGL]V_SFh;MNedDDm=N_fHhMhgZ?ETMDgZwE]wQNqfIJnuViNG@MFFnpDTmVF`fEkmNUJ^Dumkosdo^M@NtpF?nDFhnGCnR>q^HMLKgvnIwMaFpCBanF>rGB]:V>khIHh?g_UJB:;FpUHFnpg^hBWWGgahE>mWgwfEqm<IChG_megvsZNne_v[EHnio]vE[LYgsKCinjgevH>MKorhGKLh>knCXmpgZ`DCMUgvMFQMfFlP`gmTNdal;nPUSnIqmNVvxF@mpVzq<wnDVbnBKmzFdAG_ngwedCjMB_jIHlniNfQDLLWVbPkzLSJoQm?n_g^wGOng_uOICnVVubCbw^NarCGMEUJvlSnNhP=ISmAVnbFJm;VxrFOmTgjPnentc[fIL]IJFQHaLCVzpITndVmWpPL@wlq=um`VjWBrWNghQH@m@FkjHpmXgljEpmVoycLR;AsyC^Sga:=arunNz@Pk]^;rD:=`h_YNWmDZCrWPk]OWwq?mYmCsZzHeV<glkGe:YvQXphhhrKqmJ;bUPIJIWZYSSHrmwrW>I><HVqpHcKgJ_nlC^b_UrI>Rz:nrEw=sjH]lx;FIYaFr<DEPJ?Mh^k]aMI<:caYD_ndFeD@MWZnFwIf]FjCZfZ:rV?hFnoy<zVFBEdJywIJwnkjC^I<ZrPinbmy:CzCa]LoBSDV]sAKTC<=yB`NIP]GJleDq]TJnFEp=uJd_CS=fqXNZjRiJr_CoEakot?WF[J^X>o]ARUfI<VRz;XmYnHwA:bkE;wcD?IwTw?kcm`cFuIm@xlSNfI>mbV]Z>O^FIM@HzWgRwBiXK;<bm>M^B]x:;N<XVbZftnkZCzC<EmwpIrK]kgZV_ExjBj[m:Ep:FqG:DvYQSC]D^RfBgT<UI:UnsWBAOBiXKmF`jHOmPNocgx^m]rZeewrABvLvxT]ZHCYmoBr@IDDo]YwCdnA<ZcjJ:tcv]H<nlbKHB@EJjDcf:VFYUcc<<C]p<BZEK]sfrKnhNsZIgxsV^dr@]PF`BcOmdFrcdLmYonlm`hZ<:cAF=MY<MrB;FxBUmAB<T:lkyWS<xOC?Mso^jFMLVcdAL@DBodDC_E=]eYPHEqwszFvmzovDCR=MYJX>s=w]eobBEkFdbGYnk:RJHpVN:qkeb=F<yhF_ms:TBiWn=_KwI>Ss>zQ=:wTRwD;UL>]fHrd^We?hEFxi<mnpN<d;OppBt_]zsfw<iB]^FImVwofnOndmDB<Z;et<g:g]VcvmBD]lwEcc;El]x_d[=BV_>gyDXLj_ekZ;LmmD^wmk?eCxgKjYsgCEgcccgaDe_nNf<nGLbjGqEOLd]rODbwq>cbNpeODIVJuyHJ:uZk:PRCCE[JT:jTnQz?:]];@sMBHAOpA?`J<VO_z;lT^zjRofWh;fR[_@?xk>Rfw<`]mNiDEdLositDa:WocOMwAJ=DXWplYRjyDPW<Jag>ZLpYpwSDL]>AYnr:jDHb[e]]Feq<VmxnI;^YgP:OT:TiQy:_BnZAse]`MLZ>ei<r]e^Hz^XGVZ<IVg<JN=Z;lGUgcqDTF_?J]OjB]VCeEP<daE]=kJFeBC=lbWBGBtecyFGP^LJsLG>^`GUNCEE`B`a:]OHZfcByOhwQeIoO^cpLHF>qs;dF<Vv<oY?nJN:zBgcEsLcYHA=SsFVGuVyAGllhMFLr>dz]y<cwC@pCRcF;REzmuk>xmZDoZeSNXRso;lDwC<<e=;wLw<c?]dRzxr_wP<mhm<[]<yMn:fbcXMmZfiuXMnZegDZqkLDy_`sdY=hL`Ri;Dsmo>eZ:cZHqlVwNmk:cbEb>ojrUDOVaNgIMf:HqoL;>:bLGixG_dzD:e?<cDGUm:HU?>s;FaJvk>fWvTj>hhJVDm<It^CD>^S:lv?`LgZ`BvqJuWE:[kd=Dnl>[apcK]c<iUnVJ[bC>ejH=ZA>ebm[<e=;pzTLe<[SDyLjo[YdUog[NAVTEE]^`NmkDf[GbVrG=EnB:CAoeRDukAeD^DsLh>enDrsZ_e:e^Ikh:UDhJ=gfL;;LgVeC:K]mg[yECDedmGDwMmX=hDoA?OKzDmmig:qL[cfZVMDgLj<eED_PD_e=UHDiG:>edLeVebLem;pVoehmfoV>cw>Ct:RVNA:aJweczZ`D]eudlDekeeOZ]fwerG>eeSDmKbgf?DqGmLeOD^OqTfAzWmfsVdvAqNueL@Vo;ufL;DFjuedjJTjFee_c<jPDOeDegafse[mfefSetmchV?eyjBmfQbQG?YxjDbLg@>c:K]iJer<[Mqswu_o:Nofrm^>hqnHCPPG[mlswK_O]gcHBcG:pR]@hM^jVs]cPJZTyPCnED<;@cG]kgblH;fuD^dnILZb<Vf;eaJC@jL:wTuPNfDV_jN;fmsVijDOL@D_RhO^@mg]d<]F]nPIG]CN_aevnWNnEGvnDCQ@eSe]sZai<DXTZ@=<nMwf[odfn_naeg<BmyMoFfQ>[bI:EqwvuhAkIDpwjAna_mYHKfHNl@h<DnRw@epefRtaf]EfRnhH_DbwrPGwMuTZmDeMMTs@emD<weIqlfxzUciG^wTwqfUnVmgBemZg]wae]neTZsf<DcT`qh?MqoFqEO]kgvjCqEKw^UqtexTrac=ek_zai^f;TejDcf[Tn@c^e^AGucGgZeaPhUmtTya:OeVTqvmmeImZ@hHo^o^@hpfbRtqj^gB]zqifeu]a@iSDMTgigpfo]h<C`^vRuqeMfI]^igKeuIKACdfuubPhUfO]]BcxeiukxIjMR_mEDUEFozsdfeuTsXf[=tu`acyE=ogHhGxggh:EbfuuaHgQerTbXgMe[mcUBpmnwpmcjmouldF`e=UJei<eT:rHdif_>iueqWqeyrGOeg<]LNwnmuiiduDWTvyd=]uTjycUfFjYsdx]nTjXiKfYRnieIepVm;hvff]zihxec]dPEteZubyeS:kg[q<xeSuzBhl^xTqHdQxa]zydQeqD^nIQfnwhZI?ehuvcj=^bpY;dDE<Td;eE][T_yd?fm@lycjefNZshJep:IehjetI;>eP^wu[DCPeOTy=D<ELuaAFpfjuyHDfeKhPBhfet@tt>eET@sqj[fC@[CEcTa]^yjNU]NFECoUjTf@cJUhugRiJUG@kvp]Dluu;ecegVeXdlnBQHEHFT_s[XdReh@yHeVU]@m]gyDm@gyccUPVsRgJTM@rXdVUn@dKd[fa@_tGRTY@x[dZmqVf[j_xhej[f:D;@_BD>TSvB[pYx]uwKj[fwwfygNUs]j;izewsqKh;e<sc;hNTSRbCdUfZawSkeTzRgEFeUTwnkDFU?]j;j:T@@zCd=fluo[jSfKTxGEAkJFZXjmT[uudeeMVsdPIeTg@wHcnLV@ode<U`][afuESakyhSe_o]ChMeRaxHd@EEO@ZdJUY@?OM<nk<NW:T;>:sDPw=ARFNBHEFmuz^FTDBzb:d_=azb>N=BQGq:uEnatsfqTBkQSghNNUEdefE=antctfpbMVNs<Ea`_h^h;DqGBtD;gf_ecfzoo=maTZbTMNs<@Z]Vge]=MPVdEJoZhZcGF`m`TB>^Om[eFq]GmteEFDg:DmAT^SQN`gIDCsIeIrVMm]kiF>KcnfHrmx]bues=@I=X:bDtZbHKkgja]RCtUw:elgyD`ZmREm]?LsohgE;YF?i;MdTsSGUmLV_[efEeI:Z?cwGup`ejmi@qHmnetPlceInI@kxCAES]rIlYfPw;Rc;EhQ<ghQeIFkphB<B>yRgRf[<`qiNEqwpJfe^_k^JeCTeJvJirExJsoEG=QJyLD;ce]J:;HtUM_:;?lN::?YHAO::D^`:qc@]f=gpD?bdTyZa^^U=:kjKqWl^L]uB^DBk^?jx;?JtVjlT[Bk`fM=hcrNCH>fBJ:?rtJ:>;^KDZG<opDG_:;cHMd?cqooHotEPKCN:::WF::tiN::PMJhS_qpgB=<HkhtoofsBgohy=HU>ShYnCqzNe;=jBp>cODiPm>Gfgqayd__Dtq`>BQUH:]bqjmdgZrHKWqf:TnKVFQ=uCagjcducB;Ycfw=E;zcs`o;^hfHmlIO=KXLmHgiFky[sm`FLupEMGs_[C`hzQCiHxVDSLiG`;esl>PU^Zr;f<_?HEW_<[>JwYxDC^nLqp=f]QZDjN;ggWYpmPROQVwouM:U>>]t^kS?Or:CJeM=i:eD>_>^GVYnIaI;`DHzb?GpLHZOlku;QAwm?^kS:OqVDqsirB=Lg:UGlwZMrYGlcLCwxyfEWV<xLaj^NwyXFe:^Vv^BPmjq[@CzU]>iulr^lgThFI]]CJMfYfImjRNj]SVHangmurRAFVmFw[`HNvWHhWifgWHtodKhMZZ[pvDN:QyDjsKbJ;BuMJ>ro]ZMB>trAelPT]g:JvFTfGFanm:CuCL?JVvEAaKPr@teeLrwrtgZ][rUzDOhYw_GB:EEwqXjaJHHx<:yeI<gHmZDSAEWlrVekX:jrVYXMIPSUIUMUr<VzecMeoviuC[GJwsI?<c[M^kwJecEmSPkHTv@<lBgkex[U?e[>C<u=mHngL_Ji`MFIAhKZuk:AfjuvwD]Z?wvGkloe_DKhU`efpjrOfJg`:Da^ePuqHg_g@vNF[XraKkVuWcwMxPjnNS;`U=jaQ?g@m;pquV<dpfbDyBaeDEUp<_LFoE]P^FCxTx<k:@pRk:;JWS_Ht?::M`^oPJ:@zzJ:?Z?JWggEGlTkhTfHPclmxDWiZ>h`U?<eNfpUVwnjBf;Ik><MVc=@bueKU@ILMJiuzaWsIFuwXcPq]uwsMzIbTyuu>jZ]kiithTu<XetcXUIBPkBg=]XSsFduIaqN=tUnkbte?UtD<gAyUqX[?g<>CPlcGluL<mpgOUK<zxFeEMY@`]@wwzIsjaJoPwUdq=bPrFgOuE`MF?WTpcxpgXvIPwLCT^aZ]`eu^ePkk?dU><_AgSUjM>fioVQu`Mk]NKLjIm`TeX[d][<BiaWiWvCDUbfwp_Jp>IZTWqpbhSDlXkvdjUIwr_if_ZIJNcg=]ig>G[WEii=n[u[DaZCOvgsHvfNEhXxVexTQimLFISGt>AcABM;@wgqW?Td^k^LrU>NobDHEE]rkRwqpBIbEcHmjg@>GX`IfWTpmdvcnvyNZrcu^nXzIjWFHkuiJ`TvPgjfw=X@vHhpUHLcrnwpRLpOjWxsiRdrxZFYXS@au<X[=jV]YHvDFE^Xac=BuWsiLkDD]NBVl[x;UNDoja:ULZZ=hDALZzibNTsI:AZ:MB?a=vlpRhfHguzX<J=WDILw>;>=R?K]pxEN<pzobg:[@XmmebeoAA=Dmy[UhtUQXh<E:A;PvnhTWf:TVbfxRJK:CuO_PfjraK`iqLJ[UWodCgYD=ek^fA=UBnZIKEDi_iglohLlfekvjrA=dRDYnThplvk<EAJtugW?Yc;tCZCZAZM`oVvd[vvBuk>k@Zgw]hnEi;sYmhUZyw:]w^bawMm=pVXeZWqTe;tZURVDR^[nm^wVjYdc@HXz=iRAsJ;JSMMpal`AMDo;hUdWfVud`KcvT_d^BoehmhzmBAGH_ZXButifHrySIVb=gxmeHt_eWvJe=bh<da;iqkT;XLyliN@bX[kRtuA;tZW>AMk[?cb=C;aAeV@S;qJ:cut;j:<o@H:AJU><u;cKr^vBP[AhiTrTFciCu;Li:>LA=Lj`IwAhB=UgFA_ai>IJAsZDDeru<;Zjmg@l@uJB?dMWFJePSHilMG]Auutfd;Chio:UcvOqzUhPDMW=rdZAj;q>>b:z;jJUySP[cBWT@J[nmE<AMY<BVqMt_C^d]@<:UcY]@<[i^qD@PHhJUeDG;zBRpn_[scV^E:ydAfAwDkSOebuvTmAjB?AXf>EZxhPyAds]UitYFpu<P^TGEUjPmLFr`W<DgF:;VyKKRXx:_kFt::;qO::J:R<M>_o::R`MKGFMEjfMTKq_RBwRz]utIrTK:YR<::".charCodeAt(H++))?e-59:e-58),m|=(0<(e&(g/=2))?1:0)<<B,++B}for(var k,m,B,J,e,F=[],c=1,L=3,w=1,D=[],g=0,H=0;;){if(Z(w+1),2==m)return D.join("");-2&(J=m)||(Z(8*m+8),F[J=L++]=String.fromCharCode(m),--c||(c=2<<w++)),D.push(J=F[J]||k+k[0]),k&&(F[L++]=k+J[0],--c||(c=2<<w++)),k=J}}());
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+godOfNightDemonBlake; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var n = t.call(this) || this;
+            return n.service.setValues([e.GodOfNightDemonBlakeConst.forever_level1_enemyPos, e.GodOfNightDemonBlakeConst.forever_level1_myPos, e.GodOfNightDemonBlakeConst.forever_level2_state, e.GodOfNightDemonBlakeConst.forever_level3_state, e.GodOfNightDemonBlakeConst.forever_level_state], [e.GodOfNightDemonBlakeConst.daily_all_times, e.GodOfNightDemonBlakeConst.daily_level1_sign, e.GodOfNightDemonBlakeConst.daily_has_sign]),
+            n.init([{
+                panelName: e.GodOfNightDemonBlakeConst.MAINPANEL,
+                isMain: !0
+            },
+            {
+                panelName: e.GodOfNightDemonBlakeConst.PANEL1
+            },
+            {
+                panelName: e.GodOfNightDemonBlakeConst.PANEL2
+            },
+            {
+                panelName: e.GodOfNightDemonBlakeConst.PANEL3
+            }]),
+            n
+        }
+        return __extends(n, t),
+        n.prototype.reShow = function() {
+            var e = this;
+            "" == this.currentPanel.name && this.service.updateValues().then(function() {
+                e.destroyed || e.currentPanel && e.currentPanel.update && e.currentPanel.update()
+            })
+        },
+        n
+    } (BasicMultPanelModule);
+    e.GodOfNightDemonBlake = t,
+    __reflect(t.prototype, "godOfNightDemonBlake.GodOfNightDemonBlake")
+} (godOfNightDemonBlake || (godOfNightDemonBlake = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+godOfNightDemonBlake; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.MAINPANEL = "godOfNightDemonBlake.GodOfNightDemonBlakeMainPanel",
+        e.PANEL1 = "godOfNightDemonBlake.GodOfNightDemonBlakePanel1",
+        e.PANEL2 = "godOfNightDemonBlake.GodOfNightDemonBlakePanel2",
+        e.PANEL3 = "godOfNightDemonBlake.GodOfNightDemonBlakePanel3",
+        e.CMD = 42173,
+        e.forever_level_state = 6401,
+        e.forever_level1_myPos = 6402,
+        e.forever_level1_enemyPos = 6403,
+        e.forever_level3_state = 6404,
+        e.forever_level2_state = 6410,
+        e.daily_all_times = 16316,
+        e.daily_level1_sign = 16319,
+        e.daily_has_sign = 16322,
+        e.bitbuf_super = 170,
+        e
+    } ();
+    e.GodOfNightDemonBlakeConst = t,
+    __reflect(t.prototype, "godOfNightDemonBlake.GodOfNightDemonBlakeConst")
+} (godOfNightDemonBlake || (godOfNightDemonBlake = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, n, i) {
+    return new(n || (n = Promise))(function(a, o) {
+        function r(e) {
+            try {
+                _(i.next(e))
+            } catch(t) {
+                o(t)
+            }
+        }
+        function s(e) {
+            try {
+                _(i["throw"](e))
+            } catch(t) {
+                o(t)
+            }
+        }
+        function _(e) {
+            e.done ? a(e.value) : new n(function(t) {
+                t(e.value)
+            }).then(r, s)
+        }
+        _((i = i.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function n(e) {
+        return function(t) {
+            return i([e, t])
+        }
+    }
+    function i(n) {
+        if (a) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (a = 1, o && (r = o[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(r = r.call(o, n[1])).done) return r;
+            switch (o = 0, r && (n = [0, r.value]), n[0]) {
+            case 0:
+            case 1:
+                r = n;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                o = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (r = _.trys, !(r = r.length > 0 && r[r.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === n[0] && (!r || n[1] > r[0] && n[1] < r[3])) {
+                    _.label = n[1];
+                    break
+                }
+                if (6 === n[0] && _.label < r[1]) {
+                    _.label = r[1],
+                    r = n;
+                    break
+                }
+                if (r && _.label < r[2]) {
+                    _.label = r[2],
+                    _.ops.push(n);
+                    break
+                }
+                r[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            n = t.call(e, _)
+        } catch(i) {
+            n = [6, i],
+            o = 0
+        } finally {
+            a = r = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var a, o, r, s, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & r[0]) throw r[1];
+            return r[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+godOfNightDemonBlake; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var n = t.call(this) || this;
+            return n.canDown = !0,
+            n.new_monster_level_id = 143,
+            n.skinName = e.MainpanelSkin,
+            n
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(150, this, "gondb_mainpanel_stms_png",
+            function() {
+                e.service.closeModule()
+            },
+            this,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击主界面-【？】")
+            }),
+            this.grpBack.title.y = 10,
+            this.grpBack.btnHelp.x = 275,
+            PetFactorCollectionManager.getAllData().then(function() {
+                var t = PetFactorCollectionManager.checkPetIdIndexIsCollection(e.new_monster_level_id);
+                e.btnCollect.source = t ? "gondb_mainpanel_btnysc_png": "gondb_mainpanel_btnsc_png"
+            }),
+            this.addEvents()
+        },
+        n.prototype.addEvents = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btn1,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击主界面-【暗夜逐仇】"),
+                t.service.openPanel(e.GodOfNightDemonBlakeConst.PANEL1)
+            },
+            this),
+            ImageButtonUtil.add(this.btn2,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击主界面-【暗夜除恶】"),
+                t.service.openPanel(e.GodOfNightDemonBlakeConst.PANEL2)
+            },
+            this),
+            ImageButtonUtil.add(this.btnUp,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击主界面-【暗夜神威】三件套"),
+                t.service.openPanel(e.GodOfNightDemonBlakeConst.PANEL3)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                KTool.doExchange(7243, 1,
+                function() {
+                    t.service.updateValues().then(function() {
+                        t.update()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnSuper,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击主界面-【至尊获得】"),
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(243988, 1,
+                    function() {
+                        KTool.doExchange(7220, 1,
+                        function() {
+                            t.service.updateValues().then(function() {
+                                t.update()
+                            })
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                ModuleManager.showModule("petManualInfo", ["pet_info_manual"], {
+                    data: 2833,
+                    type: "pet",
+                    thisObj: t
+                },
+                "", AppDoStyle.HIDEN)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCollect, this.collectPet, this)
+        },
+        n.prototype.collectPet = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return this.canDown ? (this.canDown = !1, e = !PetFactorCollectionManager.checkPetIdIndexIsCollection(this.new_monster_level_id), this.btnCollect.source = e ? "gondb_mainpanel_btnysc_png": "gondb_mainpanel_btnsc_png", [4, PetFactorCollectionManager.setCollection(this.new_monster_level_id, e)]) : (BubblerManager.getInstance().showText("请不要过快连续点击！"), [2]);
+                    case 1:
+                        return t.sent(),
+                        this.canDown = !0,
+                        [2]
+                    }
+                })
+            })
+        },
+        n.prototype.update = function() {
+            var t = this.service.getValue(e.GodOfNightDemonBlakeConst.forever_level_state),
+            n = this.service.getValue(e.GodOfNightDemonBlakeConst.bitbuf_super),
+            i = this.service.getValue(6410),
+            a = ItemManager.getNumByID(1705400);
+            console.log("是否获得精灵bitbuf" + n + "   当前状态：" + t),
+            this.hasPass1.visible = t >= 1,
+            this.hasPass2.visible = t >= 2 || i >= 6,
+            this.hasPet.visible = 1 == n,
+            DisplayUtil.setEnabled(this.btn1, 0 == t, t >= 1),
+            DisplayUtil.setEnabled(this.btn2, 1 == t && 6 > i, 1 != t || i >= 6),
+            DisplayUtil.setEnabled(this.btnUp, 3 != t, 3 == t),
+            t > 0 && (this.btnGet.visible = (i >= 6 || a >= 60) && 2 > t),
+            this.btnSuper.visible = 2 > t,
+            this.btnUp.visible = 2 == t
+        },
+        n
+    } (BasicPanel);
+    e.GodOfNightDemonBlakeMainPanel = t,
+    __reflect(t.prototype, "godOfNightDemonBlake.GodOfNightDemonBlakeMainPanel")
+} (godOfNightDemonBlake || (godOfNightDemonBlake = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+godOfNightDemonBlake; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var n = t.call(this) || this;
+            return n.leftTime = 0,
+            n.skinName = e.Panel1Skin,
+            n
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.name = "godOfNightDemonBlake.Panel1Skin",
+            this.initOldPveBtnClose(0, this, "gondb_panel1_stms_png",
+            function() {
+                e.service.backToMainPanel()
+            },
+            this,
+            function() {}),
+            this.grpBack.title.y = 10,
+            this.grpBack.btnHelp.x = 275,
+            this.addEvents(),
+            this.setPos()
+        },
+        n.prototype.addEvents = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                t.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnOnekey,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(243989, 1,
+                    function() {
+                        KTool.doExchange(7226, 1,
+                        function() {
+                            t.service.updateValues().then(function() {
+                                t.update()
+                            })
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnBuy,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击1暗夜逐仇界面-【购买次数】"),
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(243993, 1,
+                    function() {
+                        KTool.doExchange(7221, 1,
+                        function() {
+                            t.service.updateValues().then(function() {
+                                t.update()
+                            })
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                return StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击1暗夜逐仇界面-【开始战斗】"),
+                t.leftTime <= 0 ? void BubblerManager.getInstance().showText("剩余挑战次数不足") : void FightManager.fightNoMapBoss(6315)
+            },
+            this),
+            ImageButtonUtil.add(this.btnSign,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击1暗夜逐仇界面-【签到】"),
+                SocketConnection.sendByQueue(e.GodOfNightDemonBlakeConst.CMD, [1, 1],
+                function() {
+                    BubblerManager.getInstance().showText("已领取1次额外次数"),
+                    t.service.updateValues().then(function() {
+                        t.update()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnReduce,
+            function() {
+                return StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击1暗夜逐仇界面-【缩短距离】"),
+                ItemManager.getNumByID(1705367) <= 0 ? (StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击1暗夜逐仇界面-【缩短距离】时道具不足"), void Alert.show("夜魔之心数量不足，是否立刻购买？",
+                function() {
+                    PayManager.doPayFunc(function() {
+                        var e = {};
+                        e.type = "product_diamond",
+                        e.ins = {
+                            iconID: 1705367,
+                            productID: 243994
+                        },
+                        e.caller = t,
+                        e.callBack = function(e, n) {
+                            KTool.buyProductByCallback(243994, n,
+                            function() {
+                                KTool.doExchange(7239, n,
+                                function() {
+                                    t.service.updateValues().then(function() {
+                                        t.update()
+                                    })
+                                })
+                            })
+                        },
+                        ModuleManager.showModuleByID(1, e)
+                    },
+                    t)
+                })) : void SocketConnection.sendByQueue(e.GodOfNightDemonBlakeConst.CMD, [1, 2],
+                function() {
+                    t.service.updateValues().then(function() {
+                        t.setPos(!0),
+                        t.update()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnadd,
+            function() {
+                PayManager.doPayFunc(function() {
+                    var e = {};
+                    e.type = "product_diamond",
+                    e.ins = {
+                        iconID: 1705367,
+                        productID: 243994
+                    },
+                    e.caller = t,
+                    e.callBack = function(e, n) {
+                        KTool.buyProductByCallback(243994, n,
+                        function() {
+                            KTool.doExchange(7239, n,
+                            function() {
+                                t.service.updateValues().then(function() {
+                                    t.update()
+                                })
+                            })
+                        })
+                    },
+                    ModuleManager.showModuleByID(1, e)
+                },
+                t)
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK,
+            function() {
+                t.service.updateValues().then(function() {
+                    t.setPos(!0),
+                    t.update()
+                })
+            },
+            this)
+        },
+        n.prototype.setPos = function(t) {
+            void 0 === t && (t = !1);
+            var n = -33,
+            i = -75,
+            a = -4,
+            o = this.service.getValue(e.GodOfNightDemonBlakeConst.forever_level1_myPos),
+            r = this.service.getValue(e.GodOfNightDemonBlakeConst.forever_level1_enemyPos),
+            s = 7 == r ? -55 : -95;
+            t ? (egret.Tween.get(this.img_my).to({
+                x: this["grid_" + o].x + n,
+                y: this["grid_" + o].y + i
+            },
+            750), egret.Tween.get(this.img_enemy).to({
+                x: this["grid_" + (r + 9)].x + a,
+                y: this["grid_" + (r + 9)].y + s
+            },
+            750)) : (this.img_my.x = this["grid_" + o].x + n, this.img_my.y = this["grid_" + o].y + i, this.img_enemy.x = this["grid_" + (r + 9)].x + a, this.img_enemy.y = this["grid_" + (r + 9)].y + s),
+            0 == o && (this.img_my.y = 0),
+            7 == r && (this.img_enemy.y = 163)
+        },
+        n.prototype.update = function() {
+            var t = this;
+            this.txt_itemNum.textFlow = [{
+                text: "夜魔之心：",
+                style: {
+                    textColor: 16777215
+                }
+            },
+            {
+                text: ItemManager.getNumByID(1705367) + "",
+                style: {
+                    textColor: 16514895
+                }
+            }];
+            var n = MainManager.actorInfo.isVip ? 5 : 3,
+            i = this.service.getValue(e.GodOfNightDemonBlakeConst.daily_all_times),
+            a = this.service.getValue(e.GodOfNightDemonBlakeConst.daily_has_sign),
+            o = 1 == this.service.getValue(e.GodOfNightDemonBlakeConst.daily_level1_sign);
+            this.leftTime = n - i + a,
+            this.imghasSign.visible = o,
+            o && n++,
+            console.log("当前次数：" + this.leftTime),
+            this.txt_leftTime.text = this.leftTime + "/" + n,
+            this.btnSign.visible = !o;
+            var r = this.service.getValue(e.GodOfNightDemonBlakeConst.forever_level_state);
+            this.btnBuy.visible = 0 == this.leftTime,
+            this.btnFight.visible = 0 != this.leftTime,
+            r >= 1 && Alarm.show("布莱克成功追上逃遁的狂煞，一场激战在所难免",
+            function() {
+                EventManager.removeAll(t),
+                t.service.openPanel(e.GodOfNightDemonBlakeConst.PANEL2)
+            })
+        },
+        n
+    } (BasicPanel);
+    e.GodOfNightDemonBlakePanel1 = t,
+    __reflect(t.prototype, "godOfNightDemonBlake.GodOfNightDemonBlakePanel1")
+} (godOfNightDemonBlake || (godOfNightDemonBlake = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+godOfNightDemonBlake; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var n = t.call(this) || this;
+            return n._petIdArr = [1845, 2341, 2527, 2323, 2394],
+            n.rightValue = 0,
+            n.leftTime = 0,
+            n.skinName = e.Panel2Skin,
+            n
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "gondb_panel2_stms_png",
+            function() {
+                e.service.backToMainPanel()
+            },
+            this,
+            function() {}),
+            this.rightValue = 1,
+            this.grpBack.title.y = 10,
+            this.grpBack.btnHelp.x = 275,
+            this.animInit(),
+            this.addEvents(),
+            this.showItem()
+        },
+        n.prototype.animInit = function() {
+            this.animReward = SpineUtil.createAnimate("anyechue"),
+            this.main.addChild(this.animReward),
+            this.animReward.touchChildren = this.animReward.touchEnabled = !1,
+            this.animReward.x = 578,
+            this.animReward.y = 270,
+            this.animReward.visible = !1
+        },
+        n.prototype.addEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                e.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnAdd,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击2暗夜除恶界面-【购买次数】"),
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(243996, 1,
+                    function() {
+                        KTool.doExchange(7222, 1,
+                        function() {
+                            e.service.updateValues().then(function() {
+                                e.update()
+                            })
+                        })
+                    })
+                },
+                e)
+            },
+            this),
+            EventManager.addEventListener("RewardOnclose",
+            function() {
+                e.animReward.visible = !0,
+                e.animReward.play("anye_chue", 1, 0, {
+                    playEnd: function() {
+                        e.animReward.visible = !1,
+                        e.showItem()
+                    }
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddItem,
+            function() {
+                PayManager.doPayFunc(function() {
+                    var t = {};
+                    t.type = "product_diamond",
+                    t.ins = {
+                        iconID: 1705400,
+                        productID: 244387
+                    },
+                    t.caller = e,
+                    t.callBack = function(t, n) {
+                        KTool.buyProductByCallback(244387, n,
+                        function() {
+                            KTool.doExchange(7244, n,
+                            function() {
+                                e.animReward.visible = !0,
+                                e.animReward.play("anye_chue", 1, 0, {
+                                    playEnd: function() {
+                                        e.animReward.visible = !1,
+                                        e.showItem(),
+                                        e.service.updateValues().then(function() {
+                                            e.update()
+                                        })
+                                    }
+                                })
+                            })
+                        })
+                    },
+                    ModuleManager.showModuleByID(1, t)
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnOnekey,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(243990, 1,
+                    function() {
+                        KTool.doExchange(7224, 1,
+                        function() {
+                            e.service.updateValues().then(function() {
+                                e.update()
+                            })
+                        })
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFast,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击2暗夜除恶界面-【直接击败】"),
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(243996 + Math.floor(e.rightValue / 2), 1,
+                    function() {
+                        KTool.doExchange(7239 + Math.floor(e.rightValue / 2), 1,
+                        function() {
+                            e.animReward.visible = !0,
+                            e.animReward.play("anye_chue", 1, 0, {
+                                playEnd: function() {
+                                    e.animReward.visible = !1,
+                                    e.showItem(),
+                                    e.service.updateValues().then(function() {
+                                        e.update()
+                                    })
+                                }
+                            })
+                        })
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                return StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击2暗夜除恶界面-【开始战斗】"),
+                e.leftTime <= 0 ? void BubblerManager.getInstance().showText("剩余挑战次数不足") : void(e.rightValue % 2 == 0 && 0 != e.rightValue ? Alert.show("本关难度较高，<font color='#ff0000'>挑战失败则进度重置回小天煞</font>，是否已准备好进入战斗？",
+                function() {
+                    FightManager.fightNoMapBoss(6315 + e.rightValue)
+                }) : FightManager.fightNoMapBoss(6315 + e.rightValue))
+            },
+            this)
+        },
+        n.prototype.update = function() {
+            var t = this,
+            n = MainManager.actorInfo.isVip ? 3 : 2;
+            this.leftTime = n - this.service.getValue(e.GodOfNightDemonBlakeConst.daily_all_times),
+            this.txt_leftTime.text = this.leftTime + "/" + n;
+            var i = ItemManager.getNumByID(1705400);
+            this.rightValue = this.service.getValue(6410) + 1;
+            for (var a = 1; 6 >= a; a++) this["pet" + a].visible = this.rightValue == a,
+            this["pet" + a + "_cur"].visible = this.rightValue == a,
+            this["pet" + a + "_not"].visible = this.rightValue < a,
+            this["pet" + a + "_pass"].visible = this.rightValue > a;
+            this.btnFast.visible = this.rightValue % 2 == 0 && 0 != this.rightValue,
+            this.btnAdd.visible = 0 == this.leftTime,
+            this.btnFight.visible = 0 != this.leftTime;
+            this.service.getValue(e.GodOfNightDemonBlakeConst.forever_level_state); (7 == this.rightValue || i >= 60) && Alarm.show("成功帮助布莱克铲除奸邪，可以领取布莱克完全体！",
+            function() {
+                t.service.updateValues().then(function() {
+                    t.service.backToMainPanel()
+                })
+            })
+        },
+        n.prototype.showItem = function() {
+            var e = ItemManager.getNumByID(1705400);
+            return this.txt_itemNum.text = e + "/60",
+            this.bar_value.value = e,
+            e
+        },
+        n
+    } (BasicPanel);
+    e.GodOfNightDemonBlakePanel2 = t,
+    __reflect(t.prototype, "godOfNightDemonBlake.GodOfNightDemonBlakePanel2")
+} (godOfNightDemonBlake || (godOfNightDemonBlake = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, n) {
+    e.__class__ = t,
+    n ? n.push(t) : n = [t],
+    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+},
+godOfNightDemonBlake; !
+function(e) {
+    var t = function(t) {
+        function n() {
+            var n = t.call(this) || this;
+            return n.animX = [722, 552, 722],
+            n.animY = [158, 290, 428],
+            n.leftTime = 0,
+            n.signAnims = [],
+            n.skinName = e.Panel3Skin,
+            n
+        }
+        return __extends(n, t),
+        n.prototype.childrenCreated = function() {
+            var e = this;
+            t.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(0, this, "gondb_panel3_stms_png",
+            function() {
+                e.service.backToMainPanel()
+            },
+            this,
+            function() {}),
+            this.grpBack.title.y = 10,
+            this.grpBack.btnHelp.x = 275;
+            for (var n = 0; 3 > n; n++) this.signAnims[n] = SpineUtil.createAnimate("anyeshenwei"),
+            this["reward" + (n + 1)].addChild(this.signAnims[n]),
+            this.signAnims[n].touchChildren = this.signAnims[n].touchEnabled = !1,
+            this.signAnims[n].x = 52,
+            this.signAnims[n].y = 52;
+            this.addEvents()
+        },
+        n.prototype.addEvents = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnBag,
+            function() {
+                t.service.showPetBag()
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnTe,
+            function() {
+                t.service.showPetEff(2833)
+            },
+            this),
+            ImageButtonUtil.add(this.btnWu,
+            function() {
+                var e = {
+                    id: 17733
+                };
+                tipsPop.TipsPop.openSkillPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAdd,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击三件套界面-【购买次数】"),
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(244004, 1,
+                    function() {
+                        KTool.doExchange(7223, 1,
+                        function() {
+                            t.service.updateValues().then(function() {
+                                t.update()
+                            })
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnKe,
+            function() {
+                var e;
+                CountermarkXMLInfo.isminMark(40413) ? (e = {},
+                e.ins = 40413, tipsPop.TipsPop.openCounterMarkPop(e)) : (e = {},
+                e.id = 40413, tipsPop.TipsPop.openItemPop(e))
+            },
+            this),
+            ImageButtonUtil.add(this.btnOneKey,
+            function() {
+                StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击三件套界面-【一键激活】"),
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(244e3, 1,
+                    function() {
+                        SocketConnection.sendByQueue(e.GodOfNightDemonBlakeConst.CMD, [2, 7],
+                        function() {
+                            t.service.updateValues().then(function() {
+                                t.update()
+                            })
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                return StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击三件套界面-【开始战斗】"),
+                t.leftTime <= 0 ? void BubblerManager.getInstance().showText("剩余挑战次数不足，请明日再次尝试") : void FightManager.fightNoMapBoss(4436)
+            },
+            this);
+            for (var n = function(n) {
+                ImageButtonUtil.add(i["btnBuy" + n],
+                function() {
+                    if (StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击三件套界面-【直接购买】"), !PetManager.isDefaultPet(2833)) {
+                        var i = "请将<font color='#ff0000'>夜魔之神·布莱克</font>放入背包首发出战位置！";
+                        return void Alarm.show(i,
+                        function() {
+                            t.service.showPetBag()
+                        },
+                        t)
+                    }
+                    PayManager.doPayFunc(function() {
+                        KTool.buyProductByCallback(244004 - n, 1,
+                        function() {
+                            SocketConnection.sendByQueue(e.GodOfNightDemonBlakeConst.CMD, [2, 4 - n],
+                            function() {
+                                t.service.updateValues().then(function() {
+                                    t.update()
+                                })
+                            })
+                        })
+                    },
+                    t)
+                },
+                i),
+                ImageButtonUtil.add(i["btnGet" + n],
+                function() {
+                    if (StatLogger.log("20230512版本系统功能", "布莱克完全体搬迁", "点击三件套界面-【领取奖励】"), !PetManager.isDefaultPet(2833)) {
+                        var i = "请将<font color='#ff0000'>夜魔之神·布莱克</font>放入背包首发出战位置！";
+                        return void Alarm.show(i,
+                        function() {
+                            t.service.showPetBag()
+                        },
+                        t)
+                    }
+                    SocketConnection.sendByQueue(e.GodOfNightDemonBlakeConst.CMD, [2, 7 - n],
+                    function() {
+                        if (3 != n) {
+                            var e = 1 == n ? "成功兑换第五技能": "成功兑换专属特性";
+                            Alert.show(e + "可以前往背包查看",
+                            function() {
+                                t.service.showPetBag()
+                            })
+                        }
+                        t.service.updateValues().then(function() {
+                            t.update()
+                        })
+                    })
+                },
+                i)
+            },
+            i = this, a = 1; 3 >= a; a++) n(a)
+        },
+        n.prototype.update = function() {
+            var t = MainManager.actorInfo.isVip ? 2 : 1;
+            this.leftTime = t - this.service.getValue(e.GodOfNightDemonBlakeConst.daily_all_times);
+            0 == this.leftTime ? 16711680 : 16777215;
+            this.txt_leftTime.text = this.leftTime + "/" + t;
+            for (var n = 0,
+            i = 0,
+            a = this.service.getValue(e.GodOfNightDemonBlakeConst.forever_level3_state), o = 1; 3 >= o; o++) 1 == KTool.getBit(a, o) && n++,
+            1 == KTool.getBit(a, o + 3) && i++,
+            this["btnGet" + (4 - o)].visible = 1 == KTool.getBit(a, o) && 1 != KTool.getBit(a, o + 3),
+            this["hasGet" + (4 - o)].visible = 1 == KTool.getBit(a, o + 3),
+            this["btnBuy" + (4 - o)].visible = !this["btnGet" + (4 - o)].visible && !this["hasGet" + (4 - o)].visible;
+            for (var o = 1; 3 >= o; o++) this.signAnims[o - 1].visible = this["btnGet" + o].visible,
+            this["btnGet" + o].visible && this.signAnims[o - 1].play("anye_shenwei", 0);
+            var r = i > n ? i: n;
+            this.btnOneKey.visible = 3 > n,
+            this.btnAdd.visible = 0 == this.leftTime,
+            this.btnFight.visible = 0 != this.leftTime,
+            this.bar_value.value = 30 * r,
+            this.txt_overTime.text = r + "/3",
+            3 == i && this.service.backToMainPanel()
+        },
+        n
+    } (BasicPanel);
+    e.GodOfNightDemonBlakePanel3 = t,
+    __reflect(t.prototype, "godOfNightDemonBlake.GodOfNightDemonBlakePanel3")
+} (godOfNightDemonBlake || (godOfNightDemonBlake = {})),
+window.godOfNightDemonBlake = window.godOfNightDemonBlake || {};
+var __extends = this && this.__extends ||
+function(e, t) {
+    function n() {
+        this.constructor = e
+    }
+    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
+    n.prototype = t.prototype,
+    e.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.godOfNightDemonBlake.MainpanelSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "btnUp", "btnInfo", "btn2", "hasPet", "btnGet", "btnSuper", "btnCollect", "btn1", "hasPass1", "hasPass2", "title"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "gondb_mainpanel_bg_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = 33,
+        e.width = 1100,
+        e.y = 36,
+        e.elementsContent = [this.btnUp_i(), this.btnInfo_i(), this._Image1_i(), this.btn2_i(), this.hasPet_i(), this.btnGet_i(), this.btnSuper_i(), this.btnCollect_i(), this.btn1_i(), this.hasPass1_i(), this.hasPass2_i(), this.title_i()],
+        e
+    },
+    n.btnUp_i = function() {
+        var e = new eui.Image;
+        return this.btnUp = e,
+        e.source = "gondb_mainpanel_btnup_png",
+        e.visible = !0,
+        e.x = 973,
+        e.y = 515,
+        e
+    },
+    n.btnInfo_i = function() {
+        var e = new eui.Image;
+        return this.btnInfo = e,
+        e.source = "gondb_mainpanel_btninfo_png",
+        e.x = 0,
+        e.y = 516,
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_mainpanel_ti1_png",
+        e.x = 638,
+        e.y = 454,
+        e
+    },
+    n.btn2_i = function() {
+        var e = new eui.Image;
+        return this.btn2 = e,
+        e.source = "gondb_mainpanel_btn2_png",
+        e.x = 626,
+        e.y = 357,
+        e
+    },
+    n.hasPet_i = function() {
+        var e = new eui.Image;
+        return this.hasPet = e,
+        e.source = "gondb_mainpanel_yihuode_png",
+        e.x = 251,
+        e.y = 246,
+        e
+    },
+    n.btnGet_i = function() {
+        var e = new eui.Image;
+        return this.btnGet = e,
+        e.height = 77,
+        e.source = "gondb_mainpanel_btnGet_png",
+        e.visible = !1,
+        e.width = 231,
+        e.x = 249,
+        e.y = 501,
+        e
+    },
+    n.btnSuper_i = function() {
+        var e = new eui.Image;
+        return this.btnSuper = e,
+        e.height = 62,
+        e.source = "gondb_mainpanel_btnSuper_png",
+        e.visible = !0,
+        e.width = 80,
+        e.x = 973,
+        e.y = 515,
+        e
+    },
+    n.btnCollect_i = function() {
+        var e = new eui.Image;
+        return this.btnCollect = e,
+        e.source = "gondb_mainpanel_btnsc_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 448.5,
+        e
+    },
+    n.btn1_i = function() {
+        var e = new eui.Image;
+        return this.btn1 = e,
+        e.source = "gondb_mainpanel_btn1_png",
+        e.x = 676,
+        e.y = 207,
+        e
+    },
+    n.hasPass1_i = function() {
+        var e = new eui.Image;
+        return this.hasPass1 = e,
+        e.source = "gondb_mainpanel_yiwancheng_png",
+        e.visible = !0,
+        e.x = 707,
+        e.y = 232,
+        e
+    },
+    n.hasPass2_i = function() {
+        var e = new eui.Image;
+        return this.hasPass2 = e,
+        e.source = "gondb_mainpanel_yiwancheng_png",
+        e.visible = !0,
+        e.x = 657,
+        e.y = 382,
+        e
+    },
+    n.title_i = function() {
+        var e = new eui.Image;
+        return this.title = e,
+        e.source = "gondb_mainpanel_title_png",
+        e.x = 299,
+        e.y = 0,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel1Skin.exml"] = window.godOfNightDemonBlake.Panel1Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "grid_6", "grid_3", "grid_7", "grid_8", "grid_5", "grid_9", "grid_4", "grid_10", "grid_11", "grid_12", "grid_15", "grid_14", "grid_13", "grid_0", "grid_1", "grid_2", "grid_16", "img_enemy", "img_my", "grids", "btnadd", "txt_itemNum", "items", "btnOnekey", "btnBag", "btnCure", "btnSign", "imghasSign", "btnReduce", "btnBuy", "btnFight", "txt_leftTime", "rightInfo"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this._Group1_i()]
+    }
+    __extends(t, e);
+    var n = t.prototype;
+    return n.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "gondb_panel1_bg_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.horizontalCenter = -18,
+        e.width = 1140,
+        e.y = 18,
+        e.elementsContent = [this._Image1_i(), this._Image2_i(), this.grids_i(), this.items_i(), this.btnOnekey_i(), this._Image7_i(), this._Image8_i(), this.btnBag_i(), this.btnCure_i(), this._Label1_i(), this._Label2_i(), this._Label3_i(), this.rightInfo_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_tipsbg_png",
+        e.x = 190,
+        e.y = 43,
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_gezibg_png",
+        e.x = 0,
+        e.y = 112,
+        e
+    },
+    n.grids_i = function() {
+        var e = new eui.Group;
+        return this.grids = e,
+        e.x = 108,
+        e.y = 145,
+        e.elementsContent = [this.grid_6_i(), this.grid_3_i(), this.grid_7_i(), this.grid_8_i(), this.grid_5_i(), this.grid_9_i(), this.grid_4_i(), this.grid_10_i(), this.grid_11_i(), this.grid_12_i(), this.grid_15_i(), this.grid_14_i(), this.grid_13_i(), this.grid_0_i(), this.grid_1_i(), this.grid_2_i(), this.grid_16_i(), this._Image3_i(), this._Image4_i(), this.img_enemy_i(), this.img_my_i()],
+        e
+    },
+    n.grid_6_i = function() {
+        var e = new eui.Image;
+        return this.grid_6 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 421,
+        e.y = 78,
+        e
+    },
+    n.grid_3_i = function() {
+        var e = new eui.Image;
+        return this.grid_3 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 231,
+        e.y = 113,
+        e
+    },
+    n.grid_7_i = function() {
+        var e = new eui.Image;
+        return this.grid_7 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 483,
+        e.y = 110,
+        e
+    },
+    n.grid_8_i = function() {
+        var e = new eui.Image;
+        return this.grid_8 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 545,
+        e.y = 142,
+        e
+    },
+    n.grid_5_i = function() {
+        var e = new eui.Image;
+        return this.grid_5 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 357,
+        e.y = 112,
+        e
+    },
+    n.grid_9_i = function() {
+        var e = new eui.Image;
+        return this.grid_9 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 481,
+        e.y = 176,
+        e
+    },
+    n.grid_4_i = function() {
+        var e = new eui.Image;
+        return this.grid_4 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 293,
+        e.y = 145,
+        e
+    },
+    n.grid_10_i = function() {
+        var e = new eui.Image;
+        return this.grid_10 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 418,
+        e.y = 209,
+        e
+    },
+    n.grid_11_i = function() {
+        var e = new eui.Image;
+        return this.grid_11 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 353,
+        e.y = 244,
+        e
+    },
+    n.grid_12_i = function() {
+        var e = new eui.Image;
+        return this.grid_12 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 415,
+        e.y = 276,
+        e
+    },
+    n.grid_15_i = function() {
+        var e = new eui.Image;
+        return this.grid_15 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 607,
+        e.y = 240,
+        e
+    },
+    n.grid_14_i = function() {
+        var e = new eui.Image;
+        return this.grid_14 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 542,
+        e.y = 274,
+        e
+    },
+    n.grid_13_i = function() {
+        var e = new eui.Image;
+        return this.grid_13 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 477,
+        e.y = 308,
+        e
+    },
+    n.grid_0_i = function() {
+        var e = new eui.Image;
+        return this.grid_0 = e,
+        e.source = "gondb_panel1_qidian_png",
+        e.visible = !0,
+        e.x = 41,
+        e.y = 25,
+        e
+    },
+    n.grid_1_i = function() {
+        var e = new eui.Image;
+        return this.grid_1 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 105,
+        e.y = 115,
+        e
+    },
+    n.grid_2_i = function() {
+        var e = new eui.Image;
+        return this.grid_2 = e,
+        e.source = "gondb_panel1_grid_png",
+        e.x = 167,
+        e.y = 148,
+        e
+    },
+    n.grid_16_i = function() {
+        var e = new eui.Image;
+        return this.grid_16 = e,
+        e.source = "gondb_panel1_zhongdian_png",
+        e.visible = !0,
+        e.x = 669,
+        e.y = 218,
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_start_png",
+        e.x = 0,
+        e.y = 116,
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_end_png",
+        e.x = 726,
+        e.y = 310,
+        e
+    },
+    n.img_enemy_i = function() {
+        var e = new eui.Image;
+        return this.img_enemy = e,
+        e.source = "gondb_panel1_2829_png",
+        e.x = 621,
+        e.y = 145,
+        e
+    },
+    n.img_my_i = function() {
+        var e = new eui.Image;
+        return this.img_my = e,
+        e.source = "gondb_panel1_2833_png",
+        e.visible = !0,
+        e.x = 72,
+        e.y = 40,
+        e
+    },
+    n.items_i = function() {
+        var e = new eui.Group;
+        return this.items = e,
+        e.x = 941,
+        e.y = 0,
+        e.elementsContent = [this._Image5_i(), this.btnadd_i(), this._Image6_i(), this.txt_itemNum_i()],
+        e
+    },
+    n._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_img_di2_png",
+        e.x = 8,
+        e.y = 5,
+        e
+    },
+    n.btnadd_i = function() {
+        var e = new eui.Image;
+        return this.btnadd = e,
+        e.source = "gondb_panel1_btnadd_png",
+        e.x = 169,
+        e.y = 5,
+        e
+    },
+    n._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_1705367_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.txt_itemNum_i = function() {
+        var e = new eui.Label;
+        return this.txt_itemNum = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18.0101510119681,
+        e.text = "夜魔之心：0/0",
+        e.textColor = 16514895,
+        e.x = 44,
+        e.y = 6,
+        e
+    },
+    n.btnOnekey_i = function() {
+        var e = new eui.Image;
+        return this.btnOnekey = e,
+        e.source = "gondb_panel1_btnonekey_png",
+        e.x = 1046,
+        e.y = 501,
+        e
+    },
+    n._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_1705367_png",
+        e.x = 437,
+        e.y = 76,
+        e
+    },
+    n._Image8_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_1705367_png",
+        e.x = 673,
+        e.y = 48,
+        e
+    },
+    n.btnBag_i = function() {
+        var e = new eui.Image;
+        return this.btnBag = e,
+        e.source = "gondb_panel1_jlbb_png",
+        e.x = 80,
+        e.y = 435,
+        e
+    },
+    n.btnCure_i = function() {
+        var e = new eui.Image;
+        return this.btnCure = e,
+        e.source = "gondb_panel1_jlhf_png",
+        e.x = 80,
+        e.y = 525,
+        e
+    },
+    n._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "VIP每日额外获得2次挑战机会",
+        e.textColor = 11432703,
+        e.x = 472,
+        e.y = 574,
+        e
+    },
+    n._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "战胜对手可前进一步并有概率获得          夜魔之心",
+        e.textColor = 16769906,
+        e.x = 395,
+        e.y = 50,
+        e
+    },
+    n._Label3_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "使用          可以缩短距离，追上狂刹即可通过关卡",
+        e.textColor = 16769906,
+        e.x = 395,
+        e.y = 80,
+        e
+    },
+    n.rightInfo_i = function() {
+        var e = new eui.Group;
+        return this.rightInfo = e,
+        e.x = 937,
+        e.y = 135,
+        e.elementsContent = [this._Image9_i(), this.btnSign_i(), this.imghasSign_i(), this.btnReduce_i(), this._Label4_i(), this._Image10_i(), this.btnBuy_i(), this.btnFight_i(), this._Image11_i(), this.txt_leftTime_i(), this._Label5_i()],
+        e
+    },
+    n._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_shangde_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.btnSign_i = function() {
+        var e = new eui.Image;
+        return this.btnSign = e,
+        e.source = "gondb_panel1_btnsign_png",
+        e.x = 52,
+        e.y = 111,
+        e
+    },
+    n.imghasSign_i = function() {
+        var e = new eui.Image;
+        return this.imghasSign = e,
+        e.source = "gondb_panel1_hasSign_png",
+        e.x = 52,
+        e.y = 111,
+        e
+    },
+    n.btnReduce_i = function() {
+        var e = new eui.Image;
+        return this.btnReduce = e,
+        e.source = "gondb_panel1_btnreduce_png",
+        e.visible = !0,
+        e.x = 28,
+        e.y = 219,
+        e
+    },
+    n._Label4_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.text = "消耗           X1",
+        e.textColor = 11367423,
+        e.x = 50,
+        e.y = 198,
+        e
+    },
+    n._Image10_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_1705367_kb_png",
+        e.x = 89,
+        e.y = 192,
+        e
+    },
+    n.btnBuy_i = function() {
+        var e = new eui.Image;
+        return this.btnBuy = e,
+        e.source = "gondb_panel1_btnbuy_png",
+        e.x = 28,
+        e.y = 277,
+        e
+    },
+    n.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "gondb_panel1_btnfight_png",
+        e.visible = !0,
+        e.x = 28,
+        e.y = 277,
+        e
+    },
+    n._Image11_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel1_zu_277_png",
+        e.x = 125,
+        e.y = 273,
+        e
+    },
+    n.txt_leftTime_i = function() {
+        var e = new eui.Label;
+        return this.txt_leftTime = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 14,
+        e.text = "(9/9)",
+        e.textAlign = "center",
+        e.textColor = 16777215,
+        e.width = 38,
+        e.x = 137,
+        e.y = 275,
+        e
+    },
+    n._Label5_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.text = "额外获得一次挑战次数",
+        e.textColor = 9926911,
+        e.visible = !0,
+        e.x = 15,
+        e.y = 51,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel2Skin.exml"] = window.godOfNightDemonBlake.Panel2Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "pet1", "pet2", "pet3", "pet4", "pet5", "pet6", "grp_pets", "jindu", "bar_value", "btnAddItem", "txt_itemNum", "bar", "rb_enemy1", "rb_enemy2", "rb_enemy3", "rb_enemy4", "rb_enemy5", "rb_enemy6", "a_1putong", "pet1_cur", "pet1_not", "pet1_pass", "a_2putong", "pet2_cur", "pet2_not", "pet2_pass", "a_3putong", "pet3_cur", "pet3_not", "pet3_pass", "a_4putong", "pet4_cur", "pet4_not", "pet4_pass", "a_5putong", "pet5_cur", "pet5_not", "pet5_pass", "a_6putong", "pet6_not", "pet6_cur", "pet6_pass", "rb", "btnFast", "btnAdd", "btnFight", "txt_leftTime", "btnOnekey", "btnBag", "btnCure", "main"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.main_i()]
+    }
+    __extends(t, e);
+    var n = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["thumb"],
+            this.width = 21,
+            this.elementsContent = [this.thumb_i()]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n.thumb_i = function() {
+            var e = new eui.Image;
+            return this.thumb = e,
+            e.scale9Grid = new egret.Rectangle(7, 30, 7, 30),
+            e.source = "gondb_panel2_jindu_png",
+            e.visible = !0,
+            e.width = 264,
+            e
+        },
+        t
+    } (eui.Skin),
+    i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["select", "hasPass"],
+            this.elementsContent = [this._Image1_i(), this.select_i(), this._Image2_i(), this.hasPass_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("select", "visible", !0), new eui.SetProperty("hasPass", "visible", !0)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Image1_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_1putong_png",
+            e.visible = !0,
+            e.x = 18,
+            e.y = 8,
+            e
+        },
+        n.select_i = function() {
+            var e = new eui.Image;
+            return this.select = e,
+            e.source = "gondb_panel2_1xuanzhong_png",
+            e.visible = !1,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Image2_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_zu_7_png",
+            e.visible = !1,
+            e.x = 20,
+            e.y = 10,
+            e
+        },
+        n.hasPass_i = function() {
+            var e = new eui.Group;
+            return this.hasPass = e,
+            e.visible = !0,
+            e.x = 20,
+            e.y = 5,
+            e.elementsContent = [this._Rect1_i(), this._Image3_i()],
+            e
+        },
+        n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.fillAlpha = .6,
+            e.height = 54,
+            e.width = 162,
+            e.x = 0,
+            e.y = 4,
+            e
+        },
+        n._Image3_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_yihuode_png",
+            e.visible = !0,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    a = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["select", "hasPass"],
+            this.elementsContent = [this._Image1_i(), this.select_i(), this._Image2_i(), this.hasPass_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("select", "visible", !0)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Image1_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_2putong_png",
+            e.visible = !0,
+            e.x = 18,
+            e.y = 8,
+            e
+        },
+        n.select_i = function() {
+            var e = new eui.Image;
+            return this.select = e,
+            e.source = "gondb_panel2_2xuanzhong_png",
+            e.visible = !1,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Image2_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_zu_7_png",
+            e.visible = !1,
+            e.x = 20,
+            e.y = 10,
+            e
+        },
+        n.hasPass_i = function() {
+            var e = new eui.Group;
+            return this.hasPass = e,
+            e.x = 20,
+            e.y = 5,
+            e.elementsContent = [this._Rect1_i(), this._Image3_i()],
+            e
+        },
+        n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.fillAlpha = .6,
+            e.height = 54,
+            e.width = 162,
+            e.x = 0,
+            e.y = 4,
+            e
+        },
+        n._Image3_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_yihuode_png",
+            e.visible = !0,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    o = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["select", "hasPass"],
+            this.elementsContent = [this._Image1_i(), this.select_i(), this._Image2_i(), this.hasPass_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("select", "visible", !0)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Image1_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_3putong_png",
+            e.visible = !0,
+            e.x = 18,
+            e.y = 8,
+            e
+        },
+        n.select_i = function() {
+            var e = new eui.Image;
+            return this.select = e,
+            e.source = "gondb_panel2_3xuanzhong_png",
+            e.visible = !1,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Image2_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_zu_7_png",
+            e.visible = !1,
+            e.x = 20,
+            e.y = 10,
+            e
+        },
+        n.hasPass_i = function() {
+            var e = new eui.Group;
+            return this.hasPass = e,
+            e.x = 20,
+            e.y = 5,
+            e.elementsContent = [this._Rect1_i(), this._Image3_i()],
+            e
+        },
+        n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.fillAlpha = .6,
+            e.height = 54,
+            e.width = 162,
+            e.x = 0,
+            e.y = 4,
+            e
+        },
+        n._Image3_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_yihuode_png",
+            e.visible = !0,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    r = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["select", "hasPass"],
+            this.elementsContent = [this._Image1_i(), this.select_i(), this._Image2_i(), this.hasPass_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("select", "visible", !0)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Image1_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_4putong_png",
+            e.visible = !0,
+            e.x = 18,
+            e.y = 8,
+            e
+        },
+        n.select_i = function() {
+            var e = new eui.Image;
+            return this.select = e,
+            e.source = "gondb_panel2_4xuanzhong_png",
+            e.visible = !1,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Image2_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_zu_7_png",
+            e.visible = !1,
+            e.x = 20,
+            e.y = 10,
+            e
+        },
+        n.hasPass_i = function() {
+            var e = new eui.Group;
+            return this.hasPass = e,
+            e.x = 20,
+            e.y = 5,
+            e.elementsContent = [this._Rect1_i(), this._Image3_i()],
+            e
+        },
+        n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.fillAlpha = .6,
+            e.height = 54,
+            e.width = 162,
+            e.x = 0,
+            e.y = 4,
+            e
+        },
+        n._Image3_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_yihuode_png",
+            e.visible = !0,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    s = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["select", "hasPass"],
+            this.elementsContent = [this._Image1_i(), this.select_i(), this._Image2_i(), this.hasPass_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("select", "visible", !0)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Image1_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_5putong_png",
+            e.visible = !0,
+            e.x = 18,
+            e.y = 8,
+            e
+        },
+        n.select_i = function() {
+            var e = new eui.Image;
+            return this.select = e,
+            e.source = "gondb_panel2_5xuanzhong_png",
+            e.visible = !1,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Image2_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_zu_7_png",
+            e.visible = !1,
+            e.x = 20,
+            e.y = 10,
+            e
+        },
+        n.hasPass_i = function() {
+            var e = new eui.Group;
+            return this.hasPass = e,
+            e.x = 20,
+            e.y = 5,
+            e.elementsContent = [this._Rect1_i(), this._Image3_i()],
+            e
+        },
+        n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.fillAlpha = .6,
+            e.height = 54,
+            e.width = 162,
+            e.x = 0,
+            e.y = 4,
+            e
+        },
+        n._Image3_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_yihuode_png",
+            e.visible = !0,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    _ = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["select", "hasPass"],
+            this.elementsContent = [this._Image1_i(), this.select_i(), this._Image2_i(), this.hasPass_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", [new eui.SetProperty("select", "visible", !0)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n._Image1_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_6putong_png",
+            e.visible = !0,
+            e.x = 18,
+            e.y = 8,
+            e
+        },
+        n.select_i = function() {
+            var e = new eui.Image;
+            return this.select = e,
+            e.source = "gondb_panel2_6xuanzhong_png",
+            e.visible = !1,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        n._Image2_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_zu_7_png",
+            e.visible = !1,
+            e.x = 20,
+            e.y = 10,
+            e
+        },
+        n.hasPass_i = function() {
+            var e = new eui.Group;
+            return this.hasPass = e,
+            e.x = 20,
+            e.y = 5,
+            e.elementsContent = [this._Rect1_i(), this._Image3_i()],
+            e
+        },
+        n._Rect1_i = function() {
+            var e = new eui.Rect;
+            return e.fillAlpha = .6,
+            e.height = 54,
+            e.width = 162,
+            e.x = 0,
+            e.y = 4,
+            e
+        },
+        n._Image3_i = function() {
+            var e = new eui.Image;
+            return e.source = "gondb_panel2_yihuode_png",
+            e.visible = !0,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    u = t.prototype;
+    return u.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "gondb_panel1_bg_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    u.main_i = function() {
+        var e = new eui.Group;
+        return this.main = e,
+        e.horizontalCenter = -12,
+        e.width = 1130,
+        e.y = 50,
+        e.elementsContent = [this._Label1_i(), this.grp_pets_i(), this._Image2_i(), this._Image3_i(), this.bar_i(), this.rb_i(), this.btnFast_i(), this.btnAdd_i(), this.btnFight_i(), this._Image11_i(), this.txt_leftTime_i(), this.btnOnekey_i(), this._Image12_i(), this._Image13_i(), this._Image14_i(), this._Label2_i(), this._Label3_i(), this.btnBag_i(), this.btnCure_i()],
+        e
+    },
+    u._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "VIP每日额外获得1次挑战机会",
+        e.textColor = 11432703,
+        e.x = 462,
+        e.y = 542,
+        e
+    },
+    u.grp_pets_i = function() {
+        var e = new eui.Group;
+        return this.grp_pets = e,
+        e.x = 541,
+        e.y = 87,
+        e.elementsContent = [this.pet1_i(), this.pet2_i(), this.pet3_i(), this.pet4_i(), this.pet5_i(), this.pet6_i(), this._Image1_i()],
+        e
+    },
+    u.pet1_i = function() {
+        var e = new eui.Image;
+        return this.pet1 = e,
+        e.source = "gondb_panel2_2808_png",
+        e.x = 2,
+        e.y = 20,
+        e
+    },
+    u.pet2_i = function() {
+        var e = new eui.Image;
+        return this.pet2 = e,
+        e.source = "gondb_panel2_2815_png",
+        e.x = 2,
+        e.y = 2,
+        e
+    },
+    u.pet3_i = function() {
+        var e = new eui.Image;
+        return this.pet3 = e,
+        e.source = "gondb_panel2_2812_png",
+        e.x = 42,
+        e.y = 55,
+        e
+    },
+    u.pet4_i = function() {
+        var e = new eui.Image;
+        return this.pet4 = e,
+        e.source = "gondb_panel2_2823_png",
+        e.x = 0,
+        e.y = 10,
+        e
+    },
+    u.pet5_i = function() {
+        var e = new eui.Image;
+        return this.pet5 = e,
+        e.source = "gondb_panel2_2820_png",
+        e.x = 2,
+        e.y = 6,
+        e
+    },
+    u.pet6_i = function() {
+        var e = new eui.Image;
+        return this.pet6 = e,
+        e.source = "gondb_panel2_2829_png",
+        e.visible = !0,
+        e.x = 38,
+        e.y = 0,
+        e
+    },
+    u._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_mainpanel_ti2_png",
+        e.x = 112.131,
+        e.y = 332.492,
+        e
+    },
+    u._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_2833_png",
+        e.x = 0,
+        e.y = 47,
+        e
+    },
+    u._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_zu_3_png",
+        e.x = 319,
+        e.y = 40,
+        e
+    },
+    u.bar_i = function() {
+        var e = new eui.Group;
+        return this.bar = e,
+        e.x = 146,
+        e.y = 465,
+        e.elementsContent = [this._Image4_i(), this._Image5_i(), this.jindu_i(), this.bar_value_i(), this._Image6_i(), this.btnAddItem_i(), this._Image7_i(), this._Image8_i(), this.txt_itemNum_i()],
+        e
+    },
+    u._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_jx_903_kb_2_png",
+        e.x = 25,
+        e.y = 25,
+        e
+    },
+    u._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_jx_903_kb_png",
+        e.x = 34,
+        e.y = 33,
+        e
+    },
+    u.jindu_i = function() {
+        var e = new eui.Image;
+        return this.jindu = e,
+        e.source = "gondb_panel2_jindu_png",
+        e.visible = !1,
+        e.x = 34,
+        e.y = 33,
+        e
+    },
+    u.bar_value_i = function() {
+        var e = new eui.ProgressBar;
+        return this.bar_value = e,
+        e.height = 9,
+        e.maximum = 60,
+        e.value = 0,
+        e.width = 264,
+        e.x = 34,
+        e.y = 33,
+        e.skinName = n,
+        e
+    },
+    u._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_juxing_26_png",
+        e.visible = !0,
+        e.x = 27,
+        e.y = 0,
+        e
+    },
+    u.btnAddItem_i = function() {
+        var e = new eui.Image;
+        return this.btnAddItem = e,
+        e.source = "gondb_panel1_btnadd_png",
+        e.x = 122,
+        e.y = 2,
+        e
+    },
+    u._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_img_orange_reddot_png",
+        e.x = 0,
+        e.y = 23,
+        e
+    },
+    u._Image8_i = function() {
+        var e = new eui.Image;
+        return e.scaleX = .8,
+        e.scaleY = .8,
+        e.source = "gondb_panel2_1705400_png",
+        e.x = 27,
+        e.y = 1,
+        e
+    },
+    u.txt_itemNum_i = function() {
+        var e = new eui.Label;
+        return this.txt_itemNum = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 22,
+        e.text = "00/00",
+        e.textAlign = "right",
+        e.textColor = 16773120,
+        e.width = 62,
+        e.x = 56,
+        e.y = 0,
+        e
+    },
+    u.rb_i = function() {
+        var e = new eui.Group;
+        return this.rb = e,
+        e.x = 907,
+        e.y = 22,
+        e.elementsContent = [this._Image9_i(), this._Image10_i(), this.rb_enemy1_i(), this.rb_enemy2_i(), this.rb_enemy3_i(), this.rb_enemy4_i(), this.rb_enemy5_i(), this.rb_enemy6_i(), this._Group1_i(), this._Group2_i(), this._Group3_i(), this._Group4_i(), this._Group5_i(), this._Group6_i()],
+        e
+    },
+    u._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_xz_1_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    u._Image10_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_yzds_png",
+        e.x = 98,
+        e.y = 14,
+        e
+    },
+    u.rb_enemy1_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_enemy1 = e,
+        e.groupName = "enemyChoose",
+        e.value = "1",
+        e.visible = !1,
+        e.x = 8,
+        e.y = 42,
+        e.skinName = i,
+        e
+    },
+    u.rb_enemy2_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_enemy2 = e,
+        e.groupName = "enemyChoose",
+        e.value = "2",
+        e.visible = !1,
+        e.x = 8,
+        e.y = 107,
+        e.skinName = a,
+        e
+    },
+    u.rb_enemy3_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_enemy3 = e,
+        e.groupName = "enemyChoose",
+        e.value = "3",
+        e.visible = !1,
+        e.x = 8,
+        e.y = 173,
+        e.skinName = o,
+        e
+    },
+    u.rb_enemy4_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_enemy4 = e,
+        e.groupName = "enemyChoose",
+        e.value = "4",
+        e.visible = !1,
+        e.x = 8,
+        e.y = 235,
+        e.skinName = r,
+        e
+    },
+    u.rb_enemy5_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_enemy5 = e,
+        e.groupName = "enemyChoose",
+        e.value = "5",
+        e.visible = !1,
+        e.x = 8,
+        e.y = 297,
+        e.skinName = s,
+        e
+    },
+    u.rb_enemy6_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_enemy6 = e,
+        e.groupName = "enemyChoose",
+        e.value = "6",
+        e.visible = !1,
+        e.x = 8,
+        e.y = 359,
+        e.skinName = _,
+        e
+    },
+    u._Group1_i = function() {
+        var e = new eui.Group;
+        return e.visible = !0,
+        e.x = 8,
+        e.y = 42,
+        e.elementsContent = [this.a_1putong_i(), this.pet1_cur_i(), this.pet1_not_i(), this.pet1_pass_i()],
+        e
+    },
+    u.a_1putong_i = function() {
+        var e = new eui.Image;
+        return this.a_1putong = e,
+        e.source = "gondb_panel2_1putong_png",
+        e.visible = !0,
+        e.x = 18,
+        e.y = 8,
+        e
+    },
+    u.pet1_cur_i = function() {
+        var e = new eui.Image;
+        return this.pet1_cur = e,
+        e.source = "gondb_panel2_1xuanzhong_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    u.pet1_not_i = function() {
+        var e = new eui.Image;
+        return this.pet1_not = e,
+        e.source = "gondb_panel2_zu_7_png",
+        e.visible = !1,
+        e.x = 20,
+        e.y = 10,
+        e
+    },
+    u.pet1_pass_i = function() {
+        var e = new eui.Image;
+        return this.pet1_pass = e,
+        e.source = "gondb_panel2_yihuode_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 5,
+        e
+    },
+    u._Group2_i = function() {
+        var e = new eui.Group;
+        return e.visible = !0,
+        e.x = 8,
+        e.y = 107,
+        e.elementsContent = [this.a_2putong_i(), this.pet2_cur_i(), this.pet2_not_i(), this.pet2_pass_i()],
+        e
+    },
+    u.a_2putong_i = function() {
+        var e = new eui.Image;
+        return this.a_2putong = e,
+        e.source = "gondb_panel2_2putong_png",
+        e.x = 18,
+        e.y = 8,
+        e
+    },
+    u.pet2_cur_i = function() {
+        var e = new eui.Image;
+        return this.pet2_cur = e,
+        e.source = "gondb_panel2_2xuanzhong_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    u.pet2_not_i = function() {
+        var e = new eui.Image;
+        return this.pet2_not = e,
+        e.source = "gondb_panel2_zu_7_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 11,
+        e
+    },
+    u.pet2_pass_i = function() {
+        var e = new eui.Image;
+        return this.pet2_pass = e,
+        e.source = "gondb_panel2_yihuode_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 5,
+        e
+    },
+    u._Group3_i = function() {
+        var e = new eui.Group;
+        return e.visible = !0,
+        e.x = 8,
+        e.y = 173,
+        e.elementsContent = [this.a_3putong_i(), this.pet3_cur_i(), this.pet3_not_i(), this.pet3_pass_i()],
+        e
+    },
+    u.a_3putong_i = function() {
+        var e = new eui.Image;
+        return this.a_3putong = e,
+        e.source = "gondb_panel2_3putong_png",
+        e.x = 18,
+        e.y = 8,
+        e
+    },
+    u.pet3_cur_i = function() {
+        var e = new eui.Image;
+        return this.pet3_cur = e,
+        e.source = "gondb_panel2_3xuanzhong_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    u.pet3_not_i = function() {
+        var e = new eui.Image;
+        return this.pet3_not = e,
+        e.source = "gondb_panel2_zu_7_png",
+        e.x = 20,
+        e.y = 10,
+        e
+    },
+    u.pet3_pass_i = function() {
+        var e = new eui.Image;
+        return this.pet3_pass = e,
+        e.source = "gondb_panel2_yihuode_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 5,
+        e
+    },
+    u._Group4_i = function() {
+        var e = new eui.Group;
+        return e.visible = !0,
+        e.x = 8,
+        e.y = 235,
+        e.elementsContent = [this.a_4putong_i(), this.pet4_cur_i(), this.pet4_not_i(), this.pet4_pass_i()],
+        e
+    },
+    u.a_4putong_i = function() {
+        var e = new eui.Image;
+        return this.a_4putong = e,
+        e.source = "gondb_panel2_4putong_png",
+        e.x = 18,
+        e.y = 8,
+        e
+    },
+    u.pet4_cur_i = function() {
+        var e = new eui.Image;
+        return this.pet4_cur = e,
+        e.source = "gondb_panel2_4xuanzhong_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    u.pet4_not_i = function() {
+        var e = new eui.Image;
+        return this.pet4_not = e,
+        e.source = "gondb_panel2_zu_7_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 10,
+        e
+    },
+    u.pet4_pass_i = function() {
+        var e = new eui.Image;
+        return this.pet4_pass = e,
+        e.source = "gondb_panel2_yihuode_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 5,
+        e
+    },
+    u._Group5_i = function() {
+        var e = new eui.Group;
+        return e.visible = !0,
+        e.x = 8,
+        e.y = 297,
+        e.elementsContent = [this.a_5putong_i(), this.pet5_cur_i(), this.pet5_not_i(), this.pet5_pass_i()],
+        e
+    },
+    u.a_5putong_i = function() {
+        var e = new eui.Image;
+        return this.a_5putong = e,
+        e.source = "gondb_panel2_5putong_png",
+        e.x = 18,
+        e.y = 8,
+        e
+    },
+    u.pet5_cur_i = function() {
+        var e = new eui.Image;
+        return this.pet5_cur = e,
+        e.source = "gondb_panel2_5xuanzhong_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    u.pet5_not_i = function() {
+        var e = new eui.Image;
+        return this.pet5_not = e,
+        e.source = "gondb_panel2_zu_7_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 10,
+        e
+    },
+    u.pet5_pass_i = function() {
+        var e = new eui.Image;
+        return this.pet5_pass = e,
+        e.source = "gondb_panel2_yihuode_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 5,
+        e
+    },
+    u._Group6_i = function() {
+        var e = new eui.Group;
+        return e.visible = !0,
+        e.x = 8,
+        e.y = 359,
+        e.elementsContent = [this.a_6putong_i(), this.pet6_not_i(), this.pet6_cur_i(), this.pet6_pass_i()],
+        e
+    },
+    u.a_6putong_i = function() {
+        var e = new eui.Image;
+        return this.a_6putong = e,
+        e.source = "gondb_panel2_6putong_png",
+        e.x = 18,
+        e.y = 8,
+        e
+    },
+    u.pet6_not_i = function() {
+        var e = new eui.Image;
+        return this.pet6_not = e,
+        e.source = "gondb_panel2_zu_7_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 10,
+        e
+    },
+    u.pet6_cur_i = function() {
+        var e = new eui.Image;
+        return this.pet6_cur = e,
+        e.source = "gondb_panel2_6xuanzhong_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    u.pet6_pass_i = function() {
+        var e = new eui.Image;
+        return this.pet6_pass = e,
+        e.source = "gondb_panel2_yihuode_png",
+        e.visible = !0,
+        e.x = 20,
+        e.y = 5,
+        e
+    },
+    u.btnFast_i = function() {
+        var e = new eui.Image;
+        return this.btnFast = e,
+        e.source = "gondb_panel2_btnfast_png",
+        e.x = 579,
+        e.y = 472,
+        e
+    },
+    u.btnAdd_i = function() {
+        var e = new eui.Image;
+        return this.btnAdd = e,
+        e.source = "gondb_panel2_btnadd_png",
+        e.x = 732,
+        e.y = 472,
+        e
+    },
+    u.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "gondb_panel2_btnfight_png",
+        e.visible = !1,
+        e.x = 732,
+        e.y = 472,
+        e
+    },
+    u._Image11_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_zu_8_png",
+        e.visible = !0,
+        e.x = 829,
+        e.y = 468,
+        e
+    },
+    u.txt_leftTime_i = function() {
+        var e = new eui.Label;
+        return this.txt_leftTime = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 14,
+        e.text = "9/9",
+        e.textAlign = "center",
+        e.textColor = 16777215,
+        e.width = 38,
+        e.x = 840,
+        e.y = 470,
+        e
+    },
+    u.btnOnekey_i = function() {
+        var e = new eui.Image;
+        return this.btnOnekey = e,
+        e.source = "gondb_panel2_btnonekey_png",
+        e.x = 1034,
+        e.y = 469,
+        e
+    },
+    u._Image12_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_tipsbg_png",
+        e.x = 238,
+        e.y = 0,
+        e
+    },
+    u._Image13_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_1705400_png",
+        e.x = 435,
+        e.y = 6,
+        e
+    },
+    u._Image14_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel2_1705400_png",
+        e.x = 630,
+        e.y = 6,
+        e
+    },
+    u._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "战胜对手可获得          除恶令，凑齐60个          即可领取布莱克完全体",
+        e.textColor = 16769906,
+        e.x = 304,
+        e.y = 11,
+        e
+    },
+    u._Label3_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "保持连胜可挑战下一个对手，战败则需从头开始",
+        e.textColor = 16769906,
+        e.x = 388,
+        e.y = 41,
+        e
+    },
+    u.btnBag_i = function() {
+        var e = new eui.Image;
+        return this.btnBag = e,
+        e.source = "gondb_panel2_jlbb_png",
+        e.x = 26,
+        e.y = 403,
+        e
+    },
+    u.btnCure_i = function() {
+        var e = new eui.Image;
+        return this.btnCure = e,
+        e.source = "gondb_panel2_jlhf_png",
+        e.x = 26,
+        e.y = 493,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/Panel3Skin.exml"] = window.godOfNightDemonBlake.Panel3Skin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "btnBag", "btnAdd", "btnFight", "txt_leftTime", "btnCure", "txt_overTime", "zu_6", "bar_value", "btnOneKey", "btnWu", "btnBuy1", "hasGet1", "btnGet1", "reward1", "btnTe", "btnBuy2", "hasGet2", "btnGet2", "reward2", "btnKe", "btnBuy3", "hasGet3", "btnGet3", "reward3", "grp_main"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bg_i(), this.grp_main_i()]
+    }
+    __extends(t, e);
+    var n = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["thumb"],
+            this.width = 21,
+            this.elementsContent = [this.thumb_i()]
+        }
+        __extends(t, e);
+        var n = t.prototype;
+        return n.thumb_i = function() {
+            var e = new eui.Image;
+            return this.thumb = e,
+            e.height = 376,
+            e.scale9Grid = new egret.Rectangle(7, 30, 7, 30),
+            e.source = "gondb_panel3_zu_6_png",
+            e.visible = !0,
+            e
+        },
+        t
+    } (eui.Skin),
+    i = t.prototype;
+    return i.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "gondb_panel1_bg_jpg",
+        e.percentWidth = 100,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.grp_main_i = function() {
+        var e = new eui.Group;
+        return this.grp_main = e,
+        e.horizontalCenter = -13,
+        e.width = 1110,
+        e.y = 52,
+        e.elementsContent = [this._Image1_i(), this._Label1_i(), this._Image2_i(), this.btnBag_i(), this.btnAdd_i(), this.btnFight_i(), this._Image3_i(), this.txt_leftTime_i(), this.btnCure_i(), this._Image4_i(), this._Label2_i(), this.txt_overTime_i(), this._Image5_i(), this.zu_6_i(), this.bar_value_i(), this.btnOneKey_i(), this.reward1_i(), this.reward2_i(), this.reward3_i(), this._Image6_i(), this._Label3_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel3_tuceng_41_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "VIP赛尔每日免费次数翻倍",
+        e.textColor = 11432703,
+        e.x = 870,
+        e.y = 560,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel3_anniubg_png",
+        e.x = 829,
+        e.y = 458,
+        e
+    },
+    i.btnBag_i = function() {
+        var e = new eui.Image;
+        return this.btnBag = e,
+        e.source = "gondb_panel3_jlbb_png",
+        e.x = 18,
+        e.y = 401,
+        e
+    },
+    i.btnAdd_i = function() {
+        var e = new eui.Image;
+        return this.btnAdd = e,
+        e.source = "gondb_panel2_btnadd_png",
+        e.x = 894,
+        e.y = 481,
+        e
+    },
+    i.btnFight_i = function() {
+        var e = new eui.Image;
+        return this.btnFight = e,
+        e.source = "gondb_panel3_btnfight_png",
+        e.visible = !0,
+        e.x = 894,
+        e.y = 481,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel3_zu_5_png",
+        e.x = 991,
+        e.y = 477,
+        e
+    },
+    i.txt_leftTime_i = function() {
+        var e = new eui.Label;
+        return this.txt_leftTime = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 14,
+        e.text = "9/9",
+        e.textAlign = "center",
+        e.textColor = 16777215,
+        e.width = 35,
+        e.x = 1005,
+        e.y = 479,
+        e
+    },
+    i.btnCure_i = function() {
+        var e = new eui.Image;
+        return this.btnCure = e,
+        e.source = "gondb_panel3_jlhf_png",
+        e.x = 18,
+        e.y = 491,
+        e
+    },
+    i._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel3_jx_907_kb_png",
+        e.x = 813,
+        e.y = 430,
+        e
+    },
+    i._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "已击败",
+        e.textColor = 12877567,
+        e.x = 843,
+        e.y = 433,
+        e
+    },
+    i.txt_overTime_i = function() {
+        var e = new eui.Label;
+        return this.txt_overTime = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "9/9",
+        e.textColor = 16775806,
+        e.x = 904,
+        e.y = 430,
+        e
+    },
+    i._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel3_barbg_png",
+        e.x = 940,
+        e.y = 66,
+        e
+    },
+    i.zu_6_i = function() {
+        var e = new eui.Image;
+        return this.zu_6 = e,
+        e.source = "gondb_panel3_zu_6_png",
+        e.visible = !1,
+        e.x = 948,
+        e.y = 73,
+        e
+    },
+    i.bar_value_i = function() {
+        var e = new eui.ProgressBar;
+        return this.bar_value = e,
+        e.direction = "btt",
+        e.height = 375,
+        e.maximum = 90,
+        e.value = 0,
+        e.width = 19,
+        e.x = 948,
+        e.y = 73,
+        e.skinName = n,
+        e
+    },
+    i.btnOneKey_i = function() {
+        var e = new eui.Image;
+        return this.btnOneKey = e,
+        e.source = "gondb_panel3_btnyjqk_png",
+        e.x = 315,
+        e.y = 465,
+        e
+    },
+    i.reward1_i = function() {
+        var e = new eui.Group;
+        return this.reward1 = e,
+        e.x = 992,
+        e.y = 45,
+        e.elementsContent = [this.btnWu_i(), this.btnBuy1_i(), this.hasGet1_i(), this.btnGet1_i()],
+        e
+    },
+    i.btnWu_i = function() {
+        var e = new eui.Image;
+        return this.btnWu = e,
+        e.source = "gondb_panel3_diwujineng_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnBuy1_i = function() {
+        var e = new eui.Image;
+        return this.btnBuy1 = e,
+        e.source = "gondb_panel3_btnbuy_png",
+        e.x = 7,
+        e.y = 104,
+        e
+    },
+    i.hasGet1_i = function() {
+        var e = new eui.Image;
+        return this.hasGet1 = e,
+        e.source = "gondb_panel3_yijihuo_png",
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    i.btnGet1_i = function() {
+        var e = new eui.Image;
+        return this.btnGet1 = e,
+        e.source = "gondb_panel3_kejihuo_png",
+        e.visible = !0,
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    i.reward2_i = function() {
+        var e = new eui.Group;
+        return this.reward2 = e,
+        e.visible = !0,
+        e.x = 822,
+        e.y = 215,
+        e.elementsContent = [this.btnTe_i(), this.btnBuy2_i(), this.hasGet2_i(), this.btnGet2_i()],
+        e
+    },
+    i.btnTe_i = function() {
+        var e = new eui.Image;
+        return this.btnTe = e,
+        e.source = "gondb_panel3_zstx_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnBuy2_i = function() {
+        var e = new eui.Image;
+        return this.btnBuy2 = e,
+        e.source = "gondb_panel3_btnbuy_png",
+        e.visible = !0,
+        e.x = 7,
+        e.y = 104,
+        e
+    },
+    i.hasGet2_i = function() {
+        var e = new eui.Image;
+        return this.hasGet2 = e,
+        e.source = "gondb_panel3_yijihuo_png",
+        e.visible = !0,
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    i.btnGet2_i = function() {
+        var e = new eui.Image;
+        return this.btnGet2 = e,
+        e.source = "gondb_panel3_kejihuo_png",
+        e.visible = !1,
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    i.reward3_i = function() {
+        var e = new eui.Group;
+        return this.reward3 = e,
+        e.x = 992,
+        e.y = 305,
+        e.elementsContent = [this.btnKe_i(), this.btnBuy3_i(), this.hasGet3_i(), this.btnGet3_i()],
+        e
+    },
+    i.btnKe_i = function() {
+        var e = new eui.Image;
+        return this.btnKe = e,
+        e.source = "gondb_panel3_zsky_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.btnBuy3_i = function() {
+        var e = new eui.Image;
+        return this.btnBuy3 = e,
+        e.source = "gondb_panel3_btnbuy_png",
+        e.x = 7,
+        e.y = 104,
+        e
+    },
+    i.hasGet3_i = function() {
+        var e = new eui.Image;
+        return this.hasGet3 = e,
+        e.source = "gondb_panel3_yijihuo_png",
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    i.btnGet3_i = function() {
+        var e = new eui.Image;
+        return this.btnGet3 = e,
+        e.source = "gondb_panel3_kejihuo_png",
+        e.visible = !0,
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    i._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "gondb_panel3_tipsbg_png",
+        e.x = 170,
+        e.y = 9,
+        e
+    },
+    i._Label3_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "击败布莱克即可依次激活专属刻印、专属特性和第五技能",
+        e.textColor = 16769906,
+        e.x = 344,
+        e.y = 17,
+        e
+    },
+    t
+} (eui.Skin);

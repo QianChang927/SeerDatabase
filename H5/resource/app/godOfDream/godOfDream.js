@@ -1,1 +1,1567 @@
-eval(function(){function Z(Z){for(k=W=0;k<Z;)w<2&&(w=64,V=92<(V="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[wP:LZ=XuL`?KBJ;:^>m<P:Y[U_:=_kBtiVRJ<sPa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:FP:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBA^>m:_wi:bJkCZkHF@lJ[?UiN>Zw<=kP<=osV[lS:A_:WlR:;M:HXn;UU^l[>`t^I=G?MUG[:@spWQbo=`VsKJoMgw=EDvHUyokPH>bDwB;n=b^l[::KX:Z:<qyk:[@N<`lX@BX_GF;=<fcl:]D`OKE<^<FY>Z_EkNgB@=Oxj;o>kkBFp:Js@;ZA[N<FeXZ:@cZC;F;nVRkL:<<u>T:@?u[CHj;ZGLc;wsHZ:FfcQnaI[Vw]wZO<w^l>;sC:qD::Bl:wJ;V@;:<?PNZv]ekBDP:ppSfhOBmJ:OPJ:TohYHhTcpPdp<:@[;kfcBAdtQdhWhx^eyrmGdjGbhOhc_oSpf>;LA^JEGHDMrdMxfxN@oA>anfkJBOlZgLeh_WM=dpifku;GM:JN=@;::s`DMOkhAg[HK:rt^DCp<:Q_Z:AE:i=u<JnTWkC:GwZ:PPt:>`Sp:ShnSk;K::mY>BawpEAocB:=D?[q>LPM;d>Rb?>hkP:C[>CJhkSc>ALatF>Zu:f^HavY@;X^v;BIUYEwqTD;>g<B<Z@<uIVdnbAk:;>QkzIwZC:iJ]A>WayA<:;KABTK==VAKCA@_<a<]D>kZAE<O:RUJmL><JGLLGJaAoBkf=`>N:[<GN_^LEB^]cLcKlT=cX]@<R<dP?:tlDMdX_k;sQ[gEsz^PB>^Z[CwL>gV<RBc_NFEZA<^bVF]_aJcFY[]D>Ev_[:>^wdiYmR::E::U::n@?Wtr<DV;]a:>dLfDwf[J:b??VPGgPdU`dP?k:BkKW?NOr@aMdZ<@UeR<OoO[KOMSJ:@E;;^OWP`O?:<gMQ?f@[e_UaL<WW?>OxRuye=Tlkq^O?:=g>rd]kaUSfGxOKJ:A>hXehiqbUWbqUT=__KOriWNOKK`Wkg;kN<MCeu;u]Wa::>nnXx`Z:JVsUCZoe@wMJP>^FV=lsRKhbSge>S<hKh@JklW;FJ^fAgSlr>iR=R_<T_k`RvJiLXR]lLmXBw_mAB<[D;sa^T>]aaa;R;aPJcnGi>STZaMsY[go>N=PQknASZtKGJiZnaJ;VU_XY_[L;XtAAyWtPuvji[sbeXa:JtKd?UhX_?fj[QriY;t:@yiJc:y[JGy<=pnZoEijakqVIBnff@FRveFVOlykwWUqFp>CuMslZ[HmqEF_]@MF:DSMM^NudWFTNR^Gr;SvGHEnv]VxsSbSw>[^[HyPLC=^kVN<Qbst;C>YLLN^aO:fk_aJoMJh@ou:W?ogCx:FJn<<FrSMEFwmEFgenfHZikv?g;lAIUZLQD=i@r;BDyI;VElj@>ZgczSsD]otuBiOEKxBeNKxGlEZPQG]iBp:LW;>_fZQ_D@:nn`PPgNYKf?QZFVqocrJ=<G`rOyOWg^Y`z<H=XtlI=s<JI>X:E;yL:`]I>X>twUtR<CFC:owK^l][R=tLkuJln^<JMFFNCdo<cDJ;kD_r:Vcd:B_KD:A;HnBGR`:B>psc;M[b?:LgAk]c<CR;wBqogmSN[dALE>=<eMJQ]E;WmsKAt_Bc@HAVgJZKeGZRjXkcsqfc;oQ:G]o^[DmGdILVZw:I]>?]@:FlJB:<euZGLl::@Dh@WC_UZKOtd?JPdhUTk`o:l@@dcZZG>=?Zo<HJ:[K<s[R@_U<<sKC___Dj<k>:_ck<CI]BJs[u;MmHE]GLUZy?r@XEZ::qRes_;LHkTB>RM:IAm[S@m=_gLG>v^sSDWgYBi<iBD>ZJdwJwJN?pAJz_]^;=LBSGL@l<^@?pCZ]ZYKYL;`k<@TV?ZcmhJMDaUN@SE;lZj::GCk;gHq@kY;d@jlQ=RACXMeLX@bFwxmm[Z:V=kI><:`nbJV:sHFrNM:U;n;Z[Z>oG[yMabpDZGor;QfWMj;`Ue^N]cICTWD=ZLDdJq[X?CWybs:=efRV;Je;BJH:r;BclM]gRU?Wsx^_?kA>UZ]nm=hGeOox_;:p@lBofwztJlm<rQ@IRDcu^wKwAuPwjSBmlbAH>aVv_KMdJs=E;PDgHDusDmXL:?tosr_?Cw:oakrnKN:e;L<g?>DcNeC[Q<[?B:_NcfKK]lTqEd?qh;Xe=Zlsc]c=@;Bi`SokejM]fu`dLmt@qGtYDI?OSyNV^f==Jg`OweujFFBW`H;HQVeMU>BOb?kZ]fyJ<_R_fdOUE`JekSM;[_ACOJJ_tt:n`rD]WBj:<;i<ZaXTwzCAnEQiP>Dz@psfTqVcld:E:A?MUb<pe=SpMps[s@;?kXBR=^?C?>ALEZHsz^u><V>yTcLy<fiTDR_xeEoQWJ]ic^tHCeLcJ_IYFoLDg>@jsGAYp=fBQn=QU<y?HC>QBjjK]wTIszQ:c=Y>BGBTkqLZ<QXDGqERFhCVVHxtCTs:iF?VmcCBMGcP@EKoohG?eI`fsFcq<i@<btQcmZP?lu:aP?uJqbSLfPpAIUPei[Ko;kg<oIeeL<gwN>jJ>LqZ[KLNC?[J:KQSHmYkxRpM;MyBeKefElGXJOj@`SIEDGk;MQ:GGKAYc?]^Fp?gURHlW`_FC_uUDHNw:cvNghQA<;z_UUgthyn=b^B>y_FtFkdMuVK@BBnw^rvTga;?olE;H^V;]h@bnFMtNwV<wez^KLHpbHiO?e>FQLNCcS:`ewR:rJv[LlkX`uDFPSUwn``hkQOO[UcPLdZCPoLlWgY`R;Pc_;pWLp?FufoFchXmserEY@Jg?V>mkIlYQ=I`XFz`CEls>=xjLrX@UzbXFWW<xFcMNc_hfU>=[opBvCMc?b>kAFG[qGbhBwB::I;?Hwm[qmu`p<ZF:^Am=rUekoTVxCrElSpYsz<Z:m]o:F>TZ:[@o::uaZ;tlF:E;mZ;aqF:B=zp?x;LUWBLfZlDjBDY]FdpMWEfFU]oseOuY:xIVigQ?z=tbEHV[dqe;DLNNcm^`E>Gn[TIGldFpta^[qqh;UUNhffE:^f?X_MWrCWqdLIXXux_^?vGeYUHfxdZzr:Y:x;ma<AWEwoth[s^pAaIVYsuLw=kZYl>:Z=:[;DNTPcoAXNBMsbE;LYmTdBdakDas;eTtsPHbl[md?QBuE`b]UMIgxS:DnboFzf<`TB`VNxqoe<znXtf`cjwIXYoGm@JR:mEtLeR:Wy^::L]c:F;osV:AU:=PgR:?;p::O@c:XhG:;xoR:E^`:;xIc:OkW:;daR:KXNwWQWTKhiEPryltEEW>pfVrqgmwaVhcuIQdzDvGL=hQMqqGz:<OfoCbrcruwGxLRrNckWm^RHUuAtRfYBzKx^jA;ZAXrYXNv`rUi_iXsSRyvsd>smR_tmSV=_uNt[vNvdsqS;J[LD^`LjKls@d`RCthCCsV<dcdvdcKtqZwstudJ<ttc?d?f?uaT`v`vZ;OsCTpuGshsWsxs=s^sMtMvFvECnsCSCSaZY;EvUDfvLvtRUtmtALfSDuuBrsITAsjUAtjUTuYUSLQs:vQvYs?BavZsItJuPsl;OEPtjtquYtL]Hs>=HsB<ivZJ:AvU<=:ALTmR_d;sNs[tNveTSdq[Kv`KKLc>LUc@V@CupECvWCPSk>U]>ACLts_?<v_?c>ns`sLt`sOuo?`^o?GthtWtxt=t^uMvGBl>=TOS`Zw@EsoUEunSGdfv<@?SoES^MtxfFDR;rki^i]=kLdISTcue?J:;wa:aom[KiT[yymPa[_H?i<PY]i[y>Z:NrD:<bdc:CSDZ:ajD:<rlc:?mXZ:[GRcvjvsuytZAysJ@N]Y^JA[s[@TTBA@<xKFvlty@R>;AR>PTsA;>TSSfGLc<G@[^tZU^Se^@?KK>]ut?]vm^XUv;f[N^x=xd?Mp?RZj?i^G>R?z@l<;@dsScSt?ZlZZfMJCZs^Y??sl>R]Q:kbrSdei?BaOJ=KfMaZA<p?ZbI:rls=I<j;jmBMY:n:E<jL:anuqBE;l;Fbe:f;w<Z]RSZJP]]St]<;u<[;:`k:bmx<o`j:BLc`V`?Lg_k_Van:E:w`w`<:<_Tb<az][<VL:`B=:ap@jMZaX<JbJaQ@k`aRr>VuBbkABbGZ@]__R_?v<tR_y@LaO<s_Pbsas@>`qaOKMKH`B=_bxdr^pAKmxnL`jla^l=maD_PbD`V`ebw`t[<_PZ]_oM]_X_obUnK_@[V_g`tA_<Cae`s<w_da<aT_Sau_A=]_Z`dRabIAOKG>X`@<t_L<iBfM@[B;Vbl_OTPbk`s?A@IA?ZS^W`;aRbLC[`Xbx_ybWCybjAGK^ag[;_q?UAq?_uH>A@k>IAi>b?bLFvX>@TyAx_`bV_z^e`d`Tbd_u_@;?`bbJDQaT`QbOaS_@`k:J<hmZc^=N^n;Z;ODzah<;Mi]ZZJ<YaJbu=sJ:=N>CnScREPsJ<wwLK]FuKZo]p;`XMyOLZ:JPT:;Ntc::=uZ:YDT::kzs:=TaGXZ:yHT:<[y[zc[M[CjCTMyiuVCDC_<@oJOGz?RhuOD:LYZU`Bu=acOAyH>^>HlUaimd_=^<oPlSwOP?;Y[::ILUMsKymblLOs_wPy`wQ_;[?wtttu;<<D;WARco`k;W>FsV;@PR=`JZ;PO[MkM_C:ZY:::LgZLPt:hBk>D[nkoLcsM`f`;:pmA`[:X:r`SSk_B]:OIPkOQ`D:a:A:j`_OgZY]FOcOVOB:e`_:UJcBIsLJE:C:cBSSMZX:;O<OM:wO;O@OYk[:uZFZGZAP^BlsiLD[B[Sqwi?q_PR:jCR:YspO;:hOle=ONcMOB:EO`KvOu:lP;:jCPPYO:pxODe^OnOD:fOdmtqu:qyN:jCzFY:VpWOJpu:BpRpayNceqjPcBM:jOGOyp]pkpmpV:epbTW<@ewJR`[Nj`f?UpORQKqocBATbpg`S`rKQ>ipppZphp[pxp^pSm?mV:pmhm>D^HQKBdAK;qykBcrJE_Aku`r?nBP`kthalRfNvNMKY:BoVNH:WNykNNQKH:ykH:N?N?kZ:@:lCcfRM>Y:H:TkK:L:^G=`?:>LlocahJgJFJa:jG]`NND`gBa<`CQ?gta`wtq`:SXo^a[ozRCoYse:a:cBwJC:NNxKL:ykXpsGKmLpcpDpspEakhY:e:jCe:k`uJMSANwhlaVt[litz?HcnhdG>OM`v?NFb`TO?kotEV_C]OM`MOM]ZWBOr`WscBN`IhflYhAkgsSkv?KNeOr`DWTWFc<PfoPWVOcWMhsWDW=C?HtcaWJWqW^`AktWko;WpWVOVhCWV?RRhWFSkoOWgWVODWbWtc^WIW?kld]WdWhWbSaRQW[W@LsxQSfB=Woxp`xKRWUW]?:>J>WBtgIoXgZ<^LOgc_h:q>V<hkqgYwkBHx=LFsfgQgkBbgywU>IgVuo::Vz>JVTJ`VExRVhV>aCFoVH_VVL_]V@ZT_xFeVq_:JaVnZ@VYFl_XVIF>=YF:g_<SVUxXFN:aJpVsVIxjs`wWVpwsZMhJcvVdkbVrVztjVzJZkkkck>kokNDswOe_wK:@kPkgwXk[kx?muWgm?ZZuw[]PwWCiwGxBB[wjuGwSw;e=VOwTBgBP:PBtcCmMwEwNcfsUwAwE:Qw?ky>jwW_HRyS<kKNkqE:R<Y_D^:Nm=ZeIs;`L?ewK]cTPcr<e<u<=pM?lt;=?:LLCLy]G^=?b^DLf^oPAdi<DJykKqwqCqgiUOVmTmoyQCMBX:fkN[WySiNHy:wJ?a<M_koBgejadK:PtK]qoGgmSB<mELQyDivmMSV:tXiB_iZ[XP[Msp`qo]E@WLzKn@@mimg[T@WMSKJ[^MmqQ]X:AkH:z:o]JnBnu:kH:R_nTWOsuZ:sVZOLKgSoqNrNFqPLNnzKY^C<SL=J?LztLP>ncnanmcdsrB::Ldi?:ImDX=iImCVftK;`sjF><FVzk:BQokotpapOsfB@qFT@FqNwTg=[T`w^RLnX<_;h<aqDui;iud;`uhpGWE@^>XiX:JsXLdLhLfLjLZp>mhhEA]uW>XuSgw=[ijpUsD@dglLfZ?N^NjDINiUGKAk;[N_O_z[B:ER@Z:HTe::@wc:=ATZ:<>T:=YVc:BODv;ELSEzK?ENsu:pECLhEHZpLdaME^LKgxsk`vDfsfoFS;Srau];ZUEP?y>X?K?S?`?G?VFmyW?lxK]uMUVA:GZ:MdPcZNf?M;Lw:JBA:RcanXnPJ`LKnknCnCLSn`npnhnxn^nTe<EEnq;vnCKr=h^Bkxf^J^fEu=wyBGfz=bTFUfnvnnfF^E_kM[:ykvnC[?DyOK:KfpXy>@HZ:jdf>Opi:=n<c:C=aZ:EqT:=rmc:DZ@Z:BPu::sVc:IuKZ:sz@:<atc:@?m>fFK>ZdBtBHfy^uZfoLyI^w<FvE:VvgSnC;U<gVMaMLMdiP[yTTM@Mfk]^aOVBvSt:ifnC[`Hv]MzKe:n^S[?[zHGZD:skic::OcYYIDH;wEWI:?XD@AFbLEOHeUXtFAioFRz_Xz>mXsz@XuSKw<LDLiZEa[kFqauPsr:>[pDCs<ZH:@[l[ugAkH;t;zYgFVPWDf;p_ocGXQKdou<qL>=dot`bkG`:WajWkH;xjOXyc@<RBDAEUCkmYVBtXzHoOGYYYQYXvF<@^EvIv:YKZHQHzUNBCpZkSfzQCEA;MB:oB=M<:mb?d>n:Zzd<SlnANDSI:x:pS>Q@[;Zx_FdqZzSs_HdwM=Zsr@]<r>JnXeoHo;^KJzrGJwIAJqIGL;IGnLkxgA:Eg=yvTlVBatjAVA?p@NBzYLE@BluKBnzME?C>F:fH_gsIYBcsL<>uz:m<:[cki=zIYUlux>RoUA:DRuiwzVtsDfkry:`z:jRoZ]ZaZc<mstRi_=gnt;PgCoRgGpinZ^^D>pEhwuWahYJ^>xBeKzoKcXKx;zwgXp_yE=_p`a>kNnwkhzm<Nv>wRYXmNnNzPf_zhzosWoxUFC?]oklyopOdooY^ovhmj`wkhbWqVj@yFo@pgyundR=rFm::gskcDj[<grXG`;?;gmNg=gGrukVplpDHwuVxmHVpVnVrVkwowvar@s=mNMWrGt>khrwko<TB<v>m<zXtwgThwd<sug;^Xe;au[u`;g]rkD]yuX]ngS]k_Ben]okZmf?BeGh<ZVLnwTLs^xDnOOLnZ=LtLjLmezf@eryGPrJOmrmoDqDtHvEm_iLkfrDofkemfwevNeepYUmJW]KkgGKqKm_sXthxKx_wNXE:_MJVTuTmKXKWKUKWTkB@GwaksDaouxBaurjduxur:EuyN]wBVy^s=t^x^y@r^p@q?cMqwwMlcbknkye@AzF=RHascuGr?nao]f@nbtFtGo>xGqPzoRJ;PmJ?fw_Y[Ems:DcuLlZ:Qse:;Vyc:HLTIUZ:XWe:=SLgKNrc:<fSZ:m_Rxi:<wBR:>f;Z:F:@:=:<JUqsmhw=qhwvuFDvt_yvlPZ;GluUEOzjQlF=<AqkjYPClikitCnCo<GCqYJzX^@XsCstmACzXC@tCdnA?B=dpM=otClpBBJBnib?oZgkgsSbD:E:ogvaJB;aVC;iZkz:HWN@bzOfeto^[LFw@bbJ[]a@BTyViszb?mAr<cUG?Zicw=__g>RRKWdsf=TEbI:sUCWHiTw>I]`lgZIxoiqQME`iqk@tW<qwuHy:coYZ`VLqfw<JHcooUOVAytWXNjOmyZJC_;dVLl^:aQRCCii^^IfjD>kL=VI@KLMShsl=sMCGaWY:f_L?CszWtixrTC`L?]RHxWqerPzIikcskWxycd>bfGogA_xviKoTYInk=mJ>hmn[@:ZiPHETS^:soVs^>MUsVh::Nee::n`PBewhaqZ:VJM::=>d^h:::AD:;SXJlm:;w;F:=LVc:<EhJ:>:FHKWo^]JjTm=fqGCMYbjZYUxVbqUiPNDynZ=jgjqP>V_fyrzShFZHL:>=^fPlKp=OVZlWUe_nrsbgsBgBLmh[qJuF[<HYZKS=[kzMsWec[NW=bs:s;z[[[vmUYZXoctl:rXIsFg`XOTTFVk:nA?K<Z@?KgWnc>iMvdlqIum`@L;^Fz^U<IfwFfy=zV]ADJFUrxbyMzQKbCmYfjwo;AxKMhzrI]zxzu::[H>:H:UClJ;TV:i?:HgvaViRyVT:NZGTsYwIu@:vy[drVvLGasX:hi=tpBU>=XZ`=:X>I?cTN<@@DkPZMI:RAgFp;Mk?ZYR<LvwGq;XwMZTBqs>?VYyHQEmA`r>T?W[;yBNJJJ@C;aFe@vw<f`BHoUrpe[<vXJRpoN@hWW:b@RI[Qko@xWb@HZ`dIZbo?XG[NKZ]Ua_]EUMVE;>MBdchpgAEWv;WvEY_sDZv^=oaUjAU[sIeSX<vKlrX:DWm;vp<EiHBDvbhow@q]aa^r?d@VCXt`[PavrFuEormTrVf;YrRbZ=oaUMGJXA:XScgm[skxgcRN;A_UqqRa]N_DIKIa^rJ:RwJqPIFGf^o^R>weyXUQIhl[x@K^;aznTbfs?dsadZXREKb[<rZm:RbNUIH?_Z:ZmXcAo[EIkL:Mxk;<x]JjU?ewplS]waN]oO`GEoku;FR[OLA`ZDl?U]hm[U^DI]H[`TDx`XWELrcmrOsqwGPxjWJBvoV@^<WyfZi=jVFslXxFDGUQriTk=tPhAstYUG]aqEtpwnlvm@I^ulDLO]:qmYLSebkU>KhwXoU?gNMoaR`?wyLUJjZulEt?VZCHcvGgwpU@pxEKZZc_Brq;vGw;ZfYKBgTptT<h::yNe::rPF::HgPHo:;lzb=_:=fUc:;tRs]c:=VxJ:>O@Z:IUNlqZ:IKp::VQDwgXq]HJ:F:iuzJC^gINDi]l[Ej=oYjlqv<c^yMcmRGjKOA@_;HQz=sMkmyAIwY[Ekiz^K=WZ:]_Rk^R>Pzmzus^OHQzM:YQ?CZk^?BZ:`L:]C:>Flk@TBp>JZCZTtks;DBv>LZCJRd:DsE_z>MzmC>s<LK?:OiBoAC?yVXsC:u_N?ndAoFkiG:eXFmC]tF=iKABr[akGnDdVyKJcbZPt=s>]];;hwXKe@C>AIlLigchKZeDetD]Ay>xUg`mQ_AZCqd?^T;GRmF?u]sZPZ^;AQqGA?BN_v_Qmb>LnR?wEKELPKhTB^AftleGZod^>PN_=?_aykxwWhqMAASGdmqYoMhIWE`GZlw:Lv]WI<SbLtVnM@FVxq;sWFf[QMOv;lqxAYWHlViLbbbME=Ms^NzRycJnmhJq>donIT?];Zb?M]cFrqAbbHEgBRhGmPEQ:<EndMf^?JpoEVPJK`tiFxlHjJwYflI@;FBC;L<wTUmj?Dg@PgJTrcU?hvU=WCMjJuKFHHb`dX_;ZDW>MEzAyxEPEPW@[`F`[UhlRcZ@oShCR=@;wBSmT<iZ<IDv^:V>ZvQfmo:;qAc:<nhJ:FATZ:K[p::x@Skt::Fs_xgKwZ:W;O::yIx_mQP`>jY=Fp@SZwBXLnTA^np[trZBcN?ELR[O]K@:TZ?sDa^MNk;s;xZX:KacI>SAv:DSlZa<JbnZ_p]NyWRhIcqCJ`SwoCGYNS_AnS@[xVCs>iQg=mZ`lwctynDgR@kJblm_C@YSgPu@fvlgG>dNb<XApEs>LFt`YLiLKG@Ta<pDKB?ajW`:^ZJw:;CPociPE;CorJ<ggPGN@F<gd`:KFr`c:;ttJ:ACmZ:ImG::aD`^h::QQE>O::gRe:;OuDra:;m?JznY^qPOLJ:?R;Z:H=FXqjEMBR:;trUPR:@[rAjaHo:<UwR:<j`>Y=qo:=svc:<Gok:AWi]_`pbhEq>i=qSLBMaNhHkbsSqtBgniLHB@Bxm<ZzVtP_iMbdSZ[ctcNXVY>d@X_?Lzg`ZBV;=bKWwBB]CEG;KR;a;?uKZU:;IEF<oRkZQAQLWjOuagZiLUkgL<SDMSaMW@t:K[MqJP=z=W@ZB`<BzNV_s]kKgNmDMQA]`pLtRi:tDWtkv^dMm@aNkEiJCma[We;^BZeYJDD_Sn`sbkf<SjARAv;CZ:kK=CFArmCxtJlsOl=i>k=@D>ZSRVlWL>gQPD@:A>JP:VqVNvZG:jZA:>_>`:PERZO]flUDpwPiEIZA]kCWRjY]q:N:LJDWA?AwOHEB`Q]xKjib<N;DsyNL_CJJ@`bk:<:uAF:IL:Nd[sw:CR<fZJ:NcuGLLhzJl[OrB=K:ZJMLURARhFNz<AyjAPdJF??b<]tRtiFaI[E`KPBDiDsCR>_@`b[RdJKg@PVNrZ;MDzirRk?bFfcMjF``xci:I[<S^d;<oZIGuChAD^<K^?wJQ:CZ@u]UJ@Vk_GVHR[LJ>:UJPJE:?m;=^yRl>X:XTVh]Ln<CQ`Vi<uKwgWezF?`jZAtNwqPP:x:OtoyS=wicQ=MqiSvM><Al`AGVp:N:CtVB_ZPrlVmCLwZItb[PeFC;;Ly_?fARLVBc:r<R>Ae:G:<B=@u=B>::<w::^iB__Kr:cZa:<DHVjB;HgVcW?<SNx;dC_LoOWC=?O]j>?ILdJq:HsI_fC=sfhRA<E[DK:`<c_DO<vINAJbg;IKp:>]QWFmdm^geuc^uEu<H=HMYEXOeoeoX]eR;s;FOHmU?J?AH_`FlOiDmOOcoCPmeX>:oKOTx@OOg:La=DnOSZ@pOHhQcfoU??r:GQEEz`IDp?OZ=GNPe[OvNfgOMo;UqfrsXDdpWw;`Q>etOUexJFmNxQa>@ZicJ?^ueSQ[JCgWk:GN@jpOe;ol_n??Qme^N<fnO`ehtGTiw^zLW`AnSGRucCOde]OCDc>IDfMQSe`OSmPqPecpQ?fQcSmghPx<D[[BiOgmV?VTilDae@pFTepVDe]UnB_p>ekdTaj]=deyp:uzWNHf>KbCd:TmBhKB@SPRdZpHeuu<@gTuu;@pK^IwB_f:<XEj?i:ACY[=mNdf]`tegdJF:eOOEN?hzHfbNcTOGEU?C][lL;da^nhkGQLueRr=uNYcCKiMBSUjO@Na;d`=rW:DgciafD:SIRz=JK@fP^F<Gwm=SUtPqPpx@Nj`JtVViyn^JE`D:Dg<J[iOV:v`CZI@F]dXPzD?ivmz^N<hJMXf[GwTZ?Z<j>pheTpoanWKXjsqJe`;pVENXE;[PuDX@ETmcCJ=sqKecmZexWQ@gvPvfipyurhQDea^ieeOWDmxXJ<pQMfHOcTj=UPdGP<=cpMTmN?dfXP]eHpHueOVucnPie?OJu^pPV`OPqUaOfoKe;B:=Q;CDppZgMQdjVqlfaihey:GidMPaT=paTsEMafIQXfpO^DexPx@]oufrcVudnVKgEOEeD[Duhs:SiUNUeDXsT^EOqi`QaTZhZujEQJ^nQc:<p:DkfUuf<^WKXcFPhu;Xb]r_TBpWTzMRqdLoseSGUVrnS`jToifLOPTvfL`[;P=U]pVITWXx?@rnep`EatWPthQNXTs:QaftOiiPphT:h[u^UQloxQbeeJhadi[VAj=?fAocqbOTOApPIeFOEuxlK_e<PYfY?iL[kAydDP:UUJ`LtNUwEst@Gu`NJKdKgiZrqDn?V@s><eFuOcNcKIL]cD[cUa=EoZu^>SXZ=@PsT^c`@hSGKi>]oTqteDFCH_>RqNokcqNQmdVjRoNvU`z^;tSQ=sqYDqeKoN?WWcNriJ`Gacu?M]OD`TU>OiaaUV`gFqdU^GzabhPhjvPITl>JB@`YLdqr?UzOYemUXhKHqpTnhxPiUVfcPr<uYGse`UYWdmpWTbhSmXv;?j<]rebPguyxNWiqaaur@TodQRpf^O]ueJfP_nThg<rfUVhnii[<xfZ;iuhcxubOKOc;rIeDifu]CS_i<NyEjpjulpYyhDPdDsWFZ[AR[fN<JToWELq=Y=gg``vi`i=QE_Mc@NRULWkmw:;MdkrVe<GCMB^X@eBq:wTWOBHbOgfZ:vDdgtm`bYwaHPbDCx?:EbWVhto_BXG^mbSFwe?q<TdJcieCaCjQrrVehNarYOGerpAW?p>ioB?<gsneUSWfwXQTjfxq;F:xtqyUMThOpvfghbPsxMaczTuZWWwJT`Pviu^vDWO^aehQJ]>pCTbxOiapLDhkKquvhuimISfi^q[TOOayzQQSeGp^T]crI>GT:W>rk;vxEfKzKUfQO;vNhQmipUWj=oHuIxOazEJJYJIqTlhZTuENWjrrMUQGzD_ZlWeipzD>pjZFIPffFoTu^pW;bfYwrup^e]h@;xbKvfX[KU^WE:WtcJRTbpfi=nyphUwrUOkAe=<;[vVZWnQUUlplPmWPmjEQ;eYW]u]:ycTZHT@MxTmJJqzcupKubWduqIX<gRFbDkcV[ceHVgItIeEOJHhxKyimNJuzGV::jM=i:rro@SL:CAKQiTNkUFWFKiwPi<FUpuNGnVRbLrcc;_vqx`H_KIrKl<jJd`B]XiZIODGHOi?=WLcubQMftpT^pKmifNTDGB:CH;>Fcu]LvepAVu@WPckAOB]p@cupBD]@KeeD=@l^>pTtDgiaFWAzDgZPRpMhHffEC^Y]Pck?MPHM@hwM:OSMpbPHm:x^_ls[QFSVdiOC`Pl^eeKePG<oh:NmkP]C`iHMAiotcHst>[XF>K;TQp?Rv[dXdYAO`gGX@bV_ArfEG`?:;bOZ:]^]w=`Nyma_O@<JgUoZwy^^RjjiPwTvxVapM^qAa=hBpx:amZ?]YJtDf?GtytMO:a`oiKROVQHQMdjKIP@[Z`igZn]gvKb;MZU>UOLZ:J;R;hOR:ASWej<GSUb=zTj[:F:>LGBxJAkD:;yrN=LAMZuZM:rKLZ:>aVMD[zEbOjdFPe`MuZEnTF?T;s;eOQ@p_Im;LKjd=WKNNfN]StpVTyWTCht;uclGyNIZfKiovjguIY:@uly[oooXDFXaK>jKzH[uTKNvBccIdecwZevc[bAM;cVFzTWWFOoVJiC]HbNV;aM:>nmqUF:@RiTo;NnDyhtGp:=IyRBcySbSIG:xGbB?VwXyos@UXLUKLnW<Tt;@R<fpbvMSStRoPUXJSKTnDq<gmuYaF>:z>bSvRqqV`;bKHnIP;gkVTR;=as:VCngoCdvHb@<:Vtj>mqYWkwfWxOSsVwuUlFUbdnkSmgtaRk;UbYDHtgokHRpf<odnq;mwsPYhIr@Mc`t_gwqUcMI@VJAdysyT>jFpbDnMm^gvXW>e:pHnjlZ<oyYHKQBU_Wm<?Y?drGqauM=PnnXBGYo<aK=kd`ZDDT>J]B]cASx:yxdpfTfaOqNFC=eg<JOTp:[KeFkIKOGMW:xw?sIOc]VdHbA=L?l:vkbsL<Bpkk]Cm`GAp=XbgEJxJRUhhHQMfg=]oQ:kuYDIXaThzihNr;VipGTlEQKZXclR^qAeNET?x]mBZ@^VP_:Aer]v?JyqrfwEZ`tZphA]o]BjMq`m]zQqcimQTEhJFmq@VNhN@[=vyo`TdURhB:HEAkSVdHBciuQZuz?sfKG[>h>P^EW?QozNUE:kQ?W_;l_x:UchCbqDldCmosXJigPlMB]Pu;MjxGyQjDudRfP]a<g;egcN?znAiWZgFaTEDiz_wdU`OiQofM`PWPxfsiYU:f;tE:y]`Fi[bCu`WLmwJYOFw@tEx`vez@TNgoAQETOx<otPwhTPl>HOiDb`S_InK<fWN>eCpV^Glaq^jOuLlOSgj_AsffKg>g`TRgePCfu`n]kT;ahGPxE:OlTwhU[FgTkfM`VLthV_gIvhfd;mexUfghIP?EBpcunOSsKpQCfAkMLnpUajuQ]pRN<UOZWPi]QkfmSttXORyivPjf=djoqP>HguAbEZd`]mDYViXQFfyNPTwRVQcEQaO=DBLv=THrdbQfK;xuyK@lGTatESm?<;qjCi`elhZ;k]lTVso_CfMHSmN@?:^F=@X>FSmHbnU::oqCWCObS>EWdieAShmGvNxOU@h<bMfA`^<mPVwH@uJ==d_PuLj`iebnWzO^Js??ffuqqBzppPv^WJjsqK>yNJxX=WkiJqPGK?]kmH;>M=ACUVekqpKS]iYPsfrp^s?vWShRqNfn?c@qWYwOHCAUCGb<mpS_HirIWvhl?JXYJ<Brcfr;hHxeWS=e:lZa:VZDvR=:s[;J=<Gc?=Xm];B_xsCwDIG:m^_:YhwWvOTnigfKdm:aoH>wPja]`Km:j[mazG?vhy@KkHtjFvvTgjyqNUEyair<UtIRZs:@NE>zwborE=m:TWuV;w>qLMRqH]oKe??A[t[r^fhOxPttTkhlrafnWa>xSQH[Wq`foue@kxXAg?ahflhaLxeXbhhQrsVx[XnmVkMceOvTx]KCjUj:Fs?cY:VTAjVpReqx=Kxj@zORy<brd=EWx^^YXPhvqNvGChtByTKg=P^GvxqXumAbiErYv:ezyvJAQh:II<]oQe;:sIg:rlfg=s@kZxrKGqvZL=uywOePjEPch[qdnXPXYhV@MUh[gqnUgacSCTAphmHltSWpLZ]VUifDABRBjhqSUpSz[qcV>XlQ`RN=sJlAXIgRP[Ub[^DD]bqqRc`Ac`cf;PXkXar`gpmNTx:w;jAqn_g^nkth@:YvTBc:x_]kuVUFPIFvu^ZHrRTwVE@lA=erJxctHgFHcvrRClqYXih_rF:?uJrSHgq^_;Rcf;r[uqUAhxQQvnGxTbs`gW[HRAhhgNxBzJ=KId=nDyKxHdjNGqzhc`bVvyVgW<HJbqGpDl>spgGPWECG]doRv@p[KJ_GM_LoWjvHSIuUO^iQA_uhhqIuAKMcK@V`];iuHvaWISRKTWScd_bWsMT@_xBixb[b^M^KwBu=gUAZb]?i[qfUTXXPcbwXdqr>sLWOHZp:nlJsHS@VjqWfj;[UhgYmViPnbFnx]mNvDXyfDbjMkGXJ<PhUHFAktiwDcwOgsHefxieSxwvNjhIK>_EZlux<MjPNBcxWo?scUAIIH;AqMqmzWlumYHVU_^npSF>bIHHvke=nT;?;;YnJXAqn[Vv]vqYyH=bZMZZFLwaV?IvAtn_KCVuijyPUbE^iyw:zdWZiMn@WnZqcsCVeuwAsefyoJyQjBV:A@x]GH[arhgVqHyxtdyAY<VzH_QM=p[tYXJVVIUvP;eUBcY:HyISQeGv`LLxTV@jIOsPnkrQSyqXv[hTpZDhTy`YJilbwOvpvUhpXArXQMfz`yu<iVlH[Q;`yCmDukInKx`Kqcu=uxHrsjQbHM]T_`ZWVuInbYnmGxBSRY?U:QK?^D;DuXOKQYQp`tPr<ttYMI>Qb`agkRvGG<PcM<ddtPOShYdjVAcyqjix<:F>;?QIxtOv[pOXUChcjND[t:tfWYHUUxU_K?fT^XtPEvKmma`??X[:@a=HehWkzWMio:DreUaOsqingBQVvyWwZ>:XbgUIm:[^bvLrWFI_:dgFUytxLx?YpqFcu=_wrEWSXMrGAovo`wYV?dm[Jk<XgDErSPY[KCpt:PAcwzIGT:cQOU^GxULo=SjxQxUgt?L=Z<u[vnb[ye?NtFhpHb`cxvxxPzZHpi>QWhdmcPXiWsPrcuE_UMiz;YMaUnlA[<pctbW_iK>XSnktx=@roUKEWt]wr]wIVPfMkcpGV@wzSLKBQcATnc<J^yRodhJPgMV?s]pMfrbDcyrWF;@dQ?K<EchE:I[AHZDOnciuIMuQWwtaaBcrNXT@?:lM?encvf_tLGiNY=agAbUdPulvzXHitrM`YKsizagoXY=nUglwyR[M=KsI>x]Mpq`<zaZNI[Mh=rJ][STPtAdPZGNtzsxjAQnJbu?uCsEO@otEvtb>>ah_wp^ZJYcCMmdtJneXw:abjNwIODpuXhR@N>nt_AEn=F^:y>X_;EXTwl:nIUJ>eCku=PrjEvvHinp<UDpcjbIotfwmluFpgYzrYEdmg@XswOfXIrilyujcTWiXRQMCiUptscwY;HbtMvcd<RVrlUI^k?v;n`z>ztYznvKM]j?<srmXmjy>SMuds_KOXTjqbieHgvH^RAYja?]D?HibTLN=IL`Ufq:MEhpKBcObannxiSPzY`f[Wve>IUkG:PvjI^mhl?snWcyHDlnrUnauWWbB<>yN:c?P=WrqYkIu=a@a;RKcuZgj<Ak`xMv[fZPBNgQqZp<q>KL@:QVCuxkcWuYCI_P=AlNsnYrWauor@dlaxeY^gliWUWkAam]XQo<uW_oTMgvvgNqMXOYxIfAvGwww>zjIc]JOoiyEPmzZjlqfQnRYqWZeA=rEx^kszVFQeVImphUubg<IdvZWLLfIP=hnqJvwxoHcjO^fVMBEyd>@`AO;efrC@XdJY[RH_XJpQkaxu@fEC[cTMRUl`W<Wcv[dDHM@dT_lZ@XlOPQAAVG[@mRxhGeGCSozK<eNCbwBOHN_gNhN>vN;fhUKch_y`Wz>wKagTf`mCeoojjtqeW;WmthItqTIIERxn[ygGJoARenbGxB?cpPIvGznamz>SdEFIxfepyBOCCeQSYd`pkeUx^AeOkXvxWGHMbphvmseev<uurWCjcvYjv?z<YhjZWyvd^X=XbHc:dzcWSuiChAXoQLXdp[G_wWbCKYDLlXWrIKbncJ_fVKr[WQzS;MIwn_Mzm@oXIEWpbOE:::<Z^h=holwEYG`lAwqYN`MYw?Z=zk:GTQTWMzx?=QIkLlkjM:CzWqQXSJbw>gA:IvNw:xJ?nOzaYD=_VYzOipphiO<ZEwVe:vnOZGbzTqoXoN=?Z;WVibHe<:GIWG?>NF^O@Unqg^iLZkZ<mINJl<pbh:fM><shSZntxE=;MO_<vQ;WPhx?:aWmppbh=kn><Z_HuppgDzWHqs=UQ;zmg<bzRzoZ<InWzl>KOOH:Ei;dYRhNFV[E=SnPh`z@kDvVt:[oqQxu:e:@V=w:pkFfx=YXTl^Wj:xeowVf:x:BIw@YBBFL=JZwBDR=BZx:<PwzI<@mEVn=He?w<Ap:<>;poxYR<::".charCodeAt(p++))?V-59:V-58),W|=(0<(V&(w/=2))?1:0)<<k,++k}for(var c,W,k,J,V,s=[],u=1,O=3,K=1,o=[],w=0,p=0;;){if(Z(K+1),2==W)return o.join("");-2&(J=W)||(Z(8*W+8),s[J=O++]=String.fromCharCode(W),--u||(u=2<<K++)),o.push(J=s[J]||c+c[0]),c&&(s[O++]=c+J[0],--u||(u=2<<K++)),c=J}}());
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+godOfDream; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var n = e.call(this) || this;
+            return n.service.setValues([t.AttrConst.forever_getState], [t.AttrConst.daily_badDreamBall, t.AttrConst.daily_curTask, t.AttrConst.daily_finishTask, t.AttrConst.daily_goodDreamBall, t.AttrConst.daily_unrealDreamBall, t.AttrConst.daily_showTime], [], [t.AttrConst.daily_bitBuf_hasGetBonus]),
+            n.init([{
+                panelName: t.PanelConst.MAIN_PANEL,
+                isMain: !0
+            }]),
+            n
+        }
+        return __extends(n, e),
+        n
+    } (BasicMultPanelModule);
+    t.GodOfDream = e,
+    __reflect(e.prototype, "godOfDream.GodOfDream")
+} (godOfDream || (godOfDream = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+godOfDream; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.CMD = 46340,
+        t.forever_getState = 4930,
+        t.daily_showTime = 16633,
+        t.daily_curTask = 16634,
+        t.daily_finishTask = 16635,
+        t.daily_goodDreamBall = 16636,
+        t.daily_badDreamBall = 16637,
+        t.daily_unrealDreamBall = 16638,
+        t.daily_bitBuf_hasGetBonus = 1000339,
+        t.no_wait_bonus = 2727,
+        t
+    } ();
+    t.AttrConst = e,
+    __reflect(e.prototype, "godOfDream.AttrConst")
+} (godOfDream || (godOfDream = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+godOfDream; !
+function(t) {
+    var e = function() {
+        function t() {}
+        return t.MAIN_PANEL = "godOfDream.MainPanel",
+        t
+    } ();
+    t.PanelConst = e,
+    __reflect(e.prototype, "godOfDream.PanelConst")
+} (godOfDream || (godOfDream = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+godOfDream; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.skinName = "GodOfDreamMainPanelSkin",
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            var t = this;
+            this.addEvent(),
+            this.initOldPveBtnClose(0, this, "god_of_dream_main_panel_img1_png",
+            function() {
+                t.service.closeModule()
+            },
+            this),
+            this.initItem()
+        },
+        n.prototype.initItem = function() {
+            this.service.registerItemUpdateForText(1713788, this.txtBall, this)
+        },
+        n.prototype.addEvent = function() {
+            var e = this;
+            EventManager.addEventListener("UpdateMainPanel",
+            function() {
+                e.updateValues()
+            },
+            this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                e.service.closeModule()
+            },
+            this),
+            ImageButtonUtil.add(this.btnOneKeyBuy,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(250954, 1,
+                function() {
+                    SocketConnection.sendWithPromise(46340, [1, 0]).then(function() {
+                        e.updateValues()
+                    })
+                },
+                e) : void e.noOpen()
+            },
+            this),
+            ImageButtonUtil.add(this.btnAddShowTime,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(250957, 1,
+                function() {
+                    KTool.doExchange(10420, 1,
+                    function() {
+                        e.service.updateSomeValues([t.AttrConst.daily_showTime]).then(function() {
+                            e.update()
+                        })
+                    })
+                },
+                e) : void e.noOpen()
+            },
+            this),
+            ImageButtonUtil.add(this.btnBuyBall,
+            function() {
+                if (!PayManager.canPay()) return void e.noOpen();
+                var t = {};
+                t.type = "product_diamond",
+                t.ins = {
+                    iconID: 1713788,
+                    productID: 250956
+                },
+                t.caller = e,
+                t.callBack = function(t, n) {
+                    KTool.buyProductByCallback(250956, n,
+                    function() {
+                        KTool.doExchange(10421, n,
+                        function() {
+                            ItemManager.updateItems([1713788],
+                            function() {
+                                e.update()
+                            })
+                        })
+                    })
+                },
+                ModuleManager.showModuleByID(1, t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetBonus,
+            function() {
+                SocketConnection.sendByQueue(t.AttrConst.CMD, [4, 0],
+                function() {
+                    e.service.updateSomeValues([t.AttrConst.daily_bitBuf_hasGetBonus]).then(function() {
+                        e.update()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                e.service.showPetInfo(3420)
+            },
+            this),
+            ImageButtonUtil.add(this.btnKe,
+            function() {
+                e.service.showMarkInfo(40995)
+            },
+            this),
+            ImageButtonUtil.add(this.btnWu,
+            function() {
+                e.service.showSkillInfo(31029)
+            },
+            this),
+            ImageButtonUtil.add(this.btnTe,
+            function() {
+                e.service.showPetEff(3420)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetPet,
+            function() {
+                ItemManager.getNumByID(1713788) < 60 ? BubblerManager.getInstance().showText("梦境求数量不足！") : SocketConnection.sendByQueue(t.AttrConst.CMD, [2, 0],
+                function() {
+                    e.service.updateSomeValues([t.AttrConst.forever_getState]).then(function() {
+                        e.update()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetKe,
+            function() {
+                ItemManager.getNumByID(1713788) < 10 ? BubblerManager.getInstance().showText("梦境求数量不足！") : PetManager.isDefaultPet(3420) ? SocketConnection.sendByQueue(t.AttrConst.CMD, [3, 1],
+                function() {
+                    e.service.updateSomeValues([t.AttrConst.forever_getState]).then(function() {
+                        e.update()
+                    })
+                }) : Alarm.show("请先将梦·赫尔墨斯设为精灵首发！",
+                function() {
+                    e.service.showPetBag()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetWu,
+            function() {
+                ItemManager.getNumByID(1713788) < 20 ? BubblerManager.getInstance().showText("梦境求数量不足！") : PetManager.isDefaultPet(3420) ? SocketConnection.sendByQueue(t.AttrConst.CMD, [3, 2],
+                function() {
+                    e.service.updateSomeValues([t.AttrConst.forever_getState]).then(function() {
+                        e.update()
+                    })
+                }) : Alarm.show("请先将梦·赫尔墨斯设为精灵首发！",
+                function() {
+                    e.service.showPetBag()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnGetTe,
+            function() {
+                ItemManager.getNumByID(1713788) < 30 ? BubblerManager.getInstance().showText("梦境求数量不足！") : PetManager.isDefaultPet(3420) ? SocketConnection.sendByQueue(t.AttrConst.CMD, [3, 3],
+                function() {
+                    e.service.updateSomeValues([t.AttrConst.forever_getState]).then(function() {
+                        e.update()
+                    })
+                }) : Alarm.show("请先将梦·赫尔墨斯设为精灵首发！",
+                function() {
+                    e.service.showPetBag()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnDream,
+            function() {
+                if (0 == e.curTask) e.numShowTime >= 8 ? BubblerManager.getInstance().showText("今日剩余揭示次数不足！") : SocketConnection.sendByQueue(t.AttrConst.CMD, [5, 0],
+                function() {
+                    e.service.updateSomeValues([t.AttrConst.daily_curTask, t.AttrConst.daily_showTime]).then(function() {
+                        e.update()
+                    })
+                });
+                else if (1 == e.curTask) e.service.updateSomeValues([t.AttrConst.daily_goodDreamBall]).then(function() {
+                    var n = e.service.getValue(t.AttrConst.daily_goodDreamBall);
+                    if (1 == n) {
+                        var i = new t.GoodPop2;
+                        e.service.openPop(i, !1, null, null, e, e)
+                    } else {
+                        var i = new t.GoodPop1;
+                        e.service.openPop(i, !1, null, null, e, e)
+                    }
+                });
+                else if (2 == e.curTask) e.service.updateSomeValues([t.AttrConst.daily_badDreamBall]).then(function() {
+                    var n = e.service.getValue(t.AttrConst.daily_badDreamBall);
+                    if (0 == n) {
+                        var i = new t.BadPop1;
+                        e.service.openPop(i, !1, null, null, e, e)
+                    } else {
+                        var i = new t.BadPop2;
+                        e.service.openPop(i, !1, null, null, e, e)
+                    }
+                });
+                else if (3 == e.curTask) {
+                    var n = new t.UnrealPop;
+                    e.service.updateSomeValues([t.AttrConst.daily_unrealDreamBall]).then(function() {
+                        0 == e.service.getValue(t.AttrConst.daily_unrealDreamBall) ? SocketConnection.sendByQueue(t.AttrConst.CMD, [10, 0],
+                        function() {
+                            e.service.openPop(n, !1, null, null, e, e)
+                        }) : e.service.openPop(n, !1, null, null, e, e)
+                    })
+                } else console.error("error task!  curTask:" + e.curTask)
+            },
+            this)
+        },
+        n.prototype.noOpen = function() {
+            Alarm.show("暂未开放，敬请期待！")
+        },
+        n.prototype.update = function() {
+            this.numShowTime = this.service.getValue(t.AttrConst.daily_showTime),
+            this.txtShowTime.text = this.numShowTime + "/8";
+            var e = this.service.getValue(t.AttrConst.forever_getState),
+            n = e >= 1,
+            i = e >= 2,
+            o = e >= 3,
+            a = e >= 4;
+            this.imgHasPet.visible = n,
+            this.imgHasKe.visible = i,
+            this.imgHasWu.visible = o,
+            this.imgHasTe.visible = a;
+            var r = !n,
+            s = n && !i,
+            _ = i && !o,
+            u = o && !a;
+            DisplayUtil.setEnabled(this.btnGetPet, r, !r),
+            DisplayUtil.setEnabled(this.btnGetKe, s, !s),
+            DisplayUtil.setEnabled(this.btnGetWu, _, !_),
+            DisplayUtil.setEnabled(this.btnGetTe, u, !u),
+            DisplayUtil.setEnabled(this.btnAddShowTime, this.numShowTime >= 8, !(this.numShowTime >= 8)),
+            DisplayUtil.setEnabled(this.btnOneKeyBuy, 0 >= e, e > 0);
+            for (var g = this.service.getValue(t.AttrConst.daily_finishTask), l = 0, h = 1; 3 >= h; h++) KTool.getBit(g, h) && l++;
+            this.txtBonus.text = l + "/3";
+            var d = 1 == this.service.getValue(t.AttrConst.daily_bitBuf_hasGetBonus),
+            c = !d && 3 == l;
+            DisplayUtil.setEnabled(this.btnGetBonus, c, !c),
+            this.curTask = this.service.getValue(t.AttrConst.daily_curTask),
+            this.imgShowDream.visible = 0 == this.curTask,
+            this.imgEnterDream.visible = 0 != this.curTask,
+            this.imgNotShow1.visible = this.imgNotShow2.visible = 0 == this.curTask,
+            this.imgGoodBall1.visible = this.imgGoodBall2.visible = 1 == this.curTask,
+            this.imgBadBall1.visible = this.imgBadBall2.visible = 2 == this.curTask,
+            this.imgUnrealBall1.visible = this.imgUnrealBall2.visible = 3 == this.curTask
+        },
+        n
+    } (BasicPanel);
+    t.MainPanel = e,
+    __reflect(e.prototype, "godOfDream.MainPanel")
+} (godOfDream || (godOfDream = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+godOfDream; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.skinName = "GodOfDreamBadPop1Skin",
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            this.addEvent()
+        },
+        n.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                PopViewManager.getInstance().hideView(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                ModuleManager.showModuleByID(10)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                FightManager.fightNoMapBoss("", 10305)
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this),
+            ImageButtonUtil.add(this.btnFastBeat,
+            function() {
+                PayManager.canPay() ? KTool.buyProductByCallback(250959, 1,
+                function() {
+                    SocketConnection.sendWithPromise(46340, [8, 1]).then(function() {
+                        EventManager.dispatchEventWith("UpdateMainPanel"),
+                        Alarm.show("恭喜你完成任务！",
+                        function() {
+                            EventManager.dispatchEventWith("UpdateMainPanel", !0),
+                            t.turn2BadPop2()
+                        })
+                    })
+                },
+                t) : Alarm.show("暂未开放，敬请期待！")
+            },
+            this)
+        },
+        n.prototype.destroy = function() {
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this),
+            e.prototype.destroy.call(this)
+        },
+        n.prototype.backFromFight = function() {
+            var t = this;
+            FightManager.isWin && Alarm.show("不好，好像有更可怕的东西过来了！",
+            function() {
+                t.turn2BadPop2()
+            })
+        },
+        n.prototype.turn2BadPop2 = function() {
+            PopViewManager.getInstance().hideView(this);
+            var e = new t.BadPop2,
+            n = PopViewManager.createDefaultStyleObject();
+            n.ignoreMaskClick = !1,
+            PopViewManager.getInstance().hideView(this);
+            var i = egret.setTimeout(function() {
+                egret.clearTimeout(i),
+                PopViewManager.getInstance().openView(e, n, null, ModuleManager.currModule)
+            },
+            this, 300)
+        },
+        n
+    } (PopView);
+    t.BadPop1 = e,
+    __reflect(e.prototype, "godOfDream.BadPop1")
+} (godOfDream || (godOfDream = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+godOfDream; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = "GodOfDreamBadPop2Skin",
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            this.addEvent()
+        },
+        e.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                PopViewManager.getInstance().hideView(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                ModuleManager.showModuleByID(10)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                FightManager.fightNoMapBoss("", 10306)
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this),
+            ImageButtonUtil.add(this.btnFastBeat,
+            function() {
+                PayManager.canPay() ? KTool.buyProductByCallback(250959, 1,
+                function() {
+                    SocketConnection.sendWithPromise(46340, [8, 2]).then(function() {
+                        EventManager.dispatchEventWith("UpdateMainPanel"),
+                        Alarm.show("恭喜你完成任务！",
+                        function() {
+                            EventManager.dispatchEventWith("UpdateMainPanel", !0),
+                            PopViewManager.getInstance().hideView(t)
+                        })
+                    })
+                },
+                t) : Alarm.show("暂未开放，敬请期待！")
+            },
+            this)
+        },
+        e.prototype.destroy = function() {
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this),
+            t.prototype.destroy.call(this)
+        },
+        e.prototype.backFromFight = function() {
+            var t = this;
+            FightManager.isWin && Alarm.show("你展示出强大的实力，将梦魔打的落荒而逃！",
+            function() {
+                PopViewManager.getInstance().hideView(t)
+            })
+        },
+        e
+    } (PopView);
+    t.BadPop2 = e,
+    __reflect(e.prototype, "godOfDream.BadPop2")
+} (godOfDream || (godOfDream = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+godOfDream; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.skinName = "GodOfDreamGoodPop1Skin",
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            this.addEvent()
+        },
+        n.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                PopViewManager.getInstance().hideView(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                SocketConnection.sendByQueue(t.AttrConst.CMD, [6, 0],
+                function() {
+                    Alarm.show("啊哦，你好像遇到了一位不速之客。",
+                    function() {
+                        var n = new t.GoodPop2,
+                        i = PopViewManager.createDefaultStyleObject();
+                        i.ignoreMaskClick = !1,
+                        PopViewManager.getInstance().hideView(e);
+                        var o = egret.setTimeout(function() {
+                            egret.clearTimeout(o),
+                            PopViewManager.getInstance().openView(n, i, null, ModuleManager.currModule)
+                        },
+                        e, 300)
+                    })
+                })
+            },
+            this)
+        },
+        n
+    } (PopView);
+    t.GoodPop1 = e,
+    __reflect(e.prototype, "godOfDream.GoodPop1")
+} (godOfDream || (godOfDream = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+godOfDream; !
+function(t) {
+    var e = function(t) {
+        function e() {
+            var e = t.call(this) || this;
+            return e.skinName = "GodOfDreamGoodPop2Skin",
+            e
+        }
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
+            this.addEvent()
+        },
+        e.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                PopViewManager.getInstance().hideView(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                ModuleManager.showModuleByID(10)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                FightManager.fightNoMapBoss("", 10304)
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this),
+            ImageButtonUtil.add(this.btnFastBeat,
+            function() {
+                PayManager.canPay() ? KTool.buyProductByCallback(250958, 1,
+                function() {
+                    SocketConnection.sendWithPromise(46340, [7, 0]).then(function() {
+                        Alarm.show("恭喜你完成任务！",
+                        function() {
+                            EventManager.dispatchEventWith("UpdateMainPanel", !0),
+                            PopViewManager.getInstance().hideView(t)
+                        })
+                    })
+                },
+                t) : Alarm.show("暂未开放，敬请期待！")
+            },
+            this)
+        },
+        e.prototype.destroy = function() {
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this),
+            t.prototype.destroy.call(this)
+        },
+        e.prototype.backFromFight = function() {
+            var t = this;
+            FightManager.isWin && Alarm.show("你成功赶走了美梦盗贼，并抢回了属于你的梦境球！",
+            function() {
+                PopViewManager.getInstance().hideView(t)
+            })
+        },
+        e
+    } (PopView);
+    t.GoodPop2 = e,
+    __reflect(e.prototype, "godOfDream.GoodPop2")
+} (godOfDream || (godOfDream = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+godOfDream; !
+function(t) {
+    var e = function(e) {
+        function n() {
+            var t = e.call(this) || this;
+            return t.skinName = "GodOfDreamUnrealPopSkin",
+            t
+        }
+        return __extends(n, e),
+        n.prototype.childrenCreated = function() {
+            this.addEvent(),
+            this.update()
+        },
+        n.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                PopViewManager.getInstance().hideView(t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnCure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnPet,
+            function() {
+                ModuleManager.showModuleByID(10)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastShow,
+            function() {
+                return PayManager.canPay() ? void KTool.buyProductByCallback(250960, 1,
+                function() {
+                    SocketConnection.sendWithPromise(46340, [9, 0]).then(function() {
+                        Alarm.show("恭喜你完成任务！",
+                        function() {
+                            EventManager.dispatchEventWith("UpdateMainPanel", !0),
+                            PopViewManager.getInstance().hideView(t)
+                        })
+                    })
+                },
+                t) : void Alarm.show("暂未开放，敬请期待！")
+            },
+            this);
+            for (var e = function(t) {
+                ImageButtonUtil.add(n["btn" + t],
+                function() {
+                    Alert.show("你确定它就是梦里的精灵吗？",
+                    function() {
+                        FightManager.fightNoMapBoss("", 10306 + t)
+                    })
+                },
+                n)
+            },
+            n = this, i = 1; 3 >= i; i++) e(i);
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this)
+        },
+        n.prototype.destroy = function() {
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.backFromFight, this),
+            e.prototype.destroy.call(this)
+        },
+        n.prototype.backFromFight = function() {
+            var e = this;
+            KTool.getMultiValue([t.AttrConst.daily_curTask],
+            function(t) {
+                t[0] ? Alarm.show("你似乎找错了人，再试试吧！") : Alarm.show("聪明的你一眼就看出了这只精灵的真面目！",
+                function() {
+                    PopViewManager.getInstance().hideView(e)
+                })
+            })
+        },
+        n.prototype.update = function() {
+            var e = this;
+            KTool.getMultiValue([t.AttrConst.daily_unrealDreamBall],
+            function(t) {
+                for (var n = 1; 3 >= n; n++) e["imgPet" + n].visible = n == t[0]
+            })
+        },
+        n
+    } (PopView);
+    t.UnrealPop = e,
+    __reflect(e.prototype, "godOfDream.UnrealPop")
+} (godOfDream || (godOfDream = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/GodOfDreamBadPop1Skin.exml"] = window.GodOfDreamBadPop1Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnPet", "btnCure", "btnFastBeat", "btnFight", "btnClose"],
+        this.height = 283,
+        this.width = 582,
+        this.elementsContent = [this._Image1_i(), this.btnPet_i(), this.btnCure_i(), this.btnFastBeat_i(), this.btnFight_i(), this.btnClose_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_bad_pop1_emzq_png",
+        t.x = 62,
+        t.y = 0,
+        t
+    },
+    n.btnPet_i = function() {
+        var t = new eui.Image;
+        return this.btnPet = t,
+        t.source = "god_of_dream_good_pop2_btnpet_png",
+        t.x = 0,
+        t.y = 156,
+        t
+    },
+    n.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "god_of_dream_good_pop2_btncure_png",
+        t.x = 0,
+        t.y = 221,
+        t
+    },
+    n.btnFastBeat_i = function() {
+        var t = new eui.Image;
+        return this.btnFastBeat = t,
+        t.source = "god_of_dream_good_pop2_btnfastbeat_png",
+        t.x = 431,
+        t.y = 221,
+        t
+    },
+    n.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.source = "god_of_dream_good_pop2_btnfight_png",
+        t.x = 282,
+        t.y = 218,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "god_of_dream_good_pop1_btnclose_png",
+        t.x = 541,
+        t.y = 9,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/GodOfDreamBadPop2Skin.exml"] = window.GodOfDreamBadPop2Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnPet", "btnCure", "btnFastBeat", "btnFight", "btnClose"],
+        this.height = 340,
+        this.width = 606,
+        this.elementsContent = [this._Image1_i(), this.btnPet_i(), this.btnCure_i(), this.btnFastBeat_i(), this.btnFight_i(), this.btnClose_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_bad_pop2_emzq_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnPet_i = function() {
+        var t = new eui.Image;
+        return this.btnPet = t,
+        t.source = "god_of_dream_good_pop2_btnpet_png",
+        t.x = 24,
+        t.y = 213,
+        t
+    },
+    n.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "god_of_dream_good_pop2_btncure_png",
+        t.x = 24,
+        t.y = 278,
+        t
+    },
+    n.btnFastBeat_i = function() {
+        var t = new eui.Image;
+        return this.btnFastBeat = t,
+        t.source = "god_of_dream_good_pop2_btnfastbeat_png",
+        t.x = 455,
+        t.y = 278,
+        t
+    },
+    n.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.source = "god_of_dream_good_pop2_btnfight_png",
+        t.x = 306,
+        t.y = 275,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "god_of_dream_good_pop1_btnclose_png",
+        t.visible = !0,
+        t.x = 565,
+        t.y = 66,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/GodOfDreamGoodPop1Skin.exml"] = window.GodOfDreamGoodPop1Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnGet", "btnClose"],
+        this.height = 258,
+        this.width = 430,
+        this.elementsContent = [this._Image1_i(), this.btnGet_i(), this.btnClose_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_good_pop1_mmzq_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnGet_i = function() {
+        var t = new eui.Image;
+        return this.btnGet = t,
+        t.source = "god_of_dream_good_pop1_btnget_png",
+        t.x = 41,
+        t.y = 189,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "god_of_dream_good_pop1_btnclose_png",
+        t.x = 389,
+        t.y = 8,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/GodOfDreamGoodPop2Skin.exml"] = window.GodOfDreamGoodPop2Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnPet", "btnCure", "btnFastBeat", "btnFight", "btnClose"],
+        this.height = 292,
+        this.width = 582,
+        this.elementsContent = [this._Image1_i(), this.btnPet_i(), this.btnCure_i(), this.btnFastBeat_i(), this.btnFight_i(), this.btnClose_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_good_pop2_jbmmdz_png",
+        t.x = 53,
+        t.y = 0,
+        t
+    },
+    n.btnPet_i = function() {
+        var t = new eui.Image;
+        return this.btnPet = t,
+        t.source = "god_of_dream_good_pop2_btnpet_png",
+        t.x = 0,
+        t.y = 159,
+        t
+    },
+    n.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "god_of_dream_good_pop2_btncure_png",
+        t.x = 0,
+        t.y = 224,
+        t
+    },
+    n.btnFastBeat_i = function() {
+        var t = new eui.Image;
+        return this.btnFastBeat = t,
+        t.source = "god_of_dream_good_pop2_btnfastbeat_png",
+        t.x = 431,
+        t.y = 224,
+        t
+    },
+    n.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.source = "god_of_dream_good_pop2_btnfight_png",
+        t.x = 282,
+        t.y = 221,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "god_of_dream_good_pop1_btnclose_png",
+        t.x = 541,
+        t.y = 12,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/GodOfDreamMainPanelSkin.exml"] = window.GodOfDreamMainPanelSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBadBall2", "imgGoodBall2", "imgUnrealBall2", "imgNotShow2", "imgUnrealBall1", "imgBadBall1", "imgGoodBall1", "imgNotShow1", "imgShowDream", "imgEnterDream", "btnDream", "btnGetKe", "btnKe", "imgHasKe", "btnGetTe", "btnTe", "imgHasTe", "btnGetWu", "btnWu", "imgHasWu", "btnPet", "imgHasPet", "btnGetPet", "btnGetBonus", "txtBonus", "btnBuyBall", "txtBall", "txtShowTime", "btnAddShowTime", "btnOneKeyBuy", "btnClose"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Group1_i(), this._Group2_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.bottom = 0,
+        t.left = 0,
+        t.right = 0,
+        t.source = "god_of_dream_main_panel_bg_jpg",
+        t.top = 0,
+        t
+    },
+    n._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = 0,
+        t.y = 14,
+        t.elementsContent = [this._Image2_i(), this.imgBadBall2_i(), this.imgGoodBall2_i(), this.imgUnrealBall2_i(), this.imgNotShow2_i(), this._Image3_i(), this.imgUnrealBall1_i(), this.imgBadBall1_i(), this.imgGoodBall1_i(), this.imgNotShow1_i(), this.btnDream_i(), this._Rect1_i(), this._Image5_i(), this._Image6_i(), this._Image7_i(), this.btnGetKe_i(), this._Image8_i(), this.btnKe_i(), this.imgHasKe_i(), this.btnGetTe_i(), this._Image9_i(), this.btnTe_i(), this.imgHasTe_i(), this.btnGetWu_i(), this._Image10_i(), this.btnWu_i(), this.imgHasWu_i(), this._Image11_i(), this.btnPet_i(), this.imgHasPet_i(), this.btnGetPet_i(), this._Image12_i(), this._Image13_i(), this._Rect2_i(), this._Image14_i(), this.btnGetBonus_i(), this._Image15_i(), this._Image16_i(), this.txtBonus_i(), this._Image17_i(), this.btnBuyBall_i(), this.txtBall_i(), this._Image18_i(), this._Image19_i(), this.txtShowTime_i(), this.btnAddShowTime_i(), this.btnOneKeyBuy_i()],
+        t
+    },
+    n._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img19_png",
+        t.visible = !0,
+        t.x = 308,
+        t.y = 178,
+        t
+    },
+    n.imgBadBall2_i = function() {
+        var t = new eui.Image;
+        return this.imgBadBall2 = t,
+        t.source = "god_of_dream_main_panel_imgbadball2_png",
+        t.visible = !1,
+        t.x = 358,
+        t.y = 157,
+        t
+    },
+    n.imgGoodBall2_i = function() {
+        var t = new eui.Image;
+        return this.imgGoodBall2 = t,
+        t.source = "god_of_dream_main_panel_imggoodball2_png",
+        t.visible = !1,
+        t.x = 358,
+        t.y = 238,
+        t
+    },
+    n.imgUnrealBall2_i = function() {
+        var t = new eui.Image;
+        return this.imgUnrealBall2 = t,
+        t.source = "god_of_dream_main_panel_imgunrealball2_png",
+        t.visible = !1,
+        t.x = 317,
+        t.y = 158,
+        t
+    },
+    n.imgNotShow2_i = function() {
+        var t = new eui.Image;
+        return this.imgNotShow2 = t,
+        t.source = "god_of_dream_main_panel_imgnotshow2_png",
+        t.visible = !1,
+        t.x = 507,
+        t.y = 293,
+        t
+    },
+    n._Image3_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img18_png",
+        t.visible = !0,
+        t.x = 310,
+        t.y = 109,
+        t
+    },
+    n.imgUnrealBall1_i = function() {
+        var t = new eui.Image;
+        return this.imgUnrealBall1 = t,
+        t.source = "god_of_dream_main_panel_imgunrealball1_png",
+        t.visible = !1,
+        t.x = 477,
+        t.y = 116,
+        t
+    },
+    n.imgBadBall1_i = function() {
+        var t = new eui.Image;
+        return this.imgBadBall1 = t,
+        t.source = "god_of_dream_main_panel_imgbadball1_png",
+        t.visible = !1,
+        t.x = 477,
+        t.y = 116,
+        t
+    },
+    n.imgGoodBall1_i = function() {
+        var t = new eui.Image;
+        return this.imgGoodBall1 = t,
+        t.source = "god_of_dream_main_panel_imggoodball1_png",
+        t.visible = !1,
+        t.x = 478,
+        t.y = 116,
+        t
+    },
+    n.imgNotShow1_i = function() {
+        var t = new eui.Image;
+        return this.imgNotShow1 = t,
+        t.source = "god_of_dream_main_panel_imgnotshow1_png",
+        t.visible = !1,
+        t.x = 463,
+        t.y = 116,
+        t
+    },
+    n.btnDream_i = function() {
+        var t = new eui.Group;
+        return this.btnDream = t,
+        t.x = 431,
+        t.y = 538,
+        t.elementsContent = [this._Image4_i(), this.imgShowDream_i(), this.imgEnterDream_i()],
+        t
+    },
+    n._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img17_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.imgShowDream_i = function() {
+        var t = new eui.Image;
+        return this.imgShowDream = t,
+        t.source = "god_of_dream_main_panel_imgshowdream_png",
+        t.visible = !0,
+        t.x = 46,
+        t.y = 11,
+        t
+    },
+    n.imgEnterDream_i = function() {
+        var t = new eui.Image;
+        return this.imgEnterDream = t,
+        t.source = "god_of_dream_main_panel_imgenterdream_png",
+        t.visible = !0,
+        t.x = 46,
+        t.y = 11,
+        t
+    },
+    n._Rect1_i = function() {
+        var t = new eui.Rect;
+        return t.alpha = .6,
+        t.fillColor = 4730179,
+        t.height = 479.5,
+        t.visible = !0,
+        t.width = 320.811,
+        t.x = 766.12,
+        t.y = 117.12,
+        t
+    },
+    n._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 110,
+        t.scale9Grid = new egret.Rectangle(102, 37, 4, 36),
+        t.source = "god_of_dream_main_panel_img9_png",
+        t.visible = !0,
+        t.width = 300,
+        t.x = 777,
+        t.y = 476,
+        t
+    },
+    n._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 110,
+        t.scale9Grid = new egret.Rectangle(102, 37, 6, 36),
+        t.source = "god_of_dream_main_panel_img9_png",
+        t.width = 300,
+        t.x = 777,
+        t.y = 361,
+        t
+    },
+    n._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 110,
+        t.scale9Grid = new egret.Rectangle(103, 37, 5, 36),
+        t.source = "god_of_dream_main_panel_img9_png",
+        t.visible = !0,
+        t.width = 300,
+        t.x = 777,
+        t.y = 245,
+        t
+    },
+    n.btnGetKe_i = function() {
+        var t = new eui.Image;
+        return this.btnGetKe = t,
+        t.source = "god_of_dream_main_panel_btngetke_png",
+        t.x = 931,
+        t.y = 308.8,
+        t
+    },
+    n._Image8_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img14_png",
+        t.x = 925,
+        t.y = 254.8,
+        t
+    },
+    n.btnKe_i = function() {
+        var t = new eui.Image;
+        return this.btnKe = t,
+        t.source = "god_of_dream_main_panel_btnke_png",
+        t.x = 802,
+        t.y = 267.8,
+        t
+    },
+    n.imgHasKe_i = function() {
+        var t = new eui.Image;
+        return this.imgHasKe = t,
+        t.source = "god_of_dream_main_panel_imghaske_png",
+        t.visible = !1,
+        t.x = 780,
+        t.y = 288.404,
+        t
+    },
+    n.btnGetTe_i = function() {
+        var t = new eui.Image;
+        return this.btnGetTe = t,
+        t.source = "god_of_dream_main_panel_btngetke_png",
+        t.x = 931,
+        t.y = 541.566,
+        t
+    },
+    n._Image9_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img12_png",
+        t.x = 925,
+        t.y = 488.567,
+        t
+    },
+    n.btnTe_i = function() {
+        var t = new eui.Image;
+        return this.btnTe = t,
+        t.source = "god_of_dream_main_panel_btnte_png",
+        t.x = 811.838,
+        t.y = 508.084,
+        t
+    },
+    n.imgHasTe_i = function() {
+        var t = new eui.Image;
+        return this.imgHasTe = t,
+        t.source = "god_of_dream_main_panel_imghaske_png",
+        t.visible = !1,
+        t.x = 780,
+        t.y = 521.567,
+        t
+    },
+    n.btnGetWu_i = function() {
+        var t = new eui.Image;
+        return this.btnGetWu = t,
+        t.source = "god_of_dream_main_panel_btngetke_png",
+        t.x = 931,
+        t.y = 422.774,
+        t
+    },
+    n._Image10_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img10_png",
+        t.x = 926,
+        t.y = 369.774,
+        t
+    },
+    n.btnWu_i = function() {
+        var t = new eui.Image;
+        return this.btnWu = t,
+        t.source = "god_of_dream_main_panel_btnwu_png",
+        t.x = 807,
+        t.y = 386.775,
+        t
+    },
+    n.imgHasWu_i = function() {
+        var t = new eui.Image;
+        return this.imgHasWu = t,
+        t.source = "god_of_dream_main_panel_imghaske_png",
+        t.visible = !1,
+        t.x = 780,
+        t.y = 402.774,
+        t
+    },
+    n._Image11_i = function() {
+        var t = new eui.Image;
+        return t.height = 110,
+        t.scale9Grid = new egret.Rectangle(104, 37, 3, 36),
+        t.source = "god_of_dream_main_panel_img9_png",
+        t.width = 300,
+        t.x = 777,
+        t.y = 129,
+        t
+    },
+    n.btnPet_i = function() {
+        var t = new eui.Image;
+        return this.btnPet = t,
+        t.source = "god_of_dream_main_panel_btnpet_png",
+        t.x = 795,
+        t.y = 145,
+        t
+    },
+    n.imgHasPet_i = function() {
+        var t = new eui.Image;
+        return this.imgHasPet = t,
+        t.source = "god_of_dream_main_panel_imghaske_png",
+        t.visible = !1,
+        t.x = 780,
+        t.y = 173,
+        t
+    },
+    n.btnGetPet_i = function() {
+        var t = new eui.Image;
+        return this.btnGetPet = t,
+        t.source = "god_of_dream_main_panel_btngetke_png",
+        t.visible = !0,
+        t.x = 931,
+        t.y = 194,
+        t
+    },
+    n._Image12_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img8_png",
+        t.x = 914,
+        t.y = 140,
+        t
+    },
+    n._Image13_i = function() {
+        var t = new eui.Image;
+        return t.height = 273,
+        t.scale9Grid = new egret.Rectangle(8, 5, 7, 5),
+        t.source = "god_of_dream_main_panel_img7_png",
+        t.visible = !0,
+        t.width = 323,
+        t.x = 0,
+        t.y = 326,
+        t
+    },
+    n._Rect2_i = function() {
+        var t = new eui.Rect;
+        return t.alpha = .3,
+        t.height = 108.925,
+        t.width = 282.291,
+        t.x = 21.07,
+        t.y = 409.91,
+        t
+    },
+    n._Image14_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_txttask_png",
+        t.x = 34.18,
+        t.y = 428.03,
+        t
+    },
+    n.btnGetBonus_i = function() {
+        var t = new eui.Image;
+        return this.btnGetBonus = t,
+        t.source = "god_of_dream_main_panel_btnseebonus_png",
+        t.x = 166,
+        t.y = 538,
+        t
+    },
+    n._Image15_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img6_png",
+        t.visible = !0,
+        t.x = 26,
+        t.y = 556,
+        t
+    },
+    n._Image16_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img5_png",
+        t.x = 27,
+        t.y = 340,
+        t
+    },
+    n.txtBonus_i = function() {
+        var t = new eui.Label;
+        return this.txtBonus = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "00/00",
+        t.textColor = 14657495,
+        t.x = 105,
+        t.y = 555,
+        t
+    },
+    n._Image17_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img4_png",
+        t.visible = !0,
+        t.x = 1,
+        t.y = 114,
+        t
+    },
+    n.btnBuyBall_i = function() {
+        var t = new eui.Image;
+        return this.btnBuyBall = t,
+        t.source = "god_of_dream_main_panel_btnbuyball_png",
+        t.x = 94,
+        t.y = 255,
+        t
+    },
+    n.txtBall_i = function() {
+        var t = new eui.Label;
+        return this.txtBall = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 24,
+        t.text = "9",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 43,
+        t.x = 140,
+        t.y = 226,
+        t
+    },
+    n._Image18_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img3_png",
+        t.x = 221,
+        t.y = 39,
+        t
+    },
+    n._Image19_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img2_png",
+        t.x = 864,
+        t.y = 0,
+        t
+    },
+    n.txtShowTime_i = function() {
+        var t = new eui.Label;
+        return this.txtShowTime = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.0101510119682,
+        t.text = "0/8",
+        t.textColor = 14657495,
+        t.x = 1017,
+        t.y = .652,
+        t
+    },
+    n.btnAddShowTime_i = function() {
+        var t = new eui.Image;
+        return this.btnAddShowTime = t,
+        t.source = "god_of_dream_main_panel_btnaddshowtime_png",
+        t.x = 1058,
+        t.y = 1,
+        t
+    },
+    n.btnOneKeyBuy_i = function() {
+        var t = new eui.Image;
+        return this.btnOneKeyBuy = t,
+        t.source = "god_of_dream_good_buy_it_png",
+        t.x = 911.924,
+        t.y = 48.596,
+        t
+    },
+    n._Group2_i = function() {
+        var t = new eui.Group;
+        return t.visible = !1,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Image20_i(), this.btnClose_i()],
+        t
+    },
+    n._Image20_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_main_panel_img1_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "god_of_dream_main_panel_btnclose_png",
+        t.x = 17,
+        t.y = 9,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/GodOfDreamUnrealPopSkin.exml"] = window.GodOfDreamUnrealPopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btn1", "btn2", "btn3", "btnFastShow", "btnPet", "btnCure", "btnClose", "imgPet1", "imgPet2", "imgPet3"],
+        this.height = 384,
+        this.width = 760,
+        this.elementsContent = [this._Image1_i(), this.btn1_i(), this.btn2_i(), this.btn3_i(), this.btnFastShow_i(), this.btnPet_i(), this.btnCure_i(), this.btnClose_i(), this.imgPet1_i(), this.imgPet2_i(), this.imgPet3_i()]
+    }
+    __extends(e, t);
+    var n = e.prototype;
+    return n._Image1_i = function() {
+        var t = new eui.Image;
+        return t.source = "god_of_dream_unreal_pop_hmzq_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    n.btn1_i = function() {
+        var t = new eui.Image;
+        return this.btn1 = t,
+        t.source = "god_of_dream_unreal_pop_btn1_png",
+        t.x = 269,
+        t.y = 318,
+        t
+    },
+    n.btn2_i = function() {
+        var t = new eui.Image;
+        return this.btn2 = t,
+        t.source = "god_of_dream_unreal_pop_btn1_png",
+        t.x = 427,
+        t.y = 318,
+        t
+    },
+    n.btn3_i = function() {
+        var t = new eui.Image;
+        return this.btn3 = t,
+        t.source = "god_of_dream_unreal_pop_btn1_png",
+        t.x = 586,
+        t.y = 318,
+        t
+    },
+    n.btnFastShow_i = function() {
+        var t = new eui.Image;
+        return this.btnFastShow = t,
+        t.source = "god_of_dream_unreal_pop_btnfastshow_png",
+        t.x = 99,
+        t.y = 320,
+        t
+    },
+    n.btnPet_i = function() {
+        var t = new eui.Image;
+        return this.btnPet = t,
+        t.source = "god_of_dream_good_pop2_btnpet_png",
+        t.x = 13,
+        t.y = 150,
+        t
+    },
+    n.btnCure_i = function() {
+        var t = new eui.Image;
+        return this.btnCure = t,
+        t.source = "god_of_dream_good_pop2_btncure_png",
+        t.x = 13,
+        t.y = 224,
+        t
+    },
+    n.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "god_of_dream_good_pop1_btnclose_png",
+        t.x = 717,
+        t.y = 10,
+        t
+    },
+    n.imgPet1_i = function() {
+        var t = new eui.Image;
+        return this.imgPet1 = t,
+        t.source = "god_of_dream_all_pop_imgpet1_png",
+        t.visible = !1,
+        t.x = 92,
+        t.y = 108,
+        t
+    },
+    n.imgPet2_i = function() {
+        var t = new eui.Image;
+        return this.imgPet2 = t,
+        t.source = "god_of_dream_all_pop_imgpet2_png",
+        t.visible = !1,
+        t.x = 92,
+        t.y = 108,
+        t
+    },
+    n.imgPet3_i = function() {
+        var t = new eui.Image;
+        return this.imgPet3 = t,
+        t.source = "god_of_dream_all_pop_imgpet3_png",
+        t.visible = !1,
+        t.x = 92,
+        t.y = 108,
+        t
+    },
+    e
+} (eui.Skin);

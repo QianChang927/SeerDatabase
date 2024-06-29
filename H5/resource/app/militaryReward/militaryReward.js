@@ -1,1 +1,1862 @@
-eval(function(){function Z(Z){for(B=R=0;B<Z;)s<2&&(s=64,F=92<(F="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DH:@bKww:LZ=XVL`?KBJ;:^@l<:zAbB:ACZKnWokZ?ltF:UQJ;WI[C^c:baf^mcaLp;hqADwe]ucJuQdGWv@Aow:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyQO>wx]sBI@slFZCIEZCoF<RF=^:bNBJqv`;B?_fyrQKmA?_:XJ;r?Z:?F:svF;hi?a>LQ]FPNqkGoq>:U`NpHYJHJHlpRxIUYZ_^ouivM;Rs<VfkZ?gwC=loV@g:CKXsA]Xk:[@N<`lX@CX[:g;=<^cl:]D`NRX:BA;n^s_>ZW<`[:lTbhsHZa@;y[BJD[wA;ZA::CElM::;Zgt::K^w:FdkW;CBna<Jb:=PVJ:V_lrenqJJKQZPHDJHwgJ;SEszF:ZTnk<U:vbm`^gg:VZ=]R=NMbBCeZ:;`>HZ:Bn_:=aVmRT``V;J@<SOdGtfNt:BrhcVA]:=NJ>Za?^AXmJI?sZ;KX_gIn<<m[Nb_zeK@ClKEVI:<MHALu;MnsC=lX:g:=<w?wsVkDCsGJixofGDyhU]^UZnY]ba^XGeaWet:OIk:BfsJGN;H_IY?axOkiPixVdmlSzIPulmirKCITm:CiKZBJw;mNCZ:>mRSBN>Fyx;FdVNTBo_:g?oLDw<;jHxALYLWQpcC_x]uF:XZlX?=o[AZL^kBk:<BBBkVFc=JZ;eFlEqjPwgO;XGNEJj:j;RA=wGFVZc_k:;aXw[AJm]i;cZ^f>k:;P::HO]DDcn]uBaI;s`kM;mIRu]wBBb:s=k?oV<k:;qA^qQOUtY^:TlukTRSWP;;_P<u>kuFBOOk;??JqH>iLuBB=[mOJE?uqyHCoAoom`GWI_fE:>Od`wUJC<obszawldfL;F;s[Fgm<I>_BvBs[nZqVg;QFkWmw>wvm>?wzxrp]Ws@LczlkdojL=C]jNscL^[nDbXCFkSWsJAz::[C[o;H?Z:?N<]JV[>r]RhNh_q]y=UTdlABDfBhecm@hFde_cB:DUBDGJ<@aXSm::?MkQUxe=XSyqVxFs=:ETnisNJ?JBIJkcpTecgFqEsfPtflG<YJWfqZv^hHZuEdR;`Ljilvs[X[TreP`[cdPvv>cgyCzcrFhoIJDBc]Z?[`MZWER[]M;BUZWs::pOOhKezIJCNONe[AWByif^CydEPg>rAwSRDNLVmDp?fStTjgTte;YXQ<oEJ^WbkBIZP?SIRP::A`XvM>XK]PpjB?:zpkGQVGksJz;PISCmZUtcdyLb:JL@uUehSFc[zIx@ODnwu[hk[[`QQtSZsDxs[WttQ^ZC[O::JM:ENThlP[>Lp]DlTKnvuhK^[[:rMgM_fFUNowZxw_KW?B<kR`qgui:XfufZ[eyNT_rl<ZrMND;I`rTeSgJwjK?[E:BwlVZnitA:H:aIRnc^IDC]gkbzn:;aMFTQxQHeV[kUb`s_Q<VVYXrhZs?sGoyQBRjorBYt_r?@W_ryIimu[=gHKWDmtNkXpuLJKYTtQ]:GJTZYvXZSjPTgwJifP<SeY=<TZoBM_t;zPJBcL==AYdz>NEVNldbJETYqVJUdbpC>WSmGBfv=>HaF:TxR::LN;=clqa:BRyv_H:[`E:Y:_Kw:kP[kSJZ[^J]@kMZHYRR`=m=oC^iDNomR^tV:ZUyYwNRRn?;sMQUejOydGl@aGGiWJHMc;R=HEN>k^tbZaB<EHIgqcWLoJrJTkoV>@FtFRx[b=Sd]?O;kXBM:N=zqQ]FVLV:Y?yCJIjPlY;D@;CiZBj;J]g^>EJdwUPi_XfP:diwG<KwOnG`gQbHs;WhmPHgV<NiKstek]lFLAF?BsMd??;DDNug:;gEB`=::sHC<:INHM>Oify:;ewFsUpIgBRF_wC]ANmGkG<Z;^RF:C?KZ:MiN:=CHZ:ANo:IHCZ;RHN:FqlcC>?u<uMov_A;N;]]w`kSsKtZm?aZJ:KO^E@UZ::PXw^>yCg]FBlIZECn<nKDE<Jk:WtnDm_^?KF:o_SDPXGx=FY;q]]?<AgRNt<V:JGvAPM:d>>OM_kI@@HPWR_fnN<:MJsmE=]DH[FH:VJ@UV=:AkNJ]^K]Xno?socrJ[uR@s?SQ:t;_:V@u<j>J:;TKokZ:<_:`=:g^qAl::YAZ:sdh[;kAJd[PBwJTCs=cc;R<C?AJccpT@E<qfofuiBh]`_cKzf_;H:xI:X[IasKRH>OdV:Y`]GBVaPJ>Z:<HM;>kaM@Ep<SXcY^V>R]m?_>mVKsZtT]`cuEB?Rh;@m<JK]M?aIhP]tF[G]EFbMQkJ`kC]NlJB?D<`>ZwalAQEbQHJ[wsI:_<mtKV;O@lZeN[HTs?MQjaS::IoASHI[JSGQ[_vXc]Z`^<C:LhRyKPhmrkY_bGyO`zsto@jlP;WBaeaL?BfGiPhPBHQVhe>BM:O_?M`id<VF:xF<vK[^^qH_V:fUd@dELX_^OF:jizT>cSJM]fzfm^yhTlRCmYhYX;fcEOpRwLNCHExRA@MF[SAcS=FA@Mur>Zeloxs_IJR:ruI]aA]HcUx?[_^iAs]]dXNY?=UuzKwdkHJUir:;ENVcnnLVACk;J?AHl_:NJw=j<`<EOaGNFv_>=]:LPrAaIl=c_o`ZO_c[Aqv^wMCO>FciMV[tWF;N]dw`:qyzsjsKM`L[DbWuhNtFDRcodi]PcP;PTcg`IZ:;dJuJeKf?OOIsZcNvi;@>W<mKoe`AJjIyYrD>BZMmtf?Be<Me>zagIsq:JMiCEnK]vVFOM_dr]gGliZD:kWntmAhVEGEd[SR:AcwDqSp]<rs<bKfRTS<d^ZmQpIzPwvt^ZzayKWKtAmNEsPRojI<v?`yKJrt^Yt>sO[BSo;WJs?>Xh[uhlq?iPh^UrT;vbdL;y]ZN:HJUXM:Z;:h;oAdAHtWuvh;p=Z>wbWgv?qc[QSilZ?vWSIfj;=b:=?GSQ>ITyox^:ykZNvhrKJE_u;XMw]FH``PcBLnh;R>cG<IZP=ZnJbcG<yIMiyoyxxqZa:j=k@>ojHCI]fn:yy@cVhlNpuz;I`j:EBVwetMNAFnvHLoDr`^=_g:N@IiISykOjG;TN;?fSGUFb_I[Z>;lA:DaLulFibPp>VZR_CBsAesfmQnrxXs<Ii=wbjrOYK^Z::MNpywUQ@qK]DPNiZBrxq`WLxWod?L?jjYIRRdHEQHjuB;tGvxv]BXbW[yg>YNIEjEOr[lMAtrijLQzSkL=wTliBWLwn>MikE:oCI^:>K]QyYbgibi=A;BrBM[wvk;Qob_YdXz<J::FLp<eSugUmHOuhwF@jCkuzl@a=BTkr:qM]fgUQXiH^bAk>;zLFAZXcWw;lvyYASXL<TEfhclin^x?tuAwzLdUw;G<W:@c[OtlFjSS@[pNMsbr[D=uJF`bYBqW^Dr`cDXFmFJVmLmTmZ:Mve:;xwR::lDZ:NAD::DTR:==zZ:vx@:=ywc:;LiZ:V<e:<l]c:@>SZ:TweADbEbCw^XMQCBLrBC:ICIDbljBYCYBFU=;FRzfDUbsxd]:Ysc<=Dosfmgu^BVsMEzvMDnCcL:=hkR:HbuMPwFTLoaoN=aQFAPC@magaB:QkpZjamPggB;em]<f<CuPq;LMTKLETgaxZMJA:r>ADY@D<VcFNDyV:Z][<nkc]ODjamT_]p<h<=<M<E<_s]]L:A<ou;:L<[[`RRV^JVkpZBsiB;]^TRJr:QNYeRLz]V:yknPi_SLVN]ZO:]:UsHZnTZJayeLTV:BQo_[KKuKwJ]<cJr:[KpNtK=:pKNatKa:LDkZoH@BPKG:@:]gvqjgg:qKh:iJVPKJ:ZJZRZnZoZgZ=Z]ZnX[kaZqZiZ;ZlZSZvBOZpkNlnZZJvZeZO>IZYZ@lTlkJ;ZAk^KQoRBgomKZww>[qfwdJJlaBVoqRYBiRcwg[QJlZFFXZwR[FDc[HZ:Rse:<JHc:DWmZ:oAD]uPUPTv]kkFTfZe?e?l<Y>DsxSl=eRB_qdFf]Ku:gMY?k;zAz?Z`iRJ_R_TJk`B<e?B_g<Y>TLeRcaHZwKc_Y>zERa>u:<BHb]J]i<Ktf=Dobk<LPLV`d]R]Up]CZDYLK]Jl_mP[B:EKmUCfavaQ:@Ce_ICm[dCVC?CxsOCtCDCudcdgF@_>do;FdACwdgF:_jCedXZoT:ZadkdoTHdXZrC>dnCZ:[;Us`maJ`u::<VLdgCtC?d@dJdNJYdWd]d>d_dEdvC;CbC<CrdDdjdEmZdmCkdwSWd:_ydsSgd[CgF^cwRSdVSzd]SZSEmWCsJAlQd>dZ:tCfd`@bi_>Rl`wbk`o`P_;`u;o_qd<ZVmfKj?@<]:o^WDiLY?<<kmqao_[`LZ=`A<NJsb[S<<UMPKu<_J`axaMaRa=_P_lcKTd`^blZMbxbMaPKn_E`FdEbx_zBRaq`MUDlU`w:v_sbr[g^va;MnaH]EaMnE_FRRbKRleFJwKR`^_wKk:FRr`u=l_n`UKI_j`x_s_TK]bfahDF`Q`:QhDZNAbI`AajbxbV`b`MRg[u_BOZ=EaYbBPIaA_xbcNsaD`]bKTFMkQj=^bsPv_ld>N]^nbobA_s_mdJ`NQ]`sN>PFNIbFQde[;<[O>d@`?qRSmS?x@W?y===;AQ:?>b?Sl]NhTO>G?L?p?o;eO`?YMGAzKh@J:W?j^W?d;bSLOj]=?nTw:^>CU^>m;m:D<<:nAe;n?B]EAaJf>i:A@H=v?i:k:X:v@y=y<f@yOJ:[=[=t[S<C=@QPlJ<S<?Zt<F;=?PN`;h]O<xfd;NK[>h=rcW:kKkKx:=;k^ak^=^;M=;kE;E:f;f=eeU=U<U=v<U^?DI<mOAdq=g[mPI:^l[;w:p?z=`?b?CNQAVc:fB[r?c]Q@J:pDK?^Z>[>ZbSpDN^@>B;_e_`llZ:Tu<^g]c=_ZaK[kFJScWbl;n]z=@=h`mZD]kDR:p>Cn`?^nn:<>@ZD[SZEQJ<lN?^S=?]`Z@@hNL:xZp[pZ=[=^QAAZhNvTzPdfx[G[TfMQK>PvZ<uKI:j<R^Kn_;fQT^uKClA^JKVcR]mcA=emMZWlJ=qnj;p=LkttpZedamb]B:fQP;fONnHOT<iC>o_pp=?Jtslly:]=oMv=PnUPG;L^V]c;n;CmRtBpX=j<:sg=_:crp]T:b=j=<q]oV?Zuqn=;ass:Pveqyvitw=KR<LKRgMPkuqMvHM=t:DTKLSSEuoX`Xb_<hBTMl^HrTrylkrlnluMTQas[w<LrLqmqe=mqG:V;Do]p=RVA_:nZF^z<FC^;J;oE]tp;^JttZs<p_][oeorLCrlDXLE^woDp<p[p]roLwMl^tq<oSr[plEVJwLDa^dYMANZ<R:ySyTX;yAI:glLAgmj>tlw:X`ktp:cmGo@ll:i]s;f=ppSn=qg;T;s:B:PnyCB=Sp=rn[FrT:<ms]h?v<k[@^h=QdeS:SlCrdh<Ieb=IfRSw;GpaUo[Yvc=QosSW:Ffv:ekZ=kTBRRTjpsR>SD;_TYpoU]`Qc[MgRD]VUDnSrUNIdHn;vd:fqz:U<sLH^cniquJlKe:m<iJllK@Mr:]GrSpL:?qOr?opuyS?TiBJHvQK=So<@:>S^USGON[C]NE:rdObSdq?qSq:DFFCBHA>CypV:;pLBDo[rDpOofnCZK[rmAKJ=LDmEC[J;rknZPtheXk]G]pKEvsEtAvGkbvd;ScXB;A;C[nu@GO@?J=DIz]eFVAFFp:SNvOJGEfsFOqPGlE?LwZfdJGtpvdMBoIf^YOZqMB:A<kVcg]Z[Ef_GJFx@X;qGvP[IRGlM=q@l^os:Mrd<w`?UOS_llGAQnZa<qHJGvOoLtbe?mmFTs^dH_lOkkFGotHM^[F?GCR?ammO?yIoI@?[?aAPHCRWNL<[@a>KAlekoTHAtHEGnEt:uRFnP>;sGgH>FKp^Io^qA<DHAV;wFmpmp<HnGlE]HLILGoBmCmEmIrlDFGZUdk=HHFf^ZU[O@nnnm]Q^lMDLQN:t@ZroFDQeN`ArGMmePxOd?YMp>zI??SmuOUqk]@NNup<KGZgR:PPOE?<^AnJk:MAqPH<HNX:T=FoE@@=iNyO;=XN;;XQyQX<;NsgH;[NK;jPKOC:JgaPx?lQS:kgxf?<^OnSdNqFN<SOG=SOh<tNso?ND[?Q=<^:><M:n;n:OOMtOO>=f<pQc:v:GOtAQ=b=WIhNzPBqj=WN:jxQZ]=NOlk^FFQ@dNSZMOuizP^^K?nP>:_[IApBeu@]QOikXnz[SDIO@^c<I?_^pBKQlNu:P;;>zOO]ReJq=[TeWIATPir=yhzOxZG[Jr[ZkqAl=HHDuBiCwSF=lsVchp=RFm;SB=;StTbl[RKSKRlRg>dl]:jQedzB>pD@z:Q<MaWEWEl<xCF=xBV@roztw>;H<?:>EBfDfCvD:<:zsVgV_qsJKV]JVbIkm@;JWRBw`AGJXwdwbk>RFUMPuzPlUG[YeB=>cYLjI>BJDLiZ;JbZZ:Hcz=T:dCLRSCSDO>GfVCMGw<CiEvTHhk[tNL`gr@hTYqna;KBRbK:l;ZZk:YUn?vuLg<l<=D;MJlILRSfghMzLRUzhbKAKBWZn?tSEJXklYjkXGeQHgEWGfhDDXnFZP@dInZdFN<`SJ:r_SHOFnefor_PDfrwNhtM]uSHMuRtL@TQByJi^SjPM;Ls<iCmRhJ:nd:mKuSSJ@StK@SV<?KwXgu`JJb<YFXwTGBl;J<kDoY_m`Jolonun?LkBeXpiXTM[wk>lL^TXb]frLlGHsWO?Kme;SDHl[nk;]sceQnimbGSDIIx>R<tADiQjjGDNHjXX`MYHDQ:^zHKVS>hAuPjOIIZgd<JhaN=@CPPOkgqPL;BhM@cin>Rg[;EAhb;PshPZ`WUAp;g=>jsg[O_hXjS=KQrRNjlNFgdm`]r>gj^PpF@MG<h=h;k<W<wgJ=x=wh=:`Q<h`O]grLOPf;LgpOU<mjpNA:DjGNfVr;fWehj:xNlVZ^TgSXugBMvVWWA[k[OCQ@ahRHnOo<pEPi==;[qh>lQfPq`Jig<=ijIApW?]<=C?w;^:VZ:;PnqRV[NnktOorNyEnETay`_s_wJD:HLcZlNvDLOtUhr=LSqFILRD:sJeqmIKrpgaIVIPBz:c>MZfAGiD:@is>Ti=i^c:yWJ?IuiLu^I=i=hI>sJVJOTPcl>E?jhVbL_tBB:IIZ`Yfz^NU:GgUCADIwo;AsjJUJswU;B;wTr[AdnNj``UEWJVaLZEG?clGdNPuOelTUvNvaNqNiNyNzI<bdaq@?a_SNBpbhU@SbCqWPapNPb?MLuBbqCRbvVXjCG[jDXe?Ufj:DGnb[RngvbeKaLdNjbo`:QIpUnq`L`cgFY`F>QkQNQa`afH`VQY:R_<JNwk=q_GpH`;YwJKYppqc@`LDqxvKnQ=QpEFOWE]JfQGavQeOQQ@OIQQEzQZrg>Hx[ORrJfBfRI]k>fgrof<rVfmrrMLf]Y>URGarRJXktYKYzs^[nRmR:o=Ba:Tz?s@zGoPzHz=:LDY:[zPcgJqz=BEqi:LJ?zlzGz[vH:<OSz=zOzHzkRGZD:LJBv>:UBvzHkdzrHdBlWDtz>KBzpjsjxoBw:=^`CremHVc:B:ZZIO`<vhdbP[cVZG>AX;B:oBPkYYdtoWSXlDREfYOgmlHt@gEi_nJB_Y;:A;K?Z:cG<?Kng<s:o:<_IwBEaRAoO]Ray=_@ao?kmKH;@bP;>BIt]<ln:_s;LAv]k;r_?VuJMPj]_R[ppoZcR?NHa:B=XJgZP:QCaWbrmH[]Tb^XA@akFASoSBCZcy?KpZMa<nHXF<niw;F@a;JZbr:Z=uqLCpxB:kDGU`TkxR^WD:XZsae@kl;RZKs^bVZIjawAI>C:V:vD>?op=TZNRUpBZXz@csV=qJmX>]:WJR^lZC:r>=GAb=sAP::[SuBBShp<Aa[bBTZ<BMTpoSdh`g>ZYTim@s]H[P_]d<JDcFwZT<i:PZdRjWbrnr[f;ubFf<kBNZo[Ku:km^[dljE^=YRyyK]:sDn;Gcc:YJccWEqeL`<kyx]Wx;Po_sl<eyHcEu?:::;XM:D:IcEN<d=u[FcABOVEn^F<yJBkxZLu;P>Tx^PkJd@e>Gh;<xjJOJkRBFHcvr<q;cxHcJD]u@Wt`JD[M:@[?O<WsCsm]H[Bd;mKK<w:[kiF:C@?=<koBZ:P`^::=bDB^TH@GU`i?_W;wKgmEmU_dVEs^_^m:r>EoZGmUKV=CmnkfWagC<>cpI[ABUsLxKg?==i;kBfcHa=;@dCiBNBa>Kib[?s:wKJ>?>Y]^KATVoBWh=ob]BeR>^qZKB__W?]d>FJQ_gcv]@]En[E=G[VkkkFNFaff<bHakbsTI@]?R[R[MJXBJVF]n>^P__PD:<D:t;J;y[tk`oA]Dm?XdeKj>;RTc=FA@^O[CJp_XTGf]P]MXDgWU`BIWmR;pBgcFr^TEq>C<JkqeGoL_HxAgZ?;]RmsWKNT@R;P_E>H_Tc>g?>kaKf;OsPTIB=g^HKTIU_SdoXvfWyKu:JNK<C?@k]zkscmNV]Dl;r`qJbjG<B:@N>k:HuDZ:P;O::=ttD^FZa=@?C<GV^QJk:FsaB<eFk=MRyBNPLo[B:N@>OE[;pU]HLGi@q=dR`Rcv@@IX?g]j[L:DFXdn>ALZPlcBw>TLN[AJ]ilEcAgUD=v>IZ=eJslo<iEjfY:QJDgG<I[QWk:Lpl@sfVUyC`l<wtVqDUBQfb>]LKOBY>VZDd@zEgZ@Bp?VZ=l;XJFSf[;@XwHJ:xDKR?[BYNBLuon<:=fyN:ZZ=:Ig=C]>;oVC:RT;J@dwF;<cE:O>;k?s<xy<c<j[X:s_jW=JS:sv_[?Ht^??X=vV<BTAc?ESoBUjIs<BH[tNK;VfGVE[BIL;l]OByDOLFUQ_ABLV:yDUNNYATAe=G;CVAJXnQxu`JA;MZ[j`xpxUi=DZwzF@dTGN:TMDRSsas]mFj@e;m[AcPwQvovZ_pZK@wLX@:=@=QSOg@iYLJa=R<KMcd<:OU:vZxB`]LuwNusX`IS=aMyJ`_xF=oGo@U=x;TBMMGHAWsO]mdoRyRTPEw>`LYClsImSA:q@K^h[pcm>Xw<mle;veNmBsTVCXLi^rKQcboOVIx?t<aoL_rL?RC=>j=admGOJAPCj?V^oZNoa;FqIS<h^qlEsngPDBK?Y^dKlBkVK]F:=S]c:;NBeVJ;EbA:L?lb_@u;;D@m>]Q_e_XF[[BoZv]^C<R^DW[Cp@D<jNXVRFR>GGA[]k[?c`TKJ;_^:]WCT_PNKpCLMWMXdNwD:AFC@_t^Ide>f<NlAXby]]mt>[n]^LcbZ=GyAzCz]?AcaZM@CyaS]QZ?R`IKugON;H<^;WUVMXCy:ZLNQkSbq]gsd:wsiJB_aN=dCG:qLJeA_aF=rsZi@oITAbfz^Gw_g[oIX>?lSdM>tsBJSVZO:DnGw>uUO<m:>A<JWSayVnh]Qp`F<MlNcRqLMLZ=an[BFg_qYn<CZqn=SNc@qOfGH><<vCGggkKfGh_>k]RQglqXw<x_imjS?gsHVC>R]]<YSDcVHJUGGbj;ct@>YhG[A^_Pn_tk_?t;AHlEdmRtxsfHJbEY=RKVt?gkiVC;sZSm]RdVvHQRBf`tmkkqeTiKUIfb<KP_SV`NFrFfbLkqtGVgp?:>v_PnXtk_OL<rEZ<=nqtNc>XOrDpKJ;lt?gwXSR_?lyl@ZwwpQ>G^J@Xl;VuuWhHEFrnA=QSFVcRJ<G@@d<oBB:D::eF?kbnpLQgZcUfDs<emalDcWXOtrULDmfwiBJQAV>enm:htT>=yU:I_;XnYtxZ:ZBE^WsuSUtayBaahB>@lsGgWw]fAzFsArNJ_]gxlAsK=;s<^soFcgYX<xDMZ?;WhU_ai[J;e=wdQJemSRPaAP[rKNgdoCJf`bnpy[pNpCaR_cNUnIR`<lj>;==]NDx@T<i:ISHV@i=sigoq?bnFD<LMtc:nJyFECa=Z:?CP_fwFJcu>?Mh;pgYkP]:NNFxYZgJ:N<=BUlfZoBAcAC;gAwb_:_VRzCR@[:G@plbSmR_;Px?EtSkT?Gg;oIcBx;S^h<X]j_;ReblPDx;ZiDB=_`^MDlM?t]eUiInaMPEzkGguk>>i><v:J`ENpJIcffKcK;CCXSW`sjJ:yEB`z]nPQReMtq^:PkBSlLZ@``J;o`A]nF?_dmOyDLd:LbCDD[s^OEJ`r]wCSRe]Ok:R`^Ll]I>dTOCDn?q]i;IikB;kMkkl]rRBsF>QYW[?U_y[[tIe_qE@dSrR@TRj<AZmS[CNicJYAlbCE=JpLgLRTna[N=RTF]oPTWMF`DDECS<keWSFPQKEt[s>BSUch<O=Dt_K]nCToimQhEY?bLqlYdbgN`xeyQoNdYEDZ=iDKdzL[TPRfTNQJB`WLalJohyKJfDCgDwOf_jePUtR`mD[CQcfXOdDds@L_lJFf<OkeH`XL^<:Nhh@HDL`=c?lJkceP>ee`]Lu?TLjKNBfc`LDddL]cC`cfkX@Dl?O]duOxDPO`>z?LFf@NO?`q_m[mLrlV>nDQCbZvdZgfyQEEWPUkZSXgcU@x<h`GkASTAnqND[FkvJQaXCI>N<md?I<FtQBgR@s:dJAB=;NJgd^DDU`e]bONgeRPNVV:xeltQiaXQ@:wO;]^tRD;tQCElO[D]ST@g@N@DCO[TLGOFgVbmfbCFHLAc>;OQeDZSaB@gOedw?P^_lbN[lOnH;=NVtZbwwv>wGKbv^<l>oggWujX=i]K?ORyTT>CnQI>nHWT^_F<FSsX`nJs_NcOL_;:R;`>>L=oZlZoZX_Y_nLdFSlqdO?escCT^Z@PgfP;wF[aFq_cPIXbufDCymmybFdULP^QumJlhXXGPPTekSqeyA<u<vQtfSpykfHHPcwPRm=lGkmy`Jfh<iDpOpR_@KSbrRV;G@E:RDRIPcPiEZKUc<cSWMJ[`Dmgjk;pP_InTJ]SS`kz<RPIXKy]J;`p>gALGYfoEo:^<nGKei[NzfH:zuk=PydcPI[piR@^o;;eZoi:[XXBaz?q^JZTm_G;>zoVl=JoIVOJMk;RTzNgLYfapDGJDSNBqPmRn>kBxBWT_lbrZyBYcdcUQOm`QEL?poPtQlaFMDmCZ`<ndRkgF@yk`dHavHeObo^emhGgkfMVChDbO;[DfudPLkiIPyLEl:msMTKhgrb[ZK=>Hwc[HsZYC>CXNncLdfWQ?LIOiamZ>hFgrlEXGxmfdJCgVrJfPpxL<J?ZfCAMedH<s_HhEQHn@BAppZUoAsNorEfWl^>G^JoHi>MMQuWcTwTOIkop]`d`c]J?hHYA<]rlXo]NJWIv@z]FKZ:=np::<z@:;Xco:;eaZxEwDe]GmdBnNJy?TAy^AJzopxWdd]qbeshturGO>CjPd]AKNPL_LuFn@X]E[CW:^?teR[wKTKsJVfYdjapSeJShPvRJpe?@j^KKVBzTN]FHam][lZ:VQO::_hu::Zmo:=[naBN::ZDc:>gbJ:BFeJqk_MCeDo_]zKq>tEWVFRZtLgGxeOVWo[R;sTMK?qolOWcjOp:^GmH]^ShDY@rUWd=qpfNxhKAALmRT>::HjhCJWecwAWeHapd<]BDXMBY][s[mTaBAdBwUGfFrqTadgP`hNhg]>v<Nl[TixVPe]=P;N:^uZ<FngGKIfep_Pe:;SjHo>Tm[vc>MP^oLpitWC^>Kqa^BGnREChq>kgPlfGexJA@lo?:CwHg=apkh]atpWVc<p?LuZ?g`_CJchbquJwW_ZnJb^g`@]JhKV^rQSCs^;vjCfLFIYRGN]pLMh`:DrQ:;hpqvOWGRyIRbhu[pTKZUJS>OoH^<aZZ>FcxeaG:O:iZT?=sRoA:>=Ja?kk@GDN:q<i[R:qGw:LjVBb]=z:dsRAJeK`Id<E;DBiXzIVoF]piv_xBFtnTCfWoLTtWNamsJWcHdyTO?EieERGFxNFx>tqg^rQfBsNb]]RvitYR^jj>vufGLizY>jieoZnsh]pH@PhjjN_p_[mu_fXGF]oimWxdyhSNEie>j[Ox`gfhPfZpmBLPXyD?EUgE?pd^IxmumMVP_i@]cHWx@JYKjftofEoWSuheO^fRsVJPJNFbQPd@laQvZ=;kxFNGC`pBM=WXR_igl:rOu^Qp[gvYVIclrQ^LGO;`NHZVY><^@hWqxwSyGCoz^mWP:>VKHHbAVAfdB>lVK;pdrf^]Ko>ZrSC@aqgvgSicmEYvHYpcupWOs^_VhCJFD@yK;H^gVpiCqx^dK:sx>KMgJqoW;=_Bg<Ld?>GJMd=Zsq<RPZJaLA^Ce>x<S[Fi>mTLCe_LUNoF]n_:Q_XikYXvCcGHTGWd@nrKIjbJgupp;quVaoDNryUi[WmndTAhrpa<jWWsmHW?hrrynN^AyzHWeb<rPUmhyyCBmzeJIzZFxH;c?XEjbNruDpiqyzU_GZFVJehL[vGPzhy>JnfSpuaWOYiEQsAFlWyd];`Cfd`TxxuKtcu@BPoY<u=ca[ZpogoFgA<WH[vgRxi==Y]==VcgVSWB>G:L[=WotVWkVZb]Af=AokrVVSEemAF:?;py`_V<IJfFWiTakYXG:^F@qlf;cbVgSCqfAx=APckpWCqGaAd;`[csxiGnLi?SVERA?<VSJ`cLrdoah<KuJwH?^gme_AkrsRKoinl^VoZQTpEDH]TFMryqrEzh`:ow:=DqvcvZYjNimk=_y]:mQLZH?]R=<H_HUVYOoO<J^IigBxi`dFXT=huliYTucQqWDBxmKsLEvgXId@lMTKuPCDSmHpmIKFXbbSgH?F`A?hm;tULEcEPO@>[GKkZzNSYPYpKMECb>pgCJHXmi^ePqxL:RnA=Lu^Zl^WLFWaHcuC^];isxFYNGUuOJXHyfOcSq`E@IlDleNXpisHJ^G^z;kks;Ib>ssx^JCnVPVVDomA<lOloRxDTGHELrM=leNpD<xFZ]?^q[yvKwUoG;bkn<@jst@YFIc:Rn>[dG;Jb;G?d>CiRa>msSEdi@>Mb[z?GsWwIVvQuJVpFu=EOGhexobyvFsnmCGK<LMYypUKLWuHZAWhs;pbYLXi@FbRxDVrguIhGIyvHMKjObRl:HoZbyMni[Bzja^o]aHB:XknKuVxLUvvlStqZSzfIF?@chlt`NsEjvFCTGM`dZsMeR@IIeK^SZcoVyXGF[@kttdc:peUkIRKy^hdgZxVFUBBvS^zt`ctWjMF=aC[WgeHYFWXHEAwnzdnss@TsI?bX=PlwFuRT^GE^DnVSnuPVRRZQ@_nzg[<wuXNGdbO=x;qHRl:kjULahq?^ZpwTEGm^^=?M>]yPYBgZaMZRCmOYRT[HHA@nqF^nY<VKH>LHnTCqILvIchRbC^Z?j>rXRCHNxLMkRVVs:W?pZQDMFtvFUEj<HffB=o;Z]ViUg_bv>Ed]hVlaR[aqQGn>Kd=JWd:clAAWmayBqcgq?wKpxA>CYL?haI;QnnHVm[LvE<gIbH`:Oy:yehTHjaEx_tcmwPezHqaYn^Ku]ASRRiCQVMddhHL;VFhl<e^qeIcnTWFi_@[^j>;olXSmhePQMNlt]nFUejgPr^Ydv]r[YPG=^JndSauTKS>FAAAdvJDkm<Y^HRmTEw[qHYOXSARaaExRdmx^iahhPgEv;ZFqgSyFwAyEgszsu;F;G=Q[hR[qFmCWgIkMBMK;u>wsS_gIZtEUSt>u]TvIEctMFpdhQGUvItQ?fMpviLwaohFwzxy`g_lTSuIneeMgta_zHTgjyAjClKymo>USG^uJxf`]myVRHqkPg;gKyYRXVq>X`:fp>CBm?RjIsrkfOVmDtzeCglQxwHGyDpyhYpCPwptCpDxNWD]rukUt`eYLQNmhFaLtjSwzX^pWo`m]fad_epTRBF=AcEzcq<vAhaFkrVfL?teyuUJhk:XBDpjFqhWkgUQZn[?gFmRWqj<Avd;pv`eGRHf^QE[_pi<vAC`gGQ@EhRt<yzePjr^`UEl^]qkSTq?bwEY?jem;D>g@qKfkCa<PCUgIbP@nOpi>ysUiiDQAfEgmqvGYNgK]IfD?`YU_TZ<Hr]M[CrLzzcbFFr[Us?dHxLUSjVbF:<tzoNiWYOxnOnkK[@yAeKjgq@BnckgN[Lwg_Ds^t<xpW>cIqa<atOtxBwDRCjr]XvO=MzYrRdg`M?=ghqazAUYFOAgvpytavNVehubYnbWuasCf^gabIfSZpdBERzI@QfMidion;WeiDr`MgGpozEVyinAGvMhxeplYPjYAGUjOvRt@UpjvAkn[lsuwUVcgZbeE]SeTrrWvIr@>vmSeNCYYlqtbYMGxxPrYRBjUPRZZ`zTuzX@hAPencCagyCT=jcndEcWpgo]R^iIv;vIGhcrnTyiMmJARthHzxWhmow=EJhcdL:WnigqiM>G[_xSWEhqLbnCxp_o?FfhKvev;WeEBPGN]nuFU:df@nRimIwqHBltriy_T_Y>rdRg^qwobW_Y=qlA;=ias=W:jMqofgxjXtnXQF=mpA>xxclByc]eJhvkGgel;Rei^MlUklrynBzziqr^AmSca@RujifQQUUPxqnpUsHXrUdS?bqoZscib@jv:RusUKW^bgHlv:mZ;rUT:Yj:rAc=n<ufVwXVAif@Ba;l@YujXq>A[pcqnRR=hbQun@=_HusWigsHNMbSj;ocwFWfr:AEglCqJtogNHN:O=^KwOWcVtqtMXWl[t^DEjVJLvfxG[YyAEjkqN=knsb_njniBMSEWpsgJveUiRrfRmwd:DjC@Xvv`W@iZnM?SPWfIy?mxhuyVpBpB<j:endySv:kIL<l=qF[JVPHDp`vLhMH`s=pFP:HGpTtZ[AJjEDkAIRvhRzqFVzOeQIslgZ[knyGSpkNGpYcwrQKpx]dvhJthQrSwv[XqvXcMdeqmbey:CvsQuXvRS?HnrdZyx`cWN_fi>pciRv^OcMKQTpofeCEAGlQRrSWNAapotnzw>Xd<o?=VUaygf=GC<pzEhb_P]SoXc:ifrLGZfexXhmbiWIvpRfkZrHUQQojRxAEbtlLs<`NjIf;JxnPGDT>h<?b^Ermy_;rb]I>WywpZRYDX@vuMt<cm[KYCzBDbQu[fqduKgGYaHdnwu[pxyROXNAC[;wlsRsvIi:Hv[dflsLfY:WeqrUKoZ]n]G>Ge]lhaFm_RPHHqjfEQWhIpkhV:YCjyuv^`CvcTwVKitKSwkCn@sp@RnMC[>_RnTvCXjQYbjGt=;uCzBij@UqeLyQjVSrQ=P[y^^]FeyhgpjlHO>;hpct;hPHxv;RwCvOXtWOM[QGhzpr>zEAVTgrcUpCnlXwVR]AviMkqrvVl_vbuvKy_eSPtINejrfWMmXm`RAYTdsZzrQTEjR<gxHhnoanpxVTJQVDirGRlmk@wYXMHnEjMgdvxCs[N^xnyfcEW>djGwSQtL:L[R:jgcUHx;RO]r>hH:zd;B??NjsDSdDbxq>wF<z@C_RovkDZ?WfeEWGgWYhLMrNfshYxmR<]Rzkdwlo=^RxXIH>W=yNVEqSkxm;s]R:?nT;u;XuMr_V@hKI]_RfMuhrpkiip>DspR[@N<H]=zB@YV^upQZ=mMvktaXD<=hkbx@xtXUieUoZ_b[xUjeozwiCIdTjyWdwbVxiD:PbxyIqtBznenIVxoTQcxYPuY<ID;rMlSwS_A<hI:lxWM;SrVqDQfyvvhsJzTVoIQIxufG;mswzgv<lo?qIKOhNHeQmQphqCshKirSi<niUe_NHF:=npc:?IMJ:AvX_;J:IYDR[MJeBVr@povmNHkRxOSVHlv>IIVS=xCsVimXsbhQccdeuDpBaqGzv`is;uuO>rmdIVF;WK:oQXYc`oWehkXxti;YhvlTo;LnYbhTjxMk=:Ul<NVyYQJ?>CD@ObgH>tu_:xRIRsQWkadqWE[rddzU_k:bYrn?^fi;OHg;a<k=orQjUhzqz]cKjQLsyx>xOG@IuUJGppxe_GXo_xvudGgocFAoRYOjZ=lI:l:`Y>YZjTOdrCx^rjgueKravBOEXkw@YVI=QaCosuBWNWaILJXWtlU=WXIob?H[NYOZEWfjqZhWAw^iVapmjdxEomEnGgIPcEz<sIiCvkjwDVXg:shi@Tgqcvn;Fhp>TJHnsDqYLKrCWEbKnjj=VuDC;FbWMKFzvIxmSg:d]RZHJApRnc=pM:WZGk?gn<y?sIRUWPpxMBXSHfFpKN:hOahd?XuHLMTiF:zntZrwhCcE>rm^Z]gZiTP>jDdms=cXdNRHTO:xa`K_tdNJiTOAfa`KXtdNTXTO=s[inDR]c];USFd^:D?DWQuTNM;j_SDoBfGGLSj]yX:fPhJiGbyZgoPupWWgjcy:cCs[sME`TbdStdyWzaiJhdsrYRNKsP`zxbOaqOXxLV`i<NpQZ`ucV@UwVzbAINhJHSy[zW@>SioIeKIvayqYIQeZGjtHxYWlIdRafs_Vyjj;jCWQMiZ=rdgeqNEQYxZ^SqWchW`FdJ<dpJ=?yx<RbsjGPbAxuU:W>z?rX?s_XJ;S<vzeDMcxtEsURpFjEEnPK::EAzcr?cJwGvkMnndVuIIH?IxNrGJoyhMz>GnYwVrMZnnV[lHqa^WuWLANl_vTJFO<pflIWkVpYbKEpA[_j;WnJ<`rMzqzxY=AVod?zzWfkBgp_ES=:=<r<:Io`c:jNqewao=rqjwgYNynMVsbIZBY>_bSqrXFVEVGlXoFKE:FEVV:phm`xTKW^QX_::D=nZHz:JFsWGWGUkp:?I<TpKhChEfkowngSXM::kIQYLw`LT?=q<ow@SRJg=zXRL:qWrbRUne_MbGcAF=CrBtp>or:gkCtwxC=DJN?_m;QOZ<aoLkD_wpzCfqVVkZjJDfNuIOMoPVKAUrNdZSMOrL=xBxX=qVhDR@=mL=rZIflm<oIABBNVVZiDo=pLcDaoIoud>aaB=yW;UKnsNySv_d[qMSBI<`>dGc@L`Rd;FMRpoGKv][>@ZdP_G:@GV@nQNCpSYmb:oZZJEe=ZJSL`oZg_CcIX;b^;DOvBcd@DMt:sdEcCzpnjYQOHxPXERIisEeAcH>_L;:RDaVjr>i`EWqGOAmUJLTHEr@w<GLRE][dZhIbX:tZh]rPsBdGcCP=o:GRDHwaXGb[y<WZv:p>xQlIcCWS;ZzHqrFoU?AkB<LTQnlB<QMXsHA;=ZtsHsVYfGsGT=`Z`DOP=HZbsBpkzZvRFq=:JzRHspXZeJ_s_F`MxpjV_G=oZiG;I:@J^xU^;>FX=SZv[lMgeJW>IT<gJdbpHxVJrRIzowJjRFO:=Z_>HH<DJhmlEdP_Mmki=cJeIkS<WiC_GDZtZo[p@[qJnsHy=iJZ_Iy<GJ_MmC<UKC>G;<MZm_Fm_yB@_Fi<Zl@Ip`=Fy;sDK<tZldqO<`Z^_Dy=gJxNIt<yJr_D;<LJcc^C<kJosBRZCpSxOd<fZiIkh=_yDRHh=iAI];T=vJpNDW<xEGHlW<LM?oIW<xJ_NCdV<vVE;BFcJmcED=Zkqc[DBkkxVoMxBkdDP^<iJqFHHxXJ[FEW<WJs>GC<KC;N@x==JfBQj;p^MFIp>Fp=[koheQLzObw;<YeP]k<=AUNehk=KMlkNejNoD]peZ[:rwxpALvlv<ydJsJ@_<=?@JRV^XKMrx=lkjIovVBZgSoyhGkaFJG<ZyLBmN<@^;`kIxijMSOfZFZic=P_XQ=iovVDZhgFG>lzUvpq>tkd@JQ=ykm<rawvIOJ;j<Cr=gIah>:k;nz<trFJHjh]YW:H_<DWVuLBhwKK;q]kQd?_?[GwlQuPaoShBFNV=^IJ[q^?nAGwFop`kyUmUFTuVVDyWzvYtqw=:QPFNkGz:b>IMg:U<uqF_ZZ]J@[VA@H[<qwWjGIOcNmdOkER^wDUUkCV_:M]BYxUZagOs^wQ=j>s]uhYBLvxbkhMJU:y?IkF`xyYWEJsZCzRQm_:y?JZkN>a:wslU=LMEWJOw^OIR<::".charCodeAt(D++))?F-59:F-58),R|=(0<(F&(s/=2))?1:0)<<B,++B}for(var J,R,B,k,F,d=[],o=1,N=3,C=1,c=[],s=0,D=0;;){if(Z(C+1),2==R)return c.join("");-2&(k=R)||(Z(8*R+8),d[k=N++]=String.fromCharCode(R),--o||(o=2<<C++)),c.push(k=d[k]||J+J[0]),J&&(d[N++]=J+k[0],--o||(o=2<<C++)),J=k}}());
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+militaryReward; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.achieveId = 0,
+            e.bitSets = [],
+            e.tokenNum = 0,
+            e.skinName = MilitrayrewardSkin,
+            e.rbGrp = e.rb_Left1.group,
+            e.selectId = e.rbGrp.selectedValue = 1,
+            e.addEvent(),
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.initData(),
+            this.update()
+        },
+        i.prototype.initData = function() {
+            this.draw.visible = 2 == this.selectId,
+            this.exchange.visible = 1 == this.selectId;
+            for (var t = function(t) {
+                i["selected_" + t].visible = !1,
+                i["icon_" + t].x = 32,
+                i["icon_" + t].y = 58,
+                i["icon_" + t].width = i["icon_" + t].height = 75,
+                e.MilitaryConst.rewardInfo[t].isMark ? i["icon_" + t].source = ClientConfig.getMarkPath(e.MilitaryConst.rewardInfo[t].id) : i["icon_" + t].source = ClientConfig.getItemIcon(e.MilitaryConst.rewardInfo[t].id),
+                ImageButtonUtil.add(i["icon_" + t],
+                function() {
+                    e.MilitaryConst.rewardInfo[t].isMark ? tipsPop.TipsPop.openCounterMarkPop({
+                        ins: e.MilitaryConst.rewardInfo[t].id
+                    }) : tipsPop.TipsPop.openItemPop({
+                        id: e.MilitaryConst.rewardInfo[t].id
+                    })
+                },
+                i),
+                i["txx_name" + t].text = ItemXMLInfo.getName(e.MilitaryConst.rewardInfo[t].id),
+                i["txx_num" + t].text = e.MilitaryConst.rewardInfo[t].num + ""
+            },
+            i = this, n = 0; n < e.MilitaryConst.rewardInfo.length; n++) t(n);
+            this._list.itemRenderer = e.ExchangeItem,
+            this._list.dataProvider = new eui.ArrayCollection(e.MilitaryConst.rewardInfo)
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.grp_minitary,
+            function() {
+                var t = new e.PopShow;
+                PopViewManager.getInstance().openView(t)
+            },
+            this),
+            this.once(egret.Event.RENDER,
+            function() {
+                t.bgMask = LevelManager.appLevel.getChildByName("sp"),
+                t.bgMask && t.bgMask.addEventListener(egret.TouchEvent.TOUCH_TAP, t.onClose, t)
+            },
+            this),
+            this.rbGrp.addEventListener(egret.Event.CHANGE, this.onChangeValue, this),
+            ImageButtonUtil.add(this.btnDraw, this.drawReward, this),
+            ImageButtonUtil.add(this.btnClose,
+            function() {
+                ModuleManager.hideModule(t)
+            },
+            this),
+            EventManager.addEventListener("militaryBuyItem", this.update, this)
+        },
+        i.prototype.drawReward = function() {
+            var e = this;
+            return this.tokenNum < 60 ? void BubblerManager.getInstance().showText("荣誉令牌数量不足!") : void SocketConnection.sendByQueue(42380, [3, 0],
+            function(t) {
+                var i = t.data,
+                n = i.readUnsignedInt(),
+                r = {};
+                e.touchChildren = !1,
+                r.i = 1,
+                AwardManager.pause(),
+                egret.Tween.get(r, {
+                    onChange: function() {
+                        for (var t = (Math.floor(r.i) - 1) % 8, i = 0; 8 > i; i++) e["selected_" + i].visible = !1;
+                        e["selected_" + t].visible = !0
+                    }
+                }).to({
+                    i: 80 + n
+                },
+                6e3, egret.Ease.quadInOut).wait(300).call(function() {
+                    e.touchChildren = !0,
+                    e.btnDraw.touchEnabled = !0,
+                    AwardManager.resume(),
+                    e.update()
+                })
+            })
+        },
+        i.prototype.onChangeValue = function() {
+            this.selectId = ~~this.rbGrp.selectedValue,
+            this.draw.visible = 2 == this.selectId,
+            this.exchange.visible = 1 == this.selectId
+        },
+        i.prototype.update = function() {
+            var t = this,
+            i = MainManager.actorInfo.totalAchieve;
+            this.achieveInfo = AchieveManager.getAchieveInfo(i),
+            this.achieveInfo.id < 5 ? this.achieveId = 0 : this.achieveInfo.id > 12 ? this.achieveId = 8 : this.achieveId = this.achieveInfo.id - 4,
+            this.achieveId = Math.min(8, this.achieveId),
+            this.bar_all.maximum = e.MilitaryConst.dataInfo[this.achieveId].tokenMax,
+            this.minityIcon.source = ClientConfig.getAchieveRankIcon(e.MilitaryConst.dataInfo[this.achieveId].rankIconid),
+            KTool.getMultiValue([101714],
+            function(i) {
+                t.tokenNum = i[0],
+                t.bar_all.value = t.tokenNum,
+                t.txt_Progress.text = i[0] + "/" + e.MilitaryConst.dataInfo[t.achieveId].tokenMax
+            }),
+            KTool.getBitSet([1000410],
+            function(e) {
+                t.bitSets = e,
+                t.setBox()
+            })
+        },
+        i.prototype.setBox = function() {
+            var t = this;
+            this._boxEffect && this._boxEffect.parent && this._boxEffect.parent.removeChild(this._boxEffect);
+            var i = 1 === this.bitSets[0],
+            n = !i,
+            r = n ? "canopen": "open";
+            this._boxEffect = core.manager.MovieClipManager.getInstance().getMovieClip("box", "blue", r),
+            this._boxEffect.touchEnabled = !0,
+            this._boxEffect.scaleX = this.imgBox.width / this._boxEffect.width,
+            this._boxEffect.scaleY = this.imgBox.height / this._boxEffect.height,
+            this._boxEffect.x = this.imgBox.x,
+            this._boxEffect.y = this.imgBox.y,
+            this.imgBox.visible = !1,
+            this.imgBox.parent.addChild(this._boxEffect),
+            "open" == r ? this._boxEffect.gotoAndStop(i ? this._boxEffect.totalFrames: 0) : this._boxEffect.gotoAndPlay(0, -1),
+            ImageButtonUtil.remove(this._boxEffect),
+            "canopen" == r && ImageButtonUtil.add(this._boxEffect,
+            function() {
+                t.bar_all.value >= t.bar_all.maximum ? BubblerManager.getInstance().showText("荣誉令牌已达到上限，请使用后再领取") : SocketConnection.sendByQueue(42380, [4, t.achieveId],
+                function() {
+                    BubblerManager.getInstance().showText("获得" + e.MilitaryConst.dataInfo[t.achieveId].dailyToken + "荣誉令牌"),
+                    t.update()
+                })
+            },
+            this)
+        },
+        i.prototype.destroy = function() {
+            this.bgMask.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onClose, this),
+            t.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    e.MilitaryReward = t,
+    __reflect(t.prototype, "militaryReward.MilitaryReward")
+} (militaryReward || (militaryReward = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+militaryReward; !
+function(e) {
+    var t = function() {
+        function e() {}
+        return e.dataInfo = [{
+            id: 1,
+            name: "准尉以下",
+            rankIconid: 4,
+            dailyToken: 10,
+            tokenMax: 100
+        },
+        {
+            id: 2,
+            name: "准尉",
+            rankIconid: 5,
+            dailyToken: 15,
+            tokenMax: 150
+        },
+        {
+            id: 3,
+            name: "少尉",
+            rankIconid: 6,
+            dailyToken: 20,
+            tokenMax: 200
+        },
+        {
+            id: 4,
+            name: "中尉",
+            rankIconid: 7,
+            dailyToken: 25,
+            tokenMax: 250
+        },
+        {
+            id: 5,
+            name: "上尉",
+            rankIconid: 8,
+            dailyToken: 30,
+            tokenMax: 300
+        },
+        {
+            id: 6,
+            name: "少校",
+            rankIconid: 9,
+            dailyToken: 35,
+            tokenMax: 350
+        },
+        {
+            id: 7,
+            name: "中校",
+            rankIconid: 10,
+            dailyToken: 40,
+            tokenMax: 400
+        },
+        {
+            id: 8,
+            name: "上校",
+            rankIconid: 11,
+            dailyToken: 45,
+            tokenMax: 450
+        },
+        {
+            id: 9,
+            name: "大校",
+            rankIconid: 12,
+            dailyToken: 50,
+            tokenMax: 500
+        }],
+        e.rewardInfo = [{
+            choice: 1,
+            id: 300157,
+            num: 1,
+            price: 10,
+            isMark: !1
+        },
+        {
+            choice: 2,
+            id: 300018,
+            num: 1,
+            price: 10,
+            isMark: !1
+        },
+        {
+            choice: 3,
+            id: 300004,
+            num: 1,
+            price: 20,
+            isMark: !1
+        },
+        {
+            choice: 4,
+            id: 1400352,
+            num: 5e4,
+            price: 40,
+            isMark: !1
+        },
+        {
+            choice: 5,
+            id: 400063,
+            num: 1,
+            price: 60,
+            isMark: !1
+        },
+        {
+            choice: 6,
+            id: 300405,
+            num: 1,
+            price: 140,
+            isMark: !1
+        },
+        {
+            choice: 7,
+            id: 41433,
+            num: 1,
+            price: 100,
+            isMark: !0
+        },
+        {
+            choice: 8,
+            id: 41434,
+            num: 1,
+            price: 100,
+            isMark: !0
+        }],
+        e
+    } ();
+    e.MilitaryConst = t,
+    __reflect(t.prototype, "militaryReward.MilitaryConst")
+} (militaryReward || (militaryReward = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+militaryReward; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e.defaulyArrX = [],
+            e.curIndex = 0,
+            e.rewardData = [],
+            e.skinName = militrayReward.PopshowSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this._arry = new eui.ArrayCollection;
+            for (var i = 0; i < this.grp_items.numChildren; i++) this.defaulyArrX.push(this.grp_items.getChildAt(i).x);
+            this._custumScroller = new common.ui.CustomScroller(this._list.width, this._list.height, 148, 172, this._list.layout.gap, e.MilitaryItem, 199, .65, 1, 1, 1, this._list, this._arry, 100, null, common.ui.CustomScroller.DIR_TO_H),
+            this.addChild(this._custumScroller),
+            this.addEvent(),
+            this._custumScroller.x = 51,
+            this._custumScroller.y = 57,
+            this.rewardData = KTool.clone(e.MilitaryConst.dataInfo),
+            9 == this.rewardData.length && (this.rewardData.unshift(null), this.rewardData.push(null));
+            var n, r = MainManager.actorInfo.totalAchieve,
+            a = AchieveManager.getAchieveInfo(r);
+            n = a.id < 5 ? 0 : a.id > 12 ? 8 : a.id - 4,
+            n = Math.min(8, n),
+            this.curIndex = this.rewardData[n + 1].id,
+            this._arry.replaceAll(this.rewardData),
+            this._custumScroller.goToNum(this.curIndex),
+            this.showText()
+        },
+        i.prototype.addEvent = function() {
+            this._custumScroller.addEventListener(common.ui.CustomScroller.EVENT_CHANGE_END, this._onChangeScroller, this),
+            ImageButtonUtil.add(this.btnClose, this.hide, this)
+        },
+        i.prototype._onChangeScroller = function() {
+            this.curIndex = this._custumScroller.getSelectIndex(),
+            this.showText()
+        },
+        i.prototype.showText = function() {
+            0 != this.curIndex && this.curIndex != this.rewardData.length && (this.dailyNum.text = this.rewardData[this.curIndex].dailyToken + "", this.allNum.text = this.rewardData[this.curIndex].tokenMax + "")
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            ImageButtonUtil.removeAll(this),
+            this._custumScroller.removeEventListener(common.ui.CustomScroller.EVENT_CHANGE_END, this._onChangeScroller, this)
+        },
+        i
+    } (PopView);
+    e.PopShow = t,
+    __reflect(t.prototype, "militaryReward.PopShow")
+} (militaryReward || (militaryReward = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+militaryReward; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = ExchangeItemSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            ImageButtonUtil.add(this.buy,
+            function() {
+                KTool.getMultiValue([101714],
+                function(e) {
+                    return e[0] < t.data.price ? void BubblerManager.getInstance().showText("荣誉令牌不足！") : void SocketConnection.sendByQueue(42380, [2, t.data.choice],
+                    function() {
+                        EventManager.dispatchEventWith("militaryBuyItem")
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                t.data.isMark ? tipsPop.TipsPop.openCounterMarkPop({
+                    ins: t.data.id
+                }) : tipsPop.TipsPop.openItemPop({
+                    id: t.data.id
+                })
+            },
+            this)
+        },
+        t.prototype.dataChanged = function() {
+            this.data && (this.txt_price.text = this.data.price, this.data.isMark ? this.icon.source = ClientConfig.getMarkPath(this.data.id) : this.icon.source = ClientConfig.getItemIcon(this.data.id), this.txt_Name.text = ItemXMLInfo.getName(this.data.id), this.txx_num.text = this.data.num + "")
+        },
+        t
+    } (eui.ItemRenderer);
+    e.ExchangeItem = t,
+    __reflect(t.prototype, "militaryReward.ExchangeItem")
+} (militaryReward || (militaryReward = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+militaryReward; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = MilitaryItemSkin,
+            t
+        }
+        return __extends(t, e),
+        Object.defineProperty(t.prototype, "isMiddle", {
+            get: function() {
+                return this._isMiddle
+            },
+            set: function(e) {
+                this._isMiddle = e,
+                1 == e ? this.scaleX = this.scaleY = 1 : this.scaleX = this.scaleY = .65
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this)
+        },
+        t.prototype.dataChanged = function() {
+            this.data ? (this.grp_item.visible = !0, this.icon.source = ClientConfig.getAchieveRankIcon(this.data.rankIconid), this.minitaryName.text = this.data.name) : this.grp_item.visible = !1
+        },
+        t
+    } (eui.ItemRenderer);
+    e.MilitaryItem = t,
+    __reflect(t.prototype, "militaryReward.MilitaryItem")
+} (militaryReward || (militaryReward = {})),
+window.militrayReward = window.militrayReward || {};
+var __extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/ExchangeItemSkin.exml"] = window.ExchangeItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["txt_pethecheng", "txt_price", "buy", "icon", "txt_Name", "txx_num"],
+        this.height = 200,
+        this.width = 137,
+        this.elementsContent = [this._Image1_i(), this.buy_i(), this.icon_i(), this.txt_Name_i(), this.txx_num_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_exchangebg_png",
+        e.visible = !0,
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    i.buy_i = function() {
+        var e = new eui.Group;
+        return this.buy = e,
+        e.x = 0,
+        e.y = 167,
+        e.elementsContent = [this._Image2_i(), this.txt_pethecheng_i(), this.txt_price_i(), this._Image3_i()],
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_zu_1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.txt_pethecheng_i = function() {
+        var e = new eui.Label;
+        return this.txt_pethecheng = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "购买",
+        e.textColor = 10181146,
+        e.x = 86,
+        e.y = 9,
+        e
+    },
+    i.txt_price_i = function() {
+        var e = new eui.Label;
+        return this.txt_price = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "999",
+        e.textColor = 10181146,
+        e.x = 48,
+        e.y = 8,
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_1718617_kb_2_png",
+        e.x = 13,
+        e.y = 5,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 75,
+        e.source = "militrayreward_sed_kb_png",
+        e.width = 75,
+        e.x = 33,
+        e.y = 62,
+        e
+    },
+    i.txt_Name_i = function() {
+        var e = new eui.Label;
+        return this.txt_Name = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 140,
+        e.x = 0,
+        e.y = 6,
+        e
+    },
+    i.txx_num_i = function() {
+        var e = new eui.Label;
+        return this.txx_num = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "1",
+        e.textAlign = "right",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.width = 78.735,
+        e.x = 33.544,
+        e.y = 122.917,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MilitaryItemSkin.exml"] = window.MilitaryItemSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["minitaryName", "icon", "grp_item"],
+        this.height = 172,
+        this.width = 148,
+        this.elementsContent = [this.grp_item_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.grp_item_i = function() {
+        var e = new eui.Group;
+        return this.grp_item = e,
+        e.anchorOffsetX = 72,
+        e.anchorOffsetY = 92,
+        e.x = 72,
+        e.y = 92,
+        e.elementsContent = [this._Image1_i(), this.minitaryName_i(), this.icon_i()],
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "mr_popshow_z_14_kb_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.minitaryName_i = function() {
+        var e = new eui.Label;
+        return this.minitaryName = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "军衔名称",
+        e.textAlign = "center",
+        e.textColor = 14740735,
+        e.width = 72,
+        e.x = 38,
+        e.y = 133,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 78,
+        e.source = "mr_popshow_3_png",
+        e.width = 78,
+        e.x = 35,
+        e.y = 45,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/MilitrayrewardSkin.exml"] = window.MilitrayrewardSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bg", "rb_Left1", "rb_Left2", "btnDraw", "txtCoin2", "selected_0", "icon_0", "txx_name0", "txx_num0", "item_0", "icon_1", "txx_name1", "txx_num1", "selected_1", "item_1", "icon_2", "txx_name2", "txx_num2", "selected_2", "item_2", "icon_3", "txx_name3", "txx_num3", "selected_3", "item_3", "icon_4", "txx_name4", "txx_num4", "selected_4", "item_4", "icon_5", "txx_name5", "txx_num5", "selected_5", "item_5", "icon_6", "txx_name6", "txx_num6", "selected_6", "item_6", "icon_7", "txx_name7", "txx_num7", "selected_7", "item_7", "draw", "_list", "_scolExchange", "exchangebg", "zu_1", "txt_pethecheng", "a_999", "a_252", "buy", "icon", "txt_Name", "exchange", "bar_all", "progress_bg", "progress_2", "progress", "minityIcon", "grp_minitary", "imgBox", "txt_Progress", "topside", "btnClose"],
+        this.height = 629,
+        this.width = 996,
+        this.elementsContent = [this.bg_i(), this.rb_Left1_i(), this.rb_Left2_i(), this.draw_i(), this.exchange_i(), this.topside_i(), this.btnClose_i()]
+    }
+    __extends(t, e);
+    var i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "militrayRewardLeft_left1_up_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "militrayRewardLeft_left1_down_png"), new eui.SetProperty("_Image1", "x", -5), new eui.SetProperty("_Image1", "y", -3)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e
+        },
+        t
+    } (eui.Skin),
+    n = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = [],
+            this.elementsContent = [this._Image1_i()],
+            this.states = [new eui.State("up", [new eui.SetProperty("_Image1", "source", "militrayRewardLeft_left2_up_png"), new eui.SetProperty("_Image1", "x", 0), new eui.SetProperty("_Image1", "y", 0)]), new eui.State("down", [new eui.SetProperty("_Image1", "source", "militrayRewardLeft_left2_down_png"), new eui.SetProperty("_Image1", "x", -5), new eui.SetProperty("_Image1", "y", -3)]), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return this._Image1 = e,
+            e
+        },
+        t
+    } (eui.Skin),
+    r = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this._Image1_i(), this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i._Image1_i = function() {
+            var e = new eui.Image;
+            return e.source = "militrayreward_progress_bg_png",
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        i.thumb_i = function() {
+            var e = new eui.Image;
+            return this.thumb = e,
+            e.scale9Grid = new egret.Rectangle(94, 5, 93, 5),
+            e.source = "militrayreward_progress_png",
+            e.visible = !0,
+            e.x = 15,
+            e.y = 5,
+            e
+        },
+        t
+    } (eui.Skin),
+    a = t.prototype;
+    return a.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.source = "militrayreward_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.rb_Left1_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_Left1 = e,
+        e.groupName = "left_tab",
+        e.value = "1",
+        e.x = 44,
+        e.y = 233,
+        e.skinName = i,
+        e
+    },
+    a.rb_Left2_i = function() {
+        var e = new eui.RadioButton;
+        return this.rb_Left2 = e,
+        e.groupName = "left_tab",
+        e.value = "2",
+        e.x = 44,
+        e.y = 323,
+        e.skinName = n,
+        e
+    },
+    a.draw_i = function() {
+        var e = new eui.Group;
+        return this.draw = e,
+        e.visible = !0,
+        e.x = 283,
+        e.y = 157,
+        e.elementsContent = [this.btnDraw_i(), this._Image2_i(), this._Label2_i(), this.txtCoin2_i(), this._Image3_i(), this._Group1_i()],
+        e
+    },
+    a.btnDraw_i = function() {
+        var e = new eui.Group;
+        return this.btnDraw = e,
+        e.x = 201,
+        e.y = 381,
+        e.elementsContent = [this._Image1_i(), this._Label1_i()],
+        e
+    },
+    a._Image1_i = function() {
+        var e = new eui.Image;
+        return e.height = 46,
+        e.source = "common_btn_bg_yellow_png",
+        e.width = 134,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "幸运抽奖",
+        e.textColor = 10181146,
+        e.x = 27,
+        e.y = 13,
+        e
+    },
+    a._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_1718617_kb_2_png",
+        e.x = 121,
+        e.y = 389,
+        e
+    },
+    a._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "均等概率获得各物品",
+        e.textColor = 12834813,
+        e.x = 346,
+        e.y = 392,
+        e
+    },
+    a.txtCoin2_i = function() {
+        var e = new eui.Label;
+        return this.txtCoin2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "×60",
+        e.textColor = 12834813,
+        e.visible = !0,
+        e.x = 153,
+        e.y = 396,
+        e
+    },
+    a._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_xyc_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a._Group1_i = function() {
+        var e = new eui.Group;
+        return e.height = 365,
+        e.width = 627,
+        e.x = 3,
+        e.y = 4,
+        e.layout = this._TileLayout1_i(),
+        e.elementsContent = [this.item_0_i(), this.item_1_i(), this.item_2_i(), this.item_3_i(), this.item_4_i(), this.item_5_i(), this.item_6_i(), this.item_7_i()],
+        e
+    },
+    a._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalGap = 18,
+        e.paddingLeft = 2,
+        e.requestedColumnCount = 4,
+        e.requestedRowCount = 2,
+        e.verticalGap = 16,
+        e
+    },
+    a.item_0_i = function() {
+        var e = new eui.Group;
+        return this.item_0 = e,
+        e.visible = !0,
+        e.x = 1,
+        e.y = 0,
+        e.elementsContent = [this._Image4_i(), this.selected_0_i(), this.icon_0_i(), this.txx_name0_i(), this.txx_num0_i()],
+        e
+    },
+    a._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.selected_0_i = function() {
+        var e = new eui.Image;
+        return this.selected_0 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "militrayreward_selected_png",
+        e.visible = !0,
+        e.x = -3,
+        e.y = -4,
+        e
+    },
+    a.icon_0_i = function() {
+        var e = new eui.Image;
+        return this.icon_0 = e,
+        e.height = 75,
+        e.source = "militrayreward_sed_kb_png",
+        e.width = 75,
+        e.x = 32,
+        e.y = 58,
+        e
+    },
+    a.txx_name0_i = function() {
+        var e = new eui.Label;
+        return this.txx_name0 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 130,
+        e.x = 5,
+        e.y = 8,
+        e
+    },
+    a.txx_num0_i = function() {
+        var e = new eui.Label;
+        return this.txx_num0 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "1",
+        e.textAlign = "right",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.width = 78.735,
+        e.x = 28.977,
+        e.y = 117.436,
+        e
+    },
+    a.item_1_i = function() {
+        var e = new eui.Group;
+        return this.item_1 = e,
+        e.visible = !0,
+        e.x = 11,
+        e.y = 10,
+        e.elementsContent = [this._Image5_i(), this.icon_1_i(), this.txx_name1_i(), this.txx_num1_i(), this.selected_1_i()],
+        e
+    },
+    a._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.icon_1_i = function() {
+        var e = new eui.Image;
+        return this.icon_1 = e,
+        e.source = "militrayreward_sed_kb_png",
+        e.x = 32,
+        e.y = 50,
+        e
+    },
+    a.txx_name1_i = function() {
+        var e = new eui.Label;
+        return this.txx_name1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 130,
+        e.x = 5,
+        e.y = 8,
+        e
+    },
+    a.txx_num1_i = function() {
+        var e = new eui.Label;
+        return this.txx_num1 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "1",
+        e.textAlign = "right",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.width = 78.735,
+        e.x = 28.977,
+        e.y = 117.436,
+        e
+    },
+    a.selected_1_i = function() {
+        var e = new eui.Image;
+        return this.selected_1 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "militrayreward_selected_png",
+        e.visible = !0,
+        e.x = -3,
+        e.y = -4,
+        e
+    },
+    a.item_2_i = function() {
+        var e = new eui.Group;
+        return this.item_2 = e,
+        e.visible = !0,
+        e.x = 21,
+        e.y = 20,
+        e.elementsContent = [this._Image6_i(), this.icon_2_i(), this.txx_name2_i(), this.txx_num2_i(), this.selected_2_i()],
+        e
+    },
+    a._Image6_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.icon_2_i = function() {
+        var e = new eui.Image;
+        return this.icon_2 = e,
+        e.source = "militrayreward_sed_kb_png",
+        e.x = 32,
+        e.y = 50,
+        e
+    },
+    a.txx_name2_i = function() {
+        var e = new eui.Label;
+        return this.txx_name2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 130,
+        e.x = 5,
+        e.y = 8,
+        e
+    },
+    a.txx_num2_i = function() {
+        var e = new eui.Label;
+        return this.txx_num2 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "1",
+        e.textAlign = "right",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.width = 78.735,
+        e.x = 28.977,
+        e.y = 117.436,
+        e
+    },
+    a.selected_2_i = function() {
+        var e = new eui.Image;
+        return this.selected_2 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "militrayreward_selected_png",
+        e.visible = !0,
+        e.x = -3,
+        e.y = -4,
+        e
+    },
+    a.item_3_i = function() {
+        var e = new eui.Group;
+        return this.item_3 = e,
+        e.visible = !0,
+        e.x = 31,
+        e.y = 30,
+        e.elementsContent = [this._Image7_i(), this.icon_3_i(), this.txx_name3_i(), this.txx_num3_i(), this.selected_3_i()],
+        e
+    },
+    a._Image7_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.icon_3_i = function() {
+        var e = new eui.Image;
+        return this.icon_3 = e,
+        e.source = "militrayreward_sed_kb_png",
+        e.x = 32,
+        e.y = 50,
+        e
+    },
+    a.txx_name3_i = function() {
+        var e = new eui.Label;
+        return this.txx_name3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 130,
+        e.x = 5,
+        e.y = 8,
+        e
+    },
+    a.txx_num3_i = function() {
+        var e = new eui.Label;
+        return this.txx_num3 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "1",
+        e.textAlign = "right",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.width = 78.735,
+        e.x = 28.977,
+        e.y = 117.436,
+        e
+    },
+    a.selected_3_i = function() {
+        var e = new eui.Image;
+        return this.selected_3 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "militrayreward_selected_png",
+        e.visible = !0,
+        e.x = -3,
+        e.y = -4,
+        e
+    },
+    a.item_4_i = function() {
+        var e = new eui.Group;
+        return this.item_4 = e,
+        e.visible = !0,
+        e.x = 41,
+        e.y = 40,
+        e.elementsContent = [this._Image8_i(), this.icon_4_i(), this.txx_name4_i(), this.txx_num4_i(), this.selected_4_i()],
+        e
+    },
+    a._Image8_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.icon_4_i = function() {
+        var e = new eui.Image;
+        return this.icon_4 = e,
+        e.source = "militrayreward_sed_kb_png",
+        e.x = 32,
+        e.y = 50,
+        e
+    },
+    a.txx_name4_i = function() {
+        var e = new eui.Label;
+        return this.txx_name4 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 130,
+        e.x = 5,
+        e.y = 8,
+        e
+    },
+    a.txx_num4_i = function() {
+        var e = new eui.Label;
+        return this.txx_num4 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "1",
+        e.textAlign = "right",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.width = 78.735,
+        e.x = 28.977,
+        e.y = 117.436,
+        e
+    },
+    a.selected_4_i = function() {
+        var e = new eui.Image;
+        return this.selected_4 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "militrayreward_selected_png",
+        e.visible = !0,
+        e.x = -3,
+        e.y = -4,
+        e
+    },
+    a.item_5_i = function() {
+        var e = new eui.Group;
+        return this.item_5 = e,
+        e.visible = !0,
+        e.x = 51,
+        e.y = 50,
+        e.elementsContent = [this._Image9_i(), this.icon_5_i(), this.txx_name5_i(), this.txx_num5_i(), this.selected_5_i()],
+        e
+    },
+    a._Image9_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_itembg_png",
+        e.visible = !0,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.icon_5_i = function() {
+        var e = new eui.Image;
+        return this.icon_5 = e,
+        e.source = "militrayreward_sed_kb_png",
+        e.x = 32,
+        e.y = 50,
+        e
+    },
+    a.txx_name5_i = function() {
+        var e = new eui.Label;
+        return this.txx_name5 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 130,
+        e.x = 5,
+        e.y = 8,
+        e
+    },
+    a.txx_num5_i = function() {
+        var e = new eui.Label;
+        return this.txx_num5 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "1",
+        e.textAlign = "right",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.width = 78.735,
+        e.x = 28.977,
+        e.y = 117.436,
+        e
+    },
+    a.selected_5_i = function() {
+        var e = new eui.Image;
+        return this.selected_5 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "militrayreward_selected_png",
+        e.visible = !0,
+        e.x = -3,
+        e.y = -4,
+        e
+    },
+    a.item_6_i = function() {
+        var e = new eui.Group;
+        return this.item_6 = e,
+        e.visible = !0,
+        e.x = 61,
+        e.y = 60,
+        e.elementsContent = [this._Image10_i(), this.icon_6_i(), this.txx_name6_i(), this.txx_num6_i(), this.selected_6_i()],
+        e
+    },
+    a._Image10_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.icon_6_i = function() {
+        var e = new eui.Image;
+        return this.icon_6 = e,
+        e.source = "militrayreward_sed_kb_png",
+        e.x = 32,
+        e.y = 50,
+        e
+    },
+    a.txx_name6_i = function() {
+        var e = new eui.Label;
+        return this.txx_name6 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 130,
+        e.x = 5,
+        e.y = 8,
+        e
+    },
+    a.txx_num6_i = function() {
+        var e = new eui.Label;
+        return this.txx_num6 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "1",
+        e.textAlign = "right",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.width = 78.735,
+        e.x = 28.977,
+        e.y = 117.436,
+        e
+    },
+    a.selected_6_i = function() {
+        var e = new eui.Image;
+        return this.selected_6 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "militrayreward_selected_png",
+        e.visible = !0,
+        e.x = -3,
+        e.y = -4,
+        e
+    },
+    a.item_7_i = function() {
+        var e = new eui.Group;
+        return this.item_7 = e,
+        e.visible = !0,
+        e.x = 71,
+        e.y = 70,
+        e.elementsContent = [this._Image11_i(), this.icon_7_i(), this.txx_name7_i(), this.txx_num7_i(), this.selected_7_i()],
+        e
+    },
+    a._Image11_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_itembg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.icon_7_i = function() {
+        var e = new eui.Image;
+        return this.icon_7 = e,
+        e.source = "militrayreward_sed_kb_png",
+        e.x = 32,
+        e.y = 50,
+        e
+    },
+    a.txx_name7_i = function() {
+        var e = new eui.Label;
+        return this.txx_name7 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textAlign = "center",
+        e.textColor = 4187130,
+        e.width = 130,
+        e.x = 5,
+        e.y = 8,
+        e
+    },
+    a.txx_num7_i = function() {
+        var e = new eui.Label;
+        return this.txx_num7 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "1",
+        e.textAlign = "right",
+        e.textColor = 4187130,
+        e.touchEnabled = !1,
+        e.width = 78.735,
+        e.x = 28.977,
+        e.y = 117.436,
+        e
+    },
+    a.selected_7_i = function() {
+        var e = new eui.Image;
+        return this.selected_7 = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "militrayreward_selected_png",
+        e.visible = !0,
+        e.x = -3,
+        e.y = -4,
+        e
+    },
+    a.exchange_i = function() {
+        var e = new eui.Group;
+        return this.exchange = e,
+        e.visible = !1,
+        e.x = 287,
+        e.y = 162,
+        e.elementsContent = [this._scolExchange_i(), this._Group2_i()],
+        e
+    },
+    a._scolExchange_i = function() {
+        var e = new eui.Scroller;
+        return this._scolExchange = e,
+        e.height = 415,
+        e.width = 624,
+        e.x = 2,
+        e.y = 0,
+        e.viewport = this._list_i(),
+        e
+    },
+    a._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.height = 200,
+        e.width = 200,
+        e.x = 63,
+        e.y = 53,
+        e.layout = this._TileLayout2_i(),
+        e
+    },
+    a._TileLayout2_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalGap = 25,
+        e
+    },
+    a._Group2_i = function() {
+        var e = new eui.Group;
+        return e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.exchangebg_i(), this.buy_i(), this.icon_i(), this.txt_Name_i(), this._Image12_i()],
+        e
+    },
+    a.exchangebg_i = function() {
+        var e = new eui.Image;
+        return this.exchangebg = e,
+        e.source = "militrayreward_exchangebg_png",
+        e.visible = !0,
+        e.x = 1,
+        e.y = 0,
+        e
+    },
+    a.buy_i = function() {
+        var e = new eui.Group;
+        return this.buy = e,
+        e.x = 0,
+        e.y = 167,
+        e.elementsContent = [this.zu_1_i(), this.txt_pethecheng_i(), this.a_999_i(), this.a_252_i()],
+        e
+    },
+    a.zu_1_i = function() {
+        var e = new eui.Image;
+        return this.zu_1 = e,
+        e.source = "militrayreward_zu_1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.txt_pethecheng_i = function() {
+        var e = new eui.Label;
+        return this.txt_pethecheng = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "购买",
+        e.textColor = 10181146,
+        e.x = 86,
+        e.y = 9,
+        e
+    },
+    a.a_999_i = function() {
+        var e = new eui.Label;
+        return this.a_999 = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "999",
+        e.textColor = 10181146,
+        e.x = 48,
+        e.y = 10,
+        e
+    },
+    a.a_252_i = function() {
+        var e = new eui.Image;
+        return this.a_252 = e,
+        e.source = "militrayreward_252_png",
+        e.x = 13,
+        e.y = 7,
+        e
+    },
+    a.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.source = "militrayreward_sed_kb_png",
+        e.x = 33,
+        e.y = 80,
+        e
+    },
+    a.txt_Name_i = function() {
+        var e = new eui.Label;
+        return this.txt_Name = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "道具名称",
+        e.textColor = 4187130,
+        e.x = 31,
+        e.y = 6,
+        e
+    },
+    a._Image12_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_djpsd_kb_8_png",
+        e.visible = !0,
+        e.x = 2,
+        e.y = 0,
+        e
+    },
+    a.topside_i = function() {
+        var e = new eui.Group;
+        return this.topside = e,
+        e.visible = !0,
+        e.x = 288,
+        e.y = 56,
+        e.elementsContent = [this._Image13_i(), this.bar_all_i(), this.progress_i(), this._Image14_i(), this._Label3_i(), this.grp_minitary_i(), this._Image16_i(), this.imgBox_i(), this.txt_Progress_i()],
+        e
+    },
+    a._Image13_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_juxing_919_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.bar_all_i = function() {
+        var e = new eui.ProgressBar;
+        return this.bar_all = e,
+        e.height = 23,
+        e.value = 100,
+        e.x = 131,
+        e.y = 61,
+        e.skinName = r,
+        e
+    },
+    a.progress_i = function() {
+        var e = new eui.Group;
+        return this.progress = e,
+        e.visible = !1,
+        e.x = 131,
+        e.y = 61,
+        e.elementsContent = [this.progress_bg_i(), this.progress_2_i()],
+        e
+    },
+    a.progress_bg_i = function() {
+        var e = new eui.Image;
+        return this.progress_bg = e,
+        e.source = "militrayreward_progress_bg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.progress_2_i = function() {
+        var e = new eui.Image;
+        return this.progress_2 = e,
+        e.source = "militrayreward_progress_png",
+        e.x = 15,
+        e.y = 5,
+        e
+    },
+    a._Image14_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_btnbuy_png",
+        e.x = 153,
+        e.y = 32,
+        e
+    },
+    a._Label3_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 16,
+        e.text = "每日签到可获得荣誉令牌",
+        e.textColor = 8757203,
+        e.x = 322,
+        e.y = 35,
+        e
+    },
+    a.grp_minitary_i = function() {
+        var e = new eui.Group;
+        return this.grp_minitary = e,
+        e.x = 34,
+        e.y = 14,
+        e.elementsContent = [this._Image15_i(), this.minityIcon_i()],
+        e
+    },
+    a._Image15_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_minitybg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    a.minityIcon_i = function() {
+        var e = new eui.Image;
+        return this.minityIcon = e,
+        e.horizontalCenter = -.5,
+        e.scaleX = .5,
+        e.scaleY = .5,
+        e.source = "militrayreward_minityicon_png",
+        e.verticalCenter = -1,
+        e
+    },
+    a._Image16_i = function() {
+        var e = new eui.Image;
+        return e.source = "militrayreward_zu_115_png",
+        e.x = 257,
+        e.y = 37,
+        e
+    },
+    a.imgBox_i = function() {
+        var e = new eui.Image;
+        return this.imgBox = e,
+        e.source = "militrayreward_imgbox_png",
+        e.x = 536,
+        e.y = 31,
+        e
+    },
+    a.txt_Progress_i = function() {
+        var e = new eui.Label;
+        return this.txt_Progress = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 20,
+        e.text = "999/999",
+        e.textColor = 5752317,
+        e.visible = !0,
+        e.x = 174,
+        e.y = 33,
+        e
+    },
+    a.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.height = 32,
+        e.source = "common_pop_btn_close_png",
+        e.width = 33,
+        e.x = 963,
+        e.y = 26,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PopshowSkin.exml"] = window.militrayReward.PopshowSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["popbg", "dailyNum", "allNum", "num", "_scorl", "item2", "item1", "item3", "item4", "item5", "item6", "item7", "item8", "item9", "grp_items", "minitaryName", "icon", "grp_icon", "_list", "mili", "btnClose"],
+        this.height = 326,
+        this.width = 554,
+        this.elementsContent = [this.popbg_i(), this.num_i(), this.mili_i(), this.btnClose_i()]
+    }
+    __extends(t, e);
+    var i = t.prototype;
+    return i.popbg_i = function() {
+        var e = new eui.Image;
+        return this.popbg = e,
+        e.source = "mr_popshow_popbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.num_i = function() {
+        var e = new eui.Group;
+        return this.num = e,
+        e.x = 180,
+        e.y = 242,
+        e.elementsContent = [this._Label1_i(), this.dailyNum_i(), this._Label2_i(), this.allNum_i()],
+        e
+    },
+    i._Label1_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18.0243318623434,
+        e.text = "每日令牌：",
+        e.textColor = 16777215,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.dailyNum_i = function() {
+        var e = new eui.Label;
+        return this.dailyNum = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "99",
+        e.textColor = 12834813,
+        e.x = 99,
+        e
+    },
+    i._Label2_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "MFShangHei",
+        e.size = 18.0243318623434,
+        e.text = "令牌数量：",
+        e.textColor = 16777215,
+        e.x = 0,
+        e.y = 35,
+        e
+    },
+    i.allNum_i = function() {
+        var e = new eui.Label;
+        return this.allNum = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "99",
+        e.textColor = 12834813,
+        e.x = 99,
+        e.y = 35,
+        e
+    },
+    i.mili_i = function() {
+        var e = new eui.Group;
+        return this.mili = e,
+        e.visible = !1,
+        e.x = 51,
+        e.y = 57,
+        e.elementsContent = [this._scorl_i(), this.grp_items_i(), this._Image1_i(), this._Image2_i(), this.grp_icon_i(), this._list_i()],
+        e
+    },
+    i._scorl_i = function() {
+        var e = new eui.Scroller;
+        return this._scorl = e,
+        e.height = 172,
+        e.width = 400,
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.grp_items_i = function() {
+        var e = new eui.Group;
+        return this.grp_items = e,
+        e.visible = !1,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this.item2_i(), this.item1_i(), this.item3_i(), this.item4_i(), this.item5_i(), this.item6_i(), this.item7_i(), this.item8_i(), this.item9_i()],
+        e
+    },
+    i.item2_i = function() {
+        var e = new militaryReward.MilitaryItem;
+        return this.item2 = e,
+        e.anchorOffsetX = 74,
+        e.skinName = "MilitaryItemSkin",
+        e.visible = !0,
+        e.x = 193,
+        e.y = 0,
+        e
+    },
+    i.item1_i = function() {
+        var e = new militaryReward.MilitaryItem;
+        return this.item1 = e,
+        e.anchorOffsetX = 74,
+        e.scaleX = .65,
+        e.scaleY = .65,
+        e.skinName = "MilitaryItemSkin",
+        e.visible = !0,
+        e.x = 48,
+        e.y = 31,
+        e
+    },
+    i.item3_i = function() {
+        var e = new militaryReward.MilitaryItem;
+        return this.item3 = e,
+        e.anchorOffsetX = 74,
+        e.scaleX = .65,
+        e.scaleY = .65,
+        e.skinName = "MilitaryItemSkin",
+        e.visible = !0,
+        e.x = 350,
+        e.y = 31,
+        e
+    },
+    i.item4_i = function() {
+        var e = new militaryReward.MilitaryItem;
+        return this.item4 = e,
+        e.anchorOffsetX = 74,
+        e.scaleX = .65,
+        e.scaleY = .65,
+        e.skinName = "MilitaryItemSkin",
+        e.visible = !0,
+        e.x = 495,
+        e.y = 31,
+        e
+    },
+    i.item5_i = function() {
+        var e = new militaryReward.MilitaryItem;
+        return this.item5 = e,
+        e.anchorOffsetX = 74,
+        e.scaleX = .65,
+        e.scaleY = .65,
+        e.skinName = "MilitaryItemSkin",
+        e.visible = !0,
+        e.x = 640,
+        e.y = 31,
+        e
+    },
+    i.item6_i = function() {
+        var e = new militaryReward.MilitaryItem;
+        return this.item6 = e,
+        e.anchorOffsetX = 74,
+        e.scaleX = .65,
+        e.scaleY = .65,
+        e.skinName = "MilitaryItemSkin",
+        e.visible = !0,
+        e.x = 785,
+        e.y = 31,
+        e
+    },
+    i.item7_i = function() {
+        var e = new militaryReward.MilitaryItem;
+        return this.item7 = e,
+        e.anchorOffsetX = 74,
+        e.scaleX = .65,
+        e.scaleY = .65,
+        e.skinName = "MilitaryItemSkin",
+        e.visible = !0,
+        e.x = 930,
+        e.y = 31,
+        e
+    },
+    i.item8_i = function() {
+        var e = new militaryReward.MilitaryItem;
+        return this.item8 = e,
+        e.anchorOffsetX = 74,
+        e.scaleX = .65,
+        e.scaleY = .65,
+        e.skinName = "MilitaryItemSkin",
+        e.visible = !0,
+        e.x = 1075,
+        e.y = 31,
+        e
+    },
+    i.item9_i = function() {
+        var e = new militaryReward.MilitaryItem;
+        return this.item9 = e,
+        e.anchorOffsetX = 74,
+        e.scaleX = .65,
+        e.scaleY = .65,
+        e.skinName = "MilitaryItemSkin",
+        e.visible = !0,
+        e.x = 1220,
+        e.y = 31,
+        e
+    },
+    i._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "mr_popshow_z_14_kb_2_png",
+        e.visible = !1,
+        e.x = 292,
+        e.y = 31,
+        e
+    },
+    i._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "mr_popshow_z_14_kb_3_png",
+        e.visible = !1,
+        e.x = 0,
+        e.y = 31,
+        e
+    },
+    i.grp_icon_i = function() {
+        var e = new eui.Group;
+        return this.grp_icon = e,
+        e.visible = !1,
+        e.x = 119,
+        e.y = 0,
+        e.elementsContent = [this._Image3_i(), this.minitaryName_i(), this.icon_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "mr_popshow_z_14_kb_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    i.minitaryName_i = function() {
+        var e = new eui.Label;
+        return this.minitaryName = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 18,
+        e.text = "军衔名称",
+        e.textColor = 14740735,
+        e.x = 38,
+        e.y = 133,
+        e
+    },
+    i.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.source = "mr_popshow_3_png",
+        e.x = 35,
+        e.y = 51,
+        e
+    },
+    i._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.height = 172,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.width = 400,
+        e.layout = this._HorizontalLayout1_i(),
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e
+    },
+    i.btnClose_i = function() {
+        var e = new eui.Image;
+        return this.btnClose = e,
+        e.height = 33,
+        e.source = "common_pop_btn_close_png",
+        e.width = 34,
+        e.x = 520,
+        e.y = 1,
+        e
+    },
+    t
+} (eui.Skin);

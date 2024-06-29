@@ -1,1 +1,4976 @@
-eval(function(){function J(J){for(B=k=0;B<J;)V<2&&(V=64,K=92<(K="@sJkMZ;:y`RDR=F:qV=@:Q:jHZ?ZLk@V:mBrJZH[baMQJ;wu>;Q:HknkAgP:DW:@^[ww:LZ=XuL`?KBJ;:^>m<w:Y^n_:=_kBtiVRJ<swa:Gdk:ibk_lo:MrOltNUCGjrAewe]ucJuQ]vgA@:Fw:?wy@=Z:=rJs?Z:M:alwR`BNmP^R[BB@S^SoM[tyIO>wx]sBI@slFZCIEZCoF<RF=^;gNBJqv`;B?_fyjM[mA?_:XJ;r?Z:?F:tvF?hi?a>LQaFPFoNGgq>:U^OpHYJHOn[?=PIMkFhEoyjvM;Rs<VfkxP:s:>>HC=kJTRZStBIR:J^D;Lsj=>jJZtk[[OoRZK?LeFI:><kklwL<Jj;LkZRhMqwAJM=:zLg:?gJ?>:<dsD_HM::KZ:=EVc::^=[mO`gh_gZ;FhkB:@gw<k:ABZCaRTTYAtz>;Y@k:yS<Z=D>dR``<dICzN]FM]]PsX:>k]>WlHSowy<JwQZE::kj;YA;sdZNMklFF^jVvTZANusaus;vsdsJE^wRJfUOm<;sj>:DDY?[y;IdC^eXBXZ:]j[:pQ<[miWiMTRnP;xpO>gDklB:_^L:HSk:;<MAJClR:?N<_Z_masrO@PrHyZP?;vIkunNKb[sb;ebk:EBVXCF?=fc>Z=hZV^T=ZMMYU`=V:;>Vwv;ujY@FGvZu=jUTj?b>ZQoEEsoZBFdFjcGuDfwzm:g<t:DhwR>eaeokT`XcM<H>hKPeq;tW^qYT=bZktOaHt:M`HFucHLZZEeBokjbiE<RNXSAk?wgRcSR;Cw;[AUWfqQ<sY[cuC[HN[BEmZ]CjZDtgY@AAh`[I>=_HBvlBKQEMhFL;TAk`@:^RhAoXJwJV=d:;]f<cGk`>:GCo[kjn_?mM:qEFPshDyGZi^@L;V]:e;]hkJc:DlgZ:v::A<DjtPMSWa@TaNM;_<AUVHm:=F::g:;gY<KPS_DyiBt<tjagK?iZCRcKOe@gP[FaRWlH@DJK]TeLkRnI@Ou[TU`]C]=dXaAZSK_Z=Rd`g;SrOJaBpaqVH=`HQFqsRCqvaXWtjbyN?RPz^`yJxTBacVEtEsi`knn`<kluagh:<DM;kAWr;dL`JcSUylZ;QkUBPCK>[?RPlT`dO`^OXlb?mJpX?DRKH;k>ZuZ_OpiqMJq@CR?sE:BAZUU_::>f=u[J:Nu[p;qu=Gf>OEVF?OfbDBcKvFF;Mc<Za;Qc:rET:;ODZ:joR:V@RIgF^MhCeMLLaqYA_ALR;:ZJQKZ?L::m_dWiuY_L>M;:CbZlFBXc>hTkJHj_IFVKsr=HhBe[cHmYOj@GJCuJhVSPFsIH>rtJT?DRdJySsMRNdF?L:;wn[J=LxDFZsm^:;kmsJGqQCV]ZR=xQ:Ku_wqE<G><e<fgBlssDXWDSGXZ;MVc:duT:CSDZ<Twc:]FT:;[@Z<>pc:=eT:E;mZ=GgR:J:lQZRzZLUbY=KvAMhh]vDWAd^Bzc?DA;vj=jB>GX=tP=mV^<<=wS`^T=n=AxCQ?huUjpcqmL>AgopqTMusvZN:;eFRIVR@P[J:bD?qN;P`Mpw;`ny<hx[w`<gDMRPAdF=bqADMMgX:z;k@F?xIZDN>nXl:EvYqOChZgZg?R?V<:Bnc:S>mCBg<[KRFDba=oGww:j>;dj:Fhd:[_HDb:L[Ek=tBrmbZ;:[>c=:EDf>RJAhy]=r]C]WBYWe[v>MHZ@BN:CsikBJsVZgJR]grEc:XyOuu:<lzew:;eIVi;m;[qs;mKFcWTJDBB::P`FMvC:Yg:tPZEBJWJFZU=]kB<yOFW?>uX[Nad=L;:dCp<ZERylJVMv;E=[RjZcBqMv?`^oO@a:HMb;gRZI;?]@Sv@>HZAKH];;>>NCR`_XlRK@=LZ:DbJCBxBURk:>qJ:XVZw:eJV>y<u>FncC>CG[<kSCXkodg_=]kIRE:wbc_Z<:M:y]V=_@JESF:mk:=oTNfKH;R::N^Lbk=ZMkQ[k]R@c>uOCp;V=]GN^ZlsWL:QH::EK[Z_H:l_S;hbCb:D_qdCJvIBAwLXt;Z<>=k=sn:X;[bYD]CZRD?Lc:uELZ?<dB;j_q>k:?X?N;EAkgKRaHd=LQ`DJuQ[SLA:NDoBf:k`VZgH=BgciaVtRw=EHGwF@P`aR:=eo<W:L@Z_eV<JCRU_AvGF:gQkuLd]Z?w::a`wW<phgDqo[]ohdrlRkpPlYNqKXE?QhFuQ>GVzcmQq:FZsCcOEckecC@PNBr:WRgBaIgE`c?`LebOHcBN]ZB]k>J<Z=:iZhtb=s<;@<mcBEwitU;SpHg[MWmhKwBGjEZJF@sE@b`:ByOB>kAMGXdLFKN<xUJ<CC;M@Xdc;ZQB[x][<>Q=:TJg[A=idNBVEJHZx<@;FHRM_[G:[pegCqhkF:I=clwAsAhSlA:[A<FTEB]J<pd:cCHooHK@=`ghDNGq`KumCbKcEOmUJHZxBlIoLNVC[==?@:JLRFktZE<P<gGRu:W^U>qIgVgZS:ZQ=cWjPsAun[vGX@>IZmURB[d;H<Vh>msKgIH_]OWv=prcA:oRU>b_lm>^cFLJK`KD:zfO^VFB@AtrSAGCTToru@A;_CVuVF_SBGtQf:J<Ro=ZmyhBsTw^^dDIi`]?@A>XBTcgjJILegzA?TG=]DbVot:QMmn@CeFOuslZ?bvIEOFJMI:]JwXXAVR`qDaEH@BAkA]B:gboDRl]kAYpXn=V@hGnfOGOZCRuU[Saorv<t<fIR;as:J<?<SxBN[mMaXXDw;pVUNr:aRbZGNWaNkHXNeSZEEax[iR^@D=ngZjFdOwrHtnkBEF[SMV;`GoQs]lTVk`s>CDLF@ilHdi:aaPRzMwn`q@Wuaj`YtKL_pGZpnlU:F;^Js;na?fTrphG:rbJL<pQ:NfjQZGfkr<tQVys;dxreui@eTruNb^IBhfgG[ak?as;`TadEQq@gurFT`[wl=wYdOGsM[:g^]THWCqMN;tHDXNuduJc_ph;Cdbuw`lfEhahslTuoNaSGmRNodpFfFJ<kP>eCNHiqAle>?VDoOsedPgprb:D:koJ;cs?ND_ORej^mqU=^ewXH<Wz=OFM^ASIlO^>dpwQAt=RZ>xZa^epWsGHvYhO;KpwURUihnLPa;ZIv:;g:xSm<ObKWB@^Na_QRQRTCf`of^Gm?x]kZ`xudgDK[hniERUghv=X:<>fJOThFZt:D<N;sMJqZ_LhhFDJukQT?:^ixp::Wr[Y=y<xrqe:suIPS:QMHch_YgZPuZwNS>TuoM]AL?idcHvq^c>uGoQd:l^qbj@?FSmpviireBHgMR^vWZA@`yVYOSqlCpsgzyfQuiJGpbZm^L:wB:?CxZmbsyLAnQl]C<_>_Et=KXqtII>MP;^=g[S<mSyqO;K<ZtBjcNqopw_FtG:xtnRjJga<]m?Dlrh_LA?CD@twcpVKYZjF?_bnWMSzkp:PIScEKu<esryo?@kmVTXZoSvJGvoDgRuei]:AVUBTedyRwZJdX=k<@EETdn_<UZ:fMSz=e=ofdmSl`Kg<tn_<QlhCNBi[RAQ^k>I[Q]ClrKN>y:g=@kg=WmeRntK<hSnfkAAZs[k:::T>L`:b;;:r;>ea:t:PNd]b;>DlqDy>[A:NJt:mDDNnwemlPFqV;V[qR?:JaGRIPHRbHV:dNtNdqR;kkq[tmk;mFlwERgew_sgMNuJl>osgsEs]FN@]ss]OcaqD;KsqqTqpshsxs^snsfsxsbsSkIsYsL::>gcV:k>UXzP]iDcxHEeEBL>uw@ghNQ>Ve<__Fx[?:^[d>t>f[h@jNG>r[bZt>n>XBuKFeWNqKW[xgyKOBURLHA]eaYVzqaKsFwez>VPR]yF<F`>lwuF>wiFyF[FygK;EsUm`FLyGFHi=FL]o<EFvFrFYF:ZlsMJa:kgR:cgsg_goggg<gLgbRDgzZugagqgwkXgOlig^;dguZtgXZ`gwRXkyuIX?[I:CJRFGgHKjKtcMsDwwZi]vTIoLsDsTskwcwtKV]NwFwB:VwVZ]wbBJCVyAif>BZSR>LY:YLUB:mkmcmsmesDkXkIlxKWgYKA;V[lKXo;oKou:CoE:SoXN`o<JGoWo=oaNDNSy^siy`>wVI]mVtKi;PV;;pJyV[VlVOstVZ:vfT:=fUc:I:uZ:R=e:;Iic:D;qZ:R<u::lqc:DjPZ:ZIzF>L:XABJj>Tn@AUmFEzK`LY?AlCE>^ZCM><UQls;rkTLfZEsSJSKUvSLX`<[w`xuqt:_ZDl=U=kC:Bj^;bb:HaJEJDu;kBP:;KBDk:V<g=l;cBRD_CsuqcoBzsa@Pal<qcqbB]ttCBdExCdL;lk:Fn^Dp;I]GBh>FRnZZ`a=zD:f:fK_j[JE=fe?m<K_<:uBg]T>><:bnlJ=G`DBdbFfXBc;X]ZZWaj]lam@x`wD<;k:=_CZuCZEKJJDWaE_x_>;x`fa=_pBN=LEc<n[n;pBH;p=DC@tndn<d`cBuCQ[EEftEn;ldJav;BI_C;cB::wa:uymZr<b;URxkQk<Ju_komNY:lLJt:[V[>tEJH:Q]B:I]gtVLyZB?]?R?Ck>?wJkgwkmNw?f;L?NtT?Fta:cBZteaJ_b;:D;:JDEFp?tdWc?qODKSeXOCU;K:];kkGBW>:ou;d;P;H;olX;qV[;w:D:uPk`a;Pgq?NJFLVLY:hqtKwJ^Du:nDGRvDi:zZ]KzPMHPH?HOHoeQKjlsgNqOKD@@lE@kkv?GZcHD@`epewkheJi]KxyDKsiSih:n@pPgiTi<KWymKHgeKD>eicPk@aiJOTTHiPTyij`@:oXYaLOx:Lu`i?TBZhik_hT^iJZniMTUiKZAiATcuIi:JcX:XU:JXjicXsX;@ouhJQt@JCcVX@O<XDuIcuuGJTX=J@XfJPXHX]mXXKuJkBkKX`ulg]kSXek?XxuOXg<MuhXW`vu:O>ZepJPUk:@gOkBRBbXs@jX`iCJrOZyLLkyRHcyT@sy@@mwgy^qCZayDNeykcqmay:NbiyyOB[yfBCySykN?yOmpyFKhycPQ`_TnyXcUyAy<wQyOcEuXSU@cR_;X<J;`>c;?dLGA@eGo;By@Kg[<;UJz?tKV`S;PgR`SF>`RdXVl;@;SGuZ?;V[O;G;V:W;JB^;[du[I?]`Q;FRj;z;d?J[YGB[R[E;_[a:o[Rh]?][m[w?xaBR]`VhDRz@i[?:XH[[dRiS?dS[aRb?O[sySCh[?C[>;Kn[fg`iv[mszVQ[Z`e;j[iqz[bSZKMs:KvsRKrsjszsGmVKipcTBO_PEeNTCdbK[h>FzlZ_nKC>zaw:GCmFp>:atK^>mepKddhKPKKhiK^KssnKfKqa?:AKGNcWIKNFs_:losgWyNklQ:cl=l>llF^dFlmNJcwlWF]lMFDlbFjFzFalJgBgE:Rg]_;laVKl]gnkdlDPtlyg`l;gpl=BhlKgxZE:=lMlGKUlCSAlWRrlG[RWNFX:Bt=inS?W@usCzVNC<WhhswngVCgwbRwwmCWpVZTCtZ@C@CqCiCXkDN;CRmH]CumkykKWYlCWQGKxRZWCRclodoh:[JfCwJvCxoesQCIClZDNzw?hcZ:dLV?G@VcdHVsdqqKVFJdVSVwdZ:TSa:;[@XeWeYeRTLYMaP[DlJkifYj>FQTXIjHOY>ZEYIYHuLmEuLZoYR:Z[ViT:g?>JE:a@SJH^;dQ`C@T@PRBABA<`>JF?CmEke:jHOqQ@Y:hMEV?aOJ[F=aJ^KTQcukdKHwS]?iMGBuScuS`kGBsNAqRHMc[criW`bRx:ZsmiQkFrVsxiWRusw>`BlspkAqRZZBIodzOPPiMzUPOXIPO:BqPHMciRDqRlXqQsn@WqOLVBv>IqRHJk<sp_s>ysnBpsoXNHYjV<V_mqLVF[T[X[OKRNx[M_uiXiLJAHK_viNNtBmNtsluA_zTi_@XKXKk?XQB>cd_GZFyNg]`HySZ<`F;JMNJX;S;Ts^;Q;OEYBUNyKJov>^r>gv[KkI[RKJnMKNgxgm[WHN:WKY;QKR[JlNlXV<lOfPlV=[lRphlLJAlVZKYPZLJYCWZVDXCMZpCU=;@:EbMXJJMVdOT@dUwldJJHc>m][MdKmjdUvVH>SXMdM`DabWoR:pSQ^J=bSNTdLctMlgtNB?T^TjcltYvJzeu^tWJBUjtRrc?O?PGdtT?R[;?Y>Pa^?Kmv`dabf^aa`L`TUgmvJIAfK``OPf`Jv_s>vcqev]q]OXqbON>>s;eys@cBHfOSOSekpXzapNpVUfHg>gTpHcidr`pVb[ibpQZVoBGQiijK:BXcF<X[GXXgQ`Xeb=XbGSQ`g>hMQ_Rny[^Yu[hWO]riw;]zhP;hr[;djYriW=pJap]>tP[@IeYEWSJ?>[A>_Hm<]YI@mIm:D@z:zJJ<mDPqm=BSJ?xRY]PwYeYZ?F?<RbPlMBY`Poqm`<qlx;hTb=bCaAIcxTjhslm<`;mBFbk>?Gz;mDqrkD?;mEzDj[Bp:BJAi=e@q?KUyCYhV]=StJmqmC=TzdIdvBpU=VKe@qK[:OK`ldlX@xXzz]^S@;andi_=fOaDd_kqOCfOXsT`xKoc`>WJbfpPfYcKfK]QQ_dIlbfTkuYA<zd;yrIaCcgZ:HBlAwU_;L[^;o^G^@JLdJ=G]]ff[J:iZslY;L]cVeT<JNm:YxptoS>:FG@NbSqM[H?nZZF?JX>ERQ[pU`AqqwXHo[Aj[;@ioY[w;Y^q:K?Xol>yq<hypZqAhd@draQ_aSogW>LKpH?CqVYlrodCrPNp@eVSr[oH>tozShA]KPo[rUr?pt?p:hKY:d]uY=Moe@JaKaM^KcFH`nMHLEKiJXLs[fKyL;J[LEjSLVVHalMlL^=oYCKg^dKjPVXzMZV:mOMOK@WFY@rGMyCT:V^TLiYeO=J^LXVgFY@hqFljcrZELiJ[Ez<hBC=WqL[C<];s=ckARz[zNhgVZ;^yVWX[Y;L=Y[:QPdnR:U>wSr]yJq`D;MKyHyVpWEJfK;VyJ[XUL=W<<KWyIKVCKlXdKdKjkP[ZbYh@?:kqruJ<WTUEJARkQIA:keWSYeWyBn:;BvKi?NL?Ykj?X^MaK`VJROWDCOXxXpVTPm[qGGXSkSdhWV:WYWixg:REW_k?^u:=W[M=XZu^Y?<ZuMW]^MVqsyXHKyXiMEL;WXJfVUJ[K[JUWKKPIUXlWCKvVfuAYQR?MAVoDgKbV=JQVc;QXATz]rYkUrXqX:IqYqMM[HYl:iXuK?VXW^MNxqMnViLEV_z;Y_x[JUuUVowV;lJvYowCXYkKWAXdVzjdWOL<xp>aW:FN:hKhJjZBaLxiWYX`YFzsznLDw;XfK_wcwfujV`@qvfgZ<UhNNV[ZFJGF`JGV:kGkHVbILjLI^UEy`cFdWFBJVa_SWazdovo]wklkm=AFxOoRlRl^?klpo_nM>NnV<Cb[IzYhrb<f?WoU@<nU?xo=qJl=omlh=A?^pb?elMqP=um@lnonpr@ErEp>QwxPnaySxSq]wg:UgNMFwRRn>NpcBwz;vpjl;lB:OgZF;Ex:hMk;mfxP=fy=`UxKklk]EFMZ;NZL_@GQ]:=D<R:HuDvV;dynWU;:@vcgJY:wtz>:BY=C_=toLI^R?i^kGAcFYGu@xOJSjV_yOd>vd`m?vFVbiSxD:I`kQubhDJm<O;:A@=^N[n>yUFzfA:kTdkg@OGQ;bbAkSL`mspVXiFrAU[WlQyrARK;:=IfodRLow@ybYLj;Ek[@;:HCI:FbtqWdy^gDy`:;xtvJVqBL?;AR^JJs=VqX:k[:JC>K><[Ljn>NjZMB>rw<@YZTNdQ?f]GlPsbVUi?[LGCPopkM:`ZM<Ljfg<>LhxC>`kDESm;;mGK;[cTaHukWB:Wt:Z@Y>uSH`H@EdU[hk>YZjkrsMwSyGvkz[dKF>:^Dh@cl=CGGl@?ZFtbBCQ:PBFmbBNCHaPBLS`x<qSB@AylrZt=x@b?Pubt`]?k;ZDmZ_ZL<nkR?kCZPZuwB:=R`J:=fmZ:;<G::yNcjxjygVDn[<MQ^@<zFzjMWag>e?vxg@uZkZ[JFBSQ[a[Z:K_p::dE@::RYw:=joR:?^?J:DQ@Dkk:CADbJolBFFzsrGOFknP>[RZaReBW;@]YJWc^oLy;S_K]>lAt^nT>Cf>Ya=BJs_H>mBjeD:osOZ<j:e`::vV@:;ozN::wvc:;pNesUjpN>jZOyyqJvEgBvRUxsDknMsLm@y@glz[:Bk:;NTZ:?[hkK?FSYZYl[AVC^y]BaK:@@w[VZwBo<KmfXQsBE;;qu:G>eR[d:d=wqSZSw[gZY;F<b>]EOlHs_wKQFGH^bSn^R]_?[BV;=kyJJs;[TJVLP=`M]Z[k@^rRTkmASs@[kkspZgHHAI=ZKmBudZLHSA<^`KpceoVuX=AP?^P=VuTOhDtmQLdma?nmWFPdHRmf]qFsvp<P`p=BZyrHljGmPF;VA@>?Vfe;rD_]XoLaZ^Mn:LqZZ:rAtLx@<;:o;PM`bY]NuwgFP:f;FNDppnSdB:oRtDgpQGTL;CPdT=e^DqhnSNXoGT;OjP_DcegJZUTMrEq_pR[k@lHfXc=OPAJ@glo[Z<WCTm^lt]RwCfTpgi[HdqhJHWJWI>ulH;=On@vf:j?ukjJ`szPgpHx:ya=UIdawgRfx?@mqehtRqc@MDcWPavCgwceUBYDymifcSo;oyKsVm>EROh@q:cPwMkDvRI]WqJGTNIimM>d?^qycLwXXmBnYtw[YyW^::KlfrgcHPG><LykdTk>h<mhAJj;OSsm^egoA@gHsBgUP>;;kjTYeUJstZ`iHAIHqfNEwE;>rk=s?q_vMWcLWk]bhDBhvQ^?:S>l]b?BgdlguRM>;>WG^cNK^fTJm]jn:n]lAMvshqCSb?c[SkRsbpPC@YJJRDE?vHV<iNjMv^ElyvHwti;I;AgMkxvfJ;icNSuaBHK[KVhXFQB=j?rLZYJxCyN@:Qj@GudxMX__cLW`ruBtxmujrG@GQNEupppR=WVj[`;Ufol@RmlPjdrQPB<kh]HlIRcIL`^=oHycxSP;IKvv>ldu:zYjhVQiEskOuZ_]mZtDhvM[_;e:h;[BGXA[CV;sV;JNkC@@J^DTpJwZUNIe>u=e;yZiZNRGv]a<fJtZeyekDgAk`>L<wXkQXEQZSLpHdbUDLk@JAaMuk;NoNMBC=^Q]<:]ZiH>k:M]RGK[d:]RMOFc@u<T;;ZyZVRGcThLYy?ZrtakDuaq<Xdr:aYBsIubzRQ;;JtIgknntkVj;v=SoeuJY][<rsEB<BJbmZm<FX>>S?VdRkj[WFh@?ZSii_Fa_;ko[[MMN<y><@wFocJcGu[`A[_YOc[hiEH?n_^Al`HJuFzA?PpZKK=ECn<YKanqibt_]Sd^G:PL>x]aBm[VobcUbAu@b_S>lkzGe]IH@ULf[FmS:`>@FJg>SdnkiWBOIZf<=CsQk[tg<`;<aBVSD:pM<ECW]]=Na^nD]`ECQD]=OFwMKCam>O_LnCSYaTPYVBc:TnCJ<gwPVlOp`nddSjsE_Vs`t@DJI>u:Xd^HLXv]wP<[NwNQH[abL^LSVca`;TINdP]NPGch?j`ZRaJJgPqHFmZxqA=i]UDgRo``p^I?a_ePZRsFLADWJFgwSAeJgOE^gfghol<bFFKbCOlwg>oW:LDjbIMM<gglo:FObqGLfSndP]BPO^`Jf?pc`P@ZBeeenf?`NzVMRwejv`pT;tqlBXJp`qB^k=^lP?f@@crD[<CsRFDU?ICibucM^WoqXTVYbb@dbdtljf@TbzPQ@ENWZTspT[iF^TGtcqHp;oQ@rr>ChZHh@RVJI`hBX<EZo>Z_?amw>L=NL=p;YBD;S;jNYtS_byO`>QnAsQeEBNDCxQ[@zOMwtyNNAin`;Vg:uHgBx^e<[ez]Xl[@H@]woYU:MbqWvW@i;CjSJ?>tC?X:dZ@yR<OxBdGNLghDeaH_e?<`TZ_nJ=JgoqT=;KXdnNyUnNiTjG?:AkLPS<oN:BhVJhke_E;JS<r<aP]cNM=mp<N]hRf<fJJ`@w^<P<kp;ynJaX=LL<:fDTlm^esMaXCZrcMlmolUR]C=h>]VvQFPNMCHgK@]W>L:^oMtV;VwGGmrN;gZPC[WEKRxks`KoWHI>wyjdAs_dovCaNflLCGnfh?fHA]h]Wcd@;`pWJE_g[PtHlZXMC]uVVjim?w`ho:dfFBDWrNUt[MyuylLDXrn`ZlMlu:YLXZ`Evvnp;y[gODPU=Aufpn@hwl>?jP]PIVxu^<ZyhNqLuvLy:;ozL>WBs?q<ndbwlcH]ME<jpTZHCYd:?<zd>_zua]xdNGH<Mk?HHYzK_gmPZRXBqLk:^_ZZkm^V_gc<yD:UvrDbuJp;_`@cSDLa@m_tLZ:BQG::fceNGWLHkrTVAQcReDUdg:xKK>aw?PGEsnoZBKuLxEkB_qZSXXEBkL@eFzdu^AkScq[NyMW@[Ju[A_DZsaFCZb?Vl`Z=ECs_t`NM@g]_=fBjB>algwVeUD^Eke:aI:kwiiL<LOF_aDM<tcvHiSGF`m;tFdbLhmJ:mWm<tUdiWBtQxGmaCt@weLFjEk;laGBrC<yJ<[nF:c]nU[RVrkdJOigjs=SiVobDQFDDpnM<^nLONC:Mal?MSaKLpPvFnaRLy]aqPRcg[jSIcn]ZMLyS>oYa`<ztjMLeA^=lLo`V?bO`WOJhZ@XnOLbvI[R;nyFhcx?ZuCCmRtgPd`I?]>i^bjB`Np`@eAABVf>DQDGE?sALn;ciEBlPVjG=uZr>HD`VcRtlRZc^A?nNlSV_iPE]faCOgt_wZgYajLcqgSiEVyr@rBDfDhaohRoehekec^mPlXfRXVqH<;^nnq=Twx^IDD<qgAtcspgWiaWSfnQPFsnXSGJQ@vnmwZUTj>YD^RbnawqsaGdYEr>ZVUt[syXVXEHdImEeD@GyKI]d_R<n>CNawPqk?P`hYtg<s@j:gz>ukNcrsu@ZHIzAko<?MvPxa^PStlmBCi<noFJj_QkLjqL]rx`;nNNCDFCN_f<Kdlk_i>wCENclNh`ySVxOk`]g]NKjWdLWU?W>uhVH:IRidSaAm]Ya[i>`G?HCoWXYaZnouCpD]:_sCRGFhugWk`xFv^KUl?shKpBa_XLJvmN`XVriEjJb_fooafVDXJ<^Q^?>F_uxOkXr?KaGFQ<BLUCWrJMOIl_ahKqcWjVMWEq@^YVdGjj@MXdDPu_whCTrFmXggH^ZGzyRYJ:MghZSvEJ;Mo?u@x<m[Zfx?SF`I_=:?vuUdCoFHCSlrnsppl]b_hCXwas<[KF`z_taB?EPCtEJdnYBdRVP]_b?iyLlDdXf<Lbnpu`^lKdJGD>p<<VdOxM^[GDk??Lt;MuqTPOBPa<`rOOmueMVio?N<x;h:kkJkCkphMCsANmXGRHubroX;`ontR;EV>cTq@IZ^[`knWD;<rdvwMyGg[zZ<[M`fLaBU<f]?NeR>PFeKSZH_>JnwSbiA;;_bnUU;Ww[FrBVAKaocfFO`>>cQH`d`F=uSpJKaTDjID[BM[GBxaQQ>t_r=iSjFd_SDDgJ]^uhCBrvX_`w=zUCaOsJ:ILyZ:Ji^::rsdn=ZW;]D_CD@s=INo_i<XAYaq>=MFNc=VM_Mzqt>iC[cYB[qJDDXu]U:_NHovNOB`?GTjSQmyHSWb`?;fxB<EC?`dN=`gdZtCTllRuD^NKnRpI@aHVaeZudeQt@wSHKafhJ[^eGIud`_qhSRa>wtcVdlXbCcoOeAKTRrQSQFn?peap>uhD`HehmhfmlvTzDZqZv_p^rVuf=gYqdAN=nPlJuRI;veGRkpEWowsgNrCbNEnvP?:VVSb[WR^N=o@wnp`jCxUMOzPywcGcYCPeveuwasgyJXcj_OmftCuq><oe[=rnJxs@WGZfcp]reC;uzD;YxN;daoYerCFBJsBB:Gv;_yHf==ZAZ;k;=wLJRk<x;L]zZCqnw:YQk>@MIlZc@NN[?YbY?YeAKQ`IxPZd[e:UHW_@o=Ou=aqbkBG[<b@^;g>Zg;c>RkKoG;;B[_?KBr:VKRJASUVt`JgsGGAMZ=cM?NhgsYiZy=;CV;MxA]MP^;IA=ckc:JcRw<aM::tlF:SGVtBmO@DQlk:RcJ>AdOomWus:rXlBArhq=kUUdljP=XV_Jo_g:Hdcao`r_M:uUHWm@yuKwPC:D^N<LAKv<[qs=cVaJaAU=f[rku>W]HdAV^dKqcsH>MKJAFEX[dGezuKJ<Lpi[B@TsQ;<Rw;l:wHOirCMWRhL`DRjKH]g;RZJdF:G:TBe[Tc`=@aCO=lb;TToq<lRJpu@@;]@ixIX_tWNeAsr>E=^;MtE]AG^eAuGx_oCY_OzptLri;>bkeRg>v;?Nk<:;::P:V<c;ZFl@iVHz`wF[B:^hys>HCmFG:`=w:T;w?wAN=e:<kA:RP=R;J;RV`FwgCdTumF:AOK:NVe@<k<Y;rGi`u:UUV^<FGaStZq:TiR[]jBL;LRz[n@Ijfm^EJU_z[=?eEjy=ZptZi]X=Ag@OrhUeT<xHBGaPr@gJOZsJIdGFeaKs`IuB:IR<:A@KO:J:ykVZoX>cH]SOKsT]iS@iSkaNdNe;q:MkVRoHWViZLNnRdIFpHwo@lwBJk=oX=OVrXWQNAcppi:]APivQCAhqlZO:wF:zQBDD?<xDcKoXvJCj;GlPts@wXe_prjtkobEWvGUBR>mD<SvXVhieaooLSDxCNxkGJPhEfdjVFrwpgezAWelAAvLK<^kauV=Uku^qwnGCQPQdMDbngTDdwW=H?o@hLwLyW]:>:GY:NKtl`kcBNJrH>IlnMaBYf@zhX<P@::CKLOD:;yGF:<ZPc:=tMJ:DTDZ:@R=::cFc_G::]we:;SXN:;qzZTNst>a<GJbN]TCkc_YZDcyZCZWSfWsBavG<as>xh<Vro`G`sY<u;te^uf[^_:`XB:W]Z]dZuJN:MNBD`M:::`D:Da;j]gtykiAFR?D>Y<gaXM<:I_tkkNMYlZcDFz;Mde;ZNb@Hb]`SMIqpua^Th`s]>KVe[>>^fiK[xYgB=zD=ClMFZHP?DTj<::;Bo:::uRzqYt@<Nn:oNaHmRlZV:iMz]ZT=ZbMIsBBsZdyBFDTFH]bsZnSmNxha`Gma`MTdfNveVGI@bDBddnkpdbGFPDlHikS<ETSzsUD:;ECUoptcX[yaZJ:SZg>@S=G[bdZ_SuFv@Y`^lbak]StFxmYAHwbyM>VEFq`:eItKj`O__v[OcFpIVHMA:QMbyVBabZ[nCeKTDiALZCWy;a[dkyVSR<cVsEy<xzUO^Q;vbMkCCk_Nz<FsU@NCtm?NXCb^dbpFH?HEs;@Yp@NsQJ`_OM?k=Id^;IZR:DuSnhao_AoCwqZ?MK<;QETJOuyAo`uPq]y_BcY=N<x;]g=umXOz^JvY:]KQDQOSOUXBPRVfvElY:ePpBO_HUqmGK@g<Y[`R<<T`GJ>?`yKccqNURnOSUeQLzkloSJmRSlZSy:?@X]DPYdVsD?O^Eir>mMX:`dvYTe@RY<DRT<O>SPRAIOaeJ[z:RY<CCqxLARGCsnUf:dQw>VNNZQ_;B@mgtVP:dSc=hfHReaB:fQ^KFI>pkd`PbatgsCCOYuUOPLOagiepKJTiN;xSh?AH_<LyAFe;KmgjPTfBG`p:^SH[xelBNFgc:E>ZVWY:k?;<WPc:`gbemoMugc];fqefo?GWv:nQwq:?WYHolO_X[K;TxTINzGlNYpDmpS@CdiMSQv`TOSnHukWeVmxFJabDsw]pRI<_eSkzykewA<NUt]wf<JRC]k>^Cz`Zc<pdTxEC?:VL;OYy_pLmhbEAPiVJcGRCzQLeqFJUG`qBFA;HmVuiEOxA]uGpyudClwx@K^Cm[@kulxFuP<:@mAo;=@T?AejHBkQ@IvBotIKbGTtbVmXR^FyZCuQsCX_wFtE]`vDbjLy[nPqJ?JpfNhBe`^<HhaZxTYDPOBjEe@:HK<JR<SjmqOdsdGawMDqeVq_]STxJBHPJ[CSXUWGbnBETPoIlX@QdY[bP@mfM^BNK:<PlR<aMiq?@L^?K_s:t<vCt^ZV=ZAg:s=^BRNe`nCgg;qKofkvMMK?DAXICJ::UC:RDBA;::mr?dl:tasfVaAWU]@VdV[afVuAZP=<TQEPqtQoU=@G;yhu[BUXuI@q@PnW>ofTfCRwuuNtKCNMKTcFvAT=V:XZpeDRHu^xKU;coMKrXKoVHkbKD]trTAUWquEEs;]leDRggQLHU?^]sa>CiMl]UY?j^EngO>CfIZ=qURyC]Gi@NbKoTcskJTNPbA?BFix]<adx?df_tzHApUlmnNOmjD@imQ?fgzK?fqwxWkfF_NGoOn^WRiyD]Dqn@pmnPKT;iNAhba`]tPfV[rWPHvNivulzVjiQvaefXuypRXFWXZhGT>:Pe_ui;xHiEoQekxRstXSAeQQbPrPgXkjGumae`sxtwp?VTbjm?fNqPdw_kiYFcptuSP;sw?TWNY_PGfpaUTuhaoj?AxsKD:e;S>H?;vtSAQU>z:czUqg>YeMU;KrQcQInFqxnXpjL`;NSP;V:C[uWAriHm=u`wB<mBPm<?<PPHxQX_uBo?vpLPdqZmDYQ:jH:@NUFg>;YYXdf`EvF?Z>pYO:OyQ>ZhxB@c[XQhiThA=xwJRzWH:zreUwWDJDzJ^[jpBhZJpyzsBzdJ=IuKHUypo>KTFuCZN:<:W:D[kYDulmbP:Ykk<[n]kQ;FyRWJ>cU@<yAcSu:AZfKQsF:AmJk;o:taA:H?xB=D[a:pMUbLaH>=d[_[>fPf<RA??T;weG?ZKEc:BnOxK_`_@uTtQW]_wC<UzaBGr@FJSGoy?LXkbw@chLL;smBTFGMHC=m;wkwOegIm@NmaREHqFvNHRQA=lSvJqfF>Iok==c[ituRRCbLAE=WLlX^RTJ;q@jbVTr^NK;VFabWgC]o]qRfb:y@z=:KcBtTYIDB:>:sKcJd>W[^K@X;VKykR_XLHdAU:@KeN?_W[VwUeMlOuHHPR<WlQN<dFT>UPYURAtsZD:[gwD=abbEsf`N`aofTa?WaXnUV?zcnRJhdkQkJtn_zqWJBMb:EMB@VrHVc:Ea`n]kGgvDTOD::zBF:<wV]eRpITbxMKdpzVnlBgvRj=RbA?uKCIF@:a;?thnOXTiZrbYMA:D_IuV=HjbbnsSeFn@U^FCa_nlZCOoX;OVSaZEIwRDBdU>;<jqQkENOvbXj<:;hyF:;cmioHEjsbfCxEmfRShdFaUaMbgVGsuJOV^bLr_UeVqeuB]naKMolKVokB`FuiOnOsIOoTtGXUbnQHtepw]zsvvbEkK@ypu>KhFhTsMf_X`:fr[Fq:zy@oRN<`=Y]NJQQPm]IhXS:@rajQIflwrux=F;jrnkUvwu@wfV:PcrMBUy<z=^YcGSUPWbPvJdMWQZFrPUtZ]QX<r=Vwro?cesnd`bw_pCUjLWvyzwvQ[:cfp?_DBES;:aAkE:AV>Z@hlTH`wMWayx[SbtYjW=rRVWlZAzYcYh;kA[@ND=:x;Kbs_Au=v;xNWEt>>DbD]pgTXle]u=@c[ZxeHRGu^P=[c^Zq;mPXBY]nw;D:BkKSWMsqQVfzYc`VC>l@t<[y>bPZ]t=]S?fBbeB<:[HJGb__ZfuxmcDfF]iVvToeRQQ>:=Zac:>UjCiB:Ab>rgouzIIHUJyDvfoyuzQVBFRyqmWuCx>jVji<MHKi[r_Y^SbI`BlKuZhH=JxCGm^jAnqIlwWDVj=gWStKkqWiY]AbAu:RViNTNySqOIkf[PmFYjVLiAy;bcnnDvAHCjo:tUoVqtlIYOix:hU^OkDf?GGi_s`yPcTiRGX:;mTqGVUanQqtmpqZqhY>LvQt>sMhTWIIHjMIfawno:DgxZ<Qchb]z:HNjVCi;ILQ^JYXw:<D]c:<G^CxlfRJp:kd^FmqRl>nMhE@O^r:GRogekiVX_bQfot@oQkNmEAFWWbly?`Z[bprrsPcev;YZhSXI=L?wL][ST;cPbcyG^Jxwz[VhJwEbARRBKUIqX>yry@ZWrhaiv<[>m?AjXlJUZ`Wr^v]mNyqGb=`Y;PVnREsFVRZjwQAhLnwCmCV;ay=UUvdAy@:iz^IlvAY`eh>pS=BgZl@JOf=;kA:SZrzd<J[KbMyFVBOSISN>t@_H<iceAhuDwDlwlypfhcf:VYetFo<wViTngBtDnmvtYI_`s_Oww`xMJJDmTKoj[Do`UbMfxK;eOtQsUCCPpQgf]p]erhj>atPj:^JLTy`TFqqwgfOe_tn[YM<QCMYtjx:C@MHiCBEfOpudE_[zebfvf_ndbr>=vDtCIfKDiCgUxH<yXPmdjo>:lo;EXYABVYxesbx<:Ur?ucgPronIIB?:aJuY_d@N_k;Tz;IHjpSTCz]=]X:s_blS@UutdmYp:ZnIIukK]g:ucZi]<oFp=_EVY?uiYicBkPZrSQJNcpymErv>bhP[_BDNaWh^@<Eo?>jmfaMb=k^V;GJGZNM?L:NJCXvT@zng::<`LckkNa:cae;EBPJV:FCgvutxGzRNno:N:V<sMc;ZsXZ==A::TGeRBkR:=H>cW::X]uqUna:;zyXohoCu>M<E_Cp@om<=csuQlGR]^uxz]dKxBQFjF^W:X:=FkSJ:c?T;MBm:LC<c;@m@YZ<ZLm;Z?fBN:JRZc;]mAZ:UBl:LDdDBF]:QuFk_nGwlhZFKFlnmk>R;dMxohmDb:^aDkFyM:JH]>k>g;?C@kACZcg?k?n:Hre`Uw;ZZNm<g;v:PBAV;r:@AZhqQP@rTSZWq:YSxqmcbISBy:=]^vbqEH@n[RydWaO:VXnLCc?CexxbEeIqFM]tJjqTqHzRauDT?zRgg[TdKdu;Orge=:HCie:vTshTeDnpeWV[DlGepigrCquXOBemWeMieZtegu=frDsHq=jek=ecujy^^eJJOIB=]cJLAcNHVu[AeEe::?==NIjjJt^NVXaicvmLXaksAmmpCktveapIgZv]Kuj_R?uSu]Bu`unwbuEb]GpGBvVirpEmuGgdAccsmH<j]cuzmSAeSS`J]kIm<ADEuZiTxudyD?;jNZm@xJ;J<FhCTzZuyFz;:Dr`hgA;JBcAuKdJDyB?:bs<<C>BYJuN<:fdJYdDJ^fZQk=kKJ:iAHi<dZac;EMRmeVIw;B:Qk;F=Z:QcA:^XFrwAk=[<RvGsnZDRFfC==glZ@`<QyrwG<>SJ`zdv[`JscHaLkqUs^Y]QXgF<a[boz^`I[z]kMg;csDTyj^uUuyBV^KfuiyZsKlHKydw:buK?iyfMDZT=_sZ:KE_Z<F[XMj^^e:EyfocHNIPHG[=Rd:Em@SZtZTo^Tcg]jRULJo]j=uSZehAN<BLDneovfH_wCguR@Te:M<vHEg@HlDoenak>OHLcOD>e[[FEB;]Zw?E`TLZQJFo[Qod:UVDoZz_;m=pHUQGrf=anMegudkvMZZ<WHI;Igtt_[naxnuodn_PUkia@iUKi@cIiWnZy[t]CkWX=ffWuw@r]hdl?>Y]jdmVTJLhxtki^E`yui@SmZ;sMitK?HuiJJAZ?:ZXyAg]S>XiBCR=SJZkJ[sd[=E`OfIVPZAwvFwTAfCdIXx_?a>ycOs=[vkmKRRKss_lAjk;kXdyCKTkyaldD>F]HZMJUe]tmCeDF@Hc]kR@]v;gR@@>SZRmv]woL=ytRXaA_qAt[kNGmJdJcZZIdgZTNFpvJ<HUgcd][[SggezXHNfB=c:_bfs<VV^RJ^kU[GafHssXL[@uRiTAditePXym_GtBmjCISuxDXSfSCO[yU_xkKajk=;sjTIJWm;QT[<EBB@[LBJA=GaOzEesmaS=B:;fmc::otc:;qwR:;eac:<GLhDsxXvddXUUDrsWtcqX^sEy:;T]Y<X?oF=[ea>p[SxItsIeEFb;AH:hkYV@I;nkQ?thTqWg`sTXXWjOCxTqo_GfJ_[odpE=Ddo[FAZ:iL;PmAsNJG@?b@Fz;@UV;dRSK=Gi`QeX=QZZ:EHCZ::qaZ:Ep@u>SqT::ZS@::>UT::u:AgZZ:H;mZ:GelZ:<ZuZ:@Bl<kc:;qAc::`oLSAuKK_R:=cDc:=szoX@ywmvduR=XIsMtdz[<y:;@@wLn]MCE[GRT[lRTlUZyer[[QZJ;z_C^cT?cBj>QETeXNrehCWTpsB:;Ntc:<AWar:RKZ:BUaZ:@xmc_LSs_KffaK@vDZra?@qXnp=KAA[J>OIS=[p?fITByctcjTM[mxelUGZv?ZiA?ZHI_Etsy@ycxBETs`exEIkmyDj]f;j=Dj[nKvo^PnnKAob<]uLAw;z;fTeDEh?K<sDjCAl:>DG<fDPvkM@=@PS[`R;gKnB<SSP:B:Gw?Z:wJD_CVmF:Q@MwFlqdBDmJK<FX;z:i=GgZuFmwE;@rKlZE@vBes:L?T<yCE;]eVNb<BK;B]sj`L<LyD]@Qv;XKBfBtlBLjiwDey]FKftLyXBbjlclVB]F>@yqFUB[Qo<HaVEeBAFfc]jKpcPIuVK=kVq;I;ac:EE;BGoK_KNuhgd==qmLGgvBdZoLAM>wm=FQV?FlEFPn@N:AFJdsVZ:T`BZmBA]EgJlZeB`EEbKL:;R[RlVgM^AjBvYdFkel]gSw@IKwJFR;ulAkKR[g]TO[J:vH>>Xbvge<_Td]tPgCHbtEPgKgW?LoVZ:dAh;AjeRTqlloVN[a:G:NC;nZYM_:Ub:ZnetcJ@EsE<MlookIrLw:Lj]Jfnk<_QyMgZmZCfA:qx^;Ak:uZ::Umd_NeL::UccRuOs?`]]yp`h:nSld_T^e::bxdtlZ::JCEJjoRj<gcC[:lXyt:dA?BQoGFkGlZg_r>WZ^Ber@ylvBHU@::bJu::CID::nWdBJTVR]?]ZUFe^dT_xVMc]uR@NJA=I_Z:?neWVB:=ddcUu]y:R@Fkr_]H]eMnlQVTgf:l;:Cr@ElYaGI?I_OsHj?UlDZWneymvWg@eBgmED@c]uuBXEcA@uIdAEy[WxhC=MqaZNYUNXjNOYLFPwgFlT=KkoOYUgXgifDBq;bJNbB;]xZRE]eu@EC]>P[NRa`JzqzeAzU;NVyhWtQorZPEey;vXH:vOmHRdsE>HOieJsquGiH>@O]vV]vZl;rVfZuRHOOBICh]IijrCyu>wi_@hNOf?_A_H[JDalEm^f=Jt?;cp;umFHqwcbdE]OJLbcp;us[bcwHqwAkuv]nJVVuh;BsbcU]HfwdBvjmo>UcuGuhUFRUMHt^]x<;J<<@h@zZRy]Y]XHbuhstcCTcG]?bg;=[Xk:LCBW^MNRjr>R:KHb]S;CVRtBY_LN[<MhL?CHK?[Y[dH=BK_utHPMf=:>sTc@m>?H:NQh;e:JIdze`HR:U:EL[<E`k:Bq;:B:R=HYk@:SCDW<`:U^Hr<F<tB@gneuCrX=[;VvzHBR]BSe:d]YVtL@GLa<uF><[c:?vZAnZnKb[Nie;@<JjyfcUr@:EfPsZc^^aRb=_cE[o_`T_E[D<q@bn`;SpCn[b__S[XoDptcib]EsUy@J[G]sWXcKj]sNce:FmA]VELJiUl@Y:;Lsd@TK^LtoieWGvuxBX;aB=iXHrgbunw:YI^^x@`v]obO@uZENRh;vzeL<H_nKdD<ZqvK^>LW@>Tafdx@]wYg=TqHNUfTgq]xHnTj:hr@gU[:NmGFdyqyC?:;v:FD=zJw:RXAhszX^Ej??;[jj;[[e:V:::<H[mHc=ZqAo``>riLDQXu<KpsB::O;c::UwJO?D_vSc:<Jtc::[Uc:<^>Odu::Rqa::<j`>KGNKy@_KeviKAKwja`K@KKnI@c=hKB>Kytqy=rZaAxiErdMKjXi=FRa=[MwR[k^[h?fc>YlylguDRyo<LVTvqdeJG;NXp;jKTZCLxi:_fqNa>GAfquJCjRikqxaGAJlL]_L?MKc`_Mvy<>`axCNy;NAL_Fdg^;xEoy>^=MuNeRTJ]dRmnw>ZZRe[^HG>NBKJaRmigHDj]Myy[DcJ:YCVz@buaykYbN<ldPgHAtVeNYj>nF]rmRjAlyMj[AS:m]R=PaFdOOiiJo;GOeV;Hl]RFaammos;L_qluJFaa_mYeXZ=UqT>gvtv:?GcEd`RYPIF<oq[a:nTBd]Qg]a^@E:@]aPRru[@BwqDP@`]@Rla=URKdfog>C]qgrDaal_vhhsn<:mZBtv@w^G[QRj:OWcJJpq;^;WsAddh[O:PqluQnUPqooNEU:eNTNYMSNMMIXaBBMuQKA`qJRdQUwKpWe]_@qAGjQU[]feIybCR:Y<X_SR:h];b>yDq`X_JSGuRMuTFxuTg]kS]>ey_BSvuN[aYdD@UQScSgDXc=_X`PB;BymnI::b<[PZJ^v:CmIaAB@;_eET`SCqIZube;AWc:bT;INTuaMkR<K:afqreSlR^LKGflSa;YwSuEP;SE>zSBCg`<Z_<S@BPe:i;FR[besC^>[zRFsDR_UdOe@E@JaCNzibk__HET_XE<C]wZukEe_s`Af?;DuaN?FHuudN?UeesabdbmWJOiBG;xFBqL@J>k?FLe]AcDa=xZnRCZ<KSds=?adkVPJ`_F:WFAk:WZgPU>=lSnR:G]s:LJ=``dSXPJ`a?SH:Bi[SSCPOE;`S;PRo=d@nB>kBVZGPX`bpSHc<pn[:fPQO_OSkt?X:Le[LQ:;EBxoAZ=EPAPNgZBD[vFz^_:oJ?L=DsPkF`bKS_qLu^BD_c<wbbek]Ub:?JFMed^MuZBBg<xuOs>C;]LO;Gbnkkos?JL;[`qOdlVLfGFke^_U]Z@^^PD:gnL^_gn>xahPlgix`WDwZD_JYSrpc_lzSIqO:<A[zqJqM@mcHV=`KcRHMxSzuO;FFmvl>eZJ=QSTp_nKRBzK;T?kcgGi_:FRwJEZ<JcMwDd[ZgMBCa:>:icYI]aBRFD;tcZE;@=;sXGHSMamJisJn`[DR_aiktCSqOAJgtVu@=;dJvHUVkrSShInafPI]iK=<tIYZv[gZsiX_=ISNiWn_HVUqWE`@y:HOx`Dt<iJv^NtHLVxaTtkgeHKwtwiQF]YSFsIf_tCYOjM`TtKiQzdet`:IE;cNgF=f`_l]HWXMPtN:EUaLXL:HU_<teHO>=wtSZD>;z]R_;:uO:Q=]RKreNy<o`NtTvEwdUNBqXJ;ZkRXWMDlDaHNj]]ZZqTn;X:rfb_abB;FDV]LZtt;m>]V>ZE^bstqSiBM_:>D@qnBc_Jbe=PZ[AEC=otoXYg]ltwXMakkkaHL]>?CzMfQkSt=QEH=n:LLNm:TN>jZQbV<lXMZ<JcyrEV:JcZGF][y_GXKA`FtNXJ_clt[mAAamJ<XKZCht_wB;K`tbXLA@gkgTDm>lZ=yhb_c<LLLIar:RyTm:zkNyYFmVygyXPmUklqUO[EtJ``Z:ftTZ<rbLHfHUO[^VKdA::P[:NEj`dtOs=r`tCUHT;sQtKXVi=stHoKB:Jce^fV=BcC]Cj<VtM[DttAHMw[z`fta>;ja]ByWA>dztkVV:TZ?avb_`bSTvEzdJ?tXR;LbsL;R;JQsawAQaRJyiRrbcdeyOz_;HzyKT>=uk;Or_Atbk>YbC>YXJM;Ltr_EhSk:QB<oMN?OyJ=M`gG;MIaJcyH_za<tBK[ZNy[LLGZPV?NyE@>nZVs>JOUtEg;EKhgXyLJPAtFLNm@>sB[PYa;[mLSY_k?syKZ@rtlqIBQBcvBAqke?n@_bLjta;KRlT?uyTxcuDVRY::@?:;Wj`H?`y<:Qa?]H?RPbtViREbX?F[JsQ@?n[SMkL:U[J=MntszdE_y?@[OZOGtA;J>QYtOj:xa[??cVY]pgd[UQnK?GygYaCCVKY=SLtLKQ^b^tj=CnsJc:NDsPJc^yWT<mtiKUvnAkz[UZP;?[iLf_nZCUIk=V?qyJ?<O?NKRBNP?xyjNQxtNiVxbG?yHK>ND?QKT`;S?YOgn`g?;mCz`??Q;Jv;jSSKWj_O?eXYkQKCFKVBNG?upbRQJ?EKWYbh?pyXrenthsdj=ISXlVj_??[lVFQ??RpdU_dJSlNRNn?`lYjbQ?hKUVQE?@e@FNI?t:?Y_U?>D;xBc[gyMmMSspcIVQe?:lScPz?H;Kq;s?>iUx_Z`P:;VPK?OlMNPtHWKNm?r?ctA[tf?fKVW]rtEoIYbW?PKWfbx?XoBFOs`q[WMBmt`iOPmM?LXWFPn??CYFNr?CyM<Pf?bBRwQf?UU;<];JSXPsNA[HlQfaV``[E]Qg?YlJLN^?YOa`:_`jpDDNJ``CSRQJ`c[Y=Tv[=CVwPrtK^eyEj?D;UoPPtf;MwOT`yCOPJ^?nqYeO<`[[OZ;Z`tCVTQ]`NCSDQa`odRQ_B`mKN]QnFgYH_P:NuCSj;atudSQLT`;lPuP>`ClJv[icrdP>O@?SCVJQO?ZSOLOa`SyQeQk`OyPoPrtTN;Ifo?TKSwPPt=XLuNd`jCSL=w`VCSaPr:IdL][@`S[JPPa`kSPYa[`cyK@Qm`a:C`;xg<[Im<F?hXPvbqt]STBvjtXCWHNZZHUAw=I:ac>]mc:bzHreFN::?vb:LoPf<Bu@HcDbm_MmacZRKZ::lmZ:?bD;>WkDr_Co<C=h:rC=FQU?TgCedBqqv;PNjJx;NcJx?TZ:^b]eniW]OV`mSUAaE`TSTrtHtYB>DOW:aRFS<mZjgDn:skM:<:<PJ]N=kLLZhm?k;hZ>eAZ=V<DtQ:;f`I_CiP]ZX:EiP:NDBJ=dgZLmEDer:WtUw<vc_JhiA[JvXdhSaen[KHno?_JiBKF?]tYPOjt?aD;OqtLtMo>kOu:A;NsuW]B[QBOe?YrMcOE:C[QxoH?Q[ODk[?KiQxown<KO_OSIZXOb<[wLoETBh?S_=r`iu>yOnK<QEKOj`ZphKLrtJ;RcPK<F[CsPg>gtXo?=?HdJ<PTVriJTQuwzdWqQss<lWLQP?wKWva``mKMtTd?hUCBcptV:?T]ltny?T=WSYWiO_<u`PNy:=SQXVGaABRqVpkMSxE?yBuZFqO>;nSAs>`aLZNPX[_iDMy=e=fSrO?h_L:HqRa;vSg_RWbItc_DW`lDDHUccjZAOV>OrSkHRxbKyVCYpQfPO;GfajS@SLGOp`RpYB=YSQlY=`]ecn>^_ctf;HCm`oaHTg@eRg[RMaWdD:<MbKXtHLR<Fta>:vaAOARCvaot]yJU_hOA]GU`c?Fs:UbF?AR<U`XtbOTfstCdhGsN@tYObE_PtZpWU`R`IpX=_u@YpQLQPtnqPWO>`N:Fn_:pgHO=N_N]tVWNeyBnAj>itj?WU`rFIiP];yt:XV=<J;gRbZNEtKpVtOu@f`XuNx;ASJcvZ`C;P:Ou?zXUbaSZBONwP`thySQ_^`Hv>kOotKGWmPi`MSOv=_pAXL:QNpp[MQm[kbcAZ==tFdX@PFp_yY:N^`x;QI_R`;GKq=Y?z?LMP>`kdNROY`I`YaOyO>dNgN>kcAgEOP`j=IBNJcK^bEPz`A`UbLVpB?RNQz?llNleto;dN:PNprXPJP_JEyS:NLpOyQ:No?];M@NH`TZEWQPpyKWnOA?H[RtEbSFl]vQdtUhO::N?jnhJND`W;M@Of;<hSJ<wtkWQsNw`RWRb_W`j;WAPJ`[SQqO]?opdBQL?QhV_Om??SWPQD?pcERO:O@dLAPG`HWVqOFTEpJTNU?OKJBNuphKQfNq?e[Ly:FpVdT_OU?sA`_QjORiJrOC`MWVr_hpy;N>PrSAWLROn?IWOLOxpJOTEbk:JxRsQ=`E[YJQAs_tPc;YOaWYHP[pWhXAN`?_iJTPt`QWRQPx`YWT;vApKhNmNmp?IhPNPpYKOIOn`:`UUOiOxhR<P=OMhOqQTpJ[VQPk`ZGWjNd?FhT?;q`zBEQOApctGMbv?gxXYOw``xVLOS`tKPBc?pCdRgNo`zXRzPBG_=XPNmpYd<nOUs:WTFNJGL=JqNcGYxKYN:Gp=N:osGISQZq;Os=U=`P`_SSg?mpVSS]NZpQxLtQSpe=TrQetwZ@qOM?HSWZpTprWT:oIpwGjLNOpMlLJoo?uNDmNp`^dTqNbpIxWeP_pzxOJqkt>^XfPy`k=UBryOKSLgPPtQ=VHOADyxLeOdpilWcqepidTVPRGtlWBpt`S^UfQsGyhKTQ>GExJcQSaVhKwPTG>=VfPy?dxVrN]GwxJRqCFkCPsqZ`d^QYOgG=KJHQq?MlS@PSJ][YRvVONtNCNoGDhJiO<OThY[PeOl?SY]_OXtPQ_:uuyB:;vTc::JDc:<[]_XN<dDh_eL::ngdb`u>OXNr`[`M>=@O^tMqlaOE?SSOUPAtMEQdJ>OYFmjkPKYyNEOZ?VZqftR?LFOnGXwNJP]Os`J[OQZL?L[OcO@?O[ODOhkDNrf`tMVX<OGZ?@qmNOO?PyKxGzz:yPgpM?YRsPOWM?SPj]N[<?<VOB<abPitJ`QlNKGH^XJ=EGB`Ok;]Ow?SCQUGo`QgrmO;nU[OAGD`LVreOPtXVpLPH`MwBe_`_Joo@OeEJFrnFJnLyPBqfnKPQD>bnVRuHOQAcBr>pk^YJpcGY@eJcCGP:GtPXGmMJ?NG?uGS:p[OFhSEJl`L[CHQKOiZDj`lOqPL[lhSjPT`NH:ZqK`P^SoyZJ:tOqT]USTZyOUGbnSCOJ_:dSmqK=KOOyK^OQAoxOX_<GO;qLR;AStbEO[hOM__kJ;cOqKToC?t>?GNjSFHSfDqhJHTGQrSspYTr@moHOX<fG]pOTrXtDpK^bUtPHKhPOpPpX_=>ttm@M_Zht[FU?yR_XYWNVpVUKWOjOlfV^Z@tJWJaog?TGJIPjOnpMpQ:pHKXaoWZ:ND=PPtrpUf_TtEiP=:SJlUQ<NBpu=OU_?hV:F?=Oh>=X=OyRwGWU`XhZ?M__zGviTqoHptEWN;RpU]Uc:spCYb^QNduWUC:?GznVsp_pqSJmodtF^TJPStGGMb_lkxGOTOFpFhLnQOtrnY@qEGi^PfOwp;WREPbtkhRI`]pLFSirLp<[QEPkqvGKWNAheSTrbnhHyLkqfpxxMspPt[hNcrstj=EPmapfCND:PpOpY^ZNhQGO>rNhc^SUO]LMhQkNJ`ZhK:QghZG:ZOo[stSJpdhMvMnP`oSfNJPrpZhYAON?>hNbOj?=;O_NIOV:FuP?GSxO;qwpfvYbOEhi=Lmok`s[T`dL?_=OQNmp][WiA^pPUNspNhX^JkoXOvWYLpJGMENlrfpTvAlrPGBxQRoX?WWWTpUpsAMUPAhBlKIN[?cbSrNfpKySCreWvBUyovpgbM@NApedYapRWVxK=NM?vSTypUsPtWdraGYSQ[tIp;bTm=^ubtYJNnGXvUC;?hmbMIPzpZbUbPjhAEXCqgGnAJM;sXdVXgb>GOSMENngrEMPng`CUYlooW:QW;qmtn=Rlq[W?^KkqCFFbKFqkGdy@nQwGtUUtpSpDQX;O]GcZZTPqWvvQBpYhMbNJp@pUbTJrfOlbTpoIha>?Pq`W_MQJqdWWAR:O^`hxNlp?`>QPxS:pKhM?oo?Eo<nOU;]QMPrCW_AQppYPM=TCpy`BQKyodGNdORoiWr=OHn@W]kTSr]G<rUpoOWqKXBrOWmWXhppWp[RJoS`l=VpoD?HC^@PXWAQKq;GhrQJ<rRWl^L][qWRdKhp[WOiS?qzPl=Vx;>hdANIdnWEUVWryWdrP=NSWOrJtqLWTMUDP@WQAQ?r^`[QXKrhhArWZO:hQ;Mw^khK?R]qTOOMUVqgkZ:C=@Z:HTH`NLoq_FS=?ooxGy>UXO@Ox?RFrI`t`TyNjGRnWSNMG:MMEJPpbUJvZsxKMXvabWZjN_=JOBESgrZhHnMCOhZV`JdQROgEKB=AGKIOilBhS?L]pgmO?MKQRhfIJwoEiMnSnovF`?=noo?[m_eNIGPIUwrJxTZA^ou?Vm?EpZhmD;<qvGg`YgqDOmjJMqf`<EXfo_x?nPMqz<wwO]rY<HETSQshf?TUpjGDD<qk_hjAV?Q<xtQPdqxPV[?tP:oJrO`pZGUEOTQ;Wc]`FowhNOM?N<hHcI?Q<hIPV`OxSTOLA@LhPOSb<mh[V]hbMSLfVOPESu@OGaThwUGeqEZifKJ=uhoQcTqZWdfSAOnOPgN^?:tVgiXK:t<FXw[qhQb]da]mJpK`RHynGGH;nwBzLFn_]`BfR=fxAFLjog:sjGpOu?QOMuqUpjOLCcjVXzRndiDuHJJOfOqHKJ<m?Ew>M_vOsUYhQKhIHOHoOhxXOzqRJgGThSPpeUQ>czx^pKqpKPFzUPosPcog:Gk:IbM_bMxLFTPo^dwzYEDB=CpQ:;WWrUP==jWdiNjoWJYpTjpYCo:u?<Z=yXQF<UxYkER:cpyMLJI_l_w;R^s=yzLa<Shn@acOChQ[SINs=hRSPkF=OzUvbytkvRAaspWXI^PMh[GRbqEWKvTyoNpLvTXqopuvYb_iWPvOGqkGivTxpk:YnQ_O`W>ZmyrhtCvUAObh:N]EO=tOvRcFrh<dPHPntxvUQ`ZksMScFxWFIMcIUtahJ^ol?_bMyp[`SSOhNo?bKXUQlx::ySrKGVGf;qfWwAOMPlpLAMbocWL[KRICBPKS[qoG=ZytPrOXAJEPlp[AObb>WgSW_qApcZm:I]=CrRsG@?FYEOryOLIOYLXpAZw_QEsktN?<c`zBICpz`R:qIqqxZEVNofGMJpOp<`ejPdOyx?MSfqQG;wR<ER]a]GmMFxzMYfph?Zr?j[^`_YWVnKx;RM>G=GHlWOe]movQRHYW?bQUu^LQ`VjOzWHbOyp]?DkmZIKWDBKoPEhstJiutG]hM:Fh=QrQbQH=@YYxp`=_w>oNiWpJnTO=;@IPIOdpw:nROIhxjMLqo;czQBtW=[IMoFTOYJyV;Tx:Hi]DZ]Bkyx`uxxnSFGv;AogwoaxVknTPdp?kruQl`KkyXKmt:JvKp?PiN^gF`=fZkVIVZXBqY_MWdkzFnX_rEV<U_W`UUVFPWrrJIfm?^kzgIgGq[ilrN?gkvHLj]OyPY[`t?XQEP_hpZvC=jW[BohrYWIAS`oUWVLLm?P?^TVa<smBIO>IgZ`jUzBG=FzBPs>kyJs_IuGpjC`SHpzGQgH`=?BwTFHyoQLDHR:;rWmpm^iBtwbZFEBs>GqyVz>vPv=:SNwHP^;:muFMWNJu?<E=mWPcI>=;cudpnh?cP_Ni=jWKLF>:EJ=b;m:jBqwH[JElW@HP=OZsoH_=A:HJGN]EJk<IJWVnUaHq:unNvoLOEjUEpJh]jRVp@_UJDKNZhFR<u=bBcrCR[y_cNHJ;^`rJuVov`tk;lPchfFHm;gZABfVoshmBxFGc^de`Apmp[mhUritTkn]OyWWjPoI:hg?VvpLOUjYEoXxLjVdNyxTjK<GbGP`WNqBuZ:FfuZ:ECDnJioD::sVs[xW?N]IARNku]I@x_sl]FmpvB?oQqH=`WT;A<?FYant^mszcrY^W:xWeLxesyPIf^VjJfokhHskKPyxysnqF;xzRs=fGka]:D;^=WnUi[<ZNknCRM^vtPUq:WNnN>oHGg_fmv[^nvXtO<]qphSow?uYYSr_^v=KKHJGuN=SQ=ux;OhPX?EpTuG>^B_]CpNMsKOuHyOQBumrLWHrUjOGulbWwIgMiUTKIRWr>npOEpSBv@IV^]bYdqO=@MTCGMGCbNKGV=wsw;PE^S>oTFQ@ZdUlFTpz>m:oP^x>wKHJGPjOBJU?][=sGTMj:xCHU=ko`YrOWd_psqDMWlSSGP`p_mHNrtrEYSI=VKYPc<<h<OY`a]hzPXDrdOBqUQomhE@SOPLZ;ONONESdOPeqzd<Nro[ThTuEOO;CWJArrGOmUKs[=xC>HjrB]XzTGBMOGUTOFNkgzKIqnxgiMjoz^[<AjoAxCzXlnAxKfXkIk:YfUYo;hfQM^aOpMzWhQjBfzS@quovzV>]lha:xzoGhYzN>FjtZ:qTrJ=MpPMAB]=:p:F@tACJqqk=FHaEsnxe:pgF]<;owf_JGlotGHmJ@:mKKR=G:ln>F=sjFkFVM`pVdGw=qGJFS^hkZlHoNWH_srOT=;Jt@F;htkz[ru=VZrb_VWnhTJoe=KQWVFT=<svxH@^=jVXom=kFkM=bhchXEPeMCXPRH:NFJzEOe=hZv=Iq=>Rz^oW`=kvKHXM;=XY`j=z_xsIj^BAROGZWocuWqZWVAQcFfhOhKNH=`MlMvNB?IUIJNRWJ:otGi^;;U[p<`JFqnId=X[S_IqHqJomHmJOAMHo<W_ZnkP_ntcrKHbtcAf<JVnuMQyrEggQQRtmWgnKoIYMoxQ=GE^cjXoI:^K_mfpZ^rRw]o==Skc:::tc::UPXI@::cU@::szAfs^qR]HvcRssyF>hrIYFImpqBtyGApOBwUIYpgvJSIB=_zTLIm^Z_mlpN^fkl^Hh?XkMSQb=][BmGdpPosnFX`:dL_HentFvsrBxrZlbIwZcVv_Fr=ZgoLGg^nZkQ<v>qtJqGB:MRs:@gZzycGp_nTxOyoTnOxFbIV<j?ZN:sZEVocR^`DBPPPunawEwF>^<JqUHkkRjKoGPWpgviIZ^@jO<IqnIkc:<JVZorGGVka[H^^xsm]Fn=cnPlNMG`SWyNs^aCNbHVMLrRWFExVVn@GWn?_nAIN^UkqbFMGxBlVGSnhSUxQOnGwmWHkt]wkzHP?w^LQHapAwweNOn?AOpqtnzooNITOJ<k__N^IByQO[`zByFqLpyHVDFqOAbS:jQMjwofIUturIAIaMugtJNS=DVum=c`G;Nj[:WKjSIIFmMNo><_M;Rn>q:Mw]F;Hr:@nPiHix>>piFp^rjM;Gv^ewk[GgmpFSVDcMBszfqRMXkW[GI^i>xAp@H;>neFFMy<veQ>M;dNlI>ETgsbHF=jE`TPTErZmlFl`U>kdog=ZxTcjiOZRYCGTEKVzrOaE<ZlJiK`Iw;dFLMd]uYrQnMFwdIPE<<v>Nk`XbS:pHER_l^qS?@CQmqlOCYNDqtS]OJO_OxRfONNpxofYQr[c^W_rq?OmfTrogS<fPh`SMg@=`FxxXNne=vSzYLNUonlNlW_;cjm<v;N>=gLw]GMJ>wpIFD?liOH>C^LzUsWJ[zPUJWELW=pGp:tGYpFIxmKX?=rxpTLzq_tUzPZFJ=`VrqrbMjzVkF:=AHJEIMM@UJU_pErpZqrR=iovWIrOqISkGYibpOLIvEULk]JIMvNxao]tN_sHrw=LycBIjMW`<BGYMA]sNFEhfsaEHxtdyQMNHEbFmQbZnrZrSOJnNmswikE=EPTFBWmFkI`cnCZlJiVWGFrXqmngmlRj>nGbT>GaMq]y?qNn?<zyqrtVoUsGdpcAR<juGnFm>HgnjXK>FiWrFkM`W?zFohFBfJbV_H]neJyEI^><WOEGwxSAOtrEEF<s]iRt:c:dHIndyYLP=pOdRimq^EGJP?S?emmoL_MOM]aMe:drKDh>?R<uKrT^hk@@p^ERolMbd:`LqVhc=HoyWPWWjiO_OTfyDoCpTfMhSns<DzG<wj<>fBEmj:ExQO:;@fOdO^Fgp`=KKoyWbDk^G;WABxkKw>OewEJqfLvOwj^tPFumOvKvDlq=JEFwzdHXfZ;XTgyf:Tnkdk:B[<wgZ?JTmHNapBtM>FRcVDqxr@fZQKTANnbBmJjxtXAfNvC^?<zRvhuG_rEQXP[gyXKUEzkzyG<WU<m`?>?QRwMqJ^fBIBN:uR]m[IXncYKFFAnssrBi>hfsy:huHfex^qGftgmiHZhR>nkhO^N>r<rEnhgtfq:o:Hc:;sgR:=hybjH=fZrBYFsMcuxJhz[wQSaIBX:LAajJWtzOc:TEG>sQGwfH]zWIuENJmx<E=By`dIB<GDs<FMxdcvTiBEp[NtpN^>rUTH=^rtKcp[nKmzeFXfruvZFB_junRgIftdOTGs=k@nSPd^R@rMIqE`un>pPEabXtIFhibVCHHEktReQo?F=YAriEQux;puWr]oPicfW]yshtWNrMwhi?VQN?IwhBNl>h[MLOMVDOxNNxQolM]Lmlaze]fP_ghxeNohazdBax_iWxqNneoBCw?I`F=xdLk@]rOnLtI;vxXcyjqQTKHZoiXhF]Axftg`zJ>ZWEVs?ogqhGzUohL=zLrN;QtF=VBcN:eerhQef;pM@qYx=UWFiOnVonz_dh<mxLhEEXJk?hOnJPtWGB=butkGu^o:lgh_lHam`?>=G:sSi>BO:rHFw=?uoxGRUuPtKiQEfooAaBRAotXEQ=>VoBpCxJDunNdfOlUBGfhcFtiozEoyOoPe=>ct[:kni_uUIKfyTk@oZfRJqnF@=My[XrcnTTx<gW?WJv^HGULhW[iLGP:<fIX^<VkM<v[vZqaj@phyN@Fsf[JTRjy=NTnCFHpkJwSHy`mDnAOgndDlJj_f>ybNGNf_WXGgKpC>:QHZf^DwQnFfRSJeQK`stTbOe=wgygGKn=jQKiqEViX^=`fr:hI_ypmDB?H^UOVx;iUtfvPyGzf]czyge^Ds?U`@pnZloQd^fBEAr[fu:yGhg^xcnshxp`dRDh_fJonJNgpCuouHYfRHn>ozferSpgcfh]s;jIne@uyGm^qBlUQBUlmpKj_vg@k<aNvYuvshBUAHnTFqOGvQSFPp?AODFUUfBlqPcvqHpyqv[mNQxjTnfKObHzEkqm>joEgHcMdlUn<oqi:^knE?id<B>rHhUG`RyvrJhbjW;G`GATkXGfnZYT^cRuD>nFn_u_]rXIvfkukAFbnrZw?qntK]u@FRvASRPiWnWek;gHf]:=X>cETTtPirtjwiJrngIkkSi]]x:tfgnf:>vAiykXiwii<EDwzvrkEITqQ:Q<YTvihHv=soYGVxUiw]PpfrERyFwOp:kbhnnHU?kjnfKitiFavqsqbjavjJtUhgfUF_Tu::][UtvjgoHjynT<r[I_OHFoJhH^XmqMiYi:LEXjVv_bJlIIfGdPyAlWOkwCqbE?qqrPbEh@zvjzfJ_p[hFU<;VsID`Hczshgvi[LleUvxukAgvv^@mCHrtF]zjNev:ZF?I_:cNqQrKE>NpQotk<LyG_YlwyeCjCMDfPONzvmKFz^OOVaxroDUiqRNhGO[fWUt_kuFHjrI:bc@Z^OEueE:XTUaObjo`PxACOFh>i?CWbw@y;r_`:tjnjpP`@s^NhQ=OIfRoNsA:<nJX:tW;yupvxX?hOITl:VFShT:`qKqnkAfLv;RxErrN^C^ySSW:fIxBoqehjHsolFjJ=balKrXU`gTZYtP=:t?iAEP;lq=GhI<EAvrOoeva<MEN:?cXicEiQcXmAH?f;RjM:ZuHoRZXPrViYMgUKIjwAXrNmq<paOXlpTnzU<AA<um^MmjUhYFnaje=@HuwhStZxWt=QO]WQtIY`W<m=jsnEPsMGhUsHv@gV^Pyx=gghXHlJiA;@TtWrB?sezBXG:EJrcWmfPKoq=F`t@n@Pf;bI_tgKhs[legYxmmn_akAnREzc@tknBZWd_>jd^NyAUqkMFU=ZJqmGU`wTrui<D<TpxilCWyZ?OX:][bEgcxjp?PiR:lL?oPPBmyvNYpA>yrpLG:WKpk=OWOHltG=AqMZ?QpgKAKPio^FlxsVlvtt>oYeypXwCOCvClkZUGAu<D<Fff?iz;GSv]HeS@::RQe::Ace::jYe::=W>w>ZmErjh:YgoQjc^:clAggpw=UeHSPTyn[Su^w@kZiCAk[LngttfwvTG>EstT]^ZbEN<cVFnRioEFiyK_jKmkbZlnLQ=A<CxH;RbzHuJpIUJHlmrYni;lcWEAzwv[LX^NHrYfxdyXV_WdfqDl=H]fvQUQ`uAKPtLqi`iKnakJc]iw]ZIWSKyFhiUa>Eehc=cPqZIKUT:q@GjOz;a^N^CTdp?qhATHyugsbGVrbPzWoqkgPCA]LNC:B:QXclF:WgJzvNyA_TxKrT=dPmXhkbklmTVtow:;Z=ghElRcNYLzmmEgyvfvRuW>bnBYyh<JUdtwjmvDDCuVXWsClKp[^h[vvhrf[ds^^@bMBL@Xo:AdxQN;MsxTeVbvxLQ_`@GtGPqnpnxRta<G^nRyo:UAmMVaW_EkIWJN=nUQDPXhn^HpY`vWMyXeVtbTmMcSXOtPsaXSHndmaYeby]mwOcW[ypaXTb=CnzffC@]kTV<MKdrqYObEwlJiEvp<uKp]frnQcYGUIox>Y<bdPsV?hgTcM]f[b[m[dF@E_dmtgMM`hJaQdUwGdFh_AG[W=PTmT[s=aIbvfJkGsPo:wz=CUFtOeW_h:^XHVQbWCWWgnbLSmLVIuhtscoIUWBv:qNGhtkDVJWYokLgdx@iR;YNvPlz>_vA]?vxbk`mCSsYIUcIU]gRQYkveWznhETNQof?yo@YcQeHM_N[At=SJqYpYty`q]W_rR@Ykb=y]QG``_rTUNl=>wu>qktg?mdolAFMWf_@`n?k_VZQ]LXlWO=b?um<vh?ksD<Jx[^O<XlGvfLCWvU`SyCWF[_`wcrLQK^_ehYGMcqyYhbH?b[UQpH?mlVTQ`Bv[RV:O_xmJO`UBCUpD>feq=:YbCyxxqI]t`xgY<?J_::;P?dnTQqMstSPNybNup@ggE>ZAQi@v_EVUjO^QjY;IJ^]H[au::czeWazlzm:YLp]KwGMGbwFjiuApMd>XUb:EWiYsxytmBj]bDeuFjHU?KuthnceGJoWG=SlvghdUUpOkWtCrtr_qxhYssbgHxvTqriIArTs^fjArlnXFgx;XkXg^fZVnTOMG:jYOVhAounQjiOw:yaKrAuXuihv`zOqVB<ZzTvXGxvnikIjAnNsqHhMQmkpkGDQpulEovUUvJ[iQv^uokFyMB@u]XntsxLpWrOYtvgWfAcbQqGHbb`u;YIQ^>xAoiflpmRW@QFzE;R]Q<So;VruEN<RYQhLqrNGkciMP>j?x_cDQpKEsNv>iKMwLsCjYvT<JJaMkeLzzgSEHGwe;R[AYWYCWxqqK:VGON;kTo`Ex]ySjWM:T<qgPBENkE?@UfLy;@sZD;ue>JKLpPSiFrF]>=reUOLynWeKmiDohkO^JF`?Vrh:wEWnx?DMJVb:fL@:;n:>kHjrMl?;okfuUqRrjALruhznX^xm;zfYEPegWEXa[A:<kWNZujiIoQ@cZdkVAsBmKUYey]zLWX_AjpzpNvH[<SShqAZ[pNI<AkovhQ`APnhOVnEAR=cYlhU:sxFKr?mmKMwbpiOU@sZVWye]k_]Wm^H@[DWqin=auWziXaApmyRXJ:`[xO^rEG[oKV>EK[JBY>fXLNsVh>E[lc:=gJV[sY=`:Gq^gUbCgx>Wr=GbOmV^:WRsrF`bnVqPYMAARlQWAxtt>>VeMzVqqalBsSz=DkGrCG;WwWkGv[gQQ@lNPVxrSNArXhn<Fj[gLWL<oKhdfh_um=nKy?ppIRbWdz;W<WG@r[jh`rWorI=ncrCjVnvHxwYV;EEGP:f<vgWpDjOHKvWYXxrhxyo<PBkNBIY?AoRuXWOQttnBVrM^<zB<AEDsUyGhQpkz`XhrbKreYoWotm[Y>bqls^^Cr;J:^^U`gQHFVREsyR?:SfExrPgmr@irGVQAnTkkjpEnBFhXhvV>rUH;xR]w[FLEIgk<YxvJCwyFZbgQU:r]^>@n:xCUkGlKHdv>qrcsIrMwoygiW;]yRH_W`=YAVg[AxnDhtArGv]:@?rxqjXzrOdybsgpKKnG_OQZWp@pc=DooORVr<^sHphAYdt^`IUA`q[XRIBZbF<sZbRDAhMrO<uDIPbP_uRybQosDRzQpSwpWVNQW^uEBhJb^k^hdARTlVHA;aKkoZ]<]^va=DIS=ptO`vQWkrFrrzWs=LayUUFqXFhmDH?=`Qc[tOW;rR=q=<mbRLekHvMJIXhFlIb:ud>HIS^wECQ[_hrZZ@fqdtRw;hPbXKXCAZMzEDk_M^t:pIJBeoVXHOT[TxVtoy[WuQeI=SmIGhgWSoIIxrlL;QI=F?MyVYnntt>=peIDMnzYxrUU=pVFIzJsAqaKWVShWNOKnyI@dQjwdPOU;XpwQgAQstK>N_vFMryVNv?pvzEafR`lZwrumWrOH[I>Xy>yD>ohNuFpI>>Oswg:ZEucy]WwFeD<xA_EzujWb>Gu[WD^QMmIYXIchwJoJj>nYfFl`Mo;QHHkpsV`A:j>hnX?sBQ`Kr`Jj`yGTikjT=k>wYIBZ^]yGIjZD]wAA`jO]xKI<>PD:tAbxmFPtPowJeizNS@s=JZI[MrDXjbt]x=PDrUJ<fWKUbtoZ<MEknGI?LjbaqmppQqho^`LjK[nU`<OMpOZ[e=hdkfF`UQDxj_=usGtLyWIGyj:<@lelmk=sIOyYRuGrZntYHsPt]swy^dEsIYFqI<ExLx;Infq@VMALyFHOYGnqoxqob[F?uv]jds>dYlFRfwfXbZffqwyqIAfxow_e_UlDypb>xsDHyrYfo;q;jBHuEibrwFypgTpKftgYcIVUv_tRI[cJm;IuKhXLiPxHOm?XtjgwtJyCt>OnEpKQ^Xn?Wavg>wBj;n:Hc:;rUc:=Z?gGY^=xnWtTccPkSnu=voYRYX;QHcvDxdrmnlUHgjUTnUFIAtnNwWb<VwLoD;JhwPVz=XBN:>oMj>XkKGwIuflpYnjIJMgz<ETvnwBWiqb^dtK:YqPkxhn:[lIf^jypmyINEPlS>xArM`JjVdx>DDhq?ju`ywy`jFMryzghNlvklDfahTfhBpDfqXyQAgAxXKEjxlvpXfjupq]rnl[:WmMUj^ivvHvjEvsXgMQfspFpy_kOoCNBI_VmErnQyIVqwO^fUt;HavEXtqzyxrUs^c>KZvy[Ih:BvnFQvjUvxkwYjyxYdYhQgFHoWKA:EP?XHxc>t?VU^=AwrhEnDpmiyTx??J`X::SQcVYHEWlx^j[AmQhWfyxNGHUkCcSbXlIgetmzecShoJN`QPjM_zwjy^pDWOAARFeWQMg_<tYWh]tLNwpQJ`YDWhhJ`ReYXYviRtxufcWqWFbjgF<txkpyMV?yEQEKr:ImlegVozXvf`rbOcWUfum?ajIkKTxPjmKJ^EzQWfxVFiQVSnSq:Yi=LTwZYcgaUVOjyM_UQY=p<oMin^gF=eYpjfJppXCtHntwGxQZYR:;vwR:<rY[^eOlZ:GC@nVB:;KgR:;RaZgB::H]k<:]HvuqkR;Y^uvgrI@MwmNe=kisiNujvqpKyGj@:epwWtTAsAq::Os@::UBu::sQe::]jDdQwF_cKE=spndzgZWJy;g[YL:=ayujDSKCzUYaXy[ygkBrwTTIjkc=GwA[fvxVzjjmCL>j^`xrnqqkkgSu?WTvPrwixUgUQvhyBM[ruWxeBZ:;LiZ:A?mZ::=uZ:IJe>rzetpX]d_Da::Baa::X^e::jk@::qNfYY:uo]HRMx`zxzTY<rlIV_U;QV]RyAvBDowTpLMVOz=A]H@xY^WN^p>HHbmD<VAYG]tY`xJznQn=wcYinqhYPvDH_^wbYvAxGxozVrkXwJnWvPKxn^owspyjYgInEyuY]>xpwRum>wfynY:Iw<YcELWQEPwbPRrhHPrgplEzNYO=kUVJmW=wlyWfOvun<gIpIklQAs[jLFq:zzAw]N>v`Zzwj=F<gKw@WQMjxfilYygV[wDYeApdNYYOsGvzUQvJBlQyz=Io=wcvkqnUx>>ueGbY@YwMmOW<``buDhtI:WrSz;ButkRWtQwQrmYOHEWtKx<bAEno>D`bppQ_Ozcou:yaBwGMDwnQnJsVgcXTGUxVutPfwCzLjz?rdHuzojtXzCz<jydxvf[Xpbx;zfGPKi_ITj[EtMzfPq?XBpazqIrlzx=rIy;xapqVwVIDztUxhnNnW]wqrqzqrYHMH?][vOWT`xjVLIhpmtqBvjp>;pIQxhoJWDQYItoFEf_D:iYekoLj]aWKzclFd^_rVa<cRWqQ_cwKM`cwF^[B:;QcRwzIjU`IG`?w>;e`gukg?w::TPplz]o`sT_rx]h]xxcY`v:Erixx:yc:;hlN::=Re::DjG::>ES]zp@iEinOy<[Moi@zpl]qjqXyZ`N`yf<kAyBBmRyJ]oc;]>pIyiArRXiposXw]k^qh`qFu@Clhir:IPyXfm>uSpo>;c^maqVEqiijHpoPO_l:qi^qKJmynk;zznWi@]kvaAMltyGy]F;y]nADU^rJu[YJsqnymsqfynKij@n]P>fLliqOKzqY^^zquLk_qAZJl<rZC_qSGn:H?GmCR_;o`:KLoHmOjbmgM;rGifLmoqfLpWwG;nkH?fJBHeJDBH[;r@DuzOZHhhk=J<lkm;fLlwwMfK^w_zPm;<[kxTyJGygXzKwwAfMSHVHLGiHJIue`JGeaDY[g:xNlD;gzOeVX[pXmIiKHmxqKxmAG:=J^;??ZO;<AwwJ=Oi>VAQuw;>GiVzPHJlr`uea:Gm;VzKJwWhqyc=hmGiyzlT;EhpP;?fpbuAhkoqI;qAFY;r^HIhqNTYhp=ThbnIH_[kwqo:nOXoJHmHa[qeV_moKH=:pWwT[pkcpiLu;pM]niOMreXE:<;iqPnFHUokgHBXPrZKWrVq;QkEPx[rwHFs<ficZb[DWBbfiYvKkihZDJ;TZqB;ZdrhHyfotyfs[QieMpUa`]>:X=[ro@ZKrLkYMrAPno@^HGZktyP:?XZZG=l;anpUamQp^Xvfp]LACr=HoDnK;pcAi;ej]YTKOm>uIBIPXlSkoXzWppaTCpKHD:B_Hodo<qMbl`HNfnAy?^oLyD=lSHrpoLLclon:aQqoi>Apmy`VkTyI:EnXgKmV@SZCvHwEpS<OZBzyN:IcDHcr;yofm^yarrB;XjqIy]>pF]h:FR;I;@?:Szo_;?zmAqa>kwutAQYiYBGUyqBGCDH?lDiaMqLDxz]h;PBo`;`KqFip`kUTQbkwydvrFXP_oFiMfmgid`mric:Bgi<lMywp`lwagZCcDu@rVXqfld;zB;O;T?mwiHW?wiy]ohHLtlmXajp[Z@BEZiLnMB;sOnE@obpsPMXrsPVOrQafF<LiDOr>;TOkBwtkpK;DD@QqEkD>XAHp[H=BC?;;BIVD?RDO@dCoZq?CnKHkAPHiUkDb;ME`qJQHpf@@nnb;BwoviDQk<eaCrlHe[rdqTsBzeAJH;iUCqSHXsH?;_nlU@vVoQ;A=Jy;BK]hDbWm;qYRorZQkC`PV:E]XBlOz;iR=UPkXoJ;UVpY>FRH=i`VpwyxbnZ::QnJ@RQluVXSqZ@vIoieUSm<qLy:pHslJR@KJIX;gYaX;fJIfToGJy;balTZIba<yWJIk;I[mXyLZDl;FTk;afnrF;kAmS<TQmX]@QqVXIfrYP[Hlp;FSnE;X?myiCUlR[Ek;y<?QnAisSmLXkYqzDI[r?y^QrUiNBCY;O[OMHvdlnuElMGeDWLzaWWPnHfprsFxwpb;^sEziKBHI;CdpOHhSnxRxSrQiBwrS::=nADnSmViNvNN;AKkyqyUpd;KQqn;qllWHEK?=HuSkaTfCM[_ctm;e<xl@LQSkN[l_EzyZtkfDj_C]uTZok[LcI_[z^mfHL_HxX;=k^HGdOSDTEpUHRtlEiTbKVFNtl<[zSm]uhRBfD`jP;q>@pk[KYnNPE:<D;K;NPyfsl]@_HqJ;`kCvyocEZ:kc;c@HJFaPnJBO;THpT[gNB=TPRBO@?ZGmVS>Bs[mNG:qQ[lE;Qsk?i<[njysbnU;]GQT[dRm_yEUl_yY<mxuX_Bg[cr=Ju?:FvPwOnH>YlmA;H__RePHnR;mdLmDbNDNibNHeulcFo;OEpmV::CfipfohHbkq?y<`ky;FoDV[TQJu;OgqyuuILF[a`ku;AsFbXE]r_;`NGMwnRB>izBCZqcFET;K^PKDHFrs[_>DDXNvMOX]nrD;piPT;biJB;`VpIkSRH[;EBGS<koHBTDBE:[`=OK[qKr;[ozna[fY[m;K^Ocys>oQP^Arj;exro[F`m>;@Xlq[YRDj:yoFYX[oHIkloEsyu<nDiTWJl[?oImgikInHGbPi[lfo@[s:GzyzIkfPMoEiyfoG^w?FGTqaqoRTu[rIB>gF:DzNGS<OSne;ZFFIXWvPIXS>GMw=_E>yq;N[[OuoB[Z<n[[twpDH^NF?XnNGz_UNBNHkQqT;O>Hu[cbkDiAoIuuYNBN[]H>C[OQphX>oGhy^JEh;DnnmgqKo:PWFBQPoOmQPMFIl;`_F;cqoIUqioCy>GnKt[?kM<Zuuk?[SjOH[kgE?[E[`?[Dllm[cbNgLwNC`[Wjpq;=oDmy]gHfDmgIl@sUku;Z<k`qigGbHv_Iy[rp^Y;EbNvidXrIaSurq;wgbD[v`LA[;Koak?cKK<GNEKHQYn>HMgEbJGYoHPVkGwqFWnfy^kC`Pafrx;^Yrz;CbnUyHyLuDcNA_D]FBaPvbkOmjJBPadiOvw^;;J[]RFAwqYbvcpiM@;G:rc<G:qa;oQq>:PFDyaXcGc[SxqV[pyJfHrIqR[;H>G]acEzTBjqs[VZGODtwCMT^nkbwjyO>ukc;YyU_F>[M`MSmDUnLRn?A=;m^LGuNrNnXN<EvwVJ?HiOwFQcpxQQ;`VD:KQAaj[u<DO__xlxXkVkODhFnSyTroV[]gmXP>h?JXKUpi[MBQZBc_I[DowBsi_vpHqPKP@;=wH;iB]DrRApm`[b<E:;;<Iro=wHcK>g^MX^GKe@WNHz;pc<Y[R]FQcJ;>_K:VCjoMwBNKa<FIH`dpyX`<pC[W:J^Z>VBQXx:NP[;iqP[QRIUXUFGPiB]miTyZ:?:f]DqiBplqimzqiy^IkkKMn@^uTEklu?wphyUwDK]wAqWyUY`Wyb<kv;W]BS[VbqLX=sBq[vJ:<ieVE]iAXKGJs=:@H@LHakyjNfDh^_<KAYbS:bcHwKwrrYXW_qHimwHiePsFeKeL:iiZLHI;ZVFHwCm@Kk<Hpd@k:IY@BjlZ;TwF=;w:Er[GfosegwBDXe:DM;gF;K[:ZBB[CpljH>:EZX=rkcyC:Gs;oYm`y<Yrpybjmj:<zqDKRppDKezp_iHMos;f;oAy?=o^[akHy[eLBKyqjOMyb]B_;CLER;mCP:;uzkVa?urX[f<IBahzqYys^mwaHZEii>XkXiZ?;zyTkEzy<xpAypQK:;:oD:KxoFZ;nGKs[X[qx[]=oh[JRBWuRsEURlwEJ;L:@FXXzms;q:I_:i:EWixYoB;@fogKtvoW;BZES_fcDR;@mGR;XVB<KA:HHHWjmWi;DBJyakF:PdmDMyCzkiKJvmwKamCiK`<qdKRykjPtgCx[nmH^auRMXKz^ltqlSPwaAzno;g=NF;HDF;KVgEN;UBm_KJAlJKtcFQHGZCC[ZGmFyuRG;iM?rd;>nmLKolo<ZA<HLTNGoniFGqDHWBQRqsLqKi_LpDmUyrKiAym@mAZEfuIyqVLIZI>qefN_qVy^WKJJCINtGnee`GnpTpGqDPVhkuaUCom;xJDHmukD^KumKcHMTN^KENAELhJCCNwTHym]TFB@FpKMKecmq;tTQuegHpl_XzQELphry;KkDxiCkD=TSkIKD?kImX;^m`;g>E=iFom<qTfnywBfrZcWJIQ[q[pfyFepB[os:;;AwDiP:@[iPBBIAT;Pql[SRIEiLFnSaVBCfi]BIVHmBC=[WZHUiY[kSPUmpC;kKom@z>FNBxBnlaiFCyPYoD?mgKL_XoRrv[s_lG[Qfq;X?DNCHyFDgDETDL[A?l:qTrPdHsCrUK=?lD;WsB>[EBJG[vBBaHYVBiT][OKJHJpmiFemXKEYpuKyIO?H`jJ`H^gH@KBWocuo:pI[`Vpj[o>Dk[K>GiRu>EJladlM;fqns[leF:KT?kw[g]AGH[NI@[]uEN@rwCRKmZEz[:SqjK;@Dw[D_BnHJLCxHnBpu[SWpV[cDIklDSpWHTSrclQAL^Hp>IAKU@Ep[VtoL[r_GjTaSplPP_Dm[`]lo[sEoEHyeFoX:<HJKLcp<[GSk`eFnlS[MSqLDESoo[:DHo[K;q<[t<Bslwtpf[MlMN[p<mxHf]nN:C;rzySVBii[RIrKpaHBlmtmh;IdoQ[ILB:[IJM=;rtMEmmDGZ[w>HT[]>GvyOXq[ewTCvKncrlko[mdmkQlh;barnK_GJR@tTMOXQoloH]tMOXVPH<yuTCW@oPDdmo[oQDTDIzawTBaKKTCJ[gGNz[RF>[yg_I?qzdrgTAuIzPytp:KsyJboNJqZ;BHl_[ycDCabqlclMBKd:s=?uXBKo@JWJoLsWQph;sLDUXFLEcyDoHv;QjPSKNBqMyvlo::`je::WWFnbcV?`Z`VwEY_IhOgLt^z`b?^ORYYxVMZRpJgWYOvFOp]H@ea]]RYFFHX[VGcx_uF_oV<w_oWYN:aji^FgY^[ELawGXS`lolMjFlPiehh<hjm^RNRD^HgNl<^FMp]ik<G=_Ljuwzbc;^TfcV^TxiG^uRYA=@RJBg^z]lx_zc:;JIN::D=T::TeG::AFSDqHNBx`r:KQDBcTqqBNitqCj;PTE[qwMPXXAnNFlmaDv[EK?<ll=Nzyuy>@lH_aHi]PIil@TGwX?Eq_KVtlXlwHmdaYfqPqrENxBUIl:lW>FMmyuG;lYPBrKgrPFuDENfqviMaKaBBPKxcIU;LoBalx]BM[mHIWyTVHMyZ:=g>k:<L][]BJKI^]pgOB<^pbOhrl^lVp:H`^asWxSsoTr=QqazGTgVeGDVPeF^TcP=dwcKFFX]zOUgRJGzgVrxCVWU=kgJe]Hmim:JNNC^HsSSW]gVzNFpb<ZGC`yxccQh]_A^DGdVOw`SVK;V`wAO==v_f]KIjL]AXfA<@xfCxy?^G^:DFbx::BiCZ:<VZk:;jYc::mIQGl;sQPlQ=ojyuy>huk:EciAiI[;?HFWlqTHy[>XFmZXNEHlqTEvasSmrk=uDxHa]k=lEck`ljwG=lKTGBK^>CG;lUrdlgXF=lxrLAHJjl_iZ@DdmDiCU;APEz[jiBVlaR=a:P?nUaHvPSqjTDpKNaH^aHeBiiBIo=HdeDu:AAL]@^uCKJqaFKib@lhKr@l]PfZBlivZFme]LriJdc<XJEm;aByGpw;beIB:B;FXJnm:I:>;GCiYeC<;:TE<;OGk];o;mY:yR;NFO;<pPlkD<ul^Z@aMlP`epTFfyOkIL:q;ESX;iLGPaGJAKOf;ATkBInicBEH:BZocCL`ocCQ`PQlGoE?KXA^RCsNFtTOcFGP=npjlCekh<erLsC`ElsC=el>>;]DXRP<IlmnenhXQyFV;mGnq:J::".charCodeAt(P++))?K-59:K-58),k|=(0<(K&(V/=2))?1:0)<<B,++B}for(var Z,k,B,H,K,O=[],F=1,N=3,o=1,q=[],V=0,P=0;;){if(J(o+1),2==k)return q.join("");-2&(H=k)||(J(8*k+8),O[H=N++]=String.fromCharCode(k),--F||(F=2<<o++)),q.push(H=O[H]||Z+Z[0]),Z&&(O[N++]=Z+H[0],--F||(F=2<<o++)),Z=H}}());
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._maxTimes = 10,
+            t._boss = 10012,
+            t.skinName = PveAoliaAyaPop2Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.updateData()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                t.hide(),
+                ModuleManager.showModule("petBag", ["petBag"], {
+                    type: 1,
+                    clsName: "pveAoliaPanel.PveAoliaAyaPop2"
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.img_close, this.hide, this),
+            ImageButtonUtil.add(this.btnPlus,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(250782, 1,
+                    function() {
+                        KTool.doExchange(10346, 1,
+                        function() {
+                            t.updateData()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnOnetap,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(250781, 1,
+                    function() {
+                        SocketConnection.sendByQueue(43261, [5, 0],
+                        function() {
+                            t.updateData()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.helpBtn,
+            function() {
+                var t = config.Help_tips.getItem(7),
+                e = {};
+                e.title = "活动说明",
+                e.str = StringUtil.TransformLineBreak(t.tips),
+                tipsPop.TipsPop.openHelpPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                return t._dailyNum >= t._maxTimes ? void BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : (t.hide(), void FightManager.fightNoMapBoss("", t._boss))
+            },
+            this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([6898, 15443, 6901],
+            function(e) {
+                t._getState = KTool.getBit(e[0], 3),
+                t._dailyNum = e[1],
+                t._defeatTimes = e[2],
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            if (this._getState) return void this.hide();
+            this.txt_fightTimes.text = "今日可挑战：" + Math.max(0, this._maxTimes - this._dailyNum),
+            DisplayUtil.setEnabled(this.btnPlus, this._dailyNum >= this._maxTimes, !0);
+            for (var t = 0,
+            e = this._defeatTimes; e;) t++,
+            e &= e - 1;
+            var i = 4 * t;
+            this.grp_flag.removeChildren();
+            for (var n = 0; 40 > n; n++) {
+                var a = Math.floor(n / 4),
+                _ = n % 4,
+                o = new eui.Component;
+                o.skinName = ZhendeFlagItemSkin,
+                o.light.visible = i > n,
+                o.x = 7 * _ + 45 * a,
+                o.y = 55 * _ - 5 * a,
+                this.grp_flag.addChild(o)
+            }
+        },
+        i.prototype.destroy = function() {
+            EventManager.dispatchEventWith(t.PveAoliaPanel.UPDATE_AYA),
+            ImageButtonUtil.removeAll(this),
+            this.grp_flag.removeChildren(),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    t.PveAoliaAyaPop2 = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaAyaPop2")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this) || this;
+            return i._type = t.type,
+            i
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            switch (e.prototype.childrenCreated.call(this), EventManager.addEventListener(i.CLOSE_MODULE, this.closeModule, this), this._type) {
+            case 1:
+                this._curPanel = new t.PveAoliaPanelAya,
+                this.addChild(this._curPanel);
+                break;
+            case 2:
+                this._curPanel = new t.PveAoliaPanelAliya,
+                this.addChild(this._curPanel);
+                break;
+            case 3:
+                this._curPanel = new t.PveAoliaPanelAolia,
+                this.addChild(this._curPanel)
+            }
+        },
+        i.prototype.closeModule = function() {
+            this._curPanel && (this._curPanel.destroy(), this._curPanel.parent && this._curPanel.parent.removeChild(this._curPanel)),
+            ModuleManager.hideModule(this),
+            ModuleManager.showModuleByID(67)
+        },
+        i.prototype.destroy = function() {
+            EventManager.removeEventListener(i.CLOSE_MODULE, this.closeModule, this),
+            e.prototype.destroy.call(this)
+        },
+        i.CLOSE_MODULE = "aolia_close_module",
+        i.UPDATE_AYA = "update_aya",
+        i.UPDATE_ALIYA = "update_aliya",
+        i.UPDATE_AOLIA = "update_aolia",
+        i
+    } (BaseModule);
+    t.PveAoliaPanel = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaPanel")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._bossList = [10119, 10120, 10121, 10122],
+            t._itemId = 1713674,
+            t.skinName = PveAoliaAliyaPop1Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this._box = core.manager.MovieClipManager.getInstance().getMovieClip("box", "blue", "canopen"),
+            this._box && (this._box.scaleX = this._box.scaleY = .6, this._box.x = 679, this._box.y = 394),
+            this.addChild(this._box),
+            this.addEvent(),
+            this.updateData()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                t.hide(),
+                ModuleManager.showModule("petBag", ["petBag"], {
+                    type: 1,
+                    clsName: "pveAoliaPanel.PveAoliaAliyaPop1"
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.img_close, this.hide, this),
+            ImageButtonUtil.add(this.helpBtn,
+            function() {
+                var t = config.Help_tips.getItem(11),
+                e = {};
+                e.title = "活动说明",
+                e.str = StringUtil.TransformLineBreak(t.tips),
+                tipsPop.TipsPop.openHelpPop(e)
+            },
+            this);
+            for (var e = function(e) {
+                ImageButtonUtil.add(i["boss_" + e],
+                function() {
+                    t.hide(),
+                    FightManager.fightNoMapBoss("", t._bossList[e])
+                },
+                i)
+            },
+            i = this, n = 0; 4 > n; n++) e(n);
+            ImageButtonUtil.add(this._box,
+            function() {
+                SocketConnection.sendByQueue(46336, [2],
+                function() {
+                    BubblerManager.getInstance().showText("今日海盗小将已清理完毕！"),
+                    t.hide()
+                })
+            },
+            this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([16621, 16622],
+            function(e) {
+                t._bossState = e[0],
+                t._getState = KTool.getBit(e[0], 5),
+                t._roundNum = e[1],
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            for (var t = 0,
+            e = 0; 4 > e; e++) this["flag_win_" + e].visible = KTool.getBit(this._bossState, e + 1),
+            this["boss_" + e].touchEnabled = !KTool.getBit(this._bossState, e + 1),
+            t += KTool.getBit(this._bossState, e + 1);
+            this.txt_progress.text = this._roundNum + "/20",
+            t >= 4 && this._roundNum <= 20 ? (this._box.gotoAndPlay(1, -1), this._box.touchEnabled = !0) : (this._box.gotoAndStop(1), this._box.touchEnabled = !1),
+            this.img_box.visible = !1
+        },
+        i.prototype.destroy = function() {
+            this._box && core.manager.MovieClipManager.getInstance().releaseMovieClip(this._box, !0),
+            EventManager.dispatchEventWith(t.PveAoliaPanel.UPDATE_ALIYA),
+            ImageButtonUtil.removeAll(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    t.PveAoliaAliyaPop1 = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaAliyaPop1")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._bossList = [10123, 10124, 10125],
+            t._itemId = 1713674,
+            t.skinName = PveAoliaAliyaPop2Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this._box = core.manager.MovieClipManager.getInstance().getMovieClip("box", "blue", "canopen"),
+            this._box && (this._box.scaleX = this._box.scaleY = .6, this._box.x = 679, this._box.y = 394),
+            this.addChild(this._box),
+            this.addEvent(),
+            this.updateData()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                t.hide(),
+                ModuleManager.showModule("petBag", ["petBag"], {
+                    type: 1,
+                    clsName: "pveAoliaPanel.PveAoliaAliyaPop2"
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.img_close, this.hide, this),
+            ImageButtonUtil.add(this.helpBtn,
+            function() {
+                var t = config.Help_tips.getItem(12),
+                e = {};
+                e.title = "活动说明",
+                e.str = StringUtil.TransformLineBreak(t.tips),
+                tipsPop.TipsPop.openHelpPop(e)
+            },
+            this);
+            for (var e = function(e) {
+                ImageButtonUtil.add(i["boss_" + e],
+                function() {
+                    t.hide(),
+                    FightManager.fightNoMapBoss("", t._bossList[e])
+                },
+                i)
+            },
+            i = this, n = 0; 3 > n; n++) e(n);
+            ImageButtonUtil.add(this._box,
+            function() {
+                SocketConnection.sendByQueue(46336, [3],
+                function() {
+                    BubblerManager.getInstance().showText("今日海盗首领已清理完毕！"),
+                    t.hide()
+                })
+            },
+            this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([16623],
+            function(e) {
+                t._bossState = 7 & e[0],
+                t._conditionState = e[0] >> 3 & 7,
+                t._getState = KTool.getBit(e[0], 7),
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            for (var t = KTool.getBit(this._conditionState, 1) + KTool.getBit(this._conditionState, 2) + KTool.getBit(this._conditionState, 3), e = 0; 3 > e; e++) this["flag_win_" + e].visible = KTool.getBit(this._bossState, e + 1) || KTool.getBit(this._conditionState, e + 1),
+            this["boss_" + e].touchEnabled = !KTool.getBit(this._bossState, e + 1) && !KTool.getBit(this._conditionState, e + 1);
+            this.txt_progress.text = t + "/3",
+            t >= 3 ? (this._box.gotoAndPlay(1, -1), this._box.touchEnabled = !0) : (this._box.gotoAndStop(1), this._box.touchEnabled = !1),
+            this.img_box.visible = !1
+        },
+        i.prototype.destroy = function() {
+            this._box && core.manager.MovieClipManager.getInstance().releaseMovieClip(this._box, !0),
+            EventManager.dispatchEventWith(t.PveAoliaPanel.UPDATE_ALIYA),
+            ImageButtonUtil.removeAll(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    t.PveAoliaAliyaPop2 = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaAliyaPop2")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._maxTimes = 10,
+            t._boss0 = 10008,
+            t._boss1 = 10009,
+            t._itemId0 = 1713570,
+            t._itemId1 = 1713575,
+            t.percentList = [1, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100],
+            t._isMaking = !1,
+            t.skinName = PveAoliaAyaPop0Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.updateData()
+        },
+        i.prototype.itemChange = function(t) {
+            this.updateData()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.itemChange, this),
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                t.hide(),
+                ModuleManager.showModule("petBag", ["petBag"], {
+                    type: 1,
+                    clsName: "pveAoliaPanel.PveAoliaAyaPop0"
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.img_close, this.hide, this),
+            ImageButtonUtil.add(this.btnAdd,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(250780, 1,
+                    function() {
+                        KTool.doExchange(10344, 1,
+                        function() {
+                            t.updateData()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnPlus0,
+            function() {
+                PayManager.doPayFunc(function() {
+                    var e = {};
+                    e.type = "product_diamond",
+                    e.ins = {
+                        iconID: 1713570,
+                        productID: 250777
+                    },
+                    e.caller = t,
+                    e.callBack = function(e, i) {
+                        KTool.buyProductByCallback(250777, i,
+                        function() {
+                            KTool.doExchange(10348, i,
+                            function() {
+                                t.updateData()
+                            })
+                        })
+                    },
+                    ModuleManager.showModuleByID(1, e)
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnPlus1,
+            function() {
+                PayManager.doPayFunc(function() {
+                    var e = {};
+                    e.type = "product_diamond",
+                    e.ins = {
+                        iconID: 1713575,
+                        productID: 250778
+                    },
+                    e.caller = t,
+                    e.callBack = function(e, i) {
+                        KTool.buyProductByCallback(250778, i,
+                        function() {
+                            KTool.doExchange(10349, i,
+                            function() {
+                                t.updateData()
+                            })
+                        })
+                    },
+                    ModuleManager.showModuleByID(1, e)
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnAdd,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(250780, 1,
+                    function() {
+                        KTool.doExchange(10344, 1,
+                        function() {
+                            t.updateData()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnOnetap,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(250779, 1,
+                    function() {
+                        t._isMaking = !0,
+                        SocketConnection.sendByQueue(43261, [4, 2],
+                        function() {
+                            t.updateData()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.helpBtn,
+            function() {
+                var t = config.Help_tips.getItem(5),
+                e = {};
+                e.title = "活动说明",
+                e.str = StringUtil.TransformLineBreak(t.tips),
+                tipsPop.TipsPop.openHelpPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnMake,
+            function() {
+                return ItemManager.getNumByID(t._itemId0) <= 0 || ItemManager.getNumByID(t._itemId1) <= 0 ? void Alarm.show("道具不足！") : (t._isMaking = !0, void SocketConnection.sendByQueue(43261, [4, 1],
+                function() {
+                    t.updateData()
+                }))
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight_0,
+            function() {
+                return t._dailyNum >= t._maxTimes ? void BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : (t.hide(), void FightManager.fightNoMapBoss("", t._boss0))
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight_1,
+            function() {
+                return t._dailyNum >= t._maxTimes ? void BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : (t.hide(), void FightManager.fightNoMapBoss("", t._boss1))
+            },
+            this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([6898, 6899, 15441],
+            function(e) {
+                t._getState = KTool.getBit(e[0], 1),
+                t._madeTimes = e[1],
+                t._dailyNum = e[2],
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            return this._getState ? (BubblerManager.getInstance().showText("制作成功！"), void this.hide()) : (this._isMaking && (BubblerManager.getInstance().showText("制作失败，请再接再厉！"), this._isMaking = !1), this.txt_fightTimes.text = "今日可挑战次数：" + Math.max(0, this._maxTimes - this._dailyNum), this.txt_item_0.text = "已获得眼镜：" + ItemManager.getNumByID(this._itemId0), this.txt_item_1.text = "已获得墨水：" + ItemManager.getNumByID(this._itemId1), this.txt_probability.text = this.percentList[this._madeTimes] + "%", void DisplayUtil.setEnabled(this.btnAdd, this._dailyNum >= this._maxTimes, !0))
+        },
+        i.prototype.destroy = function() {
+            EventManager.removeEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.itemChange, this),
+            EventManager.dispatchEventWith(t.PveAoliaPanel.UPDATE_AYA),
+            ImageButtonUtil.removeAll(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    t.PveAoliaAyaPop0 = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaAyaPop0")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._maxTimes = 10,
+            t._boss0 = 10010,
+            t._boss1 = 10011,
+            t.skinName = PveAoliaAyaPop1Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.updateData()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                t.hide(),
+                ModuleManager.showModule("petBag", ["petBag"], {
+                    type: 1,
+                    clsName: "pveAoliaPanel.PveAoliaAyaPop1"
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.img_close, this.hide, this),
+            ImageButtonUtil.add(this.btnAdd,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(250783, 1,
+                    function() {
+                        KTool.doExchange(10345, 1,
+                        function() {
+                            t.updateData()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.helpBtn,
+            function() {
+                var t = config.Help_tips.getItem(6),
+                e = {};
+                e.title = "活动说明",
+                e.str = StringUtil.TransformLineBreak(t.tips),
+                tipsPop.TipsPop.openHelpPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight_0,
+            function() {
+                return t._dailyNum >= t._maxTimes ? void BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : (t.hide(), void FightManager.fightNoMapBoss("", t._boss0))
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight_1,
+            function() {
+                return t._dailyNum >= t._maxTimes ? void BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : (t.hide(), void FightManager.fightNoMapBoss("", t._boss1))
+            },
+            this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([6898, 15442],
+            function(e) {
+                t._getState = KTool.getBit(e[0], 2),
+                t._dailyNum = e[1],
+                KTool.getBitSet([16424, 16425],
+                function(e) {
+                    t._state_0 = e[0],
+                    t._state_1 = e[1],
+                    t.updateView()
+                })
+            })
+        },
+        i.prototype.updateView = function() {
+            return this._getState ? void this.hide() : (this.txt_fightTimes.text = "今日可挑战次数：" + Math.max(0, this._maxTimes - this._dailyNum), this.btnFight_0.visible = !this._state_0, this.btnFight_1.visible = !this._state_1, this.flag_win_0.visible = !!this._state_0, this.flag_win_1.visible = !!this._state_1, void DisplayUtil.setEnabled(this.btnAdd, this._dailyNum >= this._maxTimes, !0))
+        },
+        i.prototype.destroy = function() {
+            EventManager.dispatchEventWith(t.PveAoliaPanel.UPDATE_AYA),
+            ImageButtonUtil.removeAll(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    t.PveAoliaAyaPop1 = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaAyaPop1")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._bossList = [10114, 10115, 10116, 10117, 10118],
+            t._itemId = 1713674,
+            t.skinName = PveAoliaAliyaPop0Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this._box = core.manager.MovieClipManager.getInstance().getMovieClip("box", "blue", "canopen"),
+            this._box && (this._box.scaleX = this._box.scaleY = .6, this._box.x = 679, this._box.y = 394),
+            this.addChild(this._box),
+            this.addEvent(),
+            this.updateData()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                t.hide(),
+                ModuleManager.showModule("petBag", ["petBag"], {
+                    type: 1,
+                    clsName: "pveAoliaPanel.PveAoliaAliyaPop0"
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.img_close, this.hide, this),
+            ImageButtonUtil.add(this.helpBtn,
+            function() {
+                var t = config.Help_tips.getItem(10),
+                e = {};
+                e.title = "活动说明",
+                e.str = StringUtil.TransformLineBreak(t.tips),
+                tipsPop.TipsPop.openHelpPop(e)
+            },
+            this);
+            for (var e = function(e) {
+                ImageButtonUtil.add(i["boss_" + e],
+                function() {
+                    t.hide(),
+                    FightManager.fightNoMapBoss("", t._bossList[e])
+                },
+                i)
+            },
+            i = this, n = 0; 5 > n; n++) e(n);
+            ImageButtonUtil.add(this._box,
+            function() {
+                SocketConnection.sendByQueue(46336, [1],
+                function() {
+                    BubblerManager.getInstance().showText("今日海盗杂兵已清理完毕！"),
+                    t.hide()
+                })
+            },
+            this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([16620],
+            function(e) {
+                t._bossState = e[0],
+                t._getState = KTool.getBit(e[0], 6),
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            for (var t = 0,
+            e = 0; 5 > e; e++) this["flag_win_" + e].visible = KTool.getBit(this._bossState, e + 1),
+            this["boss_" + e].touchEnabled = !KTool.getBit(this._bossState, e + 1),
+            t += KTool.getBit(this._bossState, e + 1);
+            this.txt_progress.text = t + "/5",
+            t >= 5 ? (this._box.gotoAndPlay(1, -1), this._box.touchEnabled = !0) : (this._box.gotoAndStop(1), this._box.touchEnabled = !1),
+            this.img_box.visible = !1
+        },
+        i.prototype.destroy = function() {
+            this._box && core.manager.MovieClipManager.getInstance().releaseMovieClip(this._box, !0),
+            EventManager.dispatchEventWith(t.PveAoliaPanel.UPDATE_ALIYA),
+            ImageButtonUtil.removeAll(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    t.PveAoliaAliyaPop0 = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaAliyaPop0")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._maxTimes = 10,
+            t._boss = 10014,
+            t.skinName = PveAoliaAyaPop3Skin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.addEvent(),
+            this.updateData()
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                t.hide(),
+                ModuleManager.showModule("petBag", ["petBag"], {
+                    type: 1,
+                    clsName: "pveAoliaPanel.PveAoliaAyaPop3"
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.img_close, this.hide, this),
+            ImageButtonUtil.add(this.btnPlus,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(250776, 1,
+                    function() {
+                        KTool.doExchange(10347, 1,
+                        function() {
+                            t.updateData()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnOnetap,
+            function() {
+                PayManager.doPayFunc(function() {
+                    KTool.buyProductByCallback(250775, 1,
+                    function() {
+                        SocketConnection.sendByQueue(43261, [6, 0],
+                        function() {
+                            t.updateData()
+                        })
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.helpBtn,
+            function() {
+                var t = config.Help_tips.getItem(8),
+                e = {};
+                e.title = "活动说明",
+                e.str = StringUtil.TransformLineBreak(t.tips),
+                tipsPop.TipsPop.openHelpPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                return t._dailyNum >= t._maxTimes ? void BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : (t.hide(), void FightManager.fightNoMapBoss("", t._boss))
+            },
+            this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([6898, 15444, 6900],
+            function(e) {
+                t._getState = KTool.getBit(e[0], 4),
+                t._dailyNum = e[1],
+                t._defeatTimes = e[2],
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            return this._getState ? void this.hide() : (this.txt_dailyTimes.text = "今日可挑战：" + Math.max(0, this._maxTimes - this._dailyNum), this.txt_defeatTimes.text = "累计击败：" + Math.min(3, this._defeatTimes) + "/3次", void DisplayUtil.setEnabled(this.btnPlus, this._dailyNum >= this._maxTimes, !0))
+        },
+        i.prototype.destroy = function() {
+            EventManager.dispatchEventWith(t.PveAoliaPanel.UPDATE_AYA),
+            ImageButtonUtil.removeAll(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (PopView);
+    t.PveAoliaAyaPop3 = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaAyaPop3")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._itemId = 1713674,
+            t._petId = 3399,
+            t._bossId = 3403,
+            t._threeIds = [2631, 30931, 40976],
+            t.skinName = PveAoliaPanelAliyaSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(9, this, "pve_aolia_panel_aliya_title_png",
+            function() {
+                t.onClose()
+            },
+            this),
+            this.icon_2.source = ClientConfig.getMarkPath(this._threeIds[2]),
+            this.updateData(),
+            this.addEvent()
+        },
+        i.prototype.itemChange = function(t) {
+            this.updateData()
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.itemChange, this),
+            ImageButtonUtil.add(this.icon_2,
+            function() {
+                var t = {};
+                t.ins = e._threeIds[2],
+                tipsPop.TipsPop.openCounterMarkPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_1,
+            function() {
+                var t = {};
+                t.id = e._threeIds[1],
+                tipsPop.TipsPop.openSkillPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_0,
+            function() {
+                ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], e._bossId, "", AppDoStyle.NULL)
+            },
+            this);
+            for (var i = function(t) {
+                ImageButtonUtil.add(n["img_boss_" + t],
+                function() {
+                    e._curPop = t;
+                    var i = egret.getDefinitionByName("pveAoliaPanel.PveAoliaAliyaPop" + t);
+                    PopViewManager.getInstance().openView(new i)
+                },
+                n)
+            },
+            n = this, a = 0; 3 > a; a++) i(a);
+            EventManager.addEventListener(t.PveAoliaPanel.UPDATE_ALIYA, this.updateData, this),
+            ImageButtonUtil.add(this.btnPlus,
+            function() {
+                PayManager.doPayFunc(function() {
+                    var t = {};
+                    t.type = "product_diamond",
+                    t.ins = {
+                        iconID: 1713674,
+                        productID: 250862
+                    },
+                    t.caller = e,
+                    t.callBack = function(t, i) {
+                        KTool.buyProductByCallback(250862, i,
+                        function() {
+                            KTool.doExchange(10362, i,
+                            function() {
+                                e.updateData()
+                            })
+                        })
+                    },
+                    ModuleManager.showModuleByID(1, t)
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnOnetap,
+            function() {
+                PayManager.doPayFunc(function() {
+                    return PetManager.getPetInfo(PetManager.defaultTime).id != e._petId ? void Alert.show("请先将阿娅放入背包首发位置！",
+                    function() {
+                        ModuleManager.showModule("petBag", ["petBag"])
+                    }) : void KTool.buyProductByCallback(250861, 1,
+                    function() {
+                        SocketConnection.sendByQueue(CommandID.PET_SUPER_EVOLUTION, [PetManager.defaultTime, 675],
+                        function() {
+                            e.updateData()
+                        })
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnExchange,
+            function() {
+                return ItemManager.getNumByID(e._itemId) < 40 ? void Alarm.show("所需道具不足！") : PetManager.getPetInfo(PetManager.defaultTime).id != e._petId ? void Alert.show("请先将阿娅放入背包首发位置！",
+                function() {
+                    ModuleManager.showModule("petBag", ["petBag"])
+                }) : void SocketConnection.sendByQueue(CommandID.PET_SUPER_EVOLUTION, [PetManager.defaultTime, 674],
+                function() {
+                    e.updateData()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                PetManager.showPetIntroduce(3403)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGo,
+            function() {
+                e.onClose(),
+                ModuleManager.showModuleByID(68)
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([16620, 16621, 16622, 16623],
+            function(e) {
+                t._state_0 = KTool.getBit(e[0], 6),
+                t._state_1 = KTool.getBit(e[1], 5),
+                t._battleTimes = e[2],
+                t._bossState = 7 & e[3],
+                t._conditionState = e[3] >> 3 & 7,
+                t._state_2 = KTool.getBit(e[3], 7),
+                KTool.getBitSet([9532],
+                function(e) {
+                    t._petState = e[0],
+                    t.updateView()
+                })
+            })
+        },
+        i.prototype.updateView = function() {
+            this.txt_itemNum.text = ItemManager.getNumByID(this._itemId) + "",
+            this.btnOnetap.visible = this.grp_cost.visible = this.btnExchange.visible = !this._petState,
+            this.flag_got.visible = !!this._petState,
+            this.flag_win_0.visible = !!this._state_0,
+            this.img_boss_0.touchEnabled = !this._state_0,
+            this.flag_win_1.visible = this._battleTimes > 20 || !!this._state_1,
+            this.img_boss_1.touchEnabled = this._battleTimes <= 20 && !this._state_1;
+            for (var t = 0,
+            e = 0; 3 > e; e++) t += KTool.getBit(this._bossState, e + 1),
+            t += KTool.getBit(this._conditionState, e + 1);
+            this.flag_win_2.visible = t >= 3 && this._conditionState < 7 || !!this._state_2,
+            this.img_boss_2.touchEnabled = !this._state_2 && (3 > t || this._conditionState >= 7)
+        },
+        i.prototype.onFightOver = function() {
+            var e = this;
+            switch (this._curPop) {
+            case 0:
+                PopViewManager.getInstance().openView(new t.PveAoliaAliyaPop0);
+                break;
+            case 1:
+                KTool.getMultiValue([16622],
+                function(i) {
+                    i[0] > 20 ? (BubblerManager.getInstance().showText("今日海盗小将已清理完毕！"), e.updateData()) : PopViewManager.getInstance().openView(new t.PveAoliaAliyaPop1)
+                });
+                break;
+            case 2:
+                KTool.getMultiValue([16623],
+                function(i) {
+                    for (var n = 7 & i[0], a = i[0] >> 3 & 7, _ = 0, o = 0; 3 > o; o++) _ += KTool.getBit(n, o + 1),
+                    _ += KTool.getBit(a, o + 1);
+                    _ >= 3 && 7 > a ? (BubblerManager.getInstance().showText("今日海盗首领已清理完毕！"), e.updateData()) : PopViewManager.getInstance().openView(new t.PveAoliaAliyaPop2)
+                })
+            }
+        },
+        i.prototype.destroy = function() {
+            EventManager.removeEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.itemChange, this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this),
+            EventManager.removeEventListener(t.PveAoliaPanel.UPDATE_ALIYA, this.updateData, this),
+            ImageButtonUtil.removeAll(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    t.PveAoliaPanelAliya = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaPanelAliya")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._itemId_0 = 1714112,
+            t._itemId_1 = 1714113,
+            t._boxId = 1714114,
+            t._petId = 3403,
+            t._bossId = 3437,
+            t._threeIds = [2671, 31117, 41023],
+            t._threeCosts = [20, 40, 40],
+            t.skinName = PveAoliaPanelAoliaSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(13, this, "pve_aolia_panel_aolia_title_png",
+            function() {
+                t.onClose()
+            },
+            this),
+            this.leftGroup.left = DeviceInfoManager.adapterOffSetX,
+            this.icon_2.source = ClientConfig.getMarkPath(this._threeIds[2]),
+            this.addEvent(),
+            this.updateData(),
+            this.adaptRightContent(this.grp_right)
+        },
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.icon_2,
+            function() {
+                var t = {};
+                t.ins = e._threeIds[2],
+                tipsPop.TipsPop.openCounterMarkPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_1,
+            function() {
+                var t = {};
+                t.id = e._threeIds[1],
+                tipsPop.TipsPop.openSkillPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_0,
+            function() {
+                ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], e._bossId, "", AppDoStyle.NULL)
+            },
+            this),
+            ImageButtonUtil.add(this.btnEvo,
+            function() {
+                return ItemManager.getNumByID(e._itemId_0) < 12 ? void BubblerManager.getInstance().showText("所需道具不足！") : PetManager.getPetInfo(PetManager.defaultTime).id != e._petId ? void Alert.show("请先将艾丽娅放入背包首发位置！",
+                function() {
+                    ModuleManager.showModule("petBag", ["petBag"])
+                }) : void SocketConnection.sendByQueue(CommandID.PET_SUPER_EVOLUTION, [PetManager.defaultTime, 697],
+                function() {
+                    BubblerManager.getInstance().showText("进化成功！"),
+                    e.updateData()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnOnetap,
+            function() {
+                return PetManager.getPetInfo(PetManager.defaultTime).id != e._petId ? void Alert.show("请先将艾丽娅放入背包首发位置！",
+                function() {
+                    ModuleManager.showModule("petBag", ["petBag"])
+                }) : void BuyProductManager.buyProductBySocket(251238,
+                function() {
+                    SocketConnection.sendByQueue(CommandID.PET_SUPER_EVOLUTION, [PetManager.defaultTime, 689],
+                    function() {
+                        BubblerManager.getInstance().showText("进化成功！"),
+                        e.updateData()
+                    })
+                },
+                e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnPlus_0,
+            function() {
+                BuyProductManager.buyProduct("251241_10508", null, e, 1714112)
+            },
+            this),
+            ImageButtonUtil.add(this.btnPlus_1,
+            function() {
+                BuyProductManager.buyProduct("251242_10509", null, e, 1714113)
+            },
+            this),
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateData, this),
+            ImageButtonUtil.add(this.box_open,
+            function() {
+                return ItemManager.getNumByID(e._boxId) + Number( !! e._boxStamp) <= 0 ? void BubblerManager.getInstance().showText("战备箱数量不足！") : void SocketConnection.sendByQueue(43264, [5, 0],
+                function() {
+                    e.updateData()
+                })
+            },
+            this);
+            for (var i = function(t) {
+                ImageButtonUtil.add(n["btnBuy_" + t],
+                function() {
+                    return ItemManager.getNumByID(e._itemId_1) < e._threeCosts[t] ? void BubblerManager.getInstance().showText("所需道具数量不足！") : PetManager.getPetInfo(PetManager.defaultTime).id != e._bossId ? void Alert.show("请先将艾欧丽娅放入背包首发位置！",
+                    function() {
+                        ModuleManager.showModule("petBag", ["petBag"])
+                    }) : void SocketConnection.sendByQueue(43264, [4, t + 1],
+                    function() {
+                        BubblerManager.getInstance().showText("兑换成功！"),
+                        e.updateData()
+                    })
+                },
+                n)
+            },
+            n = this, a = 0; 3 > a; a++) i(a);
+            ImageButtonUtil.add(this.btnCompose,
+            function() {
+                e.addChild(new t.PveAoliaPanelAoliaFight)
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                PetManager.showPetIntroduce(3437)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGo,
+            function() {
+                e.onClose(),
+                ModuleManager.showModuleByID(125)
+            },
+            this),
+            EventManager.addEventListener(t.PveAoliaPanel.UPDATE_AOLIA, this.updateData, this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([6918, 6923],
+            function(e) {
+                t._petState = 1 & e[0],
+                t._tokenState = e[0] >> 1 & 7,
+                t._boxStamp = e[1],
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            this.txt_itemNum_0.text = ItemManager.getNumByID(this._itemId_0) + "",
+            this.txt_itemNum_1.text = ItemManager.getNumByID(this._itemId_1) + "",
+            this.flag_got.visible = !!this._petState,
+            this.grp_cost.visible = this.btnOnetap.visible = this.btnEvo.visible = !this._petState;
+            for (var t = 0; 3 > t; t++) {
+                var e = KTool.getBit(this._tokenState, t + 1);
+                this["flag_got_" + t].visible = !!e,
+                this["btnBuy_" + t].visible = !e
+            }
+            this.opening.visible = this.txt_time.visible = !1;
+            var i = ItemManager.getNumByID(this._boxId) + Number( !! this._boxStamp);
+            this.txt_boxNum.text = "x" + i,
+            this.box_open.visible = this.opened.visible = i > 0,
+            this.box_close.visible = 0 >= i
+        },
+        i.prototype.showOpenTime = function() {
+            var t = Math.ceil(SystemTimerManager.sysBJDate.getTime() / 1e3),
+            e = this._boxStamp + 43200;
+            if (t >= e) return egret.clearInterval(this._interval),
+            void this.updateView();
+            var i = Math.min(e - t, 43200),
+            n = Math.floor(i / 3600),
+            a = Math.floor(i % 3600 / 60),
+            _ = Math.floor(i % 60);
+            this.txt_time.text = core.gameUtil.addLeadingZero(n) + ":" + core.gameUtil.addLeadingZero(a) + ":" + core.gameUtil.addLeadingZero(_)
+        },
+        i.prototype.destroy = function() {
+            EventManager.removeEventListener(t.PveAoliaPanel.UPDATE_AOLIA, this.updateData, this),
+            ImageButtonUtil.removeAll(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    t.PveAoliaPanelAolia = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaPanelAolia")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._itemId_0 = 1714112,
+            t._itemId_1 = 1714113,
+            t._bossStart = 10630,
+            t._petIds = [1384, 1404, 1524, 1661, 2096, 1956, 1972, 2249, 2571, 3415, 3417, 3422],
+            t.MAX_TIMES = 6,
+            t._serialAward = [0, 2, 6, 9, 15, 20, 28],
+            t._damageList = [4e3, 6e3, 6e3],
+            t._taskNum = 2,
+            t.skinName = PveAoliaPanelAoliaFightSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var t = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(14, this, "pve_aolia_panel_aolia_title_png",
+            function() {
+                t.destroy(),
+                t.parent && t.parent.removeChild(t)
+            },
+            this),
+            this.addEvent(),
+            this.updateData(),
+            this.adaptRightContent(this.grp_right, 20),
+            this.adaptLeftContent(this.grp_task),
+            this.grp_info.right = Math.max(20, DeviceInfoManager.adapterOffSetX)
+        },
+        i.prototype.addEvent = function() {
+            var t = this;
+            ImageButtonUtil.add(this.imgBtn_pet,
+            function() {
+                ModuleManager.showModule("petBag", ["petBag"])
+            },
+            this),
+            ImageButtonUtil.add(this.imgBtn_cure,
+            function() {
+                PetManager.cureAll()
+            },
+            this),
+            ImageButtonUtil.add(this.btnPlus_0,
+            function() {
+                BuyProductManager.buyProduct("251241_10508", null, t, 1714112)
+            },
+            this),
+            ImageButtonUtil.add(this.btnPlus_1,
+            function() {
+                BuyProductManager.buyProduct("251242_10509", null, t, 1714113)
+            },
+            this),
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateData, this),
+            ImageButtonUtil.add(this.btnAddTimes,
+            function() {
+                BuyProductManager.buyProduct("257333_13104",
+                function() {
+                    t.updateData()
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnFastbeat,
+            function() {
+                BuyProductManager.buyProductBySocket(251239,
+                function() {
+                    SocketConnection.sendByQueue(43264, [2, 0],
+                    function() {
+                        t.updateData()
+                    })
+                },
+                t)
+            },
+            this),
+            ImageButtonUtil.add(this.btnRoll,
+            function() {
+                return t._beatTimes >= t._taskNum ? void Alarm.show("请先领取本轮奖励！") : void SocketConnection.sendByQueue(43264, [1, 0],
+                function() {
+                    t.updateData()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnFight,
+            function() {
+                return t._fightTimes >= t.MAX_TIMES ? void BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : void FightManager.fightNoMapBoss("", t._bossStart + t._bossIdx)
+            },
+            this),
+            ImageButtonUtil.add(this.btnReroll,
+            function() {
+                Alert.show("重新抽取需要消耗10万赛尔豆，确认要重新抽取吗？",
+                function() {
+                    SocketConnection.sendByQueue(43264, [1, 0],
+                    function() {
+                        t.updateData()
+                    })
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                return t._beatTimes < t._taskNum ? void BubblerManager.getInstance().showText("未满足领取条件。") : void SocketConnection.sendByQueue(43264, [3, 0],
+                function() {
+                    t.updateData()
+                })
+            },
+            this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.updateData, this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([6919, 105216, 10918, 10919, 15453, 15454, 15455, 15451],
+            function(e) {
+                t._bossIdx = e[0],
+                t._serialTimes = e[1],
+                t._fightTimes = e[2],
+                t._awardTimes = Math.min(e[3], 4),
+                t._damages = e.slice(4, 7),
+                t._beatTimes = e[7],
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            if (this.txt_itemNum_0.text = ItemManager.getNumByID(this._itemId_0) + "", this.txt_itemNum_1.text = ItemManager.getNumByID(this._itemId_1) + "", this.txt_fightTimes.text = "今日可挑战次数：" + Math.max(0, this.MAX_TIMES - this._fightTimes), DisplayUtil.setEnabled(this.btnAddTimes, Math.max(0, this.MAX_TIMES - this._fightTimes) <= 0, !0), this.txt_serial.text = this._serialTimes + "", this.txt_itemNum.text = this._serialAward[this._serialTimes] + "", this.grp_roll.visible = !this._bossIdx, this.grp_fight.visible = !!this._bossIdx, this._bossIdx) {
+                var t = this._petIds[this._bossIdx - 1];
+                this.img_pet.source = ClientConfig.getfightPetPng(t + ""),
+                this._bossIdx < 10 ? this.txt_condition.text = "你需要将其击败": this.txt_condition.text = "你需要累计对其造成" + this._damages[this._bossIdx - 10] + "/" + this._damageList[this._bossIdx - 10] + "点伤害"
+            }
+            this.txt_task.text = "累计完成" + this._taskNum + "场战斗",
+            this.txt_progress.text = "已完成" + this._beatTimes + "/" + this._taskNum + "场战斗"
+        },
+        i.prototype.destroy = function() {
+            EventManager.dispatchEventWith(t.PveAoliaPanel.UPDATE_AOLIA),
+            ImageButtonUtil.removeAll(this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.updateData, this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    t.PveAoliaPanelAoliaFight = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaPanelAoliaFight")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+pveAoliaPanel; !
+function(t) {
+    var e = function(e) {
+        function i() {
+            var t = e.call(this) || this;
+            return t._petId = 3399,
+            t._threeIds = [2625, 30911, 40971],
+            t.skinName = PveAoliaPanelAyaSkin,
+            t
+        }
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            e.prototype.childrenCreated.call(this),
+            this.initOldPveBtnClose(4, this, "pve_aolia_panel_aya_title_png",
+            function() {
+                i.onClose()
+            },
+            this),
+            this.updateData(),
+            this.icon_2.source = ClientConfig.getMarkPath(this._threeIds[2]),
+            ImageButtonUtil.add(this.icon_2,
+            function() {
+                var t = {};
+                t.ins = i._threeIds[2],
+                tipsPop.TipsPop.openCounterMarkPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_1,
+            function() {
+                var t = {};
+                t.id = i._threeIds[1],
+                tipsPop.TipsPop.openSkillPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.icon_0,
+            function() {
+                ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], i._petId, "", AppDoStyle.NULL)
+            },
+            this);
+            for (var n = function(t) {
+                ImageButtonUtil.add(a["btnMake_" + t],
+                function() {
+                    i._curPop = t;
+                    var e = egret.getDefinitionByName("pveAoliaPanel.PveAoliaAyaPop" + t);
+                    PopViewManager.getInstance().openView(new e)
+                },
+                a)
+            },
+            a = this, _ = 0; 4 > _; _++) n(_);
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                return i.equipState < 15 ? void BubblerManager.getInstance().showText("您还未将所有的装备集齐！") : void SocketConnection.sendByQueue(43261, [1, 0],
+                function() {
+                    i.updateData()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                PetManager.showPetIntroduce(3399)
+            },
+            this),
+            EventManager.addEventListener(t.PveAoliaPanel.UPDATE_AYA, this.updateData, this),
+            EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this)
+        },
+        i.prototype.updateData = function() {
+            var t = this;
+            KTool.getMultiValue([6898],
+            function(e) {
+                t.equipState = 15 & e[0],
+                t.petState = KTool.getBit(e[0], 9),
+                t.updateView()
+            })
+        },
+        i.prototype.updateView = function() {
+            for (var t = 0; 4 > t; t++) this["btnMake_" + t].visible = !KTool.getBit(this.equipState, t + 1),
+            this["flag_made_" + t].visible = KTool.getBit(this.equipState, t + 1);
+            this.flag_got.visible = !!this.petState,
+            this.btnGet.visible = !this.petState
+        },
+        i.prototype.onFightOver = function() {
+            var e = this;
+            switch (this._curPop) {
+            case 0:
+                PopViewManager.getInstance().openView(new t.PveAoliaAyaPop0);
+                break;
+            case 1:
+                KTool.getMultiValue([6898],
+                function(i) {
+                    KTool.getBit(i[0], 2) ? e.updateData() : PopViewManager.getInstance().openView(new t.PveAoliaAyaPop1)
+                });
+                break;
+            case 2:
+                KTool.getMultiValue([6898],
+                function(i) {
+                    KTool.getBit(i[0], 3) ? e.updateData() : PopViewManager.getInstance().openView(new t.PveAoliaAyaPop2)
+                });
+                break;
+            case 3:
+                KTool.getMultiValue([6898],
+                function(i) {
+                    KTool.getBit(i[0], 4) ? e.updateData() : PopViewManager.getInstance().openView(new t.PveAoliaAyaPop3)
+                })
+            }
+        },
+        i.prototype.destroy = function() {
+            EventManager.removeEventListener(t.PveAoliaPanel.UPDATE_AYA, this.updateData, this),
+            EventManager.removeEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this),
+            ImageButtonUtil.removeAll(this),
+            e.prototype.destroy.call(this)
+        },
+        i
+    } (BaseModule);
+    t.PveAoliaPanelAya = e,
+    __reflect(e.prototype, "pveAoliaPanel.PveAoliaPanelAya")
+} (pveAoliaPanel || (pveAoliaPanel = {}));
+var __extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+};
+window.generateEUI = window.generateEUI || {},
+generateEUI.paths = generateEUI.paths || {},
+generateEUI.styles = void 0,
+generateEUI.skins = {},
+generateEUI.paths["resource/eui_skins/PveAoliaAliyaPop0Skin.exml"] = window.PveAoliaAliyaPop0Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_close", "helpBtn", "imgBtn_pet", "imgBtn_cure", "boss_0", "flag_win_0", "boss_3", "flag_win_3", "boss_1", "flag_win_1", "boss_4", "flag_win_4", "boss_2", "flag_win_2", "txt_progress", "img_box"],
+        this.height = 452,
+        this.width = 768,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.img_close_i(), this.helpBtn_i(), this._Image4_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i(), this.boss_0_i(), this.flag_win_0_i(), this.boss_3_i(), this.flag_win_3_i(), this.boss_1_i(), this.flag_win_1_i(), this.boss_4_i(), this.flag_win_4_i(), this.boss_2_i(), this.flag_win_2_i(), this._Label1_i(), this.txt_progress_i(), this._Label2_i(), this.img_box_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 411,
+        t.source = "common_pop_point_png",
+        t.width = 756,
+        t.x = 0,
+        t.y = 41,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "common_pop_title_medium_png",
+        t.width = 748,
+        t.x = 4,
+        t.y = 22,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 26,
+        t.source = "pve_aolia_aliya_pop_0_title_png",
+        t.width = 169,
+        t.x = 37,
+        t.y = 28,
+        t
+    },
+    i.img_close_i = function() {
+        var t = new eui.Image;
+        return this.img_close = t,
+        t.height = 56,
+        t.source = "common_close_1_png",
+        t.width = 54,
+        t.x = 714,
+        t.y = 0,
+        t
+    },
+    i.helpBtn_i = function() {
+        var t = new eui.Image;
+        return this.helpBtn = t,
+        t.source = "common_help_icon_png",
+        t.x = 213,
+        t.y = 24,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 316,
+        t.source = "pve_aolia_aliya_pop_0_battlebg_png",
+        t.width = 748,
+        t.x = 4,
+        t.y = 73,
+        t
+    },
+    i.imgBtn_pet_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_pet = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_pet_png",
+        t.width = 60,
+        t.x = 678,
+        t.y = 105,
+        t
+    },
+    i.imgBtn_cure_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_cure = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_cure_png",
+        t.width = 60,
+        t.x = 678,
+        t.y = 174,
+        t
+    },
+    i.boss_0_i = function() {
+        var t = new eui.Image;
+        return this.boss_0 = t,
+        t.height = 179,
+        t.source = "pve_aolia_aliya_pop_0_boss_0_png",
+        t.width = 167,
+        t.x = 58,
+        t.y = 78,
+        t
+    },
+    i.flag_win_0_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_0 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 48,
+        t.y = 103,
+        t
+    },
+    i.boss_3_i = function() {
+        var t = new eui.Image;
+        return this.boss_3 = t,
+        t.height = 179,
+        t.source = "pve_aolia_aliya_pop_0_boss_1_png",
+        t.width = 167,
+        t.x = 163,
+        t.y = 210,
+        t
+    },
+    i.flag_win_3_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_3 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 152,
+        t.y = 236,
+        t
+    },
+    i.boss_1_i = function() {
+        var t = new eui.Image;
+        return this.boss_1 = t,
+        t.height = 179,
+        t.source = "pve_aolia_aliya_pop_0_boss_2_png",
+        t.width = 167,
+        t.x = 267,
+        t.y = 78,
+        t
+    },
+    i.flag_win_1_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_1 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 256,
+        t.y = 104,
+        t
+    },
+    i.boss_4_i = function() {
+        var t = new eui.Image;
+        return this.boss_4 = t,
+        t.height = 179,
+        t.source = "pve_aolia_aliya_pop_0_boss_3_png",
+        t.width = 167,
+        t.x = 371,
+        t.y = 210,
+        t
+    },
+    i.flag_win_4_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_4 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 361,
+        t.y = 236,
+        t
+    },
+    i.boss_2_i = function() {
+        var t = new eui.Image;
+        return this.boss_2 = t,
+        t.height = 179,
+        t.source = "pve_aolia_aliya_pop_0_boss_4_png",
+        t.width = 167,
+        t.x = 476,
+        t.y = 78,
+        t
+    },
+    i.flag_win_2_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_2 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 465,
+        t.y = 104,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "击败所有海盗杂兵可领取丰厚奖励",
+        t.textColor = 3359103,
+        t.touchEnabled = !1,
+        t.x = 426,
+        t.y = 398,
+        t
+    },
+    i.txt_progress_i = function() {
+        var t = new eui.Label;
+        return this.txt_progress = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 22,
+        t.text = "0/5",
+        t.textColor = 4173823,
+        t.touchEnabled = !1,
+        t.x = 630,
+        t.y = 416,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "已完成：",
+        t.textColor = 3359103,
+        t.touchEnabled = !1,
+        t.x = 564,
+        t.y = 419,
+        t
+    },
+    i.img_box_i = function() {
+        var t = new eui.Image;
+        return this.img_box = t,
+        t.height = 44,
+        t.source = "pve_aolia_aliya_pop_0_img_box_png",
+        t.width = 53,
+        t.x = 679,
+        t.y = 394,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaAliyaPop1Skin.exml"] = window.PveAoliaAliyaPop1Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_close", "helpBtn", "imgBtn_pet", "imgBtn_cure", "boss_0", "flag_win_0", "boss_1", "flag_win_1", "boss_2", "flag_win_2", "boss_3", "flag_win_3", "txt_progress", "img_box"],
+        this.height = 452,
+        this.width = 768,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.img_close_i(), this.helpBtn_i(), this._Image4_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i(), this.boss_0_i(), this.flag_win_0_i(), this.boss_1_i(), this.flag_win_1_i(), this.boss_2_i(), this.flag_win_2_i(), this.boss_3_i(), this.flag_win_3_i(), this._Label1_i(), this.txt_progress_i(), this._Label2_i(), this.img_box_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 411,
+        t.source = "common_pop_point_png",
+        t.width = 756,
+        t.x = 0,
+        t.y = 41,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "common_pop_title_medium_png",
+        t.width = 748,
+        t.x = 4,
+        t.y = 22,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 26,
+        t.source = "pve_aolia_aliya_pop_1_title_png",
+        t.width = 168,
+        t.x = 37,
+        t.y = 28,
+        t
+    },
+    i.img_close_i = function() {
+        var t = new eui.Image;
+        return this.img_close = t,
+        t.height = 56,
+        t.source = "common_close_1_png",
+        t.width = 54,
+        t.x = 714,
+        t.y = 0,
+        t
+    },
+    i.helpBtn_i = function() {
+        var t = new eui.Image;
+        return this.helpBtn = t,
+        t.source = "common_help_icon_png",
+        t.x = 213,
+        t.y = 24,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 316,
+        t.source = "pve_aolia_aliya_pop_0_battlebg_png",
+        t.width = 748,
+        t.x = 4,
+        t.y = 73,
+        t
+    },
+    i.imgBtn_pet_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_pet = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_pet_png",
+        t.width = 60,
+        t.x = 678,
+        t.y = 105,
+        t
+    },
+    i.imgBtn_cure_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_cure = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_cure_png",
+        t.width = 60,
+        t.x = 678,
+        t.y = 174,
+        t
+    },
+    i.boss_0_i = function() {
+        var t = new eui.Image;
+        return this.boss_0 = t,
+        t.height = 179,
+        t.source = "pve_aolia_aliya_pop_1_boss_0_png",
+        t.width = 167,
+        t.x = 92,
+        t.y = 78,
+        t
+    },
+    i.flag_win_0_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_0 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 81,
+        t.y = 103,
+        t
+    },
+    i.boss_1_i = function() {
+        var t = new eui.Image;
+        return this.boss_1 = t,
+        t.height = 179,
+        t.source = "pve_aolia_aliya_pop_1_boss_1_png",
+        t.width = 167,
+        t.x = 220,
+        t.y = 210,
+        t
+    },
+    i.flag_win_1_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_1 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 209,
+        t.y = 236,
+        t
+    },
+    i.boss_2_i = function() {
+        var t = new eui.Image;
+        return this.boss_2 = t,
+        t.height = 179,
+        t.source = "pve_aolia_aliya_pop_1_boss_2_png",
+        t.width = 167,
+        t.x = 347,
+        t.y = 78,
+        t
+    },
+    i.flag_win_2_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_2 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 336,
+        t.y = 104,
+        t
+    },
+    i.boss_3_i = function() {
+        var t = new eui.Image;
+        return this.boss_3 = t,
+        t.height = 179,
+        t.source = "pve_aolia_aliya_pop_1_boss_3_png",
+        t.width = 167,
+        t.x = 475,
+        t.y = 210,
+        t
+    },
+    i.flag_win_3_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_3 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 464,
+        t.y = 236,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "20回合内击败所有海盗小将即可领取丰厚奖励",
+        t.textColor = 3359103,
+        t.touchEnabled = !1,
+        t.x = 349,
+        t.y = 398,
+        t
+    },
+    i.txt_progress_i = function() {
+        var t = new eui.Label;
+        return this.txt_progress = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "00/20",
+        t.textColor = 4173823,
+        t.touchEnabled = !1,
+        t.x = 607,
+        t.y = 417,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "已消耗回合：",
+        t.textColor = 3359103,
+        t.touchEnabled = !1,
+        t.x = 494,
+        t.y = 417,
+        t
+    },
+    i.img_box_i = function() {
+        var t = new eui.Image;
+        return this.img_box = t,
+        t.height = 44,
+        t.source = "pve_aolia_aliya_pop_0_img_box_png",
+        t.width = 53,
+        t.x = 679,
+        t.y = 394,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaAliyaPop2Skin.exml"] = window.PveAoliaAliyaPop2Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_close", "helpBtn", "imgBtn_pet", "imgBtn_cure", "boss_0", "flag_win_0", "boss_1", "flag_win_1", "boss_2", "flag_win_2", "txt_progress", "img_box"],
+        this.height = 452,
+        this.width = 768,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.img_close_i(), this.helpBtn_i(), this._Image4_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i(), this.boss_0_i(), this._Image5_i(), this.flag_win_0_i(), this.boss_1_i(), this._Image6_i(), this.flag_win_1_i(), this.boss_2_i(), this._Image7_i(), this.flag_win_2_i(), this._Label1_i(), this.txt_progress_i(), this._Label2_i(), this.img_box_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 411,
+        t.source = "common_pop_point_png",
+        t.width = 756,
+        t.x = 0,
+        t.y = 41,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "common_pop_title_medium_png",
+        t.width = 748,
+        t.x = 4,
+        t.y = 22,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 26,
+        t.source = "pve_aolia_aliya_pop_2_title_png",
+        t.width = 169,
+        t.x = 37,
+        t.y = 28,
+        t
+    },
+    i.img_close_i = function() {
+        var t = new eui.Image;
+        return this.img_close = t,
+        t.height = 56,
+        t.source = "common_close_1_png",
+        t.width = 54,
+        t.x = 714,
+        t.y = 0,
+        t
+    },
+    i.helpBtn_i = function() {
+        var t = new eui.Image;
+        return this.helpBtn = t,
+        t.source = "common_help_icon_png",
+        t.x = 213,
+        t.y = 24,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 316,
+        t.source = "pve_aolia_aliya_pop_0_battlebg_png",
+        t.width = 748,
+        t.x = 4,
+        t.y = 73,
+        t
+    },
+    i.imgBtn_pet_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_pet = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_pet_png",
+        t.width = 60,
+        t.x = 678,
+        t.y = 105,
+        t
+    },
+    i.imgBtn_cure_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_cure = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_cure_png",
+        t.width = 60,
+        t.x = 678,
+        t.y = 174,
+        t
+    },
+    i.boss_0_i = function() {
+        var t = new eui.Image;
+        return this.boss_0 = t,
+        t.height = 213,
+        t.source = "pve_aolia_aliya_pop_2_boss_0_png",
+        t.width = 197,
+        t.x = 42,
+        t.y = 98,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 53,
+        t.source = "pve_aolia_aliya_pop_2_condition_0_png",
+        t.width = 176,
+        t.x = 50,
+        t.y = 309,
+        t
+    },
+    i.flag_win_0_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_0 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 31,
+        t.y = 131,
+        t
+    },
+    i.boss_1_i = function() {
+        var t = new eui.Image;
+        return this.boss_1 = t,
+        t.height = 213,
+        t.source = "pve_aolia_aliya_pop_2_boss_1_png",
+        t.width = 197,
+        t.x = 252,
+        t.y = 152,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 55,
+        t.source = "pve_aolia_aliya_pop_2_condition_1_png",
+        t.width = 176,
+        t.x = 260,
+        t.y = 96,
+        t
+    },
+    i.flag_win_1_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_1 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 240,
+        t.y = 184,
+        t
+    },
+    i.boss_2_i = function() {
+        var t = new eui.Image;
+        return this.boss_2 = t,
+        t.height = 213,
+        t.source = "pve_aolia_aliya_pop_1_boss_2_png",
+        t.width = 197,
+        t.x = 462,
+        t.y = 98,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 53,
+        t.source = "pve_aolia_aliya_pop_2_condition_2_png",
+        t.width = 132,
+        t.x = 493,
+        t.y = 309,
+        t
+    },
+    i.flag_win_2_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_2 = t,
+        t.height = 59,
+        t.source = "pve_aolia_aliya_pop_0_flag_win_png",
+        t.width = 60,
+        t.x = 450,
+        t.y = 131,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "按照条件击败所有海盗首领可领取丰厚奖励",
+        t.textColor = 3359103,
+        t.touchEnabled = !1,
+        t.x = 367,
+        t.y = 398,
+        t
+    },
+    i.txt_progress_i = function() {
+        var t = new eui.Label;
+        return this.txt_progress = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "0/5",
+        t.textColor = 4173823,
+        t.touchEnabled = !1,
+        t.x = 636,
+        t.y = 417,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "已完成：",
+        t.textColor = 3359103,
+        t.touchEnabled = !1,
+        t.x = 557,
+        t.y = 417,
+        t
+    },
+    i.img_box_i = function() {
+        var t = new eui.Image;
+        return this.img_box = t,
+        t.height = 44,
+        t.source = "pve_aolia_aliya_pop_0_img_box_png",
+        t.width = 53,
+        t.x = 679,
+        t.y = 394,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaAyaPop0Skin.exml"] = window.PveAoliaAyaPop0Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_close", "helpBtn", "txt_item_1", "btnFight_1", "txt_item_0", "btnFight_0", "btnOnetap", "btnMake", "txt_probability", "txt_fightTimes", "btnAdd", "imgBtn_pet", "imgBtn_cure", "btnPlus1", "btnPlus0"],
+        this.height = 452,
+        this.width = 789,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.img_close_i(), this.helpBtn_i(), this._Image4_i(), this.txt_item_1_i(), this.btnFight_1_i(), this._Image5_i(), this.txt_item_0_i(), this.btnFight_0_i(), this._Image6_i(), this._Image7_i(), this.btnOnetap_i(), this.btnMake_i(), this._Image8_i(), this.txt_probability_i(), this._Label1_i(), this.txt_fightTimes_i(), this.btnAdd_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i(), this.btnPlus1_i(), this.btnPlus0_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 411,
+        t.source = "common_pop_point_png",
+        t.width = 756,
+        t.x = 21,
+        t.y = 41,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "common_pop_title_medium_png",
+        t.width = 748,
+        t.x = 25,
+        t.y = 22,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 26,
+        t.source = "pve_aolia_aya_pop_0_title_png",
+        t.width = 168,
+        t.x = 58,
+        t.y = 28,
+        t
+    },
+    i.img_close_i = function() {
+        var t = new eui.Image;
+        return this.img_close = t,
+        t.height = 56,
+        t.source = "common_close_1_png",
+        t.width = 54,
+        t.x = 735,
+        t.y = 0,
+        t
+    },
+    i.helpBtn_i = function() {
+        var t = new eui.Image;
+        return this.helpBtn = t,
+        t.source = "common_help_icon_png",
+        t.x = 234,
+        t.y = 24,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 326,
+        t.source = "pve_aolia_aya_pop_0_fight1_png",
+        t.width = 190,
+        t.x = 502,
+        t.y = 105,
+        t
+    },
+    i.txt_item_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_item_1 = t,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "已获得墨水：33",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 515,
+        t.y = 359,
+        t
+    },
+    i.btnFight_1_i = function() {
+        var t = new eui.Image;
+        return this.btnFight_1 = t,
+        t.height = 40,
+        t.source = "pve_aolia_aya_pop_0_btnFight_0_png",
+        t.width = 172,
+        t.x = 511,
+        t.y = 386,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 326,
+        t.source = "pve_aolia_aya_pop_0_fight0_png",
+        t.width = 190,
+        t.x = 312,
+        t.y = 105,
+        t
+    },
+    i.txt_item_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_item_0 = t,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "已获得眼镜：33",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 324,
+        t.y = 359,
+        t
+    },
+    i.btnFight_0_i = function() {
+        var t = new eui.Image;
+        return this.btnFight_0 = t,
+        t.height = 40,
+        t.source = "pve_aolia_aya_pop_0_btnFight_0_png",
+        t.width = 172,
+        t.x = 321,
+        t.y = 386,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 318,
+        t.source = "pve_aolia_aya_pop_0_iconbg_png",
+        t.touchEnabled = !1,
+        t.width = 366,
+        t.x = 0,
+        t.y = 27,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 73,
+        t.source = "pve_aolia_panel_aya_flag_made_1_png",
+        t.width = 134,
+        t.x = 106,
+        t.y = 145,
+        t
+    },
+    i.btnOnetap_i = function() {
+        var t = new eui.Image;
+        return this.btnOnetap = t,
+        t.height = 52,
+        t.source = "pve_aolia_aya_pop_0_btnOnetap_png",
+        t.width = 176,
+        t.x = 84,
+        t.y = 373,
+        t
+    },
+    i.btnMake_i = function() {
+        var t = new eui.Image;
+        return this.btnMake = t,
+        t.height = 50,
+        t.source = "pve_aolia_aya_pop_0_btnMake_png",
+        t.width = 174,
+        t.x = 85,
+        t.y = 313,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.height = 78,
+        t.source = "pve_aolia_aya_pop_0_successbg_png",
+        t.width = 187,
+        t.x = 78,
+        t.y = 222,
+        t
+    },
+    i.txt_probability_i = function() {
+        var t = new eui.Label;
+        return this.txt_probability = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.horizontalCenter = -228.5,
+        t.lineSpacing = 3,
+        t.size = 30,
+        t.text = "100%",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.y = 263,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 16,
+        t.text = "当前制作成功率：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 108,
+        t.y = 239,
+        t
+    },
+    i.txt_fightTimes_i = function() {
+        var t = new eui.Label;
+        return this.txt_fightTimes = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "今日可挑战次数：00",
+        t.textColor = 2772621,
+        t.touchEnabled = !1,
+        t.x = 379,
+        t.y = 75,
+        t
+    },
+    i.btnAdd_i = function() {
+        var t = new eui.Image;
+        return this.btnAdd = t,
+        t.height = 34,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 34,
+        t.x = 593,
+        t.y = 68,
+        t
+    },
+    i.imgBtn_pet_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_pet = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_pet_png",
+        t.width = 60,
+        t.x = 699,
+        t.y = 105,
+        t
+    },
+    i.imgBtn_cure_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_cure = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_cure_png",
+        t.width = 60,
+        t.x = 699,
+        t.y = 174,
+        t
+    },
+    i.btnPlus1_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus1 = t,
+        t.height = 20,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 20,
+        t.x = 660,
+        t.y = 358,
+        t
+    },
+    i.btnPlus0_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus0 = t,
+        t.height = 20,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 20,
+        t.x = 469,
+        t.y = 358,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaAyaPop1Skin.exml"] = window.PveAoliaAyaPop1Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_close", "helpBtn", "txt_item_1", "btnFight_1", "flag_win_1", "txt_item_0", "btnFight_0", "flag_win_0", "txt_fightTimes", "btnAdd", "imgBtn_pet", "imgBtn_cure"],
+        this.height = 452,
+        this.width = 789,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.img_close_i(), this.helpBtn_i(), this._Image4_i(), this.txt_item_1_i(), this.btnFight_1_i(), this.flag_win_1_i(), this._Image5_i(), this.txt_item_0_i(), this.btnFight_0_i(), this.flag_win_0_i(), this._Image6_i(), this._Image7_i(), this.txt_fightTimes_i(), this.btnAdd_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 411,
+        t.source = "common_pop_point_png",
+        t.width = 756,
+        t.x = 21,
+        t.y = 41,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "common_pop_title_medium_png",
+        t.width = 748,
+        t.x = 25,
+        t.y = 22,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 26,
+        t.source = "pve_aolia_aya_pop_1_title_png",
+        t.width = 169,
+        t.x = 58,
+        t.y = 28,
+        t
+    },
+    i.img_close_i = function() {
+        var t = new eui.Image;
+        return this.img_close = t,
+        t.height = 56,
+        t.source = "common_close_1_png",
+        t.width = 54,
+        t.x = 735,
+        t.y = 0,
+        t
+    },
+    i.helpBtn_i = function() {
+        var t = new eui.Image;
+        return this.helpBtn = t,
+        t.source = "common_help_icon_png",
+        t.x = 234,
+        t.y = 24,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 326,
+        t.source = "pve_aolia_aya_pop_1_fight1_png",
+        t.width = 190,
+        t.x = 502,
+        t.y = 105,
+        t
+    },
+    i.txt_item_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_item_1 = t,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "最高伤害超过200",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 522,
+        t.y = 359,
+        t
+    },
+    i.btnFight_1_i = function() {
+        var t = new eui.Image;
+        return this.btnFight_1 = t,
+        t.height = 40,
+        t.source = "pve_aolia_aya_pop_0_btnFight_0_png",
+        t.width = 172,
+        t.x = 511,
+        t.y = 386,
+        t
+    },
+    i.flag_win_1_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_1 = t,
+        t.source = "pve_aolia_aya_pop_1_flag_win_png",
+        t.x = 511,
+        t.y = 109,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 326,
+        t.horizontalCenter = 12.5,
+        t.source = "pve_aolia_aya_pop_1_fight0_png",
+        t.verticalCenter = 42,
+        t.width = 190,
+        t
+    },
+    i.txt_item_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_item_0 = t,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "三回合内击败",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 347,
+        t.y = 359,
+        t
+    },
+    i.btnFight_0_i = function() {
+        var t = new eui.Image;
+        return this.btnFight_0 = t,
+        t.height = 40,
+        t.source = "pve_aolia_aya_pop_0_btnFight_0_png",
+        t.width = 172,
+        t.x = 321,
+        t.y = 386,
+        t
+    },
+    i.flag_win_0_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_0 = t,
+        t.source = "pve_aolia_aya_pop_1_flag_win_png",
+        t.x = 321,
+        t.y = 109,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 318,
+        t.source = "pve_aolia_aya_pop_0_iconbg_png",
+        t.touchEnabled = !1,
+        t.width = 366,
+        t.x = 5,
+        t.y = 99,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 77,
+        t.source = "pve_aolia_aya_pop_1_icon_png",
+        t.width = 136,
+        t.x = 117,
+        t.y = 223,
+        t
+    },
+    i.txt_fightTimes_i = function() {
+        var t = new eui.Label;
+        return this.txt_fightTimes = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "今日可挑战次数：00",
+        t.textColor = 2772621,
+        t.touchEnabled = !1,
+        t.x = 379,
+        t.y = 75,
+        t
+    },
+    i.btnAdd_i = function() {
+        var t = new eui.Image;
+        return this.btnAdd = t,
+        t.height = 34,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 34,
+        t.x = 593,
+        t.y = 68,
+        t
+    },
+    i.imgBtn_pet_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_pet = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_pet_png",
+        t.width = 60,
+        t.x = 699,
+        t.y = 105,
+        t
+    },
+    i.imgBtn_cure_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_cure = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_cure_png",
+        t.width = 60,
+        t.x = 699,
+        t.y = 174,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaAyaPop2Skin.exml"] = window.PveAoliaAyaPop2Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_close", "helpBtn", "light", "grp_flag", "txt_fightTimes", "btnPlus", "btnFight", "btnOnetap", "imgBtn_pet", "imgBtn_cure"],
+        this.height = 452,
+        this.width = 822,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.img_close_i(), this.helpBtn_i(), this._Image4_i(), this.grp_flag_i(), this._Image7_i(), this.txt_fightTimes_i(), this._Label1_i(), this.btnPlus_i(), this.btnFight_i(), this.btnOnetap_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 411,
+        t.source = "common_pop_point_png",
+        t.width = 756,
+        t.x = 54,
+        t.y = 41,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "common_pop_title_medium_png",
+        t.width = 748,
+        t.x = 58,
+        t.y = 22,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 26,
+        t.source = "pve_aolia_aya_pop_2_title_png",
+        t.width = 169,
+        t.x = 91,
+        t.y = 28,
+        t
+    },
+    i.img_close_i = function() {
+        var t = new eui.Image;
+        return this.img_close = t,
+        t.height = 56,
+        t.source = "common_close_1_png",
+        t.width = 54,
+        t.x = 768,
+        t.y = 0,
+        t
+    },
+    i.helpBtn_i = function() {
+        var t = new eui.Image;
+        return this.helpBtn = t,
+        t.source = "common_help_icon_png",
+        t.x = 267,
+        t.y = 24,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 400,
+        t.source = "pve_aolia_aya_pop_2_pet_png",
+        t.width = 806,
+        t.x = 0,
+        t.y = 51,
+        t
+    },
+    i.grp_flag_i = function() {
+        var t = new eui.Group;
+        return this.grp_flag = t,
+        t.x = 323,
+        t.y = 145,
+        t.elementsContent = [this.light_i(), this._Image5_i(), this._Image6_i()],
+        t
+    },
+    i.light_i = function() {
+        var t = new eui.Image;
+        return this.light = t,
+        t.height = 57,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_aolia_aya_pop_2_light_png",
+        t.width = 48,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 58,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "",
+        t.width = 48,
+        t.x = 7,
+        t.y = 55,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 57,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "",
+        t.width = 48,
+        t.x = 45,
+        t.y = -5,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 69,
+        t.source = "pve_aolia_aya_pop_2_leftbg_png",
+        t.width = 233,
+        t.x = 66,
+        t.y = 295,
+        t
+    },
+    i.txt_fightTimes_i = function() {
+        var t = new eui.Label;
+        return this.txt_fightTimes = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "今日可挑战：00",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 121,
+        t.y = 340,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 24,
+        t.text = "贞德",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 164,
+        t.y = 302,
+        t
+    },
+    i.btnPlus_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus = t,
+        t.height = 34,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 34,
+        t.x = 265,
+        t.y = 331,
+        t
+    },
+    i.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.height = 52,
+        t.source = "pve_aolia_aya_pop_2_btnFight_png",
+        t.width = 176,
+        t.x = 100,
+        t.y = 378,
+        t
+    },
+    i.btnOnetap_i = function() {
+        var t = new eui.Image;
+        return this.btnOnetap = t,
+        t.height = 52,
+        t.source = "pve_aolia_aya_pop_0_btnOnetap_png",
+        t.width = 176,
+        t.x = 587,
+        t.y = 378,
+        t
+    },
+    i.imgBtn_pet_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_pet = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_pet_png",
+        t.width = 60,
+        t.x = 256,
+        t.y = 81,
+        t
+    },
+    i.imgBtn_cure_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_cure = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_cure_png",
+        t.width = 60,
+        t.x = 256,
+        t.y = 150,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaAyaPop3Skin.exml"] = window.PveAoliaAyaPop3Skin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["img_close", "helpBtn", "btnFight", "btnOnetap", "txt_defeatTimes", "txt_dailyTimes", "btnPlus", "imgBtn_pet", "imgBtn_cure"],
+        this.height = 452,
+        this.width = 816,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.img_close_i(), this.helpBtn_i(), this._Image4_i(), this._Image5_i(), this._Image6_i(), this.btnFight_i(), this.btnOnetap_i(), this._Image7_i(), this.txt_defeatTimes_i(), this._Image8_i(), this.txt_dailyTimes_i(), this._Label1_i(), this.btnPlus_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 411,
+        t.source = "common_pop_point_png",
+        t.width = 756,
+        t.x = 48,
+        t.y = 41,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 42,
+        t.source = "common_pop_title_medium_png",
+        t.width = 748,
+        t.x = 52,
+        t.y = 22,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 26,
+        t.source = "pve_aolia_aya_pop_3_title_png",
+        t.width = 168,
+        t.x = 85,
+        t.y = 28,
+        t
+    },
+    i.img_close_i = function() {
+        var t = new eui.Image;
+        return this.img_close = t,
+        t.height = 56,
+        t.source = "common_close_1_png",
+        t.width = 54,
+        t.x = 762,
+        t.y = 0,
+        t
+    },
+    i.helpBtn_i = function() {
+        var t = new eui.Image;
+        return this.helpBtn = t,
+        t.source = "common_help_icon_png",
+        t.x = 261,
+        t.y = 24,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.source = "pve_aolia_aya_pop_0_iconbg_png",
+        t.x = 454,
+        t.y = 58,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 108,
+        t.source = "pve_aolia_panel_aya_flag_made_2_png",
+        t.width = 126,
+        t.x = 578,
+        t.y = 157,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 384,
+        t.source = "pve_aolia_aya_pop_3_pet_png",
+        t.width = 589,
+        t.x = 0,
+        t.y = 64,
+        t
+    },
+    i.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.height = 52,
+        t.source = "pve_aolia_aya_pop_2_btnFight_png",
+        t.width = 176,
+        t.x = 173,
+        t.y = 358,
+        t
+    },
+    i.btnOnetap_i = function() {
+        var t = new eui.Image;
+        return this.btnOnetap = t,
+        t.height = 52,
+        t.source = "pve_aolia_aya_pop_0_btnOnetap_png",
+        t.width = 176,
+        t.x = 548,
+        t.y = 358,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 57,
+        t.source = "pve_aolia_aya_pop_3_beatbg_png",
+        t.width = 186,
+        t.x = 542,
+        t.y = 274,
+        t
+    },
+    i.txt_defeatTimes_i = function() {
+        var t = new eui.Label;
+        return this.txt_defeatTimes = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "累计击败：0/3次",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 553,
+        t.y = 293,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.height = 69,
+        t.source = "pve_aolia_aya_pop_2_leftbg_png",
+        t.width = 233,
+        t.x = 140,
+        t.y = 270,
+        t
+    },
+    i.txt_dailyTimes_i = function() {
+        var t = new eui.Label;
+        return this.txt_dailyTimes = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "今日可挑战：00",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 195,
+        t.y = 315,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 24,
+        t.text = "艾丽桑",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 225,
+        t.y = 277,
+        t
+    },
+    i.btnPlus_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus = t,
+        t.height = 34,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 34,
+        t.x = 339,
+        t.y = 306,
+        t
+    },
+    i.imgBtn_pet_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_pet = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_pet_png",
+        t.width = 60,
+        t.x = 726,
+        t.y = 105,
+        t
+    },
+    i.imgBtn_cure_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_cure = t,
+        t.height = 60,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_cure_png",
+        t.width = 60,
+        t.x = 726,
+        t.y = 174,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaPanelAliyaSkin.exml"] = window.PveAoliaPanelAliyaSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["costIcon", "txt_needNum", "grp_cost", "btnOnetap", "btnExchange", "flag_got", "icon_2", "icon_1", "icon_0", "img_boss_2", "img_boss_1", "img_boss_0", "flag_win_0", "flag_win_1", "flag_win_2", "btnGo", "txt_itemNum", "btnPlus", "itemIcon", "btnInfo"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.grp_cost_i(), this.btnOnetap_i(), this.btnExchange_i(), this.flag_got_i(), this._Group1_i(), this._Group2_i(), this._Group3_i(), this.btnInfo_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 640,
+        t.source = "common_ui_bg_1_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "common_pet_base_png",
+        t.x = 46,
+        t.y = 323,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 578,
+        t.source = "pve_aolia_panel_aliya_pet_png",
+        t.width = 498,
+        t.x = 13,
+        t.y = 0,
+        t
+    },
+    i.grp_cost_i = function() {
+        var t = new eui.Group;
+        return this.grp_cost = t,
+        t.x = 281,
+        t.y = 527,
+        t.elementsContent = [this._Image4_i(), this.costIcon_i(), this.txt_needNum_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 33,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_aolia_panel_aliya_countbg_png",
+        t.width = 173,
+        t.x = -18,
+        t.y = -6,
+        t
+    },
+    i.costIcon_i = function() {
+        var t = new eui.Image;
+        return this.costIcon = t,
+        t.height = 22,
+        t.source = "pve_aolia_panel_aliya_itemIcon_png",
+        t.width = 22,
+        t.x = -18,
+        t.y = 0,
+        t
+    },
+    i.txt_needNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_needNum = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "需要庆典徽记X40",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 10,
+        t.y = 3,
+        t
+    },
+    i.btnOnetap_i = function() {
+        var t = new eui.Image;
+        return this.btnOnetap = t,
+        t.height = 52,
+        t.source = "pve_aolia_panel_aliya_btnOnetap_png",
+        t.width = 176,
+        t.x = 77,
+        t.y = 553,
+        t
+    },
+    i.btnExchange_i = function() {
+        var t = new eui.Image;
+        return this.btnExchange = t,
+        t.height = 52,
+        t.source = "pve_aolia_panel_aliya_btnExchange_png",
+        t.width = 176,
+        t.x = 261,
+        t.y = 553,
+        t
+    },
+    i.flag_got_i = function() {
+        var t = new eui.Image;
+        return this.flag_got = t,
+        t.height = 50,
+        t.source = "pve_aolia_panel_flag_got_pet_png",
+        t.width = 91,
+        t.x = 210,
+        t.y = 552,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 86,
+        t.y = 97,
+        t.elementsContent = [this._Image5_i(), this._Image6_i(), this._Image7_i(), this._Image8_i(), this.icon_2_i(), this.icon_1_i(), this.icon_0_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 33,
+        t.source = "pve_aolia_panel_aya_img_free_png",
+        t.width = 39,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "pve_aolia_panel_aya_img_rect_png",
+        t.width = 57,
+        t.x = 4,
+        t.y = 151,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "pve_aolia_panel_aya_img_rect_png",
+        t.width = 57,
+        t.x = 4,
+        t.y = 93,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "pve_aolia_panel_aya_img_rect_png",
+        t.width = 57,
+        t.x = 4,
+        t.y = 35,
+        t
+    },
+    i.icon_2_i = function() {
+        var t = new eui.Image;
+        return this.icon_2 = t,
+        t.height = 40,
+        t.horizontalCenter = 2,
+        t.source = "pve_aolia_panel_aya_icon_2_png",
+        t.verticalCenter = 73,
+        t.width = 40,
+        t
+    },
+    i.icon_1_i = function() {
+        var t = new eui.Image;
+        return this.icon_1 = t,
+        t.height = 41,
+        t.source = "pve_aolia_panel_aya_icon_1_png",
+        t.width = 37,
+        t.x = 14,
+        t.y = 105,
+        t
+    },
+    i.icon_0_i = function() {
+        var t = new eui.Image;
+        return this.icon_0 = t,
+        t.height = 33,
+        t.source = "pve_aolia_panel_aya_icon_0_png",
+        t.width = 39,
+        t.x = 13,
+        t.y = 51,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.height = 490,
+        t.right = 0,
+        t.width = 639,
+        t.y = 134,
+        t.elementsContent = [this.img_boss_2_i(), this.img_boss_1_i(), this.img_boss_0_i(), this.flag_win_0_i(), this.flag_win_1_i(), this.flag_win_2_i(), this.btnGo_i(), this._Image9_i(), this._Label1_i()],
+        t
+    },
+    i.img_boss_2_i = function() {
+        var t = new eui.Image;
+        return this.img_boss_2 = t,
+        t.source = "pve_aolia_panel_aliya_img_boss_2_png",
+        t.x = 321,
+        t.y = 0,
+        t
+    },
+    i.img_boss_1_i = function() {
+        var t = new eui.Image;
+        return this.img_boss_1 = t,
+        t.source = "pve_aolia_panel_aliya_img_boss_1_png",
+        t.x = 100,
+        t.y = 232,
+        t
+    },
+    i.img_boss_0_i = function() {
+        var t = new eui.Image;
+        return this.img_boss_0 = t,
+        t.source = "pve_aolia_panel_aliya_img_boss_0_png",
+        t.x = 0,
+        t.y = 20,
+        t
+    },
+    i.flag_win_0_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_0 = t,
+        t.height = 76,
+        t.source = "pve_aolia_panel_aliya_flag_win_png",
+        t.width = 176,
+        t.x = 35,
+        t.y = 90,
+        t
+    },
+    i.flag_win_1_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_1 = t,
+        t.height = 76,
+        t.source = "pve_aolia_panel_aliya_flag_win_png",
+        t.width = 176,
+        t.x = 141,
+        t.y = 301,
+        t
+    },
+    i.flag_win_2_i = function() {
+        var t = new eui.Image;
+        return this.flag_win_2 = t,
+        t.height = 76,
+        t.source = "pve_aolia_panel_aliya_flag_win_png",
+        t.width = 176,
+        t.x = 373,
+        t.y = 117,
+        t
+    },
+    i.btnGo_i = function() {
+        var t = new eui.Image;
+        return this.btnGo = t,
+        t.height = 100,
+        t.source = "pve_aolia_panel_aliya_btnGo_png",
+        t.width = 233,
+        t.x = 406,
+        t.y = 390,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.height = 10,
+        t.source = "pve_aolia_panel_aliya_img_j_png",
+        t.width = 39,
+        t.x = 358,
+        t.y = 471,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.text = "进化必需",
+        t.textColor = 10150911,
+        t.x = 319,
+        t.y = 446,
+        t
+    },
+    i._Group3_i = function() {
+        var t = new eui.Group;
+        return t.right = 20,
+        t.y = 9,
+        t.elementsContent = [this._Label2_i(), this.txt_itemNum_i(), this.btnPlus_i(), this.itemIcon_i()],
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "庆典徽记：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 39,
+        t.y = 8,
+        t
+    },
+    i.txt_itemNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemNum = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 129,
+        t.y = 8,
+        t
+    },
+    i.btnPlus_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus = t,
+        t.height = 26,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 26,
+        t.x = 177,
+        t.y = 2,
+        t
+    },
+    i.itemIcon_i = function() {
+        var t = new eui.Image;
+        return this.itemIcon = t,
+        t.height = 30,
+        t.source = "pve_aolia_panel_aliya_itemIcon_png",
+        t.width = 31,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnInfo = t,
+        t.height = 74,
+        t.source = "pve_aolia_btnInfo_png",
+        t.width = 74,
+        t.x = 82,
+        t.y = 456,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaPanelAoliaFightSkin.exml"] = window.PveAoliaPanelAoliaFightSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["imgBtn_pet", "imgBtn_cure", "txt_fightTimes", "btnAddTimes", "btnRoll", "grp_roll", "img_pet", "txt_condition", "btnFight", "btnReroll", "btnFastbeat", "grp_fight", "btnGet", "flag_tomorrow", "txt_task", "img_box", "txt_progress", "grp_task", "txt_itemNum", "txt_serial", "grp_info", "txt_itemNum_1", "btnPlus_1", "itemIcon_1", "txt_itemNum_0", "btnPlus_0", "itemIcon_0", "grp_right"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.imgBtn_pet_i(), this.imgBtn_cure_i(), this._Group1_i(), this.grp_roll_i(), this.grp_fight_i(), this.grp_task_i(), this.grp_info_i(), this.grp_right_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 640,
+        t.source = "common_ui_bg_1_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 291,
+        t.horizontalCenter = -.5,
+        t.source = "common_pet_base_png",
+        t.visible = !0,
+        t.width = 421,
+        t.y = 330,
+        t
+    },
+    i.imgBtn_pet_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_pet = t,
+        t.height = 60,
+        t.horizontalCenter = 240,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_pet_png",
+        t.width = 60,
+        t.y = 119,
+        t
+    },
+    i.imgBtn_cure_i = function() {
+        var t = new eui.Image;
+        return this.imgBtn_cure = t,
+        t.height = 60,
+        t.horizontalCenter = 240,
+        t.source = "pve_aolia_aya_pop_0_imgBtn_cure_png",
+        t.width = 60,
+        t.y = 188,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.horizontalCenter = -7.5,
+        t.y = 578,
+        t.elementsContent = [this._Image3_i(), this.txt_fightTimes_i(), this.btnAddTimes_i()],
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 33,
+        t.source = "pve_aolia_panel_aolia_fight_tiaozhanbg_png",
+        t.width = 258,
+        t.x = 0,
+        t.y = 1,
+        t
+    },
+    i.txt_fightTimes_i = function() {
+        var t = new eui.Label;
+        return this.txt_fightTimes = t,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "今日可挑战次数：00",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 51,
+        t.y = 7,
+        t
+    },
+    i.btnAddTimes_i = function() {
+        var t = new eui.Image;
+        return this.btnAddTimes = t,
+        t.height = 34,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 34,
+        t.x = 253,
+        t.y = 0,
+        t
+    },
+    i.grp_roll_i = function() {
+        var t = new eui.Group;
+        return this.grp_roll = t,
+        t.horizontalCenter = 0,
+        t.visible = !0,
+        t.y = 81,
+        t.elementsContent = [this._Image4_i(), this.btnRoll_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 461,
+        t.source = "pve_aolia_panel_aolia_fight_rollBg_png",
+        t.width = 436,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnRoll_i = function() {
+        var t = new eui.Image;
+        return this.btnRoll = t,
+        t.height = 147,
+        t.source = "pve_aolia_panel_aolia_fight_btnRoll_png",
+        t.width = 128,
+        t.x = 155,
+        t.y = 349,
+        t
+    },
+    i.grp_fight_i = function() {
+        var t = new eui.Group;
+        return this.grp_fight = t,
+        t.height = 495,
+        t.horizontalCenter = 4,
+        t.visible = !0,
+        t.width = 444,
+        t.y = 82,
+        t.elementsContent = [this._Image5_i(), this.img_pet_i(), this.txt_condition_i(), this.btnFight_i(), this.btnReroll_i(), this.btnFastbeat_i()],
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 460,
+        t.source = "pve_aolia_panel_aolia_fight_fightBg_png",
+        t.width = 436,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.img_pet_i = function() {
+        var t = new eui.Image;
+        return this.img_pet = t,
+        t.horizontalCenter = 0,
+        t.verticalCenter = -19,
+        t
+    },
+    i.txt_condition_i = function() {
+        var t = new eui.Label;
+        return this.txt_condition = t,
+        t.horizontalCenter = 0,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "需要造成0000/0000伤害",
+        t.textColor = 14479615,
+        t.touchEnabled = !1,
+        t.y = 60,
+        t
+    },
+    i.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.height = 147,
+        t.source = "pve_aolia_panel_aolia_fight_btnFight_png",
+        t.width = 128,
+        t.x = 155,
+        t.y = 348,
+        t
+    },
+    i.btnReroll_i = function() {
+        var t = new eui.Image;
+        return this.btnReroll = t,
+        t.height = 42,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_aolia_panel_aolia_fight_btnReroll_png",
+        t.width = 142,
+        t.x = 302,
+        t.y = 439,
+        t
+    },
+    i.btnFastbeat_i = function() {
+        var t = new eui.Image;
+        return this.btnFastbeat = t,
+        t.height = 42,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "pve_aolia_panel_aolia_fight_btnFastbeat_png",
+        t.width = 142,
+        t.x = -6,
+        t.y = 439,
+        t
+    },
+    i.grp_task_i = function() {
+        var t = new eui.Group;
+        return this.grp_task = t,
+        t.x = 17,
+        t.y = 84,
+        t.elementsContent = [this._Image6_i(), this.btnGet_i(), this.flag_tomorrow_i(), this._Image7_i(), this._Label1_i(), this.txt_task_i(), this._Label2_i(), this.img_box_i(), this.txt_progress_i(), this._Label3_i(), this._Label4_i()],
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 314,
+        t.source = "pve_aolia_panel_aolia_rewardIconbg_png",
+        t.width = 230,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnGet_i = function() {
+        var t = new eui.Image;
+        return this.btnGet = t,
+        t.height = 40,
+        t.source = "pve_aolia_panel_aolia_fight_btnGet_png",
+        t.width = 110,
+        t.x = 17,
+        t.y = 262,
+        t
+    },
+    i.flag_tomorrow_i = function() {
+        var t = new eui.Image;
+        return this.flag_tomorrow = t,
+        t.height = 40,
+        t.source = "pve_aolia_panel_aolia_fight_flag_tomorrow_png",
+        t.visible = !1,
+        t.width = 110,
+        t.x = 17,
+        t.y = 262,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 24,
+        t.source = "pve_aolia_panel_aolia_fight_taskTitle_png",
+        t.width = 154,
+        t.x = 6,
+        t.y = 6,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 22,
+        t.text = "目标：",
+        t.textColor = 9555967,
+        t.touchEnabled = !1,
+        t.x = 19,
+        t.y = 45,
+        t
+    },
+    i.txt_task_i = function() {
+        var t = new eui.Label;
+        return this.txt_task = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "累计完成25场战斗",
+        t.textColor = 12640767,
+        t.touchEnabled = !1,
+        t.x = 19,
+        t.y = 77,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "艾丽娅战备箱x1",
+        t.textColor = 12640767,
+        t.touchEnabled = !1,
+        t.x = 18,
+        t.y = 149,
+        t
+    },
+    i.img_box_i = function() {
+        var t = new eui.Image;
+        return this.img_box = t,
+        t.height = 54,
+        t.source = "pve_aolia_panel_aolia_fight_img_box_png",
+        t.width = 53,
+        t.x = 163,
+        t.y = 126,
+        t
+    },
+    i.txt_progress_i = function() {
+        var t = new eui.Label;
+        return this.txt_progress = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "已完成00/33场战斗",
+        t.textColor = 12640767,
+        t.touchEnabled = !1,
+        t.x = 19,
+        t.y = 221,
+        t
+    },
+    i._Label3_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 22,
+        t.text = "奖励：",
+        t.textColor = 9555967,
+        t.touchEnabled = !1,
+        t.x = 18,
+        t.y = 117,
+        t
+    },
+    i._Label4_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 22,
+        t.text = "进度：",
+        t.textColor = 9555967,
+        t.touchEnabled = !1,
+        t.x = 18,
+        t.y = 189,
+        t
+    },
+    i.grp_info_i = function() {
+        var t = new eui.Group;
+        return this.grp_info = t,
+        t.right = 20,
+        t.y = 84,
+        t.elementsContent = [this._Image8_i(), this._Image9_i(), this._Label5_i(), this._Label6_i(), this._Label7_i(), this._Label8_i(), this._Image10_i(), this._Label9_i(), this._Label10_i(), this.txt_itemNum_i(), this.txt_serial_i()],
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.height = 314,
+        t.source = "pve_aolia_panel_aolia_rewardIconbg_png",
+        t.width = 241,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.height = 24,
+        t.source = "pve_aolia_panel_aolia_fight_infoTitle_png",
+        t.width = 105,
+        t.x = 10,
+        t.y = 6,
+        t
+    },
+    i._Label5_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 12,
+        t.size = 18,
+        t.text = "连续击败对手次数越多，\n获得",
+        t.textColor = 12706047,
+        t.touchEnabled = !1,
+        t.visible = !0,
+        t.x = 21,
+        t.y = 48,
+        t
+    },
+    i._Label6_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 12,
+        t.size = 18,
+        t.text = "自然庇佑",
+        t.textColor = 4239359,
+        t.touchEnabled = !1,
+        t.x = 102,
+        t.y = 78,
+        t
+    },
+    i._Label7_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 12,
+        t.size = 18,
+        t.text = "越多！",
+        t.textColor = 12706047,
+        t.touchEnabled = !1,
+        t.x = 174,
+        t.y = 78,
+        t
+    },
+    i._Label8_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 12,
+        t.size = 18,
+        t.text = "自然庇佑可用于开启\n艾欧丽娅的附属能力！",
+        t.textColor = 12706047,
+        t.touchEnabled = !1,
+        t.visible = !0,
+        t.x = 21,
+        t.y = 108,
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.height = 29,
+        t.source = "pve_aolia_panel_aolia_itemIcon_1_png",
+        t.width = 34,
+        t.x = 64,
+        t.y = 71,
+        t
+    },
+    i._Label9_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "累计自然庇佑奖励：",
+        t.textColor = 12706047,
+        t.touchEnabled = !1,
+        t.x = 21,
+        t.y = 221,
+        t
+    },
+    i._Label10_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "连续击败次数：",
+        t.textColor = 12706047,
+        t.touchEnabled = !1,
+        t.x = 21,
+        t.y = 252,
+        t
+    },
+    i.txt_itemNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemNum = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "00",
+        t.textColor = 4173823,
+        t.touchEnabled = !1,
+        t.x = 189,
+        t.y = 221,
+        t
+    },
+    i.txt_serial_i = function() {
+        var t = new eui.Label;
+        return this.txt_serial = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "00",
+        t.textColor = 4173823,
+        t.touchEnabled = !1,
+        t.x = 152,
+        t.y = 252,
+        t
+    },
+    i.grp_right_i = function() {
+        var t = new eui.Group;
+        return this.grp_right = t,
+        t.right = 20,
+        t.y = 5,
+        t.elementsContent = [this._Group2_i(), this._Group3_i()],
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 230,
+        t.y = 4,
+        t.elementsContent = [this._Label11_i(), this.txt_itemNum_1_i(), this.btnPlus_1_i(), this.itemIcon_1_i()],
+        t
+    },
+    i._Label11_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "自然庇佑：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 41,
+        t.y = 8,
+        t
+    },
+    i.txt_itemNum_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemNum_1 = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 129,
+        t.y = 9,
+        t
+    },
+    i.btnPlus_1_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus_1 = t,
+        t.height = 26,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 26,
+        t.x = 177,
+        t.y = 2,
+        t
+    },
+    i.itemIcon_1_i = function() {
+        var t = new eui.Image;
+        return this.itemIcon_1 = t,
+        t.height = 29,
+        t.source = "pve_aolia_panel_aolia_itemIcon_1_png",
+        t.width = 33,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group3_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Label12_i(), this.txt_itemNum_0_i(), this.btnPlus_0_i(), this.itemIcon_0_i()],
+        t
+    },
+    i._Label12_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "凛冰枪魂：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 43,
+        t.y = 11,
+        t
+    },
+    i.txt_itemNum_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemNum_0 = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 133,
+        t.y = 13,
+        t
+    },
+    i.btnPlus_0_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus_0 = t,
+        t.height = 26,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 26,
+        t.x = 181,
+        t.y = 6,
+        t
+    },
+    i.itemIcon_0_i = function() {
+        var t = new eui.Image;
+        return this.itemIcon_0 = t,
+        t.height = 35,
+        t.source = "pve_aolia_panel_aolia_itemIcon_0_png",
+        t.width = 35,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaPanelAoliaSkin.exml"] = window.PveAoliaPanelAoliaSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["grp_cost", "btnGo", "btnOnetap", "btnEvo", "flag_got", "icon_2", "icon_1", "icon_0", "txt_cost_1", "costIcon_1", "btnBuy_1", "flag_got_1", "txt_cost_2", "costIcon_2", "btnBuy_2", "flag_got_2", "txt_cost_0", "costIcon_0", "btnBuy_0", "flag_got_0", "leftGroup", "box_close", "box_open", "opening", "opened", "txt_time", "txt_boxNum", "btnCompose", "txt_itemNum_1", "btnPlus_1", "itemIcon_1", "txt_itemNum_0", "btnPlus_0", "itemIcon_0", "grp_right", "btnInfo"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.grp_cost_i(), this._Group1_i(), this.btnOnetap_i(), this.btnEvo_i(), this.flag_got_i(), this.leftGroup_i(), this.grp_right_i(), this.btnInfo_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 640,
+        t.source = "common_ui_bg_1_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 291,
+        t.horizontalCenter = -.5,
+        t.source = "common_pet_base_png",
+        t.width = 421,
+        t.y = 323,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 614,
+        t.horizontalCenter = 14,
+        t.source = "pve_aolia_panel_aolia_pet_png",
+        t.width = 748,
+        t.y = 0,
+        t
+    },
+    i.grp_cost_i = function() {
+        var t = new eui.Group;
+        return this.grp_cost = t,
+        t.horizontalCenter = 90,
+        t.y = 577,
+        t.elementsContent = [this._Image4_i(), this._Image5_i(), this._Label1_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 33,
+        t.source = "pve_aolia_panel_aliya_countbg_png",
+        t.width = 173,
+        t.x = 1,
+        t.y = 0,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 25,
+        t.source = "pve_aolia_panel_aolia_itemIcon_0_png",
+        t.width = 23,
+        t.x = 0,
+        t.y = 5,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "需要凛冰枪魂X12",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 27,
+        t.y = 9,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.height = 100,
+        t.right = 0,
+        t.width = 320,
+        t.y = 524,
+        t.elementsContent = [this.btnGo_i(), this._Image6_i(), this._Label2_i()],
+        t
+    },
+    i.btnGo_i = function() {
+        var t = new eui.Image;
+        return this.btnGo = t,
+        t.height = 100,
+        t.source = "pve_aolia_panel_aliya_aolia_btnGo_png",
+        t.width = 233,
+        t.x = 87,
+        t.y = 0,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 10,
+        t.source = "pve_aolia_panel_aliya_img_j_png",
+        t.width = 39,
+        t.x = 39,
+        t.y = 81,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.size = 20,
+        t.text = "进化必需",
+        t.textColor = 10150911,
+        t.x = 0,
+        t.y = 56,
+        t
+    },
+    i.btnOnetap_i = function() {
+        var t = new eui.Image;
+        return this.btnOnetap = t,
+        t.height = 52,
+        t.horizontalCenter = -105,
+        t.source = "pve_aolia_panel_aliya_btnOnetap_png",
+        t.width = 176,
+        t.y = 528,
+        t
+    },
+    i.btnEvo_i = function() {
+        var t = new eui.Image;
+        return this.btnEvo = t,
+        t.height = 52,
+        t.horizontalCenter = 91,
+        t.source = "pve_aolia_panel_aliya_btnExchange_png",
+        t.width = 176,
+        t.y = 528,
+        t
+    },
+    i.flag_got_i = function() {
+        var t = new eui.Image;
+        return this.flag_got = t,
+        t.height = 50,
+        t.horizontalCenter = -2.5,
+        t.source = "pve_aolia_panel_flag_got_pet_png",
+        t.width = 91,
+        t.y = 530,
+        t
+    },
+    i.leftGroup_i = function() {
+        var t = new eui.Group;
+        return this.leftGroup = t,
+        t.left = 0,
+        t.y = 121,
+        t.elementsContent = [this._Image7_i(), this._Image8_i(), this._Image9_i(), this.icon_2_i(), this._Image10_i(), this.icon_1_i(), this._Image11_i(), this.icon_0_i(), this.btnBuy_1_i(), this.flag_got_1_i(), this.btnBuy_2_i(), this.flag_got_2_i(), this.btnBuy_0_i(), this.flag_got_0_i()],
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 417,
+        t.source = "pve_aolia_panel_aolia_rewardIconbg_png",
+        t.width = 131,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.height = 32,
+        t.source = "pve_aolia_panel_aolia_rewardTitle_png",
+        t.width = 95,
+        t.x = 18,
+        t.y = 3,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "pve_aolia_panel_aya_img_rect_png",
+        t.width = 57,
+        t.x = 37,
+        t.y = 286,
+        t
+    },
+    i.icon_2_i = function() {
+        var t = new eui.Image;
+        return this.icon_2 = t,
+        t.height = 40,
+        t.horizontalCenter = -.5,
+        t.source = "pve_aolia_panel_aya_icon_2_png",
+        t.verticalCenter = 107.5,
+        t.width = 40,
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "pve_aolia_panel_aya_img_rect_png",
+        t.width = 57,
+        t.x = 37,
+        t.y = 164,
+        t
+    },
+    i.icon_1_i = function() {
+        var t = new eui.Image;
+        return this.icon_1 = t,
+        t.height = 41,
+        t.source = "pve_aolia_panel_aya_icon_1_png",
+        t.width = 37,
+        t.x = 47,
+        t.y = 176,
+        t
+    },
+    i._Image11_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "pve_aolia_panel_aya_img_rect_png",
+        t.width = 57,
+        t.x = 37,
+        t.y = 42,
+        t
+    },
+    i.icon_0_i = function() {
+        var t = new eui.Image;
+        return this.icon_0 = t,
+        t.height = 33,
+        t.source = "pve_aolia_panel_aya_icon_0_png",
+        t.width = 39,
+        t.x = 46,
+        t.y = 58,
+        t
+    },
+    i.btnBuy_1_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy_1 = t,
+        t.visible = !0,
+        t.x = 15,
+        t.y = 108,
+        t.elementsContent = [this._Image12_i(), this.txt_cost_1_i(), this.costIcon_1_i()],
+        t
+    },
+    i._Image12_i = function() {
+        var t = new eui.Image;
+        return t.height = 40,
+        t.source = "pve_aolia_panel_aolia_btnBg_png",
+        t.width = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_cost_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost_1 = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.horizontalCenter = 14,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "40",
+        t.textColor = 8341784,
+        t.touchEnabled = !1,
+        t.y = 10,
+        t
+    },
+    i.costIcon_1_i = function() {
+        var t = new eui.Image;
+        return this.costIcon_1 = t,
+        t.height = 25,
+        t.source = "pve_aolia_panel_aolia_itemIcon_1_png",
+        t.width = 29,
+        t.x = 12,
+        t.y = 7,
+        t
+    },
+    i.flag_got_1_i = function() {
+        var t = new eui.Image;
+        return this.flag_got_1 = t,
+        t.height = 50,
+        t.source = "pve_aolia_panel_aya_flag_got_png",
+        t.width = 91,
+        t.x = 19,
+        t.y = 103,
+        t
+    },
+    i.btnBuy_2_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy_2 = t,
+        t.x = 15,
+        t.y = 232,
+        t.elementsContent = [this._Image13_i(), this.txt_cost_2_i(), this.costIcon_2_i()],
+        t
+    },
+    i._Image13_i = function() {
+        var t = new eui.Image;
+        return t.height = 40,
+        t.source = "pve_aolia_panel_aolia_btnBg_png",
+        t.width = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_cost_2_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost_2 = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.horizontalCenter = 14,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "40",
+        t.textColor = 8341784,
+        t.touchEnabled = !1,
+        t.y = 9,
+        t
+    },
+    i.costIcon_2_i = function() {
+        var t = new eui.Image;
+        return this.costIcon_2 = t,
+        t.height = 25,
+        t.source = "pve_aolia_panel_aolia_itemIcon_1_png",
+        t.width = 29,
+        t.x = 12,
+        t.y = 7,
+        t
+    },
+    i.flag_got_2_i = function() {
+        var t = new eui.Image;
+        return this.flag_got_2 = t,
+        t.height = 50,
+        t.source = "pve_aolia_panel_aya_flag_got_png",
+        t.width = 91,
+        t.x = 19,
+        t.y = 227,
+        t
+    },
+    i.btnBuy_0_i = function() {
+        var t = new eui.Group;
+        return this.btnBuy_0 = t,
+        t.x = 15,
+        t.y = 357,
+        t.elementsContent = [this._Image14_i(), this.txt_cost_0_i(), this.costIcon_0_i()],
+        t
+    },
+    i._Image14_i = function() {
+        var t = new eui.Image;
+        return t.height = 40,
+        t.source = "pve_aolia_panel_aolia_btnBg_png",
+        t.width = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txt_cost_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_cost_0 = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.horizontalCenter = 14,
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "20",
+        t.textColor = 8341784,
+        t.touchEnabled = !1,
+        t.y = 10,
+        t
+    },
+    i.costIcon_0_i = function() {
+        var t = new eui.Image;
+        return this.costIcon_0 = t,
+        t.height = 25,
+        t.source = "pve_aolia_panel_aolia_itemIcon_1_png",
+        t.width = 29,
+        t.x = 12,
+        t.y = 7,
+        t
+    },
+    i.flag_got_0_i = function() {
+        var t = new eui.Image;
+        return this.flag_got_0 = t,
+        t.height = 50,
+        t.source = "pve_aolia_panel_aya_flag_got_png",
+        t.width = 91,
+        t.x = 19,
+        t.y = 352,
+        t
+    },
+    i.grp_right_i = function() {
+        var t = new eui.Group;
+        return this.grp_right = t,
+        t.right = 2,
+        t.visible = !0,
+        t.y = 5,
+        t.elementsContent = [this._Group2_i(), this.btnCompose_i(), this._Group3_i(), this._Group4_i()],
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.x = 268,
+        t.y = 88,
+        t.elementsContent = [this._Image15_i(), this.box_close_i(), this.box_open_i(), this._Image16_i(), this.opening_i(), this.opened_i(), this.txt_time_i(), this.txt_boxNum_i()],
+        t
+    },
+    i._Image15_i = function() {
+        var t = new eui.Image;
+        return t.height = 162,
+        t.source = "pve_aolia_panel_aolia_awardbg_png",
+        t.width = 171,
+        t.x = 0,
+        t.y = 13,
+        t
+    },
+    i.box_close_i = function() {
+        var t = new eui.Image;
+        return this.box_close = t,
+        t.height = 126,
+        t.source = "pve_aolia_panel_aolia_box_close_png",
+        t.visible = !0,
+        t.width = 123,
+        t.x = 27,
+        t.y = 26,
+        t
+    },
+    i.box_open_i = function() {
+        var t = new eui.Image;
+        return this.box_open = t,
+        t.height = 128,
+        t.source = "pve_aolia_panel_aolia_box_open_png",
+        t.visible = !0,
+        t.width = 122,
+        t.x = 28,
+        t.y = 28,
+        t
+    },
+    i._Image16_i = function() {
+        var t = new eui.Image;
+        return t.height = 63,
+        t.source = "pve_aolia_panel_aolia_boxTitle_png",
+        t.visible = !0,
+        t.width = 171,
+        t.x = 12,
+        t.y = 0,
+        t
+    },
+    i.opening_i = function() {
+        var t = new eui.Image;
+        return this.opening = t,
+        t.height = 35,
+        t.source = "pve_aolia_panel_aolia_opening_png",
+        t.visible = !1,
+        t.width = 70,
+        t.x = 55,
+        t.y = 130,
+        t
+    },
+    i.opened_i = function() {
+        var t = new eui.Image;
+        return this.opened = t,
+        t.height = 35,
+        t.source = "pve_aolia_panel_aolia_opened_png",
+        t.visible = !0,
+        t.width = 69,
+        t.x = 55,
+        t.y = 130,
+        t
+    },
+    i.txt_time_i = function() {
+        var t = new eui.Label;
+        return this.txt_time = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 20,
+        t.text = "00:00:00",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.visible = !1,
+        t.x = 42,
+        t.y = 159,
+        t
+    },
+    i.txt_boxNum_i = function() {
+        var t = new eui.Label;
+        return this.txt_boxNum = t,
+        t.fontFamily = "HuaKangXinZongYi",
+        t.horizontalCenter = 58,
+        t.lineSpacing = 3,
+        t.size = 22,
+        t.stroke = 1,
+        t.strokeColor = 4741042,
+        t.text = "x10",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.y = 35,
+        t
+    },
+    i.btnCompose_i = function() {
+        var t = new eui.Image;
+        return this.btnCompose = t,
+        t.height = 42,
+        t.source = "pve_aolia_panel_aolia_btnCompose_png",
+        t.width = 122,
+        t.x = 298,
+        t.y = 271,
+        t
+    },
+    i._Group3_i = function() {
+        var t = new eui.Group;
+        return t.x = 230,
+        t.y = 4,
+        t.elementsContent = [this._Label3_i(), this.txt_itemNum_1_i(), this.btnPlus_1_i(), this.itemIcon_1_i()],
+        t
+    },
+    i._Label3_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "自然庇佑：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 41,
+        t.y = 8,
+        t
+    },
+    i.txt_itemNum_1_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemNum_1 = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 129,
+        t.y = 8,
+        t
+    },
+    i.btnPlus_1_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus_1 = t,
+        t.height = 26,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 26,
+        t.x = 177,
+        t.y = 2,
+        t
+    },
+    i.itemIcon_1_i = function() {
+        var t = new eui.Image;
+        return this.itemIcon_1 = t,
+        t.height = 29,
+        t.source = "pve_aolia_panel_aolia_itemIcon_1_png",
+        t.width = 33,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Group4_i = function() {
+        var t = new eui.Group;
+        return t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this._Label4_i(), this.txt_itemNum_0_i(), this.btnPlus_0_i(), this.itemIcon_0_i()],
+        t
+    },
+    i._Label4_i = function() {
+        var t = new eui.Label;
+        return t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "凛冰枪魂：",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 43,
+        t.y = 11,
+        t
+    },
+    i.txt_itemNum_0_i = function() {
+        var t = new eui.Label;
+        return this.txt_itemNum_0 = t,
+        t.lineSpacing = 3,
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.x = 133,
+        t.y = 11,
+        t
+    },
+    i.btnPlus_0_i = function() {
+        var t = new eui.Image;
+        return this.btnPlus_0 = t,
+        t.height = 26,
+        t.source = "pve_aolia_aya_pop_0_btnAdd_png",
+        t.width = 26,
+        t.x = 181,
+        t.y = 6,
+        t
+    },
+    i.itemIcon_0_i = function() {
+        var t = new eui.Image;
+        return this.itemIcon_0 = t,
+        t.height = 35,
+        t.source = "pve_aolia_panel_aolia_itemIcon_0_png",
+        t.width = 35,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.btnInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnInfo = t,
+        t.height = 74,
+        t.horizontalCenter = -253,
+        t.source = "pve_aolia_btnInfo_png",
+        t.width = 74,
+        t.y = 514,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PveAoliaPanelAyaSkin.exml"] = window.PveAoliaPanelAyaSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnGet", "flag_got", "icon_2", "icon_1", "icon_0", "flag_made_2", "btnMake_2", "flag_made_3", "btnMake_3", "flag_made_0", "btnMake_0", "flag_made_1", "btnMake_1", "btnInfo"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this._Image3_i(), this.btnGet_i(), this.flag_got_i(), this._Group1_i(), this._Group2_i(), this.btnInfo_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 640,
+        t.source = "common_ui_bg_1_png",
+        t.percentWidth = 100,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.source = "common_pet_base_png",
+        t.x = 32,
+        t.y = 321,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 456,
+        t.source = "pve_aolia_panel_aya_pet_aya_png",
+        t.width = 378,
+        t.x = 19,
+        t.y = 107,
+        t
+    },
+    i.btnGet_i = function() {
+        var t = new eui.Image;
+        return this.btnGet = t,
+        t.height = 52,
+        t.source = "pve_aolia_panel_aya_btnGet_png",
+        t.width = 176,
+        t.x = 159,
+        t.y = 553,
+        t
+    },
+    i.flag_got_i = function() {
+        var t = new eui.Image;
+        return this.flag_got = t,
+        t.height = 50,
+        t.source = "pve_aolia_panel_flag_got_pet_png",
+        t.width = 91,
+        t.x = 204,
+        t.y = 554,
+        t
+    },
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 86,
+        t.y = 97,
+        t.elementsContent = [this._Image4_i(), this._Image5_i(), this._Image6_i(), this._Image7_i(), this.icon_2_i(), this.icon_1_i(), this.icon_0_i()],
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 33,
+        t.source = "pve_aolia_panel_aya_img_free_png",
+        t.width = 39,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "pve_aolia_panel_aya_img_rect_png",
+        t.width = 57,
+        t.x = 4,
+        t.y = 151,
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "pve_aolia_panel_aya_img_rect_png",
+        t.width = 57,
+        t.x = 4,
+        t.y = 93,
+        t
+    },
+    i._Image7_i = function() {
+        var t = new eui.Image;
+        return t.height = 64,
+        t.source = "pve_aolia_panel_aya_img_rect_png",
+        t.width = 57,
+        t.x = 4,
+        t.y = 35,
+        t
+    },
+    i.icon_2_i = function() {
+        var t = new eui.Image;
+        return this.icon_2 = t,
+        t.height = 40,
+        t.horizontalCenter = 2,
+        t.source = "pve_aolia_panel_aya_icon_2_png",
+        t.verticalCenter = 73,
+        t.width = 40,
+        t
+    },
+    i.icon_1_i = function() {
+        var t = new eui.Image;
+        return this.icon_1 = t,
+        t.height = 41,
+        t.source = "pve_aolia_panel_aya_icon_1_png",
+        t.width = 37,
+        t.x = 14,
+        t.y = 105,
+        t
+    },
+    i.icon_0_i = function() {
+        var t = new eui.Image;
+        return this.icon_0 = t,
+        t.height = 33,
+        t.source = "pve_aolia_panel_aya_icon_0_png",
+        t.width = 39,
+        t.x = 13,
+        t.y = 51,
+        t
+    },
+    i._Group2_i = function() {
+        var t = new eui.Group;
+        return t.right = 0,
+        t.y = 36,
+        t.elementsContent = [this._Image8_i(), this._Image9_i(), this._Label1_i(), this.flag_made_2_i(), this.btnMake_2_i(), this._Image10_i(), this._Label2_i(), this.flag_made_3_i(), this.btnMake_3_i(), this._Image11_i(), this._Label3_i(), this.flag_made_0_i(), this.btnMake_0_i(), this._Image12_i(), this._Label4_i(), this.flag_made_1_i(), this.btnMake_1_i(), this._Image13_i()],
+        t
+    },
+    i._Image8_i = function() {
+        var t = new eui.Image;
+        return t.height = 604,
+        t.source = "pve_aolia_panel_aya_rightbg_png",
+        t.width = 764,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image9_i = function() {
+        var t = new eui.Image;
+        return t.source = "pve_aolia_panel_aya_makeBg_png",
+        t.x = 402,
+        t.y = 344,
+        t
+    },
+    i._Label1_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 28,
+        t.text = "庆典彩旗",
+        t.textColor = 14940415,
+        t.touchEnabled = !1,
+        t.x = 494,
+        t.y = 511,
+        t
+    },
+    i.flag_made_2_i = function() {
+        var t = new eui.Image;
+        return this.flag_made_2 = t,
+        t.height = 133,
+        t.source = "pve_aolia_panel_aya_flag_made_3_png",
+        t.width = 101,
+        t.x = 503,
+        t.y = 370,
+        t
+    },
+    i.btnMake_2_i = function() {
+        var t = new eui.Image;
+        return this.btnMake_2 = t,
+        t.height = 167,
+        t.source = "pve_aolia_panel_aya_btnMake_3_png",
+        t.width = 135,
+        t.x = 486,
+        t.y = 352,
+        t
+    },
+    i._Image10_i = function() {
+        var t = new eui.Image;
+        return t.source = "pve_aolia_panel_aya_makeBg_png",
+        t.x = 117,
+        t.y = 344,
+        t
+    },
+    i._Label2_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 28,
+        t.text = "帅气披风",
+        t.textColor = 14940671,
+        t.touchEnabled = !1,
+        t.x = 210,
+        t.y = 511,
+        t
+    },
+    i.flag_made_3_i = function() {
+        var t = new eui.Image;
+        return this.flag_made_3 = t,
+        t.height = 107,
+        t.source = "pve_aolia_panel_aya_flag_made_2_png",
+        t.width = 126,
+        t.x = 202,
+        t.y = 383,
+        t
+    },
+    i.btnMake_3_i = function() {
+        var t = new eui.Image;
+        return this.btnMake_3 = t,
+        t.height = 141,
+        t.source = "pve_aolia_panel_aya_btnMake_2_png",
+        t.width = 160,
+        t.x = 185,
+        t.y = 366,
+        t
+    },
+    i._Image11_i = function() {
+        var t = new eui.Image;
+        return t.source = "pve_aolia_panel_aya_makeBg_png",
+        t.x = 396,
+        t.y = 120,
+        t
+    },
+    i._Label3_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 28,
+        t.text = "遮光墨镜",
+        t.textColor = 14940415,
+        t.touchEnabled = !1,
+        t.x = 488,
+        t.y = 290,
+        t
+    },
+    i.flag_made_0_i = function() {
+        var t = new eui.Image;
+        return this.flag_made_0 = t,
+        t.height = 72,
+        t.source = "pve_aolia_panel_aya_flag_made_1_png",
+        t.width = 133,
+        t.x = 475,
+        t.y = 167,
+        t
+    },
+    i.btnMake_0_i = function() {
+        var t = new eui.Image;
+        return this.btnMake_0 = t,
+        t.height = 109,
+        t.source = "pve_aolia_panel_aya_btnMake_1_png",
+        t.width = 168,
+        t.x = 459,
+        t.y = 149,
+        t
+    },
+    i._Image12_i = function() {
+        var t = new eui.Image;
+        return t.source = "pve_aolia_panel_aya_makeBg_png",
+        t.x = 115,
+        t.y = 119,
+        t
+    },
+    i._Label4_i = function() {
+        var t = new eui.Label;
+        return t.fontFamily = "HuaKangXinZongYi",
+        t.lineSpacing = 3,
+        t.size = 28,
+        t.text = "金色绶带",
+        t.textColor = 14940415,
+        t.touchEnabled = !1,
+        t.x = 206,
+        t.y = 290,
+        t
+    },
+    i.flag_made_1_i = function() {
+        var t = new eui.Image;
+        return this.flag_made_1 = t,
+        t.height = 146,
+        t.source = "pve_aolia_panel_aya_flag_made_0_png",
+        t.width = 216,
+        t.x = 154,
+        t.y = 134,
+        t
+    },
+    i.btnMake_1_i = function() {
+        var t = new eui.Image;
+        return this.btnMake_1 = t,
+        t.height = 127,
+        t.source = "pve_aolia_panel_aya_btnMake_0_png",
+        t.width = 197,
+        t.x = 164,
+        t.y = 144,
+        t
+    },
+    i._Image13_i = function() {
+        var t = new eui.Image;
+        return t.height = 75,
+        t.source = "pve_aolia_panel_aya_intro_png",
+        t.x = 120,
+        t.y = 48,
+        t
+    },
+    i.btnInfo_i = function() {
+        var t = new eui.Image;
+        return this.btnInfo = t,
+        t.height = 74,
+        t.source = "pve_aolia_btnInfo_png",
+        t.width = 74,
+        t.x = 59,
+        t.y = 540,
+        t
+    },
+    e
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/ZhendeFlagItemSkin.exml"] = window.ZhendeFlagItemSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["dark", "light"],
+        this.height = 57,
+        this.width = 48,
+        this.elementsContent = [this.dark_i(), this.light_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i.dark_i = function() {
+        var t = new eui.Image;
+        return this.dark = t,
+        t.height = 47,
+        t.source = "pve_aolia_aya_pop_2_dark_png",
+        t.width = 37,
+        t.x = 6,
+        t.y = 5,
+        t
+    },
+    i.light_i = function() {
+        var t = new eui.Image;
+        return this.light = t,
+        t.height = 57,
+        t.source = "pve_aolia_aya_pop_2_light_png",
+        t.visible = !0,
+        t.width = 48,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    e
+} (eui.Skin);

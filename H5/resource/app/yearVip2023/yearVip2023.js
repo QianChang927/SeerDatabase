@@ -16,14 +16,14 @@ function(e, t) {
 __awaiter = this && this.__awaiter ||
 function(e, t, i, n) {
     return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
+        function a(e) {
             try {
                 s(n.next(e))
             } catch(t) {
                 _(t)
             }
         }
-        function a(e) {
+        function o(e) {
             try {
                 s(n["throw"](e))
             } catch(t) {
@@ -33,7 +33,7 @@ function(e, t, i, n) {
         function s(e) {
             e.done ? r(e.value) : new i(function(t) {
                 t(e.value)
-            }).then(o, a)
+            }).then(a, o)
         }
         s((n = n.apply(e, t || [])).next())
     })
@@ -48,11 +48,11 @@ function(e, t) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
+            if (r = 1, _ && (a = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(_, i[1])).done) return a;
+            switch (_ = 0, a && (i = [0, a.value]), i[0]) {
             case 0:
             case 1:
-                o = i;
+                a = i;
                 break;
             case 4:
                 return s.label++,
@@ -70,25 +70,25 @@ function(e, t) {
                 s.trys.pop();
                 continue;
             default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (a = s.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     s = 0;
                     continue
                 }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
                     s.label = i[1];
                     break
                 }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
+                if (6 === i[0] && s.label < a[1]) {
+                    s.label = a[1],
+                    a = i;
                     break
                 }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
+                if (a && s.label < a[2]) {
+                    s.label = a[2],
                     s.ops.push(i);
                     break
                 }
-                o[2] && s.ops.pop(),
+                a[2] && s.ops.pop(),
                 s.trys.pop();
                 continue
             }
@@ -97,7 +97,7 @@ function(e, t) {
             i = [6, n],
             _ = 0
         } finally {
-            r = o = 0
+            r = a = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -105,24 +105,24 @@ function(e, t) {
             done: !0
         }
     }
-    var r, _, o, a, s = {
+    var r, _, a, o, s = {
         label: 0,
         sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
+            if (1 & a[0]) throw a[1];
+            return a[1]
         },
         trys: [],
         ops: []
     };
-    return a = {
+    return o = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
         return this
     }),
-    a
+    o
 },
 yearVip2023; !
 function(e) {
@@ -281,8 +281,6 @@ function(e) {
         return __extends(t, e),
         t.event_change_selecetd_id = "event_change_selecetd_id",
         t.event_udpdate_redHot = "event_udpdate_redHot",
-        t.event_udpdate_Money = "event_udpdate_Money",
-        t.event_udpdate_PetInfo = "event_udpdate_PetInfo",
         t
     } (egret.EventDispatcher);
     e.YearPetEvent = t,
@@ -306,14 +304,14 @@ function(e, t) {
 __awaiter = this && this.__awaiter ||
 function(e, t, i, n) {
     return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
+        function a(e) {
             try {
                 s(n.next(e))
             } catch(t) {
                 _(t)
             }
         }
-        function a(e) {
+        function o(e) {
             try {
                 s(n["throw"](e))
             } catch(t) {
@@ -323,7 +321,7 @@ function(e, t, i, n) {
         function s(e) {
             e.done ? r(e.value) : new i(function(t) {
                 t(e.value)
-            }).then(o, a)
+            }).then(a, o)
         }
         s((n = n.apply(e, t || [])).next())
     })
@@ -338,11 +336,11 @@ function(e, t) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
+            if (r = 1, _ && (a = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(_, i[1])).done) return a;
+            switch (_ = 0, a && (i = [0, a.value]), i[0]) {
             case 0:
             case 1:
-                o = i;
+                a = i;
                 break;
             case 4:
                 return s.label++,
@@ -360,25 +358,25 @@ function(e, t) {
                 s.trys.pop();
                 continue;
             default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (a = s.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     s = 0;
                     continue
                 }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
                     s.label = i[1];
                     break
                 }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
+                if (6 === i[0] && s.label < a[1]) {
+                    s.label = a[1],
+                    a = i;
                     break
                 }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
+                if (a && s.label < a[2]) {
+                    s.label = a[2],
                     s.ops.push(i);
                     break
                 }
-                o[2] && s.ops.pop(),
+                a[2] && s.ops.pop(),
                 s.trys.pop();
                 continue
             }
@@ -387,7 +385,7 @@ function(e, t) {
             i = [6, n],
             _ = 0
         } finally {
-            r = o = 0
+            r = a = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -395,24 +393,24 @@ function(e, t) {
             done: !0
         }
     }
-    var r, _, o, a, s = {
+    var r, _, a, o, s = {
         label: 0,
         sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
+            if (1 & a[0]) throw a[1];
+            return a[1]
         },
         trys: [],
         ops: []
     };
-    return a = {
+    return o = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
         return this
     }),
-    a
+    o
 },
 yearVip2023; !
 function(e) {
@@ -439,7 +437,6 @@ function(e) {
             this.hieAllView(),
             this.initView(),
             this._initEvents(),
-            this.updateView(),
             e.DataManger.getInstance().initData().then(function() {
                 var t = 0;
                 if (i.data && (t = i.data), e.DataManger.getInstance().setConfigId(t), VipController.isCurYearVip) for (var n = 1; 7 > n; n++) i.udpateCurRedHot(n);
@@ -462,13 +459,6 @@ function(e) {
             this._animate_nono_idle2.scaleX = this._animate_nono_idle2.scaleY = 1,
             this._animate_nono_idle2.x = this._animate_nono_idle2.y = 0,
             this._animate_nono_idle2.play("nono_idle2", 0)
-        },
-        i.prototype.showAnim_leibao = function() {
-            this._animate_leibao.visible = !0
-        },
-        i.prototype.hideAnim_leibao = function() {
-            this._animate_leibao.stopAll(),
-            this._animate_leibao.visible = !1
         },
         i.prototype.updateRedHot = function(e) {
             this.udpateCurRedHot(this._curTab)
@@ -493,11 +483,11 @@ function(e) {
                 break;
             case 5:
                 this.red_hot_5.visible = !1;
-                var o = SystemTimerManager.sysBJDate.getMonth(),
-                a = VipMonthMonsterXMLInfo.getPetForever(e.DataManger.getInstance().CUR_YEAR_INDEX);
-                KTool.getMultiValue(a,
+                var a = SystemTimerManager.sysBJDate.getMonth(),
+                o = VipMonthMonsterXMLInfo.getPetForever(e.DataManger.getInstance().CUR_YEAR_INDEX);
+                KTool.getMultiValue(o,
                 function(e) {
-                    for (var t = 0; o >= t; t++) e[t] <= 0 && (i.red_hot_5.visible = !0)
+                    for (var t = 0; a >= t; t++) e[t] <= 0 && (i.red_hot_5.visible = !0)
                 });
                 break;
             case 6:
@@ -528,15 +518,6 @@ function(e) {
                 tipsPop.TipsPop.openHelpPopById(e.DataManger.getInstance().HELP_POP_ID)
             }
         },
-        i.prototype.oncallBack = function(e) {
-            if (null != e) {
-                var t = this._viewList[this._curTab];
-                t && t.UpdateView()
-            }
-        },
-        i.prototype.onTouch = function() {
-            this.onClose()
-        },
         i.prototype.hieAllView = function() {
             for (var e = 0,
             t = this._viewList; e < t.length; e++) {
@@ -554,16 +535,8 @@ function(e) {
             this.UpdateTitle(),
             this._onShowView()
         },
-        i.prototype.updateView = function() {},
-        i.prototype.reShow = function() {},
         i.prototype.UpdateTitle = function() {
             0 == this._curTab ? this.BG.source = "yearvip_main_bg_jpg": 1 == this._curTab ? this.BG.source = "yearvip_yearpetview_imge_pet_jpg": this.BG.source = "yearvip_yearpetview_bg_jpg"
-        },
-        i.prototype.onUpdateMoney = function(e) {
-            e.data
-        },
-        i.prototype.onUpdatePetInfo = function(e) {
-            this._onShowView()
         },
         i.prototype._onShowView = function() {
             return __awaiter(this, void 0, void 0,
@@ -600,7 +573,6 @@ function(e) {
             this._animate_leibao = null,
             this._animate_nono_idle1 = null,
             this._animate_nono_idle2 = null,
-            t.prototype.destroy.call(this),
             this.rbg_tab.removeEventListener(egret.Event.CHANGE, this.onChangeTab, this),
             e.DataManger.getInstance().setConfigId( - 1),
             e.DataManger.getInstance().ClearBindViewInstance()
@@ -1086,14 +1058,14 @@ function(e, t) {
 __awaiter = this && this.__awaiter ||
 function(e, t, i, n) {
     return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
+        function a(e) {
             try {
                 s(n.next(e))
             } catch(t) {
                 _(t)
             }
         }
-        function a(e) {
+        function o(e) {
             try {
                 s(n["throw"](e))
             } catch(t) {
@@ -1103,7 +1075,7 @@ function(e, t, i, n) {
         function s(e) {
             e.done ? r(e.value) : new i(function(t) {
                 t(e.value)
-            }).then(o, a)
+            }).then(a, o)
         }
         s((n = n.apply(e, t || [])).next())
     })
@@ -1118,11 +1090,11 @@ function(e, t) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
+            if (r = 1, _ && (a = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(_, i[1])).done) return a;
+            switch (_ = 0, a && (i = [0, a.value]), i[0]) {
             case 0:
             case 1:
-                o = i;
+                a = i;
                 break;
             case 4:
                 return s.label++,
@@ -1140,25 +1112,25 @@ function(e, t) {
                 s.trys.pop();
                 continue;
             default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (a = s.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     s = 0;
                     continue
                 }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
                     s.label = i[1];
                     break
                 }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
+                if (6 === i[0] && s.label < a[1]) {
+                    s.label = a[1],
+                    a = i;
                     break
                 }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
+                if (a && s.label < a[2]) {
+                    s.label = a[2],
                     s.ops.push(i);
                     break
                 }
-                o[2] && s.ops.pop(),
+                a[2] && s.ops.pop(),
                 s.trys.pop();
                 continue
             }
@@ -1167,7 +1139,7 @@ function(e, t) {
             i = [6, n],
             _ = 0
         } finally {
-            r = o = 0
+            r = a = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -1175,24 +1147,24 @@ function(e, t) {
             done: !0
         }
     }
-    var r, _, o, a, s = {
+    var r, _, a, o, s = {
         label: 0,
         sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
+            if (1 & a[0]) throw a[1];
+            return a[1]
         },
         trys: [],
         ops: []
     };
-    return a = {
+    return o = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
         return this
     }),
-    a
+    o
 },
 yearVip2023; !
 function(e) {
@@ -1234,28 +1206,28 @@ function(e) {
             i._instance
         },
         i.prototype.initConfigData = function() {
-            for (var e = 0; e < this._yearPetRewards_config.length; e++) {
+            for (var e = 0; this._yearPetRewards.length < this._yearPetRewards_config.length; e++) {
                 var t = {};
                 t.type = this._yearPetRewards_config[e][0],
                 t.id = this._yearPetRewards_config[e][1],
                 t.count = this._yearPetRewards_config[e][2],
                 this._yearPetRewards[e] = t
             }
-            for (var e = 0; e < this._yuyueRewards_config.length; e++) {
+            for (var e = 0; this._yuyueRewards.length < this._yuyueRewards_config.length; e++) {
                 var t = {};
                 t.type = this._yuyueRewards_config[e][0],
                 t.id = this._yuyueRewards_config[e][1],
                 t.count = this._yuyueRewards_config[e][2],
                 this._yuyueRewards[e] = t
             }
-            for (var e = 0; e < this._mouthGiftRewards_config.length; e++) {
+            for (var e = 0; this._mouthGiftRewards.length < this._mouthGiftRewards_config.length; e++) {
                 var t = {};
                 t.type = this._mouthGiftRewards_config[e][0],
                 t.id = this._mouthGiftRewards_config[e][1],
                 t.count = this._mouthGiftRewards_config[e][2],
                 this._mouthGiftRewards[e] = t
             }
-            for (var e = 0; e < this._mouthGiftChangeRewards_config.length; e++) {
+            for (var e = 0; this._mouthGiftChangeRewards.length < this._mouthGiftChangeRewards_config.length; e++) {
                 var t = {};
                 t.type = this._mouthGiftChangeRewards_config[e][0],
                 t.id = this._mouthGiftChangeRewards_config[e][1],
@@ -1484,14 +1456,14 @@ function(e, t) {
 __awaiter = this && this.__awaiter ||
 function(e, t, i, n) {
     return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
+        function a(e) {
             try {
                 s(n.next(e))
             } catch(t) {
                 _(t)
             }
         }
-        function a(e) {
+        function o(e) {
             try {
                 s(n["throw"](e))
             } catch(t) {
@@ -1501,7 +1473,7 @@ function(e, t, i, n) {
         function s(e) {
             e.done ? r(e.value) : new i(function(t) {
                 t(e.value)
-            }).then(o, a)
+            }).then(a, o)
         }
         s((n = n.apply(e, t || [])).next())
     })
@@ -1516,11 +1488,11 @@ function(e, t) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
+            if (r = 1, _ && (a = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(_, i[1])).done) return a;
+            switch (_ = 0, a && (i = [0, a.value]), i[0]) {
             case 0:
             case 1:
-                o = i;
+                a = i;
                 break;
             case 4:
                 return s.label++,
@@ -1538,25 +1510,25 @@ function(e, t) {
                 s.trys.pop();
                 continue;
             default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (a = s.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     s = 0;
                     continue
                 }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
                     s.label = i[1];
                     break
                 }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
+                if (6 === i[0] && s.label < a[1]) {
+                    s.label = a[1],
+                    a = i;
                     break
                 }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
+                if (a && s.label < a[2]) {
+                    s.label = a[2],
                     s.ops.push(i);
                     break
                 }
-                o[2] && s.ops.pop(),
+                a[2] && s.ops.pop(),
                 s.trys.pop();
                 continue
             }
@@ -1565,7 +1537,7 @@ function(e, t) {
             i = [6, n],
             _ = 0
         } finally {
-            r = o = 0
+            r = a = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -1573,24 +1545,24 @@ function(e, t) {
             done: !0
         }
     }
-    var r, _, o, a, s = {
+    var r, _, a, o, s = {
         label: 0,
         sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
+            if (1 & a[0]) throw a[1];
+            return a[1]
         },
         trys: [],
         ops: []
     };
-    return a = {
+    return o = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
         return this
     }),
-    a
+    o
 },
 yearVip2023; !
 function(e) {
@@ -1685,14 +1657,14 @@ function(e, t) {
 __awaiter = this && this.__awaiter ||
 function(e, t, i, n) {
     return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
+        function a(e) {
             try {
                 s(n.next(e))
             } catch(t) {
                 _(t)
             }
         }
-        function a(e) {
+        function o(e) {
             try {
                 s(n["throw"](e))
             } catch(t) {
@@ -1702,7 +1674,7 @@ function(e, t, i, n) {
         function s(e) {
             e.done ? r(e.value) : new i(function(t) {
                 t(e.value)
-            }).then(o, a)
+            }).then(a, o)
         }
         s((n = n.apply(e, t || [])).next())
     })
@@ -1717,11 +1689,11 @@ function(e, t) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
+            if (r = 1, _ && (a = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(_, i[1])).done) return a;
+            switch (_ = 0, a && (i = [0, a.value]), i[0]) {
             case 0:
             case 1:
-                o = i;
+                a = i;
                 break;
             case 4:
                 return s.label++,
@@ -1739,25 +1711,25 @@ function(e, t) {
                 s.trys.pop();
                 continue;
             default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (a = s.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     s = 0;
                     continue
                 }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
                     s.label = i[1];
                     break
                 }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
+                if (6 === i[0] && s.label < a[1]) {
+                    s.label = a[1],
+                    a = i;
                     break
                 }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
+                if (a && s.label < a[2]) {
+                    s.label = a[2],
                     s.ops.push(i);
                     break
                 }
-                o[2] && s.ops.pop(),
+                a[2] && s.ops.pop(),
                 s.trys.pop();
                 continue
             }
@@ -1766,7 +1738,7 @@ function(e, t) {
             i = [6, n],
             _ = 0
         } finally {
-            r = o = 0
+            r = a = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -1774,24 +1746,24 @@ function(e, t) {
             done: !0
         }
     }
-    var r, _, o, a, s = {
+    var r, _, a, o, s = {
         label: 0,
         sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
+            if (1 & a[0]) throw a[1];
+            return a[1]
         },
         trys: [],
         ops: []
     };
-    return a = {
+    return o = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
         return this
     }),
-    a
+    o
 },
 yearVip2023; !
 function(e) {
@@ -1923,7 +1895,8 @@ function(e) {
             var t = this;
             if (this._customStudy[0] + this._customStudy[1] + this._customStudy[2] + this._customStudy[3] + this._customStudy[4] + this._customStudy[5] < 510) return void BubblerManager.getInstance().showText("请为该精灵分配满510点学习力后再来进行操作！ ");
             var i = new egret.ByteArray;
-            i.writeByte(this._customStudy[5]);
+            i.writeByte(this._customStudy[5]),
+            i.writeBytes;
             for (var n = 0; 5 > n; n++) i.writeByte(this._customStudy[n]);
             i.position = 0,
             SocketConnection.sendByQueue(45707, [this._info.catchTime, i, -1 == this.curNature ? 100 : this.curNature],
@@ -1967,7 +1940,7 @@ function(e) {
             function() {
                 var t, i, n, r, _;
                 return __generator(this,
-                function(o) {
+                function(a) {
                     return t = 307,
                     i = this.scroller_rewards.width,
                     n = this.scroller_rewards.viewport.contentWidth,
@@ -2019,117 +1992,6 @@ function(e, t) {
     for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
     i.prototype = t.prototype,
     e.prototype = new i
-},
-__awaiter = this && this.__awaiter ||
-function(e, t, i, n) {
-    return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
-            try {
-                s(n.next(e))
-            } catch(t) {
-                _(t)
-            }
-        }
-        function a(e) {
-            try {
-                s(n["throw"](e))
-            } catch(t) {
-                _(t)
-            }
-        }
-        function s(e) {
-            e.done ? r(e.value) : new i(function(t) {
-                t(e.value)
-            }).then(o, a)
-        }
-        s((n = n.apply(e, t || [])).next())
-    })
-},
-__generator = this && this.__generator ||
-function(e, t) {
-    function i(e) {
-        return function(t) {
-            return n([e, t])
-        }
-    }
-    function n(i) {
-        if (r) throw new TypeError("Generator is already executing.");
-        for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
-            case 0:
-            case 1:
-                o = i;
-                break;
-            case 4:
-                return s.label++,
-                {
-                    value: i[1],
-                    done: !1
-                };
-            case 5:
-                s.label++,
-                _ = i[1],
-                i = [0];
-                continue;
-            case 7:
-                i = s.ops.pop(),
-                s.trys.pop();
-                continue;
-            default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
-                    s = 0;
-                    continue
-                }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
-                    s.label = i[1];
-                    break
-                }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
-                    break
-                }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
-                    s.ops.push(i);
-                    break
-                }
-                o[2] && s.ops.pop(),
-                s.trys.pop();
-                continue
-            }
-            i = t.call(e, s)
-        } catch(n) {
-            i = [6, n],
-            _ = 0
-        } finally {
-            r = o = 0
-        }
-        if (5 & i[0]) throw i[1];
-        return {
-            value: i[0] ? i[1] : void 0,
-            done: !0
-        }
-    }
-    var r, _, o, a, s = {
-        label: 0,
-        sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
-        },
-        trys: [],
-        ops: []
-    };
-    return a = {
-        next: i(0),
-        "throw": i(1),
-        "return": i(2)
-    },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
-        return this
-    }),
-    a
 },
 yearVip2023; !
 function(e) {
@@ -2186,17 +2048,6 @@ function(e) {
             t.prototype.hide.call(this),
             this.clearTweens()
         },
-        i.prototype.playTweens = function() {
-            return __awaiter(this, void 0, void 0,
-            function() {
-                return __generator(this,
-                function(e) {
-                    return [2, Promise.resolve()]
-                })
-            })
-        },
-        i.prototype.clearTweens = function() {},
-        i.prototype.completeCallBack = function() {},
         i.prototype._onTouchImageButton = function(t) {
             var i = this;
             switch (t.currentTarget) {
@@ -2262,14 +2113,14 @@ function(e, t) {
 __awaiter = this && this.__awaiter ||
 function(e, t, i, n) {
     return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
+        function a(e) {
             try {
                 s(n.next(e))
             } catch(t) {
                 _(t)
             }
         }
-        function a(e) {
+        function o(e) {
             try {
                 s(n["throw"](e))
             } catch(t) {
@@ -2279,7 +2130,7 @@ function(e, t, i, n) {
         function s(e) {
             e.done ? r(e.value) : new i(function(t) {
                 t(e.value)
-            }).then(o, a)
+            }).then(a, o)
         }
         s((n = n.apply(e, t || [])).next())
     })
@@ -2294,11 +2145,11 @@ function(e, t) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
+            if (r = 1, _ && (a = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(_, i[1])).done) return a;
+            switch (_ = 0, a && (i = [0, a.value]), i[0]) {
             case 0:
             case 1:
-                o = i;
+                a = i;
                 break;
             case 4:
                 return s.label++,
@@ -2316,25 +2167,25 @@ function(e, t) {
                 s.trys.pop();
                 continue;
             default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (a = s.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     s = 0;
                     continue
                 }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
                     s.label = i[1];
                     break
                 }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
+                if (6 === i[0] && s.label < a[1]) {
+                    s.label = a[1],
+                    a = i;
                     break
                 }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
+                if (a && s.label < a[2]) {
+                    s.label = a[2],
                     s.ops.push(i);
                     break
                 }
-                o[2] && s.ops.pop(),
+                a[2] && s.ops.pop(),
                 s.trys.pop();
                 continue
             }
@@ -2343,7 +2194,7 @@ function(e, t) {
             i = [6, n],
             _ = 0
         } finally {
-            r = o = 0
+            r = a = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -2351,24 +2202,24 @@ function(e, t) {
             done: !0
         }
     }
-    var r, _, o, a, s = {
+    var r, _, a, o, s = {
         label: 0,
         sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
+            if (1 & a[0]) throw a[1];
+            return a[1]
         },
         trys: [],
         ops: []
     };
-    return a = {
+    return o = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
         return this
     }),
-    a
+    o
 },
 yearVip2023; !
 function(e) {
@@ -2467,14 +2318,14 @@ function(e, t) {
 __awaiter = this && this.__awaiter ||
 function(e, t, i, n) {
     return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
+        function a(e) {
             try {
                 s(n.next(e))
             } catch(t) {
                 _(t)
             }
         }
-        function a(e) {
+        function o(e) {
             try {
                 s(n["throw"](e))
             } catch(t) {
@@ -2484,7 +2335,7 @@ function(e, t, i, n) {
         function s(e) {
             e.done ? r(e.value) : new i(function(t) {
                 t(e.value)
-            }).then(o, a)
+            }).then(a, o)
         }
         s((n = n.apply(e, t || [])).next())
     })
@@ -2499,11 +2350,11 @@ function(e, t) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
+            if (r = 1, _ && (a = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(_, i[1])).done) return a;
+            switch (_ = 0, a && (i = [0, a.value]), i[0]) {
             case 0:
             case 1:
-                o = i;
+                a = i;
                 break;
             case 4:
                 return s.label++,
@@ -2521,25 +2372,25 @@ function(e, t) {
                 s.trys.pop();
                 continue;
             default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (a = s.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     s = 0;
                     continue
                 }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
                     s.label = i[1];
                     break
                 }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
+                if (6 === i[0] && s.label < a[1]) {
+                    s.label = a[1],
+                    a = i;
                     break
                 }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
+                if (a && s.label < a[2]) {
+                    s.label = a[2],
                     s.ops.push(i);
                     break
                 }
-                o[2] && s.ops.pop(),
+                a[2] && s.ops.pop(),
                 s.trys.pop();
                 continue
             }
@@ -2548,7 +2399,7 @@ function(e, t) {
             i = [6, n],
             _ = 0
         } finally {
-            r = o = 0
+            r = a = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -2556,24 +2407,24 @@ function(e, t) {
             done: !0
         }
     }
-    var r, _, o, a, s = {
+    var r, _, a, o, s = {
         label: 0,
         sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
+            if (1 & a[0]) throw a[1];
+            return a[1]
         },
         trys: [],
         ops: []
     };
-    return a = {
+    return o = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
         return this
     }),
-    a
+    o
 },
 yearVip2023; !
 function(e) {
@@ -2607,22 +2458,7 @@ function(e) {
             tipsPop.TipsPop.openItemPop(i)
         },
         i.prototype.hide = function() {
-            t.prototype.hide.call(this),
-            this.clearTweens()
-        },
-        i.prototype.playTweens = function() {
-            return __awaiter(this, void 0, void 0,
-            function() {
-                return __generator(this,
-                function(e) {
-                    return [2, Promise.resolve()]
-                })
-            })
-        },
-        i.prototype.clearTweens = function() {},
-        i.prototype.completeCallBack = function() {},
-        i.prototype._onTouchImageButton = function(e) {
-            switch (e.currentTarget) {}
+            t.prototype.hide.call(this)
         },
         i.prototype.updateRenderList = function() {
             this.updateRender()
@@ -2648,7 +2484,7 @@ function(e) {
             function() {
                 var t, i, n, r, _;
                 return __generator(this,
-                function(o) {
+                function(a) {
                     return t = 307,
                     i = this.scroller_rewards.width,
                     n = this.scroller_rewards.viewport.contentWidth,
@@ -2681,117 +2517,6 @@ function(e, t) {
     for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
     i.prototype = t.prototype,
     e.prototype = new i
-},
-__awaiter = this && this.__awaiter ||
-function(e, t, i, n) {
-    return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
-            try {
-                s(n.next(e))
-            } catch(t) {
-                _(t)
-            }
-        }
-        function a(e) {
-            try {
-                s(n["throw"](e))
-            } catch(t) {
-                _(t)
-            }
-        }
-        function s(e) {
-            e.done ? r(e.value) : new i(function(t) {
-                t(e.value)
-            }).then(o, a)
-        }
-        s((n = n.apply(e, t || [])).next())
-    })
-},
-__generator = this && this.__generator ||
-function(e, t) {
-    function i(e) {
-        return function(t) {
-            return n([e, t])
-        }
-    }
-    function n(i) {
-        if (r) throw new TypeError("Generator is already executing.");
-        for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
-            case 0:
-            case 1:
-                o = i;
-                break;
-            case 4:
-                return s.label++,
-                {
-                    value: i[1],
-                    done: !1
-                };
-            case 5:
-                s.label++,
-                _ = i[1],
-                i = [0];
-                continue;
-            case 7:
-                i = s.ops.pop(),
-                s.trys.pop();
-                continue;
-            default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
-                    s = 0;
-                    continue
-                }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
-                    s.label = i[1];
-                    break
-                }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
-                    break
-                }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
-                    s.ops.push(i);
-                    break
-                }
-                o[2] && s.ops.pop(),
-                s.trys.pop();
-                continue
-            }
-            i = t.call(e, s)
-        } catch(n) {
-            i = [6, n],
-            _ = 0
-        } finally {
-            r = o = 0
-        }
-        if (5 & i[0]) throw i[1];
-        return {
-            value: i[0] ? i[1] : void 0,
-            done: !0
-        }
-    }
-    var r, _, o, a, s = {
-        label: 0,
-        sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
-        },
-        trys: [],
-        ops: []
-    };
-    return a = {
-        next: i(0),
-        "throw": i(1),
-        "return": i(2)
-    },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
-        return this
-    }),
-    a
 },
 yearVip2023; !
 function(e) {
@@ -2841,22 +2566,7 @@ function(e) {
             "", AppDoStyle.HIDEN)
         },
         i.prototype.hide = function() {
-            t.prototype.hide.call(this),
-            this.clearTweens()
-        },
-        i.prototype.playTweens = function() {
-            return __awaiter(this, void 0, void 0,
-            function() {
-                return __generator(this,
-                function(e) {
-                    return [2, Promise.resolve()]
-                })
-            })
-        },
-        i.prototype.clearTweens = function() {},
-        i.prototype.completeCallBack = function() {},
-        i.prototype._onTouchImageButton = function(e) {
-            switch (e.currentTarget) {}
+            t.prototype.hide.call(this)
         },
         i.prototype.updateRenderList = function() {
             this.updateRender(),
@@ -2879,21 +2589,6 @@ function(e) {
                 t.push(_)
             }
             return t
-        },
-        i.prototype._goToIdx = function(e) {
-            return __awaiter(this, void 0, void 0,
-            function() {
-                var t, i, n, r, _;
-                return __generator(this,
-                function(o) {
-                    return t = 307,
-                    i = this.scroller_rewards.width,
-                    n = this.scroller_rewards.viewport.contentWidth,
-                    r = n - i,
-                    _ = this.list_reward.layout.gap,
-                    [2, DisplayUtil.ScrollerToNumAsync(e, "horizontal", t, this.scroller_rewards, _, 0, r)]
-                })
-            })
         },
         i.prototype.destroy = function() {
             this._removeEvents(),
@@ -2922,14 +2617,14 @@ function(e, t) {
 __awaiter = this && this.__awaiter ||
 function(e, t, i, n) {
     return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
+        function a(e) {
             try {
                 s(n.next(e))
             } catch(t) {
                 _(t)
             }
         }
-        function a(e) {
+        function o(e) {
             try {
                 s(n["throw"](e))
             } catch(t) {
@@ -2939,7 +2634,7 @@ function(e, t, i, n) {
         function s(e) {
             e.done ? r(e.value) : new i(function(t) {
                 t(e.value)
-            }).then(o, a)
+            }).then(a, o)
         }
         s((n = n.apply(e, t || [])).next())
     })
@@ -2954,11 +2649,11 @@ function(e, t) {
     function n(i) {
         if (r) throw new TypeError("Generator is already executing.");
         for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
+            if (r = 1, _ && (a = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(_, i[1])).done) return a;
+            switch (_ = 0, a && (i = [0, a.value]), i[0]) {
             case 0:
             case 1:
-                o = i;
+                a = i;
                 break;
             case 4:
                 return s.label++,
@@ -2976,25 +2671,25 @@ function(e, t) {
                 s.trys.pop();
                 continue;
             default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (a = s.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     s = 0;
                     continue
                 }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
                     s.label = i[1];
                     break
                 }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
+                if (6 === i[0] && s.label < a[1]) {
+                    s.label = a[1],
+                    a = i;
                     break
                 }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
+                if (a && s.label < a[2]) {
+                    s.label = a[2],
                     s.ops.push(i);
                     break
                 }
-                o[2] && s.ops.pop(),
+                a[2] && s.ops.pop(),
                 s.trys.pop();
                 continue
             }
@@ -3003,7 +2698,7 @@ function(e, t) {
             i = [6, n],
             _ = 0
         } finally {
-            r = o = 0
+            r = a = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -3011,24 +2706,24 @@ function(e, t) {
             done: !0
         }
     }
-    var r, _, o, a, s = {
+    var r, _, a, o, s = {
         label: 0,
         sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
+            if (1 & a[0]) throw a[1];
+            return a[1]
         },
         trys: [],
         ops: []
     };
-    return a = {
+    return o = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (o[Symbol.iterator] = function() {
         return this
     }),
-    a
+    o
 },
 yearVip2023; !
 function(e) {
@@ -3170,117 +2865,6 @@ function(e, t) {
     i.prototype = t.prototype,
     e.prototype = new i
 },
-__awaiter = this && this.__awaiter ||
-function(e, t, i, n) {
-    return new(i || (i = Promise))(function(r, _) {
-        function o(e) {
-            try {
-                s(n.next(e))
-            } catch(t) {
-                _(t)
-            }
-        }
-        function a(e) {
-            try {
-                s(n["throw"](e))
-            } catch(t) {
-                _(t)
-            }
-        }
-        function s(e) {
-            e.done ? r(e.value) : new i(function(t) {
-                t(e.value)
-            }).then(o, a)
-        }
-        s((n = n.apply(e, t || [])).next())
-    })
-},
-__generator = this && this.__generator ||
-function(e, t) {
-    function i(e) {
-        return function(t) {
-            return n([e, t])
-        }
-    }
-    function n(i) {
-        if (r) throw new TypeError("Generator is already executing.");
-        for (; s;) try {
-            if (r = 1, _ && (o = _[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(_, i[1])).done) return o;
-            switch (_ = 0, o && (i = [0, o.value]), i[0]) {
-            case 0:
-            case 1:
-                o = i;
-                break;
-            case 4:
-                return s.label++,
-                {
-                    value: i[1],
-                    done: !1
-                };
-            case 5:
-                s.label++,
-                _ = i[1],
-                i = [0];
-                continue;
-            case 7:
-                i = s.ops.pop(),
-                s.trys.pop();
-                continue;
-            default:
-                if (o = s.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
-                    s = 0;
-                    continue
-                }
-                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
-                    s.label = i[1];
-                    break
-                }
-                if (6 === i[0] && s.label < o[1]) {
-                    s.label = o[1],
-                    o = i;
-                    break
-                }
-                if (o && s.label < o[2]) {
-                    s.label = o[2],
-                    s.ops.push(i);
-                    break
-                }
-                o[2] && s.ops.pop(),
-                s.trys.pop();
-                continue
-            }
-            i = t.call(e, s)
-        } catch(n) {
-            i = [6, n],
-            _ = 0
-        } finally {
-            r = o = 0
-        }
-        if (5 & i[0]) throw i[1];
-        return {
-            value: i[0] ? i[1] : void 0,
-            done: !0
-        }
-    }
-    var r, _, o, a, s = {
-        label: 0,
-        sent: function() {
-            if (1 & o[0]) throw o[1];
-            return o[1]
-        },
-        trys: [],
-        ops: []
-    };
-    return a = {
-        next: i(0),
-        "throw": i(1),
-        "return": i(2)
-    },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
-        return this
-    }),
-    a
-},
 yearVip2023; !
 function(e) {
     var t = function(t) {
@@ -3354,17 +2938,6 @@ function(e) {
             t.prototype.hide.call(this),
             this.clearTweens()
         },
-        i.prototype.playTweens = function() {
-            return __awaiter(this, void 0, void 0,
-            function() {
-                return __generator(this,
-                function(e) {
-                    return [2, Promise.resolve()]
-                })
-            })
-        },
-        i.prototype.clearTweens = function() {},
-        i.prototype.completeCallBack = function() {},
         i.prototype._onTouchImageButton = function(t) {
             var i = this;
             switch (t.currentTarget) {
@@ -5828,9 +5401,11 @@ generateEUI.paths["resource/eui_skins/view/ExclusivecapacityviewSkin.exml"] = wi
         var e = new eui.Label;
         return this.tx_desc_2 = e,
         e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
         e.fontFamily = "MFShangHei",
+        e.height = 87,
         e.size = 18,
-        e.text = "精灵背包12格全部开放\n战斗结束自动免费回血\nVIP强力战斗火焰\nVIP专属特惠商城",
+        e.text = "战斗结束自动免费回血VIP强力战斗火焰\nVIP专属特惠商城",
         e.textColor = 3269631,
         e.width = 184,
         e.x = 52,
@@ -5978,7 +5553,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         },
         t
     } (eui.Skin),
-    o = function(e) {
+    a = function(e) {
         function t() {
             e.call(this),
             this.skinParts = ["animate_down"],
@@ -6008,7 +5583,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         },
         t
     } (eui.Skin),
-    a = function(e) {
+    o = function(e) {
         function t() {
             e.call(this),
             this.skinParts = ["animate_down"],
@@ -6269,7 +5844,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         e.width = 201,
         e.x = 8,
         e.y = 381,
-        e.skinName = o,
+        e.skinName = a,
         e
     },
     h.rb_5_i = function() {
@@ -6282,7 +5857,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         e.width = 201,
         e.x = 8,
         e.y = 442,
-        e.skinName = a,
+        e.skinName = o,
         e
     },
     h.rb_6_i = function() {

@@ -98,20 +98,20 @@ function(t) {
                     child: m.id == i[0] ? s: u
                 };
                 else {
-                    var v = Math.floor(m.id / i[0]) * i[0];
+                    var g = Math.floor(m.id / i[0]) * i[0];
                     p[m.id] = {
                         title: m.title,
-                        parent: v
+                        parent: g
                     }
                 }
             }
-            var g = new MenuData;
-            g["default"] = e,
-            g.groupName = this.groupName,
-            g.root = i,
-            g.data = p,
+            var v = new MenuData;
+            v["default"] = e,
+            v.groupName = this.groupName,
+            v.root = i,
+            v.data = p,
             EventManager.addEventListener(BaseMenuEvent.BASE_MENU_SELECT_CHANGE_ + this.groupName, this.changeTab, this),
-            this.menu = Menu.createMenu(g, this.menuGroup)
+            this.menu = Menu.createMenu(v, this.menuGroup)
         },
         i.prototype.jump = function() {
             var t = ~~this.menu.selectedValue;
@@ -219,6 +219,7 @@ function(t) {
             return e.skinName = MemoryArchivesPanelItemSkin,
             ImageButtonUtil.add(e.pet,
             function() {
+                1 == e.data.storyid ? StatLogger.log("20230603版本系统功能", "精灵档案馆", "在精灵档案馆-永夜纪年中打开了任一精灵的精灵传记") : StatLogger.log("20230604版本系统功能", "精灵档案馆", "在精灵档案馆-莱达物语中打开了任一精灵的精灵传记"),
                 ModuleManager.showModuleByID(226, e.data.monid)
             },
             e, !1),
@@ -325,10 +326,10 @@ generateEUI.paths["resource/eui_skins/MemoryArchivesPanelItemSkin.exml"] = windo
 generateEUI.paths["resource/eui_skins/MemoryArchivesPanelSkin.exml"] = window.MemoryArchivesPanelSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "txt2", "txt1", "txt3", "_bookScr", "txtGroup", "_list", "_scr", "txtSearch", "btnSearch", "search", "none", "petGroup", "menuGroup"],
+        this.skinParts = ["bg", "menuGroup", "txt2", "txt1", "txt3", "_bookScr", "txtGroup", "_list", "_scr", "txtSearch", "btnSearch", "search", "none", "petGroup"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this.bg_i(), this.txtGroup_i(), this.petGroup_i(), this.menuGroup_i()]
+        this.elementsContent = [this.bg_i(), this.menuGroup_i(), this.txtGroup_i(), this.petGroup_i()]
     }
     __extends(e, t);
     var i = e.prototype;
@@ -338,6 +339,13 @@ generateEUI.paths["resource/eui_skins/MemoryArchivesPanelSkin.exml"] = window.Me
         t.source = "common_ui_bg_3_jpg",
         t.x = 0,
         t.y = 0,
+        t
+    },
+    i.menuGroup_i = function() {
+        var t = new eui.Group;
+        return this.menuGroup = t,
+        t.x = 0,
+        t.y = 48,
         t
     },
     i.txtGroup_i = function() {
@@ -500,13 +508,6 @@ generateEUI.paths["resource/eui_skins/MemoryArchivesPanelSkin.exml"] = window.Me
         t.visible = !1,
         t.x = 372,
         t.y = 251,
-        t
-    },
-    i.menuGroup_i = function() {
-        var t = new eui.Group;
-        return this.menuGroup = t,
-        t.x = 0,
-        t.y = 48,
         t
     },
     e

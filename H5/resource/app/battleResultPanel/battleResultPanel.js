@@ -593,14 +593,14 @@ function(t) {
                     return this.fail.visible = this.draw.visible = this.win.visible = !1,
                     null != this._isObj ? this._isObj.isDraw ? this.draw.visible = !0 : this._isObj.isWin ? this.win.visible = !0 : this.fail.visible = !0 : Alarm.show("_isObj为空"),
                     this.icon.source = "",
-                    KTool.getMultiValue([PeakJihadController.levelForever],
+                    KTool.getMultiValue([PeakJihadController.levelForever, PeakJihadController.wildlevelForever],
                     function(e) {
-                        var i = e[0],
-                        n = i & Math.pow(2, 16) - 1,
-                        a = e[0] >> 16 & Math.pow(2, 16) - 1,
-                        r = PeakJihadController.RATINGS_NAME[n] + a + (n >= 4 ? "星": "分");
-                        t.icon.source = ClientConfig.getPeakjihadLevelPath(n + 1),
-                        t.star.visible = n > 3,
+                        var i;
+                        i = t._isObj.model == PetFightModel.PEAK_JIHAD_6V6_JJ ? e[0] : e[1];
+                        var n = KTool.subByte(i, 0, 16),
+                        a = KTool.subByte(i, 16, 16),
+                        r = PeakJihadController.getMyRatingsNameByScore(i);
+                        t.icon.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(n, a) + 1),
                         t.txt.text = r,
                         t._isObj.isDraw
                     }),
@@ -615,8 +615,7 @@ function(t) {
             this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTapImageButton, this)
         },
         e.prototype.onTouchTapImageButton = function(e) {
-            t.prototype.onClose.call(this),
-            ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], "sport")
+            this._isObj.model == PetFightModel.PEAK_JIHAD_6V6_JJ ? (t.prototype.onClose.call(this), ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], "sport")) : this._isObj.model == PetFightModel.PEAK_JIHAD_6V6 && (t.prototype.onClose.call(this), ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], "wild"))
         },
         e
     } (BaseModule);
@@ -1046,7 +1045,7 @@ generateEUI.paths["resource/eui_skins/BattleresultpeakjihadpanelSkin.exml"] = wi
         return this.star = t,
         t.height = 45,
         t.source = "battleResultPeakJiHadPanel_star_png",
-        t.visible = !0,
+        t.visible = !1,
         t.width = 47,
         t.x = 0,
         t.y = 0,

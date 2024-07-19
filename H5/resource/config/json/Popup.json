@@ -4,20 +4,20 @@
             "id": 1,
             "num": 1,
             "pic": 1,
-            "daily": 0,
-            "onlyOnce": 1,
-            "showStart": "2024_6_14 00:00:00",
-            "showEnd": "2024_6_21 00:00:00",
-            "goto": "5_https://www.bilibili.com/video/BV1Hs421T7d9/"
+            "daily": 1,
+            "onlyOnce": 0,
+            "showStart": "2024_7_12 00:00:00",
+            "showEnd": "2024_7_19 00:00:00",
+            "goto": "2_8"
         },
         {
             "id": 2,
             "num": 2,
             "pic": 2,
-            "daily": 1,
+            "daily": 0,
             "onlyOnce": 0,
-            "showStart": "2024_6_20 00:00:00",
-            "showEnd": "2024_6_28 00:00:00",
+            "showStart": "",
+            "showEnd": "",
             "goto": ""
         },
         {

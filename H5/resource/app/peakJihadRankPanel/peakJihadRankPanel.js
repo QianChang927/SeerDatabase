@@ -139,8 +139,10 @@ function(e) {
             e.rank_key = 94,
             e.sub_key = 20210526,
             e.userArr = new eui.ArrayCollection,
-            e.selectS = [1, 1, 1],
+            e.userArr2 = new eui.ArrayCollection,
+            e.selectS = [1, 1, 1, 1, 1, 1],
             e.groupName = "PeakJihadRankPanel_groupName",
+            e.preUserRankType = 0,
             e.skinName = PeakjihadRankPanelSkin,
             e
         }
@@ -180,19 +182,47 @@ function(e) {
             var n = new MenuData;
             n["default"] = 1,
             n.groupName = this.groupName,
-            n.root = [1, 2, 3, 4],
+            n.root = [9, 10],
             n.data = {
                 1 : {
-                    title: "玩家排行"
+                    title: "玩家排行",
+                    parent: 9
                 },
                 2 : {
-                    title: "精灵排行"
+                    title: "精灵排行",
+                    parent: 9
                 },
                 3 : {
-                    title: "装扮排行"
+                    title: "装扮排行",
+                    parent: 9
                 },
                 4 : {
-                    title: "称号排行"
+                    title: "称号排行",
+                    parent: 9
+                },
+                5 : {
+                    title: "玩家排行",
+                    parent: 10
+                },
+                6 : {
+                    title: "精灵排行",
+                    parent: 10
+                },
+                7 : {
+                    title: "装扮排行",
+                    parent: 10
+                },
+                8 : {
+                    title: "称号排行",
+                    parent: 10
+                },
+                9 : {
+                    title: "竞技模式",
+                    child: [1, 2, 3, 4]
+                },
+                10 : {
+                    title: "狂野模式",
+                    child: [5, 6, 7, 8]
                 }
             },
             this.menu = Menu.createMenu(n, this.menuGroup),
@@ -207,62 +237,75 @@ function(e) {
         },
         i.prototype.updateView = function() {
             var t = ~~this.menu.selectedValue;
-            1 == t ? (this.tab.visible = !1, this.userGroup.visible = !0, this.petGroup.visible = this.titleGroup.visible = this.suitGroup.visible = !1) : (this.tab.visible = !0, this.tab3.visible = 2 == t, this.userGroup.visible = !1, this.suitGroup.visible = 3 == t, this.petGroup.visible = 2 == t, this.titleGroup.visible = 4 == t),
+            1 == t || 5 == t ? (this.tab.visible = !1, this.userGroup.visible = !0, this.petGroup.visible = this.titleGroup.visible = this.suitGroup.visible = !1) : (this.tab.visible = !0, this.tab3.visible = 2 == t || 6 == t, this.userGroup.visible = !1, this.suitGroup.visible = 3 == t || 7 == t, this.petGroup.visible = 2 == t || 6 == t, this.titleGroup.visible = 4 == t || 8 == t),
             this.sub_key = config.Pvp_task.getItem(1).subkey;
             var i = 0;
-            t > 1 && (t != e.curRankType && (this.tabGroup.selectedValue = "" + this.selectS[t - 2]), i = ~~this.tabGroup.selectedValue, this.selectS[t - 2] = i, e.curType = i);
+            t > 1 && 5 > t ? (t != e.curRankType && (this.tabGroup.selectedValue = "" + this.selectS[t - 2]), i = ~~this.tabGroup.selectedValue, this.selectS[t - 2] = i, e.curType = i) : t > 5 && 9 > t && (t != e.curRankType && (this.tabGroup.selectedValue = "" + this.selectS[t - 3]), i = ~~this.tabGroup.selectedValue, this.selectS[t - 3] = i, e.curType = i);
             var n;
             switch (e.curRankType = t, t) {
             case 1:
+            case 5:
                 this._loaderLength = 39,
-                this.rank_key = 120,
+                this.rank_key = 1 == t ? 120 : 182,
                 this.loadUserRank(),
                 StatLogger.log("20240105巅峰圣战", "玩家打开`玩家排行`界面", "巅峰圣战新赛季2024");
                 break;
             case 2:
-                this.rank_key = [177, 93, 94][i - 1],
+            case 6:
+                this.rank_key = 2 == t ? [177, 93, 94][i - 1] : [185, 184, 183][i - 1],
                 this._loaderLength = 19,
                 n = this._listPet,
                 StatLogger.log("20240105巅峰圣战", "玩家打开`精灵排行`界面", "巅峰圣战新赛季2024");
                 break;
             case 3:
+            case 7:
                 this._loaderLength = 4,
-                this.rank_key = [174, 173][i - 1],
+                this.rank_key = 3 == t ? [174, 173][i - 1] : [187, 186][i - 1],
                 n = this._listSuit,
                 StatLogger.log("20240105巅峰圣战", "玩家打开`装扮排行`界面", "巅峰圣战新赛季2024");
                 break;
             case 4:
-                this.rank_key = [176, 175][i - 1],
+            case 8:
+                this.rank_key = 4 == t ? [176, 175][i - 1] : [189, 188][i - 1],
                 this._loaderLength = 4,
                 n = this._listTitle,
                 StatLogger.log("20240105巅峰圣战", "玩家打开`称号排行`界面", "巅峰圣战新赛季2024")
             }
-            1 != t && this.loadOtherRank(n)
+            1 != t && 5 != t && this.loadOtherRank(n)
         },
         i.prototype.updateItemNum = function() {
             this.num0.text = String(ItemManager.getNumByID(PeakJihadController.itemId1)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId1),
             this.num1.text = String(ItemManager.getNumByID(PeakJihadController.itemId2)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId2)
         },
         i.prototype.loadUserRank = function() {
-            var e = this,
-            t = this._listUser; ! this._isEnd && t.contentHeight < t.scrollV + t.height && !this.loading && (this.loading = !0, this._startIndx = this.userArr.length, this._startIndx + this._loaderLength > this._maxLen && (this._loaderLength = this._maxLen - this._startIndx - 1), this.getRangeRankList(this.rank_key, this.sub_key, this._startIndx, this._startIndx + this._loaderLength).then(function(t) {
-                return __awaiter(e, void 0, void 0,
+            this._listUser.dataProvider = 1 == e.curRankType ? this.userArr: this.userArr2;
+            var t = this._listUser;
+            this.preUserRankType != e.curRankType ? (this.preUserRankType = e.curRankType, this._isEnd = !1, this.loading = !1, this.loadUserRankByServer()) : !this._isEnd && t.contentHeight <= t.scrollV + t.height && !this.loading && this.loadUserRankByServer()
+        },
+        i.prototype.loadUserRankByServer = function() {
+            var t = this,
+            i = 1 == e.curRankType ? this.userArr: this.userArr2;
+            this.loading = !0,
+            this._startIndx = i.length,
+            this._startIndx + this._loaderLength > this._maxLen && (this._loaderLength = this._maxLen - this._startIndx - 1),
+            this.getRangeRankList(this.rank_key, this.sub_key, this._startIndx, this._startIndx + this._loaderLength).then(function(e) {
+                return __awaiter(t, void 0, void 0,
                 function() {
-                    var e;
+                    var t;
                     return __generator(this,
-                    function(i) {
-                        switch (i.label) {
+                    function(n) {
+                        switch (n.label) {
                         case 0:
-                            for ((t.length < this._loaderLength || this.userArr.length + t.length >= this._maxLen) && (this._isEnd = !0), e = 0; e < t.length; e++) this.userArr.addItem(KTool.clone(t[e]));
+                            for ((e.length < this._loaderLength || i.length + e.length >= this._maxLen) && (this._isEnd = !0), t = 0; t < e.length; t++) i.addItem(KTool.clone(e[t]));
                             return [4, wait(1e3)];
                         case 1:
-                            return i.sent(),
+                            return n.sent(),
                             this.loading = !1,
                             [2]
                         }
                     })
                 })
-            }))
+            })
         },
         i.prototype.loadOtherRank = function(e) {
             var t = this;
@@ -341,7 +384,7 @@ function(e) {
             t.prototype.childrenCreated.call(this),
             ImageButtonUtil.add(this.head,
             function() {
-                2 == e.curRankType ? PetManager.showPetManualInfo(i.info.id, 1) : tipsPop.TipsPop.openTitlePop({
+                2 == e.curRankType || 6 == e.curRankType ? PetManager.showPetManualInfo(i.info.id, 1) : tipsPop.TipsPop.openTitlePop({
                     SpeNameBonus: i.info.id
                 })
             },
@@ -360,7 +403,7 @@ function(e) {
             var i = this.info.score;
             this.rate.text = "" + core.gameUtil.ConvertItemNumView(i);
             var n = ["胜场：", "出场次数：", "禁止次数："];
-            if (2 == e.curRankType) {
+            if (2 == e.curRankType || 6 == e.curRankType) {
                 this.petRate.text = "精灵" + n[e.curType - 1];
                 var a = this.info.id;
                 this.head.source = ClientConfig.getPetHeadPath(a),
@@ -534,8 +577,8 @@ function(e) {
             4 > t && t > 0 && (this.rankIcon.source = "peakjihad_rank_panel_icon_" + t + "_png");
             var i = Math.floor(this.info.score / 1e5),
             n = Math.floor(this.info.score % 1e5);
-            this.level.text = PeakJihadController.RATINGS_NAME[i] + n + (i >= 4 ? "星": "分"),
-            this.levelIcon.source = ClientConfig.GetPeakjihadMiniLevelPath(i + 1),
+            this.level.text = PeakJihadController.getTitleByLevelScore2(i, n),
+            this.levelIcon.source = ClientConfig.GetPeakjihadMiniLevelPath(PeakJihadController.getResIndexByLevelScore(i, n) + 1),
             UserInfoManager.getInfo(this.info.id,
             function(t) {
                 e.userInfo = t,

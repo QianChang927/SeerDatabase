@@ -1737,7 +1737,7 @@ function(t) {
                     break;
                 case 3:
                     if (t._currentExchangeNum < 1) return void Alarm.show("很抱歉，道具数量不足！");
-                    Alert.show("确认消耗" + 3e8 * t._currentExchangeNum + "个原核碎片熔炼为" + t._currentExchangeNum + "个二代刻印宝石原核吗？",
+                    Alert.show("确认消耗" + 3e6 * t._currentExchangeNum + "个原核碎片熔炼为" + t._currentExchangeNum + "个二代刻印宝石原核吗？",
                     function() {
                         SocketConnection.sendByQueue(45791, [t._currentExchangeNum],
                         function() {

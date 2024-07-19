@@ -327,7 +327,7 @@ function(e) {
                         this.bar.maximum = r ? 1 : i,
                         this.bar.value = r ? 1 : PeakJihadOrderManager.orderExp,
                         n = Math.max(new Date(PeakJihadOrderManager.endTime.replace(/_/g, "/")).getTime() - SystemTimerManager.sysBJDate.getTime(), 0) / 1e3,
-                        this.time.text = 0 >= n ? "已到期": TimeUtil.countDownFormat(Math.floor(n), "dd天hh小时"),
+                        this.time.text = 0 >= n ? "已到期": SystemTimerManager.getLeftTimeString(n),
                         a = Math.min(PeakJihadOrderManager.maxLevel, PeakJihadOrderManager.needGetLevel || PeakJihadOrderManager.orderLevel + 1),
                         this.setBigLevel(a, e),
                         this.updateRedDot(),
@@ -755,17 +755,20 @@ function(e) {
             function() {
                 if (! (i.buyLevel <= 0)) {
                     var e = i.price * i.buyLevel;
-                    UserInfoManager.diamond >= e ? KTool.buyProductByCallback(260060, i.buyLevel,
-                    function() {
-                        SocketConnection.sendByQueue(41905, [3, i.buyLevel],
+                    UserInfoManager.diamond >= e ? PayManager.doPayFunc(function() {
+                        KTool.buyProductByCallback(260060, i.buyLevel,
                         function() {
-                            PeakJihadOrderManager.init().then(function() {
-                                EventManager.dispatchEventWith(PeakJihadOrderManager.PeakJihadOrderPanelBuyLevelPop_BUY_LEVEL),
-                                BubblerManager.getInstance().showText("购买成功"),
-                                i.hide()
+                            SocketConnection.sendByQueue(41905, [3, i.buyLevel],
+                            function() {
+                                PeakJihadOrderManager.init().then(function() {
+                                    EventManager.dispatchEventWith(PeakJihadOrderManager.PeakJihadOrderPanelBuyLevelPop_BUY_LEVEL),
+                                    BubblerManager.getInstance().showText("购买成功"),
+                                    i.hide()
+                                })
                             })
                         })
-                    }) : Alert.show("您的钻石余额不足，是否前往充值？",
+                    },
+                    i) : Alert.show("您的钻石余额不足，是否前往充值？",
                     function() {
                         i.hide(),
                         PayManager.rechargeDiamond()
@@ -781,6 +784,7 @@ function(e) {
             this.curLevel = PeakJihadOrderManager.orderLevel,
             this.max = PeakJihadOrderManager.maxLevel,
             this._list.itemRenderer = e.PeakJihadOrderItem,
+            this.max < this.buyLevel + this.curLevel && (this.buyLevel = this.max - this.curLevel, this.buyNum.text = this.buyLevel.toString()),
             this.updateViewData()
         },
         i.prototype.updateBuyLevel = function() {

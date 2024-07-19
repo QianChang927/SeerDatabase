@@ -134,7 +134,7 @@ function(t) {
             i.lastSelectIdx = 0,
             i.worldType = 1,
             i.showStar = !1,
-            i.skinName = NewWorldmapstarSkin,
+            i.skinName = "NewWorldmapstarSkin",
             i
         }
         return __extends(i, e),
@@ -170,19 +170,21 @@ function(t) {
                 this._openType = e,
                 this.starInfo = config.Starmap.getItemsByField("id", ["=="], [t])[0],
                 this.mapTip.visible = !0,
-                this.starName.text = this.starInfo.name,
-                this.starDes.text = this.starInfo.intro;
-                var n = new eui.Image;
-                n.texture = RES.getRes("group_star_sheet_" + i.id + ".map_start_" + this.starInfo.id + "_png"),
-                this.starImage.width = n.width,
-                this.starImage.height = n.height,
-                n.texture = null,
-                n = null,
+                this.starName.text = this.starInfo.name;
+                var n = ("        " + this.starInfo.intro).split("|");
+                this.starDes1.text = n[0],
+                this.starDes2.text = n[1] || "";
+                var a = new eui.Image;
+                a.texture = RES.getRes("group_star_sheet_" + i.id + ".map_start_" + this.starInfo.id + "_png"),
+                this.starImage.width = a.width,
+                this.starImage.height = a.height,
+                a.texture = null,
+                a = null,
                 this.starImage.texture = RES.getRes("group_star_sheet_" + i.id + ".map_start_" + this.starInfo.id + "_png");
-                var a = 85 / this.starImage.height,
-                r = this.starImage.width * a;
+                var r = 85 / this.starImage.height,
+                s = this.starImage.width * r;
                 this.starImage.height = 85,
-                this.starImage.width = r,
+                this.starImage.width = s,
                 this.starImage.x = 97.5 - this.starImage.width / 2,
                 this.starImage.y = 124.5 - this.starImage.height / 2,
                 this.imgNotOpen.visible = 0 == this.mapsOpenArr[t],
@@ -718,7 +720,7 @@ generateEUI.paths["resource/eui_skins/NewWorldmapstarItemRenderSkin.exml"] = win
 generateEUI.paths["resource/eui_skins/NewWorldmapstarSkin.exml"] = window.NewWorldmapstarSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "sBg", "stars", "gBg", "gName", "leftbg", "rightbg", "imgBtnClose", "btnTurnpagesright", "btnTurnpagesleft", "diBg", "starpanelBg", "starImage", "starName", "imgBtnGo", "imgNotOpen", "starDes", "panelG", "mapTip"],
+        this.skinParts = ["bg", "sBg", "stars", "gBg", "gName", "leftbg", "rightbg", "imgBtnClose", "btnTurnpagesright", "btnTurnpagesleft", "diBg", "starpanelBg", "starImage", "starName", "imgBtnGo", "imgNotOpen", "starDes1", "starDes2", "panelG", "mapTip"],
         this.height = 640,
         this.width = 1136,
         this.elementsContent = [this.bg_i(), this.stars_i(), this.gBg_i(), this.gName_i(), this.leftbg_i(), this.rightbg_i(), this.imgBtnClose_i(), this.btnTurnpagesright_i(), this.btnTurnpagesleft_i(), this.mapTip_i()]
@@ -832,7 +834,7 @@ generateEUI.paths["resource/eui_skins/NewWorldmapstarSkin.exml"] = window.NewWor
         var t = new eui.Group;
         return this.mapTip = t,
         t.percentHeight = 100,
-        t.visible = !1,
+        t.visible = !0,
         t.percentWidth = 100,
         t.x = 0,
         t.y = 0,
@@ -854,7 +856,7 @@ generateEUI.paths["resource/eui_skins/NewWorldmapstarSkin.exml"] = window.NewWor
         return this.panelG = t,
         t.horizontalCenter = 0,
         t.y = 191,
-        t.elementsContent = [this.starpanelBg_i(), this.starImage_i(), this.starName_i(), this.imgBtnGo_i(), this.imgNotOpen_i(), this.starDes_i()],
+        t.elementsContent = [this.starpanelBg_i(), this.starImage_i(), this.starName_i(), this.imgBtnGo_i(), this.imgNotOpen_i(), this._Group1_i()],
         t
     },
     i.starpanelBg_i = function() {
@@ -907,17 +909,38 @@ generateEUI.paths["resource/eui_skins/NewWorldmapstarSkin.exml"] = window.NewWor
         t.y = 165,
         t
     },
-    i.starDes_i = function() {
+    i._Group1_i = function() {
+        var t = new eui.Group;
+        return t.x = 177,
+        t.y = 68,
+        t.layout = this._VerticalLayout1_i(),
+        t.elementsContent = [this.starDes1_i(), this.starDes2_i()],
+        t
+    },
+    i._VerticalLayout1_i = function() {
+        var t = new eui.VerticalLayout;
+        return t
+    },
+    i.starDes1_i = function() {
         var t = new eui.Label;
-        return this.starDes = t,
+        return this.starDes1 = t,
         t.fontFamily = "MFShangHei",
         t.size = 18,
-        t.text = "星球说明九十个字以内星球说明九十个字以内星球说明九十个字以内星球说明九十个字以内星球说明九十个字以内星球说明九十个字以内星球说明九十个字以内星球说明九十个字以内星球说明九十个字以内",
         t.textAlign = "left",
         t.textColor = 14674687,
         t.width = 400,
-        t.x = 177,
-        t.y = 68,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.starDes2_i = function() {
+        var t = new eui.Label;
+        return this.starDes2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.textAlign = "right",
+        t.textColor = 14674687,
+        t.width = 400,
         t
     },
     e

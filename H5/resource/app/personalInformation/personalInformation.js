@@ -2181,6 +2181,7 @@ function(t) {
             i.curScore = 0,
             i.curMaxLevel = 0,
             i.curMaxScore = 0,
+            i.curShowMode = 0,
             "number" == typeof t ? i._uid = t: i._uid = t.userId,
             i.skinName = PersonalinformationIdCardpopSkin,
             i
@@ -2210,6 +2211,7 @@ function(t) {
             ImageButtonUtil.add(this.btnCopy, this.onTouchBtnHandle, this),
             ImageButtonUtil.add(this.btnGrpInvite, this.onTouchBtnHandle, this),
             ImageButtonUtil.add(this.btnTeamInvite, this.onTouchBtnHandle, this),
+            ImageButtonUtil.add(this.btnRefresh, this.onTouchBtnHandle, this),
             this._listAchieve.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.onTapAchieve, this),
             this._listPetShow.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.onTapPet, this),
             EventManager.addEventListener("updateCardInfo", this.getUserInfo, this),
@@ -2345,7 +2347,11 @@ function(t) {
                 Alarm.show("敬请期待！");
                 break;
             case this.btnTeamInvite:
-                Alarm.show("敬请期待！")
+                Alarm.show("敬请期待！");
+                break;
+            case this.btnRefresh:
+                this.curShowMode = 1 - this.curShowMode,
+                this.updatePeakJihadView()
             }
         },
         i.prototype.onTapAchieve = function(t) {
@@ -2509,23 +2515,37 @@ function(t) {
                     this._info.isFriend ? (this.btnAdd.visible = !1, this.btnDelete.visible = !0) : (this.btnAdd.visible = !0, this.btnDelete.visible = !1),
                     KTool.getOnlineUsersForeverOrDailyVal([this._info.userID, 124801],
                     function(t) {
-                        h.curLevel = t & Math.pow(2, 16) - 1,
-                        h.curScore = t >> 16 & Math.pow(2, 16) - 1,
-                        h.imgCurrPeakLevel.source = ClientConfig.GetPeakjihadMiniLevelPath(h.curLevel + 1),
-                        h.txtCurLevelName.text = PeakJihadController.getRatingsNameByScore(t),
-                        KTool.getOnlineUsersForeverOrDailyVal([h._info.userID, 124802],
+                        KTool.getOnlineUsersForeverOrDailyVal([h._info.userID, 124791],
                         function(e) {
-                            e > 0 ? (h.curMaxLevel = e & Math.pow(2, 16) - 1, h.curMaxScore = e >> 16 & Math.pow(2, 16) - 1, h.imgMaxPeakLevel.source = ClientConfig.GetPeakjihadMiniLevelPath(h.curMaxLevel + 1), h.txtMaxLevelName.text = PeakJihadController.getRatingsNameByScore(e)) : (h.imgMaxPeakLevel.source = ClientConfig.GetPeakjihadMiniLevelPath(h.curLevel + 1), h.txtMaxLevelName.text = PeakJihadController.getRatingsNameByScore(t))
-                        }),
-                        KTool.getOnlineUsersForeverOrDailyVal([h._info.userID, 124804],
-                        function(t) {
-                            KTool.getOnlineUsersForeverOrDailyVal([h._info.userID, 124805],
-                            function(e) {
-                                0 >= e ? h.txtWinRate.text = "0%": h.txtWinRate.text = Math.round(t / e * 100) + "%"
-                            })
+                            KTool.subByte(t, 0, 16) == KTool.subByte(e, 0, 16) ? KTool.subByte(t, 0, 16) < 4 ? h.curShowMode = 0 : h.curShowMode = KTool.subByte(t, 16, 16) >= KTool.subByte(e, 16, 16) ? 0 : 1 : h.curShowMode = KTool.subByte(t, 0, 16) >= KTool.subByte(e, 0, 16) ? 0 : 1,
+                            h.updatePeakJihadView()
                         })
                     }),
                     [2]
+                })
+            })
+        },
+        i.prototype.updatePeakJihadView = function() {
+            var t = this;
+            this.peakJihadTitle.source = 0 == this.curShowMode ? "personalinformation_id_cardpop_peakjihad_sport_title_png": "personalinformation_id_cardpop_peakjihad_wild_title_png",
+            this.peakJiHad_cur_bg.source = 0 == this.curShowMode ? "personalinformation_id_cardpop_sport_cur_bg_png": "personalinformation_id_cardpop_wild_cur_bg_png",
+            this.peakJiHad_history_bg.source = 0 == this.curShowMode ? "personalinformation_id_cardpop_sport_history_bg_png": "personalinformation_id_cardpop_wild_history_bg_png",
+            KTool.getOnlineUsersForeverOrDailyVal([this._info.userID, 0 == this.curShowMode ? 124801 : 124791],
+            function(e) {
+                t.curLevel = e & Math.pow(2, 16) - 1,
+                t.curScore = e >> 16 & Math.pow(2, 16) - 1,
+                t.imgCurrPeakLevel.source = ClientConfig.GetPeakjihadMiniLevelPath(PeakJihadController.getResIndexByLevelScore(t.curLevel, t.curScore) + 1),
+                t.txtCurLevelName.text = PeakJihadController.getRatingsNameByScore(e),
+                KTool.getOnlineUsersForeverOrDailyVal([t._info.userID, 0 == t.curShowMode ? 124802 : 124792],
+                function(i) {
+                    i > 0 ? (t.curMaxLevel = i & Math.pow(2, 16) - 1, t.curMaxScore = i >> 16 & Math.pow(2, 16) - 1, t.imgMaxPeakLevel.source = ClientConfig.GetPeakjihadMiniLevelPath(PeakJihadController.getResIndexByLevelScore(t.curMaxLevel, t.curMaxScore) + 1), t.txtMaxLevelName.text = PeakJihadController.getRatingsNameByScore(i)) : (t.imgMaxPeakLevel.source = ClientConfig.GetPeakjihadMiniLevelPath(PeakJihadController.getResIndexByLevelScore(t.curLevel, t.curScore) + 1), t.txtMaxLevelName.text = PeakJihadController.getRatingsNameByScore(e))
+                }),
+                KTool.getOnlineUsersForeverOrDailyVal([t._info.userID, 0 == t.curShowMode ? 124804 : 124793],
+                function(e) {
+                    KTool.getOnlineUsersForeverOrDailyVal([t._info.userID, 0 == t.curShowMode ? 124805 : 124794],
+                    function(i) {
+                        0 >= i ? t.txtWinRate.text = "0%": t.txtWinRate.text = Math.round(e / i * 100) + "%"
+                    })
                 })
             })
         },
@@ -6406,7 +6426,7 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationidcardpetshowSkin.
 generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml"] = window.PersonalinformationIdCardpopSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["cardbg", "btnClose", "avatar", "headContainer", "txt_registerTime", "txt_userId", "btnCopy", "nameBg", "txt_nick", "btnChangeName", "txt_vipLevel", "grp_vipInfo", "txt_teamName", "txt_militaryName", "military_icon", "userinfo", "_listAchieve", "achieve", "achieveHasNum", "achieveAllNum", "collectAchieve", "petsHasNum", "petsAllNum", "collectPets", "skinHasNum", "skinAllNum", "collectSkin", "collect", "imgCurrPeakLevel", "txtCurLevelName", "txtWinRate", "shenglv", "cur", "imgMaxPeakLevel", "txtMaxLevelName", "history", "peakJihad", "_listPetShow", "petShow", "btnGrpInvite", "btnTeamInvite", "grp_inviting", "btnBlock", "btnInvite", "btnAdd", "btnDelete", "btnReport", "ohter", "reddotCard", "btnReplace", "IDCard"],
+        this.skinParts = ["cardbg", "btnClose", "avatar", "headContainer", "txt_registerTime", "txt_userId", "btnCopy", "nameBg", "txt_nick", "btnChangeName", "txt_vipLevel", "grp_vipInfo", "txt_teamName", "txt_militaryName", "military_icon", "userinfo", "_listAchieve", "achieve", "achieveHasNum", "achieveAllNum", "collectAchieve", "petsHasNum", "petsAllNum", "collectPets", "skinHasNum", "skinAllNum", "collectSkin", "collect", "showBg", "peakJihadTitle", "peakJiHad_cur_bg", "imgCurrPeakLevel", "txtCurLevelName", "txtWinRate", "shenglv", "cur", "peakJiHad_history_bg", "imgMaxPeakLevel", "txtMaxLevelName", "history", "btnRefresh", "peakJihad", "_listPetShow", "petShow", "btnGrpInvite", "btnTeamInvite", "grp_inviting", "btnBlock", "btnInvite", "btnAdd", "btnDelete", "btnReport", "ohter", "reddotCard", "btnReplace", "IDCard"],
         this.height = 568,
         this.width = 1067,
         this.elementsContent = [this.IDCard_i()]
@@ -6427,7 +6447,6 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         return t.height = 567,
         t.scale9Grid = new egret.Rectangle(336, 186, 337, 185),
         t.source = "personalinformation_id_cardpop_mpdk_png",
-        t.visible = !0,
         t.width = 1022,
         t.x = 0,
         t.y = 0,
@@ -6965,29 +6984,27 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
     i.peakJihad_i = function() {
         var t = new eui.Group;
         return this.peakJihad = t,
-        t.visible = !0,
         t.x = 591,
         t.y = 417,
-        t.elementsContent = [this._Image24_i(), this._Image25_i(), this.cur_i(), this.history_i()],
+        t.elementsContent = [this.showBg_i(), this.peakJihadTitle_i(), this.cur_i(), this.history_i(), this.btnRefresh_i()],
         t
     },
-    i._Image24_i = function() {
+    i.showBg_i = function() {
         var t = new eui.Image;
-        return t.height = 121,
-        t.scale9Grid = new egret.Rectangle(181, 12, 182, 3),
+        return this.showBg = t,
+        t.height = 121,
         t.source = "personalinformation_id_cardpop_showBg_png",
-        t.visible = !0,
         t.width = 408,
         t.x = 0,
-        t.y = 5,
+        t.y = 0,
         t
     },
-    i._Image25_i = function() {
+    i.peakJihadTitle_i = function() {
         var t = new eui.Image;
-        return t.source = "personalinformation_id_cardpop_dfsz_png",
-        t.visible = !0,
-        t.x = 5,
-        t.y = 0,
+        return this.peakJihadTitle = t,
+        t.source = "personalinformation_id_cardpop_peakjihad_sport_title_png",
+        t.x = 17,
+        t.y = 3,
         t
     },
     i.cur_i = function() {
@@ -6995,29 +7012,15 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         return this.cur = t,
         t.x = 24,
         t.y = 38,
-        t.elementsContent = [this._Image26_i(), this._Label4_i(), this.imgCurrPeakLevel_i(), this.txtCurLevelName_i(), this.txtWinRate_i(), this.shenglv_i()],
+        t.elementsContent = [this.peakJiHad_cur_bg_i(), this.imgCurrPeakLevel_i(), this.txtCurLevelName_i(), this.txtWinRate_i(), this.shenglv_i()],
         t
     },
-    i._Image26_i = function() {
+    i.peakJiHad_cur_bg_i = function() {
         var t = new eui.Image;
-        return t.height = 72,
-        t.scale9Grid = new egret.Rectangle(23, 2, 4, 2),
-        t.source = "personalinformation_peakJiHad_itemBg_png",
-        t.width = 214,
+        return this.peakJiHad_cur_bg = t,
+        t.source = "personalinformation_id_cardpop_sport_cur_bg_png",
         t.x = 0,
         t.y = 0,
-        t
-    },
-    i._Label4_i = function() {
-        var t = new eui.Label;
-        return t.fontFamily = "MFShangHei",
-        t.height = 65,
-        t.size = 16,
-        t.text = "当前赛季",
-        t.textColor = 14740735,
-        t.width = 17,
-        t.x = 2,
-        t.y = 4,
         t
     },
     i.imgCurrPeakLevel_i = function() {
@@ -7026,32 +7029,29 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         t.height = 52,
         t.source = "personalinformation_id_cardpop_15_png",
         t.width = 52,
-        t.x = 36,
-        t.y = 1,
+        t.x = 58,
+        t.y = 0,
         t
     },
     i.txtCurLevelName_i = function() {
         var t = new eui.Label;
         return this.txtCurLevelName = t,
         t.fontFamily = "MFShangHei",
-        t.horizontalCenter = -44,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.size = 18,
-        t.text = "段位名称",
-        t.textAlign = "center",
-        t.textColor = 16514895,
-        t.y = 54,
+        t.horizontalCenter = -29,
+        t.size = 16,
+        t.text = "宇宙圣皇XXXX星",
+        t.textColor = 16514896,
+        t.y = 51,
         t
     },
     i.txtWinRate_i = function() {
         var t = new eui.Label;
         return this.txtWinRate = t,
         t.fontFamily = "MFShangHei",
-        t.horizontalCenter = 52.5,
         t.size = 25,
-        t.text = "99%",
+        t.text = "99.9%",
         t.textColor = 16514895,
+        t.x = 151,
         t.y = 47,
         t
     },
@@ -7062,38 +7062,24 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         t.size = 25,
         t.text = "胜率",
         t.textColor = 8631282,
-        t.x = 134,
+        t.x = 152,
         t.y = 11,
         t
     },
     i.history_i = function() {
         var t = new eui.Group;
         return this.history = t,
-        t.x = 256,
+        t.x = 261,
         t.y = 38,
-        t.elementsContent = [this._Image27_i(), this._Label5_i(), this.imgMaxPeakLevel_i(), this.txtMaxLevelName_i()],
+        t.elementsContent = [this.peakJiHad_history_bg_i(), this.imgMaxPeakLevel_i(), this.txtMaxLevelName_i()],
         t
     },
-    i._Image27_i = function() {
+    i.peakJiHad_history_bg_i = function() {
         var t = new eui.Image;
-        return t.height = 72,
-        t.scale9Grid = new egret.Rectangle(23, 2, 3, 2),
-        t.source = "personalinformation_peakJiHad_itemBg_png",
-        t.width = 105,
+        return this.peakJiHad_history_bg = t,
+        t.source = "personalinformation_id_cardpop_sport_history_bg_png",
         t.x = 0,
         t.y = 0,
-        t
-    },
-    i._Label5_i = function() {
-        var t = new eui.Label;
-        return t.fontFamily = "MFShangHei",
-        t.height = 65,
-        t.size = 16,
-        t.text = "历史最高",
-        t.textColor = 14740735,
-        t.width = 17,
-        t.x = 2,
-        t.y = 5,
         t
     },
     i.imgMaxPeakLevel_i = function() {
@@ -7102,22 +7088,27 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         t.height = 52,
         t.source = "personalinformation_id_cardpop_21_png",
         t.width = 52,
-        t.x = 36,
-        t.y = 1,
+        t.x = 54,
+        t.y = 0,
         t
     },
     i.txtMaxLevelName_i = function() {
         var t = new eui.Label;
         return this.txtMaxLevelName = t,
         t.fontFamily = "MFShangHei",
-        t.horizontalCenter = 9,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.size = 18,
-        t.text = "段位名称",
-        t.textColor = 16514895,
-        t.x = 42,
-        t.y = 54,
+        t.horizontalCenter = 10,
+        t.size = 15.9996748507081,
+        t.text = "宇宙圣皇XXXX星",
+        t.textColor = 16514896,
+        t.y = 51,
+        t
+    },
+    i.btnRefresh_i = function() {
+        var t = new eui.Image;
+        return this.btnRefresh = t,
+        t.source = "personalinformation_id_cardpop_refresh_png",
+        t.x = 379,
+        t.y = 4,
         t
     },
     i.petShow_i = function() {
@@ -7126,10 +7117,10 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         t.visible = !0,
         t.x = 42,
         t.y = 417,
-        t.elementsContent = [this._Image28_i(), this._Image29_i(), this._listPetShow_i()],
+        t.elementsContent = [this._Image24_i(), this._Image25_i(), this._listPetShow_i()],
         t
     },
-    i._Image28_i = function() {
+    i._Image24_i = function() {
         var t = new eui.Image;
         return t.source = "personalinformation_id_cardpop_showBg_png",
         t.visible = !0,
@@ -7137,7 +7128,7 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         t.y = 5,
         t
     },
-    i._Image29_i = function() {
+    i._Image25_i = function() {
         var t = new eui.Image;
         return t.source = "personalinformation_id_cardpop_jlzs_png",
         t.visible = !0,
@@ -7166,10 +7157,10 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         t.visible = !1,
         t.x = 908,
         t.y = 215,
-        t.elementsContent = [this._Image30_i(), this.btnGrpInvite_i(), this.btnTeamInvite_i()],
+        t.elementsContent = [this._Image26_i(), this.btnGrpInvite_i(), this.btnTeamInvite_i()],
         t
     },
-    i._Image30_i = function() {
+    i._Image26_i = function() {
         var t = new eui.Image;
         return t.height = 193,
         t.source = "personalInformation_ID_Card_cardPop_dck_png",
@@ -7205,10 +7196,10 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         t.visible = !0,
         t.x = 1012,
         t.y = 140,
-        t.elementsContent = [this._Image31_i(), this.btnBlock_i(), this.btnInvite_i(), this.btnAdd_i(), this.btnDelete_i(), this.btnReport_i()],
+        t.elementsContent = [this._Image27_i(), this.btnBlock_i(), this.btnInvite_i(), this.btnAdd_i(), this.btnDelete_i(), this.btnReport_i()],
         t
     },
-    i._Image31_i = function() {
+    i._Image27_i = function() {
         var t = new eui.Image;
         return t.scaleX = 1,
         t.scaleY = 1,
@@ -7267,10 +7258,10 @@ generateEUI.paths["resource/eui_skins/Card/PersonalinformationIdCardpopSkin.exml
         return this.btnReplace = t,
         t.x = 606,
         t.y = 40,
-        t.elementsContent = [this._Image32_i(), this.reddotCard_i()],
+        t.elementsContent = [this._Image28_i(), this.reddotCard_i()],
         t
     },
-    i._Image32_i = function() {
+    i._Image28_i = function() {
         var t = new eui.Image;
         return t.source = "personalinformation_id_cardpop_btnreplace_png",
         t.x = 0,

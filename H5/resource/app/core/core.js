@@ -4429,7 +4429,7 @@ SkillXMLInfo = function() {
         var e;
         if (1e5 >= t) {
             var n = this.movesMap[t];
-            return n && ~~n.MaxPP > 0 && (e = Number(n.MaxPP)),
+            return n && ~~n.MaxPP >= 0 && (e = Number(n.MaxPP)),
             e
         }
         var r = this.moveStoneMap[this.getSkillIdInXML(t)];
@@ -20933,6 +20933,11 @@ PeakJihadController = function() {
         null == this.ac1 && (this.ac1 = new ActivityControl(this.cron1)),
         this.ac1.isInActivityTime ? !0 : (t && Alarm.show("6v6巅峰战的开放时间为每日" + this._openTime + ",请稍后再来。"), !1)
     },
+    t.isWildInAcTime = function(t) {
+        return void 0 === t && (t = !0),
+        null == this.ac2 && (this.ac2 = new ActivityControl(this.cron2)),
+        this.ac2.isInActivityTime ? !0 : (t && Alarm.show("狂野模式的开放时间为每日" + this._openTime2 + ",请稍后再来。"), !1)
+    },
     t.updateBird = function() {
         return __awaiter(this, void 0, void 0,
         function() {
@@ -20958,7 +20963,7 @@ PeakJihadController = function() {
             function(e) {
                 switch (e.label) {
                 case 0:
-                    return [4, KTool.getMultiValueAsync([this.levelForever, 124800, 124950, 124821, 124808, 124807, 124820])];
+                    return [4, KTool.getMultiValueAsync([this.levelForever, 124800, 124950, 124821, 124808, 124807, 124820, this.wildlevelForever, 124790])];
                 case 1:
                     return t = e.sent(),
                     this.curLevel = t[0] & Math.pow(2, 16) - 1,
@@ -20970,19 +20975,69 @@ PeakJihadController = function() {
                     this.achieveValue2 = t[3],
                     this.battleTimes = t[4],
                     this.wins = t[5],
+                    this.curWildLevel = t[7] & Math.pow(2, 16) - 1,
+                    this.curWildScore = t[7] >> 16 & Math.pow(2, 16) - 1,
+                    this.curWildMaxLevel = KTool.subByte(t[8], 0, 16),
+                    this.curWildMaxScore = KTool.subByte(t[8], 16, 16),
                     [2]
                 }
             })
         })
     },
-    t.getRatingsNameByScore = function(t) {
-        var e = t & Math.pow(2, 16) - 1,
-        n = e >= 4 ? t >> 16 & Math.pow(2, 16) - 1 : "";
-        return null != this.RATINGS_NAME[e] ? this.RATINGS_NAME[e] + n + (e >= 4 ? "星": "") : ""
+    t.getTitleByLevelScore = function(t) {
+        void 0 === t && (t = !0);
+        var e = this.curLevel;
+        4 == this.curLevel && this.curScore >= 100 && (e = this.curLevel + 1);
+        var n = "",
+        r = t ? this.curLevel >= 4 ? "星": "分": "";
+        return n += this.RATINGS_NAME[e] + this.curScore + r
     },
-    t.getTitleByLevelScore = function() {
-        var t = "";
-        return t += this.RATINGS_NAME[this.curLevel] + this.curScore + (this.curLevel >= 4 ? "星": "分")
+    t.getWildTitleByLevelScore = function(t) {
+        void 0 === t && (t = !0);
+        var e = this.curWildLevel;
+        4 == this.curWildLevel && this.curWildScore >= 100 && (e = this.curWildLevel + 1);
+        var n = "",
+        r = t ? this.curWildLevel >= 4 ? "星": "分": "";
+        return n += this.RATINGS_NAME[e] + this.curWildScore + r
+    },
+    t.getMyRatingsNameByScore = function(t, e) {
+        void 0 === e && (e = !0);
+        var n = t & Math.pow(2, 16) - 1,
+        r = t >> 16 & Math.pow(2, 16) - 1;
+        if (null != this.RATINGS_NAME[n]) {
+            n >= 4 && r >= 100 && (n += 1);
+            var o = e && n >= 4 ? "星": "";
+            return this.RATINGS_NAME[n] + r + o
+        }
+        return ""
+    },
+    t.getRatingsNameByScore = function(t, e) {
+        void 0 === e && (e = !0);
+        var n = t & Math.pow(2, 16) - 1,
+        r = n >= 4 ? t >> 16 & Math.pow(2, 16) - 1 : "";
+        if (null != this.RATINGS_NAME[n]) {
+            n >= 4 && r >= 100 && (n += 1);
+            var o = e && n >= 4 ? "星": "";
+            return this.RATINGS_NAME[n] + r + o
+        }
+        return ""
+    },
+    t.getTitleByLevelScore2 = function(t, e, n) {
+        void 0 === n && (n = !0),
+        t >= 4 && e >= 100 && (t += 1);
+        var r = "",
+        o = n ? t >= 4 ? "星": "分": "";
+        return r += this.RATINGS_NAME[t] + e + o
+    },
+    t.getResIndexByLevelScore = function(t, e) {
+        void 0 === t && (t = -1),
+        void 0 === e && (e = -1);
+        var n = 0;
+        return n = 0 > t ? this.curLevel >= 4 && this.curScore >= 100 ? this.curLevel + 1 : this.curLevel: t >= 4 && e >= 100 ? t + 1 : t
+    },
+    t.getCurMaxRewarLevel = function() {
+        var t = this.curMaxLevel > this.curWildMaxLevel ? this.curMaxLevel: this.curWildMaxLevel;
+        return t
     },
     t.initMap1095 = function() {
         EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.onFightOver, this)
@@ -21018,12 +21073,13 @@ PeakJihadController = function() {
     },
     t.onFightOver = function(t) {
         var e = t.obj.isJumping;
-        if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) if (PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ) {
+        if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) if (PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6) {
             var n = {};
             n.isWin = FightManager.isWin,
             n.isDraw = this.isDraw,
+            n.model = PetFightModel.type,
             ModuleManager.showModule("battleResultPanel", ["battleResultPanel"], n, "BattleResultPeakJiHadPanel")
-        } else PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 ? (this.clearType(), e || ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"]), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了")) : (PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN) && (this.clearType(), e ? KTool.getMultiValue([3313],
+        } else PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 ? (this.clearType(), e || ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"]), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了")) : (PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN) && (this.clearType(), e ? KTool.getMultiValue([3313],
         function(t) {
             1 == t[0] ? SocketConnection.sendByQueue(45136, [5, 0]) : SocketConnection.sendByQueue(45136, [2, 0])
         }) : ModuleManager.showModule("peakJihadFreeWar", ["peakJihadFreeWar"], null, "PeakJihadRoomPanel"), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了"))
@@ -21085,30 +21141,30 @@ PeakJihadController = function() {
             for (var n = s.filter(function(t) {
                 return t.type == e
             })[0], r = n.quantity, o = 0, i = n.name.split(";").map(Number), a = 0; a < i.length; a++) {
-                var _ = i[a];
-                if (t.indexOf(_) > -1 && o++, o > r) return {
+                var c = i[a];
+                if (t.indexOf(c) > -1 && _.curLevel > 1 && o++, o > r) return {
                     value: !1
                 }
             }
         },
-        _ = 1; 2 >= _; _++) {
-            var c = a(_);
-            if ("object" == typeof c) return c.value
+        _ = this, c = 1; 2 >= c; c++) {
+            var l = a(c);
+            if ("object" == typeof l) return l.value
         }
         return ! 0
     },
     t.getLadderRewardState = function() {
         return __awaiter(this, void 0, void 0,
         function() {
-            var e, n, r, o;
+            var t, e, n, r, o;
             return __generator(this,
             function(i) {
                 switch (i.label) {
                 case 0:
                     return [4, KTool.getMultiValueAsync([124798])];
                 case 1:
-                    for (e = i.sent(), this.ladderRewardState = [], n = e[0], r = 0; 5 > r; r++) o = 1 == KTool.getBit(n, r + 1),
-                    o ? this.ladderRewardState.push(2) : this.ladderRewardState.push(t.curMaxLevel >= r ? 1 : 0);
+                    for (t = i.sent(), this.ladderRewardState = [], e = t[0], n = 0; 5 > n; n++) r = 1 == KTool.getBit(e, n + 1),
+                    r ? this.ladderRewardState.push(2) : (o = this.getCurMaxRewarLevel(), this.ladderRewardState.push(o >= n ? 1 : 0));
                     return [2]
                 }
             })
@@ -21120,14 +21176,19 @@ PeakJihadController = function() {
     t.curScore = 0,
     t.curMaxLevel = 0,
     t.curMaxScore = 0,
+    t.curWildLevel = 0,
+    t.curWildScore = 0,
+    t.curWildMaxLevel = 0,
+    t.curWildMaxScore = 0,
     t.isDraw = !1,
     t.PeakJihadController_Buy_SHOP_ITEM = "PeakJihadController_Buy_SHOP_ITEM",
     t.PeakJihadController_GET_LADDER_REWARD = "PeakJihadController_GET_LADDER_REWARD",
     t.PeakJihadController_GET_ACHIEVE_REWARD = "PeakJihadController_GET_ACHIEVE_REWARD",
     t.shopValue = new HashMap,
-    t.RATINGS_NAME = ["学徒", "猛将", "天骄", "王者", "圣皇"],
+    t.RATINGS_NAME = ["学徒", "猛将", "天骄", "王者", "圣皇", "宇宙圣皇"],
     t.ladderRewardState = [],
     t.levelForever = 124801,
+    t.wildlevelForever = 124791,
     t.isBird = !0,
     t.curBirdValue = 0,
     t.curBirdTimes = 0,
@@ -21137,6 +21198,8 @@ PeakJihadController = function() {
     t.wins = 0,
     t._openTime = "11:00-15:00和18:00-22:00",
     t.cron1 = [new CronTimeVo("*", "11-14", "*", "*", "*", "*"), new CronTimeVo("*", "18-21", "*", "*", "*", "*")],
+    t._openTime2 = "20:00-23:30",
+    t.cron2 = [new CronTimeVo("*", "20-22", "*", "*", "*", "*"), new CronTimeVo("0-29", "23", "*", "*", "*", "*")],
     t
 } ();
 __reflect(PeakJihadController.prototype, "PeakJihadController");
@@ -21510,9 +21573,9 @@ PeakJihadOrderManager = function() {
     t.payState = [],
     t.taskRed = !1,
     t.rewardRed = !1,
-    t.curSeason = 2,
-    t.endTime = "2024_7_12",
-    t.curOutputSkinId = 607,
+    t.curSeason = 3,
+    t.endTime = "2024_10_18",
+    t.curOutputSkinId = 636,
     t
 } ();
 __reflect(PeakJihadOrderManager.prototype, "PeakJihadOrderManager");
@@ -23126,7 +23189,7 @@ PetManager = function() {
     }),
     Object.defineProperty(t, "secondBagTotalLength", {
         get: function() {
-            return GuideManager.isNewSeer() ? 3 : MainManager.actorInfo.isVip ? MainManager.actorInfo.vipLevel < 1 ? 3 : MainManager.actorInfo.vipLevel < 3 ? 4 : MainManager.actorInfo.vipLevel < 5 ? 5 : 6 : 3
+            return GuideManager.isNewSeer() ? 3 : 6
         },
         enumerable: !0,
         configurable: !0
@@ -23465,7 +23528,7 @@ PetManager = function() {
     t.showingInfo = null,
     t.curViewEffectIdx = 0,
     t._bool = !1,
-    t.SECOND_BAG_UNLOCK_LEVELS = [0, 0, 0, 1, 3, 5],
+    t.SECOND_BAG_UNLOCK_LEVELS = [0, 0, 0, 0, 0, 0],
     t._storageMap = new HashMap,
     t._exePetListMap = new HashMap,
     t._lovePetMap = new HashMap,
@@ -31620,6 +31683,13 @@ SystemTimerManager = function() {
         n = "0" == t.substr(4, 1) ? Number(t.substr(5, 1)) : Number(t.substr(4, 2)),
         r = "0" == t.substr(6, 1) ? Number(t.substr(7, 1)) : Number(t.substr(6, 2));
         return new Date(e, n - 1, r, 23, 59, 59)
+    },
+    t.getLeftTimeString = function(t) {
+        var e = "",
+        n = Math.floor(t / 86400),
+        r = t % 86400,
+        o = Math.floor(r / 3600);
+        return n > 1 ? e = n + "天" + o + "小时": o > 0 ? e = o + "小时": r > 0 ? e = "1小时": e
     },
     t._tickFun = [],
     t.hasUpdate = !1,

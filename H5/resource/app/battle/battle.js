@@ -2985,10 +2985,10 @@ FightOverController = function() {
     },
     t.onCloseFight = function(t) {
         var e = this;
-        FightManager.isWin && FighterModelFactory.enemyMode && FighterModelFactory.enemyMode.info.hp > 0 ? (FighterModelFactory.enemyMode.info.hp = 0, FighterModelFactory.enemyMode.propView.resetBar(FighterModelFactory.enemyMode, !1), egret.setTimeout(function() {
+        FightManager.isWin && FighterModelFactory.enemyMode && FighterModelFactory.enemyMode.info.hp > 0 ? (this.isCatch || (FighterModelFactory.enemyMode.info.hp = 0), FighterModelFactory.enemyMode.propView.resetBar(FighterModelFactory.enemyMode, !1), egret.setTimeout(function() {
             e._onCloseFight(t)
         },
-        this, 1400)) : this._onCloseFight(t)
+        this, this.isCatch ? 0 : 1400)) : this._onCloseFight(t)
     },
     t._onCloseFight = function(e) {
         var i = this;
@@ -3422,7 +3422,7 @@ PetFightController = function() {
     t.isReciveUseSkillCmd = !1,
     t._roundTimes = 0,
     t.VIOLENTVALUE = 50,
-    t.SURRENDERVALUE = 20,
+    t.SURRENDERVALUE = 10,
     t.zhuqueStatus = !1,
     t.isChaningFace = !1,
     t._commonItemIdArr = [1, 1400352, 400063, 400064, 400065],

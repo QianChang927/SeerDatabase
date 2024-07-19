@@ -134,9 +134,10 @@ function(e) {
             function(t) {
                 e._score = t[0];
                 var i = t[0],
-                r = i & Math.pow(2, 16) - 1;
-                e.level1.text = PeakJihadController.getTitleByLevelScore(),
-                e.icon1.source = ClientConfig.getPeakjihadLevelPath(r + 1),
+                r = i & Math.pow(2, 16) - 1,
+                n = KTool.subByte(i, 16, 16);
+                e.level1.text = PeakJihadController.getMyRatingsNameByScore(i, 4 > r ? !0 : !1),
+                e.icon1.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(r, n) + 1),
                 e.myStarIcon.visible = r > 3 && e._isJJ,
                 e.level1.visible = e.icon1.visible = e._isJJ
             }),
@@ -150,9 +151,10 @@ function(e) {
                 KTool.getOnlineUsersForeverOrDailyVal([e._rivalUserID, PeakJihadController.levelForever],
                 function(t) {
                     var i = t[0],
-                    r = i & Math.pow(2, 16) - 1;
-                    e.level2.text = PeakJihadController.getRatingsNameByScore(i),
-                    e.icon2.source = ClientConfig.getPeakjihadLevelPath(r + 1),
+                    r = i & Math.pow(2, 16) - 1,
+                    n = KTool.subByte(i, 16, 16);
+                    e.level2.text = PeakJihadController.getRatingsNameByScore(i, !1),
+                    e.icon2.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(r, n) + 1),
                     e.enemyStarIcon.visible = r > 3 && e._isJJ,
                     e.level2.visible = e.icon2.visible = e._isJJ
                 }),
@@ -577,6 +579,7 @@ function(e) {
             var e = this;
             t.prototype.childrenCreated.call(this),
             PeakJihadController.isDraw = !1,
+            this._curModeFoverId = this._isJJ ? PeakJihadController.levelForever: PeakJihadController.wildlevelForever,
             this.adaptBgByScale(this.bg),
             this._rivalisdisableOther = !1;
             var i = new Date;
@@ -663,14 +666,15 @@ function(e) {
             this.myInfoGroup.addChild(t),
             this.name1.text = String(MainManager.actorInfo.nick),
             this.id1.text = String(MainManager.actorInfo.userID),
-            KTool.getMultiValue([PeakJihadController.levelForever],
+            KTool.getMultiValue([this._curModeFoverId],
             function(t) {
                 e._score = t[0];
-                var i = t[0] & Math.pow(2, 16) - 1;
-                e.level1.text = PeakJihadController.getTitleByLevelScore(),
-                e.myStarIcon.visible = i >= 4 && e._isJJ,
-                e.level1.visible = e.icon1.visible = e._isJJ,
-                e.icon1.source = ClientConfig.getPeakjihadLevelPath(i + 1)
+                var i = t[0] & Math.pow(2, 16) - 1,
+                r = KTool.subByte(t[0], 16, 16);
+                e.level1.text = PeakJihadController.getMyRatingsNameByScore(e._score, 4 > i ? !0 : !1),
+                e.myStarIcon.visible = i >= 4,
+                e.level1.visible = e.icon1.visible = !0,
+                e.icon1.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(i, r) + 1)
             }),
             ItemManager.updateItems([PeakJihadController.itemId1],
             function() {
@@ -679,14 +683,15 @@ function(e) {
             KTool.getMultiValue([3308],
             function(t) {
                 e._rivalUserID = t[0],
-                KTool.getOnlineUsersForeverOrDailyVal([e._rivalUserID, PeakJihadController.levelForever],
+                KTool.getOnlineUsersForeverOrDailyVal([e._rivalUserID, e._curModeFoverId],
                 function(t) {
                     var i = t,
-                    r = i & Math.pow(2, 16) - 1;
-                    e.level2.text = PeakJihadController.getRatingsNameByScore(i),
-                    e.enemyStarIcon.visible = r >= 4 && e._isJJ,
-                    e.level2.visible = e.icon2.visible = e._isJJ,
-                    e.icon2.source = ClientConfig.getPeakjihadLevelPath(r + 1)
+                    r = i & Math.pow(2, 16) - 1,
+                    n = KTool.subByte(i, 16, 16);
+                    e.level2.text = PeakJihadController.getRatingsNameByScore(i, !1),
+                    e.enemyStarIcon.visible = r >= 4,
+                    e.level2.visible = e.icon2.visible = !0,
+                    e.icon2.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(r, n) + 1)
                 }),
                 UserInfoManager.getInfo(e._rivalUserID,
                 function(t) {
@@ -763,14 +768,14 @@ function(e) {
         },
         i.prototype.initItem = function() {
             this._myItemArr = [];
-            for (var t, i = 0; i < this._maxNum; i++) t = new e.PeakJihadPetHeadItem(this._fightMod),
+            for (var t, i = 0; i < this._maxNum; i++) t = new e.PeakJihadPetHeadItem(this._fightMod, !1, this._isJJ),
             t.x = 15 + i % 4 * 112,
             t.y = 6 + 136 * Math.floor(i / 4),
             this._myItemArr.push(t),
             this.myPetHeadGp.addChild(t),
             t.addEventListener(egret.TouchEvent.TOUCH_BEGIN, this.onMyPetHeadClick, this);
             this._rivalItemArr = [];
-            for (var r = 0; r < this._maxNum; r++) t = new e.PeakJihadPetHeadItem(this._fightMod),
+            for (var r = 0; r < this._maxNum; r++) t = new e.PeakJihadPetHeadItem(this._fightMod, !1, this._isJJ),
             t.x = 15 + r % 4 * 112,
             t.y = 6 + 136 * Math.floor(r / 4),
             this._rivalItemArr.push(t),
@@ -1210,20 +1215,22 @@ function(e, t) {
 peakJihad6V6BanPickModePanel; !
 function(e) {
     var t = function(e) {
-        function t(t, i) {
+        function t(t, i, r) {
             void 0 === t && (t = 0),
-            void 0 === i && (i = !1);
-            var r = e.call(this) || this;
-            return r.status = 1,
-            r.NO_SET = 1,
-            r.DISABLED = 2,
-            r.DEFAULT = 3,
-            r.PLAY = 4,
-            r._isCancel = !0,
-            r._fightMod = t,
-            r._islock = i,
-            r.skinName = PeakJihadPetHeadItemSkin,
-            r
+            void 0 === i && (i = !1),
+            void 0 === r && (r = !1);
+            var n = e.call(this) || this;
+            return n.status = 1,
+            n.NO_SET = 1,
+            n.DISABLED = 2,
+            n.DEFAULT = 3,
+            n.PLAY = 4,
+            n._isCancel = !0,
+            n._fightMod = t,
+            n._islock = i,
+            n._isjj = r,
+            n.skinName = PeakJihadPetHeadItemSkin,
+            n
         }
         return __extends(t, e),
         t.prototype.childrenCreated = function() {
@@ -1325,7 +1332,7 @@ function(e) {
                 var t, i, r, n;
                 return __generator(this,
                 function(a) {
-                    for (t = config.Pvp_ban.getItems(), i = 0, this.mostGroup.visible = !1, r = 0; r < t.length; r++) if (i = t[r].quantity, n = t[r].name.split(";").map(Number), n.indexOf(e) > -1) {
+                    for (t = config.Pvp_ban.getItems(), i = 0, this.mostGroup.visible = !1, r = 0; r < t.length; r++) if (i = t[r].quantity, n = t[r].name.split(";").map(Number), n.indexOf(e) > -1 && this._isjj && PeakJihadController.curLevel > 1) {
                         this.mostGroup.visible = !0,
                         this.most.text = "" + i;
                         break
@@ -1447,10 +1454,10 @@ generateEUI.paths["resource/eui_skins/Peakjihad3v3banpickmodeSkin.exml"] = windo
         e.anchorOffsetX = 0,
         e.anchorOffsetY = 0,
         e.height = 0,
-        e.horizontalCenter = -454,
+        e.horizontalCenter = -435,
         e.scaleX = .6,
         e.scaleY = .6,
-        e.y = 176.822,
+        e.y = 180,
         e
     },
     i.enemyInfoGroup_i = function() {
@@ -1462,7 +1469,7 @@ generateEUI.paths["resource/eui_skins/Peakjihad3v3banpickmodeSkin.exml"] = windo
         e.horizontalCenter = 511,
         e.scaleX = .6,
         e.scaleY = .6,
-        e.y = 176.822,
+        e.y = 180,
         e
     },
     i.me_i = function() {
@@ -1746,10 +1753,10 @@ generateEUI.paths["resource/eui_skins/Peakjihad6v6banpickmodeSkin.exml"] = windo
         e.anchorOffsetX = 0,
         e.anchorOffsetY = 0,
         e.height = 0,
-        e.horizontalCenter = -454,
+        e.horizontalCenter = -435,
         e.scaleX = .6,
         e.scaleY = .6,
-        e.y = 176.822,
+        e.y = 180,
         e
     },
     i.enemyInfoGroup_i = function() {
@@ -1761,7 +1768,7 @@ generateEUI.paths["resource/eui_skins/Peakjihad6v6banpickmodeSkin.exml"] = windo
         e.horizontalCenter = 511,
         e.scaleX = .6,
         e.scaleY = .6,
-        e.y = 176.822,
+        e.y = 180,
         e
     },
     i.me_i = function() {
@@ -1813,7 +1820,7 @@ generateEUI.paths["resource/eui_skins/Peakjihad6v6banpickmodeSkin.exml"] = windo
         e.fontFamily = "MFShangHei",
         e.right = 35,
         e.size = 20,
-        e.text = "宇宙圣皇4",
+        e.text = "宇宙圣皇9999",
         e.textColor = 4967167,
         e.y = 88,
         e
@@ -1861,7 +1868,7 @@ generateEUI.paths["resource/eui_skins/Peakjihad6v6banpickmodeSkin.exml"] = windo
         return this.other = e,
         e.horizontalCenter = 233.5,
         e.y = 59,
-        e.elementsContent = [this.infobg2_i(), this.ima2_2_i(), this.ima1_2_i(), this.name2_i(), this.level2_i(), this.enemyStarIcon_i(), this.icon2_i(), this.id2_i(), this.other2_i()],
+        e.elementsContent = [this.infobg2_i(), this.ima2_2_i(), this.ima1_2_i(), this.name2_i(), this._Group2_i(), this.icon2_i(), this.id2_i(), this.other2_i()],
         e
     },
     i.infobg2_i = function() {
@@ -1901,15 +1908,33 @@ generateEUI.paths["resource/eui_skins/Peakjihad6v6banpickmodeSkin.exml"] = windo
         e.y = 39,
         e
     },
+    i._Group2_i = function() {
+        var e = new eui.Group;
+        return e.anchorOffsetY = 0,
+        e.horizontalCenter = -64.5,
+        e.y = 80,
+        e.layout = this._HorizontalLayout1_i(),
+        e.elementsContent = [this.level2_i(), this.enemyStarIcon_i()],
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e.gap = 0,
+        e.horizontalAlign = "center",
+        e.verticalAlign = "middle",
+        e
+    },
     i.level2_i = function() {
         var e = new eui.Label;
         return this.level2 = e,
         e.fontFamily = "MFShangHei",
-        e.horizontalCenter = -80.5,
+        e.scaleX = 1,
+        e.scaleY = 1,
         e.size = 20,
-        e.text = "宇宙圣皇4",
+        e.text = "宇宙圣皇9999",
         e.textColor = 4967167,
-        e.y = 88,
+        e.x = 0,
+        e.y = 27,
         e
     },
     i.enemyStarIcon_i = function() {
@@ -1918,8 +1943,8 @@ generateEUI.paths["resource/eui_skins/Peakjihad6v6banpickmodeSkin.exml"] = windo
         e.scaleX = 1,
         e.scaleY = 1,
         e.source = "PeakJihad6V6BanPickMode_enemyStarIcon_png",
-        e.x = 113.933,
-        e.y = 82,
+        e.x = 106,
+        e.y = 21,
         e
     },
     i.icon2_i = function() {

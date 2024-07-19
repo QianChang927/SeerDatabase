@@ -146,7 +146,8 @@ function(e) {
     var t = function(t) {
         function i() {
             var i = t.call(this) || this;
-            return e.AttrConst.init(),
+            return StatLogger.log("20240705版本系统功能", "20240705精灵背包", "进入精灵背包"),
+            e.AttrConst.init(),
             i.init([{
                 panelName: e.PanelConst.MAIN_PANEL,
                 isMain: !0
@@ -1210,6 +1211,7 @@ function(e) {
                 i.addEventListener(egret.TouchEvent.TOUCH_TAP,
                 function() {
                     7 == e ? StatLogger.log("精灵背包", "精灵皮肤", "点击精灵皮肤页签") : 8 == e && StatLogger.log("精灵背包", "精灵道具", "点击精灵道具页签"),
+                    t.dataStatistic(e),
                     t.showDevelopView(e + 1)
                 },
                 s),
@@ -1236,11 +1238,13 @@ function(e) {
             var t = this;
             ImageButtonUtil.add(this.btnHelp,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击战斗属性【？】按钮"),
                 t.service.openPop(new e.DetailPop(t.curPetInfo))
             },
             this),
             ImageButtonUtil.add(this.btnAttr,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击战斗属性切换按钮"),
                 t.curBaseAttrType++,
                 t.curBaseAttrType > 3 && (t.curBaseAttrType = 1),
                 t.refreshBaseAttr()
@@ -1249,6 +1253,7 @@ function(e) {
             PetManager.addEventListener(PetEvent.CURE_COMPLETE, this.onCure, this),
             ImageButtonUtil.add(this.btnCure,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击【治疗】按钮"),
                 ModuleManager.showModule("vipRecovery", ["vip_recovery"], null, null, AppDoStyle.NULL)
             },
             this),
@@ -1264,6 +1269,7 @@ function(e) {
                             return [4, PetManager.bagToStorage(this.curPetInfo.catchTime)];
                         case 1:
                             return t.sent(),
+                            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击【入库】按钮"),
                             PetManager.updateBagInfo(function() {
                                 e.updateBagView()
                             }),
@@ -1275,12 +1281,14 @@ function(e) {
             this),
             ImageButtonUtil.add(this.btnStorage,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击【仓库】按钮"),
                 ModuleManager.showModule("warehouse", ["warehouse"])
             },
             this),
             ImageButtonUtil.add(this.btnChange,
             function() {
                 StatLogger.log("精灵背包", "精灵背包主界面", "点击更换按钮"),
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击【更换】按钮"),
                 t.service.openPop(new e.ChangePetPop(t.curPetInfo, t.curBagPositionOfCurPet), !1, null,
                 function() {
                     e.ChangePetPop.changeFlag && (e.ChangePetPop.changeFlag = !1, PetManager.updateBagInfo(function() {
@@ -1291,6 +1299,7 @@ function(e) {
             this),
             ImageButtonUtil.add(this.btnBestQuality,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击【极品鉴定】按钮"),
                 t.ignoreReshow = !0,
                 ModuleManager.showModule("oneKeyTheBest", ["oneKeyTheBest"], t.curPetInfo, null, AppDoStyle.NULL)
             },
@@ -1315,6 +1324,7 @@ function(e) {
             this, !1, !1),
             ImageButtonUtil.add(this.btnDevelop,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击【养成】按钮"),
                 t.showDevelopBaseView(),
                 t.showDevelopView(1),
                 t.groupRightBtn.scrollV = 0;
@@ -1328,12 +1338,14 @@ function(e) {
             this),
             ImageButtonUtil.add(this.imgEffect,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击上方精灵【专属特性】按钮"),
                 t.ignoreReshow = !0,
                 ModuleManager.showModule("petEffDescPanel", ["pet_eff_desc_panel"], t.curPetInfo, "", AppDoStyle.NULL)
             },
             this),
             ImageButtonUtil.add(this.imgAttr,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击上方精灵【属性】按钮"),
                 t.ignoreReshow = !0,
                 ModuleManager.showModule("petbookAttRelationShip", ["petbookAttRelationShip"], t.curPetInfo.id, "", AppDoStyle.NULL)
             },
@@ -1341,6 +1353,7 @@ function(e) {
             ImageButtonUtil.add(this.btnTopSkin,
             function() {
                 StatLogger.log("精灵背包", "精灵背包主界面", "点击精灵皮肤快捷按钮并跳转至精灵皮肤"),
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击上方【皮肤】按钮"),
                 t.showDevelopBaseView(),
                 t.showDevelopView(8),
                 t.groupRightBtn.scrollV = t.groupRightBtn.contentHeight - t.groupRightBtn.height;
@@ -1391,11 +1404,13 @@ function(e) {
             ImageButtonUtil.add(this.btnMarkRecommend,
             function() {
                 StatLogger.log("精灵背包", "精灵背包刻印养成", "点击刻印推荐按钮"),
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面刻印页签的【刻印推荐】按钮"),
                 PopViewManager.getInstance().openView(new e.RecommendMarkPop(t.curPetInfo))
             },
             this),
             ImageButtonUtil.add(this.btnMarkCenter,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面刻印页签的【刻印中心】按钮"),
                 ModuleManager.showModule("markCenter", ["markCenter"])
             },
             this),
@@ -1436,6 +1451,7 @@ function(e) {
             this)
         },
         i.prototype.onChangeBag = function() {
+            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "切换精灵背包页签"),
             this.setBagPage( + this.btnBag1.group.selectedValue)
         },
         i.prototype.refreshBagInfo = function() {
@@ -2024,6 +2040,7 @@ function(e) {
                     i["txtSkillName" + t].text = n.name,
                     ImageButtonUtil.add(i["groupSkill" + t],
                     function() {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击精灵" + t + "号位技能按钮"),
                         tipsPop.TipsPop.openSkillPop({
                             id: n.id,
                             petInfo: e.curPetInfo
@@ -2041,6 +2058,7 @@ function(e) {
             ImageButtonUtil.remove(this.groupSkill5),
             this.curPetInfo && this.curPetInfo.hideSKill && ImageButtonUtil.add(this.groupSkill5,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击精灵5号位技能按钮"),
                 tipsPop.TipsPop.openSkillPop({
                     id: e.curPetInfo.hideSKill.id
                 })
@@ -2165,6 +2183,36 @@ function(e) {
                 i.refreshUIOfViewAndMainPanel()
             },
             this, t ? 500 : 0)
+        },
+        i.prototype.dataStatistic = function(e) {
+            switch (e) {
+            case 0:
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面的【升级】按钮");
+                break;
+            case 1:
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面的【性格天赋】按钮");
+                break;
+            case 2:
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面的【学习力】按钮");
+                break;
+            case 3:
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面的【特性】按钮");
+                break;
+            case 4:
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面的【刻印】按钮");
+                break;
+            case 5:
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面的【技能】按钮");
+                break;
+            case 6:
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面的【抗性】按钮");
+                break;
+            case 7:
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面的【皮肤】按钮");
+                break;
+            case 8:
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面的【道具】按钮")
+            }
         },
         i.prototype.refreshUIOfViewAndMainPanel = function() {
             this.groupMarkLeftView.visible = 5 == this.curViewIndex,
@@ -3107,6 +3155,7 @@ function(e) {
                     function(t) {
                         return SocketConnection.sendByQueue(41467, [this.oldPetInfo.sortIndex, this.oldPetInfo.catchTime, n.catchTime],
                         function() {
+                            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "【更换】界面中成功更换精灵"),
                             i.changeFlag = !0,
                             PetManager.dispatchEvent(new PetEvent(PetEvent.STORAGE_ADDED, e.oldPetInfo.catchTime)),
                             e.hide()
@@ -3284,14 +3333,16 @@ function(e) {
                 id: t.item.id,
                 petInfo: this.petInfo,
                 onChangeFun: o ? null: function(t, r) {
-                    if (s) EventManager.dispatchEventWith(e.EventConst.SKILL_VIEW_CONFIRM_CHANGE_SKILL, !1, t),
+                    if (s) StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面技能页签处更换1次技能"),
+                    EventManager.dispatchEventWith(e.EventConst.SKILL_VIEW_CONFIRM_CHANGE_SKILL, !1, t),
                     a.hide(),
                     GuideManager.isCompleted() || 17835 != t || EventManager.dispatchEventWith("change_skill", !1, 17835);
                     else {
                         var o = ItemManager.getNumByID(Number(i));
                         if (o >= n) SocketConnection.sendWithPromise(41833, [a.petInfo.catchTime, t]).then(function(e) {
                             a.updateView(t),
-                            BubblerManager.getInstance().showText("恭喜你！成功获得技能：" + SkillXMLInfo.getName(t))
+                            BubblerManager.getInstance().showText("恭喜你！成功获得技能：" + SkillXMLInfo.getName(t)),
+                            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面技能页签处更换1次技能")
                         });
                         else {
                             if (h) return void BubblerManager.getInstance().showText("完成" + l + "后才可习得该技能哦！");
@@ -3751,6 +3802,7 @@ function(e) {
                 });
                 SocketConnection.sendByQueue(41445, [o.length].concat(o),
                 function() {
+                    StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面刻印页签处进行1次快捷分解"),
                     e.hide();
                     for (var t = 0,
                     n = i; t < n.length; t++) {
@@ -4303,6 +4355,7 @@ function(e) {
                 Alert.show(c,
                 function() {
                     return ItemManager.getNumByID(t.arrItem[1]) < l ? void BubblerManager.getInstance().showText("很抱歉，当前悲悯神石数量不足！") : ItemManager.getNumByID(t.arrItem[0]) <= 0 ? void BubblerManager.getInstance().showText("很抱歉，当前轮回神石数量不足！") : void SocketConnection.sendWithPromise(41450, [t.petInfo.catchTime, 1706926, o, 100, 100, 100, 100, 100, 100]).then(function() {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面抗性页签处进行1次普通更换抗性"),
                         EventManager.dispatchEventWith("UpdateExchangeResistance")
                     })
                 })
@@ -4423,6 +4476,7 @@ function(e) {
             0 == n.ExchangeCtrlCnt && " " == n.ExchangeCtrlSp && 0 == n.TargetCtrlCnt && " " == n.TargetCtrlSp && 0 == n.ExchangeWeakCnt && " " == n.ExchangeWeakSp && 0 == n.TargetWeakCnt && " " == n.TargetWeakSp ? Alert.show("你确定要对你的" + this.petInfo.name + "使用" + ItemXMLInfo.getName(t) + "吗？",
             function() {
                 SocketConnection.sendWithPromise(41450, [i.petInfo.catchTime, t, 0, 100, 100, 100, 100, 100, 100]).then(function() {
+                    StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面抗性页签处使用1次指定更换抗性道具"),
                     EventManager.dispatchEventWith("UpdateExchangeResistance")
                 })
             }) : PopViewManager.getInstance().openView(new e.ResistanceSettingPop(this.petInfo, n))
@@ -4848,6 +4902,7 @@ function(e) {
                 function() {
                     SocketConnection.sendByQueue(CommandID.RESISTANCE_HERT_RESET, [e.petInfo.catchTime, 1, 0],
                     function() {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面抗性页签处重置1次伤害抗性"),
                         e.updatePetInfo()
                     })
                 })
@@ -4861,6 +4916,7 @@ function(e) {
                 function() {
                     SocketConnection.sendByQueue(CommandID.RESISTANCE_EFF_RESET, [e.petInfo.catchTime, 1, 1, 0],
                     function() {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面抗性页签处重置1次异常抗性"),
                         e.updatePetInfo()
                     })
                 })
@@ -4890,6 +4946,7 @@ function(e) {
                         SocketConnection.sendByQueue(CommandID.RESISTANCE_UPGRADE_MORE, [e.petInfo.catchTime, 1, n[0], n[1]],
                         function() {
                             BubblerManager.getInstance().showText("本次注入了" + i + "个红宝石，" + ["致命", "固定", "百分比"][t - 1] + "伤害减免抗性得到了提升！"),
+                            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面抗性页签处强化1次伤害抗性"),
                             e.updatePetInfo()
                         })
                     }
@@ -4908,6 +4965,7 @@ function(e) {
                         SocketConnection.sendByQueue(CommandID.RESISTANCE_UPGRADE_MORE, [e.petInfo.catchTime, 1, o[0], o[1]],
                         function() {
                             BubblerManager.getInstance().showText("本次注入了" + i + "个红宝石，" + ["致命", "固定", "百分比"][t - 1] + "伤害减免抗性得到了提升！"),
+                            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面抗性页签处强化1次伤害抗性"),
                             e.updatePetInfo()
                         })
                     }
@@ -4927,6 +4985,7 @@ function(e) {
                         SocketConnection.sendByQueue(CommandID.RESISTANCE_UPGRADE_MORE, [e.petInfo.catchTime, 2, n[0], n[1]],
                         function() {
                             BubblerManager.getInstance().showText("本次注入了" + i + "个绿宝石，" + PetStatusEffectConfig.getName(0, e.petInfo.resistanceinfo[3 > t ? "ctl_" + (t + 1) + "_idx": "weak_" + (t - 2) + "_idx"]) + "抗性得到了提升，之后还可以注入" + (200 - e.petInfo.resistanceinfo.green_gem - i) + "个绿宝石"),
+                            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面抗性页签处强化1次异常抗性"),
                             e.updatePetInfo()
                         })
                     }
@@ -4943,6 +5002,7 @@ function(e) {
                         SocketConnection.sendByQueue(CommandID.RESISTANCE_UPGRADE_MORE, [e.petInfo.catchTime, 2, n[0], n[1]],
                         function() {
                             BubblerManager.getInstance().showText("本次注入了" + i + "个绿宝石，" + PetStatusEffectConfig.getName(0, e.petInfo.resistanceinfo[3 > t ? "ctl_" + (t + 1) + "_idx": "weak_" + (t - 2) + "_idx"]) + "抗性得到了提升，之后还可以注入" + (200 - e.petInfo.resistanceinfo.green_gem - i) + "个绿宝石"),
+                            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面抗性页签处强化1次异常抗性"),
                             e.updatePetInfo()
                         })
                     }
@@ -5188,6 +5248,7 @@ function(e) {
                 function() {
                     SocketConnection.sendByQueue(CommandID.SKILL_STONE_USE_ITEM, [i.petInfo.catchTime, i.stoneId, 0, t],
                     function() {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面技能页签处使用1次技能石"),
                         EventManager.dispatchEvent(new egret.Event(e.EventConst.PET_INFO_UPDATE, !1, !1, i.petInfo)),
                         i.hide()
                     })
@@ -5195,6 +5256,7 @@ function(e) {
             }
             this.petInfo.skillArray.length < 4 ? SocketConnection.sendByQueue(CommandID.SKILL_STONE_USE_ITEM, [this.petInfo.catchTime, this.stoneId, 0, t],
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面技能页签处使用1次技能石"),
                 EventManager.dispatchEvent(new egret.Event(e.EventConst.PET_INFO_UPDATE, !1, !1, i.petInfo)),
                 i.hide()
             }) : (PopViewManager.getInstance().openView(new e.SkillStoneChangePop(this.petInfo, this.stoneId, t)), this.hide())
@@ -5260,6 +5322,7 @@ function(e) {
                 function() {
                     SocketConnection.sendByQueue(CommandID.SKILL_STONE_COMPOSE_ITEM, e.arrAdd.slice(1, 5).slice(),
                     function(t) {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面技能页签处合成1次技能石");
                         for (var i = t.data,
                         n = i.readUnsignedInt(), r = (i.readUnsignedInt(), i.readUnsignedInt()), a = [], o = 0; r > o; o++) {
                             var s = i.readUnsignedInt(),
@@ -5469,11 +5532,13 @@ function(e) {
             ImageButtonUtil.add(this.btnClose, this.hide, this),
             ImageButtonUtil.add(this.btnSingleOpen,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面技能页签处单个开启1次技能石"),
                 e.openStone(1)
             },
             this),
             ImageButtonUtil.add(this.btnAllOpen,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面技能页签处全部开启1次技能石"),
                 e.openStone(ItemManager.getNumByID(e.selectId))
             },
             this)
@@ -5717,6 +5782,7 @@ function(e) {
         },
         i.prototype.useItem = function(e) {
             EventManager.once(ItemUseManager.EVENT_USE_ITEM_SUCCESSFUL, this.updatePetInfo, this),
+            1 == this.curIndex ? StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面道具页签处使用1次能量珠") : 2 == this.curIndex ? StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面道具页签处使用1次战斗道具") : 3 == this.curIndex && StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面道具页签处使用1次养成道具"),
             ItemUseManager.getInstance().useItem(this.petInfo, e)
         },
         i.prototype.updatePetInfo = function() {
@@ -5968,6 +6034,7 @@ function(e) {
             EventManager.dispatchEvent(new CountermarkEvent(CountermarkEvent.SKILL_SELECT, e))
         },
         i.prototype.showMarkDecomposePop = function() {
+            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面刻印页签的【快捷分解】按钮"),
             this.markDecomposePop = new e.MarkDecomposePop(this);
             var t = PopViewManager.createDefaultStyleObject();
             t.maskShapeStyle.maskAlpha = .7,
@@ -6057,6 +6124,7 @@ function(e) {
         },
         i.prototype.useItem = function(e) {
             EventManager.once(ItemUseManager.EVENT_USE_ITEM_SUCCESSFUL, this.updatePetInfo, this),
+            1 == this.curIndex ? StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面性格天赋页签处使用1次天赋养成的道具") : 2 == this.curIndex && StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面性格天赋页签处使用1次性格养成的道具"),
             ItemUseManager.getInstance().useItem(this.petInfo, e)
         },
         i.prototype.updatePetInfo = function() {
@@ -6108,17 +6176,20 @@ function(e) {
             function() {
                 ItemManager.getNumByID(1706826) <= 0 ? BubblerManager.getInstance().showText("泰坦神石数量不足！") : SocketConnection.sendByQueue(CommandID.RESISTANCE_OPEN, [t.petInfo.catchTime, 3],
                 function() {
+                    StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面抗性页签处开启1次抗性"),
                     t.updatePetInfo()
                 })
             },
             this),
             ImageButtonUtil.add(this.btnStrengthen,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面抗性页签的【强化抗性】按钮"),
                 PopViewManager.getInstance().openView(new e.ResistanceStrengthenPop(t.petInfo))
             },
             this),
             ImageButtonUtil.add(this.btnExchange,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面抗性页签的【更改抗性】按钮"),
                 PopViewManager.getInstance().openView(new e.ResistanceExchangePop(t.petInfo))
             },
             this)
@@ -6195,6 +6266,7 @@ function(e) {
                 function() {
                     SocketConnection.sendByQueue(CommandID.EFFECT_STRENGTHEN, [t.petInfo.catchTime],
                     function(e) {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面特性页签处进行1次特性强化"),
                         t.updatePetInfo(),
                         1 === e.data.readUnsignedInt() ? BubblerManager.getInstance().showText("恭喜你，特性强化成功！" + t.petInfo.name + "的特性效果提升了！") : BubblerManager.getInstance().showText("很遗憾，强化失败了，请继续努力。")
                     })
@@ -6302,6 +6374,7 @@ function(e) {
         },
         i.prototype.useItem = function(e) {
             EventManager.once(ItemUseManager.EVENT_USE_ITEM_SUCCESSFUL, this.updatePetInfo, this),
+            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面特性页签处使用1次特性调整的道具"),
             ItemUseManager.getInstance().useItem(this.petInfo, e)
         },
         i.prototype.updatePetInfo = function() {
@@ -6351,16 +6424,19 @@ function(e) {
             egret.lifecycle.stage.addEventListener(egret.TouchEvent.TOUCH_END, this.onMouseUp, this),
             ImageButtonUtil.add(this.btnCompose,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面技能页签的【合成技能石】按钮"),
                 PopViewManager.getInstance().openView(new e.SkillStoneComposePop)
             },
             this),
             ImageButtonUtil.add(this.btnOpen,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面技能页签的【开启技能石】按钮"),
                 PopViewManager.getInstance().openView(new e.SkillStoneOpenPop)
             },
             this),
             ImageButtonUtil.add(this.btnUse,
             function() {
+                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击养成界面技能页签的【使用技能石】按钮"),
                 PopViewManager.getInstance().openView(new e.SkillStoneUsePop(t.petInfo))
             },
             this),
@@ -6531,6 +6607,7 @@ function(e) {
                 var i = t.arrayCollection.getItemAt(t.selectSkinIndex);
                 t.petInfo.skinId != i.id && PetManager.equipSkin(t.petInfo.catchTime, i.id,
                 function() {
+                    StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面皮肤页签处更换1次皮肤"),
                     EventManager.dispatchEvent(new egret.Event(e.EventConst.PET_INFO_UPDATE, !1, !1, t.petInfo))
                 })
             },
@@ -6624,6 +6701,7 @@ function(e) {
                     i = 0; 6 > i; i++) t.writeUnsignedInt( + e["txtStudy" + i].text);
                     SocketConnection.sendByQueue(45720, [e.petInfo.catchTime, t],
                     function() {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面学习力页签处进行1次学习力分配"),
                         e.resetStudy(),
                         e.updatePetInfo()
                     })
@@ -6713,6 +6791,7 @@ function(e) {
         },
         i.prototype.useItem = function(e) {
             EventManager.once(ItemUseManager.EVENT_USE_ITEM_SUCCESSFUL, this.updatePetInfo, this),
+            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面学习力页签处使用1次道具分配的道具"),
             ItemUseManager.getInstance().useItem(this.petInfo, e)
         },
         i.prototype.updatePetInfo = function() {
@@ -6789,6 +6868,7 @@ function(e) {
                 function() {
                     SocketConnection.sendByQueue(CommandID.PET_SET_EXP, [t.petInfo.catchTime, t.upLevelOneNeedExp],
                     function() {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面升级页签处完成1次升级"),
                         EventManager.dispatchEvent(new egret.Event(e.EventConst.PET_INFO_UPDATE, !1, !1, t.petInfo))
                     })
                 })
@@ -6800,6 +6880,7 @@ function(e) {
                 function() {
                     SocketConnection.sendByQueue(CommandID.PET_SET_EXP, [t.petInfo.catchTime, t.upLevelMaxNeedExp],
                     function() {
+                        StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面升级页签处完成1次升级"),
                         EventManager.dispatchEvent(new egret.Event(e.EventConst.PET_INFO_UPDATE, !1, !1, t.petInfo))
                     })
                 })
@@ -6824,6 +6905,7 @@ function(e) {
                     function() {
                         SocketConnection.sendByQueue(CommandID.EXT_EXP_TICK, [n, r],
                         function(e) {
+                            StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面升级页签处成功兑换经验券");
                             var i = e.data.readUnsignedInt();
                             BubblerManager.getInstance().showText(i + "点<font color='#ff0000'>积累经验</font>已存入你的经验分配器中。", !0),
                             t.updatePetInfo()
@@ -6927,6 +7009,7 @@ function(e) {
         },
         i.prototype.useItem = function(e) {
             EventManager.once(ItemUseManager.EVENT_USE_ITEM_SUCCESSFUL, this.updatePetInfo, this),
+            2 == this.curIndex ? StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面升级页签处使用1次道具升级的道具") : 3 == this.curIndex && StatLogger.log("20240705版本系统功能", "20240705精灵背包", "养成界面升级页签处使用1次体力养成的道具"),
             ItemUseManager.getInstance().useItem(this.petInfo, e)
         },
         i.prototype.updatePetInfo = function() {

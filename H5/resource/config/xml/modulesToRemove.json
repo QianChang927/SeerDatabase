@@ -7516,11 +7516,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【14周年庆】霍光的武器库",
-                "moduleName": "app/BaseStationOfFileArrangeMainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【14周年庆】NoNo皮肤回归",
                 "moduleName": "app/NONOSkinSpecialOfferMianPanel",
                 "tip": "活动已结束"
@@ -7538,11 +7533,6 @@
             {
                 "name": "【14周年庆】14周年庆冠名刻印售卖",
                 "moduleName": "app/Anniversary14thMarkSaleMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【14周年庆】穹明号的养护工作",
-                "moduleName": "app/CommemorativeCoinGetDMainPanel",
                 "tip": "活动已结束"
             },
             {
@@ -7598,11 +7588,6 @@
             {
                 "name": "【20230728】仲夏夜的美食家",
                 "moduleName": "app/MidsummerFestivalGoToMapPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20230804】畅游赛尔乐园",
-                "moduleName": "app/AmusementParkThemeMainPanel",
                 "tip": "活动已结束"
             },
             {
@@ -8441,11 +8426,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20240126】冬日特惠宝箱",
-                "moduleName": "app/ElevenDoubleGiftBagMainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20240126】冬令营主题活动",
                 "moduleName": "app/WinterCampGoToMapMap",
                 "tip": "活动已结束"
@@ -8591,11 +8571,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20240315】圣殿英雄团全员回归",
-                "moduleName": "app/TempleHeroAltarPreAllBackPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20240315】奇妙植树节",
                 "moduleName": "app/ArborDayActivityMainGoToMapPanel",
                 "tip": "活动已结束"
@@ -8613,11 +8588,6 @@
             {
                 "name": "【20240322】重返盖伦",
                 "moduleName": "app/GaiLunXingXiGoToMapPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20240322】艾欧丽娅 战力觉醒",
-                "moduleName": "app/AoliaFeatureUpgradeMainPanel",
                 "tip": "活动已结束"
             },
             {
@@ -8716,11 +8686,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20240426】经典刻印限时回归",
-                "moduleName": "app/MarkLimitedReturnMainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20240426】阿尔法熊特训",
                 "moduleName": "app/AlphaBearLimitedTimeUpMainPanel",
                 "tip": "活动已结束"
@@ -8813,6 +8778,196 @@
             {
                 "name": "【20240607】惊异马戏团",
                 "moduleName": "app/FuliCollectionPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240302】寒假签到精灵",
+                "moduleName": "app/SummerHolidaySign2023",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】总集合面板",
+                "moduleName": "app/Anniversary15thActivityEnterPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】活动主界面",
+                "moduleName": "app/Anniversary15thActivityMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】荣誉挑战",
+                "moduleName": "app/Anniversary15thActivityTaskPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】活动商店",
+                "moduleName": "app/Anniversary15thActivityShopPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】剧情模块",
+                "moduleName": "app/Anniversary15thActivityMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】地底探险",
+                "moduleName": "app/AbyssExplorationEnterPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】栽培绒绒菊",
+                "moduleName": "app/ZaiPeiRRJMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】惊喜活动",
+                "moduleName": "app/WishlistByPetMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】山谷勘探",
+                "moduleName": "app/ValleyExpeditionHatchMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】精灵蛋孵化",
+                "moduleName": "app/ValleyExpeditionHatchS2Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】遗迹石大鉴定",
+                "moduleName": "app/JiuLiNaOfStoneShopMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】宇宙之声",
+                "moduleName": "app/TheVoiceOfTheUniverseMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】世界BOSS噩梦占卜",
+                "moduleName": "app/WorldBOSSNightmareDivination15thMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】派特的研究",
+                "moduleName": "app/PatsResearchOf15thMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】付费活动集合",
+                "moduleName": "app/ZaiPeiRRJMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】莱达神祇返场",
+                "moduleName": "app/LedaGodReturnsMianPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】刻印奖池",
+                "moduleName": "app/MarkJackpotTimeLimitMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】混元天尊史诗皮肤",
+                "moduleName": "app/TianZunSkinSellMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】刻印解绑",
+                "moduleName": "app/MarkRecallEnterPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】二代刻印宝石售卖",
+                "moduleName": "app/SalesSecondMarkgemstones15thMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】罗开的折扣商店",
+                "moduleName": "app/LuoKaiShop20220722MainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】精灵心愿单",
+                "moduleName": "app/WishlistByPetMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】装扮心愿单",
+                "moduleName": "app/WishlistByEquipMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】皮肤心愿单",
+                "moduleName": "app/WishlistBySkinMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】齿轮与繁星",
+                "moduleName": "app/GearAndStarPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】蓓丽安特克雷弗德皮肤售卖",
+                "moduleName": "app/AnniversaryLimitSkinSalesMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】群星的复调系列皮肤售卖",
+                "moduleName": "app/QunXingSkinSellMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】周年庆冠名刻印售卖",
+                "moduleName": "app/Anniversary15thActivityMarkPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】周年庆宣传页1",
+                "moduleName": "app/Anniversary15thYuRePop1",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】周年庆宣传页2",
+                "moduleName": "app/Anniversary15thYuRePop2",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】周年庆宣传页3",
+                "moduleName": "app/Anniversary15thYuRePop3",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】周年庆宣传页4",
+                "moduleName": "app/Anniversary15thYuRePop4",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】启灵元神的祈福",
+                "moduleName": "app/BlessOfQLYSMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240705】精灵抗性的新研究",
+                "moduleName": "app/ResistanceItemShop",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240712】莫塔里安回归",
+                "moduleName": "app/MoTaLiAnChallengeEnter",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240719】15周年庆周边礼盒放送",
+                "moduleName": "app/Seer15thAnniversaryHelpsGetGiftMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20240719】异元时空 限时返场",
+                "moduleName": "app/YiYuanShiKongSkinSellPanel",
                 "tip": "活动已结束"
             },
             {

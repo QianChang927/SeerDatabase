@@ -240,7 +240,7 @@ function(t) {
                         },
                         g)
                     },
-                    g = this, l = 0; l < n.length; l++) h(l);
+                    g = this, u = 0; u < n.length; u++) h(u);
                     this.redPoint.visible = this.redShowArr.indexOf(1) > -1,
                     5 == this._cfg.id && (this.redPoint.visible = this.redShowArr.indexOf(1) > -1 && !(!MainManager.actorInfo.teamInfo || 0 == MainManager.actorInfo.teamInfo.id))
                 }
@@ -490,14 +490,8 @@ function(t) {
             this.updateBatteryTimer()
         },
         i.prototype.updateBatteryTimer = function() {
-            var t = BatteryController.Instance.leftTime;
-            if (0 >= t) this.txtBattery.text = "00:00";
-            else {
-                var e = Math.floor(t / 3600),
-                i = Math.floor(t / 60) % 60;
-                this.txtBattery.text = core.gameUtil.addLeadingZero(e) + ":" + core.gameUtil.addLeadingZero(i)
-            }
-            this.setEnergy(Math.ceil(t / 60))
+            this.txtBattery.text = "100%",
+            this.setEnergy()
         },
         i.prototype.setMapName = function(t) {
             this.txtMapName.text = t
@@ -547,7 +541,7 @@ function(t) {
         i.prototype.initMainIcon = function() {
             return __awaiter(this, void 0, void 0,
             function() {
-                var e, i, n, o, a, r, s, e, h, g, l, e, u, c, _;
+                var e, i, n, o, a, r, s, e, h, g, u, e, l, c, _;
                 return __generator(this,
                 function(d) {
                     switch (d.label) {
@@ -567,21 +561,21 @@ function(t) {
                         for (r = d.sent(), ToolBarManager.isNewSeerIconShow = a, ToolBarManager.isNewSeerIconShow || EventManager.dispatchEventWith("NewSeerDoneTask"), o = [], s = n.filter(function(t) {
                             return t.truepos > 0
                         }), e = 0; e < s.length; e++) h = s[e],
-                        (!IS_RELEASE || h.isshow) && (h.isdeadline && (g = new Date(h.finishtime.replace(/_/g, "/")).getTime(), l = SystemTimerManager.sysBJDate.getTime(), l >= g) || "至尊年费" == h.name && GameInfo.isChecking || ("新手福利" != h.name || a) && ("老兵回归" != h.name || r) && (GameInfo.isChecking ? ("星愿好礼" == h.name || "老兵回归" == h.name) && o.push(h) : o.push(h)));
+                        (!IS_RELEASE || h.isshow) && (h.isdeadline && (g = new Date(h.finishtime.replace(/_/g, "/")).getTime(), u = SystemTimerManager.sysBJDate.getTime(), u >= g) || "至尊年费" == h.name && GameInfo.isChecking || ("新手福利" != h.name || a) && ("老兵回归" != h.name || r) && (GameInfo.isChecking ? ("星愿好礼" == h.name || "老兵回归" == h.name) && o.push(h) : o.push(h)));
                         for (o.filter(function(t) {
                             return null != t
                         }), o.sort(function(t, e) {
                             return t.priority - e.priority
-                        }), e = 0; e < o.length; e++) u = new t.MainActButton(o[e]),
-                        u.name = o[e].name,
-                        u.anchorOffsetX = u.width / 2,
-                        u.anchorOffsetY = u.height / 2,
+                        }), e = 0; e < o.length; e++) l = new t.MainActButton(o[e]),
+                        l.name = o[e].name,
+                        l.anchorOffsetX = l.width / 2,
+                        l.anchorOffsetY = l.height / 2,
                         c = Math.floor(e / 6),
                         _ = e % 6,
-                        u.x = 5 + 78 * c + u.anchorOffsetX,
-                        u.y = 130 + 73 * _ + u.anchorOffsetY,
-                        this.grpTop.addChild(u),
-                        this._iconList.push(u);
+                        l.x = 5 + 78 * c + l.anchorOffsetX,
+                        l.y = 130 + 73 * _ + l.anchorOffsetY,
+                        this.grpTop.addChild(l),
+                        this._iconList.push(l);
                         return this.updateLeftMenuRedDot(),
                         2 == this.leftMenuState ? this.hideLeftMenu(!0) : this.leftMenuState || (this.leftMenuState = 1, this.btnHideLeftMenu.visible = !0, this.btnShowLeftMenu.visible = !1),
                         [2]
@@ -676,9 +670,8 @@ function(t) {
             StatLogger.log("20210930版本系统功能", "主界面优化", "点击【基地】按钮"),
             RoomManager.changeRoom(MainManager.actorID)
         },
-        i.prototype.setEnergy = function(t) {
-            var e = t;
-            0 === e ? this.iconBatteryValue.source = null: e >= 1 && 100 >= e ? this.iconBatteryValue.source = "main_iconBattery1_png": e >= 101 && 200 >= e ? this.iconBatteryValue.source = "main_iconBattery2_png": e >= 201 && 300 >= e && (this.iconBatteryValue.source = "main_iconBattery3_png")
+        i.prototype.setEnergy = function() {
+            this.iconBatteryValue.source = "main_iconBattery3_png"
         },
         i.prototype.onChangeHead = function(t) {
             this.avatarIcon.setData({

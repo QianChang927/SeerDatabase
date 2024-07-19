@@ -261,28 +261,6 @@ function(e) {
                 e)
             },
             this),
-            ImageButtonUtil.add(this.btnOne,
-            function() {
-                var t = 50 - e._enegyIn_0,
-                i = 50 - e._enegyIn_1;
-                return 0 == t && 0 == i ? void Alarm.show("您已经集齐了所需能量！") : void PayManager.doPayFunc(function() {
-                    KTool.buyProductByCallback(252733, t,
-                    function() {
-                        SocketConnection.sendByQueue(46320, [53, t],
-                        function() {
-                            KTool.buyProductByCallback(252734, i,
-                            function() {
-                                SocketConnection.sendByQueue(46320, [54, i],
-                                function() {
-                                    e.updateData()
-                                })
-                            })
-                        })
-                    })
-                },
-                e)
-            },
-            this),
             ImageButtonUtil.add(this.btnIn,
             function() {
                 return e._enegyWide_0 < 50 || e._enegyWide_1 < 50 ? void Alarm.show("需要获得50点惩戒能量和50点狂热能量之后才能注入哦！") : void SocketConnection.sendByQueue(46320, [50, 0],
@@ -297,7 +275,7 @@ function(e) {
                 function() {
                     Alarm.show("进化成功",
                     function() {
-                        e.onClose()
+                        e.updateData()
                     })
                 }) : PetManager.isDefaultPet(122) ? Alarm.show("请先提升精灵达尔等级，使之进化为希露达形态") : Alarm.show("请先将希路达设为首发！",
                 function() {
@@ -331,8 +309,17 @@ function(e) {
             i = this, n = 0; 6 > n; n++) t(n);
             ImageButtonUtil.add(this.btnGo,
             function() {
-                e.onClose(),
                 ModuleManager.showModuleByID(83)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGo1,
+            function() {
+                ModuleManager.showModuleByID(93)
+            },
+            this),
+            ImageButtonUtil.add(this.btnGo2,
+            function() {
+                ModuleManager.showModuleByID(94)
             },
             this),
             EventManager.addEventListener(PetFightEvent.ALARM_CLICK, this.updateData, this);
@@ -352,7 +339,7 @@ function(e) {
         },
         t.prototype.updateData = function() {
             var e = this;
-            KTool.getMultiValue([104122, 104123, 104124, 104125, 104126, 16685],
+            KTool.getMultiValue([104122, 104123, 104124, 104125, 104126, 16685, 121871],
             function(t) {
                 e._inited && e.addEnegy(t),
                 e._inited = !0,
@@ -362,6 +349,7 @@ function(e) {
                 e._enegyIn_1 = t[3],
                 e._fightTimes = t[4],
                 e._dailyState = t[5],
+                e._zhuruNum = t[6],
                 KTool.getBitSet([9712],
                 function(t) {
                     e._petState = t[0],
@@ -389,14 +377,19 @@ function(e) {
             this.btnIn.visible = !this._fightTimes && !e,
             this.grp_getEnegy.visible = !(this._fightTimes || e || this.grp_punishment.visible || this.grp_fanatical.visible),
             this.btnEvo.visible = this.btnBalance.visible = this.grp_final.visible = !!this._fightTimes || e,
-            this.txt_fightTimes.text = "今日剩余挑战次数：" + this._fightTimes;
+            this.txt_fightTimes.text = "剩余挑战次数：" + this._fightTimes;
             for (var t = 0; 6 > t; t++) this["flag_done_" + t].visible = !!KTool.getBit(this._dailyState, t + 1),
             this["btnFight_" + t].visible = !KTool.getBit(this._dailyState, t + 1);
-            this._fightTimes || e ? (this.pb_0.value = this.pb_1.value = 50, this.txt_enegy_0.text = this._enegyIn_0 + "", this.txt_enegy_1.text = this._enegyIn_1 + "") : (this.pb_0.value = this._enegyWide_0, this.pb_1.value = this._enegyWide_1, this.txt_enegy_0.text = this._enegyWide_0 + "", this.txt_enegy_1.text = this._enegyWide_1 + ""),
-            DisplayUtil.setEnabled(this.btnBalance, 0 == this._petState && !e, 0 != this._petState || e),
-            DisplayUtil.setEnabled(this.btnEvo, 0 == this._petState, 0 != this._petState),
-            DisplayUtil.setEnabled(this.btnFightFinal_0, !e, e),
-            DisplayUtil.setEnabled(this.btnFightFinal_1, !e, e)
+            this.grp_txShow.visible = !1,
+            this.imgInit.visible = !1,
+            this.btnIn.visible = !1,
+            this.imgDone.visible = !1,
+            this.btnEvo.visible = !1,
+            this.btnBalance.visible = !1,
+            this.grp_tuijian.visible = !1,
+            DisplayUtil.setEnabled(this.btnFightFinal_0, !1, !0),
+            DisplayUtil.setEnabled(this.btnFightFinal_1, !1, !0),
+            0 == this._fightTimes && 0 == this._enegyIn_0 ? (this.pb_0.value = this._enegyWide_0, this.pb_1.value = this._enegyWide_1, this.txt_enegy_0.text = this._enegyWide_0 + "", this.txt_enegy_1.text = this._enegyWide_1 + "", this._enegyWide_0 >= 50 && this._enegyWide_1 >= 50 ? this.btnIn.visible = !0 : this.imgInit.visible = !0) : (this.pb_0.value = this.pb_1.value = 50, this.txt_enegy_0.text = this._enegyIn_0 + "", this.txt_enegy_1.text = this._enegyIn_1 + "", e ? this._petState > 0 ? (this.imgDone.visible = !0, this.grp_tuijian.visible = !0, this.grp_final.visible = !1) : this.btnEvo.visible = !0 : (this._enegyIn_0 > this._enegyIn_1 && DisplayUtil.setEnabled(this.btnFightFinal_1, !0, !1), this._enegyIn_0 < this._enegyIn_1 && DisplayUtil.setEnabled(this.btnFightFinal_0, !0, !1), this.btnBalance.visible = !0, this.grp_txShow.visible = !0, this.txtNum.visible = !1, this.txtSuccse.visible = !1, this._zhuruNum >= 30 ? this.txtSuccse.visible = !0 : (this.txtNum.text = "已尝试平衡能量" + this._zhuruNum + "/30 次", this.txtNum.visible = !0)))
         },
         t.prototype.showPop = function(e) {
             this.grp_getEnegy.visible = !1;
@@ -1172,10 +1165,10 @@ generateEUI.skins = {},
 generateEUI.paths["resource/eui_skins/PveEncarloseEvoViewSkin.exml"] = window.PveEncarloseEvoViewSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["btnIn", "btnOne", "btnEvo", "btnBalance", "txt_enegy_1", "txt_enegy_0", "pb_1", "pb_0", "btnFast_1", "btnGo_1", "btnFast_0", "btnGo_0", "btnGo", "grp_getEnegy", "btnFightFinal_1", "btnFightFinal_0", "imgBtn_pet_2", "imgBtn_cure_2", "txt_fightTimes", "grp_final", "_rect", "imgBtn_pet_0", "imgBtn_cure_0", "btnFight_2", "flag_done_2", "btnFight_1", "flag_done_1", "btnFight_0", "flag_done_0", "grp_punishment", "imgBtn_pet_1", "imgBtn_cure_1", "txt_intro_2", "btnFight_5", "flag_done_5", "txt_intro_1", "btnFight_4", "flag_done_4", "txt_intro_0", "btnFight_3", "flag_done_3", "grp_fanatical"],
+        this.skinParts = ["btnIn", "imgTxBg", "txtNum", "txtSuccse", "grp_txShow", "imgDone", "btnEvo", "btnBalance", "imgInit", "txt_enegy_1", "txt_enegy_0", "pb_1", "pb_0", "btnFast_1", "btnGo_1", "btnFast_0", "btnGo_0", "btnGo", "grp_getEnegy", "btnFightFinal_1", "btnFightFinal_0", "imgBtn_pet_2", "imgBtn_cure_2", "txt_fightTimes", "grp_final", "_rect", "imgBtn_pet_0", "imgBtn_cure_0", "btnFight_2", "flag_done_2", "btnFight_1", "flag_done_1", "btnFight_0", "flag_done_0", "grp_punishment", "imgBtn_pet_1", "imgBtn_cure_1", "txt_intro_2", "btnFight_5", "flag_done_5", "txt_intro_1", "btnFight_4", "flag_done_4", "txt_intro_0", "btnFight_3", "flag_done_3", "grp_fanatical", "btnGo2", "btnGo1", "grp_tuijian"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnIn_i(), this.btnOne_i(), this.btnEvo_i(), this.btnBalance_i(), this._Image3_i(), this._Image4_i(), this._Image5_i(), this.txt_enegy_1_i(), this._Image6_i(), this.txt_enegy_0_i(), this._Group1_i(), this.grp_getEnegy_i(), this.grp_final_i(), this._rect_i(), this.grp_punishment_i(), this.grp_fanatical_i()]
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnIn_i(), this.grp_txShow_i(), this.imgDone_i(), this.btnEvo_i(), this.btnBalance_i(), this.imgInit_i(), this._Image3_i(), this._Image4_i(), this._Image5_i(), this.txt_enegy_1_i(), this._Image6_i(), this.txt_enegy_0_i(), this._Group1_i(), this.grp_getEnegy_i(), this.grp_final_i(), this._rect_i(), this.grp_punishment_i(), this.grp_fanatical_i(), this.grp_tuijian_i()]
     }
     __extends(t, e);
     var i = function(e) {
@@ -1236,44 +1229,90 @@ generateEUI.paths["resource/eui_skins/PveEncarloseEvoViewSkin.exml"] = window.Pv
     _.btnIn_i = function() {
         var e = new eui.Image;
         return this.btnIn = e,
-        e.height = 77,
         e.source = "pve_encarlose_evo_view_btnIn_png",
-        e.width = 275,
         e.x = 253,
         e.y = 510,
         e
     },
-    _.btnOne_i = function() {
+    _.grp_txShow_i = function() {
+        var e = new eui.Group;
+        return this.grp_txShow = e,
+        e.x = 244,
+        e.y = 583,
+        e.elementsContent = [this.imgTxBg_i(), this.txtNum_i(), this.txtSuccse_i()],
+        e
+    },
+    _.imgTxBg_i = function() {
         var e = new eui.Image;
-        return this.btnOne = e,
-        e.height = 77,
-        e.source = "pve_encarlose_evo_view_btnOne_png",
-        e.visible = !1,
-        e.width = 275,
-        e.x = 379,
-        e.y = 510,
+        return this.imgTxBg = e,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.source = "pve_encarlose_evo_view_powerbg_23232_png",
+        e.x = -11,
+        e.y = 7,
+        e
+    },
+    _.txtNum_i = function() {
+        var e = new eui.Label;
+        return this.txtNum = e,
+        e.anchorOffsetX = 0,
+        e.fontFamily = "MFShangHei",
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.size = 20,
+        e.text = "已尝试平衡能量XX/30 次",
+        e.textColor = 15850809,
+        e.width = 220,
+        e.x = 27,
+        e.y = 15,
+        e
+    },
+    _.txtSuccse_i = function() {
+        var e = new eui.Label;
+        return this.txtSuccse = e,
+        e.fontFamily = "MFShangHei",
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.size = 20,
+        e.text = "下次平衡能量必定成功！",
+        e.textColor = 15850809,
+        e.x = 23,
+        e.y = 15,
+        e
+    },
+    _.imgDone_i = function() {
+        var e = new eui.Image;
+        return this.imgDone = e,
+        e.source = "pve_encarlose_evo_view_imgedone_png",
+        e.x = 213,
+        e.y = 535,
         e
     },
     _.btnEvo_i = function() {
         var e = new eui.Image;
         return this.btnEvo = e,
-        e.height = 77,
         e.source = "pve_encarlose_evo_view_btnEvo_png",
         e.visible = !1,
-        e.width = 275,
-        e.x = 127,
+        e.x = 253,
         e.y = 510,
         e
     },
     _.btnBalance_i = function() {
         var e = new eui.Image;
         return this.btnBalance = e,
-        e.height = 77,
         e.source = "pve_encarlose_evo_view_btnBalance_png",
         e.visible = !1,
-        e.width = 275,
-        e.x = 379,
+        e.x = 253,
         e.y = 510,
+        e
+    },
+    _.imgInit_i = function() {
+        var e = new eui.Image;
+        return this.imgInit = e,
+        e.source = "pve_encarlose_evo_view_imginit_png",
+        e.visible = !1,
+        e.x = 121,
+        e.y = 536,
         e
     },
     _._Image3_i = function() {
@@ -1388,6 +1427,7 @@ generateEUI.paths["resource/eui_skins/PveEncarloseEvoViewSkin.exml"] = window.Pv
         return this.grp_getEnegy = e,
         e.height = 609,
         e.right = 0,
+        e.visible = !1,
         e.width = 393,
         e.y = 15,
         e.elementsContent = [this._Group2_i(), this._Group3_i(), this._Group4_i()],
@@ -1723,7 +1763,7 @@ generateEUI.paths["resource/eui_skins/PveEncarloseEvoViewSkin.exml"] = window.Pv
         e.fontFamily = "HuaKangXinZongYi",
         e.lineSpacing = 3,
         e.size = 18,
-        e.text = "今日剩余挑战次数：8",
+        e.text = "剩余挑战次数：8",
         e.textColor = 13958091,
         e.touchEnabled = !1,
         e.x = 17,
@@ -2487,6 +2527,76 @@ generateEUI.paths["resource/eui_skins/PveEncarloseEvoViewSkin.exml"] = window.Pv
         e.width = 349,
         e.x = 19,
         e.y = 541,
+        e
+    },
+    _.grp_tuijian_i = function() {
+        var e = new eui.Group;
+        return this.grp_tuijian = e,
+        e.right = 0,
+        e.visible = !1,
+        e.y = 1,
+        e.elementsContent = [this._Image45_i(), this._Image46_i(), this._Image47_i(), this._Image48_i(), this._Image49_i(), this._Label36_i(), this.btnGo2_i(), this.btnGo1_i()],
+        e
+    },
+    _._Image45_i = function() {
+        var e = new eui.Image;
+        return e.source = "pve_encarlose_evo_view_rightbg2_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    _._Image46_i = function() {
+        var e = new eui.Image;
+        return e.source = "pve_encarlose_evo_view_line1_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    _._Image47_i = function() {
+        var e = new eui.Image;
+        return e.source = "pve_encarlose_evo_view_imgetuijian2_png",
+        e.x = 16,
+        e.y = 371,
+        e
+    },
+    _._Image48_i = function() {
+        var e = new eui.Image;
+        return e.source = "pve_encarlose_evo_view_imgetuijian1_png",
+        e.x = 16,
+        e.y = 99,
+        e
+    },
+    _._Image49_i = function() {
+        var e = new eui.Image;
+        return e.source = "pve_encarlose_evo_view_line_png",
+        e.x = 19,
+        e.y = 80,
+        e
+    },
+    _._Label36_i = function() {
+        var e = new eui.Label;
+        return e.fontFamily = "REEJI",
+        e.size = 20,
+        e.text = "当前推荐",
+        e.textColor = 16777215,
+        e.x = 155,
+        e.y = 54,
+        e
+    },
+    _.btnGo2_i = function() {
+        var e = new eui.Image;
+        return this.btnGo2 = e,
+        e.source = "pve_encarlose_evo_view_imgebtngo1_png",
+        e.x = 244,
+        e.y = 555,
+        e
+    },
+    _.btnGo1_i = function() {
+        var e = new eui.Image;
+        return this.btnGo1 = e,
+        e.source = "pve_encarlose_evo_view_imgebtngo1_png",
+        e.x = 244,
+        e.y = 283,
         e
     },
     t

@@ -126,20 +126,20 @@ function(e, t) {
 },
 peakJihadFirstPage; !
 function(e) {
-    var t = function(e) {
-        function t() {
-            var t = e.call(this) || this;
-            return t._isclick = !1,
-            t.timeArr = [60, 150, 300, 480, 720, 1080, 1500, 1800],
-            t.skinName = PeakJihadLeisureModeSkin,
-            t
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e._isclick = !1,
+            e.timeArr = [60, 150, 300, 480, 720, 1080, 1500, 1800],
+            e.skinName = PeakjihadSportsModeSkin,
+            e
         }
-        return __extends(t, e),
-        t.prototype.childrenCreated = function() {
-            var t = this;
-            e.prototype.childrenCreated.call(this),
-            this.initBtnClose("peakjihad_leisure_mode_title_png", this),
-            e.prototype.initBtnHelp.call(this,
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this),
+            this.initBtnClose("peakjihad_sports_mode_title_png", this),
+            t.prototype.initBtnHelp.call(this,
             function() {
                 var e = {};
                 e.titleSource = RES.getRes("PeakJihad_rule_title_png"),
@@ -157,143 +157,188 @@ function(e) {
                 }],
                 tipsPop.TipsPop.openMulitHelpPop(e)
             },
-            this),
+            this);
+            var n = egret.lifecycle.stage.stageWidth / 1136;
+            this.bgGroup0.scaleX = this.bgGroup0.scaleY = 1 * n,
+            this.icon0.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId1),
+            this.icon1.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId2),
             this.adaptBgByScale(this.bg),
-            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breakLineSynchronizedData, this),
-            ImageButtonUtil.add(this.ima3, this.match, this, !1),
-            ImageButtonUtil.add(this.ima6,
+            this.leftGroup.left = Math.max(DeviceInfoManager.adapterOffSetX, 11),
+            this.rightGroup.right = DeviceInfoManager.adapterOffSetX,
+            this.spine = SpineUtil.createAnimate("2024dianfeng"),
+            SpineUtil.play(this.spine, "standby", this.bgGroup, null, this, 0),
+            this.spine1 = SpineUtil.createAnimate("2024dianfengbg"),
+            SpineUtil.play(this.spine1, "standby", this.bgGroup0, null, this, 0),
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateItemNums, this),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breaklineSynchronizedData, this),
+            EventManager.addEventListener(PeakJihadController.PeakJihadController_GET_LADDER_REWARD, this.updateDot, this),
+            this._list.itemRenderer = e.PeakjihadSportsModePet,
+            this.updateItemNums(),
+            ImageButtonUtil.add(this.icon0,
             function() {
-                PetManager.updateBagInfo(function() {
-                    t.startMatch()
+                var e = {};
+                e.id = PeakJihadController.itemId1,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.icon1,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId2,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.task,
+            function() {
+                ModuleManager.showModuleByID(211, {
+                    type: 2
+                },
+                AppDoStyle.HIDEN)
+            },
+            this),
+            ImageButtonUtil.add(this.btnJiangli,
+            function() {
+                ModuleManager.showModuleByID(211, {
+                    type: 1
+                },
+                AppDoStyle.HIDEN)
+            },
+            this),
+            this._list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.touchPet, this),
+            ImageButtonUtil.add(this.suit,
+            function() {
+                ModuleManager.showModuleByID(27)
+            },
+            this),
+            ImageButtonUtil.add(this.reward,
+            function() {
+                PopViewManager.getInstance().openView(new e.PeakJihadLadderReward, null)
+            },
+            this),
+            ImageButtonUtil.add(this.btnMatch,
+            function() {
+                PeakJihadController.isBird ? Alert.show("您当前未解锁竞技模式，通关巅峰初阶试炼后可解锁，是否需要前往？",
+                function() {
+                    ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain", AppDoStyle.HIDEN)
+                }) : PetManager.updateBagInfo(function() {
+                    i.startMatch()
                 })
             },
-            this, !1),
-            ImageButtonUtil.add(this.imaTest,
+            this),
+            ImageButtonUtil.add(this.achieve,
             function() {
-                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain")
+                PopViewManager.getInstance().openView(new e.PeakJihadLadderAchieveReward)
             },
-            this, !1),
-            ImageButtonUtil.add(this.none,
-            function() {
-                BubblerManager.getInstance().showText("敬请期待")
-            },
-            this, !1)
+            this),
+            this.update()
         },
-        t.prototype.match = function() {
-            return __awaiter(this, void 0, void 0,
-            function() {
-                var e, t = this;
-                return __generator(this,
-                function(i) {
-                    switch (i.label) {
-                    case 0:
-                        return [4, this.checkReward()];
-                    case 1:
-                        return (e = i.sent()) ? (KTool.getMultiValue([16625, 100689, 16626],
-                        function(e) {
-                            if (e[0] > 0 || e[1] > 0) {
-                                var i = SystemTimerManager.time;
-                                if (e[0] > 0 || e[1] > 0) {
-                                    var n = 0;
-                                    e[0] > 0 && (n = e[0] + t.timeArr[Math.min(e[2], t.timeArr.length - 1)]),
-                                    e[0] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
-                                    function() {
-                                        t.next1()
-                                    }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
-                                }
-                            } else PetManager.updateBagInfo(function() {
-                                PeakJihadController.getFristBagALLPetLvIsFull2() ? t.next1() : Alarm.show("请在出战背包内放入6只满级并且满状态的精灵再来参加巅峰战哦！",
-                                function() {
-                                    ModuleManager.showModuleByID(10)
+        i.prototype.reShow = function() {
+            this.update()
+        },
+        i.prototype.update = function() {
+            var e = this;
+            PeakJihadController.updateCurLevel().then(function() {
+                return __awaiter(e, void 0, void 0,
+                function() {
+                    var e, t, i, n, r, a, o, s, u, h, l, c, d, _, p, g, f = this;
+                    return __generator(this,
+                    function(m) {
+                        switch (m.label) {
+                        case 0:
+                            return e = config.Pass_reward.getItem(Math.min(PeakJihadOrderManager.orderLevel, PeakJihadOrderManager.maxLevel)),
+                            this.bar.maximum = Math.max(e.exp, 1),
+                            this.level.text = PeakJihadController.getTitleByLevelScore(),
+                            this.icon.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore() + 1),
+                            this.curLevel.text = "" + PeakJihadOrderManager.orderLevel,
+                            this.curExp.text = e.exp > 0 ? PeakJihadOrderManager.orderExp + "/" + e.exp: "已满级",
+                            this.bar.value = e.exp > 0 ? PeakJihadOrderManager.orderExp: 1,
+                            t = PeakJihadController.isInAcTime(!1),
+                            this.btnMatch.visible = t,
+                            this.cant.visible = !t,
+                            this.updateDot(),
+                            i = PetManager.getBagMap(),
+                            n = [0, 0, 0, 0, 0, 0].map(function(e, t) {
+                                return i[t] ? e[t] = i[t].id: 0
+                            }),
+                            i = PetManager.getSecondBagMap(),
+                            r = [0, 0, 0, 0, 0, 0].map(function(e, t) {
+                                return i[t] ? e[t] = i[t].id: 0
+                            }),
+                            a = n.concat(r),
+                            o = config.Pvp_ban.getItems(),
+                            s = o[0].name.split(";").map(Number),
+                            u = o[1].name.split(";").map(Number),
+                            h = [],
+                            a.map(function(e) {
+                                var t = 0;
+                                return s.indexOf(e) > -1 && PeakJihadController.curLevel > 1 ? t = o[0].quantity: u.indexOf(e) > -1 && PeakJihadController.curLevel > 1 && (t = o[1].quantity),
+                                h.push({
+                                    id: e,
+                                    quality: t
                                 })
-                            })
-                        }), [2]) : (Alert.show("请领取竞技模式赛季结算奖励后进行匹配",
-                        function() {
-                            PeakJihadController.isBird ? Alert.show("您当前未解锁竞技模式，通关巅峰初阶试炼后可解锁，是否需要前往？",
+                            }),
+                            this._list.dataProvider = new eui.ArrayCollection(h),
+                            t || (l = SystemTimerManager.sysBJDate.getTime(), c = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3), d = Math.floor((SystemTimerManager.sysBJDate.setHours(18, 0, 0) - l) / 1e3), _ = c > 0 ? c: d, 0 > d && 0 > c && (_ = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3 + 86400)), this.time.text = TimeUtil.countDownFormat(_, "hh:mm:ss"), TimeDelayUtils.setInterval(function() {
+                                _--,
+                                f.time.text = TimeUtil.countDownFormat(_, "hh:mm:ss"),
+                                0 >= _ && (TimeDelayUtils.clearAllTimeByThisObj(f), f.update())
+                            },
+                            1e3, this)),
+                            [4, KTool.getMultiValueAsync([124799])];
+                        case 1:
+                            return p = m.sent(),
+                            0 == p[0] && (g = config.Pvp_reward.getItems().filter(function(e) {
+                                return 2 == e.group && e.type == PeakJihadController.getCurMaxRewarLevel()
+                            })[0], SocketConnection.sendByQueue(41903, [g.id, 0],
                             function() {
-                                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain", AppDoStyle.HIDEN)
-                            }) : ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN)
-                        }), [2])
-                    }
+                                f.update()
+                            })),
+                            [2]
+                        }
+                    })
                 })
             })
         },
-        t.prototype.next1 = function() {
+        i.prototype.startMatch = function() {
             var e = this;
-            SocketConnection.sendByQueue(45137, [1, 1],
-            function() {
-                ModuleManager.showModuleByID(43, {
-                    callback: null,
-                    thisObj: e,
-                    fightMod: 1
-                })
-            })
-        },
-        t.prototype.startMatch = function() {
-            return __awaiter(this, void 0, void 0,
-            function() {
-                var e, t = this;
-                return __generator(this,
-                function(i) {
-                    switch (i.label) {
-                    case 0:
-                        return PeakJihadController.getAllBagALLPetLvIsFull() ? [4, this.checkReward()] : (Alert.show("请在出战背包放入至少六只精灵，并保证背包所有精灵为满级满状态再开始对战！",
+            if (PeakJihadController.isInAcTime()) {
+                var t = PeakJihadController.getBagALLPetLvIsFullAndNotSame();
+                if (!t) {
+                    var i = PeakJihadController.curLevel < 2 ? "": this.checkMost(),
+                    n = "" == i ? "请在出战背包放入至少六只精灵，并保证背包所有精灵不重复且为满级满状态再开始对战！": i;
+                    return void Alert.show(n,
+                    function() {
+                        ModuleManager.showModuleByID(config.ModuleConst.PET_BAG)
+                    })
+                }
+                this._isclick || (this._isclick = !0, KTool.getMultiValue([3307, 16625, 100689, 16626],
+                function(t) {
+                    e._curStep = t[0],
+                    e._isclick = !1;
+                    var i = SystemTimerManager.time;
+                    if (t[1] > 0 || t[2] > 0) {
+                        var n = 0;
+                        t[1] > 0 && (n = t[1] + e.timeArr[Math.min(t[3], e.timeArr.length - 1)]),
+                        t[1] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
                         function() {
-                            ModuleManager.showModuleByID(config.ModuleConst.PET_BAG)
-                        }), [2]);
-                    case 1:
-                        return (e = i.sent()) ? this._isclick ? [2] : (this._isclick = !0, KTool.getMultiValue([3307, 16625, 100689, 16626],
-                        function(e) {
-                            t._curStep = e[0],
-                            t._isclick = !1;
-                            var i = SystemTimerManager.time;
-                            if (e[1] > 0 || e[2] > 0) {
-                                var n = 0;
-                                e[1] > 0 && (n = e[1] + t.timeArr[Math.min(e[3], t.timeArr.length - 1)]),
-                                e[1] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
-                                function() {
-                                    t.next()
-                                }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
-                            } else t.next()
-                        }), [2]) : (Alert.show("请领取竞技模式赛季结算奖励后进行匹配",
-                        function() {
-                            PeakJihadController.isBird ? Alert.show("您当前未解锁竞技模式，通关巅峰初阶试炼后可解锁，是否需要前往？",
-                            function() {
-                                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain", AppDoStyle.HIDEN)
-                            }) : ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN)
-                        }), [2])
-                    }
-                })
-            })
+                            e.next()
+                        }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
+                    } else e.next()
+                }))
+            }
         },
-        t.prototype.next = function() {
+        i.prototype.next = function() {
             var e = this;
-            0 == this._curStep && SocketConnection.sendByQueue(45137, [1, 2],
+            0 == this._curStep && SocketConnection.sendByQueue(45137, [1, 3],
             function(t) {
                 ModuleManager.showModuleByID(43, {
                     callback: function() {},
                     thisObj: e,
-                    fightMod: 2
+                    fightMod: 3
                 })
             })
         },
-        t.prototype.checkReward = function() {
-            return __awaiter(this, void 0, void 0,
-            function() {
-                var e;
-                return __generator(this,
-                function(t) {
-                    switch (t.label) {
-                    case 0:
-                        return [4, KTool.getMultiValueAsync([124799])];
-                    case 1:
-                        return e = t.sent(),
-                        [2, 1 == e[0]]
-                    }
-                })
-            })
-        },
-        t.prototype.breakLineSynchronizedData = function() {
+        i.prototype.breaklineSynchronizedData = function() {
             var e = this;
             KTool.getMultiValue([3307, 1046],
             function(t) {
@@ -301,14 +346,93 @@ function(e) {
                 1 == t[0] && 1 == t[1] && (ModuleManager.hideModule("peakJihadMatchWaitModePanel"), ModuleManager.showModuleByID(43, {
                     callback: function() {},
                     thisObj: e,
-                    fightMod: 2
+                    fightMod: 3
                 }))
             })
         },
-        t
+        i.prototype.updateItemNums = function() {
+            this.num0.text = String(ItemManager.getNumByID(PeakJihadController.itemId1)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId1),
+            this.num1.text = String(ItemManager.getNumByID(PeakJihadController.itemId2)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId2)
+        },
+        i.prototype.checkMost = function() {
+            for (var e = [], t = 0, i = PetManager.allInfos; t < i.length; t++) {
+                var n = i[t];
+                e.push(n.id)
+            }
+            e.sort();
+            for (var r = config.Pvp_ban.getItems(), a = 0, o = 0, s = function(t) {
+                if (a > 0) return "break";
+                var i = r.filter(function(e) {
+                    return e.type == t
+                })[0];
+                o = i.quantity;
+                for (var n = 0,
+                s = i.name.split(";").map(Number), u = 0; u < s.length; u++) {
+                    var h = s[u];
+                    e.indexOf(h) > -1 && PeakJihadController.curLevel > 1 && n++,
+                    n > o && 0 == a && (a = i.type)
+                }
+            },
+            u = 1; 2 >= u; u++) {
+                var h = s(u);
+                if ("break" === h) break
+            }
+            return 0 == a ? "": "背包内的" + (1 == a ? "": "准") + "限制级精灵最多只能携带" + o + "只"
+        },
+        i.prototype.touchPet = function() {
+            ModuleManager.showModuleByID(10)
+        },
+        i.prototype.updateDot = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t, i, n, r, a, i, o, s;
+                return __generator(this,
+                function(u) {
+                    switch (u.label) {
+                    case 0:
+                        return [4, PeakJihadController.getLadderRewardState()];
+                    case 1:
+                        for (u.sent(), e = config.Pvp_achieve.getItems(), t = !1, i = 0; i < e.length; i++) if (1 != KTool.getBit(e[i].id < 5 ? PeakJihadController.achieveValue: PeakJihadController.achieveValue2, e[i].id)) {
+                            switch (n = 0, e[i].foreverType) {
+                            case 1:
+                                n = e[i].id < 5 ? PeakJihadController.getCurMaxRewarLevel() : PeakJihadController.curMaxLevel;
+                                break;
+                            case 2:
+                                n = PeakJihadController.battleTimes;
+                                break;
+                            case 3:
+                                n = PeakJihadController.wins
+                            }
+                            if (n >= e[i].value) {
+                                t = !0;
+                                break
+                            }
+                        }
+                        for (this.dotAchieve.visible = t, r = !1, a = config.Pvp_reward.getItems().filter(function(e) {
+                            return 1 == e.group
+                        }), i = 0; i < a.length; i++) if (o = a[i], s = PeakJihadController.ladderRewardState[o.type], 1 == s) {
+                            r = !0;
+                            break
+                        }
+                        return this.dotReward.visible = r,
+                        [2]
+                    }
+                })
+            })
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            this._list.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this.touchPet, this),
+            DisplayUtil.removeForParent(this.spine),
+            DisplayUtil.removeForParent(this.spine1),
+            this.spine = null,
+            this.spine1 = null,
+            ModuleManager.hasmodule("peakJihadFirstPage.PeakJihadFirstPage") || ModuleManager.showModuleByID(8)
+        },
+        i
     } (BaseModule);
-    e.PeakJihadLeisureMode = t,
-    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadLeisureMode")
+    e.PeakJihadSportsMode = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadSportsMode")
 } (peakJihadFirstPage || (peakJihadFirstPage = {}));
 var __reflect = this && this.__reflect ||
 function(e, t, i) {
@@ -479,7 +603,7 @@ function(e) {
             this.addEvent(),
             this.updatePanelData(),
             PeakJihadOrderManager.init().then(function() {
-                "sport" == t.data && (ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN), t.data = null)
+                "sport" == t.data ? (ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN), t.data = null) : "wild" == t.data && (ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadLeisureMode", AppDoStyle.HIDEN), ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadWildMode", AppDoStyle.HIDEN), t.data = null)
             })
         },
         t.prototype.reShow = function() {
@@ -701,7 +825,7 @@ function(e) {
             i = 0;
             switch (this.info.foreverType) {
             case 1:
-                i = PeakJihadController.curMaxLevel;
+                i = this.info.id < 5 ? PeakJihadController.getCurMaxRewarLevel() : PeakJihadController.curMaxLevel;
                 break;
             case 2:
                 i = PeakJihadController.battleTimes;
@@ -890,7 +1014,7 @@ function(e) {
                 o = 0;
                 switch (e[r].foreverType) {
                 case 1:
-                    o = PeakJihadController.curMaxLevel;
+                    o = e[r].id < 5 ? PeakJihadController.getCurMaxRewarLevel() : PeakJihadController.curMaxLevel;
                     break;
                 case 2:
                     o = PeakJihadController.battleTimes;
@@ -1097,7 +1221,7 @@ function(e) {
                 return e.type - t.type
             }),
             this._list.dataProvider = new eui.ArrayCollection(t),
-            this.desc.text = 1 == e ? "玩家在竞技模式中达到对应段位即可领取奖励": "赛季结算后根据玩家赛季当前段位发送奖励"
+            this.desc.text = 1 == e ? "玩家在竞技/狂野模式中达到对应段位即可领取奖励": "赛季结算后根据玩家竞技/狂野模式的本赛季历史最高段位发送奖励"
         },
         t.prototype.destroy = function() {
             e.prototype.destroy.call(this),
@@ -1203,108 +1327,6 @@ function(e) {
     } (eui.RadioButton);
     e.PeakRBitem = r,
     __reflect(r.prototype, "peakJihadFirstPage.PeakRBitem")
-} (peakJihadFirstPage || (peakJihadFirstPage = {}));
-var __reflect = this && this.__reflect ||
-function(e, t, i) {
-    e.__class__ = t,
-    i ? i.push(t) : i = [t],
-    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
-},
-__extends = this && this.__extends ||
-function(e, t) {
-    function i() {
-        this.constructor = e
-    }
-    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
-    i.prototype = t.prototype,
-    e.prototype = new i
-},
-peakJihadFirstPage; !
-function(e) {
-    var t = function(e) {
-        function t() {
-            var t = e.call(this) || this;
-            return t.skinName = PeakjihadfreeinputpopviewSkin,
-            t
-        }
-        return __extends(t, e),
-        t.prototype.childrenCreated = function() {
-            e.prototype.childrenCreated.call(this);
-            for (var t = 0; 10 > t; t++) this["btn" + t].name = "btn_" + t;
-            this.addEvent(),
-            this.roomid = ""
-        },
-        Object.defineProperty(t.prototype, "roomid", {
-            get: function() {
-                return this._roomid
-            },
-            set: function(e) {
-                this._roomid = e,
-                this.id.text = this._roomid,
-                "" == this.roomid && (this.id.text = "请输入想要进入的房间号")
-            },
-            enumerable: !0,
-            configurable: !0
-        }),
-        t.prototype.addEvent = function() {
-            ImageButtonUtil.add(this.enterBtn, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.delBtn, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn0, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn1, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn2, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn3, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn4, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn5, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn6, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn7, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn8, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.btn9, this.onTouchTapImageButton, this)
-        },
-        t.prototype.removeEvent = function() {
-            ImageButtonUtil.removeAll(this)
-        },
-        t.prototype.onTouchTapImageButton = function(e) {
-            var t = e.currentTarget.name;
-            if ( - 1 != t.indexOf("btn_")) {
-                var i = Number(t.split("_")[1]);
-                if (0 == this.roomid.length && 0 == i || this.roomid.length >= 20) return;
-                return void(this.roomid += i.toString())
-            }
-            switch (e.currentTarget) {
-            case this.enterBtn:
-                this.onGoBtnClick();
-                break;
-            case this.delBtn:
-                if (0 == this.roomid.length) return;
-                this.roomid = this.roomid.substr(0, this.roomid.length - 1)
-            }
-        },
-        t.prototype.onGoBtnClick = function() {
-            var e = this;
-            if ("" != this.id.text && "请输入想要进入的房间号" != this.id.text) {
-                var t = Number(this.id.text),
-                i = this;
-                SocketConnection.sendByQueue(45136, [1, t],
-                function(t) {
-                    i.roomid = "";
-                    var n = t.data;
-                    n.position = 0;
-                    var r = n.readUnsignedInt();
-                    0 != r ? KTool.getOnlineUsersForeverOrDailyVal([r, 100859],
-                    function(t) {
-                        t > 0 ? Alarm.show("策划活动特别版本未开放！") : (e.hide(), ModuleManager.hideModule("peakJihadFirstPage"), ModuleManager.showModule("peakJihadFreeWar", ["peakJihadFreeWar"], null, "PeakJihadRoomPanel"))
-                    }) : Alarm.show("输入的房间不存在或者已经被其他伙伴加入了，你可以继续尝试或者换个房间加入！")
-                })
-            }
-        },
-        t.prototype.destroy = function() {
-            this.removeEvent(),
-            e.prototype.destroy.call(this)
-        },
-        t
-    } (PopView);
-    e.PeakJiHadFreeInputPopView = t,
-    __reflect(t.prototype, "peakJihadFirstPage.PeakJiHadFreeInputPopView")
 } (peakJihadFirstPage || (peakJihadFirstPage = {}));
 var __reflect = this && this.__reflect ||
 function(e, t, i) {
@@ -1434,20 +1456,19 @@ function(e, t) {
 },
 peakJihadFirstPage; !
 function(e) {
-    var t = function(t) {
-        function i() {
-            var e = t.call(this) || this;
-            return e._isclick = !1,
-            e.timeArr = [60, 150, 300, 480, 720, 1080, 1500, 1800],
-            e.skinName = PeakjihadSportsModeSkin,
-            e
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t._isclick = !1,
+            t.timeArr = [60, 150, 300, 480, 720, 1080, 1500, 1800],
+            t.skinName = PeakJihadLeisureModeSkin,
+            t
         }
-        return __extends(i, t),
-        i.prototype.childrenCreated = function() {
-            var i = this;
-            t.prototype.childrenCreated.call(this),
-            this.initBtnClose("peakjihad_sports_mode_title_png", this),
-            t.prototype.initBtnHelp.call(this,
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this),
+            this.initBtnClose("peakjihad_leisure_mode_title_png", this),
+            e.prototype.initBtnHelp.call(this,
             function() {
                 var e = {};
                 e.titleSource = RES.getRes("PeakJihad_rule_title_png"),
@@ -1465,188 +1486,141 @@ function(e) {
                 }],
                 tipsPop.TipsPop.openMulitHelpPop(e)
             },
-            this);
-            var n = egret.lifecycle.stage.stageWidth / 1136;
-            this.bgGroup0.scaleX = this.bgGroup0.scaleY = 1 * n,
-            this.icon0.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId1),
-            this.icon1.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId2),
+            this),
             this.adaptBgByScale(this.bg),
-            this.leftGroup.left = Math.max(DeviceInfoManager.adapterOffSetX, 11),
-            this.rightGroup.right = DeviceInfoManager.adapterOffSetX,
-            this.spine = SpineUtil.createAnimate("2024dianfeng"),
-            SpineUtil.play(this.spine, "standby", this.bgGroup, null, this, 0),
-            this.spine1 = SpineUtil.createAnimate("2024dianfengbg"),
-            SpineUtil.play(this.spine1, "standby", this.bgGroup0, null, this, 0),
-            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateItemNums, this),
-            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breaklineSynchronizedData, this),
-            EventManager.addEventListener(PeakJihadController.PeakJihadController_GET_LADDER_REWARD, this.updateDot, this),
-            this._list.itemRenderer = e.PeakjihadSportsModePet,
-            this.updateItemNums(),
-            ImageButtonUtil.add(this.icon0,
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breakLineSynchronizedData, this),
+            ImageButtonUtil.add(this.ima3, this.match, this, !1),
+            ImageButtonUtil.add(this.ima6,
             function() {
-                var e = {};
-                e.id = PeakJihadController.itemId1,
-                tipsPop.TipsPop.openItemPop(e)
+                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadWildMode", AppDoStyle.HIDEN)
             },
-            this),
-            ImageButtonUtil.add(this.icon1,
+            this, !1),
+            ImageButtonUtil.add(this.imaTest,
             function() {
-                var e = {};
-                e.id = PeakJihadController.itemId2,
-                tipsPop.TipsPop.openItemPop(e)
+                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain")
             },
-            this),
-            ImageButtonUtil.add(this.task,
+            this, !1),
+            ImageButtonUtil.add(this.none,
             function() {
-                ModuleManager.showModuleByID(211, {
-                    type: 2
-                },
-                AppDoStyle.HIDEN)
+                BubblerManager.getInstance().showText("敬请期待")
             },
-            this),
-            ImageButtonUtil.add(this.btnJiangli,
-            function() {
-                ModuleManager.showModuleByID(211, {
-                    type: 1
-                },
-                AppDoStyle.HIDEN)
-            },
-            this),
-            this._list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.touchPet, this),
-            ImageButtonUtil.add(this.suit,
-            function() {
-                ModuleManager.showModuleByID(27)
-            },
-            this),
-            ImageButtonUtil.add(this.reward,
-            function() {
-                PopViewManager.getInstance().openView(new e.PeakJihadLadderReward, null)
-            },
-            this),
-            ImageButtonUtil.add(this.btnMatch,
-            function() {
-                PeakJihadController.isBird ? Alert.show("您当前未解锁竞技模式，通关巅峰初阶试炼后可解锁，是否需要前往？",
-                function() {
-                    ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain", AppDoStyle.HIDEN)
-                }) : PetManager.updateBagInfo(function() {
-                    i.startMatch()
-                })
-            },
-            this),
-            ImageButtonUtil.add(this.achieve,
-            function() {
-                PopViewManager.getInstance().openView(new e.PeakJihadLadderAchieveReward)
-            },
-            this),
-            this.update()
+            this, !1)
         },
-        i.prototype.reShow = function() {
-            this.update()
-        },
-        i.prototype.update = function() {
-            var e = this;
-            PeakJihadController.updateCurLevel().then(function() {
-                return __awaiter(e, void 0, void 0,
-                function() {
-                    var e, t, i, n, r, a, o, s, u, h, l, c, _, d, p, g, f = this;
-                    return __generator(this,
-                    function(m) {
-                        switch (m.label) {
-                        case 0:
-                            return e = config.Pass_reward.getItem(Math.min(PeakJihadOrderManager.orderLevel, PeakJihadOrderManager.maxLevel)),
-                            this.bar.maximum = Math.max(e.exp, 1),
-                            this.level.text = PeakJihadController.getTitleByLevelScore(),
-                            this.icon.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.curLevel + 1),
-                            this.curLevel.text = "" + PeakJihadOrderManager.orderLevel,
-                            this.curExp.text = e.exp > 0 ? PeakJihadOrderManager.orderExp + "/" + e.exp: "已满级",
-                            this.bar.value = e.exp > 0 ? PeakJihadOrderManager.orderExp: 1,
-                            t = PeakJihadController.isInAcTime(!1),
-                            this.btnMatch.visible = t,
-                            this.cant.visible = !t,
-                            this.updateDot(),
-                            i = PetManager.getBagMap(),
-                            n = [0, 0, 0, 0, 0, 0].map(function(e, t) {
-                                return i[t] ? e[t] = i[t].id: 0
-                            }),
-                            i = PetManager.getSecondBagMap(),
-                            r = [0, 0, 0, 0, 0, 0].map(function(e, t) {
-                                return i[t] ? e[t] = i[t].id: 0
-                            }),
-                            a = n.concat(r),
-                            o = config.Pvp_ban.getItems(),
-                            s = o[0].name.split(";").map(Number),
-                            u = o[1].name.split(";").map(Number),
-                            h = [],
-                            a.map(function(e) {
-                                var t = 0;
-                                return s.indexOf(e) > -1 ? t = o[0].quantity: u.indexOf(e) > -1 && (t = o[1].quantity),
-                                h.push({
-                                    id: e,
-                                    quality: t
+        t.prototype.match = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t = this;
+                return __generator(this,
+                function(i) {
+                    switch (i.label) {
+                    case 0:
+                        return [4, this.checkReward()];
+                    case 1:
+                        return (e = i.sent()) ? (KTool.getMultiValue([16625, 100689, 16626],
+                        function(e) {
+                            if (e[0] > 0 || e[1] > 0) {
+                                var i = SystemTimerManager.time;
+                                if (e[0] > 0 || e[1] > 0) {
+                                    var n = 0;
+                                    e[0] > 0 && (n = e[0] + t.timeArr[Math.min(e[2], t.timeArr.length - 1)]),
+                                    e[0] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
+                                    function() {
+                                        t.next1()
+                                    }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
+                                }
+                            } else PetManager.updateBagInfo(function() {
+                                PeakJihadController.getFristBagALLPetLvIsFull2() ? t.next1() : Alarm.show("请在出战背包内放入6只满级并且满状态的精灵再来参加巅峰战哦！",
+                                function() {
+                                    ModuleManager.showModuleByID(10)
                                 })
-                            }),
-                            this._list.dataProvider = new eui.ArrayCollection(h),
-                            t || (l = SystemTimerManager.sysBJDate.getTime(), c = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3), _ = Math.floor((SystemTimerManager.sysBJDate.setHours(18, 0, 0) - l) / 1e3), d = c > 0 ? c: _, 0 > _ && 0 > c && (d = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3 + 86400)), this.time.text = TimeUtil.countDownFormat(d, "hh:mm:ss"), TimeDelayUtils.setInterval(function() {
-                                d--,
-                                f.time.text = TimeUtil.countDownFormat(d, "hh:mm:ss"),
-                                0 >= d && (TimeDelayUtils.clearAllTimeByThisObj(f), f.update())
-                            },
-                            1e3, this)),
-                            [4, KTool.getMultiValueAsync([124799])];
-                        case 1:
-                            return p = m.sent(),
-                            0 == p[0] && (g = config.Pvp_reward.getItems().filter(function(e) {
-                                return 2 == e.group && e.type == PeakJihadController.curLevel
-                            })[0], SocketConnection.sendByQueue(41903, [g.id, 0],
+                            })
+                        }), [2]) : (Alert.show("请领取竞技模式赛季结算奖励后进行匹配",
+                        function() {
+                            PeakJihadController.isBird ? Alert.show("您当前未解锁竞技模式，通关巅峰初阶试炼后可解锁，是否需要前往？",
                             function() {
-                                f.update()
-                            })),
-                            [2]
-                        }
-                    })
+                                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain", AppDoStyle.HIDEN)
+                            }) : ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN)
+                        }), [2])
+                    }
                 })
             })
         },
-        i.prototype.startMatch = function() {
+        t.prototype.next1 = function() {
             var e = this;
-            if (PeakJihadController.isInAcTime()) {
-                var t = PeakJihadController.getBagALLPetLvIsFullAndNotSame();
-                if (!t) {
-                    var i = this.checkMost(),
-                    n = "" == i ? "请在出战背包放入至少六只精灵，并保证背包所有精灵不重复且为满级满状态再开始对战！": i;
-                    return void Alert.show(n,
-                    function() {
-                        ModuleManager.showModuleByID(config.ModuleConst.PET_BAG)
-                    })
-                }
-                this._isclick || (this._isclick = !0, KTool.getMultiValue([3307, 16625, 100689, 16626],
-                function(t) {
-                    e._curStep = t[0],
-                    e._isclick = !1;
-                    var i = SystemTimerManager.time;
-                    if (t[1] > 0 || t[2] > 0) {
-                        var n = 0;
-                        t[1] > 0 && (n = t[1] + e.timeArr[Math.min(t[3], e.timeArr.length - 1)]),
-                        t[1] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
-                        function() {
-                            e.next()
-                        }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
-                    } else e.next()
-                }))
-            }
+            SocketConnection.sendByQueue(45137, [1, 1],
+            function() {
+                ModuleManager.showModuleByID(43, {
+                    callback: null,
+                    thisObj: e,
+                    fightMod: 1
+                })
+            })
         },
-        i.prototype.next = function() {
+        t.prototype.startMatch = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t = this;
+                return __generator(this,
+                function(i) {
+                    switch (i.label) {
+                    case 0:
+                        return PeakJihadController.getAllBagALLPetLvIsFull() ? [4, this.checkReward()] : (Alert.show("请在出战背包放入至少六只精灵，并保证背包所有精灵为满级满状态再开始对战！",
+                        function() {
+                            ModuleManager.showModuleByID(config.ModuleConst.PET_BAG)
+                        }), [2]);
+                    case 1:
+                        return (e = i.sent()) ? this._isclick ? [2] : (this._isclick = !0, KTool.getMultiValue([3307, 16625, 100689, 16626],
+                        function(e) {
+                            t._curStep = e[0],
+                            t._isclick = !1;
+                            var i = SystemTimerManager.time;
+                            if (e[1] > 0 || e[2] > 0) {
+                                var n = 0;
+                                e[1] > 0 && (n = e[1] + t.timeArr[Math.min(e[3], t.timeArr.length - 1)]),
+                                e[1] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
+                                function() {
+                                    t.next()
+                                }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
+                            } else t.next()
+                        }), [2]) : (Alert.show("请领取竞技模式赛季结算奖励后进行匹配",
+                        function() {
+                            PeakJihadController.isBird ? Alert.show("您当前未解锁竞技模式，通关巅峰初阶试炼后可解锁，是否需要前往？",
+                            function() {
+                                ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain", AppDoStyle.HIDEN)
+                            }) : ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsMode", AppDoStyle.HIDEN)
+                        }), [2])
+                    }
+                })
+            })
+        },
+        t.prototype.next = function() {
             var e = this;
-            0 == this._curStep && SocketConnection.sendByQueue(45137, [1, 3],
+            0 == this._curStep && SocketConnection.sendByQueue(45137, [1, 2],
             function(t) {
                 ModuleManager.showModuleByID(43, {
                     callback: function() {},
                     thisObj: e,
-                    fightMod: 3
+                    fightMod: 2
                 })
             })
         },
-        i.prototype.breaklineSynchronizedData = function() {
+        t.prototype.checkReward = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return [4, KTool.getMultiValueAsync([124799])];
+                    case 1:
+                        return e = t.sent(),
+                        [2, 1 == e[0]]
+                    }
+                })
+            })
+        },
+        t.prototype.breakLineSynchronizedData = function() {
             var e = this;
             KTool.getMultiValue([3307, 1046],
             function(t) {
@@ -1654,93 +1628,116 @@ function(e) {
                 1 == t[0] && 1 == t[1] && (ModuleManager.hideModule("peakJihadMatchWaitModePanel"), ModuleManager.showModuleByID(43, {
                     callback: function() {},
                     thisObj: e,
-                    fightMod: 3
+                    fightMod: 2
                 }))
             })
         },
-        i.prototype.updateItemNums = function() {
-            this.num0.text = String(ItemManager.getNumByID(PeakJihadController.itemId1)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId1),
-            this.num1.text = String(ItemManager.getNumByID(PeakJihadController.itemId2)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId2)
-        },
-        i.prototype.checkMost = function() {
-            for (var e = [], t = 0, i = PetManager.allInfos; t < i.length; t++) {
-                var n = i[t];
-                e.push(n.id)
-            }
-            e.sort();
-            for (var r = config.Pvp_ban.getItems(), a = 0, o = 0, s = function(t) {
-                if (a > 0) return "break";
-                var i = r.filter(function(e) {
-                    return e.type == t
-                })[0];
-                o = i.quantity;
-                for (var n = 0,
-                s = i.name.split(";").map(Number), u = 0; u < s.length; u++) {
-                    var h = s[u];
-                    e.indexOf(h) > -1 && n++,
-                    n > o && 0 == a && (a = i.type)
-                }
-            },
-            u = 1; 2 >= u; u++) {
-                var h = s(u);
-                if ("break" === h) break
-            }
-            return 0 == a ? "": "背包内的" + (1 == a ? "": "准") + "限制级精灵最多只能携带" + o + "只"
-        },
-        i.prototype.touchPet = function() {
-            ModuleManager.showModuleByID(10)
-        },
-        i.prototype.updateDot = function() {
-            return __awaiter(this, void 0, void 0,
-            function() {
-                var e, t, i, n, r, a, i, o, s;
-                return __generator(this,
-                function(u) {
-                    switch (u.label) {
-                    case 0:
-                        return [4, PeakJihadController.getLadderRewardState()];
-                    case 1:
-                        for (u.sent(), e = config.Pvp_achieve.getItems(), t = !1, i = 0; i < e.length; i++) if (1 != KTool.getBit(e[i].id < 5 ? PeakJihadController.achieveValue: PeakJihadController.achieveValue2, e[i].id)) {
-                            switch (n = 0, e[i].foreverType) {
-                            case 1:
-                                n = PeakJihadController.curMaxLevel;
-                                break;
-                            case 2:
-                                n = PeakJihadController.battleTimes;
-                                break;
-                            case 3:
-                                n = PeakJihadController.wins
-                            }
-                            if (n >= e[i].value) {
-                                t = !0;
-                                break
-                            }
-                        }
-                        for (this.dotAchieve.visible = t, r = !1, a = config.Pvp_reward.getItems().filter(function(e) {
-                            return 1 == e.group
-                        }), i = 0; i < a.length; i++) if (o = a[i], s = PeakJihadController.ladderRewardState[o.type], 1 == s) {
-                            r = !0;
-                            break
-                        }
-                        return this.dotReward.visible = r,
-                        [2]
-                    }
-                })
-            })
-        },
-        i.prototype.destroy = function() {
-            t.prototype.destroy.call(this),
-            this._list.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this.touchPet, this),
-            DisplayUtil.removeForParent(this.spine),
-            DisplayUtil.removeForParent(this.spine1),
-            this.spine = null,
-            this.spine1 = null,
-            ModuleManager.hasmodule("peakJihadFirstPage.PeakJihadFirstPage") || ModuleManager.showModuleByID(8)
-        },
-        i
+        t
     } (BaseModule);
-    e.PeakJihadSportsMode = t,
-    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadSportsMode")
+    e.PeakJihadLeisureMode = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadLeisureMode")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(e) {
+        function t() {
+            var t = e.call(this) || this;
+            return t.skinName = PeakjihadfreeinputpopviewSkin,
+            t
+        }
+        return __extends(t, e),
+        t.prototype.childrenCreated = function() {
+            e.prototype.childrenCreated.call(this);
+            for (var t = 0; 10 > t; t++) this["btn" + t].name = "btn_" + t;
+            this.addEvent(),
+            this.roomid = ""
+        },
+        Object.defineProperty(t.prototype, "roomid", {
+            get: function() {
+                return this._roomid
+            },
+            set: function(e) {
+                this._roomid = e,
+                this.id.text = this._roomid,
+                "" == this.roomid && (this.id.text = "请输入想要进入的房间号")
+            },
+            enumerable: !0,
+            configurable: !0
+        }),
+        t.prototype.addEvent = function() {
+            ImageButtonUtil.add(this.enterBtn, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.delBtn, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn0, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn1, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn2, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn3, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn4, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn5, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn6, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn7, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn8, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btn9, this.onTouchTapImageButton, this)
+        },
+        t.prototype.removeEvent = function() {
+            ImageButtonUtil.removeAll(this)
+        },
+        t.prototype.onTouchTapImageButton = function(e) {
+            var t = e.currentTarget.name;
+            if ( - 1 != t.indexOf("btn_")) {
+                var i = Number(t.split("_")[1]);
+                if (0 == this.roomid.length && 0 == i || this.roomid.length >= 20) return;
+                return void(this.roomid += i.toString())
+            }
+            switch (e.currentTarget) {
+            case this.enterBtn:
+                this.onGoBtnClick();
+                break;
+            case this.delBtn:
+                if (0 == this.roomid.length) return;
+                this.roomid = this.roomid.substr(0, this.roomid.length - 1)
+            }
+        },
+        t.prototype.onGoBtnClick = function() {
+            var e = this;
+            if ("" != this.id.text && "请输入想要进入的房间号" != this.id.text) {
+                var t = Number(this.id.text),
+                i = this;
+                SocketConnection.sendByQueue(45136, [1, t],
+                function(t) {
+                    i.roomid = "";
+                    var n = t.data;
+                    n.position = 0;
+                    var r = n.readUnsignedInt();
+                    0 != r ? KTool.getOnlineUsersForeverOrDailyVal([r, 100859],
+                    function(t) {
+                        t > 0 ? Alarm.show("策划活动特别版本未开放！") : (e.hide(), ModuleManager.hideModule("peakJihadFirstPage"), ModuleManager.showModule("peakJihadFreeWar", ["peakJihadFreeWar"], null, "PeakJihadRoomPanel"))
+                    }) : Alarm.show("输入的房间不存在或者已经被其他伙伴加入了，你可以继续尝试或者换个房间加入！")
+                })
+            }
+        },
+        t.prototype.destroy = function() {
+            this.removeEvent(),
+            e.prototype.destroy.call(this)
+        },
+        t
+    } (PopView);
+    e.PeakJiHadFreeInputPopView = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJiHadFreeInputPopView")
 } (peakJihadFirstPage || (peakJihadFirstPage = {}));
 var __reflect = this && this.__reflect ||
 function(e, t, i) {
@@ -1821,7 +1818,7 @@ function(e) {
         t.prototype.childrenCreated = function() {
             var t = this;
             e.prototype.childrenCreated.call(this),
-            this.initBtnClose("peakjihad_sports_mode_title_png", this),
+            this.initBtnClose("peakjihad_sports_pool_title_png", this),
             this.initBtnHelpById(146),
             this.adaptBgByScale(this.bg),
             this._list.itemRenderer = i,
@@ -2150,6 +2147,427 @@ function(e) {
     } (BaseItemRenderer);
     e.PeakJihadTrainItem = t,
     __reflect(t.prototype, "peakJihadFirstPage.PeakJihadTrainItem")
+} (peakJihadFirstPage || (peakJihadFirstPage = {}));
+var __reflect = this && this.__reflect ||
+function(e, t, i) {
+    e.__class__ = t,
+    i ? i.push(t) : i = [t],
+    e.__types__ = e.__types__ ? i.concat(e.__types__) : i
+},
+__extends = this && this.__extends ||
+function(e, t) {
+    function i() {
+        this.constructor = e
+    }
+    for (var n in t) t.hasOwnProperty(n) && (e[n] = t[n]);
+    i.prototype = t.prototype,
+    e.prototype = new i
+},
+__awaiter = this && this.__awaiter ||
+function(e, t, i, n) {
+    return new(i || (i = Promise))(function(r, a) {
+        function o(e) {
+            try {
+                u(n.next(e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function s(e) {
+            try {
+                u(n["throw"](e))
+            } catch(t) {
+                a(t)
+            }
+        }
+        function u(e) {
+            e.done ? r(e.value) : new i(function(t) {
+                t(e.value)
+            }).then(o, s)
+        }
+        u((n = n.apply(e, t || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(e, t) {
+    function i(e) {
+        return function(t) {
+            return n([e, t])
+        }
+    }
+    function n(i) {
+        if (r) throw new TypeError("Generator is already executing.");
+        for (; u;) try {
+            if (r = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
+            switch (a = 0, o && (i = [0, o.value]), i[0]) {
+            case 0:
+            case 1:
+                o = i;
+                break;
+            case 4:
+                return u.label++,
+                {
+                    value: i[1],
+                    done: !1
+                };
+            case 5:
+                u.label++,
+                a = i[1],
+                i = [0];
+                continue;
+            case 7:
+                i = u.ops.pop(),
+                u.trys.pop();
+                continue;
+            default:
+                if (o = u.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    u = 0;
+                    continue
+                }
+                if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
+                    u.label = i[1];
+                    break
+                }
+                if (6 === i[0] && u.label < o[1]) {
+                    u.label = o[1],
+                    o = i;
+                    break
+                }
+                if (o && u.label < o[2]) {
+                    u.label = o[2],
+                    u.ops.push(i);
+                    break
+                }
+                o[2] && u.ops.pop(),
+                u.trys.pop();
+                continue
+            }
+            i = t.call(e, u)
+        } catch(n) {
+            i = [6, n],
+            a = 0
+        } finally {
+            r = o = 0
+        }
+        if (5 & i[0]) throw i[1];
+        return {
+            value: i[0] ? i[1] : void 0,
+            done: !0
+        }
+    }
+    var r, a, o, s, u = {
+        label: 0,
+        sent: function() {
+            if (1 & o[0]) throw o[1];
+            return o[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return s = {
+        next: i(0),
+        "throw": i(1),
+        "return": i(2)
+    },
+    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+        return this
+    }),
+    s
+},
+peakJihadFirstPage; !
+function(e) {
+    var t = function(t) {
+        function i() {
+            var e = t.call(this) || this;
+            return e._isclick = !1,
+            e.timeArr = [60, 150, 300, 480, 720, 1080, 1500, 1800],
+            e.skinName = PeakJihadWildModeSkin,
+            e
+        }
+        return __extends(i, t),
+        i.prototype.childrenCreated = function() {
+            var i = this;
+            t.prototype.childrenCreated.call(this),
+            this.initBtnClose("peakjihad_wild_mode_title_png", this),
+            t.prototype.initBtnHelp.call(this,
+            function() {
+                var e = {};
+                e.titleSource = RES.getRes("PeakJihad_rule_title_png"),
+                e.data = [{
+                    tabName: "基本规则",
+                    id: 143
+                },
+                {
+                    tabName: "段位规则",
+                    id: 144
+                },
+                {
+                    tabName: "排位规则",
+                    id: 145
+                }],
+                tipsPop.TipsPop.openMulitHelpPop(e)
+            },
+            this);
+            var n = egret.lifecycle.stage.stageWidth / 1136;
+            this.bgGroup0.scaleX = this.bgGroup0.scaleY = 1 * n,
+            this.icon0.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId1),
+            this.icon1.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId2),
+            this.adaptBgByScale(this.bg),
+            this.leftGroup.left = Math.max(DeviceInfoManager.adapterOffSetX, 11),
+            this.rightGroup.right = DeviceInfoManager.adapterOffSetX,
+            this.spine = SpineUtil.createAnimate("2024dianfeng"),
+            SpineUtil.play(this.spine, "standby", this.bgGroup, null, this, 0),
+            this.spine1 = SpineUtil.createAnimate("2024dianfengbg"),
+            SpineUtil.play(this.spine1, "standby", this.bgGroup0, null, this, 0),
+            EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateItemNums, this),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breaklineSynchronizedData, this),
+            EventManager.addEventListener(PeakJihadController.PeakJihadController_GET_LADDER_REWARD, this.updateDot, this),
+            this._list.itemRenderer = e.PeakjihadSportsModePet,
+            this.updateItemNums(),
+            ImageButtonUtil.add(this.icon0,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId1,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.icon1,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId2,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
+            ImageButtonUtil.add(this.task,
+            function() {
+                ModuleManager.showModuleByID(211, {
+                    type: 2
+                },
+                AppDoStyle.HIDEN)
+            },
+            this),
+            ImageButtonUtil.add(this.btnJiangli,
+            function() {
+                ModuleManager.showModuleByID(211, {
+                    type: 1
+                },
+                AppDoStyle.HIDEN)
+            },
+            this),
+            this._list.addEventListener(eui.ItemTapEvent.ITEM_TAP, this.touchPet, this),
+            ImageButtonUtil.add(this.suit,
+            function() {
+                ModuleManager.showModuleByID(27)
+            },
+            this),
+            ImageButtonUtil.add(this.reward,
+            function() {
+                PopViewManager.getInstance().openView(new e.PeakJihadLadderReward, null)
+            },
+            this),
+            ImageButtonUtil.add(this.btnMatch,
+            function() {
+                PetManager.updateBagInfo(function() {
+                    i.startMatch()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.achieve,
+            function() {
+                PopViewManager.getInstance().openView(new e.PeakJihadLadderAchieveReward)
+            },
+            this),
+            this.update()
+        },
+        i.prototype.reShow = function() {
+            this.update()
+        },
+        i.prototype.update = function() {
+            var e = this;
+            PeakJihadController.updateCurLevel().then(function() {
+                return __awaiter(e, void 0, void 0,
+                function() {
+                    var e, t, i, n, r, a, o, s, u, h, l, c, d, _, p, g = this;
+                    return __generator(this,
+                    function(f) {
+                        switch (f.label) {
+                        case 0:
+                            return e = config.Pass_reward.getItem(Math.min(PeakJihadOrderManager.orderLevel, PeakJihadOrderManager.maxLevel)),
+                            this.bar.maximum = Math.max(e.exp, 1),
+                            this.level.text = PeakJihadController.getWildTitleByLevelScore(),
+                            this.icon.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(PeakJihadController.curWildLevel, PeakJihadController.curWildScore) + 1),
+                            this.curLevel.text = "" + PeakJihadOrderManager.orderLevel,
+                            this.curExp.text = e.exp > 0 ? PeakJihadOrderManager.orderExp + "/" + e.exp: "已满级",
+                            this.bar.value = e.exp > 0 ? PeakJihadOrderManager.orderExp: 1,
+                            t = PeakJihadController.isWildInAcTime(!1),
+                            this.btnMatch.visible = t,
+                            this.cant.visible = !t,
+                            this.updateDot(),
+                            i = PetManager.getBagMap(),
+                            n = [0, 0, 0, 0, 0, 0].map(function(e, t) {
+                                return i[t] ? e[t] = i[t].id: 0
+                            }),
+                            i = PetManager.getSecondBagMap(),
+                            r = [0, 0, 0, 0, 0, 0].map(function(e, t) {
+                                return i[t] ? e[t] = i[t].id: 0
+                            }),
+                            a = n.concat(r),
+                            o = config.Pvp_ban.getItems(),
+                            s = o[0].name.split(";").map(Number),
+                            u = o[1].name.split(";").map(Number),
+                            h = [],
+                            a.map(function(e) {
+                                var t = 0;
+                                return h.push({
+                                    id: e,
+                                    quality: t
+                                })
+                            }),
+                            this._list.dataProvider = new eui.ArrayCollection(h),
+                            t || (l = SystemTimerManager.sysBJDate.getTime(), c = Math.floor((SystemTimerManager.sysBJDate.setHours(20, 0, 0) - l) / 1e3), d = c, 0 > c && (d = Math.floor((SystemTimerManager.sysBJDate.setHours(20, 0, 0) - l) / 1e3 + 86400)), this.time.text = TimeUtil.countDownFormat(d, "hh:mm:ss"), TimeDelayUtils.setInterval(function() {
+                                d--,
+                                g.time.text = TimeUtil.countDownFormat(d, "hh:mm:ss"),
+                                0 >= d && (TimeDelayUtils.clearAllTimeByThisObj(g), g.update())
+                            },
+                            1e3, this)),
+                            [4, KTool.getMultiValueAsync([124799])];
+                        case 1:
+                            return _ = f.sent(),
+                            0 == _[0] && (p = config.Pvp_reward.getItems().filter(function(e) {
+                                return 2 == e.group && e.type == PeakJihadController.getCurMaxRewarLevel()
+                            })[0], SocketConnection.sendByQueue(41903, [p.id, 0],
+                            function() {
+                                g.update()
+                            })),
+                            [2]
+                        }
+                    })
+                })
+            })
+        },
+        i.prototype.startMatch = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e = this;
+                return __generator(this,
+                function(t) {
+                    return PeakJihadController.isWildInAcTime() ? PeakJihadController.getAllBagALLPetLvIsFull() ? this._isclick ? [2] : (this._isclick = !0, KTool.getMultiValue([3307, 16625, 100689, 16626],
+                    function(t) {
+                        e._curStep = t[0],
+                        e._isclick = !1;
+                        var i = SystemTimerManager.time;
+                        if (t[1] > 0 || t[2] > 0) {
+                            var n = 0;
+                            t[1] > 0 && (n = t[1] + e.timeArr[Math.min(t[3], e.timeArr.length - 1)]),
+                            t[1] > 0 && i > n ? SocketConnection.sendByQueue(42285, [4],
+                            function() {
+                                e.next()
+                            }) : Alarm.show("由于你在最近的比赛中有中途退出行为，请稍后再试")
+                        } else e.next()
+                    }), [2]) : (Alert.show("请在出战背包放入至少六只精灵，并保证背包所有精灵为满级满状态再开始对战！",
+                    function() {
+                        ModuleManager.showModuleByID(config.ModuleConst.PET_BAG)
+                    }), [2]) : [2]
+                })
+            })
+        },
+        i.prototype.checkReward = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e;
+                return __generator(this,
+                function(t) {
+                    switch (t.label) {
+                    case 0:
+                        return [4, KTool.getMultiValueAsync([124799])];
+                    case 1:
+                        return e = t.sent(),
+                        [2, 1 == e[0]]
+                    }
+                })
+            })
+        },
+        i.prototype.next = function() {
+            var e = this;
+            0 == this._curStep && SocketConnection.sendByQueue(45137, [1, 2],
+            function(t) {
+                ModuleManager.showModuleByID(43, {
+                    callback: function() {},
+                    thisObj: e,
+                    fightMod: 2
+                })
+            })
+        },
+        i.prototype.breaklineSynchronizedData = function() {
+            var e = this;
+            KTool.getMultiValue([3307, 1046],
+            function(t) {
+                e._curStep = t[0],
+                1 == t[0] && 1 == t[1] && (ModuleManager.hideModule("peakJihadMatchWaitModePanel"), ModuleManager.showModuleByID(43, {
+                    callback: function() {},
+                    thisObj: e,
+                    fightMod: 3
+                }))
+            })
+        },
+        i.prototype.updateItemNums = function() {
+            this.num0.text = String(ItemManager.getNumByID(PeakJihadController.itemId1)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId1),
+            this.num1.text = String(ItemManager.getNumByID(PeakJihadController.itemId2)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId2)
+        },
+        i.prototype.touchPet = function() {
+            ModuleManager.showModuleByID(10)
+        },
+        i.prototype.updateDot = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var e, t, i, n, r, a, i, o, s;
+                return __generator(this,
+                function(u) {
+                    switch (u.label) {
+                    case 0:
+                        return [4, PeakJihadController.getLadderRewardState()];
+                    case 1:
+                        for (u.sent(), e = config.Pvp_achieve.getItems(), t = !1, i = 0; i < e.length; i++) if (1 != KTool.getBit(e[i].id < 5 ? PeakJihadController.achieveValue: PeakJihadController.achieveValue2, e[i].id)) {
+                            switch (n = 0, e[i].foreverType) {
+                            case 1:
+                                n = e[i].id < 5 ? PeakJihadController.getCurMaxRewarLevel() : PeakJihadController.curMaxLevel;
+                                break;
+                            case 2:
+                                n = PeakJihadController.battleTimes;
+                                break;
+                            case 3:
+                                n = PeakJihadController.wins
+                            }
+                            if (n >= e[i].value) {
+                                t = !0;
+                                break
+                            }
+                        }
+                        for (this.dotAchieve.visible = t, r = !1, a = config.Pvp_reward.getItems().filter(function(e) {
+                            return 1 == e.group
+                        }), i = 0; i < a.length; i++) if (o = a[i], s = PeakJihadController.ladderRewardState[o.type], 1 == s) {
+                            r = !0;
+                            break
+                        }
+                        return this.dotReward.visible = r,
+                        [2]
+                    }
+                })
+            })
+        },
+        i.prototype.destroy = function() {
+            t.prototype.destroy.call(this),
+            this._list.removeEventListener(eui.ItemTapEvent.ITEM_TAP, this.touchPet, this),
+            DisplayUtil.removeForParent(this.spine),
+            DisplayUtil.removeForParent(this.spine1),
+            this.spine = null,
+            this.spine1 = null,
+            ModuleManager.hasmodule("peakJihadFirstPage.PeakJihadFirstPage") || ModuleManager.showModuleByID(8)
+        },
+        i
+    } (BaseModule);
+    e.PeakJihadWildMode = t,
+    __reflect(t.prototype, "peakJihadFirstPage.PeakJihadWildMode")
 } (peakJihadFirstPage || (peakJihadFirstPage = {}));
 var __extends = this && this.__extends ||
 function(e, t) {
@@ -3199,7 +3617,6 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         return this.rightGroup = e,
         e.height = 640,
         e.right = 0,
-        e.visible = !0,
         e.width = 637,
         e.y = 0,
         e.elementsContent = [this._Group1_i(), this.cant_i()],
@@ -3218,7 +3635,6 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
     n._Image1_i = function() {
         var e = new eui.Image;
         return e.source = "peakjihad_sports_mode_rightbg_png",
-        e.visible = !0,
         e.x = 0,
         e.y = 0,
         e
@@ -3227,11 +3643,13 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         var e = new eui.Label;
         return this.level = e,
         e.fontFamily = "REEJI",
+        e.height = 22,
         e.horizontalCenter = 161.5,
         e.size = 22,
-        e.text = "圣皇",
+        e.text = "宇宙圣皇9999星",
+        e.textAlign = "center",
         e.textColor = 16383837,
-        e.y = 344.96,
+        e.y = 345,
         e
     },
     n.icon_i = function() {
@@ -4021,6 +4439,394 @@ generateEUI.paths["resource/eui_skins/PeakJihadTrainSkin.exml"] = window.PeakJih
         return this.menuGroup = e,
         e.x = 0,
         e.y = 48,
+        e
+    },
+    t
+} (eui.Skin),
+generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.PeakJihadWildModeSkin = function(e) {
+    function t() {
+        e.call(this),
+        this.skinParts = ["bgGroup0", "bg", "bgGroup", "level", "icon", "btnMatch", "time", "cant", "rightGroup", "icon0", "num0", "icon1", "num1", "exp", "bar", "curLevel", "curExp", "task", "btnJiangli", "reward", "achieve", "suit", "dotReward", "dotAchieve", "_list", "leftGroup"],
+        this.height = 640,
+        this.width = 1136,
+        this.elementsContent = [this.bgGroup0_i(), this.bg_i(), this.bgGroup_i(), this.rightGroup_i(), this._Group4_i(), this.leftGroup_i()]
+    }
+    __extends(t, e);
+    var i = function(e) {
+        function t() {
+            e.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(t, e);
+        var i = t.prototype;
+        return i.thumb_i = function() {
+            var e = new eui.Image;
+            return this.thumb = e,
+            e.source = "pea_jihad_sport_exppro_png",
+            e.visible = !0,
+            e.x = 0,
+            e.y = 0,
+            e
+        },
+        t
+    } (eui.Skin),
+    n = t.prototype;
+    return n.bgGroup0_i = function() {
+        var e = new eui.Group;
+        return this.bgGroup0 = e,
+        e.horizontalCenter = 0,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.touchEnabled = !1,
+        e.verticalCenter = 0,
+        e
+    },
+    n.bg_i = function() {
+        var e = new eui.Image;
+        return this.bg = e,
+        e.alpha = .8,
+        e.horizontalCenter = 0,
+        e.scale9Grid = new egret.Rectangle(195, 147, 801, 374),
+        e.source = "blurry_base_bgmask_png",
+        e.touchEnabled = !1,
+        e.verticalCenter = 0,
+        e
+    },
+    n.bgGroup_i = function() {
+        var e = new eui.Group;
+        return this.bgGroup = e,
+        e.horizontalCenter = -150,
+        e.scaleX = 1,
+        e.scaleY = 1,
+        e.touchEnabled = !1,
+        e.verticalCenter = 50,
+        e
+    },
+    n.rightGroup_i = function() {
+        var e = new eui.Group;
+        return this.rightGroup = e,
+        e.height = 640,
+        e.right = 0,
+        e.width = 637,
+        e.y = 0,
+        e.elementsContent = [this._Group1_i(), this.cant_i()],
+        e
+    },
+    n._Group1_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.height = 640,
+        e.width = 637,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image1_i(), this.level_i(), this.icon_i(), this.btnMatch_i()],
+        e
+    },
+    n._Image1_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_wild_mode_rightbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.level_i = function() {
+        var e = new eui.Label;
+        return this.level = e,
+        e.fontFamily = "REEJI",
+        e.height = 22,
+        e.horizontalCenter = 161,
+        e.size = 22,
+        e.text = "宇宙圣皇99999星",
+        e.textAlign = "center",
+        e.textColor = 16383837,
+        e.y = 343,
+        e
+    },
+    n.icon_i = function() {
+        var e = new eui.Image;
+        return this.icon = e,
+        e.height = 192,
+        e.width = 192,
+        e.x = 385,
+        e.y = 144,
+        e
+    },
+    n.btnMatch_i = function() {
+        var e = new eui.Image;
+        return this.btnMatch = e,
+        e.source = "peakjihad_sports_mode_btnjingji_png",
+        e.visible = !0,
+        e.x = 383.93,
+        e.y = 398.26,
+        e
+    },
+    n.cant_i = function() {
+        var e = new eui.Group;
+        return this.cant = e,
+        e.height = 180,
+        e.width = 180,
+        e.x = 392.336,
+        e.y = 405,
+        e.elementsContent = [this._Image2_i(), this.time_i()],
+        e
+    },
+    n._Image2_i = function() {
+        var e = new eui.Image;
+        return e.source = "pea_jihad_sport_cantbg_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.time_i = function() {
+        var e = new eui.Label;
+        return this.time = e,
+        e.fontFamily = "MFShangHei",
+        e.size = 24,
+        e.text = "00:00:00",
+        e.textAlign = "center",
+        e.textColor = 16514896,
+        e.width = 120,
+        e.x = 30,
+        e.y = 116,
+        e
+    },
+    n._Group4_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.right = 60,
+        e.top = 0,
+        e.visible = !0,
+        e.elementsContent = [this._Group2_i(), this._Group3_i()],
+        e
+    },
+    n._Group2_i = function() {
+        var e = new eui.Group;
+        return e.right = 168,
+        e.y = 12,
+        e.elementsContent = [this._Image3_i(), this.icon0_i(), this.num0_i()],
+        e
+    },
+    n._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_item_num_bg_png",
+        e.x = 0,
+        e.y = 3.171,
+        e
+    },
+    n.icon0_i = function() {
+        var e = new eui.Image;
+        return this.icon0 = e,
+        e.height = 55,
+        e.left = -2,
+        e.scaleX = .7,
+        e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon0_png",
+        e.width = 55,
+        e.y = -6,
+        e
+    },
+    n.num0_i = function() {
+        var e = new eui.Label;
+        return this.num0 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 15.5,
+        e.size = 16,
+        e.textColor = 13887988,
+        e.y = 5,
+        e
+    },
+    n._Group3_i = function() {
+        var e = new eui.Group;
+        return e.right = 7,
+        e.y = 12,
+        e.elementsContent = [this._Image4_i(), this.icon1_i(), this.num1_i()],
+        e
+    },
+    n._Image4_i = function() {
+        var e = new eui.Image;
+        return e.source = "peakjihad_item_num_bg_png",
+        e.x = 0,
+        e.y = 2.108,
+        e
+    },
+    n.icon1_i = function() {
+        var e = new eui.Image;
+        return this.icon1 = e,
+        e.height = 55,
+        e.left = -2,
+        e.scaleX = .7,
+        e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon1_png",
+        e.width = 55,
+        e.y = -6,
+        e
+    },
+    n.num1_i = function() {
+        var e = new eui.Label;
+        return this.num1 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 15.5,
+        e.size = 16,
+        e.textColor = 13887988,
+        e.y = 5,
+        e
+    },
+    n.leftGroup_i = function() {
+        var e = new eui.Group;
+        return this.leftGroup = e,
+        e.height = 605,
+        e.left = 11,
+        e.width = 453,
+        e.y = 14,
+        e.elementsContent = [this._Group5_i(), this._Scroller1_i()],
+        e
+    },
+    n._Group5_i = function() {
+        var e = new eui.Group;
+        return e.cacheAsBitmap = !0,
+        e.height = 605,
+        e.width = 453,
+        e.x = 0,
+        e.y = 0,
+        e.elementsContent = [this._Image5_i(), this.exp_i(), this.bar_i(), this.curLevel_i(), this.curExp_i(), this.task_i(), this.btnJiangli_i(), this.reward_i(), this.achieve_i(), this.suit_i(), this.dotReward_i(), this.dotAchieve_i()],
+        e
+    },
+    n._Image5_i = function() {
+        var e = new eui.Image;
+        return e.source = "pea_jihad_sport_line_png",
+        e.x = 0,
+        e.y = 0,
+        e
+    },
+    n.exp_i = function() {
+        var e = new eui.Image;
+        return this.exp = e,
+        e.source = "peakjihad_sports_mode_exp_png",
+        e.visible = !0,
+        e.x = 10,
+        e.y = 499,
+        e
+    },
+    n.bar_i = function() {
+        var e = new eui.ProgressBar;
+        return this.bar = e,
+        e.rotation = 270,
+        e.visible = !0,
+        e.x = 16.19,
+        e.y = 598.28,
+        e.skinName = i,
+        e
+    },
+    n.curLevel_i = function() {
+        var e = new eui.Label;
+        return this.curLevel = e,
+        e.fontFamily = "REEJI",
+        e.horizontalCenter = -80.5,
+        e.size = 30,
+        e.text = "0",
+        e.textColor = 16777215,
+        e.y = 549,
+        e
+    },
+    n.curExp_i = function() {
+        var e = new eui.Label;
+        return this.curExp = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = -167,
+        e.size = 18,
+        e.text = "0",
+        e.textColor = 16514895,
+        e.y = 547,
+        e
+    },
+    n.task_i = function() {
+        var e = new eui.Image;
+        return this.task = e,
+        e.source = "peakjihad_sports_mode_btnmeiri_png",
+        e.x = 216,
+        e.y = 516,
+        e
+    },
+    n.btnJiangli_i = function() {
+        var e = new eui.Image;
+        return this.btnJiangli = e,
+        e.source = "peakjihad_sports_mode_btnjiangli_png",
+        e.x = 324,
+        e.y = 516,
+        e
+    },
+    n.reward_i = function() {
+        var e = new eui.Image;
+        return this.reward = e,
+        e.source = "peakjihad_sports_mode_btnduanwei_png",
+        e.x = 163,
+        e.y = 411,
+        e
+    },
+    n.achieve_i = function() {
+        var e = new eui.Image;
+        return this.achieve = e,
+        e.source = "pea_jihad_achieve_pop_btnchengjiu_png",
+        e.x = 259,
+        e.y = 411,
+        e
+    },
+    n.suit_i = function() {
+        var e = new eui.Image;
+        return this.suit = e,
+        e.source = "peakjihad_sports_mode_btnzhuangban_png",
+        e.x = 67,
+        e.y = 411,
+        e
+    },
+    n.dotReward_i = function() {
+        var e = new eui.Image;
+        return this.dotReward = e,
+        e.height = 20,
+        e.source = "dot_png",
+        e.visible = !1,
+        e.width = 20,
+        e.x = 226,
+        e.y = 416.544,
+        e
+    },
+    n.dotAchieve_i = function() {
+        var e = new eui.Image;
+        return this.dotAchieve = e,
+        e.height = 20,
+        e.source = "dot_png",
+        e.visible = !1,
+        e.width = 20,
+        e.x = 321.831,
+        e.y = 416,
+        e
+    },
+    n._Scroller1_i = function() {
+        var e = new eui.Scroller;
+        return e.cacheAsBitmap = !0,
+        e.height = 334,
+        e.width = 250.5,
+        e.x = 27,
+        e.y = 57,
+        e.viewport = this._list_i(),
+        e
+    },
+    n._list_i = function() {
+        var e = new eui.List;
+        return this._list = e,
+        e.itemRendererSkinName = PeakjihadSportsModePetSkin,
+        e.layout = this._TileLayout1_i(),
+        e
+    },
+    n._TileLayout1_i = function() {
+        var e = new eui.TileLayout;
+        return e.horizontalGap = 10,
+        e.paddingLeft = 4,
+        e.paddingTop = 2,
+        e.requestedColumnCount = 3,
+        e.verticalGap = 10,
         e
     },
     t

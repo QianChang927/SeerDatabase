@@ -1094,8 +1094,10 @@ function(e) {
                     h = n;
                     for (var l = [], o = 0; 4 > o; o++) KTool.getBit(u, o + 1) && l.push(o);
                     if (AwardManager.getItem().length) return;
-                    var g = l[Math.floor(Math.random() * l.length)];
-                    Alarm.show("恭喜你，成功点亮" + h[g] + "之触")
+                    if (l.length > 0) {
+                        var g = l[Math.floor(Math.random() * l.length)];
+                        Alarm.show("恭喜你，成功点亮" + h[g] + "之触")
+                    }
                 }
             }
         },
@@ -1140,23 +1142,6 @@ function(e) {
         },
         t.prototype.addEvent = function() {
             var e = this;
-            ImageButtonUtil.add(this.btnBuy,
-            function() {
-                PetManager.isDefaultPet(3312) ? PayManager.doPayFunc(function() {
-                    KTool.buyProductByCallback(249754, 1,
-                    function() {
-                        SocketConnection.sendByQueue(46309, [3, 2],
-                        function() {
-                            e.updateData()
-                        })
-                    })
-                },
-                e) : Alarm.show("请将魔君索伦森至于背包首发！",
-                function() {
-                    ModuleManager.showModule("petBag", ["petBag"])
-                })
-            },
-            this),
             ImageButtonUtil.add(this.btnGet,
             function() {
                 KTool.getBitSet([9511],
@@ -1230,12 +1215,10 @@ function(e) {
             })
         },
         t.prototype.updateView = function() {
-            this.btnBuy.visible = !KTool.getBit(this._state, 3);
             for (var e = 0; 3 > e; e++) this["flag_got_" + e].visible = KTool.getBit(this._state, 2);
             this.flag_got_3.visible = this.flag_petGot.visible = !!KTool.getBit(this._state, 1),
             this.btnGet.visible = !KTool.getBit(this._state, 1) && !this._hasPet,
-            this.btnUp.visible = this.grp_extra.visible = !!this._hasPet && !KTool.getBit(this._state, 1),
-            DisplayUtil.setEnabled(this.btnBuy, !KTool.getBit(this._state, 2))
+            this.btnUp.visible = this.grp_extra.visible = !!this._hasPet && !KTool.getBit(this._state, 1)
         },
         t.prototype.destroy = function() {
             ImageButtonUtil.removeAll(this),
@@ -3132,11 +3115,11 @@ generateEUI.paths["resource/eui_skins/BruteSorensenLevel5Skin.exml"] = window.Br
     n.btnBuy_i = function() {
         var e = new eui.Image;
         return this.btnBuy = e,
-        e.height = 40,
+        e.height = 19,
         e.source = "brute_sorensen_level_5_btnBuy_png",
-        e.width = 150,
-        e.x = 155,
-        e.y = 570,
+        e.width = 239,
+        e.x = 111,
+        e.y = 581,
         e
     },
     n.grp_extra_i = function() {

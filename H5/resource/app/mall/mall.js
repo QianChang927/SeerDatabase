@@ -682,11 +682,6 @@ function(t) {
                             t.hasBuy = i
                         },
                         this),
-                        r.sort(function(t, e) {
-                            var i = GoldProductXMLInfo.getPriceByProID(t.productID) * (t.vip || 1),
-                            n = GoldProductXMLInfo.getPriceByProID(e.productID) * (e.vip || 1);
-                            return (t.hasBuy || 0) - (e.hasBuy || 0) || i - n
-                        }),
                         this.list.dataProvider = new eui.ArrayCollection(r),
                         a = 215,
                         [3, 15];

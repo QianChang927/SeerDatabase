@@ -2609,19 +2609,19 @@ function(t) {
         return __extends(n, e),
         n.prototype.initialized = function() {
             this.txt_a.textFlow = [{
-                text: "刘、关、张三人组中的任意一人处于背包时，在场精灵每回合结束后恢复",
+                text: "刘关张三人组中的任意一人处于背包时，在场精灵每回合结束后恢复",
                 style: {
                     textColor: 12900350
                 }
             },
             {
-                text: "15点\n",
+                text: "15点",
                 style: {
                     textColor: 4252667
                 }
             },
             {
-                text: "点体力，最多可叠加至",
+                text: "体力，最多可叠加至",
                 style: {
                     textColor: 12900350
                 }

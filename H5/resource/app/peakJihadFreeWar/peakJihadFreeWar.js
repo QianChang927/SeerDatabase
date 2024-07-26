@@ -174,19 +174,12 @@ function(e) {
             this.update()
         },
         t.prototype.initEvents = function() {
-            var e = this;
             SocketConnection.addCmdListener(45140, this.onGoOutOnline, this),
             SocketConnection.addCmdListener(45142, this.onChallenger, this);
-            for (var t = 0; 2 > t; t++) ImageButtonUtil.add(this["settingTeamBtn_" + t], this.onSettingTeamHandler, this);
+            for (var e = 0; 2 > e; e++) ImageButtonUtil.add(this["settingTeamBtn_" + e], this.onSettingTeamHandler, this);
             ImageButtonUtil.add(this.readyBtn, this.onReadyBtnHandler, this),
             ImageButtonUtil.add(this.startBtn, this.onStartBtnHandler, this),
-            ImageButtonUtil.add(this.kickedChallengerBtn, this.onKickedChallengerHandler, this),
-            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT,
-            function() {
-                e.onClose(),
-                ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], null, "PeakJihadFreeMode")
-            },
-            this)
+            ImageButtonUtil.add(this.kickedChallengerBtn, this.onKickedChallengerHandler, this)
         },
         t.prototype.onSettingTeamHandler = function(e) {
             var t = Number(e.currentTarget.name.split("_")[1]);

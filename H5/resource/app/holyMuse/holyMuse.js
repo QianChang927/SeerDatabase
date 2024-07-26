@@ -800,7 +800,7 @@ function(e) {
             var n = t.call(this) || this;
             return n.leftTime = 0,
             n.actionTime = 0,
-            n.showRate = [5, 10, 15, 20, 25, 30, 40, 45, 50, 65, 80],
+            n.showRate = [0, 5, 10, 20, 25, 30, 40, 45, 50, 65, 80, 90, 100, 100, 100],
             n.needItem = [1, 1, 1, 2, 3, 4, 5, 6],
             n.skinName = e.Panel4Skin,
             n
@@ -944,7 +944,7 @@ function(e) {
                     t.service.backToMainPanel()
                 })
             }
-            var o = this.actionTime > 10 ? 10 : this.actionTime;
+            var o = this.actionTime;
             this.txt_winRate.text = this.showRate[o] + "%";
             var s = this.actionTime > 7 ? 7 : this.actionTime,
             r = ItemManager.getNumByID(1714501),

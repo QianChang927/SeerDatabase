@@ -497,7 +497,7 @@ SocketEncryptImpl = function(e) {
         if (this._packageLen = e.readUnsignedInt(), this._packageLen < t.HEAD_LENGTH || this._packageLen > t.PACKAGE_MAX) return this.readDataError(0),
         this.dispatchEvent(new SocketErrorEvent(SocketErrorEvent.ERROR, null)),
         void e.readBytes(new egret.ByteArray);
-        if (this._headInfo = new HeadInfo(e), (1001 == this._headInfo.cmdID || 41463 == this._headInfo.cmdID || 42387 == this._headInfo.cmdID) && (this._result = this._headInfo.result), 41228 != this._headInfo.cmdID && 1002 != this._headInfo.cmdID && this.log(this._headInfo.cmdID, "S2C<<Socket: " + this.ip + ":" + this.port.toString() + "[cmdID:" + this._headInfo.cmdID + "]", t.getCmdLabel(this._headInfo.cmdID), "result: " + this._result, "[paclen:" + this._packageLen + "]"), this._headInfo.result > 1e3) return this.log("异常错误:" + this._headInfo.result),
+        if (this._headInfo = new HeadInfo(e), (1001 == this._headInfo.cmdID || 41463 == this._headInfo.cmdID || 42387 == this._headInfo.cmdID) && (this._result = this._headInfo.result, this.reconnectKey = this._result), 41228 != this._headInfo.cmdID && 1002 != this._headInfo.cmdID && this.log(this._headInfo.cmdID, "S2C<<Socket: " + this.ip + ":" + this.port.toString() + "[cmdID:" + this._headInfo.cmdID + "]", t.getCmdLabel(this._headInfo.cmdID), "result: " + this._result, "[paclen:" + this._packageLen + "]"), this._headInfo.result > 1e3) return this.log("异常错误:" + this._headInfo.result),
         ParseSocketError.parse(this._headInfo.result, this._headInfo.cmdID),
         this.readDataError(this._headInfo.cmdID),
         this.dispatchError(this._headInfo.cmdID, this._headInfo),

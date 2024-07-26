@@ -148,8 +148,7 @@ function(e) {
     var t = function(t) {
         function i() {
             var e = t.call(this) || this;
-            return e.roll = !1,
-            e.skinName = "GodReayFlyPanelSkin",
+            return e.skinName = "GodReayFlyPanelSkin",
             e
         }
         return __extends(i, t),
@@ -201,7 +200,6 @@ function(e) {
                     t.service.updateSomeValues([4198]).then(function() {
                         var i = e.data,
                         n = i.readUnsignedInt();
-                        t.roll = !0,
                         t.playRollAni([0, 2, 1, 3, 4][n]).then(function() {
                             t.btnRoll.visible = !1,
                             t.btnFight1.visible = !0
@@ -253,10 +251,6 @@ function(e) {
                 },
                 t)
             },
-            this),
-            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT,
-            function() { ! t.roll && t.update()
-            },
             this)
         },
         i.prototype.update = function() {
@@ -271,7 +265,7 @@ function(e) {
                 this.txtAddTimes.text = TimeUtil.countDownFormat(a, "mm:ss"),
                 TimeDelayUtils.setInterval(function() {
                     e.txtAddTimes.text = TimeUtil.countDownFormat(--a, "mm:ss"),
-                    0 > a && (TimeDelayUtils.clearAllTimeByThisObj(e), e.txtAddTimes.text = "", e.updateValues())
+                    0 > a && (TimeDelayUtils.clearAllTimeByThisObj(e), e.updateValues())
                 },
                 1e3, this)
             }
@@ -307,7 +301,7 @@ function(e) {
                         var r = {
                             i: 0
                         };
-                        LevelManager.appLevel.touchChildren = !1,
+                        egret.lifecycle.stage.touchChildren = !1,
                         egret.Tween.get(r, {
                             onChange: function() {
                                 for (var e = Math.floor(r.i) % 4, i = 1; 4 >= i; i++) t["imgSelect" + i].visible = i == e + 1
@@ -316,8 +310,7 @@ function(e) {
                             i: 27 + e
                         },
                         4e3, egret.Ease.quadInOut).call(function() {
-                            t.roll = !1,
-                            LevelManager.appLevel.touchChildren = !0,
+                            egret.lifecycle.stage.touchChildren = !0,
                             i()
                         })
                     })]
@@ -602,7 +595,8 @@ function(e) {
                 },
                 e)
             },
-            this)
+            this),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.updateValues, this)
         },
         t.prototype.update = function() {
             var e = this,
@@ -616,7 +610,7 @@ function(e) {
                 this.txtAddTimes.text = TimeUtil.countDownFormat(a, "mm:ss"),
                 TimeDelayUtils.setInterval(function() {
                     e.txtAddTimes.text = TimeUtil.countDownFormat(--a, "mm:ss"),
-                    0 > a && (TimeDelayUtils.clearAllTimeByThisObj(e), e.updateValues())
+                    0 > a && (TimeDelayUtils.clearAllTimeByThisObj(e), SocketConnection.mainSocket.connected ? e.updateValues() : e.update())
                 },
                 1e3, this)
             }
@@ -1030,7 +1024,8 @@ function(e) {
                     })
                 })
             },
-            this)
+            this),
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.updateValues, this)
         },
         t.prototype.update = function() {
             var e = this;
@@ -1056,7 +1051,7 @@ function(e) {
                 this.txtAddTimes.text = TimeUtil.countDownFormat(g, "mm:ss"),
                 TimeDelayUtils.setInterval(function() {
                     e.txtAddTimes.text = TimeUtil.countDownFormat(--g, "mm:ss"),
-                    0 > g && (TimeDelayUtils.clearAllTimeByThisObj(e), e.updateValues())
+                    0 > g && (TimeDelayUtils.clearAllTimeByThisObj(e), SocketConnection.mainSocket.connected ? e.updateValues() : e.update())
                 },
                 1e3, this)
             }

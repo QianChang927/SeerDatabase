@@ -19,11 +19,20 @@ function(t) {
         function e(e) {
             void 0 === e && (e = null);
             var i = t.call(this) || this;
-            return i._fightMod = 2,
-            i._isjingji = !1,
-            i.data = e,
-            i.data && (1 == i.data.fightMod && (i._fightMod = i.data.fightMod), 3 == i.data.fightMod || 8 == i.data.fightMod ? (i._fightMod = 2, i._isjingji = !0) : i._isjingji = !1),
-            i.skinName = PeakjihadmatchwaitmodeSkin,
+            if (i._fightMod = 2, i.data = e, i.data) switch (i._curMode = i.data.fightMod, i._curMode) {
+            case 1:
+                i._fightMod = 1;
+                break;
+            case 2:
+            case 3:
+            case 4:
+            case 8:
+                i._fightMod = 2;
+                break;
+            default:
+                i._fightMod = 2
+            }
+            return i.skinName = PeakjihadmatchwaitmodeSkin,
             i
         }
         return __extends(e, t),
@@ -112,13 +121,14 @@ function(t) {
         e.prototype.enterFight = function() {
             var t = this;
             this.closeTimer(),
+            PeakJihadController.isInPvP = !0,
             this.wait.visible = !1,
             this._aniChenggong.visible = !0,
             DragonbonesUtil.play(this._aniChenggong, "chenggong", 1).then(function() {
                 KTool.getMultiValue([3306],
                 function(e) {
                     t._fightMod = e[0],
-                    1 == t._fightMod ? (ModuleManager.CloseAll(), ModuleManager.showModule("peakJihad6V6BanPickModePanel", ["peakJihad6V6BanPickModePanel"], t._isjingji, "PeakJihad3V3BanPickModePanel")) : 2 == t._fightMod && (ModuleManager.CloseAll(), ModuleManager.showModule("peakJihad6V6BanPickModePanel", ["peakJihad6V6BanPickModePanel"], t._isjingji))
+                    1 == t._fightMod ? (ModuleManager.CloseAll(), ModuleManager.showModule("peakJihad6V6BanPickModePanel", ["peakJihad6V6BanPickModePanel"], t._curMode, "PeakJihad3V3BanPickModePanel")) : 2 == t._fightMod && (ModuleManager.CloseAll(), ModuleManager.showModule("peakJihad6V6BanPickModePanel", ["peakJihad6V6BanPickModePanel"], t._curMode))
                 })
             })
         },

@@ -27,9 +27,12 @@ function(e) {
             i._requireArr = [0, 0, 30, 20, 20, 0],
             i._isJJ = !1,
             i._maxNum = 6,
+            i._isShowLv = !0,
             i._pretime = 0,
             i._alltime = 0,
-            i._isJJ = e,
+            i._curMode = e,
+            i._isJJ = 3 == i._curMode ? !0 : !1,
+            i._isShowLv = 2 == i._curMode || 3 == i._curMode ? !0 : !1,
             i.skinName = Peakjihad3v3banpickmodeSkin,
             i
         }
@@ -138,8 +141,8 @@ function(e) {
                 n = KTool.subByte(i, 16, 16);
                 e.level1.text = PeakJihadController.getMyRatingsNameByScore(i, 4 > r ? !0 : !1),
                 e.icon1.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(r, n) + 1),
-                e.myStarIcon.visible = r > 3 && e._isJJ,
-                e.level1.visible = e.icon1.visible = e._isJJ
+                e.myStarIcon.visible = r > 3 && e._isShowLv,
+                e.level1.visible = e.icon1.visible = e._isShowLv
             }),
             ItemManager.updateItems([PeakJihadController.itemId1],
             function() {
@@ -155,8 +158,8 @@ function(e) {
                     n = KTool.subByte(i, 16, 16);
                     e.level2.text = PeakJihadController.getRatingsNameByScore(i, !1),
                     e.icon2.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(r, n) + 1),
-                    e.enemyStarIcon.visible = r > 3 && e._isJJ,
-                    e.level2.visible = e.icon2.visible = e._isJJ
+                    e.enemyStarIcon.visible = r > 3 && e._isShowLv,
+                    e.level2.visible = e.icon2.visible = e._isShowLv
                 }),
                 UserInfoManager.getInfo(e._rivalUserID,
                 function(t) {
@@ -203,8 +206,8 @@ function(e) {
                     for (var r = 0,
                     n = 0; 6 > n; n++) {
                         for (var a = e._myItemArr[n], o = 0, s = e._myPetdisabledCatchTimeArr; o < s.length; o++) {
-                            var l = s[o];
-                            a.catchTime == l && (3 > r && a.setStatusFrame(a.DISABLED), a.isCancel = !1, r++)
+                            var h = s[o];
+                            a.catchTime == h && (3 > r && a.setStatusFrame(a.DISABLED), a.isCancel = !1, r++)
                         }
                         null != e._myPetdisabledCatchTimeArr && null != a && a.catchTime != e._myPetdisabledCatchTimeArr[0] && a.catchTime != e._myPetdisabledCatchTimeArr[1] && a.catchTime != e._myPetdisabledCatchTimeArr[2] && a.petInfo.level >= 100 && i++
                     }
@@ -289,8 +292,8 @@ function(e) {
                     else if (r.status == r.DEFAULT) r.setStatusFrame(r.NO_SET);
                     else {
                         for (var s = 0; 6 > s; s++) {
-                            var l = this._myItemArr[s];
-                            l.status == l.DEFAULT && l.setStatusFrame(l.NO_SET)
+                            var h = this._myItemArr[s];
+                            h.status == h.DEFAULT && h.setStatusFrame(h.NO_SET)
                         }
                         r.setStatusFrame(r.DEFAULT),
                         this.touchEnabled = !1,
@@ -314,7 +317,7 @@ function(e) {
                     else {
                         if (r.status == r.PLAY) {
                             r.setStatusFrame(r.NO_SET);
-                            for (var h = 0; h < this._myPetPlayArr.length; h++) this._myPetPlayArr[h] == r && this._myPetPlayArr.splice(h, 1)
+                            for (var l = 0; l < this._myPetPlayArr.length; l++) this._myPetPlayArr[l] == r && this._myPetPlayArr.splice(l, 1)
                         } else if (r.status != r.DEFAULT) if (this._myPetPlayArr.length < this._canPlayPetNum - 1) r.setStatusFrame(r.PLAY),
                         this._myPetPlayArr.push(r);
                         else {
@@ -372,8 +375,8 @@ function(e) {
             if (this._disabledRivalCatchTimeArr.push(n), 2 == this._curStep) {
                 this.clearLocalStatus(this._rivalItemArr);
                 for (var a = this.getItemByCatchTime(this._rivalItemArr, this._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
-                    var l = s[o];
-                    l.setStatusFrame(l.DISABLED)
+                    var h = s[o];
+                    h.setStatusFrame(h.DISABLED)
                 }
                 Alarm.show("你由于超时没有禁用对方精灵，我们随机帮你选择了禁用！", null, this),
                 this._rivalisdisableOther = !0,
@@ -506,12 +509,12 @@ function(e) {
                 for (var n = 0; 5 > n; n++) t._myPetPlayCatchTimeArr.push(i[4 + n]);
                 t.clearLocalStatus(t._rivalItemArr);
                 for (var a = t.getItemBypetId(t._rivalItemArr, t._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
-                    var l = s[o];
-                    null != l && l.setStatusFrame(l.DISABLED)
+                    var h = s[o];
+                    null != h && h.setStatusFrame(h.DISABLED)
                 }
                 t.clearLocalStatus(t._myItemArr);
-                var h = t.getItemByCatchTime(t._myItemArr, t._defaultCatchTimeArr),
-                u = h[0];
+                var l = t.getItemByCatchTime(t._myItemArr, t._defaultCatchTimeArr),
+                u = l[0];
                 null != u && u.setStatusFrame(u.DEFAULT),
                 t.clearLocalStatus(t._myItemArr);
                 for (var c = t.getItemByCatchTime(t._myItemArr, t._myPetPlayCatchTimeArr), m = 0, _ = c; m < _.length; m++) {
@@ -568,9 +571,12 @@ function(e) {
             i._petList = [],
             i._requireArr = [0, 0, 30, 20, 20, 0],
             i._maxNum = 12,
+            i._isShowLv = !0,
             i._pretime = 0,
             i._alltime = 0,
-            i._isJJ = e,
+            i._curMode = e,
+            i._isJJ = 3 == i._curMode ? !0 : !1,
+            i._isShowLv = 2 == i._curMode || 3 == i._curMode ? !0 : !1,
             i.skinName = Peakjihad6v6banpickmodeSkin,
             i
         }
@@ -672,9 +678,9 @@ function(e) {
                 var i = t[0] & Math.pow(2, 16) - 1,
                 r = KTool.subByte(t[0], 16, 16);
                 e.level1.text = PeakJihadController.getMyRatingsNameByScore(e._score, 4 > i ? !0 : !1),
-                e.myStarIcon.visible = i >= 4,
-                e.level1.visible = e.icon1.visible = !0,
-                e.icon1.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(i, r) + 1)
+                e.myStarIcon.visible = i >= 4 && e._isShowLv,
+                e.icon1.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(i, r) + 1),
+                e.level1.visible = e.icon1.visible = e._isShowLv
             }),
             ItemManager.updateItems([PeakJihadController.itemId1],
             function() {
@@ -689,9 +695,9 @@ function(e) {
                     r = i & Math.pow(2, 16) - 1,
                     n = KTool.subByte(i, 16, 16);
                     e.level2.text = PeakJihadController.getRatingsNameByScore(i, !1),
-                    e.enemyStarIcon.visible = r >= 4,
-                    e.level2.visible = e.icon2.visible = !0,
-                    e.icon2.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(r, n) + 1)
+                    e.enemyStarIcon.visible = r >= 4 && e._isShowLv,
+                    e.icon2.source = ClientConfig.getPeakjihadLevelPath(PeakJihadController.getResIndexByLevelScore(r, n) + 1),
+                    e.level2.visible = e.icon2.visible = e._isShowLv
                 }),
                 UserInfoManager.getInfo(e._rivalUserID,
                 function(t) {
@@ -720,8 +726,8 @@ function(e) {
             var o = i.length - r;
             o > 9 ? this._canPlayPetNum = 6 : this._canPlayPetNum = o - 3;
             for (var s = 0; s < this._maxNum; s++) {
-                var l = this._myItemArr[s];
-                s < i.length ? l.setPetInfo(i[s]) : l.setPetInfo(null)
+                var h = this._myItemArr[s];
+                s < i.length ? h.setPetInfo(i[s]) : h.setPetInfo(null)
             }
             KTool.getMultiValue([3323],
             function(t) {
@@ -740,8 +746,8 @@ function(e) {
                     for (var r = 0,
                     n = 0; n < PetManager.allInfos.length; n++) {
                         for (var a = e._myItemArr[n], o = 0, s = e._myPetdisabledCatchTimeArr; o < s.length; o++) {
-                            var l = s[o];
-                            a.catchTime == l && (3 > r && a.setStatusFrame(a.DISABLED), a.isCancel = !1, r++)
+                            var h = s[o];
+                            a.catchTime == h && (3 > r && a.setStatusFrame(a.DISABLED), a.isCancel = !1, r++)
                         }
                         null != e._myPetdisabledCatchTimeArr && null != a && a.catchTime != e._myPetdisabledCatchTimeArr[0] && a.catchTime != e._myPetdisabledCatchTimeArr[1] && a.catchTime != e._myPetdisabledCatchTimeArr[2] && a.petInfo.level >= 100 && i++,
                         i > 6 ? e._canPlayPetNum = 6 : e._canPlayPetNum = i
@@ -835,8 +841,8 @@ function(e) {
                     else if (r.status == r.DEFAULT) r.setStatusFrame(r.NO_SET);
                     else {
                         for (var s = 0; s < PetManager.allInfos.length; s++) {
-                            var l = this._myItemArr[s];
-                            l.status == l.DEFAULT && l.setStatusFrame(l.NO_SET)
+                            var h = this._myItemArr[s];
+                            h.status == h.DEFAULT && h.setStatusFrame(h.NO_SET)
                         }
                         r.setStatusFrame(r.DEFAULT),
                         this.touchEnabled = !1,
@@ -860,7 +866,7 @@ function(e) {
                     else {
                         if (r.status == r.PLAY) {
                             r.setStatusFrame(r.NO_SET);
-                            for (var h = 0; h < this._myPetPlayArr.length; h++) this._myPetPlayArr[h] == r && this._myPetPlayArr.splice(h, 1)
+                            for (var l = 0; l < this._myPetPlayArr.length; l++) this._myPetPlayArr[l] == r && this._myPetPlayArr.splice(l, 1)
                         } else if (r.status != r.DEFAULT) if (this._myPetPlayArr.length < this._canPlayPetNum - 1) r.setStatusFrame(r.PLAY),
                         this._myPetPlayArr.push(r);
                         else {
@@ -918,8 +924,8 @@ function(e) {
             if (this._disabledRivalCatchTimeArr.push(n), 2 == this._curStep) {
                 this.clearLocalStatus(this._rivalItemArr);
                 for (var a = this.getItemByCatchTime(this._rivalItemArr, this._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
-                    var l = s[o];
-                    l.setStatusFrame(l.DISABLED)
+                    var h = s[o];
+                    h.setStatusFrame(h.DISABLED)
                 }
                 Alarm.show("你由于超时没有禁用对方精灵，我们随机帮你选择了禁用！", null, this),
                 this._rivalisdisableOther = !0,
@@ -962,7 +968,7 @@ function(e) {
         },
         i.prototype.onQuitRoom = function(e) {
             var i = this;
-            PetFightModel.type = 1 == this._isJJ ? PetFightModel.PEAK_JIHAD_6V6_JJ: PetFightModel.PEAK_JIHAD_6V6;
+            this.setPetFightModel();
             var r = e.data;
             r.position = 0;
             var n = (r.readUnsignedInt(), r.readUnsignedInt()),
@@ -994,12 +1000,24 @@ function(e) {
             function(r) {
                 var n = null;
                 null != e && (n = e.data),
-                null != n && n.model == PetFightModel.PEAK_JIHAD_FIGHT_WITH_FIGURE ? (PetFightModel.type = 1 == i._isJJ ? PetFightModel.PEAK_JIHAD_6V6_JJ: PetFightModel.PEAK_JIHAD_6V6, PetFightModel.enemyId = Number(i._rivalUserID), PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : 5 == r || 5 == i._curStep || 6 == r || 6 == i._curStep ? (PetFightModel.type = 1 == i._isJJ ? PetFightModel.PEAK_JIHAD_6V6_JJ: PetFightModel.PEAK_JIHAD_6V6, PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : (Alarm.show("如果你在打巅峰6v6弹出此框是不对的！此时this._curStep为：" + i._curStep + "ready.model:" + n.model + ";对方3307为：" + r, null, i), t.prototype.onClose.call(i))
+                null != n && n.model == PetFightModel.PEAK_JIHAD_FIGHT_WITH_FIGURE ? (i.setPetFightModel(), PetFightModel.enemyId = Number(i._rivalUserID), PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : 5 == r || 5 == i._curStep || 6 == r || 6 == i._curStep ? (i.setPetFightModel(), PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : (Alarm.show("如果你在打巅峰6v6弹出此框是不对的！此时this._curStep为：" + i._curStep + "ready.model:" + n.model + ";对方3307为：" + r, null, i), t.prototype.onClose.call(i))
             })
         },
         i.prototype.onOverTimeQuit = function(e) {
             Alarm.show("由于超时操作，对方结束了此次对战!"),
             t.prototype.onClose.call(this)
+        },
+        i.prototype.setPetFightModel = function() {
+            switch (this._curMode) {
+            case 2:
+                PetFightModel.type = PetFightModel.PEAK_JIHAD_6V6_WILD;
+                break;
+            case 3:
+                PetFightModel.type = PetFightModel.PEAK_JIHAD_6V6_JJ;
+                break;
+            case 4:
+                PetFightModel.type = PetFightModel.PEAK_JIHAD_6V6
+            }
         },
         i.prototype.clearLocalStatus = function(e) {
             for (var t = 0,
@@ -1052,12 +1070,12 @@ function(e) {
                 for (var n = 0; 5 > n; n++) t._myPetPlayCatchTimeArr.push(i[4 + n]);
                 t.clearLocalStatus(t._rivalItemArr);
                 for (var a = t.getItemBypetId(t._rivalItemArr, t._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
-                    var l = s[o];
-                    null != l && l.setStatusFrame(l.DISABLED)
+                    var h = s[o];
+                    null != h && h.setStatusFrame(h.DISABLED)
                 }
                 t.clearLocalStatus(t._myItemArr);
-                var h = t.getItemByCatchTime(t._myItemArr, t._defaultCatchTimeArr),
-                u = h[0];
+                var l = t.getItemByCatchTime(t._myItemArr, t._defaultCatchTimeArr),
+                u = l[0];
                 null != u && u.setStatusFrame(u.DEFAULT),
                 t.clearLocalStatus(t._myItemArr);
                 for (var c = t.getItemByCatchTime(t._myItemArr, t._myPetPlayCatchTimeArr), m = 0, _ = c; m < _.length; m++) {
@@ -1106,24 +1124,24 @@ function(e, t, i, r) {
     return new(i || (i = Promise))(function(n, a) {
         function o(e) {
             try {
-                l(r.next(e))
+                h(r.next(e))
             } catch(t) {
                 a(t)
             }
         }
         function s(e) {
             try {
-                l(r["throw"](e))
+                h(r["throw"](e))
             } catch(t) {
                 a(t)
             }
         }
-        function l(e) {
+        function h(e) {
             e.done ? n(e.value) : new i(function(t) {
                 t(e.value)
             }).then(o, s)
         }
-        l((r = r.apply(e, t || [])).next())
+        h((r = r.apply(e, t || [])).next())
     })
 },
 __generator = this && this.__generator ||
@@ -1135,7 +1153,7 @@ function(e, t) {
     }
     function r(i) {
         if (n) throw new TypeError("Generator is already executing.");
-        for (; l;) try {
+        for (; h;) try {
             if (n = 1, a && (o = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(o = o.call(a, i[1])).done) return o;
             switch (a = 0, o && (i = [0, o.value]), i[0]) {
             case 0:
@@ -1143,44 +1161,44 @@ function(e, t) {
                 o = i;
                 break;
             case 4:
-                return l.label++,
+                return h.label++,
                 {
                     value: i[1],
                     done: !1
                 };
             case 5:
-                l.label++,
+                h.label++,
                 a = i[1],
                 i = [0];
                 continue;
             case 7:
-                i = l.ops.pop(),
-                l.trys.pop();
+                i = h.ops.pop(),
+                h.trys.pop();
                 continue;
             default:
-                if (o = l.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
-                    l = 0;
+                if (o = h.trys, !(o = o.length > 0 && o[o.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    h = 0;
                     continue
                 }
                 if (3 === i[0] && (!o || i[1] > o[0] && i[1] < o[3])) {
-                    l.label = i[1];
+                    h.label = i[1];
                     break
                 }
-                if (6 === i[0] && l.label < o[1]) {
-                    l.label = o[1],
+                if (6 === i[0] && h.label < o[1]) {
+                    h.label = o[1],
                     o = i;
                     break
                 }
-                if (o && l.label < o[2]) {
-                    l.label = o[2],
-                    l.ops.push(i);
+                if (o && h.label < o[2]) {
+                    h.label = o[2],
+                    h.ops.push(i);
                     break
                 }
-                o[2] && l.ops.pop(),
-                l.trys.pop();
+                o[2] && h.ops.pop(),
+                h.trys.pop();
                 continue
             }
-            i = t.call(e, l)
+            i = t.call(e, h)
         } catch(r) {
             i = [6, r],
             a = 0
@@ -1193,7 +1211,7 @@ function(e, t) {
             done: !0
         }
     }
-    var n, a, o, s, l = {
+    var n, a, o, s, h = {
         label: 0,
         sent: function() {
             if (1 & o[0]) throw o[1];

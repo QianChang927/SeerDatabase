@@ -251,6 +251,7 @@ function(t) {
                     switch (a.label) {
                     case 0:
                         return e.prototype.childrenCreated.call(this),
+                        StatLogger.log("20240726版本系统功能", "20240726物品仓库", "进入物品仓库"),
                         this.imgSeerDou.source = ClientConfig.getItemIcon(1),
                         this.imgDiamond.source = ClientConfig.getItemIcon(5),
                         e.prototype.initBtnClose.call(this, "item_warehouse_title_png", this),
@@ -556,29 +557,29 @@ function(t) {
                         this._scroller.viewport.scrollV = 0,
                         this.txtSearch.text = "",
                         6 == t || 7 == t ? (this._scroller.y = 103, this._scroller.height = 508) : (this._scroller.y = 82, this._scroller.height = 547),
-                        1 != t ? [3, 2] : (StatLogger.log("1023版本系统功能", "物品界面", "点击【全部】页签按钮"), this.currList = [], i = this, [4, this.getItemsByType(this.allTypes)]);
+                        1 != t ? [3, 2] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【全部】页签按钮"), this.currList = [], i = this, [4, this.getItemsByType(this.allTypes)]);
                     case 1:
                         return i.currList = _.sent(),
                         ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING]]),
                         [3, 15];
                     case 2:
-                        return 2 != t ? [3, 3] : (StatLogger.log("1023版本系统功能", "物品界面", "点击【最新获得】页签按钮"), this.currList = this.getLatelyItems(e), ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING]]), [3, 15]);
+                        return 2 != t ? [3, 3] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【最新获得】页签按钮"), this.currList = this.getLatelyItems(e), ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING]]), [3, 15]);
                     case 3:
-                        return 3 != t ? [3, 5] : (StatLogger.log("1023版本系统功能", "物品界面", "点击【礼箱】页签按钮"), n = this, [4, this.getItemsByType([30, 35])]);
+                        return 3 != t ? [3, 5] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【礼箱】页签按钮"), n = this, [4, this.getItemsByType([30, 35])]);
                     case 4:
                         return n.currList = _.sent(),
                         this.currList = this.getUnExpirItems(this.currList),
                         ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING]]),
                         [3, 15];
                     case 5:
-                        return 4 != t ? [3, 7] : (StatLogger.log("1023版本系统功能", "物品界面", "点击【道具】页签按钮"), r = this, [4, this.getItemsByType([31])]);
+                        return 4 != t ? [3, 7] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【重要】页签按钮"), r = this, [4, this.getItemsByType([31])]);
                     case 6:
                         return r.currList = _.sent(),
                         this.currList = this.getUnExpirItems(this.currList),
                         ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING]]),
                         [3, 15];
                     case 7:
-                        return 5 != t ? [3, 10] : (StatLogger.log("1023版本系统功能", "物品界面", "点击【收藏品】页签按钮"), [4, this.getItemsByType([30, 31])]);
+                        return 5 != t ? [3, 10] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【活动】页签按钮"), [4, this.getItemsByType([30, 31])]);
                     case 8:
                         return s = _.sent(),
                         a = this.getExpirItems(s),
@@ -590,7 +591,7 @@ function(t) {
                         ArrayUtil.sortOn(this.currList, "itemID", ArrayUtil.DESCENDING),
                         [3, 15];
                     case 10:
-                        return 6 != t ? [3, 12] : (StatLogger.log("1023版本系统功能", "物品界面", "点击【其他】页签按钮"), u = this, [4, this.getItemsByType(this.otherTypes[~~this.rb_sub0.group.selectedValue || (GameInfo.isChecking ? 3 : 0)])]);
+                        return 6 != t ? [3, 12] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【其他】页签按钮"), u = this, [4, this.getItemsByType(this.otherTypes[~~this.rb_sub0.group.selectedValue || (GameInfo.isChecking ? 3 : 0)])]);
                     case 11:
                         return u.currList = _.sent(),
                         this.grpTop.visible = !0,
@@ -598,13 +599,13 @@ function(t) {
                         ArrayUtil.sortOn(this.currList, "", ArrayUtil.DESCENDING),
                         [3, 15];
                     case 12:
-                        return 7 !== t ? [3, 14] : (this.rb_jlhc.group.selection = this.rb_jlhc, this._scroller.viewport.scrollV = 140 * this.yinziCurrIndex, [4, this.getFilterPetFactorItems()]);
+                        return 7 !== t ? [3, 14] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【精灵因子】页签按钮"), this.rb_jlhc.group.selection = this.rb_jlhc, this._scroller.viewport.scrollV = 140 * this.yinziCurrIndex, [4, this.getFilterPetFactorItems()]);
                     case 13:
                         return _.sent(),
                         this.grp_petfactorTop.visible = !0,
                         [3, 15];
                     case 14:
-                        8 == t && (this.currList = ItemManager.getTimeLimitItems(), ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING], ["overTime", ArrayUtil.ASCENDING]])),
+                        8 == t && (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【限时物品】页签按钮"), this.currList = ItemManager.getTimeLimitItems(), ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING], ["overTime", ArrayUtil.ASCENDING]])),
                         _.label = 15;
                     case 15:
                         return this.arrayColletion.removeAll(),

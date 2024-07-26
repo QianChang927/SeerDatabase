@@ -561,10 +561,18 @@ function(e) {
         }
         return __extends(t, e),
         t.prototype._upDateView = function() {
+            var t = this;
             e.prototype._upDateView.call(this),
             this.title.source = "muse_super_evo_fight_panel_poptitle" + ~~this._data + "_png",
             this.times.text = "1/" + [3, 5, 7, 9][~~this._data - 1],
-            this.pet.source = "muse_super_evo_fight_panel_" + [1456, 2468, 2322, 2517][~~this._data - 1] + "_png"
+            this.pet.source = "muse_super_evo_fight_panel_" + [1456, 2468, 2322, 2517][~~this._data - 1] + "_png";
+            var n = [121874, 121875, 121876, 121877];
+            KTool.getMultiValue([n[~~this._data - 1]],
+            function(e) {
+                var n = e[0],
+                i = "累计战胜 <font color='0xFFF451'>" + n + "/" + [3, 5, 7, 9][~~t._data - 1] + "</font> 必定真身\n未揭露真身则需要\r\n重新开启激变";
+                t.txtPercent.textFlow = (new egret.HtmlTextParser).parse(i)
+            })
         },
         t.prototype.fightBoss = function() {
             var e = this,
@@ -967,7 +975,7 @@ generateEUI.paths["resource/eui_skins/MuseSuperEvoFightPetItemSkin.exml"] = wind
 generateEUI.paths["resource/eui_skins/MuseSuperEvoFightPopSkin.exml"] = window.MuseSuperEvoFightPopSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["close", "title", "pet", "bag", "cure", "times", "imaCha"],
+        this.skinParts = ["close", "title", "pet", "bag", "cure", "txtPercent", "times", "imaCha"],
         this.height = 402,
         this.width = 643,
         this.elementsContent = [this._Group1_i()]
@@ -981,7 +989,7 @@ generateEUI.paths["resource/eui_skins/MuseSuperEvoFightPopSkin.exml"] = window.M
         e.width = 643,
         e.x = 0,
         e.y = 0,
-        e.elementsContent = [this._Image1_i(), this.close_i(), this.title_i(), this._Image2_i(), this.pet_i(), this.bag_i(), this.cure_i(), this._Label1_i(), this._Label2_i(), this.times_i(), this.imaCha_i()],
+        e.elementsContent = [this._Image1_i(), this.close_i(), this.title_i(), this._Image2_i(), this.pet_i(), this.bag_i(), this.cure_i(), this._Label1_i(), this.txtPercent_i(), this.times_i(), this.imaCha_i()],
         e
     },
     n._Image1_i = function() {
@@ -1057,16 +1065,18 @@ generateEUI.paths["resource/eui_skins/MuseSuperEvoFightPopSkin.exml"] = window.M
         e.y = 94,
         e
     },
-    n._Label2_i = function() {
+    n.txtPercent_i = function() {
         var e = new eui.Label;
-        return e.fontFamily = "MFShangHei",
+        return this.txtPercent = e,
+        e.fontFamily = "MFShangHei",
+        e.height = 108.754,
         e.size = 18,
         e.text = "未揭露真身则需要\n重新开启激变",
         e.textAlign = "center",
         e.textColor = 14126959,
-        e.width = 144,
-        e.x = 441,
-        e.y = 207,
+        e.width = 208,
+        e.x = 415.44,
+        e.y = 200.232,
         e
     },
     n.times_i = function() {
@@ -1076,7 +1086,7 @@ generateEUI.paths["resource/eui_skins/MuseSuperEvoFightPopSkin.exml"] = window.M
         e.size = 24,
         e.text = "1/3",
         e.textColor = 16774225,
-        e.x = 450,
+        e.x = 450.359,
         e.y = 117.289,
         e
     },

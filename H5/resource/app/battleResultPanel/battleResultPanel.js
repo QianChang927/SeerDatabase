@@ -86,7 +86,7 @@ function(t) {
                 i = !1,
                 t.prototype.onClose.call(this)
             }
-            CountExpPanelManager.overData.isJumping = i,
+            CountExpPanelManager.overData && (CountExpPanelManager.overData.isJumping = i),
             EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.ALARM_CLICK, CountExpPanelManager.overData))
         },
         e
@@ -596,7 +596,7 @@ function(t) {
                     KTool.getMultiValue([PeakJihadController.levelForever, PeakJihadController.wildlevelForever],
                     function(e) {
                         var i;
-                        i = t._isObj.model == PetFightModel.PEAK_JIHAD_6V6_JJ ? e[0] : e[1];
+                        t._isObj.model == PetFightModel.PEAK_JIHAD_6V6_JJ ? i = e[0] : t._isObj.model == PetFightModel.PEAK_JIHAD_6V6_WILD && (i = e[1]);
                         var n = KTool.subByte(i, 0, 16),
                         a = KTool.subByte(i, 16, 16),
                         r = PeakJihadController.getMyRatingsNameByScore(i);
@@ -615,7 +615,7 @@ function(t) {
             this.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.onTouchTapImageButton, this)
         },
         e.prototype.onTouchTapImageButton = function(e) {
-            this._isObj.model == PetFightModel.PEAK_JIHAD_6V6_JJ ? (t.prototype.onClose.call(this), ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], "sport")) : this._isObj.model == PetFightModel.PEAK_JIHAD_6V6 && (t.prototype.onClose.call(this), ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], "wild"))
+            this._isObj.model == PetFightModel.PEAK_JIHAD_6V6_JJ ? (t.prototype.onClose.call(this), ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], "sport")) : this._isObj.model == PetFightModel.PEAK_JIHAD_6V6_WILD && (t.prototype.onClose.call(this), ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], "wild"))
         },
         e
     } (BaseModule);

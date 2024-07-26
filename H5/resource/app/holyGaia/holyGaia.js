@@ -1014,7 +1014,7 @@ function(t) {
             n = this, a = 1; 10 >= a; a++) i(a);
             EventManager.addEventListener(PetFightEvent.ALARM_CLICK,
             function() {
-                FightManager.isWin && e.service.updateValues().then(function() {
+                FightManager.isWin ? e.service.updateValues().then(function() {
                     for (var i = e.service.getValue(t.HolyGaiaConst.forever_levels_state), n = [], a = 1; 10 >= a; a++) {
                         var o = 1 == KTool.getBit(i, 8 + a);
                         o != e.passState[a - 1] && n.push(a - 1)
@@ -1034,7 +1034,10 @@ function(t) {
                         e.passState = [],
                         e.update()
                     })
-                })
+                }) : (Alarm.show("很遗憾，未完成任务，无法激活战符,请按照任务要求完成战斗"), e.service.updateValues().then(function() {
+                    e.passState = [],
+                    e.update()
+                }))
             },
             this)
         },

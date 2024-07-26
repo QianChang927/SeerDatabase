@@ -5680,10 +5680,10 @@ CjsUtil = function() {
     t._createAni = function(e, n) {
         return __awaiter(this, void 0, void 0,
         function() {
-            var r, o, i, s, a, _, c, l, u, s, h, f, p, d, g, E, I, a, y, a, _, s, m, f;
+            var r, o, i, s, a, _, c, l, u, s, h, f, p, d, g, E, I, a, y, a, _, s, m, f, v = this;
             return __generator(this,
-            function(v) {
-                switch (v.label) {
+            function(T) {
+                switch (T.label) {
                 case 0:
                     r = window.AdobeAn,
                     i = t.JsResMap[n];
@@ -5698,16 +5698,16 @@ CjsUtil = function() {
                     c = [];
                     for (l in _) c.push(l);
                     u = 0,
-                    v.label = 1;
+                    T.label = 1;
                 case 1:
                     return u < c.length ? (s = c[u], h = "", "pet" == e.type || "preview" == e.type ? h = "resource/cjs_animate/" + e.type + "/" + e.id + "/" + _[s].src: "skill" == e.type ? h = "resource/cjs_animate/" + e.type + "/" + e.resId + "/" + _[s].src: (f = e.id, h = f.substring(0, f.lastIndexOf("/")) + "/" + _[s].src), h = FileCacheManager.getCacheUrl(h), console.log("url:" + h), [4, CreateJsTools.getBlobUrl(h)]) : [3, 5];
                 case 2:
-                    return p = v.sent(),
+                    return p = T.sent(),
                     _[s].src = p,
                     h.indexOf(".mp3") < 0 ? [4, CreateJsTools.getBlobImage(_[s].id, p, o)] : [3, 4];
                 case 3:
-                    v.sent(),
-                    v.label = 4;
+                    T.sent(),
+                    T.label = 4;
                 case 4:
                     return u++,
                     [3, 1];
@@ -5720,7 +5720,7 @@ CjsUtil = function() {
                         e.callback.call(e.thisObj),
                         t.animLoading = !1,
                         t._loadAnim()
-                    } catch(T) {}
+                    } catch(A) {}
                     return [3, 7];
                 case 6:
                     if (a = o.getLibrary(), y = new window.egretAnimate.LoadQueue(!1), y.addEventListener("fileload",
@@ -5735,8 +5735,12 @@ CjsUtil = function() {
                         t._loadAnim()
                     }), y.addEventListener("error",
                     function(t) {
-                        e.callback.call(e.thisObj),
-                        console.warn("cjs 精灵动画资源加载失败" + e.id)
+                        e.callback.call(e.thisObj, "failed"),
+                        console.warn("cjs 精灵动画资源加载失败" + e.id),
+                        egret.setTimeout(function() {
+                            y.loadManifest(a.properties.manifest)
+                        },
+                        v, 1e3)
                     }), a = o.getLibrary(), !a.loaded) {
                         a.loaded = !0,
                         _ = a.properties.manifest;
@@ -5746,8 +5750,8 @@ CjsUtil = function() {
                     }
                     try {
                         y.loadManifest(a.properties.manifest)
-                    } catch(T) {}
-                    v.label = 7;
+                    } catch(A) {}
+                    T.label = 7;
                 case 7:
                     return [2]
                 }
@@ -9329,8 +9333,9 @@ AssetsLoadManager = function(t) {
             })
         })
     },
-    e.prototype.onLoadPetAssetsComplete = function() {
-        this.currentIndex++,
+    e.prototype.onLoadPetAssetsComplete = function(t) {
+        void 0 === t && (t = null),
+        "failed" != t && this.currentIndex++,
         this._percent = Math.floor(100 * this.currentIndex / (this.petIDArray.length + this.skillIDArray.length)),
         console.log("=======this._percent===============" + this._percent),
         this.currentPercent = this._percent,
@@ -9363,8 +9368,9 @@ AssetsLoadManager = function(t) {
         } else this.dispatchEvent(new AssetsEvent(AssetsEvent.LOAD_ALL_ASSETS, null, null, 100)),
         this.currentIndex = 0
     },
-    e.prototype.onLoadSkillAssetsComplete = function() {
-        this.currentIndex++,
+    e.prototype.onLoadSkillAssetsComplete = function(t) {
+        void 0 === t && (t = null),
+        "failed" != t && this.currentIndex++,
         this._percent = Math.floor(100 * (this.currentIndex + this.petIDArray.length) / (this.petIDArray.length + this.skillIDArray.length)),
         this.currentPercent = this._percent,
         this.dispatchEvent(new AssetsEvent(AssetsEvent.PROGRESS, null, null, this.currentPercent)),
@@ -20333,13 +20339,14 @@ OnlineManager = function() {
         console.log("\r=======================================\n %c\r !!!socket was closed!!!", "color: red; font-size: 18px;", "\n\r======================================="),
         LevelManager.root.touchEnabled = LevelManager.root.touchChildren = !1;
         try {
-            LoadingManager.instance.hideloading(),
+            LevelManager.root.touchEnabled = LevelManager.root.touchChildren = !0,
             this.loginsuc = !1,
             SocketConnectionHelper.clearSendQueue(),
-            1965094 != SocketErrorManager.ERROR_CODE && (FightManager.isFighting ? (StatLogger.log("20230818版本系统功能", "断线重连", "战斗情况下玩家断线"), Alarm.show("与服务器连接丢失，请重新进入游戏",
+            1965094 != SocketErrorManager.ERROR_CODE && (FightManager.isFighting && 0 != FightManager.enemyId && void 0 != FightManager.enemyId || PeakJihadController.isInPvP || FightManager.isFighting && LoadingViewController.isLoadingUI ? (StatLogger.log("20230818版本系统功能", "断线重连", "pvp战斗情况下玩家断线"), Alarm.show("与服务器连接丢失，请重新进入游戏",
             function() {
                 core.gameUtil.ReloaderGame()
-            })) : GuideManager.isNewSeer() ? (StatLogger.log("20230818版本系统功能", "断线重连", "非战斗情况下玩家断线"), egret.lifecycle.stage.touchChildren = !0, Alarm.show("与服务器连接丢失，请重新进入游戏",
+            },
+            LevelManager.stage)) : GuideManager.isNewSeer() ? (StatLogger.log("20230818版本系统功能", "断线重连", "非战斗情况下玩家断线"), egret.lifecycle.stage.touchChildren = !0, Alarm.show("与服务器连接丢失，请重新进入游戏",
             function() {
                 core.gameUtil.ReloaderGame()
             })) : (StatLogger.log("20230818版本系统功能", "断线重连", "非战斗情况下玩家断线"), ReconnectPanelManager.openPanel()))
@@ -20400,7 +20407,7 @@ OnlineManager = function() {
         var o = new egret.ByteArray;
         o.writeUTFBytes(r),
         o.length = 16;
-        var i = ~~egret.getOption("version"),
+        var i = SocketConnection.mainSocket.reconnectKey,
         s = GameInfo.loginType,
         a = GameInfo.platform + 1,
         _ = +GameInfo.isApp + 1,
@@ -20422,8 +20429,10 @@ OnlineManager = function() {
         })
     },
     t.prototype.reConnectCallback = function(t) {
-        SocketConnection.mainSocket.reConnecting = !1,
-        this.reLoginSuc(t)
+        SocketConnection.mainSocket.reConnecting = !1;
+        var e = t.data,
+        n = e.readUnsignedInt();
+        0 == n ? this.reLoginSuc() : n == MainManager.actorID && (this.reLoginSuc(), FightManager.isFighting && (FightOverController.isSysError = !0, FightOverController.clear(null, !1), FightOverController.isSysError = !1))
     },
     t.prototype.reLoginOnError = function(t) {
         SocketConnection.mainSocket.removeEventListener(SocketErrorEvent.ERROR, this.reLoginOnError, this),
@@ -20431,7 +20440,7 @@ OnlineManager = function() {
         SocketConnection.mainSocket.close(),
         this.back2Login()
     },
-    t.prototype.reLoginSuc = function(t) {
+    t.prototype.reLoginSuc = function() {
         console.log("reConnectSuc"),
         LoadingManager.instance.hideloading(),
         this.loginsuc = !0,
@@ -21073,13 +21082,13 @@ PeakJihadController = function() {
     },
     t.onFightOver = function(t) {
         var e = t.obj.isJumping;
-        if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) if (PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6) {
+        if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) if (PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD) {
             var n = {};
             n.isWin = FightManager.isWin,
             n.isDraw = this.isDraw,
             n.model = PetFightModel.type,
             ModuleManager.showModule("battleResultPanel", ["battleResultPanel"], n, "BattleResultPeakJiHadPanel")
-        } else PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 ? (this.clearType(), e || ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"]), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了")) : (PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN) && (this.clearType(), e ? KTool.getMultiValue([3313],
+        } else PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 ? (this.clearType(), e || ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"]), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了")) : (PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN) && (this.clearType(), e ? KTool.getMultiValue([3313],
         function(t) {
             1 == t[0] ? SocketConnection.sendByQueue(45136, [5, 0]) : SocketConnection.sendByQueue(45136, [2, 0])
         }) : ModuleManager.showModule("peakJihadFreeWar", ["peakJihadFreeWar"], null, "PeakJihadRoomPanel"), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了"))
@@ -21196,6 +21205,7 @@ PeakJihadController = function() {
     t.achieveValue2 = 0,
     t.battleTimes = 0,
     t.wins = 0,
+    t.isInPvP = !1,
     t._openTime = "11:00-15:00和18:00-22:00",
     t.cron1 = [new CronTimeVo("*", "11-14", "*", "*", "*", "*"), new CronTimeVo("*", "18-21", "*", "*", "*", "*")],
     t._openTime2 = "20:00-23:30",
@@ -31100,6 +31110,11 @@ SocketErrorManager = function() {
                 window.open(t)
             });
             break;
+        case 1965104:
+            this.showAlarm("重连失败",
+            function() {
+                core.gameUtil.ReloaderGame()
+            });
         default:
             this.showAlarm("出错了哦（" + s + "错误码：" + o + "），请重试。如果遇到问题，推荐前往客服中心：kf.61.com联系客服。")
         }
@@ -41229,6 +41244,7 @@ PetFightModel = function() {
     t.PEAK_JIHAD_6V6 = 27,
     t.PEAK_JIHAD_FREE_PLAN = 28,
     t.PEAK_JIHAD_6V6_JJ = 29,
+    t.PEAK_JIHAD_6V6_WILD = 31,
     t.WIZARDKING_BIGFIGHT = 30,
     t.QINGLONG_COMPLELETE_FIGHT = 83,
     t.PEAK_JIHAD_FIGHT_WITH_FIGURE = 87,

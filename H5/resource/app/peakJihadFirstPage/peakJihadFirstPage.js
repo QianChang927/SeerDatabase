@@ -1461,11 +1461,13 @@ function(e) {
             var t = e.call(this) || this;
             return t._isclick = !1,
             t.timeArr = [60, 150, 300, 480, 720, 1080, 1500, 1800],
+            t.curMode = 4,
             t.skinName = PeakJihadLeisureModeSkin,
             t
         }
         return __extends(t, e),
         t.prototype.childrenCreated = function() {
+            var t = this;
             e.prototype.childrenCreated.call(this),
             this.initBtnClose("peakjihad_leisure_mode_title_png", this),
             e.prototype.initBtnHelp.call(this,
@@ -1489,12 +1491,19 @@ function(e) {
             this),
             this.adaptBgByScale(this.bg),
             EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breakLineSynchronizedData, this),
-            ImageButtonUtil.add(this.ima3, this.match, this, !1),
-            ImageButtonUtil.add(this.ima6,
+            ImageButtonUtil.add(this.ima6wild,
             function() {
                 ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadWildMode", AppDoStyle.HIDEN)
             },
             this, !1),
+            ImageButtonUtil.add(this.ima6,
+            function() {
+                PetManager.updateBagInfo(function() {
+                    t.startMatch()
+                })
+            },
+            this, !1),
+            ImageButtonUtil.add(this.ima3, this.match, this, !1),
             ImageButtonUtil.add(this.imaTest,
             function() {
                 ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadTrain")
@@ -1549,10 +1558,11 @@ function(e) {
             var e = this;
             SocketConnection.sendByQueue(45137, [1, 1],
             function() {
+                e.curMode = 1,
                 ModuleManager.showModuleByID(43, {
                     callback: null,
                     thisObj: e,
-                    fightMod: 1
+                    fightMod: e.curMode
                 })
             })
         },
@@ -1595,12 +1605,13 @@ function(e) {
         },
         t.prototype.next = function() {
             var e = this;
-            0 == this._curStep && SocketConnection.sendByQueue(45137, [1, 2],
+            0 == this._curStep && SocketConnection.sendByQueue(45137, [1, 11],
             function(t) {
+                e.curMode = 4,
                 ModuleManager.showModuleByID(43, {
                     callback: function() {},
                     thisObj: e,
-                    fightMod: 2
+                    fightMod: e.curMode
                 })
             })
         },
@@ -1628,7 +1639,7 @@ function(e) {
                 1 == t[0] && 1 == t[1] && (ModuleManager.hideModule("peakJihadMatchWaitModePanel"), ModuleManager.showModuleByID(43, {
                     callback: function() {},
                     thisObj: e,
-                    fightMod: 2
+                    fightMod: e.curMode
                 }))
             })
         },
@@ -3371,7 +3382,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadLadderRewardSkin.exml"] = window.
 generateEUI.paths["resource/eui_skins/PeakjihadLeisureModeSkin.exml"] = window.PeakJihadLeisureModeSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["bg", "ima6", "ima3", "imaTest", "none"],
+        this.skinParts = ["bg", "ima6wild", "ima6", "ima3", "imaTest", "none"],
         this.height = 640,
         this.width = 1136,
         this.elementsContent = [this.bg_i(), this._Scroller1_i()]
@@ -3400,12 +3411,20 @@ generateEUI.paths["resource/eui_skins/PeakjihadLeisureModeSkin.exml"] = window.P
         return e.x = 126,
         e.y = 65,
         e.layout = this._HorizontalLayout1_i(),
-        e.elementsContent = [this.ima6_i(), this.ima3_i(), this.imaTest_i(), this.none_i()],
+        e.elementsContent = [this.ima6wild_i(), this.ima6_i(), this.ima3_i(), this.imaTest_i(), this.none_i()],
         e
     },
     i._HorizontalLayout1_i = function() {
         var e = new eui.HorizontalLayout;
         return e.gap = 30,
+        e
+    },
+    i.ima6wild_i = function() {
+        var e = new eui.Image;
+        return this.ima6wild = e,
+        e.source = "peakjihad_leisure_mode_ima6_wild_png",
+        e.x = -18,
+        e.y = 56,
         e
     },
     i.ima6_i = function() {

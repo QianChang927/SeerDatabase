@@ -18,24 +18,24 @@ function(t, e, i, n) {
     return new(i || (i = Promise))(function(o, s) {
         function r(t) {
             try {
-                _(n.next(t))
+                u(n.next(t))
             } catch(e) {
                 s(e)
             }
         }
         function a(t) {
             try {
-                _(n["throw"](t))
+                u(n["throw"](t))
             } catch(e) {
                 s(e)
             }
         }
-        function _(t) {
+        function u(t) {
             t.done ? o(t.value) : new i(function(e) {
                 e(t.value)
             }).then(r, a)
         }
-        _((n = n.apply(t, e || [])).next())
+        u((n = n.apply(t, e || [])).next())
     })
 },
 __generator = this && this.__generator ||
@@ -47,7 +47,7 @@ function(t, e) {
     }
     function n(i) {
         if (o) throw new TypeError("Generator is already executing.");
-        for (; _;) try {
+        for (; u;) try {
             if (o = 1, s && (r = s[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(r = r.call(s, i[1])).done) return r;
             switch (s = 0, r && (i = [0, r.value]), i[0]) {
             case 0:
@@ -55,44 +55,44 @@ function(t, e) {
                 r = i;
                 break;
             case 4:
-                return _.label++,
+                return u.label++,
                 {
                     value: i[1],
                     done: !1
                 };
             case 5:
-                _.label++,
+                u.label++,
                 s = i[1],
                 i = [0];
                 continue;
             case 7:
-                i = _.ops.pop(),
-                _.trys.pop();
+                i = u.ops.pop(),
+                u.trys.pop();
                 continue;
             default:
-                if (r = _.trys, !(r = r.length > 0 && r[r.length - 1]) && (6 === i[0] || 2 === i[0])) {
-                    _ = 0;
+                if (r = u.trys, !(r = r.length > 0 && r[r.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                    u = 0;
                     continue
                 }
                 if (3 === i[0] && (!r || i[1] > r[0] && i[1] < r[3])) {
-                    _.label = i[1];
+                    u.label = i[1];
                     break
                 }
-                if (6 === i[0] && _.label < r[1]) {
-                    _.label = r[1],
+                if (6 === i[0] && u.label < r[1]) {
+                    u.label = r[1],
                     r = i;
                     break
                 }
-                if (r && _.label < r[2]) {
-                    _.label = r[2],
-                    _.ops.push(i);
+                if (r && u.label < r[2]) {
+                    u.label = r[2],
+                    u.ops.push(i);
                     break
                 }
-                r[2] && _.ops.pop(),
-                _.trys.pop();
+                r[2] && u.ops.pop(),
+                u.trys.pop();
                 continue
             }
-            i = e.call(t, _)
+            i = e.call(t, u)
         } catch(n) {
             i = [6, n],
             s = 0
@@ -105,7 +105,7 @@ function(t, e) {
             done: !0
         }
     }
-    var o, s, r, a, _ = {
+    var o, s, r, a, u = {
         label: 0,
         sent: function() {
             if (1 & r[0]) throw r[1];
@@ -129,7 +129,7 @@ function(t) {
     var e = function(t) {
         function e() {
             var e = t.call(this) || this;
-            return e.setValues([AttrConst.forever_gzcjykls_flag, AttrConst.forever_gzcjykls_state, AttrConst.forever_gzcjykls_fighted, AttrConst.forever_gzcjykls_ext, AttrConst.forever_gzcjykls_cnt, AttrConst.forever_gzcjykls_activate], [AttrConst.daily_gzcjykls_times, AttrConst.daily_gzcjykls_rounds, AttrConst.daily_gzcjykls_boss]),
+            return e.setValues([AttrConst.forever_gzcjykls_flag, AttrConst.forever_gzcjykls_state, AttrConst.forever_gzcjykls_fighted, AttrConst.forever_gzcjykls_ext, AttrConst.forever_gzcjykls_cnt, AttrConst.forever_gzcjykls_activate, 121878, 121879], [AttrConst.daily_gzcjykls_times, AttrConst.daily_gzcjykls_rounds, AttrConst.daily_gzcjykls_boss]),
             e
         }
         return __extends(e, t),
@@ -409,7 +409,7 @@ function(t) {
         },
         i.prototype.onSelectedBoss = function(t) {
             return this._currentIdx = t,
-            this._currentIdx < 0 ? void(this.selected.visible = !1) : (this.selected.visible = !0, this.selected.x = this._monsterItems[t].x, void(this.selected.y = this._monsterItems[t].y))
+            this._currentIdx < 0 || this._currentIdx > 4 ? void(this.selected.visible = !1) : (this.selected.visible = !0, this.selected.x = this._monsterItems[t].x, void(this.selected.y = this._monsterItems[t].y))
         },
         i.prototype.onBattle = function(t) {
             FightManager.fightNoMapBoss("", this._bossIds[t])
@@ -434,22 +434,20 @@ function(t) {
             return Promise.resolve()
         },
         i.prototype.update = function() {
-            var e = this,
-            i = t.MgrData.getInstance().getValue(AttrConst.forever_gzcjykls_fighted),
-            n = 0;
-            this._monsterItems.forEach(function(t, o) {
-                var s = Boolean(BitUtil.getBit(i, o));
-                s ? (t.alpha = .5, t.touchEnabled = !1, e._monsterItemFlags[o].visible = !0, o === e._currentIdx && e.onSelectedBoss( - 1), n++) : (t.alpha = 1, t.touchEnabled = !0, e._monsterItemFlags[o].visible = !1)
-            }),
-            n *= 20,
-            this.txtProgress.text = n + " %";
-            var o = ["恶灵兽击伤了贾斯丁站长，在站长恢复之前，我们必须守住这一波攻势\n点击头像即可进入对战", "贾斯丁站长已经恢复了，请一同击败幕后主使恶灵兽吧！"];
-            this.elsjslgsdzczzchfzqwmbxszzybgs_djtxxzjljhtzjbsyjlhelschxs_.text = 100 > n ? o[0] : o[1],
-            this.lock.visible = 100 > n,
-            this.now.visible = 100 === n,
-            this._canBattleBossFlag = 100 === n,
+            for (var e = t.MgrData.getInstance().getValue(AttrConst.forever_gzcjykls_fighted), i = 0, n = 5, o = 0; o < this._monsterItems.length; o++) {
+                var s = Boolean(BitUtil.getBit(e, o));
+                s ? (this._monsterItems[o].alpha = .5, this._monsterItems[o].touchEnabled = !1, this._monsterItemFlags[o].visible = !0, i++) : (this._monsterItems[o].alpha = 1, this._monsterItems[o].touchEnabled = !0, this._monsterItemFlags[o].visible = !1, n = Math.min(n, i))
+            }
+            this._currentIdx < this._monsterItems.length && this.onSelectedBoss(n),
+            i *= 20,
+            this.txtProgress.text = i + " %";
+            var r = ["恶灵兽击伤了贾斯丁站长，在站长恢复之前，我们必须守住这一波攻势\n点击头像即可进入对战", "贾斯丁站长已经恢复了，请一同击败幕后主使恶灵兽吧！"];
+            this.elsjslgsdzczzchfzqwmbxszzybgs_djtxxzjljhtzjbsyjlhelschxs_.text = 100 > i ? r[0] : r[1],
+            this.lock.visible = 100 > i,
+            this.now.visible = 100 === i,
+            this._canBattleBossFlag = 100 === i,
             this.Got.visible = !1,
-            Boolean(BitUtil.getBit(i, this._bossIds.length - 1)) && (Alarm.show("当前系列关卡已经全部完成,点击确认返回主面板",
+            Boolean(BitUtil.getBit(e, this._bossIds.length - 1)) && (Alarm.show("当前系列关卡已经全部完成,点击确认返回主面板",
             function() {
                 t.MgrData.getInstance().dispatchEventWith(BasicMainPanel.EVENT_BACK_MAIN_PANEL)
             }), this.Got.visible = !0)
@@ -483,14 +481,15 @@ pveYingKaLuoSi; !
 function(t) {
     var e = function(e) {
         function i() {
-            var i = e.call(this) || this;
-            return i._bossIds = [12105, 12106, 12107, 12108, 12109, 12110, 12111, 12112, 12113],
-            i.skinName = t.PveYingkaluosiLevel2Skin,
-            i
+            var t = e.call(this) || this;
+            return t._bossIds = [12105, 12106, 12107, 12108, 12109, 12110, 12111, 12112, 12113],
+            t.skinName = PveYingkaluosiLevel2Skin,
+            t
         }
         return __extends(i, e),
         i.prototype.childrenCreated = function() {
             e.prototype.childrenCreated.call(this),
+            this.adaptBgByScale(this.bg),
             this.initOldPveBtnClose(0, this, "pve_yingkaluosi_level2_title_png",
             function() {
                 t.MgrData.getInstance().dispatchEventWith(BasicMainPanel.EVENT_BACK_MAIN_PANEL)
@@ -512,7 +511,7 @@ function(t) {
                 ModuleManager.showModuleByID(10)
             },
             this),
-            ImageButtonUtil.add(this.btnFught,
+            ImageButtonUtil.add(this.btnFight,
             function() {
                 if (! (e._currentIdx > -1)) throw new Error("idx有误");
                 FightManager.fightNoMapBoss("", e._bossIds[e._currentIdx])
@@ -533,7 +532,16 @@ function(t) {
             function() {
                 PayManager.doPayFunc(function() {
                     var i = t.MgrData.getInstance().getValue(AttrConst.forever_gzcjykls_ext);
-                    0 == i ? KTool.buyProductByCallback(252766, 1,
+                    0 == i || KTool.buyProductByCallback(252765, 1,
+                    function() {
+                        SocketConnection.sendByQueue(43285, [3, 3],
+                        function() {
+                            t.MgrData.getInstance().updateValues().then(function() {
+                                e.update()
+                            })
+                        })
+                    }),
+                    KTool.buyProductByCallback(252766, 1,
                     function() {
                         SocketConnection.sendByQueue(43285, [3, 1],
                         function() {
@@ -544,17 +552,22 @@ function(t) {
                                 })
                             })
                         })
-                    }) : KTool.buyProductByCallback(252765, 1,
-                    function() {
-                        SocketConnection.sendByQueue(43285, [3, 3],
-                        function() {
-                            t.MgrData.getInstance().updateValues().then(function() {
-                                e.update()
-                            })
-                        })
                     })
                 },
                 e)
+            },
+            this),
+            ImageButtonUtil.add(this.btnJibai,
+            function() {
+                KTool.buyProductByCallback(252765, 1,
+                function() {
+                    SocketConnection.sendByQueue(43285, [3, 3],
+                    function() {
+                        t.MgrData.getInstance().updateValues().then(function() {
+                            e.update()
+                        })
+                    })
+                })
             },
             this)
         },
@@ -568,7 +581,7 @@ function(t) {
         i.prototype.update = function() {
             var e = t.MgrData.getInstance().getValue(AttrConst.forever_gzcjykls_ext);
             this._currentIdx = e - 1,
-            0 === e ? (this.selected.visible = !1, this.btnFught.visible = !1, this.btnChou.visible = !0) : (this.btnFught.visible = !0, this.btnChou.visible = !1, this.selected.visible = !0, this.selected.x = this._monsterItems[e - 1].x - 10, this.selected.y = this._monsterItems[e - 1].y - 10);
+            0 === e ? (this.selected.visible = !1, this.btnFight.visible = !1, this.btnJibai.visible = !1, this.btnChou.visible = !0, this.btnGo.visible = !0) : (this.btnFight.visible = !0, this.btnChou.visible = !1, this.selected.visible = !0, this.btnJibai.visible = !0, this.btnGo.visible = !1, this.selected.x = this._monsterItems[e - 1].x - 10, this.selected.y = this._monsterItems[e - 1].y - 10);
             var i = t.MgrData.getInstance().getValue(AttrConst.forever_gzcjykls_cnt),
             n = 255 & i,
             o = i >> 8 & 255;
@@ -577,7 +590,8 @@ function(t) {
             10 === n && 10 === o && Alarm.show("当前系列关卡已经全部完成,点击确认返回主面板",
             function() {
                 t.MgrData.getInstance().dispatchEventWith(BasicMainPanel.EVENT_BACK_MAIN_PANEL)
-            })
+            }),
+            this.txtNum.text = t.MgrData.getInstance().getValue(121878) + "/30"
         },
         i.prototype.removed = function() {},
         i.prototype.destroy = function() {
@@ -611,24 +625,25 @@ function(t) {
             var t = e.call(this) || this;
             return t._levelConfig = [{
                 bits: [0, 1],
-                bossImg: "a_3549",
+                bossImg: "img3549",
                 boss: 12114
             },
             {
                 bits: [2, 3, 4],
-                bossImg: "a_3477",
+                bossImg: "img3477",
                 boss: 12115
             },
             {
                 bits: [5, 6, 7, 8],
-                bossImg: "a_3564",
+                bossImg: "img3564",
                 boss: 12116
             },
             {
                 bits: [9, 10, 11, 12, 13],
-                bossImg: "a_3554",
+                bossImg: "img3554",
                 boss: 12117
             }],
+            t.prevNodeState = 0,
             t.skinName = "PveYingkaluosiLevel3Skin",
             t
         }
@@ -641,8 +656,9 @@ function(t) {
                 t.MgrData.getInstance().dispatchEventWith(BasicMainPanel.EVENT_BACK_MAIN_PANEL)
             },
             this),
+            this.adaptBgByScale(this.bg),
             this.adaptLeftContent(this.btns),
-            this.adaptRightContent(this.grp_right)
+            this.adaptRightContent(this.right)
         },
         i.prototype.initEvents = function() {
             var e = this;
@@ -713,7 +729,7 @@ function(t) {
             this._halfCnt = o,
             this.txt_count0.text = o + "";
             for (var s, r = 0; r < this._levelConfig.length; r++) {
-                for (var a = this._levelConfig[r].bits, _ = 0; _ < a.length; _++) if (0 === BitUtil.getBit(i, a[_])) {
+                for (var a = this._levelConfig[r].bits, u = 0; u < a.length; u++) if (0 === BitUtil.getBit(i, a[u])) {
                     s = r;
                     break
                 }
@@ -725,7 +741,9 @@ function(t) {
                     t.MgrData.getInstance().dispatchEventWith(BasicMainPanel.EVENT_BACK_MAIN_PANEL)
                 })
             },
-            0)),
+            0));
+            var _ = [3, 6, 16, 30],
+            l = KTool.getByte(t.MgrData.getInstance().getValue(121879), s);
             this._levelConfig.forEach(function(t, n) {
                 if (e["level" + (n + 1)].visible = n === s, e[t.bossImg].visible = n === s, n === s) {
                     var o = !1;
@@ -733,11 +751,13 @@ function(t) {
                         e["node" + t].setState(Boolean(BitUtil.getBit(i, t))),
                         Boolean(BitUtil.getBit(i, t)) && (o = !0)
                     }),
-                    !o && e._currentLevelIdx >= 0 && e._currentLevelIdx == s && FightManager.isWin && BubblerManager.getInstance().showText("你激活了一个已经激活的节点，所有的节点都被重置了！")
+                    !o && e._currentLevelIdx >= 0 && e._currentLevelIdx == s && FightManager.isWin ? BubblerManager.getInstance().showText("你激活了一个已经激活的节点，所有的节点都被重置了！") : e.prevNodeState == i && l >= _[e._currentLevelIdx] && BubblerManager.getInstance().showText("你激活了一个已经激活的节点，本次没有新的节点被激活！"),
+                    e.prevNodeState = i
                 }
                 s > n ? (e["done" + (n + 1)].visible = !0, e["light" + (n + 1)].visible = !0, e["dark" + (n + 1)].visible = !1) : n > s ? (e["done" + (n + 1)].visible = !1, e["light" + (n + 1)].visible = !1, e["dark" + (n + 1)].visible = !0) : (e["done" + (n + 1)].visible = !1, e["light" + (n + 1)].visible = !0, e["dark" + (n + 1)].visible = !1)
             }),
-            this._currentLevelIdx = s
+            this._currentLevelIdx = s,
+            this.txtTipsCount.text = l + "/" + _[this._currentLevelIdx]
         },
         i.prototype.removed = function() {},
         i.prototype.destroy = function() {
@@ -1086,14 +1106,14 @@ function(t) {
             },
             this);
             var a = Boolean(BitUtil.getBit(i, 1)),
-            _ = Boolean(BitUtil.getBit(i, 2)),
-            u = Boolean(BitUtil.getBit(i, 3));
+            u = Boolean(BitUtil.getBit(i, 2)),
+            _ = Boolean(BitUtil.getBit(i, 3));
             this.btnFix.visible = !a,
             this.flagYhd.visible = a,
-            this.btnFix_3.visible = !_,
-            this.flagYhd_3.visible = _,
-            this.btnFix_2.visible = !u,
-            this.flagYhd_2.visible = u,
+            this.btnFix_3.visible = !u,
+            this.flagYhd_3.visible = u,
+            this.btnFix_2.visible = !_,
+            this.flagYhd_2.visible = _,
             this.onUpdateByItemChangeEvent()
         },
         i.prototype.removed = function() {},
@@ -1175,25 +1195,25 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel1Skin.exml"] = wi
     i.btns_i = function() {
         var t = new eui.Group;
         return this.btns = t,
-        t.left = 31,
-        t.y = 242,
+        t.left = 24,
+        t.y = 226,
         t.elementsContent = [this.imgBtn_pet_i(), this.imgBtn_cure_i()],
         t
     },
     i.imgBtn_pet_i = function() {
         var t = new eui.Image;
         return this.imgBtn_pet = t,
-        t.source = "pve_yingkaluosi_level1_imgBtn_pet_png",
-        t.x = 0,
+        t.source = "pve_yingkaluosi_level2_imgbtn_pet_png",
+        t.x = 1,
         t.y = 0,
         t
     },
     i.imgBtn_cure_i = function() {
         var t = new eui.Image;
         return this.imgBtn_cure = t,
-        t.source = "pve_yingkaluosi_level1_imgBtn_cure_png",
+        t.source = "pve_yingkaluosi_level2_imgbtn_cure_png",
         t.x = 0,
-        t.y = 72,
+        t.y = 85,
         t
     },
     i._Group1_i = function() {
@@ -1209,88 +1229,88 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel1Skin.exml"] = wi
         var t = new eui.Image;
         return this.selected = t,
         t.source = "pve_yingkaluosi_level1_selected_png",
-        t.x = 0,
-        t.y = 0,
+        t.x = 293.688,
+        t.y = 211.362,
         t
     },
     i.monster0_i = function() {
         var t = new eui.Image;
         return this.monster0 = t,
         t.source = "pve_yingkaluosi_level1_monster0_png",
-        t.x = .4,
-        t.y = 2,
+        t.x = 294.088,
+        t.y = 213.362,
         t
     },
     i.flagYhd_i = function() {
         var t = new eui.Image;
         return this.flagYhd = t,
         t.source = "pve_yingkaluosi_level1_flagYhd_png",
-        t.x = 29,
-        t.y = 88,
+        t.x = 322.688,
+        t.y = 299.362,
         t
     },
     i.monster1_i = function() {
         var t = new eui.Image;
         return this.monster1 = t,
         t.source = "pve_yingkaluosi_level1_monster1_png",
-        t.x = 189,
-        t.y = 2,
+        t.x = -14,
+        t.y = 3,
         t
     },
     i.flagYhd_2_i = function() {
         var t = new eui.Image;
         return this.flagYhd_2 = t,
         t.source = "pve_yingkaluosi_level1_flagYhd_png",
-        t.x = 211,
-        t.y = 88,
+        t.x = 8,
+        t.y = 89,
         t
     },
     i.monster2_i = function() {
         var t = new eui.Image;
         return this.monster2 = t,
         t.source = "pve_yingkaluosi_level1_monster2_png",
-        t.x = 385,
-        t.y = 2,
+        t.x = 177,
+        t.y = 0,
         t
     },
     i.flagYhd_3_i = function() {
         var t = new eui.Image;
         return this.flagYhd_3 = t,
         t.source = "pve_yingkaluosi_level1_flagYhd_png",
-        t.x = 408,
-        t.y = 88,
+        t.x = 200,
+        t.y = 86,
         t
     },
     i.monster3_i = function() {
         var t = new eui.Image;
         return this.monster3 = t,
         t.source = "pve_yingkaluosi_level1_monster3_png",
-        t.x = 105,
-        t.y = 210,
+        t.x = 367.532,
+        t.y = 1.199,
         t
     },
     i.flagYhd_4_i = function() {
         var t = new eui.Image;
         return this.flagYhd_4 = t,
         t.source = "pve_yingkaluosi_level1_flagYhd_png",
-        t.x = 132,
-        t.y = 267,
+        t.x = 391.951,
+        t.y = 89.817,
         t
     },
     i.monster4_i = function() {
         var t = new eui.Image;
         return this.monster4 = t,
         t.source = "pve_yingkaluosi_level1_monster4_png",
-        t.x = 294,
-        t.y = 213,
+        t.x = 86.444,
+        t.y = 214.14,
         t
     },
     i.flagYhd_5_i = function() {
         var t = new eui.Image;
         return this.flagYhd_5 = t,
         t.source = "pve_yingkaluosi_level1_flagYhd_png",
-        t.x = 322,
-        t.y = 267,
+        t.x = 118.124,
+        t.y = 299.788,
         t
     },
     i._Group2_i = function() {
@@ -1393,7 +1413,7 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel1Skin.exml"] = wi
     i.btnNormal__i = function() {
         var t = new eui.Image;
         return this.btnNormal_ = t,
-        t.source = "pve_yingkaluosi_level1_btnNormal__png",
+        t.source = "pve_yingkaluosi_level2_btnfight_png",
         t.x = 56,
         t.y = 335,
         t
@@ -1426,10 +1446,10 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel1Skin.exml"] = wi
     },
     e
 } (eui.Skin),
-generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel2Skin.exml"] = window.pveYingKaLuoSi.PveYingkaluosiLevel2Skin = function(t) {
+generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel2Skin.exml"] = window.PveYingkaluosiLevel2Skin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "imgBtn_pet", "imgBtn_cure", "btns", "txtbg", "mjbymdryklshsjhd1dzdyzhzzygmrgjzyxlxdd10ddlzxccg2dtdnl_jhsh", "titleDesc", "a_1", "a_2", "a_3", "a_4", "a_5", "a_6", "a_7", "a_8", "a_9", "selected", "monsters", "bg22", "img", "zdyz", "zygm", "txtYiZhi", "txtZhengYi", "btnGo", "btnFught", "btnChou", "dekuang", "light1", "light1_2", "wenzi", "right"],
+        this.skinParts = ["bg", "imgBtn_pet", "imgBtn_cure", "btns", "txtbg", "txtContent", "titleDesc", "a_1", "a_2", "a_3", "a_4", "a_5", "a_6", "a_7", "a_8", "a_9", "selected", "monsters", "bg22", "img", "zdyz", "zygm", "txtYiZhi", "txtZhengYi", "btnGo", "btnJibai", "btnFight", "btnChou", "tips_2", "dqnlzyqk_c", "txtNum", "tips", "wenzi", "right"],
         this.height = 640,
         this.width = 1136,
         this.elementsContent = [this.bg_i(), this.btns_i(), this.titleDesc_i(), this.monsters_i(), this.right_i()]
@@ -1439,62 +1459,61 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel2Skin.exml"] = wi
     return i.bg_i = function() {
         var t = new eui.Image;
         return this.bg = t,
-        t.left = 0,
-        t.right = 0,
         t.source = "pve_yingkaluosi_level1_bg_png",
+        t.x = 0,
         t.y = 0,
         t
     },
     i.btns_i = function() {
         var t = new eui.Group;
         return this.btns = t,
-        t.left = 31,
-        t.y = 242,
+        t.x = 24,
+        t.y = 226,
         t.elementsContent = [this.imgBtn_pet_i(), this.imgBtn_cure_i()],
         t
     },
     i.imgBtn_pet_i = function() {
         var t = new eui.Image;
         return this.imgBtn_pet = t,
-        t.source = "pve_yingkaluosi_level1_imgBtn_pet_png",
-        t.x = 0,
+        t.source = "pve_yingkaluosi_level2_imgbtn_pet_png",
+        t.x = 1,
         t.y = 0,
         t
     },
     i.imgBtn_cure_i = function() {
         var t = new eui.Image;
         return this.imgBtn_cure = t,
-        t.source = "pve_yingkaluosi_level1_imgBtn_cure_png",
+        t.source = "pve_yingkaluosi_level2_imgbtn_cure_png",
         t.x = 0,
-        t.y = 72,
+        t.y = 85,
         t
     },
     i.titleDesc_i = function() {
         var t = new eui.Group;
         return this.titleDesc = t,
-        t.x = 60,
+        t.horizontalCenter = 6.5,
         t.y = 60,
-        t.elementsContent = [this.txtbg_i(), this.mjbymdryklshsjhd1dzdyzhzzygmrgjzyxlxdd10ddlzxccg2dtdnl_jhsh_i()],
+        t.elementsContent = [this.txtbg_i(), this.txtContent_i()],
         t
     },
     i.txtbg_i = function() {
         var t = new eui.Image;
         return this.txtbg = t,
         t.source = "pve_yingkaluosi_level2_txtbg_png",
-        t.x = 59,
+        t.x = 57,
         t.y = 0,
         t
     },
-    i.mjbymdryklshsjhd1dzdyzhzzygmrgjzyxlxdd10ddlzxccg2dtdnl_jhsh_i = function() {
+    i.txtContent_i = function() {
         var t = new eui.Label;
-        return this.mjbymdryklshsjhd1dzdyzhzzygmrgjzyxlxdd10ddlzxccg2dtdnl_jhsh = t,
+        return this.txtContent = t,
+        t.fontFamily = "MFShangHei",
         t.size = 18,
         t.text = "每击败一名敌人，英卡洛斯会随机获得1点战斗意志或者正义光芒。如果其中一项率先达到10点，但两者相差超过2点，他的能力\n就会失衡。发生能力失衡时，达到10点的一项会被清空，另一项能力也会降低3点！当两项能力同时达到10点时，即可通过此关！",
-        t.textAlign = "center",
         t.textColor = 14221235,
-        t.width = 1031,
+        t.width = 1025,
         t.x = 0,
-        t.y = 7,
+        t.y = 6,
         t
     },
     i.monsters_i = function() {
@@ -1590,9 +1609,9 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel2Skin.exml"] = wi
     i.right_i = function() {
         var t = new eui.Group;
         return this.right = t,
-        t.horizontalCenter = 337,
-        t.y = 138,
-        t.elementsContent = [this.bg22_i(), this.img_i(), this.zdyz_i(), this.zygm_i(), this.txtYiZhi_i(), this.txtZhengYi_i(), this.btnGo_i(), this.btnFught_i(), this.btnChou_i(), this.dekuang_i(), this.light1_i(), this.light1_2_i(), this.wenzi_i()],
+        t.right = 48,
+        t.y = 128,
+        t.elementsContent = [this.bg22_i(), this.img_i(), this.zdyz_i(), this.zygm_i(), this.txtYiZhi_i(), this.txtZhengYi_i(), this.btnGo_i(), this.btnJibai_i(), this.btnFight_i(), this.btnChou_i(), this.tips_i(), this.wenzi_i()],
         t
     },
     i.bg22_i = function() {
@@ -1600,7 +1619,7 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel2Skin.exml"] = wi
         return this.bg22 = t,
         t.source = "pve_yingkaluosi_level2_bg22_png",
         t.x = 0,
-        t.y = 0,
+        t.y = 10,
         t
     },
     i.img_i = function() {
@@ -1608,107 +1627,137 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel2Skin.exml"] = wi
         return this.img = t,
         t.source = "pve_yingkaluosi_level2_img_png",
         t.x = 28,
-        t.y = 155,
+        t.y = 95,
         t
     },
     i.zdyz_i = function() {
         var t = new eui.Label;
         return this.zdyz = t,
+        t.fontFamily = "MFShangHei",
         t.size = 24,
         t.text = "战斗意志",
         t.textColor = 16734016,
         t.x = 76,
-        t.y = 168,
+        t.y = 107,
         t
     },
     i.zygm_i = function() {
         var t = new eui.Label;
         return this.zygm = t,
+        t.fontFamily = "MFShangHei",
         t.size = 24,
         t.text = "正义光芒",
         t.textColor = 16771588,
         t.x = 250,
-        t.y = 167,
+        t.y = 107,
         t
     },
     i.txtYiZhi_i = function() {
         var t = new eui.Label;
         return this.txtYiZhi = t,
-        t.fontFamily = "HuaKangXinZongYi",
+        t.fontFamily = "MFShangHei",
         t.size = 35,
         t.text = "10/10",
         t.textColor = 16777215,
-        t.x = 70,
-        t.y = 208,
+        t.x = 83,
+        t.y = 146,
         t
     },
     i.txtZhengYi_i = function() {
         var t = new eui.Label;
         return this.txtZhengYi = t,
-        t.fontFamily = "HuaKangXinZongYi",
+        t.fontFamily = "MFShangHei",
         t.size = 35,
         t.text = "10/10",
         t.textColor = 16777215,
-        t.x = 246,
-        t.y = 208,
+        t.x = 259,
+        t.y = 146,
         t
     },
     i.btnGo_i = function() {
         var t = new eui.Image;
         return this.btnGo = t,
-        t.source = "pve_yingkaluosi_level2_btnGo_png",
+        t.source = "pve_yingkaluosi_level2_btngo_png",
         t.x = 92,
-        t.y = 394,
+        t.y = 404,
         t
     },
-    i.btnFught_i = function() {
+    i.btnJibai_i = function() {
         var t = new eui.Image;
-        return this.btnFught = t,
-        t.source = "pve_yingkaluosi_level1_btnNormal__png",
-        t.visible = !0,
+        return this.btnJibai = t,
+        t.source = "pve_yingkaluosi_level2_btnjibai_png",
         t.x = 92,
-        t.y = 315,
+        t.y = 404,
+        t
+    },
+    i.btnFight_i = function() {
+        var t = new eui.Image;
+        return this.btnFight = t,
+        t.source = "pve_yingkaluosi_level2_btnfight_png",
+        t.x = 92,
+        t.y = 325,
         t
     },
     i.btnChou_i = function() {
         var t = new eui.Image;
         return this.btnChou = t,
-        t.source = "pve_yingkaluosi_level2_btnChou_png",
-        t.visible = !0,
+        t.source = "pve_yingkaluosi_level2_btnchou_png",
         t.x = 92,
-        t.y = 315,
+        t.y = 325,
         t
     },
-    i.dekuang_i = function() {
-        var t = new eui.Image;
-        return this.dekuang = t,
-        t.source = "pve_yingkaluosi_level2_dekuang_png",
-        t.x = 67,
-        t.y = 52,
+    i.tips_i = function() {
+        var t = new eui.Group;
+        return this.tips = t,
+        t.x = 36,
+        t.y = 216,
+        t.elementsContent = [this.tips_2_i(), this.dqnlzyqk_c_i(), this.txtNum_i()],
         t
     },
-    i.light1_i = function() {
-        var t = new eui.Image;
-        return this.light1 = t,
-        t.source = "pve_yingkaluosi_level2_light1_png",
-        t.x = 53,
-        t.y = 49,
+    i.tips_2_i = function() {
+        var t = new eui.Label;
+        return this.tips_2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "若已发生30次能力失衡后仍未通关\n则每次击败敌人优先获得1点较低项的能力值",
+        t.textAlign = "center",
+        t.textColor = 14221235,
+        t.width = 355,
+        t.x = 0,
+        t.y = 43,
         t
     },
-    i.light1_2_i = function() {
-        var t = new eui.Image;
-        return this.light1_2 = t,
-        t.source = "pve_yingkaluosi_level2_light1_png",
-        t.x = 53,
-        t.y = 59,
+    i.dqnlzyqk_c_i = function() {
+        var t = new eui.Label;
+        return this.dqnlzyqk_c = t,
+        t.fontFamily = "REEJI",
+        t.size = 28,
+        t.text = "当前能力值已清空       次",
+        t.textColor = 16771680,
+        t.width = 355,
+        t.x = 3,
+        t.y = 0,
+        t
+    },
+    i.txtNum_i = function() {
+        var t = new eui.Label;
+        return this.txtNum = t,
+        t.fontFamily = "REEJI",
+        t.size = 28,
+        t.text = "30/30",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 110,
+        t.x = 220,
+        t.y = 1,
         t
     },
     i.wenzi_i = function() {
         var t = new eui.Image;
         return this.wenzi = t,
         t.source = "pve_yingkaluosi_level2_wenzi_png",
-        t.x = 104,
-        t.y = 58,
+        t.x = 53,
+        t.y = 0,
         t
     },
     e
@@ -1716,91 +1765,49 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel2Skin.exml"] = wi
 generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = window.PveYingkaluosiLevel3Skin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "txtbg0", "jrsyzdcs0", "txt_count0", "battleCount", "imgBtn_pet", "imgBtn_cure", "btns", "jihuobg", "dark4", "light4", "dark3", "light3", "dark2", "light2", "dark1", "light1", "done1", "done2", "done3", "done4", "btnJihuo", "grp_right", "img", "a_3564", "a_3477", "a_3549", "a_3554", "pet", "btnGo", "btnFight", "node0", "node1", "level1", "node2", "node4", "node3", "level2", "node5", "node7", "node8", "node6", "level3", "node9", "node12", "node13", "node10", "node11", "level4", "center", "txtbg", "mcjbdsdhwyklsdsljhycjddqbjdbjhtjkywzjhyxsx_nxywyklsdsljh4cs", "titleDesc"],
+        this.skinParts = ["bg", "imgBtn_pet", "imgBtn_cure", "btns", "jihuobg", "dark4", "light4", "dark3", "light3", "dark2", "light2", "dark1", "light1", "done1", "done2", "done3", "done4", "btnJihuo", "right", "img", "img3564", "img3477", "img3549", "img3554", "pet", "btnGo", "btnFight", "imgTipsBg", "txtTips", "txtTipsCount", "tips", "txtbg", "txtFightCount", "txt_count0", "battleCount", "node0", "node1", "level1", "node2", "node4", "node3", "level2", "node5", "node7", "node8", "node6", "level3", "node9", "node12", "node13", "node10", "node11", "level4", "center", "txtTitleBg", "txtTitle2", "txtTitle1", "titleDesc"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this.bg_i(), this.battleCount_i(), this.btns_i(), this.grp_right_i(), this.center_i(), this.titleDesc_i()]
+        this.elementsContent = [this.bg_i(), this.btns_i(), this.right_i(), this.center_i(), this.titleDesc_i()]
     }
     __extends(e, t);
     var i = e.prototype;
     return i.bg_i = function() {
         var t = new eui.Image;
         return this.bg = t,
-        t.left = 0,
-        t.right = 0,
         t.source = "pve_yingkaluosi_level1_bg_png",
-        t.y = 0,
-        t
-    },
-    i.battleCount_i = function() {
-        var t = new eui.Group;
-        return this.battleCount = t,
-        t.right = 17,
-        t.y = 7,
-        t.elementsContent = [this.txtbg0_i(), this.jrsyzdcs0_i(), this.txt_count0_i()],
-        t
-    },
-    i.txtbg0_i = function() {
-        var t = new eui.Image;
-        return this.txtbg0 = t,
-        t.source = "pve_yingkaluosi_upenergy_txtbg_png",
         t.x = 0,
         t.y = 0,
-        t
-    },
-    i.jrsyzdcs0_i = function() {
-        var t = new eui.Label;
-        return this.jrsyzdcs0 = t,
-        t.size = 18,
-        t.text = "今日剩余战斗次数：",
-        t.textColor = 16777215,
-        t.x = 49,
-        t.y = 12,
-        t
-    },
-    i.txt_count0_i = function() {
-        var t = new eui.Label;
-        return this.txt_count0 = t,
-        t.size = 18,
-        t.text = "000",
-        t.textColor = 16777215,
-        t.x = 211,
-        t.y = 14,
         t
     },
     i.btns_i = function() {
         var t = new eui.Group;
         return this.btns = t,
-        t.height = 132,
-        t.left = 31,
-        t.width = 60,
-        t.y = 242,
+        t.x = 24,
+        t.y = 226,
         t.elementsContent = [this.imgBtn_pet_i(), this.imgBtn_cure_i()],
         t
     },
     i.imgBtn_pet_i = function() {
         var t = new eui.Image;
         return this.imgBtn_pet = t,
-        t.source = "pve_yingkaluosi_level1_imgBtn_pet_png",
-        t.x = 0,
+        t.source = "pve_yingkaluosi_level2_imgbtn_pet_png",
+        t.x = 1,
         t.y = 0,
         t
     },
     i.imgBtn_cure_i = function() {
         var t = new eui.Image;
         return this.imgBtn_cure = t,
-        t.source = "pve_yingkaluosi_level1_imgBtn_cure_png",
+        t.source = "pve_yingkaluosi_level2_imgbtn_cure_png",
         t.x = 0,
-        t.y = 72,
+        t.y = 85,
         t
     },
-    i.grp_right_i = function() {
+    i.right_i = function() {
         var t = new eui.Group;
-        return this.grp_right = t,
-        t.height = 474,
+        return this.right = t,
         t.right = 4,
-        t.visible = !0,
-        t.width = 129,
         t.y = 61,
         t.elementsContent = [this.jihuobg_i(), this.dark4_i(), this.light4_i(), this.dark3_i(), this.light3_i(), this.dark2_i(), this.light2_i(), this.dark1_i(), this.light1_i(), this.done1_i(), this.done2_i(), this.done3_i(), this.done4_i(), this.btnJihuo_i()],
         t
@@ -1809,7 +1816,6 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
         var t = new eui.Image;
         return this.jihuobg = t,
         t.source = "pve_yingkaluosi_level3_jihuobg_png",
-        t.visible = !0,
         t.x = 0,
         t.y = 0,
         t
@@ -1817,8 +1823,7 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
     i.dark4_i = function() {
         var t = new eui.Image;
         return this.dark4 = t,
-        t.source = "pve_yingkaluosi_level3_dark3_png",
-        t.visible = !0,
+        t.source = "pve_yingkaluosi_level3_dark4_png",
         t.x = 6,
         t.y = 290,
         t
@@ -1826,8 +1831,7 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
     i.light4_i = function() {
         var t = new eui.Image;
         return this.light4 = t,
-        t.source = "pve_yingkaluosi_level3_light3_png",
-        t.visible = !0,
+        t.source = "pve_yingkaluosi_level3_light4_png",
         t.x = 2,
         t.y = 285,
         t
@@ -1835,26 +1839,23 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
     i.dark3_i = function() {
         var t = new eui.Image;
         return this.dark3 = t,
-        t.source = "pve_yingkaluosi_level3_dark4_png",
-        t.visible = !0,
+        t.source = "pve_yingkaluosi_level3_dark3_png",
         t.x = 6,
-        t.y = 224,
+        t.y = 225,
         t
     },
     i.light3_i = function() {
         var t = new eui.Image;
         return this.light3 = t,
-        t.source = "pve_yingkaluosi_level3_light4_png",
-        t.visible = !0,
+        t.source = "pve_yingkaluosi_level3_light3_png",
         t.x = 2,
-        t.y = 219,
+        t.y = 220,
         t
     },
     i.dark2_i = function() {
         var t = new eui.Image;
         return this.dark2 = t,
-        t.source = "pve_yingkaluosi_level3_dark1_png",
-        t.visible = !0,
+        t.source = "pve_yingkaluosi_level3_dark2_png",
         t.x = 6,
         t.y = 159,
         t
@@ -1862,8 +1863,7 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
     i.light2_i = function() {
         var t = new eui.Image;
         return this.light2 = t,
-        t.source = "pve_yingkaluosi_level3_light1_png",
-        t.visible = !0,
+        t.source = "pve_yingkaluosi_level3_light2_png",
         t.x = 2,
         t.y = 154,
         t
@@ -1871,8 +1871,7 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
     i.dark1_i = function() {
         var t = new eui.Image;
         return this.dark1 = t,
-        t.source = "pve_yingkaluosi_level3_dark2_png",
-        t.visible = !0,
+        t.source = "pve_yingkaluosi_level3_dark1_png",
         t.x = 6,
         t.y = 94,
         t
@@ -1880,8 +1879,7 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
     i.light1_i = function() {
         var t = new eui.Image;
         return this.light1 = t,
-        t.source = "pve_yingkaluosi_level3_light2_png",
-        t.visible = !0,
+        t.source = "pve_yingkaluosi_level3_light1_png",
         t.x = 2,
         t.y = 89,
         t
@@ -1925,19 +1923,17 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
     i.btnJihuo_i = function() {
         var t = new eui.Image;
         return this.btnJihuo = t,
-        t.source = "pve_yingkaluosi_level3_btnJihuo_png",
-        t.x = 8,
-        t.y = 361,
+        t.source = "pve_yingkaluosi_level3_btnjihuo_png",
+        t.x = 20,
+        t.y = 375,
         t
     },
     i.center_i = function() {
         var t = new eui.Group;
         return this.center = t,
-        t.height = 540,
         t.horizontalCenter = -8.5,
-        t.width = 859,
         t.y = 79,
-        t.elementsContent = [this.img_i(), this.pet_i(), this.btnGo_i(), this.btnFight_i(), this.level1_i(), this.level2_i(), this.level3_i(), this.level4_i()],
+        t.elementsContent = [this.img_i(), this.pet_i(), this.btnGo_i(), this.btnFight_i(), this.tips_i(), this.battleCount_i(), this.level1_i(), this.level2_i(), this.level3_i(), this.level4_i()],
         t
     },
     i.img_i = function() {
@@ -1953,40 +1949,40 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
         return this.pet = t,
         t.x = 90,
         t.y = 0,
-        t.elementsContent = [this.a_3564_i(), this.a_3477_i(), this.a_3549_i(), this.a_3554_i()],
+        t.elementsContent = [this.img3564_i(), this.img3477_i(), this.img3549_i(), this.img3554_i()],
         t
     },
-    i.a_3564_i = function() {
+    i.img3564_i = function() {
         var t = new eui.Image;
-        return this.a_3564 = t,
-        t.source = "pve_yingkaluosi_level3_3564_png",
+        return this.img3564 = t,
+        t.source = "pve_yingkaluosi_level3_img3564_png",
         t.visible = !1,
         t.x = 100,
         t.y = 5,
         t
     },
-    i.a_3477_i = function() {
+    i.img3477_i = function() {
         var t = new eui.Image;
-        return this.a_3477 = t,
-        t.source = "pve_yingkaluosi_level3_3477_png",
+        return this.img3477 = t,
+        t.source = "pve_yingkaluosi_level3_img3477_png",
         t.visible = !1,
         t.x = 14,
         t.y = 0,
         t
     },
-    i.a_3549_i = function() {
+    i.img3549_i = function() {
         var t = new eui.Image;
-        return this.a_3549 = t,
-        t.source = "pve_yingkaluosi_level3_3549_png",
+        return this.img3549 = t,
+        t.source = "pve_yingkaluosi_level3_img3549_png",
         t.visible = !1,
         t.x = 0,
         t.y = 31,
         t
     },
-    i.a_3554_i = function() {
+    i.img3554_i = function() {
         var t = new eui.Image;
-        return this.a_3554 = t,
-        t.source = "pve_yingkaluosi_level3_3554_png",
+        return this.img3554 = t,
+        t.source = "pve_yingkaluosi_level3_img3554_png",
         t.visible = !1,
         t.x = 105,
         t.y = 4,
@@ -1997,15 +1993,93 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
         return this.btnGo = t,
         t.source = "pve_yingkaluosi_level1_btnGo_png",
         t.x = 447,
-        t.y = 463,
+        t.y = 403,
         t
     },
     i.btnFight_i = function() {
         var t = new eui.Image;
         return this.btnFight = t,
-        t.source = "pve_yingkaluosi_level3_btnFight_png",
+        t.source = "pve_yingkaluosi_level3_btnfight_png",
         t.x = 190,
-        t.y = 463,
+        t.y = 403,
+        t
+    },
+    i.tips_i = function() {
+        var t = new eui.Group;
+        return this.tips = t,
+        t.x = 252,
+        t.y = 478,
+        t.elementsContent = [this.imgTipsBg_i(), this.txtTips_i(), this.txtTipsCount_i()],
+        t
+    },
+    i.imgTipsBg_i = function() {
+        var t = new eui.Image;
+        return this.imgTipsBg = t,
+        t.source = "pve_yingkaluosi_level3_txtbg_png",
+        t.x = 25,
+        t.y = 0,
+        t
+    },
+    i.txtTips_i = function() {
+        var t = new eui.Label;
+        return this.txtTips = t,
+        t.fontFamily = "REEJI",
+        t.size = 28,
+        t.text = "当前已触发节点重置       次",
+        t.textColor = 16771680,
+        t.width = 384,
+        t.x = 0,
+        t.y = 6,
+        t
+    },
+    i.txtTipsCount_i = function() {
+        var t = new eui.Label;
+        return this.txtTipsCount = t,
+        t.fontFamily = "REEJI",
+        t.size = 28,
+        t.text = "00/00",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 110,
+        t.x = 245,
+        t.y = 7,
+        t
+    },
+    i.battleCount_i = function() {
+        var t = new eui.Group;
+        return this.battleCount = t,
+        t.x = 298,
+        t.y = 366,
+        t.elementsContent = [this.txtbg_i(), this.txtFightCount_i(), this.txt_count0_i()],
+        t
+    },
+    i.txtbg_i = function() {
+        var t = new eui.Image;
+        return this.txtbg = t,
+        t.source = "pve_yingkaluosi_level3_txtbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txtFightCount_i = function() {
+        var t = new eui.Label;
+        return this.txtFightCount = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "今日剩余战斗次数：",
+        t.textColor = 16777215,
+        t.x = 50,
+        t.y = 12,
+        t
+    },
+    i.txt_count0_i = function() {
+        var t = new eui.Label;
+        return this.txt_count0 = t,
+        t.size = 18,
+        t.text = "000",
+        t.textColor = 16777215,
+        t.x = 211,
+        t.y = 14,
         t
     },
     i.level1_i = function() {
@@ -2179,28 +2253,40 @@ generateEUI.paths["resource/eui_skins/panel/PveYingkaluosiLevel3Skin.exml"] = wi
         var t = new eui.Group;
         return this.titleDesc = t,
         t.horizontalCenter = .5,
+        t.touchEnabled = !1,
         t.y = 60,
-        t.elementsContent = [this.txtbg_i(), this.mcjbdsdhwyklsdsljhycjddqbjdbjhtjkywzjhyxsx_nxywyklsdsljh4cs_i()],
+        t.elementsContent = [this.txtTitleBg_i(), this.txtTitle2_i(), this.txtTitle1_i()],
         t
     },
-    i.txtbg_i = function() {
+    i.txtTitleBg_i = function() {
         var t = new eui.Image;
-        return this.txtbg = t,
-        t.source = "pve_yingkaluosi_level3_txtbg_png",
+        return this.txtTitleBg = t,
+        t.source = "pve_yingkaluosi_level3_txttitlebg_png",
         t.x = 0,
         t.y = 0,
         t
     },
-    i.mcjbdsdhwyklsdsljhycjddqbjdbjhtjkywzjhyxsx_nxywyklsdsljh4cs_i = function() {
+    i.txtTitle2_i = function() {
         var t = new eui.Label;
-        return this.mcjbdsdhwyklsdsljhycjddqbjdbjhtjkywzjhyxsx_nxywyklsdsljh4cs = t,
+        return this.txtTitle2 = t,
+        t.fontFamily = "MFShangHei",
         t.size = 18,
         t.text = "每次击败对手，都会为英卡洛斯的双镰激活一处节点。当全部节点被激活，它就可以完整激活一项属性！\n你需要为英卡洛斯的双镰激活4种属性。注意，如果激活了重复节点，会令当前属性内的节点全部重置！",
-        t.textAlign = "center",
         t.textColor = 14221234,
-        t.width = 842,
-        t.x = 28,
-        t.y = 7,
+        t.width = 849.072,
+        t.x = 40,
+        t.y = 6,
+        t
+    },
+    i.txtTitle1_i = function() {
+        var t = new eui.Label;
+        return this.txtTitle1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "若当前属性内触发节点重置到达对应次数后，再次激活重复节点将不再发生重置！",
+        t.textColor = 14221234,
+        t.x = 130,
+        t.y = 542,
         t
     },
     e

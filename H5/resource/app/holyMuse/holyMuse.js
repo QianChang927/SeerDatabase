@@ -945,7 +945,7 @@ function(e) {
                 })
             }
             var o = this.actionTime;
-            this.txt_winRate.text = this.showRate[o] + "%";
+            o >= this.showRate.length ? this.txt_winRate.text = "100%": this.txt_winRate.text = this.showRate[o] + "%";
             var s = this.actionTime > 7 ? 7 : this.actionTime,
             r = ItemManager.getNumByID(1714501),
             u = ItemManager.getNumByID(1714502),

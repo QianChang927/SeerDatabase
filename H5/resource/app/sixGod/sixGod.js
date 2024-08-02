@@ -100,24 +100,24 @@ function(t) {
             KTool.getMultiValue([102486, 102487],
             function(e) {
                 for (var i = e[0], n = !0, o = 0; 3 > o; o++) {
-                    var a = 1 == KTool.getBit(i, o + 1);
-                    t["btn" + (o + 1)].touchEnabled = !a,
-                    t["got" + (o + 1)].visible = a,
-                    t["go" + (o + 1)].visible = !a;
-                    var r = ItemManager.getNumByID(1712550 + o);
-                    t["txt" + (o + 1)].text = r + "/1",
-                    a || (n = !1)
+                    var r = 1 == KTool.getBit(i, o + 1);
+                    t["btn" + (o + 1)].touchEnabled = !r,
+                    t["got" + (o + 1)].visible = r,
+                    t["go" + (o + 1)].visible = !r;
+                    var s = ItemManager.getNumByID(1712550 + o);
+                    t["txt" + (o + 1)].text = s + "/1",
+                    r || (n = !1)
                 }
-                var s = 1 == KTool.getBit(i, 4);
-                t.gotPet.visible = t.btnUp.visible = t.oneKey.visible = s,
-                t.getPet.visible = !s && n,
-                t.btnGot.visible = !s;
+                var a = 1 == KTool.getBit(i, 4);
+                t.gotPet.visible = t.btnUp.visible = t.oneKey.visible = a,
+                t.getPet.visible = !a && n,
+                t.btnGot.visible = !a;
                 for (var u = !0,
                 o = 1; 3 >= o; o++) 0 == KTool.getBit(e[1], o) && (u = !1);
                 t.got0.visible = u,
                 t.btnUp.touchEnabled = !u,
-                !s && DisplayUtil.setEnabled(t.btnGot, !n, !0),
-                s && KTool.getBitSet([15165],
+                !a && DisplayUtil.setEnabled(t.btnGot, !n, !0),
+                a && KTool.getBitSet([15165],
                 function(e) {
                     var i = 1 == e[0];
                     t.oneKey.touchEnabled = !i,
@@ -193,10 +193,9 @@ function(t) {
         n.prototype.childrenCreated = function() {
             var n = this;
             e.prototype.childrenCreated.call(this),
+            this.x = this.y = 0,
             this.adaptBgByScale(this.bg),
             this.initOldPveBtnClose(0, this, "six_god_heart_title_png"),
-            this.adaptLeftContent(this.mainGroup),
-            this.adaptRightContent(this.mainGroup),
             this.ani = SpineUtil.createAnimate("quan"),
             this.ani.visible = !1,
             this.aniGroup.addChild(this.ani),
@@ -244,6 +243,13 @@ function(t) {
                 })
             },
             this),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: n.id
+                })
+            },
+            this),
             EventManager.addEventListener(PetFightEvent.ALARM_CLICK,
             function(t) {
                 FightManager.isWin || BubblerManager.getInstance().showText("很遗憾挑战失败，进度重置！")
@@ -285,11 +291,11 @@ function(t) {
                 e.play(),
                 e.rewardNum.text = "" + e.boss[i].num;
                 var o = 12 - t.SixGodManager.heartTimes;
-                if (e.times.text = o + "/12", e.btnChallenge.visible = o > 0, DisplayUtil.setEnabled(e.btnChallenge, 40 > n, !0), e.btnBuy.visible = 1 > o, DisplayUtil.setEnabled(e.btnBuy, 40 > n, !0), DisplayUtil.setEnabled(e.add, 40 > n, !0), 1 == KTool.getBit(t.SixGodManager.allState, 2)) {
-                    var a = t.SixGodManager.checkAllNum();
-                    if (3 > a) {
-                        var r = "已成功合成出界王神心！现在至尊获得六界帝神<font color= #1cfff2>仅" + [798, 598][a - 1] + "钻石！</font>";
-                        Alarm.show(r,
+                if (e.txtFightTimes.text = "今日剩余挑战次数：" + o, e.btnChallenge.visible = o > 0, DisplayUtil.setEnabled(e.btnChallenge, 40 > n, !0), e.btnBuy.visible = 1 > o, DisplayUtil.setEnabled(e.btnBuy, 40 > n, !0), DisplayUtil.setEnabled(e.add, 40 > n, !0), 1 == KTool.getBit(t.SixGodManager.allState, 2)) {
+                    var r = t.SixGodManager.checkAllNum();
+                    if (3 > r) {
+                        var s = "已成功合成出界王神心！现在至尊获得六界帝神<font color= #1cfff2>仅" + [798, 598][r - 1] + "钻石！</font>";
+                        Alarm.show(s,
                         function() {
                             e.onClose()
                         })
@@ -345,25 +351,25 @@ function(t, e, i) {
 },
 __awaiter = this && this.__awaiter ||
 function(t, e, i, n) {
-    return new(i || (i = Promise))(function(o, a) {
-        function r(t) {
+    return new(i || (i = Promise))(function(o, r) {
+        function s(t) {
             try {
                 u(n.next(t))
             } catch(e) {
-                a(e)
+                r(e)
             }
         }
-        function s(t) {
+        function a(t) {
             try {
                 u(n["throw"](t))
             } catch(e) {
-                a(e)
+                r(e)
             }
         }
         function u(t) {
             t.done ? o(t.value) : new i(function(e) {
                 e(t.value)
-            }).then(r, s)
+            }).then(s, a)
         }
         u((n = n.apply(t, e || [])).next())
     })
@@ -378,11 +384,11 @@ function(t, e) {
     function n(i) {
         if (o) throw new TypeError("Generator is already executing.");
         for (; u;) try {
-            if (o = 1, a && (r = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(r = r.call(a, i[1])).done) return r;
-            switch (a = 0, r && (i = [0, r.value]), i[0]) {
+            if (o = 1, r && (s = r[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(s = s.call(r, i[1])).done) return s;
+            switch (r = 0, s && (i = [0, s.value]), i[0]) {
             case 0:
             case 1:
-                r = i;
+                s = i;
                 break;
             case 4:
                 return u.label++,
@@ -392,7 +398,7 @@ function(t, e) {
                 };
             case 5:
                 u.label++,
-                a = i[1],
+                r = i[1],
                 i = [0];
                 continue;
             case 7:
@@ -400,34 +406,34 @@ function(t, e) {
                 u.trys.pop();
                 continue;
             default:
-                if (r = u.trys, !(r = r.length > 0 && r[r.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (s = u.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     u = 0;
                     continue
                 }
-                if (3 === i[0] && (!r || i[1] > r[0] && i[1] < r[3])) {
+                if (3 === i[0] && (!s || i[1] > s[0] && i[1] < s[3])) {
                     u.label = i[1];
                     break
                 }
-                if (6 === i[0] && u.label < r[1]) {
-                    u.label = r[1],
-                    r = i;
+                if (6 === i[0] && u.label < s[1]) {
+                    u.label = s[1],
+                    s = i;
                     break
                 }
-                if (r && u.label < r[2]) {
-                    u.label = r[2],
+                if (s && u.label < s[2]) {
+                    u.label = s[2],
                     u.ops.push(i);
                     break
                 }
-                r[2] && u.ops.pop(),
+                s[2] && u.ops.pop(),
                 u.trys.pop();
                 continue
             }
             i = e.call(t, u)
         } catch(n) {
             i = [6, n],
-            a = 0
+            r = 0
         } finally {
-            o = r = 0
+            o = s = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -435,24 +441,24 @@ function(t, e) {
             done: !0
         }
     }
-    var o, a, r, s, u = {
+    var o, r, s, a, u = {
         label: 0,
         sent: function() {
-            if (1 & r[0]) throw r[1];
-            return r[1]
+            if (1 & s[0]) throw s[1];
+            return s[1]
         },
         trys: [],
         ops: []
     };
-    return s = {
+    return a = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
         return this
     }),
-    s
+    a
 },
 sixGod; !
 function(t) {
@@ -539,6 +545,24 @@ function(t) {
                 })
             })
         },
+        t.getCardValue = function() {
+            return __awaiter(this, void 0, void 0,
+            function() {
+                var t;
+                return __generator(this,
+                function(e) {
+                    switch (e.label) {
+                    case 0:
+                        return [4, KTool.getMultiValueAsync([121880, 121881])];
+                    case 1:
+                        return t = e.sent(),
+                        this.cardCountA = t[0],
+                        this.cardCountB = t[1],
+                        [2]
+                    }
+                })
+            })
+        },
         t.damages = [0, 0, 0],
         t.swordTimes = 0,
         t.heartBoss = 0,
@@ -549,6 +573,8 @@ function(t) {
         t.upFightStar = [],
         t.up3state = [],
         t.allState = 0,
+        t.cardCountA = 0,
+        t.cardCountB = 0,
         t
     } ();
     t.SixGodManager = e,
@@ -665,10 +691,8 @@ function(t) {
             e.prototype.childrenCreated.call(this),
             this.adaptBgByScale(this.bg),
             this.initOldPveBtnClose(0, this, "six_god_soul_title_png"),
-            this.adaptLeftContent(this.mainGroup),
-            this.adaptRightContent(this.mainGroup),
             this._list.itemRenderer = i,
-            this._list.dataProvider = new eui.ArrayCollection([1, 2, 3, 4, 5, 6, 7, 8, 9]),
+            this.updateCard(),
             ImageButtonUtil.add(this.bag,
             function() {
                 ModuleManager.showModuleByID(10)
@@ -685,13 +709,14 @@ function(t) {
                 function() {
                     SocketConnection.sendByQueue(45718, [8, 0],
                     function() {
-                        n.updateView()
+                        n.updateView(),
+                        n.updateCard()
                     })
                 },
                 n)
             },
             this),
-            ImageButtonUtil.add(this.btnAll,
+            ImageButtonUtil.add(this.btnYijian,
             function() {
                 StatLogger.log("20230721版本系统功能", "六界帝神搬迁", "界王神灵关卡-点击【一键全部翻开】"),
                 BuyProductManager.buyProduct("249984_9982", n.updateView, n)
@@ -703,7 +728,7 @@ function(t) {
                 BuyProductManager.buyProduct("249992_9985", n.updateView, n)
             },
             this),
-            ImageButtonUtil.add(this.btnChallenge,
+            ImageButtonUtil.add(this.btnTiaozhan,
             function() {
                 return t.SixGodManager.soulTimes >= 10 ? void BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : (StatLogger.log("20230721版本系统功能", "六界帝神搬迁", "界王神灵关卡-点击【开始挑战】"), void FightManager.fightNoMapBoss(9238))
             },
@@ -712,18 +737,19 @@ function(t) {
             this.updateView()
         },
         n.prototype.reShow = function() {
-            this.updateView()
+            this.updateView(),
+            this.updateCard()
         },
         n.prototype.updateView = function() {
             var e = this;
             t.SixGodManager.getSoulValue().then(function() {
                 EventManager.dispatchEventWith("SixGodSoulItem_update");
                 var i = 10 - t.SixGodManager.soulTimes;
-                e.times.text = i + "/10",
-                e.btnChallenge.visible = i > 0,
+                e.txtFightTimes.text = "今日剩余挑战次数：" + i,
+                e.btnTiaozhan.visible = i > 0,
                 e.btnBuy.visible = 1 > i;
                 var n = 1 == KTool.getBit(t.SixGodManager.allState, 3);
-                if (DisplayUtil.setEnabled(e.btnOneKey, !n, !0), DisplayUtil.setEnabled(e.btnChallenge, !n, !0), DisplayUtil.setEnabled(e.btnAll, !n, !0), e._list.touchChildren = !n, t.SixGodManager.soulState.every(function(t) {
+                if (DisplayUtil.setEnabled(e.btnOneKey, !n, !0), DisplayUtil.setEnabled(e.btnTiaozhan, !n, !0), DisplayUtil.setEnabled(e.btnYijian, !n, !0), e._list.touchChildren = !n, t.SixGodManager.soulState.every(function(t) {
                     return 0 != t
                 })) 0 == KTool.getBit(t.SixGodManager.allState, 3) ? SocketConnection.sendByQueue(45718, [5, 0],
                 function() {
@@ -741,13 +767,29 @@ function(t) {
                 else if (n) {
                     var o = t.SixGodManager.checkAllNum();
                     if (3 > o) {
-                        var a = "已成功获得界王神灵！现在至尊获得六界帝神<font color= #1cfff2>仅" + [798, 598][o - 1] + "钻石！</font>";
-                        Alarm.show(a,
+                        var r = "已成功获得界王神灵！现在至尊获得六界帝神<font color= #1cfff2>仅" + [798, 598][o - 1] + "钻石！</font>";
+                        Alarm.show(r,
                         function() {
                             e.onClose()
                         })
                     }
                 }
+            })
+        },
+        n.prototype.updateCard = function() {
+            var e = this;
+            t.SixGodManager.getCardValue().then(function() {
+                for (var i = [], n = 0; 9 > n; ++n) {
+                    var o = void 0;
+                    o = 8 > n ? t.SixGodManager.cardCountA >> 4 * n & 15 : t.SixGodManager.cardCountB >> 4 * n & 15,
+                    i.push({
+                        index: n + 1,
+                        flipCount: o
+                    })
+                }
+                e.arrData ? e.arrData.source = i: e.arrData = new eui.ArrayCollection(i),
+                e._list.dataProvider = e.arrData,
+                e.arrData.refresh()
             })
         },
         n
@@ -795,7 +837,9 @@ function(t) {
             function() {
                 e.currentState = o
             },
-            this, 1)) : (this.ima.source = 0 == n ? "six_god_soul_not_png": "six_god_soul_ima" + (this.itemIndex + 1) + "_png", this.ani.visible = !1, this.open.visible = 1 == n, this.currentState = o)
+            this, 1)) : (this.ima.source = 0 == n ? "six_god_soul_not_png": "six_god_soul_ima" + (this.itemIndex + 1) + "_png", this.ani.visible = !1, this.open.visible = 1 == n, this.currentState = o),
+            "forever" == o ? this.txtCount.visible = !1 : this.txtCount.visible = this.data.flipCount > 0,
+            this.txtCount.text = this.data.flipCount
         },
         i.prototype.destroy = function() {
             e.prototype.destroy.call(this),
@@ -837,8 +881,6 @@ function(t) {
             e.prototype.childrenCreated.call(this),
             this.adaptBgByScale(this.bg),
             this.initOldPveBtnClose(0, this, "six_god_sword_title_png"),
-            this.adaptLeftContent(this.mainGroup),
-            this.adaptRightContent(this.mainGroup),
             this.ani = SpineUtil.createAnimate("quan"),
             this.ani.visible = !1,
             this.aniGroup.addChild(this.ani),
@@ -866,7 +908,7 @@ function(t) {
                 n)
             },
             this),
-            ImageButtonUtil.add(this.btnGet,
+            ImageButtonUtil.add(this.btnYijian,
             function() {
                 StatLogger.log("20230721版本系统功能", "六界帝神搬迁", "界王神剑关卡-点击【一键获得】"),
                 BuyProductManager.buyProduct("249982_9980", n.updateView, n)
@@ -883,7 +925,7 @@ function(t) {
                 BuyProductManager.buyProduct("249985_9983", n.updateView, n)
             },
             this),
-            ImageButtonUtil.add(this.btnChallenge,
+            ImageButtonUtil.add(this.btnTiaozhan,
             function() {
                 if (t.SixGodManager.swordTimes >= 10) return void BubblerManager.getInstance().showText("今日剩余挑战次数不足。");
                 StatLogger.log("20230721版本系统功能", "六界帝神搬迁", "界王神剑关卡-点击【开始挑战】");
@@ -897,6 +939,13 @@ function(t) {
                 function() {
                     StatLogger.log("20230721版本系统功能", "六界帝神搬迁", "界王神剑关卡-点击【领取神剑】"),
                     n.updateView()
+                })
+            },
+            this),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: n.id
                 })
             },
             this),
@@ -916,17 +965,17 @@ function(t) {
             function() {
                 var t = ItemManager.getNumByID(n.id);
                 n.num.text = t + "/40",
-                n.bar.value = t,
+                n.itemProgress.value = t,
                 n.getItem.visible = t >= 40,
-                n.btnGet.visible = 40 > t,
-                DisplayUtil.setEnabled(n.btnChallenge, 40 > t, !0),
+                n.btnYijian.visible = 40 > t,
+                DisplayUtil.setEnabled(n.btnTiaozhan, 40 > t, !0),
                 DisplayUtil.setEnabled(n.btnOneKey, 40 > t, !0),
                 DisplayUtil.setEnabled(n.btnBuy, 40 > t, !0),
                 DisplayUtil.setEnabled(n.add, 40 > t, !0),
                 n.play()
             },
             this),
-            this.bar.maximum = 40,
+            this.itemProgress.maximum = 40,
             this.updateView()
         },
         n.prototype.reShow = function() {
@@ -935,26 +984,26 @@ function(t) {
         n.prototype.updateView = function() {
             var e = this;
             t.SixGodManager.getSwordValue().then(function() {
-                e.barDamage.value = 0;
+                e.damageProgress.value = 0;
                 var i = Math.max(~~e._list.selectedIndex, 0);
                 e._list.setSelectedIndex(i);
                 var n = ItemManager.getNumByID(e.id);
                 e.num.text = n + "/40",
-                e.bar.value = n,
+                e.itemProgress.value = n,
                 e.getItem.visible = n >= 40,
-                e.btnGet.visible = 40 > n,
+                e.btnYijian.visible = 40 > n,
                 e.play(),
                 e.damage.text = "" + [7, 5, 3][i];
                 var o = [5e3, 3e3, 2e3],
-                a = t.SixGodManager.damages[i];
-                e.damageNum.text = a + "/" + o[i],
-                e.barDamage.maximum = o[i],
-                e.barDamage.value = a;
-                var r = 10 - t.SixGodManager.swordTimes;
-                if (e.times.text = r + "/10", e.btnChallenge.visible = r > 0, DisplayUtil.setEnabled(e.btnChallenge, 40 > n, !0), DisplayUtil.setEnabled(e.btnOneKey, 40 > n, !0), DisplayUtil.setEnabled(e.btnBuy, 40 > n, !0), DisplayUtil.setEnabled(e.add, 40 > n, !0), e.btnBuy.visible = 1 > r, EventManager.dispatchEventWith("SixGodSwordItem_update"), 1 == KTool.getBit(t.SixGodManager.allState, 1)) {
-                    var s = t.SixGodManager.checkAllNum();
-                    if (3 > s) {
-                        var u = "已成功锻造出界王神剑！现在至尊获得六界帝神<font color= #1cfff2>仅" + [798, 598][s - 1] + "钻石！</font>";
+                r = t.SixGodManager.damages[i];
+                e.damageNum.text = r + "/" + o[i],
+                e.damageProgress.maximum = o[i],
+                e.damageProgress.value = r;
+                var s = 10 - t.SixGodManager.swordTimes;
+                if (e.txtFightTimes.text = "今日剩余挑战次数：" + s, e.btnTiaozhan.visible = s > 0, DisplayUtil.setEnabled(e.btnTiaozhan, 40 > n, !0), DisplayUtil.setEnabled(e.btnOneKey, 40 > n, !0), DisplayUtil.setEnabled(e.btnBuy, 40 > n, !0), DisplayUtil.setEnabled(e.add, 40 > n, !0), e.btnBuy.visible = 1 > s, EventManager.dispatchEventWith("SixGodSwordItem_update"), 1 == KTool.getBit(t.SixGodManager.allState, 1)) {
+                    var a = t.SixGodManager.checkAllNum();
+                    if (3 > a) {
+                        var u = "已成功锻造出界王神剑！现在至尊获得六界帝神<font color= #1cfff2>仅" + [798, 598][a - 1] + "钻石！</font>";
                         Alarm.show(u,
                         function() {
                             e.onClose()
@@ -992,9 +1041,9 @@ function(t) {
         i.prototype.updateView = function() {
             this.pet.source = "six_god_sword_" + this.info + "_png";
             var e = t.SixGodManager.damages[this.itemIndex],
-            i = [5e3, 3e3, 2e3];
-            this.num.text = e + "/" + i[this.itemIndex],
-            this.bar.maximum = i[this.itemIndex],
+            i = [2500, 1500, 1e3];
+            this.num.text = "单次挑战最多达成" + i[this.itemIndex] + "伤害",
+            this.bar.maximum = 2 * i[this.itemIndex],
             this.bar.value = e
         },
         i
@@ -1032,8 +1081,6 @@ function(t) {
             e.prototype.childrenCreated.call(this),
             this.adaptBgByScale(this.bg),
             this.initOldPveBtnClose(0, this, "six_god_up_title_png"),
-            this.adaptLeftContent(this.mainGroup),
-            this.adaptRightContent(this.mainGroup),
             ImageButtonUtil.add(this.bag,
             function() {
                 ModuleManager.showModuleByID(10)
@@ -1055,7 +1102,7 @@ function(t) {
                 BuyProductManager.buyProduct("249999_9987", i.updateView, i)
             },
             this),
-            ImageButtonUtil.add(this.btnChallenge,
+            ImageButtonUtil.add(this.btnTiaozhan,
             function() {
                 return t.SixGodManager.upTimes >= 5 ? void BubblerManager.getInstance().showText("今日剩余挑战次数不足。") : (StatLogger.log("20230721版本系统功能", "六界帝神搬迁", "三件套关卡-点击【开始挑战】"), void FightManager.fightNoMapBoss(9239))
             },
@@ -1096,7 +1143,7 @@ function(t) {
                 },
                 o)
             },
-            o = this, a = 1; 4 > a; a++) n(a);
+            o = this, r = 1; 4 > r; r++) n(r);
             ImageButtonUtil.add(this.item0,
             function() {
                 var t = {
@@ -1115,6 +1162,13 @@ function(t) {
                 var t = {};
                 t.id = 30552,
                 tipsPop.TipsPop.openSkillPop(t)
+            },
+            this),
+            ImageButtonUtil.add(this.icon,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: i.id
+                })
             },
             this),
             this.icon.source = ClientConfig.getItemIcon(this.id),
@@ -1142,9 +1196,9 @@ function(t) {
             t.SixGodManager.getUpValue().then(function() {
                 e.num.text = "" + ItemManager.getNumByID(e.id);
                 var i = 5 - t.SixGodManager.upTimes;
-                e.times.text = i + "/5",
-                e.btnChallenge.visible = i > 0,
-                DisplayUtil.setEnabled(e.btnChallenge, t.SixGodManager.up3state.indexOf(0) > -1, !0),
+                e.txtFightTimes.text = "今日剩余挑战次数：" + i,
+                e.btnTiaozhan.visible = i > 0,
+                DisplayUtil.setEnabled(e.btnTiaozhan, t.SixGodManager.up3state.indexOf(0) > -1, !0),
                 e.btnBuy.visible = 1 > i;
                 for (var n = 0; 3 > n; n++) {
                     var o = 1 == t.SixGodManager.up3state[n];
@@ -1177,25 +1231,25 @@ function(t, e) {
 },
 __awaiter = this && this.__awaiter ||
 function(t, e, i, n) {
-    return new(i || (i = Promise))(function(o, a) {
-        function r(t) {
+    return new(i || (i = Promise))(function(o, r) {
+        function s(t) {
             try {
                 u(n.next(t))
             } catch(e) {
-                a(e)
+                r(e)
             }
         }
-        function s(t) {
+        function a(t) {
             try {
                 u(n["throw"](t))
             } catch(e) {
-                a(e)
+                r(e)
             }
         }
         function u(t) {
             t.done ? o(t.value) : new i(function(e) {
                 e(t.value)
-            }).then(r, s)
+            }).then(s, a)
         }
         u((n = n.apply(t, e || [])).next())
     })
@@ -1210,11 +1264,11 @@ function(t, e) {
     function n(i) {
         if (o) throw new TypeError("Generator is already executing.");
         for (; u;) try {
-            if (o = 1, a && (r = a[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(r = r.call(a, i[1])).done) return r;
-            switch (a = 0, r && (i = [0, r.value]), i[0]) {
+            if (o = 1, r && (s = r[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(s = s.call(r, i[1])).done) return s;
+            switch (r = 0, s && (i = [0, s.value]), i[0]) {
             case 0:
             case 1:
-                r = i;
+                s = i;
                 break;
             case 4:
                 return u.label++,
@@ -1224,7 +1278,7 @@ function(t, e) {
                 };
             case 5:
                 u.label++,
-                a = i[1],
+                r = i[1],
                 i = [0];
                 continue;
             case 7:
@@ -1232,34 +1286,34 @@ function(t, e) {
                 u.trys.pop();
                 continue;
             default:
-                if (r = u.trys, !(r = r.length > 0 && r[r.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (s = u.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     u = 0;
                     continue
                 }
-                if (3 === i[0] && (!r || i[1] > r[0] && i[1] < r[3])) {
+                if (3 === i[0] && (!s || i[1] > s[0] && i[1] < s[3])) {
                     u.label = i[1];
                     break
                 }
-                if (6 === i[0] && u.label < r[1]) {
-                    u.label = r[1],
-                    r = i;
+                if (6 === i[0] && u.label < s[1]) {
+                    u.label = s[1],
+                    s = i;
                     break
                 }
-                if (r && u.label < r[2]) {
-                    u.label = r[2],
+                if (s && u.label < s[2]) {
+                    u.label = s[2],
                     u.ops.push(i);
                     break
                 }
-                r[2] && u.ops.pop(),
+                s[2] && u.ops.pop(),
                 u.trys.pop();
                 continue
             }
             i = e.call(t, u)
         } catch(n) {
             i = [6, n],
-            a = 0
+            r = 0
         } finally {
-            o = r = 0
+            o = s = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -1267,24 +1321,24 @@ function(t, e) {
             done: !0
         }
     }
-    var o, a, r, s, u = {
+    var o, r, s, a, u = {
         label: 0,
         sent: function() {
-            if (1 & r[0]) throw r[1];
-            return r[1]
+            if (1 & s[0]) throw s[1];
+            return s[1]
         },
         trys: [],
         ops: []
     };
-    return s = {
+    return a = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (s[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
         return this
     }),
-    s
+    a
 },
 sixGod; !
 function(t) {
@@ -1326,22 +1380,22 @@ function(t) {
                         e > 0 ? [0, 0, 0].forEach(function(n, o) {
                             return __awaiter(i, void 0, void 0,
                             function() {
-                                var i, n, a, r = this;
+                                var i, n, r, s = this;
                                 return __generator(this,
-                                function(s) {
-                                    switch (s.label) {
+                                function(a) {
+                                    switch (a.label) {
                                     case 0:
                                         i = t.SixGodManager.upFightStar[o],
                                         n = 0,
-                                        s.label = 1;
+                                        a.label = 1;
                                     case 1:
-                                        return i > n ? (a = SpineUtil.copy(this.ani), a.x = this["star_" + (7 - 3 * o + n)].x + 16, a.y = this["star_" + (7 - 3 * o + n)].y + 16, [4, wait(300)]) : [3, 4];
+                                        return i > n ? (r = SpineUtil.copy(this.ani), r.x = this["star_" + (7 - 3 * o + n)].x + 16, r.y = this["star_" + (7 - 3 * o + n)].y + 16, [4, wait(300)]) : [3, 4];
                                     case 2:
-                                        s.sent(),
-                                        SpineUtil.play(a, "c", this.aniGroup,
+                                        a.sent(),
+                                        SpineUtil.play(r, "c", this.aniGroup,
                                         function() {
-                                            r.allNum++,
-                                            r.allNum == e && (e > 0 ? (AwardManager.pause(), r.item.visible = r.btnGet.visible = !0, gsap.fromTo(r.item, {
+                                            s.allNum++,
+                                            s.allNum == e && (e > 0 ? (AwardManager.pause(), s.item.visible = s.btnGet.visible = !0, gsap.fromTo(s.item, {
                                                 scaleX: 0,
                                                 scaleY: 0
                                             },
@@ -1350,10 +1404,10 @@ function(t) {
                                                 scaleY: 1,
                                                 duration: .2,
                                                 ease: Quad.easeInOut
-                                            })) : r.not.visible = r.btnGet.visible = !0)
+                                            })) : s.not.visible = s.btnGet.visible = !0)
                                         },
                                         this, 1),
-                                        s.label = 3;
+                                        a.label = 3;
                                     case 3:
                                         return n++,
                                         [3, 1];
@@ -1471,10 +1525,10 @@ generateEUI.paths["resource/eui_skins/SixGodHeartItemSkin.exml"] = window.SixGod
 generateEUI.paths["resource/eui_skins/SixGodHeartSkin.exml"] = window.SixGodHeartSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "rewardNum", "btnGet", "btnBuy", "times", "btnChallenge", "num", "add", "icon", "rew", "bar", "aniGroup", "getItem", "_list", "bag", "cure", "mainGroup"],
+        this.skinParts = ["bg", "bgpet", "rightbg", "rightbg1", "lqsx", "bar", "btnGet", "btnBuy", "btnChallenge", "txtFightTimes", "txt1", "x", "zsjl", "rew", "rewardNum", "aniGroup", "getItem", "num", "add", "icon", "right", "did", "_list", "heads", "bag", "cure", "tip"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this.bg_i(), this.mainGroup_i()]
+        this.elementsContent = [this.bg_i(), this.bgpet_i(), this.right_i(), this.heads_i(), this.bag_i(), this.cure_i(), this.tip_i()]
     }
     __extends(e, t);
     var i = function(t) {
@@ -1507,60 +1561,34 @@ generateEUI.paths["resource/eui_skins/SixGodHeartSkin.exml"] = window.SixGodHear
         t.y = 0,
         t
     },
-    n.mainGroup_i = function() {
-        var t = new eui.Group;
-        return this.mainGroup = t,
-        t.height = 640,
-        t.horizontalCenter = 0,
-        t.left = 0,
-        t.right = 0,
-        t.verticalCenter = 0,
-        t.elementsContent = [this._Image1_i(), this._Group3_i(), this._Group4_i(), this.bag_i(), this.cure_i(), this._Image11_i()],
-        t
-    },
-    n._Image1_i = function() {
+    n.bgpet_i = function() {
         var t = new eui.Image;
-        return t.horizontalCenter = -72.5,
-        t.scaleX = 1,
-        t.scaleY = 1,
+        return this.bgpet = t,
+        t.horizontalCenter = -72.5,
         t.source = "six_god_sword_bgpet_png",
         t.y = 95,
         t
     },
-    n._Group3_i = function() {
+    n.right_i = function() {
         var t = new eui.Group;
-        return t.height = 640,
+        return this.right = t,
         t.right = 10,
-        t.width = 368,
         t.y = 0,
-        t.elementsContent = [this._Group2_i(), this.bar_i(), this._Image9_i(), this.aniGroup_i(), this.getItem_i()],
+        t.elementsContent = [this.rightbg_i(), this.rightbg1_i(), this.lqsx_i(), this.bar_i(), this.btnGet_i(), this.btnBuy_i(), this.btnChallenge_i(), this.txtFightTimes_i(), this.txt1_i(), this.x_i(), this.zsjl_i(), this.rew_i(), this.rewardNum_i(), this.aniGroup_i(), this._Image1_i(), this.getItem_i(), this._Group1_i()],
         t
     },
-    n._Group2_i = function() {
-        var t = new eui.Group;
-        return t.cacheAsBitmap = !0,
-        t.height = 640,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.visible = !0,
-        t.width = 368,
-        t.x = 0,
-        t.y = 0,
-        t.elementsContent = [this._Image2_i(), this._Image3_i(), this.rewardNum_i(), this._Image4_i(), this.btnGet_i(), this.btnBuy_i(), this.btnChallenge_i(), this._Group1_i(), this._Label1_i(), this._Label2_i(), this._Image8_i(), this.rew_i()],
-        t
-    },
-    n._Image2_i = function() {
+    n.rightbg_i = function() {
         var t = new eui.Image;
-        return t.height = 640,
+        return this.rightbg = t,
         t.source = "six_god_heart_rightbg_png",
-        t.width = 368,
         t.x = 0,
         t.y = 0,
         t
     },
-    n._Image3_i = function() {
+    n.rightbg1_i = function() {
         var t = new eui.Image;
-        return t.height = 120,
+        return this.rightbg1 = t,
+        t.height = 120,
         t.scale9Grid = new egret.Rectangle(105, 40, 11, 12),
         t.source = "six_god_heart_rightbg1_png",
         t.width = 352,
@@ -1568,31 +1596,33 @@ generateEUI.paths["resource/eui_skins/SixGodHeartSkin.exml"] = window.SixGodHear
         t.y = 373,
         t
     },
-    n.rewardNum_i = function() {
-        var t = new eui.Label;
-        return this.rewardNum = t,
-        t.fontFamily = "MFShangHei",
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.size = 48,
-        t.text = "0",
-        t.textColor = 16769106,
-        t.x = 227,
-        t.y = 430,
-        t
-    },
-    n._Image4_i = function() {
+    n.lqsx_i = function() {
         var t = new eui.Image;
-        return t.source = "six_god_sword_itemprogressbg_png",
-        t.visible = !0,
+        return this.lqsx = t,
+        t.source = "six_god_sword_itemprogressbg_png",
         t.x = 63,
         t.y = 71,
+        t
+    },
+    n.bar_i = function() {
+        var t = new eui.ProgressBar;
+        return this.bar = t,
+        t.rotation = 270,
+        t.scaleX = 1,
+        t.scaleY = 1,
+        t.value = 0,
+        t.visible = !0,
+        t.width = 143,
+        t.x = 116,
+        t.y = 269.2,
+        t.skinName = i,
         t
     },
     n.btnGet_i = function() {
         var t = new eui.Image;
         return this.btnGet = t,
         t.source = "six_god_sword_btnyijian_png",
+        t.visible = !0,
         t.x = 111,
         t.y = 295,
         t
@@ -1600,52 +1630,107 @@ generateEUI.paths["resource/eui_skins/SixGodHeartSkin.exml"] = window.SixGodHear
     n.btnBuy_i = function() {
         var t = new eui.Image;
         return this.btnBuy = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_btnbuy_png",
-        t.visible = !0,
-        t.x = 118.606,
+        t.x = 116,
         t.y = 565,
         t
     },
     n.btnChallenge_i = function() {
-        var t = new eui.Group;
+        var t = new eui.Image;
         return this.btnChallenge = t,
-        t.visible = !0,
-        t.x = 110.606,
-        t.y = 555,
-        t.elementsContent = [this._Image5_i(), this._Image6_i(), this.times_i()],
-        t
-    },
-    n._Image5_i = function() {
-        var t = new eui.Image;
-        return t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_btntiaozhan_png",
-        t.x = 0,
-        t.y = 10,
+        t.x = 116,
+        t.y = 565,
         t
     },
-    n._Image6_i = function() {
+    n.txtFightTimes_i = function() {
+        var t = new eui.Label;
+        return this.txtFightTimes = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 15,
+        t.text = "今日剩余挑战次数：0",
+        t.textColor = 16777215,
+        t.x = 115,
+        t.y = 548,
+        t
+    },
+    n.txt1_i = function() {
+        var t = new eui.Label;
+        return this.txt1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18.187614403971,
+        t.text = "挑战失败进度重置\n全部战胜可再次从头挑战",
+        t.textAlign = "center",
+        t.textColor = 16776661,
+        t.width = 200,
+        t.x = 84,
+        t.y = 498,
+        t
+    },
+    n.x_i = function() {
+        var t = new eui.Label;
+        return this.x = t,
+        t.size = 30,
+        t.text = "×",
+        t.textColor = 16769106,
+        t.x = 174,
+        t.y = 444,
+        t
+    },
+    n.zsjl_i = function() {
+        var t = new eui.Image;
+        return this.zsjl = t,
+        t.source = "six_god_heart_zsjl_png",
+        t.x = 117,
+        t.y = 371,
+        t
+    },
+    n.rew_i = function() {
+        var t = new eui.Image;
+        return this.rew = t,
+        t.height = 49,
+        t.width = 49,
+        t.x = 110,
+        t.y = 428,
+        t
+    },
+    n.rewardNum_i = function() {
+        var t = new eui.Label;
+        return this.rewardNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 48,
+        t.text = "0",
+        t.textColor = 16769106,
+        t.x = 225,
+        t.y = 434,
+        t
+    },
+    n.aniGroup_i = function() {
+        var t = new eui.Group;
+        return this.aniGroup = t,
+        t.visible = !0,
+        t.width = 0,
+        t.x = 188.543,
+        t.y = 199.724,
+        t
+    },
+    n._Image1_i = function() {
         var t = new eui.Image;
         return t.scaleX = 1,
         t.scaleY = 1,
-        t.source = "six_god_sword_timesbg_png",
-        t.x = 104,
-        t.y = 0,
+        t.source = "six_god_heart_1712551_png",
+        t.visible = !0,
+        t.x = 137,
+        t.y = 153,
         t
     },
-    n.times_i = function() {
-        var t = new eui.Label;
-        return this.times = t,
-        t.fontFamily = "MFShangHei",
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.size = 18,
-        t.text = "0/X",
-        t.textColor = 16774231,
-        t.x = 110,
-        t.y = 4,
+    n.getItem_i = function() {
+        var t = new eui.Image;
+        return this.getItem = t,
+        t.source = "six_god_heart_getitem_png",
+        t.visible = !0,
+        t.x = 136,
+        t.y = 146,
         t
     },
     n._Group1_i = function() {
@@ -1653,13 +1738,14 @@ generateEUI.paths["resource/eui_skins/SixGodHeartSkin.exml"] = window.SixGodHear
         return t.height = 40,
         t.scaleX = 1,
         t.scaleY = 1,
+        t.visible = !0,
         t.width = 185,
         t.x = 163,
         t.y = 12,
-        t.elementsContent = [this._Image7_i(), this.num_i(), this.add_i(), this.icon_i()],
+        t.elementsContent = [this._Image2_i(), this.num_i(), this.add_i(), this.icon_i()],
         t
     },
-    n._Image7_i = function() {
+    n._Image2_i = function() {
         var t = new eui.Image;
         return t.source = "six_god_sword_di_png",
         t.x = 4,
@@ -1694,101 +1780,19 @@ generateEUI.paths["resource/eui_skins/SixGodHeartSkin.exml"] = window.SixGodHear
         t.y = 0,
         t
     },
-    n._Label1_i = function() {
-        var t = new eui.Label;
-        return t.fontFamily = "MFShangHei",
-        t.lineSpacing = 2,
-        t.size = 18,
-        t.text = "挑战失败进度重置\n全部战胜可再次从头挑战",
-        t.textAlign = "center",
-        t.textColor = 16776661,
-        t.width = 200,
-        t.x = 84,
-        t.y = 507,
-        t
-    },
-    n._Label2_i = function() {
-        var t = new eui.Label;
-        return t.size = 30,
-        t.text = "×",
-        t.textColor = 16769106,
-        t.x = 174,
-        t.y = 444,
-        t
-    },
-    n._Image8_i = function() {
-        var t = new eui.Image;
-        return t.source = "six_god_heart_zsjl_png",
-        t.x = 117,
-        t.y = 371,
-        t
-    },
-    n.rew_i = function() {
-        var t = new eui.Image;
-        return this.rew = t,
-        t.height = 49,
-        t.width = 49,
-        t.x = 110,
-        t.y = 428,
-        t
-    },
-    n.bar_i = function() {
-        var t = new eui.ProgressBar;
-        return this.bar = t,
-        t.rotation = 270,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.value = 0,
-        t.visible = !0,
-        t.width = 143,
-        t.x = 116,
-        t.y = 269.2,
-        t.skinName = i,
-        t
-    },
-    n._Image9_i = function() {
-        var t = new eui.Image;
-        return t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_heart_1712551_png",
-        t.visible = !0,
-        t.x = 137,
-        t.y = 153,
-        t
-    },
-    n.aniGroup_i = function() {
+    n.heads_i = function() {
         var t = new eui.Group;
-        return this.aniGroup = t,
-        t.width = 0,
-        t.x = 188.543,
-        t.y = 199.724,
-        t
-    },
-    n.getItem_i = function() {
-        var t = new eui.Image;
-        return this.getItem = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_heart_getitem_png",
-        t.visible = !0,
-        t.x = 136,
-        t.y = 146,
-        t
-    },
-    n._Group4_i = function() {
-        var t = new eui.Group;
-        return t.height = 369,
-        t.left = 18,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.width = 172,
+        return this.heads = t,
+        t.x = 18,
         t.y = 73,
-        t.elementsContent = [this._Image10_i(), this._Scroller1_i()],
+        t.elementsContent = [this.did_i(), this._Scroller1_i()],
         t
     },
-    n._Image10_i = function() {
+    n.did_i = function() {
         var t = new eui.Image;
-        return t.height = 368,
+        return this.did = t,
+        t.height = 368,
+        t.scale9Grid = new egret.Rectangle(9, 18, 3, 386),
         t.source = "six_god_sword_did_png",
         t.width = 174,
         t.x = 0,
@@ -1826,28 +1830,23 @@ generateEUI.paths["resource/eui_skins/SixGodHeartSkin.exml"] = window.SixGodHear
     n.bag_i = function() {
         var t = new eui.Image;
         return this.bag = t,
-        t.left = 28,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_bag_png",
+        t.x = 28,
         t.y = 451,
         t
     },
     n.cure_i = function() {
         var t = new eui.Image;
         return this.cure = t,
-        t.left = 28,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_cure_png",
+        t.x = 28,
         t.y = 542,
         t
     },
-    n._Image11_i = function() {
+    n.tip_i = function() {
         var t = new eui.Image;
-        return t.horizontalCenter = -64,
-        t.scaleX = 1,
-        t.scaleY = 1,
+        return this.tip = t,
+        t.horizontalCenter = -64,
         t.source = "six_god_heart_tip_png",
         t.y = 45,
         t
@@ -2151,11 +2150,11 @@ generateEUI.paths["resource/eui_skins/SixGodSkin.exml"] = window.SixGodSkin = fu
 generateEUI.paths["resource/eui_skins/SixGodSoulItemSkin.exml"] = window.SixGodSoulItemSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["ima", "aniGroup", "lock", "open"],
+        this.skinParts = ["ima", "aniGroup", "lock", "open", "txtCount"],
         this.height = 130,
         this.width = 176,
-        this.elementsContent = [this.ima_i(), this.aniGroup_i(), this.lock_i(), this.open_i()],
-        this.states = [new eui.State("not", [new eui.SetProperty("lock", "visible", !1), new eui.SetProperty("open", "visible", !1)]), new eui.State("opened", [new eui.SetProperty("lock", "visible", !1), new eui.SetProperty("open", "visible", !0)]), new eui.State("forever", [new eui.SetProperty("open", "visible", !1)])]
+        this.elementsContent = [this.ima_i(), this.aniGroup_i(), this.lock_i(), this.open_i(), this.txtCount_i()],
+        this.states = [new eui.State("not", [new eui.SetProperty("lock", "visible", !1), new eui.SetProperty("open", "visible", !1)]), new eui.State("opened", [new eui.SetProperty("lock", "visible", !1), new eui.SetProperty("open", "visible", !0)]), new eui.State("forever", [new eui.SetProperty("open", "visible", !1), new eui.SetProperty("txtCount", "visible", !1)])]
     }
     __extends(e, t);
     var i = e.prototype;
@@ -2190,15 +2189,28 @@ generateEUI.paths["resource/eui_skins/SixGodSoulItemSkin.exml"] = window.SixGodS
         t.y = 88,
         t
     },
+    i.txtCount_i = function() {
+        var t = new eui.Label;
+        return this.txtCount = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 30,
+        t.stroke = 1,
+        t.strokeColor = 2623746,
+        t.text = "0",
+        t.textColor = 16770395,
+        t.x = 139,
+        t.y = 16,
+        t
+    },
     e
 } (eui.Skin),
 generateEUI.paths["resource/eui_skins/SixGodSoulSkin.exml"] = window.SixGodSoulSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "_list", "btnAll", "bag", "cure", "btnOneKey", "btnBuy", "times", "btnChallenge", "mainGroup"],
+        this.skinParts = ["bg", "t3", "mas", "btnYijian", "btnOneKey", "btnBuy", "btnTiaozhan", "txtFightTimes", "_list", "bag", "cure", "tipsbg", "txtTips", "grpTips"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this.bg_i(), this.mainGroup_i()]
+        this.elementsContent = [this.bg_i(), this.t3_i(), this.mas_i(), this.btnYijian_i(), this.btnOneKey_i(), this.btnBuy_i(), this.btnTiaozhan_i(), this.txtFightTimes_i(), this._Scroller1_i(), this.bag_i(), this.cure_i(), this.grpTips_i()]
     }
     __extends(e, t);
     var i = e.prototype;
@@ -2210,38 +2222,66 @@ generateEUI.paths["resource/eui_skins/SixGodSoulSkin.exml"] = window.SixGodSoulS
         t.y = 0,
         t
     },
-    i.mainGroup_i = function() {
-        var t = new eui.Group;
-        return this.mainGroup = t,
-        t.height = 640,
-        t.horizontalCenter = 0,
-        t.left = 0,
-        t.right = 0,
-        t.y = 0,
-        t.elementsContent = [this._Image1_i(), this._Image2_i(), this._Scroller1_i(), this.btnAll_i(), this.bag_i(), this.cure_i(), this.btnOneKey_i(), this.btnBuy_i(), this.btnChallenge_i(), this._Image5_i(), this._Label1_i()],
-        t
-    },
-    i._Image1_i = function() {
+    i.t3_i = function() {
         var t = new eui.Image;
-        return t.horizontalCenter = 330,
-        t.scaleX = 1,
-        t.scaleY = 1,
+        return this.t3 = t,
+        t.right = 0,
         t.source = "six_god_soul_t3_png",
-        t.x = 557,
         t.y = 25,
         t
     },
-    i._Image2_i = function() {
+    i.mas_i = function() {
         var t = new eui.Image;
-        return t.height = 428,
+        return this.mas = t,
+        t.height = 442,
         t.horizontalCenter = -139,
-        t.scale9Grid = new egret.Rectangle(43, 45, 14, 9),
-        t.scaleX = 1,
-        t.scaleY = 1,
+        t.scale9Grid = new egret.Rectangle(55, 54, 3, 4),
         t.source = "six_god_soul_mas_png",
-        t.width = 566,
-        t.x = 146,
-        t.y = 119,
+        t.width = 580,
+        t.y = 112,
+        t
+    },
+    i.btnYijian_i = function() {
+        var t = new eui.Image;
+        return this.btnYijian = t,
+        t.horizontalCenter = -137.5,
+        t.source = "six_god_soul_btnyijian_png",
+        t.y = 556,
+        t
+    },
+    i.btnOneKey_i = function() {
+        var t = new eui.Image;
+        return this.btnOneKey = t,
+        t.right = 202,
+        t.source = "six_god_sword_btnonekey_png",
+        t.y = 565,
+        t
+    },
+    i.btnBuy_i = function() {
+        var t = new eui.Image;
+        return this.btnBuy = t,
+        t.right = 42,
+        t.source = "six_god_sword_btnbuy_png",
+        t.y = 565,
+        t
+    },
+    i.btnTiaozhan_i = function() {
+        var t = new eui.Image;
+        return this.btnTiaozhan = t,
+        t.right = 42,
+        t.source = "six_god_sword_btntiaozhan_png",
+        t.y = 565,
+        t
+    },
+    i.txtFightTimes_i = function() {
+        var t = new eui.Label;
+        return this.txtFightTimes = t,
+        t.fontFamily = "MFShangHei",
+        t.right = 33,
+        t.size = 15,
+        t.text = "今日剩余挑战次数：0",
+        t.textColor = 16777215,
+        t.y = 548,
         t
     },
     i._Scroller1_i = function() {
@@ -2270,23 +2310,9 @@ generateEUI.paths["resource/eui_skins/SixGodSoulSkin.exml"] = window.SixGodSoulS
         t.verticalGap = 0,
         t
     },
-    i.btnAll_i = function() {
-        var t = new eui.Image;
-        return this.btnAll = t,
-        t.horizontalCenter = -137.5,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_soul_btnyijian_png",
-        t.x = 315,
-        t.y = 556,
-        t
-    },
     i.bag_i = function() {
         var t = new eui.Image;
         return this.bag = t,
-        t.left = 28,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_bag_png",
         t.x = 28,
         t.y = 451,
@@ -2295,106 +2321,39 @@ generateEUI.paths["resource/eui_skins/SixGodSoulSkin.exml"] = window.SixGodSoulS
     i.cure_i = function() {
         var t = new eui.Image;
         return this.cure = t,
-        t.left = 28,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_cure_png",
         t.x = 28,
         t.y = 542,
         t
     },
-    i.btnOneKey_i = function() {
-        var t = new eui.Image;
-        return this.btnOneKey = t,
-        t.horizontalCenter = 292,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_btnonekey_png",
-        t.x = 792,
-        t.y = 565,
-        t
-    },
-    i.btnBuy_i = function() {
-        var t = new eui.Image;
-        return this.btnBuy = t,
-        t.horizontalCenter = 453,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_btnbuy_png",
-        t.visible = !0,
-        t.x = 953,
-        t.y = 565,
-        t
-    },
-    i.btnChallenge_i = function() {
+    i.grpTips_i = function() {
         var t = new eui.Group;
-        return this.btnChallenge = t,
-        t.horizontalCenter = 462.5,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.visible = !0,
-        t.x = 954,
-        t.y = 555,
-        t.elementsContent = [this._Image3_i(), this._Image4_i(), this.times_i()],
+        return this.grpTips = t,
+        t.horizontalCenter = -123.5,
+        t.y = 49,
+        t.elementsContent = [this.tipsbg_i(), this.txtTips_i()],
         t
     },
-    i._Image3_i = function() {
+    i.tipsbg_i = function() {
         var t = new eui.Image;
-        return t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_btntiaozhan_png",
-        t.x = 0,
-        t.y = 10,
-        t
-    },
-    i._Image4_i = function() {
-        var t = new eui.Image;
-        return t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_timesbg_png",
-        t.x = 104,
+        return this.tipsbg = t,
+        t.horizontalCenter = 0,
+        t.source = "six_god_soul_tipsbg_png",
         t.y = 0,
         t
     },
-    i.times_i = function() {
+    i.txtTips_i = function() {
         var t = new eui.Label;
-        return this.times = t,
+        return this.txtTips = t,
         t.fontFamily = "MFShangHei",
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.size = 18,
-        t.text = "0/X",
-        t.textColor = 16774231,
-        t.x = 110,
-        t.y = 4,
-        t
-    },
-    i._Image5_i = function() {
-        var t = new eui.Image;
-        return t.height = 54,
-        t.horizontalCenter = -138.5,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_soul_tipsbg_png",
-        t.width = 415,
-        t.x = 222,
-        t.y = 49,
-        t
-    },
-    i._Label1_i = function() {
-        var t = new eui.Label;
-        return t.fontFamily = "MFShangHei",
-        t.horizontalCenter = -150.5,
-        t.lineSpacing = 6,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.size = 20,
-        t.text = "9块卡牌全部被翻开即可获得神灵完成关卡\n已翻开的卡牌再次翻转将会被翻回",
+        t.size = 19.9068517867105,
+        t.text = "翻开全部卡牌即可完成关卡，已翻开的卡牌再次翻转将被翻回并记录次数。\n单张卡牌累计被翻回9次后，后续再被翻开时自动永久翻开！",
         t.textAlign = "center",
         t.textColor = 16759667,
-        t.width = 373,
-        t.x = 231,
-        t.y = 53,
+        t.visible = !0,
+        t.width = 670.129,
+        t.x = 0,
+        t.y = 7,
         t
     },
     e
@@ -2462,6 +2421,7 @@ generateEUI.paths["resource/eui_skins/SixGodSwordItemSkin.exml"] = window.SixGod
     n._Image2_i = function() {
         var t = new eui.Image;
         return t.source = "six_god_sword_headmask_png",
+        t.visible = !1,
         t.x = 2,
         t.y = 80,
         t
@@ -2470,11 +2430,12 @@ generateEUI.paths["resource/eui_skins/SixGodSwordItemSkin.exml"] = window.SixGod
         var t = new eui.Label;
         return this.num = t,
         t.fontFamily = "MFShangHei",
-        t.size = 18,
-        t.text = "0/5000",
-        t.textColor = 16759667,
-        t.x = 7.256,
-        t.y = 80,
+        t.size = 15,
+        t.text = "单次挑战最多达成2500伤害",
+        t.textColor = 16777215,
+        t.visible = !0,
+        t.x = 16,
+        t.y = 111,
         t
     },
     n.bar_i = function() {
@@ -2503,13 +2464,33 @@ generateEUI.paths["resource/eui_skins/SixGodSwordItemSkin.exml"] = window.SixGod
 generateEUI.paths["resource/eui_skins/SixGodSwordSkin.exml"] = window.SixGodSwordSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "bag", "cure", "damage", "btnGet", "btnOneKey", "btnBuy", "times", "btnChallenge", "num", "add", "icon", "bar", "barDamage", "damageNum", "aniGroup", "getItem", "_list", "mainGroup"],
+        this.skinParts = ["bg", "bgPet", "damageProgress", "damageNum", "damage", "itemProgressBg", "aniGroup", "itemProgress", "a_1712550", "getItem", "btnYijian", "getItemGroup", "btnOneKey", "btnBuy", "btnTiaozhan", "txtFightTimes", "right", "bag", "cure", "did", "_list", "heads", "tip", "di", "num", "add", "icon", "itemNum"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this.bg_i(), this.mainGroup_i()]
+        this.elementsContent = [this.bg_i(), this.bgPet_i(), this.right_i(), this.bag_i(), this.cure_i(), this.heads_i(), this.tip_i(), this.itemNum_i()]
     }
     __extends(e, t);
     var i = function(t) {
+        function e() {
+            t.call(this),
+            this.skinParts = ["thumb"],
+            this.elementsContent = [this.thumb_i()],
+            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
+        }
+        __extends(e, t);
+        var i = e.prototype;
+        return i.thumb_i = function() {
+            var t = new eui.Image;
+            return this.thumb = t,
+            t.source = "six_god_sword_damegeprogress_png",
+            t.visible = !0,
+            t.x = 0,
+            t.y = 0,
+            t
+        },
+        e
+    } (eui.Skin),
+    n = function(t) {
         function e() {
             t.call(this),
             this.skinParts = ["thumb"],
@@ -2530,105 +2511,32 @@ generateEUI.paths["resource/eui_skins/SixGodSwordSkin.exml"] = window.SixGodSwor
         },
         e
     } (eui.Skin),
-    n = function(t) {
-        function e() {
-            t.call(this),
-            this.skinParts = ["thumb"],
-            this.elementsContent = [this.thumb_i()],
-            this.states = [new eui.State("up", []), new eui.State("down", []), new eui.State("disabled", [])]
-        }
-        __extends(e, t);
-        var i = e.prototype;
-        return i.thumb_i = function() {
-            var t = new eui.Image;
-            return this.thumb = t,
-            t.source = "six_god_sword_damegeprogress_png",
-            t.visible = !0,
-            t.x = 0,
-            t.y = 0,
-            t
-        },
-        e
-    } (eui.Skin),
     o = e.prototype;
     return o.bg_i = function() {
         var t = new eui.Image;
         return this.bg = t,
-        t.horizontalCenter = 0,
         t.source = "six_god_sword_bg_jpg",
-        t.verticalCenter = 0,
+        t.x = 0,
+        t.y = 0,
         t
     },
-    o.mainGroup_i = function() {
-        var t = new eui.Group;
-        return this.mainGroup = t,
-        t.height = 640,
-        t.horizontalCenter = 0,
-        t.left = 0,
-        t.right = 0,
-        t.verticalCenter = 0,
-        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.bag_i(), this.cure_i(), this._Group3_i(), this._Image10_i(), this._Scroller1_i()],
-        t
-    },
-    o._Image1_i = function() {
+    o.bgPet_i = function() {
         var t = new eui.Image;
-        return t.horizontalCenter = -72.5,
-        t.scaleX = 1,
-        t.scaleY = 1,
+        return this.bgPet = t,
+        t.horizontalCenter = -19.5,
         t.source = "six_god_sword_bgpet_png",
         t.y = 95,
         t
     },
-    o._Image2_i = function() {
-        var t = new eui.Image;
-        return t.horizontalCenter = -64,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_tip_png",
-        t.y = 44,
-        t
-    },
-    o.bag_i = function() {
-        var t = new eui.Image;
-        return this.bag = t,
-        t.left = 28,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_bag_png",
-        t.y = 451,
-        t
-    },
-    o.cure_i = function() {
-        var t = new eui.Image;
-        return this.cure = t,
-        t.left = 28,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_cure_png",
-        t.y = 542,
-        t
-    },
-    o._Group3_i = function() {
+    o.right_i = function() {
         var t = new eui.Group;
-        return t.height = 640,
+        return this.right = t,
         t.right = 10,
-        t.width = 368,
         t.y = 0,
-        t.elementsContent = [this._Group2_i(), this.bar_i(), this.barDamage_i(), this.damageNum_i(), this._Image9_i(), this.aniGroup_i(), this.getItem_i()],
+        t.elementsContent = [this._Image1_i(), this._Image2_i(), this.damageProgress_i(), this.damageNum_i(), this.damage_i(), this.getItemGroup_i(), this.btnOneKey_i(), this.btnBuy_i(), this.btnTiaozhan_i(), this.txtFightTimes_i()],
         t
     },
-    o._Group2_i = function() {
-        var t = new eui.Group;
-        return t.cacheAsBitmap = !0,
-        t.height = 640,
-        t.visible = !0,
-        t.width = 368,
-        t.x = 0,
-        t.y = 0,
-        t.elementsContent = [this._Image3_i(), this._Image4_i(), this.damage_i(), this._Image5_i(), this.btnGet_i(), this.btnOneKey_i(), this.btnBuy_i(), this.btnChallenge_i(), this._Group1_i()],
-        t
-    },
-    o._Image3_i = function() {
+    o._Image1_i = function() {
         var t = new eui.Image;
         return t.scaleX = 1,
         t.scaleY = 1,
@@ -2637,46 +2545,113 @@ generateEUI.paths["resource/eui_skins/SixGodSwordSkin.exml"] = window.SixGodSwor
         t.y = 0,
         t
     },
-    o._Image4_i = function() {
+    o._Image2_i = function() {
         var t = new eui.Image;
         return t.source = "six_god_sword_rightbg1_png",
         t.x = 8.446,
-        t.y = 370.297,
+        t.y = 356.297,
+        t
+    },
+    o.damageProgress_i = function() {
+        var t = new eui.ProgressBar;
+        return this.damageProgress = t,
+        t.value = 0,
+        t.visible = !0,
+        t.x = 8,
+        t.y = 498,
+        t.skinName = i,
+        t
+    },
+    o.damageNum_i = function() {
+        var t = new eui.Label;
+        return this.damageNum = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 30,
+        t.stroke = 1,
+        t.strokeColor = 1573127,
+        t.text = "XXXX/0",
+        t.textColor = 16769106,
+        t.x = 136,
+        t.y = 500,
         t
     },
     o.damage_i = function() {
         var t = new eui.Label;
         return this.damage = t,
         t.fontFamily = "MFShangHei",
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.size = 48,
         t.text = "0",
         t.textColor = 16769106,
         t.x = 228,
-        t.y = 414,
+        t.y = 410,
         t
     },
-    o._Image5_i = function() {
-        var t = new eui.Image;
-        return t.source = "six_god_sword_itemprogressbg_png",
+    o.getItemGroup_i = function() {
+        var t = new eui.Group;
+        return this.getItemGroup = t,
+        t.visible = !0,
         t.x = 63,
         t.y = 71,
+        t.elementsContent = [this.itemProgressBg_i(), this.aniGroup_i(), this.itemProgress_i(), this.a_1712550_i(), this.getItem_i(), this.btnYijian_i()],
         t
     },
-    o.btnGet_i = function() {
+    o.itemProgressBg_i = function() {
         var t = new eui.Image;
-        return this.btnGet = t,
+        return this.itemProgressBg = t,
+        t.source = "six_god_sword_itemprogressbg_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    o.aniGroup_i = function() {
+        var t = new eui.Group;
+        return this.aniGroup = t,
+        t.visible = !0,
+        t.width = 0,
+        t.x = 125.55,
+        t.y = 127.198,
+        t
+    },
+    o.itemProgress_i = function() {
+        var t = new eui.ProgressBar;
+        return this.itemProgress = t,
+        t.rotation = 270,
+        t.value = 0,
+        t.visible = !0,
+        t.width = 143,
+        t.x = 53,
+        t.y = 198,
+        t.skinName = n,
+        t
+    },
+    o.a_1712550_i = function() {
+        var t = new eui.Image;
+        return this.a_1712550 = t,
+        t.source = "six_god_sword_1712550_png",
+        t.x = 74,
+        t.y = 60,
+        t
+    },
+    o.getItem_i = function() {
+        var t = new eui.Image;
+        return this.getItem = t,
+        t.source = "six_god_sword_getitem_png",
+        t.x = 73,
+        t.y = 75,
+        t
+    },
+    o.btnYijian_i = function() {
+        var t = new eui.Image;
+        return this.btnYijian = t,
         t.source = "six_god_sword_btnyijian_png",
-        t.x = 111,
-        t.y = 295,
+        t.x = 48,
+        t.y = 224,
         t
     },
     o.btnOneKey_i = function() {
         var t = new eui.Image;
         return this.btnOneKey = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_btnonekey_png",
         t.x = 40,
         t.y = 565,
@@ -2685,68 +2660,109 @@ generateEUI.paths["resource/eui_skins/SixGodSwordSkin.exml"] = window.SixGodSwor
     o.btnBuy_i = function() {
         var t = new eui.Image;
         return this.btnBuy = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_btnbuy_png",
-        t.visible = !1,
         t.x = 201,
         t.y = 565,
         t
     },
-    o.btnChallenge_i = function() {
-        var t = new eui.Group;
-        return this.btnChallenge = t,
+    o.btnTiaozhan_i = function() {
+        var t = new eui.Image;
+        return this.btnTiaozhan = t,
+        t.source = "six_god_sword_btntiaozhan_png",
         t.visible = !0,
         t.x = 202,
-        t.y = 555,
-        t.elementsContent = [this._Image6_i(), this._Image7_i(), this.times_i()],
+        t.y = 565,
         t
     },
-    o._Image6_i = function() {
+    o.txtFightTimes_i = function() {
+        var t = new eui.Label;
+        return this.txtFightTimes = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 15,
+        t.text = "今日剩余挑战次数：0",
+        t.textColor = 16777215,
+        t.visible = !0,
+        t.x = 201,
+        t.y = 548,
+        t
+    },
+    o.bag_i = function() {
         var t = new eui.Image;
-        return t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_btntiaozhan_png",
+        return this.bag = t,
+        t.source = "six_god_sword_bag_png",
+        t.x = 28,
+        t.y = 245,
+        t
+    },
+    o.cure_i = function() {
+        var t = new eui.Image;
+        return this.cure = t,
+        t.source = "six_god_sword_cure_png",
+        t.x = 28,
+        t.y = 336,
+        t
+    },
+    o.heads_i = function() {
+        var t = new eui.Group;
+        return this.heads = t,
+        t.horizontalCenter = -334,
+        t.y = 126,
+        t.elementsContent = [this.did_i(), this._Scroller1_i()],
+        t
+    },
+    o.did_i = function() {
+        var t = new eui.Image;
+        return this.did = t,
+        t.height = 449,
+        t.scale9Grid = new egret.Rectangle(8, 150, 8, 149),
+        t.source = "six_god_sword_did_png",
+        t.width = 242,
         t.x = 0,
-        t.y = 10,
-        t
-    },
-    o._Image7_i = function() {
-        var t = new eui.Image;
-        return t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_timesbg_png",
-        t.x = 104,
         t.y = 0,
         t
     },
-    o.times_i = function() {
-        var t = new eui.Label;
-        return this.times = t,
-        t.fontFamily = "MFShangHei",
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.size = 18,
-        t.text = "0/X",
-        t.textColor = 16774231,
-        t.x = 110,
-        t.y = 4,
+    o._Scroller1_i = function() {
+        var t = new eui.Scroller;
+        return t.height = 449,
+        t.width = 242,
+        t.viewport = this._list_i(),
         t
     },
-    o._Group1_i = function() {
-        var t = new eui.Group;
-        return t.height = 40,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.width = 185,
-        t.x = 163,
-        t.y = 12,
-        t.elementsContent = [this._Image8_i(), this.num_i(), this.add_i(), this.icon_i()],
+    o._list_i = function() {
+        var t = new eui.List;
+        return this._list = t,
+        t.horizontalCenter = 0,
+        t.itemRendererSkinName = SixGodSwordItemSkin,
+        t.layout = this._VerticalLayout1_i(),
         t
     },
-    o._Image8_i = function() {
+    o._VerticalLayout1_i = function() {
+        var t = new eui.VerticalLayout;
+        return t.gap = 40,
+        t.paddingLeft = 13,
+        t.paddingTop = 16,
+        t
+    },
+    o.tip_i = function() {
         var t = new eui.Image;
-        return t.source = "six_god_sword_di_png",
+        return this.tip = t,
+        t.horizontalCenter = -46,
+        t.source = "six_god_sword_tip_png",
+        t.y = 44,
+        t
+    },
+    o.itemNum_i = function() {
+        var t = new eui.Group;
+        return this.itemNum = t,
+        t.right = 30,
+        t.y = 12,
+        t.elementsContent = [this.di_i(), this.num_i(), this.add_i(), this.icon_i()],
+        t
+    },
+    o.di_i = function() {
+        var t = new eui.Image;
+        return this.di = t,
+        t.source = "six_god_sword_di_png",
         t.x = 4,
         t.y = 11,
         t
@@ -2755,11 +2771,11 @@ generateEUI.paths["resource/eui_skins/SixGodSwordSkin.exml"] = window.SixGodSwor
         var t = new eui.Label;
         return this.num = t,
         t.fontFamily = "MFShangHei",
-        t.right = 26,
-        t.size = 18,
+        t.size = 18.0101510119682,
         t.text = "XX/40",
         t.textColor = 16514895,
-        t.y = 10,
+        t.x = 107,
+        t.y = 13,
         t
     },
     o.add_i = function() {
@@ -2777,101 +2793,6 @@ generateEUI.paths["resource/eui_skins/SixGodSwordSkin.exml"] = window.SixGodSwor
         t.width = 40,
         t.x = 0,
         t.y = 0,
-        t
-    },
-    o.bar_i = function() {
-        var t = new eui.ProgressBar;
-        return this.bar = t,
-        t.rotation = 270,
-        t.value = 0,
-        t.visible = !0,
-        t.width = 143,
-        t.x = 116,
-        t.y = 269.2,
-        t.skinName = i,
-        t
-    },
-    o.barDamage_i = function() {
-        var t = new eui.ProgressBar;
-        return this.barDamage = t,
-        t.value = 0,
-        t.visible = !0,
-        t.x = 8,
-        t.y = 513,
-        t.skinName = n,
-        t
-    },
-    o.damageNum_i = function() {
-        var t = new eui.Label;
-        return this.damageNum = t,
-        t.fontFamily = "MFShangHei",
-        t.horizontalCenter = 6,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.size = 30,
-        t.stroke = 1,
-        t.strokeColor = 1573127,
-        t.text = "0/5000",
-        t.textColor = 16769106,
-        t.y = 510,
-        t
-    },
-    o._Image9_i = function() {
-        var t = new eui.Image;
-        return t.source = "six_god_sword_1712550_png",
-        t.visible = !0,
-        t.x = 137,
-        t.y = 131,
-        t
-    },
-    o.aniGroup_i = function() {
-        var t = new eui.Group;
-        return this.aniGroup = t,
-        t.width = 0,
-        t.x = 188.543,
-        t.y = 199.724,
-        t
-    },
-    o.getItem_i = function() {
-        var t = new eui.Image;
-        return this.getItem = t,
-        t.source = "six_god_sword_getitem_png",
-        t.visible = !0,
-        t.x = 136,
-        t.y = 146,
-        t
-    },
-    o._Image10_i = function() {
-        var t = new eui.Image;
-        return t.height = 368,
-        t.left = 15,
-        t.source = "six_god_sword_did_png",
-        t.width = 174,
-        t.y = 69.857,
-        t
-    },
-    o._Scroller1_i = function() {
-        var t = new eui.Scroller;
-        return t.height = 370,
-        t.left = 18,
-        t.width = 230,
-        t.y = 68.061,
-        t.viewport = this._list_i(),
-        t
-    },
-    o._list_i = function() {
-        var t = new eui.List;
-        return this._list = t,
-        t.itemRendererSkinName = SixGodSwordItemSkin,
-        t.layout = this._VerticalLayout1_i(),
-        t
-    },
-    o._VerticalLayout1_i = function() {
-        var t = new eui.VerticalLayout;
-        return t.gap = 12,
-        t.paddingBottom = 6,
-        t.paddingLeft = 6,
-        t.paddingTop = 10,
         t
     },
     e
@@ -3058,80 +2979,152 @@ generateEUI.paths["resource/eui_skins/SixGodUpPopSkin.exml"] = window.SixGodUpPo
 generateEUI.paths["resource/eui_skins/SixGodUpSkin.exml"] = window.SixGodUpSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "buy1", "btnOneKey1", "got1", "buy2", "btnOneKey2", "got2", "buy3", "btnOneKey3", "got3", "btnBuy", "times", "btnChallenge", "item0", "item1", "item2", "num", "add", "icon", "bag", "cure", "mainGroup"],
+        this.skinParts = ["bg", "a_3329", "rightbg", "btnBuy", "btnTiaozhan", "txtFightTimes", "itemBg", "zsky", "grpItemBg0", "item0", "grpItem0", "btnyijian", "txtLabel1", "buy1", "btnOneKey1", "got1", "mark", "itemBg_2", "zstx", "grpItemBg1", "item1", "grpItem1", "btnyijian_2", "txtLabel2", "buy2", "btnOneKey2", "got2", "eff", "itemBg_3", "diwujineng", "grpItemBg2", "item2", "grpItem2", "btnyijian_3", "txtLabel3", "buy3", "btnOneKey3", "got3", "fifth", "content", "di", "num", "add", "icon", "itemNum", "right", "bag", "cure"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this.bg_i(), this.mainGroup_i()]
+        this.elementsContent = [this.bg_i(), this.a_3329_i(), this.right_i(), this.bag_i(), this.cure_i()]
     }
     __extends(e, t);
     var i = e.prototype;
     return i.bg_i = function() {
         var t = new eui.Image;
         return this.bg = t,
-        t.horizontalCenter = 0,
         t.source = "six_god_sword_bg_jpg",
-        t.verticalCenter = 0,
+        t.x = 0,
+        t.y = 0,
         t
     },
-    i.mainGroup_i = function() {
-        var t = new eui.Group;
-        return this.mainGroup = t,
-        t.bottom = 0,
-        t.left = 0,
-        t.right = 0,
-        t.top = 0,
-        t.elementsContent = [this._Image1_i(), this._Group2_i(), this.bag_i(), this.cure_i()],
-        t
-    },
-    i._Image1_i = function() {
+    i.a_3329_i = function() {
         var t = new eui.Image;
-        return t.horizontalCenter = -256,
-        t.scaleX = 1,
-        t.scaleY = 1,
+        return this.a_3329 = t,
         t.source = "six_god_up_3329_png",
+        t.x = 0,
         t.y = 0,
         t
     },
-    i._Group2_i = function() {
+    i.right_i = function() {
         var t = new eui.Group;
-        return t.cacheAsBitmap = !0,
-        t.height = 640,
+        return this.right = t,
         t.right = 10,
-        t.width = 499,
         t.y = 0,
-        t.elementsContent = [this._Image2_i(), this.buy1_i(), this.btnOneKey1_i(), this.got1_i(), this.buy2_i(), this.btnOneKey2_i(), this.got2_i(), this.buy3_i(), this.btnOneKey3_i(), this.got3_i(), this.btnBuy_i(), this.btnChallenge_i(), this.item0_i(), this.item1_i(), this.item2_i(), this._Group1_i()],
+        t.elementsContent = [this.rightbg_i(), this.btnBuy_i(), this.btnTiaozhan_i(), this.txtFightTimes_i(), this.content_i(), this.itemNum_i()],
         t
     },
-    i._Image2_i = function() {
+    i.rightbg_i = function() {
         var t = new eui.Image;
-        return t.scaleX = 1,
-        t.scaleY = 1,
+        return this.rightbg = t,
         t.source = "six_god_up_rightbg_png",
         t.x = 0,
         t.y = 0,
         t
     },
-    i.buy1_i = function() {
-        var t = new eui.Group;
-        return this.buy1 = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.x = 31,
-        t.y = 269,
-        t.elementsContent = [this._Image3_i(), this._Label1_i()],
+    i.btnBuy_i = function() {
+        var t = new eui.Image;
+        return this.btnBuy = t,
+        t.source = "six_god_sword_btnbuy_png",
+        t.x = 180,
+        t.y = 565,
         t
     },
-    i._Image3_i = function() {
+    i.btnTiaozhan_i = function() {
         var t = new eui.Image;
-        return t.source = "six_god_up_btnyijian_png",
+        return this.btnTiaozhan = t,
+        t.source = "six_god_sword_btntiaozhan_png",
+        t.x = 180,
+        t.y = 565,
+        t
+    },
+    i.txtFightTimes_i = function() {
+        var t = new eui.Label;
+        return this.txtFightTimes = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 15,
+        t.text = "今日剩余挑战次数：0",
+        t.textColor = 16777215,
+        t.x = 179,
+        t.y = 542,
+        t
+    },
+    i.content_i = function() {
+        var t = new eui.Group;
+        return this.content = t,
+        t.x = 18,
+        t.y = 109,
+        t.elementsContent = [this.mark_i(), this.eff_i(), this.fifth_i()],
+        t
+    },
+    i.mark_i = function() {
+        var t = new eui.Group;
+        return this.mark = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.grpItem0_i(), this.buy1_i(), this.btnOneKey1_i(), this.got1_i()],
+        t
+    },
+    i.grpItem0_i = function() {
+        var t = new eui.Group;
+        return this.grpItem0 = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.grpItemBg0_i(), this.item0_i()],
+        t
+    },
+    i.grpItemBg0_i = function() {
+        var t = new eui.Group;
+        return this.grpItemBg0 = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.itemBg_i(), this.zsky_i()],
+        t
+    },
+    i.itemBg_i = function() {
+        var t = new eui.Image;
+        return this.itemBg = t,
+        t.source = "six_god_up_itembg_png",
         t.x = 0,
         t.y = 0,
         t
     },
-    i._Label1_i = function() {
+    i.zsky_i = function() {
         var t = new eui.Label;
-        return t.fontFamily = "REEJI",
+        return this.zsky = t,
+        t.fontFamily = "MFShangHei",
         t.size = 18,
+        t.text = "专属刻印",
+        t.textColor = 16769106,
+        t.x = 37,
+        t.y = 94,
+        t
+    },
+    i.item0_i = function() {
+        var t = new eui.Image;
+        return this.item0 = t,
+        t.source = "six_god_up_item0_png",
+        t.x = 29,
+        t.y = 13,
+        t
+    },
+    i.buy1_i = function() {
+        var t = new eui.Group;
+        return this.buy1 = t,
+        t.x = 13,
+        t.y = 160,
+        t.elementsContent = [this.btnyijian_i(), this.txtLabel1_i()],
+        t
+    },
+    i.btnyijian_i = function() {
+        var t = new eui.Image;
+        return this.btnyijian = t,
+        t.source = "six_god_up_btnyijian_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txtLabel1_i = function() {
+        var t = new eui.Label;
+        return this.txtLabel1 = t,
+        t.fontFamily = "REEJI",
+        t.size = 17.92562519618,
         t.text = "70",
         t.textColor = 10180889,
         t.x = 60,
@@ -3141,226 +3134,244 @@ generateEUI.paths["resource/eui_skins/SixGodUpSkin.exml"] = window.SixGodUpSkin 
     i.btnOneKey1_i = function() {
         var t = new eui.Image;
         return this.btnOneKey1 = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_up_btnonekey_png",
-        t.x = 31,
-        t.y = 230,
+        t.x = 13,
+        t.y = 121,
         t
     },
     i.got1_i = function() {
         var t = new eui.Image;
         return this.got1 = t,
         t.source = "six_god_up_got_png",
-        t.x = 27.688,
-        t.y = 243,
+        t.x = 11,
+        t.y = 134,
+        t
+    },
+    i.eff_i = function() {
+        var t = new eui.Group;
+        return this.eff = t,
+        t.x = 159,
+        t.y = 0,
+        t.elementsContent = [this.grpItem1_i(), this.buy2_i(), this.btnOneKey2_i(), this.got2_i()],
+        t
+    },
+    i.grpItem1_i = function() {
+        var t = new eui.Group;
+        return this.grpItem1 = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.grpItemBg1_i(), this.item1_i()],
+        t
+    },
+    i.grpItemBg1_i = function() {
+        var t = new eui.Group;
+        return this.grpItemBg1 = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.itemBg_2_i(), this.zstx_i()],
+        t
+    },
+    i.itemBg_2_i = function() {
+        var t = new eui.Image;
+        return this.itemBg_2 = t,
+        t.source = "six_god_up_itembg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.zstx_i = function() {
+        var t = new eui.Label;
+        return this.zstx = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "专属特性",
+        t.textColor = 16769106,
+        t.x = 37,
+        t.y = 93,
+        t
+    },
+    i.item1_i = function() {
+        var t = new eui.Image;
+        return this.item1 = t,
+        t.height = 65,
+        t.source = "common_pet_yin_icon_png",
+        t.width = 65,
+        t.x = 39,
+        t.y = 32,
         t
     },
     i.buy2_i = function() {
         var t = new eui.Group;
         return this.buy2 = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.x = 190,
-        t.y = 269,
-        t.elementsContent = [this._Image4_i(), this._Label2_i()],
+        t.x = 14,
+        t.y = 160,
+        t.elementsContent = [this.btnyijian_2_i(), this.txtLabel2_i()],
         t
     },
-    i._Image4_i = function() {
+    i.btnyijian_2_i = function() {
         var t = new eui.Image;
-        return t.source = "six_god_up_btnyijian_png",
+        return this.btnyijian_2 = t,
+        t.source = "six_god_up_btnyijian_png",
         t.x = 0,
         t.y = 0,
         t
     },
-    i._Label2_i = function() {
+    i.txtLabel2_i = function() {
         var t = new eui.Label;
-        return t.fontFamily = "REEJI",
-        t.size = 18,
+        return this.txtLabel2 = t,
+        t.fontFamily = "REEJI",
+        t.size = 17.92562519618,
         t.text = "110",
         t.textColor = 10180889,
-        t.x = 60,
+        t.x = 58,
         t.y = 14,
         t
     },
     i.btnOneKey2_i = function() {
         var t = new eui.Image;
         return this.btnOneKey2 = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_up_btnonekey_png",
-        t.x = 190,
-        t.y = 230,
+        t.x = 14,
+        t.y = 121,
         t
     },
     i.got2_i = function() {
         var t = new eui.Image;
         return this.got2 = t,
         t.source = "six_god_up_got_png",
-        t.x = 188.404,
-        t.y = 243,
+        t.x = 11,
+        t.y = 134,
+        t
+    },
+    i.fifth_i = function() {
+        var t = new eui.Group;
+        return this.fifth = t,
+        t.x = 315,
+        t.y = 0,
+        t.elementsContent = [this.grpItem2_i(), this.buy3_i(), this.btnOneKey3_i(), this.got3_i()],
+        t
+    },
+    i.grpItem2_i = function() {
+        var t = new eui.Group;
+        return this.grpItem2 = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.grpItemBg2_i(), this.item2_i()],
+        t
+    },
+    i.grpItemBg2_i = function() {
+        var t = new eui.Group;
+        return this.grpItemBg2 = t,
+        t.x = 0,
+        t.y = 0,
+        t.elementsContent = [this.itemBg_3_i(), this.diwujineng_i()],
+        t
+    },
+    i.itemBg_3_i = function() {
+        var t = new eui.Image;
+        return this.itemBg_3 = t,
+        t.source = "six_god_up_itembg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.diwujineng_i = function() {
+        var t = new eui.Label;
+        return this.diwujineng = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 18,
+        t.text = "第五技能",
+        t.textColor = 16769106,
+        t.x = 38,
+        t.y = 93,
+        t
+    },
+    i.item2_i = function() {
+        var t = new eui.Image;
+        return this.item2 = t,
+        t.height = 65,
+        t.source = "common_fifth_skill_icon_png",
+        t.width = 65,
+        t.x = 41,
+        t.y = 26,
         t
     },
     i.buy3_i = function() {
         var t = new eui.Group;
         return this.buy3 = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.x = 347.22,
-        t.y = 269,
-        t.elementsContent = [this._Image5_i(), this._Label3_i()],
+        t.x = 13,
+        t.y = 160,
+        t.elementsContent = [this.btnyijian_3_i(), this.txtLabel3_i()],
         t
     },
-    i._Image5_i = function() {
+    i.btnyijian_3_i = function() {
         var t = new eui.Image;
-        return t.source = "six_god_up_btnyijian_png",
+        return this.btnyijian_3 = t,
+        t.source = "six_god_up_btnyijian_png",
         t.x = 0,
         t.y = 0,
         t
     },
-    i._Label3_i = function() {
+    i.txtLabel3_i = function() {
         var t = new eui.Label;
-        return t.fontFamily = "REEJI",
-        t.size = 18,
+        return this.txtLabel3 = t,
+        t.fontFamily = "REEJI",
+        t.size = 17.92562519618,
         t.text = "120",
         t.textColor = 10180889,
-        t.x = 60,
+        t.x = 55,
         t.y = 14,
         t
     },
     i.btnOneKey3_i = function() {
         var t = new eui.Image;
         return this.btnOneKey3 = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_up_btnonekey_png",
-        t.x = 347,
-        t.y = 230,
+        t.x = 13,
+        t.y = 121,
         t
     },
     i.got3_i = function() {
         var t = new eui.Image;
         return this.got3 = t,
         t.source = "six_god_up_got_png",
-        t.x = 344.604,
-        t.y = 243,
+        t.x = 11,
+        t.y = 134,
         t
     },
-    i.btnBuy_i = function() {
-        var t = new eui.Image;
-        return this.btnBuy = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_btnbuy_png",
-        t.visible = !0,
-        t.x = 186,
-        t.y = 565,
-        t
-    },
-    i.btnChallenge_i = function() {
+    i.itemNum_i = function() {
         var t = new eui.Group;
-        return this.btnChallenge = t,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.visible = !0,
-        t.x = 177,
-        t.y = 555,
-        t.elementsContent = [this._Image6_i(), this._Image7_i(), this.times_i()],
-        t
-    },
-    i._Image6_i = function() {
-        var t = new eui.Image;
-        return t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_btntiaozhan_png",
-        t.x = 0,
-        t.y = 10,
-        t
-    },
-    i._Image7_i = function() {
-        var t = new eui.Image;
-        return t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "six_god_sword_timesbg_png",
-        t.x = 104,
-        t.y = 0,
-        t
-    },
-    i.times_i = function() {
-        var t = new eui.Label;
-        return this.times = t,
-        t.fontFamily = "MFShangHei",
-        t.horizontalCenter = 50.5,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.size = 18,
-        t.text = "0/X",
-        t.textColor = 16774231,
-        t.y = 4,
-        t
-    },
-    i.item0_i = function() {
-        var t = new eui.Group;
-        return this.item0 = t,
-        t.height = 68.685,
-        t.width = 68.685,
-        t.x = 57,
-        t.y = 133.73,
-        t
-    },
-    i.item1_i = function() {
-        var t = new eui.Group;
-        return this.item1 = t,
-        t.height = 68.685,
-        t.width = 68.685,
-        t.x = 213.766,
-        t.y = 133.73,
-        t
-    },
-    i.item2_i = function() {
-        var t = new eui.Group;
-        return this.item2 = t,
-        t.height = 68.685,
-        t.width = 68.685,
-        t.x = 372.076,
-        t.y = 133.73,
-        t
-    },
-    i._Group1_i = function() {
-        var t = new eui.Group;
-        return t.height = 40,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.width = 185,
-        t.x = 290,
+        return this.itemNum = t,
+        t.x = 298,
         t.y = 17,
-        t.elementsContent = [this._Image8_i(), this.num_i(), this.add_i(), this.icon_i()],
+        t.elementsContent = [this.di_i(), this.num_i(), this.add_i(), this.icon_i()],
         t
     },
-    i._Image8_i = function() {
+    i.di_i = function() {
         var t = new eui.Image;
-        return t.source = "six_god_sword_di_png",
-        t.x = 4,
-        t.y = 11,
+        return this.di = t,
+        t.source = "six_god_sword_di_png",
+        t.x = 0,
+        t.y = 6,
         t
     },
     i.num_i = function() {
         var t = new eui.Label;
         return this.num = t,
         t.fontFamily = "MFShangHei",
-        t.right = 26,
-        t.size = 18,
-        t.text = "40",
+        t.size = 18.0101510119682,
+        t.text = "XX/40",
         t.textColor = 16514895,
-        t.y = 10,
+        t.x = 107,
+        t.y = 8,
         t
     },
     i.add_i = function() {
         var t = new eui.Image;
         return this.add = t,
         t.source = "six_god_sword_add_png",
-        t.x = 164,
-        t.y = 11,
+        t.x = 160,
+        t.y = 6,
         t
     },
     i.icon_i = function() {
@@ -3368,27 +3379,23 @@ generateEUI.paths["resource/eui_skins/SixGodUpSkin.exml"] = window.SixGodUpSkin 
         return this.icon = t,
         t.height = 40,
         t.width = 40,
-        t.x = 0,
+        t.x = 2,
         t.y = 0,
         t
     },
     i.bag_i = function() {
         var t = new eui.Image;
         return this.bag = t,
-        t.left = 28,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_bag_png",
+        t.x = 28,
         t.y = 451,
         t
     },
     i.cure_i = function() {
         var t = new eui.Image;
         return this.cure = t,
-        t.left = 28,
-        t.scaleX = 1,
-        t.scaleY = 1,
         t.source = "six_god_sword_cure_png",
+        t.x = 28,
         t.y = 542,
         t
     },

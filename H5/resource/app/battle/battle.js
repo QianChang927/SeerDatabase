@@ -8001,11 +8001,10 @@ LoadingViewController = function() {
         } catch(e) {}
     },
     t.socketClose = function() {
-        var t = this,
-        e = this.loadingMC;
-        e.isFinishLoad || EventManager.once(SocketEvent.SOCKETRECONNECT,
+        var t = this;
+        this.isLoadingUI && EventManager.once(SocketEvent.SOCKETRECONNECT,
         function() {
-            e.isFinishLoad && t.onAssetsOverHandle()
+            t.isLoadingUI || t.onAssetsOverHandle()
         },
         this)
     },

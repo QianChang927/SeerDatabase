@@ -5680,10 +5680,10 @@ CjsUtil = function() {
     t._createAni = function(e, n) {
         return __awaiter(this, void 0, void 0,
         function() {
-            var r, o, i, s, a, _, c, l, u, s, h, f, p, d, g, E, I, a, y, a, _, s, m, f, v = this;
+            var r, o, i, s, a, _, c, l, u, s, h, f, p, d, g, E, I, a, y, a, _, s, m, f;
             return __generator(this,
-            function(T) {
-                switch (T.label) {
+            function(v) {
+                switch (v.label) {
                 case 0:
                     r = window.AdobeAn,
                     i = t.JsResMap[n];
@@ -5698,16 +5698,16 @@ CjsUtil = function() {
                     c = [];
                     for (l in _) c.push(l);
                     u = 0,
-                    T.label = 1;
+                    v.label = 1;
                 case 1:
                     return u < c.length ? (s = c[u], h = "", "pet" == e.type || "preview" == e.type ? h = "resource/cjs_animate/" + e.type + "/" + e.id + "/" + _[s].src: "skill" == e.type ? h = "resource/cjs_animate/" + e.type + "/" + e.resId + "/" + _[s].src: (f = e.id, h = f.substring(0, f.lastIndexOf("/")) + "/" + _[s].src), h = FileCacheManager.getCacheUrl(h), console.log("url:" + h), [4, CreateJsTools.getBlobUrl(h)]) : [3, 5];
                 case 2:
-                    return p = T.sent(),
+                    return p = v.sent(),
                     _[s].src = p,
                     h.indexOf(".mp3") < 0 ? [4, CreateJsTools.getBlobImage(_[s].id, p, o)] : [3, 4];
                 case 3:
-                    T.sent(),
-                    T.label = 4;
+                    v.sent(),
+                    v.label = 4;
                 case 4:
                     return u++,
                     [3, 1];
@@ -5720,7 +5720,7 @@ CjsUtil = function() {
                         e.callback.call(e.thisObj),
                         t.animLoading = !1,
                         t._loadAnim()
-                    } catch(A) {}
+                    } catch(T) {}
                     return [3, 7];
                 case 6:
                     if (a = o.getLibrary(), y = new window.egretAnimate.LoadQueue(!1), y.addEventListener("fileload",
@@ -5728,8 +5728,9 @@ CjsUtil = function() {
                         t.handleFileLoad(e, o)
                     }), y.addEventListener("complete",
                     function(n) {
-                        t.clsList[e.type + "_" + e.id] = a[e.cls],
-                        t.handleComplete(n, o),
+                        t.clsList[e.type + "_" + e.id] = a[e.cls];
+                        var r = t.handleComplete(n, o);
+                        r && y.loadManifest(a.properties.manifest),
                         e.callback.call(e.thisObj),
                         t.animLoading = !1,
                         t._loadAnim()
@@ -5737,10 +5738,12 @@ CjsUtil = function() {
                     function(t) {
                         e.callback.call(e.thisObj, "failed"),
                         console.warn("cjs 精灵动画资源加载失败" + e.id),
-                        egret.setTimeout(function() {
-                            y.loadManifest(a.properties.manifest)
-                        },
-                        v, 1e3)
+                        y.loadManifest(a.properties.manifest)
+                    }), y.addEventListener("timeout",
+                    function(t) {
+                        e.callback.call(e.thisObj, "failed"),
+                        console.warn("cjs 精灵动画资源加载超时" + e.id),
+                        y.loadManifest(a.properties.manifest)
                     }), a = o.getLibrary(), !a.loaded) {
                         a.loaded = !0,
                         _ = a.properties.manifest;
@@ -5750,8 +5753,8 @@ CjsUtil = function() {
                     }
                     try {
                         y.loadManifest(a.properties.manifest)
-                    } catch(A) {}
-                    T.label = 7;
+                    } catch(T) {}
+                    v.label = 7;
                 case 7:
                     return [2]
                 }
@@ -5759,10 +5762,14 @@ CjsUtil = function() {
         })
     },
     t.handleComplete = function(t, e) {
-        for (var n = e.getLibrary(), r = e.getSpriteSheet(), o = t.target, i = n.ssMetadata, s = 0; s < i.length; s++) r[i[s].name] = new window.createjs.SpriteSheet({
-            images: [o.getResult(i[s].name)],
-            frames: i[s].frames
-        })
+        for (var n = e.getLibrary(), r = e.getSpriteSheet(), o = t.target, i = n.ssMetadata, s = !1, a = 0; a < i.length; a++) {
+            var _ = o.getResult(i[a].name);
+            _ ? r[i[a].name] = new window.createjs.SpriteSheet({
+                images: [_],
+                frames: i[a].frames
+            }) : s = !0
+        }
+        return s
     },
     t.handleFileLoad = function(t, e) {
         var n = e.getImages();
@@ -9335,12 +9342,7 @@ AssetsLoadManager = function(t) {
     },
     e.prototype.onLoadPetAssetsComplete = function(t) {
         void 0 === t && (t = null),
-        "failed" != t && this.currentIndex++,
-        this._percent = Math.floor(100 * this.currentIndex / (this.petIDArray.length + this.skillIDArray.length)),
-        console.log("=======this._percent===============" + this._percent),
-        this.currentPercent = this._percent,
-        this.dispatchEvent(new AssetsEvent(AssetsEvent.PROGRESS, null, null, this.currentPercent)),
-        this.loadPets()
+        "failed" != t && (this.currentIndex++, this._percent = Math.floor(100 * this.currentIndex / (this.petIDArray.length + this.skillIDArray.length)), console.log("=======this._percent===============" + this._percent), this.currentPercent = this._percent, this.dispatchEvent(new AssetsEvent(AssetsEvent.PROGRESS, null, null, this.currentPercent)), this.loadPets())
     },
     e.prototype.onLoadPetAsset = function(t) {
         PetAssetsManager.getInstance().addAsset(this.currentID, t.data, t.texture),
@@ -9370,11 +9372,7 @@ AssetsLoadManager = function(t) {
     },
     e.prototype.onLoadSkillAssetsComplete = function(t) {
         void 0 === t && (t = null),
-        "failed" != t && this.currentIndex++,
-        this._percent = Math.floor(100 * (this.currentIndex + this.petIDArray.length) / (this.petIDArray.length + this.skillIDArray.length)),
-        this.currentPercent = this._percent,
-        this.dispatchEvent(new AssetsEvent(AssetsEvent.PROGRESS, null, null, this.currentPercent)),
-        this.loadSkills()
+        "failed" != t && (this.currentIndex++, this._percent = Math.floor(100 * (this.currentIndex + this.petIDArray.length) / (this.petIDArray.length + this.skillIDArray.length)), this.currentPercent = this._percent, this.dispatchEvent(new AssetsEvent(AssetsEvent.PROGRESS, null, null, this.currentPercent)), this.loadSkills())
     },
     e.prototype.onLoadSkillAsset = function(t) {
         try {
@@ -20342,7 +20340,7 @@ OnlineManager = function() {
             LevelManager.root.touchEnabled = LevelManager.root.touchChildren = !0,
             this.loginsuc = !1,
             SocketConnectionHelper.clearSendQueue(),
-            1965094 != SocketErrorManager.ERROR_CODE && (FightManager.isFighting && 0 != FightManager.enemyId && void 0 != FightManager.enemyId || PeakJihadController.isInPvP || FightManager.isFighting && LoadingViewController.isLoadingUI ? (StatLogger.log("20230818版本系统功能", "断线重连", "pvp战斗情况下玩家断线"), Alarm.show("与服务器连接丢失，请重新进入游戏",
+            1965094 != SocketErrorManager.ERROR_CODE && (FightManager.isFighting && 0 != FightManager.enemyId && void 0 != FightManager.enemyId || PeakJihadController.isInPvP ? (StatLogger.log("20230818版本系统功能", "断线重连", "pvp战斗情况下玩家断线"), Alarm.show("与服务器连接丢失，请重新进入游戏",
             function() {
                 core.gameUtil.ReloaderGame()
             },

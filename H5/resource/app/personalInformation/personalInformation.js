@@ -818,7 +818,7 @@ function(t) {
                 n = t[0],
                 r = 0 == i || i > 0 && SystemTimerManager.time > i;
                 r && (n = 0),
-                e.btnfire.source = RES.getRes("personalInformation_btnfire" + n + "_png"),
+                n >= 11 && 25 >= n ? e.btnfire.source = RES.getRes("personalInformation_btnfiremix_png") : e.btnfire.source = RES.getRes("personalInformation_btnfire" + n + "_png"),
                 e.img.source = RES.getRes("personalInformation_img" + n + "_png"),
                 e.img.visible = r,
                 e.timebg.visible = !r,

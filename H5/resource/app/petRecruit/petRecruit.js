@@ -510,7 +510,8 @@ function(t) {
         i.prototype.initPetInfos = function() {
             var t = config.xml.getRes("Monsterpool").Root;
             i.commonPool = t.Pool[0].item,
-            i.limitPool = t.Pool[1].item.concat(t.Pool[0].item);
+            i.limitPool = t.Pool[1].item.concat(t.Pool[0].item),
+            i.petKindCount = [0, 0, 0, 0];
             for (var e = 0; e < i.commonPool.length; e++) 1 == i.commonPool[e].kind ? i.petKindCount[0]++:2 == i.commonPool[e].kind ? i.petKindCount[1]++:3 == i.commonPool[e].kind ? i.petKindCount[2]++:4 == i.commonPool[e].kind && i.petKindCount[3]++
         },
         i.prototype.destroy = function() {

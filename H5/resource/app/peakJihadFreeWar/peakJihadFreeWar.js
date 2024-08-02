@@ -194,7 +194,7 @@ function(e) {
             var t = this;
             this._isHomeowners ? Alert.show("确定关闭此房间吗？",
             function() {
-                SocketConnection.sendByQueue(45136, [5, 0],
+                FightManager.isFighting || SocketConnection.sendByQueue(45136, [5, 0],
                 function() {
                     ModuleManager.hideModule(t),
                     ModuleManager.showModule("peakJihadFreeWar", [], null, "PeakJihadCreateARoomPanel"),
@@ -202,7 +202,7 @@ function(e) {
                 })
             }) : Alert.show("确定退出此房间吗？",
             function() {
-                SocketConnection.sendByQueue(45136, [2, 0],
+                FightManager.isFighting || SocketConnection.sendByQueue(45136, [2, 0],
                 function() {
                     ModuleManager.hideModule(t),
                     ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], null, "PeakJihadFreeMode"),

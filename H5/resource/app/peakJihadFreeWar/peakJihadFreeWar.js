@@ -299,7 +299,6 @@ function(e) {
         },
         t.prototype.setFreeStatus = function(e) {
             if (this._step = e, 2 == this._step) {
-                this.settingTeamBtn_0.visible = !1,
                 this.settingTeamBtn_1.visible = !1,
                 this.readyPng.visible = !0,
                 this.readyBtn.touchEnabled = !1,
@@ -331,7 +330,9 @@ function(e) {
         t.prototype.clearChallengerInfo = function() {
             this.challengerNameTx.text = "",
             this.readyPng.visible = !1,
-            DisplayUtil.removeAllChild(this.clothPos_1)
+            DisplayUtil.removeAllChild(this.clothPos_1),
+            this.timeTx.text = "",
+            this.removeEventListener(egret.Event.ENTER_FRAME, this.onStatusTimer, this)
         },
         t.prototype.onRivalComing = function(e) {
             var t = e.data;

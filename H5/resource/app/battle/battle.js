@@ -2346,15 +2346,17 @@ UseSkillController = function(t) {
     },
     e.prototype.showSkillName = function(t) {
         void 0 === t && (t = ""),
-        PetFightController.mvContainer.addChild(this.skillNameBar),
+        PetFightController.mvContainer.addChild(this.skillNameBar);
+        var e = FighterModelFactory.getFighterMode(this.attackValue.userID);
         this.skillNameBar.y = 170,
-        this.attackValue.userID == MainManager.actorID || FightManager.isReplay && 0 != this.attackValue.userID ? this.skillNameBar.setSkill(this.useSkillID, !0, t).then(function() {}) : this.skillNameBar.setSkill(this.useSkillID, !1, t)
+        this.attackValue.userID == MainManager.actorID || FightManager.isReplay && 0 != this.attackValue.userID ? this.skillNameBar.setSkill(this.useSkillID, !0, t, e.info.skinId).then(function() {}) : this.skillNameBar.setSkill(this.useSkillID, !1, t, e.info.skinId)
     },
     e.prototype.showSkillNameBaoji = function(t) {
         void 0 === t && (t = ""),
-        LevelManager.tipLevel.addChild(this.skillNameBaojiBar),
+        LevelManager.tipLevel.addChild(this.skillNameBaojiBar);
+        var e = FighterModelFactory.getFighterMode(this.attackValue.userID);
         this.skillNameBaojiBar.y = 170,
-        this.attackValue.userID == MainManager.actorID || FightManager.isReplay && 0 != this.attackValue.userID ? this.skillNameBaojiBar.setSkill(this.useSkillID, !0, t).then(function() {}) : this.skillNameBaojiBar.setSkill(this.useSkillID, !1, t)
+        this.attackValue.userID == MainManager.actorID || FightManager.isReplay && 0 != this.attackValue.userID ? this.skillNameBaojiBar.setSkill(this.useSkillID, !0, t, e.info.skinId).then(function() {}) : this.skillNameBaojiBar.setSkill(this.useSkillID, !1, t, e.info.skinId)
     },
     e.prototype.showCritMc = function(t) {
         this.removeCritMc();
@@ -4965,31 +4967,32 @@ SkillNameBaojiBar = function(t) {
         e
     }
     return __extends(e, t),
-    e.prototype.setSkill = function(t, e, i) {
-        var n = this;
-        void 0 === i && (i = "");
+    e.prototype.setSkill = function(t, e, i, n) {
         var o = this;
-        return new Promise(function(r, s) {
-            var a = SkillXMLInfo.getName(t),
-            h = SkillXMLInfo.getTypeID(t);
-            "" != i && (a = i),
-            n.txtSkillName.text = a;
-            var l = "" + h;
-            4 == SkillXMLInfo.getCategory(t) && (l = "prop"),
-            "" != i && (l = ""),
-            n.effect_icon.source = null;
-            var c, _ = 0;
-            e ? (n.currentState = "left", c = n.x = -n.width - 10, n.grpContent.x = 33 + DeviceInfoManager.adapterOffSetX) : (n.currentState = "right", c = n.x = egret.lifecycle.stage.stageWidth + 10, _ = egret.lifecycle.stage.stageWidth - n.width, n.grpContent.x = 33 - DeviceInfoManager.adapterOffSetX),
-            l && (n.effect_icon.source = ClientConfig.getpettypeticon(l)),
-            egret.Tween.get(n).to({
-                x: _
+        void 0 === i && (i = ""),
+        void 0 === n && (n = 0);
+        var r = this;
+        return new Promise(function(s, a) {
+            var h = SkillXMLInfo.getName(t, n),
+            l = SkillXMLInfo.getTypeID(t);
+            "" != i && (h = i),
+            o.txtSkillName.text = h;
+            var c = "" + l;
+            4 == SkillXMLInfo.getCategory(t) && (c = "prop"),
+            "" != i && (c = ""),
+            o.effect_icon.source = null;
+            var _, u = 0;
+            e ? (o.currentState = "left", _ = o.x = -o.width - 10, o.grpContent.x = 33 + DeviceInfoManager.adapterOffSetX) : (o.currentState = "right", _ = o.x = egret.lifecycle.stage.stageWidth + 10, u = egret.lifecycle.stage.stageWidth - o.width, o.grpContent.x = 33 - DeviceInfoManager.adapterOffSetX),
+            c && (o.effect_icon.source = ClientConfig.getpettypeticon(c)),
+            egret.Tween.get(o).to({
+                x: u
             },
             300, egret.Ease.elasticOut).wait(3e3 / TimeScaleManager.GameSpeed).to({
-                x: c
+                x: _
             },
             300, egret.Ease.cubicIn).call(function() {
-                o.parent && o.parent.removeChild(o),
-                r()
+                r.parent && r.parent.removeChild(r),
+                s()
             })
         })
     },
@@ -5018,34 +5021,35 @@ SkillNameBar = function(t) {
         e
     }
     return __extends(e, t),
-    e.prototype.setSkill = function(t, e, i) {
-        var n = this;
-        void 0 === i && (i = "");
+    e.prototype.setSkill = function(t, e, i, n) {
         var o = this;
-        return new Promise(function(r, s) {
-            var a = SkillXMLInfo.getName(t),
-            h = SkillXMLInfo.getTypeID(t);
-            "" != i && (a = i),
-            n.txtSkillName.text = a;
-            var l = "" + h;
-            4 == SkillXMLInfo.getCategory(t) && (l = "prop"),
-            "" != i && (l = ""),
-            n.effect_icon.source = null;
-            var c, _ = 0;
-            e ? (n.currentState = "left", c = n.x = -n.width - 10, n.grpContent.x = 33 + DeviceInfoManager.adapterOffSetX) : (n.currentState = "right", c = n.x = egret.lifecycle.stage.stageWidth + 10, _ = egret.lifecycle.stage.stageWidth - n.width, egret.setTimeout(function() {
-                n.grpContent.x = 33 - DeviceInfoManager.adapterOffSetX
+        void 0 === i && (i = ""),
+        void 0 === n && (n = 0);
+        var r = this;
+        return new Promise(function(s, a) {
+            var h = SkillXMLInfo.getName(t, n),
+            l = SkillXMLInfo.getTypeID(t);
+            "" != i && (h = i),
+            o.txtSkillName.text = h;
+            var c = "" + l;
+            4 == SkillXMLInfo.getCategory(t) && (c = "prop"),
+            "" != i && (c = ""),
+            o.effect_icon.source = null;
+            var _, u = 0;
+            e ? (o.currentState = "left", _ = o.x = -o.width - 10, o.grpContent.x = 33 + DeviceInfoManager.adapterOffSetX) : (o.currentState = "right", _ = o.x = egret.lifecycle.stage.stageWidth + 10, u = egret.lifecycle.stage.stageWidth - o.width, egret.setTimeout(function() {
+                o.grpContent.x = 33 - DeviceInfoManager.adapterOffSetX
             },
-            n, 80)),
-            l && (n.effect_icon.source = ClientConfig.getpettypeticon(l)),
-            egret.Tween.get(n).to({
-                x: _
+            o, 80)),
+            c && (o.effect_icon.source = ClientConfig.getpettypeticon(c)),
+            egret.Tween.get(o).to({
+                x: u
             },
             300, egret.Ease.elasticOut).wait(3e3 / TimeScaleManager.GameSpeed).to({
-                x: c
+                x: _
             },
             300, egret.Ease.cubicIn).call(function() {
-                o.parent && o.parent.removeChild(o),
-                r()
+                r.parent && r.parent.removeChild(r),
+                s()
             })
         })
     },
@@ -5192,7 +5196,7 @@ BattleSkillTipController = function() {
                 t.markStr = s.join("\r"),
                 t.showAdditionInfo(e, i)
             }
-            r = t.show(i, !0, "", e ? e.id: 0, o),
+            r = t.show(i, !0, "", e ? e.id: 0, o, e ? e.skinId: 0),
             t.setPetInfoTip(e, i, r)
         }
         return r
@@ -5218,48 +5222,49 @@ BattleSkillTipController = function() {
             t.additionStr = t.additionStr
         }
     },
-    t.show = function(e, i, n, o, r) {
+    t.show = function(e, i, n, o, r, s) {
         void 0 === i && (i = !1),
         void 0 === n && (n = ""),
         void 0 === o && (o = 0),
         void 0 === r && (r = !0),
+        void 0 === s && (s = 0),
         t.tipMC || (t.tipMC = new BattleSkillTip);
-        var s = "";
-        if (n) s = n;
+        var a = "";
+        if (n) a = n;
         else {
-            var a, h, l, c = SkillXMLInfo.getName(e),
-            _ = SkillXMLInfo.getCategory(e),
-            u = 0;
-            t._petinfo && (u = t._petinfo.catchTime),
-            0 != o && PetManager.isFriendSkillActivate(o, e, u) ? (h = SkillXMLInfo.getFriendSideEffects(e), l = SkillXMLInfo.getFriendSideEffectArgs(e)) : (h = SkillXMLInfo.getSideEffects(e), l = SkillXMLInfo.getSideEffectArgs(e));
-            var p = 0,
-            f = 0;
-            1e5 >= e && (p = SkillXMLInfo.movesMap[e].Priority, f = SkillXMLInfo.movesMap[e].MustHit),
-            a = 1 == _ ? "#FF0000": 2 == _ ? "#FF99FF": "#99ff00",
-            s = "<font color='#ffff00'>" + c + "</font>  <font color='" + a + "'>(" + SkillXMLInfo.getCategoryName(e) + ")</font>\r";
-            var d = "";
-            p > 0 ? d += "先制+" + p + "	": 0 > p && (d += "先制" + p + "	"),
-            f > 0 && (d += "必中"),
-            "" != d && (s += "\r<font color='#ffffff'>" + d + "</font>\r"),
-            "" != t.additionStr && null != t.additionStr && (s += "\r<font color='#00ffff'>" + t.additionStr + "</font>"),
-            i && t.markStr && "" != t.markStr ? s += "\r<font color='#00ffff'>" + t.markStr + "</font>": t.markStr = "";
-            for (var g = 0,
-            m = 0,
-            y = h; m < y.length; m++) {
-                var v = y[m];
-                if ("" != v) {
-                    var I = (1e6 + Number(v), EffectInfoManager.getArgsNum(Number(v))),
-                    w = EffectInfoManager.getInfo(Number(v), l.slice(g, g + I));
-                    g += I,
-                    s += "\r" + w
+            var h, l, c, _ = SkillXMLInfo.getName(e, s),
+            u = SkillXMLInfo.getCategory(e),
+            p = 0;
+            t._petinfo && (p = t._petinfo.catchTime),
+            0 != o && PetManager.isFriendSkillActivate(o, e, p) ? (l = SkillXMLInfo.getFriendSideEffects(e), c = SkillXMLInfo.getFriendSideEffectArgs(e)) : (l = SkillXMLInfo.getSideEffects(e), c = SkillXMLInfo.getSideEffectArgs(e));
+            var f = 0,
+            d = 0;
+            1e5 >= e && (f = SkillXMLInfo.movesMap[e].Priority, d = SkillXMLInfo.movesMap[e].MustHit),
+            h = 1 == u ? "#FF0000": 2 == u ? "#FF99FF": "#99ff00",
+            a = "<font color='#ffff00'>" + _ + "</font>  <font color='" + h + "'>(" + SkillXMLInfo.getCategoryName(e) + ")</font>\r";
+            var g = "";
+            f > 0 ? g += "先制+" + f + "	": 0 > f && (g += "先制" + f + "	"),
+            d > 0 && (g += "必中"),
+            "" != g && (a += "\r<font color='#ffffff'>" + g + "</font>\r"),
+            "" != t.additionStr && null != t.additionStr && (a += "\r<font color='#00ffff'>" + t.additionStr + "</font>"),
+            i && t.markStr && "" != t.markStr ? a += "\r<font color='#00ffff'>" + t.markStr + "</font>": t.markStr = "";
+            for (var m = 0,
+            y = 0,
+            v = l; y < v.length; y++) {
+                var I = v[y];
+                if ("" != I) {
+                    var w = (1e6 + Number(I), EffectInfoManager.getArgsNum(Number(I))),
+                    M = EffectInfoManager.getInfo(Number(I), c.slice(m, m + w));
+                    m += w,
+                    a += "\r" + M
                 }
             }
-            1 == SkillXMLInfo.getGpFtSkillType(e) && (s += "\r<font color='#33ff00'>组队时可以向己方任意目标使用</font>"),
-            SkillXMLInfo.getGpFtSkillAtkNum(e) > 1 && (s += "\r<font color='#33ff00'>组队时可以影响" + SkillXMLInfo.getGpFtSkillAtkNum(e) + "个目标</font>")
+            1 == SkillXMLInfo.getGpFtSkillType(e) && (a += "\r<font color='#33ff00'>组队时可以向己方任意目标使用</font>"),
+            SkillXMLInfo.getGpFtSkillAtkNum(e) > 1 && (a += "\r<font color='#33ff00'>组队时可以影响" + SkillXMLInfo.getGpFtSkillAtkNum(e) + "个目标</font>")
         }
-        return t.tipMC.showTip(s),
+        return t.tipMC.showTip(a),
         r && (t.setPos(), MainManager.stage.stage.addChild(t.tipMC)),
-        s
+        a
     },
     t.timerHandler = function(e) {
         t.hide()
@@ -10011,48 +10016,49 @@ PetFightMsgManager = function() {
         o = FighterModelFactory.enemyMode.info.petName,
         r = "";
         if (0 != t.skillID) {
-            var s = SkillXMLInfo.getName(t.skillID);
+            var s = FighterModelFactory.getFighterMode(t.userID),
+            a = SkillXMLInfo.getName(t.skillID, s.info.skinId);
             r = i ? this.getMyPetColorStr(n) : this.getEnemyPetColorStr(o);
-            var a = PetFightController.attackInfoList;
-            t.skillID == a[0].skillID && 22050 == t.skillID && 0 != a[1].skillID ? (s = SkillXMLInfo.getName(a[1].skillID), r += this.getSkillStr(s, !0)) : t.skillID == a[1].skillID && 22050 == t.skillID && 0 != a[0].skillID ? (s = SkillXMLInfo.getName(a[0].skillID), r += this.getSkillStr(s, !0)) : r += this.getSkillStr(s, !1),
+            var h = PetFightController.attackInfoList;
+            t.skillID == h[0].skillID && 22050 == t.skillID && 0 != h[1].skillID ? (a = SkillXMLInfo.getName(h[1].skillID), r += this.getSkillStr(a, !0)) : t.skillID == h[1].skillID && 22050 == t.skillID && 0 != h[0].skillID ? (a = SkillXMLInfo.getName(h[0].skillID), r += this.getSkillStr(a, !0)) : r += this.getSkillStr(a, !1),
             t.isCrit && (r += this.getCritCritColorStr());
-            var h = +egret.localStorage.getItem("fight_report_content");
-            if (2 == h) {
-                var l = SkillXMLInfo.getInfo(t.skillID);
-                "" != l && 0 == SkillXMLInfo.getDamage(t.skillID) && (r += "\n", r += 2 == SkillXMLInfo.getGpFtSkillType(t.skillID) ? i ? this.getEnemyPetColorStr(o) : this.getMyPetColorStr(n) : i ? this.getMyPetColorStr(n) : this.getEnemyPetColorStr(o), r += l)
+            var l = +egret.localStorage.getItem("fight_report_content");
+            if (2 == l) {
+                var c = SkillXMLInfo.getInfo(t.skillID);
+                "" != c && 0 == SkillXMLInfo.getDamage(t.skillID) && (r += "\n", r += 2 == SkillXMLInfo.getGpFtSkillType(t.skillID) ? i ? this.getEnemyPetColorStr(o) : this.getMyPetColorStr(n) : i ? this.getMyPetColorStr(n) : this.getEnemyPetColorStr(o), r += c)
             }
         } else {
-            var c = i ? this.isUseItemArr[0] : this.isUseItemArr[1];
-            c || e || (r = i ? this.getMyPetColorStr(n) : this.getEnemyPetColorStr(o), r += '<font color="#ffffff">未使用技能</font>'),
+            var _ = i ? this.isUseItemArr[0] : this.isUseItemArr[1];
+            _ || e || (r = i ? this.getMyPetColorStr(n) : this.getEnemyPetColorStr(o), r += '<font color="#ffffff">未使用技能</font>'),
             this.isUseItemArr[i ? 0 : 1] = !1
         }
-        var _ = FighterModelFactory.getFighterMode(t.userID);
-        _.propView.removeAllEffect();
-        var u = 0,
-        p = !1,
-        f = "";
+        var u = FighterModelFactory.getFighterMode(t.userID);
+        u.propView.removeAllEffect();
+        var p = 0,
+        f = !1,
+        d = "";
         PetStatusEffectController.removeAllEffect(t.userID);
-        for (var d = 0,
-        g = t.status; d < g.length; d++) {
-            var m = g[d];
-            if (0 != m) {
-                f += PetStatusEffectConfig.getName(0, u),
-                p = !0;
-                var y = new egret.ByteArray;
-                y.writeUnsignedInt(0),
-                y.writeUnsignedInt(u),
-                y.writeUnsignedInt(m),
-                y.position = 0;
-                var v = new PetStatusEffectInfo(y);
-                PetStatusEffectController.addEffect(t.userID, v),
-                PlayerPetEffectView.showBuffMovie(t, v)
+        for (var g = 0,
+        m = t.status; g < m.length; g++) {
+            var y = m[g];
+            if (0 != y) {
+                d += PetStatusEffectConfig.getName(0, p),
+                f = !0;
+                var v = new egret.ByteArray;
+                v.writeUnsignedInt(0),
+                v.writeUnsignedInt(p),
+                v.writeUnsignedInt(y),
+                v.position = 0;
+                var I = new PetStatusEffectInfo(v);
+                PetStatusEffectController.addEffect(t.userID, I),
+                PlayerPetEffectView.showBuffMovie(t, I)
             }
-            u++
+            p++
         }
-        for (var I = 0,
-        w = t.sideEffects; I < w.length; I++) {
-            var M = w[I];
-            PetStatusEffectController.addEffect(t.userID, M)
+        for (var w = 0,
+        M = t.sideEffects; w < M.length; w++) {
+            var P = M[w];
+            PetStatusEffectController.addEffect(t.userID, P)
         }
         t.sideEffects.length > 0 && PlayerPetEffectView.showBuffMovie(t, t.sideEffects[0]),
         this.battleMsg.addText(r)

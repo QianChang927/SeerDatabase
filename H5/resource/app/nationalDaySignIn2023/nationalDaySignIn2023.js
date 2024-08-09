@@ -22,6 +22,7 @@ function(t) {
             t.hasSignToday = !1,
             t.currMonth = 0,
             t.currDate = 0,
+            t.currTime = 0,
             t.skinName = nationalDaySignIn2023Skin,
             t
         }
@@ -29,38 +30,36 @@ function(t) {
         n.prototype.childrenCreated = function() {
             var n = this;
             e.prototype.childrenCreated.call(this),
-            ImageButtonUtil.add(this.btnClose, this.onClose, this);
-            var i = SystemTimerManager.sysBJDate,
-            a = i.getMonth() + 1,
-            o = i.getDate();
-            this.currMonth = a,
-            this.currDate = o,
+            ImageButtonUtil.add(this.btnClose, this.onClose, this),
+            this.currTime = SystemTimerManager.sysBJDate.getTime(),
             this._list.itemRenderer = t.NationalDaySignInDayItem,
-            KTool.getMultiValue([125071],
+            KTool.getMultiValue([121882],
             function(t) {
                 n.currProgress = t[0],
-                KTool.getBitSet([1000625],
+                KTool.getBitSet([1000629],
                 function(t) {
                     n.hasSignToday = !!t[0];
-                    for (var e = [], i = 0; 6 > i; ++i) e.push([n.currProgress, n.hasSignToday, o, a]);
-                    n._list.dataProvider = new eui.ArrayCollection(e),
-                    n.updateState7()
+                    for (var e = [], i = 0; 6 > i; ++i) e.push([n.currProgress, n.hasSignToday]);
+                    n.listData = new eui.ArrayCollection(e),
+                    n._list.dataProvider = n.listData,
+                    n.updateState5()
                 })
             }),
             EventManager.addEventListener(t.NationalDaySignIn2023Event.HAS_SIGN_TODAY,
             function() {
                 var t = +GsapUtils.clamp(n.currProgress, 5, n.currProgress + 1);
-                KTool.getMultiValue([125071],
+                KTool.getMultiValue([121882],
                 function(e) {
                     n.currProgress = e[0],
-                    KTool.getBitSet([1000625],
+                    KTool.getBitSet([1000629],
                     function(e) {
-                        if (n.hasSignToday = !!e[0], 10 == a && 4 == o && 6 == n.currProgress) n.updateState7();
+                        if (n.hasSignToday = !!e[0], 4 == n.currProgress) n.updateState5();
                         else {
-                            for (var i = [], r = 0; 6 > r; ++r) i.push([n.currProgress, n.hasSignToday, o, a]);
-                            n._list.dataProvider = new eui.ArrayCollection(i);
-                            var s = n._list.getChildAt(t);
-                            s.updateState([n.currProgress, n.hasSignToday, o, a])
+                            for (var i = [], a = 0; 6 > a; ++a) i.push([n.currProgress, n.hasSignToday]);
+                            n.listData.replaceAll(i),
+                            n.listData.refresh();
+                            var o = n._list.getChildAt(t);
+                            o.updateState([n.currProgress, n.hasSignToday])
                         }
                     })
                 })
@@ -69,47 +68,40 @@ function(t) {
             this.addEventDay7()
         },
         n.prototype.addEventDay7 = function() {
-            var t = this;
-            ImageButtonUtil.add(this.btnGet_7,
+            var e = this;
+            ImageButtonUtil.add(this.btnGet_5,
             function() {
-                SocketConnection.sendByQueue(41950, [33, 1],
+                SocketConnection.sendByQueue(41388, [76, 5],
                 function() {
-                    t.currentState = "hasGot",
-                    StatLogger.log("20230928版本系统功能", "国庆签到", "点击“可领取”状态的奖励7面板")
+                    e.currentState = "hasGot",
+                    EventManager.dispatchEventWith(t.NationalDaySignIn2023Event.HAS_SIGN_TODAY),
+                    StatLogger.log("20240809版本系统功能", "20240809七夕签到（K13回归特典）", "领取第5天签到奖励")
                 })
             },
             this),
-            ImageButtonUtil.add(this.btnDefault_7,
+            ImageButtonUtil.add(this.btnDefault_5,
             function() {
-                9 == t.currMonth && 28 == t.currDate ? BubblerManager.getInstance().showText("礼物9月29日开始放送，<font color='#ff0000'>请明日再来</font>", !0) : BubblerManager.getInstance().showText("登陆天数未满足哦！")
+                9 == e.currMonth && 28 == e.currDate ? BubblerManager.getInstance().showText("礼物9月29日开始放送，<font color='#ff0000'>请明日再来</font>", !0) : BubblerManager.getInstance().showText("登陆天数未满足哦！")
             },
             this),
-            ImageButtonUtil.add(this.hasGot_7,
+            ImageButtonUtil.add(this.hasGot_5,
             function() {
                 BubblerManager.getInstance().showText("已领取奖励")
             },
             this),
-            ImageButtonUtil.add(this.btnTomorrow_7,
+            ImageButtonUtil.add(this.btnTomorrow_5,
             function() {
-                BubblerManager.getInstance().showText("明日登录即可领取奖励！"),
-                StatLogger.log("20230928版本系统功能", "国庆签到", "点击任意“明日可领”状态的奖励面板")
+                BubblerManager.getInstance().showText("明日登录即可领取奖励！")
             },
             this),
-            ImageButtonUtil.add(this.yinziIcon,
+            ImageButtonUtil.add(this.imgSkin,
             function() {
-                var t = {};
-                t.id = 2400129,
-                tipsPop.TipsPop.openItemPop(t)
-            },
-            this),
-            ImageButtonUtil.add(this.avatarFrameIcon,
-            function() {
-                BubblerManager.getInstance().showText("可获得头像框“星璨K13”")
+                AwardManager.ShowTmpPetSkinDiaolg(642)
             },
             this)
         },
-        n.prototype.updateState7 = function() {
-            28 == this.currDate ? this.currentState = "default": 6 == this.currProgress ? 10 == this.currMonth && 5 == this.currDate && this.hasSignToday ? this.currentState = "default": this.currentState = this.hasSignToday ? "tomorrow": "canGet": this.currProgress > 6 ? this.currentState = "hasGot": this.currentState = "default"
+        n.prototype.updateState5 = function() {
+            4 == this.currProgress ? this.currTime == t.NationalDaySignIn2023Const.END_TIME && this.hasSignToday ? this.currentState = "default": this.currentState = this.hasSignToday ? "tomorrow": "canGet": this.currProgress > 4 ? this.currentState = "hasGot": this.currentState = "default"
         },
         n
     } (BaseModule);
@@ -126,8 +118,11 @@ nationalDaySignIn2023; !
 function(t) {
     var e = function() {
         function t() {}
-        return t.TXT_ITEM_NUMS = ["x60", "x3", "x80", "x5", "x100", "x6"],
-        t.DAY_ITEM_POS_Y = [44, 5, 49, 0, 44, 0],
+        return t.TXT_ITEM_NUMS = ["x1", "x1", "x2", "x1", "x3", "x2", "x5", "x1", "x5", "x2", "x3", "x3"],
+        t.DAY_ITEM_POS_X = [0, 0, 0, 0, 136, 0],
+        t.DAY_ITEM_POS_Y = [44, 5, 49, 0, -15, 20],
+        t.START_TIME = new Date("2024/8/9").getTime(),
+        t.END_TIME = new Date("2024/8/16").getTime(),
         t
     } ();
     t.NationalDaySignIn2023Const = e,
@@ -179,17 +174,17 @@ function(t) {
             e.prototype.childrenCreated.call(this),
             ImageButtonUtil.add(this.btnGet,
             function() {
-                SocketConnection.sendByQueue(41950, [33, 1],
+                SocketConnection.sendByQueue(41388, [76, n.itemIndex + 1],
                 function() {
                     n.currentState = "hasGot",
                     EventManager.dispatchEventWith(t.NationalDaySignIn2023Event.HAS_SIGN_TODAY),
-                    StatLogger.log("20230928版本系统功能", "国庆签到", "点击“可领取”状态的奖励" + (n.itemIndex + 1) + "面板")
+                    StatLogger.log("20240809版本系统功能", "20240809七夕签到（K13回归特典）", "领取第" + (n.itemIndex + 1) + "天签到奖励")
                 })
             },
             this),
             ImageButtonUtil.add(this.btnDefault,
             function() {
-                9 == n.data[3] && 28 == n.data[2] ? BubblerManager.getInstance().showText("礼物9月29日开始放送，<font color='#ff0000'>请明日再来</font>", !0) : BubblerManager.getInstance().showText("登陆天数未满足哦！")
+                BubblerManager.getInstance().showText("登陆天数未满足哦！")
             },
             this),
             ImageButtonUtil.add(this.hasGot,
@@ -199,24 +194,29 @@ function(t) {
             this),
             ImageButtonUtil.add(this.btnTomorrow,
             function() {
-                BubblerManager.getInstance().showText("明日登录即可领取奖励！"),
-                StatLogger.log("20230928版本系统功能", "国庆签到", "点击任意“明日可领”状态的奖励面板")
+                BubblerManager.getInstance().showText("明日登录即可领取奖励！")
             },
             this)
         },
         n.prototype.dataChanged = function() {
             e.prototype.dataChanged.call(this),
+            this.grp.x = t.NationalDaySignIn2023Const.DAY_ITEM_POS_X[this.itemIndex],
+            this.grp.y = t.NationalDaySignIn2023Const.DAY_ITEM_POS_Y[this.itemIndex],
+            this.item1.iconItem.source = ClientConfig.getItemIcon(2600024),
+            this.item1.itemNum.text = t.NationalDaySignIn2023Const.TXT_ITEM_NUMS[2 * this.itemIndex],
+            this.item1.initBtnIcon(2600024),
+            this.item2.iconItem.source = ClientConfig.getItemIcon(1400152),
+            this.item2.itemNum.text = t.NationalDaySignIn2023Const.TXT_ITEM_NUMS[2 * this.itemIndex + 1],
+            this.item2.initBtnIcon(1400152),
+            this.itemIndex >= 4 && this.itemIndex++,
             this.day.source = "national_day_sign_in2023_day" + (this.itemIndex + 1) + "_png",
-            this.grp.y = t.NationalDaySignIn2023Const.DAY_ITEM_POS_Y[this.itemIndex];
-            var n = (this.itemIndex + 1) % 2 == 1;
-            this.itemYinzi.visible = n,
-            this.item1.visible = !n,
-            this.item2.visible = !n,
-            n ? (this.itemYinzi.iconItem.source = "national_day_sign_in2023_yinziicon_png", this.itemYinzi.itemNum.text = t.NationalDaySignIn2023Const.TXT_ITEM_NUMS[this.itemIndex], this.itemYinzi.initBtnIcon(2400129)) : (this.item1.itemNum.text = "x1", this.item1.initBtnIcon(1400152), this.item2.iconItem.source = "national_day_sign_in2023_item3_png", this.item2.itemNum.text = t.NationalDaySignIn2023Const.TXT_ITEM_NUMS[this.itemIndex], this.item2.initBtnIcon(1400153)),
             this.updateState(this.data)
         },
-        n.prototype.updateState = function(t) {
-            28 == t[2] ? this.currentState = "default": t[0] == this.itemIndex ? 10 == t[3] && 5 == t[2] && t[1] ? this.currentState = "default": this.currentState = t[1] ? "tomorrow": "canGet": t[0] > this.itemIndex ? this.currentState = "hasGot": this.currentState = "default"
+        n.prototype.updateState = function(e) {
+            if (e[0] == this.itemIndex) {
+                var n = SystemTimerManager.sysBJDate.getTime();
+                n == t.NationalDaySignIn2023Const.END_TIME && e[1] ? this.currentState = "default": this.currentState = e[1] ? "tomorrow": "canGet"
+            } else e[0] > this.itemIndex ? this.currentState = "hasGot": this.currentState = "default"
         },
         n
     } (BaseItemRenderer);
@@ -266,12 +266,11 @@ generateEUI.skins = {},
 generateEUI.paths["resource/eui_skins/nationalDaySignIn2023Skin.exml"] = window.nationalDaySignIn2023Skin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["bg", "btnClose", "_list", "btnDefault_7", "btnGet_7", "hasGot_7", "btnTomorrow_7", "dayBg_7", "day7", "avatarFrameIcon", "yinziIcon", "day_7"],
-        this.currentState = "default",
-        this.height = 610,
-        this.width = 963,
-        this.elementsContent = [this.bg_i(), this.btnClose_i(), this._Scroller1_i(), this.day_7_i()],
-        this.states = [new eui.State("default", [new eui.SetProperty("_Scroller1", "height", 400), new eui.SetProperty("btnGet_7", "visible", !1), new eui.SetProperty("hasGot_7", "visible", !1), new eui.SetProperty("btnTomorrow_7", "visible", !1)]), new eui.State("canGet", [new eui.SetProperty("btnDefault_7", "visible", !1), new eui.SetProperty("btnGet_7", "visible", !0), new eui.SetProperty("hasGot_7", "visible", !1), new eui.SetProperty("btnTomorrow_7", "visible", !1)]), new eui.State("hasGot", [new eui.SetProperty("btnDefault_7", "visible", !1), new eui.SetProperty("btnGet_7", "visible", !1), new eui.SetProperty("hasGot_7", "visible", !0), new eui.SetProperty("btnTomorrow_7", "visible", !1)]), new eui.State("tomorrow", [new eui.SetProperty("btnDefault_7", "visible", !1), new eui.SetProperty("btnGet_7", "visible", !1), new eui.SetProperty("hasGot_7", "visible", !1)])]
+        this.skinParts = ["bg", "btnClose", "_list", "btnDefault_5", "btnGet_5", "hasGot_5", "btnTomorrow_5", "dayBg_5", "day5", "imgSkin", "day_5"],
+        this.height = 618,
+        this.width = 1055,
+        this.elementsContent = [this.bg_i(), this.btnClose_i(), this._Scroller1_i(), this.day_5_i()],
+        this.states = [new eui.State("default", [new eui.SetProperty("_Scroller1", "height", 400), new eui.SetProperty("btnGet_5", "visible", !1), new eui.SetProperty("hasGot_5", "visible", !1), new eui.SetProperty("btnTomorrow_5", "visible", !1)]), new eui.State("canGet", [new eui.SetProperty("btnDefault_5", "visible", !1), new eui.SetProperty("btnGet_5", "visible", !0), new eui.SetProperty("hasGot_5", "visible", !1), new eui.SetProperty("btnTomorrow_5", "visible", !1)]), new eui.State("hasGot", [new eui.SetProperty("btnDefault_5", "visible", !1), new eui.SetProperty("btnGet_5", "visible", !1), new eui.SetProperty("hasGot_5", "visible", !0), new eui.SetProperty("btnTomorrow_5", "visible", !1)]), new eui.State("tomorrow", [new eui.SetProperty("btnDefault_5", "visible", !1), new eui.SetProperty("btnGet_5", "visible", !1), new eui.SetProperty("hasGot_5", "visible", !1)])]
     }
     __extends(e, t);
     var n = e.prototype;
@@ -287,69 +286,71 @@ generateEUI.paths["resource/eui_skins/nationalDaySignIn2023Skin.exml"] = window.
         var t = new eui.Image;
         return this.btnClose = t,
         t.source = "national_day_sign_in2023_btnclose_png",
-        t.x = 926,
-        t.y = 37,
+        t.x = 928,
+        t.y = 40,
         t
     },
     n._Scroller1_i = function() {
         var t = new eui.Scroller;
         return this._Scroller1 = t,
         t.height = 400,
-        t.width = 630,
-        t.x = 36,
-        t.y = 186,
+        t.width = 760,
+        t.x = 52,
+        t.y = 206,
         t.viewport = this._list_i(),
         t
     },
     n._list_i = function() {
         var t = new eui.List;
         return this._list = t,
+        t.visible = !0,
         t.layout = this._HorizontalLayout1_i(),
         t
     },
     n._HorizontalLayout1_i = function() {
         var t = new eui.HorizontalLayout;
-        return t.gap = -5,
+        return t.gap = -8,
         t
     },
-    n.day_7_i = function() {
+    n.day_5_i = function() {
         var t = new eui.Group;
-        return this.day_7 = t,
-        t.x = 664,
-        t.y = 152,
-        t.elementsContent = [this.btnDefault_7_i(), this.btnGet_7_i(), this.hasGot_7_i(), this.btnTomorrow_7_i(), this.dayBg_7_i(), this.day7_i(), this._Image1_i(), this._Image2_i(), this.avatarFrameIcon_i(), this.yinziIcon_i(), this._Label1_i()],
+        return this.day_5 = t,
+        t.visible = !0,
+        t.x = 455,
+        t.y = 154,
+        t.elementsContent = [this.btnDefault_5_i(), this.btnGet_5_i(), this.hasGot_5_i(), this.btnTomorrow_5_i(), this.dayBg_5_i(), this.day5_i(), this.imgSkin_i()],
         t
     },
-    n.btnDefault_7_i = function() {
+    n.btnDefault_5_i = function() {
         var t = new eui.Image;
-        return this.btnDefault_7 = t,
+        return this.btnDefault_5 = t,
         t.source = "national_day_sign_in2023_default_7_png",
         t.visible = !0,
         t.x = 0,
         t.y = 0,
         t
     },
-    n.btnGet_7_i = function() {
+    n.btnGet_5_i = function() {
         var t = new eui.Image;
-        return this.btnGet_7 = t,
+        return this.btnGet_5 = t,
         t.source = "national_day_sign_in2023_btnget_7_png",
         t.visible = !0,
         t.x = 0,
         t.y = 0,
         t
     },
-    n.hasGot_7_i = function() {
+    n.hasGot_5_i = function() {
         var t = new eui.Image;
-        return this.hasGot_7 = t,
+        return this.hasGot_5 = t,
         t.source = "national_day_sign_in2023_hasgot_7_png",
         t.visible = !0,
         t.x = 0,
         t.y = 2,
         t
     },
-    n.btnTomorrow_7_i = function() {
+    n.btnTomorrow_5_i = function() {
         var t = new eui.Image;
-        return this.btnTomorrow_7 = t,
+        return this.btnTomorrow_5 = t,
         t.height = 420,
         t.source = "national_day_sign_in2023_tomorrow_png",
         t.visible = !0,
@@ -358,70 +359,31 @@ generateEUI.paths["resource/eui_skins/nationalDaySignIn2023Skin.exml"] = window.
         t.y = -2,
         t
     },
-    n.dayBg_7_i = function() {
+    n.dayBg_5_i = function() {
         var t = new eui.Image;
-        return this.dayBg_7 = t,
+        return this.dayBg_5 = t,
         t.height = 34,
         t.source = "national_day_sign_in2023_daybg_png",
+        t.touchEnabled = !1,
         t.width = 96,
-        t.x = 24,
+        t.x = 26,
         t.y = 53,
         t
     },
-    n.day7_i = function() {
+    n.day5_i = function() {
         var t = new eui.Image;
-        return this.day7 = t,
-        t.source = "national_day_sign_in2023_day7_png",
-        t.x = 51,
+        return this.day5 = t,
+        t.source = "national_day_sign_in2023_day5_png",
+        t.touchEnabled = !1,
+        t.x = 52,
         t.y = 39,
         t
     },
-    n._Image1_i = function() {
+    n.imgSkin_i = function() {
         var t = new eui.Image;
-        return t.height = 100,
-        t.source = "national_day_sign_in2023_iconbg_png",
-        t.width = 100,
-        t.x = 22,
-        t.y = 111,
-        t
-    },
-    n._Image2_i = function() {
-        var t = new eui.Image;
-        return t.height = 100,
-        t.source = "national_day_sign_in2023_iconbg_png",
-        t.width = 100,
-        t.x = 22,
-        t.y = 231,
-        t
-    },
-    n.avatarFrameIcon_i = function() {
-        var t = new eui.Image;
-        return this.avatarFrameIcon = t,
-        t.source = "national_day_sign_in2023_avatarframe_png",
-        t.x = 30,
-        t.y = 239,
-        t
-    },
-    n.yinziIcon_i = function() {
-        var t = new eui.Image;
-        return this.yinziIcon = t,
-        t.height = 92,
-        t.source = "national_day_sign_in2023_yinziicon_png",
-        t.width = 92,
-        t.x = 26,
-        t.y = 116,
-        t
-    },
-    n._Label1_i = function() {
-        var t = new eui.Label;
-        return t.fontFamily = "MFShangHei",
-        t.size = 20,
-        t.stroke = 1,
-        t.strokeColor = 2702752,
-        t.text = "x140",
-        t.textColor = 16776165,
-        t.x = 74,
-        t.y = 187,
+        return this.imgSkin = t,
+        t.source = "national_day_sign_in2023_skin_png",
+        t.y = 80,
         t
     },
     e
@@ -445,9 +407,10 @@ generateEUI.paths["resource/eui_skins/nationalDaySignInRewardItem.exml"] = windo
     n.iconItem_i = function() {
         var t = new eui.Image;
         return this.iconItem = t,
+        t.height = 66,
         t.horizontalCenter = 0,
-        t.source = "national_day_sign_in2023_item2_png",
         t.verticalCenter = 0,
+        t.width = 66,
         t
     },
     n.itemNum_i = function() {
@@ -469,7 +432,7 @@ generateEUI.paths["resource/eui_skins/nationalDaySignInRewardItem.exml"] = windo
 generateEUI.paths["resource/eui_skins/nationalDaySignInDayItem.exml"] = window.nationalDaySignInDayItem = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["btnDefault", "hasGot", "btnGet", "btnTomorrow", "dayBg_7", "day", "itemYinzi", "item1", "item2", "grp"],
+        this.skinParts = ["btnDefault", "hasGot", "btnGet", "btnTomorrow", "dayBg", "day", "itemYinzi", "item1", "item2", "grp"],
         this.elementsContent = [this.grp_i()],
         this.states = [new eui.State("default", [new eui.SetProperty("hasGot", "visible", !1), new eui.SetProperty("btnGet", "visible", !1), new eui.SetProperty("btnTomorrow", "visible", !1)]), new eui.State("canGet", [new eui.SetProperty("btnDefault", "visible", !1), new eui.SetProperty("hasGot", "visible", !1), new eui.SetProperty("btnTomorrow", "visible", !1)]), new eui.State("hasGot", [new eui.SetProperty("btnDefault", "visible", !1), new eui.SetProperty("btnGet", "visible", !1), new eui.SetProperty("btnTomorrow", "visible", !1)]), new eui.State("tomorrow", [new eui.SetProperty("btnDefault", "visible", !1), new eui.SetProperty("hasGot", "visible", !1), new eui.SetProperty("btnGet", "visible", !1)])]
     }
@@ -480,7 +443,7 @@ generateEUI.paths["resource/eui_skins/nationalDaySignInDayItem.exml"] = window.n
         return this.grp = t,
         t.x = 0,
         t.y = 0,
-        t.elementsContent = [this.btnDefault_i(), this.hasGot_i(), this.btnGet_i(), this.btnTomorrow_i(), this.dayBg_7_i(), this.day_i(), this.itemYinzi_i(), this.item1_i(), this.item2_i()],
+        t.elementsContent = [this.btnDefault_i(), this.hasGot_i(), this.btnGet_i(), this.btnTomorrow_i(), this.dayBg_i(), this.day_i(), this.itemYinzi_i(), this.item1_i(), this.item2_i()],
         t
     },
     n.btnDefault_i = function() {
@@ -527,23 +490,27 @@ generateEUI.paths["resource/eui_skins/nationalDaySignInDayItem.exml"] = window.n
         t.y = 0,
         t
     },
-    n.dayBg_7_i = function() {
+    n.dayBg_i = function() {
         var t = new eui.Image;
-        return this.dayBg_7 = t,
+        return this.dayBg = t,
+        t.height = 30,
         t.scaleX = 1,
         t.scaleY = 1,
         t.source = "national_day_sign_in2023_daybg_png",
-        t.x = 12.999999999999972,
+        t.touchEnabled = !1,
+        t.width = 79,
+        t.x = 16,
         t.y = 55,
         t
     },
     n.day_i = function() {
         var t = new eui.Image;
         return this.day = t,
-        t.horizontalCenter = -2,
+        t.horizontalCenter = 1,
         t.scaleX = 1,
         t.scaleY = 1,
         t.source = "national_day_sign_in2023_day1_png",
+        t.touchEnabled = !1,
         t.y = 46,
         t
     },
@@ -555,6 +522,7 @@ generateEUI.paths["resource/eui_skins/nationalDaySignInDayItem.exml"] = window.n
         t.scaleY = 1,
         t.skinName = "nationalDaySignInRewardItem",
         t.verticalCenter = 2,
+        t.visible = !1,
         t
     },
     n.item1_i = function() {

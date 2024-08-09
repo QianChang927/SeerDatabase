@@ -18,7 +18,7 @@ function(t) {
     var e = function(e) {
         function i(i) {
             var n = e.call(this) || this;
-            if (n.isOutTime = !1, n.getInfo(11), i) {
+            if (n.isOutTime = !1, n.getInfo(14), i) {
                 if (n.isOutTime || ~~i != ~~t.DataConst.CurrentPetID) return Alarm.show("不在活动时间范围内",
                 function() {
                     n.onClose(),
@@ -124,7 +124,7 @@ function(t) {
             i.curProgess = 0,
             i.curTimes = 0,
             i.AnimTEST = !1,
-            i.iconNames = ["暗夜呢喃", "幽冥象征", "梦呓袭染", "侵神魅影"],
+            i.iconNames = ["鬼幽之冠", "遗忘之骸", "梦语之袖", "惑心之翼"],
             i.iconNameColor = 8277664,
             i.skinName = "oracleAdvance.BattlepanelSkin",
             i.sumProgress = t.DataConst.TaskInfo.AllProgress,
@@ -389,9 +389,9 @@ function(t) {
             ImageButtonUtil.add(this.btnGet,
             function() {
                 StatLogger.log(t.DataConst.StateDate, "神谕进阶·" + t.DataConst.StateName + "H5", "点击主界面-【前往获取精灵】按钮"),
-                ModuleManager.showModuleByID(15, {
-                    type: "7",
-                    petId: 3156
+                ModuleManager.showModuleByID(144, {
+                    panelName: "MALL",
+                    mallMenu: 1
                 })
             },
             this),
@@ -482,7 +482,7 @@ function(t) {
             this.icon.source = ClientConfig.getItemIcon(1724858),
             this.skillData = PetAdvanceXMLInfo.getAdvanceSkill(t.DataConst.CurrentPetID);
             var e = PetAdvanceXMLInfo.getAdvanceFifthSkill(t.DataConst.CurrentPetID);
-            e.length > 0 && (T = this.skillData).push.apply(T, e);
+            e.length > 0 && (A = this.skillData).push.apply(A, e);
             var i = t.DataConst.FreeTime.startTime.toString(),
             n = t.DataConst.FreeTime.endTime.toString(),
             a = i.slice(0, 4) + "/" + i.slice(4, 6) + "/" + i.slice(6, 8) + " 00:00:00",
@@ -544,7 +544,7 @@ function(t) {
                 }
             }
             this.update();
-            var T
+            var A
         }, i.prototype.update = function() {
             var e = this;
             SocketConnection.sendByQueue(t.DataConst.MAIN_CMD, [t.DataConst.TaskInfo.ID, 7],
@@ -2274,7 +2274,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
     i.imgPet_i = function() {
         var t = new eui.Image;
         return this.imgPet = t,
-        t.horizontalCenter = -375,
+        t.horizontalCenter = -268,
         t.source = "oa_mainpanel_imgpet_png",
         t.visible = !0,
         t
@@ -2282,7 +2282,7 @@ generateEUI.paths["resource/eui_skins/MainpanelSkin.exml"] = window.oracleAdvanc
     i.btnGet_i = function() {
         var t = new eui.Image;
         return this.btnGet = t,
-        t.left = 195,
+        t.horizontalCenter = -207,
         t.source = "oa_mainpanel_btnget_png",
         t.visible = !0,
         t.y = 539,

@@ -1805,7 +1805,7 @@ function(t) {
                 e = ClientConfig.getpettypeticon(String(n))
             }
             this.imgIcon.source = e,
-            this.txtSkillName.text = SkillXMLInfo.getName(this.skillId);
+            this.txtSkillName.text = SkillXMLInfo.getName(this.skillId, this.petInfo ? this.petInfo.skinId: 0);
             var r = t.getSkillCategor(this.skillId);
             this.txtType.textColor = r.color,
             this.txtType.text = r.categorStr,

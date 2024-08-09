@@ -1368,6 +1368,7 @@ function(t) {
                 n > 1 && (i <<= 1);
                 return e != t.boxInfo.count ? void BubblerManager.getInstance().showText("未选取足够种类的" + t.rewardTypeName) : void SocketConnection.sendByQueue(41952, [t.boxInfo.id, 1, i],
                 function() {
+                    BubblerManager.getInstance().showText("领取成功！"),
                     t.hide()
                 })
             },

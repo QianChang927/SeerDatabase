@@ -4303,20 +4303,73 @@ function(t, e) {
     n.prototype = e.prototype,
     t.prototype = new n
 },
-Effect_185 = function(t) {
+Effect_576 = function(t) {
     function e() {
         var e = t.call(this) || this;
-        return e._argsNum = 1,
+        return e._argsNum = 2,
         e
     }
     return __extends(e, t),
     e.prototype.getInfo = function(t) {
         return void 0 === t && (t = null),
-        "若击败" + this.statusDict[t[0]] + "的对手，则下一个出场的对手也进入" + this.statusDict[t[0]] + "状态"
+        t[0] + "回合内免疫低于" + t[1] + "的攻击伤害"
     },
     e
 } (AbstractEffectInfo);
-__reflect(Effect_185.prototype, "Effect_185");
+__reflect(Effect_576.prototype, "Effect_576");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+SkillNameReplaceXmlInfo = function() {
+    function t() {}
+    return t.setup = function() {
+        var t = this;
+        return new Promise(function(e, n) {
+            var r = RES.getRes("move_change_json").Moves,
+            o = r.Moves;
+            t.replaceInfos = new HashMap;
+            for (var i, s = 0,
+            a = o; s < a.length; s++) {
+                var _ = a[s];
+                i = Number(_.SkinID);
+                var c = {
+                    id: Number(_.MoveID),
+                    sName: String(_.NewName),
+                    res: Number(_.Url)
+                };
+                if (null == t.replaceInfos.getValue(i)) t.replaceInfos.add(i, [c]);
+                else {
+                    var l = t.replaceInfos.getValue(i);
+                    l.push(c)
+                }
+            }
+            e()
+        })
+    },
+    t.getSkillNameBySkinId = function(t, e) {
+        var n = "",
+        r = this.replaceInfos.getValue(t);
+        if (null != r) for (var o = 0; o < r.length; o++) if (r[o].id == e) {
+            n = r[o].sName;
+            break
+        }
+        return n
+    },
+    t.getResBySkinId = function(t, e) {
+        var n = "",
+        r = this.replaceInfos.getValue(e);
+        if (null != r) for (var o = 0; o < r.length; o++) if (r[o].id == t) {
+            n = r[o].res;
+            break
+        }
+        return n
+    },
+    t
+} ();
+__reflect(SkillNameReplaceXmlInfo.prototype, "SkillNameReplaceXmlInfo");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -4381,16 +4434,20 @@ SkillXMLInfo = function() {
             this.movesMap[n.ID] = n
         }
     },
-    t.getName = function(t) {
-        var e = "";
+    t.getName = function(t, e) {
+        void 0 === e && (e = 0);
+        var n = "";
         if (1e5 >= t) {
-            var n = this.movesMap[t];
-            n && (e = n.Name)
+            var r = this.movesMap[t];
+            if (r && (n = r.Name, 0 != e)) {
+                var o = SkillNameReplaceXmlInfo.getSkillNameBySkinId(e, t);
+                "" != o && (n = o)
+            }
         } else {
-            var r = this.moveStoneMap[this.getSkillIdInXML(t)];
-            r && (e = r.Name)
+            var i = this.moveStoneMap[this.getSkillIdInXML(t)];
+            i && (n = i.Name)
         }
-        return e
+        return n
     },
     t.getRealId = function(t) {
         if (1e5 >= t) {
@@ -33972,6 +34029,9 @@ ZipManager = function(t) {
                     [4, ZhuijiXmlInfo.setup()];
                 case 29:
                     return e.sent(),
+                    [4, SkillNameReplaceXmlInfo.setup()];
+                case 30:
+                    return e.sent(),
                     egret.log("json 解析花费：" + (Date.now() - t)),
                     this.completed = !0,
                     EventManager.dispatchEvent(new egret.Event("zipLoadComplete")),
@@ -34453,14 +34513,7 @@ AutoOpenDailySignNationalDay2023 = function(t) {
         e = new Date(this.item.startTime).getTime(),
         n = SystemTimerManager.sysBJDate.getTime(),
         r = Math.ceil((n - e) / 1e3 / 60 / 60 / 24);
-        if (1 == r) {
-            var o = egret.localStorage.getItem(this.item.param1 + "_" + MainManager.actorID);
-            if (void 0 == o) {
-                this.openPanel();
-                var i = TimeUtil.format("yyyy/MM/dd", SystemTimerManager.sysBJDate);
-                egret.localStorage.setItem(this.item.param1 + "_" + MainManager.actorID, i)
-            }
-        } else 8 >= r ? KTool.getBitSet([ + this.item.param1],
+        7 >= r ? KTool.getBitSet([ + this.item.param1],
         function(e) {
             var n = !e[0];
             n ? t.openPanel() : t.next()
@@ -41315,16 +41368,18 @@ PetInfo = function() {
             for (var i = 0; i < this.effectCount; i++) this.effectList.push(new PetEffectInfo(t));
             this.resistanceinfo = new PetResistanceInfo(t),
             this._skinId = t.readUnsignedInt(),
+            this.hideSKill && (this.hideSKill.skinId = this._skinId);
+            for (var s = 0; s < this.skillArray.length; s++) this.skillArray[s].skinId = this._skinId;
             this.assistMoveId = t.readUnsignedInt();
-            for (var s = 0; 3 > s; s++) {
-                var a = t.readUnsignedInt();
-                this.abilityValues.push(a >> 0 & 65535),
-                this.abilityValues.push(a >> 16 & 65535)
+            for (var a = 0; 3 > a; a++) {
+                var _ = t.readUnsignedInt();
+                this.abilityValues.push(_ >> 0 & 65535),
+                this.abilityValues.push(_ >> 16 & 65535)
             }
             ArrayUtil.eq(this.abilityValues, [0, 0, 0, 0, 0, 0]) && (this.abilityValues = PetXMLInfo.getAllEvById(this.id));
-            for (var _ = ["hp", "attack", "defence", "s_a", "s_d", "speed"], c = 0; 6 > c; c++) this["base_" + _[c] + "_total"] = t.readUnsignedInt(),
-            this["pvp_" + _[c] + "_total"] = t.readUnsignedInt(),
-            this["pve_" + _[c] + "_total"] = t.readUnsignedInt();
+            for (var c = ["hp", "attack", "defence", "s_a", "s_d", "speed"], l = 0; 6 > l; l++) this["base_" + c[l] + "_total"] = t.readUnsignedInt(),
+            this["pvp_" + c[l] + "_total"] = t.readUnsignedInt(),
+            this["pve_" + c[l] + "_total"] = t.readUnsignedInt();
             this.base_curHp = t.readUnsignedInt(),
             this.pvp_curHp = t.readUnsignedInt(),
             this.pve_curHp = t.readUnsignedInt()
@@ -41580,7 +41635,7 @@ PetSkillInfo = function() {
     }),
     Object.defineProperty(t.prototype, "name", {
         get: function() {
-            return SkillXMLInfo.getName(this.id)
+            return SkillXMLInfo.getName(this.id, this.skinId)
         },
         enumerable: !0,
         configurable: !0
@@ -46308,221 +46363,29 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
-__awaiter = this && this.__awaiter ||
-function(t, e, n, r) {
-    return new(n || (n = Promise))(function(o, i) {
-        function s(t) {
-            try {
-                _(r.next(t))
-            } catch(e) {
-                i(e)
-            }
-        }
-        function a(t) {
-            try {
-                _(r["throw"](t))
-            } catch(e) {
-                i(e)
-            }
-        }
-        function _(t) {
-            t.done ? o(t.value) : new n(function(e) {
-                e(t.value)
-            }).then(s, a)
-        }
-        _((r = r.apply(t, e || [])).next())
-    })
-},
-__generator = this && this.__generator ||
+__extends = this && this.__extends ||
 function(t, e) {
-    function n(t) {
-        return function(e) {
-            return r([t, e])
-        }
+    function n() {
+        this.constructor = t
     }
-    function r(n) {
-        if (o) throw new TypeError("Generator is already executing.");
-        for (; _;) try {
-            if (o = 1, i && (s = i[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(i, n[1])).done) return s;
-            switch (i = 0, s && (n = [0, s.value]), n[0]) {
-            case 0:
-            case 1:
-                s = n;
-                break;
-            case 4:
-                return _.label++,
-                {
-                    value: n[1],
-                    done: !1
-                };
-            case 5:
-                _.label++,
-                i = n[1],
-                n = [0];
-                continue;
-            case 7:
-                n = _.ops.pop(),
-                _.trys.pop();
-                continue;
-            default:
-                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
-                    _ = 0;
-                    continue
-                }
-                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
-                    _.label = n[1];
-                    break
-                }
-                if (6 === n[0] && _.label < s[1]) {
-                    _.label = s[1],
-                    s = n;
-                    break
-                }
-                if (s && _.label < s[2]) {
-                    _.label = s[2],
-                    _.ops.push(n);
-                    break
-                }
-                s[2] && _.ops.pop(),
-                _.trys.pop();
-                continue
-            }
-            n = e.call(t, _)
-        } catch(r) {
-            n = [6, r],
-            i = 0
-        } finally {
-            o = s = 0
-        }
-        if (5 & n[0]) throw n[1];
-        return {
-            value: n[0] ? n[1] : void 0,
-            done: !0
-        }
-    }
-    var o, i, s, a, _ = {
-        label: 0,
-        sent: function() {
-            if (1 & s[0]) throw s[1];
-            return s[1]
-        },
-        trys: [],
-        ops: []
-    };
-    return a = {
-        next: n(0),
-        "throw": n(1),
-        "return": n(2)
-    },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
-        return this
-    }),
-    a
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
 },
-Core = function() {
-    function t() {}
-    return t.init = function() {
-        var t = this;
-        EngineHookManager.init(),
-        LoginManager2.init(),
-        TaomeeSDKManager.init(),
-        FestivalVersionController.setup(),
-        egret.TextField.default_fontFamily = "黑体",
-        PetUpdateCmdListener.start(),
-        OgreCmdListener.start(),
-        XTeamController.checkActive(),
-        ToolTipManager.setup(),
-        OnlineManager.getInstance().setup(),
-        SocketErrorManager.setup(),
-        PetManager.setup(),
-        ItemManager.setup(),
-        AwardManager.setup(),
-        ServerNotifyManager.setup(),
-        CjsUtil.init(),
-        UICjsUtil.init(),
-        LifeCycleManager.init(),
-        ChannelManager.init(),
-        TeamInfoManager.init();
-        for (var e in CommandID) CommandID[e] > 0 && SocketEncryptImpl.addCmdLabel(CommandID[e], e);
-        SoundManager.init(),
-        SystemBroadcastManager.init(),
-        SoundManager.loadSound().then(function() {
-            return GameInfo.isApp ? void SoundManager.playMusic() : void egret.lifecycle.stage.once(egret.TouchEvent.TOUCH_TAP,
-            function() {
-                if (!GameInfo.isApp && 1 == GameInfo.platform) {
-                    var t = document.documentElement,
-                    e = t.requestFullScreen || t.webkitRequestFullScreen || t.mozRequestFullScreen || t.msRequestFullscreen;
-                    "undefined" != typeof e && e && e.call(t)
-                }
-                SoundManager.playMusic()
-            },
-            t)
-        }),
-        this.onBackButton(),
-        this.initThridAPPInfo(),
-        "webgl" == egret.Capabilities.renderMode ? 0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【常规模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【常规模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【常规模式】") : "canvas" == egret.Capabilities.renderMode && (0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【兼容模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【兼容模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【兼容模式】"))
+Effect_185 = function(t) {
+    function e() {
+        var e = t.call(this) || this;
+        return e._argsNum = 1,
+        e
+    }
+    return __extends(e, t),
+    e.prototype.getInfo = function(t) {
+        return void 0 === t && (t = null),
+        "若击败" + this.statusDict[t[0]] + "的对手，则下一个出场的对手也进入" + this.statusDict[t[0]] + "状态"
     },
-    t.initThridAPPInfo = function() {
-        GameInfo.hasAlipayApp = !1,
-        GameInfo.hasWechatAPP = !1,
-        GameInfo.hasQQAPP = !1
-    },
-    t.onBackButton = function() {
-        var t = this;
-        document.addEventListener("backbutton",
-        function() {
-            Date.now() - t.lastClickTime < 1e3 ? (SoundManager.stopMusic(), navigator.app.exitApp()) : (window.plugins.toast.showShortCenter("再按一次退出游戏"), t.lastClickTime = Date.now())
-        },
-        !1)
-    },
-    t.PreLoaderConfigs = function() {
-        return __awaiter(this, void 0, void 0,
-        function() {
-            var t, e, n;
-            return __generator(this,
-            function(r) {
-                switch (r.label) {
-                case 0:
-                    return [4, RES.getResByUrl("resource/config/preloader_configs.json", null, this, RES.ResourceItem.TYPE_JSON)];
-                case 1:
-                    return t = r.sent(),
-                    e = t.data,
-                    n = function() {
-                        return __awaiter(this, void 0, void 0,
-                        function() {
-                            var t, r;
-                            return __generator(this,
-                            function(o) {
-                                switch (o.label) {
-                                case 0:
-                                    return 0 === e.length ? [2, Promise.resolve()] : (t = e.pop(), "xml" !== t.root ? [3, 2] : [4, config.xml.load(t.file)]);
-                                case 1:
-                                    return o.sent(),
-                                    n(),
-                                    [3, 4];
-                                case 2:
-                                    return "json" !== t.root ? [3, 4] : (r = t.file.toLocaleUpperCase()[0] + t.file.substr(1, t.file.length), [4, config[r].loadAsync()]);
-                                case 3:
-                                    o.sent(),
-                                    n(),
-                                    o.label = 4;
-                                case 4:
-                                    return [2]
-                                }
-                            })
-                        })
-                    },
-                    [4, n()];
-                case 2:
-                    return [2, r.sent()]
-                }
-            })
-        })
-    },
-    t.lastClickTime = 0,
-    t
-} ();
-__reflect(Core.prototype, "Core");
+    e
+} (AbstractEffectInfo);
+__reflect(Effect_185.prototype, "Effect_185");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -53143,29 +53006,221 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
-__extends = this && this.__extends ||
-function(t, e) {
-    function n() {
-        this.constructor = t
-    }
-    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
-    n.prototype = e.prototype,
-    t.prototype = new n
+__awaiter = this && this.__awaiter ||
+function(t, e, n, r) {
+    return new(n || (n = Promise))(function(o, i) {
+        function s(t) {
+            try {
+                _(r.next(t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(r["throw"](t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function _(t) {
+            t.done ? o(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((r = r.apply(t, e || [])).next())
+    })
 },
-Effect_576 = function(t) {
-    function e() {
-        var e = t.call(this) || this;
-        return e._argsNum = 2,
-        e
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return r([t, e])
+        }
     }
-    return __extends(e, t),
-    e.prototype.getInfo = function(t) {
-        return void 0 === t && (t = null),
-        t[0] + "回合内免疫低于" + t[1] + "的攻击伤害"
+    function r(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (o = 1, i && (s = i[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(i, n[1])).done) return s;
+            switch (i = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                i = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    _.label = n[1];
+                    break
+                }
+                if (6 === n[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(n);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            n = e.call(t, _)
+        } catch(r) {
+            n = [6, r],
+            i = 0
+        } finally {
+            o = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, i, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
     },
-    e
-} (AbstractEffectInfo);
-__reflect(Effect_576.prototype, "Effect_576");
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
+Core = function() {
+    function t() {}
+    return t.init = function() {
+        var t = this;
+        EngineHookManager.init(),
+        LoginManager2.init(),
+        TaomeeSDKManager.init(),
+        FestivalVersionController.setup(),
+        egret.TextField.default_fontFamily = "黑体",
+        PetUpdateCmdListener.start(),
+        OgreCmdListener.start(),
+        XTeamController.checkActive(),
+        ToolTipManager.setup(),
+        OnlineManager.getInstance().setup(),
+        SocketErrorManager.setup(),
+        PetManager.setup(),
+        ItemManager.setup(),
+        AwardManager.setup(),
+        ServerNotifyManager.setup(),
+        CjsUtil.init(),
+        UICjsUtil.init(),
+        LifeCycleManager.init(),
+        ChannelManager.init(),
+        TeamInfoManager.init();
+        for (var e in CommandID) CommandID[e] > 0 && SocketEncryptImpl.addCmdLabel(CommandID[e], e);
+        SoundManager.init(),
+        SystemBroadcastManager.init(),
+        SoundManager.loadSound().then(function() {
+            return GameInfo.isApp ? void SoundManager.playMusic() : void egret.lifecycle.stage.once(egret.TouchEvent.TOUCH_TAP,
+            function() {
+                if (!GameInfo.isApp && 1 == GameInfo.platform) {
+                    var t = document.documentElement,
+                    e = t.requestFullScreen || t.webkitRequestFullScreen || t.mozRequestFullScreen || t.msRequestFullscreen;
+                    "undefined" != typeof e && e && e.call(t)
+                }
+                SoundManager.playMusic()
+            },
+            t)
+        }),
+        this.onBackButton(),
+        this.initThridAPPInfo(),
+        "webgl" == egret.Capabilities.renderMode ? 0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【常规模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【常规模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【常规模式】") : "canvas" == egret.Capabilities.renderMode && (0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【兼容模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【兼容模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【兼容模式】"))
+    },
+    t.initThridAPPInfo = function() {
+        GameInfo.hasAlipayApp = !1,
+        GameInfo.hasWechatAPP = !1,
+        GameInfo.hasQQAPP = !1
+    },
+    t.onBackButton = function() {
+        var t = this;
+        document.addEventListener("backbutton",
+        function() {
+            Date.now() - t.lastClickTime < 1e3 ? (SoundManager.stopMusic(), navigator.app.exitApp()) : (window.plugins.toast.showShortCenter("再按一次退出游戏"), t.lastClickTime = Date.now())
+        },
+        !1)
+    },
+    t.PreLoaderConfigs = function() {
+        return __awaiter(this, void 0, void 0,
+        function() {
+            var t, e, n;
+            return __generator(this,
+            function(r) {
+                switch (r.label) {
+                case 0:
+                    return [4, RES.getResByUrl("resource/config/preloader_configs.json", null, this, RES.ResourceItem.TYPE_JSON)];
+                case 1:
+                    return t = r.sent(),
+                    e = t.data,
+                    n = function() {
+                        return __awaiter(this, void 0, void 0,
+                        function() {
+                            var t, r;
+                            return __generator(this,
+                            function(o) {
+                                switch (o.label) {
+                                case 0:
+                                    return 0 === e.length ? [2, Promise.resolve()] : (t = e.pop(), "xml" !== t.root ? [3, 2] : [4, config.xml.load(t.file)]);
+                                case 1:
+                                    return o.sent(),
+                                    n(),
+                                    [3, 4];
+                                case 2:
+                                    return "json" !== t.root ? [3, 4] : (r = t.file.toLocaleUpperCase()[0] + t.file.substr(1, t.file.length), [4, config[r].loadAsync()]);
+                                case 3:
+                                    o.sent(),
+                                    n(),
+                                    o.label = 4;
+                                case 4:
+                                    return [2]
+                                }
+                            })
+                        })
+                    },
+                    [4, n()];
+                case 2:
+                    return [2, r.sent()]
+                }
+            })
+        })
+    },
+    t.lastClickTime = 0,
+    t
+} ();
+__reflect(Core.prototype, "Core");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -59706,7 +59761,7 @@ SkillInfoTip = function() {
             t.markStr = o.join("\r"),
             t.showAdditionInfo(e, n)
         }
-        return r = t.show(n, !0, "", e ? e.id: 0),
+        return r = t.show(n, !0, "", e ? e.id: 0, !0, e ? e.skinId: 0),
         t.setPetInfoTip(e, n, r),
         r
     },
@@ -59731,43 +59786,44 @@ SkillInfoTip = function() {
             t.additionStr = t.additionStr
         }
     },
-    t.show = function(e, n, r, o, i) {
+    t.show = function(e, n, r, o, i, s) {
         void 0 === n && (n = !1),
         void 0 === r && (r = ""),
         void 0 === o && (o = 0),
-        void 0 === i && (i = !0);
-        var s = "";
-        if (r) s = r;
+        void 0 === i && (i = !0),
+        void 0 === s && (s = 0);
+        var a = "";
+        if (r) a = r;
         else {
-            var a, _, c, l = SkillXMLInfo.getName(e),
-            u = SkillXMLInfo.getCategory(e),
-            h = 0;
-            t._petinfo && (h = t._petinfo.catchTime),
-            0 != o && PetManager.isFriendSkillActivate(o, e, h) ? (_ = SkillXMLInfo.getFriendSideEffects(e), c = SkillXMLInfo.getFriendSideEffectArgs(e)) : (_ = SkillXMLInfo.getSideEffects(e), c = SkillXMLInfo.getSideEffectArgs(e));
-            var f = 0,
-            p = 0;
-            1e5 >= e && (f = SkillXMLInfo.movesMap[e].Priority, p = SkillXMLInfo.movesMap[e].MustHit),
-            a = 1 == u ? "#FF0000": 2 == u ? "#FF99FF": "#99ff00",
-            s = "<font color='#ffff00'>" + l + "</font>  <font color='" + a + "'>(" + SkillXMLInfo.getCategoryName(e) + ")</font>\r",
-            f > 0 ? s += "\r<font color='#40e3fb'>先制+" + f + "</font>\r": 0 > f && (s += "\r<font color='#40e3fb'>先制" + f + "</font>\r"),
-            p > 0 && (s += "\r<font color='#40e3fb'>必中</font>\r"),
-            "" != t.additionStr && null != t.additionStr && (s += "\r<font color='#00ffff'>" + t.additionStr + "</font>"),
-            n && t.markStr && "" != t.markStr ? s += "\r<font color='#00ffff'>" + t.markStr + "</font>": t.markStr = "";
-            for (var d = 0,
-            g = 0,
-            E = _; g < E.length; g++) {
-                var I = E[g];
-                if ("" != I) {
-                    var y = (1e6 + Number(I), EffectInfoManager.getArgsNum(Number(I))),
-                    m = EffectInfoManager.getInfo(Number(I), c.slice(d, d + y));
-                    d += y,
-                    s += "\r" + m
+            var _, c, l, u = SkillXMLInfo.getName(e, s),
+            h = SkillXMLInfo.getCategory(e),
+            f = 0;
+            t._petinfo && (f = t._petinfo.catchTime),
+            0 != o && PetManager.isFriendSkillActivate(o, e, f) ? (c = SkillXMLInfo.getFriendSideEffects(e), l = SkillXMLInfo.getFriendSideEffectArgs(e)) : (c = SkillXMLInfo.getSideEffects(e), l = SkillXMLInfo.getSideEffectArgs(e));
+            var p = 0,
+            d = 0;
+            1e5 >= e && (p = SkillXMLInfo.movesMap[e].Priority, d = SkillXMLInfo.movesMap[e].MustHit),
+            _ = 1 == h ? "#FF0000": 2 == h ? "#FF99FF": "#99ff00",
+            a = "<font color='#ffff00'>" + u + "</font>  <font color='" + _ + "'>(" + SkillXMLInfo.getCategoryName(e) + ")</font>\r",
+            p > 0 ? a += "\r<font color='#40e3fb'>先制+" + p + "</font>\r": 0 > p && (a += "\r<font color='#40e3fb'>先制" + p + "</font>\r"),
+            d > 0 && (a += "\r<font color='#40e3fb'>必中</font>\r"),
+            "" != t.additionStr && null != t.additionStr && (a += "\r<font color='#00ffff'>" + t.additionStr + "</font>"),
+            n && t.markStr && "" != t.markStr ? a += "\r<font color='#00ffff'>" + t.markStr + "</font>": t.markStr = "";
+            for (var g = 0,
+            E = 0,
+            I = c; E < I.length; E++) {
+                var y = I[E];
+                if ("" != y) {
+                    var m = (1e6 + Number(y), EffectInfoManager.getArgsNum(Number(y))),
+                    v = EffectInfoManager.getInfo(Number(y), l.slice(g, g + m));
+                    g += m,
+                    a += "\r" + v
                 }
             }
-            1 == SkillXMLInfo.getGpFtSkillType(e) && (s += "\r<font color='#33ff00'>组队时可以向己方任意目标使用</font>"),
-            SkillXMLInfo.getGpFtSkillAtkNum(e) > 1 && (s += "\r<font color='#33ff00'>组队时可以影响" + SkillXMLInfo.getGpFtSkillAtkNum(e) + "个目标</font>")
+            1 == SkillXMLInfo.getGpFtSkillType(e) && (a += "\r<font color='#33ff00'>组队时可以向己方任意目标使用</font>"),
+            SkillXMLInfo.getGpFtSkillAtkNum(e) > 1 && (a += "\r<font color='#33ff00'>组队时可以影响" + SkillXMLInfo.getGpFtSkillAtkNum(e) + "个目标</font>")
         }
-        return s
+        return a
     },
     t._tipTextList = [],
     t
@@ -65847,7 +65903,7 @@ PetAdvanceXMLInfo = function() {
             function(a) {
                 switch (a.label) {
                 case 0:
-                    return 1 == this.getAdvType(e) ? (Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得"), [2]) : (ModuleManager.destroyAllModule(), this._petArr[this._petArr.length - 1] != e ? [3, 2] : [4, config.xml.load("ActivityCenter")]);
+                    return 1 == this.getAdvType(e) ? (Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得"), [2]) : (ModuleManager.destroyAllModule(), this._petArr[this._petArr.length - 1] != e ? [3, 2] : [4, config.ActivityCenter.loadAsync()]);
                 case 1:
                     if (a.sent(), n = config.ActivityCenter.getItem(7), r = new Date(n.beginning.replace(/_/g, "/")).getTime(), o = new Date(n.ending.replace(/_/g, "/")).getTime(), i = SystemTimerManager.sysBJDate.getTime(), s = i >= r && o >= i) return ModuleManager.showModuleByID(110, {
                         moduleID: 187,
@@ -67448,6 +67504,84 @@ PetPropClass_300878 = function() {
     return t
 } ();
 __reflect(PetPropClass_300878.prototype, "PetPropClass_300878");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+PetPropClass_301020 = function() {
+    function t(t) {
+        255 == t.petInfo.ev_hp ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的体力学习力已满，无法注入哦！") : t.petInfo.ev_attack + 255 + t.petInfo.ev_sa + t.petInfo.ev_sd + t.petInfo.ev_sp + t.petInfo.ev_hp > 510 ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的学习力总值不能超过510，无法注入哦！") : SocketConnection.send(CommandID.USE_PET_ITEM_FULL_ABILITY_OF_STUDY, t.petInfo.catchTime, 5, 0, 4)
+    }
+    return t
+} ();
+__reflect(PetPropClass_301020.prototype, "PetPropClass_301020");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+PetPropClass_301021 = function() {
+    function t(t) {
+        255 == t.petInfo.ev_sd ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的特防学习力已满，无法注入哦！") : t.petInfo.ev_attack + 255 + t.petInfo.ev_sa + t.petInfo.ev_sd + t.petInfo.ev_sp + t.petInfo.ev_hp > 510 ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的学习力总值不能超过510，无法注入哦！") : SocketConnection.send(CommandID.USE_PET_ITEM_FULL_ABILITY_OF_STUDY, t.petInfo.catchTime, 4, 0, 4)
+    }
+    return t
+} ();
+__reflect(PetPropClass_301021.prototype, "PetPropClass_301021");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+PetPropClass_301022 = function() {
+    function t(t) {
+        255 == t.petInfo.ev_defence ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的防御学习力已满，无法注入哦！") : t.petInfo.ev_attack + 255 + t.petInfo.ev_sa + t.petInfo.ev_sd + t.petInfo.ev_sp + t.petInfo.ev_hp > 510 ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的学习力总值不能超过510，无法注入哦！") : SocketConnection.send(CommandID.USE_PET_ITEM_FULL_ABILITY_OF_STUDY, t.petInfo.catchTime, 2, 0, 4)
+    }
+    return t
+} ();
+__reflect(PetPropClass_301022.prototype, "PetPropClass_301022");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+PetPropClass_301023 = function() {
+    function t(t) {
+        255 == t.petInfo.ev_sp ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的速度学习力已满，无法注入哦！") : t.petInfo.ev_attack + 255 + t.petInfo.ev_sa + t.petInfo.ev_sd + t.petInfo.ev_sp + t.petInfo.ev_hp > 510 ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的学习力总值不能超过510，无法注入哦！") : SocketConnection.send(CommandID.USE_PET_ITEM_FULL_ABILITY_OF_STUDY, t.petInfo.catchTime, 5, 0, 4)
+    }
+    return t
+} ();
+__reflect(PetPropClass_301023.prototype, "PetPropClass_301023");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+PetPropClass_301024 = function() {
+    function t(t) {
+        255 == t.petInfo.ev_sa ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的特攻学习力已满，无法注入哦！") : t.petInfo.ev_attack + 255 + t.petInfo.ev_sa + t.petInfo.ev_sd + t.petInfo.ev_sp + t.petInfo.ev_hp > 510 ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的学习力总值不能超过510，无法注入哦！") : SocketConnection.send(CommandID.USE_PET_ITEM_FULL_ABILITY_OF_STUDY, t.petInfo.catchTime, 3, 0, 4)
+    }
+    return t
+} ();
+__reflect(PetPropClass_301024.prototype, "PetPropClass_301024");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+PetPropClass_301025 = function() {
+    function t(t) {
+        255 == t.petInfo.ev_attack ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的攻击学习力已满，无法注入哦！") : 255 + t.petInfo.ev_defence + t.petInfo.ev_sa + t.petInfo.ev_sd + t.petInfo.ev_sp + t.petInfo.ev_hp > 510 ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的学习力总值不能超过510，无法注入哦！") : SocketConnection.send(CommandID.USE_PET_ITEM_FULL_ABILITY_OF_STUDY, t.petInfo.catchTime, 1, 0, 4)
+    }
+    return t
+} ();
+__reflect(PetPropClass_301025.prototype, "PetPropClass_301025");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -71735,7 +71869,7 @@ PetSkinXMLInfo = function() {
     },
     t.getTypeCn = function(t) {
         if (isNaN(t)) return "经典";
-        var e = ["默认", "英雄", "史诗", "传说", "周年限定", "万圣限定", "中秋节限定", "春节限定", "圣诞节限定", "青春校园", "", "周年限定", "周年限定", "异元时空", "神话", "赛季限定", "古堡晚宴"];
+        var e = ["默认", "英雄", "史诗", "传说", "周年限定", "万圣限定", "中秋节限定", "春节限定", "圣诞节限定", "青春校园", "", "周年限定", "周年限定", "异元时空", "神话", "赛季限定", "古堡晚宴", "七夕限定", "限定"];
         return t >= e.length && console.error("未定义类型"),
         e[t]
     },

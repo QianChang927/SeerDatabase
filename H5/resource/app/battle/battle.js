@@ -3003,8 +3003,8 @@ FightOverController = function() {
         },
         1e3)
     },
-    t.onFightOver = function(t) {
-        if (FightManager.closeClock = !1, this.overData = new FightOverInfo(t.data), this.overData.winnerID == MainManager.actorID ? FightManager.isWin = !0 : FightManager.isWin = !1, this.isFightOver = !0, EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.FIGHT_RESULT, this.overData)), this.isEscape) return RemainHpManager.showChange(),
+    t.onFightOver = function(t, e) {
+        if (!t && e ? this.overData = e: this.overData = new FightOverInfo(t.data), FightManager.closeClock = !1, this.overData.winnerID == MainManager.actorID ? FightManager.isWin = !0 : FightManager.isWin = !1, this.isFightOver = !0, EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.FIGHT_RESULT, this.overData)), this.isEscape) return RemainHpManager.showChange(),
         void EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.FIGHT_CLOSE, {
             data: this.overData
         }));
@@ -3012,8 +3012,8 @@ FightOverController = function() {
         (!PetFightController.isPlaySkillMovie && !this.isCatch && !PetFightController.isUsingItem || this.isHaveSurrender) && (RemainHpManager.showChange(), EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.FIGHT_CLOSE, {
             data: this.overData
         })));
-        var e = new Date;
-        console.log("////////////////////////////////////////////////////////\r//\r//			" + e.getDate() + "-" + e.getHours() + ":" + e.getMinutes() + "  fight over data\r//\r////////////////////////////////////////////////////////")
+        var i = new Date;
+        console.log("////////////////////////////////////////////////////////\r//\r//			" + i.getDate() + "-" + i.getHours() + ":" + i.getMinutes() + "  fight over data\r//\r////////////////////////////////////////////////////////")
     },
     t.onEscapeFight = function(t) {
         this.isEscape = !0
@@ -3143,7 +3143,22 @@ PetFightController = function() {
         i = new FightStartInfo(e);
         FightUserInfo.reconenctinfo = i
     },
-    t.onReconnected = function(t) {},
+    t.onReconnected = function(t) {
+        KTool.getOnlineUsersForeverOrDailyVal([FightManager.enemyId, 3307],
+        function(t) {
+            if (!t) {
+                var e = new FightOverInfo(null);
+                e.isCanSave = !1,
+                e.maxH = 0,
+                e.totalH = 0,
+                e._reason = 1,
+                e._roundNum = 0,
+                e._type = 0,
+                e._winnerID = MainManager.actorID,
+                FightOverController.onFightOver(null, e)
+            }
+        })
+    },
     t.createMainUI = function() {
         this._mainPanel = new MainFightUi,
         this.petContainer = this._mainPanel.petContainer,
@@ -7271,7 +7286,7 @@ ToolBtnPanelObserver = function(t) {
         this.isCatch = FighterModelFactory.enemyMode.info.catchType > 0
     },
     e.prototype.setBtnAfterRoundChange = function() {
-        PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6 && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ && PetFightModel.type != PetFightModel.PEAK_JIHAD_LIMIT_AC || PetFightModel.status != PetFightModel.FIGHT_WITH_PLAYER || (PetFightController.roundTimes > PetFightController.violentValue && this.disableBtn(this.item_btn, this.item_btn_mask, !1), this.escapeAndsurrendertype = 1, PetFightController.roundTimes < PetFightController.surrenderValue ? this.disableBtn(this.btnEscape, this.btnEscape_mask, !1) : this.disableBtn(this.btnEscape, this.btnEscape_mask, !0))
+        PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6 && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_WILD && PetFightModel.type != PetFightModel.PEAK_JIHAD_LIMIT_AC || PetFightModel.status != PetFightModel.FIGHT_WITH_PLAYER || (PetFightController.roundTimes > PetFightController.violentValue && this.disableBtn(this.item_btn, this.item_btn_mask, !1), this.escapeAndsurrendertype = 1, PetFightController.roundTimes < PetFightController.surrenderValue ? this.disableBtn(this.btnEscape, this.btnEscape_mask, !1) : this.disableBtn(this.btnEscape, this.btnEscape_mask, !0))
     },
     e.prototype.resetOther = function() {
         for (var t = 0,
@@ -7283,7 +7298,7 @@ ToolBtnPanelObserver = function(t) {
                 if (PetFightModel.type == PetFightModel.PET_TRY_FIGHT) break;
                 if (PetFightModel.type == PetFightModel.BATTLE_LAB) break;
                 if (FightUserInfo.readyData.model == PetFightModel.QINGLONG_COMPLELETE_FIGHT) break;
-                if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) {
+                if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) {
                     if (PetFightController.roundTimes > PetFightController.violentValue && i.btn == this.item_btn) continue;
                     if (PetFightController.roundTimes < PetFightController.surrenderValue - 1 && i.btn == this.btnEscape) continue
                 }
@@ -7771,15 +7786,15 @@ RelationshipView = function() {
             var E = this._restraint.getChildByName("Image_arrow_0"),
             S = this._restraint.getChildByName("Image_words_0"),
             C = this._restraint.getChildByName("tx_0"),
-            k = TypeXMLInfo.getRelationsPow(o, n);
-            k = Math.round(k * _) / _;
-            var F, b = k.toString(),
+            F = TypeXMLInfo.getRelationsPow(o, n);
+            F = Math.round(F * _) / _;
+            var k, b = F.toString(),
             x = b.split(".")[1];
-            F = void 0 != x ? x.length + 1 : 1,
-            C.text = String(k.toFixed(F));
-            var T = I.indexOf(k);
+            k = void 0 != x ? x.length + 1 : 1,
+            C.text = String(F.toFixed(k));
+            var T = I.indexOf(F);
             S.source = "battle_imge_restraint_words_imge_" + T + "_png",
-            k > 1 ? (k > 2 ? E.source = "battle_imge_restraint_arrow_imge_4_png": E.source = "battle_imge_restraint_arrow_imge_3_png", C.textColor = w[1], C.strokeColor = M[1], ToolTipManager.add(S, "可造成额外伤害")) : 0 == k ? (C.textColor = w[3], C.strokeColor = M[3], E.source = "battle_imge_restraint_arrow_imge_0_png", ToolTipManager.add(S, "无法造成伤害")) : 1 > k ? (C.textColor = w[2], C.strokeColor = M[2], E.source = "battle_imge_restraint_arrow_imge_2_png", ToolTipManager.add(S, "造成伤害减少")) : 1 == k && (C.textColor = w[0], C.strokeColor = M[0], E.source = "battle_imge_restraint_arrow_imge_1_png", ToolTipManager.add(S, "可造成正常伤害"))
+            F > 1 ? (F > 2 ? E.source = "battle_imge_restraint_arrow_imge_4_png": E.source = "battle_imge_restraint_arrow_imge_3_png", C.textColor = w[1], C.strokeColor = M[1], ToolTipManager.add(S, "可造成额外伤害")) : 0 == F ? (C.textColor = w[3], C.strokeColor = M[3], E.source = "battle_imge_restraint_arrow_imge_0_png", ToolTipManager.add(S, "无法造成伤害")) : 1 > F ? (C.textColor = w[2], C.strokeColor = M[2], E.source = "battle_imge_restraint_arrow_imge_2_png", ToolTipManager.add(S, "造成伤害减少")) : 1 == F && (C.textColor = w[0], C.strokeColor = M[0], E.source = "battle_imge_restraint_arrow_imge_1_png", ToolTipManager.add(S, "可造成正常伤害"))
         }
     },
     t.destroy = function() {

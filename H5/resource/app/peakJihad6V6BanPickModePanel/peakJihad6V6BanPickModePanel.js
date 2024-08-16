@@ -28,37 +28,36 @@ function(e) {
             i._isJJ = !1,
             i._maxNum = 6,
             i._isShowLv = !0,
-            i._pretime = 0,
-            i._alltime = 0,
             i._curMode = e,
             i._isJJ = 3 == i._curMode ? !0 : !1,
             i._isShowLv = 2 == i._curMode || 3 == i._curMode ? !0 : !1,
-            i.skinName = Peakjihad3v3banpickmodeSkin,
+            i.skinName = "Peakjihad3v3banpickmodeSkin",
             i
         }
         return __extends(i, t),
         i.prototype.childrenCreated = function() {
             var e = this;
-            t.prototype.childrenCreated.call(this),
             this.adaptBgByScale(this.bg),
             PeakJihadController.isDraw = !1,
             this._rivalisdisableOther = !1;
-            var i = new Date;
-            this._startTime = i.getTime(),
-            this._pretime = i.getTime(),
+            var t = new Date;
+            this._startTime = t.getTime(),
+            this.timeTx.text = "30",
             this._statusTimer = new egret.Timer(1e3),
             this._statusTimer.addEventListener(egret.TimerEvent.TIMER, this.onStatusTimer, this),
+            this._isReconnect = !0,
             this._statusTimer.start(),
             KTool.getMultiValue([3306],
             function(t) {
                 e._fightMod = t[0],
                 e.initItem(),
                 e.initView(),
-                e.breaklineSynchronizedData(),
+                e.breakLineSynchronizedData(),
                 e.initEvent()
             })
         },
         i.prototype.initEvent = function() {
+            var e = this;
             SocketConnection.addCmdListener(45143, this.onrivalUserDisabledMyPet, this),
             SocketConnection.addCmdListener(42284, this.onTimeOutJingyong, this),
             SocketConnection.addCmdListener(42282, this.onTimeOutFirst, this),
@@ -67,16 +66,22 @@ function(e) {
             SocketConnection.addCmdListener(CommandID.NOTE_INVITE_TO_FIGHT, this.noteInviteToFight, this),
             SocketConnection.addCmdListener(CommandID.NOTE_READY_TO_FIGHT, this.noteInviteToFight, this),
             SocketConnection.addCmdListener(45148, this.onOverTimeQuit, this),
-            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breaklineSynchronizedData, this)
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT,
+            function() {
+                e._isReconnect = !0,
+                e.breakLineSynchronizedData(),
+                Alert.currAlert && Alert.clickCancel()
+            },
+            this)
         },
-        i.prototype.breaklineSynchronizedData = function() {
+        i.prototype.breakLineSynchronizedData = function() {
             var e = this;
             KTool.getMultiValue([3307],
             function(i) {
                 e._curStep = i[0],
                 e.synchroData(function() {
                     e.update(),
-                    6 == e._curStep && e.noteInviteToFight(null),
+                    6 == e._curStep && (t.prototype.onClose.call(e), Alarm.show("与服务器连接丢失，请重新进入游戏", core.gameUtil.ReloaderGame)),
                     0 == e._curStep && Alarm.show("战斗已结束！",
                     function() {
                         t.prototype.onClose.call(e)
@@ -84,14 +89,8 @@ function(e) {
                 })
             })
         },
-        i.prototype.onStatusTimer = function(e) {
-            this.stTimeTx()
-        },
-        i.prototype.stTimeTx = function() {
-            this._serverPassTime = SystemTimerManager.time - this._serverStartTime,
-            this._sectionsurplusTime = --this._curStepRequireTime,
-            this.timeTx.text = String(Math.floor(this._sectionsurplusTime)),
-            this._sectionsurplusTime < 0 && (this.timeTx.text = "0")
+        i.prototype.onStatusTimer = function() {
+            void 0 != this._curStepRequireTime && (this._isReconnect ? (this._isReconnect = !1, this._serverPassTime = Math.max(SystemTimerManager.sysBJDate.getTime() / 1e3 - this._serverStartTime, 1) - 1, this._curStepRequireTime -= this._serverPassTime, this._sectionsurplusTime = this._curStepRequireTime) : this._sectionsurplusTime = --this._curStepRequireTime, this.timeTx.text = String(Math.floor(this._sectionsurplusTime)), this._sectionsurplusTime < 0 && (this.timeTx.text = "0"))
         },
         i.prototype.onStartFightBtnClick = function(e) {
             e.currentTarget.name.split("_")[1]
@@ -200,16 +199,11 @@ function(e) {
             var e = this;
             KTool.getMultiValue([3309],
             function(t) {
-                var i = 0;
-                if (1 == t[0]) {
-                    if (e._rivalisdisableMy = !0, !e._rivalisdisableOther) return;
-                    for (var r = 0,
-                    n = 0; 6 > n; n++) {
-                        for (var a = e._myItemArr[n], o = 0, s = e._myPetdisabledCatchTimeArr; o < s.length; o++) {
-                            var h = s[o];
-                            a.catchTime == h && (3 > r && a.setStatusFrame(a.DISABLED), a.isCancel = !1, r++)
-                        }
-                        null != e._myPetdisabledCatchTimeArr && null != a && a.catchTime != e._myPetdisabledCatchTimeArr[0] && a.catchTime != e._myPetdisabledCatchTimeArr[1] && a.catchTime != e._myPetdisabledCatchTimeArr[2] && a.petInfo.level >= 100 && i++
+                if (t[0]) {
+                    if (e._rivalisdisableMy = !0, e._rivalisdisableOther) for (var i = 0,
+                    r = 0; 6 > r; r++) for (var n = e._myItemArr[r], a = 0, o = e._myPetdisabledCatchTimeArr; a < o.length; a++) {
+                        var s = o[a];
+                        n.catchTime == s && (3 > i && n.setStatusFrame(n.DISABLED), n.isCancel = !1, i++)
                     }
                 } else e._rivalisdisableMy = !1;
                 e.update2()
@@ -220,7 +214,16 @@ function(e) {
             KTool.getMultiValue([3307],
             function(t) {
                 e._curStep = t[0],
-                2 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(1)) : 3 == e._curStep && 0 == e._rivalisdisableMy ? e.showTitlePng(1) : 3 == e._curStep && 1 == e._rivalisdisableMy ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(2)) : 4 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(3)) : 5 == e._curStep && (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(4), e._sectionsurplusTime < 0 && (e.numbg.visible = !1, e.timeTx.visible = !1), e.touchEnabled = !1)
+                2 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(1)) : 3 == e._curStep && 0 == e._rivalisdisableMy ? (e._isReconnect && (e._curStepRequireTime = e._requireArr[2]), e.showTitlePng(1)) : 3 == e._curStep && 1 == e._rivalisdisableMy ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(2)) : 4 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(3)) : 5 == e._curStep && (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(4), e._sectionsurplusTime < 0 && (e.numbg.visible = !1, e.timeTx.visible = !1), e.touchEnabled = !1),
+                e._curStep >= 3 && KTool.getPlayerInfo([1045],
+                function(t) {
+                    e._serverStartTime = t[0]
+                }),
+                e._curStep >= 3 ? KTool.getPlayerInfo([1045],
+                function(t) {
+                    e._serverStartTime = t[0],
+                    e._isReconnect && e.onStatusTimer()
+                }) : e._isReconnect && e.onStatusTimer()
             })
         },
         i.prototype.initItem = function() {
@@ -451,7 +454,7 @@ function(e) {
             function(r) {
                 var n = null;
                 null != e && (n = e.data),
-                null != n && n.model == PetFightModel.PEAK_JIHAD_FIGHT_WITH_FIGURE ? (PetFightModel.type = PetFightModel.PEAK_JIHAD_3V3, PetFightModel.enemyId = Number(i._rivalUserID), PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : 5 == r || 5 == i._curStep || 6 == r || 6 == i._curStep ? (PetFightModel.type = PetFightModel.PEAK_JIHAD_3V3, PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : (Alarm.show("如果你在打巅峰6v6弹出此框是不对的！此时this._curStep为：" + i._curStep + "ready.model:" + n.model + ";对方3307为：" + r, null, i), t.prototype.onClose.call(i))
+                null != n && n.model == PetFightModel.PEAK_JIHAD_FIGHT_WITH_FIGURE ? (PetFightModel.type = PetFightModel.PEAK_JIHAD_3V3, PetFightModel.enemyId = Number(i._rivalUserID), PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : 5 == r || 5 == i._curStep || 6 == r || 6 == i._curStep ? (PetFightModel.type = PetFightModel.PEAK_JIHAD_3V3, PetFightModel.enemyId = Number(i._rivalUserID), PetFightModel.enemyName = i.name2.text, PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER, PetFightModel.mode = PetFightModel.MULTI_MODE, t.prototype.onClose.call(i)) : (Alarm.show("如果你在打巅峰6v6弹出此框是不对的！此时this._curStep为：" + i._curStep + "ready.model:" + n.model + ";对方3307为：" + r, null, i), t.prototype.onClose.call(i))
             })
         },
         i.prototype.onOverTimeQuit = function(e) {
@@ -466,6 +469,8 @@ function(e) {
                 3 == this._curStep && r.status == r.DEFAULT && r.setStatusFrame(r.NO_SET),
                 4 == this._curStep && r.status == r.PLAY && r.setStatusFrame(r.NO_SET)
             }
+            this._myPetPlayArr && (this._myPetPlayArr.length = 0),
+            this._disabledRivalPetArr && (this._disabledRivalPetArr.length = 0)
         },
         i.prototype.getItemByCatchTime = function(e, t) {
             for (var i = [], r = 0; r < e.length; r++) for (var n = e[r], a = 0, o = t; a < o.length; a++) {
@@ -503,23 +508,23 @@ function(e) {
                 t._disabledRivalCatchTimeArr = [],
                 t._defaultCatchTimeArr = [],
                 t._myPetPlayCatchTimeArr = [];
-                for (var r = 0; 3 > r; r++) t._myPetdisabledCatchTimeArr.push(i[r]),
+                for (var r = 0; 2 > r; r++) t._myPetdisabledCatchTimeArr.push(i[r]),
                 t._disabledRivalCatchTimeArr.push(i[r + 9]);
                 t._defaultCatchTimeArr.push(i[3]);
                 for (var n = 0; 5 > n; n++) t._myPetPlayCatchTimeArr.push(i[4 + n]);
                 t.clearLocalStatus(t._rivalItemArr);
-                for (var a = t.getItemBypetId(t._rivalItemArr, t._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
+                for (var a = t.getItemByCatchTime(t._rivalItemArr, t._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
                     var h = s[o];
-                    null != h && h.setStatusFrame(h.DISABLED)
+                    null != h && h.status != h.DISABLED && h.setStatusFrame(h.DISABLED)
                 }
                 t.clearLocalStatus(t._myItemArr);
                 var l = t.getItemByCatchTime(t._myItemArr, t._defaultCatchTimeArr),
                 u = l[0];
-                null != u && u.setStatusFrame(u.DEFAULT),
+                null != u && u.status != u.DEFAULT && u.setStatusFrame(u.DEFAULT),
                 t.clearLocalStatus(t._myItemArr);
-                for (var c = t.getItemByCatchTime(t._myItemArr, t._myPetPlayCatchTimeArr), m = 0, _ = c; m < _.length; m++) {
-                    var d = _[m];
-                    null != d && d.setStatusFrame(d.PLAY)
+                for (var c = t.getItemByCatchTime(t._myItemArr, t._myPetPlayCatchTimeArr), _ = 0, m = c; _ < m.length; _++) {
+                    var d = m[_];
+                    null != d && d.status != d.PLAY && d.setStatusFrame(d.PLAY)
                 }
                 null != e && e()
             })
@@ -528,7 +533,7 @@ function(e) {
             null != this._statusTimer && (this._statusTimer.stop(), this._statusTimer.removeEventListener(egret.TimerEvent.TIMER, this.onStatusTimer, this), this._statusTimer = null),
             this._curStep = 0,
             SocketConnection.removeAll(this),
-            EventManager.removeEventListener(SocketEvent.SOCKETRECONNECT, this.breaklineSynchronizedData, this),
+            EventManager.removeEventListener(SocketEvent.SOCKETRECONNECT, this.breakLineSynchronizedData, this),
             this.clearPet(),
             this._disabledRivalPetArr = null,
             this._myPetPlayArr = null,
@@ -572,28 +577,25 @@ function(e) {
             i._requireArr = [0, 0, 30, 20, 20, 0],
             i._maxNum = 12,
             i._isShowLv = !0,
-            i._pretime = 0,
-            i._alltime = 0,
             i._curMode = e,
             i._isJJ = 3 == i._curMode ? !0 : !1,
             i._isShowLv = 2 == i._curMode || 3 == i._curMode ? !0 : !1,
-            i.skinName = Peakjihad6v6banpickmodeSkin,
+            i.skinName = "Peakjihad6v6banpickmodeSkin",
             i
         }
         return __extends(i, t),
         i.prototype.childrenCreated = function() {
             var e = this;
-            t.prototype.childrenCreated.call(this),
             PeakJihadController.isDraw = !1,
             this._curModeFoverId = this._isJJ ? PeakJihadController.levelForever: PeakJihadController.wildlevelForever,
             this.adaptBgByScale(this.bg),
             this._rivalisdisableOther = !1;
-            var i = new Date;
-            this._startTime = i.getTime(),
-            this._pretime = i.getTime(),
+            var t = new Date;
+            this._startTime = t.getTime(),
             this.timeTx.text = "30",
             this._statusTimer = new egret.Timer(1e3),
             this._statusTimer.addEventListener(egret.TimerEvent.TIMER, this.onStatusTimer, this),
+            this._isReconnect = !0,
             this._statusTimer.start(),
             KTool.getMultiValue([3306],
             function(t) {
@@ -605,6 +607,7 @@ function(e) {
             })
         },
         i.prototype.initEvent = function() {
+            var e = this;
             SocketConnection.addCmdListener(45143, this.onrivalUserDisabledMyPet, this),
             SocketConnection.addCmdListener(42284, this.onTimeOutJingyong, this),
             SocketConnection.addCmdListener(42282, this.onTimeOutFirst, this),
@@ -613,7 +616,13 @@ function(e) {
             SocketConnection.addCmdListener(CommandID.NOTE_INVITE_TO_FIGHT, this.noteInviteToFight, this),
             SocketConnection.addCmdListener(CommandID.NOTE_READY_TO_FIGHT, this.noteInviteToFight, this),
             SocketConnection.addCmdListener(45148, this.onOverTimeQuit, this),
-            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT, this.breakLineSynchronizedData, this)
+            EventManager.addEventListener(SocketEvent.SOCKETRECONNECT,
+            function() {
+                e._isReconnect = !0,
+                e.breakLineSynchronizedData(),
+                Alert.currAlert && Alert.clickCancel()
+            },
+            this)
         },
         i.prototype.breakLineSynchronizedData = function() {
             var e = this;
@@ -622,7 +631,7 @@ function(e) {
                 e._curStep = i[0],
                 e.synchroData(function() {
                     e.update(),
-                    6 == e._curStep && e.noteInviteToFight(null),
+                    6 == e._curStep && (t.prototype.onClose.call(e), Alarm.show("与服务器连接丢失，请重新进入游戏", core.gameUtil.ReloaderGame)),
                     0 == e._curStep && Alarm.show("战斗已结束！",
                     function() {
                         t.prototype.onClose.call(e)
@@ -630,14 +639,8 @@ function(e) {
                 })
             })
         },
-        i.prototype.onStatusTimer = function(e) {
-            this.stTimeTx()
-        },
-        i.prototype.stTimeTx = function() {
-            this._serverPassTime = Math.max(SystemTimerManager.time - this._serverStartTime, 1),
-            this._sectionsurplusTime = --this._curStepRequireTime,
-            this.timeTx.text = String(Math.floor(this._sectionsurplusTime)),
-            this._sectionsurplusTime < 0 && (this.timeTx.text = "0")
+        i.prototype.onStatusTimer = function() {
+            void 0 != this._curStepRequireTime && (this._isReconnect ? (this._isReconnect = !1, this._serverPassTime = Math.max(SystemTimerManager.sysBJDate.getTime() / 1e3 - this._serverStartTime, 1) - 1, this._curStepRequireTime -= this._serverPassTime, this._sectionsurplusTime = this._curStepRequireTime) : this._sectionsurplusTime = --this._curStepRequireTime, this.timeTx.text = String(Math.floor(this._sectionsurplusTime)), this._sectionsurplusTime < 0 && (this.timeTx.text = "0"))
         },
         i.prototype.clickHandle = function(e) {
             var i = this;
@@ -741,9 +744,8 @@ function(e) {
             KTool.getMultiValue([3309],
             function(t) {
                 var i = 0;
-                if (1 == t[0]) {
-                    if (e._rivalisdisableMy = !0, !e._rivalisdisableOther) return;
-                    for (var r = 0,
+                if (t[0]) {
+                    if (e._rivalisdisableMy = !0, e._rivalisdisableOther) for (var r = 0,
                     n = 0; n < PetManager.allInfos.length; n++) {
                         for (var a = e._myItemArr[n], o = 0, s = e._myPetdisabledCatchTimeArr; o < s.length; o++) {
                             var h = s[o];
@@ -761,11 +763,12 @@ function(e) {
             KTool.getMultiValue([3307],
             function(t) {
                 e._curStep = t[0],
-                2 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(1)) : 3 == e._curStep && 0 == e._rivalisdisableMy ? e.showTitlePng(1) : 3 == e._curStep && 1 == e._rivalisdisableMy ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(2)) : 4 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(3)) : 5 == e._curStep && (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(4), e._sectionsurplusTime < 0 && (e.numbg.visible = !1, e.timeTx.visible = !1), e.touchEnabled = !1),
-                e._curStep >= 3 && KTool.getPlayerInfo([1045],
+                2 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(1)) : 3 == e._curStep && 0 == e._rivalisdisableMy ? (e._isReconnect && (e._curStepRequireTime = e._requireArr[2]), e.showTitlePng(1)) : 3 == e._curStep && 1 == e._rivalisdisableMy ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(2)) : 4 == e._curStep ? (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(3)) : 5 == e._curStep && (e._curStepRequireTime = e._requireArr[e._curStep], e.showTitlePng(4), e._sectionsurplusTime < 0 && (e.numbg.visible = !1, e.timeTx.visible = !1), e.touchEnabled = !1),
+                e._curStep >= 3 ? KTool.getPlayerInfo([1045],
                 function(t) {
-                    e._serverStartTime = t[0]
-                })
+                    e._serverStartTime = t[0],
+                    e._isReconnect && e.onStatusTimer()
+                }) : e._isReconnect && e.onStatusTimer()
             })
         },
         i.prototype.showTitlePng = function(e) {
@@ -1027,6 +1030,8 @@ function(e) {
                 3 == this._curStep && r.status == r.DEFAULT && r.setStatusFrame(r.NO_SET),
                 4 == this._curStep && r.status == r.PLAY && r.setStatusFrame(r.NO_SET)
             }
+            this._myPetPlayArr && (this._myPetPlayArr.length = 0),
+            this._disabledRivalPetArr && (this._disabledRivalPetArr.length = 0)
         },
         i.prototype.getItemByCatchTime = function(e, t) {
             for (var i = [], r = 0; r < e.length; r++) for (var n = e[r], a = 0, o = t; a < o.length; a++) {
@@ -1069,18 +1074,18 @@ function(e) {
                 t._defaultCatchTimeArr.push(i[3]);
                 for (var n = 0; 5 > n; n++) t._myPetPlayCatchTimeArr.push(i[4 + n]);
                 t.clearLocalStatus(t._rivalItemArr);
-                for (var a = t.getItemBypetId(t._rivalItemArr, t._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
+                for (var a = t.getItemByCatchTime(t._rivalItemArr, t._disabledRivalCatchTimeArr), o = 0, s = a; o < s.length; o++) {
                     var h = s[o];
-                    null != h && h.setStatusFrame(h.DISABLED)
+                    null != h && h.status != h.DISABLED && h.setStatusFrame(h.DISABLED)
                 }
                 t.clearLocalStatus(t._myItemArr);
                 var l = t.getItemByCatchTime(t._myItemArr, t._defaultCatchTimeArr),
                 u = l[0];
-                null != u && u.setStatusFrame(u.DEFAULT),
+                null != u && u.status != u.DEFAULT && u.setStatusFrame(u.DEFAULT),
                 t.clearLocalStatus(t._myItemArr);
-                for (var c = t.getItemByCatchTime(t._myItemArr, t._myPetPlayCatchTimeArr), m = 0, _ = c; m < _.length; m++) {
-                    var d = _[m];
-                    null != d && d.setStatusFrame(d.PLAY)
+                for (var c = t.getItemByCatchTime(t._myItemArr, t._myPetPlayCatchTimeArr), _ = 0, m = c; _ < m.length; _++) {
+                    var d = m[_];
+                    null != d && d.status != d.PLAY && d.setStatusFrame(d.PLAY)
                 }
                 null != e && e()
             })

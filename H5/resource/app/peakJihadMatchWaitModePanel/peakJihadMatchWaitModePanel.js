@@ -32,7 +32,7 @@ function(t) {
             default:
                 i._fightMod = 2
             }
-            return i.skinName = PeakjihadmatchwaitmodeSkin,
+            return i.skinName = "PeakjihadmatchwaitmodeSkin",
             i
         }
         return __extends(e, t),
@@ -57,7 +57,7 @@ function(t) {
             this.initCmdEvent(),
             EventManager.addEventListener(SocketEvent.SOCKETRECONNECT,
             function() {
-                e.onClose()
+                e.breakLineSynchronizedData()
             },
             this),
             ImageButtonUtil.add(this.imgBtnCancel, this._onClickImageTouch, this)
@@ -73,9 +73,9 @@ function(t) {
             this.timePast++,
             this.txt.text = "匹配对手中…" + this.timePast + "s"
         },
-        e.prototype.breaklineSynchronizedData = function() {
+        e.prototype.breakLineSynchronizedData = function() {
             var t = this;
-            KTool.getMultiValue([1046],
+            KTool.getMultiValue([3307, 1046],
             function(e) {
                 t._curStep = e[0],
                 1 == t._curStep && 1 == e[1] ? SocketConnection.addCmdListener(45141, t.onMatchNotificationPacket, t) : 2 == t._curStep && (1 == t._fightMod ? ModuleManager.hideModule("peakJihad3V3BanPickModePanel") : ModuleManager.hideModule("peakJihad6V6BanPickModePanel"), t.enterFight())
@@ -140,7 +140,6 @@ function(t) {
             clearTimeout(this._timeoutId),
             this._aniXunHuan.dispose(),
             this._aniChenggong.dispose(),
-            ImageButtonUtil.removeAll(this),
             t.prototype.destroy.call(this)
         },
         e

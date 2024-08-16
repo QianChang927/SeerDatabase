@@ -96,7 +96,7 @@ function(t) {
             this),
             ImageButtonUtil.add(this.imgSkin,
             function() {
-                AwardManager.ShowTmpPetSkinDiaolg(642)
+                BubblerManager.getInstance().showText("都市漫游·蒂小朵")
             },
             this)
         },

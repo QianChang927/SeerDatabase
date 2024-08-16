@@ -4881,8 +4881,8 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsPoolSkin.exml"] = window.Pe
     i.grpVote_i = function() {
         var e = new eui.Group;
         return this.grpVote = e,
-        e.left = 190,
-        e.right = 33,
+        e.horizontalCenter = 78.5,
+        e.width = 913,
         e.y = 64,
         e.elementsContent = [this._voteList_i(), this.imgBtnVote_i(), this.imgeBtnResult_i(), this.imgTimebg_i(), this.txTime_i(), this.imgEmpty_i()],
         e

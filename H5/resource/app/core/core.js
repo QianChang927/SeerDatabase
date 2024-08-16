@@ -4328,7 +4328,7 @@ SkillNameReplaceXmlInfo = function() {
     return t.setup = function() {
         var t = this;
         return new Promise(function(e, n) {
-            var r = RES.getRes("move_change_json").Moves,
+            var r = RES.getRes("move_change_json").Move,
             o = r.Moves;
             t.replaceInfos = new HashMap;
             for (var i, s = 0,
@@ -17271,11 +17271,23 @@ MainManager = function() {
         configurable: !0
     }),
     t.setup = function(e) {
-        t._actorInfo = new UserInfo,
-        UserInfo.setForLoginInfo(t._actorInfo, e),
-        SocketConnection.mainSocket.userID = t._actorInfo.userID,
-        SystemTimerManager.queryTime(),
-        ServerCloseNoticeController.getInstance().setup()
+        return __awaiter(this, void 0, void 0,
+        function() {
+            return __generator(this,
+            function(n) {
+                switch (n.label) {
+                case 0:
+                    return t._actorInfo = new UserInfo,
+                    UserInfo.setForLoginInfo(t._actorInfo, e),
+                    SocketConnection.mainSocket.userID = t._actorInfo.userID,
+                    [4, SystemTimerManager.queryTime()];
+                case 1:
+                    return n.sent(),
+                    ServerCloseNoticeController.getInstance().setup(),
+                    [2]
+                }
+            })
+        })
     },
     t.loadSeer = function() {
         return __awaiter(this, void 0, void 0,
@@ -20496,15 +20508,28 @@ OnlineManager = function() {
         this.back2Login()
     },
     t.prototype.reLoginSuc = function() {
-        console.log("reConnectSuc"),
-        LoadingManager.instance.hideloading(),
-        this.loginsuc = !0,
-        this.reconnected = !0,
-        LevelManager.root.touchEnabled = LevelManager.root.touchChildren = !0,
-        EventManager.dispatchEvent(new egret.Event(SocketEvent.SOCKETRECONNECT)),
-        SystemTimerManager.getsession(),
-        this.battleReConnect(),
-        SocketConnection.mainSocket.removeEventListener(SocketErrorEvent.ERROR, this.reLoginOnError, this)
+        return __awaiter(this, void 0, void 0,
+        function() {
+            return __generator(this,
+            function(t) {
+                switch (t.label) {
+                case 0:
+                    return console.log("reConnectSuc"),
+                    LoadingManager.instance.hideloading(),
+                    this.loginsuc = !0,
+                    this.reconnected = !0,
+                    LevelManager.root.touchEnabled = LevelManager.root.touchChildren = !0,
+                    [4, SystemTimerManager.queryTime()];
+                case 1:
+                    return t.sent(),
+                    EventManager.dispatchEvent(new egret.Event(SocketEvent.SOCKETRECONNECT)),
+                    SystemTimerManager.getsession(),
+                    this.battleReConnect(),
+                    SocketConnection.mainSocket.removeEventListener(SocketErrorEvent.ERROR, this.reLoginOnError, this),
+                    [2]
+                }
+            })
+        })
     },
     t.prototype.battleReConnect = function(t) {
         void 0 === t && (t = null),
@@ -20552,16 +20577,31 @@ OnlineManager = function() {
         function() {
             return __generator(this,
             function(e) {
-                return SocketConnection.mainSocket.removeEventListener(SocketErrorEvent.ERROR, this.onError, this),
-                SocketConnection.removeCmdListener(CommandID.LOGIN_IN, this.onLogin, this),
-                this.loginsuc = !0,
-                this.tmploginsucdata = t.data,
-                egret.localStorage.setItem("last_user_name", MainManager.actorInfo.nick),
-                LevelManager.root.touchEnabled = LevelManager.root.touchChildren = !0,
-                LoginManager.destroy(),
-                this.relogin ? (SystemTimerManager.queryTime(), SystemTimerManager.getsession(), MainManager.setup(this.tmploginsucdata), LoginManager2.currUserData && (LoginManager2.currUserData.nick = MainManager.actorInfo.nick, LoginManager2.historyUserData = LoginManager2.currUserData, LoginManager2.flushUserLoginData()), this.tmploginsucdata = null, this.controllerInit()) : EventManager.addEventListener("LoginCompeted", this.zipLoadComplete, this),
-                EventManager.dispatchEventWith(LoginEvent.GAME_LOGIN_SUCCESS),
-                [2]
+                switch (e.label) {
+                case 0:
+                    return SocketConnection.mainSocket.removeEventListener(SocketErrorEvent.ERROR, this.onError, this),
+                    SocketConnection.removeCmdListener(CommandID.LOGIN_IN, this.onLogin, this),
+                    this.loginsuc = !0,
+                    this.tmploginsucdata = t.data,
+                    egret.localStorage.setItem("last_user_name", MainManager.actorInfo.nick),
+                    LevelManager.root.touchEnabled = LevelManager.root.touchChildren = !0,
+                    LoginManager.destroy(),
+                    this.relogin ? [4, SystemTimerManager.queryTime()] : [3, 2];
+                case 1:
+                    return e.sent(),
+                    SystemTimerManager.getsession(),
+                    MainManager.setup(this.tmploginsucdata),
+                    LoginManager2.currUserData && (LoginManager2.currUserData.nick = MainManager.actorInfo.nick, LoginManager2.historyUserData = LoginManager2.currUserData, LoginManager2.flushUserLoginData()),
+                    this.tmploginsucdata = null,
+                    this.controllerInit(),
+                    [3, 3];
+                case 2:
+                    EventManager.addEventListener("LoginCompeted", this.zipLoadComplete, this),
+                    e.label = 3;
+                case 3:
+                    return EventManager.dispatchEventWith(LoginEvent.GAME_LOGIN_SUCCESS),
+                    [2]
+                }
             })
         })
     },
@@ -31589,6 +31629,117 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
+__awaiter = this && this.__awaiter ||
+function(t, e, n, r) {
+    return new(n || (n = Promise))(function(o, i) {
+        function s(t) {
+            try {
+                _(r.next(t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(r["throw"](t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function _(t) {
+            t.done ? o(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((r = r.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return r([t, e])
+        }
+    }
+    function r(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (o = 1, i && (s = i[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(i, n[1])).done) return s;
+            switch (i = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                i = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    _.label = n[1];
+                    break
+                }
+                if (6 === n[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(n);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            n = e.call(t, _)
+        } catch(r) {
+            n = [6, r],
+            i = 0
+        } finally {
+            o = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, i, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
 SystemTimerManager = function() {
     function t() {}
     return t.getsession = function() {
@@ -31600,17 +31751,26 @@ SystemTimerManager = function() {
         })
     },
     t.queryTime = function() {
-        SocketConnection.mainSocket.connected && SocketConnection.sendByQueue(CommandID.SYSTEM_TIME, [],
-        function(e) {
-            void 0 != t.callbacktimeout && egret.clearTimeout(t.callbacktimeout);
-            var n = e.data;
-            n.position = 0;
-            var r = new SystemTimeInfo(e.data),
-            o = t.sysBJDate.getTime() / 1e3;
-            t.setTime(r.time),
-            t.hasUpdate && SocketConnection.send(CommandID.SYSTEM_TIME_CHECK, o),
-            t.hasUpdate || t.getsession(),
-            t.hasUpdate = !0
+        return __awaiter(this, void 0, void 0,
+        function() {
+            return __generator(this,
+            function(e) {
+                return [2, new Promise(function(e, n) {
+                    return SocketConnection.mainSocket.connected ? void SocketConnection.sendByQueue(CommandID.SYSTEM_TIME, [],
+                    function(n) {
+                        void 0 != t.callbacktimeout && egret.clearTimeout(t.callbacktimeout);
+                        var r = n.data;
+                        r.position = 0;
+                        var o = new SystemTimeInfo(n.data),
+                        i = t.sysBJDate.getTime() / 1e3;
+                        t.setTime(o.time),
+                        t.hasUpdate && SocketConnection.send(CommandID.SYSTEM_TIME_CHECK, i),
+                        t.hasUpdate || t.getsession(),
+                        t.hasUpdate = !0,
+                        e()
+                    }) : void n()
+                })]
+            })
         })
     },
     t.setTime = function(e) {
@@ -31628,15 +31788,27 @@ SystemTimerManager = function() {
         SocketConnection.mainSocket.close()
     },
     t.onTimer = function(e) {
-        if (t._sysTime = t._baseSysTime + (egret.getTimer() - t._updateInterval) / 1e3, t.heartbeattime++, t.getsessiontime++, 300 == t.getsessiontime && t.getsession(), 3 == t.heartbeattime) {
-            if (!SocketConnection.mainSocket.connected) return void(t.heartbeattime = 0);
-            t.queryTime()
-        }
-        for (var n = 0,
-        r = t._tickFun; n < r.length; n++) {
-            var o = r[n];
-            o()
-        }
+        return __awaiter(this, void 0, void 0,
+        function() {
+            var e, n, r;
+            return __generator(this,
+            function(o) {
+                switch (o.label) {
+                case 0:
+                    return t._sysTime = t._baseSysTime + (egret.getTimer() - t._updateInterval) / 1e3,
+                    t.heartbeattime++,
+                    t.getsessiontime++,
+                    300 == t.getsessiontime && t.getsession(),
+                    3 != t.heartbeattime ? [3, 2] : SocketConnection.mainSocket.connected ? [4, t.queryTime()] : (t.heartbeattime = 0, [2]);
+                case 1:
+                    o.sent(),
+                    o.label = 2;
+                case 2:
+                    for (e = 0, n = t._tickFun; e < n.length; e++)(r = n[e])();
+                    return [2]
+                }
+            })
+        })
     },
     Object.defineProperty(t, "time", {
         get: function() {
@@ -34513,7 +34685,7 @@ AutoOpenDailySignNationalDay2023 = function(t) {
         e = new Date(this.item.startTime).getTime(),
         n = SystemTimerManager.sysBJDate.getTime(),
         r = Math.ceil((n - e) / 1e3 / 60 / 60 / 24);
-        7 >= r ? KTool.getBitSet([ + this.item.param1],
+        14 >= r ? KTool.getBitSet([ + this.item.param1],
         function(e) {
             var n = !e[0];
             n ? t.openPanel() : t.next()
@@ -36910,7 +37082,7 @@ Alert = function(t) {
         var e = t.call(this) || this;
         return e.percentHeight = 100,
         e.percentWidth = 100,
-        e.skinName = AlertuiSkin,
+        e.skinName = "AlertuiSkin",
         e
     }
     return __extends(e, t),
@@ -42888,7 +43060,13 @@ UserInfo = function(t) {
         t.tigerFightScore = e.readUnsignedInt(),
         t.crackCupTeamId = e.readUnsignedInt(),
         t.lordOfWarTeamId = e.readUnsignedInt(),
-        t.nickBg = e.readUnsignedInt() || 33
+        t.nickBg = e.readUnsignedInt() || 33,
+        e.readUnsignedInt(),
+        e.readUnsignedInt(),
+        e.readUnsignedInt(),
+        e.readUnsignedInt(),
+        e.readUnsignedInt(),
+        e.readUnsignedInt()
     },
     Object.defineProperty(e.prototype, "formatNick", {
         get: function() {
@@ -67512,7 +67690,7 @@ function(t, e, n) {
 },
 PetPropClass_301020 = function() {
     function t(t) {
-        255 == t.petInfo.ev_hp ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的体力学习力已满，无法注入哦！") : t.petInfo.ev_attack + 255 + t.petInfo.ev_sa + t.petInfo.ev_sd + t.petInfo.ev_sp + t.petInfo.ev_hp > 510 ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的学习力总值不能超过510，无法注入哦！") : SocketConnection.send(CommandID.USE_PET_ITEM_FULL_ABILITY_OF_STUDY, t.petInfo.catchTime, 5, 0, 4)
+        255 == t.petInfo.ev_hp ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的体力学习力已满，无法注入哦！") : t.petInfo.ev_attack + 255 + t.petInfo.ev_sa + t.petInfo.ev_sd + t.petInfo.ev_sp + t.petInfo.ev_hp > 510 ? Alarm.show("你的<font color='#ff0000'>" + PetXMLInfo.getName(t.petInfo.id) + "</font>的学习力总值不能超过510，无法注入哦！") : SocketConnection.send(CommandID.USE_PET_ITEM_FULL_ABILITY_OF_STUDY, t.petInfo.catchTime, 0, 0, 4)
     }
     return t
 } ();

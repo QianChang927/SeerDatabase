@@ -310,15 +310,15 @@ function(e) {
                         [4, e.EnergyResearchStationManager.getExchangeNum()];
                     case 2:
                         return t = a.sent(),
-                        this.monthNum.text = "本期限兑：" + Math.min(50, t) + "/50",
+                        this.monthNum.text = "本期限兑：" + Math.min(150, t) + "/150",
                         KTool.getMultiValue([e.EnergyResearchStationManager.dailyExchangeNum],
                         function(e) {
                             r.dailyNum.text = "今日限兑：" + Math.min(20, e[0]) + "/20",
                             DisplayUtil.setEnabled(r.go, e[0] < 20, !0)
                         }),
                         n = ItemManager.getNumByID(1),
-                        DisplayUtil.setEnabled(this.buy1, n >= 1e5 && Math.max(50 - t, 0) >= 1, !0),
-                        DisplayUtil.setEnabled(this.buy10, n >= 1e6 && Math.max(50 - t, 0) >= 10, !0),
+                        DisplayUtil.setEnabled(this.buy1, n >= 1e5 && Math.max(150 - t, 0) >= 1, !0),
+                        DisplayUtil.setEnabled(this.buy10, n >= 1e6 && Math.max(150 - t, 0) >= 10, !0),
                         [4, e.EnergyResearchStationManager.getLockArr()];
                     case 3:
                         return a.sent(),

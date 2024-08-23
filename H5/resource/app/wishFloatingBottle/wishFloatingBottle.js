@@ -155,14 +155,14 @@ function(t, e) {
 __awaiter = this && this.__awaiter ||
 function(t, e, i, n) {
     return new(i || (i = Promise))(function(s, o) {
-        function a(t) {
+        function r(t) {
             try {
                 h(n.next(t))
             } catch(e) {
                 o(e)
             }
         }
-        function r(t) {
+        function a(t) {
             try {
                 h(n["throw"](t))
             } catch(e) {
@@ -172,7 +172,7 @@ function(t, e, i, n) {
         function h(t) {
             t.done ? s(t.value) : new i(function(e) {
                 e(t.value)
-            }).then(a, r)
+            }).then(r, a)
         }
         h((n = n.apply(t, e || [])).next())
     })
@@ -187,11 +187,11 @@ function(t, e) {
     function n(i) {
         if (s) throw new TypeError("Generator is already executing.");
         for (; h;) try {
-            if (s = 1, o && (a = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(a = a.call(o, i[1])).done) return a;
-            switch (o = 0, a && (i = [0, a.value]), i[0]) {
+            if (s = 1, o && (r = o[2 & i[0] ? "return": i[0] ? "throw": "next"]) && !(r = r.call(o, i[1])).done) return r;
+            switch (o = 0, r && (i = [0, r.value]), i[0]) {
             case 0:
             case 1:
-                a = i;
+                r = i;
                 break;
             case 4:
                 return h.label++,
@@ -209,25 +209,25 @@ function(t, e) {
                 h.trys.pop();
                 continue;
             default:
-                if (a = h.trys, !(a = a.length > 0 && a[a.length - 1]) && (6 === i[0] || 2 === i[0])) {
+                if (r = h.trys, !(r = r.length > 0 && r[r.length - 1]) && (6 === i[0] || 2 === i[0])) {
                     h = 0;
                     continue
                 }
-                if (3 === i[0] && (!a || i[1] > a[0] && i[1] < a[3])) {
+                if (3 === i[0] && (!r || i[1] > r[0] && i[1] < r[3])) {
                     h.label = i[1];
                     break
                 }
-                if (6 === i[0] && h.label < a[1]) {
-                    h.label = a[1],
-                    a = i;
+                if (6 === i[0] && h.label < r[1]) {
+                    h.label = r[1],
+                    r = i;
                     break
                 }
-                if (a && h.label < a[2]) {
-                    h.label = a[2],
+                if (r && h.label < r[2]) {
+                    h.label = r[2],
                     h.ops.push(i);
                     break
                 }
-                a[2] && h.ops.pop(),
+                r[2] && h.ops.pop(),
                 h.trys.pop();
                 continue
             }
@@ -236,7 +236,7 @@ function(t, e) {
             i = [6, n],
             o = 0
         } finally {
-            s = a = 0
+            s = r = 0
         }
         if (5 & i[0]) throw i[1];
         return {
@@ -244,24 +244,24 @@ function(t, e) {
             done: !0
         }
     }
-    var s, o, a, r, h = {
+    var s, o, r, a, h = {
         label: 0,
         sent: function() {
-            if (1 & a[0]) throw a[1];
-            return a[1]
+            if (1 & r[0]) throw r[1];
+            return r[1]
         },
         trys: [],
         ops: []
     };
-    return r = {
+    return a = {
         next: i(0),
         "throw": i(1),
         "return": i(2)
     },
-    "function" == typeof Symbol && (r[Symbol.iterator] = function() {
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
         return this
     }),
-    r
+    a
 },
 wishFloatingBottle; !
 function(t) {
@@ -609,14 +609,16 @@ function(t) {
                     n = 1 == i.readUnsignedInt();
                     AwardManager.pause(),
                     egret.setTimeout(function() {
-                        n ? BubblerManager.getInstance().showText("许愿成功，神秘的力量帮你完成了心愿！") : BubblerManager.getInstance().showText("许愿失败，漂流瓶遗失在了星河里！"),
+                        n ? (BubblerManager.getInstance().showText("许愿成功，神秘的力量帮你完成了心愿！"), egret.setTimeout(function() {
+                            AwardManager.resume()
+                        },
+                        e, 1e3)) : (BubblerManager.getInstance().showText("许愿失败，漂流瓶遗失在了星河里！"), egret.setTimeout(function() {
+                            AwardManager.resume()
+                        },
+                        e, 1e3)),
                         e.updateValues()
                     },
-                    e, 3e3),
-                    egret.setTimeout(function() {
-                        AwardManager.resume()
-                    },
-                    e, 2e3)
+                    e, 3e3)
                 }))
             },
             this),
@@ -742,8 +744,8 @@ function(t) {
                 return t.wishtype == e.curIndex
             }),
             o = s[0],
-            a = this.getData(o);
-            this.items.dataProvider = new eui.ArrayCollection(a)
+            r = this.getData(o);
+            this.items.dataProvider = new eui.ArrayCollection(r)
         },
         i.prototype.update = function() {
             var t = this;
@@ -1009,14 +1011,14 @@ function(t) {
             case 6:
                 e = new Date(i - 1 * s)
             }
-            var a = new Date(e.getTime() + 6 * s),
-            r = a.getFullYear(),
-            h = a.getMonth(),
-            u = a.getDate(),
+            var r = new Date(e.getTime() + 6 * s),
+            a = r.getFullYear(),
+            h = r.getMonth(),
+            u = r.getDate(),
             _ = e.getFullYear(),
             l = e.getMonth(),
             c = e.getDate();
-            t = _ + "." + (l + 1) + "." + c + "——" + r + "." + (h + 1) + "." + u,
+            t = _ + "." + (l + 1) + "." + c + "——" + a + "." + (h + 1) + "." + u,
             this.loginTime.text = t
         },
         i.prototype.update = function() {
@@ -1027,8 +1029,8 @@ function(t) {
                 s = this.service.getValue(t.AttrConst.weekly_login_times);
                 this.manageDay7(n, s);
                 for (var o = 6; o >= 1; o--) {
-                    var a = 1 == n;
-                    a ? o >= s + 1 ? i.push([e[0], !1]) : i.push([e[2], !1]) : o > s + 1 ? i.push([e[0], !1]) : o == s + 1 ? i.push([e[1], !0]) : i.push([e[2], !1])
+                    var r = 1 == n;
+                    r ? o >= s + 1 ? i.push([e[0], !1]) : i.push([e[2], !1]) : o > s + 1 ? i.push([e[0], !1]) : o == s + 1 ? i.push([e[1], !0]) : i.push([e[2], !1])
                 }
                 this.list.dataProvider = new eui.ArrayCollection(i.reverse()),
                 this.list.validateNow()
@@ -1047,8 +1049,7 @@ function(t) {
     } (BasicPanel);
     t.WishSign = e,
     __reflect(e.prototype, "wishFloatingBottle.WishSign")
-} (wishFloatingBottle || (wishFloatingBottle = {})),
-window.wishFloatingBottle = window.wishFloatingBottle || {};
+} (wishFloatingBottle || (wishFloatingBottle = {}));
 var __extends = this && this.__extends ||
 function(t, e) {
     function i() {

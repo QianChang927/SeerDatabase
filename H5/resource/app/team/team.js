@@ -867,10 +867,10 @@ team; !
 function(e) {
     var t = function() {
         function e() {}
-        return e.startTime = new Date("2024/1/12 00:00:00"),
-        e.delayTime = new Date("2024/1/26 00:00:00"),
-        e.boosItemID = 2300067,
-        e.boosLastItemID = 2300067,
+        return e.startTime = new Date("2024/8/23 00:00:00"),
+        e.delayTime = new Date("2024/9/7 00:00:00"),
+        e.boosItemID = 2300071,
+        e.boosLastItemID = 2300071,
         e.taskHotID = 0,
         e.bossHotID = 1002,
         e.traderHotID = 1003,
@@ -905,7 +905,7 @@ function(e) {
             e.boosid = 11095,
             e.curProgess = 2821,
             e.curRewardState = 105033,
-            e.currentBoss = 4590,
+            e.currentBoss = 4666,
             e.curValue = 0,
             e.curTime = 0,
             e.skinName = TeambossSkin,
@@ -930,7 +930,7 @@ function(e) {
                 }
             },
             {
-                text: "次「覆骸冥土」可降低其",
+                text: "次「拟态绞索」可降低其",
                 style: {
                     textColor: 8165328
                 }
@@ -960,7 +960,7 @@ function(e) {
                 }
             },
             {
-                text: "「覆骸冥土因子宝箱」",
+                text: "「拟态绞索因子宝箱」",
                 style: {
                     textColor: 4252667
                 }

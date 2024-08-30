@@ -16,7 +16,7 @@ SocketConnection = function() {
     }),
     e.errorcall = function(e, t) {},
     e.addCmdListener = function(t, n, r) {
-        e.mainSocket.addCmdListener(t, n, r)
+        this.block || e.mainSocket.addCmdListener(t, n, r)
     },
     e.removeCmdListener = function(t, n, r) {
         e.mainSocket.removeCmdListener(t, n, r)
@@ -29,31 +29,33 @@ SocketConnection = function() {
     },
     e.send = function(t) {
         for (var n = [], r = 1; r < arguments.length; r++) n[r - 1] = arguments[r];
-        return 0 != t ? e.mainSocket.connected ? void e.mainSocket.send(t, n) : void e.mainSocket.dispatchEvent(new egret.Event(egret.Event.CLOSE)) : void 0
+        return 0 == t || this.block ? void 0 : e.mainSocket.connected ? void e.mainSocket.send(t, n) : void e.mainSocket.dispatchEvent(new egret.Event(egret.Event.CLOSE))
     },
     e.sendWithCallback = function(t, n) {
         for (var r = [], i = 2; i < arguments.length; i++) r[i - 2] = arguments[i];
         e.sendWithCallback2(t, n, r)
     },
     e.sendWithCallback2 = function(t, n, r, i) {
-        void 0 === r && (r = null),
-        void 0 === i && (i = null),
-        r = null == r ? [] : r;
-        var o = function(r) {
-            null != r.data && r.data instanceof egret.ByteArray && (r.data.position = 0),
-            e.removeCmdListener(t, arguments.callee, this),
-            e.mainSocket.removeErrorListener(t, s, this),
-            null != n && n(r)
-        },
-        s = function(n) {
-            e.removeCmdListener(t, o, this),
-            e.mainSocket.removeErrorListener(t, s, this),
-            null != i && i(n)
-        };
-        return e.mainSocket.connected ? (e.addCmdListener(t, o, this), e.mainSocket.addErrorListener(t, s, this), void e.mainSocket.send(t, r)) : void e.mainSocket.dispatchEvent(new egret.Event(egret.Event.CLOSE))
+        if (void 0 === r && (r = null), void 0 === i && (i = null), r = null == r ? [] : r, !this.block) {
+            var o = function(r) {
+                null != r.data && r.data instanceof egret.ByteArray && (r.data.position = 0),
+                e.removeCmdListener(t, arguments.callee, this),
+                e.mainSocket.removeErrorListener(t, s, this),
+                null != n && n(r)
+            },
+            s = function(n) {
+                e.removeCmdListener(t, o, this),
+                e.mainSocket.removeErrorListener(t, s, this),
+                null != i && i(n)
+            };
+            if (!e.mainSocket.connected) return void e.mainSocket.dispatchEvent(new egret.Event(egret.Event.CLOSE));
+            e.addCmdListener(t, o, this),
+            e.mainSocket.addErrorListener(t, s, this),
+            e.mainSocket.send(t, r)
+        }
     },
     e.sendByQueue = function(t, n, r, i) {
-        if (void 0 === r && (r = null), void 0 === i && (i = null), e.mainSocket.connected) {
+        if (void 0 === r && (r = null), void 0 === i && (i = null), e.mainSocket.connected && !this.block) {
             var o = new SendQueueItemVo;
             o.cmdID = t,
             o.args = n,
@@ -63,7 +65,9 @@ SocketConnection = function() {
         }
     },
     e.sendWithPromise = function(e, t) {
-        return new Promise(function(n, r) {
+        return this.block ? new Promise(function(e, t) {
+            t(null)
+        }) : new Promise(function(n, r) {
             var i = new SendQueueItemVo;
             i.cmdID = e,
             i.args = t,
@@ -79,7 +83,7 @@ SocketConnection = function() {
     },
     e.send_2 = function(t, n) {
         e.mainSocket.connected || e.mainSocket.dispatchEvent(new egret.Event(egret.Event.CLOSE)),
-        e.mainSocket.send(t, n)
+        this.block || e.mainSocket.send(t, n)
     },
     e.setEncryptKeyStringArr = function(t) {
         e._encryptKeyStringArr = t
@@ -327,7 +331,8 @@ function(e, t, n) {
 SocketConnectionHelper = function() {
     function e() {}
     return e.clearSendQueue = function() {
-        e._sendCmdList = {}
+        e._sendCmdList = {},
+        e._currentProcessCommandIDs = new HashSet
     },
     e.sendCommandByQueue = function(t) {
         var n = e._sendCmdList[t.cmdID];
@@ -497,7 +502,7 @@ SocketEncryptImpl = function(e) {
         if (this._packageLen = e.readUnsignedInt(), this._packageLen < t.HEAD_LENGTH || this._packageLen > t.PACKAGE_MAX) return this.readDataError(0),
         this.dispatchEvent(new SocketErrorEvent(SocketErrorEvent.ERROR, null)),
         void e.readBytes(new egret.ByteArray);
-        if (this._headInfo = new HeadInfo(e), (1001 == this._headInfo.cmdID || 41463 == this._headInfo.cmdID || 42387 == this._headInfo.cmdID) && (this._result = this._headInfo.result, this.reconnectKey = this._result), 41228 != this._headInfo.cmdID && 1002 != this._headInfo.cmdID && this.log(this._headInfo.cmdID, "S2C<<Socket: " + this.ip + ":" + this.port.toString() + "[cmdID:" + this._headInfo.cmdID + "]", t.getCmdLabel(this._headInfo.cmdID), "result: " + this._result, "[paclen:" + this._packageLen + "]"), this._headInfo.result > 1e3) return this.log("异常错误:" + this._headInfo.result),
+        if (this._headInfo = new HeadInfo(e), (1001 == this._headInfo.cmdID || 41463 == this._headInfo.cmdID || 42387 == this._headInfo.cmdID || 41983 == this._headInfo.cmdID) && (this._result = this._headInfo.result, this.reconnectKey = this._result), 41228 != this._headInfo.cmdID && 1002 != this._headInfo.cmdID && this.log(this._headInfo.cmdID, "S2C<<Socket: " + this.ip + ":" + this.port.toString() + "[cmdID:" + this._headInfo.cmdID + "]", t.getCmdLabel(this._headInfo.cmdID), "result: " + this._result, "[paclen:" + this._packageLen + "]"), this._headInfo.result > 1e3) return this.log("异常错误:" + this._headInfo.result),
         ParseSocketError.parse(this._headInfo.result, this._headInfo.cmdID),
         this.readDataError(this._headInfo.cmdID),
         this.dispatchError(this._headInfo.cmdID, this._headInfo),

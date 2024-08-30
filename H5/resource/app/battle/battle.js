@@ -3004,7 +3004,12 @@ FightOverController = function() {
         1e3)
     },
     t.onFightOver = function(t, e) {
-        if (!t && e ? this.overData = e: this.overData = new FightOverInfo(t.data), FightManager.closeClock = !1, this.overData.winnerID == MainManager.actorID ? FightManager.isWin = !0 : FightManager.isWin = !1, this.isFightOver = !0, EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.FIGHT_RESULT, this.overData)), this.isEscape) return RemainHpManager.showChange(),
+        if (!t && e ? this.overData = e: this.overData = new FightOverInfo(t.data), FightManager.closeClock = !1, this.overData.winnerID == MainManager.actorID ? FightManager.isWin = !0 : FightManager.isWin = !1, this.isFightOver = !0, OnlineManager.getInstance().isLogin1004) return FightManager.isWin = !1,
+        RemainHpManager.showChange(),
+        void EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.FIGHT_CLOSE, {
+            data: this.overData
+        }));
+        if (EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.FIGHT_RESULT, this.overData)), this.isEscape) return RemainHpManager.showChange(),
         void EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.FIGHT_CLOSE, {
             data: this.overData
         }));
@@ -3019,14 +3024,17 @@ FightOverController = function() {
         this.isEscape = !0
     },
     t.clear = function(e, i) {
-        void 0 === i && (i = !1),
-        this.handlePetRoayleBmp(e);
-        var n = new egret.RenderTexture;
-        if (n.drawToTexture(LevelManager.fightLevel), this.fightBg.texture = n, LevelManager.appLevel.addChild(t.fightBg), e && (FightManager.isCanSave = e.isCanSave), FightManager.isReplay) return this.showNormalTip("录相结束"),
+        if (void 0 === i && (i = !1), this.handlePetRoayleBmp(e), !OnlineManager.getInstance().isLogin1004) {
+            var n = new egret.RenderTexture;
+            n.drawToTexture(LevelManager.fightLevel),
+            this.fightBg.texture = n,
+            LevelManager.appLevel.addChild(t.fightBg)
+        }
+        if (e && (FightManager.isCanSave = e.isCanSave), FightManager.isReplay) return this.showNormalTip("录相结束"),
         void EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.REPLAY_END));
-        LevelManager.root.touchChildren = !0;
+        OnlineManager.getInstance().isLogin1004 ? this.isHaveSurrender = !0 : LevelManager.root.touchChildren = !0;
         var o;
-        return e && 7 == e.reason ? (o = "切磋结束！", this.showNormalTip(o), void SoundController.playEndMusic(!0)) : this.isHaveSurrender ? (o = FightManager.isWin ? "对方认输！你获得胜利！": 0 == e.winnerID ? "双方同时认输！对战结果为平局！": "你认输了！对方获得胜利！", LevelManager.root.touchChildren = !0, this.showNormalTip(o), void SoundController.playEndMusic(FightManager.isWin)) : this.isEscape ? (o = "恭喜你，成功撤退！", LevelManager.root.touchChildren = !0, this.showNormalTip(o), void SoundController.playEndMusic(!1)) : this.isOvertime ? (e.winnerID == MainManager.actorID ? (FightManager.isWin = !0, SoundController.playEndMusic(!0), o = "对方操作超时，你在这场战斗中获得了胜利！") : (FightManager.isWin = !1, SoundController.playEndMusic(!1), o = "你操作超时了，战斗结束！"), void this.showNormalTip(o)) : this.isDraw ? (FightManager.isWin = !1, o = "这场战斗双方打成平手！^_^", void this.showNormalTip(o)) : this.isSysError ? (FightManager.isWin = !1, o = "很抱歉，系统出错，本次战斗结束！", void this.showNormalTip(o)) : this.isPlayerLost ? (FightManager.isWin = !0, SoundController.playEndMusic(!0), o = "对方中途退出，你在这场战斗中获得了胜利！", void this.showNormalTip(o)) : this.isNpcEscape ? (FightManager.isWin = !1, SoundController.playEndMusic(!0), o = "很可惜，这只精灵逃跑了！", void this.showNormalTip(o)) : i ? void(FightManager.isWin = !0) : (e.winnerID == MainManager.actorID ? (FightManager.isWin = !0, SoundController.playEndMusic(!0), CountExpPanelManager.PANEL_STATUS = CountExpPanelManager.WIN, CountExpPanelManager.overData = this.overData, EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.PET_UPDATE_PROP))) : (FightManager.isWin = !1, CountExpPanelManager.PANEL_STATUS = CountExpPanelManager.LOST, SoundController.playEndMusic(!1), CountExpPanelManager.overData = this.overData, EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.PET_UPDATE_PROP))), void t.destroy())
+        return e && 7 == e.reason ? (o = "切磋结束！", this.showNormalTip(o), void SoundController.playEndMusic(!0)) : this.isHaveSurrender ? (o = FightManager.isWin ? "对方认输！你获得胜利！": 0 == e.winnerID ? "双方同时认输！对战结果为平局！": "你认输了！对方获得胜利！", OnlineManager.getInstance().isLogin1004 || (LevelManager.root.touchChildren = !0), this.showNormalTip(o), void SoundController.playEndMusic(FightManager.isWin)) : this.isEscape ? (o = "恭喜你，成功撤退！", LevelManager.root.touchChildren = !0, this.showNormalTip(o), void SoundController.playEndMusic(!1)) : this.isOvertime ? (e.winnerID == MainManager.actorID ? (FightManager.isWin = !0, SoundController.playEndMusic(!0), o = "对方操作超时，你在这场战斗中获得了胜利！") : (FightManager.isWin = !1, SoundController.playEndMusic(!1), o = "你操作超时了，战斗结束！"), void this.showNormalTip(o)) : this.isDraw ? (FightManager.isWin = !1, o = "这场战斗双方打成平手！^_^", void this.showNormalTip(o)) : this.isSysError ? (FightManager.isWin = !1, o = "很抱歉，系统出错，本次战斗结束！", void this.showNormalTip(o)) : this.isPlayerLost ? (FightManager.isWin = !0, SoundController.playEndMusic(!0), o = "对方中途退出，你在这场战斗中获得了胜利！", void this.showNormalTip(o)) : this.isNpcEscape ? (FightManager.isWin = !1, SoundController.playEndMusic(!0), o = "很可惜，这只精灵逃跑了！", void this.showNormalTip(o)) : i ? void(FightManager.isWin = !0) : (e.winnerID == MainManager.actorID ? (FightManager.isWin = !0, SoundController.playEndMusic(!0), CountExpPanelManager.PANEL_STATUS = CountExpPanelManager.WIN, CountExpPanelManager.overData = this.overData, EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.PET_UPDATE_PROP))) : (FightManager.isWin = !1, CountExpPanelManager.PANEL_STATUS = CountExpPanelManager.LOST, SoundController.playEndMusic(!1), CountExpPanelManager.overData = this.overData, EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.PET_UPDATE_PROP))), void t.destroy())
     },
     t.handlePetRoayleBmp = function(t) {},
     t.fightTestResult = function(t) {
@@ -3057,7 +3065,7 @@ FightOverController = function() {
     t.showNormalTip = function(e) {
         var i = this;
         return CountExpPanelManager.isEmptyShow = !0,
-        PetFightModel.type == PetFightModel.PET_TOPLEVEL || PetFightModel.type == PetFightModel.TOP_WAR_BEYOND ? (t.isLost = !0, LoadingViewController.destroy(), void t.destroy()) : PetFightModel.type == PetFightModel.LUCKY_BATTLE ? (t.isLost = !0, LoadingViewController.destroy(), void t.destroy()) : (Alarm.show(e,
+        PetFightModel.type == PetFightModel.PET_TOPLEVEL || PetFightModel.type == PetFightModel.TOP_WAR_BEYOND ? (t.isLost = !0, LoadingViewController.destroy(), void t.destroy()) : PetFightModel.type == PetFightModel.LUCKY_BATTLE ? (t.isLost = !0, LoadingViewController.destroy(), void t.destroy()) : (OnlineManager.getInstance().isLogin1004 ? (CountExpPanelManager.overData = this.overData, EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.PET_UPDATE_PROP, null))) : Alarm.show(e,
         function() {
             CountExpPanelManager.overData = i.overData,
             EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.PET_UPDATE_PROP, null))

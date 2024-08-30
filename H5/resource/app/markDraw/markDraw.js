@@ -75,11 +75,11 @@ markDraw; !
 function(e) {
     var t = function() {
         function e() {}
-        return e.markOfcard1 = [42387, 42388, 42389],
-        e.markOfcard2 = [42390, 42391, 42392],
-        e.markOfcard3 = [42393, 42394, 42395],
-        e.markOfcard4 = [42396, 42397, 42398],
-        e.markOfextraCard = [42399, 42400, 42401, 42402],
+        return e.markOfcard1 = [40919, 40920, 40997],
+        e.markOfcard2 = [40916, 40917, 40998],
+        e.markOfcard3 = [40910, 40914, 40999],
+        e.markOfcard4 = [40913, 40911, 41e3],
+        e.markOfextraCard = [41050, 41051, 41052, 41053],
         e
     } ();
     e.MarkDataConst = t,

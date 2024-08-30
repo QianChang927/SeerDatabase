@@ -4303,20 +4303,18 @@ function(t, e) {
     n.prototype = e.prototype,
     t.prototype = new n
 },
-Effect_576 = function(t) {
+Effect_17 = function(t) {
     function e() {
-        var e = t.call(this) || this;
-        return e._argsNum = 2,
-        e
+        return t.call(this) || this
     }
     return __extends(e, t),
     e.prototype.getInfo = function(t) {
         return void 0 === t && (t = null),
-        t[0] + "回合内免疫低于" + t[1] + "的攻击伤害"
+        "1回合等待，次回合攻击"
     },
     e
 } (AbstractEffectInfo);
-__reflect(Effect_576.prototype, "Effect_576");
+__reflect(Effect_17.prototype, "Effect_17");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -8678,7 +8676,8 @@ AchieveManager = function() {
     t.initEvent = function() {
         EventManager.addEventListener(AchieveEvent.PAUSE_SHOW_ACHIEVE_NOTICE, this.pauseShowNotice, this),
         EventManager.addEventListener(AchieveEvent.RESUME_SHOW_ACHIEVE_NOTICE, this.resumeShowNotice, this),
-        EventManager.addEventListener(AchieveEvent.CLEAR_ALL_WAIT_ACHIEVE_NOTICE, this.clearAllWaitAchieve, this)
+        EventManager.addEventListener(AchieveEvent.CLEAR_ALL_WAIT_ACHIEVE_NOTICE, this.clearAllWaitAchieve, this),
+        EventManager.addEventListener(OnlineManager.RECONNECT_LOGIN_SUC, this.reconnectSuc, this)
     },
     t.getAchieveInfo = function(e) {
         if (!t.$inited) throw new Error("成就信息未初始化");
@@ -8819,6 +8818,8 @@ AchieveManager = function() {
             })
         }
     },
+    t.reconnectSuc = function() { - 1 != this.lastUpdateBranchId && (this.updateSingleInfo(this.lastUpdateBranchId), this.lastUpdateBranchId = -1)
+    },
     t.updateSingleInfo = function(t) {
         return __awaiter(this, void 0, void 0,
         function() {
@@ -8827,7 +8828,7 @@ AchieveManager = function() {
             function(c) {
                 switch (c.label) {
                 case 0:
-                    return RoomManager.roomOnline() ? [2] : [4, SocketConnection.sendWithPromise(3402, [t])];
+                    return RoomManager.roomOnline() ? [2] : OnlineManager.getInstance().isLogin1004 ? (this.lastUpdateBranchId = t, [2]) : [4, SocketConnection.sendWithPromise(3402, [t])];
                 case 1:
                     for (e = c.sent(), n = e.data, n.position = 0, r = new SingleAchievementInfo, r.branchId = n.readUnsignedInt(), r.achievement = n.readUnsignedInt(), r.benchmark = n.readUnsignedInt(), r.rule_mask = n.readUnsignedInt(), r.title_cnt = n.readUnsignedInt(), r.titles = [], o = 0; o < r.title_cnt; o++) r.titles.push(n.readUnsignedInt());
                     return r.last_step = n.readUnsignedInt(),
@@ -8928,6 +8929,7 @@ AchieveManager = function() {
     t._mySingleInfo = [],
     t.updateInterval = 0,
     t._socketList = [],
+    t.lastUpdateBranchId = -1,
     t._noticeList = [],
     t.achieveGotList = [],
     t.achieveGotList_Temp = [],
@@ -16452,7 +16454,10 @@ LoginManager2 = function() {
                 console.log("login", e),
                 t.historyUserData = t.currUserData,
                 n.flushUserLoginData(),
-                -1 == e && BubblerManager.getInstance().showText("登陆失败！"),
+                -1 == e && (OnlineManager.getInstance().isCompleteReConnect ? Alarm.show("重新连接出现错误，请刷新游戏重新登录",
+                function() {
+                    core.gameUtil.ReloaderGame()
+                }) : BubblerManager.getInstance().showText("登陆失败！")),
                 r(e)
             },
             n)
@@ -18052,10 +18057,10 @@ MapManager = function() {
         MainManager.actorInfo.mapType = this.mapType,
         EventManager.dispatchEvent(new egret.Event(MapEvent.MAP_SWITCH_COMPLETE));
         var n = new UserInfo;
-        if (UserInfo.setForPeoleInfo(n, e.data), n.serverID = MainManager.serverID, n.userID == MainManager.actorID) MainManager.actorModel.pos = n.pos,
-        MainManager.upDateForPeoleInfo(n),
-        this.initMapFunction();
-        else {
+        if (UserInfo.setForPeoleInfo(n, e.data), n.serverID = MainManager.serverID, n.userID == MainManager.actorID) {
+            if (MainManager.actorModel.pos = n.pos, MainManager.upDateForPeoleInfo(n), OnlineManager.getInstance().isLogin1004) return;
+            this.initMapFunction()
+        } else {
             if (null == t.curMapModel) return;
             if (UserManager.contains(n.userID)) return;
             var r = n.userID === MainManager.actorID ? new MyPeopleModel(n) : new OtherPeopleModel(n);
@@ -18136,6 +18141,7 @@ MapManager = function() {
             }) : BubblerManager.getInstance().showText("暂无其他场景可以探索~")
         }
     },
+    t._curMapId = 0,
     t.isInMap = !1,
     t.hasEnterShip = !1,
     t.step = 0,
@@ -20379,7 +20385,9 @@ function(t, e) {
     a
 },
 OnlineManager = function() {
-    function t() {}
+    function t() {
+        this.isLogin1004 = !1
+    }
     return t.getInstance = function() {
         return t.instance || (t.instance = new t),
         t.instance
@@ -20545,50 +20553,73 @@ OnlineManager = function() {
         })
     },
     t.prototype.onSocketConnect = function(t) {
+        var e = this;
         console.log("第一次SocketConnect"),
         SocketConnection.mainSocket.removeEventListener(egret.Event.CONNECT, this.onSocketConnect, this),
         SocketConnection.mainSocket.addEventListener(egret.Event.CLOSE, this.onSocketClose, this),
         LoginSocketConnection.mainSocket.close(),
-        SocketConnection.addCmdListener(CommandID.LOGIN_IN, this.onLogin, this);
-        var e = new egret.ByteArray;
-        this.currServerInfo && e.writeUnsignedInt(this.currServerInfo.onlineID),
+        this.isCompleteReConnect ? (SocketConnection.block = !1, SocketConnection.addCmdListener(CommandID.SOCKET_RECONNECT_COMPLETE, this.onLogin, this), SocketConnection.block = !0) : SocketConnection.addCmdListener(CommandID.LOGIN_IN, this.onLogin, this);
+        var n = new egret.ByteArray;
+        this.currServerInfo && n.writeUnsignedInt(this.currServerInfo.onlineID),
         MainManager.tad = GameInfo.channel;
-        var n = "PC";
-        window.device ? n = window.device.model: egret.Capabilities.isMobile && navigator.userAgent && (n = navigator.userAgent.toLowerCase()),
-        console.log("device info :" + n);
-        var r = new egret.ByteArray;
-        r.writeUTFBytes(n),
-        r.length = 16;
-        var o = ~~egret.getOption("version"),
-        i = GameInfo.loginType,
-        s = GameInfo.platform + 1,
-        a = +GameInfo.isApp + 1,
-        _ = (ChannelManager.channelId, new egret.ByteArray);
-        GameInfo.isApp ? _.writeUTFBytes("h5_app_" + GameInfo.channel) : _.writeUTFBytes("h5_web_" + GameInfo.channel),
-        _.length = 32,
-        SocketConnection.send(CommandID.LOGIN_IN, MainManager.session, MainManager.getTopLeftTmcid(), e, ~~GameInfo.isApp, r, o, i, s, a, _),
+        var r = "PC";
+        window.device ? r = window.device.model: egret.Capabilities.isMobile && navigator.userAgent && (r = navigator.userAgent.toLowerCase()),
+        console.log("device info :" + r);
+        var o = new egret.ByteArray;
+        o.writeUTFBytes(r),
+        o.length = 16;
+        var i = ~~egret.getOption("version"),
+        s = GameInfo.loginType,
+        a = GameInfo.platform + 1,
+        _ = +GameInfo.isApp + 1,
+        c = (ChannelManager.channelId, new egret.ByteArray);
+        GameInfo.isApp ? c.writeUTFBytes("h5_app_" + GameInfo.channel) : c.writeUTFBytes("h5_web_" + GameInfo.channel),
+        c.length = 32,
+        this.isCompleteReConnect ? LoginManager2.login(!0).then(function(t) {
+            return __awaiter(e, void 0, void 0,
+            function() {
+                var t;
+                return __generator(this,
+                function(e) {
+                    return t = LoginManager2.String2ByteArray(LoginManager2.historyUserData.token),
+                    MainManager.session = t,
+                    SocketConnection.block = !1,
+                    SocketConnection.send(CommandID.SOCKET_RECONNECT_COMPLETE, t, MainManager.getTopLeftTmcid(), n, ~~GameInfo.isApp, o, i, s, a, _, c, MainManager.actorInfo.mapID),
+                    SocketConnection.block = !0,
+                    [2]
+                })
+            })
+        }) : SocketConnection.send(CommandID.LOGIN_IN, MainManager.session, MainManager.getTopLeftTmcid(), n, ~~GameInfo.isApp, o, i, s, a, _, c),
         SocketConnection.mainSocket.addEventListener(SocketErrorEvent.ERROR, this.onError, this)
     },
     t.prototype.onError = function(t) {
         null == t.headInfo || console.warn("error :" + t.headInfo.result + "   " + t.headInfo.cmdID)
     },
-    t.prototype.onLogin = function(t) {
+    t.prototype.onReConnectComplete = function() {
+        this.loginsuc = !1,
+        SocketConnection.block = !0,
+        SocketConnectionHelper.clearSendQueue(),
+        PetManager.clearCallBacks(),
+        this.isCompleteReConnect = !0,
+        this.enterserverHandle(null)
+    },
+    t.prototype.onLogin = function(e) {
         return __awaiter(this, void 0, void 0,
         function() {
             return __generator(this,
-            function(e) {
-                switch (e.label) {
+            function(n) {
+                switch (n.label) {
                 case 0:
                     return SocketConnection.mainSocket.removeEventListener(SocketErrorEvent.ERROR, this.onError, this),
-                    SocketConnection.removeCmdListener(CommandID.LOGIN_IN, this.onLogin, this),
+                    this.isCompleteReConnect ? (this.isLogin1004 = !1, SocketConnection.block = !1, EventManager.dispatchEvent(new egret.Event(t.RECONNECT_LOGIN_SUC)), SocketConnection.removeCmdListener(CommandID.SOCKET_RECONNECT_COMPLETE, this.onLogin, this)) : SocketConnection.removeCmdListener(CommandID.LOGIN_IN, this.onLogin, this),
                     this.loginsuc = !0,
-                    this.tmploginsucdata = t.data,
+                    this.tmploginsucdata = e.data,
                     egret.localStorage.setItem("last_user_name", MainManager.actorInfo.nick),
                     LevelManager.root.touchEnabled = LevelManager.root.touchChildren = !0,
-                    LoginManager.destroy(),
-                    this.relogin ? [4, SystemTimerManager.queryTime()] : [3, 2];
+                    this.isCompleteReConnect || LoginManager.destroy(),
+                    this.isCompleteReConnect ? (SystemTimerManager.hasUpdate = !1, MainManager.setup(this.tmploginsucdata), ItemManager.getCollection(), LoginManager2.currUserData && (LoginManager2.currUserData.nick = MainManager.actorInfo.nick, LoginManager2.historyUserData = LoginManager2.currUserData, LoginManager2.flushUserLoginData()), this.tmploginsucdata = null, EventManager.dispatchEvent(new egret.Event(ReconnectCompleteManager.RECONNECT_SUC)), [2]) : this.relogin ? [4, SystemTimerManager.queryTime()] : [3, 2];
                 case 1:
-                    return e.sent(),
+                    return n.sent(),
                     SystemTimerManager.getsession(),
                     MainManager.setup(this.tmploginsucdata),
                     LoginManager2.currUserData && (LoginManager2.currUserData.nick = MainManager.actorInfo.nick, LoginManager2.historyUserData = LoginManager2.currUserData, LoginManager2.flushUserLoginData()),
@@ -20597,7 +20628,7 @@ OnlineManager = function() {
                     [3, 3];
                 case 2:
                     EventManager.addEventListener("LoginCompeted", this.zipLoadComplete, this),
-                    e.label = 3;
+                    n.label = 3;
                 case 3:
                     return EventManager.dispatchEventWith(LoginEvent.GAME_LOGIN_SUCCESS),
                     [2]
@@ -20774,6 +20805,7 @@ OnlineManager = function() {
         },
         this, 1e3)
     },
+    t.RECONNECT_LOGIN_SUC = "reconnectLoginSuc",
     t
 } ();
 __reflect(OnlineManager.prototype, "OnlineManager");
@@ -22287,6 +22319,10 @@ PetManager = function() {
             if (t.dispatchEvent(new PetEvent(PetEvent.UPDATE_INFO, 0)), t._bool = !1, t.callbacks && t.callbacks.length) for (; t.callbacks.length > 0;) t.callbacks.shift().call()
         },
         []))
+    },
+    t.clearCallBacks = function() {
+        t._bool = !1,
+        t.callbacks = null
     },
     t.UpdateBagPetInfoAsynce = function(e) {
         return __awaiter(this, void 0, void 0,
@@ -24728,6 +24764,167 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
+__awaiter = this && this.__awaiter ||
+function(t, e, n, r) {
+    return new(n || (n = Promise))(function(o, i) {
+        function s(t) {
+            try {
+                _(r.next(t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(r["throw"](t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function _(t) {
+            t.done ? o(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((r = r.apply(t, e || [])).next())
+    })
+},
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return r([t, e])
+        }
+    }
+    function r(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (o = 1, i && (s = i[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(i, n[1])).done) return s;
+            switch (i = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                i = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    _.label = n[1];
+                    break
+                }
+                if (6 === n[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(n);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            n = e.call(t, _)
+        } catch(r) {
+            n = [6, r],
+            i = 0
+        } finally {
+            o = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, i, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
+    },
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
+ReconnectCompleteManager = function() {
+    function t() {}
+    return t.enterUI = function() {
+        var t = this;
+        null == this._ui ? this.loadUi().then(function() {
+            var e = RES.getRes("exml_ReconnectuiSkin");
+            t._ui = new ReconnectUi(e),
+            t.initUI()
+        }) : this.initUI()
+    },
+    t.loadUi = function() {
+        return __awaiter(this, void 0, void 0,
+        function() {
+            return __generator(this,
+            function(t) {
+                return RES.getGroupByName("reconnectUi") && RES.getGroupByName("reconnectUi").length ? [2, Promise.resolve()] : [2, new Promise(function(t, e) {
+                    RES.loadConfig("resource/assets/reconnectUi/reconnectUi.json", "resource/assets/reconnectUi/").then(function() {
+                        RES.loadGroup("reconnectUi").then(function() {
+                            t()
+                        })["catch"](function() {
+                            e()
+                        })
+                    })["catch"](function() {
+                        e()
+                    })
+                })]
+            })
+        })
+    },
+    t.initUI = function() {
+        this._ui.gotoAndStop(1),
+        LevelManager.topLevel.addChild(this._ui),
+        EventManager.addEventListener(t.RECONNECT_SUC, this.closeUi, this),
+        Alarm.show("你的账号已经在别的地方登录！", null, LevelManager.topLevel)
+    },
+    t.closeUi = function(e) {
+        this._ui.parent && this._ui.parent.removeChild(this._ui),
+        EventManager.removeEventListener(t.RECONNECT_SUC, this.closeUi, this)
+    },
+    t.isShow = !1,
+    t.RECONNECT_SUC = "reconnect_suc",
+    t
+} ();
+__reflect(ReconnectCompleteManager.prototype, "ReconnectCompleteManager");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
 ReconnectPanelManager = function() {
     function t() {}
     return t.openPanel = function() {
@@ -25453,9 +25650,10 @@ RoomManager = function() {
     },
     t.onEnterMap = function(e) {
         var n = new UserInfo;
-        if (e.data.position = 0, UserInfo.setForPeoleInfo(n, e.data), n.serverID = MainManager.serverID, n.userID == MainManager.actorID) return MainManager.actorModel.pos = n.pos,
-        MainManager.upDateForPeoleInfo(n),
-        void SocketConnection.send(CommandID.LIST_MAP_PLAYER);
+        if (e.data.position = 0, UserInfo.setForPeoleInfo(n, e.data), n.serverID = MainManager.serverID, n.userID == MainManager.actorID) {
+            if (MainManager.actorModel.pos = n.pos, MainManager.upDateForPeoleInfo(n), OnlineManager.getInstance().isLogin1004) return;
+            return void SocketConnection.send(CommandID.LIST_MAP_PLAYER)
+        }
         if (!UserManager.contains(n.userID)) {
             var r = new OtherPeopleModel(n);
             t.addUser(r)
@@ -26763,10 +26961,14 @@ SocketErrorManager = function() {
             EventManager.dispatchEvent(new egret.Event("Error_10036"));
             break;
         case 10004:
-            this.showAlarm(s + "你的帐号已经在别的地方登录！",
+            if (FightManager.isFighting || GuideManager.isNewSeer()) return void this.showAlarm("你的账号已经在别的地方登录！",
             function() {
                 core.gameUtil.ReloaderGame()
             });
+            OnlineManager.getInstance().isLogin1004 = !0,
+            FightManager.isFighting || (PopViewManager.getInstance().hideAll(), ModuleManager.destroyAllModule()),
+            SocketConnectionHelper.clearSendQueue(),
+            ReconnectCompleteManager.enterUI();
             break;
         case 103301:
             this.showAlarm(s + "任务已经存在！");
@@ -31756,7 +31958,7 @@ SystemTimerManager = function() {
             return __generator(this,
             function(e) {
                 return [2, new Promise(function(e, n) {
-                    return SocketConnection.mainSocket.connected ? void SocketConnection.sendByQueue(CommandID.SYSTEM_TIME, [],
+                    return SocketConnection.mainSocket.connected ? OnlineManager.getInstance().isLogin1004 ? void e() : void SocketConnection.sendByQueue(CommandID.SYSTEM_TIME, [],
                     function(n) {
                         void 0 != t.callbacktimeout && egret.clearTimeout(t.callbacktimeout);
                         var r = n.data;
@@ -31795,11 +31997,7 @@ SystemTimerManager = function() {
             function(o) {
                 switch (o.label) {
                 case 0:
-                    return t._sysTime = t._baseSysTime + (egret.getTimer() - t._updateInterval) / 1e3,
-                    t.heartbeattime++,
-                    t.getsessiontime++,
-                    300 == t.getsessiontime && t.getsession(),
-                    3 != t.heartbeattime ? [3, 2] : SocketConnection.mainSocket.connected ? [4, t.queryTime()] : (t.heartbeattime = 0, [2]);
+                    return OnlineManager.getInstance().isLogin1004 ? [2] : (t._sysTime = t._baseSysTime + (egret.getTimer() - t._updateInterval) / 1e3, t.heartbeattime++, t.getsessiontime++, 300 == t.getsessiontime && t.getsession(), 3 != t.heartbeattime ? [3, 2] : SocketConnection.mainSocket.connected ? [4, t.queryTime()] : (t.heartbeattime = 0, [2]));
                 case 1:
                     o.sent(),
                     o.label = 2;
@@ -46076,27 +46274,221 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
-__extends = this && this.__extends ||
-function(t, e) {
-    function n() {
-        this.constructor = t
-    }
-    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
-    n.prototype = e.prototype,
-    t.prototype = new n
+__awaiter = this && this.__awaiter ||
+function(t, e, n, r) {
+    return new(n || (n = Promise))(function(o, i) {
+        function s(t) {
+            try {
+                _(r.next(t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(r["throw"](t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function _(t) {
+            t.done ? o(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((r = r.apply(t, e || [])).next())
+    })
 },
-Effect_17 = function(t) {
-    function e() {
-        return t.call(this) || this
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return r([t, e])
+        }
     }
-    return __extends(e, t),
-    e.prototype.getInfo = function(t) {
-        return void 0 === t && (t = null),
-        "1回合等待，次回合攻击"
+    function r(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (o = 1, i && (s = i[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(i, n[1])).done) return s;
+            switch (i = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                i = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    _.label = n[1];
+                    break
+                }
+                if (6 === n[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(n);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            n = e.call(t, _)
+        } catch(r) {
+            n = [6, r],
+            i = 0
+        } finally {
+            o = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, i, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
     },
-    e
-} (AbstractEffectInfo);
-__reflect(Effect_17.prototype, "Effect_17");
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
+Core = function() {
+    function t() {}
+    return t.init = function() {
+        var t = this;
+        EngineHookManager.init(),
+        LoginManager2.init(),
+        TaomeeSDKManager.init(),
+        FestivalVersionController.setup(),
+        egret.TextField.default_fontFamily = "黑体",
+        PetUpdateCmdListener.start(),
+        OgreCmdListener.start(),
+        XTeamController.checkActive(),
+        ToolTipManager.setup(),
+        OnlineManager.getInstance().setup(),
+        SocketErrorManager.setup(),
+        PetManager.setup(),
+        ItemManager.setup(),
+        AwardManager.setup(),
+        ServerNotifyManager.setup(),
+        CjsUtil.init(),
+        UICjsUtil.init(),
+        LifeCycleManager.init(),
+        ChannelManager.init(),
+        TeamInfoManager.init();
+        for (var e in CommandID) CommandID[e] > 0 && SocketEncryptImpl.addCmdLabel(CommandID[e], e);
+        SoundManager.init(),
+        SystemBroadcastManager.init(),
+        SoundManager.loadSound().then(function() {
+            return GameInfo.isApp ? void SoundManager.playMusic() : void egret.lifecycle.stage.once(egret.TouchEvent.TOUCH_TAP,
+            function() {
+                if (!GameInfo.isApp && 1 == GameInfo.platform) {
+                    var t = document.documentElement,
+                    e = t.requestFullScreen || t.webkitRequestFullScreen || t.mozRequestFullScreen || t.msRequestFullscreen;
+                    "undefined" != typeof e && e && e.call(t)
+                }
+                SoundManager.playMusic()
+            },
+            t)
+        }),
+        this.onBackButton(),
+        this.initThridAPPInfo(),
+        "webgl" == egret.Capabilities.renderMode ? 0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【常规模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【常规模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【常规模式】") : "canvas" == egret.Capabilities.renderMode && (0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【兼容模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【兼容模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【兼容模式】"))
+    },
+    t.initThridAPPInfo = function() {
+        GameInfo.hasAlipayApp = !1,
+        GameInfo.hasWechatAPP = !1,
+        GameInfo.hasQQAPP = !1
+    },
+    t.onBackButton = function() {
+        var t = this;
+        document.addEventListener("backbutton",
+        function() {
+            Date.now() - t.lastClickTime < 1e3 ? (SoundManager.stopMusic(), navigator.app.exitApp()) : (window.plugins.toast.showShortCenter("再按一次退出游戏"), t.lastClickTime = Date.now())
+        },
+        !1)
+    },
+    t.PreLoaderConfigs = function() {
+        return __awaiter(this, void 0, void 0,
+        function() {
+            var t, e, n;
+            return __generator(this,
+            function(r) {
+                switch (r.label) {
+                case 0:
+                    return [4, RES.getResByUrl("resource/config/preloader_configs.json", null, this, RES.ResourceItem.TYPE_JSON)];
+                case 1:
+                    return t = r.sent(),
+                    e = t.data,
+                    n = function() {
+                        return __awaiter(this, void 0, void 0,
+                        function() {
+                            var t, r;
+                            return __generator(this,
+                            function(o) {
+                                switch (o.label) {
+                                case 0:
+                                    return 0 === e.length ? [2, Promise.resolve()] : (t = e.pop(), "xml" !== t.root ? [3, 2] : [4, config.xml.load(t.file)]);
+                                case 1:
+                                    return o.sent(),
+                                    n(),
+                                    [3, 4];
+                                case 2:
+                                    return "json" !== t.root ? [3, 4] : (r = t.file.toLocaleUpperCase()[0] + t.file.substr(1, t.file.length), [4, config[r].loadAsync()]);
+                                case 3:
+                                    o.sent(),
+                                    n(),
+                                    o.label = 4;
+                                case 4:
+                                    return [2]
+                                }
+                            })
+                        })
+                    },
+                    [4, n()];
+                case 2:
+                    return [2, r.sent()]
+                }
+            })
+        })
+    },
+    t.lastClickTime = 0,
+    t
+} ();
+__reflect(Core.prototype, "Core");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -53184,221 +53576,29 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
-__awaiter = this && this.__awaiter ||
-function(t, e, n, r) {
-    return new(n || (n = Promise))(function(o, i) {
-        function s(t) {
-            try {
-                _(r.next(t))
-            } catch(e) {
-                i(e)
-            }
-        }
-        function a(t) {
-            try {
-                _(r["throw"](t))
-            } catch(e) {
-                i(e)
-            }
-        }
-        function _(t) {
-            t.done ? o(t.value) : new n(function(e) {
-                e(t.value)
-            }).then(s, a)
-        }
-        _((r = r.apply(t, e || [])).next())
-    })
-},
-__generator = this && this.__generator ||
+__extends = this && this.__extends ||
 function(t, e) {
-    function n(t) {
-        return function(e) {
-            return r([t, e])
-        }
+    function n() {
+        this.constructor = t
     }
-    function r(n) {
-        if (o) throw new TypeError("Generator is already executing.");
-        for (; _;) try {
-            if (o = 1, i && (s = i[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(i, n[1])).done) return s;
-            switch (i = 0, s && (n = [0, s.value]), n[0]) {
-            case 0:
-            case 1:
-                s = n;
-                break;
-            case 4:
-                return _.label++,
-                {
-                    value: n[1],
-                    done: !1
-                };
-            case 5:
-                _.label++,
-                i = n[1],
-                n = [0];
-                continue;
-            case 7:
-                n = _.ops.pop(),
-                _.trys.pop();
-                continue;
-            default:
-                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
-                    _ = 0;
-                    continue
-                }
-                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
-                    _.label = n[1];
-                    break
-                }
-                if (6 === n[0] && _.label < s[1]) {
-                    _.label = s[1],
-                    s = n;
-                    break
-                }
-                if (s && _.label < s[2]) {
-                    _.label = s[2],
-                    _.ops.push(n);
-                    break
-                }
-                s[2] && _.ops.pop(),
-                _.trys.pop();
-                continue
-            }
-            n = e.call(t, _)
-        } catch(r) {
-            n = [6, r],
-            i = 0
-        } finally {
-            o = s = 0
-        }
-        if (5 & n[0]) throw n[1];
-        return {
-            value: n[0] ? n[1] : void 0,
-            done: !0
-        }
-    }
-    var o, i, s, a, _ = {
-        label: 0,
-        sent: function() {
-            if (1 & s[0]) throw s[1];
-            return s[1]
-        },
-        trys: [],
-        ops: []
-    };
-    return a = {
-        next: n(0),
-        "throw": n(1),
-        "return": n(2)
-    },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
-        return this
-    }),
-    a
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
 },
-Core = function() {
-    function t() {}
-    return t.init = function() {
-        var t = this;
-        EngineHookManager.init(),
-        LoginManager2.init(),
-        TaomeeSDKManager.init(),
-        FestivalVersionController.setup(),
-        egret.TextField.default_fontFamily = "黑体",
-        PetUpdateCmdListener.start(),
-        OgreCmdListener.start(),
-        XTeamController.checkActive(),
-        ToolTipManager.setup(),
-        OnlineManager.getInstance().setup(),
-        SocketErrorManager.setup(),
-        PetManager.setup(),
-        ItemManager.setup(),
-        AwardManager.setup(),
-        ServerNotifyManager.setup(),
-        CjsUtil.init(),
-        UICjsUtil.init(),
-        LifeCycleManager.init(),
-        ChannelManager.init(),
-        TeamInfoManager.init();
-        for (var e in CommandID) CommandID[e] > 0 && SocketEncryptImpl.addCmdLabel(CommandID[e], e);
-        SoundManager.init(),
-        SystemBroadcastManager.init(),
-        SoundManager.loadSound().then(function() {
-            return GameInfo.isApp ? void SoundManager.playMusic() : void egret.lifecycle.stage.once(egret.TouchEvent.TOUCH_TAP,
-            function() {
-                if (!GameInfo.isApp && 1 == GameInfo.platform) {
-                    var t = document.documentElement,
-                    e = t.requestFullScreen || t.webkitRequestFullScreen || t.mozRequestFullScreen || t.msRequestFullscreen;
-                    "undefined" != typeof e && e && e.call(t)
-                }
-                SoundManager.playMusic()
-            },
-            t)
-        }),
-        this.onBackButton(),
-        this.initThridAPPInfo(),
-        "webgl" == egret.Capabilities.renderMode ? 0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【常规模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【常规模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【常规模式】") : "canvas" == egret.Capabilities.renderMode && (0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【兼容模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【兼容模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【兼容模式】"))
+Effect_576 = function(t) {
+    function e() {
+        var e = t.call(this) || this;
+        return e._argsNum = 2,
+        e
+    }
+    return __extends(e, t),
+    e.prototype.getInfo = function(t) {
+        return void 0 === t && (t = null),
+        t[0] + "回合内免疫低于" + t[1] + "的攻击伤害"
     },
-    t.initThridAPPInfo = function() {
-        GameInfo.hasAlipayApp = !1,
-        GameInfo.hasWechatAPP = !1,
-        GameInfo.hasQQAPP = !1
-    },
-    t.onBackButton = function() {
-        var t = this;
-        document.addEventListener("backbutton",
-        function() {
-            Date.now() - t.lastClickTime < 1e3 ? (SoundManager.stopMusic(), navigator.app.exitApp()) : (window.plugins.toast.showShortCenter("再按一次退出游戏"), t.lastClickTime = Date.now())
-        },
-        !1)
-    },
-    t.PreLoaderConfigs = function() {
-        return __awaiter(this, void 0, void 0,
-        function() {
-            var t, e, n;
-            return __generator(this,
-            function(r) {
-                switch (r.label) {
-                case 0:
-                    return [4, RES.getResByUrl("resource/config/preloader_configs.json", null, this, RES.ResourceItem.TYPE_JSON)];
-                case 1:
-                    return t = r.sent(),
-                    e = t.data,
-                    n = function() {
-                        return __awaiter(this, void 0, void 0,
-                        function() {
-                            var t, r;
-                            return __generator(this,
-                            function(o) {
-                                switch (o.label) {
-                                case 0:
-                                    return 0 === e.length ? [2, Promise.resolve()] : (t = e.pop(), "xml" !== t.root ? [3, 2] : [4, config.xml.load(t.file)]);
-                                case 1:
-                                    return o.sent(),
-                                    n(),
-                                    [3, 4];
-                                case 2:
-                                    return "json" !== t.root ? [3, 4] : (r = t.file.toLocaleUpperCase()[0] + t.file.substr(1, t.file.length), [4, config[r].loadAsync()]);
-                                case 3:
-                                    o.sent(),
-                                    n(),
-                                    o.label = 4;
-                                case 4:
-                                    return [2]
-                                }
-                            })
-                        })
-                    },
-                    [4, n()];
-                case 2:
-                    return [2, r.sent()]
-                }
-            })
-        })
-    },
-    t.lastClickTime = 0,
-    t
-} ();
-__reflect(Core.prototype, "Core");
+    e
+} (AbstractEffectInfo);
+__reflect(Effect_576.prototype, "Effect_576");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -56780,6 +56980,7 @@ CommandID = function() {
     t.CHECK_FIGHT_CODE = 1022,
     t.GET_SESSION_KEY = 1016,
     t.SOCKET_RECONNECT = 41463,
+    t.SOCKET_RECONNECT_COMPLETE = 41983,
     t.SPRITE_POLL_NORMAL = 1017,
     t.SPRITE_POLL_PWD = 1018,
     t.SPRITE_POLL_QUERY = 1019,
@@ -67859,6 +68060,13 @@ PetUpdatePropController = function() {
     t.prototype.show = function(e) {
         void 0 === e && (e = !1);
         if (!e) {
+            if (OnlineManager.getInstance().isLogin1004) return FightManager.isFighting = !1,
+            DisplayUtil.removeAllChild(LevelManager.fightLevel),
+            EventManager.dispatchEvent(new PetFightEvent(PetFightEvent.ALARM_CLICK, CountExpPanelManager.overData)),
+            void setTimeout(function() {
+                ModuleManager.destroyAllModule()
+            },
+            1e3);
             var n = [90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101];
             if (n.indexOf(PetFightModel.type) > -1) return void ModuleManager.showModule("battleResultPanel", ["battleResultPanel"], this._infoArray, "BattleResultTestMachine");
             var r = [103, 104, 105];
@@ -71821,6 +72029,60 @@ PetStaticModel = function(t) {
     e
 } (eui.Group);
 __reflect(PetStaticModel.prototype, "PetStaticModel");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+ReconnectUi = function(t) {
+    function e(e) {
+        var n = t.call(this) || this;
+        return n.skinName = e,
+        n
+    }
+    return __extends(e, t),
+    e.prototype.childrenCreated = function() {
+        t.prototype.childrenCreated.call(this),
+        ImageButtonUtil.add(this.btnContinue, this.onGo, this),
+        this.anim = SpineUtil.createAnimate("reconnectUiSpine"),
+        this.anim.touchChildren = this.anim.touchEnabled = !1,
+        this.imgeBg.visible = !1,
+        this.gotoAndStop(1),
+        this.percentWidth = this.percentHeight = 100,
+        this.anim.x = 442,
+        this.anim.y = 320,
+        this.grpAll.addChild(this.anim),
+        egret.lifecycle.stage.addEventListener(egret.Event.RESIZE, this._resize, this)
+    },
+    e.prototype._resize = function(t) {
+        this.percentWidth = this.percentHeight = 100,
+        this.anim.x = 442,
+        this.anim.y = 320
+    },
+    e.prototype.gotoAndStop = function(t) {
+        this.anim && this.anim.play(1 == t ? "animation2": "animation1", 0)
+    },
+    e.prototype.onGo = function() {
+        OnlineManager.getInstance().onReConnectComplete(),
+        this.gotoAndStop(2)
+    },
+    e.prototype.destroy = function() {
+        this.grpAll.removeChild(this.anim),
+        ImageButtonUtil.removeAll(this)
+    },
+    e
+} (eui.Component);
+__reflect(ReconnectUi.prototype, "ReconnectUi");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,

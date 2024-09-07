@@ -21576,18 +21576,19 @@ PeakJihadOrderManager = function() {
     t.showOrder = function() {
         return __awaiter(this, void 0, void 0,
         function() {
-            var t, e, n;
+            var e, n, r, o;
             return __generator(this,
-            function(r) {
-                switch (r.label) {
+            function(i) {
+                switch (i.label) {
                 case 0:
                     return [4, this.updateOrderValue()];
                 case 1:
-                    return r.sent(),
-                    t = new Date(this.endTime.replace(/_/g, "/")).getTime(),
-                    e = "PeakJihadOrderManager_endTime_" + t + "_" + MainManager.actorInfo.userID,
-                    n = egret.localStorage.getItem(e),
-                    n ? ModuleManager.showModuleByID(211) : (egret.localStorage.setItem(e, "1"), ModuleManager.showModuleByID(212)),
+                    return i.sent(),
+                    e = t.endTime.split("_"),
+                    n = new Date(parseInt(e[0]), parseInt(e[1]) - 1, parseInt(e[2]), parseInt(e[3]), 0, 0, 0).getTime(),
+                    r = "PeakJihadOrderManager_endTime_" + n + "_" + MainManager.actorInfo.userID,
+                    o = egret.localStorage.getItem(r),
+                    o ? ModuleManager.showModuleByID(211) : (egret.localStorage.setItem(r, "1"), ModuleManager.showModuleByID(212)),
                     [2]
                 }
             })
@@ -21711,7 +21712,7 @@ PeakJihadOrderManager = function() {
     t.taskRed = !1,
     t.rewardRed = !1,
     t.curSeason = 3,
-    t.endTime = "2024_10_18",
+    t.endTime = "2024_10_18_10",
     t.curOutputSkinId = 636,
     t
 } ();
@@ -32130,6 +32131,53 @@ SystemTimerManager = function() {
         r = t % 86400,
         o = Math.floor(r / 3600);
         return n > 1 ? e = n + "天" + o + "小时": o > 0 ? e = o + "小时": r > 0 ? e = "1小时": e
+    },
+    t.getDateByStr = function(t, e, n, r) {
+        void 0 === e && (e = 0),
+        void 0 === n && (n = 0),
+        void 0 === r && (r = 0);
+        var o = Number(t.substr(0, 4)),
+        i = "0" == t.substr(4, 1) ? Number(t.substr(5, 1)) : Number(t.substr(4, 2)),
+        s = "0" == t.substr(6, 1) ? Number(t.substr(7, 1)) : Number(t.substr(6, 2)),
+        a = 8 == t.length ? e: "0" == t.substr(8, 1) ? Number(t.substr(9, 1)) : Number(t.substr(8, 2)),
+        _ = t.length > 8,
+        c = _ ? 0 : n,
+        l = _ ? 0 : r,
+        u = new Date(o, i - 1, s, a, c, l),
+        h = new Date(u.getTime() + 60 * this.sysDate.getTimezoneOffset() * 1e3 + 288e5);
+        return h
+    },
+    t.getDateByStrXieGang = function(t, e, n, r) {
+        void 0 === e && (e = 0),
+        void 0 === n && (n = 0),
+        void 0 === r && (r = 0);
+        var o = t.split("/"),
+        i = Number(o[0]),
+        s = Number(o[1]),
+        a = Number(o[2]),
+        _ = o.length > 3 ? Number(o[3]) : e,
+        c = o.length > 3,
+        l = c ? 0 : n,
+        u = c ? 0 : r,
+        h = new Date(i, s - 1, a, _, l, u),
+        f = new Date(h.getTime() + 60 * this.sysDate.getTimezoneOffset() * 1e3 + 288e5);
+        return f
+    },
+    t.getIsInActivity = function(e, n) {
+        var r = Number(e.substr(0, 4)),
+        o = "0" == e.substr(4, 1) ? Number(e.substr(5, 1)) : Number(e.substr(4, 2)),
+        i = "0" == e.substr(6, 1) ? Number(e.substr(7, 1)) : Number(e.substr(6, 2)),
+        s = 8 == e.length ? 0 : "0" == e.substr(8, 1) ? Number(e.substr(9, 1)) : Number(e.substr(8, 2)),
+        a = new Date(r, o - 1, i, s, 0, 0),
+        _ = new Date(a.getTime() + 60 * this.sysDate.getTimezoneOffset() * 1e3 + 288e5),
+        c = Number(n.substr(0, 4)),
+        l = "0" == n.substr(4, 1) ? Number(n.substr(5, 1)) : Number(n.substr(4, 2)),
+        u = "0" == n.substr(6, 1) ? Number(n.substr(7, 1)) : Number(n.substr(6, 2)),
+        h = 8 == n.length ? 0 : "0" == n.substr(8, 1) ? Number(n.substr(9, 1)) : Number(n.substr(8, 2)),
+        f = new Date(c, l - 1, u, h, 0, 0),
+        p = new Date(f.getTime() + 60 * this.sysDate.getTimezoneOffset() * 1e3 + 288e5),
+        d = t.sysBJDate.getTime() >= _.getTime() && t.sysBJDate.getTime() < p.getTime();
+        return d
     },
     t._tickFun = [],
     t.hasUpdate = !1,

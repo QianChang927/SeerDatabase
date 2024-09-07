@@ -9775,7 +9775,7 @@ SignBuffView = function(t) {
         var e = t.getKeys(); - 1 != e.indexOf(String(this._index)) ? (this.fightSignInfo = t.getValue(this._index), this.showIcon(!0)) : this.signInfo.showmonster == this._fightPetInfo.petID ? this.showIcon(!0) : this.showIcon(!1)
     },
     e.prototype.showIcon = function(t) {
-        if (this.fightSignInfo && (95 == this.index ? this.lvNum = this.fightSignInfo.spValue: this.lvNum = this.fightSignInfo.lvNum), t) {
+        if (this.fightSignInfo && (95 == this.index || 103 == this.index ? this.lvNum = this.fightSignInfo.spValue: this.lvNum = this.fightSignInfo.lvNum), t) {
             if (this.isShow = !0, 28 == this.index) this.tipsStr = SkillXMLInfo.getName(this.fightSignInfo.spValue);
             else {
                 var e = SignIconXmlInfo.getSptipsByidAndLvNum(this.index, this.lvNum);

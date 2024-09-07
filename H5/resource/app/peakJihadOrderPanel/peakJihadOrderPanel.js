@@ -309,14 +309,14 @@ function(e) {
             return void 0 === e && (e = !1),
             __awaiter(this, void 0, void 0,
             function() {
-                var t, i, r, n, a, o, s, u = this;
+                var t, i, r, n, a, o, s, u, h = this;
                 return __generator(this,
-                function(h) {
-                    switch (h.label) {
+                function(_) {
+                    switch (_.label) {
                     case 0:
                         return [4, PeakJihadOrderManager.updateOrderRewardAllData()];
                     case 1:
-                        return h.sent(),
+                        return _.sent(),
                         EventManager.dispatchEventWith(PeakJihadOrderManager.PeakJihadOrderPanel_UPDATE_REWARD_ITEM),
                         common.TweenUtil.numberAnimation(PeakJihadOrderManager.orderLevel, this.curLevel, .3),
                         this.currentState = "" + (2 == PeakJihadOrderManager.boughtOrder ? 2 : 1),
@@ -326,22 +326,23 @@ function(e) {
                         this.levelPro.text = r ? "已满级": PeakJihadOrderManager.orderExp + "/" + i,
                         this.bar.maximum = r ? 1 : i,
                         this.bar.value = r ? 1 : PeakJihadOrderManager.orderExp,
-                        n = Math.max(new Date(PeakJihadOrderManager.endTime.replace(/_/g, "/")).getTime() - SystemTimerManager.sysBJDate.getTime(), 0) / 1e3,
-                        this.time.text = 0 >= n ? "已到期": SystemTimerManager.getLeftTimeString(n),
-                        a = Math.min(PeakJihadOrderManager.maxLevel, PeakJihadOrderManager.needGetLevel || PeakJihadOrderManager.orderLevel + 1),
-                        this.setBigLevel(a, e),
+                        n = PeakJihadOrderManager.endTime.split("_"),
+                        a = Math.max(new Date(parseInt(n[0]), parseInt(n[1]) - 1, parseInt(n[2]), parseInt(n[3]), 0, 0, 0).getTime() - SystemTimerManager.sysBJDate.getTime(), 0) / 1e3,
+                        this.time.text = 0 >= a ? "已到期": SystemTimerManager.getLeftTimeString(a),
+                        o = Math.min(PeakJihadOrderManager.maxLevel, PeakJihadOrderManager.needGetLevel || PeakJihadOrderManager.orderLevel + 1),
+                        this.setBigLevel(o, e),
                         this.updateRedDot(),
-                        o = this._listReward.layout.gap,
-                        s = 100,
+                        s = this._listReward.layout.gap,
+                        u = 100,
                         [4, wait(0)];
                     case 2:
-                        return h.sent(),
+                        return _.sent(),
                         this.once(egret.Event.RENDER,
                         function() {
                             var e = 0;
-                            a = Math.min(PeakJihadOrderManager.maxLevel - 4, a),
-                            e = (a - 1) * (s + o),
-                            egret.Tween.get(u._listReward).to({
+                            o = Math.min(PeakJihadOrderManager.maxLevel - 4, o),
+                            e = (o - 1) * (u + s),
+                            egret.Tween.get(h._listReward).to({
                                 scrollH: e
                             },
                             300)
@@ -1506,30 +1507,31 @@ function(e) {
             this.exp.text = n ? "已满级": PeakJihadOrderManager.orderExp + "/" + r,
             this.bar.maximum = n ? 1 : r,
             this.bar.value = n ? 1 : PeakJihadOrderManager.orderExp;
-            var a = Math.max(new Date(PeakJihadOrderManager.endTime.replace(/_/g, "/")).getTime() - SystemTimerManager.sysBJDate.getTime(), 0) / 1e3;
-            this.time.text = 0 >= a ? "已到期": TimeUtil.countDownFormat(Math.floor(a), "dd天hh小时");
-            var o = ~~this.tabGroup.selectedValue || e;
-            this._dailyScroller.visible = 1 == o,
-            this.timeGroup.visible = 1 == o,
-            this._weeklyScroller.visible = 1 != o,
+            var a = PeakJihadOrderManager.endTime.split("_"),
+            o = Math.max(new Date(parseInt(a[0]), parseInt(a[1]) - 1, parseInt(a[2]), parseInt(a[3]), 0, 0, 0).getTime() - SystemTimerManager.sysBJDate.getTime(), 0) / 1e3;
+            this.time.text = 0 >= o ? "已到期": SystemTimerManager.getLeftTimeString(o);
+            var s = ~~this.tabGroup.selectedValue || e;
+            this._dailyScroller.visible = 1 == s,
+            this.timeGroup.visible = 1 == s,
+            this._weeklyScroller.visible = 1 != s,
             KTool.getMultiValueAsync([203900]).then(function(e) {
                 t.times.text = "" + Math.max(10 - e[0], 0)
             }),
             this._weeklyScroller.stopAnimation(),
             this._weeklyScroller.viewport.scrollV = 0;
-            var s = [];
-            switch (o) {
+            var u = [];
+            switch (s) {
             case 1:
-                s = PeakJihadOrderManager.taskInfos.getValue(1),
-                this._dailyList.dataProvider = new eui.ArrayCollection(s);
+                u = PeakJihadOrderManager.taskInfos.getValue(1),
+                this._dailyList.dataProvider = new eui.ArrayCollection(u);
                 break;
             case 2:
-                s = PeakJihadOrderManager.getTaskInfoSortByTime(2),
-                this._weeklyList.dataProvider = new eui.ArrayCollection(s);
+                u = PeakJihadOrderManager.getTaskInfoSortByTime(2),
+                this._weeklyList.dataProvider = new eui.ArrayCollection(u);
                 break;
             case 3:
-                s = PeakJihadOrderManager.getTaskInfoSortByTime(4),
-                this._weeklyList.dataProvider = new eui.ArrayCollection(s)
+                u = PeakJihadOrderManager.getTaskInfoSortByTime(4),
+                this._weeklyList.dataProvider = new eui.ArrayCollection(u)
             }
             this.updateRedDot()
         },

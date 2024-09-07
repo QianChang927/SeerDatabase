@@ -240,7 +240,7 @@ function(t) {
                 function(c) {
                     switch (c.label) {
                     case 0:
-                        for (t = PetAdvanceXMLInfo.getAllBackInfo(), n.lastDate = new Date(t[0].desc.split("|")[1]), e = 0; e < t.length; e++) n.taskId2petId.add(t[e].TaskId, t[e].MonsterId);
+                        for (t = PetAdvanceXMLInfo.getAllBackInfo(), n.lastDate = SystemTimerManager.getDateByStrXieGang(t[0].desc.split("|")[1]), e = 0; e < t.length; e++) n.taskId2petId.add(t[e].TaskId, t[e].MonsterId);
                         for (i = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("advancedPetPanelConfig")).root.Task, a = 0; a < t.length; a++) o = t[a].ID - 1,
                         r = i[o].Compone.Name,
                         s = r.split("|"),
@@ -919,7 +919,9 @@ function(t) {
             this.update(),
             this.adaptBgByScale(this.bg);
             var n = t.AdvancedPetBackStore.lastDate.getTime() - SystemTimerManager.sysDate.getTime();
-            n = n / 60 / 60 / 24 / 1e3,
+            n = n / 60 / 60 / 1e3;
+            var i = n / 24;
+            i = Math.ceil(i),
             n = Math.ceil(n),
             this.txtRestDay.textFlow = [{
                 text: "本期剩余时间",
@@ -928,13 +930,13 @@ function(t) {
                 }
             },
             {
-                text: n.toString(),
+                text: 24 > n ? n.toString() : i.toString(),
                 style: {
                     textColor: 16758856
                 }
             },
             {
-                text: "天",
+                text: 24 > n ? "小时": "天",
                 style: {
                     textColor: 14515020
                 }

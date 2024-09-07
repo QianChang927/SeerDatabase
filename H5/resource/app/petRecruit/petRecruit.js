@@ -1070,7 +1070,7 @@ function(t) {
             var r = FestivalVersionController.getXmlRealTableName("JackPotShop.json");
             config.xml.load(r).then(function() {
                 var t = config.xml.getRes(r).root.BlueChipShops;
-                n.time.text = t.Openday + "-" + t.Endday
+                n.time.text = "本期兑换:" + t.Openday + "-" + t.Endday + "更新前"
             }),
             this.imgRedPoint.visible = !!HotRedManager.getInstance().getHotRedState(i.HOT_ID),
             HotRedManager.getInstance().registerHotEvent(i.HOT_ID,
@@ -3274,7 +3274,9 @@ generateEUI.paths["resource/eui_skins/panel/PetRecruitMainPanelSkin.exml"] = win
     },
     i._Image12_i = function() {
         var t = new eui.Image;
-        return t.source = "pet_recruit_main_panel_time_kb_png",
+        return t.scale9Grid = new egret.Rectangle(33, 0, 32, 107),
+        t.source = "pet_recruit_main_panel_time_kb_png",
+        t.width = 298.505,
         t.x = 0,
         t.y = 0,
         t
@@ -3283,10 +3285,11 @@ generateEUI.paths["resource/eui_skins/panel/PetRecruitMainPanelSkin.exml"] = win
         var t = new eui.Label;
         return this.time = t,
         t.fontFamily = "REEJI",
-        t.size = 20,
+        t.size = 18,
         t.text = "4/7-5/4",
         t.textColor = 15922687,
-        t.x = 119,
+        t.width = 283.69,
+        t.x = 18.689,
         t.y = 5,
         t
     },
@@ -3304,7 +3307,7 @@ generateEUI.paths["resource/eui_skins/panel/PetRecruitMainPanelSkin.exml"] = win
         return this.imgRedPoint = t,
         t.source = "pet_recruit_main_panel_imgredpoint_png",
         t.visible = !1,
-        t.x = 239,
+        t.x = 284.203,
         t.y = 21,
         t
     },

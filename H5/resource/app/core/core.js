@@ -4303,18 +4303,20 @@ function(t, e) {
     n.prototype = e.prototype,
     t.prototype = new n
 },
-Effect_17 = function(t) {
+Effect_170 = function(t) {
     function e() {
-        return t.call(this) || this
+        var e = t.call(this) || this;
+        return e._argsNum = 1,
+        e
     }
     return __extends(e, t),
     e.prototype.getInfo = function(t) {
         return void 0 === t && (t = null),
-        "1回合等待，次回合攻击"
+        "若先出手，则免疫当回合伤害并回复1/" + t[0] + "的最大体力值"
     },
     e
 } (AbstractEffectInfo);
-__reflect(Effect_17.prototype, "Effect_17");
+__reflect(Effect_170.prototype, "Effect_170");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -4368,6 +4370,40 @@ SkillNameReplaceXmlInfo = function() {
     t
 } ();
 __reflect(SkillNameReplaceXmlInfo.prototype, "SkillNameReplaceXmlInfo");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+SkillTipNewXmlInfo = function() {
+    function t() {}
+    return t.setup = function() {
+        var t = this;
+        return new Promise(function(e, n) {
+            var r = RES.getRes("MoveFgtvDes_json").root,
+            o = r.Move;
+            t.replaceInfos = new HashMap;
+            for (var i = 0,
+            s = o; i < s.length; i++) {
+                var a = s[i],
+                _ = Number(a.ID),
+                c = String(a.FgtvDes).split("|").join("\n");
+                t.replaceInfos.add(_, c)
+            }
+            e()
+        })
+    },
+    t.getSkillTipBySkillId = function(t) {
+        if (this.replaceInfos.getValue(t)) {
+            var e = this.replaceInfos.getValue(t);
+            return e
+        }
+        return ""
+    },
+    t
+} ();
+__reflect(SkillTipNewXmlInfo.prototype, "SkillTipNewXmlInfo");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -34450,6 +34486,9 @@ ZipManager = function(t) {
                     [4, SkillNameReplaceXmlInfo.setup()];
                 case 30:
                     return e.sent(),
+                    [4, SkillTipNewXmlInfo.setup()];
+                case 31:
+                    return e.sent(),
                     egret.log("json 解析花费：" + (Date.now() - t)),
                     this.completed = !0,
                     EventManager.dispatchEvent(new egret.Event("zipLoadComplete")),
@@ -46322,6 +46361,33 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+Effect_17 = function(t) {
+    function e() {
+        return t.call(this) || this
+    }
+    return __extends(e, t),
+    e.prototype.getInfo = function(t) {
+        return void 0 === t && (t = null),
+        "1回合等待，次回合攻击"
+    },
+    e
+} (AbstractEffectInfo);
+__reflect(Effect_17.prototype, "Effect_17");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
 __awaiter = this && this.__awaiter ||
 function(t, e, n, r) {
     return new(n || (n = Promise))(function(o, i) {
@@ -46537,35 +46603,6 @@ Core = function() {
     t
 } ();
 __reflect(Core.prototype, "Core");
-var __reflect = this && this.__reflect ||
-function(t, e, n) {
-    t.__class__ = e,
-    n ? n.push(e) : n = [e],
-    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
-},
-__extends = this && this.__extends ||
-function(t, e) {
-    function n() {
-        this.constructor = t
-    }
-    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
-    n.prototype = e.prototype,
-    t.prototype = new n
-},
-Effect_170 = function(t) {
-    function e() {
-        var e = t.call(this) || this;
-        return e._argsNum = 1,
-        e
-    }
-    return __extends(e, t),
-    e.prototype.getInfo = function(t) {
-        return void 0 === t && (t = null),
-        "若先出手，则免疫当回合伤害并回复1/" + t[0] + "的最大体力值"
-    },
-    e
-} (AbstractEffectInfo);
-__reflect(Effect_170.prototype, "Effect_170");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -60236,15 +60273,17 @@ SkillInfoTip = function() {
             d > 0 && (a += "\r<font color='#40e3fb'>必中</font>\r"),
             "" != t.additionStr && null != t.additionStr && (a += "\r<font color='#00ffff'>" + t.additionStr + "</font>"),
             n && t.markStr && "" != t.markStr ? a += "\r<font color='#00ffff'>" + t.markStr + "</font>": t.markStr = "";
-            for (var g = 0,
-            E = 0,
-            I = c; E < I.length; E++) {
-                var y = I[E];
-                if ("" != y) {
-                    var m = (1e6 + Number(y), EffectInfoManager.getArgsNum(Number(y))),
-                    v = EffectInfoManager.getInfo(Number(y), l.slice(g, g + m));
-                    g += m,
-                    a += "\r" + v
+            var g = SkillTipNewXmlInfo.getSkillTipBySkillId(e);
+            if ("" != g) a += "\r" + g;
+            else for (var E = 0,
+            I = 0,
+            y = c; I < y.length; I++) {
+                var m = y[I];
+                if ("" != m) {
+                    var v = (1e6 + Number(m), EffectInfoManager.getArgsNum(Number(m))),
+                    T = EffectInfoManager.getInfo(Number(m), l.slice(E, E + v));
+                    E += v,
+                    a += "\r" + T
                 }
             }
             1 == SkillXMLInfo.getGpFtSkillType(e) && (a += "\r<font color='#33ff00'>组队时可以向己方任意目标使用</font>"),
@@ -68845,20 +68884,28 @@ PetFriendsXMLInfo = function() {
     t.getFriendAllDesc = function(t, e) {
         if (!this.isFriendPet(t, e)) return "";
         for (var n = this.getAffectedSkills(t, e), r = [], o = 0, i = n; o < i.length; o++) {
-            for (var s = i[o], a = SkillXMLInfo.getFriendSideEffects(s), _ = SkillXMLInfo.getFriendSideEffectArgs(s), c = 0, l = "", u = 0, h = a; u < h.length; u++) {
-                var f = h[u];
-                if ("" != f) {
-                    var p = (1e6 + Number(f), EffectInfoManager.getArgsNum(Number(f))),
-                    d = EffectInfoManager.getInfo(Number(f), _.slice(c, c + p));
-                    c += p,
-                    l += "\r" + d
+            var s = i[o],
+            a = SkillXMLInfo.getFriendSideEffects(s),
+            _ = SkillXMLInfo.getFriendSideEffectArgs(s),
+            c = "",
+            l = SkillTipNewXmlInfo.getSkillTipBySkillId(s);
+            if ("" != l) c += "\r" + l;
+            else for (var u = 0,
+            h = 0,
+            f = a; h < f.length; h++) {
+                var p = f[h];
+                if ("" != p) {
+                    var d = (1e6 + Number(p), EffectInfoManager.getArgsNum(Number(p))),
+                    g = EffectInfoManager.getInfo(Number(p), _.slice(u, u + d));
+                    u += d,
+                    c += "\r" + g
                 }
             }
-            r.push(l)
+            r.push(c)
         }
         n = this.getAffectedEffects(t, e);
-        for (var g = 0,
-        E = n; g < E.length; g++) s = E[g],
+        for (var E = 0,
+        I = n; E < I.length; E++) s = I[E],
         r.push(PetEffectXMLInfo.getDescByIdx(s));
         return r.join("\r\r")
     },

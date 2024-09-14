@@ -5271,15 +5271,17 @@ BattleSkillTipController = function() {
             "" != g && (a += "\r<font color='#ffffff'>" + g + "</font>\r"),
             "" != t.additionStr && null != t.additionStr && (a += "\r<font color='#00ffff'>" + t.additionStr + "</font>"),
             i && t.markStr && "" != t.markStr ? a += "\r<font color='#00ffff'>" + t.markStr + "</font>": t.markStr = "";
-            for (var m = 0,
-            y = 0,
-            v = l; y < v.length; y++) {
-                var I = v[y];
-                if ("" != I) {
-                    var w = (1e6 + Number(I), EffectInfoManager.getArgsNum(Number(I))),
-                    M = EffectInfoManager.getInfo(Number(I), c.slice(m, m + w));
-                    m += w,
-                    a += "\r" + M
+            var m = SkillTipNewXmlInfo.getSkillTipBySkillId(e);
+            if ("" != m) a += "\r" + m;
+            else for (var y = 0,
+            v = 0,
+            I = l; v < I.length; v++) {
+                var w = I[v];
+                if ("" != w) {
+                    var M = (1e6 + Number(w), EffectInfoManager.getArgsNum(Number(w))),
+                    P = EffectInfoManager.getInfo(Number(w), c.slice(y, y + M));
+                    y += M,
+                    a += "\r" + P
                 }
             }
             1 == SkillXMLInfo.getGpFtSkillType(e) && (a += "\r<font color='#33ff00'>组队时可以向己方任意目标使用</font>"),

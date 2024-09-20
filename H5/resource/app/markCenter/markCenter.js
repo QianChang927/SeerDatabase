@@ -1545,7 +1545,7 @@ function(t) {
                 },
                 i)
             },
-            i = this, n = 1; 14 >= n; n++) e(n);
+            i = this, n = 1; 19 >= n; n++) e(n);
             for (var r = function(e) {
                 ImageButtonUtil.add(a["btnb" + e],
                 function() {
@@ -2821,7 +2821,7 @@ generateEUI.paths["resource/eui_skins/MarkUpSkin.exml"] = window.MarkUpSkin = fu
 generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.GemslectpopSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["a1", "btna1", "a2", "btna2", "a3", "btna3", "a4", "btna4", "a5", "btna5", "a6", "btna6", "a7", "btna7", "a8", "btna8", "a9", "btna9", "a10", "btna10", "a11", "btna11", "a12", "btna12", "a13", "btna13", "a14", "btna14", "b", "b1", "btnb1", "b2", "btnb2", "b3", "btnb3", "b4", "btnb4", "b5", "btnb5", "b6", "btnb6", "b7", "btnb7", "b8", "btnb8", "b9", "btnb9", "b10", "btnb10", "b11", "btnb11", "b12", "btnb12", "b13", "btnb13", "b14", "btnb14", "a", "gemrPop"],
+        this.skinParts = ["a1", "btna1", "a2", "btna2", "a3", "btna3", "a4", "btna4", "a5", "btna5", "a6", "btna6", "a7", "btna7", "a8", "btna8", "a9", "btna9", "a10", "btna10", "a11", "btna11", "a12", "btna12", "a13", "btna13", "a14", "btna14", "a15", "btna15", "a16", "btna16", "a17", "btna17", "a18", "btna18", "a19", "btna19", "b", "b1", "btnb1", "b2", "btnb2", "b3", "btnb3", "b4", "btnb4", "b5", "btnb5", "b6", "btnb6", "b7", "btnb7", "b8", "btnb8", "b9", "btnb9", "b10", "btnb10", "b11", "btnb11", "b12", "btnb12", "b13", "btnb13", "b14", "btnb14", "a", "gemrPop"],
         this.height = 278,
         this.width = 508,
         this.elementsContent = [this.gemrPop_i()]
@@ -2833,7 +2833,7 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         return this.gemrPop = t,
         t.x = 0,
         t.y = 0,
-        t.elementsContent = [this._Image1_i(), this.b_i(), this._Image16_i(), this._Label1_i(), this.a_i()],
+        t.elementsContent = [this._Image1_i(), this.b_i(), this._Image21_i(), this._Label1_i(), this.a_i()],
         t
     },
     i._Image1_i = function() {
@@ -2864,7 +2864,7 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.x = 41,
         t.y = 69,
         t.layout = this._TileLayout1_i(),
-        t.elementsContent = [this.btna1_i(), this.btna2_i(), this.btna3_i(), this.btna4_i(), this.btna5_i(), this.btna6_i(), this.btna7_i(), this.btna8_i(), this.btna9_i(), this.btna10_i(), this.btna11_i(), this.btna12_i(), this.btna13_i(), this.btna14_i()],
+        t.elementsContent = [this.btna1_i(), this.btna2_i(), this.btna3_i(), this.btna4_i(), this.btna5_i(), this.btna6_i(), this.btna7_i(), this.btna8_i(), this.btna9_i(), this.btna10_i(), this.btna11_i(), this.btna12_i(), this.btna13_i(), this.btna14_i(), this.btna15_i(), this.btna16_i(), this.btna17_i(), this.btna18_i(), this.btna19_i()],
         t
     },
     i._TileLayout1_i = function() {
@@ -3282,7 +3282,157 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.y = 3,
         t
     },
+    i.btna15_i = function() {
+        var t = new eui.Group;
+        return this.btna15 = t,
+        t.cacheAsBitmap = !0,
+        t.visible = !0,
+        t.x = 182,
+        t.y = 175,
+        t.elementsContent = [this._Image16_i(), this.a15_i()],
+        t
+    },
     i._Image16_i = function() {
+        var t = new eui.Image;
+        return t.source = "gemslectpop_jx_18_kb_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.a15_i = function() {
+        var t = new eui.Label;
+        return this.a15 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "真目宝石",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 96,
+        t.x = 11,
+        t.y = 3,
+        t
+    },
+    i.btna16_i = function() {
+        var t = new eui.Group;
+        return this.btna16 = t,
+        t.cacheAsBitmap = !0,
+        t.visible = !0,
+        t.x = 182,
+        t.y = 175,
+        t.elementsContent = [this._Image17_i(), this.a16_i()],
+        t
+    },
+    i._Image17_i = function() {
+        var t = new eui.Image;
+        return t.source = "gemslectpop_jx_18_kb_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.a16_i = function() {
+        var t = new eui.Label;
+        return this.a16 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "强能宝石",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 96,
+        t.x = 11,
+        t.y = 3,
+        t
+    },
+    i.btna17_i = function() {
+        var t = new eui.Group;
+        return this.btna17 = t,
+        t.cacheAsBitmap = !0,
+        t.visible = !0,
+        t.x = 182,
+        t.y = 175,
+        t.elementsContent = [this._Image18_i(), this.a17_i()],
+        t
+    },
+    i._Image18_i = function() {
+        var t = new eui.Image;
+        return t.source = "gemslectpop_jx_18_kb_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.a17_i = function() {
+        var t = new eui.Label;
+        return this.a17 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "感染宝石",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 96,
+        t.x = 11,
+        t.y = 3,
+        t
+    },
+    i.btna18_i = function() {
+        var t = new eui.Group;
+        return this.btna18 = t,
+        t.cacheAsBitmap = !0,
+        t.visible = !0,
+        t.x = 182,
+        t.y = 175,
+        t.elementsContent = [this._Image19_i(), this.a18_i()],
+        t
+    },
+    i._Image19_i = function() {
+        var t = new eui.Image;
+        return t.source = "gemslectpop_jx_18_kb_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.a18_i = function() {
+        var t = new eui.Label;
+        return this.a18 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "竭力宝石",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 96,
+        t.x = 11,
+        t.y = 3,
+        t
+    },
+    i.btna19_i = function() {
+        var t = new eui.Group;
+        return this.btna19 = t,
+        t.cacheAsBitmap = !0,
+        t.visible = !0,
+        t.x = 182,
+        t.y = 175,
+        t.elementsContent = [this._Image20_i(), this.a19_i()],
+        t
+    },
+    i._Image20_i = function() {
+        var t = new eui.Image;
+        return t.source = "gemslectpop_jx_18_kb_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.a19_i = function() {
+        var t = new eui.Label;
+        return this.a19 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.text = "爆伤宝石",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 96,
+        t.x = 11,
+        t.y = 3,
+        t
+    },
+    i._Image21_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_17_kb_3_png",
         t.x = 9,
@@ -3335,10 +3485,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 0,
         t.y = 0,
-        t.elementsContent = [this._Image17_i(), this.b1_i()],
+        t.elementsContent = [this._Image22_i(), this.b1_i()],
         t
     },
-    i._Image17_i = function() {
+    i._Image22_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3364,10 +3514,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 152,
         t.y = 0,
-        t.elementsContent = [this._Image18_i(), this.b2_i()],
+        t.elementsContent = [this._Image23_i(), this.b2_i()],
         t
     },
-    i._Image18_i = function() {
+    i._Image23_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3393,10 +3543,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 303,
         t.y = 0,
-        t.elementsContent = [this._Image19_i(), this.b3_i()],
+        t.elementsContent = [this._Image24_i(), this.b3_i()],
         t
     },
-    i._Image19_i = function() {
+    i._Image24_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3422,10 +3572,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 0,
         t.y = 49,
-        t.elementsContent = [this._Image20_i(), this.b4_i()],
+        t.elementsContent = [this._Image25_i(), this.b4_i()],
         t
     },
-    i._Image20_i = function() {
+    i._Image25_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3452,10 +3602,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.visible = !0,
         t.x = 152,
         t.y = 49,
-        t.elementsContent = [this._Image21_i(), this.b5_i()],
+        t.elementsContent = [this._Image26_i(), this.b5_i()],
         t
     },
-    i._Image21_i = function() {
+    i._Image26_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3482,10 +3632,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 303,
         t.y = 49,
-        t.elementsContent = [this._Image22_i(), this.b6_i()],
+        t.elementsContent = [this._Image27_i(), this.b6_i()],
         t
     },
-    i._Image22_i = function() {
+    i._Image27_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3511,10 +3661,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 0,
         t.y = 99,
-        t.elementsContent = [this._Image23_i(), this.b7_i()],
+        t.elementsContent = [this._Image28_i(), this.b7_i()],
         t
     },
-    i._Image23_i = function() {
+    i._Image28_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3540,10 +3690,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 152,
         t.y = 99,
-        t.elementsContent = [this._Image24_i(), this.b8_i()],
+        t.elementsContent = [this._Image29_i(), this.b8_i()],
         t
     },
-    i._Image24_i = function() {
+    i._Image29_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3569,10 +3719,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 303,
         t.y = 99,
-        t.elementsContent = [this._Image25_i(), this.b9_i()],
+        t.elementsContent = [this._Image30_i(), this.b9_i()],
         t
     },
-    i._Image25_i = function() {
+    i._Image30_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3598,10 +3748,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 0,
         t.y = 148,
-        t.elementsContent = [this._Image26_i(), this.b10_i()],
+        t.elementsContent = [this._Image31_i(), this.b10_i()],
         t
     },
-    i._Image26_i = function() {
+    i._Image31_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3627,10 +3777,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 10,
         t.y = 158,
-        t.elementsContent = [this._Image27_i(), this.b11_i()],
+        t.elementsContent = [this._Image32_i(), this.b11_i()],
         t
     },
-    i._Image27_i = function() {
+    i._Image32_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3656,10 +3806,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 20,
         t.y = 168,
-        t.elementsContent = [this._Image28_i(), this.b12_i()],
+        t.elementsContent = [this._Image33_i(), this.b12_i()],
         t
     },
-    i._Image28_i = function() {
+    i._Image33_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3685,10 +3835,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 30,
         t.y = 178,
-        t.elementsContent = [this._Image29_i(), this.b13_i()],
+        t.elementsContent = [this._Image34_i(), this.b13_i()],
         t
     },
-    i._Image29_i = function() {
+    i._Image34_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,
@@ -3714,10 +3864,10 @@ generateEUI.paths["resource/eui_skins/new/GemslectpopSkin.exml"] = window.Gemsle
         t.cacheAsBitmap = !0,
         t.x = 40,
         t.y = 188,
-        t.elementsContent = [this._Image30_i(), this.b14_i()],
+        t.elementsContent = [this._Image35_i(), this.b14_i()],
         t
     },
-    i._Image30_i = function() {
+    i._Image35_i = function() {
         var t = new eui.Image;
         return t.source = "gemslectpop_jx_18_kb_png",
         t.x = 0,

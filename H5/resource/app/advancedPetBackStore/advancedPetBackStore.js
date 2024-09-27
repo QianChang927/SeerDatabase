@@ -741,8 +741,9 @@ function(t) {
             this)
         },
         n.prototype.initPanel = function(e) {
-            var n = this;
-            if (this.imgBg.source = "detail_panel_bg_" + this.data.taskId + "_png", this.adaptBgByScale(this.imgBg), this.data.progress = t.AdvancedPetBackStore.petAdvInfos.getValue(this.data.petId).curProgress, this.data.progress < 0) DisplayUtil.setEnabled(this.btnStartAdv, !1),
+            var n = this,
+            i = t.AdvancedPetBackStore.petAdvH5Jump2Get.getValue(this.data.taskId);
+            if (i ? DisplayUtil.setEnabled(this.btnGet, !0, !0) : DisplayUtil.setEnabled(this.btnGet, !1, !0), this.imgBg.source = "detail_panel_bg_" + this.data.taskId + "_png", this.adaptBgByScale(this.imgBg), this.data.progress = t.AdvancedPetBackStore.petAdvInfos.getValue(this.data.petId).curProgress, this.data.progress < 0) DisplayUtil.setEnabled(this.btnStartAdv, !1),
             this.btnStartAdv.visible = !0,
             this.grpBuyComp.visible = !1;
             else if (this.data.progress == this.data.allProgress) if (null != e) DisplayUtil.setEnabled(this.btnStartAdv, !0),
@@ -754,12 +755,12 @@ function(t) {
                 this.btnStartAdv.visible = !1,
                 this.grpAnim.visible = !0,
                 MainManager.stage.touchEnabled = MainManager.stage.touchChildren = !1;
-                var i = (4 == this.data.progress, "hebing"),
-                a = 4 == this.data.progress ? "jinjieAnim": "jinjieAnim2";
+                var a = (4 == this.data.progress, "hebing"),
+                o = 4 == this.data.progress ? "jinjieAnim": "jinjieAnim2";
                 this.jinjieAnim && (this.jinjieAnim.visible = !1),
                 this.jinjieAnim2 && (this.jinjieAnim2.visible = !1),
-                this[a].visible = !0,
-                this[a].play(i, 1, 0, {
+                this[o].visible = !0,
+                this[o].play(a, 1, 0, {
                     playEnd: function() {
                         DisplayUtil.setEnabled(n.btnStartAdv, !0),
                         n.btnStartAdv.visible = !0,
@@ -770,18 +771,18 @@ function(t) {
                 })
             } else this.btnStartAdv.visible = !1,
             this.grpBuyComp.visible = !0;
-            if (DisplayUtil.removeAllChild(this.grpComps), 4 == this.data.allProgress) for (var o = 1; o <= this.data.allProgress; o++) {
-                var r = new t.AdvancedPetBackCompItem;
-                r.setData(this.data.taskId, o, o <= t.AdvancedPetBackStore.petAdvInfos.getValue(this.data.petId).curProgress),
-                this.grpComps.addChild(r),
-                r.horizontalCenter = this.PosX4Arr[o - 1],
-                r.y = this.PosY4Arr[o - 1]
-            } else if (5 == this.data.allProgress) for (var o = 1; o <= this.data.allProgress; o++) {
-                var r = new t.AdvancedPetBackCompItem;
-                r.setData(this.data.taskId, o, o <= t.AdvancedPetBackStore.petAdvInfos.getValue(this.data.petId).curProgress),
-                this.grpComps.addChild(r),
-                r.horizontalCenter = this.PosX5Arr[o - 1],
-                r.y = this.PosY5Arr[o - 1]
+            if (DisplayUtil.removeAllChild(this.grpComps), 4 == this.data.allProgress) for (var r = 1; r <= this.data.allProgress; r++) {
+                var s = new t.AdvancedPetBackCompItem;
+                s.setData(this.data.taskId, r, r <= t.AdvancedPetBackStore.petAdvInfos.getValue(this.data.petId).curProgress),
+                this.grpComps.addChild(s),
+                s.horizontalCenter = this.PosX4Arr[r - 1],
+                s.y = this.PosY4Arr[r - 1]
+            } else if (5 == this.data.allProgress) for (var r = 1; r <= this.data.allProgress; r++) {
+                var s = new t.AdvancedPetBackCompItem;
+                s.setData(this.data.taskId, r, r <= t.AdvancedPetBackStore.petAdvInfos.getValue(this.data.petId).curProgress),
+                this.grpComps.addChild(s),
+                s.horizontalCenter = this.PosX5Arr[r - 1],
+                s.y = this.PosY5Arr[r - 1]
             }
         },
         n.prototype.destroy = function() {
@@ -795,15 +796,30 @@ function(t) {
         n.prototype.Try2GetPet2 = function() {
             var e = t.AdvancedPetBackStore.petAdvH5Jump2Get.getValue(this.data.taskId),
             n = t.AdvancedPetBackStore.petAdvFlashJump2Get.getValue(this.data.taskId);
-            if (e) if ("yinzi" == e) ModuleManager.showModuleByID(15, {
-                type: "7",
-                petId: "" + this.data.petId
-            });
-            else {
-                var i = 0;
-                i = Number(e),
-                ModuleManager.showModuleByID(i)
+            if (e) {
+                if (e.indexOf("|") > 0 && (e = e.split("|")[0]), "yinzi" == e) ModuleManager.showModuleByID(15, {
+                    type: "7",
+                    petId: "" + this.data.petId
+                });
+                else if (!this.SpecialJump(e)) {
+                    var i = 0;
+                    i = Number(e),
+                    ModuleManager.showModuleByID(i)
+                }
             } else n ? Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得") : (IS_RELEASE || console.warn("页游也没有获得途径！"), Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得"))
+        },
+        n.prototype.SpecialJump = function(t) {
+            switch (t) {
+            case "SP1":
+                return ModuleManager.CloseAll(),
+                ModuleManager.showModuleByID(18, {
+                    type: 1,
+                    subType: "EXPLOIT",
+                    childParam: 3
+                }),
+                !0
+            }
+            return ! 1
         },
         n
     } (BasicPanel);
@@ -1029,6 +1045,7 @@ function(t) {
             this.taskId = t.AdvancedPetBackStore.taskId2petId.getKey(this.petId),
             this.moduleStr = t.AdvancedPetBackStore.petAdvH5Jump2Get.getValue(this.taskId);
             var n = t.AdvancedPetBackStore.petAdvFlashJump2Get.getValue(this.taskId);
+            this.moduleStr && this.moduleStr.indexOf("|") > 0 && (this.moduleStr = this.moduleStr.split("|")[1]),
             this.moduleStr || n ? this.goBtn.visible = !0 : this.goBtn.visible = !1,
             this.addEvent(),
             this.checkState(),
@@ -1181,6 +1198,18 @@ function(t) {
         },
         n.prototype.buyFif_3705 = function() {},
         n.prototype.buyEff_3705 = function() {},
+        n.prototype.init_3506 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3506 = function() {},
+        n.prototype.buyEff_3506 = function() {},
+        n.prototype.init_3156 = function() {
+            this.oneKeyFif.visible = !1,
+            this.oneKeyEff.visible = !1
+        },
+        n.prototype.buyFif_3156 = function() {},
+        n.prototype.buyEff_3156 = function() {},
         n
     } (PopView);
     t.NecessaryPop = e,

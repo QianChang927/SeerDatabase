@@ -130,8 +130,8 @@ function(t) {
         function i() {
             var t = e.call(this) || this;
             return t.isVersionControl = !0,
-            t.startTime = "2024/04/30 00:00:00",
-            t.endTime = "2024/05/02 23:59:59",
+            t.startTime = "2024/09/27 10:00:00",
+            t.endTime = "2024/10/04 09:59:59",
             t.skinName = "AllChaptersPanelSkin",
             t
         }

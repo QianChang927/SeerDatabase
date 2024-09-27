@@ -1,0 +1,15 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            105753
+        ]
+    },
+    "values": [
+        {
+            "name": "completedArr",
+            "type": "url",
+            "value": "105753.1|105753.2|105753.3|105753.4|105753.5"
+        }
+    ],
+    "actions": []
+}

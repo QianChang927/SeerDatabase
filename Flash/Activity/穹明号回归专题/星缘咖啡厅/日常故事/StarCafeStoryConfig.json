@@ -1,0 +1,207 @@
+{
+    "values": [
+        {
+            "name": "backPanel",
+            "type": "value",
+            "value": "StarCafePreheatPop"
+        },
+        {
+            "name": "actorInfoList",
+            "type": "value",
+            "value": [
+                {
+                    "id": 1,
+                    "Name": "我",
+                    "Role": "",
+                    "showIDArr": [
+                        1
+                    ]
+                },
+                {
+                    "id": 101,
+                    "Name": "我",
+                    "Role": "",
+                    "showIDArr": [
+                        101
+                    ]
+                },
+                {
+                    "id": 102,
+                    "Name": "我",
+                    "Role": "",
+                    "showIDArr": [
+                        102
+                    ]
+                },
+                {
+                    "id": 103,
+                    "Name": "我",
+                    "Role": "",
+                    "showIDArr": [
+                        103
+                    ]
+                },
+                {
+                    "id": 300,
+                    "Name": "武心婵",
+                    "Role": "",
+                    "showIDArr": [
+                        300
+                    ]
+                },
+                {
+                    "id": 301,
+                    "Name": "武心婵",
+                    "Role": "",
+                    "showIDArr": [
+                        301
+                    ]
+                },
+                {
+                    "id": 302,
+                    "Name": "武心婵",
+                    "Role": "",
+                    "showIDArr": [
+                        302
+                    ]
+                },
+                {
+                    "id": 303,
+                    "Name": "武心婵",
+                    "Role": "",
+                    "showIDArr": [
+                        303
+                    ]
+                },
+                {
+                    "id": 304,
+                    "Name": "武心婵",
+                    "Role": "",
+                    "showIDArr": [
+                        304
+                    ]
+                },
+                {
+                    "id": 310,
+                    "Name": "卫岳",
+                    "Role": "",
+                    "showIDArr": [
+                        310
+                    ]
+                },
+                {
+                    "id": 311,
+                    "Name": "卫岳",
+                    "Role": "",
+                    "showIDArr": [
+                        311
+                    ]
+                },
+                {
+                    "id": 320,
+                    "Name": "霍光",
+                    "Role": "",
+                    "showIDArr": [
+                        320
+                    ]
+                },
+                {
+                    "id": 321,
+                    "Name": "霍光",
+                    "Role": "",
+                    "showIDArr": [
+                        321
+                    ]
+                },
+                {
+                    "id": 400,
+                    "Name": "招财",
+                    "Role": "AA金牌主理人",
+                    "showIDArr": [
+                        400
+                    ]
+                },
+                {
+                    "id": 401,
+                    "Name": "招财",
+                    "Role": "AA金牌主理人",
+                    "showIDArr": [
+                        401
+                    ]
+                },
+                {
+                    "id": 402,
+                    "Name": "招财",
+                    "Role": "AA金牌主理人",
+                    "showIDArr": [
+                        402
+                    ]
+                },
+                {
+                    "id": 403,
+                    "Name": "招财",
+                    "Role": "AA金牌主理人",
+                    "showIDArr": [
+                        403
+                    ]
+                },
+                {
+                    "id": 404,
+                    "Name": "招财",
+                    "Role": "AA金牌主理人",
+                    "showIDArr": [
+                        404
+                    ]
+                },
+                {
+                    "id": 42,
+                    "Name": "？？？",
+                    "Role": "",
+                    "showIDArr": [
+                        42
+                    ]
+                },
+                {
+                    "id": 43,
+                    "Name": "？？？",
+                    "Role": "",
+                    "showIDArr": [
+                        43
+                    ]
+                }
+            ],
+            "tips": "角色名字关系"
+        },
+        {
+            "name": "bgInfoList",
+            "type": "value",
+            "value": [
+                {
+                    "id": 1,
+                    "Name": "星缘大街"
+                },
+                {
+                    "id": 2,
+                    "Name": "星缘咖啡店"
+                },
+                {
+                    "id": 202,
+                    "Name": "星缘咖啡店"
+                },
+                {
+                    "id": 3,
+                    "Name": "后厨"
+                }
+            ],
+            "tips": "场景名字"
+        },
+        {
+            "END": "END"
+        }
+    ],
+    "actions": [
+        {
+            "END": "END"
+        }
+    ]
+}

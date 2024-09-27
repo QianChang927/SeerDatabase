@@ -120,31 +120,32 @@ function(e) {
                 r = i[0].name.split(";").map(Number);
                 h = i[0].result;
                 var u = SystemTimerManager.get0DateByStr(i[0].time.split("-")[0]),
-                l = SystemTimerManager.get24DateByStr(i[0].time.split("-")[1]);
-                this._isInVoteTime = SystemTimerManager.sysBJDate.getTime() >= u.getTime() && SystemTimerManager.sysBJDate.getTime() < l.getTime(),
-                this.imgEmpty.visible = SystemTimerManager.sysBJDate.getTime() < u.getTime(),
-                this.txTime.text = 4 == t ? "限制级票选:": "准限制级票选:",
-                this.txTime.text = this.txTime.text + (u.getMonth() + 1 + "." + u.getDate() + "~" + (l.getMonth() + 1) + "." + l.getDate());
-                var _ = i[0].subkey,
-                c = [];
+                l = new Date(u.getFullYear(), u.getMonth(), u.getDate(), 10),
+                _ = SystemTimerManager.get24DateByStr(i[0].time.split("-")[1]);
+                this._isInVoteTime = SystemTimerManager.sysBJDate.getTime() >= l.getTime() && SystemTimerManager.sysBJDate.getTime() < _.getTime(),
+                this.imgEmpty.visible = SystemTimerManager.sysBJDate.getTime() < l.getTime(),
+                this.txTime.text = "票选时间:",
+                this.txTime.text = this.txTime.text + (l.getMonth() + 1 + "." + l.getDate() + "更新后~" + (_.getMonth() + 1) + "." + _.getDate());
+                var c = i[0].subkey,
+                p = [];
                 this.imgEmpty.visible = !1,
                 this.imgBtnVote.visible = !1,
                 this.imgeBtnResult.visible = !1,
-                SystemTimerManager.sysBJDate.getTime() < u.getTime() ? this.imgEmpty.visible = !0 : this.imgBtnVote.visible = this._isInVoteTime,
-                SystemTimerManager.sysBJDate.getTime() >= l.getTime() && "" != h && void 0 != h && (this.imgeBtnResult.visible = !0),
-                KTool.getRangeRankList(191 + s[t] - 1, _, 0, r.length - 1,
+                SystemTimerManager.sysBJDate.getTime() < l.getTime() ? this.imgEmpty.visible = !0 : this.imgBtnVote.visible = this._isInVoteTime,
+                SystemTimerManager.sysBJDate.getTime() >= _.getTime() && "" != h && void 0 != h && (this.imgeBtnResult.visible = !0),
+                KTool.getRangeRankList(191 + s[t] - 1, c, 0, r.length - 1,
                 function(t) {
                     for (var i = 0,
                     r = 0; r < t.length; r++) i += t[r].score;
-                    for (var r = 0; 10 > r; r++) if (r < t.length) {
-                        var a = new n;
-                        a.rank = r + 1,
-                        a.petId = t[r].userid,
-                        a.score = t[r].score,
-                        a.winNum = Math.round(a.score / i * 100),
-                        c.push(a)
+                    for (var a = t.length > 20 ? 20 : t.length, r = 0; a > r; r++) if (r < t.length) {
+                        var o = new n;
+                        o.rank = r + 1,
+                        o.petId = t[r].userid,
+                        o.score = t[r].score,
+                        o.winNum = Math.round(o.score / i * 100),
+                        p.push(o)
                     }
-                    e._voteList.dataProvider = new eui.ArrayCollection(c)
+                    e._voteList.dataProvider = new eui.ArrayCollection(p)
                 })
             }
         },
@@ -231,7 +232,7 @@ function(e) {
         t.prototype.update = function() {
             this.petId = this.info.petId;
             var e = this.info.rank,
-            t = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十"];
+            t = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九", "二十"];
             this.txNum.text = "第" + t[e] + "名",
             this.txtLv.text = this.petId + "";
             var i = PetXMLInfo.getName(this.petId);
@@ -4752,7 +4753,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
 generateEUI.paths["resource/eui_skins/PeakjihadSportsPoolSkin.exml"] = window.PeakJihadSportsPoolSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["bg", "icon0", "num0", "icon1", "num1", "menuGroup", "_list", "_scroller", "_voteList", "imgBtnVote", "imgeBtnResult", "imgTimebg", "txTime", "imgEmpty", "grpVote"],
+        this.skinParts = ["bg", "icon0", "num0", "icon1", "num1", "menuGroup", "_list", "_scroller", "_voteList", "_scroller_vote", "imgBtnVote", "imgeBtnResult", "imgTimebg", "txTime", "imgEmpty", "grpVote"],
         this.height = 640,
         this.width = 1136,
         this.elementsContent = [this.bg_i(), this._Group3_i(), this.menuGroup_i(), this._scroller_i(), this.grpVote_i()]
@@ -4884,7 +4885,20 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsPoolSkin.exml"] = window.Pe
         e.horizontalCenter = 78.5,
         e.width = 913,
         e.y = 64,
-        e.elementsContent = [this._voteList_i(), this.imgBtnVote_i(), this.imgeBtnResult_i(), this.imgTimebg_i(), this.txTime_i(), this.imgEmpty_i()],
+        e.elementsContent = [this._scroller_vote_i(), this.imgBtnVote_i(), this.imgeBtnResult_i(), this.imgTimebg_i(), this.txTime_i(), this.imgEmpty_i()],
+        e
+    },
+    i._scroller_vote_i = function() {
+        var e = new eui.Scroller;
+        return this._scroller_vote = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 427,
+        e.left = 0,
+        e.right = 0,
+        e.top = 37,
+        e.verticalCenter = -12,
+        e.viewport = this._voteList_i(),
         e
     },
     i._voteList_i = function() {
@@ -4892,7 +4906,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsPoolSkin.exml"] = window.Pe
         return this._voteList = e,
         e.anchorOffsetX = 0,
         e.anchorOffsetY = 0,
-        e.height = 558,
+        e.height = 422,
         e.width = 902,
         e.y = 30,
         e.layout = this._TileLayout2_i(),

@@ -37596,7 +37596,7 @@ AttackValue = function() {
             this._specailArr = [];
             var s = t.readUnsignedInt();
             for (n = 0; s > n; n++) this._specailArr.push(t.readUnsignedInt());
-            if (s > 13 && (this._changeValue = this._specailArr[13]), s > 25 && (this._changeValue2 = this._specailArr[25]), 0 == FightManager.isReplay || FightManager.isReplay && ReplayFightManager.dataTime > ReplayFightManager.TIME_1) {
+            if (s > 13 && (this._changeValue = this._specailArr[13]), s > 25 && (this._changeValue2 = this._specailArr[25]), s > 37 && (this.changeSelfValue = this._specailArr[37]), s > 38 && (this.changeEnemyValue = this._specailArr[38]), 0 == FightManager.isReplay || FightManager.isReplay && ReplayFightManager.dataTime > ReplayFightManager.TIME_1) {
                 var a = t.readUnsignedInt();
                 for (n = 0; a > n; n++) {
                     var _ = new PetStatusEffectInfo(t);
@@ -38229,7 +38229,8 @@ ChangePetInfo = function() {
         this._skillStateInfo = new SkillStateInfos,
         this._skillStateInfo.runawayMoveNum = c,
         this._skillStateInfo.skillRunawayMarks = this._skillRunawayMarks,
-        this._skillStateInfo.lockedSkillArr = this._lockedSkillArr
+        this._skillStateInfo.lockedSkillArr = this._lockedSkillArr,
+        this._commonChangeFaceValue = t.readUnsignedInt()
     }
     return Object.defineProperty(t.prototype, "resistenceinfo", {
         get: function() {
@@ -40467,7 +40468,8 @@ FightPetInfo = function() {
         this._skillStateInfo = new SkillStateInfos,
         this._skillStateInfo.runawayMoveNum = i,
         this._skillStateInfo.skillRunawayMarks = this._skillRunawayMarks,
-        this._skillStateInfo.lockedSkillArr = this._lockedSkillArr
+        this._skillStateInfo.lockedSkillArr = this._lockedSkillArr,
+        this.changeFaceValue = 0
     }
     return Object.defineProperty(t.prototype, "secretLaw", {
         get: function() {
@@ -44030,7 +44032,9 @@ function(t, e, n) {
 UseSkillInfo = function() {
     function t(t) {
         this._firstAttackInfo = new AttackValue(t),
-        this._secondAttackInfo = new AttackValue(t)
+        this._secondAttackInfo = new AttackValue(t),
+        0 != this._secondAttackInfo.changeEnemyValue && (this._secondAttackInfo.changeSelfValue = this._secondAttackInfo.changeEnemyValue, this._secondAttackInfo.changeEnemyValue = 0),
+        0 != this._firstAttackInfo.changeEnemyValue && (this._secondAttackInfo.changeEnemyValue = this._firstAttackInfo.changeEnemyValue, this._firstAttackInfo.changeEnemyValue = 0)
     }
     return Object.defineProperty(t.prototype, "firstAttackInfo", {
         get: function() {

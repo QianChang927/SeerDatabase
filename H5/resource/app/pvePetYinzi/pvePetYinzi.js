@@ -325,7 +325,7 @@ function(e) {
             }), this.petNumber = this.value.Reward.MonsterID, this.markNum = this.value.Reward.MintMarkID, this._info = config.New_monster_level.getItemsByField("monsterid", ["=="], [this.petNumber])[0], this.specialShow(), this.initRes(), this.currentState = null == this.markNum ? "noMark": "hasMark", this.update()) : console.error("没有活动对应的因子精灵")
         },
         i.prototype.specialShow = function() {
-            103 == e.PvePetYinziConst.DesignID && (this.grp_14year.visible = !0),
+            103 == e.PvePetYinziConst.DesignID && (this.grp_14year.visible = 0),
             105 == e.PvePetYinziConst.DesignID && (this.grp_14year_2.visible = !0)
         },
         i.prototype.addEvent = function() {

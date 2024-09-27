@@ -1,0 +1,74 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            121551,
+            201531,
+            201532,
+            201533,
+            201534
+        ],
+        "item": [
+            1724889
+        ]
+    },
+    "values": [
+        {
+            "name": "_foreverCount",
+            "type": "url",
+            "value": "121551.1~8"
+        },
+        {
+            "name": "_foreverBit",
+            "type": "common",
+            "valueId": 121551
+        },
+        {
+            "name": "_gameState",
+            "type": "url",
+            "value": "201531.1~8"
+        },
+        {
+            "name": "_dailyInfo",
+            "type": "url",
+            "value": "201531.1~8|201531.9~16|201531.17~24"
+        },
+        {
+            "name": "_gameInfo",
+            "type": "url",
+            "value": "201532.1~8|201532.9~16|201532.17~24|201532.25~32"
+        },
+        {
+            "name": "_dailyBit1",
+            "type": "common",
+            "valueId": 201533
+        },
+        {
+            "name": "_dailyBit2",
+            "type": "common",
+            "valueId": 201534
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "41388",
+            "args": [
+                "55",
+                "arg"
+            ]
+        },
+        {
+            "name": "AlertBadLand",
+            "type": "alert",
+            "value": "你确定要中止这次试炼吗？下次试炼将从头重新开始！"
+        },
+        {
+            "name": "BuyItemNum1",
+            "type": "buy",
+            "productID": "259835",
+            "itemID": "1724889",
+            "exchangeID": "13868"
+        }
+    ]
+}

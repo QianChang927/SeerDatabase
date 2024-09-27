@@ -104,6 +104,7 @@ BaseFighterModel = function(t) {
         this._propView.update(this),
         this._petView = new BaseFighterPetView,
         this._petView.addEventListener(PetFightEvent.ON_OPENNING, this.onOpenning, this),
+        this._petView.notPlayer = !0,
         this.info.userID == MainManager.actorID ? this._petView.update(this.info.petID, this.info.catchTime, this.info.skinId, this.info.isChangeFace) : (this._petView.update(this.info.petID, 0, this.info.skinId, this.info.isChangeFace), this.propView.isShowFtHp = this.propView.isShowFtHp),
         e = null
     },
@@ -130,6 +131,7 @@ BaseFighterModel = function(t) {
         this.info.xinMaxHP = t.xinMaxHP,
         this.info.isChangeFace = t.isChangeFace,
         this.info.skillStateInfo = t.skillStateInfo,
+        this.info.changeFaceValue = t._commonChangeFaceValue,
         this.propView.update(this, !0),
         this.info.userID == MainManager.actorID ? (this.petWin.update(this.info.petID, this.info.catchTime, this.info.skinId, this.info.isChangeFace), PetFightMsgManager.showPetStartBattle(this.info.petName, !0)) : (this.petWin.update(this.info.petID, 0, this.info.skinId, this.info.isChangeFace), this.propView.isShowFtHp = this.propView.isShowFtHp, PetFightMsgManager.showPetStartBattle(this.info.petName, !1)),
         (this == FighterModelFactory.playerMode || FightManager.isReplay) && TimerManager.start(),
@@ -662,6 +664,7 @@ BaseFighterPetView = function(t) {
         var i = t.call(this) || this;
         return i.animateScaleX = -1,
         i.secondfightmcChanged = !1,
+        i.notPlayer = !0,
         i.petContainer = new egret.Sprite,
         i.petContainer.graphics.beginFill(16777215, 0),
         i.petContainer.graphics.drawRect(0, 0, e.WIN_WIDTH, e.WIN_HEIGHT),
@@ -818,16 +821,17 @@ BaseFighterPetView = function(t) {
         this._skinId = n,
         this.oct = i,
         this.changevalue = 0;
-        var r = t;
-        if (2 == o) {
-            var s = this.petID;
-            this._skinId > 0 && (s = PetSkinXMLInfo.getSkinPetId(this._skinId, this.petID)),
-            r = PetXMLInfo.getTransform(s)
+        var r = t,
+        s = this.notPlayer ? FighterModelFactory.enemyMode: FighterModelFactory.playerMode;
+        if (2 == o || 2 == s.info.changeFaceValue) {
+            var a = this.petID;
+            this._skinId > 0 && (a = PetSkinXMLInfo.getSkinPetId(this._skinId, this.petID)),
+            r = PetXMLInfo.getTransform(a)
         }
-        var a = -1,
-        h = this.petContainer.x + e.WIN_WIDTH / 2,
-        l = this.petContainer.y + 145;
-        this.petAnimate.showPet(r, i, n, h, l, a),
+        var h = -1,
+        l = this.petContainer.x + e.WIN_WIDTH / 2,
+        c = this.petContainer.y + 145;
+        this.petAnimate.showPet(r, i, n, l, c, h),
         this.dispatchEvent(new PetFightEvent(PetFightEvent.ON_OPENNING))
     },
     e.prototype.changeSecondFightMc = function(t) {
@@ -846,19 +850,29 @@ BaseFighterPetView = function(t) {
             this.secondfightmcChanged = !1
         }
     },
-    e.prototype.change = function(t, e) {
-        return void 0 === e && (e = null),
-        this.changevalue == t ? void(null != e && e()) : (this.changefun = e, this.changevalue = t, void this.playChangemovie())
+    e.prototype.change = function(t, e, i) {
+        if (void 0 === e && (e = null), void 0 === i && (i = !1), this._isCommon = i, i) {
+            var n = this.notPlayer ? FighterModelFactory.enemyMode: FighterModelFactory.playerMode;
+            if (n.info.changeFaceValue == t) return void(null != e && e());
+            this.changefun = e,
+            n.info.changeFaceValue = t
+        } else {
+            if (this.changevalue == t) return void(null != e && e());
+            this.changefun = e,
+            this.changevalue = t
+        }
+        this.playChangemovie()
     },
     e.prototype.playChangemovie = function() {
         this.petAnimate.playTransformationAnim(this.changemovieOver, this)
     },
     e.prototype.changemovieOver = function() {
-        if (1 == this.changevalue) this.changeFirstFightmc();
+        var t = this.notPlayer ? FighterModelFactory.enemyMode: FighterModelFactory.playerMode;
+        if (1 == this.changevalue || this._isCommon && 1 == t.info.changeFaceValue) this.changeFirstFightmc();
         else {
-            var t = 0;
-            t = this._skinId > 0 ? PetXMLInfo.getTransform(14e5 + this._skinId) : PetXMLInfo.getTransform(this.petID),
-            this.changeSecondFightMc(t)
+            var e = 0;
+            e = this._skinId > 0 ? PetXMLInfo.getTransform(14e5 + this._skinId) : PetXMLInfo.getTransform(this.petID),
+            this.changeSecondFightMc(e)
         }
         null != this.changefun && (this.changefun(), this.changefun = null)
     },
@@ -2177,6 +2191,8 @@ UseSkillController = function(t) {
         i.isZhuiji = !1,
         i.changePlayed = !1,
         i.changePlayed2 = !1,
+        i.changePlayed3 = !1,
+        i.changePlayed4 = !1,
         i._playerMode = e,
         i.HP_X_SELF = egret.lifecycle.stage.stageWidth / 2 - 255,
         i.HP_X_ENEMY = egret.lifecycle.stage.stageWidth / 2 + 255,
@@ -2216,7 +2232,7 @@ UseSkillController = function(t) {
     },
     e.prototype.action = function(t) {
         var i = this;
-        if (this.changePlayed = !1, this.attackValue = t, this.attackMC = this._playerMode.petWin.petMC, this.defenceMC = this._playerMode.enemyMode.petWin.petMC, this.isZhuiji = t.isZhuiJi, this.isZhuiji || 0 == t.zhuijiId || 0 != t.skillID || (t.lostHP = t.zhuijiHurt, t.isZhuiJi = !0, t.atkTimes = 1, this.attackValue = t, this.isZhuiji = !0), this.isZhuiji) {
+        if (this.changePlayed = !1, this.changePlayed3 = !1, this.changePlayed4 = !1, this.attackValue = t, this.attackMC = this._playerMode.petWin.petMC, this.defenceMC = this._playerMode.enemyMode.petWin.petMC, this.isZhuiji = t.isZhuiJi, this.isZhuiji || 0 == t.zhuijiId || 0 != t.skillID || (t.lostHP = t.zhuijiHurt, t.isZhuiJi = !0, t.atkTimes = 1, this.attackValue = t, this.isZhuiji = !0), this.isZhuiji) {
             var n = !1,
             o = ZhuijiXmlInfo.getCover(t.zhuijiId);
             this.attackMC.animate.visible = 1 > o;
@@ -2233,7 +2249,9 @@ UseSkillController = function(t) {
             this.attackMC.stopAnimateAtActionFrame(this.playLabel, null, null),
             void this.skillMoviePlay()
         }
-        if (0 == this.attackValue.skillID) return void this.dispatchRemainHp();
+        if (0 == this.attackValue.skillID) return void this.commonChangeFace(function() {
+            i.dispatchRemainHp()
+        });
         this.useSkillID = this.attackValue.skillID;
         var l = PetFightSkinSkillReplaceXMLInfo.getReplaceAction(this._playerMode.info.skinId, this.useSkillID, this._playerMode.info.petID);
         if (l && l.length > 0) this.playLabel = l;
@@ -2374,6 +2392,21 @@ UseSkillController = function(t) {
         this.critMc && this.critMc.parent && this.critMc.parent.removeChild(this.critMc),
         this.critMc = null
     },
+    e.prototype.commonChangeFace = function(t) {
+        var e = this;
+        return void 0 === t && (t = null),
+        0 == this.attackValue.changeSelfValue || this.changePlayed3 ? 0 == this.attackValue.changeEnemyValue || this.changePlayed4 ? void(null != t && t()) : void this._playerMode.enemyMode.petWin.change(this.attackValue.changeEnemyValue,
+        function() {
+            e.changePlayed4 = !0,
+            e.commonChangeFace(t)
+        },
+        !0) : void this._playerMode.petWin.change(this.attackValue.changeSelfValue,
+        function() {
+            e.changePlayed3 = !0,
+            e.commonChangeFace(t)
+        },
+        !0)
+    },
     e.prototype.onMovieOver = function(t, i) {
         var n = this;
         void 0 === i && (i = null);
@@ -2385,6 +2418,20 @@ UseSkillController = function(t) {
         };
         if (BattleFPSManager.stopMonistor(), this._playerMode) {
             var r = this._playerMode.petWin.parent.parent.grpEffectMovieContainer;
+            if (! (this.attackValue.zhuijiId > 0) || this.attackValue.isZhuiJi) {
+                if (0 != this.attackValue.changeSelfValue && !this.changePlayed3) return void this._playerMode.petWin.change(this.attackValue.changeSelfValue,
+                function() {
+                    n.changePlayed3 = !0,
+                    n.onMovieOver(t)
+                },
+                !0);
+                if (0 != this.attackValue.changeEnemyValue && !this.changePlayed4) return void this._playerMode.enemyMode.petWin.change(this.attackValue.changeEnemyValue,
+                function() {
+                    n.changePlayed4 = !0,
+                    n.onMovieOver(t)
+                },
+                !0)
+            }
             if (0 != this.attackValue.changeValue && !this.changePlayed) return void this._playerMode.petWin.change(this.attackValue.changeValue,
             function() {
                 n.changePlayed = !0,
@@ -2789,6 +2836,7 @@ PlayerModel = function(t) {
         this.conPanelObserver.close(),
         this._petView = new PlayerPetView,
         this._petView.addEventListener(PetFightEvent.ON_OPENNING, this.onOpenning, this),
+        this._petView.notPlayer = !1,
         this._petView.update(this.info.petID, this.info.catchTime, this.info.skinId, this.info.isChangeFace)
     },
     e.prototype.destroy = function() {
@@ -7617,22 +7665,23 @@ PlayerPetView = function(t) {
         var o = this;
         void 0 === e && (e = 0),
         void 0 === i && (i = 0),
-        void 0 === n && (n = 0),
+        void 0 === n && (n = 0);
+        var r = this.notPlayer ? FighterModelFactory.enemyMode: FighterModelFactory.playerMode;
         this.petID = t,
         this.changevalue = 0,
         this._skinId = i;
-        var r = BaseFighterPetView.WIN_WIDTH / 2 + this.petContainer.x,
-        s = 145 + this.petContainer.y,
-        a = t;
-        if (2 == n) {
-            var h = this.petID;
-            this._skinId > 0 && (h = PetSkinXMLInfo.getSkinPetId(this._skinId, this.petID)),
-            a = PetXMLInfo.getTransform(h)
+        var s = BaseFighterPetView.WIN_WIDTH / 2 + this.petContainer.x,
+        a = 145 + this.petContainer.y,
+        h = t;
+        if (2 == n || 2 == r.info.changeFaceValue) {
+            var l = this.petID;
+            this._skinId > 0 && (l = PetSkinXMLInfo.getSkinPetId(this._skinId, this.petID)),
+            h = PetXMLInfo.getTransform(l)
         }
-        this.petAnimate.showPet(a, e, i, r, s, 1);
-        var l = this._isFirstPet;
+        this.petAnimate.showPet(h, e, i, s, a, 1);
+        var c = this._isFirstPet;
         this.petAnimate.playAppearAnim(function(t) {
-            t ? l && o.dispatchEvent(new PetFightEvent(PetFightEvent.ON_OPENNING)) : o.dispatchEvent(new PetFightEvent(PetFightEvent.ON_OPENNING))
+            t ? c && o.dispatchEvent(new PetFightEvent(PetFightEvent.ON_OPENNING)) : o.dispatchEvent(new PetFightEvent(PetFightEvent.ON_OPENNING))
         },
         this),
         this._isFirstPet = !1

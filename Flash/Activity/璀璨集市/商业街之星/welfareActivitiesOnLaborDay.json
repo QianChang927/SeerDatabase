@@ -1,0 +1,150 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            107803,
+            12729,
+            12730,
+            12731,
+            12732,
+            12733,
+            12734,
+            12735,
+            12736,
+            12737,
+            12738,
+            12739,
+            12749,
+            2000110,
+            2000111,
+            125069,
+            207054,
+            125069,
+            125072,
+            201770
+        ]
+    },
+    "values": [
+        {
+            "name": "comId",
+            "type": "value",
+            "value": [
+                41285
+            ]
+        },
+        {
+            "name": "forever_107803",
+            "type": "common",
+            "valueId": 107803
+        },
+        {
+            "name": "curValue",
+            "type": "url",
+            "value": "107803.1~16"
+        },
+        {
+            "name": "daily_12729",
+            "type": "common",
+            "valueId": 12729
+        },
+        {
+            "name": "daily_12730",
+            "type": "common",
+            "valueId": 12730
+        },
+        {
+            "name": "daily_12731",
+            "type": "common",
+            "valueId": 12731
+        },
+        {
+            "name": "daily_12732",
+            "type": "common",
+            "valueId": 12732
+        },
+        {
+            "name": "daily_12733",
+            "type": "common",
+            "valueId": 12733
+        },
+        {
+            "name": "daily_12734",
+            "type": "common",
+            "valueId": 12734
+        },
+        {
+            "name": "daily_12735",
+            "type": "common",
+            "valueId": 12735
+        },
+        {
+            "name": "daily_12736",
+            "type": "common",
+            "valueId": 12736
+        },
+        {
+            "name": "daily_12737",
+            "type": "common",
+            "valueId": 12737
+        },
+        {
+            "name": "daily_12738",
+            "type": "common",
+            "valueId": 12738
+        },
+        {
+            "name": "daily_12739",
+            "type": "common",
+            "valueId": 12739
+        },
+        {
+            "name": "daily_12749",
+            "type": "common",
+            "valueId": 12749
+        },
+        {
+            "name": "daily_207054",
+            "type": "common",
+            "valueId": 207054
+        },
+        {
+            "name": "daily_201770",
+            "type": "common",
+            "valueId": 201770
+        },
+        {
+            "name": "subValue",
+            "type": "url",
+            "value": "125069.1~8|125069.9~16|125069.17~24|125069.25~32|125072.1~8|125072.9~16|125072.17~24|125072.25~32"
+        },
+        {
+            "name": "daily_2000110",
+            "type": "common",
+            "valueId": 2000110
+        },
+        {
+            "name": "daily_2000111",
+            "type": "common",
+            "valueId": 2000111
+        },
+        {
+            "name": "reuqireNumArr",
+            "type": "value",
+            "value": [
+                30,
+                10
+            ]
+        },
+        {
+            "name": "mapArr",
+            "type": "common",
+            "valueId": [
+                4,
+                5,
+                101,
+                103,
+                1427,
+                8
+            ]
+        }
+    ]
+}

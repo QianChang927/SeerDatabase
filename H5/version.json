@@ -1,5 +1,5 @@
 {
-    "version": 1727423723353,
+    "version": 1727427777671,
     "files": {
         "resource": {
             "config": {
@@ -9,7 +9,7 @@
                     "module.json": "module_dc6d7b27.json",
                     "btl_condition.json": "btl_condition_20fa229b.json",
                     "SPTtask.json": "SPTtask_e167fc16.json",
-                    "announcement.json": "announcement_e7f8da5d.json",
+                    "announcement.json": "announcement_c8ddb29d.json",
                     "boxbonus.json": "boxbonus_f1b30d7.json",
                     "boxordinary.json": "boxordinary_9222da88.json",
                     "toolbar.json": "toolbar_a29365fe.json",
@@ -156,7 +156,7 @@
                     "s_design.json": "s_design_296ef76d.json",
                     "ogre.json": "ogre_bed3ff3.json",
                     "maps.json": "maps_a77de508.json",
-                    "effectIcon.json": "effectIcon_4a545b71.json",
+                    "effectIcon.json": "effectIcon_651a1eb1.json",
                     "petbook.json": "petbook_2aa4727.json",
                     "petbook0131.json": "petbook0131_d10aaf05.json",
                     "pvp_peak_battle_clearing_bonus.json": "pvp_peak_battle_clearing_bonus_eb0707b0.json",

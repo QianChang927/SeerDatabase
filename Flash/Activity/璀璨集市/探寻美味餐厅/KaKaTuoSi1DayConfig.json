@@ -1,0 +1,237 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            123076,
+            202166,
+            202167,
+            202168,
+            202169,
+            202170,
+            202171,
+            202172,
+            124260,
+            105715
+        ],
+        "item": [
+            1724426,
+            1725529
+        ]
+    },
+    "values": [
+        {
+            "name": "wishRopeNum",
+            "type": "common",
+            "valueId": 1724426
+        },
+        {
+            "name": "itemNum",
+            "type": "common",
+            "valueId": 1725529
+        },
+        {
+            "name": "prizeNum",
+            "type": "url",
+            "value": "123076.1~4|123076.5~8|123076.9~12|123076.13~16|123076.17~20",
+            "tips": " 奖励输出次数"
+        },
+        {
+            "name": "wishPosArr",
+            "type": "url",
+            "value": "123076.21|123076.22|123076.23|123076.24|123076.25|123076.26|123076.27|123076.28|123076.29|123076.30",
+            "tips": " 心愿结开启置位"
+        },
+        {
+            "name": "isFreeOpen",
+            "type": "url",
+            "value": "202166.1",
+            "tips": "今天有没有打开面板领取心愿结 "
+        },
+        {
+            "name": "curNum",
+            "type": "url",
+            "value": "202166.5~8",
+            "tips": " 点菜领奖次数"
+        },
+        {
+            "name": "dayNum",
+            "type": "url",
+            "value": "202166.9~12",
+            "tips": " 今天完成次数"
+        },
+        {
+            "name": "openTime",
+            "type": "url",
+            "value": "202166.17~24",
+            "tips": " 今日打开许愿结的数量"
+        },
+        {
+            "name": "getNum",
+            "type": "common",
+            "valueId": 124260
+        },
+        {
+            "name": "shopNum",
+            "type": "url",
+            "value": "124260.25~32"
+        },
+        {
+            "name": "targetArr",
+            "type": "url",
+            "value": "202167.1~8|202167.9~16|202167.17~24",
+            "tips": " 随机到的目标预算、口味、偏好"
+        },
+        {
+            "name": "likedislike",
+            "type": "url",
+            "value": "202167.25~28|202167.29~32",
+            "tips": " 这一次随机的喜欢和不喜欢【1-5】"
+        },
+        {
+            "name": "curStateArr",
+            "type": "url",
+            "value": "202168.1~8|202168.9~16|202168.17~24",
+            "tips": " 当前预算、口味、偏好"
+        },
+        {
+            "name": "choosePosArr",
+            "type": "url",
+            "value": "202169.1|202169.2|202169.3|202169.4|202169.5|202169.6|202169.7|202169.8|202169.9|202169.10|202169.11|202169.12|202169.13|202169.14|202169.15|202169.16|202169.17|202169.18",
+            "tips": " 本局点餐置位1-18"
+        },
+        {
+            "name": "_curBit",
+            "type": "common",
+            "valueId": 105715
+        },
+        {
+            "name": "animIdArr",
+            "type": "url",
+            "value": "202170.1~8|202170.9~16|202170.17~24|202170.25~32",
+            "tips": " 玩家1-4随机到的生物"
+        },
+        {
+            "name": "gameScore",
+            "type": "url",
+            "value": "202171.1~8",
+            "tips": "本局游戏中的分数"
+        },
+        {
+            "name": "weightArr",
+            "type": "url",
+            "value": "202172.1~8|202172.9~16|202172.17~24|202172.25~32",
+            "tips": " 玩家1-4生物对应的印象分"
+        },
+        {
+            "name": "isInChallenge",
+            "type": "url",
+            "value": "202171.9",
+            "tips": "挑战中置位"
+        }
+    ],
+    "actions": [
+        {
+            "name": "OpenFreeWish",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "49 ",
+                "1"
+            ]
+        },
+        {
+            "name": "OpenNormalWish",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "49 ",
+                "2"
+            ]
+        },
+        {
+            "name": "ChooseFood",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "50 ",
+                "arg"
+            ]
+        },
+        {
+            "name": "StartChoose",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "50 ",
+                "19"
+            ]
+        },
+        {
+            "name": "EndChoose",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "50 ",
+                "20"
+            ]
+        },
+        {
+            "name": "StartChallenge",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "51 ",
+                "1"
+            ]
+        },
+        {
+            "name": "EndChallenge",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "51 ",
+                "2"
+            ]
+        },
+        {
+            "name": "StartTurn",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "51 ",
+                "3"
+            ]
+        },
+        {
+            "name": "SendOrder",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "51 ",
+                "arg"
+            ]
+        },
+        {
+            "name": "plus",
+            "type": "buy",
+            "num": "0",
+            "productID": "260389",
+            "itemID": "1725529",
+            "exchangeID": "14194"
+        },
+        {
+            "name": "AlertAbandon",
+            "type": "alert",
+            "value": "今日已挑战成功2次，无法再次获得奖励，是否仍然开始挑战？"
+        },
+        {
+            "name": "AlarmCannotUseItem",
+            "type": "alarm",
+            "value": "秘藏纹章不足，无法抽取！"
+        },
+        {
+            "name": "AlertSendOrder",
+            "type": "alert",
+            "value": "确认要提交当前的答案吗？"
+        }
+    ]
+}

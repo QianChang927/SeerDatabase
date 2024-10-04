@@ -1,0 +1,17 @@
+<root>
+	<item id="1" productID="1101" type="1" name="VIP1个月" money="1000" quantity="1个月" give="0" heat="0" />
+	<item id="2" productID="1103" type="1" name="VIP3个月" money="3000" quantity="2个月" give="0" heat="0" />
+	<item id="3" productID="1106" type="1" name="VIP6个月" money="5000" quantity="3个月" give="0" heat="0" />
+	<item id="4" productID="1112" type="1" name="VIP12个月" money="10000" quantity="0" give="0" heat="0" />
+	<item id="11" productID="200022" type="2" name="充值6元礼包" money="600" quantity="60" give="0" heat="0" />
+	<item id="12" productID="200017" type="2" name="充值30元礼包" money="3000" quantity="300" give="0" heat="0" />
+	<item id="13" productID="200018" type="2" name="充值98元礼包" money="9800" quantity="980" give="0" heat="0" />
+	<item id="14" productID="200019" type="2" name="充值198元礼包" money="19800" quantity="1980" give="0" heat="1" />
+	<item id="15" productID="200020" type="2" name="充值328元礼包" money="32800" quantity="3280" give="0" heat="0" />
+	<item id="16" productID="200021" type="2" name="充值648元礼包" money="64800" quantity="6480" give="0" heat="1" />
+	<item id="21" productID="200000" type="3" name="10钻石礼包" money="100" quantity="10" give="0" heat="0" />
+	<item id="22" productID="200001" type="3" name="100钻石礼包" money="1000" quantity="100" give="0" heat="1" />
+	<item id="23" productID="200002" type="3" name="500钻石礼包" money="5000" quantity="500" give="0" heat="0" />
+	<item id="31" productID="40001" type="4" name="精英战令" money="6800" quantity="" give="0" heat="0" />
+	<item id="32" productID="40001" type="4" name="至尊战令" money="12800" quantity="" give="0" heat="0" />
+</root>

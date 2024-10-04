@@ -1,0 +1,92 @@
+
+<!--vip月度包月精灵 配表需要看清楚再进行填写 
+
+******** 后端 ********************
+
+ID: 递增索引 每年递增1
+CurYear: 当前年份
+YearTimeFlag: 年费vip直接领取当年所有包月精灵的时间限制 (详见 open_time_limit.xml 每年一个)
+MonthTimeFlag: 包月精灵的领取逻辑的时间限制(详见 open_time_limit.xml 每年共用一个)
+CurMonth: 当前月份
+MonsterID: 当月输出精灵ID
+NewSeID: 当月输出精灵特性ID
+RechargeMonthInfo: 充值记录 forever （每个年费开始清0， 或替换值）
+Grad:梯度 表示有几种充值方式，例如，充值1个月、充值2个月……
+GotFlagInfo: 获得奖励标志 forever（每个月一个记录，每年共12个）
+BonusIds: 详见 open_bonus.xml 每个月一个
+StatLog: 统计项
+MonstersID：用于H5前端调用精灵素材，未开放的填0
+
+NOTE:
+充值月数 100750（固定）需每个包月开始前 发DB需求清0 ( delete PP_00~99.t_pp_user_info_00~99 where type=100750; )
+奖励领取标志 100751-100850（预留 由策划配置）
+bonus  2202 - 2300（预留 由策划配置）
+
+eg:
+<Item ID="1" CurYear="2016" CurMonth="12" MonsterID="0" NewSeID="0" RechargeMonthInfo="0" GotFlagInfo="0 0 0 0 0 0 0 0 0 0 0 0" 
+BonusIds="0 0 0 0 0 0 0 0 0 0 0 0" StatLog="0" Desc="2016年vip包月"/>
+
+**** 前端素材位置 ****
+ resourse：文件夹
+ vipSub ： vip汇总面板
+ backVip： vip回归面板
+ 
+-->
+
+<Root>
+	<Item ID="1" CurYear="2016" CurMonth="12" MonsterID="3281" MonthTimeFlag="961" NewSeID="2492" RechargeMonthInfo="100750"
+	 Grad="3" NotVipNeed="1 2 3" VipNeed="0 1 2"
+	GotFlagInfo="2692 100388 2741 100449 5305 2809 2828 5311 4391 5391 2880 100751" 
+	BonusIds="1695 1757 1811 1851 1900 1924 1969 2008 2077 2117 2162 2202" YearTimeFlag="960" StatLog="0" Desc="2016年vip包月"/>
+	
+	<Item ID="2" CurYear="2017" CurMonth="12" MonsterID="3521" MonthTimeFlag="963" NewSeID="2758" RechargeMonthInfo="100750"
+	 Grad="3" NotVipNeed="1 2 3" VipNeed="0 1 2"
+	GotFlagInfo="100752 100753 100754 100755 100756 100757 100758 100759 100760 100761 100762 100763" 
+	BonusIds="2203 2204 2205 2206 2207 2208 2209 2210 2211 2212 2213 2214" YearTimeFlag="962" StatLog="0" Desc="2017年vip包月"/>
+	
+	<Item ID="3" CurYear="2018" CurMonth="12" MonsterID="3775" MonthTimeFlag="965" NewSeID="3052" RechargeMonthInfo="100750"
+	 Grad="3" NotVipNeed="1 2 3" VipNeed="0 1 2"
+	GotFlagInfo="100765 100766 100767 100768 100769 100770 100771 100772 100773 100774 100775 100776" 
+	BonusIds="2215 2216 2217 2218 2219 2220 2221 2222 2223 2224 2225 2226" YearTimeFlag="964" StatLog="0" Desc="2018年vip包月"/>
+	
+	<Item ID="4" CurYear="2019" CurMonth="12" MonsterID="3968" MonthTimeFlag="967" NewSeID="5504" RechargeMonthInfo="100750"
+	 Grad="3" NotVipNeed="1 2 3" VipNeed="0 1 2"
+	GotFlagInfo="100777 100778 100779 100780 100781 100782 100783 100784 100785 100786 100787 100788" 
+	BonusIds="2227 2228 2229 2230 2231 2232 2233 2234 2235 2236 2237 2238" YearTimeFlag="966" StatLog="0" Desc="2019年vip包月"/>
+	
+	<Item ID="5" CurYear="2020" CurMonth="12" MonsterID="4154" MonthTimeFlag="969" NewSeID="5738" RechargeMonthInfo="100750"
+	 Grad="3" NotVipNeed="1 2 3" VipNeed="0 1 2"
+	GotFlagInfo="100789 100790 100791 100792 100793 100794 100795 100796 100797 100798 100799 100800" 
+	BonusIds="2239 2240 2241 2242 2243 2244 2245 2246 2247 2248 2249 2250" YearTimeFlag="968" StatLog="0" Desc="2020年vip包月"/>
+
+	<Item ID="6" CurYear="2021" CurMonth="12" MonsterID="4307" MonthTimeFlag="971" NewSeID="5800" RechargeMonthInfo="100750"
+	 Grad="3" NotVipNeed="1 2 3" VipNeed="0 1 2"
+	GotFlagInfo="100801 100802 100803 100804 100805 100806 100807 100808 100809 100810 100811 100812" 
+	BonusIds="2251 2252 2253 2254 2255 2256 2257 2258 2259 2260 2261 2262" YearTimeFlag="970" StatLog="0" Desc="2021年vip包月"/>
+	
+	<Item ID="7" CurYear="2022" CurMonth="12" MonsterID="4446" MonthTimeFlag="973" NewSeID="5953" RechargeMonthInfo="100750"
+	 Grad="3" NotVipNeed="1 2 3" VipNeed="0 1 2"
+	GotFlagInfo="100813 100814 100815 100816 100817 100818 100819 100820 100821 100822 100823 100824"
+	MonstersID="4322 4328 4342 4352 4360 4374 4389 4398 4413 4424 4434 4446"
+	BonusIds="2263 2264 2265 2266 2267 2268 2269 2270 2271 2272 2273 2274" YearTimeFlag="972" StatLog="0" Desc="2022年vip包月"/>
+	
+	<Item ID="8" CurYear="2023" CurMonth="12" MonsterID="4575" MonthTimeFlag="975" NewSeID="6078" RechargeMonthInfo="100750"
+	 Grad="3" NotVipNeed="1 2 3" VipNeed="0 1 2"
+	GotFlagInfo="100825 100826 100827 100828 100829 100830 100831 100832 100833 100834 100835 100836"
+	MonstersID="4456 4473 4480 4491 4497 4508 4518 4530 4544 4555 4565 4575"
+	BonusIds="2275 2276 2277 2278 2279 2280 2281 2282 2283 2284 2285 2286" YearTimeFlag="974" StatLog="0" Desc="2023年vip包月"/>
+	
+	<Item ID="9" CurYear="2024" CurMonth="10" MonsterID="4681" MonthTimeFlag="977" NewSeID="6176" RechargeMonthInfo="100750"
+	 Grad="3" NotVipNeed="1 2 3" VipNeed="0 1 2"
+	GotFlagInfo="100837 100838 100839 100840 100841 100842 100843 100844 100845 100846 100847 100848"
+	MonstersID="4585 4598 4609 4619 4626 4634 4652 4659 4668 4681 0 0"
+	BonusIds="2287 2288 2289 2290 2291 2292 2293 2294 2295 2296 2297 2298" YearTimeFlag="976" StatLog="0" Desc="2024年vip包月"/>
+	
+	<CurYearMonth ID="202410" Desc="包月精灵当前生效年月,包月配表需同步更新"/>
+
+	<resourse url="update/monthlyPet/">
+		<vipSub url="NewVIPEquityPanel"/>
+		<backVip url="VipMouthPet2024Panel"/>
+	</resourse>
+</Root>
+

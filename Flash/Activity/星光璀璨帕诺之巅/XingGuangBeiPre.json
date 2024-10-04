@@ -1,0 +1,65 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            210000,
+            108523
+        ],
+        "item": [
+            1400352
+        ]
+    },
+    "values": [
+        {
+            "name": "teamIdx",
+            "type": "common",
+            "valueId": 108523
+        },
+        {
+            "name": "yyTime",
+            "type": "common",
+            "valueId": 210000
+        },
+        {
+            "name": "global",
+            "type": "value",
+            "value": 283
+        },
+        {
+            "name": "itemNum",
+            "type": "common",
+            "valueId": 1400352
+        },
+        {
+            "name": "teams",
+            "type": "value",
+            "value": [
+                "",
+                "烈焰",
+                "海啸",
+                "绿光"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "alarm",
+            "type": "alarm",
+            "value": "请先抽取你的阵营。"
+        },
+        {
+            "name": "alarm1",
+            "type": "alarm",
+            "value": "成功应援$队！"
+        },
+        {
+            "name": "alarm2",
+            "type": "alarm",
+            "value": "泰坦之灵数量不足！"
+        },
+        {
+            "name": "alert",
+            "type": "alert",
+            "value": "是否消耗泰坦之灵应援$队？"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	IsExtra 是否有第五
+	NewSe 特性id
+	LimitLv 1-5 VIP限购等级
+	MintmarkId 专属刻印id
+	Timeid、TimeSubid 控制时间
+	MiditemId 消耗的道具id
+	Price 显示售价
+	Turn 0跳转精灵介绍，1跳转精灵图鉴
+    JudgeType:判断类型(1:按照petclass判断 2:按照仓库精灵判断)
+    ForeverKey:如果按照精灵仓库来判断的ForeverKey(只有JudgeType为2有效)(暂定121831,不能填其它值)
+    ForeverHalfPos:如果按照精灵仓库来判断的半个字节(1-8)(只有JudgeType为2有效)
+-->
+<root>
+<!--20231215第1期
+	<Pet PetId="3704" Price="398" productID="260473" MiditemId="1725619" LimitLv="5" TimeId="1001" TimeSubId="1" IsExtra="1" NewSe="2968" MintmarkId="41360" desc=""/> 
+	<Pet PetId="3785" Price="398" productID="260474" MiditemId="1725620" LimitLv="5" TimeId="1001" TimeSubId="1" IsExtra="1" NewSe="3067" MintmarkId="41459" desc=""/>
+	<Pet PetId="4234" Price="298" productID="260475" MiditemId="1725621" LimitLv="5" TimeId="1001" TimeSubId="1" IsExtra="1" NewSe="5726" MintmarkId="42037" desc=""/>
+-->
+	
+<!--20240126第2期	
+	<Pet PetId="3423" Price="298" productID="260476" MiditemId="1725622" LimitLv="5" TimeId="1001" TimeSubId="2" IsExtra="1" NewSe="2657" MintmarkId="41009" desc=""/> 
+	<Pet PetId="3499" Price="298" productID="260477" MiditemId="1725623" LimitLv="5" TimeId="1001" TimeSubId="2" IsExtra="1" NewSe="2733" MintmarkId="41096" desc=""/>
+	<Pet PetId="3585" Price="198" productID="260478" MiditemId="1725624" LimitLv="5" TimeId="1001" TimeSubId="2" IsExtra="1" NewSe="2817" MintmarkId="41204" desc=""/>
+-->
+
+<!--20240301第3期    
+<Pet PetId="3975" Price="198" productID="260479" MiditemId="1725625" LimitLv="5" TimeId="1001" TimeSubId="3" IsExtra="1" NewSe="5509" MintmarkId="41723" desc=""/>
+<Pet PetId="2687" Price="98" productID="260480" MiditemId="1725626" LimitLv="5" TimeId="1001" TimeSubId="3" IsExtra="1" NewSe="1856" MintmarkId="40327" desc=""/>
+<Pet PetId="4486" Price="98" productID="260481" MiditemId="1725627" LimitLv="5" TimeId="1001" TimeSubId="3" IsExtra="1" NewSe="5990" MintmarkId="42342" desc=""/>
+-->
+
+	<!--20240412第4期  
+<Pet PetId="3120" Price="88" productID="260482" MiditemId="1725628" LimitLv="5" TimeId="1001" TimeSubId="4" IsExtra="1" NewSe="2317" MintmarkId="40628" desc=""/>
+<Pet PetId="3126" Price="88" productID="260483" MiditemId="1725629" LimitLv="5" TimeId="1001" TimeSubId="4" IsExtra="1" NewSe="2327" MintmarkId="40637" desc=""/>
+<Pet PetId="3136" Price="88" productID="260484" MiditemId="1725630" LimitLv="5" TimeId="1001" TimeSubId="4" IsExtra="1" NewSe="2335" MintmarkId="40644" desc=""/>
+-->  
+
+	<!--20240517第5期  
+<Pet PetId="3400" Price="98" productID="260726" MiditemId="1725918" LimitLv="5" TimeId="1001" TimeSubId="5" IsExtra="1" NewSe="2623" MintmarkId="40972" desc=""/>
+<Pet PetId="3765" Price="98" productID="260727" MiditemId="1725919" LimitLv="5" TimeId="1001" TimeSubId="5" IsExtra="1" NewSe="3040" MintmarkId="41432" desc=""/>
+<Pet PetId="3933" Price="98" productID="260728" MiditemId="1725920" LimitLv="5" TimeId="1001" TimeSubId="5" IsExtra="1" NewSe="3307" MintmarkId="41664" desc=""/>
+-->
+
+	<!--20240621第6期  
+<Pet PetId="2516" Price="98" productID="260821" MiditemId="1726063" LimitLv="5" TimeId="1001" TimeSubId="6" IsExtra="1" NewSe="1759" MintmarkId="40220" Turn="1" desc="" JudgeType="2" ForeverKey="121831" ForeverHalfPos="1" />
+<Pet PetId="2524" Price="98" productID="260822" MiditemId="1726064" LimitLv="5" TimeId="1001" TimeSubId="6" IsExtra="1" NewSe="1760" MintmarkId="40227" Turn="1" desc="" JudgeType="2" ForeverKey="121831" ForeverHalfPos="2" />
+<Pet PetId="3054" Price="498" productID="260823" MiditemId="1726065" LimitLv="5" TimeId="1001" TimeSubId="6" IsExtra="1" NewSe="2235" MintmarkId="40577" Turn="1" desc="" JudgeType="2" ForeverKey="121831" ForeverHalfPos="3" />
+-->	
+	<!--20240726第7期
+<Pet PetId="3454" Price="88" productID="260885" MiditemId="1726146" LimitLv="1" TimeId="1001" TimeSubId="7" IsExtra="1" NewSe="2687" MintmarkId="41037" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" />
+<Pet PetId="3754" Price="198" productID="260886" MiditemId="1726147" LimitLv="5" TimeId="1001" TimeSubId="7" IsExtra="1" NewSe="3026" MintmarkId="41421" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" />
+<Pet PetId="3817" Price="398" productID="260887" MiditemId="1726148" LimitLv="5" TimeId="1001" TimeSubId="7" IsExtra="1" NewSe="3125" MintmarkId="41511" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" />	
+-->
+
+	<!--20240830第8期-->
+<Pet PetId="3139" Price="98" productID="260933" MiditemId="1726212" LimitLv="5" TimeId="1001" TimeSubId="8" IsExtra="1" NewSe="2338" MintmarkId="40655" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" />
+<Pet PetId="4277" Price="298" productID="260934" MiditemId="1726213" LimitLv="5" TimeId="1001" TimeSubId="8" IsExtra="1" NewSe="5771" MintmarkId="42088" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" />
+<Pet PetId="3506" Price="498" productID="260935" MiditemId="1726214" LimitLv="5" TimeId="1001" TimeSubId="8" IsExtra="1" NewSe="2742" MintmarkId="41104" Turn="0" desc="" JudgeType="1" ForeverKey="0" ForeverHalfPos="0" />		
+	
+</root>
+

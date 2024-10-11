@@ -534,14 +534,14 @@ worldMap; !
 function(t) {
     var i = function() {
         function t() {}
-        return t.RenderPosX = [33, 15, 0, 0, 0, 15, 33, 808, 826, 850, 850, 0, 825, 810],
-        t.RenderPosY = [2, 76, 154, 232, 307, 381, 453, -2, 91, 185, 278, 0, 367, 455],
-        t.BtnShipX = [43, 45, 45, 46, 45, 45, 46, 28, 30, 51, 50, 26, 55, 4],
-        t.BtnShipY = [2, 1, 1, 5, 3, 2, 5, 5, 2, 2, 3, 1, 2, 2],
-        t.LockedPosX = [9, 9, 9, 11, 10, 11, 11, -11, -13, -12, -11, -13, -12, -12],
-        t.LockedPosY = [13, 10, 13, 12, 11, 12, 11, 12, 11, 11, 8, 11, 13, 12],
-        t.PopX = [33, 15, 0, 0, 0, 15, 33, 350, 367, 391, 391, 391, 367, 350],
-        t.PopY = [1, 74, 153, 158, 163, 180, 200, 0, 74, 153, 159, 163, 236, 311],
+        return t.RenderPosX = [33, 15, 0, 0, 0, 15, 33, 808, 826, 850, 850, 0, 825, 810, 850],
+        t.RenderPosY = [2, 76, 154, 232, 307, 381, 453, 2, 76, 154, 307, 0, 381, 453, 232],
+        t.BtnShipX = [43, 45, 45, 46, 45, 45, 46, 28, 30, 51, 50, 26, 55, 4, 51],
+        t.BtnShipY = [2, 1, 1, 5, 3, 2, 5, 5, 2, 2, 3, 1, 2, 2, 2],
+        t.LockedPosX = [9, 9, 9, 11, 10, 11, 11, -11, -13, -12, -11, -13, -12, -12, -12],
+        t.LockedPosY = [13, 10, 13, 12, 11, 12, 11, 12, 11, 11, 8, 11, 13, 12, 12],
+        t.PopX = [33, 15, 0, 0, 0, 15, 33, 350, 367, 391, 391, 391, 367, 350, 394],
+        t.PopY = [1, 74, 153, 158, 163, 180, 200, 0, 74, 153, 159, 163, 236, 311, 156],
         t
     } ();
     t.ShipBtnsPosition = i,
@@ -619,7 +619,7 @@ function(t) {
         function a() {
             var t = i.call(this) || this;
             return t.btns = [],
-            t.animStr = ["appear", "chuanzhangshi", "jinglingzhongxin", "chuansongcang", "liaowangcang", "liaowanglutai", "vip", "rongyudating", "huodongzhongxin", "nengyuanzhongxin", "jixieshi", "ziliaoshi", "yinghang", "fangyingshi", "jiaoguanbangongshi"],
+            t.animStr = ["appear", "chuanzhangshi", "jinglingzhongxin", "chuansongcang", "liaowangcang", "liaowanglutai", "vip", "rongyudating", "huodongzhongxin", "nengyuanzhongxin", "jixieshi", "ziliaoshi", "yinghang", "fangyingshi", "jiaoguanbangongshi", ""],
             t.maps = [],
             t.popShow = !1,
             t.skinName = WorlmapshipSkin,
@@ -681,7 +681,7 @@ function(t) {
             this.pop.removeChildren();
             for (var a = 1; a <= this.btns.length; a++) this.shipGroup.getChildAt(a - 1).touchEnabled = i.data != a,
             this.shipGroup.getChildAt(a - 1).touchChildren = i.data != a,
-            i.data == a && (this.spaceAnim.visible = !0, this.spaceAnim.play(this.animStr[a], 1)),
+            i.data == a && ("" != this.animStr[a] ? (this.spaceAnim.visible = !0, this.spaceAnim.play(this.animStr[a], 1)) : this.spaceAnim.visible = !1),
             this.btns[a - 1].xuanzhong.visible = i.data == a;
             var e = new t.WorldmapshipBtnPop(this.maps[i.data - 1]);
             this.pop.addChild(e),

@@ -1176,14 +1176,34 @@
         },
         "Hotspot": {
             "item": {
-                "place": {
-                    "type": 0,
-                    "ID": 4682,
-                    "ImageID": 4682,
-                    "Label": 0,
-                    "Redirect": "map|module",
-                    "Go": "1701;app/SpetKongHuiXingTuMainPanel"
-                },
+                "place": [
+                    {
+                        "type": 0,
+                        "ID": 4683,
+                        "ImageID": 4683,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1702;app/SpetPNHaiXiaoWuZhuangMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 656,
+                        "MonID": 4683,
+                        "ImageID": 1400656,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1702;app/ShipCleanerEnter"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 657,
+                        "MonID": 3627,
+                        "ImageID": 1400657,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    }
+                ],
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -30617,7 +30637,8 @@
                 "Height": 173,
                 "Weight": 70,
                 "Features": "魂•斩月的超进化形态，夺命镰刀的威力变得更加强大，斩月毁天都不在话下！",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "103;app/NewVIPEquityPanel"
             },
             {
                 "ID": 2694,
@@ -32457,7 +32478,8 @@
                 "Height": 154,
                 "Weight": 100,
                 "Features": "在一次太阳黑子的剧烈活动中，伴随耀斑出现的精灵。在烈日的炙烤中诞生恐怖的日光力量!",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "103;app/NewVIPEquityPanel"
             },
             {
                 "ID": 2900,
@@ -37925,7 +37947,8 @@
                 "Height": 190,
                 "Weight": 80,
                 "Features": "波塞冬的完全体形态。手执海神之戟，秉承海皇之傲！海洋的力量运用的更加炉火纯青！",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "103;app/NewVIPEquityPanel"
             },
             {
                 "ID": 3507,
@@ -49062,6 +49085,17 @@
                 "Redirect": "map|module",
                 "Go": "1701;app/SpetKongHuiXingTuMainPanel",
                 "jumptarget": "151/225"
+            },
+            {
+                "ID": 4683,
+                "DefName": "帕诺·海啸武装",
+                "Type": "机械 水",
+                "Height": 60,
+                "Weight": 40,
+                "Features": "好伙伴帕诺获得了全新的海啸武装，能够使用能量光波控制水流干扰对手，战斗力相比之前得到了大幅提升。",
+                "Redirect": "map|module",
+                "Go": "1702;app/SpetPNHaiXiaoWuZhuangMainPanel",
+                "jumptarget": "151/226"
             }
         ]
     }

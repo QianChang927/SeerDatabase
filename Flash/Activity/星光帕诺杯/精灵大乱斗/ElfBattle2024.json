@@ -1,0 +1,199 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            121892,
+            121893,
+            121894,
+            201771,
+            108523,
+            201772,
+            20390,
+            121895,
+            121896,
+            121897
+        ],
+        "item": [
+            1726309,
+            1301055,
+            1301056,
+            1301057,
+            1301058,
+            1301059,
+            1301060,
+            1301061,
+            1301062,
+            1301063,
+            1301064,
+            1301065,
+            1301066,
+            1301067,
+            1301068,
+            1301069,
+            1301070,
+            1301071,
+            1301072,
+            1301073,
+            1301074,
+            1301075,
+            1301076,
+            1301077,
+            1301078
+        ]
+    },
+    "values": [
+        {
+            "name": "team",
+            "type": "common",
+            "valueId": 108523
+        },
+        {
+            "name": "txt",
+            "type": "common",
+            "valueId": 121896
+        },
+        {
+            "name": "txt1",
+            "type": "common",
+            "valueId": 121895
+        },
+        {
+            "name": "selectPet",
+            "type": "common",
+            "valueId": 121897
+        },
+        {
+            "name": "itemNum",
+            "type": "common",
+            "valueId": 1726309
+        },
+        {
+            "name": "exchange0",
+            "type": "common",
+            "valueId": 121892
+        },
+        {
+            "name": "exchange1",
+            "type": "common",
+            "valueId": 121893
+        },
+        {
+            "name": "exchange2",
+            "type": "common",
+            "valueId": 121894
+        },
+        {
+            "name": "left",
+            "type": "common",
+            "valueId": 201771
+        },
+        {
+            "name": "task0",
+            "type": "common",
+            "valueId": 201772
+        },
+        {
+            "name": "task1",
+            "type": "common",
+            "valueId": 20390
+        },
+        {
+            "name": "teams",
+            "type": "value",
+            "value": [
+                "",
+                "烈焰",
+                "海啸",
+                "绿光"
+            ]
+        },
+        {
+            "name": "rewards_0",
+            "type": "value",
+            "value": [
+                "300066_1_1_150",
+                "2500003_1_15_30",
+                "2500004_1_15_10",
+                "1723854_1000_10_15",
+                "1706926_1_7_10",
+                "1724952_1_7_10",
+                "300063_1_7_5",
+                "300065_3_7_15",
+                "2500005_3_10_10"
+            ]
+        },
+        {
+            "name": "rewards_1",
+            "type": "value",
+            "value": [
+                "451_50",
+                "453_50",
+                "455_50",
+                "452_100",
+                "454_100",
+                "456_100"
+            ]
+        },
+        {
+            "name": "tasks",
+            "type": "value",
+            "value": [
+                "累计完成$次精灵大乱斗",
+                "在精灵大乱斗获胜$次",
+                "累计完成$次精灵大乱斗",
+                "累计在精灵大乱斗中获胜$次"
+            ]
+        },
+        {
+            "name": "tasksTimes",
+            "type": "value",
+            "value": [
+                3,
+                1,
+                20,
+                10
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "alarm",
+            "type": "alarm",
+            "value": "您还没有进行帕诺杯分队，请前往分队！"
+        },
+        {
+            "name": "alarm1",
+            "type": "alarm",
+            "value": "你还未报名本次参加星光•帕诺杯！"
+        },
+        {
+            "name": "alarm3",
+            "type": "alarm",
+            "value": "请选择三只精灵作为出战阵容！"
+        },
+        {
+            "name": "alarm2",
+            "type": "alarm",
+            "value": "今日剩余挑战次数不足！"
+        },
+        {
+            "name": "alarm4",
+            "type": "alarm",
+            "value": "您匹配的时间过长，休息片刻再来匹配吧！"
+        },
+        {
+            "name": "alarm5",
+            "type": "alarm",
+            "value": "乱斗晶石不足。"
+        },
+        {
+            "name": "alarm6",
+            "type": "alarm",
+            "value": "匹配时间过长，请稍后再试。"
+        },
+        {
+            "name": "alarm7",
+            "type": "alarm",
+            "value": "$队星光积分+$！"
+        }
+    ]
+}

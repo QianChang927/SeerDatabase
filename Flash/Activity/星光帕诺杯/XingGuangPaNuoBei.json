@@ -1,0 +1,30 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            108523
+        ]
+    },
+    "values": [
+        {
+            "name": "curplayer",
+            "type": "common",
+            "valueId": 108523
+        },
+        {
+            "name": "global",
+            "type": "value",
+            "value": 283
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "41810",
+            "args": [
+                "9",
+                "arg"
+            ]
+        }
+    ]
+}

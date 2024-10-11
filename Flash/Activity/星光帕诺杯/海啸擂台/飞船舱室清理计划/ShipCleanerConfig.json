@@ -1,0 +1,86 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            11878,
+            11879,
+            11880,
+            11881,
+            11882,
+            105754,
+            105755,
+            108523
+        ]
+    },
+    "values": [
+        {
+            "name": "teamIdx",
+            "type": "common",
+            "valueId": "108523"
+        },
+        {
+            "name": "hasInit",
+            "type": "common",
+            "valueId": "11878"
+        },
+        {
+            "name": "mapArr",
+            "type": "url",
+            "value": "11878.1~8|11878.9~16"
+        },
+        {
+            "name": "sumGetCoinArr",
+            "type": "url",
+            "value": "11878.17~24|11878.25~32"
+        },
+        {
+            "name": "mapValueArr_1",
+            "type": "url",
+            "value": "11879.1~8|11879.9~16|11879.17~24|11879.25~32"
+        },
+        {
+            "name": "mapPosArr_1",
+            "type": "url",
+            "value": "11880.1~8|11880.9~16|11880.17~24|11880.25~32"
+        },
+        {
+            "name": "mapValueArr_2",
+            "type": "url",
+            "value": "11881.1~8|11881.9~16|11881.17~24|11881.25~32"
+        },
+        {
+            "name": "mapPosArr_2",
+            "type": "url",
+            "value": "11882.1~8|11882.9~16|11882.17~24|11882.25~32"
+        },
+        {
+            "name": "coinCnt",
+            "type": "common",
+            "valueId": "105754"
+        },
+        {
+            "name": "gotPrizeArr",
+            "type": "url",
+            "value": "105755.1~4|105755.5~8|105755.9~12|105755.13~16|105755.17~20"
+        }
+    ],
+    "actions": [
+        {
+            "name": "Init",
+            "type": "send",
+            "cmdId": "45850",
+            "args": [
+                "20",
+                "1"
+            ]
+        },
+        {
+            "name": "CMD",
+            "type": "send",
+            "cmdId": "45850",
+            "args": [
+                "20",
+                "arg"
+            ]
+        }
+    ]
+}

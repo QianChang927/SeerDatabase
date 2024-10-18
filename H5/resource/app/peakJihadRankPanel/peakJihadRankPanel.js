@@ -1128,7 +1128,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadRankPanelSuitItemSkin.exml"] = wi
         e.visible = !0,
         e.x = 0,
         e.y = 0,
-        e.elementsContent = [this._Image1_i(), this.icon_i(), this.rank_i(), this.rankLevel_i(), this.suitName_i(), this.petRate_i(), this.rate_i()],
+        e.elementsContent = [this._Image1_i(), this.icon_i(), this.rank_i(), this.rankLevel_i(), this.suitName_i(), this._Group1_i()],
         e
     },
     i._Image1_i = function() {
@@ -1178,26 +1178,49 @@ generateEUI.paths["resource/eui_skins/PeakjihadRankPanelSuitItemSkin.exml"] = wi
         e.y = 203.574,
         e
     },
+    i._Group1_i = function() {
+        var e = new eui.Group;
+        return e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 24,
+        e.horizontalCenter = 25.5,
+        e.width = 144,
+        e.y = 7.4,
+        e.layout = this._HorizontalLayout1_i(),
+        e.elementsContent = [this.petRate_i(), this.rate_i()],
+        e
+    },
+    i._HorizontalLayout1_i = function() {
+        var e = new eui.HorizontalLayout;
+        return e.gap = -10,
+        e.horizontalAlign = "right",
+        e
+    },
     i.petRate_i = function() {
         var e = new eui.Label;
         return this.petRate = e,
         e.fontFamily = "MFShangHei",
-        e.right = 47,
+        e.right = 60,
+        e.scaleX = 1,
+        e.scaleY = 1,
         e.size = 18,
-        e.text = "胜率：",
+        e.text = "出场次数：",
         e.textColor = 12834813,
-        e.y = 8,
+        e.x = -13,
+        e.y = 0,
         e
     },
     i.rate_i = function() {
         var e = new eui.Label;
         return this.rate = e,
         e.fontFamily = "MFShangHei",
+        e.scaleX = 1,
+        e.scaleY = 1,
         e.size = 18,
-        e.text = "70%",
+        e.text = "1704.4万",
         e.textColor = 6153817,
-        e.x = 166,
-        e.y = 8,
+        e.x = 137,
+        e.y = 0,
         e
     },
     t

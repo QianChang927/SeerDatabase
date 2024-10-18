@@ -40,7 +40,7 @@ function(t) {
             var e = new MenuData;
             e.adapter = !1,
             e.groupName = this.groupName,
-            e["default"] = 1;
+            e["default"] = void 0 != this._vo.initIndex ? this._vo.initIndex: 1;
             for (var i = {},
             n = [], r = 0; r < t.length; r++) n.push(r + 1),
             i[r + 1] = {
@@ -2925,10 +2925,11 @@ generateEUI.paths["resource/eui_skins/HelpMulitPopSkin.exml"] = window.tipsPop.H
         var t = new eui.Label;
         return this.txtRule = t,
         t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
         t.size = 20,
         t.text = "规则说明",
+        t.textAlign = "center",
         t.textColor = 12111615,
-        t.x = 354,
         t.y = 0,
         t
     },

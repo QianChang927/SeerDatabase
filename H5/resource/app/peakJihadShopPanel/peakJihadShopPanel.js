@@ -90,15 +90,18 @@ function(e) {
             this.info.discount < 1 ? (this.currentState = "2", this.itemPrice.text = "" + n.num, this.itemSaleGroup.visible = !1) : (this.currentState = "1", this.itemPrice.text = "" + n.num, this.itemSaleGroup.visible = !0, this.itemSaleNum.text = this.info.discount + "折");
             var r = ["每日限购", "每周限购", "每月限购", "赛季限购", "永久限购"],
             o = !1;
-            if (this.info.bagLimit > 0) this.itemLimit.visible = !1,
-            o = this.info.bagLimit - ItemManager.getNumByID(this.itemParseInfo.id) <= 0;
-            else if (1 == this.info.limit) this.itemLimit.visible = !1;
+            if (this.info.bagLimit > 0) {
+                this.itemLimit.visible = !0;
+                var a = ItemManager.getNumByID(this.itemParseInfo.id);
+                this.itemLimit.text = "背包限购:" + a + "/" + this.info.bagLimit,
+                o = this.info.bagLimit - a <= 0
+            } else if (1 == this.info.limit) this.itemLimit.visible = !1;
             else {
                 this.itemLimit.visible = !0;
-                var a = PeakJihadController.shopValue.getValue(this.info.id);
-                o = this.info.quantity <= a,
+                var s = PeakJihadController.shopValue.getValue(this.info.id);
+                o = this.info.quantity <= s,
                 o && (this.currentState = "3", this.itemPrice.text = "已购买"),
-                this.itemLimit.text = r[this.info.limit - 2] + "：" + a + "/" + this.info.quantity
+                this.itemLimit.text = r[this.info.limit - 2] + "：" + s + "/" + this.info.quantity
             }
             DisplayUtil.setEnabled(this.buyGroup, !o, !0),
             this.cacheAsBitmap = !0
@@ -845,6 +848,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopPanelSkin.exml"] = window.Pea
         e.left = -1,
         e.scaleX = .7,
         e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon0_png",
         e.width = 55,
         e.y = -6,
         e
@@ -880,6 +884,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopPanelSkin.exml"] = window.Pea
         e.left = -1,
         e.scaleX = .7,
         e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon1_png",
         e.width = 55,
         e.y = -6,
         e

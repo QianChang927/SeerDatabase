@@ -1,0 +1,78 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            121891,
+            201768,
+            201769,
+            201773
+        ],
+        "item": [
+            1726244
+        ],
+        "pet_class": [
+            4678
+        ],
+        "bit": [
+            8835
+        ]
+    },
+    "values": [
+        {
+            "name": "pet",
+            "type": "common",
+            "valueId": 8835
+        },
+        {
+            "name": "petClass",
+            "type": "common",
+            "valueId": 4678
+        },
+        {
+            "name": "pro",
+            "type": "common",
+            "valueId": 121891
+        },
+        {
+            "name": "numTxt",
+            "type": "common",
+            "valueId": 1726244
+        },
+        {
+            "name": "dailyNum",
+            "type": "common",
+            "valueId": 201773
+        }
+    ],
+    "actions": [
+        {
+            "name": "alarm",
+            "type": "alarm",
+            "value": "你当前未拥有辉煌之芒，请先前往收集！"
+        },
+        {
+            "name": "alarm1",
+            "type": "alarm",
+            "value": "恭喜你完成了辉煌之芒的注入，快去领取迪迦奥特曼吧！"
+        },
+        {
+            "name": "alarm2",
+            "type": "alarm",
+            "value": "恭喜你，注入进度增加了$！"
+        },
+        {
+            "name": "alarm3",
+            "type": "alarm",
+            "value": "累计在线时长未满足，请稍后再来。"
+        },
+        {
+            "name": "alarm4",
+            "type": "alarm",
+            "value": "今日辉煌之芒获取数量已达到上限！"
+        },
+        {
+            "name": "alert",
+            "type": "alert",
+            "value": "请将光属性精灵设置为出战背包首发，是否打开精灵背包？"
+        }
+    ]
+}

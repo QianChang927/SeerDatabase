@@ -28,7 +28,25 @@ function(e) {
             var n = this;
             t.prototype.childrenCreated.call(this),
             this.initBtnClose("peakjihad_sports_pool_title_png", this),
-            this.initBtnHelpById(146),
+            this.initBtnHelp(function() {
+                var e = {};
+                e.titleSource = RES.getRes("peakjihad_sports_pool_rule_title_png"),
+                e.initIndex = n.type >= 3 ? 3 : n.type,
+                e.data = [{
+                    tabName: "限制池规则",
+                    id: 146
+                },
+                {
+                    tabName: "准限制池规则",
+                    id: 176
+                },
+                {
+                    tabName: "票选规则",
+                    id: 175
+                }],
+                tipsPop.TipsPop.openMulitHelpPop(e)
+            },
+            this),
             this.adaptBgByScale(this.bg),
             this._list.itemRenderer = i,
             this._voteList.itemRenderer = r,
@@ -98,7 +116,6 @@ function(e) {
             var e = this,
             t = ~~this.menu.selectedValue;
             if (this.type = t, 3 > t) {
-                this.initBtnHelpById(146),
                 this.grpVote.visible = !1,
                 this._scroller.visible = !0;
                 for (var i = config.Pvp_ban.getItems().filter(function(e) {
@@ -109,7 +126,6 @@ function(e) {
                 });
                 this._list.dataProvider = new eui.ArrayCollection(a)
             } else {
-                this.initBtnHelpById(175),
                 this._scroller.visible = !1,
                 this.grpVote.visible = !0;
                 var s = [0, 0, 0, 0, 1, 2],

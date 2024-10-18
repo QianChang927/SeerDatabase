@@ -4303,20 +4303,120 @@ function(t, e) {
     n.prototype = e.prototype,
     t.prototype = new n
 },
-Effect_170 = function(t) {
+Effect_539 = function(t) {
     function e() {
         var e = t.call(this) || this;
-        return e._argsNum = 1,
+        return e._argsNum = 0,
         e
     }
     return __extends(e, t),
     e.prototype.getInfo = function(t) {
         return void 0 === t && (t = null),
-        "若先出手，则免疫当回合伤害并回复1/" + t[0] + "的最大体力值"
+        "若对手处于能力强化状态则先制额外+1且威力翻倍"
     },
     e
 } (AbstractEffectInfo);
-__reflect(Effect_170.prototype, "Effect_170");
+__reflect(Effect_539.prototype, "Effect_539");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+SignIconXmlInfo = function() {
+    function t() {}
+    return t.setup = function() {
+        var t = this;
+        return new Promise(function(e, n) {
+            var r = "signIcon_fight";
+            config.xml.load(r).then(function() {
+                var n = config.xml.getRes(r).config;
+                t.parseSignIconList(n),
+                e()
+            })
+        })
+    },
+    t.parseSignIconList = function(t) {
+        for (var e = t.item,
+        n = 0,
+        r = e; n < r.length; n++) {
+            for (var o = r[n], i = o, s = String(i.Des); - 1 != s.indexOf("\\n");) s = s.replace("\\n", "\n");
+            if (i.Des = s, "" != i.sptips && void 0 != i.sptips && this._sptipsHashMap.add(i.id, this.getSpHashMap(i.sptips)), "" != i.spDes && void 0 != i.spDes) {
+                for (var a = i.spDes; - 1 != a.indexOf("\\n");) a = a.replace("\\n", "\n");
+                i.spDes = a,
+                this._spDesHashMap.add(i.id, this.getSpHashMap(i.spDes))
+            }
+            "" != i.spicon && void 0 != i.spicon && this._spIconHashMap.add(i.id, this.getSpIconHashMap(i.spicon)),
+            "" != i.frame && void 0 != i.frame && this._headFrameHashMap.add(i.id, this.getHeadFrameHashMap(i.frame)),
+            this._itemHash.add(i.id, i)
+        }
+    },
+    t.getAllSignIconInfos = function() {
+        return this._itemHash.getValues()
+    },
+    t.getInfoById = function(t) {
+        return this._itemHash.getValue(t)
+    },
+    t.getSpHashMap = function(t) {
+        for (var e = new HashMap,
+        n = t.split(" "), r = 0; r < n.length; r++) {
+            var o = n[r].split("_");
+            e.add(Number(o[0]), o[1])
+        }
+        return e
+    },
+    t.getsptipsHashMapByid = function(t) {
+        return this._sptipsHashMap.getValue(String(t))
+    },
+    t.getspDesHashMapByid = function(t) {
+        return this._spDesHashMap.getValue(String(t))
+    },
+    t.getSptipsByidAndLvNum = function(t, e) {
+        var n = this.getsptipsHashMapByid(t);
+        return n && void 0 != n.getValue(String(e)) ? n.getValue(String(e)) : ""
+    },
+    t.getspDesByidAndLvNum = function(t, e) {
+        var n = this.getspDesHashMapByid(t);
+        return n && void 0 != n.getValue(String(e)) ? n.getValue(String(e)) : ""
+    },
+    t.getSpIconHashMap = function(t) {
+        for (var e = new HashMap,
+        n = t.split(" "), r = 0; r < n.length; r++) {
+            var o = n[r].split("_");
+            e.add(Number(o[0]), o[1])
+        }
+        return e
+    },
+    t.getspIconHashMapByid = function(t) {
+        return this._spIconHashMap.getValue(String(t))
+    },
+    t.getspIconByidAndLvNum = function(t, e) {
+        var n = this.getspIconHashMapByid(t);
+        return n && void 0 != n.getValue(String(e)) ? n.getValue(String(e)) : ""
+    },
+    t.getHeadFrameHashMap = function(t) {
+        for (var e = new HashMap,
+        n = t.split(" "), r = 0; r < n.length; r++) {
+            var o = n[r].split("_");
+            e.add(Number(o[0]), o[1])
+        }
+        return e
+    },
+    t.getHeadFrameHashMapByid = function(t) {
+        return this._headFrameHashMap.getValue(String(t))
+    },
+    t.getHeadFrameByidAndLvNum = function(t, e) {
+        var n = this.getHeadFrameHashMapByid(t);
+        return n && void 0 != n.getValue(String(e)) ? n.getValue(String(e)) : ""
+    },
+    t._itemHash = new HashMap,
+    t._sptipsHashMap = new HashMap,
+    t._spDesHashMap = new HashMap,
+    t._spIconHashMap = new HashMap,
+    t._headFrameHashMap = new HashMap,
+    t
+} ();
+__reflect(SignIconXmlInfo.prototype, "SignIconXmlInfo");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -18160,7 +18260,7 @@ MapManager = function() {
     },
     t.gotoSelectPop = function() {
         var t = config.Starmap.getItemsByField("id", ["=="], [this.curMapInfo.GroupID])[0];
-        if (t) if (1 == t.type) ModuleManager.showModule("worldMap", ["worldMap"], null, "WorldMapShipPanel");
+        if (t) if (1 == t.type && 10122 != t.id) ModuleManager.showModule("worldMap", ["worldMap"], null, "WorldMapShipPanel");
         else {
             for (var e = +(t.id + "").substring(0, 3), n = config.Starmaplist.getItems(), r = 0; r < n.length; r++) {
                 var o = n[r].StarID.split("_");
@@ -21747,9 +21847,9 @@ PeakJihadOrderManager = function() {
     t.payState = [],
     t.taskRed = !1,
     t.rewardRed = !1,
-    t.curSeason = 3,
-    t.endTime = "2024_10_18_10",
-    t.curOutputSkinId = 636,
+    t.curSeason = 4,
+    t.endTime = "2025_1_10_10",
+    t.curOutputSkinId = 662,
     t
 } ();
 __reflect(PeakJihadOrderManager.prototype, "PeakJihadOrderManager");
@@ -21792,25 +21892,29 @@ PetAssetsManager = function() {
     t.prototype.deleteAsset = function(t) {
         delete this.assetsObj["asset_" + t]
     },
-    t.prototype.getAssetsByID = function(e, n, r) {
+    t.prototype.getAssetsByID = function(e, n, r, o) {
         void 0 === n && (n = 0),
-        void 0 === r && (r = 0);
-        var o = e;
+        void 0 === r && (r = 0),
+        void 0 === o && (o = !1);
+        var i = e;
         e = PetIdTransform.getPetId(e, n, !0),
         e = PetXMLInfo.getRealId(e),
-        0 != r && (e = PetSkinXMLInfo.getSkinPetId(r, o)),
+        0 != r && (e = PetSkinXMLInfo.getSkinPetId(r, i)),
+        o && (e = PetLeftAndRightXmlInfo.getRightPet(e)),
         -1 != AssetsLoadManager.noAssPet.indexOf(e) && (e = t.defaultPetid);
-        var i = CjsUtil.getPet(e);
-        return i || (i = CjsUtil.getPet(5111)),
-        i
+        var s = CjsUtil.getPet(e);
+        return s || (s = CjsUtil.getPet(5111)),
+        s
     },
-    t.prototype.getPreviewAssetsByID = function(e, n, r) {
+    t.prototype.getPreviewAssetsByID = function(e, n, r, o) {
         void 0 === n && (n = 0),
-        void 0 === r && (r = 0);
-        var o = e;
+        void 0 === r && (r = 0),
+        void 0 === o && (o = !1);
+        var i = e;
         return e = PetIdTransform.getPetId(e, n, !0),
         e = PetXMLInfo.getRealId(e),
-        0 != r && (e = PetSkinXMLInfo.getSkinPetId(r, o)),
+        0 != r && (e = PetSkinXMLInfo.getSkinPetId(r, i)),
+        o && (e = PetLeftAndRightXmlInfo.getRightPet(e)),
         -1 != AssetsLoadManager.noAssPet.indexOf(e) && (e = t.defaultPetid),
         CjsUtil.getPreview(e)
     },
@@ -32164,9 +32268,10 @@ SystemTimerManager = function() {
     t.getLeftTimeString = function(t) {
         var e = "",
         n = Math.floor(t / 86400),
-        r = t % 86400,
-        o = Math.floor(r / 3600);
-        return n > 1 ? e = n + "天" + o + "小时": o > 0 ? e = o + "小时": r > 0 ? e = "1小时": e
+        r = Math.floor(t / 3600),
+        o = t % 86400,
+        i = Math.floor(o / 3600);
+        return n > 1 ? e = n + "天" + i + "小时": r > 0 ? e = r + "小时": o > 0 ? e = "1小时": e
     },
     t.getDateByStr = function(t, e, n, r) {
         void 0 === e && (e = 0),
@@ -34486,8 +34591,11 @@ ZipManager = function(t) {
                     [4, SkillNameReplaceXmlInfo.setup()];
                 case 30:
                     return e.sent(),
-                    [4, SkillTipNewXmlInfo.setup()];
+                    [4, PetLeftAndRightXmlInfo.setup()];
                 case 31:
+                    return e.sent(),
+                    [4, SkillTipNewXmlInfo.setup()];
+                case 32:
                     return e.sent(),
                     egret.log("json 解析花费：" + (Date.now() - t)),
                     this.completed = !0,
@@ -46392,221 +46500,29 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
-__awaiter = this && this.__awaiter ||
-function(t, e, n, r) {
-    return new(n || (n = Promise))(function(o, i) {
-        function s(t) {
-            try {
-                _(r.next(t))
-            } catch(e) {
-                i(e)
-            }
-        }
-        function a(t) {
-            try {
-                _(r["throw"](t))
-            } catch(e) {
-                i(e)
-            }
-        }
-        function _(t) {
-            t.done ? o(t.value) : new n(function(e) {
-                e(t.value)
-            }).then(s, a)
-        }
-        _((r = r.apply(t, e || [])).next())
-    })
-},
-__generator = this && this.__generator ||
+__extends = this && this.__extends ||
 function(t, e) {
-    function n(t) {
-        return function(e) {
-            return r([t, e])
-        }
+    function n() {
+        this.constructor = t
     }
-    function r(n) {
-        if (o) throw new TypeError("Generator is already executing.");
-        for (; _;) try {
-            if (o = 1, i && (s = i[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(i, n[1])).done) return s;
-            switch (i = 0, s && (n = [0, s.value]), n[0]) {
-            case 0:
-            case 1:
-                s = n;
-                break;
-            case 4:
-                return _.label++,
-                {
-                    value: n[1],
-                    done: !1
-                };
-            case 5:
-                _.label++,
-                i = n[1],
-                n = [0];
-                continue;
-            case 7:
-                n = _.ops.pop(),
-                _.trys.pop();
-                continue;
-            default:
-                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
-                    _ = 0;
-                    continue
-                }
-                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
-                    _.label = n[1];
-                    break
-                }
-                if (6 === n[0] && _.label < s[1]) {
-                    _.label = s[1],
-                    s = n;
-                    break
-                }
-                if (s && _.label < s[2]) {
-                    _.label = s[2],
-                    _.ops.push(n);
-                    break
-                }
-                s[2] && _.ops.pop(),
-                _.trys.pop();
-                continue
-            }
-            n = e.call(t, _)
-        } catch(r) {
-            n = [6, r],
-            i = 0
-        } finally {
-            o = s = 0
-        }
-        if (5 & n[0]) throw n[1];
-        return {
-            value: n[0] ? n[1] : void 0,
-            done: !0
-        }
-    }
-    var o, i, s, a, _ = {
-        label: 0,
-        sent: function() {
-            if (1 & s[0]) throw s[1];
-            return s[1]
-        },
-        trys: [],
-        ops: []
-    };
-    return a = {
-        next: n(0),
-        "throw": n(1),
-        "return": n(2)
-    },
-    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
-        return this
-    }),
-    a
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
 },
-Core = function() {
-    function t() {}
-    return t.init = function() {
-        var t = this;
-        EngineHookManager.init(),
-        LoginManager2.init(),
-        TaomeeSDKManager.init(),
-        FestivalVersionController.setup(),
-        egret.TextField.default_fontFamily = "黑体",
-        PetUpdateCmdListener.start(),
-        OgreCmdListener.start(),
-        XTeamController.checkActive(),
-        ToolTipManager.setup(),
-        OnlineManager.getInstance().setup(),
-        SocketErrorManager.setup(),
-        PetManager.setup(),
-        ItemManager.setup(),
-        AwardManager.setup(),
-        ServerNotifyManager.setup(),
-        CjsUtil.init(),
-        UICjsUtil.init(),
-        LifeCycleManager.init(),
-        ChannelManager.init(),
-        TeamInfoManager.init();
-        for (var e in CommandID) CommandID[e] > 0 && SocketEncryptImpl.addCmdLabel(CommandID[e], e);
-        SoundManager.init(),
-        SystemBroadcastManager.init(),
-        SoundManager.loadSound().then(function() {
-            return GameInfo.isApp ? void SoundManager.playMusic() : void egret.lifecycle.stage.once(egret.TouchEvent.TOUCH_TAP,
-            function() {
-                if (!GameInfo.isApp && 1 == GameInfo.platform) {
-                    var t = document.documentElement,
-                    e = t.requestFullScreen || t.webkitRequestFullScreen || t.mozRequestFullScreen || t.msRequestFullscreen;
-                    "undefined" != typeof e && e && e.call(t)
-                }
-                SoundManager.playMusic()
-            },
-            t)
-        }),
-        this.onBackButton(),
-        this.initThridAPPInfo(),
-        "webgl" == egret.Capabilities.renderMode ? 0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【常规模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【常规模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【常规模式】") : "canvas" == egret.Capabilities.renderMode && (0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【兼容模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【兼容模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【兼容模式】"))
+Effect_170 = function(t) {
+    function e() {
+        var e = t.call(this) || this;
+        return e._argsNum = 1,
+        e
+    }
+    return __extends(e, t),
+    e.prototype.getInfo = function(t) {
+        return void 0 === t && (t = null),
+        "若先出手，则免疫当回合伤害并回复1/" + t[0] + "的最大体力值"
     },
-    t.initThridAPPInfo = function() {
-        GameInfo.hasAlipayApp = !1,
-        GameInfo.hasWechatAPP = !1,
-        GameInfo.hasQQAPP = !1
-    },
-    t.onBackButton = function() {
-        var t = this;
-        document.addEventListener("backbutton",
-        function() {
-            Date.now() - t.lastClickTime < 1e3 ? (SoundManager.stopMusic(), navigator.app.exitApp()) : (window.plugins.toast.showShortCenter("再按一次退出游戏"), t.lastClickTime = Date.now())
-        },
-        !1)
-    },
-    t.PreLoaderConfigs = function() {
-        return __awaiter(this, void 0, void 0,
-        function() {
-            var t, e, n;
-            return __generator(this,
-            function(r) {
-                switch (r.label) {
-                case 0:
-                    return [4, RES.getResByUrl("resource/config/preloader_configs.json", null, this, RES.ResourceItem.TYPE_JSON)];
-                case 1:
-                    return t = r.sent(),
-                    e = t.data,
-                    n = function() {
-                        return __awaiter(this, void 0, void 0,
-                        function() {
-                            var t, r;
-                            return __generator(this,
-                            function(o) {
-                                switch (o.label) {
-                                case 0:
-                                    return 0 === e.length ? [2, Promise.resolve()] : (t = e.pop(), "xml" !== t.root ? [3, 2] : [4, config.xml.load(t.file)]);
-                                case 1:
-                                    return o.sent(),
-                                    n(),
-                                    [3, 4];
-                                case 2:
-                                    return "json" !== t.root ? [3, 4] : (r = t.file.toLocaleUpperCase()[0] + t.file.substr(1, t.file.length), [4, config[r].loadAsync()]);
-                                case 3:
-                                    o.sent(),
-                                    n(),
-                                    o.label = 4;
-                                case 4:
-                                    return [2]
-                                }
-                            })
-                        })
-                    },
-                    [4, n()];
-                case 2:
-                    return [2, r.sent()]
-                }
-            })
-        })
-    },
-    t.lastClickTime = 0,
-    t
-} ();
-__reflect(Core.prototype, "Core");
+    e
+} (AbstractEffectInfo);
+__reflect(Effect_170.prototype, "Effect_170");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -52531,29 +52447,221 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
-__extends = this && this.__extends ||
-function(t, e) {
-    function n() {
-        this.constructor = t
-    }
-    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
-    n.prototype = e.prototype,
-    t.prototype = new n
+__awaiter = this && this.__awaiter ||
+function(t, e, n, r) {
+    return new(n || (n = Promise))(function(o, i) {
+        function s(t) {
+            try {
+                _(r.next(t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function a(t) {
+            try {
+                _(r["throw"](t))
+            } catch(e) {
+                i(e)
+            }
+        }
+        function _(t) {
+            t.done ? o(t.value) : new n(function(e) {
+                e(t.value)
+            }).then(s, a)
+        }
+        _((r = r.apply(t, e || [])).next())
+    })
 },
-Effect_539 = function(t) {
-    function e() {
-        var e = t.call(this) || this;
-        return e._argsNum = 0,
-        e
+__generator = this && this.__generator ||
+function(t, e) {
+    function n(t) {
+        return function(e) {
+            return r([t, e])
+        }
     }
-    return __extends(e, t),
-    e.prototype.getInfo = function(t) {
-        return void 0 === t && (t = null),
-        "若对手处于能力强化状态则先制额外+1且威力翻倍"
+    function r(n) {
+        if (o) throw new TypeError("Generator is already executing.");
+        for (; _;) try {
+            if (o = 1, i && (s = i[2 & n[0] ? "return": n[0] ? "throw": "next"]) && !(s = s.call(i, n[1])).done) return s;
+            switch (i = 0, s && (n = [0, s.value]), n[0]) {
+            case 0:
+            case 1:
+                s = n;
+                break;
+            case 4:
+                return _.label++,
+                {
+                    value: n[1],
+                    done: !1
+                };
+            case 5:
+                _.label++,
+                i = n[1],
+                n = [0];
+                continue;
+            case 7:
+                n = _.ops.pop(),
+                _.trys.pop();
+                continue;
+            default:
+                if (s = _.trys, !(s = s.length > 0 && s[s.length - 1]) && (6 === n[0] || 2 === n[0])) {
+                    _ = 0;
+                    continue
+                }
+                if (3 === n[0] && (!s || n[1] > s[0] && n[1] < s[3])) {
+                    _.label = n[1];
+                    break
+                }
+                if (6 === n[0] && _.label < s[1]) {
+                    _.label = s[1],
+                    s = n;
+                    break
+                }
+                if (s && _.label < s[2]) {
+                    _.label = s[2],
+                    _.ops.push(n);
+                    break
+                }
+                s[2] && _.ops.pop(),
+                _.trys.pop();
+                continue
+            }
+            n = e.call(t, _)
+        } catch(r) {
+            n = [6, r],
+            i = 0
+        } finally {
+            o = s = 0
+        }
+        if (5 & n[0]) throw n[1];
+        return {
+            value: n[0] ? n[1] : void 0,
+            done: !0
+        }
+    }
+    var o, i, s, a, _ = {
+        label: 0,
+        sent: function() {
+            if (1 & s[0]) throw s[1];
+            return s[1]
+        },
+        trys: [],
+        ops: []
+    };
+    return a = {
+        next: n(0),
+        "throw": n(1),
+        "return": n(2)
     },
-    e
-} (AbstractEffectInfo);
-__reflect(Effect_539.prototype, "Effect_539");
+    "function" == typeof Symbol && (a[Symbol.iterator] = function() {
+        return this
+    }),
+    a
+},
+Core = function() {
+    function t() {}
+    return t.init = function() {
+        var t = this;
+        EngineHookManager.init(),
+        LoginManager2.init(),
+        TaomeeSDKManager.init(),
+        FestivalVersionController.setup(),
+        egret.TextField.default_fontFamily = "黑体",
+        PetUpdateCmdListener.start(),
+        OgreCmdListener.start(),
+        XTeamController.checkActive(),
+        ToolTipManager.setup(),
+        OnlineManager.getInstance().setup(),
+        SocketErrorManager.setup(),
+        PetManager.setup(),
+        ItemManager.setup(),
+        AwardManager.setup(),
+        ServerNotifyManager.setup(),
+        CjsUtil.init(),
+        UICjsUtil.init(),
+        LifeCycleManager.init(),
+        ChannelManager.init(),
+        TeamInfoManager.init();
+        for (var e in CommandID) CommandID[e] > 0 && SocketEncryptImpl.addCmdLabel(CommandID[e], e);
+        SoundManager.init(),
+        SystemBroadcastManager.init(),
+        SoundManager.loadSound().then(function() {
+            return GameInfo.isApp ? void SoundManager.playMusic() : void egret.lifecycle.stage.once(egret.TouchEvent.TOUCH_TAP,
+            function() {
+                if (!GameInfo.isApp && 1 == GameInfo.platform) {
+                    var t = document.documentElement,
+                    e = t.requestFullScreen || t.webkitRequestFullScreen || t.mozRequestFullScreen || t.msRequestFullscreen;
+                    "undefined" != typeof e && e && e.call(t)
+                }
+                SoundManager.playMusic()
+            },
+            t)
+        }),
+        this.onBackButton(),
+        this.initThridAPPInfo(),
+        "webgl" == egret.Capabilities.renderMode ? 0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【常规模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【常规模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【常规模式】") : "canvas" == egret.Capabilities.renderMode && (0 == GameInfo.platform ? StatLogger.log("20211008版本系统功能", "设置", "在PC端中选择【兼容模式】") : GameInfo.isApp ? StatLogger.log("20211008版本系统功能", "设置", "在手机APP中选择【兼容模式】") : StatLogger.log("20211008版本系统功能", "设置", "在手机游览器中选择【兼容模式】"))
+    },
+    t.initThridAPPInfo = function() {
+        GameInfo.hasAlipayApp = !1,
+        GameInfo.hasWechatAPP = !1,
+        GameInfo.hasQQAPP = !1
+    },
+    t.onBackButton = function() {
+        var t = this;
+        document.addEventListener("backbutton",
+        function() {
+            Date.now() - t.lastClickTime < 1e3 ? (SoundManager.stopMusic(), navigator.app.exitApp()) : (window.plugins.toast.showShortCenter("再按一次退出游戏"), t.lastClickTime = Date.now())
+        },
+        !1)
+    },
+    t.PreLoaderConfigs = function() {
+        return __awaiter(this, void 0, void 0,
+        function() {
+            var t, e, n;
+            return __generator(this,
+            function(r) {
+                switch (r.label) {
+                case 0:
+                    return [4, RES.getResByUrl("resource/config/preloader_configs.json", null, this, RES.ResourceItem.TYPE_JSON)];
+                case 1:
+                    return t = r.sent(),
+                    e = t.data,
+                    n = function() {
+                        return __awaiter(this, void 0, void 0,
+                        function() {
+                            var t, r;
+                            return __generator(this,
+                            function(o) {
+                                switch (o.label) {
+                                case 0:
+                                    return 0 === e.length ? [2, Promise.resolve()] : (t = e.pop(), "xml" !== t.root ? [3, 2] : [4, config.xml.load(t.file)]);
+                                case 1:
+                                    return o.sent(),
+                                    n(),
+                                    [3, 4];
+                                case 2:
+                                    return "json" !== t.root ? [3, 4] : (r = t.file.toLocaleUpperCase()[0] + t.file.substr(1, t.file.length), [4, config[r].loadAsync()]);
+                                case 3:
+                                    o.sent(),
+                                    n(),
+                                    o.label = 4;
+                                case 4:
+                                    return [2]
+                                }
+                            })
+                        })
+                    },
+                    [4, n()];
+                case 2:
+                    return [2, r.sent()]
+                }
+            })
+        })
+    },
+    t.lastClickTime = 0,
+    t
+} ();
+__reflect(Core.prototype, "Core");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -61774,14 +61882,16 @@ ClientConfig = function() {
     t.getSkillJsonPath = function(t) {
         return this.SKILLPATH + t + ".json"
     },
-    t.getfightPetPng = function(t, e, n) {
+    t.getfightPetPng = function(t, e, n, r) {
         void 0 === e && (e = 0),
-        void 0 === n && (n = 0);
-        var r = Number(t);
-        return r = PetIdTransform.getPetId(r, e),
-        r = PetXMLInfo.getRealId(r),
-        n > 0 && (r = PetSkinXMLInfo.getSkinPetId(n, r)),
-        this.FIGHTPNGPATH + r + ".png"
+        void 0 === n && (n = 0),
+        void 0 === r && (r = !1);
+        var o = Number(t);
+        return o = PetIdTransform.getPetId(o, e),
+        o = PetXMLInfo.getRealId(o),
+        n > 0 && (o = PetSkinXMLInfo.getSkinPetId(n, o)),
+        r && (o = PetLeftAndRightXmlInfo.getRightPet(o)),
+        this.FIGHTPNGPATH + o + ".png"
     },
     t.getfightPetConfig = function() {
         return this.FIGHTPNGPATH + "config.json"
@@ -63553,6 +63663,7 @@ ItemXMLInfo = function() {
         return e.Price
     },
     t.getMaxNum = function(e) {
+        if (1 == e) return 4e9;
         var n = t._itemDict[e];
         return n && n.hasOwnProperty("Max") ? Number(n.Max) : 999
     },
@@ -69175,6 +69286,27 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
+PetLeftAndRightXmlInfo = function() {
+    function t() {}
+    return t.setup = function() {
+        var t = this;
+        return new Promise(function(e, n) {
+            t.pets = RES.getRes("petRightResourceReplace_json"),
+            e()
+        })
+    },
+    t.getRightPet = function(t) {
+        return this.pets && this.pets.hasOwnProperty(t.toString()) ? Number(this.pets[t.toString()]) : t
+    },
+    t
+} ();
+__reflect(PetLeftAndRightXmlInfo.prototype, "PetLeftAndRightXmlInfo");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
 PetSkinInfo = function() {
     function t(t) {
         if (null != t) {
@@ -69219,24 +69351,6 @@ PetSkinInfo = function() {
     t
 } ();
 __reflect(PetSkinInfo.prototype, "PetSkinInfo");
-var __reflect = this && this.__reflect ||
-function(t, e, n) {
-    t.__class__ = e,
-    n ? n.push(e) : n = [e],
-    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
-},
-PetSkinType = function() {
-    function t() {}
-    return Object.defineProperty(t.prototype, "toString", {
-        get: function() {
-            return 1 == this.type ? this.lifeTime + "天": 2 == this.type ? "永久": ""
-        },
-        enumerable: !0,
-        configurable: !0
-    }),
-    t
-} ();
-__reflect(PetSkinType.prototype, "PetSkinType");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -72372,69 +72486,18 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
-PetSkinXMLInfo = function() {
+PetSkinType = function() {
     function t() {}
-    return t.setup = function() {
-        var t = this;
-        return new Promise(function(e, n) {
-            t.xml = RES.getRes("pet_skin_json").PetSkins,
-            t.parsepetskinList(t.xml),
-            e()
-        })
-    },
-    t.parsepetskinList = function(t) {
-        for (var e = t.Skin,
-        n = 0,
-        r = e; n < r.length; n++) {
-            var o = r[n],
-            i = new PetSkinInfo(o);
-            this._dataMap.add(i.id, i);
-            var s = this._dataMapByPetId.getValue(i.monId);
-            null == s && (s = [], this._dataMapByPetId.add(i.monId, s)),
-            s.push(i)
-        }
-    },
-    t.getSkinInfosByPetId = function(t) {
-        var e = this._dataMapByPetId.getValue(t),
-        n = [];
-        if (null != e) for (var r = 0; r < e.length; r++) n.push(e[r]);
-        return n
-    },
-    t.isPetHaveSkin = function(t) {
-        return this._dataMapByPetId.containsKey(t)
-    },
-    t.getSkinInfo = function(t) {
-        return this._dataMap.getValue(t)
-    },
-    t.getTypeCn = function(t) {
-        if (isNaN(t)) return "经典";
-        var e = ["默认", "英雄", "史诗", "传说", "周年限定", "万圣限定", "中秋节限定", "春节限定", "圣诞节限定", "青春校园", "", "周年限定", "周年限定", "异元时空", "神话", "赛季限定", "古堡晚宴", "七夕限定", "限定"];
-        return t >= e.length && console.error("未定义类型"),
-        e[t]
-    },
-    t.getSkinPetId = function(e, n) {
-        var r = n;
-        if (0 != e) {
-            var o = t.getSkinInfo(e);
-            null != o && o.monId == n && (r = o.skinPetId)
-        }
-        return r
-    },
-    t.getSubSkinName = function(t, e) {
-        var n = this.getSkinInfo(t),
-        r = n.name,
-        o = n.getSkinType(e);
-        return null != o && (r += "(" + o.toString + ")"),
-        r
-    },
-    t.getAllSkin = function() {
-        return this._dataMap.getValues()
-    },
-    t._dataMap = new HashMap,
-    t._dataMapByPetId = new HashMap,
+    return Object.defineProperty(t.prototype, "toString", {
+        get: function() {
+            return 1 == this.type ? this.lifeTime + "天": 2 == this.type ? "永久": ""
+        },
+        enumerable: !0,
+        configurable: !0
+    }),
     t
 } ();
-__reflect(PetSkinXMLInfo.prototype, "PetSkinXMLInfo");
+__reflect(PetSkinType.prototype, "PetSkinType");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -73142,6 +73205,120 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
+PetSkinXMLInfo = function() {
+    function t() {}
+    return t.setup = function() {
+        var t = this;
+        return new Promise(function(e, n) {
+            t.xml = RES.getRes("pet_skin_json").PetSkins,
+            t.parsepetskinList(t.xml),
+            e()
+        })
+    },
+    t.parsepetskinList = function(t) {
+        for (var e = t.Skin,
+        n = 0,
+        r = e; n < r.length; n++) {
+            var o = r[n],
+            i = new PetSkinInfo(o);
+            this._dataMap.add(i.id, i);
+            var s = this._dataMapByPetId.getValue(i.monId);
+            null == s && (s = [], this._dataMapByPetId.add(i.monId, s)),
+            s.push(i)
+        }
+    },
+    t.getSkinInfosByPetId = function(t) {
+        var e = this._dataMapByPetId.getValue(t),
+        n = [];
+        if (null != e) for (var r = 0; r < e.length; r++) n.push(e[r]);
+        return n
+    },
+    t.isPetHaveSkin = function(t) {
+        return this._dataMapByPetId.containsKey(t)
+    },
+    t.getSkinInfo = function(t) {
+        return this._dataMap.getValue(t)
+    },
+    t.getTypeCn = function(t) {
+        if (isNaN(t)) return "经典";
+        var e = ["默认", "英雄", "史诗", "传说", "周年限定", "万圣限定", "中秋节限定", "春节限定", "圣诞节限定", "青春校园", "", "周年限定", "周年限定", "异元时空", "神话", "赛季限定", "古堡晚宴", "七夕限定", "限定"];
+        return t >= e.length && console.error("未定义类型"),
+        e[t]
+    },
+    t.getSkinPetId = function(e, n) {
+        var r = n;
+        if (0 != e) {
+            var o = t.getSkinInfo(e);
+            null != o && o.monId == n && (r = o.skinPetId)
+        }
+        return r
+    },
+    t.getSubSkinName = function(t, e) {
+        var n = this.getSkinInfo(t),
+        r = n.name,
+        o = n.getSkinType(e);
+        return null != o && (r += "(" + o.toString + ")"),
+        r
+    },
+    t.getAllSkin = function() {
+        return this._dataMap.getValues()
+    },
+    t._dataMap = new HashMap,
+    t._dataMapByPetId = new HashMap,
+    t
+} ();
+__reflect(PetSkinXMLInfo.prototype, "PetSkinXMLInfo");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+ParseURLJsonValue = function() {
+    function t(t) {
+        this._valueArr = [],
+        this._valueBitsArr = [],
+        this.parseURLValues(t)
+    }
+    return t.prototype.destroy = function() {
+        this._valueArr = null,
+        this._valueBitsArr = null
+    },
+    t.prototype.parseURLValues = function(t) {
+        var e, n, r, o, i, s, a, _, c = (new Array, t);
+        if (null != c) for (e = c.split("|"), s = 1; s <= e.length; s++) if (c = e[s - 1], -1 != c.indexOf(".") && (o = this.getStartEnd(c, "."), c = o[0], i = o[1]), -1 == c.indexOf("~")) for (r = new Array, n = this.getStartEnd(c, "-"), a = parseInt(n[0]); a <= parseInt(n[1]); a++) _ = a,
+        r.push(_),
+        null != i ? (o = this.getStartEnd(i, "~"), this._valueArr.push(_), this._valueBitsArr.push(this.getBitsLimit(o[0], o[1]))) : (this._valueArr.push(_), this._valueBitsArr.push(Number.MAX_VALUE));
+        else if (null != r) {
+            o = this.getStartEnd(c, "~");
+            for (var l = 1; l <= r.length; l++) this._valueArr.push(r[l - 1]),
+            this._valueBitsArr.push(this.getBitsLimit(o[0], o[1]))
+        }
+    },
+    t.prototype.getStartPos = function(t) {
+        for (var e = 0; 32 > e; e++) if (1 == (t >>> e & 1)) return e;
+        return 0
+    },
+    t.prototype.getStartEnd = function(t, e) {
+        var n = t.split(e);
+        return n.length < 2 && (n[1] = n[0]),
+        n
+    },
+    t.prototype.getBitsLimit = function(t, e) {
+        return (1 << e - t + 1) - 1 << t - 1
+    },
+    t.prototype.parseValue = function(t, e) {
+        return (t & this._valueBitsArr[e]) >>> this.getStartPos(this._valueBitsArr[e])
+    },
+    t
+} ();
+__reflect(ParseURLJsonValue.prototype, "ParseURLJsonValue");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
 PetStatusEffectConfig = function() {
     function t() {}
     return t.setup = function() {
@@ -73227,45 +73404,146 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
-ParseURLJsonValue = function() {
-    function t(t) {
-        this._valueArr = [],
-        this._valueBitsArr = [],
-        this.parseURLValues(t)
+ChangeClothAction = function() {
+    function t(t, e, n, r) {
+        this.clothID = 0,
+        this.clothLevel = 0,
+        this.isLoaded = !1,
+        this.isLoading = !1,
+        this.transform_config = {},
+        this._curUrlType = 0,
+        this.walking = !1,
+        this._clothURL = "",
+        this.model = r,
+        this.type = n,
+        this.people = t,
+        this.container = e,
+        this.curr_dir = t.direction,
+        this.initClothTransform(),
+        this.takeOffCloth()
     }
-    return t.prototype.destroy = function() {
-        this._valueArr = null,
-        this._valueBitsArr = null
-    },
-    t.prototype.parseURLValues = function(t) {
-        var e, n, r, o, i, s, a, _, c = (new Array, t);
-        if (null != c) for (e = c.split("|"), s = 1; s <= e.length; s++) if (c = e[s - 1], -1 != c.indexOf(".") && (o = this.getStartEnd(c, "."), c = o[0], i = o[1]), -1 == c.indexOf("~")) for (r = new Array, n = this.getStartEnd(c, "-"), a = parseInt(n[0]); a <= parseInt(n[1]); a++) _ = a,
-        r.push(_),
-        null != i ? (o = this.getStartEnd(i, "~"), this._valueArr.push(_), this._valueBitsArr.push(this.getBitsLimit(o[0], o[1]))) : (this._valueArr.push(_), this._valueBitsArr.push(Number.MAX_VALUE));
-        else if (null != r) {
-            o = this.getStartEnd(c, "~");
-            for (var l = 1; l <= r.length; l++) this._valueArr.push(r[l - 1]),
-            this._valueBitsArr.push(this.getBitsLimit(o[0], o[1]))
+    return t.prototype.changeCloth = function(t, e) {
+        if (void 0 === e && (e = 0), "bg" != ClothXMLInfo.getItemInfo(t.id).type) {
+            this._curUrlType = e,
+            this.clothID = t.id,
+            this.clothLevel = t.level;
+            var n = ClientConfig.getClothSwfDir(this.clothID + "");
+            this.beginLoad(n),
+            this.initClothTransform()
         }
     },
-    t.prototype.getStartPos = function(t) {
-        for (var e = 0; 32 > e; e++) if (1 == (t >>> e & 1)) return e;
-        return 0
+    t.prototype.changeClothByPath = function(t, e) {
+        this.clothID = t;
+        var e = ClientConfig.getClothSwfDir(t + "");
+        this.beginLoad(e),
+        this.initClothTransform()
     },
-    t.prototype.getStartEnd = function(t, e) {
-        var n = t.split(e);
-        return n.length < 2 && (n[1] = n[0]),
-        n
+    t.prototype.initClothTransform = function() {
+        SeerCache.config.cloth_transform && SeerCache.config.cloth_transform["" + this.clothID] && (this.transform_config = SeerCache.config.cloth_transform["" + this.clothID])
     },
-    t.prototype.getBitsLimit = function(t, e) {
-        return (1 << e - t + 1) - 1 << t - 1
+    t.prototype.addChildCloth = function(t, e) {
+        this.clothSWF = t,
+        this.container = e,
+        this.clothSWF.touchEnabled = !1,
+        this.people && this.clothSWF.animation.play(this.people.direction),
+        e && e.addChild(this.clothSWF),
+        this.isLoaded = !0
     },
-    t.prototype.parseValue = function(t, e) {
-        return (t & this._valueBitsArr[e]) >>> this.getStartPos(this._valueBitsArr[e])
+    t.prototype.takeOffCloth = function() {
+        this.type != SkeletonClothPreview.FLAG_CLOTH && (this.clothSWF && (DisplayUtil.removeForParent(this.clothSWF), ToolTipManager.remove(this.clothSWF), this.clothSWF = null, this.isLoaded = !1, this.clothID = 0), this.type == ClothPreview.FLAG_HEAD ? this.changeCloth(new PeopleItemInfo(ClothXMLInfo.DEFAULT_HEAD)) : this.type == ClothPreview.FLAG_WAIST ? this.changeCloth(new PeopleItemInfo(ClothXMLInfo.DEFAULT_WAIST)) : this.type == ClothPreview.FLAG_FOOT && this.changeCloth(new PeopleItemInfo(ClothXMLInfo.DEFAULT_FOOT)))
     },
+    t.prototype.setTransform = function() {
+        var t = this.transform_config[this._useDir];
+        t && (this.clothSWF.x = t[0], this.clothSWF.y = t[1], this.clothSWF.skewX = t[2], this.clothSWF.skewY = t[3])
+    },
+    t.prototype.transFormDir = function(t) {
+        if (!t) return "";
+        var e = [Direction.UP, Direction.DOWN, Direction.LEFT, Direction.LEFT_UP, Direction.LEFT_DOWN, Direction.RIGHT, Direction.RIGHT_UP, Direction.RIGHT_DOWN],
+        n = e.indexOf(t),
+        r = [Direction.UP, Direction.DOWN, Direction.LEFT, Direction.LEFT_UP, Direction.LEFT_DOWN, Direction.LEFT, Direction.LEFT_UP, Direction.LEFT_DOWN];
+        return r[n]
+    },
+    t.prototype.UpdateTransForm = function() {
+        this.isLoaded && this.clothSWF && this.setTransform()
+    },
+    t.prototype.changeDir = function(t) {
+        void 0 === t && (t = "down"),
+        this.isLoaded && this.clothSWF && this.curr_dir != t && (this.curr_dir = t, this.setTransform(), this.walking ? this.clothSWF.animation.play(this._useDir + "_walk", 0) : this.clothSWF.animation.play(this._useDir))
+    },
+    t.prototype.specialAction = function(t, e, n) {
+        void 0 === n && (n = !0),
+        this.clothSWF
+    },
+    t.prototype.goStart = function() {
+        this.clothSWF && this.clothSWF.animation.play(this._useDir + "_walk", 0),
+        this.walking = !0
+    },
+    t.prototype.goOver = function() {
+        this.clothSWF && this.clothSWF.animation.play(this._useDir),
+        this.walking = !1
+    },
+    t.prototype.goEnterFrame = function() {},
+    t.prototype.beginLoad = function(t) {
+        var e = this;
+        void 0 === t && (t = "");
+        var n = this;
+        ClothAnimResManager.getAnim(n.clothID, this._curUrlType).then(function(t) {
+            n.clothSWF && DisplayUtil.removeForParent(n.clothSWF),
+            n.clothSWF = t,
+            n.clothSWF && (n.clothSWF.touchEnabled = !1, n.clothSWF.name = "cloth" + n.clothID, n.container && n.container.addChild(n.clothSWF), n.isLoaded = !0, n.people && (e.curr_dir = null, n.changeDir(n.people.direction)), n.people.onClothLoaded())
+        }),
+        "" != this._clothURL,
+        "" == t ? this.model: this._clothURL = t,
+        0 != this._curUrlType,
+        this.isLoading = !0
+    },
+    t.prototype.onLoadCloth = function(t) {
+        this.isLoading = !1,
+        this.clothSWF && this.clothSWF.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.unloadCloth, this),
+        this.clothSWF = t,
+        this.curr_dir = this.people.direction,
+        this.clothSWF.touchEnabled = !1,
+        this.clothSWF.addEventListener(egret.TouchEvent.TOUCH_TAP, this.unloadCloth, this)
+    },
+    t.prototype.unloadCloth = function(t) {},
+    t.prototype.onClothOver = function(t) {
+        var e = t.currentTarget;
+        e.filters = [new egret.GlowFilter];
+        var n = ItemManager.getInfo(this.clothID);
+        n || (n = new SingleItemInfo, n.itemID = this.clothID)
+    },
+    t.prototype.onClothOut = function(t) {
+        t.currentTarget.filters = [],
+        ItemInfoTip.hide()
+    },
+    t.prototype.destroy = function() {
+        this.clothSWF && DisplayUtil.removeForParent(this.clothSWF)
+    },
+    Object.defineProperty(t.prototype, "curr_dir", {
+        get: function() {
+            return this._curr_dir
+        },
+        set: function(t) {
+            this._curr_dir = t,
+            this._useDir = this.transFormDir(t)
+        },
+        enumerable: !0,
+        configurable: !0
+    }),
+    t.prototype.getClothLevel = function() {
+        return this.clothLevel
+    },
+    t.prototype.getClothID = function() {
+        var t;
+        return t = this.clothID == ClothXMLInfo.DEFAULT_FOOT || this.clothID == ClothXMLInfo.DEFAULT_HEAD || this.clothID == ClothXMLInfo.DEFAULT_WAIST ? 0 : this.clothID
+    },
+    t.B_S = .2,
+    t.S_S = 1,
+    t.GLOW_1 = [new egret.GlowFilter(16777215, 1, 10, 10, .8), new egret.GlowFilter(16776960, 1, t.B_S, t.B_S, t.S_S)],
+    t.GLOW_2 = [new egret.GlowFilter(16777215, 1, 10, 10, .8), new egret.GlowFilter(16711680, 1, t.B_S, t.B_S, t.S_S)],
     t
 } ();
-__reflect(ParseURLJsonValue.prototype, "ParseURLJsonValue");
+__reflect(ChangeClothAction.prototype, "ChangeClothAction");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -73821,252 +74099,6 @@ PetXMLInfo = function() {
     t
 } ();
 __reflect(PetXMLInfo.prototype, "PetXMLInfo");
-var __reflect = this && this.__reflect ||
-function(t, e, n) {
-    t.__class__ = e,
-    n ? n.push(e) : n = [e],
-    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
-},
-ChangeClothAction = function() {
-    function t(t, e, n, r) {
-        this.clothID = 0,
-        this.clothLevel = 0,
-        this.isLoaded = !1,
-        this.isLoading = !1,
-        this.transform_config = {},
-        this._curUrlType = 0,
-        this.walking = !1,
-        this._clothURL = "",
-        this.model = r,
-        this.type = n,
-        this.people = t,
-        this.container = e,
-        this.curr_dir = t.direction,
-        this.initClothTransform(),
-        this.takeOffCloth()
-    }
-    return t.prototype.changeCloth = function(t, e) {
-        if (void 0 === e && (e = 0), "bg" != ClothXMLInfo.getItemInfo(t.id).type) {
-            this._curUrlType = e,
-            this.clothID = t.id,
-            this.clothLevel = t.level;
-            var n = ClientConfig.getClothSwfDir(this.clothID + "");
-            this.beginLoad(n),
-            this.initClothTransform()
-        }
-    },
-    t.prototype.changeClothByPath = function(t, e) {
-        this.clothID = t;
-        var e = ClientConfig.getClothSwfDir(t + "");
-        this.beginLoad(e),
-        this.initClothTransform()
-    },
-    t.prototype.initClothTransform = function() {
-        SeerCache.config.cloth_transform && SeerCache.config.cloth_transform["" + this.clothID] && (this.transform_config = SeerCache.config.cloth_transform["" + this.clothID])
-    },
-    t.prototype.addChildCloth = function(t, e) {
-        this.clothSWF = t,
-        this.container = e,
-        this.clothSWF.touchEnabled = !1,
-        this.people && this.clothSWF.animation.play(this.people.direction),
-        e && e.addChild(this.clothSWF),
-        this.isLoaded = !0
-    },
-    t.prototype.takeOffCloth = function() {
-        this.type != SkeletonClothPreview.FLAG_CLOTH && (this.clothSWF && (DisplayUtil.removeForParent(this.clothSWF), ToolTipManager.remove(this.clothSWF), this.clothSWF = null, this.isLoaded = !1, this.clothID = 0), this.type == ClothPreview.FLAG_HEAD ? this.changeCloth(new PeopleItemInfo(ClothXMLInfo.DEFAULT_HEAD)) : this.type == ClothPreview.FLAG_WAIST ? this.changeCloth(new PeopleItemInfo(ClothXMLInfo.DEFAULT_WAIST)) : this.type == ClothPreview.FLAG_FOOT && this.changeCloth(new PeopleItemInfo(ClothXMLInfo.DEFAULT_FOOT)))
-    },
-    t.prototype.setTransform = function() {
-        var t = this.transform_config[this._useDir];
-        t && (this.clothSWF.x = t[0], this.clothSWF.y = t[1], this.clothSWF.skewX = t[2], this.clothSWF.skewY = t[3])
-    },
-    t.prototype.transFormDir = function(t) {
-        if (!t) return "";
-        var e = [Direction.UP, Direction.DOWN, Direction.LEFT, Direction.LEFT_UP, Direction.LEFT_DOWN, Direction.RIGHT, Direction.RIGHT_UP, Direction.RIGHT_DOWN],
-        n = e.indexOf(t),
-        r = [Direction.UP, Direction.DOWN, Direction.LEFT, Direction.LEFT_UP, Direction.LEFT_DOWN, Direction.LEFT, Direction.LEFT_UP, Direction.LEFT_DOWN];
-        return r[n]
-    },
-    t.prototype.UpdateTransForm = function() {
-        this.isLoaded && this.clothSWF && this.setTransform()
-    },
-    t.prototype.changeDir = function(t) {
-        void 0 === t && (t = "down"),
-        this.isLoaded && this.clothSWF && this.curr_dir != t && (this.curr_dir = t, this.setTransform(), this.walking ? this.clothSWF.animation.play(this._useDir + "_walk", 0) : this.clothSWF.animation.play(this._useDir))
-    },
-    t.prototype.specialAction = function(t, e, n) {
-        void 0 === n && (n = !0),
-        this.clothSWF
-    },
-    t.prototype.goStart = function() {
-        this.clothSWF && this.clothSWF.animation.play(this._useDir + "_walk", 0),
-        this.walking = !0
-    },
-    t.prototype.goOver = function() {
-        this.clothSWF && this.clothSWF.animation.play(this._useDir),
-        this.walking = !1
-    },
-    t.prototype.goEnterFrame = function() {},
-    t.prototype.beginLoad = function(t) {
-        var e = this;
-        void 0 === t && (t = "");
-        var n = this;
-        ClothAnimResManager.getAnim(n.clothID, this._curUrlType).then(function(t) {
-            n.clothSWF && DisplayUtil.removeForParent(n.clothSWF),
-            n.clothSWF = t,
-            n.clothSWF && (n.clothSWF.touchEnabled = !1, n.clothSWF.name = "cloth" + n.clothID, n.container && n.container.addChild(n.clothSWF), n.isLoaded = !0, n.people && (e.curr_dir = null, n.changeDir(n.people.direction)), n.people.onClothLoaded())
-        }),
-        "" != this._clothURL,
-        "" == t ? this.model: this._clothURL = t,
-        0 != this._curUrlType,
-        this.isLoading = !0
-    },
-    t.prototype.onLoadCloth = function(t) {
-        this.isLoading = !1,
-        this.clothSWF && this.clothSWF.removeEventListener(egret.TouchEvent.TOUCH_TAP, this.unloadCloth, this),
-        this.clothSWF = t,
-        this.curr_dir = this.people.direction,
-        this.clothSWF.touchEnabled = !1,
-        this.clothSWF.addEventListener(egret.TouchEvent.TOUCH_TAP, this.unloadCloth, this)
-    },
-    t.prototype.unloadCloth = function(t) {},
-    t.prototype.onClothOver = function(t) {
-        var e = t.currentTarget;
-        e.filters = [new egret.GlowFilter];
-        var n = ItemManager.getInfo(this.clothID);
-        n || (n = new SingleItemInfo, n.itemID = this.clothID)
-    },
-    t.prototype.onClothOut = function(t) {
-        t.currentTarget.filters = [],
-        ItemInfoTip.hide()
-    },
-    t.prototype.destroy = function() {
-        this.clothSWF && DisplayUtil.removeForParent(this.clothSWF)
-    },
-    Object.defineProperty(t.prototype, "curr_dir", {
-        get: function() {
-            return this._curr_dir
-        },
-        set: function(t) {
-            this._curr_dir = t,
-            this._useDir = this.transFormDir(t)
-        },
-        enumerable: !0,
-        configurable: !0
-    }),
-    t.prototype.getClothLevel = function() {
-        return this.clothLevel
-    },
-    t.prototype.getClothID = function() {
-        var t;
-        return t = this.clothID == ClothXMLInfo.DEFAULT_FOOT || this.clothID == ClothXMLInfo.DEFAULT_HEAD || this.clothID == ClothXMLInfo.DEFAULT_WAIST ? 0 : this.clothID
-    },
-    t.B_S = .2,
-    t.S_S = 1,
-    t.GLOW_1 = [new egret.GlowFilter(16777215, 1, 10, 10, .8), new egret.GlowFilter(16776960, 1, t.B_S, t.B_S, t.S_S)],
-    t.GLOW_2 = [new egret.GlowFilter(16777215, 1, 10, 10, .8), new egret.GlowFilter(16711680, 1, t.B_S, t.B_S, t.S_S)],
-    t
-} ();
-__reflect(ChangeClothAction.prototype, "ChangeClothAction");
-var __reflect = this && this.__reflect ||
-function(t, e, n) {
-    t.__class__ = e,
-    n ? n.push(e) : n = [e],
-    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
-},
-SignIconXmlInfo = function() {
-    function t() {}
-    return t.setup = function() {
-        var t = this;
-        return new Promise(function(e, n) {
-            var r = "signIcon_fight";
-            config.xml.load(r).then(function() {
-                var n = config.xml.getRes(r).config;
-                t.parseSignIconList(n),
-                e()
-            })
-        })
-    },
-    t.parseSignIconList = function(t) {
-        for (var e = t.item,
-        n = 0,
-        r = e; n < r.length; n++) {
-            for (var o = r[n], i = o, s = String(i.Des); - 1 != s.indexOf("\\n");) s = s.replace("\\n", "\n");
-            if (i.Des = s, "" != i.sptips && void 0 != i.sptips && this._sptipsHashMap.add(i.id, this.getSpHashMap(i.sptips)), "" != i.spDes && void 0 != i.spDes) {
-                for (var a = i.spDes; - 1 != a.indexOf("\\n");) a = a.replace("\\n", "\n");
-                i.spDes = a,
-                this._spDesHashMap.add(i.id, this.getSpHashMap(i.spDes))
-            }
-            "" != i.spicon && void 0 != i.spicon && this._spIconHashMap.add(i.id, this.getSpIconHashMap(i.spicon)),
-            "" != i.frame && void 0 != i.frame && this._headFrameHashMap.add(i.id, this.getHeadFrameHashMap(i.frame)),
-            this._itemHash.add(i.id, i)
-        }
-    },
-    t.getAllSignIconInfos = function() {
-        return this._itemHash.getValues()
-    },
-    t.getInfoById = function(t) {
-        return this._itemHash.getValue(t)
-    },
-    t.getSpHashMap = function(t) {
-        for (var e = new HashMap,
-        n = t.split(" "), r = 0; r < n.length; r++) {
-            var o = n[r].split("_");
-            e.add(Number(o[0]), o[1])
-        }
-        return e
-    },
-    t.getsptipsHashMapByid = function(t) {
-        return this._sptipsHashMap.getValue(String(t))
-    },
-    t.getspDesHashMapByid = function(t) {
-        return this._spDesHashMap.getValue(String(t))
-    },
-    t.getSptipsByidAndLvNum = function(t, e) {
-        var n = this.getsptipsHashMapByid(t);
-        return n && void 0 != n.getValue(String(e)) ? n.getValue(String(e)) : ""
-    },
-    t.getspDesByidAndLvNum = function(t, e) {
-        var n = this.getspDesHashMapByid(t);
-        return n && void 0 != n.getValue(String(e)) ? n.getValue(String(e)) : ""
-    },
-    t.getSpIconHashMap = function(t) {
-        for (var e = new HashMap,
-        n = t.split(" "), r = 0; r < n.length; r++) {
-            var o = n[r].split("_");
-            e.add(Number(o[0]), o[1])
-        }
-        return e
-    },
-    t.getspIconHashMapByid = function(t) {
-        return this._spIconHashMap.getValue(String(t))
-    },
-    t.getspIconByidAndLvNum = function(t, e) {
-        var n = this.getspIconHashMapByid(t);
-        return n && void 0 != n.getValue(String(e)) ? n.getValue(String(e)) : ""
-    },
-    t.getHeadFrameHashMap = function(t) {
-        for (var e = new HashMap,
-        n = t.split(" "), r = 0; r < n.length; r++) {
-            var o = n[r].split("_");
-            e.add(Number(o[0]), o[1])
-        }
-        return e
-    },
-    t.getHeadFrameHashMapByid = function(t) {
-        return this._headFrameHashMap.getValue(String(t))
-    },
-    t.getHeadFrameByidAndLvNum = function(t, e) {
-        var n = this.getHeadFrameHashMapByid(t);
-        return n && void 0 != n.getValue(String(e)) ? n.getValue(String(e)) : ""
-    },
-    t._itemHash = new HashMap,
-    t._sptipsHashMap = new HashMap,
-    t._spDesHashMap = new HashMap,
-    t._spIconHashMap = new HashMap,
-    t._headFrameHashMap = new HashMap,
-    t
-} ();
-__reflect(SignIconXmlInfo.prototype, "SignIconXmlInfo");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,

@@ -1,136 +1,137 @@
 var __reflect = this && this.__reflect ||
-function(e, t, n) {
-    e.__class__ = t,
-    n ? n.push(t) : n = [t],
-    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
 __extends = this && this.__extends ||
-function(e, t) {
+function(t, e) {
     function n() {
-        this.constructor = e
+        this.constructor = t
     }
-    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
-    n.prototype = t.prototype,
-    e.prototype = new n
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
 },
 mapChangeSelectPanel; !
-function(e) {
-    var t = function(t) {
-        function n(e) {
-            var n = t.call(this, e) || this;
-            return e && (n.maps = e.arr, n._name = e.name),
+function(t) {
+    var e = function(e) {
+        function n(t) {
+            var n = e.call(this, t) || this;
+            return t && (n.maps = t.arr, n._name = t.name),
             n.openPanel(),
             n
         }
-        return __extends(n, t),
+        return __extends(n, e),
         n.prototype.openPanel = function() {
             egret.registerClass;
             egret.getDefinitionByName("mapChangeSelectPanel.MapChangeSelectPopPanel");
             try {
-                this._view = new e.MapChangeSelectPopPanel(this.maps, this._name),
+                this._view = new t.MapChangeSelectPopPanel(this.maps, this._name),
                 this._view.addEventListener(PopView.EVENT_DESTROY, this._onClosePanelEvent, this);
-                var t = PopViewManager.createDefaultStyleObject();
-                t.maskShapeStyle.maskAlpha = 0,
-                t.caller = this._view,
-                PopViewManager.getInstance().openView(this._view, t, null)
+                var e = PopViewManager.createDefaultStyleObject();
+                e.maskShapeStyle.maskAlpha = 0,
+                e.caller = this._view,
+                PopViewManager.getInstance().openView(this._view, e, null)
             } catch(n) {
                 console.error(n)
             }
         },
-        n.prototype._onClosePanelEvent = function(e) {
+        n.prototype._onClosePanelEvent = function(t) {
             this.onClose()
         },
         n.prototype.destroy = function() {
             this._view.removeEventListener(PopView.EVENT_DESTROY, this._onClosePanelEvent, this),
             this._view = null,
-            t.prototype.destroy.call(this)
+            e.prototype.destroy.call(this)
         },
         n
     } (BaseModule);
-    e.MapChangeSelectPanel = t,
-    __reflect(t.prototype, "mapChangeSelectPanel.MapChangeSelectPanel")
+    t.MapChangeSelectPanel = e,
+    __reflect(e.prototype, "mapChangeSelectPanel.MapChangeSelectPanel")
 } (mapChangeSelectPanel || (mapChangeSelectPanel = {}));
 var __reflect = this && this.__reflect ||
-function(e, t, n) {
-    e.__class__ = t,
-    n ? n.push(t) : n = [t],
-    e.__types__ = e.__types__ ? n.concat(e.__types__) : n
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
 __extends = this && this.__extends ||
-function(e, t) {
+function(t, e) {
     function n() {
-        this.constructor = e
+        this.constructor = t
     }
-    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
-    n.prototype = t.prototype,
-    e.prototype = new n
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
 },
 mapChangeSelectPanel; !
-function(e) {
-    var t = function(e) {
-        function t(t, n) {
-            var i = e.call(this) || this;
-            return i.skinName = "MapChangeSelectPopSkin",
-            i.arrMaps = t,
+function(t) {
+    var e = function(t) {
+        function e(e, n) {
+            var i = t.call(this) || this;
+            return i.noStarsList = [2136, 2137],
+            i.skinName = "MapChangeSelectPopSkin",
+            i.arrMaps = e,
             i._name = n,
             i
         }
-        return __extends(t, e),
-        t.prototype.childrenCreated = function() {
+        return __extends(e, t),
+        e.prototype.childrenCreated = function() {
             this.addEvent();
-            for (var e = 1; 5 >= e; e++) this["group" + e].touchThrough = !0,
-            this["map" + e].pixelHitTest = !0;
+            for (var t = 1; 5 >= t; t++) this["group" + t].touchThrough = !0,
+            this["map" + t].pixelHitTest = !0;
             this.curPage = 1;
-            for (var e = 0; e < this.arrMaps.length; e++) {
-                var t = this.arrMaps[e];
-                if (t.isCurMap) {
-                    this.curPage = Math.floor(e / 5) + 1;
+            for (var t = 0; t < this.arrMaps.length; t++) {
+                var e = this.arrMaps[t];
+                if (e.isCurMap) {
+                    this.curPage = Math.floor(t / 5) + 1;
                     break
                 }
             }
             this.update()
         },
-        t.prototype.addEvent = function() {
-            var e = this;
+        e.prototype.addEvent = function() {
+            var t = this;
             ImageButtonUtil.add(this.btnClose,
             function() {
-                PopViewManager.getInstance().hideView(e)
+                PopViewManager.getInstance().hideView(t)
             },
             this),
             ImageButtonUtil.add(this.btnLeft,
             function() {
-                e.curPage--,
-                e.update()
+                t.curPage--,
+                t.update()
             },
             this, !0, !0,
             function() {
-                return e.curPage > 1
+                return t.curPage > 1
             }),
             ImageButtonUtil.add(this.btnRight,
             function() {
-                e.curPage++,
-                e.update()
+                t.curPage++,
+                t.update()
             },
             this, !0, !0,
             function() {
-                return 5 * e.curPage < e.arrMaps.length
+                return 5 * t.curPage < t.arrMaps.length
             });
-            for (var t = function(t) {
-                ImageButtonUtil.add(n["group" + t],
+            for (var e = function(e) {
+                ImageButtonUtil.add(n["group" + e],
                 function() {
-                    var n = e.arrMaps[5 * e.curPage - 6 + t].id;
+                    var n = t.arrMaps[5 * t.curPage - 6 + e].id;
                     MapManager.changeMap(n),
-                    ToolBarManager.SetToolBarState("map"),
-                    PopViewManager.getInstance().hideView(e)
+                    t.noStarsList.indexOf(n) >= 0 ? ToolBarManager.SetToolBarState("normal") : ToolBarManager.SetToolBarState("map"),
+                    PopViewManager.getInstance().hideView(t)
                 },
                 n)
             },
-            n = this, i = 1; 5 >= i; i++) t(i)
+            n = this, i = 1; 5 >= i; i++) e(i)
         },
-        t.prototype.update = function() {
-            for (var e = 0,
-            t = this.arrMaps; e < t.length; e++) {
-                var n = t[e];
+        e.prototype.update = function() {
+            for (var t = 0,
+            e = this.arrMaps; t < e.length; t++) {
+                var n = e[t];
                 if (n.isCurMap) {
                     this.curMap = n;
                     break
@@ -146,265 +147,265 @@ function(e) {
                 r >= i ? this["group" + a].visible = !1 : (this["group" + a].visible = !0, this["img" + a].source = o.isCurMap ? "map_change_select_pop_img1_png": "map_change_select_pop_img2_png", this["map" + a].source = o.isCurMap ? "map_change_select_pop_mapLight" + a + "_png": "map_change_select_pop_map" + a + "_png", this["txt" + a].text = o.name)
             }
         },
-        t.prototype.destroy = function() {
+        e.prototype.destroy = function() {
             ImageButtonUtil.removeAll(this),
-            e.prototype.destroy.call(this)
+            t.prototype.destroy.call(this)
         },
-        t
+        e
     } (PopView);
-    e.MapChangeSelectPopPanel = t,
-    __reflect(t.prototype, "mapChangeSelectPanel.MapChangeSelectPopPanel")
+    t.MapChangeSelectPopPanel = e,
+    __reflect(e.prototype, "mapChangeSelectPanel.MapChangeSelectPopPanel")
 } (mapChangeSelectPanel || (mapChangeSelectPanel = {}));
 var __extends = this && this.__extends ||
-function(e, t) {
+function(t, e) {
     function n() {
-        this.constructor = e
+        this.constructor = t
     }
-    for (var i in t) t.hasOwnProperty(i) && (e[i] = t[i]);
-    n.prototype = t.prototype,
-    e.prototype = new n
+    for (var i in e) e.hasOwnProperty(i) && (t[i] = e[i]);
+    n.prototype = e.prototype,
+    t.prototype = new n
 };
 window.generateEUI = window.generateEUI || {},
 generateEUI.paths = generateEUI.paths || {},
 generateEUI.styles = void 0,
 generateEUI.skins = {},
-generateEUI.paths["resource/eui_skins/MapChangeSelectPopSkin.exml"] = window.MapChangeSelectPopSkin = function(e) {
-    function t() {
-        e.call(this),
+generateEUI.paths["resource/eui_skins/MapChangeSelectPopSkin.exml"] = window.MapChangeSelectPopSkin = function(t) {
+    function e() {
+        t.call(this),
         this.skinParts = ["btnClose", "btnRight", "btnLeft", "txtName", "map1", "img1", "txt1", "group1", "map2", "img2", "txt2", "group2", "map3", "img3", "txt3", "group3", "map4", "img4", "txt4", "group4", "map5", "img5", "txt5", "group5"],
         this.elementsContent = [this._Image1_i(), this.btnClose_i(), this.btnRight_i(), this.btnLeft_i(), this.txtName_i(), this.group1_i(), this.group2_i(), this.group3_i(), this.group4_i(), this.group5_i()]
     }
-    __extends(t, e);
-    var n = t.prototype;
+    __extends(e, t);
+    var n = e.prototype;
     return n._Image1_i = function() {
-        var e = new eui.Image;
-        return e.source = "map_change_select_pop_imgbg_png",
-        e.x = 0,
-        e.y = 0,
-        e
+        var t = new eui.Image;
+        return t.source = "map_change_select_pop_imgbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
     },
     n.btnClose_i = function() {
-        var e = new eui.Image;
-        return this.btnClose = e,
-        e.source = "map_change_select_pop_btnclose_png",
-        e.x = 711,
-        e.y = 10,
-        e
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.source = "map_change_select_pop_btnclose_png",
+        t.x = 711,
+        t.y = 10,
+        t
     },
     n.btnRight_i = function() {
-        var e = new eui.Image;
-        return this.btnRight = e,
-        e.source = "map_change_select_pop_btnright_png",
-        e.x = 717,
-        e.y = 222,
-        e
+        var t = new eui.Image;
+        return this.btnRight = t,
+        t.source = "map_change_select_pop_btnright_png",
+        t.x = 717,
+        t.y = 222,
+        t
     },
     n.btnLeft_i = function() {
-        var e = new eui.Image;
-        return this.btnLeft = e,
-        e.source = "map_change_select_pop_btnleft_png",
-        e.x = 20,
-        e.y = 222,
-        e
+        var t = new eui.Image;
+        return this.btnLeft = t,
+        t.source = "map_change_select_pop_btnleft_png",
+        t.x = 20,
+        t.y = 222,
+        t
     },
     n.txtName_i = function() {
-        var e = new eui.Label;
-        return this.txtName = e,
-        e.fontFamily = "MFShangHei",
-        e.horizontalCenter = 0,
-        e.size = 18.0080609046126,
-        e.textColor = 8835839,
-        e.y = 14,
-        e
+        var t = new eui.Label;
+        return this.txtName = t,
+        t.fontFamily = "MFShangHei",
+        t.horizontalCenter = 0,
+        t.size = 18.0080609046126,
+        t.textColor = 8835839,
+        t.y = 14,
+        t
     },
     n.group1_i = function() {
-        var e = new eui.Group;
-        return this.group1 = e,
-        e.x = 84,
-        e.y = 68,
-        e.elementsContent = [this.map1_i(), this.img1_i(), this.txt1_i()],
-        e
+        var t = new eui.Group;
+        return this.group1 = t,
+        t.x = 84,
+        t.y = 68,
+        t.elementsContent = [this.map1_i(), this.img1_i(), this.txt1_i()],
+        t
     },
     n.map1_i = function() {
-        var e = new eui.Image;
-        return this.map1 = e,
-        e.source = "map_change_select_pop_map1_png",
-        e.visible = !0,
-        e.x = 0,
-        e.y = 0,
-        e
+        var t = new eui.Image;
+        return this.map1 = t,
+        t.source = "map_change_select_pop_map1_png",
+        t.visible = !0,
+        t.x = 0,
+        t.y = 0,
+        t
     },
     n.img1_i = function() {
-        var e = new eui.Image;
-        return this.img1 = e,
-        e.source = "map_change_select_pop_img1_png",
-        e.x = 64,
-        e.y = 46,
-        e
+        var t = new eui.Image;
+        return this.img1 = t,
+        t.source = "map_change_select_pop_img1_png",
+        t.x = 64,
+        t.y = 46,
+        t
     },
     n.txt1_i = function() {
-        var e = new eui.Label;
-        return this.txt1 = e,
-        e.fontFamily = "MFShangHei",
-        e.size = 16.0071652485446,
-        e.text = "灵籁泳馆",
-        e.textAlign = "center",
-        e.textColor = 16777215,
-        e.width = 138,
-        e.x = 20,
-        e.y = 99,
-        e
+        var t = new eui.Label;
+        return this.txt1 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16.0071652485446,
+        t.text = "灵籁泳馆",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 138,
+        t.x = 20,
+        t.y = 99,
+        t
     },
     n.group2_i = function() {
-        var e = new eui.Group;
-        return this.group2 = e,
-        e.x = 86,
-        e.y = 198,
-        e.elementsContent = [this.map2_i(), this.img2_i(), this.txt2_i()],
-        e
+        var t = new eui.Group;
+        return this.group2 = t,
+        t.x = 86,
+        t.y = 198,
+        t.elementsContent = [this.map2_i(), this.img2_i(), this.txt2_i()],
+        t
     },
     n.map2_i = function() {
-        var e = new eui.Image;
-        return this.map2 = e,
-        e.source = "map_change_select_pop_map2_png",
-        e.x = 0,
-        e.y = 0,
-        e
+        var t = new eui.Image;
+        return this.map2 = t,
+        t.source = "map_change_select_pop_map2_png",
+        t.x = 0,
+        t.y = 0,
+        t
     },
     n.img2_i = function() {
-        var e = new eui.Image;
-        return this.img2 = e,
-        e.source = "map_change_select_pop_img1_png",
-        e.x = 102,
-        e.y = 101,
-        e
+        var t = new eui.Image;
+        return this.img2 = t,
+        t.source = "map_change_select_pop_img1_png",
+        t.x = 102,
+        t.y = 101,
+        t
     },
     n.txt2_i = function() {
-        var e = new eui.Label;
-        return this.txt2 = e,
-        e.fontFamily = "MFShangHei",
-        e.size = 16.0071652485446,
-        e.text = "灵籁泳馆",
-        e.textAlign = "center",
-        e.textColor = 16777215,
-        e.width = 148,
-        e.x = 52,
-        e.y = 153,
-        e
+        var t = new eui.Label;
+        return this.txt2 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16.0071652485446,
+        t.text = "灵籁泳馆",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 148,
+        t.x = 52,
+        t.y = 153,
+        t
     },
     n.group3_i = function() {
-        var e = new eui.Group;
-        return this.group3 = e,
-        e.x = 289,
-        e.y = 110,
-        e.elementsContent = [this.map3_i(), this.img3_i(), this.txt3_i()],
-        e
+        var t = new eui.Group;
+        return this.group3 = t,
+        t.x = 289,
+        t.y = 110,
+        t.elementsContent = [this.map3_i(), this.img3_i(), this.txt3_i()],
+        t
     },
     n.map3_i = function() {
-        var e = new eui.Image;
-        return this.map3 = e,
-        e.source = "map_change_select_pop_map3_png",
-        e.x = 0,
-        e.y = 0,
-        e
+        var t = new eui.Image;
+        return this.map3 = t,
+        t.source = "map_change_select_pop_map3_png",
+        t.x = 0,
+        t.y = 0,
+        t
     },
     n.img3_i = function() {
-        var e = new eui.Image;
-        return this.img3 = e,
-        e.source = "map_change_select_pop_img1_png",
-        e.x = 101,
-        e.y = 103,
-        e
+        var t = new eui.Image;
+        return this.img3 = t,
+        t.source = "map_change_select_pop_img1_png",
+        t.x = 101,
+        t.y = 103,
+        t
     },
     n.txt3_i = function() {
-        var e = new eui.Label;
-        return this.txt3 = e,
-        e.fontFamily = "MFShangHei",
-        e.size = 16.0071652485446,
-        e.text = "灵籁泳馆",
-        e.textAlign = "center",
-        e.textColor = 16777215,
-        e.width = 157,
-        e.x = 46,
-        e.y = 156,
-        e
+        var t = new eui.Label;
+        return this.txt3 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16.0071652485446,
+        t.text = "灵籁泳馆",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 157,
+        t.x = 46,
+        t.y = 156,
+        t
     },
     n.group4_i = function() {
-        var e = new eui.Group;
-        return this.group4 = e,
-        e.visible = !0,
-        e.x = 465,
-        e.y = 76,
-        e.elementsContent = [this.map4_i(), this.img4_i(), this.txt4_i()],
-        e
+        var t = new eui.Group;
+        return this.group4 = t,
+        t.visible = !0,
+        t.x = 465,
+        t.y = 76,
+        t.elementsContent = [this.map4_i(), this.img4_i(), this.txt4_i()],
+        t
     },
     n.map4_i = function() {
-        var e = new eui.Image;
-        return this.map4 = e,
-        e.source = "map_change_select_pop_map4_png",
-        e.x = 0,
-        e.y = 0,
-        e
+        var t = new eui.Image;
+        return this.map4 = t,
+        t.source = "map_change_select_pop_map4_png",
+        t.x = 0,
+        t.y = 0,
+        t
     },
     n.img4_i = function() {
-        var e = new eui.Image;
-        return this.img4 = e,
-        e.source = "map_change_select_pop_img1_png",
-        e.visible = !0,
-        e.x = 103,
-        e.y = 35,
-        e
+        var t = new eui.Image;
+        return this.img4 = t,
+        t.source = "map_change_select_pop_img1_png",
+        t.visible = !0,
+        t.x = 103,
+        t.y = 35,
+        t
     },
     n.txt4_i = function() {
-        var e = new eui.Label;
-        return this.txt4 = e,
-        e.fontFamily = "MFShangHei",
-        e.size = 16.0071652485446,
-        e.text = "灵籁泳馆",
-        e.textAlign = "center",
-        e.textColor = 16777215,
-        e.width = 157,
-        e.x = 48,
-        e.y = 88,
-        e
+        var t = new eui.Label;
+        return this.txt4 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16.0071652485446,
+        t.text = "灵籁泳馆",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 157,
+        t.x = 48,
+        t.y = 88,
+        t
     },
     n.group5_i = function() {
-        var e = new eui.Group;
-        return this.group5 = e,
-        e.visible = !0,
-        e.x = 448,
-        e.y = 269,
-        e.elementsContent = [this.map5_i(), this.img5_i(), this.txt5_i()],
-        e
+        var t = new eui.Group;
+        return this.group5 = t,
+        t.visible = !0,
+        t.x = 448,
+        t.y = 269,
+        t.elementsContent = [this.map5_i(), this.img5_i(), this.txt5_i()],
+        t
     },
     n.map5_i = function() {
-        var e = new eui.Image;
-        return this.map5 = e,
-        e.source = "map_change_select_pop_map5_png",
-        e.x = 0,
-        e.y = 0,
-        e
+        var t = new eui.Image;
+        return this.map5 = t,
+        t.source = "map_change_select_pop_map5_png",
+        t.x = 0,
+        t.y = 0,
+        t
     },
     n.img5_i = function() {
-        var e = new eui.Image;
-        return this.img5 = e,
-        e.source = "map_change_select_pop_img1_png",
-        e.x = 123,
-        e.y = 34,
-        e
+        var t = new eui.Image;
+        return this.img5 = t,
+        t.source = "map_change_select_pop_img1_png",
+        t.x = 123,
+        t.y = 34,
+        t
     },
     n.txt5_i = function() {
-        var e = new eui.Label;
-        return this.txt5 = e,
-        e.fontFamily = "MFShangHei",
-        e.size = 16.0071652485446,
-        e.text = "灵籁泳馆",
-        e.textAlign = "center",
-        e.textColor = 16777215,
-        e.width = 157,
-        e.x = 68,
-        e.y = 87,
-        e
+        var t = new eui.Label;
+        return this.txt5 = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16.0071652485446,
+        t.text = "灵籁泳馆",
+        t.textAlign = "center",
+        t.textColor = 16777215,
+        t.width = 157,
+        t.x = 68,
+        t.y = 87,
+        t
     },
-    t
+    e
 } (eui.Skin);

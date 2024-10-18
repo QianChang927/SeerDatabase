@@ -1,0 +1,67 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            105756,
+            105757,
+            11884,
+            108523,
+            11894,
+            11885,
+            11887,
+            11886
+        ]
+    },
+    "values": [
+        {
+            "name": "Direction",
+            "type": "common",
+            "valueId": 11886
+        },
+        {
+            "name": "CurPos",
+            "type": "common",
+            "valueId": 11887
+        },
+        {
+            "name": "Count",
+            "type": "common",
+            "valueId": 11885
+        },
+        {
+            "name": "failTime",
+            "type": "common",
+            "valueId": 11894
+        },
+        {
+            "name": "teamIdx",
+            "type": "common",
+            "valueId": "108523"
+        },
+        {
+            "name": "cntCoin",
+            "type": "common",
+            "valueId": "105756"
+        },
+        {
+            "name": "State",
+            "type": "common",
+            "valueId": 11884
+        },
+        {
+            "name": "buyTimeArr",
+            "type": "url",
+            "value": "105757.1~4|105757.5~8|105757.9~12|105757.13~16|105757.17~20"
+        }
+    ],
+    "actions": [
+        {
+            "name": "CMD",
+            "type": "send",
+            "cmdId": "41267",
+            "args": [
+                "2",
+                "arg"
+            ]
+        }
+    ]
+}

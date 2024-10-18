@@ -7997,25 +7997,28 @@ LoadingViewController = function() {
         this.skin_moves = config.xml.getAnyRes("skin_moves").root;
         for (var e = 0,
         i = t.allPetID; e < i.length; e++) {
-            var n = i[e];
+            var n = i[e],
+            o = n;
             this.assetLoading.addPetID(n);
-            var o = PetXMLInfo.getCombo(n);
-            o != n && (this.assetLoading.addPetID(o), this.assetLoading.addSkillID((10 * o + 1).toString()), this.assetLoading.addSkillID((10 * o + 2).toString()));
-            var r = PetXMLInfo.getTransform(n);
-            r != n && this.assetLoading.addPetID(r);
-            var s = PetIdTransform.getPetId(n);
-            0 != s && -1 == t.allPetID.indexOf(s) && this.assetLoading.addPetID(s)
+            var r = PetXMLInfo.getCombo(n);
+            r != n && (this.assetLoading.addPetID(r), this.assetLoading.addSkillID((10 * r + 1).toString()), this.assetLoading.addSkillID((10 * r + 2).toString()));
+            var s = PetXMLInfo.getTransform(n);
+            s != n && this.assetLoading.addPetID(s);
+            var a = PetIdTransform.getPetId(n);
+            0 != a && -1 == t.allPetID.indexOf(a) && this.assetLoading.addPetID(a);
+            var h = PetLeftAndRightXmlInfo.getRightPet(o);
+            h != o && this.assetLoading.addPetID(h)
         }
-        for (var a = 0,
-        h = t.allSkillID; a < h.length; a++) {
-            var l = h[a];
-            this.assetLoading.addSkillID(l)
+        for (var l = 0,
+        c = t.allSkillID; l < c.length; l++) {
+            var _ = c[l];
+            this.assetLoading.addSkillID(_)
         }
-        for (var c = 0,
-        _ = t.allPetCatch; c < _.length; c++) {
-            var u = _[c],
-            p = PetIdTransform.getPetId(0, u);
-            0 != p && -1 == t.allPetID.indexOf(p) ? this.assetLoading.addPetID(p) : 0 != p && -1 != t.allPetID.indexOf(p) && PetFightModel.type == PetFightModel.PET_MELEE && this.assetLoading.addPetID(PetManager.getPetInfo(u).id)
+        for (var u = 0,
+        p = t.allPetCatch; u < p.length; u++) {
+            var f = p[u],
+            d = PetIdTransform.getPetId(0, f);
+            0 != d && -1 == t.allPetID.indexOf(d) ? this.assetLoading.addPetID(d) : 0 != d && -1 != t.allPetID.indexOf(d) && PetFightModel.type == PetFightModel.PET_MELEE && this.assetLoading.addPetID(PetManager.getPetInfo(f).id)
         }
         this.loadingMC = new FightLoadingView(t),
         this.loadingMC.sprite().addEventListener(egret.Event.COMPLETE, this.onCHandler, this),
@@ -8181,7 +8184,7 @@ CardPetAnimator = function(t) {
         c && (h = c.x, l = c.y),
         console.warn("PetID:" + a + "   offsetX:" + h + "  offsetY:" + l + "  x" + o);
         var _ = new eui.Image;
-        _.source = ClientConfig.getfightPetPng(e + "", i, n),
+        _.source = ClientConfig.getfightPetPng(e + "", i, n, 0 > s),
         this.animate && this.animate.parent && (this.animate.parent.removeChild(this.animate), egret.Tween.removeTweens(this.animate)),
         _.anchorOffsetX = h,
         _.anchorOffsetY = l,
@@ -8289,7 +8292,7 @@ CJSPetAnimator = function(t) {
     e.prototype.showPet = function(e, i, n, o, r, s) {
         t.prototype.showPet.call(this, e, i, n, o, r, s),
         this.petId = e;
-        var a = PetAssetsManager.getInstance().getAssetsByID(e, i, n);
+        var a = PetAssetsManager.getInstance().getAssetsByID(e, i, n, 0 > s);
         this.animate && this.animate.parent && this.animate.parent.removeChild(this.animate),
         a.x = o,
         a.y = r,
@@ -8396,7 +8399,7 @@ CJSStandPetAnimator = function(t) {
     e.prototype.playStandAnim = function(t, e) {},
     e.prototype.showPet = function(e, i, n, o, r, s) {
         t.prototype.showPet.call(this, e, i, n, o, r, s);
-        var a = PetAssetsManager.getInstance().getPreviewAssetsByID(e, i, n);
+        var a = PetAssetsManager.getInstance().getPreviewAssetsByID(e, i, n, 0 > s);
         this.animate && this.animate.parent && this.animate.parent.removeChild(this.animate),
         a.x = o,
         a.y = r,

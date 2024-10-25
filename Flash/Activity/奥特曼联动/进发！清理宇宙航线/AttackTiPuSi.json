@@ -1,0 +1,143 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            202121,
+            202122,
+            123046,
+            207005
+        ],
+        "player_info": [
+            1313,
+            1314,
+            1315
+        ]
+    },
+    "values": [
+        {
+            "name": "_havaPos",
+            "type": "url",
+            "value": "202121.1~8"
+        },
+        {
+            "name": "_curPos",
+            "type": "url",
+            "value": "202121.9~16"
+        },
+        {
+            "name": "_ItemNum",
+            "type": "url",
+            "value": "202121.17~24"
+        },
+        {
+            "name": "_bit",
+            "type": "common",
+            "valueId": 202121
+        },
+        {
+            "name": "_bit1",
+            "type": "common",
+            "valueId": 207005
+        },
+        {
+            "name": "_count",
+            "type": "common",
+            "valueId": 202122
+        },
+        {
+            "name": "_gameCount",
+            "type": "common",
+            "valueId": 123046
+        },
+        {
+            "name": "_time",
+            "type": "common",
+            "valueId": 1313
+        },
+        {
+            "name": "_ATK",
+            "type": "common",
+            "valueId": 1314
+        },
+        {
+            "name": "_IsUse",
+            "type": "common",
+            "valueId": 1315
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "41800",
+            "args": [
+                "28",
+                "arg"
+            ]
+        },
+        {
+            "name": "pointNotEnough",
+            "type": "alarm",
+            "value": "很抱歉，行动次数不足！"
+        },
+        {
+            "name": "alarm1",
+            "type": "alarm",
+            "value": "你成功抵达了航线的终点，却遭遇了更大的挑战！"
+        },
+        {
+            "name": "alarm2",
+            "type": "alarm",
+            "value": "成功击退了终极贝利亚！"
+        },
+        {
+            "name": "alarm3",
+            "type": "alarm",
+            "value": "alarm3"
+        },
+        {
+            "name": "alarm4",
+            "type": "alarm",
+            "value": "你尚未获得光能结晶，无法使用。"
+        },
+        {
+            "name": "alarm5",
+            "type": "alarm",
+            "value": "结晶迸发出强烈的光之能量，成功对终极贝利亚造成伤害。"
+        },
+        {
+            "name": "alert1",
+            "type": "alert",
+            "value": "中途退出将不会保留对终极贝利亚造成的伤害，是否继续？"
+        },
+        {
+            "name": "BuyItemNum1",
+            "type": "buy",
+            "num": "1",
+            "productID": "259118",
+            "itemID": "1724034",
+            "exchangeID": "13850"
+        },
+        {
+            "name": "BuyItemNum2",
+            "type": "buy",
+            "num": "1",
+            "productID": "259119",
+            "itemID": "1724035",
+            "exchangeID": "13486"
+        },
+        {
+            "name": "BuyItemNum3",
+            "type": "buy",
+            "num": "1",
+            "productID": "259120",
+            "itemID": "1724036"
+        },
+        {
+            "name": "BuyOneKey",
+            "num": 1,
+            "type": "buy",
+            "productID": 261045,
+            "itemID": 1726349
+        }
+    ]
+}

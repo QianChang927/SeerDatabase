@@ -70,7 +70,7 @@ function(t) {
     var e = function(t) {
         function e(e, n) {
             var i = t.call(this) || this;
-            return i.noStarsList = [2136, 2137],
+            return i.noStarsList = [2136, 2137, 2138],
             i.skinName = "MapChangeSelectPopSkin",
             i.arrMaps = e,
             i._name = n,

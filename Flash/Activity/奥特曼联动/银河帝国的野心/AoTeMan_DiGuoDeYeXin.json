@@ -1,0 +1,127 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            125147,
+            125148,
+            125149,
+            125150,
+            125151,
+            125152,
+            125153,
+            207072,
+            125154
+        ],
+        "bit": [
+            9342
+        ]
+    },
+    "values": [
+        {
+            "name": "forever_125147",
+            "type": "common",
+            "valueId": 125147
+        },
+        {
+            "name": "forever_125148",
+            "type": "common",
+            "valueId": 125148
+        },
+        {
+            "name": "forever_125149bytes1",
+            "type": "url",
+            "value": "125149.1~16"
+        },
+        {
+            "name": "forever_125149bytes2",
+            "type": "url",
+            "value": "125149.17~32"
+        },
+        {
+            "name": "forever_125154bytes1",
+            "type": "url",
+            "value": "125154.1~16"
+        },
+        {
+            "name": "forever_125154bytes2",
+            "type": "url",
+            "value": "125154.17~32"
+        },
+        {
+            "name": "StartArr",
+            "type": "url",
+            "value": "125150.1~8|125150.9~16|125150.17~24|125150.25~32"
+        },
+        {
+            "name": "forever_125151bytes1",
+            "type": "url",
+            "value": "125151.1~8"
+        },
+        {
+            "name": "forever_125151bytes2",
+            "type": "url",
+            "value": "125151.9~16"
+        },
+        {
+            "name": "forever_125150",
+            "type": "common",
+            "valueId": 125150
+        },
+        {
+            "name": "forever_125152",
+            "type": "common",
+            "valueId": 125152
+        },
+        {
+            "name": "forever_125153",
+            "type": "common",
+            "valueId": 125153
+        },
+        {
+            "name": "daily_207072",
+            "type": "common",
+            "valueId": 207072
+        },
+        {
+            "name": "bitbuf_9342",
+            "type": "common",
+            "valueId": 9342
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "41950",
+            "args": [
+                "62",
+                "arg"
+            ]
+        },
+        {
+            "name": "alert",
+            "type": "alert",
+            "value": "有未分配的工人，是否继续进行收取？"
+        },
+        {
+            "name": "alert1",
+            "type": "alert",
+            "value": "当前工人有可以产出更多资源的配置，是否仍然进行资源收取？"
+        },
+        {
+            "name": "buyNum1",
+            "type": "buy",
+            "num": "1",
+            "productID": "261043",
+            "itemID": "1726347",
+            "exchangeID": "14416"
+        },
+        {
+            "name": "buyNum2",
+            "type": "buy",
+            "num": "1",
+            "productID": "261044",
+            "itemID": "1726348",
+            "exchangeID": "14417"
+        }
+    ]
+}

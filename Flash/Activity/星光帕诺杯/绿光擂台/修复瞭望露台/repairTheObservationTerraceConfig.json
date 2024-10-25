@@ -1,0 +1,210 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            10681,
+            10682,
+            105759,
+            105780,
+            108523
+        ],
+        "item": [
+            1719705,
+            1719706,
+            400016
+        ],
+        "bit": [
+            9767
+        ]
+    },
+    "values": [
+        {
+            "name": "comId",
+            "type": "value",
+            "value": [
+                43309
+            ]
+        },
+        {
+            "name": "forever_105759",
+            "type": "common",
+            "valueId": 105759
+        },
+        {
+            "name": "forever_105780",
+            "type": "common",
+            "valueId": 105780
+        },
+        {
+            "name": "forever_108523",
+            "type": "common",
+            "valueId": 108523
+        },
+        {
+            "name": "State",
+            "type": "common",
+            "valueId": 10681
+        },
+        {
+            "name": "bossIndex",
+            "type": "url",
+            "value": "10681.13~16"
+        },
+        {
+            "name": "HJcount",
+            "type": "url",
+            "value": "10681.21~24"
+        },
+        {
+            "name": "state_4",
+            "type": "url",
+            "value": "10681.17~20"
+        },
+        {
+            "name": "exchangeBit",
+            "type": "common",
+            "valueId": 10682
+        },
+        {
+            "name": "ItemCount",
+            "type": "common",
+            "valueId": 1719705
+        },
+        {
+            "name": "ItemCount1",
+            "type": "common",
+            "valueId": 1719706
+        },
+        {
+            "name": "ItemCount2",
+            "type": "common",
+            "valueId": 400016
+        },
+        {
+            "name": "Isok",
+            "type": "common",
+            "valueId": 9767
+        },
+        {
+            "name": "exchange_1",
+            "type": "url",
+            "value": "10682.1~4"
+        },
+        {
+            "name": "exchange_2",
+            "type": "url",
+            "value": "10682.5~8"
+        },
+        {
+            "name": "exchange_3",
+            "type": "url",
+            "value": "10682.9~12"
+        },
+        {
+            "name": "exchange_4",
+            "type": "url",
+            "value": "10682.13~16"
+        },
+        {
+            "name": "exchange_5",
+            "type": "url",
+            "value": "10682.17~20"
+        },
+        {
+            "name": "teamNameArr",
+            "type": "value",
+            "value": [
+                "烈焰",
+                "海啸",
+                "绿光"
+            ]
+        },
+        {
+            "name": "shopArr",
+            "type": "value",
+            "value": [
+                {
+                    "id": 1,
+                    "requrieNum": 300,
+                    "rewardId": 0,
+                    "output": 1,
+                    "limitNum": 1
+                },
+                {
+                    "id": 2,
+                    "requrieNum": 80,
+                    "rewardId": 2500003,
+                    "output": 1,
+                    "limitNum": 3
+                },
+                {
+                    "id": 3,
+                    "requrieNum": 40,
+                    "rewardId": 2500004,
+                    "output": 1,
+                    "limitNum": 3
+                },
+                {
+                    "id": 4,
+                    "requrieNum": 48,
+                    "rewardId": 300810,
+                    "output": 1,
+                    "limitNum": 5
+                },
+                {
+                    "id": 5,
+                    "requrieNum": 12,
+                    "rewardId": 2500005,
+                    "output": 1,
+                    "limitNum": 10
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq",
+            "type": "send",
+            "cmdId": "43309",
+            "args": [
+                "3",
+                "arg"
+            ]
+        },
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "43309",
+            "args": [
+                "4",
+                "arg"
+            ]
+        },
+        {
+            "name": "energyTips",
+            "type": "alarm",
+            "value": "你的电能石不足，请先去获得吧！"
+        },
+        {
+            "name": "energyTips1",
+            "type": "alarm",
+            "value": "你的修复程序不足，请先去拷贝吧！"
+        },
+        {
+            "name": "energyTips2",
+            "type": "alarm",
+            "value": "你的修复证明数量不足，无法获得奖励哦！"
+        },
+        {
+            "name": "energyTips3",
+            "type": "alarm",
+            "value": "需要使用电系技能击败他们才能成功说服他们哦！"
+        },
+        {
+            "name": "BuyItemNum",
+            "type": "buy",
+            "productID": "255752",
+            "itemID": "1719705",
+            "exchangeID": "12558"
+        }
+    ]
+}

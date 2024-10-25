@@ -2031,7 +2031,7 @@ generateEUI.paths["resource/eui_skins/item/ChapterItemSkin.exml"] = window.Chapt
 generateEUI.paths["resource/eui_skins/item/ChapterProgressItemSkin.exml"] = window.ChapterProgressItemSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["txtProcessName", "txtProcess", "progress", "imgCan", "txtReward", "group", "imgReward", "imgHas", "groupMore"],
+        this.skinParts = ["txtProcessName", "txtProcess", "progress", "imgCan", "group", "imgReward", "txtReward", "imgHas", "groupMore"],
         this.height = 90,
         this.width = 491,
         this.elementsContent = [this._Group2_i()]
@@ -2060,15 +2060,16 @@ generateEUI.paths["resource/eui_skins/item/ChapterProgressItemSkin.exml"] = wind
         return t.cacheAsBitmap = !0,
         t.x = -9,
         t.y = 0,
-        t.elementsContent = [this.group_i(), this.imgReward_i(), this.imgHas_i(), this.groupMore_i()],
+        t.elementsContent = [this.group_i(), this.imgReward_i(), this.txtReward_i(), this.imgHas_i(), this.groupMore_i()],
         t
     },
     n.group_i = function() {
         var t = new eui.Group;
         return this.group = t,
+        t.visible = !0,
         t.x = 9,
         t.y = 0,
-        t.elementsContent = [this._Image1_i(), this._Group1_i(), this.progress_i(), this.imgCan_i(), this.txtReward_i()],
+        t.elementsContent = [this._Image1_i(), this._Group1_i(), this.progress_i(), this.imgCan_i()],
         t
     },
     n._Image1_i = function() {
@@ -2129,16 +2130,6 @@ generateEUI.paths["resource/eui_skins/item/ChapterProgressItemSkin.exml"] = wind
         t.y = 1,
         t
     },
-    n.txtReward_i = function() {
-        var t = new eui.Label;
-        return this.txtReward = t,
-        t.fontFamily = "MFShangHei",
-        t.right = 20,
-        t.size = 16,
-        t.textColor = 16777215,
-        t.y = 65,
-        t
-    },
     n.imgReward_i = function() {
         var t = new eui.Image;
         return this.imgReward = t,
@@ -2147,6 +2138,18 @@ generateEUI.paths["resource/eui_skins/item/ChapterProgressItemSkin.exml"] = wind
         t.width = 50,
         t.x = 428,
         t.y = 22,
+        t
+    },
+    n.txtReward_i = function() {
+        var t = new eui.Label;
+        return this.txtReward = t,
+        t.fontFamily = "MFShangHei",
+        t.right = 27,
+        t.size = 16,
+        t.textAlign = "right",
+        t.textColor = 16777215,
+        t.touchEnabled = !1,
+        t.y = 65,
         t
     },
     n.imgHas_i = function() {

@@ -1,0 +1,106 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            125142,
+            125143,
+            125144,
+            207070,
+            207069,
+            2070670,
+            207071,
+            108523
+        ],
+        "bit": [
+            1000631,
+            1000632,
+            1000633
+        ],
+        "player_info": [
+            1606,
+            1607
+        ]
+    },
+    "values": [
+        {
+            "name": "curPlayer",
+            "type": "common",
+            "valueId": 108523
+        },
+        {
+            "name": "curBit",
+            "type": "common",
+            "valueId": 125142
+        },
+        {
+            "name": "sumPlay",
+            "type": "url",
+            "value": "125142.9~16"
+        },
+        {
+            "name": "zongNum",
+            "type": "common",
+            "valueId": 125143
+        },
+        {
+            "name": "zongAktNum",
+            "type": "common",
+            "valueId": 125144
+        },
+        {
+            "name": "curDayNum",
+            "type": "common",
+            "valueId": 207069
+        },
+        {
+            "name": "curNum",
+            "type": "common",
+            "valueId": 207070
+        },
+        {
+            "name": "curAktNum",
+            "type": "common",
+            "valueId": 207071
+        },
+        {
+            "name": "player_info1606",
+            "type": "common",
+            "valueId": 1606
+        },
+        {
+            "name": "player_info1607",
+            "type": "common",
+            "valueId": 1607
+        },
+        {
+            "name": "daily_bitbuf1000631",
+            "type": "common",
+            "valueId": 1000631
+        },
+        {
+            "name": "daily_bitbuf1000632",
+            "type": "common",
+            "valueId": 1000632
+        },
+        {
+            "name": "daily_bitbuf1000633",
+            "type": "common",
+            "valueId": 1000633
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "41950",
+            "args": [
+                "59",
+                "arg"
+            ]
+        },
+        {
+            "name": "alarm",
+            "type": "alarm",
+            "value": "您还没有进行帕诺杯分队，请前往分队！"
+        }
+    ]
+}

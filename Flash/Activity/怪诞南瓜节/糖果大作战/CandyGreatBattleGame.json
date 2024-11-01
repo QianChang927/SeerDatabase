@@ -1,0 +1,88 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            125155,
+            125156,
+            125157,
+            125158,
+            125159
+        ],
+        "bit": [
+            9342
+        ]
+    },
+    "values": [
+        {
+            "name": "forever_125155",
+            "type": "common",
+            "valueId": 125155
+        },
+        {
+            "name": "forever_125156byte1",
+            "type": "url",
+            "value": "125156.1~8"
+        },
+        {
+            "name": "forever_125156byte2",
+            "type": "url",
+            "value": "125156.9~16"
+        },
+        {
+            "name": "forever_125156byte3",
+            "type": "url",
+            "value": "125156.17~24"
+        },
+        {
+            "name": "forever_125157",
+            "type": "common",
+            "valueId": 125157
+        },
+        {
+            "name": "StartArr",
+            "type": "url",
+            "value": "125157.1~4|125157.5~8|125157.9~12|125157.13~16|125157.17~20|125157.21~24|125157.25~28|125157.29~32"
+        },
+        {
+            "name": "getOkayArr",
+            "type": "url",
+            "value": "125158.1~4|125158.5~8|125158.9~12|125158.13~16|125158.17~20|125158.21~24|125158.25~28|125158.29~32|125159.1~4|125159.5~8"
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "41950",
+            "args": [
+                "63",
+                "arg"
+            ]
+        },
+        {
+            "name": "alert",
+            "type": "alert",
+            "value": "确认要将糖果盒进行顺时针旋转吗？"
+        },
+        {
+            "name": "alert1",
+            "type": "alert",
+            "value": "确认要将糖果盒进行逆时针旋转吗？"
+        },
+        {
+            "name": "buyNum1",
+            "type": "buy",
+            "num": "1",
+            "productID": "261043",
+            "itemID": "1726347",
+            "exchangeID": "14416"
+        },
+        {
+            "name": "buyNum2",
+            "type": "buy",
+            "num": "1",
+            "productID": "261044",
+            "itemID": "1726348",
+            "exchangeID": "14417"
+        }
+    ]
+}

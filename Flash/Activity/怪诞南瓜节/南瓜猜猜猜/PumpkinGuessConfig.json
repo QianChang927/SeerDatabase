@@ -1,0 +1,144 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            210004,
+            108524,
+            108525,
+            210005,
+            210006,
+            210007
+        ],
+        "player_info": [
+            1621,
+            1622,
+            1627,
+            1628
+        ]
+    },
+    "values": [
+        {
+            "name": "hasCompletedArr",
+            "type": "url",
+            "value": "210004.1|210004.2|210004.3|210004.4|210004.5|210004.6|210004.7|210004.8|210004.9"
+        },
+        {
+            "name": "digTime",
+            "type": "url",
+            "value": "1621.1~8"
+        },
+        {
+            "name": "toolCntArr",
+            "type": "url",
+            "value": "1621.9~16|1621.17~24|1621.25~32"
+        },
+        {
+            "name": "toolXCnt",
+            "type": "url",
+            "value": "1622.1~8"
+        },
+        {
+            "name": "bombArr",
+            "type": "url",
+            "value": "1622.9~16|1622.17~24|1622.25~32"
+        },
+        {
+            "name": "thornArr",
+            "type": "url",
+            "value": "1627.1~8|1627.9~16|1627.17~24|1627.25~32|1628.1~8|1628.9~16|1628.17~24"
+        },
+        {
+            "name": "coinCnt",
+            "type": "common",
+            "valueId": "108524"
+        },
+        {
+            "name": "limitBuyArr",
+            "type": "url",
+            "value": "108525.1~4|108525.5~8|108525.9~12|108525.13~16|108525.17~20|108525.21~24"
+        },
+        {
+            "name": "SplayTime",
+            "type": "url",
+            "value": "210005.1~8|210005.9~16|210005.17~24|210006.1~8|210006.9~16|210006.17~24|210007.1~8|210007.9~16|210007.17~24"
+        },
+        {
+            "End": "End"
+        }
+    ],
+    "actions": [
+        {
+            "name": "StartGame",
+            "type": "send",
+            "cmdId": "41299",
+            "args": [
+                "7",
+                "arg"
+            ]
+        },
+        {
+            "name": "QuitGame",
+            "type": "send",
+            "cmdId": "41299",
+            "args": [
+                "9",
+                "1"
+            ]
+        },
+        {
+            "name": "Dig",
+            "type": "send",
+            "cmdId": "41299",
+            "args": [
+                "8",
+                "arg"
+            ]
+        },
+        {
+            "name": "UseTool1",
+            "type": "send",
+            "cmdId": "41299",
+            "args": [
+                "10",
+                "1"
+            ]
+        },
+        {
+            "name": "UseTool3",
+            "type": "send",
+            "cmdId": "41299",
+            "args": [
+                "10",
+                "2"
+            ]
+        },
+        {
+            "name": "UseTool2",
+            "type": "send",
+            "cmdId": "41299",
+            "args": [
+                "11",
+                "arg"
+            ]
+        },
+        {
+            "name": "BuyBuy",
+            "type": "send",
+            "cmdId": "41299",
+            "args": [
+                "13",
+                "arg"
+            ]
+        },
+        {
+            "name": "BuyGPK",
+            "num": 0,
+            "type": "buy",
+            "exchangeID": "14426",
+            "productID": 261056,
+            "itemID": 1726361
+        },
+        {
+            "End": "End"
+        }
+    ]
+}

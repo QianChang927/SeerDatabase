@@ -1,0 +1,140 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            109405,
+            109406,
+            109407,
+            109408,
+            109409,
+            109410,
+            200053,
+            124222
+        ],
+        "bit": [
+            9207
+        ]
+    },
+    "values": [
+        {
+            "name": "curMap",
+            "type": "url",
+            "value": "120002.1~8"
+        },
+        {
+            "name": "AddCount",
+            "type": "url",
+            "value": "120002.9~16"
+        },
+        {
+            "name": "OkayNum",
+            "type": "url",
+            "value": "120002.17~24"
+        },
+        {
+            "name": "LastNum",
+            "type": "url",
+            "value": "120002.25~32"
+        },
+        {
+            "name": "dayCount",
+            "type": "common",
+            "valueId": 200053
+        },
+        {
+            "name": "time",
+            "type": "common",
+            "valueId": 109405
+        },
+        {
+            "name": "item_1",
+            "type": "url",
+            "value": "109406.1~8"
+        },
+        {
+            "name": "item_2",
+            "type": "url",
+            "value": "109406.9~16"
+        },
+        {
+            "name": "item_3",
+            "type": "url",
+            "value": "109406.17~24"
+        },
+        {
+            "name": "item_4",
+            "type": "url",
+            "value": "109406.25~32"
+        },
+        {
+            "name": "okEvent",
+            "type": "url",
+            "value": "109407.1~8"
+        },
+        {
+            "name": "curEvent",
+            "type": "url",
+            "value": "109407.9~16"
+        },
+        {
+            "name": "buyBit",
+            "type": "url",
+            "value": "109407.17"
+        },
+        {
+            "name": "progress",
+            "type": "common",
+            "valueId": 109410
+        },
+        {
+            "name": "StateNum",
+            "type": "url",
+            "value": "124222.1~4|124222.5~8|124222.9~12|124222.13~16|124222.17~20"
+        },
+        {
+            "name": "bit",
+            "type": "common",
+            "valueId": 9207
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "45771",
+            "args": [
+                "22",
+                "arg"
+            ]
+        },
+        {
+            "name": "FlgeReq2",
+            "type": "send",
+            "cmdId": "45771",
+            "args": [
+                "23",
+                "arg"
+            ]
+        },
+        {
+            "name": "exchange_1",
+            "type": "exchange",
+            "cmdId": "13208"
+        },
+        {
+            "name": "BuyItemNum1",
+            "type": "buy",
+            "num": "1",
+            "productID": "258144",
+            "itemID": "1722851",
+            "exchangeID": "13209"
+        },
+        {
+            "name": "BuyItemNum2",
+            "type": "buy",
+            "num": "1",
+            "productID": "258143",
+            "itemID": "1722850",
+            "exchangeID": "13210"
+        }
+    ]
+}

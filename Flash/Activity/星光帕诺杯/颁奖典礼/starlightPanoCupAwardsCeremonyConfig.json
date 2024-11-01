@@ -1,0 +1,110 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            108523,
+            121899
+        ]
+    },
+    "values": [
+        {
+            "name": "forever_108523",
+            "type": "common",
+            "valueId": 108523
+        },
+        {
+            "name": "forever_121899",
+            "type": "common",
+            "valueId": 121899
+        },
+        {
+            "name": "daily_203158",
+            "type": "common",
+            "valueId": 203158
+        },
+        {
+            "name": "daily_203159",
+            "type": "common",
+            "valueId": 203159
+        },
+        {
+            "name": "daily_200624",
+            "type": "common",
+            "valueId": 200624
+        },
+        {
+            "name": "bitbuf_12244",
+            "type": "common",
+            "valueId": 12244
+        },
+        {
+            "name": "comId",
+            "type": "value",
+            "value": [
+                41860
+            ]
+        },
+        {
+            "name": "itemNum",
+            "type": "common",
+            "valueId": 1726312
+        },
+        {
+            "name": "skinId",
+            "type": "value",
+            "value": 658
+        },
+        {
+            "name": "petId",
+            "type": "value",
+            "value": 4679
+        },
+        {
+            "name": "provincesAndCitiesNameArr",
+            "type": "value",
+            "value": [
+                "北京",
+                "天津",
+                "河北",
+                "山西",
+                "内蒙古",
+                "辽宁",
+                "吉林",
+                "黑龙江",
+                "上海",
+                "江苏",
+                "浙江",
+                "安徽",
+                "福建",
+                "江西",
+                "山东",
+                "河南",
+                "湖北",
+                "湖南",
+                "广东",
+                "广西",
+                "海南",
+                "重庆",
+                "四川",
+                "贵州",
+                "云南",
+                "西藏",
+                "陕西",
+                "甘肃",
+                "青海",
+                "宁夏",
+                "新疆"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "CompleteStory",
+            "type": "send",
+            "cmdId": "41801",
+            "args": [
+                "44",
+                "arg"
+            ]
+        }
+    ]
+}

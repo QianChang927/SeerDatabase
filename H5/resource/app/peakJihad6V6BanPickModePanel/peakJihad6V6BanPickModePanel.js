@@ -30,6 +30,7 @@ function(e) {
             i._isShowLv = !0,
             i._curMode = e,
             i._isJJ = 3 == i._curMode ? !0 : !1,
+            i._curModeFoverId = PeakJihadController.wildlevelForever,
             i._isShowLv = 2 == i._curMode || 3 == i._curMode ? !0 : !1,
             i.skinName = "Peakjihad3v3banpickmodeSkin",
             i
@@ -132,7 +133,7 @@ function(e) {
             this.myInfoGroup.addChild(t),
             this.name1.text = String(MainManager.actorInfo.nick),
             this.id1.text = String(MainManager.actorInfo.userID),
-            KTool.getMultiValue([PeakJihadController.levelForever],
+            KTool.getMultiValue([this._curModeFoverId],
             function(t) {
                 e._score = t[0];
                 var i = t[0],
@@ -150,7 +151,7 @@ function(e) {
             KTool.getMultiValue([3308],
             function(t) {
                 e._rivalUserID = t[0],
-                KTool.getOnlineUsersForeverOrDailyVal([e._rivalUserID, PeakJihadController.levelForever],
+                KTool.getOnlineUsersForeverOrDailyVal([e._rivalUserID, e._curModeFoverId],
                 function(t) {
                     var i = t[0],
                     r = i & Math.pow(2, 16) - 1,

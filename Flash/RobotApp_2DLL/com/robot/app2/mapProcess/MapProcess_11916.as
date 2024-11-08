@@ -21,7 +21,7 @@ package com.robot.app2.mapProcess
       
       private var m_State:int = 0;
       
-      private var npcDialog;
+      private var npcDialog:*;
       
       public function MapProcess_11916()
       {

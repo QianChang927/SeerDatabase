@@ -48,7 +48,7 @@ package com.robot.app2.mapProcess
       
       private var initPos:Point;
       
-      private var _maxNum:int = 1000000;
+      private var _maxNum:int = 5000000;
       
       public function MapProcess_1369()
       {
@@ -132,7 +132,7 @@ package com.robot.app2.mapProcess
                {
                   if(this.hasNum < 10)
                   {
-                     if(this.curTime % 3600 < 600)
+                     if(this.curTime % 3600 < 1200)
                      {
                         Alarm.show("必须战胜砖头的主人才能获得砖头哦！",function():void
                         {
@@ -155,7 +155,7 @@ package com.robot.app2.mapProcess
                      }
                      else
                      {
-                        Alarm.show("每个小时的前10分钟才是搬砖时间哟！");
+                        Alarm.show("每个小时的前20分钟才是搬砖时间哟！");
                      }
                   }
                   else

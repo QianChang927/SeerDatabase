@@ -311,7 +311,7 @@ function(t) {
         return __extends(i, e),
         i.prototype.childrenCreated = function() {
             var e = this;
-            this._data.obj.userID > 0 ? this._view = new t.PetInfoView: this._view = new t.BossInfoIvew;
+            this._data.obj.userID > 0 ? this._view = new t.PetInfoView: PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6 && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_WILD && PetFightModel.type != PetFightModel.PEAK_JIHAD_3V3 || 0 != this._data.obj.userID ? this._view = new t.BossInfoIvew: this._view = new t.PetInfoView;
             var i = PopViewManager.createDefaultStyleObject();
             i.caller = this._view,
             i.maskShapeStyle.maskAlpha = 0,
@@ -401,7 +401,7 @@ function(t) {
                 }
                 n = SuitXMLInfo.getSuitIDs(s),
                 this.tx_suitAdd.text = n[0] > 0 ? SuitXMLInfo.getName(n[0]) : "无"
-            } else UserInfoManager.getInfo(this._useId,
+            } else 0 != this._useId ? UserInfoManager.getInfo(this._useId,
             function(e) {
                 UserInfoManager.upDateMoreInfo(e,
                 function() {
@@ -415,7 +415,7 @@ function(t) {
                     n = SuitXMLInfo.getSuitIDs(s),
                     t.tx_suitAdd.text = n[0] > 0 ? SuitXMLInfo.getName(n[0]) : "无"
                 })
-            });
+            }) : (this.tx_nick.text = "赛尔小助手", this.tx_titleAdd.text = "无", this.tx_suitAdd.text = "无");
             if (0 != this._resistenceinfo.resist_state) {
                 this.noOenresist1.visible = !1,
                 this.noOenresist2.visible = !1,

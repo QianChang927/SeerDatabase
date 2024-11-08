@@ -1,0 +1,100 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            11896,
+            11897,
+            105782
+        ],
+        "bit": [
+            9342
+        ]
+    },
+    "values": [
+        {
+            "name": "forever_105782",
+            "type": "common",
+            "valueId": 105782
+        },
+        {
+            "name": "forever_105782byte2",
+            "type": "url",
+            "value": "105782.9~16"
+        },
+        {
+            "name": "daily_11897",
+            "type": "common",
+            "valueId": 11897
+        },
+        {
+            "name": "daily_11896",
+            "type": "common",
+            "valueId": 11896
+        },
+        {
+            "name": "daily_11897byte3",
+            "type": "url",
+            "value": "11897.17~24"
+        },
+        {
+            "name": "daily_11897byte4",
+            "type": "url",
+            "value": "11897.25~32"
+        },
+        {
+            "name": "StartArr",
+            "type": "url",
+            "value": "11896.1~4|11896.5~8|11896.9~12|11896.13~16|11896.17~20|11896.21~24|11896.25~28|11896.29~32"
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "45850",
+            "args": [
+                "22",
+                "arg"
+            ]
+        },
+        {
+            "name": "alert",
+            "type": "alert",
+            "value": "确认要将糖果盒进行顺时针旋转吗？"
+        },
+        {
+            "name": "alert1",
+            "type": "alert",
+            "value": "确认要将糖果盒进行逆时针旋转吗？"
+        },
+        {
+            "name": "buyNum1",
+            "type": "buy",
+            "num": "1",
+            "productID": "261043",
+            "itemID": "1726347",
+            "exchangeID": "14416"
+        },
+        {
+            "name": "buyNum2",
+            "type": "buy",
+            "num": "1",
+            "productID": "261044",
+            "itemID": "1726348",
+            "exchangeID": "14417"
+        },
+        {
+            "name": "buy1",
+            "type": "buy",
+            "num": "1",
+            "productID": "261068",
+            "itemID": "1726373"
+        },
+        {
+            "name": "buy2",
+            "type": "buy",
+            "num": "1",
+            "productID": "261069",
+            "itemID": "1726374"
+        }
+    ]
+}

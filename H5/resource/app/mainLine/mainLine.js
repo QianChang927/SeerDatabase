@@ -812,7 +812,8 @@ function(t) {
     var e = function(e) {
         function i() {
             var t = e.call(this) || this;
-            return t.skinName = "DialogPanelSkin",
+            return t.isInFullAnim = !1,
+            t.skinName = "DialogPanelSkin",
             t
         }
         return __extends(i, e),
@@ -942,80 +943,83 @@ function(t) {
         },
         i.prototype.onDialog = function() {
             var e = this;
-            if (this.isShowingTxt) return void this.showAllTxt();
-            if (!this.groupDialog.visible) return void this.setUIVisible(!0);
-            if (this.hasQuestion) return this.hasQuestion = !1,
-            this.setAuto(!1),
-            this.service.openPop(new t.QuestionPop(this.arrAnswer), !0),
-            void EventManager.once(t.EventConst.SelectChoice,
-            function(t) {
-                e.curIndex = +e.arrJump[t.data] - 1,
-                e.onDialog()
-            },
-            null);
-            void 0 != this.curIndex ? this.curIndex++:this.curIndex = 0;
-            var i = this.storyData.dialog[this.curIndex];
-            if (!i) return void this.endDialog();
-            var n = !1; (1 == i.ani || 2 == i.ani) && (0 == this.curIndex ? this.playAni(!1) : (this.playAni(!0).then(function() {
-                e.playAni(!1)
-            }), n = !0)),
-            egret.lifecycle.stage.touchChildren = !1,
-            egret.setTimeout(function() {
-                return __awaiter(e, void 0, void 0,
-                function() {
-                    var t, e, n, r, a, o, s, h, u, l, c, r, p, g, e, n, r;
-                    return __generator(this,
-                    function(_) {
-                        switch (_.label) {
-                        case 0:
-                            if (egret.lifecycle.stage.touchChildren = !0, "漫画" == i.npcName ? (this.group1.visible = !1, this.group2.visible = !1, this.btnReview3.visible = !0, this.showTxt(3, i.dialogArr), !this.history.length || "旁白" != this.history[this.history.length - 1].npcName && "漫画" != this.history[this.history.length - 1].npcName ? (this.history.push(i), i.history = i.dialogArr) : this.history[this.history.length - 1].history += "\n\n" + i.dialogArr) : "旁白" == i.npcName ? (this.group1.visible = !0, this.group2.visible = !1, this.btnReview3.visible = !1, this.showTxt(1, i.dialogArr), !this.history.length || "旁白" != this.history[this.history.length - 1].npcName && "漫画" != this.history[this.history.length - 1].npcName ? (this.history.push(i), i.history = i.dialogArr) : this.history[this.history.length - 1].history += "\n\n" + i.dialogArr) : (this.group1.visible = !1, this.group2.visible = !0, this.btnReview3.visible = !1, this.txtName.text = i.npcName, this.showTxt(2, i.dialogArr), this.history.push(i)), i.questionArr ? (this.arrAnswer = (i.questionArr + "").split("|"), this.arrJump = (i.jumpTo + "").split("|"), this.hasQuestion = !0) : i.jumpTo && (this.curIndex = +i.jumpTo - 1), !i.param) return [3, 6];
-                            for (t = this.groupAsset.numChildren, e = t - 1; e >= 0; e--) n = this.groupAsset.getChildAt(e),
-                            n instanceof eui.Image ? (this.poolImage.push(n), this.groupAsset.removeChild(n)) : n instanceof eui.Group && (r = n.getChildAt(0), this.poolSpineAnimate[n.name] || (this.poolSpineAnimate[n.name] = []), this.poolSpineAnimate[n.name].push(r), r.flagRemove = !0);
-                            a = i.param.split("|"),
-                            o = 0,
-                            s = a,
-                            _.label = 1;
-                        case 1:
-                            return o < s.length ? (h = s[o], u = h.split(","), l = u[0], c = void 0, "amh" != l.substring(0, 3) ? [3, 3] : (c = new eui.Group, [4, this.createSpineAnimate(l)])) : [3, 6];
-                        case 2:
-                            return r = _.sent(),
-                            r.flagRemove = !1,
-                            c.addChild(r),
-                            [3, 4];
-                        case 3:
-                            p = "map" == l.split("_")[0].substring(0, 3),
-                            c = this.getImage("resource/assets/mainLine/Dialog/" + l + "." + (p ? "jpg": "png")),
-                            _.label = 4;
-                        case 4:
-                            c.name = l + "",
-                            this.groupAsset.addChild(c),
-                            c.horizontalCenter = +u[1],
-                            c.y = +u[2],
-                            c.scaleX = +u[3],
-                            c.scaleY = Math.abs( + u[3]),
-                            +u[4] && ( + u[4] <= 5 ? (c.alpha = 0, 1 == +u[4] ? c.y -= 300 : 2 == +u[4] ? c.y += 300 : 3 == +u[4] ? c.horizontalCenter -= 300 : 4 == +u[4] && (c.horizontalCenter += 300), egret.lifecycle.stage.touchChildren = !1, egret.Tween.get(c).to({
-                                y: +u[2],
-                                horizontalCenter: +u[1],
-                                alpha: 1
-                            },
-                            400, egret.Ease.cubicOut).call(function() {
-                                egret.lifecycle.stage.touchChildren = !0
-                            })) : 6 == +u[4] ? this.playAni_upAndDown(c) : 7 == +u[4] && this.playAni_shake(c)),
-                            _.label = 5;
-                        case 5:
-                            return o++,
-                            [3, 1];
-                        case 6:
-                            for (i.changeBGM && SoundManager.loadSound("resource/assets/map/sound/" + i.changeBGM + ".mp3").then(function() {
-                                SoundManager.playMusic()
-                            }), g = this.groupAsset.numChildren, e = g - 1; e >= 0; e--) n = this.groupAsset.getChildAt(e),
-                            n instanceof eui.Group && (0 == n.numChildren ? this.groupAsset.removeChild(n) : (r = n.getChildAt(0), r.flagRemove && this.groupAsset.removeChild(n)));
-                            return [2]
-                        }
+            if (!this.isInFullAnim) {
+                if (this.isShowingTxt) return void this.showAllTxt();
+                if (!this.groupDialog.visible) return void this.setUIVisible(!0);
+                if (this.hasQuestion) return this.hasQuestion = !1,
+                this.setAuto(!1),
+                this.service.openPop(new t.QuestionPop(this.arrAnswer), !0),
+                void EventManager.once(t.EventConst.SelectChoice,
+                function(t) {
+                    e.curIndex = +e.arrJump[t.data] - 1,
+                    e.onDialog()
+                },
+                null);
+                void 0 != this.curIndex ? this.curIndex++:this.curIndex = 0;
+                var i = this.storyData.dialog[this.curIndex];
+                if (!i) return void this.endDialog();
+                var n = !1; (1 == i.ani || 2 == i.ani) && (0 == this.curIndex ? this.playAni(!1) : (this.playAni(!0).then(function() {
+                    e.playAni(!1)
+                }), n = !0)),
+                egret.lifecycle.stage.touchChildren = !1,
+                egret.setTimeout(function() {
+                    return __awaiter(e, void 0, void 0,
+                    function() {
+                        var t, e, n, r, a, o, s, h, u, l, c, r, p, g, e, n, r;
+                        return __generator(this,
+                        function(_) {
+                            switch (_.label) {
+                            case 0:
+                                if (egret.lifecycle.stage.touchChildren = !0, "漫画" == i.npcName ? (this.group1.visible = !1, this.group2.visible = !1, this.btnReview3.visible = !0, this.showTxt(3, i.dialogArr), !this.history.length || "旁白" != this.history[this.history.length - 1].npcName && "漫画" != this.history[this.history.length - 1].npcName ? (this.history.push(i), i.history = i.dialogArr) : this.history[this.history.length - 1].history += "\n\n" + i.dialogArr) : "旁白" == i.npcName ? (this.group1.visible = !0, this.group2.visible = !1, this.btnReview3.visible = !1, this.showTxt(1, i.dialogArr), !this.history.length || "旁白" != this.history[this.history.length - 1].npcName && "漫画" != this.history[this.history.length - 1].npcName ? (this.history.push(i), i.history = i.dialogArr) : this.history[this.history.length - 1].history += "\n\n" + i.dialogArr) : (this.group1.visible = !1, this.group2.visible = !0, this.btnReview3.visible = !1, this.txtName.text = i.npcName, this.showTxt(2, i.dialogArr), this.history.push(i)), i.questionArr ? (this.arrAnswer = (i.questionArr + "").split("|"), this.arrJump = (i.jumpTo + "").split("|"), this.hasQuestion = !0) : i.jumpTo && (this.curIndex = +i.jumpTo - 1), !i.param) return [3, 6];
+                                for (t = this.groupAsset.numChildren, e = t - 1; e >= 0; e--) n = this.groupAsset.getChildAt(e),
+                                n instanceof eui.Image ? (this.poolImage.push(n), this.groupAsset.removeChild(n)) : n instanceof eui.Group && (r = n.getChildAt(0), this.poolSpineAnimate[n.name] || (this.poolSpineAnimate[n.name] = []), this.poolSpineAnimate[n.name].push(r), r.flagRemove = !0);
+                                a = i.param.split("|"),
+                                o = 0,
+                                s = a,
+                                _.label = 1;
+                            case 1:
+                                return o < s.length ? (h = s[o], u = h.split(","), l = u[0], c = void 0, "amh" != l.substring(0, 3) ? [3, 3] : (c = new eui.Group, [4, this.createSpineAnimate(l, 2 == i.ani)])) : [3, 6];
+                            case 2:
+                                return r = _.sent(),
+                                r.flagRemove = !1,
+                                c.addChild(r),
+                                2 == i.ani ? (r.x = LevelManager.mainUILevel.width / 2, r.y = LevelManager.mainUILevel.height / 2) : (r.x = 0, r.y = 0),
+                                [3, 4];
+                            case 3:
+                                p = "map" == l.split("_")[0].substring(0, 3),
+                                c = this.getImage("resource/assets/mainLine/Dialog/" + l + "." + (p ? "jpg": "png")),
+                                _.label = 4;
+                            case 4:
+                                c.name = l + "",
+                                this.groupAsset.addChild(c),
+                                c.horizontalCenter = +u[1],
+                                c.y = +u[2],
+                                c.scaleX = +u[3],
+                                c.scaleY = Math.abs( + u[3]),
+                                +u[4] && ( + u[4] <= 5 ? (c.alpha = 0, 1 == +u[4] ? c.y -= 300 : 2 == +u[4] ? c.y += 300 : 3 == +u[4] ? c.horizontalCenter -= 300 : 4 == +u[4] && (c.horizontalCenter += 300), egret.lifecycle.stage.touchChildren = !1, egret.Tween.get(c).to({
+                                    y: +u[2],
+                                    horizontalCenter: +u[1],
+                                    alpha: 1
+                                },
+                                400, egret.Ease.cubicOut).call(function() {
+                                    egret.lifecycle.stage.touchChildren = !0
+                                })) : 6 == +u[4] ? this.playAni_upAndDown(c) : 7 == +u[4] && this.playAni_shake(c)),
+                                _.label = 5;
+                            case 5:
+                                return o++,
+                                [3, 1];
+                            case 6:
+                                for (i.changeBGM && SoundManager.loadSound("resource/assets/map/sound/" + i.changeBGM + ".mp3").then(function() {
+                                    SoundManager.playMusic()
+                                }), g = this.groupAsset.numChildren, e = g - 1; e >= 0; e--) n = this.groupAsset.getChildAt(e),
+                                n instanceof eui.Group && (0 == n.numChildren ? this.groupAsset.removeChild(n) : (r = n.getChildAt(0), r.flagRemove && this.groupAsset.removeChild(n)));
+                                return [2]
+                            }
+                        })
                     })
-                })
-            },
-            this, n ? 700 : 0)
+                },
+                this, n ? 700 : 0)
+            }
         },
         i.prototype.setAuto = function(t) {
             this.isAuto = t,
@@ -1160,43 +1164,51 @@ function(t) {
             },
             this, 400)
         },
-        i.prototype.createSpineAnimate = function(t) {
-            return __awaiter(this, void 0, void 0,
+        i.prototype.createSpineAnimate = function(t, e) {
+            return void 0 === e && (e = !1),
+            __awaiter(this, void 0, void 0,
             function() {
-                var e, i, n, r, a, o, s, h, u, l, c;
+                var i, n, r, a, o, s, h, u, l, c, p, g = this;
                 return __generator(this,
-                function(p) {
-                    switch (p.label) {
+                function(_) {
+                    switch (_.label) {
                     case 0:
-                        return this.poolSpineAnimate[t] && this.poolSpineAnimate[t].length > 0 ? (e = this.poolSpineAnimate[t].pop(), [2, Promise.resolve(e)]) : (i = {},
-                        i.png = {},
-                        n = i, [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + t.split(".")[0] + "/" + t + ".json")]);
+                        return this.poolSpineAnimate[t] && this.poolSpineAnimate[t].length > 0 ? (i = this.poolSpineAnimate[t].pop(), [2, Promise.resolve(i)]) : (n = {},
+                        n.png = {},
+                        r = n, [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + t.split(".")[0] + "/" + t + ".json")]);
                     case 1:
-                        return n.json = p.sent(),
-                        r = i,
+                        return r.json = _.sent(),
+                        a = n,
                         [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + t.split(".")[0] + "/" + t + ".atlas", null, null, RES.ResourceItem.TYPE_TEXT)];
                     case 2:
-                        r.atlas = p.sent(),
-                        a = new spine.TextureAtlas(i.atlas),
-                        o = 0,
-                        s = a.pages,
-                        p.label = 3;
+                        a.atlas = _.sent(),
+                        o = new spine.TextureAtlas(n.atlas),
+                        s = 0,
+                        h = o.pages,
+                        _.label = 3;
                     case 3:
-                        return o < s.length ? (h = s[o], u = i.png, l = h.name, [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + t.split(".")[0] + "/" + h.name)]) : [3, 6];
+                        return s < h.length ? (u = h[s], l = n.png, c = u.name, [4, RES.getResByUrl("resource/assets/mainLine/Dialog/" + t.split(".")[0] + "/" + u.name)]) : [3, 6];
                     case 4:
-                        u[l] = p.sent(),
-                        p.label = 5;
+                        l[c] = _.sent(),
+                        _.label = 5;
                     case 5:
-                        return o++,
+                        return s++,
                         [3, 3];
                     case 6:
-                        return c = this._createAnimate(i),
+                        return p = this._createAnimate(n),
                         RES.getResByUrl("resource/assets/mainLine/Dialog/" + t.split(".")[0] + "/" + t + ".json",
                         function(t) {
-                            var e = Object.getOwnPropertyNames(t.animations)[0];
-                            c.play(e)
+                            var i = Object.getOwnPropertyNames(t.animations)[0];
+                            if (e) {
+                                g.isInFullAnim = !0;
+                                var n = p.play(i, 1);
+                                n.waitPlayEnd().then(function() {
+                                    g.isInFullAnim = !1,
+                                    g.onDialog()
+                                })
+                            } else p.play(i)
                         }),
-                        [2, Promise.resolve(c)]
+                        [2, Promise.resolve(p)]
                     }
                 })
             })

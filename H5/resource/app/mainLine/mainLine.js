@@ -983,7 +983,7 @@ function(t) {
                                 return r = _.sent(),
                                 r.flagRemove = !1,
                                 c.addChild(r),
-                                2 == i.ani ? (r.x = LevelManager.mainUILevel.width / 2, r.y = LevelManager.mainUILevel.height / 2) : (r.x = 0, r.y = 0),
+                                2 == i.ani ? (r.x = this.groupAsset.width / 2, r.y = this.groupAsset.height / 2) : (r.x = 0, r.y = 0),
                                 [3, 4];
                             case 3:
                                 p = "map" == l.split("_")[0].substring(0, 3),
@@ -992,10 +992,7 @@ function(t) {
                             case 4:
                                 c.name = l + "",
                                 this.groupAsset.addChild(c),
-                                c.horizontalCenter = +u[1],
-                                c.y = +u[2],
-                                c.scaleX = +u[3],
-                                c.scaleY = Math.abs( + u[3]),
+                                u.length > 1 && (c.horizontalCenter = +u[1], c.y = +u[2], c.scaleX = +u[3], c.scaleY = Math.abs( + u[3])),
                                 +u[4] && ( + u[4] <= 5 ? (c.alpha = 0, 1 == +u[4] ? c.y -= 300 : 2 == +u[4] ? c.y += 300 : 3 == +u[4] ? c.horizontalCenter -= 300 : 4 == +u[4] && (c.horizontalCenter += 300), egret.lifecycle.stage.touchChildren = !1, egret.Tween.get(c).to({
                                     y: +u[2],
                                     horizontalCenter: +u[1],

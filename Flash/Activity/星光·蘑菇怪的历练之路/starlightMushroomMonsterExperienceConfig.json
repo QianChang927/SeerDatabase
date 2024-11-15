@@ -1,0 +1,100 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            105783,
+            11900
+        ],
+        "bit": [
+            12244
+        ],
+        "item": [
+            1726312
+        ]
+    },
+    "values": [
+        {
+            "name": "forever_105783",
+            "type": "common",
+            "valueId": 105783
+        },
+        {
+            "name": "daily_11900",
+            "type": "common",
+            "valueId": 11900
+        },
+        {
+            "name": "itemNum",
+            "type": "common",
+            "valueId": 1726312
+        },
+        {
+            "name": "comId",
+            "type": "value",
+            "value": [
+                45850,
+                41863,
+                41864
+            ]
+        },
+        {
+            "name": "skinId",
+            "type": "value",
+            "value": 658
+        },
+        {
+            "name": "petId",
+            "type": "value",
+            "value": 4679
+        },
+        {
+            "name": "requireNumArr",
+            "type": "value",
+            "value": [
+                2,
+                4,
+                6,
+                8,
+                10,
+                12
+            ]
+        },
+        {
+            "name": "bossStarArr",
+            "type": "value",
+            "value": [
+                1,
+                1,
+                1,
+                2,
+                2,
+                2,
+                3,
+                3,
+                4,
+                4,
+                5,
+                5
+            ]
+        },
+        {
+            "name": "addExpArr",
+            "type": "value",
+            "value": [
+                10,
+                15,
+                20
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "CompleteStory",
+            "type": "send",
+            "cmdId": "41801",
+            "args": [
+                "44",
+                "arg"
+            ]
+        }
+    ]
+}

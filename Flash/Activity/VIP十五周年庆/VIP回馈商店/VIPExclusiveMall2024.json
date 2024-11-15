@@ -1,0 +1,122 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            109415,
+            109416,
+            109417,
+            109418,
+            109419,
+            124226,
+            125164
+        ],
+        "player_info": [
+            1389
+        ]
+    },
+    "values": [
+        {
+            "name": "vipMonthNum",
+            "type": "common",
+            "valueId": 109415
+        },
+        {
+            "name": "unlockState",
+            "type": "common",
+            "valueId": 109416
+        },
+        {
+            "name": "getState",
+            "type": "common",
+            "valueId": 109417
+        },
+        {
+            "name": "exchangeNum",
+            "type": "common",
+            "valueId": 109418
+        },
+        {
+            "name": "useMonthNum",
+            "type": "common",
+            "valueId": 109419
+        },
+        {
+            "name": "getItemCount",
+            "type": "url",
+            "value": "124226.1~8"
+        },
+        {
+            "name": "bitCount",
+            "type": "common",
+            "valueId": 124226
+        },
+        {
+            "name": "playerInfo",
+            "type": "common",
+            "valueId": 1389
+        },
+        {
+            "name": "forever_125164",
+            "type": "common",
+            "valueId": 125164
+        },
+        {
+            "name": "requireArr",
+            "type": "value",
+            "value": [
+                {
+                    "requireNum": 30,
+                    "maxNum": 5
+                },
+                {
+                    "requireNum": 10,
+                    "maxNum": 5
+                },
+                {
+                    "requireNum": 200,
+                    "maxNum": 1
+                },
+                {
+                    "requireNum": 50,
+                    "maxNum": 1
+                },
+                {
+                    "requireNum": 10,
+                    "maxNum": 5
+                },
+                {
+                    "requireNum": 10,
+                    "maxNum": 5
+                },
+                {
+                    "requireNum": 100,
+                    "maxNum": 99999
+                }
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "41276",
+            "args": [
+                "46",
+                "arg"
+            ]
+        },
+        {
+            "name": "FlgeReq2",
+            "type": "send",
+            "cmdId": "45771",
+            "args": [
+                "28",
+                "arg"
+            ]
+        },
+        {
+            "name": "alert1",
+            "type": "alert",
+            "value": "领取之后继续充值VIP将无法再次领取额外天数的VIP点数，是否确认领取？"
+        }
+    ]
+}

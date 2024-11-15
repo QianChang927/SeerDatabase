@@ -1,0 +1,31 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            121902
+        ]
+    },
+    "values": [
+        {
+            "name": "value",
+            "type": "common",
+            "valueId": 121902
+        },
+        {
+            "name": "panels",
+            "type": "value",
+            "value": [
+                "StarlightMushroomMonsterExperienceMainPanel",
+                "EnergyFromGroundEnter",
+                "DiamondHardnessChallengeMainPanel",
+                "StarlightEnergyPoolMainPanel",
+                "PastDaysTheMonthPetSaleMainPanel",
+                "VIPExclusiveMall2024MainPanel",
+                "vipSpecialOfferMainPanel",
+                "vipPointsShopMainPanel",
+                "SeerNumberPeripheralGiftOxLotteryMainPanel",
+                "MarkRecallMainPanel"
+            ]
+        }
+    ],
+    "actions": []
+}

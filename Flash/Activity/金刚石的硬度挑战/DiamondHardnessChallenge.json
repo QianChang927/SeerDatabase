@@ -1,0 +1,211 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            105785,
+            105786,
+            105787,
+            105788,
+            105789,
+            105790,
+            105791,
+            105792,
+            105793,
+            105794,
+            105795,
+            105796,
+            105797,
+            105798,
+            105799,
+            105800,
+            105801,
+            105802,
+            105803,
+            105804,
+            105805,
+            105806,
+            11899
+        ]
+    },
+    "values": [
+        {
+            "name": "value0",
+            "type": "common",
+            "valueId": 105785
+        },
+        {
+            "name": "value1",
+            "type": "common",
+            "valueId": 105786
+        },
+        {
+            "name": "value2",
+            "type": "common",
+            "valueId": 105787
+        },
+        {
+            "name": "value3",
+            "type": "common",
+            "valueId": 105788
+        },
+        {
+            "name": "value4",
+            "type": "common",
+            "valueId": 105789
+        },
+        {
+            "name": "value5",
+            "type": "common",
+            "valueId": 105790
+        },
+        {
+            "name": "value6",
+            "type": "common",
+            "valueId": 105791
+        },
+        {
+            "name": "value7",
+            "type": "common",
+            "valueId": 105792
+        },
+        {
+            "name": "value8",
+            "type": "common",
+            "valueId": 105793
+        },
+        {
+            "name": "value9",
+            "type": "common",
+            "valueId": 105794
+        },
+        {
+            "name": "value10",
+            "type": "common",
+            "valueId": 105795
+        },
+        {
+            "name": "value11",
+            "type": "common",
+            "valueId": 105796
+        },
+        {
+            "name": "value12",
+            "type": "common",
+            "valueId": 105797
+        },
+        {
+            "name": "value13",
+            "type": "common",
+            "valueId": 105798
+        },
+        {
+            "name": "value14",
+            "type": "common",
+            "valueId": 105799
+        },
+        {
+            "name": "value15",
+            "type": "common",
+            "valueId": 105800
+        },
+        {
+            "name": "value16",
+            "type": "common",
+            "valueId": 105801
+        },
+        {
+            "name": "value17",
+            "type": "common",
+            "valueId": 105802
+        },
+        {
+            "name": "value18",
+            "type": "common",
+            "valueId": 105803
+        },
+        {
+            "name": "value19",
+            "type": "common",
+            "valueId": 105804
+        },
+        {
+            "name": "value20",
+            "type": "common",
+            "valueId": 105805
+        },
+        {
+            "name": "value21",
+            "type": "common",
+            "valueId": 105806
+        },
+        {
+            "name": "value22",
+            "type": "common",
+            "valueId": 11899
+        },
+        {
+            "name": "titles",
+            "type": "value",
+            "value": [
+                "鉴定挑战",
+                "鉴定挑战",
+                "鉴定挑战",
+                "硬度挑战",
+                "硬度挑战",
+                "硬度挑战"
+            ]
+        },
+        {
+            "name": "items",
+            "type": "value",
+            "value": [
+                "1_1723855_20000,1_300021_1",
+                "1_1723855_40000,1_300021_1",
+                "1_1725705_10",
+                "1_1723855_20000,1_300021_1",
+                "1_1723855_20000,1_300021_1",
+                "1_1723855_50000,1_300618_2"
+            ]
+        },
+        {
+            "name": "values",
+            "type": "value",
+            "value": [
+                "1",
+                "3",
+                "5",
+                "5_25_8",
+                "26_41_10",
+                "41_999_12"
+            ]
+        },
+        {
+            "name": "des",
+            "type": "value",
+            "value": [
+                "累计进行1次鉴定（$/1）",
+                "累计进行3次鉴定（$/3）",
+                "累计进行5次鉴定（$/5）",
+                "任意1只精灵硬度 5≤硬度评分≤25（或累计进行8次鉴定）",
+                "任意1只精灵硬度 26≤硬度评分≤40（或累计进行10次鉴定）",
+                "任意1只精灵硬度 硬度评分≥41（或累计进行12次鉴定）"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "alarm",
+            "type": "alarm",
+            "value": "请先选择需要进行鉴定的精灵。"
+        },
+        {
+            "name": "alarm1",
+            "type": "alarm",
+            "value": "当前无可用鉴定次数，请明天再来吧。"
+        },
+        {
+            "name": "alarm2",
+            "type": "alarm",
+            "value": "该精灵已进行过鉴定，不可重复鉴定。"
+        }
+    ]
+}

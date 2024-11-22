@@ -1,0 +1,71 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            105807,
+            124299,
+            11903
+        ],
+        "bit": [
+            1000635
+        ]
+    },
+    "values": [
+        {
+            "name": "StoryProgress",
+            "type": "url",
+            "value": "105807.1~7"
+        },
+        {
+            "name": "IsFinishStory1",
+            "type": "url",
+            "value": "105807.20"
+        },
+        {
+            "name": "IsFinishStory1Prize",
+            "type": "url",
+            "value": "105807.21"
+        },
+        {
+            "name": "IsFinishStory1Egg",
+            "type": "url",
+            "value": "105807.22"
+        },
+        {
+            "name": "Map1708SaveArr",
+            "type": "url",
+            "value": "105807.13|105807.14|105807.15|105807.16|105807.17|105807.18|105807.19"
+        },
+        {
+            "name": "hasGot3",
+            "type": "common",
+            "valueId": 1000635
+        },
+        {
+            "name": "hasGot4",
+            "type": "url",
+            "value": "124299.1|124299.2|124299.3|124299.4"
+        },
+        {
+            "name": "hasGot2",
+            "type": "url",
+            "value": "11903.9|11903.10|11903.11|11903.12|11903.13"
+        },
+        {
+            "End": "End"
+        }
+    ],
+    "actions": [
+        {
+            "name": "StoryPrize",
+            "type": "send",
+            "cmdId": "45850",
+            "args": [
+                "26 ",
+                "2"
+            ]
+        },
+        {
+            "End": "End"
+        }
+    ]
+}

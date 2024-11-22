@@ -1,0 +1,46 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            124299,
+            203162
+        ],
+        "item": [
+            1726435
+        ]
+    },
+    "values": [
+        {
+            "name": "forever_124299",
+            "type": "common",
+            "valueId": 124299
+        },
+        {
+            "name": "daily_203162",
+            "type": "common",
+            "valueId": 203162
+        },
+        {
+            "name": "itemNum",
+            "type": "common",
+            "valueId": 1726435
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "41900",
+            "args": [
+                "97",
+                "arg"
+            ]
+        },
+        {
+            "name": "Buy_1",
+            "type": "buy",
+            "productID": "261130",
+            "itemID": "1726435",
+            "exchangeID": "14439"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            11903,
+            105808,
+            105807
+        ],
+        "item": [
+            1724548
+        ]
+    },
+    "values": [
+        {
+            "name": "daily_11903",
+            "type": "common",
+            "valueId": 11903
+        },
+        {
+            "name": "forever_105808",
+            "type": "common",
+            "valueId": 105808
+        },
+        {
+            "name": "forever_105807",
+            "type": "common",
+            "valueId": 105807
+        },
+        {
+            "name": "itemNum",
+            "type": "common",
+            "valueId": 1724548
+        },
+        {
+            "name": "comId",
+            "type": "value",
+            "value": [
+                45850
+            ]
+        },
+        {
+            "name": "requireNumArr",
+            "type": "value",
+            "value": [
+                3,
+                6,
+                9,
+                12,
+                15
+            ]
+        },
+        {
+            "name": "limitNumArr",
+            "type": "value",
+            "value": [
+                0,
+                5,
+                1,
+                0,
+                1,
+                5
+            ]
+        },
+        {
+            "name": "needNumArr",
+            "type": "value",
+            "value": [
+                100,
+                200,
+                1000,
+                100,
+                1000,
+                200
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "CompleteStory",
+            "type": "send",
+            "cmdId": "41801",
+            "args": [
+                "44",
+                "arg"
+            ]
+        }
+    ]
+}

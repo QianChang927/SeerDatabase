@@ -1,0 +1,39 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            207080,
+            125166
+        ],
+        "bit": [
+            1000635
+        ]
+    },
+    "values": [
+        {
+            "name": "daily_207080",
+            "type": "common",
+            "valueId": 207080
+        },
+        {
+            "name": "forever_125166",
+            "type": "common",
+            "valueId": 125166
+        },
+        {
+            "name": "bit_1000635",
+            "type": "common",
+            "valueId": 1000635
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "41950",
+            "args": [
+                "66",
+                "arg"
+            ]
+        }
+    ]
+}

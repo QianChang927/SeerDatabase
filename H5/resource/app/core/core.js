@@ -39732,7 +39732,7 @@ KTool = function() {
     },
     t.checkHasAdvanced = function(e, n, r) {
         return new Promise(function(o, i) {
-            if (e && e.effectList) {
+            if (e && 3729 == e.id && (n = e.id, r = e.catchTime), e && e.effectList && 3729 != e.id) {
                 for (var s = e.effectList,
                 a = 0; a < s.length; a++) {
                     var _ = s[a];

@@ -276,7 +276,7 @@ function(t) {
                     case 2:
                         return r.sent(),
                         egret.setTimeout(function() {
-                            for (var t = 0; t < i.length; t++) {
+                            for (var t = 0; t < i.length; t++) if (t < n.listChapter.numChildren) {
                                 var r = n.listChapter.getChildAt(t);
                                 if (r.data.ID == e["new"]) {
                                     r.selected = !0,

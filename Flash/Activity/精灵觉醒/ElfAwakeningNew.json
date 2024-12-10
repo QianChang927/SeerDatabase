@@ -1,0 +1,76 @@
+{
+    "dataSource": {},
+    "values": [],
+    "actions": [
+        {
+            "name": "alarm",
+            "type": "alarm",
+            "value": "请将$设为首发精灵！"
+        },
+        {
+            "name": "alarm1",
+            "type": "alarm",
+            "value": "最多选择4项试炼印记！"
+        },
+        {
+            "name": "alarm2",
+            "type": "alarm",
+            "value": "今日挑战剩余次数不足！"
+        },
+        {
+            "name": "alarm4",
+            "type": "alarm",
+            "value": "请将$精灵放入出战背包！"
+        },
+        {
+            "name": "alarm5",
+            "type": "alarm",
+            "value": "已经拥有该精灵"
+        },
+        {
+            "name": "alarm6",
+            "type": "alarm",
+            "value": "时光密钥数量不足！"
+        },
+        {
+            "name": "alarm7",
+            "type": "alarm",
+            "value": "$已完成觉醒！"
+        },
+        {
+            "name": "alarm8",
+            "type": "alarm",
+            "value": "$数量不足！"
+        },
+        {
+            "name": "alert",
+            "type": "alert",
+            "value": "是否消耗传承密钥*1开启觉醒？"
+        },
+        {
+            "name": "alert1",
+            "type": "alert",
+            "value": "是否消耗时光密钥*1开启觉醒？"
+        },
+        {
+            "name": "alert2",
+            "type": "alert",
+            "value": "是否关闭当前试炼？关闭后时光密钥不会返还\n试炼进度不会重置，再次开启会额外消耗密钥继续试炼"
+        },
+        {
+            "name": "alert3",
+            "type": "alert",
+            "value": "当前扫荡奖励倍率为$%\n是否扫荡？"
+        },
+        {
+            "name": "alert4",
+            "type": "alert",
+            "value": "$不为首发精灵\n是否前往背包设置？"
+        },
+        {
+            "name": "alert5",
+            "type": "alert",
+            "value": "是否消耗$个$获得$？"
+        }
+    ]
+}

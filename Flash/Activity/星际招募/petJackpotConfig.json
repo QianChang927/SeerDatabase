@@ -1,0 +1,298 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            109700,
+            109701,
+            109702,
+            109703,
+            109704,
+            109706,
+            109707,
+            109708,
+            109709,
+            109710,
+            109711,
+            109712,
+            109713,
+            109714,
+            109715,
+            109716,
+            109717,
+            109718,
+            109719,
+            109720,
+            109721,
+            109722,
+            109723,
+            109724,
+            109725,
+            109726,
+            109727,
+            109728,
+            109729,
+            109730,
+            109731,
+            109732,
+            109733,
+            109734,
+            109735,
+            1097036,
+            109737,
+            109738,
+            109739,
+            30008,
+            120710,
+            201587
+        ],
+        "bit": [
+            11402,
+            2000048,
+            2000049,
+            2000050,
+            2000052
+        ],
+        "item": [
+            1723167,
+            1723168,
+            1723169,
+            1723170
+        ]
+    },
+    "values": [
+        {
+            "name": "comId",
+            "type": "value",
+            "value": [
+                43327
+            ]
+        },
+        {
+            "name": "weekltbitbuf_2000052",
+            "type": "common",
+            "valueId": 2000052
+        },
+        {
+            "name": "freeNum",
+            "type": "common",
+            "valueId": 201587
+        },
+        {
+            "name": "curState",
+            "type": "common",
+            "valueId": 109715
+        },
+        {
+            "name": "payNum_0",
+            "type": "common",
+            "valueId": 109707
+        },
+        {
+            "name": "payNum_1",
+            "type": "common",
+            "valueId": 109708
+        },
+        {
+            "name": "getPetNum_0",
+            "type": "common",
+            "valueId": 109703
+        },
+        {
+            "name": "getPetNum_1",
+            "type": "common",
+            "valueId": 109702
+        },
+        {
+            "name": "getPetNum_2",
+            "type": "common",
+            "valueId": 109701
+        },
+        {
+            "name": "getPetNum_3",
+            "type": "common",
+            "valueId": 109704
+        },
+        {
+            "name": "requireNumArr",
+            "type": "value",
+            "value": [
+                80,
+                140,
+                180,
+                300
+            ]
+        },
+        {
+            "name": "gailvAllNum_0",
+            "type": "common",
+            "valueId": 30008
+        },
+        {
+            "name": "gailvAllNum_1",
+            "type": "common",
+            "valueId": 109713
+        },
+        {
+            "name": "playAllNum_0",
+            "type": "common",
+            "valueId": 120710
+        },
+        {
+            "name": "itemNum_0",
+            "type": "common",
+            "valueId": 1723167
+        },
+        {
+            "name": "itemNum_1",
+            "type": "common",
+            "valueId": 1723168
+        },
+        {
+            "name": "itemNumCailiao_0",
+            "type": "common",
+            "valueId": 1723169
+        },
+        {
+            "name": "itemNumCailiao_1",
+            "type": "common",
+            "valueId": 1723170
+        },
+        {
+            "name": "shopBuyState_0",
+            "type": "common",
+            "valueId": 2000048
+        },
+        {
+            "name": "shopBuyState_1",
+            "type": "common",
+            "valueId": 2000049
+        },
+        {
+            "name": "shopBuyState_2",
+            "type": "common",
+            "valueId": 2000050
+        },
+        {
+            "name": "shopBuyState_3",
+            "type": "common",
+            "valueId": 11402
+        },
+        {
+            "name": "getPetId0_0",
+            "type": "common",
+            "valueId": 109716
+        },
+        {
+            "name": "getPetId0_1",
+            "type": "common",
+            "valueId": 109717
+        },
+        {
+            "name": "getPetId0_2",
+            "type": "common",
+            "valueId": 109718
+        },
+        {
+            "name": "getPetId0_3",
+            "type": "common",
+            "valueId": 109719
+        },
+        {
+            "name": "getPetId0_4",
+            "type": "common",
+            "valueId": 109720
+        },
+        {
+            "name": "getPetId1_0",
+            "type": "common",
+            "valueId": 109721
+        },
+        {
+            "name": "getPetId1_1",
+            "type": "common",
+            "valueId": 109722
+        },
+        {
+            "name": "getPetId1_2",
+            "type": "common",
+            "valueId": 109723
+        },
+        {
+            "name": "getPetId1_3",
+            "type": "common",
+            "valueId": 109724
+        },
+        {
+            "name": "getPetId1_4",
+            "type": "common",
+            "valueId": 109725
+        },
+        {
+            "name": "getPetsIsReturn",
+            "type": "common",
+            "valueId": 109726
+        },
+        {
+            "name": "getPetsIsOk",
+            "type": "common",
+            "valueId": 109727
+        },
+        {
+            "name": "returnNumArr",
+            "type": "value",
+            "value": [
+                7,
+                4,
+                1,
+                1
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "buyItem_0",
+            "num": 0,
+            "type": "buy",
+            "exchangeID": "10348",
+            "productID": 258504,
+            "itemID": 1723167,
+            "tip": "购买常规抽卡物品"
+        },
+        {
+            "name": "buyItem_1",
+            "num": 0,
+            "type": "buy",
+            "exchangeID": "10348",
+            "productID": 258505,
+            "itemID": 1723168,
+            "tip": "购买限定抽卡物品"
+        },
+        {
+            "name": "shopBuy_0",
+            "num": 1,
+            "type": "buy",
+            "productID": 258506,
+            "tip": "商店购买1"
+        },
+        {
+            "name": "shopBuy_1",
+            "num": 1,
+            "type": "buy",
+            "productID": 258507,
+            "tip": "商店购买2"
+        },
+        {
+            "name": "shopBuy_2",
+            "num": 1,
+            "type": "buy",
+            "productID": 258508,
+            "tip": "商店购买3"
+        },
+        {
+            "name": "shopBuy_3",
+            "num": 1,
+            "type": "buy",
+            "productID": 258509,
+            "tip": "商店购买4"
+        }
+    ]
+}

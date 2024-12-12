@@ -1,0 +1,346 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            105540,
+            105541,
+            105542,
+            105543,
+            105544,
+            105545,
+            105546,
+            105547,
+            105548,
+            105549,
+            105550,
+            105551,
+            105552,
+            105563,
+            105564,
+            105565,
+            105566,
+            105567,
+            105568,
+            105569,
+            105570,
+            105571,
+            105572,
+            105573,
+            105574,
+            105575,
+            105576,
+            105577,
+            105578,
+            105579,
+            105580,
+            105581,
+            105582,
+            105583,
+            105584,
+            105585,
+            105586,
+            105587,
+            105588,
+            105589,
+            105590,
+            105591,
+            105592,
+            105593,
+            105594,
+            30011,
+            105597,
+            30012,
+            30013,
+            30014
+        ],
+        "bit": [
+            12012
+        ],
+        "item": [
+            1723255,
+            1723291,
+            1723256,
+            1723292
+        ]
+    },
+    "values": [
+        {
+            "name": "comId",
+            "type": "value",
+            "value": [
+                43328
+            ]
+        },
+        {
+            "name": "decomposeGetArr",
+            "type": "value",
+            "value": [
+                250,
+                100,
+                25,
+                5,
+                2
+            ]
+        },
+        {
+            "name": "curStates",
+            "type": "common",
+            "valueId": 105540
+        },
+        {
+            "name": "itemNum1_0",
+            "type": "common",
+            "valueId": 1723255
+        },
+        {
+            "name": "itemNum1_1",
+            "type": "common",
+            "valueId": 1723291
+        },
+        {
+            "name": "itemsPice1",
+            "type": "value",
+            "value": [
+                20,
+                200
+            ]
+        },
+        {
+            "name": "itemsProId1",
+            "type": "value",
+            "value": [
+                258469,
+                258470
+            ]
+        },
+        {
+            "name": "decompose1",
+            "type": "common",
+            "valueId": 105541
+        },
+        {
+            "name": "addChouNum1",
+            "type": "common",
+            "valueId": 105542
+        },
+        {
+            "name": "result1_0",
+            "type": "common",
+            "valueId": 105543
+        },
+        {
+            "name": "result1_1",
+            "type": "common",
+            "valueId": 105544
+        },
+        {
+            "name": "result1_2",
+            "type": "common",
+            "valueId": 105545
+        },
+        {
+            "name": "result1_3",
+            "type": "common",
+            "valueId": 105546
+        },
+        {
+            "name": "result1_4",
+            "type": "common",
+            "valueId": 105547
+        },
+        {
+            "name": "result1_5",
+            "type": "common",
+            "valueId": 105548
+        },
+        {
+            "name": "result1_6",
+            "type": "common",
+            "valueId": 105549
+        },
+        {
+            "name": "result1_7",
+            "type": "common",
+            "valueId": 105550
+        },
+        {
+            "name": "result1_8",
+            "type": "common",
+            "valueId": 105551
+        },
+        {
+            "name": "result1_9",
+            "type": "common",
+            "valueId": 105552
+        },
+        {
+            "name": "exchangeLog1_0",
+            "type": "common",
+            "valueId": 105563
+        },
+        {
+            "name": "exchangeLog1_1",
+            "type": "common",
+            "valueId": 105564
+        },
+        {
+            "name": "exchangeLog1_2",
+            "type": "common",
+            "valueId": 105565
+        },
+        {
+            "name": "exchangeLog1_3",
+            "type": "common",
+            "valueId": 105566
+        },
+        {
+            "name": "exchangeLog1_4",
+            "type": "common",
+            "valueId": 105567
+        },
+        {
+            "name": "shopExchangeNum_0_0",
+            "type": "common",
+            "valueId": 30011
+        },
+        {
+            "name": "shopExchangeNum_0_1",
+            "type": "common",
+            "valueId": 30013
+        },
+        {
+            "name": "shopExchangeNum_0_2",
+            "type": "common",
+            "valueId": 30014
+        },
+        {
+            "name": "itemNum2_0",
+            "type": "common",
+            "valueId": 1723256
+        },
+        {
+            "name": "itemNum2_1",
+            "type": "common",
+            "valueId": 1723292
+        },
+        {
+            "name": "itemsPice2",
+            "type": "value",
+            "value": [
+                20,
+                200
+            ]
+        },
+        {
+            "name": "itemsProId2",
+            "type": "value",
+            "value": [
+                258471,
+                258472
+            ]
+        },
+        {
+            "name": "decompose2",
+            "type": "common",
+            "valueId": 105568
+        },
+        {
+            "name": "addChouNum2",
+            "type": "common",
+            "valueId": 105569
+        },
+        {
+            "name": "result2_0",
+            "type": "common",
+            "valueId": 105570
+        },
+        {
+            "name": "result2_1",
+            "type": "common",
+            "valueId": 105571
+        },
+        {
+            "name": "result2_2",
+            "type": "common",
+            "valueId": 105572
+        },
+        {
+            "name": "result2_3",
+            "type": "common",
+            "valueId": 105573
+        },
+        {
+            "name": "result2_4",
+            "type": "common",
+            "valueId": 105574
+        },
+        {
+            "name": "result2_5",
+            "type": "common",
+            "valueId": 105575
+        },
+        {
+            "name": "result2_6",
+            "type": "common",
+            "valueId": 105576
+        },
+        {
+            "name": "result2_7",
+            "type": "common",
+            "valueId": 105577
+        },
+        {
+            "name": "result2_8",
+            "type": "common",
+            "valueId": 105578
+        },
+        {
+            "name": "result2_9",
+            "type": "common",
+            "valueId": 105579
+        },
+        {
+            "name": "exchangeLog2_0",
+            "type": "common",
+            "valueId": 105590
+        },
+        {
+            "name": "exchangeLog2_1",
+            "type": "common",
+            "valueId": 105591
+        },
+        {
+            "name": "exchangeLog2_2",
+            "type": "common",
+            "valueId": 105592
+        },
+        {
+            "name": "exchangeLog2_3",
+            "type": "common",
+            "valueId": 105593
+        },
+        {
+            "name": "exchangeLog2_4",
+            "type": "common",
+            "valueId": 105594
+        },
+        {
+            "name": "shopExchangeNum_1",
+            "type": "common",
+            "valueId": 105597
+        },
+        {
+            "name": "newBit",
+            "type": "common",
+            "valueId": 30012
+        }
+    ],
+    "actions": [
+        {
+            "name": "helpDaQiao",
+            "num": 1,
+            "type": "buy",
+            "productID": 258314,
+            "tip": "全民助力——RT20"
+        }
+    ]
+}

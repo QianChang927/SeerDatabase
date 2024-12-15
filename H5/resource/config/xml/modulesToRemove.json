@@ -9426,6 +9426,31 @@
                 "tip": "活动已结束"
             },
             {
+                "name": "【20241213】光之守望",
+                "moduleName": "app/JieLuoEnCompletePanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241213】解密古老磁盘",
+                "moduleName": "app/DecryptAncientDiskMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241213】解析神秘日志",
+                "moduleName": "app/AnalysisAnnualFeeLogMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241213】传说中的秘宝",
+                "moduleName": "app/IceAndSnowFestivalSecondBombMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241213】星际座驾折扣售卖",
+                "moduleName": "app/VehicleDiscountedSalesMainPanel",
+                "tip": "活动已结束"
+            },
+            {
                 "name": "赛尔竞技场",
                 "moduleName": "app/SeerPVPArenaMainPanel",
                 "tip": "活动已结束"

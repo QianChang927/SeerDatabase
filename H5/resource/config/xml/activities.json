@@ -17501,6 +17501,58 @@
                     "Title": "唤醒伊塔的记忆",
                     "Redirect": "module",
                     "Go": "app/WakeupYiTaOfMemoryMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4700
+                    },
+                    "ID": 3386,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20241206,
+                    "End": "*",
+                    "Map": 1709,
+                    "Name": "机械戍守 能源之心",
+                    "Title": "米格罗斯",
+                    "Redirect": "module",
+                    "Go": "app/SpetMiGeLuoSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3387,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241206,
+                    "End": "*",
+                    "Map": 1709,
+                    "Name": "特别调查任务",
+                    "Title": "穿越千年的呼唤",
+                    "Redirect": "module",
+                    "Go": "app/MapStorySeriesGuide"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3388,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241206,
+                    "End": "*",
+                    "Map": 1709,
+                    "Name": "锋雪试剑录",
+                    "Title": "群英荟萃",
+                    "Redirect": "map|module",
+                    "Go": "1;app/MainLineAdventureChapterPanel&&150002"
                 }
             ]
         },
@@ -55419,6 +55471,91 @@
                     "Title": "道具回收系统更新",
                     "Redirect": "map|module",
                     "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3380,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241129,
+                    "End": 2024121310,
+                    "Map": 103,
+                    "Name": "杰洛恩完全体售卖",
+                    "Title": "光之守望",
+                    "Redirect": "map|module",
+                    "Go": "103;app/JieLuoEnCompletePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3394,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241206,
+                    "End": 2024121310,
+                    "Map": 1709,
+                    "Name": "解密古老磁盘",
+                    "Title": "解密古老磁盘",
+                    "Redirect": "module",
+                    "Go": "app/DecryptAncientDiskMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3392,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241206,
+                    "End": 2024121310,
+                    "Map": 1709,
+                    "Name": "解析神秘日志",
+                    "Title": "解析神秘日志",
+                    "Redirect": "module",
+                    "Go": "app/AnalysisAnnualFeeLogMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3393,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241206,
+                    "End": 2024121310,
+                    "Map": 103,
+                    "Name": "星际座驾折扣售卖",
+                    "Title": "星际座驾折扣售卖",
+                    "Redirect": "map|module",
+                    "Go": "103;app/VehicleDiscountedSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3389,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241206,
+                    "End": 2024121310,
+                    "Map": 1709,
+                    "Name": "传说中的秘宝",
+                    "Title": "传说中的秘宝",
+                    "Redirect": "module",
+                    "Go": "app/IceAndSnowFestivalSecondBombMainPanel"
                 }
             ],
             "_text": [
@@ -55585,23 +55722,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3380,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241129,
-                    "End": 2024121310,
-                    "Map": 103,
-                    "Name": "杰洛恩完全体售卖",
-                    "Title": "光之守望",
-                    "Redirect": "map|module",
-                    "Go": "103;app/JieLuoEnCompletePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3382,
                     "isNew": 1,
                     "kinds": 1,
@@ -55650,75 +55770,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4700
-                    },
-                    "ID": 3386,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20241206,
-                    "End": "*",
-                    "Map": 1709,
-                    "Name": "机械戍守 能源之心",
-                    "Title": "米格罗斯",
-                    "Redirect": "module",
-                    "Go": "app/SpetMiGeLuoSiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3387,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241206,
-                    "End": "*",
-                    "Map": 1709,
-                    "Name": "特别调查任务",
-                    "Title": "穿越千年的呼唤",
-                    "Redirect": "module",
-                    "Go": "app/MapStorySeriesGuide"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3388,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241206,
-                    "End": "*",
-                    "Map": 1709,
-                    "Name": "锋雪试剑录",
-                    "Title": "群英荟萃",
-                    "Redirect": "map|module",
-                    "Go": "1;app/MainLineAdventureChapterPanel&&150002"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3389,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241206,
-                    "End": 2024121310,
-                    "Map": 1709,
-                    "Name": "传说中的秘宝",
-                    "Title": "传说中的秘宝",
-                    "Redirect": "module",
-                    "Go": "app/IceAndSnowFestivalSecondBombMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3390,
@@ -55736,57 +55787,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3392,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241206,
-                    "End": 2024121310,
-                    "Map": 1709,
-                    "Name": "解析年费日志",
-                    "Title": "解析神秘日志",
-                    "Redirect": "module",
-                    "Go": "app/AnalysisAnnualFeeLogMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3393,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241206,
-                    "End": 2024121310,
-                    "Map": 103,
-                    "Name": "星际座驾折扣售卖",
-                    "Title": "星际座驾折扣售卖",
-                    "Redirect": "map|module",
-                    "Go": "103;app/VehicleDiscountedSalesMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3394,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241206,
-                    "End": 2024121310,
-                    "Map": 1709,
-                    "Name": "解密古老磁盘",
-                    "Title": "解密古老磁盘",
-                    "Redirect": "module",
-                    "Go": "app/DecryptAncientDiskMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3395,
@@ -55801,6 +55801,178 @@
                     "Title": "契约召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3396,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241213,
+                    "End": "*",
+                    "Map": 1712,
+                    "Name": "锋雪试剑录",
+                    "Title": "歧路亡羊",
+                    "Redirect": "map|module",
+                    "Go": "1712;app/MainLineAdventureChapterPanel&&150003"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3397,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241213,
+                    "End": 2024122710,
+                    "Map": 1712,
+                    "Name": "赫尔卡集合面板",
+                    "Title": "重返赫尔卡 第一期",
+                    "Redirect": "map|module",
+                    "Go": "1712;app/ComebackHeErKaGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3398,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241213,
+                    "End": 2024122710,
+                    "Map": 1652,
+                    "Name": "空元行者即将离开",
+                    "Title": "空元行者即将离开",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/Year2024PetLeaveSoonMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3399,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241213,
+                    "End": 2025021410,
+                    "Map": 1712,
+                    "Name": "时空之门的研究",
+                    "Title": "破译时空之门",
+                    "Redirect": "map|module",
+                    "Go": "1712;app/TimeSpaceDoorStudyNO1MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3400,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241213,
+                    "End": "*",
+                    "Map": 1712,
+                    "Name": "年费个人故事",
+                    "Title": "机械与少女",
+                    "Redirect": "map|module",
+                    "Go": "1712;app/MainLineAdventureChapterPanel&&160001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3401,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241213,
+                    "End": 2024122010,
+                    "Map": 1712,
+                    "Name": "探秘水银湖生命",
+                    "Title": "探秘水银湖生命",
+                    "Redirect": "map",
+                    "Go": 1712
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4702
+                    },
+                    "ID": 3402,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20241213,
+                    "End": "*",
+                    "Map": 1712,
+                    "Name": "雪域战魂 秘境守护者",
+                    "Title": "霜寂锁灵",
+                    "Redirect": "map|module",
+                    "Go": "1712;app/SpetShuangJiSuoLingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3403,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241213,
+                    "End": 2024122010,
+                    "Map": 1712,
+                    "Name": "雪山下的对决",
+                    "Title": "雪山下的对决",
+                    "Redirect": "map|module",
+                    "Go": "1712;app/IceSnowFestivalPetAMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3404,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241213,
+                    "End": 2024122710,
+                    "Map": 103,
+                    "Name": "拉伯克皮肤售卖",
+                    "Title": "暖阳礼遇",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AiBoLaKeSkinSellPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4703
+                    },
+                    "ID": 3405,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20241213,
+                    "End": 2024122010,
+                    "Map": 1712,
+                    "Name": "探秘水银湖生命",
+                    "Title": "波波鱼",
+                    "Redirect": "map",
+                    "Go": 1712
                 },
                 {
                     "Details": {
@@ -55870,8 +56042,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3390,3393,3395,3380,3382",
-            "shopcenter": "2274:1,1687:3,3391:21,3390:13,3393:18,3395:20,3376:9,3380:10,3382:17,3369:14,3353:15,3347:12,3309:47,3269:43,3148:16"
+            "Important": "3390,3404,3395,3398,3382",
+            "shopcenter": "2274:1,1687:3,3391:21,3398:10,3404:18,3390:13,3395:20,3376:9,3382:17,3369:14,3353:15,3347:12,3309:47,3269:43,3148:16"
         }
     }
 }

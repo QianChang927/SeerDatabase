@@ -7207,6 +7207,24 @@
                 "NewMsglogId": 2412060700,
                 "SeMsglog": 2412060701,
                 "EffectMsglog": 2412060702
+            },
+            {
+                "ID": 2400439,
+                "show": 1,
+                "Name": "霜寂锁灵因子",
+                "MonsterID": 4702,
+                "Rarity": 2,
+                "PetLimit": 1,
+                "PetConsume": 400,
+                "NewSeIdx": 6207,
+                "effectId": 1906,
+                "NewseConsume": 200,
+                "MoveID": 37705,
+                "MovesConsume": 100,
+                "NeedmonID": 0,
+                "NewMsglogId": 2412130600,
+                "SeMsglog": 2412130601,
+                "EffectMsglog": 2412130602
             }
         ]
     }

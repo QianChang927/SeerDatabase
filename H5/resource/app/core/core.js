@@ -2187,7 +2187,7 @@ EffectInfo = function(t) {
                 }
             }
         }
-        if (t) for (r = 0; r < t.length; r++) n = n.split("{" + r + "}").join(e[r]);
+        if (t) for (r = 0; r < t.length; r++)"" != n && null != n && (n = n.split("{" + r + "}").join(e[r]));
         return n
     },
     e.prototype.getCommParamStr = function(t, e) {
@@ -12814,7 +12814,8 @@ EmailXmlController = function() {
         o && ("url" === o.type ? t._openUrl(o, n, r) : Alarm.show("敬请期待！"))
     },
     t._openUrl = function(t, e, n) {
-        core.gameUtil.OpenUrl(t._text)
+        var r = t._text.replace("$", "");
+        core.gameUtil.OpenUrl(r)
     },
     t
 } ();
@@ -39732,7 +39733,7 @@ KTool = function() {
     },
     t.checkHasAdvanced = function(e, n, r) {
         return new Promise(function(o, i) {
-            if (e && 3729 == e.id && (n = e.id, r = e.catchTime), e && e.effectList && 3729 != e.id) {
+            if (e && 3729 == e.id && (n = e.id, r = e.catchTime, e = null), e && e.effectList) {
                 for (var s = e.effectList,
                 a = 0; a < s.length; a++) {
                     var _ = s[a];

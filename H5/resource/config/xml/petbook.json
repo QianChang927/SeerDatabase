@@ -1203,28 +1203,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4700,
-                        "ImageID": 4700,
+                        "ID": 4702,
+                        "ImageID": 4702,
                         "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/SpetMiGeLuoSiMainPanel"
+                        "Redirect": "map|module",
+                        "Go": "1712;app/SpetShuangJiSuoLingMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4701,
-                        "ImageID": 4701,
+                        "ID": 4703,
+                        "ImageID": 4703,
                         "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/IceAndSnowFestivalSecondBombMainPanel"
+                        "Redirect": "map",
+                        "Go": 1712
                     },
                     {
                         "type": 1,
-                        "ID": 677,
-                        "MonID": 4663,
-                        "ImageID": 1400677,
+                        "ID": 678,
+                        "MonID": 4333,
+                        "ImageID": 1400678,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/AiBoLaKeSkinSellPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49718,6 +49718,28 @@
                 "Features": "霜爪雪貂具有十分敏锐的嗅觉，在空气纯净的雪地中能够噢到任何宝藏的气味！",
                 "Redirect": "module",
                 "Go": "app/IceAndSnowFestivalSecondBombMainPanel"
+            },
+            {
+                "ID": 4702,
+                "DefName": "霜寂锁灵",
+                "Type": "混沌 冰",
+                "Height": 276,
+                "Weight": 112,
+                "Features": "传说中在古老秘境守护着宝物的雪山巨人终于现身，失去理智的它将用寒冰之力消灭所有入侵者！",
+                "Redirect": "map|module",
+                "Go": "1712;app/SpetShuangJiSuoLingMainPanel",
+                "jumptarget": "151/235",
+                "Target": "153201/235"
+            },
+            {
+                "ID": 4703,
+                "DefName": "波波鱼",
+                "Type": "电",
+                "Height": 45,
+                "Weight": 18,
+                "Features": "赫尔卡星的本土鱼类，据生物研究证明其拥有难以想象的环境适应力和进化潜力，这或许就是其种族能够留存至今的关键所在。",
+                "Redirect": "map",
+                "Go": 1712
             }
         ]
     }

@@ -1,0 +1,80 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            11913,
+            105811
+        ],
+        "item": [
+            1726484,
+            1726485,
+            1726486,
+            1726487,
+            1726488,
+            1726489
+        ]
+    },
+    "values": [
+        {
+            "name": "daily_11913",
+            "type": "common",
+            "valueId": 11913
+        },
+        {
+            "name": "daily_11913byte1",
+            "type": "url",
+            "value": "11913.1~8"
+        },
+        {
+            "name": "getArr",
+            "type": "url",
+            "value": "105811.1~4|105811.5~8|105811.9~12|105811.13~16|105811.17~20|105811.21~24|105811.25~28"
+        },
+        {
+            "name": "itemCount1",
+            "type": "url",
+            "value": "1726484"
+        },
+        {
+            "name": "itemCount2",
+            "type": "url",
+            "value": "1726485"
+        },
+        {
+            "name": "itemCount3",
+            "type": "url",
+            "value": "1726486"
+        },
+        {
+            "name": "itemCount4",
+            "type": "url",
+            "value": "1726487"
+        },
+        {
+            "name": "itemCount5",
+            "type": "url",
+            "value": "1726488"
+        },
+        {
+            "name": "itemCount6",
+            "type": "url",
+            "value": "1726489"
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "45850",
+            "args": [
+                "31",
+                "arg"
+            ]
+        },
+        {
+            "name": "petCheck",
+            "type": "petfirst",
+            "value": "请将精灵置于背包首发位置。",
+            "petid": "4703"
+        }
+    ]
+}

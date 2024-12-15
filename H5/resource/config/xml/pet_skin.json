@@ -11054,7 +11054,25 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Name": "关银屏",
-                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
+                "Go": "103;app/AiBoLaKeSkinSellPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 678,
+                "MonID": 4333,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 8,
+                "Name": "暖阳礼遇·拉伯克",
+                "Go": "103;app/AiBoLaKeSkinSellPanel",
                 "GoType": "map|module"
             }
         ]

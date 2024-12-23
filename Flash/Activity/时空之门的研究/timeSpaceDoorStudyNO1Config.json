@@ -1,0 +1,78 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            125181,
+            125182,
+            125183,
+            125184
+        ],
+        "bit": [
+            1000638
+        ],
+        "item": [
+            1724548
+        ]
+    },
+    "values": [
+        {
+            "name": "forever_125181",
+            "type": "common",
+            "valueId": 125181
+        },
+        {
+            "name": "forever_125182",
+            "type": "common",
+            "valueId": 125182
+        },
+        {
+            "name": "daily_bitBuff_1000638",
+            "type": "common",
+            "valueId": 1000638
+        },
+        {
+            "name": "forever_125183",
+            "type": "common",
+            "valueId": 125183
+        },
+        {
+            "name": "forever_125184",
+            "type": "common",
+            "valueId": 125184
+        },
+        {
+            "name": "itemNum",
+            "type": "common",
+            "valueId": 1724548
+        },
+        {
+            "name": "comId",
+            "type": "value",
+            "value": [
+                41950
+            ]
+        },
+        {
+            "name": "needNumArr",
+            "type": "value",
+            "value": [
+                100,
+                200,
+                1000,
+                100,
+                1000,
+                200
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "CompleteStory",
+            "type": "send",
+            "cmdId": "41801",
+            "args": [
+                "44",
+                "arg"
+            ]
+        }
+    ]
+}

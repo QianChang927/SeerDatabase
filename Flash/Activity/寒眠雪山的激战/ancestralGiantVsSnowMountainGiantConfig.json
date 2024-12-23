@@ -1,0 +1,59 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            105812,
+            11915
+        ],
+        "item": [
+            1726499
+        ]
+    },
+    "values": [
+        {
+            "name": "daily_11915",
+            "type": "common",
+            "valueId": 11915
+        },
+        {
+            "name": "exchangeState",
+            "type": "common",
+            "valueId": 105812
+        },
+        {
+            "name": "ItemNum",
+            "type": "common",
+            "valueId": 1726499
+        },
+        {
+            "name": "limitNumArr",
+            "type": "value",
+            "value": [
+                1,
+                1,
+                1,
+                5,
+                8,
+                8
+            ]
+        },
+        {
+            "name": "requireNumArr",
+            "type": "value",
+            "value": [
+                10,
+                10,
+                10,
+                2,
+                1,
+                1
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "Tips1",
+            "type": "alarm",
+            "value": "很抱歉，巨人之魄数量不足，快去获得吧！"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            210500,
+            140001,
+            140002
+        ]
+    },
+    "values": [
+        {
+            "name": "forever_140001",
+            "type": "common",
+            "valueId": 140001
+        },
+        {
+            "name": "forever_140002",
+            "type": "common",
+            "valueId": 140002
+        },
+        {
+            "name": "daily_210500",
+            "type": "common",
+            "valueId": 210500
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "45900",
+            "args": [
+                "3",
+                "arg"
+            ]
+        },
+        {
+            "name": "alert1",
+            "type": "alert",
+            "value": "现在离开游戏进度将不会保存，是否确认离开？"
+        }
+    ]
+}

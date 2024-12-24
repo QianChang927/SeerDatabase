@@ -1,0 +1,435 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            18504,
+            18505,
+            18506,
+            101473,
+            101474,
+            101475,
+            101476,
+            101477,
+            18518,
+            101486
+        ],
+        "item": [
+            1716392
+        ]
+    },
+    "values": [
+        {
+            "name": "mainState",
+            "type": "url",
+            "value": "101474"
+        },
+        {
+            "name": "hasPet",
+            "type": "url",
+            "value": "101473.1"
+        },
+        {
+            "name": "petId",
+            "type": "value",
+            "value": "3613"
+        },
+        {
+            "name": "sub1State",
+            "type": "url",
+            "value": "101475"
+        },
+        {
+            "name": "sub2State",
+            "type": "url",
+            "value": "101476.1~8|9~16|17~24"
+        },
+        {
+            "name": "sub2NeedState",
+            "type": "value",
+            "value": [
+                10,
+                5,
+                3
+            ]
+        },
+        {
+            "name": "sub2FightCirNum",
+            "type": "url",
+            "value": "101476.25~32"
+        },
+        {
+            "name": "sub2TotalCirNum",
+            "type": "value",
+            "value": "30"
+        },
+        {
+            "name": "sub3State",
+            "type": "url",
+            "value": "101477.9~13"
+        },
+        {
+            "name": "sub3HasEnergy",
+            "type": "url",
+            "value": "101477.1~8"
+        },
+        {
+            "name": "sub3LeftTime",
+            "type": "url",
+            "value": "18504"
+        },
+        {
+            "name": "sub3TotalTime",
+            "type": "value",
+            "value": "5"
+        },
+        {
+            "name": "sub3Start",
+            "type": "url",
+            "value": "18518"
+        },
+        {
+            "name": "sub3BigState",
+            "type": "url",
+            "value": "101486"
+        },
+        {
+            "name": "powerUpLevel",
+            "type": "url",
+            "value": "18506"
+        },
+        {
+            "name": "powerUpNeedItems",
+            "type": "value",
+            "value": [
+                30,
+                40,
+                60
+            ]
+        },
+        {
+            "name": "powerUpItem",
+            "type": "url",
+            "value": "1716392"
+        },
+        {
+            "name": "powerUpState",
+            "type": "url",
+            "value": "101473.2|101473.3|101473.4"
+        },
+        {
+            "name": "powerUpAwardNum",
+            "type": "value",
+            "value": [
+                1,
+                1,
+                2,
+                2,
+                2,
+                3,
+                3,
+                3,
+                5,
+                5
+            ]
+        },
+        {
+            "name": "powerUpFightNum",
+            "type": "limit",
+            "valueId": 18505,
+            "limit": 2
+        },
+        {
+            "name": "modules",
+            "type": "value",
+            "value": [
+                "MoleculeIntensificationMainPanel",
+                "MoleculeIntensificationSub1Panel",
+                "MoleculeIntensificationSub2Panel",
+                "MoleculeIntensificationSub3Panel",
+                "MoleculeIntensificationPowerUpPanel"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "mainBuy0",
+            "type": "buy",
+            "num": "1",
+            "productID": "253093",
+            "itemID": "1716393"
+        },
+        {
+            "name": "mainBuy1",
+            "type": "buy",
+            "num": "1",
+            "productID": "253094",
+            "itemID": "1716394"
+        },
+        {
+            "name": "mainBuy2",
+            "type": "buy",
+            "num": "1",
+            "productID": "253095",
+            "itemID": "1716395"
+        },
+        {
+            "name": "mainGet",
+            "type": "send",
+            "cmdId": "42365",
+            "args": [
+                "1",
+                "1"
+            ]
+        },
+        {
+            "name": "mainGet1",
+            "type": "send",
+            "cmdId": "42365",
+            "args": [
+                "1",
+                "2"
+            ]
+        },
+        {
+            "name": "sub1Fight",
+            "type": "fight",
+            "value": "12439-12441"
+        },
+        {
+            "name": "sub1BuyOnekey1",
+            "type": "buy",
+            "num": "1",
+            "productID": "253096",
+            "itemID": "1716396"
+        },
+        {
+            "name": "sub1BuyOnekey2",
+            "type": "buy",
+            "num": "1",
+            "productID": "253097",
+            "itemID": "1716397"
+        },
+        {
+            "name": "sub1BuyOnekey3",
+            "type": "buy",
+            "num": "1",
+            "productID": "253098",
+            "itemID": "1716398"
+        },
+        {
+            "name": "sub1Onekey",
+            "type": "send",
+            "cmdId": "42365",
+            "args": [
+                "2",
+                "arg"
+            ]
+        },
+        {
+            "name": "sub1Full",
+            "type": "fullMv",
+            "mvName": "MoleculeIntensificationFull1",
+            "hasSound": "0"
+        },
+        {
+            "name": "sub1Tips1",
+            "type": "priceAlarm",
+            "value": "恭喜你成功通过这一关，现在至尊获得芳馨•茉蕊儿仅需$钻！",
+            "oldItemId": "1716394"
+        },
+        {
+            "name": "sub2Fight",
+            "type": "fight",
+            "value": "12442-12444"
+        },
+        {
+            "name": "sub2BuyOnekey1",
+            "type": "buy",
+            "num": "1",
+            "productID": "253099",
+            "itemID": "1716399"
+        },
+        {
+            "name": "sub2BuyOnekey2",
+            "type": "buy",
+            "num": "1",
+            "productID": "253100",
+            "itemID": "1716400"
+        },
+        {
+            "name": "sub2BuyOnekey3",
+            "type": "buy",
+            "num": "1",
+            "productID": "253101",
+            "itemID": "1716401"
+        },
+        {
+            "name": "sub2Onekey",
+            "type": "send",
+            "cmdId": "42365",
+            "args": [
+                "3",
+                "arg"
+            ]
+        },
+        {
+            "name": "sub2Tips1",
+            "type": "priceAlarm",
+            "value": "恭喜你成功通过这一关，现在至尊获得芳馨•茉蕊儿仅需598钻！",
+            "oldItemId": "1716395"
+        },
+        {
+            "name": "sub2Tips2",
+            "type": "alarm",
+            "value": "没能及时清除全部虫族，拯救生命核心失败！"
+        },
+        {
+            "name": "sub3Fight",
+            "type": "fight",
+            "value": "12445-12446"
+        },
+        {
+            "name": "sub3BuyOnekey1",
+            "type": "buy",
+            "num": "1",
+            "productID": "253107",
+            "itemID": "1716407"
+        },
+        {
+            "name": "sub3BuyOnekey2",
+            "type": "buy",
+            "num": "1",
+            "productID": "253108",
+            "itemID": "1716408"
+        },
+        {
+            "name": "sub3Onekey",
+            "type": "send",
+            "cmdId": "42365",
+            "args": [
+                "4",
+                "arg"
+            ]
+        },
+        {
+            "name": "sub3BuyItem0",
+            "type": "buy",
+            "num": "1",
+            "productID": "253102",
+            "itemID": "1716402"
+        },
+        {
+            "name": "sub3BuyItem1",
+            "type": "buy",
+            "num": "1",
+            "productID": "253103",
+            "itemID": "1716403"
+        },
+        {
+            "name": "sub3BuyItem2",
+            "type": "buy",
+            "num": "1",
+            "productID": "253104",
+            "itemID": "1716404"
+        },
+        {
+            "name": "sub3BuyItem3",
+            "type": "buy",
+            "num": "1",
+            "productID": "253105",
+            "itemID": "1716405"
+        },
+        {
+            "name": "sub3BuyItem4",
+            "type": "buy",
+            "num": "1",
+            "productID": "253106",
+            "itemID": "1716406"
+        },
+        {
+            "name": "sub3Onekey1",
+            "type": "send",
+            "cmdId": "42365",
+            "args": [
+                "5",
+                "arg"
+            ]
+        },
+        {
+            "name": "sub3Tips1",
+            "type": "alarm",
+            "value": "恭喜你成功通过这一关，快去领取芳馨•茉蕊儿吧！"
+        },
+        {
+            "name": "sub3Tips2",
+            "type": "alarm",
+            "value": "多彩裂片必须最后一个被修复！"
+        },
+        {
+            "name": "sub3Tips3",
+            "type": "alarm",
+            "value": "每天只能进行5次修复过程！"
+        },
+        {
+            "name": "sub3Tips4",
+            "type": "alarm",
+            "value": "草系能量已经足够了，赶紧修复裂片吧！"
+        },
+        {
+            "name": "sub3Tips5",
+            "type": "alarm",
+            "value": "你获得了25%的草系能量！"
+        },
+        {
+            "name": "sub3Tips6",
+            "type": "alarm",
+            "value": "你修复了一枚裂片，赶紧再去补充茉蕊儿的植物能量吧！"
+        },
+        {
+            "name": "sub3Tips7",
+            "type": "alarm",
+            "value": "你修复裂片失败~"
+        },
+        {
+            "name": "sub3Tips8",
+            "type": "alarm",
+            "value": "你完成了一次核心修复！"
+        },
+        {
+            "name": "powerUpFight",
+            "type": "fight",
+            "value": "12447-12456"
+        },
+        {
+            "name": "powerUpBuyItem",
+            "type": "buy",
+            "productID": "253109",
+            "itemID": "1716392",
+            "exchangeID": "11353"
+        },
+        {
+            "name": "powerUpExchange",
+            "type": "send",
+            "cmdId": "42365",
+            "args": [
+                "6",
+                "arg"
+            ]
+        },
+        {
+            "name": "firstPet",
+            "type": "petfirst",
+            "value": "请先将芳馨•茉蕊儿放入背包首发！",
+            "petid": "3613"
+        },
+        {
+            "name": "powerUpTips1",
+            "type": "alert",
+            "value": "物品数量不足，是否购买？"
+        },
+        {
+            "name": "powerUpTips2",
+            "type": "alarm",
+            "value": "恭喜你击败了全部对手，完成了本轮试炼！"
+        }
+    ]
+}

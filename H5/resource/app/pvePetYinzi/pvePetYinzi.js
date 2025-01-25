@@ -325,7 +325,7 @@ function(e) {
             }), this.petNumber = this.value.Reward.MonsterID, this.markNum = this.value.Reward.MintMarkID, this._info = config.New_monster_level.getItemsByField("monsterid", ["=="], [this.petNumber])[0], this.specialShow(), this.initRes(), this.currentState = null == this.markNum ? "noMark": "hasMark", this.update()) : console.error("没有活动对应的因子精灵")
         },
         i.prototype.specialShow = function() {
-            103 == e.PvePetYinziConst.DesignID && (this.grp_14year.visible = 0),
+            103 == e.PvePetYinziConst.DesignID && (this.grp_14year.visible = !1),
             105 == e.PvePetYinziConst.DesignID && (this.grp_14year_2.visible = !0)
         },
         i.prototype.addEvent = function() {
@@ -710,10 +710,10 @@ function(e) {
             this.btnGiveUp.visible = a && f,
             this.btnTiaozhan.visible = !this.btnContinue.visible,
             GameInfo.isChecking || (this.btnSaodang.visible = !this.btnGiveUp.visible);
-            var m = f || 0 == v,
-            y = 0 == v ? p: p && f;
-            DisplayUtil.setEnabled(this.btnSaodang, y, !y),
-            DisplayUtil.setEnabled(this.btnTiaozhan, m, !m),
+            var y = f || 0 == v,
+            m = 0 == v ? p: p && f;
+            DisplayUtil.setEnabled(this.btnSaodang, m, !m),
+            DisplayUtil.setEnabled(this.btnTiaozhan, y, !y),
             DisplayUtil.setEnabled(this.btnContinue, f, !f),
             DisplayUtil.setEnabled(this.btnAddTime, 3 != g, 3 == g)
         },
@@ -779,18 +779,31 @@ function(e) {
             this),
             ImageButtonUtil.add(this.btnZhandou,
             function() {
+                egret.lifecycle.stage.touchChildren = !1,
                 SocketConnection.sendByQueue(e.PvePetYinziConst.CMD_CONST[2], [e.PvePetYinziConst.DesignID, t.levelInfo.diffNum],
                 function(i) {
                     var n = i.data,
                     r = n.readUnsignedInt();
                     if (0 == r) SocketConnection.sendByQueue(e.PvePetYinziConst.CMD_CONST[0], [e.PvePetYinziConst.DesignID, t.levelInfo.diffNum],
                     function() {
-                        EventManager.addEventListener(PetFightEvent.ALARM_CLICK, t.failText, t)
+                        EventManager.addEventListener(PetFightEvent.ALARM_CLICK, t.failText, t),
+                        EventManager.addEventListener(PetFightEvent.START_FIGHT,
+                        function() {
+                            egret.lifecycle.stage.touchChildren = !0
+                        },
+                        t)
+                    },
+                    function() {
+                        egret.lifecycle.stage.touchChildren = !0
                     });
                     else {
                         var a = e.DataManager.GetInstance().GetRuleIDInfo(r).CheckTips;
-                        Alarm.show(a)
+                        Alarm.show(a),
+                        egret.lifecycle.stage.touchChildren = !0
                     }
+                },
+                function() {
+                    egret.lifecycle.stage.touchChildren = !0
                 })
             },
             this)
@@ -1696,7 +1709,7 @@ generateEUI.paths["resource/eui_skins/pop/PvePetYinziClearPopSkin.exml"] = windo
             e.size = 18,
             e.text = "999",
             e.textAlign = "center",
-            e.textColor = 12015095,
+            e.textColor = 4252667,
             e.width = 104,
             e.x = 60,
             e.y = 240,
@@ -1805,7 +1818,7 @@ generateEUI.paths["resource/eui_skins/pop/PvePetYinziClearPopSkin.exml"] = windo
         e.source = "common_s9_pop_bg4_png",
         e.visible = !0,
         e.width = 753,
-        e.x = 0,
+        e.x = -1,
         e.y = 0,
         e
     },
@@ -1830,8 +1843,7 @@ generateEUI.paths["resource/eui_skins/pop/PvePetYinziClearPopSkin.exml"] = windo
         return this.rb_1 = e,
         e.groupName = "itemGroup",
         e.value = "1",
-        e.visible = !0,
-        e.x = 40,
+        e.x = 39,
         e.y = 66,
         e.skinName = i,
         e
@@ -1841,8 +1853,7 @@ generateEUI.paths["resource/eui_skins/pop/PvePetYinziClearPopSkin.exml"] = windo
         return this.rb_2 = e,
         e.groupName = "itemGroup",
         e.value = "2",
-        e.visible = !0,
-        e.x = 275,
+        e.x = 276,
         e.y = 66,
         e.skinName = n,
         e
@@ -1853,7 +1864,7 @@ generateEUI.paths["resource/eui_skins/pop/PvePetYinziClearPopSkin.exml"] = windo
         e.groupName = "itemGroup",
         e.value = "3",
         e.visible = !0,
-        e.x = 509,
+        e.x = 511,
         e.y = 66,
         e.skinName = r,
         e

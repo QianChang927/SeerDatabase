@@ -241,6 +241,7 @@ function(e) {
             this.adaptBgByScale(this.bg),
             ImageButtonUtil.add(this.btnGet,
             function() {
+                StatLogger.log("20241220版本系统功能", "活动中心", "点击社区相关【立即前往】按钮"),
                 AnnouncementManager.tempInfo.LatestRecommend.url ? URLNavigationManager.NavigateTo(URLNavigationEnum.Custom, AnnouncementManager.tempInfo.LatestRecommend.url) : URLNavigationManager.NavigateTo(URLNavigationEnum.Bilibili_App_Seer)
             },
             this, !1, !0)

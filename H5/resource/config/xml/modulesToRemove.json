@@ -6261,11 +6261,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20220527】战斗套装限时回归",
-                "moduleName": "app/BattleSuitCollectionSaleMainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20220527】启灵元神限时返场",
                 "moduleName": "app/ReturnOfYuanShenMainPanel",
                 "tip": "活动已结束"
@@ -6968,11 +6963,6 @@
             {
                 "name": "【20230210】能力装扮特惠回归",
                 "moduleName": "app/AbilitySuitSellMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20230210】V10系列刻印返场",
-                "moduleName": "app/V10MarkReturn20230127MianPanel",
                 "tip": "活动已结束"
             },
             {
@@ -8281,11 +8271,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20240105】元旦签到",
-                "moduleName": "app/NewYear2023SignInPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20240112】温泉节主题活动",
                 "moduleName": "app/HotSpringGoToMapMainPanel",
                 "tip": "活动已结束"
@@ -8381,11 +8366,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20240223】春节钻石福袋",
-                "moduleName": "app/SpringFestivalDiamond2019MainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20240223】至序圣华返场",
                 "moduleName": "app/Yearvip2022BackSalePanel",
                 "tip": "活动已结束"
@@ -8438,11 +8418,6 @@
             {
                 "name": "【20240223】神秘俱乐部",
                 "moduleName": "app/SecretClubMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20240301】新春限定许愿",
-                "moduleName": "app/NewYearPetWish2022MainPanel",
                 "tip": "活动已结束"
             },
             {
@@ -8563,11 +8538,6 @@
             {
                 "name": "【20240419】天绝狂煞面板9",
                 "moduleName": "app/MiddleSuckerOfCrazyFightPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20240426】阿尔法熊特训",
-                "moduleName": "app/AlphaBearLimitedTimeUpMainPanel",
                 "tip": "活动已结束"
             },
             {
@@ -8741,11 +8711,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20240705】刻印奖池",
-                "moduleName": "app/MarkJackpotTimeLimitMainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20240705】混元天尊史诗皮肤",
                 "moduleName": "app/TianZunSkinSellMainPanel",
                 "tip": "活动已结束"
@@ -8851,11 +8816,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20240726】夏日特惠宝箱",
-                "moduleName": "app/ElevenDoubleGiftBagMainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20240726】星间探秘 赛尔寻迹",
                 "moduleName": "app/TianWenGuanEnterPanel",
                 "tip": "活动已结束"
@@ -8956,11 +8916,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20240823】2024暑假签到",
-                "moduleName": "app/SummerHolidaySign2024Panel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20240823】2024七夕签到（K13回归）",
                 "moduleName": "app/DiDuoSingupMainPanel",
                 "tip": "活动已结束"
@@ -8988,11 +8943,6 @@
             {
                 "name": "【20240830】秘宝车队",
                 "moduleName": "app/SecretTreasureCarTeamMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20240830】绝版精灵回归",
-                "moduleName": "app/IndianaSpirit0505MainPanel",
                 "tip": "活动已结束"
             },
             {
@@ -9158,16 +9108,6 @@
             {
                 "name": "【20241011】国庆钻石金卡",
                 "moduleName": "app/NationalDayDimandCardMainPanel",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20241011】精灵抗性的新研究",
-                "moduleName": "app/ResistanceItemShop",
-                "tip": "活动已结束"
-            },
-            {
-                "name": "【20241011】一键极品限时折扣",
-                "moduleName": "app/AkeyPriceLimitDiscount20178mPanel",
                 "tip": "活动已结束"
             },
             {
@@ -9436,11 +9376,6 @@
                 "tip": "活动已结束"
             },
             {
-                "name": "【20241213】解析神秘日志",
-                "moduleName": "app/AnalysisAnnualFeeLogMainPanel",
-                "tip": "活动已结束"
-            },
-            {
                 "name": "【20241213】传说中的秘宝",
                 "moduleName": "app/IceAndSnowFestivalSecondBombMainPanel",
                 "tip": "活动已结束"
@@ -9448,6 +9383,191 @@
             {
                 "name": "【20241213】星际座驾折扣售卖",
                 "moduleName": "app/VehicleDiscountedSalesMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241220】雪山下的对决",
+                "moduleName": "app/IceSnowFestivalPetAMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】神谕归来",
+                "moduleName": "app/AdvancedPetBackMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】空元行者即将离开",
+                "moduleName": "app/Year2024PetLeaveSoonMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】暖阳礼遇",
+                "moduleName": "app/AiBoLaKeSkinSellPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】雪夜漫步",
+                "moduleName": "app/AiMuHeiZiSkinSellPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】寒眠雪山的激战",
+                "moduleName": "app/AncestralGiantVsSnowMountainGiantMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】冬日礼物交换",
+                "moduleName": "app/WinterGiftExchangeMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】空元行者",
+                "moduleName": "app/Yearvip2024MainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】斯诺椰",
+                "moduleName": "app/MonthlyPetInJanuary2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】卡米拉",
+                "moduleName": "app/MonthlyPetInFebruary2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】克罗恩",
+                "moduleName": "app/MonthlyPetInMarch2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】贝利弗",
+                "moduleName": "app/MonthlyPetInApril2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】夏厄普",
+                "moduleName": "app/MonthlyPetInMay2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】佩里德",
+                "moduleName": "app/MonthlyPetInJune2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】库恩琪",
+                "moduleName": "app/MonthlyPetInJuly2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】芙拉尔",
+                "moduleName": "app/MonthlyPetInAugust2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】尚克斯",
+                "moduleName": "app/MonthlyPetInSeptember2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】伏奥诺",
+                "moduleName": "app/MonthlyPetInOctober2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】艾瑞吉",
+                "moduleName": "app/MonthlyPetInNovember2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】希尔琳",
+                "moduleName": "app/MonthlyPetInDecember2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2024年费弹窗",
+                "moduleName": "app/YearsVip2024AlertPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2024年费特权",
+                "moduleName": "app/Yearvip2024ExclusivecapacityPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2024年费预约礼包",
+                "moduleName": "app/Yearvip2024YuyueGiftPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2024年费精灵",
+                "moduleName": "app/Yearvip2024GetRewardPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2024年费限定收藏",
+                "moduleName": "app/Yearvip2024LimitedcollectionPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2024年费每月礼包",
+                "moduleName": "app/Yearvip2024MouthGiftPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2024年费每月神宠",
+                "moduleName": "app/VipMouthPet2024Panel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2024年费一键极品",
+                "moduleName": "app/Yearvip2024JpPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2024年费一键极品",
+                "moduleName": "app/Yearvip2024JpPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20241227】2025年费预约",
+                "moduleName": "app/YearlyPetYuYuePanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20250103】祖系新星的试炼",
+                "moduleName": "app/NewYearsDaySpiritPageantMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20250103】欢庆元旦 好礼相送",
+                "moduleName": "app/NewYear2023SignInPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20250110】阿尔法熊限时强化",
+                "moduleName": "app/AlphaBearLimitedTimeUpMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20250110】巅峰S4赛季",
+                "moduleName": "app/PeakJihad2023WarOrdePanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20250117】冬日特惠宝箱",
+                "moduleName": "app/ElevenDoubleGiftBagMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20250117】里里维斯的魔法",
+                "moduleName": "app/KeLaoLiFeiSkinSellMainPanel",
+                "tip": "活动已结束"
+            },
+            {
+                "name": "【20250117】经典萌宠大集结",
+                "moduleName": "app/IndianaSpirit0505MainPanel",
                 "tip": "活动已结束"
             },
             {

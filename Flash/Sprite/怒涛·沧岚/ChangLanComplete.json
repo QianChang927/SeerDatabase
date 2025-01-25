@@ -1,0 +1,464 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            104560,
+            104561,
+            104562,
+            104563,
+            104564,
+            104565,
+            104566,
+            104567,
+            16976,
+            16977
+        ],
+        "item": [
+            1718150
+        ],
+        "player_info": [
+            904
+        ]
+    },
+    "values": [
+        {
+            "name": "petId",
+            "type": "value",
+            "value": "3740"
+        },
+        {
+            "name": "hasPet",
+            "type": "url",
+            "value": "104560.1"
+        },
+        {
+            "name": "subState",
+            "type": "url",
+            "value": "104562.1~2|3~4|5~6|7~8"
+        },
+        {
+            "name": "hasWinNum",
+            "type": "url",
+            "value": "104561"
+        },
+        {
+            "name": "hasWeaken",
+            "type": "url",
+            "value": "104562.13~15"
+        },
+        {
+            "name": "mainFightNum",
+            "type": "limit",
+            "valueId": 16976,
+            "limit": 3
+        },
+        {
+            "name": "sub1State",
+            "type": "url",
+            "value": "104563"
+        },
+        {
+            "name": "sub1NeedState",
+            "type": "value",
+            "value": [
+                0,
+                40,
+                70
+            ]
+        },
+        {
+            "name": "sub1Names",
+            "type": "value",
+            "value": [
+                "侵蚀",
+                "彻骨"
+            ]
+        },
+        {
+            "name": "sub2BossState",
+            "type": "url",
+            "value": "104565"
+        },
+        {
+            "name": "sub2State",
+            "type": "url",
+            "value": "104564"
+        },
+        {
+            "name": "sub2Names",
+            "type": "value",
+            "value": [
+                "无垠",
+                "温养"
+            ]
+        },
+        {
+            "name": "sub3Names",
+            "type": "value",
+            "value": [
+                "叠浪",
+                "浩瀚"
+            ]
+        },
+        {
+            "name": "sub4State",
+            "type": "url",
+            "value": "104566"
+        },
+        {
+            "name": "sub4Names",
+            "type": "value",
+            "value": [
+                "汹涌",
+                "无常"
+            ]
+        },
+        {
+            "name": "sub4End",
+            "type": "url",
+            "value": "904"
+        },
+        {
+            "name": "powerUpLevel",
+            "type": "url",
+            "value": "104567"
+        },
+        {
+            "name": "powerUpNeedItems",
+            "type": "value",
+            "value": [
+                10,
+                15,
+                25
+            ]
+        },
+        {
+            "name": "powerUpItem",
+            "type": "url",
+            "value": "1718150"
+        },
+        {
+            "name": "powerUpState",
+            "type": "url",
+            "value": "104560.2|104560.3|104560.4"
+        },
+        {
+            "name": "powerUpAwardNum",
+            "type": "value",
+            "value": [
+                1,
+                1,
+                1,
+                1,
+                2,
+                2,
+                2,
+                2,
+                3,
+                3
+            ]
+        },
+        {
+            "name": "powerUpFightNum",
+            "type": "limit",
+            "valueId": 16977,
+            "limit": 2
+        },
+        {
+            "name": "modules",
+            "type": "value",
+            "value": [
+                "ChangLanCompleteMainPanel",
+                "ChangLanCompleteSub1Panel",
+                "ChangLanCompleteSub2Panel",
+                "ChangLanCompleteSub3Panel",
+                "ChangLanCompleteSub4Panel",
+                "ChangLanCompletePowerUpPanel"
+            ]
+        }
+    ],
+    "actions": [
+        {
+            "name": "numTips",
+            "type": "alert",
+            "value": "剩余次数不足，是否购买？"
+        },
+        {
+            "name": "mainBuyOnekey",
+            "type": "buy",
+            "num": "1",
+            "productID": "254522",
+            "itemID": "1718151",
+            "cmdId": "43302",
+            "args": [
+                11,
+                1
+            ]
+        },
+        {
+            "name": "mainGet",
+            "type": "send",
+            "cmdId": "43302",
+            "args": [
+                "11",
+                "2"
+            ]
+        },
+        {
+            "name": "mainPlus",
+            "type": "buy",
+            "num": "1",
+            "productID": "254612",
+            "itemID": "1718265",
+            "exchangeID": "12001"
+        },
+        {
+            "name": "mainFight",
+            "type": "fight",
+            "value": "14173"
+        },
+        {
+            "name": "mainBuyOnekey11",
+            "type": "buy",
+            "num": "1",
+            "productID": "254530",
+            "itemID": "1718159"
+        },
+        {
+            "name": "mainBuyOnekey12",
+            "type": "buy",
+            "num": "1",
+            "productID": "254531",
+            "itemID": "1718160"
+        },
+        {
+            "name": "mainBuyOnekey13",
+            "type": "buy",
+            "num": "1",
+            "productID": "254532",
+            "itemID": "1718161"
+        },
+        {
+            "name": "mainOnekey1",
+            "type": "send",
+            "cmdId": "43302",
+            "args": [
+                "12",
+                "arg"
+            ]
+        },
+        {
+            "name": "mainBuyOnekey21",
+            "type": "buy",
+            "num": "1",
+            "productID": "254523",
+            "itemID": "1718152"
+        },
+        {
+            "name": "mainBuyOnekey22",
+            "type": "buy",
+            "num": "1",
+            "productID": "254524",
+            "itemID": "1718153"
+        },
+        {
+            "name": "mainBuyOnekey23",
+            "type": "buy",
+            "num": "1",
+            "productID": "254525",
+            "itemID": "1718154"
+        },
+        {
+            "name": "mainBuyOnekey24",
+            "type": "buy",
+            "num": "1",
+            "productID": "254526",
+            "itemID": "1718155"
+        },
+        {
+            "name": "mainBuyOnekey25",
+            "type": "buy",
+            "num": "1",
+            "productID": "254527",
+            "itemID": "1718156"
+        },
+        {
+            "name": "mainBuyOnekey26",
+            "type": "buy",
+            "num": "1",
+            "productID": "254528",
+            "itemID": "1718157"
+        },
+        {
+            "name": "mainBuyOnekey27",
+            "type": "buy",
+            "num": "1",
+            "productID": "254529",
+            "itemID": "1718158"
+        },
+        {
+            "name": "mainOnekey2",
+            "type": "send",
+            "cmdId": "43302",
+            "args": [
+                "12",
+                "4-10"
+            ]
+        },
+        {
+            "name": "mainTips1",
+            "type": "alarm",
+            "value": "未按条件达成挑战！"
+        },
+        {
+            "name": "mainTips2",
+            "type": "alarm",
+            "value": "恭喜你完成挑战！"
+        },
+        {
+            "name": "mainTips3",
+            "type": "alarm",
+            "value": "恭喜你完成挑战,快去领取精灵吧~"
+        },
+        {
+            "name": "buyPass1",
+            "type": "buy",
+            "num": "1",
+            "productID": "254533",
+            "itemID": "1718162"
+        },
+        {
+            "name": "buyPass2",
+            "type": "buy",
+            "num": "1",
+            "productID": "254534",
+            "itemID": "1718163"
+        },
+        {
+            "name": "buyPass3",
+            "type": "buy",
+            "num": "1",
+            "productID": "254535",
+            "itemID": "1718164"
+        },
+        {
+            "name": "pass",
+            "type": "send",
+            "cmdId": "43302",
+            "args": [
+                "13",
+                "arg"
+            ]
+        },
+        {
+            "name": "sub1Fight",
+            "type": "fight",
+            "value": "14174-14176"
+        },
+        {
+            "name": "sub1Tips1",
+            "type": "alarm",
+            "value": "你完成了此项挑战，并令沧岚获得了$的力量！"
+        },
+        {
+            "name": "sub2Fight",
+            "type": "fight",
+            "value": "14177-14179"
+        },
+        {
+            "name": "sub2Tips1",
+            "type": "alarm",
+            "value": "你完成了此项挑战，并令沧岚获得了$的力量！"
+        },
+        {
+            "name": "sub3Fight",
+            "type": "tryFight",
+            "value": "881"
+        },
+        {
+            "name": "sub3Tips1",
+            "type": "alarm",
+            "value": "你完成了此项挑战，并令沧岚获得了$的力量！"
+        },
+        {
+            "name": "sub4Fight",
+            "type": "fight",
+            "value": "14180-14183"
+        },
+        {
+            "name": "sub4BuyOnekey1",
+            "type": "buy",
+            "num": "1",
+            "productID": "254536",
+            "itemID": "1718165"
+        },
+        {
+            "name": "sub4BuyOnekey2",
+            "type": "buy",
+            "num": "1",
+            "productID": "254537",
+            "itemID": "1718166"
+        },
+        {
+            "name": "sub4Onekey",
+            "type": "send",
+            "cmdId": "43302",
+            "args": [
+                "14",
+                "arg"
+            ]
+        },
+        {
+            "name": "sub4Tips1",
+            "type": "alarm",
+            "value": "你完成了此项挑战，并令沧岚获得了$的力量！"
+        },
+        {
+            "name": "sub4Tips2",
+            "type": "alarm",
+            "value": "战斗失败，两只精灵王均恢复了力量！"
+        },
+        {
+            "name": "powerUpFight",
+            "type": "fight",
+            "value": "14184-14188"
+        },
+        {
+            "name": "powerUpBuyItem",
+            "type": "buy",
+            "productID": "254538",
+            "itemID": "1718150",
+            "exchangeID": "11971"
+        },
+        {
+            "name": "powerUpExchange",
+            "type": "send",
+            "cmdId": "43302",
+            "args": [
+                "15",
+                "arg"
+            ]
+        },
+        {
+            "name": "firstPet1",
+            "type": "petfirst",
+            "value": "请先将沧岚设为首发精灵（仅需拥有，不会被消耗）！",
+            "petid": "3105"
+        },
+        {
+            "name": "firstPet",
+            "type": "petfirst",
+            "value": "请先将怒涛•沧岚放入背包首发！",
+            "petid": "3740"
+        },
+        {
+            "name": "powerUpTips1",
+            "type": "alert",
+            "value": "物品数量不足，是否购买？"
+        },
+        {
+            "name": "powerUpTips2",
+            "type": "alarm",
+            "value": "恭喜你击败了全部对手，完成了本轮试炼！"
+        }
+    ]
+}

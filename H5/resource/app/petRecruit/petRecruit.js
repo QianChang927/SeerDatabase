@@ -2286,6 +2286,7 @@ generateEUI.paths["resource/eui_skins/item/PetRecruitResultItemSkin.exml"] = win
         return this.groupAni = t,
         t.horizontalCenter = 0,
         t.verticalCenter = 0,
+        t.visible = !0,
         t
     },
     i.groupReturn_i = function() {
@@ -2334,7 +2335,7 @@ generateEUI.paths["resource/eui_skins/item/PetRecruitResultItemSkin.exml"] = win
         return this.groupGet = t,
         t.cacheAsBitmap = !0,
         t.horizontalCenter = 0,
-        t.visible = !1,
+        t.visible = !0,
         t.y = 2,
         t.elementsContent = [this.txtName_i(), this.imgIcon_i(), this.imgLevel_i(), this.groupHandle_i(), this.imgNew_i()],
         t
@@ -2396,10 +2397,10 @@ generateEUI.paths["resource/eui_skins/item/PetRecruitResultItemSkin.exml"] = win
     i.imgNew_i = function() {
         var t = new eui.Image;
         return this.imgNew = t,
-        t.right = -8,
+        t.right = -5.8,
         t.source = "pet_recruit_result_item_xinhuode_png",
         t.visible = !0,
-        t.y = 25,
+        t.y = 22,
         t
     },
     e

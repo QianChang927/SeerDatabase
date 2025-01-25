@@ -1203,28 +1203,53 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4702,
-                        "ImageID": 4702,
+                        "ID": 4721,
+                        "ImageID": 4721,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1712;app/SpetShuangJiSuoLingMainPanel"
+                        "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4703,
-                        "ImageID": 4703,
+                        "ID": 4722,
+                        "ImageID": 4722,
                         "Label": 0,
                         "Redirect": "map",
-                        "Go": 1712
+                        "Go": 11925
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4723,
+                        "ImageID": 4723,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 11925
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4724,
+                        "ImageID": 4724,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 11925
                     },
                     {
                         "type": 1,
-                        "ID": 678,
-                        "MonID": 4333,
-                        "ImageID": 1400678,
+                        "ID": 693,
+                        "MonID": 4721,
+                        "ImageID": 1400693,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/AiBoLaKeSkinSellPanel"
+                        "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 694,
+                        "MonID": 4554,
+                        "ImageID": 1400694,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ShengYuXieMoSkinPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -29838,8 +29863,7 @@
                 "Type": "暗影",
                 "Height": 198,
                 "Weight": 98,
-                "Features": "帕诺星系曾经的王者也要超进化了，拥有令人更加害怕的暗影之力，是精灵们最不愿意碰到的对手之一！",
-                "mapID": 1
+                "Features": "帕诺星系曾经的王者也要超进化了，拥有令人更加害怕的暗影之力，是精灵们最不愿意碰到的对手之一！"
             },
             {
                 "ID": 2597,
@@ -49545,9 +49569,7 @@
                 "Type": "混沌 飞行",
                 "Height": 174,
                 "Weight": 55,
-                "Features": "巅峰S4赛季【猎影】开启！乌云蔽空，狩猎暗影，冲破云霄！",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                "Features": "巅峰S4赛季【猎影】开启！乌云蔽空，狩猎暗影，冲破云霄！"
             },
             {
                 "ID": 4686,
@@ -49673,9 +49695,7 @@
                 "Type": "光 飞行",
                 "Height": 178,
                 "Weight": 54,
-                "Features": "杰洛恩在光的照耀下进一步淬炼了双翼，光的精灵终于以完整的姿态现身世间！",
-                "Redirect": "map|module",
-                "Go": "103;app/JieLuoEnCompletePanel"
+                "Features": "杰洛恩在光的照耀下进一步淬炼了双翼，光的精灵终于以完整的姿态现身世间！"
             },
             {
                 "ID": 4698,
@@ -49715,9 +49735,7 @@
                 "Type": "冰 暗影",
                 "Height": 82,
                 "Weight": 27,
-                "Features": "霜爪雪貂具有十分敏锐的嗅觉，在空气纯净的雪地中能够噢到任何宝藏的气味！",
-                "Redirect": "module",
-                "Go": "app/IceAndSnowFestivalSecondBombMainPanel"
+                "Features": "霜爪雪貂具有十分敏锐的嗅觉，在空气纯净的雪地中能够噢到任何宝藏的气味！"
             },
             {
                 "ID": 4702,
@@ -49740,6 +49758,226 @@
                 "Features": "赫尔卡星的本土鱼类，据生物研究证明其拥有难以想象的环境适应力和进化潜力，这或许就是其种族能够留存至今的关键所在。",
                 "Redirect": "map",
                 "Go": 1712
+            },
+            {
+                "ID": 4704,
+                "DefName": "吉甘提卡",
+                "Type": "超能",
+                "Height": 269,
+                "Weight": 143,
+                "Features": "尘封的雪山秘宝突然苏醒，祖系一族的吉甘提卡终于从沉睡中重获天日，拥有强大力量的它将击退所有对它有敌意的“危险分子”！",
+                "Redirect": "map|module",
+                "Go": "1713;app/SpetJiGanTiKaMainPanel",
+                "jumptarget": "151/236",
+                "Target": "153201/236"
+            },
+            {
+                "ID": 4705,
+                "DefName": "塔琳-MKII",
+                "Type": "机械 超能",
+                "Height": 164,
+                "Weight": 42,
+                "Features": "塔琳-MKII是赫尔卡长老特别定制的家政智械，她经过了人格化的改造，配备了先进的情感模块，平日里也充当着奥菲利娅老师的职责。",
+                "Redirect": "map|module",
+                "Go": "1714;app/MainLineAdventureOverview"
+            },
+            {
+                "ID": 4706,
+                "DefName": "奥菲利娅",
+                "Type": "远古 电",
+                "Height": 169,
+                "Weight": 47,
+                "Features": "2025年年费精灵，奥菲利娅，最后的赫尔卡人。她的身上都埋藏着怎样的秘密呢？",
+                "Redirect": "map|module",
+                "Go": "1715;app/Yearvip2025MainPanel"
+            },
+            {
+                "ID": 4707,
+                "DefName": "卡塔·武装型",
+                "Type": "机械 战斗",
+                "Height": 143,
+                "Weight": 69,
+                "Features": "赫尔卡星基于赫卡特改进的先进型武装素体，代号“赫卡忒罗斯”。要完整发挥这具素体的实力，需要搭载融合人格系统。派特博士将其命名为卡塔·武装型。",
+                "Redirect": "map|module",
+                "Go": "1716;app/SpetKaTaWZXMainPanel",
+                "jumptarget": "151/237",
+                "Target": "153201/237"
+            },
+            {
+                "ID": 4708,
+                "DefName": "波尼啵妮",
+                "Type": "水 次元",
+                "Height": 177,
+                "Weight": 46,
+                "Features": "2025年包月精灵，赫星童话之《美人鱼之歌》，故事中有一位热爱收集闪亮石头的人鱼少女，梦想着让这个世界变得更加绚烂。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel"
+            },
+            {
+                "ID": 4709,
+                "DefName": "原始预言·吉尼亚斯",
+                "Type": "圣灵 电",
+                "Height": 147,
+                "Weight": 49,
+                "Features": "无人知晓吉尼亚斯是什么时候诞生的，正如赫星铭刻的预言中所记载，远古而神圣的精灵将永远守护着精灵圣殿。",
+                "Redirect": "map|module",
+                "Go": "1717;app/SpetYSYYJiNiYaSiMainPanel",
+                "jumptarget": "151/238",
+                "Target": "153201/238"
+            },
+            {
+                "ID": 4710,
+                "DefName": "古斯",
+                "Type": "电",
+                "Height": 53,
+                "Weight": 21,
+                "Features": "与吉斯十分相像的古斯只存在于真正的精灵圣殿中，当吉斯在输电过程中遭到损坏，古斯就会以“维修者”的身份出现进行维护。",
+                "Redirect": "map",
+                "Go": 1717
+            },
+            {
+                "ID": 4711,
+                "DefName": "奇塔·解算型",
+                "Type": "机械 超能",
+                "Height": 139,
+                "Weight": 45,
+                "Features": "这具特化素体专供于赫尔卡星的研究室，拥有着赫尔卡文明最强大的智能集成，它90%的时间都与科研主脑链接，进行着数据解析的工作，派特博士将其命名为奇塔·解算型。",
+                "Redirect": "map|module",
+                "Go": "1718;app/SpetQiTaJSXMainPanel",
+                "jumptarget": "151/239",
+                "Target": "153201/239"
+            },
+            {
+                "ID": 4712,
+                "DefName": "龙琰",
+                "Type": "邪灵 龙",
+                "Height": 136,
+                "Weight": 39,
+                "Features": "巅峰S5赛季【湮光】开启！凭依于龙焉的神秘古龙。曾经统治一方，暴虐无道的邪恶龙帝——她是这么自称的。",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihad2023ShopPanel"
+            },
+            {
+                "ID": 4713,
+                "DefName": "伊塔·回溯型",
+                "Type": "机械",
+                "Height": 145,
+                "Weight": 49,
+                "Features": "在奥菲利娅和赛尔号的帮助下，伊塔接受了全面的改造。变得更强大的伊塔，已经迫不及待地准备开启寻找好朋友的冒险了。",
+                "Redirect": "map|module",
+                "Go": "1719;app/SpetYiTaHSXMainPanel",
+                "jumptarget": "151/240",
+                "Target": "153201/240"
+            },
+            {
+                "ID": 4714,
+                "DefName": "古代巨型机器人",
+                "Type": "机械 神秘",
+                "Height": 50000,
+                "Weight": 100000,
+                "Features": "本是承载着未来的钢铁巨人，因赫尔卡人的傲慢而引来灾厄。巨人未能承载文明之耀，它亲手终结了属于智械的时代。",
+                "Redirect": "map|module",
+                "Go": "103;app/AncientGiantRobotsForSaleMainPanel"
+            },
+            {
+                "ID": 4715,
+                "DefName": "希维娜",
+                "Type": "冰 飞行",
+                "Height": 169,
+                "Weight": 47,
+                "Features": "传说中有这么一位寒冰仙子，每到新春伊始她总会在空中起舞，用瑞雪给每一个新年带来冬的祝福。",
+                "Redirect": "module",
+                "Go": "app/SummerHolidaySign2024Panel"
+            },
+            {
+                "ID": 4716,
+                "DefName": "赫尔卡长老",
+                "Type": "电 机械",
+                "Height": 236,
+                "Weight": 106,
+                "Features": "文明即将迎来终末，赫尔卡长老的意识终于再次回到了这具尘封已久的原型素体，为了守护文明的荣光，他必将决战至终焉！",
+                "Redirect": "map|module",
+                "Go": "1720;app/ElderHelkasOutputMainPanel"
+            },
+            {
+                "ID": 4717,
+                "DefName": "原始黑洞·尤纳斯",
+                "Type": "虚空",
+                "Height": "未知",
+                "Weight": "未知",
+                "Features": "当世界的意志投射在拜伦号前，执行与湮灭成为了它唯一的任务，当宇宙法则遭到僭越，原始黑洞将为文明带来无光的终末！",
+                "Redirect": "map|module",
+                "Go": "103;app/BHYunusSellPanel"
+            },
+            {
+                "ID": 4718,
+                "DefName": "渊夜门徒·洛比特",
+                "Type": "暗影",
+                "Height": 146,
+                "Weight": 2.4,
+                "Features": "当渊夜的暗影开始在拜伦号上蔓延，当“祂”的指令带来文明的终焉，于是世界的意志蔓延到卢比身上，渊夜的门徒将为所有人带来永恒的恐惧！",
+                "Redirect": "map",
+                "Go": 11925
+            },
+            {
+                "ID": 4719,
+                "DefName": "巳璟",
+                "Type": "光 超能",
+                "Height": 74,
+                "Weight": 53,
+                "Features": "金蛇舞动报春来，祥云缭绕福满门。被新年热闹气象吸引而来的可爱生灵，它的出现似乎代表着吉祥的预兆。",
+                "Redirect": "map|module",
+                "Go": "1720;app/GoldenEggsNewYearsGreetingsMainPanel"
+            },
+            {
+                "ID": 4720,
+                "DefName": "库里克",
+                "Type": "混沌 地面",
+                "Height": 124,
+                "Weight": 75,
+                "Features": "2025年包月精灵，赫星童话之《黑石的研究》，故事中有一位从天而降的神秘陨石，神奇的构造使它成为了绝佳的研究对象。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel"
+            },
+            {
+                "ID": 4721,
+                "DefName": "黯魂·索比拉特",
+                "Type": "暗影",
+                "Height": 136,
+                "Weight": 2.9,
+                "Features": "当相似但又完全不同的种族出现在眼前，一个大胆的想法得到实现，往日的精灵培育技术带来黯影与幽魂的融合，全新的索比拉特以更强的姿态诞生了！",
+                "Redirect": "map|module",
+                "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
+            },
+            {
+                "ID": 4722,
+                "DefName": "吉古",
+                "Type": "暗影",
+                "Height": 15.1,
+                "Weight": 0.2,
+                "Features": "神秘的暗影系精灵，几乎没有重量，随尤纳斯的降临与波古一同降生在拜伦号上，两者似乎有着某种对称的力量。",
+                "Redirect": "map",
+                "Go": 11925
+            },
+            {
+                "ID": 4723,
+                "DefName": "波拉",
+                "Type": "暗影",
+                "Height": 21.3,
+                "Weight": 0.5,
+                "Features": "吉古的进化形态，伴随着对闇能量的掌控力提升，吉古迎来了自己的新形态。",
+                "Redirect": "map",
+                "Go": 11925
+            },
+            {
+                "ID": 4724,
+                "DefName": "波古拉",
+                "Type": "暗影",
+                "Height": 27.5,
+                "Weight": 1.1,
+                "Features": "波拉在完全掌握了自身的能力后得到了进一步进化，形态的完全转变代表着它对闇能量的操控能力达到了全新的阶段。",
+                "Redirect": "map",
+                "Go": 11925
             }
         ]
     }

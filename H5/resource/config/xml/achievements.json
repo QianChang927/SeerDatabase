@@ -1642,6 +1642,30 @@
                                         "title": "机械与少女",
                                         "Desc": "主线剧情【机械与少女】章节进度达到4/8领取获得",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 9,
+                                        "Threshold": 9,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "文明的终末",
+                                        "proicon": 1383,
+                                        "SpeNameBonus": 523,
+                                        "title": "文明的终末",
+                                        "Desc": "完成【文明的终末】系列剧情",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 10,
+                                        "Threshold": 10,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "赫尔卡的后裔",
+                                        "proicon": 1393,
+                                        "SpeNameBonus": 529,
+                                        "title": "赫尔卡的后裔",
+                                        "Desc": "通关主线【穿越黑暗之门】获得",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 161,
@@ -5992,6 +6016,30 @@
                                         "title": "守护之心",
                                         "Desc": "通关S-星光·蘑菇怪【地狱难度】关卡获得",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 26,
+                                        "Threshold": 26,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "秘宝之灵",
+                                        "proicon": 1381,
+                                        "SpeNameBonus": 521,
+                                        "title": "秘宝之灵",
+                                        "Desc": "通关S-吉甘提卡【地狱难度】关卡获得",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 27,
+                                        "Threshold": 27,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "神殿守护",
+                                        "proicon": 1384,
+                                        "SpeNameBonus": 524,
+                                        "title": "神殿守护",
+                                        "Desc": "通关S-原始预言·吉尼亚斯【地狱难度】关卡获得",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 160,
@@ -8758,6 +8806,42 @@
                                         "achName": "S4赛季圣皇",
                                         "Desc": "S4赛季竞技/狂野模式中首次达到圣皇段位时获得",
                                         "proicon": 1373,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 17,
+                                        "Threshold": 17,
+                                        "AchievementPoint": 0,
+                                        "achName": "S5赛季猛将",
+                                        "Desc": "S5赛季竞技/狂野模式中首次达到猛将段位时获得",
+                                        "proicon": 1385,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 18,
+                                        "Threshold": 18,
+                                        "AchievementPoint": 0,
+                                        "achName": "S5赛季天骄",
+                                        "Desc": "S5赛季竞技/狂野模式中首次达到天骄段位时获得",
+                                        "proicon": 1386,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 19,
+                                        "Threshold": 19,
+                                        "AchievementPoint": 0,
+                                        "achName": "S5赛季王者",
+                                        "Desc": "S5赛季竞技/狂野模式中首次达到王者段位时获得",
+                                        "proicon": 1387,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 20,
+                                        "Threshold": 20,
+                                        "AchievementPoint": 0,
+                                        "achName": "S5赛季圣皇",
+                                        "Desc": "S5赛季竞技/狂野模式中首次达到圣皇段位时获得",
+                                        "proicon": 1388,
                                         "icon": 1
                                     }
                                 ],
@@ -12861,6 +12945,72 @@
                                         "title": "星缘咖语",
                                         "Desc": "参与星缘咖啡厅主题活动获得",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 9,
+                                        "Threshold": 9,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "千年赫尔卡",
+                                        "proicon": 1382,
+                                        "SpeNameBonus": 522,
+                                        "title": "千年赫尔卡",
+                                        "Desc": "成为2025年费VIP",
+                                        "titleColor": "0xFFFFFF",
+                                        "AbilityTitle": 1,
+                                        "abtext": "攻击+35，特攻+35，防御+25，特防+25，体力+50"
+                                    },
+                                    {
+                                        "ID": 10,
+                                        "Threshold": 10,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "熔炉之怒",
+                                        "proicon": 1389,
+                                        "SpeNameBonus": 525,
+                                        "title": "熔炉之怒",
+                                        "Desc": "购买熔炉·古代巨型机器人皮肤获得",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 11,
+                                        "Threshold": 11,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "黑暗之门",
+                                        "proicon": 1390,
+                                        "SpeNameBonus": 526,
+                                        "title": "黑暗之门",
+                                        "Desc": "购买原始黑洞·尤纳斯至尊礼包获得",
+                                        "titleColor": "0xFFFFFF",
+                                        "AbilityTitle": 1,
+                                        "abtext": "攻击+20，特攻+20，体力+100"
+                                    },
+                                    {
+                                        "ID": 12,
+                                        "Threshold": 12,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "岁岁平安",
+                                        "proicon": 1391,
+                                        "SpeNameBonus": 527,
+                                        "title": "岁岁平安",
+                                        "Desc": "参与银河礼赠-2025新春回馈活动获得",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 13,
+                                        "Threshold": 13,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "气旋斗者",
+                                        "proicon": 1392,
+                                        "SpeNameBonus": 528,
+                                        "title": "气旋斗者",
+                                        "Desc": "完成闭锁空间的气团对决挑战获得",
+                                        "titleColor": "0xFFFFFF",
+                                        "AbilityTitle": 1,
+                                        "abtext": "攻击+45，特攻+45，防御+30"
                                     }
                                 ],
                                 "ID": 166,

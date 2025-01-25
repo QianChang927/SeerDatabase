@@ -15,30 +15,102 @@ function(t, e) {
 },
 itemWarehouse; !
 function(t) {
-    var e = function(t) {
-        function e() {
-            var e = t.call(this) || this;
-            return e.skinName = attributeItemSkin,
-            e
+    var e = function(e) {
+        function i(t) {
+            var i = e.call(this) || this;
+            return i.TypeName = ["道具", "刻印", "道具", "道具", "道具", "皮肤", "道具", "道具", "道具"],
+            i.skinName = "UseItemPopSkin",
+            i.boxInfo = t,
+            i
         }
-        return __extends(e, t),
-        e.prototype.childrenCreated = function() {
-            t.prototype.childrenCreated.call(this),
-            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        return __extends(i, e),
+        i.prototype.childrenCreated = function() {
+            this.init(),
+            this.addEvent()
         },
-        e.prototype.dataChanged = function() {
-            return this.mydata = this.data,
-            null === this.data ? (this.img_icon.visible = !1, this.img_cancel.visible = !1, this.touchEnabled = !1, void(this.touchChildren = !1)) : (this.touchEnabled = !0, this.touchChildren = !0, this.img_icon.visible = this.mydata > 0, this.img_cancel.visible = !this.img_icon.visible, this.img_icon.visible ? (this.img_icon.source = ClientConfig.getpettypeticon(this.mydata + ""), this.guang.text = SkillXMLInfo.petTypeNameCN(this.mydata)) : this.guang.text = "所有", void(this.cacheAsBitmap = !0))
+        i.prototype.init = function() {
+            this.arrSelect = [];
+            var e = this.boxInfo.rewardinfo.split(";").map(function(t, e) {
+                return t.split("_").map(Number).concat([e + 1, !1])
+            }),
+            i = this.getAllRewardType(e);
+            this.rewardTypeName = i > 0 ? this.TypeName[i - 1] : "道具",
+            this.txt.textFlow = (new egret.HtmlTextParser).parse("请从以下" + e.length + "种" + this.rewardTypeName + "中选择<font color= #5de75a>" + this.boxInfo.count + "</font>种获得"),
+            this.list.itemRenderer = t.UseItemPopItem,
+            this.listData = new eui.ArrayCollection(e),
+            this.list.dataProvider = this.listData
         },
-        e.prototype.destroy = function() {
-            this.mydata = null,
-            this.data = null,
-            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
+        i.prototype.addEvent = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose, this.hide, this),
+            ImageButtonUtil.add(this.btnReset,
+            function() {
+                e.arrSelect = [],
+                e.list.dataProvider.source.forEach(function(t) {
+                    t[4] = !1
+                }),
+                e.listData.refresh()
+            },
+            this),
+            ImageButtonUtil.add(this.btnGet,
+            function() {
+                for (var i = 0,
+                n = 0,
+                r = 32; r >= 1; r--) e.arrSelect[r] && (i++, n++),
+                r > 1 && (n <<= 1);
+                return i != e.boxInfo.count ? void BubblerManager.getInstance().showText("未选取足够种类的" + e.rewardTypeName) : void SocketConnection.sendByQueue(41952, [e.boxInfo.id, 1, n],
+                function(i) {
+                    var n = i.data,
+                    r = n.readUnsignedInt();
+                    if (r > 0) {
+                        var s = n.readUnsignedInt(),
+                        a = n.readUnsignedInt(),
+                        o = n.readUnsignedInt(),
+                        u = (n.readUnsignedInt(), n.readUnsignedInt()),
+                        h = n.readUnsignedInt(),
+                        _ = n.readUnsignedInt();
+                        AwardManager.pause(),
+                        PopViewManager.getInstance().openView(new t.ChestExchangeResultPop([s, a, o, u, h, _]))
+                    } else BubblerManager.getInstance().showText("领取成功！"),
+                    e.hide()
+                })
+            },
+            this),
+            EventManager.addEventListener("itemWarehouse.clickItemOfCustomBox", this.onClickItem, this)
         },
-        e
-    } (eui.ItemRenderer);
-    t.AttributeItem = e,
-    __reflect(e.prototype, "itemWarehouse.AttributeItem")
+        i.prototype.onClickItem = function(t) {
+            var e = t.data,
+            i = e.index;
+            if (this.arrSelect[i]) e.data[4] = !1,
+            this.arrSelect[i] = !1,
+            e.imgSelect.visible = !1;
+            else {
+                for (var n = 0,
+                r = 32; r >= 1; r--) this.arrSelect[r] && n++;
+                if (n >= this.boxInfo.count) return void BubblerManager.getInstance().showText("已达选取上限");
+                e.data[4] = !0,
+                this.arrSelect[i] = !0,
+                e.imgSelect.visible = !0
+            }
+        },
+        i.prototype.destroy = function() {
+            EventManager.removeAll(this),
+            ImageButtonUtil.removeAll(this),
+            this.listData.removeAll(),
+            e.prototype.destroy.call(this)
+        },
+        i.prototype.getAllRewardType = function(t) {
+            for (var e = -1,
+            i = 0; i < t.length; i++) {
+                var n = parseInt(t[i][0]);
+                if (0 > e && (e = n), e != n) return - 1
+            }
+            return e
+        },
+        i
+    } (PopView);
+    t.UseItemPop = e,
+    __reflect(e.prototype, "itemWarehouse.UseItemPop")
 } (itemWarehouse || (itemWarehouse = {}));
 var __reflect = this && this.__reflect ||
 function(t, e, i) {
@@ -84,8 +156,8 @@ function(t) {
                 o = this.thumb.$parent.globalToLocal(s, a, egret.$TempPoint).x,
                 u = egret.$TempRectangle;
                 if (this.thumb.getLayoutBounds(u), this.thumb.setLayoutBoundsPosition(Math.round(o) - this.thumbOffSetLeft, u.y), this.trackHighlight && this.trackHighlight.$parent) {
-                    var _ = this.trackHighlight.$parent.globalToLocal(s, a, egret.$TempPoint).x - n;
-                    this.trackHighlight.x = Math.round(_),
+                    var h = this.trackHighlight.$parent.globalToLocal(s, a, egret.$TempPoint).x - n;
+                    this.trackHighlight.x = Math.round(h),
                     this.trackHighlight.width = Math.round(n)
                 }
             }
@@ -490,14 +562,28 @@ function(t) {
                 else if (21 === s) core.gameUtil.OpenEgg(2, i);
                 else if (35 == s) {
                     var o = config.Treasure_chest_gift.getItemsByField("id", ["=="], [n])[0];
-                    1 == o.type ? SocketConnection.sendByQueue(41952, [o.id, 1, 0]) : 2 == o.type && PopViewManager.getInstance().openView(new t.UseItemPop(o))
+                    1 == o.type ? SocketConnection.sendByQueue(41952, [o.id, 1, 0],
+                    function(e) {
+                        var i = e.data,
+                        n = i.readUnsignedInt();
+                        if (n > 0) {
+                            var r = i.readUnsignedInt(),
+                            s = i.readUnsignedInt(),
+                            a = i.readUnsignedInt(),
+                            o = (i.readUnsignedInt(), i.readUnsignedInt()),
+                            u = i.readUnsignedInt(),
+                            h = i.readUnsignedInt();
+                            AwardManager.pause(),
+                            PopViewManager.getInstance().openView(new t.ChestExchangeResultPop([r, s, a, o, u, h]))
+                        }
+                    }) : 2 == o.type && PopViewManager.getInstance().openView(new t.UseItemPop(o))
                 } else BubblerManager.getInstance().showText("暂未开放,敬请期待")
             } else {
                 var u = new t.ItemDialog,
-                _ = PopViewManager.createDefaultStyleObject();
-                _.caller = this,
-                _.clickMaskHandler = function() {},
-                PopViewManager.getInstance().openView(u, _, {
+                h = PopViewManager.createDefaultStyleObject();
+                h.caller = this,
+                h.clickMaskHandler = function() {},
+                PopViewManager.getInstance().openView(u, h, {
                     id: n,
                     doType: 1
                 })
@@ -545,8 +631,8 @@ function(t) {
             function() {
                 var t, e, i, n, r, s, a, o, u;
                 return __generator(this,
-                function(_) {
-                    switch (_.label) {
+                function(h) {
+                    switch (h.label) {
                     case 0:
                         return this._param ? (t = ~~this._param.type, this.menu.selectedValue = t, this._petFactorPage = this.rb_jlhc.group.selectedValue = 1) : t = ~~this.menu.selectedValue || 2,
                         e = ItemManager.getCollectionInfos(),
@@ -559,7 +645,7 @@ function(t) {
                         6 == t || 7 == t ? (this._scroller.y = 103, this._scroller.height = 508) : (this._scroller.y = 82, this._scroller.height = 547),
                         1 != t ? [3, 2] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【全部】页签按钮"), this.currList = [], i = this, [4, this.getItemsByType(this.allTypes)]);
                     case 1:
-                        return i.currList = _.sent(),
+                        return i.currList = h.sent(),
                         ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING]]),
                         [3, 15];
                     case 2:
@@ -567,33 +653,33 @@ function(t) {
                     case 3:
                         return 3 != t ? [3, 5] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【礼箱】页签按钮"), n = this, [4, this.getItemsByType([30, 35])]);
                     case 4:
-                        return n.currList = _.sent(),
+                        return n.currList = h.sent(),
                         this.currList = this.getUnExpirItems(this.currList),
                         ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING]]),
                         [3, 15];
                     case 5:
                         return 4 != t ? [3, 7] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【重要】页签按钮"), r = this, [4, this.getItemsByType([31])]);
                     case 6:
-                        return r.currList = _.sent(),
+                        return r.currList = h.sent(),
                         this.currList = this.getUnExpirItems(this.currList),
                         ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING]]),
                         [3, 15];
                     case 7:
                         return 5 != t ? [3, 10] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【活动】页签按钮"), [4, this.getItemsByType([30, 31])]);
                     case 8:
-                        return s = _.sent(),
+                        return s = h.sent(),
                         a = this.getExpirItems(s),
                         o = this,
                         [4, this.getItemsByType([29])];
                     case 9:
-                        return o.currList = _.sent(),
+                        return o.currList = h.sent(),
                         this.currList = this.currList.concat(a),
                         ArrayUtil.sortOn(this.currList, "itemID", ArrayUtil.DESCENDING),
                         [3, 15];
                     case 10:
                         return 6 != t ? [3, 12] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【其他】页签按钮"), u = this, [4, this.getItemsByType(this.otherTypes[~~this.rb_sub0.group.selectedValue || (GameInfo.isChecking ? 3 : 0)])]);
                     case 11:
-                        return u.currList = _.sent(),
+                        return u.currList = h.sent(),
                         this.grpTop.visible = !0,
                         this.info.visible = !1,
                         ArrayUtil.sortOn(this.currList, "", ArrayUtil.DESCENDING),
@@ -601,12 +687,12 @@ function(t) {
                     case 12:
                         return 7 !== t ? [3, 14] : (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【精灵因子】页签按钮"), this.rb_jlhc.group.selection = this.rb_jlhc, this._scroller.viewport.scrollV = 140 * this.yinziCurrIndex, [4, this.getFilterPetFactorItems()]);
                     case 13:
-                        return _.sent(),
+                        return h.sent(),
                         this.grp_petfactorTop.visible = !0,
                         [3, 15];
                     case 14:
                         8 == t && (StatLogger.log("20240726版本系统功能", "20240726物品仓库", "点击【限时物品】页签按钮"), this.currList = ItemManager.getTimeLimitItems(), ArrayUtil.sortOnMultParams(this.currList, [["rarity", ArrayUtil.DESCENDING], ["itemID", ArrayUtil.ASCENDING], ["overTime", ArrayUtil.ASCENDING]])),
-                        _.label = 15;
+                        h.label = 15;
                     case 15:
                         return this.arrayColletion.removeAll(),
                         this.arrayColletion.replaceAll(this.currList),
@@ -761,15 +847,15 @@ function(t) {
             }
             if (e.overTime) {
                 var u = 1e3 * e.overTime,
-                _ = SystemTimerManager.sysBJDate.getTime();
-                if (_ >= u) this.txtDate.text = "已到期";
+                h = SystemTimerManager.sysBJDate.getTime();
+                if (h >= u) this.txtDate.text = "已到期";
                 else {
-                    var h = u - _,
-                    c = Math.ceil(h / 864e5);
+                    var _ = u - h,
+                    c = Math.ceil(_ / 864e5);
                     if (c >= 2) this.txtDate.text = c + "天到期";
                     else {
-                        var l = Math.floor(h % 864e5 / 36e5),
-                        g = Math.floor(h % 36e5 / 6e4);
+                        var l = Math.floor(_ % 864e5 / 36e5),
+                        g = Math.floor(_ % 36e5 / 6e4);
                         this.txtDate.text = l + "h " + g + "min到期",
                         this._limitInterval = egret.setInterval(function() {
                             var e = SystemTimerManager.sysBJDate.getTime();
@@ -902,12 +988,12 @@ function(t) {
                         var e = t,
                         o = e.MonsterID,
                         u = +PetXMLInfo.getType(o),
-                        _ = i(e),
-                        h = ItemManager.checkPetFactorRedFlag(t.ID, e),
+                        h = i(e),
+                        _ = ItemManager.checkPetFactorRedFlag(t.ID, e),
                         c = ItemManager.getInfo(t.ID),
-                        l = 1 == a.allType ? !0 : 2 == a.allType ? h: !c,
-                        g = (a._currentAttributeID.indexOf(u) > -1 || !a._currentAttributeID.length) && l && _;
-                        return g && (h ? n.push(t) : c ? r.push(t) : s.push(t)),
+                        l = 1 == a.allType ? !0 : 2 == a.allType ? _: !c,
+                        g = (a._currentAttributeID.indexOf(u) > -1 || !a._currentAttributeID.length) && l && h;
+                        return g && (_ ? n.push(t) : c ? r.push(t) : s.push(t)),
                         g
                     }),
                     this.currList = n.concat(r, s),
@@ -935,7 +1021,7 @@ function(t) {
                     ModuleManager.showModuleByID(10)
                 })
             }
-            var o, u, _ = 0;
+            var o, u, h = 0;
             switch (s) {
             case 1:
                 u = 1,
@@ -943,18 +1029,18 @@ function(t) {
                 break;
             case 2:
                 u = 2,
-                _ = +n.NewSeIdx,
+                h = +n.NewSeIdx,
                 o = "将消耗" + n.NewseConsume + "个【" + r + "】因子,合成专属特性。确认合成吗？";
                 break;
             case 3:
                 u = 3,
                 o = "将消耗" + n.MovesConsume + "个【" + r + "】因子,合成专属技能。确认合成吗？"
             }
-            var h = {
+            var _ = {
                 desc: o,
                 caller: this,
                 callback: function() {
-                    e.composeLock || (e.composeLock = !0, SocketConnection.sendWithPromise(41413, [i.itemID || i.ID, u, _]).then(function(t) {
+                    e.composeLock || (e.composeLock = !0, SocketConnection.sendWithPromise(41413, [i.itemID || i.ID, u, h]).then(function(t) {
                         return __awaiter(e, void 0, void 0,
                         function() {
                             var e, i, n, r;
@@ -995,7 +1081,7 @@ function(t) {
                 type: s,
                 fragement: n
             };
-            PopViewManager.getInstance().openView(new t.PetFactorPop, null, h)
+            PopViewManager.getInstance().openView(new t.PetFactorPop, null, _)
         },
         i.prototype.checkEffets = function(t) {
             var e = PetManager.getPetInfo(PetManager.defaultTime),
@@ -1145,6 +1231,63 @@ function(t) {
     } (eui.Component);
     t.ComboBox = e,
     __reflect(e.prototype, "itemWarehouse.ComboBox")
+} (itemWarehouse || (itemWarehouse = {}));
+var __reflect = this && this.__reflect ||
+function(t, e, i) {
+    t.__class__ = e,
+    i ? i.push(e) : i = [e],
+    t.__types__ = t.__types__ ? i.concat(t.__types__) : i
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function i() {
+        this.constructor = t
+    }
+    for (var n in e) e.hasOwnProperty(n) && (t[n] = e[n]);
+    i.prototype = e.prototype,
+    t.prototype = new i
+},
+itemWarehouse; !
+function(t) {
+    var e = function(t) {
+        function e(e) {
+            var i = t.call(this) || this;
+            return i.skinName = "ChestExchangeResultPopSkin",
+            i._arr = e,
+            i
+        }
+        return __extends(e, t),
+        e.prototype.setData = function(e) {
+            t.prototype.setData.call(this, e)
+        },
+        e.prototype.childrenCreated = function() {
+            ImageButtonUtil.add(this.btnClose, this.hide, this),
+            ImageButtonUtil.add(this.btnClose2, this.hide, this);
+            var t = this._arr[0],
+            e = this._arr[1],
+            i = (this._arr[2], this._arr[3], this._arr[4]),
+            n = this._arr[5];
+            if (this.imgOrigin.source = ClientConfig.getPetHalfIcon(14e5 + e), this.imgTarget.source = ClientConfig.getItemIcon(i), this.txtTargetCnt.text = n + "", 6 == t) {
+                var r = PetSkinXMLInfo.getSkinInfo(e).name;
+                r = StringUtil.parseStrLimitLen(r, 10),
+                this.txtOriginName.text = r
+            } else this.txtOriginName.text = "";
+            ImageButtonUtil.add(this.imgTarget,
+            function() {
+                tipsPop.TipsPop.openItemPop({
+                    id: i
+                })
+            })
+        },
+        e.prototype.hide = function() {
+            AwardManager.clear(),
+            AwardManager.resume(),
+            t.prototype.hide.call(this)
+        },
+        e
+    } (PopView);
+    t.ChestExchangeResultPop = e,
+    __reflect(e.prototype, "itemWarehouse.ChestExchangeResultPop")
 } (itemWarehouse || (itemWarehouse = {}));
 var __reflect = this && this.__reflect ||
 function(t, e, i) {
@@ -1324,90 +1467,121 @@ function(t, e) {
 itemWarehouse; !
 function(t) {
     var e = function(e) {
-        function i(t) {
-            var i = e.call(this) || this;
-            return i.TypeName = ["道具", "刻印", "道具", "道具", "道具", "皮肤", "道具", "道具", "道具"],
-            i.skinName = "UseItemPopSkin",
-            i.boxInfo = t,
-            i
+        function i() {
+            var t = e.call(this) || this;
+            return t.maxCount = 1,
+            t._currentCount = 1,
+            t.skinName = "ItemDialogSkin",
+            t
         }
         return __extends(i, e),
-        i.prototype.childrenCreated = function() {
-            this.init(),
-            this.addEvent()
+        i.prototype.setData = function(t) {
+            e.prototype.setData.call(this, t)
         },
-        i.prototype.init = function() {
-            this.arrSelect = [];
-            var e = this.boxInfo.rewardinfo.split(";").map(function(t, e) {
-                return t.split("_").map(Number).concat([e + 1, !1])
-            }),
-            i = this.getAllRewardType(e);
-            this.rewardTypeName = i > 0 ? this.TypeName[i - 1] : "道具",
-            this.txt.textFlow = (new egret.HtmlTextParser).parse("请从以下" + e.length + "种" + this.rewardTypeName + "中选择<font color= #5de75a>" + this.boxInfo.count + "</font>种获得"),
-            this.list.itemRenderer = t.UseItemPopItem,
-            this.listData = new eui.ArrayCollection(e),
-            this.list.dataProvider = this.listData
+        i.prototype.initialized = function() {
+            e.prototype.initialized.call(this);
+            var t = ItemXMLInfo.getItemInfo(this._data.id),
+            i = ItemManager.getCollectionInfo(t.id),
+            n = 0,
+            r = config.Boxordinary.getItems();
+            for (var s in r) r[s].itemid == this._data.id && (n = r[s].id);
+            2 == this._data.doType ? (this.title.source = "item_dialog_title_sale_png", this.grpAbtain.visible = !0) : (this.title.source = "item_dialog_title_use_png", this.grpAbtain.visible = !1),
+            this.icon.source = ItemXMLInfo.getIconURL(t.id),
+            this.txtName.text = t.itemObj.Name;
+            var a = ItemTipXMLInfo.getItemDes(t.id);
+            a && 0 != a.length || (a = "漫长宇宙航行中收获的珍贵收藏品，记录着我们一路航行来的记忆"),
+            this.txt_desc.text = a,
+            this.maxCount = i.itemNum;
+            var o = ~~t.itemObj.UseMax;
+            o > 0 && (this.maxCount = Math.min(i.itemNum, o)),
+            this.btnSale.visible = 2 == this._data.doType,
+            this.btnOK.visible = 1 == this._data.doType,
+            2 == this._data.doType ? (this._currentCount = this.maxCount, this.btnSale.visible = !0) : (this._currentCount = 1, this.btnOK.visible = !0),
+            this.txtCount.text = this._currentCount + "/" + this.maxCount,
+            this._slider.maximum = this.maxCount,
+            this._slider.minimum = 1,
+            this._slider.value = this._currentCount,
+            this.changeHandler()
         },
-        i.prototype.addEvent = function() {
-            var t = this;
-            ImageButtonUtil.add(this.btnClose, this.hide, this),
-            ImageButtonUtil.add(this.btnReset,
+        i.prototype.initEvents = function() {
+            var e = this;
+            ImageButtonUtil.add(this.btnClose,
             function() {
-                t.arrSelect = [],
-                t.list.dataProvider.source.forEach(function(t) {
-                    t[4] = !1
+                e.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.btnReduce,
+            function() {
+                return e._currentCount <= 1 ? void BubblerManager.getInstance().showText("数量已经达到下限") : (e._currentCount--, e._slider.value = e._currentCount, void e.changeHandler())
+            },
+            this),
+            ImageButtonUtil.add(this.btnPlus,
+            function() {
+                return e._currentCount >= e.maxCount ? void BubblerManager.getInstance().showText("数量已经达到上限") : (e._currentCount++, e._slider.value = e._currentCount, void e.changeHandler())
+            },
+            this),
+            ImageButtonUtil.add(this.btnOK,
+            function() {
+                var i = ItemXMLInfo.getItemInfo(e._data.id);
+                if (30 == ~~i.itemObj.Sort) {
+                    var n = config.Boxordinary.getItemsByField("itemid", ["=="], [e._data.id])[0];
+                    SocketConnection.sendByQueue(42394, [n.id, n.itemid, e._currentCount])
+                } else if (35 == ~~i.itemObj.Sort) {
+                    var r = config.Treasure_chest_gift.getItemsByField("id", ["=="], [e._data.id])[0];
+                    1 == r.type && SocketConnection.sendByQueue(41952, [r.id, e._currentCount, 0],
+                    function(e) {
+                        var i = e.data,
+                        n = i.readUnsignedInt();
+                        if (n > 0) {
+                            var r = i.readUnsignedInt(),
+                            s = i.readUnsignedInt(),
+                            a = i.readUnsignedInt(),
+                            o = (i.readUnsignedInt(), i.readUnsignedInt()),
+                            u = i.readUnsignedInt(),
+                            h = i.readUnsignedInt();
+                            AwardManager.pause(),
+                            PopViewManager.getInstance().openView(new t.ChestExchangeResultPop([r, s, a, o, u, h]))
+                        }
+                    })
+                } else BubblerManager.getInstance().showText("暂未开放,敬请期待");
+                e.hide()
+            },
+            this),
+            ImageButtonUtil.add(this.btnSale,
+            function() {
+                SocketConnection.sendByQueue(42398, [e._data.id, e._currentCount],
+                function(t) {
+                    var e = t.data,
+                    i = e.readUnsignedInt();
+                    MainManager.actorInfo.coins = i,
+                    BubblerManager.getInstance().showText("交易完成")
                 }),
-                t.listData.refresh()
+                e.hide()
             },
             this),
-            ImageButtonUtil.add(this.btnGet,
-            function() {
-                for (var e = 0,
-                i = 0,
-                n = 32; n >= 1; n--) t.arrSelect[n] && (e++, i++),
-                n > 1 && (i <<= 1);
-                return e != t.boxInfo.count ? void BubblerManager.getInstance().showText("未选取足够种类的" + t.rewardTypeName) : void SocketConnection.sendByQueue(41952, [t.boxInfo.id, 1, i],
-                function() {
-                    BubblerManager.getInstance().showText("领取成功！"),
-                    t.hide()
-                })
-            },
-            this),
-            EventManager.addEventListener("itemWarehouse.clickItemOfCustomBox", this.onClickItem, this)
+            this._slider.addEventListener(egret.Event.CHANGE, this.onChangeSlider, this)
         },
-        i.prototype.onClickItem = function(t) {
-            var e = t.data,
-            i = e.index;
-            if (this.arrSelect[i]) e.data[4] = !1,
-            this.arrSelect[i] = !1,
-            e.imgSelect.visible = !1;
-            else {
-                for (var n = 0,
-                r = 32; r >= 1; r--) this.arrSelect[r] && n++;
-                if (n >= this.boxInfo.count) return void BubblerManager.getInstance().showText("已达选取上限");
-                e.data[4] = !0,
-                this.arrSelect[i] = !0,
-                e.imgSelect.visible = !0
+        i.prototype.onChangeSlider = function() {
+            this._currentCount = this._slider.value,
+            this.changeHandler()
+        },
+        i.prototype.changeHandler = function(t) {
+            if (this.txtCount.text = this._currentCount + "/" + this.maxCount, 2 == this._data.doType) {
+                var e = ItemXMLInfo.getItemInfo(this._data.id),
+                i = ~~e.itemObj.Bean || 10;
+                this.txt_count.text = "" + this._currentCount * i
             }
+        },
+        i.prototype.removeEvents = function() {
+            ImageButtonUtil.removeAll(this)
         },
         i.prototype.destroy = function() {
-            EventManager.removeAll(this),
-            ImageButtonUtil.removeAll(this),
-            this.listData.removeAll(),
             e.prototype.destroy.call(this)
-        },
-        i.prototype.getAllRewardType = function(t) {
-            for (var e = -1,
-            i = 0; i < t.length; i++) {
-                var n = parseInt(t[i][0]);
-                if (0 > e && (e = n), e != n) return - 1
-            }
-            return e
         },
         i
     } (PopView);
-    t.UseItemPop = e,
-    __reflect(e.prototype, "itemWarehouse.UseItemPop")
+    t.ItemDialog = e,
+    __reflect(e.prototype, "itemWarehouse.ItemDialog")
 } (itemWarehouse || (itemWarehouse = {}));
 var __reflect = this && this.__reflect ||
 function(t, e, i) {
@@ -1429,105 +1603,27 @@ function(t) {
     var e = function(t) {
         function e() {
             var e = t.call(this) || this;
-            return e.maxCount = 1,
-            e._currentCount = 1,
-            e.skinName = "ItemDialogSkin",
+            return e.skinName = attributeItemSkin,
             e
         }
         return __extends(e, t),
-        e.prototype.setData = function(e) {
-            t.prototype.setData.call(this, e)
+        e.prototype.childrenCreated = function() {
+            t.prototype.childrenCreated.call(this),
+            this.addEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
         },
-        e.prototype.initialized = function() {
-            t.prototype.initialized.call(this);
-            var e = ItemXMLInfo.getItemInfo(this._data.id),
-            i = ItemManager.getCollectionInfo(e.id),
-            n = 0,
-            r = config.Boxordinary.getItems();
-            for (var s in r) r[s].itemid == this._data.id && (n = r[s].id);
-            2 == this._data.doType ? (this.title.source = "item_dialog_title_sale_png", this.grpAbtain.visible = !0) : (this.title.source = "item_dialog_title_use_png", this.grpAbtain.visible = !1),
-            this.icon.source = ItemXMLInfo.getIconURL(e.id),
-            this.txtName.text = e.itemObj.Name;
-            var a = ItemTipXMLInfo.getItemDes(e.id);
-            a && 0 != a.length || (a = "漫长宇宙航行中收获的珍贵收藏品，记录着我们一路航行来的记忆"),
-            this.txt_desc.text = a,
-            this.maxCount = i.itemNum;
-            var o = ~~e.itemObj.UseMax;
-            o > 0 && (this.maxCount = Math.min(i.itemNum, o)),
-            this.btnSale.visible = 2 == this._data.doType,
-            this.btnOK.visible = 1 == this._data.doType,
-            2 == this._data.doType ? (this._currentCount = this.maxCount, this.btnSale.visible = !0) : (this._currentCount = 1, this.btnOK.visible = !0),
-            this.txtCount.text = this._currentCount + "/" + this.maxCount,
-            this._slider.maximum = this.maxCount,
-            this._slider.minimum = 1,
-            this._slider.value = this._currentCount,
-            this.changeHandler()
-        },
-        e.prototype.initEvents = function() {
-            var t = this;
-            ImageButtonUtil.add(this.btnClose,
-            function() {
-                t.hide()
-            },
-            this),
-            ImageButtonUtil.add(this.btnReduce,
-            function() {
-                return t._currentCount <= 1 ? void BubblerManager.getInstance().showText("数量已经达到下限") : (t._currentCount--, t._slider.value = t._currentCount, void t.changeHandler())
-            },
-            this),
-            ImageButtonUtil.add(this.btnPlus,
-            function() {
-                return t._currentCount >= t.maxCount ? void BubblerManager.getInstance().showText("数量已经达到上限") : (t._currentCount++, t._slider.value = t._currentCount, void t.changeHandler())
-            },
-            this),
-            ImageButtonUtil.add(this.btnOK,
-            function() {
-                var e = ItemXMLInfo.getItemInfo(t._data.id);
-                if (30 == ~~e.itemObj.Sort) {
-                    var i = config.Boxordinary.getItemsByField("itemid", ["=="], [t._data.id])[0];
-                    SocketConnection.sendByQueue(42394, [i.id, i.itemid, t._currentCount])
-                } else if (35 == ~~e.itemObj.Sort) {
-                    var n = config.Treasure_chest_gift.getItemsByField("id", ["=="], [t._data.id])[0];
-                    1 == n.type && SocketConnection.sendByQueue(41952, [n.id, t._currentCount, 0])
-                } else BubblerManager.getInstance().showText("暂未开放,敬请期待");
-                t.hide()
-            },
-            this),
-            ImageButtonUtil.add(this.btnSale,
-            function() {
-                SocketConnection.sendByQueue(42398, [t._data.id, t._currentCount],
-                function(t) {
-                    var e = t.data,
-                    i = e.readUnsignedInt();
-                    MainManager.actorInfo.coins = i,
-                    BubblerManager.getInstance().showText("交易完成")
-                }),
-                t.hide()
-            },
-            this),
-            this._slider.addEventListener(egret.Event.CHANGE, this.onChangeSlider, this)
-        },
-        e.prototype.onChangeSlider = function() {
-            this._currentCount = this._slider.value,
-            this.changeHandler()
-        },
-        e.prototype.changeHandler = function(t) {
-            if (this.txtCount.text = this._currentCount + "/" + this.maxCount, 2 == this._data.doType) {
-                var e = ItemXMLInfo.getItemInfo(this._data.id),
-                i = ~~e.itemObj.Bean || 10;
-                this.txt_count.text = "" + this._currentCount * i
-            }
-        },
-        e.prototype.removeEvents = function() {
-            ImageButtonUtil.removeAll(this)
+        e.prototype.dataChanged = function() {
+            return this.mydata = this.data,
+            null === this.data ? (this.img_icon.visible = !1, this.img_cancel.visible = !1, this.touchEnabled = !1, void(this.touchChildren = !1)) : (this.touchEnabled = !0, this.touchChildren = !0, this.img_icon.visible = this.mydata > 0, this.img_cancel.visible = !this.img_icon.visible, this.img_icon.visible ? (this.img_icon.source = ClientConfig.getpettypeticon(this.mydata + ""), this.guang.text = SkillXMLInfo.petTypeNameCN(this.mydata)) : this.guang.text = "所有", void(this.cacheAsBitmap = !0))
         },
         e.prototype.destroy = function() {
-            t.prototype.destroy.call(this)
+            this.mydata = null,
+            this.data = null,
+            this.removeEventListener(egret.Event.REMOVED_FROM_STAGE, this.destroy, this)
         },
         e
-    } (PopView);
-    t.ItemDialog = e,
-    __reflect(e.prototype, "itemWarehouse.ItemDialog")
+    } (eui.ItemRenderer);
+    t.AttributeItem = e,
+    __reflect(e.prototype, "itemWarehouse.AttributeItem")
 } (itemWarehouse || (itemWarehouse = {}));
 var __reflect = this && this.__reflect ||
 function(t, e, i) {
@@ -2393,7 +2489,7 @@ generateEUI.paths["resource/eui_skins/ItemWarehouseSkin.exml"] = window.ItemWare
         },
         e
     } (eui.Skin),
-    _ = function(t) {
+    h = function(t) {
         function e() {
             t.call(this),
             this.skinParts = [],
@@ -2409,7 +2505,7 @@ generateEUI.paths["resource/eui_skins/ItemWarehouseSkin.exml"] = window.ItemWare
         },
         e
     } (eui.Skin),
-    h = function(t) {
+    _ = function(t) {
         function e() {
             t.call(this),
             this.skinParts = [],
@@ -2860,7 +2956,7 @@ generateEUI.paths["resource/eui_skins/ItemWarehouseSkin.exml"] = window.ItemWare
         t.value = "2",
         t.x = 112,
         t.y = 0,
-        t.skinName = _,
+        t.skinName = h,
         t
     },
     m.rb_skill_i = function() {
@@ -2870,7 +2966,7 @@ generateEUI.paths["resource/eui_skins/ItemWarehouseSkin.exml"] = window.ItemWare
         t.value = "3",
         t.x = 223,
         t.y = 0,
-        t.skinName = h,
+        t.skinName = _,
         t
     },
     m.grpJlhc_i = function() {
@@ -3573,6 +3669,133 @@ generateEUI.paths["resource/eui_skins/NumberSliderSkin.exml"] = window.NumberSli
     },
     e
 } (eui.Skin),
+generateEUI.paths["resource/eui_skins/pop/ChestExchangeResultPopSkin.exml"] = window.ChestExchangeResultPopSkin = function(t) {
+    function e() {
+        t.call(this),
+        this.skinParts = ["btnClose2", "imgOrigin", "imgTarget", "txtTargetCnt", "btnClose", "txtOriginName"],
+        this.height = 285,
+        this.width = 481,
+        this.elementsContent = [this._Image1_i(), this._Image2_i(), this.btnClose2_i(), this._Image3_i(), this._Image4_i(), this._Image5_i(), this.imgOrigin_i(), this.imgTarget_i(), this.txtTargetCnt_i(), this.btnClose_i(), this.txtOriginName_i()]
+    }
+    __extends(e, t);
+    var i = e.prototype;
+    return i._Image1_i = function() {
+        var t = new eui.Image;
+        return t.height = 285,
+        t.source = "title_pop_2022_img_482X286_bg_png",
+        t.width = 481,
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i._Image2_i = function() {
+        var t = new eui.Image;
+        return t.height = 172.05,
+        t.source = "kuang_lihui_png",
+        t.width = 105.84,
+        t.x = 31.336,
+        t.y = 40.988,
+        t
+    },
+    i.btnClose2_i = function() {
+        var t = new eui.Image;
+        return this.btnClose2 = t,
+        t.height = 34,
+        t.source = "chest_exchange_result_pop_btnQueding_png",
+        t.width = 110,
+        t.x = 184,
+        t.y = 224,
+        t
+    },
+    i._Image3_i = function() {
+        var t = new eui.Image;
+        return t.height = 31,
+        t.source = "chest_exchange_result_pop_jlyzh_png",
+        t.width = 126,
+        t.x = 34,
+        t.y = 2,
+        t
+    },
+    i._Image4_i = function() {
+        var t = new eui.Image;
+        return t.height = 56,
+        t.source = "chest_exchange_result_pop_jiantou_png",
+        t.width = 142,
+        t.x = 167,
+        t.y = 104,
+        t
+    },
+    i._Image5_i = function() {
+        var t = new eui.Image;
+        return t.height = 103,
+        t.source = "common_item_bg_style_70_70_png",
+        t.width = 103,
+        t.x = 348,
+        t.y = 81,
+        t
+    },
+    i.imgOrigin_i = function() {
+        var t = new eui.Image;
+        return this.imgOrigin = t,
+        t.height = 168.794,
+        t.source = "",
+        t.width = 102.626,
+        t.x = 32.772,
+        t.y = 42.688,
+        t
+    },
+    i.imgTarget_i = function() {
+        var t = new eui.Image;
+        return this.imgTarget = t,
+        t.height = 65,
+        t.source = "",
+        t.width = 65,
+        t.x = 366.184,
+        t.y = 97.769,
+        t
+    },
+    i.txtTargetCnt_i = function() {
+        var t = new eui.Label;
+        return this.txtTargetCnt = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.stroke = 1,
+        t.strokeColor = 1712696,
+        t.text = "99",
+        t.textAlign = "right",
+        t.textColor = 16776958,
+        t.width = 91.359,
+        t.x = 349.641,
+        t.y = 159.241,
+        t
+    },
+    i.btnClose_i = function() {
+        var t = new eui.Image;
+        return this.btnClose = t,
+        t.height = 33,
+        t.source = "chest_exchange_result_pop_btnclose_png",
+        t.width = 37,
+        t.x = 436,
+        t.y = 0,
+        t
+    },
+    i.txtOriginName_i = function() {
+        var t = new eui.Label;
+        return this.txtOriginName = t,
+        t.fontFamily = "MFShangHei",
+        t.size = 16,
+        t.stroke = 1,
+        t.strokeColor = 1712696,
+        t.text = "....",
+        t.textAlign = "center",
+        t.textColor = 16776958,
+        t.width = 175,
+        t.x = -6,
+        t.y = 215.797,
+        t
+    },
+    e
+} (eui.Skin),
 generateEUI.paths["resource/eui_skins/pop/ItemPetFactorScreenPopSkin.exml"] = window.ItemPetFactorScreenPopSkin = function(t) {
     function e() {
         t.call(this),
@@ -3732,7 +3955,7 @@ generateEUI.paths["resource/eui_skins/pop/ItemPetFactorScreenPopSkin.exml"] = wi
         },
         e
     } (eui.Skin),
-    _ = function(t) {
+    h = function(t) {
         function e() {
             t.call(this),
             this.skinParts = [],
@@ -3750,7 +3973,7 @@ generateEUI.paths["resource/eui_skins/pop/ItemPetFactorScreenPopSkin.exml"] = wi
         },
         e
     } (eui.Skin),
-    h = function(t) {
+    _ = function(t) {
         function e() {
             t.call(this),
             this.skinParts = [],
@@ -4073,7 +4296,7 @@ generateEUI.paths["resource/eui_skins/pop/ItemPetFactorScreenPopSkin.exml"] = wi
         t.selected = !0,
         t.x = 252,
         t.y = 130.875,
-        t.skinName = _,
+        t.skinName = h,
         t
     },
     c.cb_1_i = function() {
@@ -4082,7 +4305,7 @@ generateEUI.paths["resource/eui_skins/pop/ItemPetFactorScreenPopSkin.exml"] = wi
         t.selected = !0,
         t.x = 342,
         t.y = 130.875,
-        t.skinName = h,
+        t.skinName = _,
         t
     },
     c.btnReset_i = function() {

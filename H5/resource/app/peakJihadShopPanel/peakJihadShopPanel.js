@@ -266,6 +266,7 @@ function(e) {
             this._listSuit.itemRenderer = e.PeakJihadShopSuit,
             this.icon0.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId1),
             this.icon1.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId2),
+            this.icon2.source = ItemXMLInfo.getIconURL(PeakJihadController.itemId3),
             ImageButtonUtil.add(this.icon0,
             function() {
                 var e = {};
@@ -280,9 +281,19 @@ function(e) {
                 tipsPop.TipsPop.openItemPop(e)
             },
             this),
+            ImageButtonUtil.add(this.icon2,
+            function() {
+                var e = {};
+                e.id = PeakJihadController.itemId3,
+                tipsPop.TipsPop.openItemPop(e)
+            },
+            this),
             EventManager.addEventListener(GameEvent.NOTIFY_ITEM_CHANGE, this.updateItemNum, this),
             this.updateItemNum(),
-            this.initTab()
+            this.initTab();
+            var i = PeakJihadOrderManager.endTime.split("_"),
+            n = Math.max(new Date(parseInt(i[0]), parseInt(i[1]) - 1, parseInt(i[2]), parseInt(i[3]), 0, 0, 0).getTime() - SystemTimerManager.sysBJDate.getTime(), 0) / 1e3;
+            this.txtTime.text = 0 >= n ? "已到期": SystemTimerManager.getLeftTimeString(n)
         },
         n.prototype.initTab = function() {
             return __awaiter(this, void 0, void 0,
@@ -300,13 +311,16 @@ function(e) {
                         return e = new MenuData,
                         e["default"] = this.defautKey,
                         e.groupName = this.groupName,
-                        e.root = [1, 2],
+                        e.root = [1, 2, 3],
                         e.data = {
                             1 : {
                                 title: "普通兑换"
                             },
                             2 : {
                                 title: "稀有兑换"
+                            },
+                            3 : {
+                                title: "赛季限定"
                             }
                         },
                         this.menu = Menu.createMenu(e, this.menuGroup),
@@ -344,9 +358,11 @@ function(e) {
             })
         },
         n.prototype.updateTab = function() {
-            for (var e = this,
-            t = ~~this.menu.selectedValue,
-            n = [], r = config.Pvp_shop.getItems().filter(function(e) {
+            var e = this,
+            t = ~~this.menu.selectedValue;
+            this.txtTime.visible = 3 == t,
+            this.txtTimeTitle.visible = 3 == t;
+            for (var n = [], r = config.Pvp_shop.getItems().filter(function(e) {
                 return e.type == t
             }), o = 0; o < r.length; o++) n.indexOf(r[o].producttype) < 0 && n.push(r[o].producttype);
             this.rbGrp.removeChildren(),
@@ -415,7 +431,8 @@ function(e) {
         },
         n.prototype.updateItemNum = function() {
             this.num0.text = String(ItemManager.getNumByID(PeakJihadController.itemId1)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId1),
-            this.num1.text = String(ItemManager.getNumByID(PeakJihadController.itemId2)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId2)
+            this.num1.text = String(ItemManager.getNumByID(PeakJihadController.itemId2)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId2),
+            this.num2.text = String(ItemManager.getNumByID(PeakJihadController.itemId3)) + "/" + ItemXMLInfo.getMaxNum(PeakJihadController.itemId3)
         },
         n.prototype.destroy = function() {
             t.prototype.destroy.call(this),
@@ -476,6 +493,11 @@ function(e) {
                     EventManager.dispatchEventWith(PeakJihadController.PeakJihadController_Buy_SHOP_ITEM)
                 })
             },
+            this),
+            ImageButtonUtil.add(this.btnInfo,
+            function() {
+                PetManager.showPetManualInfo(t._curId, 4 == t.info.producttype ? 2 : 1)
+            },
             this)
         },
         t.prototype.dataChanged = function() {
@@ -487,31 +509,31 @@ function(e) {
                 id: this.info.consumeitemid,
                 num: this.info.price
             };
-            this.petBuyIcon.source = ClientConfig.getItemIcon(e.id),
-            this.itemPriceOri.text = "" + e.num,
-            this.info.discount < 1 ? (this.currentState = "2", this.petPrice.text = "" + e.num, this.petSaleGroup.visible = !1) : (this.currentState = "1", this.petPrice.text = "" + e.num * this.info.discount / 10, this.petSaleGroup.visible = !0, this.petSaleNum.text = this.info.discount + "折");
-            var t = ItemManager.parseItem(this.info.commodity)[0].id;
-            if (4 == this.info.producttype) {
+            if (this.petBuyIcon.source = ClientConfig.getItemIcon(e.id), this.itemPriceOri.text = "" + e.num, this.info.discount < 1 ? (this.currentState = "2", this.petPrice.text = "" + e.num, this.petSaleGroup.visible = !1) : (this.currentState = "1", this.petPrice.text = "" + e.num * this.info.discount / 10, this.petSaleGroup.visible = !0, this.petSaleNum.text = this.info.discount + "折"), 4 == this.info.producttype) {
+                var t = ItemManager.parseItem(this.info.commodity)[0].id;
+                this._curId = t;
                 var i = PetSkinXMLInfo.getSkinInfo(t),
                 n = PetSkinXMLInfo.getSkinInfo(t).name;
                 this.petName.text = n.length > 8 ? n.substring(0, 7) + "...": n,
                 this.petIcon.source = ClientConfig.getPetHalfIcon(14e5 + i.id)
             } else {
-                this.petIcon.source = ClientConfig.getPetHalfIcon(t);
-                var r = PetXMLInfo.getName(t);
-                this.petName.text = r.length > 8 ? r.substring(0, 7) + "...": r
+                var r = Number(this.info.petinfo.split("_")[0]);
+                this._curId = r,
+                this.petIcon.source = ClientConfig.getPetHalfIcon(r);
+                var o = PetXMLInfo.getName(r);
+                this.petName.text = o.length > 8 ? o.substring(0, 7) + "...": o
             }
-            var o = ["每日限购", "每周限购", "每月限购", "赛季限购", "永久限购"],
-            a = !1;
+            var a = ["每日限购", "每周限购", "每月限购", "赛季限购", "永久限购"],
+            s = !1;
             if (1 == this.info.limit) this.petLimit.visible = !1;
             else {
                 this.petLimit.visible = !0;
-                var s = PeakJihadController.shopValue.getValue(this.info.id);
-                a = this.info.quantity <= s,
-                a && (this.currentState = "3", this.petPrice.text = "已购买"),
-                this.petLimit.text = o[this.info.limit - 2] + "：" + s + "/" + this.info.quantity
+                var u = PeakJihadController.shopValue.getValue(this.info.id);
+                s = this.info.quantity <= u,
+                s && (this.currentState = "3", this.petPrice.text = "已购买"),
+                this.petLimit.text = a[this.info.limit - 2] + "：" + u + "/" + this.info.quantity
             }
-            DisplayUtil.setEnabled(this.petBuyGroup, !a, !0)
+            DisplayUtil.setEnabled(this.petBuyGroup, !s, !0)
         },
         t
     } (BaseItemRenderer);
@@ -803,10 +825,10 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopItemSkin.exml"] = window.Peak
 generateEUI.paths["resource/eui_skins/PeakJihadShopPanelSkin.exml"] = window.PeakJihadShopPanelSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["bg", "icon0", "num0", "icon1", "num1", "menuGroup", "rbGrp", "_listItem", "_scrollerItem", "_listPet", "_scrollerPet", "_listSuit", "_scrollerSuit", "mainGroup"],
+        this.skinParts = ["bg", "icon0", "num0", "icon1", "num1", "icon2", "num2", "menuGroup", "txtTimeTitle", "txtTime", "rbGrp", "_listItem", "_scrollerItem", "_listPet", "_scrollerPet", "_listSuit", "_scrollerSuit", "mainGroup"],
         this.height = 640,
         this.width = 1136,
-        this.elementsContent = [this.bg_i(), this._Group3_i(), this.menuGroup_i(), this.mainGroup_i()]
+        this.elementsContent = [this.bg_i(), this._Group4_i(), this.menuGroup_i(), this.mainGroup_i()]
     }
     __extends(t, e);
     var i = t.prototype;
@@ -818,13 +840,13 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopPanelSkin.exml"] = window.Pea
         e.verticalCenter = 0,
         e
     },
-    i._Group3_i = function() {
+    i._Group4_i = function() {
         var e = new eui.Group;
         return e.cacheAsBitmap = !0,
         e.right = 60,
         e.top = 0,
         e.visible = !0,
-        e.elementsContent = [this._Group1_i(), this._Group2_i()],
+        e.elementsContent = [this._Group1_i(), this._Group2_i(), this._Group3_i()],
         e
     },
     i._Group1_i = function() {
@@ -899,6 +921,43 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopPanelSkin.exml"] = window.Pea
         e.y = 5,
         e
     },
+    i._Group3_i = function() {
+        var e = new eui.Group;
+        return e.right = 328,
+        e.x = 10,
+        e.y = 14,
+        e.elementsContent = [this._Image3_i(), this.icon2_i(), this.num2_i()],
+        e
+    },
+    i._Image3_i = function() {
+        var e = new eui.Image;
+        return e.source = "peak_jihad_shop_panel_item_num_bg_png",
+        e.x = 0,
+        e.y = 2.108,
+        e
+    },
+    i.icon2_i = function() {
+        var e = new eui.Image;
+        return this.icon2 = e,
+        e.height = 55,
+        e.left = -1,
+        e.scaleX = .7,
+        e.scaleY = .7,
+        e.source = "PeakJihadFirstPage_icon1_png",
+        e.width = 55,
+        e.y = -6,
+        e
+    },
+    i.num2_i = function() {
+        var e = new eui.Label;
+        return this.num2 = e,
+        e.fontFamily = "MFShangHei",
+        e.horizontalCenter = 15.5,
+        e.size = 16,
+        e.textColor = 13887988,
+        e.y = 5,
+        e
+    },
     i.menuGroup_i = function() {
         var e = new eui.Group;
         return this.menuGroup = e,
@@ -912,7 +971,29 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopPanelSkin.exml"] = window.Pea
         e.left = 170,
         e.right = 30,
         e.y = 64,
-        e.elementsContent = [this.rbGrp_i(), this._scrollerItem_i(), this._scrollerPet_i(), this._scrollerSuit_i()],
+        e.elementsContent = [this.txtTimeTitle_i(), this.txtTime_i(), this.rbGrp_i(), this._scrollerItem_i(), this._scrollerPet_i(), this._scrollerSuit_i()],
+        e
+    },
+    i.txtTimeTitle_i = function() {
+        var e = new eui.Label;
+        return this.txtTimeTitle = e,
+        e.fontFamily = "REEJI",
+        e.size = 16.7324840764331,
+        e.text = "本期剩余时间：",
+        e.textColor = 16777215,
+        e.x = 645,
+        e.y = 12,
+        e
+    },
+    i.txtTime_i = function() {
+        var e = new eui.Label;
+        return this.txtTime = e,
+        e.fontFamily = "REEJI",
+        e.size = 16.7324840764331,
+        e.text = "x天x小时",
+        e.textColor = 16777215,
+        e.x = 763,
+        e.y = 12,
         e
     },
     i.rbGrp_i = function() {
@@ -1007,11 +1088,11 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopPanelSkin.exml"] = window.Pea
 generateEUI.paths["resource/eui_skins/PeakJihadShopPetSkin.exml"] = window.PeakJihadShopPetSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["petIcon", "petPrice", "petBuyIcon", "itemPriceOri", "petBuyGroup", "petName", "petLimit", "gotPet", "petDayTime", "petTimeGroup", "petSaleNum", "petSaleGroup"],
+        this.skinParts = ["petIcon", "petPrice", "petBuyIcon", "itemPriceOri", "petBuyGroup", "petName", "petLimit", "gotPet", "petDayTime", "petTimeGroup", "petSaleNum", "petSaleGroup", "btnInfo"],
         this.height = 288,
         this.width = 178,
         this.elementsContent = [this._Group1_i()],
-        this.states = [new eui.State("1", [new eui.SetProperty("petPrice", "x", 55)]), new eui.State("2", [new eui.SetProperty("petPrice", "x", 78), new eui.SetProperty("petBuyIcon", "verticalCenter", .5), new eui.SetProperty("petBuyIcon", "x", 56.25), new eui.SetProperty("itemPriceOri", "visible", !1), new eui.SetProperty("_Image4", "visible", !1)]), new eui.State("3", [new eui.SetProperty("petPrice", "horizontalCenter", 0), new eui.SetProperty("itemPriceOri", "visible", !1), new eui.SetProperty("_Image4", "visible", !1)])]
+        this.states = [new eui.State("1", [new eui.SetProperty("petPrice", "x", 64)]), new eui.State("2", [new eui.SetProperty("petPrice", "x", 82), new eui.SetProperty("petBuyIcon", "verticalCenter", .5), new eui.SetProperty("petBuyIcon", "x", 49.25), new eui.SetProperty("itemPriceOri", "visible", !1), new eui.SetProperty("_Image4", "visible", !1)]), new eui.State("3", [new eui.SetProperty("petPrice", "horizontalCenter", 0), new eui.SetProperty("itemPriceOri", "visible", !1), new eui.SetProperty("_Image4", "visible", !1)])]
     }
     __extends(t, e);
     var i = t.prototype;
@@ -1020,7 +1101,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopPetSkin.exml"] = window.PeakJ
         return e.cacheAsBitmap = !0,
         e.x = 0,
         e.y = 0,
-        e.elementsContent = [this.petIcon_i(), this._Image1_i(), this._Image2_i(), this.petBuyGroup_i(), this._Image5_i(), this.petName_i(), this.petLimit_i(), this.gotPet_i(), this.petTimeGroup_i(), this.petSaleGroup_i()],
+        e.elementsContent = [this.petIcon_i(), this._Image1_i(), this._Image2_i(), this.petBuyGroup_i(), this._Image5_i(), this.petName_i(), this.petLimit_i(), this.gotPet_i(), this.petTimeGroup_i(), this.petSaleGroup_i(), this.btnInfo_i()],
         e
     },
     i.petIcon_i = function() {
@@ -1076,7 +1157,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopPetSkin.exml"] = window.PeakJ
         e.size = 18,
         e.text = "3000",
         e.textColor = 10181146,
-        e.x = 55,
+        e.x = 65,
         e.y = 7,
         e
     },
@@ -1203,6 +1284,14 @@ generateEUI.paths["resource/eui_skins/PeakJihadShopPetSkin.exml"] = window.PeakJ
         e.textColor = 16777215,
         e.x = 6,
         e.y = 2,
+        e
+    },
+    i.btnInfo_i = function() {
+        var e = new eui.Image;
+        return this.btnInfo = e,
+        e.source = "peak_jihad_shop_panel_btninfo_png",
+        e.x = 146,
+        e.y = 0,
         e
     },
     t

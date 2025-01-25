@@ -1,0 +1,67 @@
+{
+    "dataSource": {
+        "daily_forver": [
+            11922,
+            11923,
+            105816,
+            105817,
+            105818
+        ]
+    },
+    "values": [
+        {
+            "name": "daily_11922",
+            "type": "common",
+            "valueId": 11922
+        },
+        {
+            "name": "daily_11923",
+            "type": "common",
+            "valueId": 11923
+        },
+        {
+            "name": "getArr",
+            "type": "url",
+            "value": "11923.1~4|11923.5~8|11923.9~12|11923.13~16|11923.17~20|11923.21~24"
+        },
+        {
+            "name": "getArrInfo",
+            "type": "url",
+            "value": "105817.1~4|105817.5~8|105817.9~12|105817.13~16|105817.17~20|105817.21~24|105817.25~28|105817.29~32|105818.1~4|105818.5~8"
+        },
+        {
+            "name": "forever_105816byte1",
+            "type": "url",
+            "value": "105816.1~8"
+        },
+        {
+            "name": "forever_105816",
+            "type": "common",
+            "valueId": 105816
+        }
+    ],
+    "actions": [
+        {
+            "name": "FlgeReq1",
+            "type": "send",
+            "cmdId": "45850",
+            "args": [
+                "34",
+                "arg"
+            ]
+        },
+        {
+            "name": "buyNum1",
+            "type": "buy",
+            "num": "1",
+            "productID": "261374",
+            "itemID": "1726701",
+            "exchangeID": "14460"
+        },
+        {
+            "name": "alert1",
+            "type": "alert",
+            "value": "现在离开游戏进度将不会保存，是否确认离开？"
+        }
+    ]
+}

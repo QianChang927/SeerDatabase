@@ -580,6 +580,7 @@ function(e) {
             i._isShowLv = !0,
             i._curMode = e,
             i._isJJ = 3 == i._curMode ? !0 : !1,
+            3 == i._curMode || 5 == i._curMode ? i._isJJ = !0 : i._isJJ = !1,
             i._isShowLv = 2 == i._curMode || 3 == i._curMode ? !0 : !1,
             i.skinName = "Peakjihad6v6banpickmodeSkin",
             i
@@ -1020,7 +1021,10 @@ function(e) {
                 PetFightModel.type = PetFightModel.PEAK_JIHAD_6V6_JJ;
                 break;
             case 4:
-                PetFightModel.type = PetFightModel.PEAK_JIHAD_6V6
+                PetFightModel.type = PetFightModel.PEAK_JIHAD_6V6;
+                break;
+            case 5:
+                PetFightModel.type = PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION
             }
         },
         i.prototype.clearLocalStatus = function(e) {
@@ -1356,7 +1360,7 @@ function(e) {
                 var t, i, r, n;
                 return __generator(this,
                 function(a) {
-                    for (t = config.Pvp_ban.getItems(), i = 0, this.mostGroup.visible = !1, r = 0; r < t.length; r++) if (i = t[r].quantity, n = t[r].name.split(";").map(Number), n.indexOf(e) > -1 && this._isjj && PeakJihadController.curLevel > 1) {
+                    for (t = config.Pvp_ban.getItems(), i = 0, this.mostGroup.visible = !1, r = 0; r < t.length; r++) if (i = t[r].quantity, n = t[r].name.split(";").map(Number), n.indexOf(e) > -1 && this._isjj) {
                         this.mostGroup.visible = !0,
                         this.most.text = "" + i;
                         break

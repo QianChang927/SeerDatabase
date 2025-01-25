@@ -170,7 +170,9 @@ function(e) {
             this._quality = e,
             this._markId = t,
             this._isSkip = i,
-            this.initView()
+            this.initView(),
+            this.signNew.visible = !1,
+            null == CountermarkController.getUniversalInfoByMarkid(this._markId) && null == CountermarkController.getGeneralInfoById(this._markId) && (this.signNew.visible = !0)
         },
         t.prototype.initView = function() {
             var e = this;
@@ -292,13 +294,15 @@ function(e) {
             this)
         },
         t.prototype.dataChanged = function() {
+            this.signNew.visible = !1,
             e.prototype.dataChanged.call(this),
             this._idx = this.data.idx,
             this._quality = this.data.quality,
             this._markId = this.data.markId,
             this._isSkip = this.data.isSkip,
             this._operation = this.data.state,
-            this.initView()
+            this.initView(),
+            null == CountermarkController.getUniversalInfoByMarkid(this._markId) && null == CountermarkController.getGeneralInfoById(this._markId) && (this.signNew.visible = !0)
         },
         t.prototype.initView = function() {
             var e = this;
@@ -363,10 +367,10 @@ function(e) {
         },
         t.prototype.getCard = function() {
             var e = this;
-            this._operation || SocketConnection.sendByQueue(43328, [2, 20 + this._idx],
+            this._operation || (SocketConnection.sendByQueue(43328, [2, 20 + this._idx],
             function() {
                 e.finishGetCard()
-            })
+            }), this.signNew.visible = !1)
         },
         t.prototype.finishGetCard = function() {
             this._operation = 2,
@@ -376,10 +380,10 @@ function(e) {
         },
         t.prototype.decomposeCard = function() {
             var e = this;
-            this._operation || SocketConnection.sendByQueue(43328, [2, this._idx],
+            this._operation || (SocketConnection.sendByQueue(43328, [2, this._idx],
             function() {
                 e.finishDecompose()
-            })
+            }), this.signNew.visible = !1)
         },
         t.prototype.finishDecompose = function() {
             this._operation = 1,
@@ -1222,8 +1226,8 @@ function(e) {
             },
             this));
             var t, i = SystemTimerManager.sysBJDate.getTime(),
-            n = new Date("2024/6/7").getTime(),
-            r = new Date("2024/7/5").getTime();
+            n = new Date("2025-1-1 0:0:0").getTime(),
+            r = new Date("2025-2-14 10:0:0").getTime();
             t = i >= n && r > i ? !0 : !1,
             this.tab_1.visible = t,
             this.rbg_tab.selectedValue = t ? "limit": "normal",
@@ -1624,7 +1628,7 @@ generateEUI.skins = {},
 generateEUI.paths["resource/eui_skins/MarkWheelCardItemSkin.exml"] = window.MarkWheelCardItemSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["grp_anim", "flag_quality", "txt_name", "icon", "btnDecompose", "btnGet", "flag_got", "flag_decompose", "front", "back", "grp_anim0"],
+        this.skinParts = ["grp_anim", "flag_quality", "txt_name", "icon", "btnDecompose", "btnGet", "flag_got", "flag_decompose", "signNew", "front", "back", "grp_anim0"],
         this.height = 265,
         this.width = 146,
         this.elementsContent = [this.grp_anim_i(), this.front_i(), this.back_i(), this.grp_anim0_i()],
@@ -1646,7 +1650,7 @@ generateEUI.paths["resource/eui_skins/MarkWheelCardItemSkin.exml"] = window.Mark
         e.width = 146,
         e.x = 0,
         e.y = 0,
-        e.elementsContent = [this._Image1_i(), this.flag_quality_i(), this.txt_name_i(), this.icon_i(), this.btnDecompose_i(), this.btnGet_i(), this.flag_got_i(), this.flag_decompose_i()],
+        e.elementsContent = [this._Image1_i(), this.flag_quality_i(), this.txt_name_i(), this.icon_i(), this.btnDecompose_i(), this.btnGet_i(), this.flag_got_i(), this.flag_decompose_i(), this.signNew_i()],
         e
     },
     i._Image1_i = function() {
@@ -1726,6 +1730,14 @@ generateEUI.paths["resource/eui_skins/MarkWheelCardItemSkin.exml"] = window.Mark
         e.y = 191,
         e
     },
+    i.signNew_i = function() {
+        var e = new eui.Image;
+        return this.signNew = e,
+        e.source = "pet_recruit_result_item_xinhuode_png",
+        e.x = 60,
+        e.y = 37,
+        e
+    },
     i.back_i = function() {
         var e = new eui.Image;
         return this.back = e,
@@ -1748,7 +1760,7 @@ generateEUI.paths["resource/eui_skins/MarkWheelCardItemSkin.exml"] = window.Mark
 generateEUI.paths["resource/eui_skins/MarkWheelCardSkin.exml"] = window.MarkWheelCardSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["grp_anim", "flag_quality", "txt_name", "icon", "front", "back", "grp_anim0"],
+        this.skinParts = ["grp_anim", "flag_quality", "txt_name", "icon", "signNew", "front", "back", "grp_anim0"],
         this.height = 265,
         this.width = 146,
         this.elementsContent = [this.grp_anim_i(), this.front_i(), this.back_i(), this.grp_anim0_i()],
@@ -1770,7 +1782,7 @@ generateEUI.paths["resource/eui_skins/MarkWheelCardSkin.exml"] = window.MarkWhee
         e.width = 146,
         e.x = 0,
         e.y = 0,
-        e.elementsContent = [this._Image1_i(), this.flag_quality_i(), this.txt_name_i(), this.icon_i()],
+        e.elementsContent = [this._Image1_i(), this.flag_quality_i(), this.txt_name_i(), this.icon_i(), this.signNew_i()],
         e
     },
     i._Image1_i = function() {
@@ -1808,6 +1820,14 @@ generateEUI.paths["resource/eui_skins/MarkWheelCardSkin.exml"] = window.MarkWhee
         e.width = 70,
         e.x = 38,
         e.y = 77,
+        e
+    },
+    i.signNew_i = function() {
+        var e = new eui.Image;
+        return this.signNew = e,
+        e.source = "pet_recruit_result_item_xinhuode_png",
+        e.x = 60,
+        e.y = 37,
         e
     },
     i.back_i = function() {
@@ -3073,7 +3093,7 @@ generateEUI.paths["resource/eui_skins/MarkWheelMainSkin.exml"] = window.MarkWhee
         e.fontFamily = "REEJI",
         e.horizontalCenter = 0,
         e.size = 20,
-        e.text = "将于7月4日23:59:59结束",
+        e.text = "将于2月14日9:59:59结束",
         e.textColor = 16772178,
         e.y = 5,
         e

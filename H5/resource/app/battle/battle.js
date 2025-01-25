@@ -2273,12 +2273,12 @@ UseSkillController = function(t) {
             var p = PetSkinXMLInfo.getSkinPetId(this._playerMode.info.skinId, this._playerMode.info.petID),
             f = PetXMLInfo.getCombo(p);
             if (f != p) {
-                var d, g, m = t.userID == MainManager.actorInfo.userID ? 10 * f + 1 : 10 * f + 2,
+                var g, d, m = t.userID == MainManager.actorInfo.userID ? 10 * f + 1 : 10 * f + 2,
                 y = SkillAnimateFactory.getSkillAnimate();
-                d = this.attackMC.getWorldPosition(),
-                g = this._playerMode.petWin.parent.globalToLocal(d.x, d.y),
-                g.x = g.x - 80,
-                this.attackMC.animate.scaleX > 0 && (g.x = g.x - 40),
+                g = this.attackMC.getWorldPosition(),
+                d = this._playerMode.petWin.parent.globalToLocal(g.x, g.y),
+                d.x = d.x - 80,
+                this.attackMC.animate.scaleX > 0 && (d.x = d.x - 40),
                 0 == FightManager.fightAnimateMode;
                 var v = 0;
                 this.attackMC.animate.scaleX > 0 && (v = -40),
@@ -2974,7 +2974,7 @@ FightNoteCmdListener = function() {
         PetManager.isUpdateing() ? t.onReady() : PetManager.updateBagInfo(t.onReady)
     },
     t.onReady = function() {
-        PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC || (PetFightModel.type = t.readyData.model),
+        PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC || (PetFightModel.type = t.readyData.model),
         -1 == t.typePve.indexOf(t.readyData.model) ? PetFightModel.status = PetFightModel.FIGHT_WITH_PLAYER: PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER && (PetFightModel.status = PetFightModel.FIGHT_WITH_BOSS),
         PetFightModel.type == PetFightModel.PET_ELMENT_FIGHT ? (EventManager.dispatchEvent(new DynamicEvent("ElementFightStart", {
             type: t.readyData.efFightType,
@@ -3246,13 +3246,52 @@ PetFightController = function() {
         var e = new FightStartInfo(t.dataObj);
         StartFightInfo.startInfo = e,
         PetFightMsgManager.showFirstRoundMsg(),
-        this.startFight(e),
+        this.startFight(e);
+        var i, n, o, r;
+        FightUserInfo.fighterInfos.myInfo.supportArr && FightUserInfo.fighterInfos.myInfo.supportArr.length && (i = FightUserInfo.fighterInfos.myInfo.supportArr[0].pid, n = FightUserInfo.fighterInfos.myInfo.supportArr[0].skinId, o = i, n > 0 && (o = PetSkinXMLInfo.getSkinPetId(n, i)), r = PetXMLInfo.getSupport(o), r > 0 && (this.petMcLeft = SpineAssetsManager.getInstance().getAssetsByID(r, !1), this.playPetLeft())),
+        FightUserInfo.fighterInfos.otherInfo.supportArr && FightUserInfo.fighterInfos.otherInfo.supportArr.length && (i = FightUserInfo.fighterInfos.otherInfo.supportArr[0].pid, n = FightUserInfo.fighterInfos.otherInfo.supportArr[0].skinId, o = i, n > 0 && (o = PetSkinXMLInfo.getSkinPetId(n, i)), r = PetXMLInfo.getSupport(o), r > 0 && (this.petMcRight = SpineAssetsManager.getInstance().getAssetsByID(r, !1), this.playPetRight())),
         StartFightInfo.changePetCthTime > 0 && (FighterModelFactory.playerMode.setAutoChangePet(StartFightInfo.changePetCthTime), StartFightInfo.changePetCthTime = 0),
         (PetFightModel.type == PetFightModel.HIGHER_FIGHT || PetFightModel.type == PetFightModel.GOLDEN_PALACE_FIGHT) && EnemyPetEffectView.higherFight(),
         FightManager.fightNeedRequestByClient && (EventManager.dispatchEvent(new egret.Event("enablePanel")), SocketConnection.sendByQueue(42385, [2, 1],
         function(t) {
             FightManager.fightNeedRequestByClient = !1
         }))
+    },
+    t.removePetMcs = function() {
+        this.removePetLeft(),
+        this.removePetRight()
+    },
+    t.playPetLeft = function() {
+        var t = this,
+        e = LevelManager.stage.localToGlobal(egret.lifecycle.stage.stageWidth / 2, egret.lifecycle.stage.stageHeight / 2),
+        i = this.mvContainer.globalToLocal(e.x, e.y);
+        this.petMcLeft.scaleX = this.petMcLeft.scaleY = egret.lifecycle.stage.stageWidth / 1920,
+        this.petMcLeft.x = i.x,
+        this.petMcLeft.y = i.y,
+        SpineUtil.play(this.petMcLeft, "left", this.mvContainer,
+        function() {
+            t.removePetLeft()
+        },
+        this)
+    },
+    t.playPetRight = function() {
+        var t = this,
+        e = LevelManager.stage.localToGlobal(egret.lifecycle.stage.stageWidth / 2, egret.lifecycle.stage.stageHeight / 2),
+        i = this.mvContainer.globalToLocal(e.x, e.y);
+        this.petMcRight.scaleX = this.petMcRight.scaleY = egret.lifecycle.stage.stageWidth / 1920,
+        this.petMcRight.x = i.x,
+        this.petMcRight.y = i.y,
+        SpineUtil.play(this.petMcRight, "right", this.mvContainer,
+        function() {
+            t.removePetRight()
+        },
+        this)
+    },
+    t.removePetLeft = function() {
+        this.petMcLeft && (this.petMcLeft = null)
+    },
+    t.removePetRight = function() {
+        this.petMcRight && (this.petMcRight = null)
     },
     t.onTriggerEffect = function(t) {},
     t.startFight = function(t) {
@@ -3285,7 +3324,7 @@ PetFightController = function() {
         this.petContainer.addChild(FighterModelFactory.playerMode.petWin)
     },
     t.destroy = function() {
-        if (EventManager.removeEventListener(SocketEvent.SOCKETRECONNECT, this.onReconnected, this), SocketConnection.removeCmdListener(CommandID.ANGELEVIL_FIGHT_SKILL_EFFECT, this.onTriggerEffect, this), SocketConnection.removeCmdListener(CommandID.NOTE_USE_SKILL, this.onUseSkill, this), SocketConnection.removeCmdListener(CommandID.CHANGE_PET, this.onChangePet, this), SocketConnection.removeCmdListener(CommandID.USE_PET_ITEM, this.onUsePetItem, this), SocketConnection.removeCmdListener(CommandID.CATCH_MONSTER, this.onCatchMonster, this), SocketConnection.removeCmdListener(CommandID.GET_PET_INFO, this.onGetPetInfo, this), SocketConnection.removeCmdListener(CommandID.GET_RECONECT_PET_INFO, this.onReconnectUpdateIno, this), EventManager.removeEventListener(PetFightEvent.START_FIGHT, this.onStartFight, this), EventManager.removeEventListener(PetFightEvent.PET_HAS_EXIST, this.hasExistHandler, this), EventManager.removeEventListener(PetFightEvent.ON_USE_PET_ITEM, this.onUsePetItemOver, this), LevelManager.stage.removeEventListener(egret.Event.RESIZE, this.resizeHandle, this), this.changePetData = null, EnemyPetEffectView.destroyHigherFight(), null != FighterModelFactory.hashMap) {
+        if (this.removePetMcs(), EventManager.removeEventListener(SocketEvent.SOCKETRECONNECT, this.onReconnected, this), SocketConnection.removeCmdListener(CommandID.ANGELEVIL_FIGHT_SKILL_EFFECT, this.onTriggerEffect, this), SocketConnection.removeCmdListener(CommandID.NOTE_USE_SKILL, this.onUseSkill, this), SocketConnection.removeCmdListener(CommandID.CHANGE_PET, this.onChangePet, this), SocketConnection.removeCmdListener(CommandID.USE_PET_ITEM, this.onUsePetItem, this), SocketConnection.removeCmdListener(CommandID.CATCH_MONSTER, this.onCatchMonster, this), SocketConnection.removeCmdListener(CommandID.GET_PET_INFO, this.onGetPetInfo, this), SocketConnection.removeCmdListener(CommandID.GET_RECONECT_PET_INFO, this.onReconnectUpdateIno, this), EventManager.removeEventListener(PetFightEvent.START_FIGHT, this.onStartFight, this), EventManager.removeEventListener(PetFightEvent.PET_HAS_EXIST, this.hasExistHandler, this), EventManager.removeEventListener(PetFightEvent.ON_USE_PET_ITEM, this.onUsePetItemOver, this), LevelManager.stage.removeEventListener(egret.Event.RESIZE, this.resizeHandle, this), this.changePetData = null, EnemyPetEffectView.destroyHigherFight(), null != FighterModelFactory.hashMap) {
             for (var t in FighterModelFactory.hashMap) {
                 var e = FighterModelFactory.hashMap[t];
                 null != e && (e.removeEventListener(BaseFighterModel.ATTACK_OVER, this.onAttackOver, this), e.destroy())
@@ -3334,7 +3373,7 @@ PetFightController = function() {
         this.queue = [],
         this._roundTimes = i.firstAttackInfo.round,
         this._roundTimes > 1,
-        PetFightModel.type == PetFightModel.DOOM_FIGHT || PetFightModel.type == PetFightModel.SHOW_ROUND || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC,
+        PetFightModel.type == PetFightModel.DOOM_FIGHT || PetFightModel.type == PetFightModel.SHOW_ROUND || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC,
         this.queue.push(i.firstAttackInfo),
         null != FightUserInfo.reconenctinfo && (FighterModelFactory.getFighterMode(i.firstAttackInfo.userID).sysFightPet(i.firstAttackInfo), FighterModelFactory.getFighterMode(i.secondAttackInfo.userID).sysFightPet(i.secondAttackInfo), FightUserInfo.reconenctinfo = null),
         i.firstAttackInfo.specailArr.length >= 11 && 1 == i.firstAttackInfo.specailArr[10] && (KTool.cloneObject(n, i.firstAttackInfo), i.firstAttackInfo.zhuijiId = 0, n.lostHP = i.firstAttackInfo.specailArr[11], n.gainHP = 0, n.effectName = "", n.issecondFight = !0, n.sideEffects = i.firstAttackInfo.sideEffects.concat(), n.skillResult = [], this.queue.push(n)),
@@ -5309,14 +5348,14 @@ BattleSkillTipController = function() {
             t._petinfo && (p = t._petinfo.catchTime),
             0 != o && PetManager.isFriendSkillActivate(o, e, p) ? (l = SkillXMLInfo.getFriendSideEffects(e), c = SkillXMLInfo.getFriendSideEffectArgs(e)) : (l = SkillXMLInfo.getSideEffects(e), c = SkillXMLInfo.getSideEffectArgs(e));
             var f = 0,
-            d = 0;
-            1e5 >= e && (f = SkillXMLInfo.movesMap[e].Priority, d = SkillXMLInfo.movesMap[e].MustHit),
+            g = 0;
+            1e5 >= e && (f = SkillXMLInfo.movesMap[e].Priority, g = SkillXMLInfo.movesMap[e].MustHit),
             h = 1 == u ? "#FF0000": 2 == u ? "#FF99FF": "#99ff00",
             a = "<font color='#ffff00'>" + _ + "</font>  <font color='" + h + "'>(" + SkillXMLInfo.getCategoryName(e) + ")</font>\r";
-            var g = "";
-            f > 0 ? g += "先制+" + f + "	": 0 > f && (g += "先制" + f + "	"),
-            d > 0 && (g += "必中"),
-            "" != g && (a += "\r<font color='#ffffff'>" + g + "</font>\r"),
+            var d = "";
+            f > 0 ? d += "先制+" + f + "	": 0 > f && (d += "先制" + f + "	"),
+            g > 0 && (d += "必中"),
+            "" != d && (a += "\r<font color='#ffffff'>" + d + "</font>\r"),
             "" != t.additionStr && null != t.additionStr && (a += "\r<font color='#00ffff'>" + t.additionStr + "</font>"),
             i && t.markStr && "" != t.markStr ? a += "\r<font color='#00ffff'>" + t.markStr + "</font>": t.markStr = "";
             var m = SkillTipNewXmlInfo.getSkillTipBySkillId(e);
@@ -5612,7 +5651,7 @@ var ControlPanelObserver = function(t) {
         TimerManager.wait()
     },
     e.prototype.isSurrender = function(t) {
-        return PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6 && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_WILD && PetFightModel.type != PetFightModel.PEAK_JIHAD_LIMIT_AC ? void(null != t && t(!1)) : void KTool.getMultiValue([3308, 6918],
+        return PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6 && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_WILD && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION && PetFightModel.type != PetFightModel.PEAK_JIHAD_LIMIT_AC ? void(null != t && t(!1)) : void KTool.getMultiValue([3308, 6918],
         function(e) {
             var i = e[0],
             n = e[1];
@@ -5830,7 +5869,7 @@ FightItemPanel = function(t) {
             if (ItemXMLInfo.getIsSuper(e) && !MainManager.actorInfo.isVip) continue;
             if (ItemFilterXMLInfo.isCatch(e)) this._itemMap[BasePanelObserver.ITEM_CATCH].push(e);
             else if (PetFightModel.type == PetFightModel.PET_TOPLEVEL || PetFightModel.type == PetFightModel.TOP_WAR_BEYOND) ItemFilterXMLInfo.isTopLevelBlood(e) && this._itemMap[BasePanelObserver.ITEM_STAT].push(e);
-            else if (PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC) PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER && (ItemFilterXMLInfo.isPeakJihadBlood(e) ? (t = ItemFilterXMLInfo.pporblood(e), t > 0 && this._itemMap[t].push(e)) : ItemFilterXMLInfo.isGoblinKingBattleStatusItem(e) || (t = ItemFilterXMLInfo.pporblood(e), t > 0 && this._itemMap[t].push(e)));
+            else if (PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC) PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER && (ItemFilterXMLInfo.isPeakJihadBlood(e) ? (t = ItemFilterXMLInfo.pporblood(e), t > 0 && this._itemMap[t].push(e)) : ItemFilterXMLInfo.isGoblinKingBattleStatusItem(e) || (t = ItemFilterXMLInfo.pporblood(e), t > 0 && this._itemMap[t].push(e)));
             else if (PetFightModel.type == PetFightModel.GOBLINKING_BATTLE) PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER && (ItemFilterXMLInfo.isGoblinKingBattleStatusItem(e) ? (t = ItemFilterXMLInfo.pporblood(e), t > 0 && this._itemMap[t].push(e)) : ItemFilterXMLInfo.isPeakJihadBlood(e) || (t = ItemFilterXMLInfo.pporblood(e), t > 0 && this._itemMap[t].push(e)));
             else {
                 if (ItemXMLInfo.getIsSuper(e) && !MainManager.actorInfo.isVip) continue;
@@ -7188,11 +7227,11 @@ SkillPanel = function(t) {
                         t.info.petID > 200 && t.info.petID < 300 && (p = 1),
                         t.info.petID > 300 && t.info.petID < 400 && (p = 2);
                         var f = PetXMLInfo.getCanLearnSkillList(this.ownPetIds[p]),
-                        d = PetXMLInfo.getCanLearnSPSkillList(this.ownPetIds[p]);
-                        l.id < 1e5 && -1 == o.indexOf(l.id) && -1 == r.indexOf(l.id) && -1 == f.indexOf(l.id) && -1 == d.indexOf(l.id) && -1 == s.indexOf(l.id) ? (c.removeEvent(), _.imge_item_mask.visible = !0, ToolTipManager.add(_, "你可以在实验室的技能唤醒仪处替换回正确的技能"), this.tipArray.push(_), u = !1) : (_.imge_item_mask.visible = !1, _.touchChildren = !0, _.touchEnabled = !0, c.changePP(0))
+                        g = PetXMLInfo.getCanLearnSPSkillList(this.ownPetIds[p]);
+                        l.id < 1e5 && -1 == o.indexOf(l.id) && -1 == r.indexOf(l.id) && -1 == f.indexOf(l.id) && -1 == g.indexOf(l.id) && -1 == s.indexOf(l.id) ? (c.removeEvent(), _.imge_item_mask.visible = !0, ToolTipManager.add(_, "你可以在实验室的技能唤醒仪处替换回正确的技能"), this.tipArray.push(_), u = !1) : (_.imge_item_mask.visible = !1, _.touchChildren = !0, _.touchEnabled = !0, c.changePP(0))
                     } else this._restrictSkillArr.indexOf(l.id) > -1 && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER && PetFightModel.mode == PetFightModel.SINGLE_MODE ? (c.removeEvent(), _.imge_item_mask.visible = !0, ToolTipManager.add(_, "该技能威力过大，你不能在与其他玩家的单精灵作战中使用"), this.tipArray.push(_), u = !1) : (_.imge_item_mask.visible = !1, _.touchChildren = !0, _.touchEnabled = !0, c.changePP(0));
-                    var g = t.info.skillStateInfo;
-                    c.setSkillState(g.skillRunawayMarks[n], g.lockedSkillArr[n]),
+                    var d = t.info.skillStateInfo;
+                    c.setSkillState(d.skillRunawayMarks[n], d.lockedSkillArr[n]),
                     this.allSkillBtnArray.push(c),
                     this._panel.addChild(_),
                     u && this.skillBtnArray.push(c),
@@ -7203,7 +7242,7 @@ SkillPanel = function(t) {
                 var m = new SkillBtnView;
                 m.petInfo = i,
                 m.setSkillInfo(i.hideSKill, !0),
-                m.setSkillState(g.skillRunawayMarks[g.skillRunawayMarks.length - 1], g.lockedSkillArr[4]),
+                m.setSkillState(d.skillRunawayMarks[d.skillRunawayMarks.length - 1], d.lockedSkillArr[4]),
                 this.skillBtnArray.push(m),
                 this.allSkillBtnArray.push(m),
                 this._panel.addChildAt(m.mc, 0)
@@ -7286,7 +7325,7 @@ ToolBtnPanelObserver = function(t) {
         }
         PetFightModel.type == PetFightModel.BATTLE_LAB && n.disableBtn(n.item_btn, n.item_btn_mask, !1),
         FightUserInfo.readyData.model == PetFightModel.QINGLONG_COMPLELETE_FIGHT && n.disableBtn(n.item_btn, n.item_btn_mask, !1),
-        PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6 && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_WILD && PetFightModel.type != PetFightModel.PEAK_JIHAD_LIMIT_AC || PetFightModel.status != PetFightModel.FIGHT_WITH_PLAYER || (PetFightController.roundTimes > PetFightController.violentValue && n.disableBtn(n.item_btn, n.item_btn_mask, !1), n.escapeAndsurrendertype = 1, PetFightController.roundTimes < PetFightController.surrenderValue ? (ToolTipManager.add(n.btnEscape, "20回合开始后才能认输哦！"), n.disableBtn(n.btnEscape, n.btnEscape_mask, !1)) : n.disableBtn(n.btnEscape, n.btnEscape_mask, !0)),
+        PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6 && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_WILD && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION && PetFightModel.type != PetFightModel.PEAK_JIHAD_LIMIT_AC || PetFightModel.status != PetFightModel.FIGHT_WITH_PLAYER || (PetFightController.roundTimes > PetFightController.violentValue && n.disableBtn(n.item_btn, n.item_btn_mask, !1), n.escapeAndsurrendertype = 1, PetFightController.roundTimes < PetFightController.surrenderValue ? (ToolTipManager.add(n.btnEscape, "20回合开始后才能认输哦！"), n.disableBtn(n.btnEscape, n.btnEscape_mask, !1)) : n.disableBtn(n.btnEscape, n.btnEscape_mask, !0)),
         PetFightModel.canEscape || n.disableBtn(n.btnEscape, n.btnEscape_mask, !1);
         var a = StartFightInfo.startInfo;
         return 3788 == a.otherInfo.petID && PetFightController.roundTimes <= 1 && n.disableBtn(n.btnPet, n.btnPet_mask, !1),
@@ -7344,7 +7383,7 @@ ToolBtnPanelObserver = function(t) {
         this.isCatch = FighterModelFactory.enemyMode.info.catchType > 0
     },
     e.prototype.setBtnAfterRoundChange = function() {
-        PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6 && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_WILD && PetFightModel.type != PetFightModel.PEAK_JIHAD_LIMIT_AC || PetFightModel.status != PetFightModel.FIGHT_WITH_PLAYER || (PetFightController.roundTimes > PetFightController.violentValue && this.disableBtn(this.item_btn, this.item_btn_mask, !1), this.escapeAndsurrendertype = 1, PetFightController.roundTimes < PetFightController.surrenderValue ? this.disableBtn(this.btnEscape, this.btnEscape_mask, !1) : this.disableBtn(this.btnEscape, this.btnEscape_mask, !0))
+        PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6 && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_WILD && PetFightModel.type != PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION && PetFightModel.type != PetFightModel.PEAK_JIHAD_LIMIT_AC || PetFightModel.status != PetFightModel.FIGHT_WITH_PLAYER || (PetFightController.roundTimes > PetFightController.violentValue && this.disableBtn(this.item_btn, this.item_btn_mask, !1), this.escapeAndsurrendertype = 1, PetFightController.roundTimes < PetFightController.surrenderValue ? this.disableBtn(this.btnEscape, this.btnEscape_mask, !1) : this.disableBtn(this.btnEscape, this.btnEscape_mask, !0))
     },
     e.prototype.resetOther = function() {
         for (var t = 0,
@@ -7356,7 +7395,7 @@ ToolBtnPanelObserver = function(t) {
                 if (PetFightModel.type == PetFightModel.PET_TRY_FIGHT) break;
                 if (PetFightModel.type == PetFightModel.BATTLE_LAB) break;
                 if (FightUserInfo.readyData.model == PetFightModel.QINGLONG_COMPLELETE_FIGHT) break;
-                if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) {
+                if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION || PetFightModel.type == PetFightModel.PEAK_JIHAD_LIMIT_AC) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) {
                     if (PetFightController.roundTimes > PetFightController.violentValue && i.btn == this.item_btn) continue;
                     if (PetFightController.roundTimes < PetFightController.surrenderValue - 1 && i.btn == this.btnEscape) continue
                 }
@@ -7830,12 +7869,12 @@ RelationshipView = function() {
             f = p.split(".")[1];
             u = void 0 != f ? f.length + 1 : 1,
             l.text = String(c.toFixed(u));
-            var d = [0],
-            g = [.125, .25, .375, .4375, .5, .5625, .625, .6875, .75, .8125, .875],
+            var g = [0],
+            d = [.125, .25, .375, .4375, .5, .5625, .625, .6875, .75, .8125, .875],
             m = [1],
             y = [1.125, 1.25, 1.375, 1.5, 2],
             v = [2.125, 2.25, 2.375, 2.5, 2.625, 2.75, 4],
-            I = d.concat(g).concat(m).concat(y).concat(v),
+            I = g.concat(d).concat(m).concat(y).concat(v),
             w = [126694, 16758572, 10608127, 16711679],
             M = [211095, 8789506, 1721480, 3557207];
             l.stroke = 1;
@@ -8017,9 +8056,22 @@ LoadingViewController = function() {
         for (var u = 0,
         p = t.allPetCatch; u < p.length; u++) {
             var f = p[u],
-            d = PetIdTransform.getPetId(0, f);
-            0 != d && -1 == t.allPetID.indexOf(d) ? this.assetLoading.addPetID(d) : 0 != d && -1 != t.allPetID.indexOf(d) && PetFightModel.type == PetFightModel.PET_MELEE && this.assetLoading.addPetID(PetManager.getPetInfo(f).id)
+            g = PetIdTransform.getPetId(0, f);
+            0 != g && -1 == t.allPetID.indexOf(g) ? this.assetLoading.addPetID(g) : 0 != g && -1 != t.allPetID.indexOf(g) && PetFightModel.type == PetFightModel.PET_MELEE && this.assetLoading.addPetID(PetManager.getPetInfo(f).id)
         }
+        var d, m, y, v;
+        if (t.myInfo.supportArr && t.myInfo.supportArr.length) for (var I = 0; I < t.myInfo.supportArr.length; I++) d = t.myInfo.supportArr[I].pid,
+        m = t.myInfo.supportArr[I].skinId,
+        y = d,
+        m > 0 && (y = PetSkinXMLInfo.getSkinPetId(m, d)),
+        v = PetXMLInfo.getSupport(y),
+        v > 0 && this.assetLoading.addSpineID(v);
+        if (t.otherInfo.supportArr && t.otherInfo.supportArr.length) for (var w = 0; w < t.otherInfo.supportArr.length; w++) d = t.otherInfo.supportArr[w].pid,
+        m = t.otherInfo.supportArr[w].skinId,
+        y = d,
+        m > 0 && (y = PetSkinXMLInfo.getSkinPetId(m, d)),
+        v = PetXMLInfo.getSupport(y),
+        v > 0 && this.assetLoading.addSpineID(v);
         this.loadingMC = new FightLoadingView(t),
         this.loadingMC.sprite().addEventListener(egret.Event.COMPLETE, this.onCHandler, this),
         SocketConnection.mainSocket.connected ? MainManager.stage.addChild(this.loadingMC.sprite()) : LevelManager.topLevel.addChild(this.loadingMC.sprite()),
@@ -10113,13 +10165,13 @@ PetFightMsgManager = function() {
         u.propView.removeAllEffect();
         var p = 0,
         f = !1,
-        d = "";
+        g = "";
         PetStatusEffectController.removeAllEffect(t.userID);
-        for (var g = 0,
-        m = t.status; g < m.length; g++) {
-            var y = m[g];
+        for (var d = 0,
+        m = t.status; d < m.length; d++) {
+            var y = m[d];
             if (0 != y) {
-                d += PetStatusEffectConfig.getName(0, p),
+                g += PetStatusEffectConfig.getName(0, p),
                 f = !0;
                 var v = new egret.ByteArray;
                 v.writeUnsignedInt(0),

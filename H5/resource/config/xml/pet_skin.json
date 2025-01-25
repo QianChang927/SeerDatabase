@@ -10743,9 +10743,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 18,
-                "Name": "终极赛罗",
-                "Go": "103;app/AotemanSkinPanel",
-                "GoType": "map|module"
+                "Name": "终极赛罗"
             },
             {
                 "SkinKind": [
@@ -10761,9 +10759,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 18,
-                "Name": "皇帝贝利亚",
-                "Go": "103;app/AotemanSkinPanel",
-                "GoType": "map|module"
+                "Name": "皇帝贝利亚"
             },
             {
                 "SkinKind": [
@@ -10779,9 +10775,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 18,
-                "Name": "终极贝利亚",
-                "Go": "103;app/AotemanSkinPanel",
-                "GoType": "map|module"
+                "Name": "终极贝利亚"
             },
             {
                 "SkinKind": [
@@ -10797,9 +10791,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "跹舞对月·云盈",
-                "Go": "1095;app/PeakJihad2023WarOrdePanel",
-                "GoType": "map|module"
+                "Name": "跹舞对月·云盈"
             },
             {
                 "SkinKind": [
@@ -10815,9 +10807,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 15,
-                "Name": "星云幻想·黄金天马",
-                "Go": "1095;app/PeakJihad2023WarOrdePanel",
-                "GoType": "map|module"
+                "Name": "星云幻想·黄金天马"
             },
             {
                 "SkinKind": [
@@ -11036,9 +11026,7 @@
                 "Target": 0,
                 "Occasion": 1,
                 "AddWay": 1,
-                "Name": "杰洛恩",
-                "Go": "103;app/JieLuoEnCompletePanel",
-                "GoType": "map|module"
+                "Name": "杰洛恩"
             },
             {
                 "SkinKind": [
@@ -11053,9 +11041,7 @@
                 "Target": 0,
                 "Occasion": 1,
                 "AddWay": 1,
-                "Name": "关银屏",
-                "Go": "103;app/AiBoLaKeSkinSellPanel",
-                "GoType": "map|module"
+                "Name": "关银屏"
             },
             {
                 "SkinKind": [
@@ -11071,8 +11057,283 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 8,
-                "Name": "暖阳礼遇·拉伯克",
-                "Go": "103;app/AiBoLaKeSkinSellPanel",
+                "Name": "暖阳礼遇·拉伯克"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 679,
+                "MonID": 4278,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "时尚跃动·阿特洛波斯"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 680,
+                "MonID": 4642,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 8,
+                "Name": "雪夜漫步·哀目黑子"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 681,
+                "MonID": 4542,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 2,
+                "Name": "冬梦使者·明德里奇"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 682,
+                "MonID": 4706,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "午后微憩·奥菲利娅",
+                "Go": "1715;app/YearPet2025SkinPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 683,
+                "MonID": 4327,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "阿尔斯兰"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 684,
+                "MonID": 4633,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "树灵之唤·克劳里菲"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 685,
+                "MonID": 4712,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "唯一罪源·龙琰",
+                "Go": "1095;app/PeakJihad2023ShopPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 686,
+                "MonID": 4484,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "森野之息·卡莎",
+                "Go": "app/SeerInterstellarPassportMainPanel",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 687,
+                "MonID": 4714,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "熔炉·古代巨型机器人",
+                "Go": "103;app/RobotSkinSellPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 688,
+                "MonID": 3830,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "灰梦旅人·无烬",
+                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 689,
+                "MonID": 4600,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 7,
+                "Name": "节节高升·斯布林蒂",
+                "Go": "103;app/ThreeSistersSkinSellPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 690,
+                "MonID": 4604,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 7,
+                "Name": "年年有余·萨芙凯特",
+                "Go": "103;app/ThreeSistersSkinSellPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 691,
+                "MonID": 4450,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 14,
+                "Name": "岁岁平安·逐界苍星",
+                "Go": "app/NewYearConsumptionFeedbackMainPanel",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 692,
+                "MonID": 4717,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 18,
+                "Name": "文明之忏·尤纳斯",
+                "Go": "103;app/BHYunusSellPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 693,
+                "MonID": 4721,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 2,
+                "Name": "真红之视·索比拉特",
+                "Go": "1720;app/AnHunSuoBiLaTeMainPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 694,
+                "MonID": 4554,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "墟芜埪座·圣谕邪魇",
+                "Go": "103;app/ShengYuXieMoSkinPanel",
                 "GoType": "map|module"
             }
         ]

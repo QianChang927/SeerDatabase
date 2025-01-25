@@ -427,6 +427,7 @@ function(t) {
             t.worldType = 0,
             t.selectStar = 0,
             t._iconList = [],
+            t.isShowUnityApply = !0,
             t.skinName = "ToolBarSkin",
             t
         }
@@ -497,7 +498,12 @@ function(t) {
             this.txtMapName.text = t
         },
         i.prototype.initButtons = function() {
-            GuideManager.isCompleted() ? this.initMainIcon() : this.btnHideLeftMenu.visible = this.btnShowLeftMenu.visible = !1,
+            var t = this;
+            GuideManager.isCompleted() ? KTool.getMultiValue([121906],
+            function(e) {
+                SystemTimerManager.sysBJDate.getDate() >= 3 && 0 == SystemTimerManager.sysBJDate.getMonth() && SystemTimerManager.sysBJDate.getHours() > 10 && (t.isShowUnityApply = 1 == e[0]),
+                t.initMainIcon()
+            }) : this.btnHideLeftMenu.visible = this.btnShowLeftMenu.visible = !1,
             this.initSysButtons()
         },
         i.prototype.xinshouShow = function() {
@@ -560,8 +566,17 @@ function(t) {
                     case 2:
                         for (r = d.sent(), ToolBarManager.isNewSeerIconShow = a, ToolBarManager.isNewSeerIconShow || EventManager.dispatchEventWith("NewSeerDoneTask"), o = [], s = n.filter(function(t) {
                             return t.truepos > 0
-                        }), e = 0; e < s.length; e++) h = s[e],
-                        (!IS_RELEASE || h.isshow) && (h.isdeadline && (g = new Date(h.finishtime.replace(/_/g, "/")).getTime(), u = SystemTimerManager.sysBJDate.getTime(), u >= g) || "至尊年费" == h.name && GameInfo.isChecking || ("新手福利" != h.name || a) && ("老兵回归" != h.name || r) && (GameInfo.isChecking ? ("星愿好礼" == h.name || "老兵回归" == h.name) && o.push(h) : o.push(h)));
+                        }), e = 0; e < s.length; e++) if (h = s[e], (!IS_RELEASE || h.isshow) && !(h.isdeadline && (g = new Date(h.finishtime.replace(/_/g, "/")).getTime(), u = SystemTimerManager.sysBJDate.getTime(), u >= g)) && ("至尊年费" != h.name || !GameInfo.isChecking) && ("新手福利" != h.name || a) && ("老兵回归" != h.name || r)) if (GameInfo.isChecking)("星愿好礼" == h.name || "老兵回归" == h.name) && o.push(h);
+                        else {
+                            if ("Unity招募" == h.name) {
+                                if (this.isShowUnityApply) {
+                                    o.push(h);
+                                    continue
+                                }
+                                continue
+                            }
+                            o.push(h)
+                        }
                         for (o.filter(function(t) {
                             return null != t
                         }), o.sort(function(t, e) {

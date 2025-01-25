@@ -175,48 +175,38 @@ function(t) {
                     })
                 },
                 i),
-                e >= 2 && (ImageButtonUtil.add(i["imgTe" + e],
+                ImageButtonUtil.add(i["imgTe" + e],
                 function() {
                     t.service.showPetEff(t.petId)
                 },
-                i), ImageButtonUtil.add(i["imgKe" + e],
-                function() {
-                    t.service.showMarkInfo(t["KeId" + (e - 1)])
-                },
-                i))
+                i)
             },
-            i = this, n = 1; 3 >= n; n++) e(n)
+            i = this, n = 1; 1 >= n; n++) e(n)
         },
         e.prototype.update = function() {
             return __awaiter(this, void 0, void 0,
             function() {
-                var t, e, i, n, o, r, i, a, i, s = this;
+                var t, e, i, n, o, r, i, a = this;
                 return __generator(this,
-                function(u) {
-                    switch (u.label) {
+                function(s) {
+                    switch (s.label) {
                     case 0:
                         return t = MainManager.actorInfo.isVip,
                         this.txtBtn.text = t ? "续费VIP": "开通VIP",
                         this.imgPet.source = "resource/assets/vip/imgPet2.png",
                         [4, RES.getResByUrl("resource/assets/vip/text.json")];
                     case 1:
-                        for (e = u.sent(), i = 1; 5 >= i; i++) this["txt" + i].text = e["txt" + i];
-                        for (this.curYear = e.year, this.curMonth = e.month, this.flagHasGet = e.flagHasGet, n = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("vip_month_monster")).Root.Item, o = n[n.length - 1], this.petId = o.MonsterID, this.WuId = SkillXMLInfo.getHideSkillId(this.petId), r = o.BonusIds.split(" ")[o.CurMonth - 1], n = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("open_bonus")).Root.Bonus, i = n.length - 1; i >= 0; i--) if (a = n[i], a.ID == r) {
-                            this.KeId1 = a.Out[1].Mintmark.ID,
-                            this.KeId2 = a.Out[2].Mintmark.ID;
-                            break
-                        }
-                        for (i = 1; 3 >= i; i++) this["imgHead" + i].source = ClientConfig.getPetHeadPath(this.petId),
-                        i >= 2 && (this["imgKe" + i].source = ClientConfig.getMarkPath(this["KeId" + (i - 1)]));
+                        for (e = s.sent(), i = 1; 3 >= i; i++) this["txt" + i].text = e["txt" + i];
+                        for (this.curYear = e.year, this.curMonth = e.month, this.flagHasGet = e.flagHasGet, n = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("vip_month_monster")).Root.Item, o = n[n.length - 1], this.petId = o.MonsterID, this.WuId = SkillXMLInfo.getHideSkillId(this.petId), r = o.BonusIds.split(" ")[o.CurMonth - 1], n = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("open_bonus")).Root.Bonus, i = 1; 1 >= i; i++) this["imgHead" + i].source = ClientConfig.getPetHeadPath(this.petId);
                         return KTool.getMultiValue([this.flagHasGet, 100750],
                         function(t) {
                             var e = t[0];
-                            s.hasGetPet = !!t[0];
-                            for (var i = t[1], n = 1; 3 >= n; n++) {
+                            a.hasGetPet = !!t[0];
+                            for (var i = t[1], n = 1; 1 >= n; n++) {
                                 var o = +VipController.isCurYearVip + i >= n,
                                 r = e >= n;
-                                s["txtGet" + n].text = r ? "已领取": "领 取",
-                                DisplayUtil.setEnabled(s["btnGet" + n], o && !r, r || !o)
+                                a["txtGet" + n].text = r ? "已领取": "领 取",
+                                DisplayUtil.setEnabled(a["btnGet" + n], o && !r, r || !o)
                             }
                         }),
                         [2]
@@ -1708,10 +1698,10 @@ generateEUI.paths["resource/eui_skins/pop/VipLevelRulePopSkin.exml"] = window.Vi
 generateEUI.paths["resource/eui_skins/pop/VipMonthlyPetPopSkin.exml"] = window.VipMonthlyPetPopSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["btnClose", "imgPet", "btnInfo", "txt1", "txt2", "txtGet1", "btnGet1", "imgWu1", "imgHead1", "txt3", "txtGet2", "btnGet2", "imgWu2", "imgTe2", "imgKe2", "imgHead2", "txt4", "txtGet3", "btnGet3", "imgWu3", "imgTe3", "imgKe3", "imgHead3", "txt5", "txtBtn", "btnVip"],
+        this.skinParts = ["btnClose", "imgPet", "btnInfo", "txt1", "txt2", "imgWu1", "imgTe1", "imgHead1", "txt3", "txt8", "txtBtn", "btnVip", "txtGet1", "btnGet1"],
         this.height = 550,
         this.width = 1005,
-        this.elementsContent = [this._Image1_i(), this.btnClose_i(), this.imgPet_i(), this.btnInfo_i(), this._Image2_i(), this.txt1_i(), this.txt2_i(), this._Group1_i(), this._Group2_i(), this._Group3_i(), this.btnVip_i()]
+        this.elementsContent = [this._Image1_i(), this.btnClose_i(), this.imgPet_i(), this.btnInfo_i(), this._Image2_i(), this.txt1_i(), this.txt2_i(), this._Group1_i(), this.txt8_i(), this.btnVip_i(), this.btnGet1_i()]
     }
     __extends(e, t);
     var i = e.prototype;
@@ -1765,8 +1755,11 @@ generateEUI.paths["resource/eui_skins/pop/VipMonthlyPetPopSkin.exml"] = window.V
         return this.txt1 = t,
         t.fontFamily = "MFShangHei",
         t.size = 18,
+        t.text = "是否",
+        t.textAlign = "center",
         t.textColor = 11252991,
-        t.x = 514,
+        t.width = 540,
+        t.x = 418,
         t.y = 65,
         t
     },
@@ -1783,8 +1776,8 @@ generateEUI.paths["resource/eui_skins/pop/VipMonthlyPetPopSkin.exml"] = window.V
     i._Group1_i = function() {
         var t = new eui.Group;
         return t.x = 414,
-        t.y = 116,
-        t.elementsContent = [this._Image3_i(), this.btnGet1_i(), this.imgWu1_i(), this._Image5_i(), this._Image6_i(), this.imgHead1_i(), this._Label1_i(), this.txt3_i()],
+        t.y = 181,
+        t.elementsContent = [this._Image3_i(), this.imgWu1_i(), this.imgTe1_i(), this.imgHead1_i(), this.txt3_i(), this._Image4_i()],
         t
     },
     i._Image3_i = function() {
@@ -1792,35 +1785,6 @@ generateEUI.paths["resource/eui_skins/pop/VipMonthlyPetPopSkin.exml"] = window.V
         return t.source = "vip_monthly_pet_pop_chongzhibg1_png",
         t.x = 0,
         t.y = 0,
-        t
-    },
-    i.btnGet1_i = function() {
-        var t = new eui.Group;
-        return this.btnGet1 = t,
-        t.x = 443,
-        t.y = 46,
-        t.elementsContent = [this._Image4_i(), this.txtGet1_i()],
-        t
-    },
-    i._Image4_i = function() {
-        var t = new eui.Image;
-        return t.height = 34,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "vip_item_img1_png",
-        t.width = 86,
-        t.x = 0,
-        t.y = 0,
-        t
-    },
-    i.txtGet1_i = function() {
-        var t = new eui.Label;
-        return this.txtGet1 = t,
-        t.fontFamily = "MFShangHei",
-        t.horizontalCenter = 0,
-        t.size = 18,
-        t.text = "领 取",
-        t.verticalCenter = 0,
         t
     },
     i.imgWu1_i = function() {
@@ -1831,18 +1795,12 @@ generateEUI.paths["resource/eui_skins/pop/VipMonthlyPetPopSkin.exml"] = window.V
         t.y = 38,
         t
     },
-    i._Image5_i = function() {
+    i.imgTe1_i = function() {
         var t = new eui.Image;
-        return t.source = "vip_monthly_pet_pop_imgno1_png",
+        return this.imgTe1 = t,
+        t.source = "vip_monthly_pet_pop_imgte2_png",
         t.x = 207,
-        t.y = 40,
-        t
-    },
-    i._Image6_i = function() {
-        var t = new eui.Image;
-        return t.source = "vip_monthly_pet_pop_imgno1_png",
-        t.x = 291,
-        t.y = 40,
+        t.y = 45,
         t
     },
     i.imgHead1_i = function() {
@@ -1854,246 +1812,32 @@ generateEUI.paths["resource/eui_skins/pop/VipMonthlyPetPopSkin.exml"] = window.V
         t.y = 27,
         t
     },
-    i._Label1_i = function() {
-        var t = new eui.Label;
-        return t.fontFamily = "REEJI",
-        t.size = 18,
-        t.text = "充值一个月",
-        t.textColor = 16514895,
-        t.x = 22,
-        t.y = 3,
-        t
-    },
     i.txt3_i = function() {
         var t = new eui.Label;
         return this.txt3 = t,
         t.fontFamily = "MFShangHei",
         t.size = 16,
         t.textColor = 13425919,
-        t.x = 115,
-        t.y = 4,
-        t
-    },
-    i._Group2_i = function() {
-        var t = new eui.Group;
-        return t.x = 414,
-        t.y = 235,
-        t.elementsContent = [this._Image7_i(), this.btnGet2_i(), this.imgWu2_i(), this.imgTe2_i(), this.imgKe2_i(), this.imgHead2_i(), this._Label2_i(), this.txt4_i(), this._Image9_i()],
-        t
-    },
-    i._Image7_i = function() {
-        var t = new eui.Image;
-        return t.source = "vip_monthly_pet_pop_chongzhibg1_png",
-        t.x = 0,
-        t.y = 0,
-        t
-    },
-    i.btnGet2_i = function() {
-        var t = new eui.Group;
-        return this.btnGet2 = t,
-        t.x = 443,
-        t.y = 46,
-        t.elementsContent = [this._Image8_i(), this.txtGet2_i()],
-        t
-    },
-    i._Image8_i = function() {
-        var t = new eui.Image;
-        return t.height = 34,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "vip_item_img1_png",
-        t.width = 86,
-        t.x = 0,
-        t.y = 0,
-        t
-    },
-    i.txtGet2_i = function() {
-        var t = new eui.Label;
-        return this.txtGet2 = t,
-        t.fontFamily = "MFShangHei",
-        t.horizontalCenter = 0,
-        t.size = 18,
-        t.text = "领 取",
-        t.verticalCenter = 0,
-        t
-    },
-    i.imgWu2_i = function() {
-        var t = new eui.Image;
-        return this.imgWu2 = t,
-        t.source = "vip_monthly_pet_pop_imgwu1_png",
-        t.x = 119,
-        t.y = 38,
-        t
-    },
-    i.imgTe2_i = function() {
-        var t = new eui.Image;
-        return this.imgTe2 = t,
-        t.source = "vip_monthly_pet_pop_imgte2_png",
-        t.x = 207,
-        t.y = 45,
-        t
-    },
-    i.imgKe2_i = function() {
-        var t = new eui.Image;
-        return this.imgKe2 = t,
-        t.height = 50,
-        t.width = 50,
-        t.x = 290,
-        t.y = 40,
-        t
-    },
-    i.imgHead2_i = function() {
-        var t = new eui.Image;
-        return this.imgHead2 = t,
-        t.height = 70,
-        t.width = 70,
-        t.x = 24,
-        t.y = 27,
-        t
-    },
-    i._Label2_i = function() {
-        var t = new eui.Label;
-        return t.fontFamily = "REEJI",
-        t.size = 18,
-        t.text = "充值二个月",
-        t.textColor = 16514895,
         t.x = 22,
-        t.y = 3,
-        t
-    },
-    i.txt4_i = function() {
-        var t = new eui.Label;
-        return this.txt4 = t,
-        t.fontFamily = "MFShangHei",
-        t.size = 16,
-        t.textColor = 13425919,
-        t.x = 115,
         t.y = 4,
         t
     },
-    i._Image9_i = function() {
+    i._Image4_i = function() {
         var t = new eui.Image;
         return t.source = "vip_monthly_pet_pop_tag2_png",
         t.x = 19,
         t.y = 82,
         t
     },
-    i._Group3_i = function() {
-        var t = new eui.Group;
-        return t.x = 414,
-        t.y = 355,
-        t.elementsContent = [this._Image10_i(), this.btnGet3_i(), this.imgWu3_i(), this.imgTe3_i(), this.imgKe3_i(), this.imgHead3_i(), this._Label3_i(), this.txt5_i(), this._Image12_i(), this._Image13_i(), this._Image14_i()],
-        t
-    },
-    i._Image10_i = function() {
-        var t = new eui.Image;
-        return t.source = "vip_monthly_pet_pop_chongzhibg1_png",
-        t.x = 0,
-        t.y = 0,
-        t
-    },
-    i.btnGet3_i = function() {
-        var t = new eui.Group;
-        return this.btnGet3 = t,
-        t.x = 443,
-        t.y = 46,
-        t.elementsContent = [this._Image11_i(), this.txtGet3_i()],
-        t
-    },
-    i._Image11_i = function() {
-        var t = new eui.Image;
-        return t.height = 34,
-        t.scaleX = 1,
-        t.scaleY = 1,
-        t.source = "vip_item_img1_png",
-        t.width = 86,
-        t.x = 0,
-        t.y = 0,
-        t
-    },
-    i.txtGet3_i = function() {
+    i.txt8_i = function() {
         var t = new eui.Label;
-        return this.txtGet3 = t,
-        t.fontFamily = "MFShangHei",
-        t.horizontalCenter = 0,
-        t.size = 18,
-        t.text = "领 取",
-        t.verticalCenter = 0,
-        t
-    },
-    i.imgWu3_i = function() {
-        var t = new eui.Image;
-        return this.imgWu3 = t,
-        t.source = "vip_monthly_pet_pop_imgwu1_png",
-        t.x = 119,
-        t.y = 38,
-        t
-    },
-    i.imgTe3_i = function() {
-        var t = new eui.Image;
-        return this.imgTe3 = t,
-        t.source = "vip_monthly_pet_pop_imgte2_png",
-        t.x = 207,
-        t.y = 44,
-        t
-    },
-    i.imgKe3_i = function() {
-        var t = new eui.Image;
-        return this.imgKe3 = t,
-        t.height = 50,
-        t.width = 50,
-        t.x = 290,
-        t.y = 40,
-        t
-    },
-    i.imgHead3_i = function() {
-        var t = new eui.Image;
-        return this.imgHead3 = t,
-        t.height = 70,
-        t.width = 70,
-        t.x = 24,
-        t.y = 27,
-        t
-    },
-    i._Label3_i = function() {
-        var t = new eui.Label;
-        return t.fontFamily = "REEJI",
-        t.size = 18,
-        t.text = "充值三个月",
-        t.textColor = 16514895,
-        t.x = 22,
-        t.y = 3,
-        t
-    },
-    i.txt5_i = function() {
-        var t = new eui.Label;
-        return this.txt5 = t,
-        t.fontFamily = "MFShangHei",
-        t.size = 16,
-        t.textColor = 13425919,
-        t.x = 115,
-        t.y = 4,
-        t
-    },
-    i._Image12_i = function() {
-        var t = new eui.Image;
-        return t.source = "vip_monthly_pet_pop_tag1_png",
-        t.x = 19,
-        t.y = 85,
-        t
-    },
-    i._Image13_i = function() {
-        var t = new eui.Image;
-        return t.source = "vip_monthly_pet_pop_tag2_png",
-        t.x = 19,
-        t.y = 69,
-        t
-    },
-    i._Image14_i = function() {
-        var t = new eui.Image;
-        return t.source = "vip_monthly_pet_pop_tag3_png",
-        t.x = 274,
-        t.y = 82,
+        return this.txt8 = t,
+        t.fontFamily = "REEJI",
+        t.size = 22,
+        t.text = "非年费用户开通1个月VIP可领取",
+        t.textColor = 9674212,
+        t.x = 539,
+        t.y = 316,
         t
     },
     i.btnVip_i = function() {
@@ -2101,12 +1845,12 @@ generateEUI.paths["resource/eui_skins/pop/VipMonthlyPetPopSkin.exml"] = window.V
         return this.btnVip = t,
         t.height = 46,
         t.width = 134,
-        t.x = 637,
-        t.y = 478,
-        t.elementsContent = [this._Image15_i(), this.txtBtn_i()],
+        t.x = 733,
+        t.y = 465,
+        t.elementsContent = [this._Image5_i(), this.txtBtn_i()],
         t
     },
-    i._Image15_i = function() {
+    i._Image5_i = function() {
         var t = new eui.Image;
         return t.scaleX = 1,
         t.scaleY = 1,
@@ -2121,6 +1865,36 @@ generateEUI.paths["resource/eui_skins/pop/VipMonthlyPetPopSkin.exml"] = window.V
         t.fontFamily = "REEJI",
         t.horizontalCenter = 0,
         t.size = 20,
+        t.textColor = 10246682,
+        t.verticalCenter = 0,
+        t
+    },
+    i.btnGet1_i = function() {
+        var t = new eui.Group;
+        return this.btnGet1 = t,
+        t.height = 46,
+        t.width = 134,
+        t.x = 526,
+        t.y = 465,
+        t.elementsContent = [this._Image6_i(), this.txtGet1_i()],
+        t
+    },
+    i._Image6_i = function() {
+        var t = new eui.Image;
+        return t.scaleX = 1,
+        t.scaleY = 1,
+        t.source = "vip1_btnbg_png",
+        t.x = 0,
+        t.y = 0,
+        t
+    },
+    i.txtGet1_i = function() {
+        var t = new eui.Label;
+        return this.txtGet1 = t,
+        t.fontFamily = "REEJI",
+        t.horizontalCenter = 0,
+        t.size = 20,
+        t.text = "领取",
         t.textColor = 10246682,
         t.verticalCenter = 0,
         t

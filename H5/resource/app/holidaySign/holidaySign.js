@@ -43,7 +43,7 @@ function(t) {
                 num: 1
             },
             {
-                id: 2400336,
+                id: 2400446,
                 num: 100
             }],
             t.skinName = WinterSignSkin,
@@ -61,7 +61,7 @@ function(t) {
             var t = this;
             ImageButtonUtil.add(this.btnInfo,
             function() {
-                PetManager.showPetManualInfo(4595, 1)
+                PetManager.showPetManualInfo(4715, 1)
             },
             this),
             ImageButtonUtil.add(this.btnClose,
@@ -80,16 +80,16 @@ function(t) {
             var t = this;
             KTool.getMultiValue([121161, 201347],
             function(e) {
-                for (var i = [], n = e[0], o = 1 == e[1], r = 0, s = 0; 28 > s; s++) {
+                for (var i = [], n = e[0], o = 1 == e[1], s = 0, r = 0; 28 > r; r++) {
                     var a = 0;
-                    n > s ? a = 2 : n == s && (a = o ? 0 : 1);
+                    n > r ? a = 2 : n == r && (a = o ? 0 : 1);
                     var u = {
-                        id: t.items[r].id,
-                        num: 6 == r ? 50 * ((s + 1) / 7 - 1) + t.items[r].num: t.items[r].num,
+                        id: t.items[s].id,
+                        num: 6 == s ? 50 * ((r + 1) / 7 - 1) + t.items[s].num: t.items[s].num,
                         state: a
                     };
-                    r++,
-                    r = gsap.utils.wrap(0, 7, r),
+                    s++,
+                    s = gsap.utils.wrap(0, 7, s),
                     i.push(u)
                 }
                 t.list.dataProvider = new eui.ArrayCollection(i)
@@ -143,7 +143,7 @@ function(t) {
             this), this.updateView())
         },
         e.prototype.updateView = function() {
-            this.itemIndex + 1 < 10 ? this.txtDay.text = "0" + (this.itemIndex + 1) : this.txtDay.text = "" + (this.itemIndex + 1),
+            this.itemIndex + 1 < 10 ? this.txtDay.text = "" + (this.itemIndex + 1) : this.txtDay.text = "" + (this.itemIndex + 1),
             this.currentState = ["notGet", "canGet", "hasGot"][this.info.state],
             this.imgIcon.source = ClientConfig.getItemIcon(this.info.id),
             this.txtNum.text = "x" + this.info.num
@@ -170,8 +170,8 @@ generateEUI.paths["resource/eui_skins/WinterSignItemBigSkin.exml"] = window.Wint
     function e() {
         t.call(this),
         this.skinParts = ["imgItemBg", "imgCanGet", "imgIcon", "txtNum", "txtDay", "hasGot", "day"],
-        this.height = 101,
-        this.width = 145,
+        this.height = 90,
+        this.width = 122,
         this.elementsContent = [this.day_i()],
         this.states = [new eui.State("notGet", [new eui.SetProperty("imgCanGet", "visible", !1), new eui.SetProperty("imgIcon", "visible", !0), new eui.SetProperty("txtDay", "visible", !0), new eui.SetProperty("hasGot", "visible", !1)]), new eui.State("canGet", [new eui.SetProperty("imgItemBg", "visible", !1), new eui.SetProperty("imgCanGet", "visible", !0), new eui.SetProperty("hasGot", "visible", !1)]), new eui.State("hasGot", [new eui.SetProperty("imgItemBg", "visible", !0), new eui.SetProperty("imgCanGet", "visible", !1), new eui.SetProperty("hasGot", "visible", !0)])]
     }
@@ -180,6 +180,7 @@ generateEUI.paths["resource/eui_skins/WinterSignItemBigSkin.exml"] = window.Wint
     return i.day_i = function() {
         var t = new eui.Group;
         return this.day = t,
+        t.y = -6.242,
         t.elementsContent = [this.imgItemBg_i(), this.imgCanGet_i(), this.imgIcon_i(), this.txtNum_i(), this.txtDay_i(), this.hasGot_i()],
         t
     },
@@ -187,7 +188,7 @@ generateEUI.paths["resource/eui_skins/WinterSignItemBigSkin.exml"] = window.Wint
         var t = new eui.Image;
         return this.imgItemBg = t,
         t.source = "wintersign_imgitembg2_png",
-        t.x = 3,
+        t.x = 7.74,
         t.y = 3,
         t
     },
@@ -195,8 +196,9 @@ generateEUI.paths["resource/eui_skins/WinterSignItemBigSkin.exml"] = window.Wint
         var t = new eui.Image;
         return this.imgCanGet = t,
         t.source = "wintersign_imgcanget2_png",
+        t.visible = !0,
         t.x = 0,
-        t.y = 0,
+        t.y = -1.975,
         t
     },
     i.imgIcon_i = function() {
@@ -204,40 +206,45 @@ generateEUI.paths["resource/eui_skins/WinterSignItemBigSkin.exml"] = window.Wint
         return this.imgIcon = t,
         t.height = 50,
         t.width = 50,
-        t.x = 69,
+        t.x = 37.4,
         t.y = 26,
         t
     },
     i.txtNum_i = function() {
         var t = new eui.Label;
         return this.txtNum = t,
-        t.right = 12,
         t.size = 18,
         t.stroke = 1,
         t.strokeColor = 1794748,
         t.text = "×20",
-        t.textColor = 15466342,
-        t.y = 70,
+        t.textAlign = "right",
+        t.textColor = 15269375,
+        t.width = 42.364,
+        t.x = 48.887,
+        t.y = 65.073,
         t
     },
     i.txtDay_i = function() {
         var t = new eui.Label;
         return this.txtDay = t,
         t.fontFamily = "MFShangHei",
-        t.horizontalCenter = -45,
-        t.size = 30,
+        t.size = 20,
+        t.stroke = 1,
+        t.strokeColor = 1794748,
         t.text = "07",
-        t.textAlign = "center",
-        t.textColor = 16645993,
-        t.y = 63,
+        t.textAlign = "left",
+        t.textColor = 15269375,
+        t.x = 12.959,
+        t.y = 7.726,
         t
     },
     i.hasGot_i = function() {
         var t = new eui.Image;
         return this.hasGot = t,
         t.source = "wintersign_hasgot2_png",
-        t.x = 3,
-        t.y = 3,
+        t.visible = !0,
+        t.x = 16.644,
+        t.y = 13.612,
         t
     },
     e
@@ -246,7 +253,7 @@ generateEUI.paths["resource/eui_skins/WinterSignItemSkin.exml"] = window.WinterS
     function e() {
         t.call(this),
         this.skinParts = ["imgItemBg", "imgCanGet", "imgIcon", "txtNum", "txtDay", "hasGot", "day"],
-        this.height = 101,
+        this.height = 90,
         this.width = 145,
         this.elementsContent = [this.day_i()],
         this.states = [new eui.State("notGet", [new eui.SetProperty("imgCanGet", "visible", !1), new eui.SetProperty("hasGot", "visible", !1)]), new eui.State("canGet", [new eui.SetProperty("imgItemBg", "visible", !1), new eui.SetProperty("hasGot", "visible", !1)]), new eui.State("hasGot", [new eui.SetProperty("imgItemBg", "visible", !0), new eui.SetProperty("imgCanGet", "visible", !1), new eui.SetProperty("imgIcon", "visible", !0)])]
@@ -265,7 +272,7 @@ generateEUI.paths["resource/eui_skins/WinterSignItemSkin.exml"] = window.WinterS
         var t = new eui.Image;
         return this.imgItemBg = t,
         t.source = "wintersign_imgitembg1_png",
-        t.x = 3,
+        t.x = 9.946,
         t.y = 3,
         t
     },
@@ -280,41 +287,44 @@ generateEUI.paths["resource/eui_skins/WinterSignItemSkin.exml"] = window.WinterS
     i.imgIcon_i = function() {
         var t = new eui.Image;
         return this.imgIcon = t,
-        t.height = 41,
-        t.width = 41,
-        t.x = 19,
-        t.y = 39,
+        t.height = 44,
+        t.width = 43,
+        t.x = 28.439,
+        t.y = 23.324,
         t
     },
     i.txtNum_i = function() {
         var t = new eui.Label;
         return this.txtNum = t,
-        t.right = 12,
+        t.right = 18,
         t.size = 18,
         t.stroke = 1,
         t.strokeColor = 1794748,
         t.text = "×20",
-        t.textColor = 15466342,
-        t.y = 72,
+        t.textAlign = "right",
+        t.textColor = 15269375,
+        t.y = 59.316,
         t
     },
     i.txtDay_i = function() {
         var t = new eui.Label;
         return this.txtDay = t,
         t.fontFamily = "MFShangHei",
-        t.right = 12,
         t.size = 18,
         t.text = "01",
-        t.textColor = 15466342,
-        t.y = 7,
+        t.textAlign = "left",
+        t.textColor = 3099521,
+        t.x = 11,
+        t.y = 1.898,
         t
     },
     i.hasGot_i = function() {
         var t = new eui.Image;
         return this.hasGot = t,
         t.source = "wintersign_hasgot1_png",
-        t.x = 3,
-        t.y = 3,
+        t.visible = !0,
+        t.x = 13.866,
+        t.y = 8.432,
         t
     },
     e
@@ -323,8 +333,8 @@ generateEUI.paths["resource/eui_skins/WinterSignSkin.exml"] = window.WinterSignS
     function e() {
         t.call(this),
         this.skinParts = ["imgBg", "btnInfo", "btnClose", "list"],
-        this.height = 531,
-        this.width = 1071,
+        this.height = 600,
+        this.width = 1132,
         this.elementsContent = [this.imgBg_i(), this.btnInfo_i(), this.btnClose_i(), this._Scroller1_i()]
     }
     __extends(e, t);
@@ -341,24 +351,24 @@ generateEUI.paths["resource/eui_skins/WinterSignSkin.exml"] = window.WinterSignS
         var t = new eui.Image;
         return this.btnInfo = t,
         t.source = "wintersign_btninfo_png",
-        t.x = 919,
-        t.y = 456,
+        t.x = 77,
+        t.y = 400,
         t
     },
     i.btnClose_i = function() {
         var t = new eui.Image;
         return this.btnClose = t,
         t.source = "wintersign_btnclose_png",
-        t.x = 908,
-        t.y = 13,
+        t.x = 978.378,
+        t.y = 89.969,
         t
     },
     i._Scroller1_i = function() {
         var t = new eui.Scroller;
-        return t.height = 414,
-        t.width = 632,
-        t.x = 55,
-        t.y = 80,
+        return t.height = 361,
+        t.width = 704.095,
+        t.x = 356.73,
+        t.y = 139.77,
         t.viewport = this.list_i(),
         t
     },
@@ -370,7 +380,7 @@ generateEUI.paths["resource/eui_skins/WinterSignSkin.exml"] = window.WinterSignS
     },
     i._TileLayout1_i = function() {
         var t = new eui.TileLayout;
-        return t.horizontalGap = -65,
+        return t.horizontalGap = -59,
         t.requestedColumnCount = 7,
         t.verticalGap = 0,
         t

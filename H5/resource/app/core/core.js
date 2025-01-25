@@ -4303,20 +4303,20 @@ function(t, e) {
     n.prototype = e.prototype,
     t.prototype = new n
 },
-Effect_539 = function(t) {
+Effect_542 = function(t) {
     function e() {
         var e = t.call(this) || this;
-        return e._argsNum = 0,
+        return e._argsNum = 1,
         e
     }
     return __extends(e, t),
     e.prototype.getInfo = function(t) {
         return void 0 === t && (t = null),
-        "若对手处于能力强化状态则先制额外+1且威力翻倍"
+        "对手每处于一种能力下降状态时附加" + t[0] + "点固定伤害"
     },
     e
 } (AbstractEffectInfo);
-__reflect(Effect_539.prototype, "Effect_539");
+__reflect(Effect_542.prototype, "Effect_542");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -8476,6 +8476,75 @@ SpineUtil = function() {
             })
         })
     },
+    t.createSkeletonDataByPromise = function(t, e) {
+        return __awaiter(this, void 0, void 0,
+        function() {
+            var n = this;
+            return __generator(this,
+            function(r) {
+                return [2, new Promise(function(r, o) {
+                    var i = null;
+                    RES.getResByUrl(t + e + ".json",
+                    function(n) {
+                        var o = this;
+                        return RES.getResByUrl(t + e + ".atlas",
+                        function(e) {
+                            return __awaiter(o, void 0, void 0,
+                            function() {
+                                var o, s, a, _, c, l, u;
+                                return __generator(this,
+                                function(h) {
+                                    switch (h.label) {
+                                    case 0:
+                                        if (!e) return [3, 5];
+                                        o = new spine.TextureAtlas(e),
+                                        s = new spine.AtlasAttachmentLoader(o),
+                                        a = function(e) {
+                                            var n;
+                                            return __generator(this,
+                                            function(r) {
+                                                switch (r.label) {
+                                                case 0:
+                                                    return n = e.name,
+                                                    [4, RES.getResByUrl("" + (t + n),
+                                                    function(t, n) {
+                                                        e.setTexture(new spine.EgretTexture(t))
+                                                    })];
+                                                case 1:
+                                                    return r.sent(),
+                                                    [2]
+                                                }
+                                            })
+                                        },
+                                        _ = 0,
+                                        c = o.pages,
+                                        h.label = 1;
+                                    case 1:
+                                        return _ < c.length ? (l = c[_], [5, a(l)]) : [3, 4];
+                                    case 2:
+                                        h.sent(),
+                                        h.label = 3;
+                                    case 3:
+                                        return _++,
+                                        [3, 1];
+                                    case 4:
+                                        return u = new spine.SkeletonJson(s),
+                                        i = u.readSkeletonData(n),
+                                        [2, r(i)];
+                                    case 5:
+                                        return [2]
+                                    }
+                                })
+                            })
+                        },
+                        this, RES.ResourceItem.TYPE_TEXT),
+                        n ? void 0 : (console.error("spine 动画" + e + ".json 文件不存在"), r(null))
+                    },
+                    n)
+                })]
+            })
+        })
+    },
     t.copy = function(t) {
         var e = null;
         return t && (e = new spine.SkeletonAnimation(t.skeletonData)),
@@ -9395,6 +9464,7 @@ AssetsLoadManager = function(t) {
         var e = t.call(this) || this;
         return e.petIDArray = [],
         e.skillIDArray = [],
+        e.spineIDArray = [],
         e.currentIndex = 0,
         e._percent = 0,
         e.currentPercent = 0,
@@ -9418,7 +9488,14 @@ AssetsLoadManager = function(t) {
         var t;
         for (t = 0; t < this.skillIDArray.length; t++) SkillAssetsManager.getInstance().deleteAsset(this.skillIDArray[t]);
         this.skillIDArray = [],
-        SkillAssetsManager.getInstance().destroy()
+        SkillAssetsManager.getInstance().destroy(),
+        this.clearSpineAssets()
+    },
+    e.prototype.clearSpineAssets = function() {
+        var t;
+        for (t = 0; t < this.spineIDArray.length; t++) SpineAssetsManager.getInstance().deleteAsset(this.spineIDArray[t]);
+        this.spineIDArray = [],
+        SpineAssetsManager.getInstance().destroy()
     },
     e.prototype.errorLoadHandler1 = function(t) {
         throw new Error("AssetsLoading加载出错..." + this.currentID)
@@ -9437,6 +9514,10 @@ AssetsLoadManager = function(t) {
         for (var t = [], e = 0; e < arguments.length; e++) t[e] = arguments[e];
         if (0 == FightManager.fightAnimateMode) for (var n in t) this.skillIDArray.push(t[n])
     },
+    e.prototype.addSpineID = function() {
+        for (var t = [], e = 0; e < arguments.length; e++) t[e] = arguments[e];
+        for (var n in t) this.spineIDArray.push(t[n])
+    },
     e.prototype.stopAll = function() {
         try {} catch(t) {
             console.error(t)
@@ -9447,6 +9528,21 @@ AssetsLoadManager = function(t) {
         this.petImages = {},
         this.P = 1 / (this.petIDArray.length + this.skillIDArray.length),
         this.petIDArray.unshift(5111),
+        this.loadSpines()
+    },
+    e.prototype.loadSpines = function() {
+        var t = this;
+        if (0 == this.spineIDArray.length) return void this.loadPets();
+        if (this.currentIndex < this.spineIDArray.length) {
+            this.currentID = this.spineIDArray[this.currentIndex];
+            var e = this.currentID.toString(),
+            n = "resource/assets/fightResource/spine/";
+            SpineUtil.createSkeletonDataByPromise(n, e).then(function(e) {
+                t.currentIndex++,
+                SpineAssetsManager.getInstance().addAsset(t.currentID, e),
+                t.loadSpines()
+            })
+        } else this.currentIndex = 0,
         this.loadPets()
     },
     e.prototype.loadPets = function() {
@@ -21202,14 +21298,18 @@ function(t, e) {
 PeakJihadController = function() {
     function t() {}
     return t.isInAcTime = function(t) {
-        return void 0 === t && (t = !0),
-        null == this.ac1 && (this.ac1 = new ActivityControl(this.cron1)),
-        this.ac1.isInActivityTime ? !0 : (t && Alarm.show("6v6巅峰战的开放时间为每日" + this._openTime + ",请稍后再来。"), !1)
+        void 0 === t && (t = !0);
+        var e, n;
+        return SystemTimerManager.sysBJDate.getDay() >= 1 && SystemTimerManager.sysBJDate.getDay() <= 5 ? (e = this.cron_weekday_sport, n = this._openTime_weekday_sport) : (e = this.cron_weekend_sport, n = this._openTime_weekend_sport),
+        null == this.ac1 && (this.ac1 = new ActivityControl(e)),
+        this.ac1.isInActivityTime ? !0 : (t && Alarm.show("6v6巅峰战的开放时间为" + n + ",请稍后再来。"), !1)
     },
     t.isWildInAcTime = function(t) {
-        return void 0 === t && (t = !0),
-        null == this.ac2 && (this.ac2 = new ActivityControl(this.cron2)),
-        this.ac2.isInActivityTime ? !0 : (t && Alarm.show("狂野模式的开放时间为每日" + this._openTime2 + ",请稍后再来。"), !1)
+        void 0 === t && (t = !0);
+        var e, n;
+        return SystemTimerManager.sysBJDate.getDay() >= 1 && SystemTimerManager.sysBJDate.getDay() <= 5 ? (e = this.cron_weekday_wild, n = this._openTime_weekday_wild) : (e = this.cron_weekend_wild, n = this._openTime_weekend_wild),
+        null == this.ac2 && (this.ac2 = new ActivityControl(e)),
+        this.ac2.isInActivityTime ? !0 : (t && Alarm.show("狂野模式的开放时间为每日" + n + ",请稍后再来。"), !1)
     },
     t.updateBird = function() {
         return __awaiter(this, void 0, void 0,
@@ -21346,16 +21446,16 @@ PeakJihadController = function() {
     },
     t.onFightOver = function(t) {
         var e = t.obj.isJumping;
-        if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) if (PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD) {
+        if ((PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD) && PetFightModel.status == PetFightModel.FIGHT_WITH_PLAYER) if (PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_WILD) {
             var n = {};
             n.isWin = FightManager.isWin,
             n.isDraw = this.isDraw,
             n.model = PetFightModel.type,
             ModuleManager.showModule("battleResultPanel", ["battleResultPanel"], n, "BattleResultPeakJiHadPanel")
-        } else PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 ? (this.clearType(), e || ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"]), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了")) : (PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN) && (this.clearType(), e ? KTool.getMultiValue([3313],
+        } else PetFightModel.type == PetFightModel.PEAK_JIHAD_3V3 || PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6 ? (this.clearType(), e || ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"]), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了")) : PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE || PetFightModel.type == PetFightModel.PEAK_JIHAD_FREE_PLAN ? (this.clearType(), e ? KTool.getMultiValue([3313],
         function(t) {
             1 == t[0] ? SocketConnection.sendByQueue(45136, [5, 0]) : SocketConnection.sendByQueue(45136, [2, 0])
-        }) : ModuleManager.showModule("peakJihadFreeWar", ["peakJihadFreeWar"], null, "PeakJihadRoomPanel"), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了"))
+        }) : ModuleManager.showModule("peakJihadFreeWar", ["peakJihadFreeWar"], null, "PeakJihadRoomPanel"), Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了")) : PetFightModel.type == PetFightModel.PEAK_JIHAD_6V6_JJ_PRACTION && (this.clearType(), e || (ModuleManager.CloseAll(), ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"], "sport")), this.isDraw ? Alarm.show("平局") : Alarm.show(FightManager.isWin ? "恭喜你获得了胜利": "很遗憾，你战败了"))
     },
     t.getFristBagALLPetLvIsFull = function() {
         for (var t = 0,
@@ -21414,15 +21514,15 @@ PeakJihadController = function() {
             for (var n = s.filter(function(t) {
                 return t.type == e
             })[0], r = n.quantity, o = 0, i = n.name.split(";").map(Number), a = 0; a < i.length; a++) {
-                var c = i[a];
-                if (t.indexOf(c) > -1 && _.curLevel > 1 && o++, o > r) return {
+                var _ = i[a];
+                if (t.indexOf(_) > -1 && o++, o > r) return {
                     value: !1
                 }
             }
         },
-        _ = this, c = 1; 2 >= c; c++) {
-            var l = a(c);
-            if ("object" == typeof l) return l.value
+        _ = 1; 2 >= _; _++) {
+            var c = a(_);
+            if ("object" == typeof c) return c.value
         }
         return ! 0
     },
@@ -21445,6 +21545,7 @@ PeakJihadController = function() {
     },
     t.itemId1 = 1717451,
     t.itemId2 = 1717452,
+    t.itemId3 = 1726723,
     t.curLevel = 0,
     t.curScore = 0,
     t.curMaxLevel = 0,
@@ -21470,10 +21571,14 @@ PeakJihadController = function() {
     t.battleTimes = 0,
     t.wins = 0,
     t.isInPvP = !1,
-    t._openTime = "11:00-15:00和18:00-22:00",
-    t.cron1 = [new CronTimeVo("*", "11-14", "*", "*", "*", "*"), new CronTimeVo("*", "18-21", "*", "*", "*", "*")],
-    t._openTime2 = "20:00-23:30",
-    t.cron2 = [new CronTimeVo("*", "20-22", "*", "*", "*", "*"), new CronTimeVo("0-29", "23", "*", "*", "*", "*")],
+    t._openTime_weekday_sport = "11:00-15:00和18:00-22:00",
+    t._openTime_weekend_sport = "11:00-23:30",
+    t.cron_weekday_sport = [new CronTimeVo("*", "11-14", "*", "*", "*", "*"), new CronTimeVo("*", "18-21", "*", "*", "*", "*")],
+    t.cron_weekend_sport = [new CronTimeVo("*", "11-22", "*", "*", "*", "*"), new CronTimeVo("0-29", "23", "*", "*", "*", "*")],
+    t._openTime_weekday_wild = "20:00-23:30",
+    t._openTime_weekend_wild = "15:00-18:00和20:00-23:30",
+    t.cron_weekday_wild = [new CronTimeVo("*", "20-22", "*", "*", "*", "*"), new CronTimeVo("0-29", "23", "*", "*", "*", "*")],
+    t.cron_weekend_wild = [new CronTimeVo("*", "15-18", "*", "*", "*", "*"), new CronTimeVo("*", "20-22", "*", "*", "*", "*"), new CronTimeVo("0-29", "23", "*", "*", "*", "*")],
     t
 } ();
 __reflect(PeakJihadController.prototype, "PeakJihadController");
@@ -21848,9 +21953,9 @@ PeakJihadOrderManager = function() {
     t.payState = [],
     t.taskRed = !1,
     t.rewardRed = !1,
-    t.curSeason = 4,
-    t.endTime = "2025_1_10_10",
-    t.curOutputSkinId = 662,
+    t.curSeason = 5,
+    t.endTime = "2025_4_11_10",
+    t.curOutputSkinId = 684,
     t
 } ();
 __reflect(PeakJihadOrderManager.prototype, "PeakJihadOrderManager");
@@ -31571,6 +31676,47 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
+SpineAssetsManager = function() {
+    function t() {
+        this.assetsObj = {}
+    }
+    return t.getInstance = function() {
+        return this.instance || (this.instance = new t),
+        this.instance
+    },
+    t.prototype.clearAll = function() {
+        for (var t in this.assetsObj) this.assetsObj[t] = null,
+        delete this.assetsObj[t]
+    },
+    t.prototype.destroy = function() {
+        t.instance && t.instance.clearAll(),
+        t.instance = null
+    },
+    t.prototype.addAsset = function(t, e) {
+        this.assetsObj["asset_" + t] = e
+    },
+    t.prototype.deleteAsset = function(t) {
+        delete this.assetsObj["asset_" + t]
+    },
+    t.prototype.getAssetsByID = function(t, e, n, r, o) {
+        void 0 === e && (e = !1),
+        void 0 === n && (n = 0),
+        void 0 === r && (r = 0),
+        void 0 === o && (o = !1);
+        var i = t;
+        e && (t = PetIdTransform.getPetId(t, n, !0), t = PetXMLInfo.getRealId(t), 0 != r && (t = PetSkinXMLInfo.getSkinPetId(r, i)), o && (t = PetLeftAndRightXmlInfo.getRightPet(t)));
+        var s = new spine.SkeletonAnimation(this.assetsObj["asset_" + t]);
+        return s
+    },
+    t
+} ();
+__reflect(SpineAssetsManager.prototype, "SpineAssetsManager");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
 StatLogger = function() {
     function t() {}
     return t.log = function(e, n, r) {
@@ -34916,6 +35062,44 @@ AutoOpenByValue = function(t) {
     e
 } (AutoOpenBaseController);
 __reflect(AutoOpenByValue.prototype, "AutoOpenByValue");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+AutoOpenByValueAndOnce = function(t) {
+    function e(e) {
+        var n = t.call(this, e) || this;
+        return n.key = "",
+        n.key = n.item.param2 + "_once_" + MainManager.actorID,
+        n.check(),
+        n
+    }
+    return __extends(e, t),
+    e.prototype.check = function() {
+        var t = this,
+        e = [],
+        n = void 0;
+        this.item.param1 && e.push(Number(this.item.param1)),
+        this.item.param2 && (n = egret.localStorage.getItem(this.key)),
+        KTool.getMultiValue(e,
+        function(e) {
+            e[0] > 0 && void 0 == n ? (egret.localStorage.setItem(t.key, "1"), t.openPanel()) : t.next()
+        })
+    },
+    e
+} (AutoOpenBaseController);
+__reflect(AutoOpenByValueAndOnce.prototype, "AutoOpenByValueAndOnce");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -39732,19 +39916,20 @@ KTool = function() {
         }
     },
     t.checkHasAdvanced = function(e, n, r) {
-        return new Promise(function(o, i) {
-            if (e && 3729 == e.id && (n = e.id, r = e.catchTime, e = null), e && e.effectList) {
-                for (var s = e.effectList,
-                a = 0; a < s.length; a++) {
-                    var _ = s[a];
-                    EffectIconControl.checkIncludeAdvEffect(_.effectID) && o(!0)
+        var o = [3729, 3171, 3954, 3388];
+        return new Promise(function(i, s) {
+            if (e && o.indexOf(e.id) >= 0 && (n = e.id, r = e.catchTime, e = null), e && e.effectList) {
+                for (var a = e.effectList,
+                _ = 0; _ < a.length; _++) {
+                    var c = a[_];
+                    EffectIconControl.checkIncludeAdvEffect(c.effectID) && i(!0)
                 }
-                o(!1)
-            } else t.advancedPets.containsKey(n) ? o(t.advancedPets.getValue(n) == r) : PetAdvanceXMLInfo.getIncludeAdvance(n) ? SocketConnection.sendWithPromise(41805, [1, n]).then(function(e) {
-                var i = e.data.readUnsignedInt();
-                i = e.data.readUnsignedInt(),
-                i == r ? (t.advancedPets.add(n, r), o(!0)) : o(!1)
-            }) : o(!1)
+                i(!1)
+            } else t.advancedPets.containsKey(n) ? i(t.advancedPets.getValue(n) == r) : PetAdvanceXMLInfo.getIncludeAdvance(n) ? SocketConnection.sendWithPromise(41805, [1, n]).then(function(e) {
+                var o = e.data.readUnsignedInt();
+                o = e.data.readUnsignedInt(),
+                o == r ? (t.advancedPets.add(n, r), i(!0)) : i(!1)
+            }) : i(!1)
         })
     },
     t.getGlobalValues = function(t, e, n, r) {
@@ -40171,9 +40356,23 @@ FighterUserInfo = function() {
     function t(t) {
         this._id = t.readUnsignedInt(),
         this._nickName = t.readUTFBytes(16),
-        this._topLevel = t.readUnsignedInt()
+        this._topLevel = t.readUnsignedInt(),
+        this._supportArr = [];
+        for (var e = t.readUnsignedInt(), n = 0; e > n; n++) {
+            var r = {};
+            r.pid = t.readUnsignedInt(),
+            r.skinId = t.readUnsignedInt(),
+            this._supportArr.push(r)
+        }
     }
-    return Object.defineProperty(t.prototype, "id", {
+    return Object.defineProperty(t.prototype, "supportArr", {
+        get: function() {
+            return this._supportArr
+        },
+        enumerable: !0,
+        configurable: !0
+    }),
+    Object.defineProperty(t.prototype, "id", {
         get: function() {
             return this._id
         },
@@ -40228,6 +40427,9 @@ FighterUserInfo = function() {
                     var _ = a[s];
                     _ instanceof PetSkillInfo ? this.add2List(this._petSkillIDArr, _.id, o) : this.add2List(this._petSkillIDArr, _, o)
                 }
+                var c = SkillXMLInfo.getHideSkillId(r.id);
+                16689 == c && (c = 16839),
+                this.add2List(this._petSkillIDArr, c, o),
                 r.hideSKill && this.add2List(this._petSkillIDArr, r.hideSKill.id, o),
                 r.hp > 0 && this._aliveNum++
             }
@@ -41864,6 +42066,7 @@ PetFightModel = function() {
     t.PEAK_JIHAD_FREE_PLAN = 28,
     t.PEAK_JIHAD_6V6_JJ = 29,
     t.PEAK_JIHAD_6V6_WILD = 31,
+    t.PEAK_JIHAD_6V6_JJ_PRACTION = 33,
     t.WIZARDKING_BIGFIGHT = 30,
     t.QINGLONG_COMPLELETE_FIGHT = 83,
     t.PEAK_JIHAD_FIGHT_WITH_FIGURE = 87,
@@ -43475,16 +43678,17 @@ UserInfo = function(t) {
         t.hasSimpleInfo = !0,
         t.userID = e.readUnsignedInt(),
         t.regTime = e.readUnsignedInt(),
-        t.nick = e.readUTFBytes(16),
+        t.nick = e.readUTFBytes(16);
+        for (var n = 0; 5 > n; n++) e.readUnsignedInt();
         t._head_id = e.readUnsignedInt() || 1,
         t._head_frame_id = e.readUnsignedInt(),
         t.nickBg = e.readUnsignedInt() || 33,
         t.coins = e.readUnsignedInt();
-        var n = e.readUnsignedInt();
-        t.vip = BitUtil.getBit(n, 0),
-        t.viped = BitUtil.getBit(n, 1);
-        var r = e.readUnsignedByte();
-        t.isExtremeNono = Boolean(BitUtil.getBit(r, 1)),
+        var r = e.readUnsignedInt();
+        t.vip = BitUtil.getBit(r, 0),
+        t.viped = BitUtil.getBit(r, 1);
+        var o = e.readUnsignedByte();
+        t.isExtremeNono = Boolean(BitUtil.getBit(o, 1)),
         t.isVip || (t.isExtremeNono = !1),
         t.cuteType = e.readUnsignedByte(),
         t.dsFlag = e.readUnsignedInt(),
@@ -43527,11 +43731,11 @@ UserInfo = function(t) {
         t.autoCharge = e.readUnsignedInt(),
         t.vipEndTime = e.readUnsignedInt(),
         t.freshManBonus = e.readUnsignedInt();
-        for (var o = 0; 80 > o; o++) t.nonoChipList.push(Boolean(e.readByte()));
-        for (var i = 0; 300 > i; i++) t.dailyResArr.push(e.readByte());
-        for (var s = 0; 7 > s; s++) t.summerHolidaysArr.push(e.readByte());
-        for (var a = 0; 23 > a; a++) t.dailyTaskWeekHotArr.push(e.readUnsignedByte());
-        for (var _ = 0; 200 > _; _++) for (var c = e.readByte(), l = 0; 8 > l; l++) t.bufferRecordArr.push(BitUtil.getBit(c, l));
+        for (var i = 0; 80 > i; i++) t.nonoChipList.push(Boolean(e.readByte()));
+        for (var s = 0; 300 > s; s++) t.dailyResArr.push(e.readByte());
+        for (var a = 0; 7 > a; a++) t.summerHolidaysArr.push(e.readByte());
+        for (var _ = 0; 23 > _; _++) t.dailyTaskWeekHotArr.push(e.readUnsignedByte());
+        for (var c = 0; 200 > c; c++) for (var l = e.readByte(), u = 0; 8 > u; u++) t.bufferRecordArr.push(BitUtil.getBit(l, u));
         t.teacherID = e.readUnsignedInt(),
         t.studentID = e.readUnsignedInt(),
         t.graduationCount = e.readUnsignedInt(),
@@ -43578,39 +43782,39 @@ UserInfo = function(t) {
         t.expireTm = e.readUnsignedInt(),
         t.fuseTimes = e.readUnsignedInt(),
         t.vipScore = e.readUnsignedInt();
-        for (var u = e.readUnsignedInt(), h = [], f = 0; u > f; f++) h.push(e.readUnsignedInt());
-        var p = h[0];
-        t.openTiger = Boolean(BitUtil.getBit(p, 0)),
-        t.openDragon = Boolean(BitUtil.getBit(p, 1)),
-        t.openYanMo = Boolean(BitUtil.getBit(p, 2)),
-        t.openSaiBoSiTe = Boolean(BitUtil.getBit(p, 3)),
-        t.openGreenDragon = Boolean(BitUtil.getBit(p, 4)),
-        t.openJieensi = Boolean(BitUtil.getBit(p, 5)),
-        t.openBaenna = Boolean(BitUtil.getBit(p, 6)),
-        t.openShiZuLingShou = Boolean(BitUtil.getBit(p, 7)),
-        t.openTuoLuKe = Boolean(BitUtil.getBit(p, 8)),
-        t.openJixieTacoLyn = Boolean(BitUtil.getBit(p, 9)),
-        t.openBasite = Boolean(BitUtil.getBit(p, 10)),
-        t.openTaiGuLa = Boolean(BitUtil.getBit(p, 11)),
-        t.openBaihu = Boolean(BitUtil.getBit(p, 12)),
-        t.openSitanli = Boolean(BitUtil.getBit(p, 14)),
-        t.openRuidehaosi = Boolean(BitUtil.getBit(p, 27)),
-        t.openDierke = Boolean(BitUtil.getBit(p, 19)),
-        t.openWhiteHorse = Boolean(BitUtil.getBit(p, 28)),
-        t.openKubeisa = Boolean(BitUtil.getBit(p, 29)),
-        t.openBaKeDi = Boolean(BitUtil.getBit(p, 24)),
-        t.openSiweila = Boolean(BitUtil.getBit(p, 30)),
-        t.openPailabi = Boolean(BitUtil.getBit(p, 31)),
-        p = h[1],
-        t.openKaimila = Boolean(BitUtil.getBit(p, 0)),
-        t.openKuangyeheiniao = Boolean(BitUtil.getBit(p, 1)),
-        t.openQilin = Boolean(BitUtil.getBit(p, 2)),
-        t.openNaKaLuoHa = Boolean(BitUtil.getBit(p, 3)),
-        t.openGeErBoKe = Boolean(BitUtil.getBit(p, 4)),
-        t.openELingShou = Boolean(BitUtil.getBit(p, 5)),
-        t.openGhostTiger = Boolean(BitUtil.getBit(p, 6)),
-        t.openMegatronTiger = Boolean(BitUtil.getBit(p, 7)),
-        t.openPeiluomu = Boolean(BitUtil.getBit(p, 8)),
+        for (var h = e.readUnsignedInt(), f = [], p = 0; h > p; p++) f.push(e.readUnsignedInt());
+        var d = f[0];
+        t.openTiger = Boolean(BitUtil.getBit(d, 0)),
+        t.openDragon = Boolean(BitUtil.getBit(d, 1)),
+        t.openYanMo = Boolean(BitUtil.getBit(d, 2)),
+        t.openSaiBoSiTe = Boolean(BitUtil.getBit(d, 3)),
+        t.openGreenDragon = Boolean(BitUtil.getBit(d, 4)),
+        t.openJieensi = Boolean(BitUtil.getBit(d, 5)),
+        t.openBaenna = Boolean(BitUtil.getBit(d, 6)),
+        t.openShiZuLingShou = Boolean(BitUtil.getBit(d, 7)),
+        t.openTuoLuKe = Boolean(BitUtil.getBit(d, 8)),
+        t.openJixieTacoLyn = Boolean(BitUtil.getBit(d, 9)),
+        t.openBasite = Boolean(BitUtil.getBit(d, 10)),
+        t.openTaiGuLa = Boolean(BitUtil.getBit(d, 11)),
+        t.openBaihu = Boolean(BitUtil.getBit(d, 12)),
+        t.openSitanli = Boolean(BitUtil.getBit(d, 14)),
+        t.openRuidehaosi = Boolean(BitUtil.getBit(d, 27)),
+        t.openDierke = Boolean(BitUtil.getBit(d, 19)),
+        t.openWhiteHorse = Boolean(BitUtil.getBit(d, 28)),
+        t.openKubeisa = Boolean(BitUtil.getBit(d, 29)),
+        t.openBaKeDi = Boolean(BitUtil.getBit(d, 24)),
+        t.openSiweila = Boolean(BitUtil.getBit(d, 30)),
+        t.openPailabi = Boolean(BitUtil.getBit(d, 31)),
+        d = f[1],
+        t.openKaimila = Boolean(BitUtil.getBit(d, 0)),
+        t.openKuangyeheiniao = Boolean(BitUtil.getBit(d, 1)),
+        t.openQilin = Boolean(BitUtil.getBit(d, 2)),
+        t.openNaKaLuoHa = Boolean(BitUtil.getBit(d, 3)),
+        t.openGeErBoKe = Boolean(BitUtil.getBit(d, 4)),
+        t.openELingShou = Boolean(BitUtil.getBit(d, 5)),
+        t.openGhostTiger = Boolean(BitUtil.getBit(d, 6)),
+        t.openMegatronTiger = Boolean(BitUtil.getBit(d, 7)),
+        t.openPeiluomu = Boolean(BitUtil.getBit(d, 8)),
         t.mountId = e.readUnsignedInt(),
         t.blackCrystalPos = e.readUnsignedInt(),
         t.luogeTeamId = e.readUnsignedInt(),
@@ -43620,7 +43824,7 @@ UserInfo = function(t) {
         t.isBeaten_1 = e.readUnsignedInt(),
         t.hasNono = Boolean(e.readUnsignedInt()),
         t.superNono = Boolean(e.readUnsignedInt());
-        for (var d = e.readUnsignedInt(), g = 0; 32 > g; g++) t.nonoState.push(BitUtil.getBit(d, g));
+        for (var g = e.readUnsignedInt(), E = 0; 32 > E; E++) t.nonoState.push(BitUtil.getBit(g, E));
         t.nonoColor = e.readUnsignedInt(),
         t.nonoNick = e.readUTFBytes(16),
         t.nonoChangeToPet = e.readUnsignedInt(),
@@ -43629,21 +43833,21 @@ UserInfo = function(t) {
         t.redball = e.readUnsignedInt(),
         t.blueball = e.readUnsignedInt(),
         t.yellowball = e.readUnsignedInt();
-        var E = new egret.ByteArray;
-        e.readBytes(E, 0, 20),
-        t.reserved = E,
+        var I = new egret.ByteArray;
+        e.readBytes(I, 0, 20),
+        t.reserved = I,
         e.position += 1e3,
         t.isCanBeTeacher = !1,
         t.petNum = e.readUnsignedInt(),
         PetManager.initBagData(e, t.petNum),
         PetManager.initSecondBagData(e, e.readUnsignedInt());
-        var I = e.readUnsignedInt();
+        var y = e.readUnsignedInt();
         t.clothes.splice(0);
-        for (var y = 0; I > y; y++) {
-            var m = e.readUnsignedInt(),
-            v = e.readUnsignedInt();
-            t.clothes.push(new PeopleItemInfo(m, v));
-            ClothXMLInfo.getItemInfo(m)
+        for (var m = 0; y > m; m++) {
+            var v = e.readUnsignedInt(),
+            T = e.readUnsignedInt();
+            t.clothes.push(new PeopleItemInfo(v, T));
+            ClothXMLInfo.getItemInfo(v)
         }
         t.topStatus = e.readUnsignedInt(),
         t.topStatus2 = e.readUnsignedInt(),
@@ -52448,6 +52652,122 @@ function(t, e, n) {
     n ? n.push(e) : n = [e],
     t.__types__ = t.__types__ ? n.concat(t.__types__) : n
 },
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+Effect_539 = function(t) {
+    function e() {
+        var e = t.call(this) || this;
+        return e._argsNum = 0,
+        e
+    }
+    return __extends(e, t),
+    e.prototype.getInfo = function(t) {
+        return void 0 === t && (t = null),
+        "若对手处于能力强化状态则先制额外+1且威力翻倍"
+    },
+    e
+} (AbstractEffectInfo);
+__reflect(Effect_539.prototype, "Effect_539");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+Effect_54 = function(t) {
+    function e() {
+        var e = t.call(this) || this;
+        return e._argsNum = 2,
+        e
+    }
+    return __extends(e, t),
+    e.prototype.getInfo = function(t) {
+        return void 0 === t && (t = null),
+        t[0] + "回合使对方攻击伤害是正常状态下的1/" + t[1] + "倍"
+    },
+    e
+} (AbstractEffectInfo);
+__reflect(Effect_54.prototype, "Effect_54");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+Effect_540 = function(t) {
+    function e() {
+        var e = t.call(this) || this;
+        return e._argsNum = 1,
+        e
+    }
+    return __extends(e, t),
+    e.prototype.getInfo = function(t) {
+        return void 0 === t && (t = null),
+        "若后出手则下" + t[0] + "回合攻击必定致命一击"
+    },
+    e
+} (AbstractEffectInfo);
+__reflect(Effect_540.prototype, "Effect_540");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
+__extends = this && this.__extends ||
+function(t, e) {
+    function n() {
+        this.constructor = t
+    }
+    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
+    n.prototype = e.prototype,
+    t.prototype = new n
+},
+Effect_541 = function(t) {
+    function e() {
+        var e = t.call(this) || this;
+        return e._argsNum = 2,
+        e
+    }
+    return __extends(e, t),
+    e.prototype.getInfo = function(t) {
+        return void 0 === t && (t = null),
+        "造成的攻击伤害若低于" + t[0] + "则恢复自身" + t[1] + "点体力"
+    },
+    e
+} (AbstractEffectInfo);
+__reflect(Effect_541.prototype, "Effect_541");
+var __reflect = this && this.__reflect ||
+function(t, e, n) {
+    t.__class__ = e,
+    n ? n.push(e) : n = [e],
+    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
+},
 __awaiter = this && this.__awaiter ||
 function(t, e, n, r) {
     return new(n || (n = Promise))(function(o, i) {
@@ -52663,122 +52983,6 @@ Core = function() {
     t
 } ();
 __reflect(Core.prototype, "Core");
-var __reflect = this && this.__reflect ||
-function(t, e, n) {
-    t.__class__ = e,
-    n ? n.push(e) : n = [e],
-    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
-},
-__extends = this && this.__extends ||
-function(t, e) {
-    function n() {
-        this.constructor = t
-    }
-    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
-    n.prototype = e.prototype,
-    t.prototype = new n
-},
-Effect_54 = function(t) {
-    function e() {
-        var e = t.call(this) || this;
-        return e._argsNum = 2,
-        e
-    }
-    return __extends(e, t),
-    e.prototype.getInfo = function(t) {
-        return void 0 === t && (t = null),
-        t[0] + "回合使对方攻击伤害是正常状态下的1/" + t[1] + "倍"
-    },
-    e
-} (AbstractEffectInfo);
-__reflect(Effect_54.prototype, "Effect_54");
-var __reflect = this && this.__reflect ||
-function(t, e, n) {
-    t.__class__ = e,
-    n ? n.push(e) : n = [e],
-    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
-},
-__extends = this && this.__extends ||
-function(t, e) {
-    function n() {
-        this.constructor = t
-    }
-    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
-    n.prototype = e.prototype,
-    t.prototype = new n
-},
-Effect_540 = function(t) {
-    function e() {
-        var e = t.call(this) || this;
-        return e._argsNum = 1,
-        e
-    }
-    return __extends(e, t),
-    e.prototype.getInfo = function(t) {
-        return void 0 === t && (t = null),
-        "若后出手则下" + t[0] + "回合攻击必定致命一击"
-    },
-    e
-} (AbstractEffectInfo);
-__reflect(Effect_540.prototype, "Effect_540");
-var __reflect = this && this.__reflect ||
-function(t, e, n) {
-    t.__class__ = e,
-    n ? n.push(e) : n = [e],
-    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
-},
-__extends = this && this.__extends ||
-function(t, e) {
-    function n() {
-        this.constructor = t
-    }
-    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
-    n.prototype = e.prototype,
-    t.prototype = new n
-},
-Effect_541 = function(t) {
-    function e() {
-        var e = t.call(this) || this;
-        return e._argsNum = 2,
-        e
-    }
-    return __extends(e, t),
-    e.prototype.getInfo = function(t) {
-        return void 0 === t && (t = null),
-        "造成的攻击伤害若低于" + t[0] + "则恢复自身" + t[1] + "点体力"
-    },
-    e
-} (AbstractEffectInfo);
-__reflect(Effect_541.prototype, "Effect_541");
-var __reflect = this && this.__reflect ||
-function(t, e, n) {
-    t.__class__ = e,
-    n ? n.push(e) : n = [e],
-    t.__types__ = t.__types__ ? n.concat(t.__types__) : n
-},
-__extends = this && this.__extends ||
-function(t, e) {
-    function n() {
-        this.constructor = t
-    }
-    for (var r in e) e.hasOwnProperty(r) && (t[r] = e[r]);
-    n.prototype = e.prototype,
-    t.prototype = new n
-},
-Effect_542 = function(t) {
-    function e() {
-        var e = t.call(this) || this;
-        return e._argsNum = 1,
-        e
-    }
-    return __extends(e, t),
-    e.prototype.getInfo = function(t) {
-        return void 0 === t && (t = null),
-        "对手每处于一种能力下降状态时附加" + t[0] + "点固定伤害"
-    },
-    e
-} (AbstractEffectInfo);
-__reflect(Effect_542.prototype, "Effect_542");
 var __reflect = this && this.__reflect ||
 function(t, e, n) {
     t.__class__ = e,
@@ -62310,19 +62514,21 @@ CountermarkXMLInfo = function() {
     t.setup = function() {
         return new Promise(function(e, n) {
             t._dataMap = new HashMap;
-            for (var r = RES.getRes("mintmark_json"), o = r.MintMarks.MintMark, i = 0, s = o; i < s.length; i++) {
-                var a = s[i],
-                _ = a.ID;
-                t._dataMap.add(_, a),
-                3 == a.Type && _ > t._quanNengKyMax && (t._quanNengKyMax = _)
+            var r = FestivalVersionController.getXmlRealTableName("mintmark.json");
+            r = r.replace(".json", "_json");
+            for (var o = RES.getRes(r), i = o.MintMarks.MintMark, s = 0, a = i; s < a.length; s++) {
+                var _ = a[s],
+                c = _.ID;
+                t._dataMap.add(c, _),
+                3 == _.Type && c > t._quanNengKyMax && (t._quanNengKyMax = c)
             }
             t._mintmarkClassdataMap = new HashMap;
-            for (var c = r.MintMarks.MintmarkClass,
-            l = 0,
-            u = c; l < u.length; l++) {
-                var h = u[l],
-                f = h.ID;
-                t._mintmarkClassdataMap.add(f, h)
+            for (var l = o.MintMarks.MintmarkClass,
+            u = 0,
+            h = l; u < h.length; u++) {
+                var f = h[u],
+                p = f.ID;
+                t._mintmarkClassdataMap.add(p, f)
             }
             e()
         })
@@ -73716,6 +73922,11 @@ PetXMLInfo = function() {
     t.getCombo = function(t) {
         var e = this._dataMap[t.toString()];
         return e && Number(e.Combo) > 0 && (t = Number(e.Combo)),
+        t
+    },
+    t.getSupport = function(t) {
+        var e = this._dataMap[t.toString()];
+        return e && Number(e.Support) > 0 && (t = Number(e.Support)),
         t
     },
     t.getTransform = function(t) {

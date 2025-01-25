@@ -338,7 +338,8 @@ function(t) {
                 var g = !!e.ison;
                 this.txtBtnCome.text = g ? "前 往": "已结束",
                 DisplayUtil.setEnabled(this.btnCome, g, !g),
-                this.btnCome.visible = !GameInfo.isChecking && !FightManager._isFighting
+                this.btnCome.visible = !GameInfo.isChecking && !FightManager._isFighting,
+                PetAdvanceXMLInfo.getIncludeAdvance(this.arrEff[0].petId) && (this.btnCome.visible = !1)
             } else this.groupCome.visible = !1;
             var c = egret.setTimeout(function() {
                 egret.clearTimeout(c);

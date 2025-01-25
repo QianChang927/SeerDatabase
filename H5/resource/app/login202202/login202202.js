@@ -232,7 +232,7 @@ function(e) {
             this.bgMask.height = egret.lifecycle.stage.stageHeight + 10
         },
         n.prototype.adaptBg = function() {
-            this.bg.width < egret.lifecycle.stage.stageWidth && (this.bg.width = egret.lifecycle.stage.stageWidth)
+            this.adaptBgByScale(this.bg)
         },
         n.prototype.addEvent = function() {
             var t = this;
@@ -993,17 +993,27 @@ function(e) {
     var t = function() {
         function e() {}
         return e.init = function(e) {
-            var t = SpineUtil.createAnimate("2024nianfeidaiji");
+            var t = SpineUtil.createAnimate("2024dianfengbg");
             t.touchChildren = !1,
             t.touchEnabled = !1,
             t.play("standby"),
-            e.grpMovie.addChild(t),
-            EngineHookManager.repairCanvasRenderDrawMesh();
-            var n = SpineUtil.createAnimate("denglutexiao");
+            e.grpMovie.addChild(t);
+            var n = SpineUtil.createAnimate("2024dianfeng");
             n.touchChildren = !1,
             n.touchEnabled = !1,
-            n.play("denglutexiao"),
-            e.grpLoginMovie.addChild(n)
+            n.play("standby"),
+            e.grpMovie.addChild(n),
+            EngineHookManager.repairCanvasRenderDrawMesh();
+            var i = 1602 / egret.lifecycle.stage.stageWidth;
+            i = Math.min(i, 760 / egret.lifecycle.stage.stageHeight),
+            e.grpMovie.scaleX = 1 / i + .05,
+            e.grpMovie.scaleY = 1 / i + .05;
+            var r = SpineUtil.createAnimate("denglutexiao");
+            r.touchChildren = !1,
+            r.touchEnabled = !1,
+            r.play("denglutexiao"),
+            e.grpLoginMovie.addChild(r),
+            e.bgMask.visible = !1
         },
         e.destroy = function() {},
         e
@@ -1421,12 +1431,12 @@ generateEUI.paths["resource/eui_skins/MainPanelSkin.exml"] = window.login202202.
     return i.bg_i = function() {
         var e = new eui.Image;
         return this.bg = e,
-        e.bottom = 0,
-        e.left = 0,
-        e.right = 0,
-        e.source = "2024nianfeidaijiBg_png",
-        e.top = 0,
+        e.height = 640,
+        e.horizontalCenter = 0,
+        e.source = "2025nianfeidaijiBg_jpg",
+        e.verticalCenter = 0,
         e.visible = !0,
+        e.width = 1136,
         e
     },
     i.grpMovie_i = function() {

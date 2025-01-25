@@ -31,14 +31,10 @@ function(e) {
             this.initBtnHelp(function() {
                 var e = {};
                 e.titleSource = RES.getRes("peakjihad_sports_pool_rule_title_png"),
-                e.initIndex = n.type >= 3 ? 3 : n.type,
+                e.initIndex = n.type >= 3 ? 2 : 1,
                 e.data = [{
-                    tabName: "限制池规则",
+                    tabName: "竞技池规则",
                     id: 146
-                },
-                {
-                    tabName: "准限制池规则",
-                    id: 176
                 },
                 {
                     tabName: "票选规则",
@@ -137,29 +133,29 @@ function(e) {
                 h = i[0].result;
                 var u = SystemTimerManager.get0DateByStr(i[0].time.split("-")[0]),
                 l = new Date(u.getFullYear(), u.getMonth(), u.getDate(), 10),
-                _ = SystemTimerManager.get24DateByStr(i[0].time.split("-")[1]);
-                this._isInVoteTime = SystemTimerManager.sysBJDate.getTime() >= l.getTime() && SystemTimerManager.sysBJDate.getTime() < _.getTime(),
+                c = SystemTimerManager.get24DateByStr(i[0].time.split("-")[1]);
+                this._isInVoteTime = SystemTimerManager.sysBJDate.getTime() >= l.getTime() && SystemTimerManager.sysBJDate.getTime() < c.getTime(),
                 this.imgEmpty.visible = SystemTimerManager.sysBJDate.getTime() < l.getTime(),
                 this.txTime.text = "票选时间:",
-                this.txTime.text = this.txTime.text + (l.getMonth() + 1 + "." + l.getDate() + "更新后~" + (_.getMonth() + 1) + "." + _.getDate());
-                var c = i[0].subkey,
+                this.txTime.text = this.txTime.text + (l.getMonth() + 1 + "." + l.getDate() + "更新后~" + (c.getMonth() + 1) + "." + c.getDate());
+                var _ = i[0].subkey,
                 p = [];
                 this.imgEmpty.visible = !1,
                 this.imgBtnVote.visible = !1,
                 this.imgeBtnResult.visible = !1,
                 SystemTimerManager.sysBJDate.getTime() < l.getTime() ? this.imgEmpty.visible = !0 : this.imgBtnVote.visible = this._isInVoteTime,
-                SystemTimerManager.sysBJDate.getTime() >= _.getTime() && "" != h && void 0 != h && (this.imgeBtnResult.visible = !0),
-                KTool.getRangeRankList(191 + s[t] - 1, c, 0, r.length - 1,
-                function(t) {
-                    for (var i = 0,
-                    r = 0; r < t.length; r++) i += t[r].score;
-                    for (var a = t.length > 20 ? 20 : t.length, r = 0; a > r; r++) if (r < t.length) {
-                        var o = new n;
-                        o.rank = r + 1,
-                        o.petId = t[r].userid,
-                        o.score = t[r].score,
-                        o.winNum = Math.round(o.score / i * 100),
-                        p.push(o)
+                SystemTimerManager.sysBJDate.getTime() >= c.getTime() && "" != h && void 0 != h && (this.imgeBtnResult.visible = !0),
+                KTool.getRangeRankList(191 + s[t] - 1, _, 0, r.length - 1,
+                function(i) {
+                    for (var r = 0,
+                    a = 0; a < i.length; a++) r += i[a].score;
+                    for (var o = 1 == s[t] ? 20 : 30, h = i.length > o ? o: i.length, a = 0; h > a; a++) if (a < i.length) {
+                        var u = new n;
+                        u.rank = a + 1,
+                        u.petId = i[a].userid,
+                        u.score = i[a].score,
+                        u.winNum = Math.round(u.score / r * 100),
+                        p.push(u)
                     }
                     e._voteList.dataProvider = new eui.ArrayCollection(p)
                 })
@@ -248,7 +244,7 @@ function(e) {
         t.prototype.update = function() {
             this.petId = this.info.petId;
             var e = this.info.rank,
-            t = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九", "二十"];
+            t = ["零", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九", "二十", "二十一", "二十二", "二十三", "二十四", "二十五", "二十六", "二十七", "二十八", "二十九", "三十"];
             this.txNum.text = "第" + t[e] + "名",
             this.txtLv.text = this.petId + "";
             var i = PetXMLInfo.getName(this.petId);
@@ -460,8 +456,9 @@ function(e) {
             ImageButtonUtil.add(this.freeBtn, this.onTouchTapImageButton, this),
             ImageButtonUtil.add(this.btn0, this.onTouchTapImageButton, this),
             ImageButtonUtil.add(this.btn1, this.onTouchTapImageButton, this, !1),
-            ImageButtonUtil.add(this.rankBtn, this.onTouchTapImageButton, this),
-            ImageButtonUtil.add(this.awardBtn, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btnRank, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btnReward, this.onTouchTapImageButton, this),
+            ImageButtonUtil.add(this.btnTask, this.onTouchTapImageButton, this),
             ImageButtonUtil.add(this.btnJingjichi,
             function() {
                 ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadSportsPool", AppDoStyle.HIDEN)
@@ -512,11 +509,14 @@ function(e) {
                     ModuleManager.showModule("peakJihadFirstPage", [], null, "PeakJihadLeisureMode", AppDoStyle.HIDEN)
                 });
                 break;
-            case this.rankBtn:
+            case this.btnRank:
                 ModuleManager.showModule("peakJihadRankPanel", ["peak_jihad_rank_panel"]);
                 break;
-            case this.awardBtn:
-                ModuleManager.showModule("peakJihadShopPanel", ["peak_jihad_shop_panel"])
+            case this.btnReward:
+                ModuleManager.showModule("peakJihadShopPanel", ["peak_jihad_shop_panel"]);
+                break;
+            case this.btnTask:
+                ModuleManager.showModule("peakJihadNewTask", ["peak_jihad_new_task"])
             }
         },
         t.prototype.destroy = function() {
@@ -1533,7 +1533,7 @@ function(e) {
             var e = t.call(this) || this;
             return e._isclick = !1,
             e.timeArr = [60, 150, 300, 480, 720, 1080, 1500, 1800],
-            e.skinName = PeakjihadSportsModeSkin,
+            e.skinName = PeakjihadSportsModeSkin_test,
             e
         }
         return __extends(i, t),
@@ -1632,6 +1632,14 @@ function(e) {
                 PopViewManager.getInstance().openView(new e.PeakJihadLadderAchieveReward)
             },
             this),
+            this.update(),
+            ImageButtonUtil.add(this.cant,
+            function() {
+                PetManager.updateBagInfo(function() {
+                    i.startMatchPractice()
+                })
+            },
+            this),
             this.update()
         },
         i.prototype.reShow = function() {
@@ -1642,7 +1650,7 @@ function(e) {
             PeakJihadController.updateCurLevel().then(function() {
                 return __awaiter(e, void 0, void 0,
                 function() {
-                    var e, t, i, n, r, a, o, s, h, u, l, _, c, p, d, g, m = this;
+                    var e, t, i, n, r, a, o, s, h, u, l, c, _, p, d, g, m = this;
                     return __generator(this,
                     function(f) {
                         switch (f.label) {
@@ -1673,14 +1681,14 @@ function(e) {
                             u = [],
                             a.map(function(e) {
                                 var t = 0;
-                                return s.indexOf(e) > -1 && PeakJihadController.curLevel > 1 ? t = o[0].quantity: h.indexOf(e) > -1 && PeakJihadController.curLevel > 1 && (t = o[1].quantity),
+                                return s.indexOf(e) > -1 ? t = o[0].quantity: h.indexOf(e) > -1 && (t = o[1].quantity),
                                 u.push({
                                     id: e,
                                     quality: t
                                 })
                             }),
                             this._list.dataProvider = new eui.ArrayCollection(u),
-                            t || (l = SystemTimerManager.sysBJDate.getTime(), _ = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3), c = Math.floor((SystemTimerManager.sysBJDate.setHours(18, 0, 0) - l) / 1e3), p = _ > 0 ? _: c, 0 > c && 0 > _ && (p = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3 + 86400)), this.time.text = TimeUtil.countDownFormat(p, "hh:mm:ss"), TimeDelayUtils.setInterval(function() {
+                            t || (l = SystemTimerManager.sysBJDate.getTime(), c = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3), _ = Math.floor((SystemTimerManager.sysBJDate.setHours(18, 0, 0) - l) / 1e3), p = c > 0 ? c: _, 0 > _ && 0 > c && (p = Math.floor((SystemTimerManager.sysBJDate.setHours(11, 0, 0) - l) / 1e3 + 86400)), this.time.text = TimeUtil.countDownFormat(p, "hh:mm:ss"), TimeDelayUtils.setInterval(function() {
                                 p--,
                                 m.time.text = TimeUtil.countDownFormat(p, "hh:mm:ss"),
                                 0 >= p && (TimeDelayUtils.clearAllTimeByThisObj(m), m.update())
@@ -1706,7 +1714,7 @@ function(e) {
             if (PeakJihadController.isInAcTime()) {
                 var t = PeakJihadController.getBagALLPetLvIsFullAndNotSame();
                 if (!t) {
-                    var i = PeakJihadController.curLevel < 2 ? "": this.checkMost(),
+                    var i = this.checkMost(),
                     n = "" == i ? "请在出战背包放入至少六只精灵，并保证背包所有精灵不重复且为满级满状态再开始对战！": i;
                     return void Alert.show(n,
                     function() {
@@ -1740,6 +1748,31 @@ function(e) {
                 })
             })
         },
+        i.prototype.startMatchPractice = function() {
+            var e = this,
+            t = PeakJihadController.getBagALLPetLvIsFullAndNotSame();
+            if (!t) {
+                var i = this.checkMost(),
+                n = "" == i ? "请在出战背包放入至少六只精灵，并保证背包所有精灵不重复且为满级满状态再开始对战！": i;
+                return void Alert.show(n,
+                function() {
+                    ModuleManager.showModuleByID(config.ModuleConst.PET_BAG)
+                })
+            }
+            this._isclick || (this._isclick = !0, KTool.getMultiValue([3307],
+            function(t) {
+                e._curStep = t[0],
+                e._isclick = !1,
+                0 == e._curStep && SocketConnection.sendByQueue(45137, [1, 12],
+                function(t) {
+                    ModuleManager.showModuleByID(43, {
+                        callback: function() {},
+                        thisObj: e,
+                        fightMod: 5
+                    })
+                })
+            }))
+        },
         i.prototype.breaklineSynchronizedData = function() {
             var e = this;
             KTool.getMultiValue([3307, 1046],
@@ -1771,7 +1804,7 @@ function(e) {
                 for (var n = 0,
                 s = i.name.split(";").map(Number), h = 0; h < s.length; h++) {
                     var u = s[h];
-                    e.indexOf(u) > -1 && PeakJihadController.curLevel > 1 && n++,
+                    e.indexOf(u) > -1 && n++,
                     n > o && 0 == a && (a = i.type)
                 }
             },
@@ -2056,7 +2089,7 @@ function(e) {
                 PeakJihadController.updateCurLevel().then(function() {
                     PeakJihadController.curLevel >= 3 ? Alert.show("本次投票每名玩家仅限参与1次，是否确认当前投票？",
                     function() {
-                        for (var t = [e._curIndex + 1]; e._selectPetArr.length < 10;) e._selectPetArr.push(0);
+                        for (var t = [e._curIndex + 1]; e._selectPetArr.length < 20;) e._selectPetArr.push(0);
                         SocketConnection.sendByQueue(41909, t.concat(e._selectPetArr),
                         function() {
                             BubblerManager.getInstance().showText("投票成功！"),
@@ -2093,12 +2126,12 @@ function(e) {
             this.imgetitle.source = "peakjihad_sports_pool_vote_pop_imgetitle_" + this._curIndex + "_png",
             this.txtPage.text = this._curPage + 1 + "/" + t,
             DisplayUtil.setEnabled(this.grpVoteBtn, this._selectPetArr.length > 0, 0 == this._selectPetArr.length),
-            KTool.getMultiValueAsync([124809, 124810, 124961, 124962, 124963, 124964, 124965, 124966, 124967, 124968, 124969, 124970]).then(function(t) {
+            KTool.getMultiValueAsync([124809, 124810, 124961, 124962, 124963, 124964, 124965, 124966, 124967, 124968, 124969, 124970, 124971, 124972, 124973, 124974, 124975, 124976, 124977, 124978, 124979, 124980]).then(function(t) {
                 if (e._isVote = t[e._curIndex] > 0, e.imgflag.visible = e._isVote, e.grpVoteBtn.visible = !e._isVote, e._isVote) {
                     e._selectPetArr = [];
-                    for (var i = 0; 5 > i; i++) {
-                        var n = KTool.subByte(t[2 + 5 * e._curIndex + i], 0, 16),
-                        r = KTool.subByte(t[2 + 5 * e._curIndex + i], 16, 16);
+                    for (var i = 0; 10 > i; i++) {
+                        var n = KTool.subByte(t[2 + 10 * e._curIndex + i], 0, 16),
+                        r = KTool.subByte(t[2 + 10 * e._curIndex + i], 16, 16);
                         n > 0 && e._selectPetArr.push(n),
                         r > 0 && e._selectPetArr.push(r)
                     }
@@ -2616,7 +2649,7 @@ function(e) {
             PeakJihadController.updateCurLevel().then(function() {
                 return __awaiter(e, void 0, void 0,
                 function() {
-                    var e, t, i, n, r, a, o, s, h, u, l, _, c, p, d, g = this;
+                    var e, t, i, n, r, a, o, s, h, u, l, c, _, p, d, g = this;
                     return __generator(this,
                     function(m) {
                         switch (m.label) {
@@ -2653,10 +2686,10 @@ function(e) {
                                 })
                             }),
                             this._list.dataProvider = new eui.ArrayCollection(u),
-                            t || (l = SystemTimerManager.sysBJDate.getTime(), _ = Math.floor((SystemTimerManager.sysBJDate.setHours(20, 0, 0) - l) / 1e3), c = _, 0 > _ && (c = Math.floor((SystemTimerManager.sysBJDate.setHours(20, 0, 0) - l) / 1e3 + 86400)), this.time.text = TimeUtil.countDownFormat(c, "hh:mm:ss"), TimeDelayUtils.setInterval(function() {
-                                c--,
-                                g.time.text = TimeUtil.countDownFormat(c, "hh:mm:ss"),
-                                0 >= c && (TimeDelayUtils.clearAllTimeByThisObj(g), g.update())
+                            t || (l = SystemTimerManager.sysBJDate.getTime(), c = Math.floor((SystemTimerManager.sysBJDate.setHours(20, 0, 0) - l) / 1e3), _ = c, 0 > c && (_ = Math.floor((SystemTimerManager.sysBJDate.setHours(20, 0, 0) - l) / 1e3 + 86400)), this.time.text = TimeUtil.countDownFormat(_, "hh:mm:ss"), TimeDelayUtils.setInterval(function() {
+                                _--,
+                                g.time.text = TimeUtil.countDownFormat(_, "hh:mm:ss"),
+                                0 >= _ && (TimeDelayUtils.clearAllTimeByThisObj(g), g.update())
                             },
                             1e3, this)),
                             [4, KTool.getMultiValueAsync([124799])];
@@ -3607,7 +3640,7 @@ generateEUI.paths["resource/eui_skins/itemRender/RewardItemRenderSKin.exml"] = w
 generateEUI.paths["resource/eui_skins/PeakjihadfirstpageSkin.exml"] = window.PeakjihadfirstpageSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["static_bg", "group_ani", "bg", "bg2", "noticeTxt", "group_guanggao", "imgTitle", "freeBtn", "btn0", "btn1", "rankBtn", "awardBtn", "btnJingjichi", "icon0", "num0", "icon1", "num1"],
+        this.skinParts = ["static_bg", "group_ani", "bg", "bg2", "noticeTxt", "group_guanggao", "imgTitle", "freeBtn", "btn0", "btn1", "btnRank", "btnReward", "btnTask", "btnJingjichi", "icon0", "num0", "icon1", "num1"],
         this.height = 640,
         this.width = 1136,
         this.elementsContent = [this.static_bg_i(), this.group_ani_i(), this.group_guanggao_i(), this._Group1_i(), this._Group4_i()]
@@ -3677,15 +3710,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadfirstpageSkin.exml"] = window.Pea
         e.left = 0,
         e.right = 0,
         e.y = 300,
-        e.elementsContent = [this.imgTitle_i(), this._Image1_i(), this.freeBtn_i(), this.btn0_i(), this.btn1_i(), this.rankBtn_i(), this.awardBtn_i(), this.btnJingjichi_i()],
-        e
-    },
-    i.imgTitle_i = function() {
-        var e = new eui.Image;
-        return this.imgTitle = e,
-        e.source = "peakjihadfirstpage_imgtitle_png",
-        e.x = 53,
-        e.y = 94,
+        e.elementsContent = [this._Image1_i(), this.imgTitle_i(), this.freeBtn_i(), this.btn0_i(), this.btn1_i(), this.btnRank_i(), this.btnReward_i(), this.btnTask_i(), this.btnJingjichi_i()],
         e
     },
     i._Image1_i = function() {
@@ -3698,6 +3723,16 @@ generateEUI.paths["resource/eui_skins/PeakjihadfirstpageSkin.exml"] = window.Pea
         e.scale9Grid = new egret.Rectangle(148, 0, 166, 340),
         e.source = "peakjihad_anniubg_png",
         e.width = 1136,
+        e
+    },
+    i.imgTitle_i = function() {
+        var e = new eui.Image;
+        return this.imgTitle = e,
+        e.height = 92,
+        e.source = "peakjihadfirstpage_imgtitle_png",
+        e.width = 216,
+        e.x = 53,
+        e.y = 94,
         e
     },
     i.freeBtn_i = function() {
@@ -3724,28 +3759,36 @@ generateEUI.paths["resource/eui_skins/PeakjihadfirstpageSkin.exml"] = window.Pea
         e.y = 96.216,
         e
     },
-    i.rankBtn_i = function() {
+    i.btnRank_i = function() {
         var e = new eui.Image;
-        return this.rankBtn = e,
-        e.horizontalCenter = -441,
+        return this.btnRank = e,
         e.source = "peakjihad_btnpaihang_png",
-        e.y = 259,
+        e.x = 86,
+        e.y = 268,
         e
     },
-    i.awardBtn_i = function() {
+    i.btnReward_i = function() {
         var e = new eui.Image;
-        return this.awardBtn = e,
-        e.horizontalCenter = -239,
+        return this.btnReward = e,
         e.source = "peakjihad_btnjiangli_png",
-        e.y = 259,
+        e.x = 383,
+        e.y = 268,
+        e
+    },
+    i.btnTask_i = function() {
+        var e = new eui.Image;
+        return this.btnTask = e,
+        e.source = "peakjihad_btntask_png",
+        e.x = 236,
+        e.y = 268,
         e
     },
     i.btnJingjichi_i = function() {
         var e = new eui.Image;
         return this.btnJingjichi = e,
-        e.horizontalCenter = -35,
         e.source = "peakjihad_btnjingjichi_png",
-        e.y = 259,
+        e.x = 547,
+        e.y = 268,
         e
     },
     i._Group4_i = function() {
@@ -4273,8 +4316,8 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModePetSkin.exml"] = window
     function t() {
         e.call(this),
         this.skinParts = ["head", "txt_id", "imgAttr", "num", "numGroup"],
-        this.height = 74,
-        this.width = 74,
+        this.height = 90,
+        this.width = 90,
         this.elementsContent = [this._Group1_i(), this._Image4_i()],
         this.states = [new eui.State("have", [new eui.SetProperty("_Image4", "visible", !1)]), new eui.State("no", [new eui.SetProperty("_Group1", "visible", !1)])]
     }
@@ -4284,8 +4327,8 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModePetSkin.exml"] = window
         var e = new eui.Group;
         return this._Group1 = e,
         e.cacheAsBitmap = !0,
-        e.height = 74,
-        e.width = 74,
+        e.height = 90,
+        e.width = 90,
         e.x = 0,
         e.y = 0,
         e.elementsContent = [this._Image1_i(), this.head_i(), this.txt_id_i(), this._Image2_i(), this.imgAttr_i(), this.numGroup_i()],
@@ -4293,7 +4336,9 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModePetSkin.exml"] = window
     },
     i._Image1_i = function() {
         var e = new eui.Image;
-        return e.source = "pea_jihad_sport_head__png",
+        return e.height = 90,
+        e.source = "pea_jihad_sport_head__png",
+        e.width = 90,
         e.x = 0,
         e.y = 0,
         e
@@ -4301,10 +4346,10 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModePetSkin.exml"] = window
     i.head_i = function() {
         var e = new eui.Image;
         return this.head = e,
-        e.height = 70,
+        e.height = 84,
         e.horizontalCenter = 0,
         e.verticalCenter = 0,
-        e.width = 70,
+        e.width = 84,
         e
     },
     i.txt_id_i = function() {
@@ -4325,26 +4370,26 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModePetSkin.exml"] = window
         var e = new eui.Image;
         return e.source = "peakjihad_sports_pool_imgattrbg_png",
         e.touchEnabled = !1,
-        e.x = 35.066,
-        e.y = 1.934,
+        e.x = 52.07,
+        e.y = 3.93,
         e
     },
     i.imgAttr_i = function() {
         var e = new eui.Image;
         return this.imgAttr = e,
         e.height = 23,
-        e.horizontalCenter = 22.5,
+        e.horizontalCenter = 32.5,
         e.source = "peakjihad_sports_pool_imgattr_png",
         e.touchEnabled = !1,
-        e.verticalCenter = -23.5,
+        e.verticalCenter = -32.5,
         e.width = 23,
         e
     },
     i.numGroup_i = function() {
         var e = new eui.Group;
         return this.numGroup = e,
-        e.x = 0,
-        e.y = 41,
+        e.x = 3,
+        e.y = 57,
         e.elementsContent = [this._Image3_i(), this.num_i()],
         e
     },
@@ -4371,14 +4416,16 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModePetSkin.exml"] = window
     i._Image4_i = function() {
         var e = new eui.Image;
         return this._Image4 = e,
+        e.height = 90,
         e.source = "pea_jihad_sport_none__png",
+        e.width = 90,
         e.x = 0,
         e.y = 0,
         e
     },
     t
 } (eui.Skin),
-generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.PeakjihadSportsModeSkin = function(e) {
+generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.PeakjihadSportsModeSkin_test = function(e) {
     function t() {
         e.call(this),
         this.skinParts = ["bgGroup0", "bg", "bgGroup", "level", "icon", "btnMatch", "time", "cant", "rightGroup", "icon0", "num0", "icon1", "num1", "exp", "bar", "curLevel", "curExp", "task", "btnJiangli", "reward", "achieve", "suit", "dotReward", "dotAchieve", "_list", "leftGroup"],
@@ -4492,7 +4539,6 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         var e = new eui.Image;
         return this.btnMatch = e,
         e.source = "peakjihad_sports_mode_btnjingji_png",
-        e.visible = !0,
         e.x = 383.93,
         e.y = 398.26,
         e
@@ -4502,14 +4548,14 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         return this.cant = e,
         e.height = 180,
         e.width = 180,
-        e.x = 392.336,
-        e.y = 405,
+        e.x = 385.34,
+        e.y = 400,
         e.elementsContent = [this._Image2_i(), this.time_i()],
         e
     },
     n._Image2_i = function() {
         var e = new eui.Image;
-        return e.source = "pea_jihad_sport_cantbg_png",
+        return e.source = "pea_jihad_sport_btnpractice_png",
         e.x = 0,
         e.y = 0,
         e
@@ -4523,8 +4569,8 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         e.textAlign = "center",
         e.textColor = 16514896,
         e.width = 120,
-        e.x = 30,
-        e.y = 116,
+        e.x = 35,
+        e.y = 125,
         e
     },
     n._Group4_i = function() {
@@ -4639,7 +4685,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         var e = new eui.Image;
         return this.exp = e,
         e.source = "peakjihad_sports_mode_exp_png",
-        e.visible = !0,
+        e.visible = !1,
         e.x = 10,
         e.y = 499,
         e
@@ -4648,7 +4694,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         var e = new eui.ProgressBar;
         return this.bar = e,
         e.rotation = 270,
-        e.visible = !0,
+        e.visible = !1,
         e.x = 16.19,
         e.y = 598.28,
         e.skinName = i,
@@ -4662,6 +4708,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         e.size = 30,
         e.text = "0",
         e.textColor = 16777215,
+        e.visible = !1,
         e.y = 549,
         e
     },
@@ -4673,6 +4720,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         e.size = 18,
         e.text = "0",
         e.textColor = 16514895,
+        e.visible = !1,
         e.y = 547,
         e
     },
@@ -4680,6 +4728,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         var e = new eui.Image;
         return this.task = e,
         e.source = "peakjihad_sports_mode_btnmeiri_png",
+        e.visible = !1,
         e.x = 216,
         e.y = 516,
         e
@@ -4688,6 +4737,7 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         var e = new eui.Image;
         return this.btnJiangli = e,
         e.source = "peakjihad_sports_mode_btnjiangli_png",
+        e.visible = !1,
         e.x = 324,
         e.y = 516,
         e
@@ -4696,24 +4746,24 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         var e = new eui.Image;
         return this.reward = e,
         e.source = "peakjihad_sports_mode_btnduanwei_png",
-        e.x = 163,
-        e.y = 411,
+        e.x = 155,
+        e.y = 517,
         e
     },
     n.achieve_i = function() {
         var e = new eui.Image;
         return this.achieve = e,
         e.source = "pea_jihad_achieve_pop_btnchengjiu_png",
-        e.x = 259,
-        e.y = 411,
+        e.x = 251,
+        e.y = 517,
         e
     },
     n.suit_i = function() {
         var e = new eui.Image;
         return this.suit = e,
         e.source = "peakjihad_sports_mode_btnzhuangban_png",
-        e.x = 67,
-        e.y = 411,
+        e.x = 59,
+        e.y = 517,
         e
     },
     n.dotReward_i = function() {
@@ -4723,8 +4773,8 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         e.source = "dot_png",
         e.visible = !1,
         e.width = 20,
-        e.x = 226,
-        e.y = 416.544,
+        e.x = 214,
+        e.y = 520.54,
         e
     },
     n.dotAchieve_i = function() {
@@ -4734,24 +4784,31 @@ generateEUI.paths["resource/eui_skins/PeakjihadSportsModeSkin.exml"] = window.Pe
         e.source = "dot_png",
         e.visible = !1,
         e.width = 20,
-        e.x = 321.831,
-        e.y = 416,
+        e.x = 309.83,
+        e.y = 520,
         e
     },
     n._Scroller1_i = function() {
         var e = new eui.Scroller;
-        return e.cacheAsBitmap = !0,
-        e.height = 334,
-        e.width = 250.5,
-        e.x = 27,
-        e.y = 57,
+        return e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.cacheAsBitmap = !0,
+        e.height = 408,
+        e.width = 314,
+        e.x = 25,
+        e.y = 80,
         e.viewport = this._list_i(),
         e
     },
     n._list_i = function() {
         var e = new eui.List;
         return this._list = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 410,
         e.itemRendererSkinName = PeakjihadSportsModePetSkin,
+        e.width = 314.5,
+        e.x = -5,
         e.layout = this._TileLayout1_i(),
         e
     },
@@ -5824,7 +5881,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.Peak
         var e = new eui.Image;
         return this.exp = e,
         e.source = "peakjihad_sports_mode_exp_png",
-        e.visible = !0,
+        e.visible = !1,
         e.x = 10,
         e.y = 499,
         e
@@ -5833,7 +5890,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.Peak
         var e = new eui.ProgressBar;
         return this.bar = e,
         e.rotation = 270,
-        e.visible = !0,
+        e.visible = !1,
         e.x = 16.19,
         e.y = 598.28,
         e.skinName = i,
@@ -5847,6 +5904,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.Peak
         e.size = 30,
         e.text = "0",
         e.textColor = 16777215,
+        e.visible = !1,
         e.y = 549,
         e
     },
@@ -5858,6 +5916,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.Peak
         e.size = 18,
         e.text = "0",
         e.textColor = 16514895,
+        e.visible = !1,
         e.y = 547,
         e
     },
@@ -5865,6 +5924,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.Peak
         var e = new eui.Image;
         return this.task = e,
         e.source = "peakjihad_sports_mode_btnmeiri_png",
+        e.visible = !1,
         e.x = 216,
         e.y = 516,
         e
@@ -5873,6 +5933,7 @@ generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.Peak
         var e = new eui.Image;
         return this.btnJiangli = e,
         e.source = "peakjihad_sports_mode_btnjiangli_png",
+        e.visible = !1,
         e.x = 324,
         e.y = 516,
         e
@@ -5881,24 +5942,24 @@ generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.Peak
         var e = new eui.Image;
         return this.reward = e,
         e.source = "peakjihad_sports_mode_btnduanwei_png",
-        e.x = 163,
-        e.y = 411,
+        e.x = 155,
+        e.y = 517,
         e
     },
     n.achieve_i = function() {
         var e = new eui.Image;
         return this.achieve = e,
         e.source = "pea_jihad_achieve_pop_btnchengjiu_png",
-        e.x = 259,
-        e.y = 411,
+        e.x = 251,
+        e.y = 517,
         e
     },
     n.suit_i = function() {
         var e = new eui.Image;
         return this.suit = e,
         e.source = "peakjihad_sports_mode_btnzhuangban_png",
-        e.x = 67,
-        e.y = 411,
+        e.x = 59,
+        e.y = 517,
         e
     },
     n.dotReward_i = function() {
@@ -5908,8 +5969,8 @@ generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.Peak
         e.source = "dot_png",
         e.visible = !1,
         e.width = 20,
-        e.x = 226,
-        e.y = 416.544,
+        e.x = 214,
+        e.y = 520.54,
         e
     },
     n.dotAchieve_i = function() {
@@ -5919,24 +5980,31 @@ generateEUI.paths["resource/eui_skins/PeakJihadWildModeSkin.exml"] = window.Peak
         e.source = "dot_png",
         e.visible = !1,
         e.width = 20,
-        e.x = 321.831,
-        e.y = 416,
+        e.x = 309.83,
+        e.y = 520,
         e
     },
     n._Scroller1_i = function() {
         var e = new eui.Scroller;
-        return e.cacheAsBitmap = !0,
-        e.height = 334,
-        e.width = 250.5,
-        e.x = 27,
-        e.y = 57,
+        return e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.cacheAsBitmap = !0,
+        e.height = 408,
+        e.width = 314,
+        e.x = 25,
+        e.y = 80,
         e.viewport = this._list_i(),
         e
     },
     n._list_i = function() {
         var e = new eui.List;
         return this._list = e,
+        e.anchorOffsetX = 0,
+        e.anchorOffsetY = 0,
+        e.height = 410,
         e.itemRendererSkinName = PeakjihadSportsModePetSkin,
+        e.width = 314.5,
+        e.x = -5,
         e.layout = this._TileLayout1_i(),
         e
     },

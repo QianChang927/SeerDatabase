@@ -11,9 +11,10 @@ class AutoUpdater_Flash:
     # Data Url
     versionUrl:         str     =   'https://seerh5.61.com/version/version.json'
     swfUrl:             dict    =   {
-                                        'https://seer.61.com/dll/RobotCoreDLL.swf'  :   7,
-                                        'https://seer.61.com/dll/RobotAppDLL.swf'   :   7,
-                                        'https://seer.61.com/dll/RobotApp_2DLL.swf' :   7 
+                                        'https://seer.61.com/dll/RobotCoreDLL.swf'      :   7,
+                                        'https://seer.61.com/dll/RobotAppDLL.swf'       :   7,
+                                        'https://seer.61.com/dll/RobotApp_2DLL.swf'     :   7,
+                                        'https://seer.61.com/dll/TaomeeLibraryDLL.swf'  :   7
                                     }
 
     # Swf Decoder

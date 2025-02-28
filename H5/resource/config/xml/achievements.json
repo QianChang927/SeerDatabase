@@ -1666,6 +1666,30 @@
                                         "title": "赫尔卡的后裔",
                                         "Desc": "通关主线【穿越黑暗之门】获得",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 11,
+                                        "Threshold": 11,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "重寻真我",
+                                        "proicon": 1395,
+                                        "SpeNameBonus": 531,
+                                        "title": "重寻真我",
+                                        "Desc": "完成【重寻真我】系列剧情",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 12,
+                                        "Threshold": 12,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "皮皮之友",
+                                        "proicon": 1396,
+                                        "SpeNameBonus": 532,
+                                        "title": "皮皮之友",
+                                        "Desc": "完成【皮洛斯星传说】系列剧情",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 161,
@@ -6039,6 +6063,18 @@
                                         "SpeNameBonus": 524,
                                         "title": "神殿守护",
                                         "Desc": "通关S-原始预言·吉尼亚斯【地狱难度】关卡获得",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 28,
+                                        "Threshold": 28,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "花灯迎福",
+                                        "proicon": 1394,
+                                        "SpeNameBonus": 530,
+                                        "title": "花灯迎福",
+                                        "Desc": "通关S-花灯仙子【地狱难度】关卡获得",
                                         "titleColor": "0xFFFFFF"
                                     }
                                 ],
@@ -11048,7 +11084,7 @@
                                         "abtext": "防御+25，特防+25，体力+40"
                                     }
                                 ],
-                                "_text": ">\r\n    \t\t \t",
+                                "_text": ">\n    \t\t \t",
                                 "ID": 126,
                                 "Type": 0,
                                 "Desc": "限定分类"

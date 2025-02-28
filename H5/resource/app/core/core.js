@@ -1900,7 +1900,7 @@ ClothPreview2 = function() {
             break;
         case Direction.LEFT_DOWN:
         case Direction.RIGHT_DOWN:
-            this.changeDeep(this.leftDownRenderOrder);
+            this.changeDeep(this.rightDownRenderOrder);
             break;
         case Direction.LEFT_UP:
         case Direction.RIGHT_UP:
@@ -3589,8 +3589,8 @@ BasePeoPleModel = function(t) {
         configurable: !0
     }),
     e.prototype.setBodyScale = function(t) {
-        var e = [Direction.RIGHT, Direction.RIGHT_DOWN, Direction.RIGHT_UP];
-        this._skeletonSys.getBodyMC().scaleX = e.indexOf(t) > 0 ? -1 : 1
+        var e = [Direction.RIGHT, Direction.RIGHT_DOWN, Direction.RIGHT_UP, Direction.DOWN];
+        this._skeletonSys.getBodyMC().scaleX = e.indexOf(t) > 0 ? 1 : -1
     },
     Object.defineProperty(e.prototype, "skeleton", {
         get: function() {
@@ -7841,7 +7841,7 @@ function(t) {
             window.location.reload()
         }
         function l(t, e, n) {
-            window.open(t)
+            window.open(t, "_system")
         }
         function u(t, e, n) {
             var r = this,
@@ -70727,8 +70727,8 @@ ClothPreview = function(t) {
         n.clothimgs.push(n.hand),
         n.clothimgs.push(n.eye),
         n.clothimgs.push(n.head),
-        n.seer.x = 20,
-        n.seer.y = 40,
+        n.seer.x = 0,
+        n.seer.y = 0,
         n.seer.source = ClientConfig.getclothicon(1e5),
         n.addChild(n.foot),
         n.addChild(n.seer),
@@ -70744,7 +70744,11 @@ ClothPreview = function(t) {
         var e = this;
         if (null == SuitXMLInfo.clothjson) return void RES.getResByUrl(ClientConfig.getclothJson(),
         function(n, r) {
-            SuitXMLInfo.clothjson = n,
+            var o = {},
+            i = n.clothpos;
+            console.log("cloth pos:" + i.length);
+            for (var s = 0; s < i.length; s++) o[i[s].id] = i[s];
+            SuitXMLInfo.clothjson = o,
             e.show(t)
         },
         RES.ResourceItem.TYPE_JSON)["catch"](function(t) {
@@ -70767,12 +70771,13 @@ ClothPreview = function(t) {
                 n.push({
                     url: c,
                     item: l
-                }),
-                SuitXMLInfo.clothjson["id" + o] ? (this.clothimgs[r].x = -SuitXMLInfo.clothjson["id" + o].x + this.pos[r].x, this.clothimgs[r].y = -SuitXMLInfo.clothjson["id" + o].y + this.pos[r].y) : (console.error("前端打印======>服装id:" + o + "  没有在client/resource/assets/item/cloth/prev/config.json中设置偏移坐标"), this.clothimgs[r].x = this.pos[r].x, this.clothimgs[r].y = this.pos[r].y)
+                });
+                var u = "" + o;
+                SuitXMLInfo.clothjson[u] ? (console.log("key:" + u + "  x:" + SuitXMLInfo.clothjson[u].x + " "), this.clothimgs[r].x = -SuitXMLInfo.clothjson[u].x, this.clothimgs[r].y = -SuitXMLInfo.clothjson[u].y) : (console.error("前端打印======>服装id:" + o + "  没有在client/resource/assets/item/cloth/prev/config.json中设置偏移坐标"), this.clothimgs[r].x = this.pos[r].x, this.clothimgs[r].y = this.pos[r].y)
             } else this.clothimgs[r].source = null
         }
-        var u = this,
-        h = function() {
+        var h = this,
+        f = function() {
             var t = n.pop();
             if (t) {
                 var e = t.url,
@@ -70780,13 +70785,13 @@ ClothPreview = function(t) {
                 RES.getResByUrl(e,
                 function(t, e) {
                     r.source = t,
-                    h()
+                    f()
                 },
-                u, RES.ResourceItem.TYPE_IMAGE)
-            } else u._updateSize(),
-            u.visible = !0
+                h, RES.ResourceItem.TYPE_IMAGE)
+            } else h._updateSize(),
+            h.visible = !0
         };
-        h()
+        f()
     },
     e.prototype.setPosition = function(t, e) {
         for (var n = this.numChildren,
@@ -73618,13 +73623,25 @@ ChangeClothAction = function() {
         this.isLoaded = !1,
         this.isLoading = !1,
         this.transform_config = {},
+        this.partPos = {
+            bg: [0, 0],
+            foot: [0, 24],
+            decorator: [0, 0],
+            waist: [ - 15, 20],
+            hand1: [0, 0],
+            hand: [0, 0],
+            eye: [0, 0],
+            head: [0, 0],
+            top: [0, 0]
+        },
         this._curUrlType = 0,
         this.walking = !1,
         this._clothURL = "",
         this.model = r,
         this.type = n,
         this.people = t,
-        this.container = e,
+        this.container = new egret.Sprite,
+        e.addChild(this.container),
         this.curr_dir = t.direction,
         this.initClothTransform(),
         this.takeOffCloth()
@@ -73667,15 +73684,19 @@ ChangeClothAction = function() {
         if (!t) return "";
         var e = [Direction.UP, Direction.DOWN, Direction.LEFT, Direction.LEFT_UP, Direction.LEFT_DOWN, Direction.RIGHT, Direction.RIGHT_UP, Direction.RIGHT_DOWN],
         n = e.indexOf(t),
-        r = [Direction.UP, Direction.DOWN, Direction.LEFT, Direction.LEFT_UP, Direction.LEFT_DOWN, Direction.LEFT, Direction.LEFT_UP, Direction.LEFT_DOWN];
+        r = [Direction.UP, Direction.DOWN, Direction.LEFT, Direction.RIGHT_UP, Direction.RIGHT_DOWN, Direction.LEFT, Direction.RIGHT_UP, Direction.RIGHT_DOWN];
         return r[n]
     },
     t.prototype.UpdateTransForm = function() {
         this.isLoaded && this.clothSWF && this.setTransform()
     },
     t.prototype.changeDir = function(t) {
-        void 0 === t && (t = "down"),
-        this.isLoaded && this.clothSWF && this.curr_dir != t && (this.curr_dir = t, this.setTransform(), this.walking ? this.clothSWF.animation.play(this._useDir + "_walk", 0) : this.clothSWF.animation.play(this._useDir))
+        if (void 0 === t && (t = "down"), this.isLoaded && this.clothSWF && this.curr_dir != t) if (this.curr_dir = t, this.setTransform(), this.walking ? this.clothSWF.animation.play(this._useDir + "_walk", 0) : this.clothSWF.animation.play(this._useDir), this.clothID >= 1301087) {
+            console.log("new cloth");
+            var e = 0; (this.type == ClothPreview.FLAG_WAIST || this.type == ClothPreview.FLAG_FOOT) && (this._useDir == Direction.RIGHT_DOWN || this._useDir == Direction.RIGHT_UP) && (e = -6),
+            this.partPos[this.type] && (this.container.x = this.partPos[this.type][0], this.container.y = this.partPos[this.type][1] + e)
+        } else this.container.x = 0,
+        this.container.y = 0
     },
     t.prototype.specialAction = function(t, e, n) {
         void 0 === n && (n = !0),

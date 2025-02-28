@@ -75,11 +75,11 @@ markDraw; !
 function(e) {
     var t = function() {
         function e() {}
-        return e.markOfcard1 = [42387, 42388, 42389],
-        e.markOfcard2 = [42390, 42391, 42392],
-        e.markOfcard3 = [42393, 42394, 42395],
-        e.markOfcard4 = [42396, 42397, 42398],
-        e.markOfextraCard = [42399, 42400, 42401, 42402],
+        return e.markOfcard1 = [40913, 40911, 41e3],
+        e.markOfcard2 = [40910, 40914, 40999],
+        e.markOfcard3 = [40916, 40917, 40998],
+        e.markOfcard4 = [40919, 40920, 40997],
+        e.markOfextraCard = [41050, 41051, 41052, 41053],
         e
     } ();
     e.MarkDataConst = t,
@@ -173,22 +173,23 @@ function(e) {
             ImageButtonUtil.add(this.btnGet_1,
             function() {
                 StatLogger.log("20210930版本系统功能", "刻印抽奖机", "点击打开【领取指定刻印】弹窗");
-                var i = new e.MarkGetPop(t.service, e.MarkDataConst.markOfextraCard);
+                var i = new e.MarkGetPop(t.service, t.markOfextraCard);
                 PopViewManager.getInstance().openView(i)
             },
             this),
             ImageButtonUtil.add(this.btnGet_2,
             function() {
                 StatLogger.log("20210930版本系统功能", "刻印抽奖机", "点击打开【领取指定刻印】弹窗");
-                var i = new e.MarkGetPop(t.service, e.MarkDataConst.markOfextraCard);
+                var i = new e.MarkGetPop(t.service, t.markOfextraCard);
                 PopViewManager.getInstance().openView(i)
             },
             this);
             for (var i = function(i) {
                 ImageButtonUtil.add(n["card" + i],
                 function() {
-                    var n = new e.MarkShowPop(t.service, e.MarkDataConst["markOfcard" + i]);
-                    PopViewManager.getInstance().openView(n)
+                    var n = t.markArr.slice(3 * (i - 1), 3 * i),
+                    a = new e.MarkShowPop(t.service, n);
+                    PopViewManager.getInstance().openView(a)
                 },
                 n)
             },
@@ -248,10 +249,22 @@ function(e) {
         },
         i.prototype.update = function() {
             var t = this;
+            this.markArr = [],
+            this.markOfextraCard = [];
+            for (var i, n = core.manager.XMLConfigManger.getInstance().getRes(ClientConfig.getJSONConfig("open_bonus")).Root.Bonus, a = 0; a < n.length; a++) {
+                var r = n[a];
+                if (2499 == r.ID) {
+                    i = r.Out;
+                    break
+                }
+            }
+            for (var a = 11; a >= 0; a--) this.markArr.push(i[a].Mintmark.ID);
+            this.markArr.reverse();
+            for (var a = 12; 16 > a; a++) this.markOfextraCard.push(i[a].Mintmark.ID);
             if (this.curTimes = this.service.getValue(e.AttrConst.daily_current_times), this.drawTimesText.text = "累计抽取：" + this.curTimes + "/10", this.btnGet_2.visible = 10 == this.curTimes, this.btnDraw.visible = 10 != this.curTimes, this.tomorrow.visible = 10 == this.curTimes, this.btnGet_2.visible) {
-                var i = this.service.getValue(e.AttrConst.daily_afterdraw_mark);
+                var _ = this.service.getValue(e.AttrConst.daily_afterdraw_mark);
                 this.btnGet_1.visible = !1,
-                DisplayUtil.setEnabled(this.btnGet_2, 0 == i, 0 != i)
+                DisplayUtil.setEnabled(this.btnGet_2, 0 == _, 0 != _)
             }
             this.coin2Num.text = core.gameUtil.ConvertItemNumView(MainManager.actorInfo.coins),
             UserInfoManager.getDiamond(function(e) {

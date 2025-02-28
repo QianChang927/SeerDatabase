@@ -1,0 +1,130 @@
+<!--
+	太空迷宫
+	stage: 层数
+	map: 对应的地图ID
+	room： 房间
+	type: 门的类型
+	enable: 门是否启用
+	limit: 开门的限制条件，是否完成某地图交互作为判断条件
+	target: 传送的目标房间
+-->
+
+<config>
+
+	<stage id="1" room="2" map="10052">
+	
+		<room id="1">
+			<door id="1" type="0" enable="1" limit="0" target="5" tip=""/>
+			<door id="2" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="3" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="4" type="0" enable="0" limit="0" target="0" tip=""/>
+		</room>
+		
+		<room id="2">
+			<door id="1" type="0" enable="1" limit="0" target="6" tip=""/>
+			<door id="2" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="3" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="4" type="0" enable="0" limit="0" target="0" tip=""/>
+		</room>
+		
+		<room id="3">
+			<door id="1" type="0" enable="1" limit="3" target="7" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="2" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="3" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="4" type="0" enable="1" limit="3" target="4" tip="击败所有的守护精灵，门才会打开！"/>
+		</room>
+		
+		<room id="4">
+			<door id="1" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="2" type="0" enable="1" limit="0" target="3" tip=""/>
+			<door id="3" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="4" type="0" enable="0" limit="0" target="0" tip=""/>
+		</room>
+	
+		<room id="5">
+			<door id="1" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="2" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="3" type="0" enable="1" limit="5" target="1" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="4" type="0" enable="1" limit="5" target="6" tip="击败所有的守护精灵，门才会打开！"/>
+		</room>
+		
+		<room id="6">
+			<door id="1" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="2" type="0" enable="1" limit="0" target="5" tip=""/>
+			<door id="3" type="0" enable="1" limit="0" target="2" tip=""/>
+			<door id="4" type="2" enable="1" limit="1" target="7" tip="需要对应颜色的钥匙才可以打开门锁，快去其他房间找钥匙吧！"/>
+		</room>
+		
+		<room id="7">
+			<door id="1" type="0" enable="1" limit="7" target="11" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="2" type="0" enable="1" limit="7" target="6" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="3" type="0" enable="1" limit="7" target="3" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="4" type="0" enable="0" limit="0" target="0" tip=""/>
+		</room>
+		
+		<room id="8">
+			<door id="1" type="0" enable="1" limit="0" target="12" tip=""/>
+			<door id="2" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="3" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="4" type="0" enable="0" limit="0" target="0" tip=""/>
+		</room>
+	
+		<room id="9">
+			<door id="1" type="3" enable="1" limit="9" target="13" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="2" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="3" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="4" type="0" enable="1" limit="9" target="10" tip="击败所有的守护精灵，门才会打开！"/>
+		</room>
+		
+		<room id="10">
+			<door id="1" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="2" type="1" enable="1" limit="8" target="9" tip="需要对应颜色的钥匙才可以打开门锁，快去其他房间找钥匙吧！"/>
+			<door id="3" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="4" type="0" enable="1" limit="0" target="11" tip=""/>
+		</room>
+		
+		<room id="11">
+			<door id="1" type="0" enable="1" limit="11" target="15" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="2" type="0" enable="1" limit="11" target="10" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="3" type="0" enable="1" limit="11" target="7" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="4" type="0" enable="1" limit="11" target="12" tip="击败所有的守护精灵，门才会打开！"/>
+		</room>
+		
+		<room id="12">
+			<door id="1" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="2" type="0" enable="1" limit="12" target="11" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="3" type="0" enable="1" limit="12" target="8" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="4" type="0" enable="0" limit="0" target="0" tip=""/>
+		</room>
+	
+		<room id="13">
+			<door id="1" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="2" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="3" type="3" enable="1" limit="13" target="9" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="4" type="0" enable="0" limit="0" target="0" tip=""/>
+		</room>
+		
+		<room id="14">
+			<door id="1" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="2" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="3" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="4" type="0" enable="1" limit="0" target="15" tip=""/>
+		</room>
+		
+		<room id="15">
+			<door id="1" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="2" type="0" enable="1" limit="15" target="14" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="3" type="0" enable="1" limit="15" target="11" tip="击败所有的守护精灵，门才会打开！"/>
+			<door id="4" type="0" enable="1" limit="15" target="16" tip="击败所有的守护精灵，门才会打开！"/>
+		</room>
+		
+		<room id="16">
+			<door id="1" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="2" type="0" enable="1" limit="0" target="15" tip=""/>
+			<door id="3" type="0" enable="0" limit="0" target="0" tip=""/>
+			<door id="4" type="0" enable="0" limit="0" target="0" tip=""/>
+		</room>
+		
+	</stage>
+	
+</config>

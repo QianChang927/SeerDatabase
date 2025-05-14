@@ -3515,6 +3515,7 @@ generateEUI.paths["resource/eui_skins/ItemWarehouseSkin.exml"] = window.ItemWare
         t.left = 0,
         t.right = 0,
         t.top = 26,
+        t.visible = !1,
         t.viewport = this._Group5_i(),
         t
     },
@@ -3554,7 +3555,7 @@ generateEUI.paths["resource/eui_skins/ItemWarehouseSkin.exml"] = window.ItemWare
     m.gr_title_i = function() {
         var t = new eui.Group;
         return this.gr_title = t,
-        t.visible = !0,
+        t.visible = !1,
         t.x = 0,
         t.y = 0,
         t.elementsContent = [this.tx_title_i(), this.imge_title_icon_i()],

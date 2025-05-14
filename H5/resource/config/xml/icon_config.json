@@ -35,7 +35,7 @@
             {
                 "direction": "left",
                 "shownewseer": 0,
-                "priority": 4,
+                "priority": 5,
                 "exMapList": 50000,
                 "ui": "peakJihad2023WarOrde",
                 "tips": "星际通行证",
@@ -44,11 +44,11 @@
             {
                 "direction": "left",
                 "shownewseer": 0,
-                "priority": 5,
+                "priority": 4,
                 "exMapList": 50000,
-                "ui": "monthlycard",
-                "tips": "2025寒假尊享特权钻石月卡",
-                "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel"
+                "ui": "laidashenqi_icon",
+                "tips": "莱达神祇",
+                "mouseClickFunc": "app:LaiDaBackPanel"
             },
             {
                 "direction": "left_side",
@@ -85,7 +85,7 @@
                 "ui": "newSeer2020_icon",
                 "tips": "新手福利",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initNewseer2020icon",
-                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:newseer2020iconClick"
+                "mouseClickFunc": "app:BeginnerForcePopPanel"
             },
             {
                 "direction": "right",
@@ -129,9 +129,9 @@
                 "shownewseer": 0,
                 "priority": 5,
                 "exMapList": 50000,
-                "ui": "H5icon",
+                "ui": "SanDuanHuTong_icon",
                 "tips": "《赛尔号巅峰之战》",
-                "mouseClickFunc": "app:FlashToH5MainPanel"
+                "mouseClickFunc": "app:UnityRemindPop"
             },
             {
                 "direction": "right_side",
@@ -168,7 +168,7 @@
                 "ui": "ReturnLogin_Icon",
                 "tips": "老兵回归福利",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:seer2023retrun",
-                "mouseClickFunc": "app:Backflow2023MainPanel"
+                "mouseClickFunc": "app:SeerReturnGoToPopPanel"
             }
         ]
     }

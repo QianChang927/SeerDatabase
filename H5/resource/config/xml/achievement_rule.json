@@ -2560,12 +2560,14 @@
                     {
                         "ID": 4,
                         "Threshold": 40,
-                        "AchievementPoint": 20
+                        "AchievementPoint": 20,
+                        "hide": 1
                     },
                     {
                         "ID": 5,
                         "Threshold": 50,
-                        "AchievementPoint": 20
+                        "AchievementPoint": 20,
+                        "hide": 1
                     }
                 ],
                 "ID": 70,
@@ -3629,28 +3631,33 @@
                     {
                         "ID": 1,
                         "Threshold": 10,
-                        "AchievementPoint": 5
+                        "AchievementPoint": 5,
+                        "hide": 1
                     },
                     {
                         "ID": 2,
                         "Threshold": 30,
-                        "AchievementPoint": 10
+                        "AchievementPoint": 10,
+                        "hide": 1
                     },
                     {
                         "ID": 3,
                         "Threshold": 50,
-                        "AchievementPoint": 10
+                        "AchievementPoint": 10,
+                        "hide": 1
                     },
                     {
                         "ID": 4,
                         "Threshold": 100,
-                        "AchievementPoint": 15
+                        "AchievementPoint": 15,
+                        "hide": 1
                     },
                     {
                         "ID": 5,
                         "Threshold": 500,
                         "AchievementPoint": 20,
-                        "SpeNameBonus": 111
+                        "SpeNameBonus": 111,
+                        "hide": 1
                     }
                 ],
                 "ID": 99,
@@ -3841,7 +3848,8 @@
                     {
                         "ID": 19,
                         "Threshold": 2019,
-                        "AchievementPoint": 20
+                        "AchievementPoint": 20,
+                        "hide": 1
                     },
                     {
                         "ID": 20,
@@ -3871,7 +3879,8 @@
                     {
                         "ID": 25,
                         "Threshold": 2025,
-                        "AchievementPoint": 20
+                        "AchievementPoint": 20,
+                        "hide": 1
                     },
                     {
                         "ID": 26,
@@ -3881,17 +3890,20 @@
                     {
                         "ID": 27,
                         "Threshold": 2027,
-                        "AchievementPoint": 20
+                        "AchievementPoint": 20,
+                        "hide": 1
                     },
                     {
                         "ID": 28,
                         "Threshold": 2028,
-                        "AchievementPoint": 20
+                        "AchievementPoint": 20,
+                        "hide": 1
                     },
                     {
                         "ID": 29,
                         "Threshold": 2029,
-                        "AchievementPoint": 20
+                        "AchievementPoint": 20,
+                        "hide": 1
                     },
                     {
                         "ID": 30,
@@ -4617,13 +4629,15 @@
                         "ID": 9,
                         "Threshold": 9,
                         "AchievementPoint": 15,
-                        "Desc": "赛尔战斗力"
+                        "Desc": "赛尔战斗力",
+                        "hide": 1
                     },
                     {
                         "ID": 10,
                         "Threshold": 10,
                         "AchievementPoint": 50,
-                        "Desc": "（已废弃，见挑战类83-23）获得圣光·奥尔德"
+                        "Desc": "（已废弃，见挑战类83-23）获得圣光·奥尔德",
+                        "hide": 1
                     },
                     {
                         "ID": 11,
@@ -7210,6 +7224,18 @@
                         "Threshold": 28,
                         "AchievementPoint": 10,
                         "SpeNameBonus": 530
+                    },
+                    {
+                        "ID": 29,
+                        "Threshold": 29,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 533
+                    },
+                    {
+                        "ID": 30,
+                        "Threshold": 30,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 538
                     }
                 ],
                 "ID": 160,
@@ -7289,6 +7315,18 @@
                         "Threshold": 12,
                         "AchievementPoint": 10,
                         "SpeNameBonus": 532
+                    },
+                    {
+                        "ID": 13,
+                        "Threshold": 13,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 534
+                    },
+                    {
+                        "ID": 14,
+                        "Threshold": 14,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 537
                     }
                 ],
                 "ID": 161,
@@ -7503,6 +7541,30 @@
                         "Threshold": 20,
                         "AchievementPoint": 0,
                         "Desc": "S5赛季圣皇"
+                    },
+                    {
+                        "ID": 21,
+                        "Threshold": 21,
+                        "AchievementPoint": 0,
+                        "Desc": "S6赛季猛将"
+                    },
+                    {
+                        "ID": 22,
+                        "Threshold": 22,
+                        "AchievementPoint": 0,
+                        "Desc": "S6赛季天骄"
+                    },
+                    {
+                        "ID": 23,
+                        "Threshold": 23,
+                        "AchievementPoint": 0,
+                        "Desc": "S6赛季王者"
+                    },
+                    {
+                        "ID": 24,
+                        "Threshold": 24,
+                        "AchievementPoint": 0,
+                        "Desc": "S6赛季圣皇"
                     }
                 ],
                 "ID": 165,
@@ -7601,6 +7663,13 @@
                         "AchievementPoint": 10,
                         "SpeNameBonus": 528,
                         "Desc": "气旋斗者"
+                    },
+                    {
+                        "ID": 14,
+                        "Threshold": 14,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 535,
+                        "Desc": "太空站勇士"
                     }
                 ],
                 "ID": 166,
@@ -7629,6 +7698,81 @@
                 "ID": 168,
                 "Type": 3,
                 "Desc": "精灵觉醒"
+            },
+            {
+                "Rule": {
+                    "ID": 1,
+                    "Threshold": 1,
+                    "AchievementPoint": 20,
+                    "SpeNameBonus": 536,
+                    "Desc": "真神挑战者"
+                },
+                "ID": 169,
+                "Type": 3,
+                "Desc": "谱尼·真神试炼"
+            },
+            {
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 5,
+                        "Desc": "突破坍缩（一）"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 5,
+                        "Desc": "突破坍缩（二）"
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 3,
+                        "AchievementPoint": 5,
+                        "Desc": "突破坍缩（三）"
+                    },
+                    {
+                        "ID": 4,
+                        "Threshold": 4,
+                        "AchievementPoint": 10,
+                        "Desc": "坍缩终结者（一）"
+                    },
+                    {
+                        "ID": 5,
+                        "Threshold": 5,
+                        "AchievementPoint": 10,
+                        "Desc": "坍缩终结者（二）"
+                    },
+                    {
+                        "ID": 6,
+                        "Threshold": 6,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 539,
+                        "Desc": "坍缩终结者（三）"
+                    },
+                    {
+                        "ID": 7,
+                        "Threshold": 7,
+                        "AchievementPoint": 10,
+                        "Desc": "完美观测者（一）"
+                    },
+                    {
+                        "ID": 8,
+                        "Threshold": 8,
+                        "AchievementPoint": 10,
+                        "Desc": "完美观测者（二）"
+                    },
+                    {
+                        "ID": 9,
+                        "Threshold": 9,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 540,
+                        "Desc": "完美观测者（三）"
+                    }
+                ],
+                "ID": 170,
+                "Type": 3,
+                "Desc": "量子回廊"
             }
         ]
     }

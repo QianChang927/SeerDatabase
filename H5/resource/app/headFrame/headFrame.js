@@ -241,8 +241,7 @@ function(e) {
                 this.onClose();
                 break;
             case this.imgBtn_go:
-                this._goto();
-                break;
+                return;
             case this.imgBtn_change:
                 this.onChange()
             }
@@ -358,7 +357,8 @@ function(e) {
             } else this.txtDes.text = e.desc,
             this.imgBtn_go.visible = !(1 === e.unavailable) && "" != e["goto"],
             this.changeName.text = "已更换",
-            DisplayUtil.setEnabled(this.imgBtn_change, !1, !0)
+            DisplayUtil.setEnabled(this.imgBtn_change, !1, !0);
+            this.imgBtn_go.visible = !1
         },
         i.prototype.destroy = function() {
             this._removeEvents(),

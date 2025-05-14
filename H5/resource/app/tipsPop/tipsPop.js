@@ -1601,7 +1601,7 @@ function(t) {
             e = this.imgInlay.height + this.imgInlay.bottom + t;
             if (GainWayManger.getIsHaveTitleById(this.itemId)) {
                 var i = GainWayManger.getGainWaysById(this.itemId).length >= 3 ? 3 : GainWayManger.getGainWaysById(this.itemId).length;
-                this.gr_gainWay.visible = !0,
+                this.gr_gainWay.visible = !1,
                 this.gr_gainWay.y = this.txtDes.y + this.txtDes.height + 1.5 * t;
                 var n = GainWayManger.getGainWaysById(this.itemId).length >= 3 ? this.scoreller_gainWay.height: 41 * i - 6;
                 this.imgInlay.visible ? this.imge_bg_addGainWay.height = this.gr_Tips.height = this.gr_gainWay.y + 27 + n + e: this.imge_bg_addGainWay.height = this.gr_Tips.height = this.gr_gainWay.y + 27 + n + this.imgInlay.bottom + t,
@@ -1721,7 +1721,7 @@ function(t) {
             if (GainWayManger.getIsHaveTitleById(this.itemId)) {
                 var i = GainWayManger.getGainWaysById(this.itemId).length,
                 n = i >= 3 ? 3 : i;
-                this.gr_gainWay.visible = !0,
+                this.gr_gainWay.visible = !1,
                 this.gr_gainWay.y = this.txtDescribe.y + this.txtDescribe.height + 1.5 * t,
                 this.list_gainWay.touchEnabled = i >= 3;
                 var r = i >= 3 ? this.scoreller_gainWay.height: 41 * n - 6;
@@ -4700,6 +4700,7 @@ generateEUI.paths["resource/eui_skins/tips/GemDetailSkinGianWaySkin.exml"] = win
         t.right = 30,
         t.scaleX = 1,
         t.scaleY = 1,
+        t.visible = !1,
         t.y = 150,
         t.elementsContent = [this.scoreller_gainWay_i(), this.gr_title_i(), this.imge_mask_i()],
         t
@@ -5005,6 +5006,7 @@ generateEUI.paths["resource/eui_skins/tips/ItemTipsAddGianWaySkin.exml"] = windo
         t.scaleX = 1,
         t.scaleY = 1,
         t.touchEnabled = !1,
+        t.visible = !1,
         t.y = 150,
         t.elementsContent = [this.scoreller_gainWay_i(), this.gr_title_i(), this.imge_mask_i()],
         t

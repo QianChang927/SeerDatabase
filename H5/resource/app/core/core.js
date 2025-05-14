@@ -1819,11 +1819,11 @@ ClothPreview2 = function() {
         this.downRenderOrder = [t.FLAG_HAND_1, t.FLAG_HAND, t.FLAG_HEAD, t.FLAG_TOP, t.FLAG_EYE],
         this.upRenderOrder = [t.FLAG_HAND_1, t.FLAG_HAND, t.FLAG_EYE, t.FLAG_HEAD, t.FLAG_TOP],
         this.rightRenderOrder = [t.FLAG_HEAD, t.FLAG_TOP, t.FLAG_HAND_1, t.FLAG_HAND, t.FLAG_EYE],
-        this.rightDownRenderOrder = [t.FLAG_HAND_1, t.FLAG_HEAD, t.FLAG_HAND, t.FLAG_TOP, t.FLAG_EYE],
+        this.rightDownRenderOrder = [t.FLAG_HAND_1, t.FLAG_CLOTH, t.FLAG_WAIST, t.FLAG_HEAD, t.FLAG_HAND, t.FLAG_TOP, t.FLAG_EYE],
         this.rightUpRenderOrder = [t.FLAG_EYE, t.FLAG_HEAD, t.FLAG_TOP, t.FLAG_HAND_1, t.FLAG_HAND],
         this.leftRenderOrder = [t.FLAG_HEAD, t.FLAG_TOP, t.FLAG_HAND_1, t.FLAG_HAND, t.FLAG_EYE],
         this.leftDownRenderOrder = [t.FLAG_HAND, t.FLAG_TOP, t.FLAG_HEAD, t.FLAG_EYE, t.FLAG_HAND_1],
-        this.leftUpRenderOrder = [t.FLAG_EYE, t.FLAG_TOP, t.FLAG_HAND, t.FLAG_HEAD, t.FLAG_HAND_1],
+        this.leftUpRenderOrder = [t.FLAG_EYE, t.FLAG_TOP, t.FLAG_HAND_1, t.FLAG_HEAD, t.FLAG_HAND],
         this.model = r,
         this.people = n,
         this.flagArray = this.getFlagArray(),
@@ -1932,6 +1932,7 @@ ClothPreview2 = function() {
     t.FLAG_DECORATOR = "decorator",
     t.FLAG_FOOT = "foot",
     t.FLAG_BG = "bg",
+    t.FLAG_CLOTH = "cloth",
     t.FLAG_COLOR = "color",
     t
 } ();
@@ -14131,18 +14132,10 @@ GuideManager = function() {
             n.start()
         } else console.warn("新手模块未找到，")
     },
-    t.checkHasAward = function() {
-        SocketConnection.sendByQueue(CommandID.PASS_GUIDE_AWARD, [1, 0],
-        function(e) {
-            var n = e.data,
-            r = n.readUnsignedInt();
-            t.rewardState = n.readUnsignedInt(),
-            1 == r ? ModuleManager.showModuleByID(133) : AutoOpenManager.init()
-        })
-    },
+    t.checkHasAward = function() {},
     t.checkMainPanelGuide = function() {
         var t = core.manager.BitBuffSetManager.getInstance().getValueByID(5);
-        return 0 >= t ? void(GameInfo.isChecking ? ToolBarManager.toolBar.initMainIcon() : ModuleManager.showModuleByID(config.ModuleConst.NEW_SEER_TOOLBAR_GUIDE)) : void this.checkHasAward()
+        return 0 >= t ? void(GameInfo.isChecking ? ToolBarManager.toolBar.initMainIcon() : ToolBarManager.toolBar.initMainIcon()) : void this.checkHasAward()
     },
     t.mainPanelGuideComplete = function() {
         var t = this;
@@ -15801,6 +15794,7 @@ LevelManager = function() {
         this.chatLevel.percentWidth = this.chatLevel.percentHeight = 100,
         this.chatLevel.touchEnabled = !1,
         this._root.addChild(this.chatLevel),
+        this.chatLevel.visible = !1,
         this._appLevel = new eui.Group,
         this._appLevel.name = "appLevel",
         this._appLevel.percentWidth = this.appLevel.percentHeight = 100,
@@ -20997,18 +20991,12 @@ OnlineManager = function() {
         }
     },
     t.prototype._enterGame = function() {
-        PopViewManager.getInstance().hideAll(),
-        GuideManager.isCompleted() ? (ModuleManager.destroyAllModule(), this._showMainView(), LoadingManager.hideProgressBar()) : (egret.lifecycle.stage.touchChildren = !1, GuideManager.loadRes().then(function() {
-            var t = 2001;
-            GuideManager.step < 2 && (t = 2032),
-            MapManager.changeMap(t,
-            function() {
-                GuideManager.step >= 2 && (LoadingManager.setProgress(100), LoadingManager.hideProgressBar(), ModuleManager.destroyAllModule()),
-                ChatManager.getInstance(),
-                LevelManager.toolsLevel.addChild(ToolBarManager.toolBar),
-                GuideManager.startGuide()
-            })
-        }))
+        return PopViewManager.getInstance().hideAll(),
+        GuideManager.isCompleted() ? (ModuleManager.destroyAllModule(), this._showMainView(), LoadingManager.hideProgressBar(), void 0) : void Alarm.show("检测到您是新手玩家，为保证完整内容体验，请前往《赛尔号巅峰之战》（三端互通版）进行游戏！",
+        function() {
+            core.gameUtil.OpenUrl("https://seerm.61.com/"),
+            egret.lifecycle.stage.touchChildren = !1
+        })
     },
     t.prototype.firstShowMainPanel = function() {
         this._showMainView()
@@ -34957,16 +34945,14 @@ AutoOpenBackflowPopController = function(t) {
             var n = !!KTool.getBit(e[0], 15);
             if (n) {
                 var r = !KTool.getBit(e[1], 30);
-                if (r) {
-                    if (GameInfo.isChecking) return;
-                    EventManager.addEventListener(ModuleEvent.CLOSE_MODULE, t.onCloseModule, t),
-                    MapManager.changeMap(2003),
-                    ModuleManager.showModuleByID(t.item.moduleId, "pop1")
-                } else {
-                    var o = +egret.localStorage.getItem("backflowFirstToday_" + MainManager.actorID),
-                    i = SystemTimerManager.sysBJDate.getDate() != o;
-                    i ? (EventManager.addEventListener(ModuleEvent.CLOSE_MODULE, t.onCloseModule, t), ModuleManager.showModuleByID(t.item.moduleId, "pop2")) : t.next()
-                }
+                if (r) return void Alarm.show("检测到您是回流玩家，为保证完整内容体验，请前往《赛尔号巅峰之战》（三端互通版）进行游戏！",
+                function() {
+                    core.gameUtil.OpenUrl("https://seerm.61.com/"),
+                    egret.lifecycle.stage.touchChildren = !1
+                });
+                var o = +egret.localStorage.getItem("backflowFirstToday_" + MainManager.actorID),
+                i = SystemTimerManager.sysBJDate.getDate() != o;
+                i ? t.next() : t.next(),
                 egret.localStorage.setItem("backflowFirstToday_" + MainManager.actorID, SystemTimerManager.sysBJDate.getDate() + "")
             } else t.next()
         })
@@ -35456,19 +35442,9 @@ AutoOpenNewSeerSignController = function(t) {
     }
     return __extends(e, t),
     e.prototype.check = function() {
-        var t = this;
         EventManager.removeEventListener(GuideManager.NEW_SEER_GUIDE_COMPLETED, this.check, this);
-        for (var e = egret.localStorage.getItem(this.key), n = this.item.param1.split(","), r = 0; r < n.length; r++) this.values[r] = Number(n[r]);
-        void 0 == e ? KTool.getMultiValue(this.values,
-        function(e) {
-            var n = e.toString();
-            egret.localStorage.setItem(t.key, n),
-            e[1] < 127 ? t.openPanel() : t.next()
-        }) : KTool.getMultiValue(this.values,
-        function(e) {
-            for (var n = 1; n <= e[2]; n++) if (0 == KTool.getBit(e[1], n)) return void t.openPanel();
-            t.next()
-        })
+        for (var t = (egret.localStorage.getItem(this.key), this.item.param1.split(",")), e = 0; e < t.length; e++) this.values[e] = Number(t[e]);
+        this.next()
     },
     e.prototype.openPanel = function() {
         EventManager.addEventListener(ModuleEvent.CLOSE_MODULE, this.onCloseModule, this),
@@ -39916,20 +39892,13 @@ KTool = function() {
         }
     },
     t.checkHasAdvanced = function(e, n, r) {
-        var o = [3729, 3171, 3954, 3388];
-        return new Promise(function(i, s) {
-            if (e && o.indexOf(e.id) >= 0 && (n = e.id, r = e.catchTime, e = null), e && e.effectList) {
-                for (var a = e.effectList,
-                _ = 0; _ < a.length; _++) {
-                    var c = a[_];
-                    EffectIconControl.checkIncludeAdvEffect(c.effectID) && i(!0)
-                }
-                i(!1)
-            } else t.advancedPets.containsKey(n) ? i(t.advancedPets.getValue(n) == r) : PetAdvanceXMLInfo.getIncludeAdvance(n) ? SocketConnection.sendWithPromise(41805, [1, n]).then(function(e) {
-                var o = e.data.readUnsignedInt();
-                o = e.data.readUnsignedInt(),
-                o == r ? (t.advancedPets.add(n, r), i(!0)) : i(!1)
-            }) : i(!1)
+        return new Promise(function(o, i) {
+            null != e && (n = e.id, r = e.catchTime, e = null),
+            0 == PetAdvanceXMLInfo.getIncludeAdvance(n) ? o(!1) : t.advancedPets.containsKey(n) ? o(t.advancedPets.getValue(n) == r) : PetAdvanceXMLInfo.getIncludeAdvance(n) ? SocketConnection.sendWithPromise(41805, [1, n]).then(function(e) {
+                var i = e.data.readUnsignedInt();
+                i = e.data.readUnsignedInt(),
+                i == r ? (t.advancedPets.add(n, r), o(!0)) : o(!1)
+            }) : o(!1)
         })
     },
     t.getGlobalValues = function(t, e, n, r) {
@@ -66625,7 +66594,22 @@ PetAdvanceXMLInfo = function() {
                         var l = _.Back[c];
                         t._backAdvInfos.add(l.MonsterId, l)
                     }
-                    e()
+                    RES.getResByUrl("resource/config/xml/awakendetail.json",
+                    function(n) {
+                        var r = n.root.Task;
+                        if (t._taskInfo = r, r.hasOwnProperty("length")) for (var o = 0; o < r.length; o++) {
+                            var i = r[o].Advances,
+                            s = i.MonsterId;
+                            t._petArr.push(s),
+                            t._petAdvanceInfos.containsKey(s) ? t._petAdvanceInfos[s] = i: t._petAdvanceInfos.add(s, i)
+                        } else {
+                            var i = r.Advances,
+                            s = i.MonsterId;
+                            t._petArr.push(s),
+                            t._petAdvanceInfos.containsKey(s) ? t._petAdvanceInfos[s] = i: t._petAdvanceInfos.add(s, i)
+                        }
+                        e()
+                    })
                 })
             },
             t)
@@ -66691,7 +66675,9 @@ PetAdvanceXMLInfo = function() {
             function(a) {
                 switch (a.label) {
                 case 0:
-                    return 1 == this.getAdvType(e) ? (Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得"), [2]) : (ModuleManager.destroyAllModule(), this._petArr[this._petArr.length - 1] != e ? [3, 2] : [4, config.ActivityCenter.loadAsync()]);
+                    return 1 == this.getAdvType(e),
+                    Alarm.show("互通版暂未开放该精灵关卡\n可以前往网页版挑战获得"),
+                    [2];
                 case 1:
                     if (a.sent(), n = config.ActivityCenter.getItem(7), r = new Date(n.beginning.replace(/_/g, "/")).getTime(), o = new Date(n.ending.replace(/_/g, "/")).getTime(), i = SystemTimerManager.sysBJDate.getTime(), s = i >= r && o >= i) return ModuleManager.showModuleByID(110, {
                         moduleID: 187,

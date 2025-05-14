@@ -836,11 +836,6 @@ function(e) {
                 t.main.oneKeyGet()
             },
             this),
-            ImageButtonUtil.add(this.groupMilitary,
-            function() {
-                ModuleManager.showModuleByID(222)
-            },
-            this),
             EventManager.addEventListener(e.EventConst.EVENT_AFTER_GET_ACHIEVE,
             function(e) {
                 return __awaiter(t, void 0, void 0,

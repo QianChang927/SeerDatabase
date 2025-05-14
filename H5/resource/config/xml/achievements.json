@@ -1690,6 +1690,30 @@
                                         "title": "皮皮之友",
                                         "Desc": "完成【皮洛斯星传说】系列剧情",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 13,
+                                        "Threshold": 13,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "皎梦悠扬",
+                                        "proicon": 1398,
+                                        "SpeNameBonus": 534,
+                                        "title": "皎梦悠扬",
+                                        "Desc": "完成【绮梦之旅】系列剧情",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 14,
+                                        "Threshold": 14,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "太空站传奇",
+                                        "proicon": 1405,
+                                        "SpeNameBonus": 537,
+                                        "title": "太空站传奇",
+                                        "Desc": "完成主线【精灵太空站传说】获得",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 161,
@@ -1991,7 +2015,7 @@
                                         "ID": 1,
                                         "Threshold": 21,
                                         "AchievementPoint": 10,
-                                        "Desc": "集齐所有精灵",
+                                        "Desc": "活动获得",
                                         "proicon": 52,
                                         "icon": 1,
                                         "SpeNameBonus": 39,
@@ -2012,7 +2036,7 @@
                                         "Threshold": 1,
                                         "AchievementPoint": 10,
                                         "achName": "水果达人",
-                                        "Desc": "集齐5种果然多精灵",
+                                        "Desc": "活动获得",
                                         "proicon": 73,
                                         "icon": 1,
                                         "SpeNameBonus": 57,
@@ -2023,7 +2047,7 @@
                                         "Threshold": 2,
                                         "AchievementPoint": 10,
                                         "achName": "净化使者",
-                                        "Desc": "集齐奈哲尔和奈尼尔",
+                                        "Desc": "活动获得",
                                         "proicon": 74,
                                         "icon": 1,
                                         "SpeNameBonus": 58,
@@ -2034,7 +2058,7 @@
                                         "Threshold": 3,
                                         "AchievementPoint": 15,
                                         "achName": "龙王子的逆袭",
-                                        "Desc": "拥有哈克萨斯",
+                                        "Desc": "活动获得",
                                         "proicon": 483,
                                         "icon": 1,
                                         "SpeNameBonus": 119,
@@ -2045,7 +2069,7 @@
                                         "Threshold": 4,
                                         "AchievementPoint": 30,
                                         "achName": "精灵王缔造者",
-                                        "Desc": "拥有精灵王凯萨",
+                                        "Desc": "活动获得",
                                         "proicon": 968,
                                         "icon": 1,
                                         "SpeNameBonus": 145,
@@ -2056,7 +2080,7 @@
                                         "Threshold": 5,
                                         "AchievementPoint": 20,
                                         "achName": "天威神甲",
-                                        "Desc": "获得机械精灵王全部3个形态",
+                                        "Desc": "活动获得",
                                         "proicon": 1009,
                                         "icon": 1,
                                         "SpeNameBonus": 194,
@@ -2067,7 +2091,7 @@
                                         "Threshold": 6,
                                         "AchievementPoint": 35,
                                         "achName": "联盟的勇士",
-                                        "Desc": "拥有全部战神联盟完全体",
+                                        "Desc": "活动获得",
                                         "proicon": 1010,
                                         "icon": 1,
                                         "SpeNameBonus": 195,
@@ -2111,7 +2135,7 @@
                                         "Threshold": 10,
                                         "AchievementPoint": 20,
                                         "achName": "帝天战佛",
-                                        "Desc": "获得帝天战佛",
+                                        "Desc": "活动获得",
                                         "proicon": 1059,
                                         "icon": 1,
                                         "SpeNameBonus": 240,
@@ -4898,7 +4922,7 @@
                                         "Threshold": 23,
                                         "AchievementPoint": 50,
                                         "achName": "圣光·奥尔德",
-                                        "Desc": "获得圣光·奥尔德",
+                                        "Desc": "活动获得",
                                         "proicon": 998,
                                         "icon": 4
                                     },
@@ -6076,11 +6100,153 @@
                                         "title": "花灯迎福",
                                         "Desc": "通关S-花灯仙子【地狱难度】关卡获得",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 29,
+                                        "Threshold": 29,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "大地新生",
+                                        "proicon": 1397,
+                                        "SpeNameBonus": 533,
+                                        "title": "大地新生",
+                                        "Desc": "通关S-星光·纳多雷【地狱难度】关卡获得",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 30,
+                                        "Threshold": 30,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "念力枷锁",
+                                        "proicon": 1406,
+                                        "SpeNameBonus": 538,
+                                        "title": "念力枷锁",
+                                        "Desc": "通关S-命运玛酷索【地狱难度】关卡获得",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 160,
                                 "Type": 0,
                                 "Desc": "新因子关卡1"
+                            },
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 20,
+                                        "icon": 1,
+                                        "achName": "真神挑战者",
+                                        "proicon": 1404,
+                                        "SpeNameBonus": 536,
+                                        "title": "真神挑战者",
+                                        "Desc": "成功通过谱尼·真神试炼",
+                                        "titleColor": "0xFFFFFF"
+                                    }
+                                ],
+                                "ID": 169,
+                                "Desc": "谱尼·真神试炼"
+                            },
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 5,
+                                        "icon": 1,
+                                        "achName": "观测命运（一）",
+                                        "proicon": 1407,
+                                        "Desc": "【量子回廊】通过坍缩域·帕诺全部关卡",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 2,
+                                        "Threshold": 2,
+                                        "AchievementPoint": 5,
+                                        "icon": 1,
+                                        "achName": "观测命运（二）",
+                                        "proicon": 1407,
+                                        "Desc": "【量子回廊】通过坍缩域·卡兰全部关卡",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 3,
+                                        "Threshold": 3,
+                                        "AchievementPoint": 5,
+                                        "icon": 1,
+                                        "achName": "观测命运（三）",
+                                        "proicon": 1407,
+                                        "Desc": "【量子回廊】通过坍缩域·罗格全部关卡",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 4,
+                                        "Threshold": 4,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "征服命运（一）",
+                                        "proicon": 1408,
+                                        "Desc": "【量子回廊】领取坍缩域·帕诺全部三星奖励",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 5,
+                                        "Threshold": 5,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "征服命运（二）",
+                                        "proicon": 1408,
+                                        "Desc": "【量子回廊】领取坍缩域·卡兰全部三星奖励",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 6,
+                                        "Threshold": 6,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "征服命运（三）",
+                                        "proicon": 1408,
+                                        "SpeNameBonus": 539,
+                                        "title": "归一者",
+                                        "Desc": "【量子回廊】领取坍缩域·罗格全部三星奖励",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 7,
+                                        "Threshold": 7,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "完美观测者（一）",
+                                        "proicon": 1409,
+                                        "Desc": "【量子回廊】领取过任意一期叠加域“静态基准”全部三星奖励",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 8,
+                                        "Threshold": 8,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "完美观测者（二）",
+                                        "proicon": 1409,
+                                        "Desc": "【量子回廊】领取过任意一期叠加域“动域干涉”全部三星奖励",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 9,
+                                        "Threshold": 9,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "完美观测者（三）",
+                                        "proicon": 1409,
+                                        "SpeNameBonus": 540,
+                                        "title": "完美观测者",
+                                        "Desc": "【量子回廊】领取过任意一期叠加域“坍缩临界”全部三星奖励",
+                                        "titleColor": "0xFFFFFF"
+                                    }
+                                ],
+                                "ID": 170,
+                                "Desc": "量子回廊"
                             }
                         ],
                         "ID": 49,
@@ -8879,6 +9045,42 @@
                                         "Desc": "S5赛季竞技/狂野模式中首次达到圣皇段位时获得",
                                         "proicon": 1388,
                                         "icon": 1
+                                    },
+                                    {
+                                        "ID": 21,
+                                        "Threshold": 21,
+                                        "AchievementPoint": 0,
+                                        "achName": "S6赛季猛将",
+                                        "Desc": "S6赛季竞技/狂野模式中首次达到猛将段位时获得",
+                                        "proicon": 1399,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 22,
+                                        "Threshold": 22,
+                                        "AchievementPoint": 0,
+                                        "achName": "S6赛季天骄",
+                                        "Desc": "S6赛季竞技/狂野模式中首次达到天骄段位时获得",
+                                        "proicon": 1400,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 23,
+                                        "Threshold": 23,
+                                        "AchievementPoint": 0,
+                                        "achName": "S6赛季王者",
+                                        "Desc": "S6赛季竞技/狂野模式中首次达到王者段位时获得",
+                                        "proicon": 1401,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 24,
+                                        "Threshold": 24,
+                                        "AchievementPoint": 0,
+                                        "achName": "S6赛季圣皇",
+                                        "Desc": "S6赛季竞技/狂野模式中首次达到圣皇段位时获得",
+                                        "proicon": 1402,
+                                        "icon": 1
                                     }
                                 ],
                                 "ID": 165,
@@ -9679,7 +9881,7 @@
                                         "Threshold": 17,
                                         "AchievementPoint": 20,
                                         "achName": "兜比请来的救兵",
-                                        "Desc": "获得1只兜比",
+                                        "Desc": "活动获得",
                                         "proicon": 967,
                                         "icon": 4,
                                         "SpeNameBonus": 142,
@@ -10711,7 +10913,7 @@
                                         "AchievementPoint": 10,
                                         "achName": "灵威天羽",
                                         "icon": 1,
-                                        "proicon": 1048,
+                                        "proicon": 1052,
                                         "SpeNameBonus": 231,
                                         "Desc": "飞行系精灵王凡尔斯专属成就",
                                         "title": "灵威天羽"
@@ -11084,7 +11286,7 @@
                                         "abtext": "防御+25，特防+25，体力+40"
                                     }
                                 ],
-                                "_text": ">\n    \t\t \t",
+                                "_text": ">\r\n    \t\t \t",
                                 "ID": 126,
                                 "Type": 0,
                                 "Desc": "限定分类"
@@ -11253,7 +11455,7 @@
                                         "proicon": 1104,
                                         "SpeNameBonus": 279,
                                         "title": "永恒的荣耀",
-                                        "Desc": "集齐所有单属性精灵王",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -11265,7 +11467,7 @@
                                         "proicon": 1105,
                                         "SpeNameBonus": 280,
                                         "title": "神战天君",
-                                        "Desc": "获得神秘战斗精灵王阿尔蒂克",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -11277,7 +11479,7 @@
                                         "proicon": 1106,
                                         "SpeNameBonus": 281,
                                         "title": "铸魂之心",
-                                        "Desc": "获得天道魂帝",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -11289,7 +11491,7 @@
                                         "proicon": 1107,
                                         "SpeNameBonus": 282,
                                         "title": "圣威天甲",
-                                        "Desc": "获得机械系精灵王马尔修斯",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -11343,7 +11545,7 @@
                                         "proicon": 1111,
                                         "SpeNameBonus": 286,
                                         "title": "雷火帝君",
-                                        "Desc": "获得格劳恩斯",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -11355,7 +11557,7 @@
                                         "proicon": 1112,
                                         "SpeNameBonus": 287,
                                         "title": "冰影主宰",
-                                        "Desc": "获得冰暗影系精灵王柯尔霍德",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -11469,7 +11671,7 @@
                                         "proicon": 1122,
                                         "SpeNameBonus": 297,
                                         "title": "洪荒龙族",
-                                        "Desc": "获得远古龙系精灵王乔列尼德",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -11625,7 +11827,7 @@
                                         "proicon": 1134,
                                         "SpeNameBonus": 309,
                                         "title": "虎啸一族的挚友",
-                                        "Desc": "获得九周年神宠莉莎",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -11956,7 +12158,7 @@
                                         "proicon": 1165,
                                         "SpeNameBonus": 333,
                                         "title": "荒神",
-                                        "Desc": "获得荒神辛",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -12200,7 +12402,7 @@
                                         "icon": 1,
                                         "achName": "2020年度愿望精灵",
                                         "proicon": 1196,
-                                        "Desc": "收集获得2020年度愿望精灵们"
+                                        "Desc": "活动获得"
                                     },
                                     {
                                         "ID": 22,
@@ -12562,7 +12764,7 @@
                                         "proicon": 1260,
                                         "SpeNameBonus": 424,
                                         "title": "圣剑选召者",
-                                        "Desc": "购买精灵【圣律剑灵】获得",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -12704,7 +12906,7 @@
                                         "proicon": 1277,
                                         "SpeNameBonus": 441,
                                         "title": "千古一帝",
-                                        "Desc": "购买始皇帝·嬴政新春至尊战力礼包获得",
+                                        "Desc": "活动获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -12943,7 +13145,7 @@
                                         "proicon": 1354,
                                         "SpeNameBonus": 499,
                                         "title": "群星的复调",
-                                        "Desc": "收集“群星的复调”系列周年皮肤获得",
+                                        "Desc": "15周年庆活动中，收集“群星的复调”系列周年皮肤获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -12955,7 +13157,7 @@
                                         "proicon": 1356,
                                         "SpeNameBonus": 501,
                                         "title": "时空战警",
-                                        "Desc": "收集“异元时空”系列限定皮肤获得",
+                                        "Desc": "2024年春节活动中，收集“异元时空”系列限定皮肤获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -13005,7 +13207,7 @@
                                         "proicon": 1389,
                                         "SpeNameBonus": 525,
                                         "title": "熔炉之怒",
-                                        "Desc": "购买熔炉·古代巨型机器人皮肤获得",
+                                        "Desc": "2025年春节活动中，购买熔炉·古代巨型机器人皮肤获得",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -13017,7 +13219,7 @@
                                         "proicon": 1390,
                                         "SpeNameBonus": 526,
                                         "title": "黑暗之门",
-                                        "Desc": "购买原始黑洞·尤纳斯至尊礼包获得",
+                                        "Desc": "2025年春节活动中，购买原始黑洞·尤纳斯至尊礼包获得",
                                         "titleColor": "0xFFFFFF",
                                         "AbilityTitle": 1,
                                         "abtext": "攻击+20，特攻+20，体力+100"
@@ -13047,6 +13249,18 @@
                                         "titleColor": "0xFFFFFF",
                                         "AbilityTitle": 1,
                                         "abtext": "攻击+45，特攻+45，防御+30"
+                                    },
+                                    {
+                                        "ID": 14,
+                                        "Threshold": 14,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "太空站勇士",
+                                        "proicon": 1403,
+                                        "SpeNameBonus": 535,
+                                        "title": "太空站勇士",
+                                        "Desc": "参与【太空站激励】限时活动获得",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 166,

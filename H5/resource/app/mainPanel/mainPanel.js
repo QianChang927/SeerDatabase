@@ -1790,7 +1790,7 @@ function(e) {
             }
         },
         i.prototype.updateRightRedDot = function() {
-            this.flag_up.visible = !!HotRedManager.getInstance().getHotRedState(29),
+            this.flag_up.visible = !1,
             this.imgMallRedDot.visible = !1
         },
         i.prototype.show = function() {
@@ -1873,6 +1873,11 @@ function(e) {
                 PeakJihad2016Controller.getIsTimeOutNum(function() {
                     ModuleManager.showModule("peakJihadFirstPage", ["peakJihadFirstPage"])
                 })
+            },
+            this),
+            ImageButtonUtil.add(this.gotoBtn,
+            function() {
+                core.gameUtil.OpenUrl("https://seerm.61.com/")
             },
             this),
             ImageButtonUtil.add(this.btnPet,
@@ -3455,7 +3460,7 @@ generateEUI.paths["resource/eui_skins/MainPanelPageSkin.exml"] = window.MainPane
 generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = function(e) {
     function t() {
         e.call(this),
-        this.skinParts = ["group_ani", "group_bg", "bg_mask", "pet", "rectPet", "btnLookBanNiang", "xian", "group_kanBanNiang", "btnRefresh", "grp_petBase", "pageActCenter", "grp_main", "btnMainTask", "flag_new", "btnPet_icon", "btnPet", "btnLevel_icon", "btnLevel", "flag_newChallenge", "btnShop", "imgMallRedDot", "btnToken", "flag_up", "btnRecruit", "btnPeak_icon", "flag_newSeason", "btnPeak", "flag_petRecruit", "rightbg", "group_right", "Group_KanBan", "compBubble", "grpBubble"],
+        this.skinParts = ["group_ani", "group_bg", "bg_mask", "pet", "rectPet", "btnLookBanNiang", "xian", "group_kanBanNiang", "btnRefresh", "grp_petBase", "pageActCenter", "grp_main", "btnMainTask", "flag_new", "btnPet_icon", "btnPet", "btnLevel_icon", "btnLevel", "flag_newChallenge", "btnShop", "imgMallRedDot", "btnToken", "flag_up", "btnRecruit", "btnPeak_icon", "flag_newSeason", "btnPeak", "flag_petRecruit", "rightbg", "activity_lock", "tipSp", "gotoBtn", "group_right", "Group_KanBan", "compBubble", "grpBubble"],
         this.height = 640,
         this.width = 1136,
         this.elementsContent = [this._Image1_i(), this.group_bg_i(), this.bg_mask_i(), this.grp_petBase_i(), this.group_right_i(), this.Group_KanBan_i(), this.grpBubble_i()]
@@ -3594,14 +3599,14 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         e.visible = !0,
         e.width = 446,
         e.y = 90,
-        e.elementsContent = [this.grp_main_i(), this.btnMainTask_i(), this.flag_new_i(), this.btnPet_i(), this.btnLevel_i(), this.flag_newChallenge_i(), this.btnShop_i(), this.imgMallRedDot_i(), this.btnToken_i(), this.flag_up_i(), this.btnRecruit_i(), this.btnPeak_i(), this.flag_petRecruit_i(), this.rightbg_i()],
+        e.elementsContent = [this.grp_main_i(), this.btnMainTask_i(), this.flag_new_i(), this.btnPet_i(), this.btnLevel_i(), this.flag_newChallenge_i(), this.btnShop_i(), this.imgMallRedDot_i(), this.btnToken_i(), this.flag_up_i(), this.btnRecruit_i(), this.btnPeak_i(), this.flag_petRecruit_i(), this.rightbg_i(), this.activity_lock_i(), this.tipSp_i(), this.gotoBtn_i()],
         e
     },
     i.grp_main_i = function() {
         var e = new eui.Group;
         return this.grp_main = e,
         e.height = 127,
-        e.visible = !0,
+        e.visible = !1,
         e.width = 303,
         e.x = 0,
         e.y = 11,
@@ -3622,6 +3627,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         var e = new eui.Image;
         return this.btnMainTask = e,
         e.height = 132,
+        e.visible = !1,
         e.width = 126,
         e.x = 307,
         e.y = 3,
@@ -3642,6 +3648,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         var e = new eui.Group;
         return this.btnPet = e,
         e.height = 100,
+        e.visible = !1,
         e.width = 182,
         e.x = 23,
         e.y = 138,
@@ -3688,7 +3695,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         var e = new eui.Group;
         return this.btnLevel = e,
         e.height = 110,
-        e.visible = !0,
+        e.visible = !1,
         e.width = 218,
         e.x = 209,
         e.y = 136,
@@ -3747,6 +3754,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         return this.btnShop = e,
         e.height = 91,
         e.source = "main_panel_btnShop_png",
+        e.visible = !1,
         e.width = 137,
         e.x = 6,
         e.y = 233,
@@ -3756,6 +3764,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         var e = new eui.Image;
         return this.imgMallRedDot = e,
         e.source = "main_act_button_redPoint_png",
+        e.visible = !1,
         e.x = 125,
         e.y = 230,
         e
@@ -3765,7 +3774,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         return this.btnToken = e,
         e.height = 96,
         e.source = "main_panel_btnToken_png",
-        e.visible = !0,
+        e.visible = !1,
         e.width = 162,
         e.x = 145,
         e.y = 238,
@@ -3776,7 +3785,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         return this.flag_up = e,
         e.height = 16,
         e.source = "main_panel_flag_up_png",
-        e.visible = !0,
+        e.visible = !1,
         e.width = 30,
         e.x = 272,
         e.y = 240,
@@ -3787,7 +3796,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         return this.btnRecruit = e,
         e.height = 102,
         e.source = "main_panel_btnRecruit_png",
-        e.visible = !0,
+        e.visible = !1,
         e.width = 170,
         e.x = 269,
         e.y = 244,
@@ -3797,6 +3806,7 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         var e = new eui.Group;
         return this.btnPeak = e,
         e.height = 153,
+        e.visible = !1,
         e.width = 325,
         e.x = 56,
         e.y = 319,
@@ -3867,10 +3877,34 @@ generateEUI.paths["resource/eui_skins/MainSkin.exml"] = window.MainSkin = functi
         e.scaleY = 1,
         e.source = "main_panel_rightbg_png",
         e.touchEnabled = !1,
-        e.visible = !0,
+        e.visible = !1,
         e.width = 65,
         e.x = 381,
         e.y = 137,
+        e
+    },
+    i.activity_lock_i = function() {
+        var e = new eui.Image;
+        return this.activity_lock = e,
+        e.source = "mainpanel_groupgrpright_png",
+        e.x = 0,
+        e.y = 4,
+        e
+    },
+    i.tipSp_i = function() {
+        var e = new eui.Image;
+        return this.tipSp = e,
+        e.source = "mainpanel_imgtips_png",
+        e.x = -203,
+        e.y = -89,
+        e
+    },
+    i.gotoBtn_i = function() {
+        var e = new eui.Image;
+        return this.gotoBtn = e,
+        e.source = "mainpanel_imggotobtn_png",
+        e.x = 143,
+        e.y = 203,
         e
     },
     i.Group_KanBan_i = function() {

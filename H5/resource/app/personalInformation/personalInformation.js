@@ -690,14 +690,12 @@ function(t) {
             ImageButtonUtil.add(this.btnSave, this.onTouchImageButtonHandler, this, !1, !1),
             ImageButtonUtil.add(this.img_btn_exchangeCode, this.onTouchImageButtonHandler, this, !1, !1),
             ImageButtonUtil.add(this.btnPrivacyPolicy, this.onPriviePolicy, this),
-            ImageButtonUtil.add(this.btnResource, this.onResource, this),
             ImageButtonUtil.add(this.btnAccountCenter, this.onAccountCenter, this),
             ImageButtonUtil.add(this.btnCustomer, this.onCustomer, this),
             ImageButtonUtil.add(this.carPop, this.onCarPop, this, !1, !1),
             this.avatar_icon.addEventListener(egret.TouchEvent.TOUCH_TAP, this._onOpenHeadView, this),
             MainManager.actorInfo.addEventListener(UserInfoEvent.EVENT_CHANGE_HEAD_ID, this._onChangeHead, this),
             MainManager.actorInfo.addEventListener(UserInfoEvent.EVENT_CHANGE_HEAD_FRAME_ID, this._onChangeHead, this),
-            ImageButtonUtil.add(this.btnfire, this.onTouchImageButtonHandler, this),
             EventManager.addEventListener("battleFireUpdateInfo", this.updateBattleFire, this),
             this.list_suitPage.addEventListener(eui.ItemTapEvent.ITEM_TAP, this._onChangeSuit, this),
             EventManager.addEventListener("RedPointEvent", this.redDotEvent, this),
@@ -892,13 +890,13 @@ function(t) {
                         this.grp_curSuit.right = -this.grp_curSuit.width - 60,
                         this.grp_curSuit.visible = !0,
                         this.fireGroup.right = -this.fireGroup.width - 60,
-                        this.fireGroup.visible = !0,
+                        this.fireGroup.visible = !1,
                         this.gotoSuitBtn.right = -this.gotoSuitBtn.width - 60,
                         this.gotoSuitBtn.visible = !0,
                         this.ownerInfoBtn.right = -this.ownerInfoBtn.width - 60,
                         this.ownerInfoBtn.visible = !0,
                         this.btnResource.right = -this.btnResource.width - 60,
-                        this.btnResource.visible = !0,
+                        this.btnResource.visible = !1,
                         this.grpPolicy.alpha = 0,
                         this.grpPolicy.visible = !0,
                         t = [],
@@ -8340,7 +8338,7 @@ generateEUI.paths["resource/eui_skins/renderItem/PlayerinfoClothspositionItem2Sk
 generateEUI.paths["resource/eui_skins/PersonalinformationmeSkin.exml"] = window.PersonalinformationmeSkin = function(t) {
     function e() {
         t.call(this),
-        this.skinParts = ["ground_back", "suitImg", "grp_playerStyle", "lineIcon_0", "lineMask_0", "equip_0", "head", "lineIcon_2", "lineMask_2", "equip_1", "face", "lineIcon_1", "lineMask_1", "equip_2", "hand", "lineIcon_3", "lineMask_3", "equip_3", "waist", "lineIcon_4", "lineMask_4", "equip_4", "foot", "group_equip", "carPop", "carIcon", "addCar", "carGroup", "img_btn_allDisboard", "img_btn_allDress", "xiafangdi", "line1", "line2", "btnPrivacyPolicy", "btnAccountCenter", "btnCustomer", "grp_PolicyBtns", "_mask", "grpPolicy", "txt_suitName", "suitInfoTitle2", "txt_suitTag", "grp_showEff", "txt_suitDesc", "suitInfoLine", "txt_None", "suit_left", "line_34324324", "bg_3", "curTitleTx", "txt_title", "img_btn_changeTitle", "TitleInfo", "bg_2", "VIPtitle", "noVip", "nonoIcon", "vipNum", "VIPIcon", "vipLv", "vip", "vipBtn", "vipinfo", "bg_1", "teamtitle", "teamNameTx", "teamIcon", "joinTeamBtn", "LookTeamBtn", "CombatTeam", "militaryname", "military_icon", "btnMilitaryBook", "militaryTitle", "militarypoint2", "militarypoint", "txt_military", "detailsBtn", "imgAchieveRedDot", "MilitaryRank", "info2", "img_btn_exchangeCode", "txt_exchangeCode", "icon_004", "icon_003", "icon_002", "icon_001", "nameBg", "txt_nickName", "txt_Id", "txt_Time", "img_btn_changeName", "head_bg", "head_mask", "avatar_icon", "headContainer", "txt_changeHead", "info1", "info_left", "up_bg", "texture_7", "btnClose", "top", "list_suitPage", "btnUse", "btnSave", "Grp_SuitBtn", "SuitInfo", "grp_left", "reddotCard", "ownerInfoBtn", "gotoSuitBtn", "doneWearBtn", "btnfire", "img", "timebg", "txt", "fire", "fireGroup", "taozhuangbg", "txt_curSuit", "grp_curSuit", "dotRe", "btnResource", "grp_right"],
+        this.skinParts = ["ground_back", "suitImg", "grp_playerStyle", "lineIcon_0", "lineMask_0", "equip_0", "head", "lineIcon_2", "lineMask_2", "equip_1", "face", "lineIcon_1", "lineMask_1", "equip_2", "hand", "lineIcon_3", "lineMask_3", "equip_3", "waist", "lineIcon_4", "lineMask_4", "equip_4", "foot", "group_equip", "carPop", "carIcon", "addCar", "carGroup", "img_btn_allDisboard", "img_btn_allDress", "xiafangdi", "line1", "line2", "btnPrivacyPolicy", "btnAccountCenter", "btnCustomer", "grp_PolicyBtns", "_mask", "grpPolicy", "txt_suitName", "suitInfoTitle2", "txt_suitTag", "grp_showEff", "txt_suitDesc", "suitInfoLine", "txt_None", "suit_left", "line_34324324", "bg_3", "curTitleTx", "txt_title", "img_btn_changeTitle", "TitleInfo", "bg_2", "VIPtitle", "noVip", "nonoIcon", "vipNum", "VIPIcon", "vipLv", "vip", "vipBtn", "vipinfo", "vipSuo", "bg_1", "teamtitle", "teamNameTx", "teamIcon", "joinTeamBtn", "LookTeamBtn", "CombatTeam", "CombatTeamSuo", "militaryname", "military_icon", "btnMilitaryBook", "militaryTitle", "militarypoint2", "militarypoint", "txt_military", "detailsBtn", "imgAchieveRedDot", "MilitaryRank", "info2", "img_btn_exchangeCode", "txt_exchangeCode", "icon_004", "icon_003", "icon_002", "icon_001", "nameBg", "txt_nickName", "txt_Id", "txt_Time", "img_btn_changeName", "head_bg", "head_mask", "avatar_icon", "headContainer", "txt_changeHead", "info1", "info_left", "up_bg", "texture_7", "btnClose", "top", "list_suitPage", "btnUse", "btnSave", "Grp_SuitBtn", "SuitInfo", "grp_left", "reddotCard", "ownerInfoBtn", "gotoSuitBtn", "doneWearBtn", "btnfire", "img", "timebg", "txt", "fire", "fireGroup", "taozhuangbg", "txt_curSuit", "grp_curSuit", "dotRe", "btnResource", "grp_right"],
         this.height = 640,
         this.width = 1136,
         this.elementsContent = [this.ground_back_i(), this._Image1_i(), this.grp_playerStyle_i(), this.group_equip_i(), this.carGroup_i(), this.img_btn_allDisboard_i(), this.img_btn_allDress_i(), this.grpPolicy_i(), this.grp_left_i(), this.grp_right_i()]
@@ -8943,7 +8941,7 @@ generateEUI.paths["resource/eui_skins/PersonalinformationmeSkin.exml"] = window.
         t.visible = !0,
         t.x = 0,
         t.y = 155,
-        t.elementsContent = [this.TitleInfo_i(), this.vipinfo_i(), this.CombatTeam_i(), this.MilitaryRank_i()],
+        t.elementsContent = [this.TitleInfo_i(), this.vipinfo_i(), this.vipSuo_i(), this.CombatTeam_i(), this.CombatTeamSuo_i(), this.MilitaryRank_i()],
         t
     },
     i.TitleInfo_i = function() {
@@ -9089,6 +9087,14 @@ generateEUI.paths["resource/eui_skins/PersonalinformationmeSkin.exml"] = window.
         t.y = 10,
         t
     },
+    i.vipSuo_i = function() {
+        var t = new eui.Image;
+        return this.vipSuo = t,
+        t.source = "personalinformation_suo_png",
+        t.x = 0,
+        t.y = 91,
+        t
+    },
     i.CombatTeam_i = function() {
         var t = new eui.Group;
         return this.CombatTeam = t,
@@ -9159,6 +9165,14 @@ generateEUI.paths["resource/eui_skins/PersonalinformationmeSkin.exml"] = window.
         t.visible = !0,
         t.x = 251,
         t.y = 10,
+        t
+    },
+    i.CombatTeamSuo_i = function() {
+        var t = new eui.Image;
+        return this.CombatTeamSuo = t,
+        t.source = "personalinformation_suo_png",
+        t.x = 0,
+        t.y = 182,
         t
     },
     i.MilitaryRank_i = function() {
@@ -9660,7 +9674,7 @@ generateEUI.paths["resource/eui_skins/PersonalinformationmeSkin.exml"] = window.
         var t = new eui.Group;
         return this.ownerInfoBtn = t,
         t.x = 139,
-        t.y = 159,
+        t.y = 247,
         t.elementsContent = [this._Image13_i(), this.reddotCard_i()],
         t
     },
@@ -9690,7 +9704,7 @@ generateEUI.paths["resource/eui_skins/PersonalinformationmeSkin.exml"] = window.
         t.source = "personalInformationMe_gotoSuitBtn_png",
         t.visible = !0,
         t.x = 140,
-        t.y = 430,
+        t.y = 350,
         t
     },
     i.doneWearBtn_i = function() {
@@ -9699,14 +9713,14 @@ generateEUI.paths["resource/eui_skins/PersonalinformationmeSkin.exml"] = window.
         t.source = "personalInformationMe_doneWearBtn_png",
         t.visible = !0,
         t.x = 141,
-        t.y = 430,
+        t.y = 443,
         t
     },
     i.fireGroup_i = function() {
         var t = new eui.Group;
         return this.fireGroup = t,
         t.height = 73,
-        t.visible = !0,
+        t.visible = !1,
         t.width = 73,
         t.x = 141,
         t.y = 250,
@@ -9805,6 +9819,7 @@ generateEUI.paths["resource/eui_skins/PersonalinformationmeSkin.exml"] = window.
     i.btnResource_i = function() {
         var t = new eui.Group;
         return this.btnResource = t,
+        t.visible = !1,
         t.x = 139,
         t.y = 341,
         t.elementsContent = [this._Image14_i(), this.dotRe_i()],
@@ -9815,7 +9830,7 @@ generateEUI.paths["resource/eui_skins/PersonalinformationmeSkin.exml"] = window.
         return t.scaleX = 1,
         t.scaleY = 1,
         t.source = "personalInformation_btnResource_png",
-        t.visible = !0,
+        t.visible = !1,
         t.x = 0,
         t.y = 0,
         t

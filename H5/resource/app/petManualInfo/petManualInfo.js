@@ -2517,6 +2517,7 @@ generateEUI.paths["resource/eui_skins/InfoSkin.exml"] = window.PetInfoManual.Inf
         return this.imgBtn_get = t,
         t.right = 84,
         t.source = "ppim_info_imgbtn_get_png",
+        t.visible = !1,
         t.y = 505,
         t
     },
@@ -2525,6 +2526,7 @@ generateEUI.paths["resource/eui_skins/InfoSkin.exml"] = window.PetInfoManual.Inf
         return this.imgBtn_show = t,
         t.horizontalCenter = -194,
         t.source = "ppim_info_imgbtn_show_png",
+        t.visible = !1,
         t.y = 386,
         t
     },
@@ -3557,6 +3559,7 @@ generateEUI.paths["resource/eui_skins/view/InfoViewSkin.exml"] = window.petManua
         return this.imgBtn_get = t,
         t.height = 46,
         t.source = "pet_info_manual_imgBtn_get_png",
+        t.visible = !0,
         t.width = 134,
         t.x = 139,
         t.y = 496,
@@ -4440,6 +4443,7 @@ generateEUI.paths["resource/eui_skins/PetInfoManualSkin.exml"] = window.PetInfoM
         t.scaleX = 1,
         t.scaleY = 1,
         t.source = "pet_info_manual_imgBtn_show_png",
+        t.visible = !1,
         t.x = 20,
         t.y = 564,
         t
@@ -4840,7 +4844,7 @@ generateEUI.paths["resource/eui_skins/PetInfoSkin.exml"] = window.PetInfoSkin = 
         t.scaleX = 1,
         t.scaleY = 1,
         t.source = "ppim_info_imgbtn_show_png",
-        t.visible = !0,
+        t.visible = !1,
         t.x = 350,
         t.y = 0,
         t
@@ -5632,6 +5636,7 @@ generateEUI.paths["resource/eui_skins/view/New/AdvancePetViewSkin.exml"] = windo
         return this.btn2Get = t,
         t.horizontalCenter = 0,
         t.source = "pet_info_manual_imgBtn_get_png",
+        t.visible = !0,
         t.y = 419.74,
         t
     },

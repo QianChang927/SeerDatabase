@@ -547,50 +547,43 @@ function(t) {
         i.prototype.initMainIcon = function() {
             return __awaiter(this, void 0, void 0,
             function() {
-                var e, i, n, o, a, r, s, e, h, g, u, e, l, c, _;
+                var e, i, n, o, a, r, e, s, h, g, e, u, l, c;
                 return __generator(this,
-                function(d) {
-                    switch (d.label) {
+                function(_) {
+                    switch (_.label) {
                     case 0:
-                        if (!config.Active_sort.hasLoader) return config.Active_sort.load(this.initMainIcon, this),
-                        [2];
-                        for (e = 0; e < this._iconList.length; e++) i = this._iconList[e],
-                        i && (i.destroy(), DisplayUtil.removeForParent(i));
-                        return this._iconList.length = 0,
-                        n = config.Active_sort.getItems(),
-                        o = [],
-                        [4, this.xinshouShow()];
+                        return config.Active_sort.hasLoader ? [2] : (config.Active_sort.load(this.initMainIcon, this), [2]);
                     case 1:
-                        return a = d.sent(),
+                        return o = _.sent(),
                         [4, this.backflowShow()];
                     case 2:
-                        for (r = d.sent(), ToolBarManager.isNewSeerIconShow = a, ToolBarManager.isNewSeerIconShow || EventManager.dispatchEventWith("NewSeerDoneTask"), o = [], s = n.filter(function(t) {
+                        for (a = _.sent(), ToolBarManager.isNewSeerIconShow = o, ToolBarManager.isNewSeerIconShow || EventManager.dispatchEventWith("NewSeerDoneTask"), n = [], r = i.filter(function(t) {
                             return t.truepos > 0
-                        }), e = 0; e < s.length; e++) if (h = s[e], (!IS_RELEASE || h.isshow) && !(h.isdeadline && (g = new Date(h.finishtime.replace(/_/g, "/")).getTime(), u = SystemTimerManager.sysBJDate.getTime(), u >= g)) && ("至尊年费" != h.name || !GameInfo.isChecking) && ("新手福利" != h.name || a) && ("老兵回归" != h.name || r)) if (GameInfo.isChecking)("星愿好礼" == h.name || "老兵回归" == h.name) && o.push(h);
+                        }), e = 0; e < r.length; e++) if (s = r[e], (!IS_RELEASE || s.isshow) && !(s.isdeadline && (h = new Date(s.finishtime.replace(/_/g, "/")).getTime(), g = SystemTimerManager.sysBJDate.getTime(), g >= h)) && ("至尊年费" != s.name || !GameInfo.isChecking) && ("新手福利" != s.name || o) && ("老兵回归" != s.name || a)) if (GameInfo.isChecking)("星愿好礼" == s.name || "老兵回归" == s.name) && n.push(s);
                         else {
-                            if ("Unity招募" == h.name) {
+                            if ("Unity招募" == s.name) {
                                 if (this.isShowUnityApply) {
-                                    o.push(h);
+                                    n.push(s);
                                     continue
                                 }
                                 continue
                             }
-                            o.push(h)
+                            n.push(s)
                         }
-                        for (o.filter(function(t) {
+                        for (n.filter(function(t) {
                             return null != t
-                        }), o.sort(function(t, e) {
+                        }), n.sort(function(t, e) {
                             return t.priority - e.priority
-                        }), e = 0; e < o.length; e++) l = new t.MainActButton(o[e]),
-                        l.name = o[e].name,
-                        l.anchorOffsetX = l.width / 2,
-                        l.anchorOffsetY = l.height / 2,
-                        c = Math.floor(e / 6),
-                        _ = e % 6,
-                        l.x = 5 + 78 * c + l.anchorOffsetX,
-                        l.y = 130 + 73 * _ + l.anchorOffsetY,
-                        this.grpTop.addChild(l),
-                        this._iconList.push(l);
+                        }), e = 0; e < n.length; e++) u = new t.MainActButton(n[e]),
+                        u.name = n[e].name,
+                        u.anchorOffsetX = u.width / 2,
+                        u.anchorOffsetY = u.height / 2,
+                        l = Math.floor(e / 6),
+                        c = e % 6,
+                        u.x = 5 + 78 * l + u.anchorOffsetX,
+                        u.y = 130 + 73 * c + u.anchorOffsetY,
+                        this.grpTop.addChild(u),
+                        this._iconList.push(u);
                         return this.updateLeftMenuRedDot(),
                         2 == this.leftMenuState ? this.hideLeftMenu(!0) : this.leftMenuState || (this.leftMenuState = 1, this.btnHideLeftMenu.visible = !0, this.btnShowLeftMenu.visible = !1),
                         [2]
@@ -927,7 +920,7 @@ function(t) {
         }),
         i.prototype.ShowMainPanel = function() {
             var t = this;
-            if (this.btnShow.visible = !1, this.btnHide.visible = !1, this._isShowMainFlag = !0, this.grpMap.visible = !1, this.groupTitle.visible = !1, this.groupLineMask.visible = !1, this.showMapMode = !1, this.grpSeerCoin.visible = !0, this.grpDiamond.visible = !0, GameInfo.isChecking ? (this.btnFriend.visible = !1, this.grpMail.visible = !1, this.grpDiamond.visible = !1, this.grp_leftMenuOp.visible = !1, this.military.visible = !1, this.txtName.x = 90) : this.txtName.x = 133, this._flagFirstScene = !0, MapManager.hideMap(), SoundManager.loadSound().then(function() {
+            if (this.btnShow.visible = !1, this.btnHide.visible = !1, this._isShowMainFlag = !0, this.grpMap.visible = !1, this.groupTitle.visible = !1, this.groupLineMask.visible = !1, this.showMapMode = !1, this.grpSeerCoin.visible = !0, this.grpDiamond.visible = !0, GameInfo.isChecking ? (this.btnFriend.visible = !1, this.grpMail.visible = !1, this.grpDiamond.visible = !1, this.grp_leftMenuOp.visible = !1, this.military.visible = !1, this.txtName.x = 90) : this.txtName.x = 133, this.grp_leftMenuOp.visible = !1, this._flagFirstScene = !0, MapManager.hideMap(), SoundManager.loadSound().then(function() {
                 SoundManager.playMusic()
             }), this.updateLeftMenuRedDot(), AchieveManager.$inited) {
                 var e = AchieveManager.getCurAchieveInfo();
@@ -1588,6 +1581,7 @@ generateEUI.paths["resource/eui_skins/ToolBarSkin.exml"] = window.ToolBarSkin = 
         return this.btnAdd = t,
         t.height = 21,
         t.source = "main_btnAdd_png",
+        t.visible = !1,
         t.width = 21,
         t.x = 129,
         t.y = 5,
@@ -1628,6 +1622,7 @@ generateEUI.paths["resource/eui_skins/ToolBarSkin.exml"] = window.ToolBarSkin = 
         return this.btnHelp = t,
         t.height = 35,
         t.source = "main_panel_btnhelp_png",
+        t.visible = !1,
         t.width = 36,
         t.x = 16,
         t.y = 10,
@@ -1638,7 +1633,7 @@ generateEUI.paths["resource/eui_skins/ToolBarSkin.exml"] = window.ToolBarSkin = 
         return this.btnFriend = t,
         t.height = 30,
         t.source = "main_btnFriend_png",
-        t.visible = !0,
+        t.visible = !1,
         t.width = 35,
         t.x = 0,
         t.y = 3,

@@ -1298,11 +1298,7 @@ function(e) {
             },
             this),
             ImageButtonUtil.add(this.btnBestQuality,
-            function() {
-                StatLogger.log("20240705版本系统功能", "20240705精灵背包", "点击【极品鉴定】按钮"),
-                t.ignoreReshow = !0,
-                ModuleManager.showModule("oneKeyTheBest", ["oneKeyTheBest"], t.curPetInfo, null, AppDoStyle.NULL)
-            },
+            function() {},
             this),
             ImageButtonUtil.add(this.btnAdvance,
             function() {
@@ -1767,7 +1763,7 @@ function(e) {
             this.refreshSkillView(),
             this.refreshMiddleView();
             var i = !!this.curPetInfo;
-            this.btnBestQuality.visible = i,
+            this.btnBestQuality.visible = !1,
             DisplayUtil.setEnabled(this.btnChange, i, !i),
             DisplayUtil.setEnabled(this.btnDevelop, i, !i),
             DisplayUtil.setEnabled(this.btnIntoStorage, i, !i);
@@ -1786,7 +1782,7 @@ function(e) {
                 r.refresh(this.curPetInfo),
                 this.refreshUIOfViewAndMainPanel()
             }
-            this.btnBestQuality.visible = !!this.curPetInfo && !GameInfo.isChecking
+            this.btnBestQuality.visible = !1
         },
         i.prototype.refreshMiddleView = function() {
             var e = this,
@@ -2608,7 +2604,7 @@ function(e) {
                 alpha: 1,
                 duration: .5
             }),
-            this.btnBestQuality.visible = !GameInfo.isChecking,
+            this.btnBestQuality.visible = !1,
             gsap.fromTo(this.btnBestQuality, {
                 alpha: .2
             },

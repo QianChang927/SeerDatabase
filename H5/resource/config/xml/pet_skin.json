@@ -9444,9 +9444,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "万载无量·六界神王",
-                "Go": "103;app/SupermarketPanel",
-                "GoType": "map|module"
+                "Name": "万载无量·六界神王"
             },
             {
                 "SkinKind": [
@@ -11170,9 +11168,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "唯一罪源·龙琰",
-                "Go": "1095;app/PeakJihad2023ShopPanel",
-                "GoType": "map|module"
+                "Name": "唯一罪源·龙琰"
             },
             {
                 "SkinKind": [
@@ -11188,9 +11184,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "森野之息·卡莎",
-                "Go": "app/SeerInterstellarPassportMainPanel",
-                "GoType": "module"
+                "Name": "森野之息·卡莎"
             },
             {
                 "SkinKind": [
@@ -11383,7 +11377,295 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "创世之子",
+                "Name": "创世之子"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 699,
+                "MonID": 4731,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "七天创世者·皮神"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 700,
+                "MonID": 4731,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "皮皮"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 701,
+                "MonID": 4732,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "七天创世神·闪光皮神"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 702,
+                "MonID": 4732,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "闪光皮皮"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 703,
+                "MonID": 3740,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "海洋幻想·沧岚"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 704,
+                "MonID": 4734,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "巨型仙人掌"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 705,
+                "MonID": 3554,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "风翼萌镰"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 706,
+                "MonID": 3888,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "莲漪织梦"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 707,
+                "MonID": 3507,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "月中霜·苍月影"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 708,
+                "MonID": 4745,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "凛夜狩心·阿尔忒弥斯"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 709,
+                "MonID": 4535,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "幽美"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 710,
+                "MonID": 4743,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "纳多雷"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 711,
+                "MonID": 4747,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "光灵之翼·圣颖",
+                "Go": "1095;app/PeakJihad2023MainPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 712,
+                "MonID": 3705,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "风雷之翼·艾里克",
+                "Go": "app/SeerInterstellarPassportMainPanel",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 713,
+                "MonID": 4568,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "幻镜诡术·杰格"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 714,
+                "MonID": 5000,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "至高真神·谱尼",
+                "Go": "app/UnityRemindPop",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 715,
+                "MonID": 3577,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "执行者·英卡洛斯"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 716,
+                "MonID": 4750,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "始祖灵兽",
                 "Go": "103;app/ExchangeDiamondRewardSystemPanel",
                 "GoType": "map|module"
             }

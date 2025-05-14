@@ -1814,7 +1814,7 @@ function(t) {
                 i.data && i.data.popType && PopViewManager.getInstance().openView(new t.HandbookDetailPop(~~i.data.popType))
             }),
             this.addEvent(),
-            this.grpLevel.visible = !GameInfo.isChecking
+            this.grpLevel.visible = !1
         },
         i.prototype.addEvent = function() {
             ImageButtonUtil.add(this.img_pet,
@@ -1854,9 +1854,7 @@ function(t) {
             },
             this),
             ImageButtonUtil.add(this.grpLevel,
-            function() {
-                PopViewManager.getInstance().openView(new t.HandbookDetailPop)
-            },
+            function() {},
             this)
         },
         i.prototype.updateData = function() {
@@ -6136,6 +6134,7 @@ generateEUI.paths["resource/eui_skins/HandBookSkin.exml"] = window.HandBookSkin 
         return this.grpLevel = t,
         t.height = 89,
         t.right = 29,
+        t.visible = !1,
         t.width = 89,
         t.y = 540,
         t.elementsContent = [this.bookBg_i(), this.txt_level_i()],

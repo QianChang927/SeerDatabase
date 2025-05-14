@@ -148,13 +148,7 @@ function(t) {
             },
             this),
             ImageButtonUtil.add(this.best,
-            function() {
-                AwardManager.pause(),
-                PetManager.upDateBagPetInfo(e.ct,
-                function(t) {
-                    ModuleManager.showModule("oneKeyTheBest", ["oneKeyTheBest"], t, null, AppDoStyle.DESTROY)
-                })
-            },
+            function() {},
             this),
             this.updateView()
         },
@@ -166,7 +160,7 @@ function(t) {
                 function(h) {
                     switch (h.label) {
                     case 0:
-                        if (this.showGroup.visible = !1, this.title.visible = this.best.visible = this.ct > 0, GameInfo.isChecking && (this.best.visible = !1), t = PetXMLInfo.getName(this.petId), this.petName.text = t, this.attr.text = "精灵属性：" + PetXMLInfo.getTypeCN(this.petId), this.img_attr.source = ClientConfig.getpettypeticon(PetXMLInfo.getType(this.petId)), this.groupTag.removeChildren(), e = EffectIconControl.getAllEffctByPetId(this.petId), e && (i = e[0].kind, null != i)) for (n = i.toString().split(" ").map(Number), r = 0; r < n.length; r++) o = new eui.Image("pet_bag_tag" + (n[r] + 1) + "_png"),
+                        if (this.showGroup.visible = !1, this.title.visible = this.best.visible = this.ct > 0, GameInfo.isChecking && (this.best.visible = !1), this.best.visible = !1, t = PetXMLInfo.getName(this.petId), this.petName.text = t, this.attr.text = "精灵属性：" + PetXMLInfo.getTypeCN(this.petId), this.img_attr.source = ClientConfig.getpettypeticon(PetXMLInfo.getType(this.petId)), this.groupTag.removeChildren(), e = EffectIconControl.getAllEffctByPetId(this.petId), e && (i = e[0].kind, null != i)) for (n = i.toString().split(" ").map(Number), r = 0; r < n.length; r++) o = new eui.Image("pet_bag_tag" + (n[r] + 1) + "_png"),
                         this.groupTag.addChild(o);
                         return [4, RES.getResByUrl(ClientConfig.getfightPetPng(this.petId + ""), null, null, "image")];
                     case 1:

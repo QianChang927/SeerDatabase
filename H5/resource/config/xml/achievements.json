@@ -6157,7 +6157,7 @@
                                         "icon": 1,
                                         "achName": "观测命运（一）",
                                         "proicon": 1407,
-                                        "Desc": "【量子回廊】通过坍缩域·帕诺全部关卡",
+                                        "Desc": "通过坍缩域·帕诺全部关卡",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -6167,7 +6167,7 @@
                                         "icon": 1,
                                         "achName": "观测命运（二）",
                                         "proicon": 1407,
-                                        "Desc": "【量子回廊】通过坍缩域·卡兰全部关卡",
+                                        "Desc": "通过坍缩域·卡兰全部关卡",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -6177,7 +6177,7 @@
                                         "icon": 1,
                                         "achName": "观测命运（三）",
                                         "proicon": 1407,
-                                        "Desc": "【量子回廊】通过坍缩域·罗格全部关卡",
+                                        "Desc": "通过坍缩域·罗格全部关卡",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -6187,7 +6187,7 @@
                                         "icon": 1,
                                         "achName": "征服命运（一）",
                                         "proicon": 1408,
-                                        "Desc": "【量子回廊】领取坍缩域·帕诺全部三星奖励",
+                                        "Desc": "领取坍缩域·帕诺全部三星奖励",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -6197,7 +6197,7 @@
                                         "icon": 1,
                                         "achName": "征服命运（二）",
                                         "proicon": 1408,
-                                        "Desc": "【量子回廊】领取坍缩域·卡兰全部三星奖励",
+                                        "Desc": "领取坍缩域·卡兰全部三星奖励",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -6209,7 +6209,7 @@
                                         "proicon": 1408,
                                         "SpeNameBonus": 539,
                                         "title": "归一者",
-                                        "Desc": "【量子回廊】领取坍缩域·罗格全部三星奖励",
+                                        "Desc": "领取坍缩域·罗格全部三星奖励",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -6219,7 +6219,7 @@
                                         "icon": 1,
                                         "achName": "完美观测者（一）",
                                         "proicon": 1409,
-                                        "Desc": "【量子回廊】领取过任意一期叠加域“静态基准”全部三星奖励",
+                                        "Desc": "领取过任意一期叠加域“静态基准”全部三星奖励",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -6229,7 +6229,7 @@
                                         "icon": 1,
                                         "achName": "完美观测者（二）",
                                         "proicon": 1409,
-                                        "Desc": "【量子回廊】领取过任意一期叠加域“动域干涉”全部三星奖励",
+                                        "Desc": "领取过任意一期叠加域“动域干涉”全部三星奖励",
                                         "titleColor": "0xFFFFFF"
                                     },
                                     {
@@ -6241,7 +6241,7 @@
                                         "proicon": 1409,
                                         "SpeNameBonus": 540,
                                         "title": "完美观测者",
-                                        "Desc": "【量子回廊】领取过任意一期叠加域“坍缩临界”全部三星奖励",
+                                        "Desc": "领取过任意一期叠加域“坍缩临界”全部三星奖励",
                                         "titleColor": "0xFFFFFF"
                                     }
                                 ],
@@ -13261,6 +13261,72 @@
                                         "title": "太空站勇士",
                                         "Desc": "参与【太空站激励】限时活动获得",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 15,
+                                        "Threshold": 15,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "破晓启程",
+                                        "proicon": 1410,
+                                        "SpeNameBonus": 541,
+                                        "title": "破晓启程",
+                                        "Desc": "穿越时空的旅人，背负着无数赛尔的初心，向宇宙深处启程。",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 16,
+                                        "Threshold": 16,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "重逢之约",
+                                        "proicon": 1411,
+                                        "SpeNameBonus": 542,
+                                        "title": "重逢之约",
+                                        "Desc": "每一个泡泡都是重逢的约定，即使跨越无数回忆。",
+                                        "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 17,
+                                        "Threshold": 17,
+                                        "AchievementPoint": 20,
+                                        "icon": 1,
+                                        "achName": "星海相逢",
+                                        "proicon": 1412,
+                                        "SpeNameBonus": 543,
+                                        "title": "星海相逢",
+                                        "Desc": "在这浩瀚的星海之中，我们终将相逢",
+                                        "titleColor": "0xFFFFFF",
+                                        "AbilityTitle": 1,
+                                        "abtext": "攻击+40，特攻+40，速度+20"
+                                    },
+                                    {
+                                        "ID": 18,
+                                        "Threshold": 18,
+                                        "AchievementPoint": 15,
+                                        "icon": 1,
+                                        "achName": "露希欧幻梦",
+                                        "proicon": 1413,
+                                        "SpeNameBonus": 544,
+                                        "title": "露希欧幻梦",
+                                        "Desc": "承载露希欧星历史的珍贵记忆，送给最重要的你",
+                                        "titleColor": "0xFFFFFF",
+                                        "AbilityTitle": 1,
+                                        "abtext": "防御+30，特防+30，体力+60"
+                                    },
+                                    {
+                                        "ID": 19,
+                                        "Threshold": 19,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "魔王降临",
+                                        "proicon": 1414,
+                                        "SpeNameBonus": 545,
+                                        "title": "魔王降临",
+                                        "Desc": "购买湮灭之主·咤克斯至尊礼包获得",
+                                        "titleColor": "0xFFFFFF",
+                                        "AbilityTitle": 1,
+                                        "abtext": "攻击+20，特攻+20，体力+100"
                                     }
                                 ],
                                 "ID": 166,

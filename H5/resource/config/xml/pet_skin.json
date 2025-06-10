@@ -11633,7 +11633,7 @@
                 "AddWay": 1,
                 "Type": 3,
                 "Name": "至高真神·谱尼",
-                "Go": "app/UnityRemindPop",
+                "Go": "app/FinalActivityPanel",
                 "GoType": "module"
             },
             {
@@ -11665,9 +11665,164 @@
                 "Target": 0,
                 "Occasion": 1,
                 "AddWay": 1,
-                "Name": "始祖灵兽",
-                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
-                "GoType": "map|module"
+                "Name": "始祖灵兽"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 717,
+                "MonID": 4605,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "星系重构·欧根尼克"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 718,
+                "MonID": 4582,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "晓夜星纱·斥星",
+                "Go": "app/FinalActivityPanel",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 719,
+                "MonID": 4647,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "星海誓约·丽莎布布",
+                "Go": "app/FinalActivityPanel",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 720,
+                "MonID": 4648,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "星海誓约·鲁斯王",
+                "Go": "app/FinalActivityPanel",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 721,
+                "MonID": 4649,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "星海誓约·魔焰猩猩",
+                "Go": "app/FinalActivityPanel",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 722,
+                "MonID": 3437,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 2,
+                "Name": "绯羽·艾欧丽娅"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 723,
+                "MonID": 4762,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 18,
+                "Name": "圣堂之拥·咤克斯",
+                "Go": "app/FinalActivityPanel",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 724,
+                "MonID": 4761,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "绝魇魔女·琉梦",
+                "Go": "app/FinalActivityPanel",
+                "GoType": "module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 725,
+                "MonID": 3308,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "北冥·玄武",
+                "Go": "app/FinalActivityPanel",
+                "GoType": "module"
             }
         ]
     }

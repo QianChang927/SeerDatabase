@@ -31596,7 +31596,7 @@ SocketErrorManager = function() {
             EventManager.dispatchEventWith("hide_login_account");
             break;
         case 1965072:
-            a = "请通过页游对应账号的新手任务，才能登录成功。";
+            a = "前往unity端完成新手引导后才可登录。";
             break;
         case 1965073:
             a = "服务器人数达到上限";
